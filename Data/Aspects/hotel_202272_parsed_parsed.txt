@@ -1,0 +1,364 @@
+<Author>mld80
+<Content>Pretty Good       lobby  
+<Date>Jan 6, 2009
+<Rating>4	3	5	5	5	5	4	5	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+2	55(lobby):1	109(pretty):1	
+0	
+
+<Author>Egotisparo
+<Content>Perfect 5-star hotel, but no 5-star palace Just passed three nights there. The 5 stars are justified by the quality of the bed, the size of the room, the choice of restaurants, the excellent noise protection, the impressive size of the lobby and the bar. The spa on the top floor is great: very clean, extremely friendly staff (like in the rest of the hotel). Noteworthy: it is the only really centrally located 5-star hotel in Frankfurt.Breakfast is OK, nothing very special for the high price it is.  
+<Date>Jan 5, 2009
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+26	2(night):1	6(breakfast):1	10(restaurant):1	11(bed):1	19(price):1	21(excellent):1	27(bar):1	55(lobby):1	74(perfect):1	83(size):2	84(locate):1	94(noise):1	103(star):1	107(choice):1	123(ok):1	187(quality):1	208(special):1	400(pass):1	642(palace):1	879(centrally):1	920(impressive):1	1831(5-star):3	1922(frankfurt):1	5463(justified):1	6026(protection):1	8233(noteworthy):1	
+8	0(staff):1	3(clean):1	12(friendly):1	24(floor):1	110(extremely):1	118(top):1	288(rest):1	314(spa):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>yaneh
+<Content>Peaceful oasis I stayed in the Classic room for one night. The room was very well appointed with a very comfortable bed, nespresso coffee machine, heated floor in the bathroom, and pleasant lighting and furniture selections. The location of the hotel was excellent, and only a 5-10 minute walk through the Zeil to the Romerberg and beyond, and right around the corner from the Konstablerwache U-bahn. My only very small nitpicky complaints would be that the window could have been more sound-isolated to block out the street noise, that the bed seemed like the mattress was never rotated and so one side was a little dented, and that they could provide more than 3 measly capsules for the coffee machine without charging extra.  
+<Date>Dec 8, 2008
+<Rating>5	4	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+30	2(night):1	11(bed):2	13(bathroom):1	23(little):1	24(floor):1	25(comfortable):1	35(street):1	90(coffee):2	94(noise):1	100(bloc):1	119(window):1	128(extra):1	136(charge):1	150(pleasant):1	153(provide):1	157(light):1	190(complaint):1	333(selection):1	440(furniture):1	493(machine):2	539(heat):1	579(appoint):1	847(mattress):1	1036(peaceful):1	1383(oasis):1	1789(classic):1	4939(rotate):1	6601(dent):1	9147(nespresso):1	10167(capsule):1	
+8	1(location):1	7(walk):1	21(excellent):1	29(minute):1	200(corner):1	738(beyond):1	2164(u-bahn):1	8648(zeil):1	
+0	
+0	
+0	
+0	
+
+<Author>antonioalbondiga
+<Content>loved the westin frankfurt The Westin has elegance and class without beeing posh and stiff. The staff was wonderfull and the rooms delicate and relaxing. Try the pool/spa bar with a view :-)  
+<Date>Dec 3, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	40(love):1	470(class):1	889(westin):2	1922(frankfurt):1	2255(elegance):1	2530(posh):1	3587(stiff):1	9919(beeing):1	
+0	
+4	0(staff):1	160(relax):1	2901(wonderfull):1	9420(delicate):1	
+0	
+0	
+0	
+4	17(view):1	22(pool):1	27(bar):1	76(try):1	
+0	
+
+<Author>VirtuallyAnywhere
+<Content>Luxury  This was a wonderful hotel at a great price (thanks to the 'internet special' on spg.com). The room was large and comfortable, and the hotel was less than a block from the U-Bahn station where the regional train from the airport stops. Easy connection to the airport for less than 4 euro and easy connection throughout the region by U-bahn or S-Bahn.This was a great final stop on a recent trip to Germany.  
+<Date>Nov 10, 2008
+<Rating>5	5	5	5	5	5	5	3	
+<Aspects>
+5	33(trip):1	122(stop):1	1064(recent):1	1337(final):1	2239(germany):1	
+6	19(price):1	48(wonderful):1	97(internet):1	208(special):1	271(thank):1	437(luxury):1	
+8	93(easy):2	95(airport):1	256(euro):1	445(throughout):1	932(connection):2	2164(u-bahn):1	2821(s-bahn):1	3612(region):1	
+8	25(comfortable):1	82(station):1	95(airport):1	100(bloc):1	122(stop):1	182(train):1	2164(u-bahn):1	7246(regional):1	
+0	
+0	
+0	
+0	
+
+<Author>busjgh
+<Content>Generally very very good This is a great luxury Westin property in the centre of Frankfurt. We had a 'Starwood Preferred Guest' deluxe room on the 5th floor, it was beautiful and neutrally decorated. The king-size bed was amazing, as is the norm in SPG properties. There is a great double-headed shower above the bath which is very welcome in the morning.The gym/spa/pool are located on the 6th floor and although we didn't use these facilities, it all looks very professional.The lobby is a 'great space' very open with some rare vintage cars to stare it.One complaint is the Arabella lounge/bar located behind the reception. The service is very slow both for drinks and food...I would suggest eating and drinking elsewhere if you are in a hurry.If I was in Frankfurt again, I would stay in this hotel.  
+<Date>Nov 10, 2008
+<Rating>5	-1	5	5	5	5	3	4	
+<Aspects>
+1	1922(frankfurt):1	
+6	55(lobby):1	121(car):1	210(space):1	1924(rare):1	2748(stare):1	3454(vintage):1	
+18	11(bed):1	24(floor):1	45(beautiful):1	56(morning):1	61(shower):1	91(guest):1	145(amaze):1	202(welcome):1	214(property):1	226(bath):1	305(decorate):1	536(prefer):1	648(deluxe):1	839(5th):1	1915(starwood):1	2417(king-size):1	2529(norm):1	4097(spg):1	
+10	20(look):1	24(floor):1	84(locate):2	129(reception):1	190(complaint):1	211(facility):1	237(lounge):1	501(professional):1	523(gym):1	1869(6th):1	
+0	
+0	
+13	9(service):1	16(food):1	47(eat):1	63(drink):2	101(center):1	214(property):1	437(luxury):1	452(suggest):1	455(slow):1	646(elsewhere):1	889(westin):1	1922(frankfurt):1	2265(hurry):1	
+0	
+
+<Author>Rhine-and-Roses
+<Content>Torn between problems, and comfort of hotel Courteous clerks and quick check in. They would not change our room to twin beds because it wasn't in our rate, but the hotel did not appear highly occupied, so I cannot imagine why. King bed was fine anyway.Fabulous old cars decorate the lobby and mezzanine. It's worth a trip in to see them.We got to the room (535) and there was a strong odor of perfume. I wondered if the housekeeper had sprayed something to mask an odor. Opened the window and was BLASTED by street noise. We went out for dinner and returned to a smell every bit as strong as the first. I called and asked to change rooms, which they agreed to immediately. They were supposed to send someone up in 15 minutes, but after 3 calls and 30 minutes, we finally got a new room. The new room had a slight sewer odor! We were now late to meet friends because it took so long to move, so we decided to close the bathroom door and see if that took care of the odor It was a very mild odor and closing the door took care of it, except of course, in the bathroom. By the way, four of our five friends who came in later said they could smell it, too, when the bathroom door was open.However, the bathroom had floor heat which could not be turned off, so it was an oven in there. Rooms and bath were immaculate. I am a stickler and I found no reason to complain whatsoever. There was turn down service. Nice coffee maker, too! The bed was really comfortable. Nice linens, bathrobes, slippers, all the amenities you could need and the hotel had a lengthy list of items you could get from the desk. Decided after using the shampoo that someone must have spilled their highly perfumed shampoo somewhere hidden in the first room, because that was the overpowering smell. The bathroom was wired to play the sound from the TV, but it did not work in our room 636. We didn't care, so didn't report it until check out.We asked for a late check out and were initially told no, then yes, probably because she noticed our rate gave 4:00 check out if available. When we did check out, somehow my one night reservation had turned into two and the clerk had a very odd air about her- like she was going to have to tell me I owed for the second night. I had copied my reservation and showed them that it had never been for two nights. End of problem.We were there for the US election event and the hotel did a nice job with keeping 1400 people happy. The set up was appropriate to the function, and there wer plenty of staff to help out. I thought they did very well for such a crowd, plus everything was kept tidy- not easy with that size group! Staff was friendly.We had breakfast in their breakfast room. There was quite a bit of variety and staff immediately available. Most of the food looked and tasted good, but the fruit did not look or taste fresh. Delicious coffee, cordial waiter. Next time I spend the night in Frankfurt, I will probably try another hotel, just because at this price, I really expect to have fewer problems. None was significant, but all together, it was a little cloud following us. On the other hand, Westin beds are the best.  
+<Date>Nov 5, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+17	4(nice):1	23(little):1	26(people):1	33(trip):1	96(worth):1	155(happy):1	241(complain):1	374(reason):1	481(job):1	482(follow):1	573(none):1	1106(event):1	1733(whatsoever):1	2288(cloud):1	2362(significant):1	11137(stickler):1	11806(election):1	
+9	2(night):1	5(time):1	19(price):1	62(expect):1	64(spend):1	76(try):1	178(probably):1	1922(frankfurt):1	4478(fewer):1	
+71	6(breakfast):2	11(bed):4	13(bathroom):5	24(floor):1	25(comfortable):1	28(close):2	29(minute):2	35(street):1	54(door):3	55(lobby):1	67(call):2	78(rate):1	79(late):2	83(size):1	93(easy):1	94(noise):1	113(fine):1	116(tv):1	119(window):1	121(car):1	138(highly):2	146(friend):2	161(change):2	196(meet):1	203(plus):1	207(move):1	219(decide):2	226(bath):1	231(smell):2	242(care):2	243(king):1	270(fabulous):1	293(course):1	305(decorate):1	313(crowd):1	337(except):1	341(finally):1	377(hand):1	386(play):1	409(sound):1	417(anyway):1	447(send):1	473(agree):1	489(immediately):1	539(heat):1	541(appear):1	620(suppose):1	690(twin):1	733(imagine):1	889(westin):1	893(strong):1	894(immaculate):1	946(wonder):1	1051(shampoo):2	1099(spray):1	1100(tidy):1	1195(hide):1	1279(blast):1	1297(slight):1	1591(housekeeper):1	1628(odor):5	1678(occupy):1	1904(wire):1	2916(oven):1	3353(spill):1	3480(mask):1	3882(sewer):1	3928(mild):1	4405(perfume):2	5224(mezzanine):1	5267(overpower):1	
+0	
+14	4(nice):1	36(desk):1	39(return):1	52(bit):1	117(dinner):1	231(smell):1	291(amenity):1	519(item):1	630(linen):1	650(list):1	893(strong):1	1306(slipper):1	1529(bathrobe):1	4206(lengthy):1	
+34	0(staff):3	2(night):3	12(friendly):1	32(check):5	52(bit):1	69(tell):2	78(rate):1	79(late):1	92(help):1	134(available):2	156(reservation):2	158(plenty):1	164(air):1	178(probably):1	234(set):1	242(care):1	250(yes):1	299(quick):1	354(notice):1	413(variety):1	483(courteous):1	489(immediately):1	702(comfort):1	788(clerk):2	838(report):1	1088(odd):1	1439(initially):1	1605(tear):1	1780(function):1	2017(somehow):1	2245(copy):1	2421(appropriate):1	4197(owe):1	6407(wer):1	
+12	4(nice):1	9(service):1	16(food):1	20(look):2	90(coffee):2	197(fresh):1	215(fruit):1	439(taste):2	485(delicious):1	735(waiter):1	996(maker):1	3164(cordial):1	
+0	
+
+<Author>CM002
+<Content>OK but not outstanding I can't quite share the enthusiasm most reviewers have for this hotel. There is nothing wrong with it, but to me it was an average competent 4 star chain hotel, and not a 5 star property as the Grand in the name would have you believe.The decor is fairly bland, though it had the usual very good Westin bedding. Only the classic cars in the lobby give a different touch. The fitness facilities were also not outstanding with only a small pool. Overall, I was disappointed as I would have expected more luxury touches and elegance given its 5 star rating.  
+<Date>Sep 10, 2008
+<Rating>3	3	3	3	4	3	3	-1	
+<Aspects>
+5	123(ok):1	520(share):1	534(outstanding):1	564(reviewer):1	4635(enthusiasm):1	
+16	62(expect):1	70(overall):1	78(rate):1	103(star):3	154(disappoint):1	214(property):1	227(average):1	279(touch):1	295(name):1	312(believe):1	365(grand):1	427(wrong):1	437(luxury):1	627(chain):1	2255(elegance):1	2921(competent):1	
+6	11(bed):1	269(decor):1	462(fairly):1	682(usual):1	889(westin):1	1819(bland):1	
+4	22(pool):1	211(facility):1	534(outstanding):1	983(fitness):1	
+0	
+0	
+4	55(lobby):1	121(car):1	279(touch):1	1789(classic):1	
+0	
+
+<Author>stez867
+<Content>Lovely lovely 5 star hotel spent 1 night at this hotel last week and thoroughly enjoyed. Upon checking in, we were offered late checkout at no charge, which came in hand as we had an 8pm flight out the next day.the room was fabulous, large king size bed with the singature heavenly treatment, and beautiful marble bathroom. we were put on the 6th (top) floor, where the pool  sauna was located, which was extremly convenient. there is no hot tub, but if you look around in the pool you will find buttons on the pool walls which start up massaging jets  air jets, so it's essentially a cold jacuzzi in the pool (better than none!).the hotel is 2 metro stops from the main train station, walkable, but we found the public transportation very easy to use and took a combination of both street  underground trains during our stay there (nearest stop is konstable (spelling?))the staff were very friendly.overall a great stay and would highly recommendfor those flying into/out of frankfurt-i had the quickest ride to the airport for any large city i have ever been to, 15 mins on the S8 or S9 train, direct from the hotel (no transfers). and it cost less than 3 euros per person. very efficient, very quick, easy to find.  
+<Date>Sep 6, 2008
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+3	93(easy):1	299(quick):1	401(efficient):1	
+10	2(night):1	51(enjoy):1	64(spend):1	75(week):1	87(lovely):2	103(star):1	175(cost):1	193(person):1	256(euro):1	898(thoroughly):1	
+17	11(bed):1	13(bathroom):1	22(pool):1	24(floor):1	45(beautiful):1	83(size):1	84(locate):1	118(top):1	186(convenient):1	243(king):1	270(fabulous):1	705(marble):1	1147(treatment):1	1422(sauna):1	1609(heavenly):1	1869(6th):1	3675(extremly):1	
+24	35(street):1	41(city):1	70(overall):1	82(station):1	93(easy):1	95(airport):1	102(near):1	112(main):1	122(stop):2	138(highly):1	182(train):3	218(ride):1	235(metro):1	247(min):1	299(quick):1	379(public):1	614(fly):1	728(transportation):1	803(direct):1	1021(transfer):1	1085(underground):1	1929(combination):1	2197(walkable):1	2792(spell):1	
+0	
+11	0(staff):1	8(day):1	12(friendly):1	32(check):1	79(late):1	89(offer):1	136(charge):1	233(flight):1	377(hand):1	658(checkout):1	9438(8pm):1	
+0	
+14	20(look):1	22(pool):3	114(hot):1	164(air):1	165(start):1	183(wall):1	222(cold):1	311(tub):1	573(none):1	730(massage):1	808(jacuzzi):1	1589(jet):2	2142(button):1	2977(essentially):1	
+
+<Author>jamesmiller
+<Content>Just Okay My stay was just okay. Quite poor for a five star hotel.The food was terrible. Expensive and no taste. The lunch buffet is even worst then at a Highway restaurant. Food is not fresh, cold and no taste... I am not sure but you pay for a business lunch arround 30 euros and get this...Room are very nicely renovate and modern. The welness area is also very nice...If you go there... go out and try an other restaurant.Some of the saff are very arrogant thats also very chocking for a 5 Star hotel.  
+<Date>Aug 29, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	453(okay):2	
+18	16(food):1	42(pay):1	103(star):2	124(expensive):1	147(business):1	151(modern):1	197(fresh):1	222(cold):1	252(lunch):1	256(euro):1	331(poor):1	404(nicely):1	439(taste):2	533(renovate):1	1198(thats):1	3329(arrogant):1	8770(arround):1	9950(chock):1	
+0	
+0	
+0	
+0	
+9	4(nice):1	10(restaurant):2	16(food):1	50(bad):1	76(try):1	77(buffet):1	252(lunch):1	432(terrible):1	1870(highway):1	
+0	
+
+<Author>TobiasDave
+<Content>Check In - feel's like home!       Fruits for welcome  
+<Date>Jul 27, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+2	202(welcome):1	215(fruit):1	
+0	
+0	
+0	
+0	
+3	32(check):1	34(feel):1	141(home):1	
+0	
+0	
+
+<Author>mtgplannerhh
+<Content>Excellent Meeting Hotel The Westin Grand was perfect for my meeting-close to the airport, great sight-seeing location. The staff was very attentive and friendly. I have no complaints. It is my favorite European hotel!  
+<Date>Jul 22, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	190(complaint):1	376(favourite):1	582(european):1	
+0	
+0	
+8	1(location):1	21(excellent):1	74(perfect):1	95(airport):1	196(meet):1	365(grand):1	640(sight-see):1	889(westin):1	
+0	
+3	0(staff):1	12(friendly):1	537(attentive):1	
+0	
+0	
+
+<Author>sburke14
+<Content>Exceptional Business Venue I had no expereince of this hotel before my business trip and only booked it as a consequence of the convention team being so professional in their response to me concerning the availability of conference facilities. This was certainly my good fortune as I seem to have found the perfect venue for meetings in Frankfurt. As the main reason for being there was business, it's only fair to address this aspect first. Just one word sums it up .... professional. I didn't have to worry about a thing. Everything was organised as arranged, no fuss, perfect. The hotel generally ... hotel reception is excellent, freindly staff offering a nice welcome. Room was great, huge bed, espresso machine, lcd tv, desk... just as you would expect in a business city hotel. Bathroom not the best i have experienced in Germany. Slightly smaller than i would have expected, didn't get a floor mat change on my second day, could have been cleaned a little better ( or am i just being fussy ?). Bar is great, staff attentive. Breakfast very good, wide range of choice. Restaurant ( Aqua terra? ) superb, food was superb - of the very highest quality, the team in the restaurant were very good ( they would be a credit to Gordon Ramsay ! ). The restaurant would score 100% if it were not for the lack of bread offered during our lunch on the first day ( we were offered it the second day )... so only 95 % ! Finally, the Wellness centre was well equipped and almost empty . I didn't venture into the pool - sorry !  
+<Date>Jul 18, 2008
+<Rating>5	5	5	5	4	5	5	5	
+<Aspects>
+15	22(pool):1	74(perfect):2	501(professional):1	571(word):1	680(arrange):1	831(worry):1	891(sorry):1	1167(organize):1	1440(venture):1	1651(sum):1	1922(frankfurt):1	2190(venue):1	2205(fuss):1	2346(meeting):1	2490(fortune):1	
+4	6(breakfast):1	107(choice):1	714(range):1	860(wide):1	
+26	3(clean):1	8(day):1	11(bed):1	13(bathroom):1	23(little):1	24(floor):1	36(desk):1	41(city):1	44(experience):1	62(expect):2	112(main):1	116(tv):1	133(huge):1	147(business):2	161(change):1	374(reason):1	493(machine):1	598(slightly):1	739(fair):1	1255(aspect):1	1312(address):1	1773(lcd):1	1867(fussy):1	2239(germany):1	2324(espresso):1	2582(mat):1	
+15	18(book):1	33(trip):1	147(business):2	211(facility):1	496(concern):1	501(professional):1	794(conference):1	837(exceptional):1	1008(team):1	1048(convention):1	1330(response):1	2073(availability):1	2190(venue):1	7357(consequence):1	7430(expereince):1	
+0	
+9	0(staff):2	4(nice):1	21(excellent):1	27(bar):1	89(offer):1	129(reception):1	202(welcome):1	537(attentive):1	2779(freindly):1	
+16	8(day):2	10(restaurant):3	16(food):1	89(offer):2	187(quality):1	252(lunch):1	349(lack):1	407(superb):2	497(bread):1	659(credit):1	1008(team):1	1735(aqua):1	3030(score):1	6517(gordon):1	11370(ramsay):1	12760(terra):1	
+5	101(center):1	341(finally):1	810(empty):1	884(equip):1	6418(wellness):1	
+
+<Author>Onmessage1
+<Content>Two great stays! This is a first-rate Westin property. I spent two separate nights here and, on both occasions, I got a beautiful and very quiet, well-appointed room. It is true the Westins these days are pretty much all the same but at least you know what to expect! This property also has a fantastic gym and lap pool. I would highly recommend.  
+<Date>Jul 12, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	8(day):1	15(recommend):1	62(expect):1	109(pretty):1	138(highly):1	889(westin):1	
+0	
+7	2(night):1	45(beautiful):1	58(quiet):1	64(spend):1	474(separate):1	871(occasion):1	2440(well-appoint):1	
+0	
+0	
+0	
+7	22(pool):1	86(fantastic):1	214(property):2	523(gym):1	889(westin):1	2432(lap):1	5649(first-rate):1	
+0	
+
+<Author>Aburel
+<Content>Very good stay Stayed in Westin even years ago when it was Arabella Grand and I was really happy to see that still is a nice hotel. Executive rooms are really great, spacious, beds are confortable and the espresso machine existing in the room gives you a nice time. At the time of my most recent visit, in the lobby was showing a vintage car exhibition which was really great. The only thing I don not recommend is a not refurbished room, which is not at all a deal. Not to forget, take 15 to 20 minutes time to walk to the financial district, especially in the morning when shops on Zeil are preparing to open.  
+<Date>Jun 26, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+5	4(nice):1	155(happy):1	365(grand):1	633(ago):1	889(westin):1	
+0	
+13	4(nice):1	5(time):1	11(bed):1	15(recommend):1	111(spacious):1	140(deal):1	493(machine):1	872(executive):1	908(don):1	1253(refurbish):1	2039(exist):1	2324(espresso):1	2435(confortable):1	
+11	5(time):1	7(walk):1	29(minute):1	49(shop):1	56(morning):1	126(especially):1	397(forget):1	433(district):1	460(prepare):1	1746(financial):1	8648(zeil):1	
+0	
+0	
+7	5(time):1	55(lobby):1	65(visit):1	121(car):1	1064(recent):1	3454(vintage):1	4808(exhibition):1	
+0	
+
+<Author>Alexandre2008
+<Content>Great Concierge Experience I have been at this hotel quite a number of times. Besides it's great location and excellent service you also have a very professinal group of Concierge Staff that is always there to look after your needs.  
+<Date>May 14, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+4	5(time):1	44(experience):1	204(concierge):1	335(numb):1	
+0	
+0	
+0	
+7	0(staff):1	1(location):1	9(service):1	20(look):1	21(excellent):1	204(concierge):1	1332(besides):1	
+0	
+0	
+
+<Author>smokeyjoeIreland
+<Content>Modern and Clean I stayed here in early 2008. The hotel is a showcase of a renovated, modern hotel should be. The lobby alone will keep you occupied with a display of various vintage cars, and the bar has more cocktails than you can imagine. The room was very nice, the bed being top of the praise list. My only off-putting feature was that there were renovations happening in the room next to mine, without notice, and the work got quite loud at times. I would not let this put me off my whole experience though.  
+<Date>Apr 20, 2008
+<Rating>2	4	5	2	5	4	4	5	
+<Aspects>
+3	151(modern):1	533(renovate):1	10618(showcase):1	
+1	44(experience):1	
+13	4(nice):1	5(time):1	11(bed):1	118(top):1	354(notice):1	382(happen):1	416(loud):1	650(list):1	687(renovation):1	731(feature):1	1269(mine):1	2053(praise):1	7535(off-putt):1	
+0	
+2	3(clean):1	151(modern):1	
+0	
+9	27(bar):1	55(lobby):1	121(car):1	716(cocktail):1	733(imagine):1	823(various):1	1678(occupy):1	1917(display):1	3454(vintage):1	
+0	
+
+<Author>dhammer53
+<Content>Nice place - good location Beautiful room and bathroom. I think the word 'elegant' comes to mind.Down the block from the tube/subway. About a 5 minute walk to the old city and the river.Internet access is very expensive. If you walk out of the front door of the hotel, then make 2 fast rights, there's a very cheap place to use the internet... and... make cheap international phone calls. I stayed her using my Starwood hotel points. Can't go wrong at this Westin. Top notch.  
+<Date>Apr 3, 2008
+<Rating>5	5	5	5	5	5	-1	3	
+<Aspects>
+7	118(top):1	294(mind):1	427(wrong):1	571(word):1	889(westin):1	986(elegant):1	1227(notch):1	
+10	7(walk):1	31(front):1	54(door):1	67(call):1	97(internet):1	143(cheap):2	296(phone):1	499(fast):1	903(international):1	1915(starwood):1	
+4	1(location):1	4(nice):1	13(bathroom):1	45(beautiful):1	
+6	7(walk):1	29(minute):1	41(city):1	100(bloc):1	710(river):1	1310(tube):1	
+0	
+0	
+0	
+3	97(internet):1	124(expensive):1	159(access):1	
+
+<Author>hebnerdo
+<Content>Great Concierge service The Westin Grand is a very nice hotel. The service was excellent, rooms were nice...expresso machine in the room, heated floors in the bathroom..some very nice touches. Within walking distance of Old town.Michael Beck was the concierge during our stay. He recommended several very good restaurants and got us our train tickets that we needed for Hamburg. He was most helpful as were the other staff.We recommend the Westin Grand.  
+<Date>Apr 1, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+5	4(nice):1	15(recommend):1	279(touch):1	365(grand):1	889(westin):1	
+0	
+8	4(nice):1	9(service):1	13(bathroom):1	21(excellent):1	24(floor):1	493(machine):1	539(heat):1	2324(espresso):1	
+7	7(walk):1	10(restaurant):1	15(recommend):1	115(distance):1	182(train):1	239(town):1	621(ticket):1	
+0	
+9	0(staff):1	4(nice):1	9(service):1	14(helpful):1	204(concierge):2	365(grand):1	889(westin):1	1908(michael):1	9055(beck):1	
+0	
+0	
+
+<Author>old3
+<Content>Super Stay Spent a Saturday night here and thoroughly enjoyed my stay. GREAT location, especially for the S-Bahn and U-Bahn, the Zell, and the historic area. Room was lovely and comfortable. Staff was charming. Did not eat there, so can't rate the restaurants (I rarely eat at hotels, preferring to experience local favorites [and usually save money, too]).  
+<Date>Feb 24, 2008
+<Rating>5	4	5	5	5	5	5	-1	
+<Aspects>
+6	2(night):1	51(enjoy):1	64(spend):1	464(super):1	818(saturday):1	898(thoroughly):1	
+11	10(restaurant):1	44(experience):1	47(eat):2	78(rate):1	80(money):1	195(local):1	376(favourite):1	399(usually):1	425(save):1	536(prefer):1	1791(rarely):1	
+2	25(comfortable):1	87(lovely):1	
+5	1(location):1	126(especially):1	1274(historic):1	2164(u-bahn):1	2821(s-bahn):1	
+0	
+2	0(staff):1	332(charm):1	
+0	
+0	
+
+<Author>iamboku
+<Content>Great Hotel, Great People!! While the room was Great (high tech, new, clean, fantastic view), the most impressive thing about this hotel is the people who work there. Every single person we met, from the people at the reception desk, people cleaning the room, doorman, people in the restaurant, etc... they were all friendly and helpful and had a smile. We travel allot and finding such a friendly helpful staff is not that common. I will stay here again and recommend it highly!!Oh yeah, the food was delicious too:)  
+<Date>Feb 13, 2008
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+6	12(friendly):1	14(helpful):1	15(recommend):1	26(people):1	138(highly):1	387(smile):1	
+0	
+6	3(clean):1	17(view):1	26(people):1	86(fantastic):1	920(impressive):1	3836(tech):1	
+0	
+0	
+16	0(staff):1	3(clean):1	10(restaurant):1	12(friendly):1	14(helpful):1	26(people):3	36(desk):1	68(travel):1	73(etc):1	129(reception):1	193(person):1	196(meet):1	304(single):1	830(common):1	998(doorman):1	6061(allot):1	
+3	16(food):1	485(delicious):1	2009(yeah):1	
+0	
+
+<Author>Ozzard
+<Content>Homecoming in Frankfurt I stayed at the Westin for a business trip. Don't know what the Westin was like before the renovation, but I sure enjoyed the way it looks now. A stylish entree, modern minimalistic, functional and warm rooms. Loved the espresso machines. The presence of a pool and gym are always a must for me, the sauna a nice extra.Apparently there is a choice of restaurants in the hotel. I took my clients to the Chinese one with a surprising design and great value.I didn't make it to the around the corner shopping area but I bet my wife would have loved the location in the city center.Expected the German the staff to be efficient, which they certainly were, however was positively surprised about the friendliness throughout the entire hotel. Surely a place where I will return when back in Frankfurt.  
+<Date>Feb 2, 2008
+<Rating>5	5	5	5	5	4	5	5	
+<Aspects>
+3	39(return):1	1922(frankfurt):1	2033(surely):1	
+8	10(restaurant):1	81(value):1	107(choice):1	199(surprise):1	516(design):1	764(chinese):1	863(apparently):1	1952(client):1	
+10	20(look):1	51(enjoy):1	151(modern):1	236(warm):1	687(renovation):1	889(westin):1	961(stylish):1	1348(functional):1	2451(entree):1	5981(minimalistic):1	
+12	1(location):1	33(trip):1	40(love):1	41(city):1	49(shop):1	101(center):1	147(business):1	184(wife):1	200(corner):1	889(westin):1	1821(bet):1	1922(frankfurt):1	
+0	
+9	0(staff):1	62(expect):1	199(surprise):1	329(entire):1	401(efficient):1	445(throughout):1	1382(german):1	1754(friendliness):1	4876(positively):1	
+6	4(nice):1	22(pool):1	128(extra):1	523(gym):1	1422(sauna):1	3096(presence):1	
+3	40(love):1	493(machine):1	2324(espresso):1	
+
+<Author>maximator2008
+<Content>Amazing product after refurbishmnet The hotel was refurbished in 2007 and they did a great job. It is amazing how the atmosphere and the design changed. Very modern Westin style and still the luxury service you are experiencing when staying there.  
+<Date>Jan 30, 2008
+<Rating>5	5	5	4	5	4	5	5	
+<Aspects>
+4	145(amaze):1	481(job):1	1081(product):1	1253(refurbish):1	
+10	9(service):1	44(experience):1	145(amaze):1	151(modern):1	161(change):1	326(style):1	414(atmosphere):1	437(luxury):1	516(design):1	889(westin):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>christiechicago
+<Content>amazing 5 star service I am traveling quite often and I actually never take the time to write a review about a hotel - but I think this one really deserves it.great location, friendly atmosphere and great beds they are truly heavenly. In one word my trip was just perfect.  
+<Date>Jan 29, 2008
+<Rating>5	5	5	5	5	4	5	5	
+<Aspects>
+3	33(trip):1	74(perfect):1	571(word):1	
+6	1(location):1	11(bed):1	12(friendly):1	414(atmosphere):1	476(truly):1	1609(heavenly):1	
+0	
+0	
+0	
+0	
+9	5(time):1	9(service):1	37(review):1	68(travel):1	103(star):1	145(amaze):1	180(actually):1	344(write):1	1072(deserve):1	
+0	
+
+<Author>HiIslandsGuy
+<Content>Great Rooms, Great Location The newly renovated Westin Grand Frankfurt has comfortable, stylish rooms with all of the amenities one would expect of a Westin. The bathrooms are spacious and elegantly furnished. There are, of course, the heavenly beds, and the desk is quite well designed. The desk chair is comfortable enough to use for several hours of work. The Internet connection is quite expensive, however. My room had but one small window; I would have liked to have had more, even if there is nothing special to view.The hotel's housekeeping is meticulous and all the staff are extraordinarily service oriented, from the bellmen to the front desk to the restaurant. The breakfast buffet is extensive, carefully prepared and quite delicious, although a little pricey.On one morning of my stay there was no hot water. They told me the problem would be remedied in a few hours and it was.One of the things I like the best about this hotel is its location. It is an easy walk to MANY excellent, small restaurants-- from Thai to German to Italian to sushi to Indian. An excellent shopping district is five minutes away. It is also a short, 7-8 minute walk to seveal of the museums. And if you're visiting in December, a Christmas market starts just two blocks away.  
+<Date>Jan 16, 2008
+<Rating>4	5	5	5	5	5	5	3	
+<Aspects>
+6	56(morning):1	57(water):1	60(hour):1	69(tell):1	114(hot):1	3558(remedy):1	
+6	65(visit):1	100(bloc):1	165(start):1	264(market):1	962(christmas):1	993(december):1	
+24	1(location):1	11(bed):1	13(bathroom):1	17(view):1	25(comfortable):2	36(desk):2	60(hour):1	62(expect):1	111(spacious):1	119(window):1	198(chair):1	208(special):1	291(amenity):1	293(course):1	365(grand):1	516(design):1	533(renovate):1	787(furnish):1	889(westin):2	961(stylish):1	1189(newly):1	1609(heavenly):1	1922(frankfurt):1	4493(elegantly):1	
+15	1(location):1	7(walk):2	10(restaurant):1	21(excellent):2	29(minute):2	49(shop):1	93(easy):1	144(short):1	358(italian):1	433(district):1	507(museum):1	1382(german):1	1632(sushi):1	2393(thai):1	2805(indian):1	
+0	
+10	0(staff):1	9(service):1	10(restaurant):1	31(front):1	36(desk):1	367(housekeeping):1	1105(bellman):1	2385(orient):1	5043(extraordinarily):1	7704(meticulous):1	
+8	6(breakfast):1	23(little):1	77(buffet):1	460(prepare):1	485(delicious):1	546(pricey):1	1703(extensive):1	2523(carefully):1	
+3	97(internet):1	124(expensive):1	932(connection):1	
+
+<Author>Paris03
+<Content>Design a tous les 茅tages       Bathroom  
+<Date>Sep 4, 2008
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+0	
+0	
+4	13(bathroom):1	505(age):1	516(design):1	3304(les):1	
+0	
+0	
+0	
+0	
+0	
+

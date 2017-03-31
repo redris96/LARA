@@ -1,0 +1,588 @@
+<Author>FatAlaskan
+<Content>Disappointing facility and personnel Stayed 9/22-23/08. We were four couples travelling together, booked by the same travel agent. Room was dinky, and it was one of the larger of two sizes offered; we were the only room with a fan, and needed one badly (A/C) would have been nice; we need a refrigerator/freezer for medicines, were told the restaurant refer/freezer would be available; turns out the restaurant folks didn't care much for that, they had done a lot of painting without marking fresh areas, so I ruined a shirt trying to get to the refer/freezer. Free breakfast is choice A or B, no menu; Service in restaurant was slow, with a sultry server. Front desk person (man) was rude when asked about internet use, getting medicine from refer/freezer. Phone calls are billed whether they are connected or not. Hotel is next door to male strip club with heavy outdoor advertising.Won't be staying there again. Will advise agent to not book others there.  
+<Date>Nov 1, 2008
+<Rating>1	3	2	3	2	3	2	1	
+<Aspects>
+5	67(call):1	296(phone):1	487(wo):1	495(bill):1	841(connect):1	
+0	
+21	4(nice):1	10(restaurant):2	38(lot):1	69(tell):1	76(try):1	83(size):1	89(offer):1	134(available):1	197(fresh):1	242(care):1	661(fan):1	806(paint):1	882(mark):1	916(refrigerator):1	1050(folk):1	1243(ruin):1	1663(badly):1	1844(shirt):1	2297(refer):2	3626(medicine):1	9620(dinky):1	
+3	154(disappoint):1	211(facility):1	1457(personnel):1	
+0	
+7	31(front):1	36(desk):1	97(internet):1	193(person):1	392(rude):1	2297(refer):1	3626(medicine):1	
+20	6(breakfast):1	9(service):1	10(restaurant):1	18(book):2	46(free):1	54(door):1	68(travel):2	99(couple):1	107(choice):1	212(club):1	423(menu):1	455(slow):1	663(advise):1	766(agent):2	901(outdoor):1	910(advertise):1	1186(heavy):1	1379(strip):1	1540(server):1	2295(male):1	
+0	
+
+<Author>Corpus
+<Content>Vraiment Francais! This hotel in SF is real French! Lavishly decorated hallways and rooms and a French landlady. Our room was relatively spacious for two adults and a 2-year-old, with a bathtub/shower and all necessary amenities. Breakfast is included in the price and served in Jeanne d'arc, the basement French restaurant. The breakfast is simple but sufficient and not lacking in quality. Tips are not included.The hotel is situated very conviniently, 30 meters from a cable car stop and within walking distance of Union Square (shopping galore!), Chinatown (2-3 blocks) and Market Street (4-5 blocks). The neighbourhood is nice, we experienced no problems walking there at nighttime.  
+<Date>Oct 22, 2008
+<Rating>4	4	4	5	4	4	3	4	
+<Aspects>
+6	71(include):1	194(tip):1	240(real):1	254(french):1	802(sf):1	9817(francais):1	
+10	4(nice):1	6(breakfast):1	7(walk):1	44(experience):1	187(quality):1	349(lack):1	421(neighbourhood):1	613(simple):1	1713(sufficient):1	3701(night-time):1	
+9	111(spacious):1	254(french):1	291(amenity):1	305(decorate):1	556(adult):1	580(hallway):1	913(relatively):1	1023(bathtub):1	12540(lavishly):1	
+15	7(walk):1	35(street):1	49(shop):1	100(bloc):2	115(distance):1	121(car):1	122(stop):1	139(square):1	264(market):1	451(union):1	484(cable):1	574(situate):1	1132(chinatown):1	1194(metre):1	4216(galore):1	
+0	
+0	
+8	6(breakfast):1	10(restaurant):1	19(price):1	71(include):1	174(serve):1	254(french):1	1568(basement):1	8284(jeanne):1	
+0	
+
+<Author>nurselindam
+<Content>Charming place I was a little leary coming to Hotel Cornell because I had read differing reviews. My husband and I got away for our anniversary and my husband is oh so frugal that I was fearful. What a pleasant surprise Hotel Cornell was for us. The room we booked was the smallest but it was just right for us. The mattress and sheets on the bed were very very comfortable. The shower had plenty of hot water with a strong stream of water. The room was tucked away in a quiet location so noise was not even a concern. The intricate paintings all over the hotel were marvelous. The restaraunt in the basement was perfectly decorated. Breakfast was great and started with a cold glass of juice, a different juice every morning. We reserved a dinner our last night in the restarant which was fabulous. Dessert was unbeatable. Yes there is a male review next door but we did not see any unsavory characters around the hotel like we saw at Fishermans Wharf and at Union Square. The hotel is very close to Chinatown, multiple pubs and the cable cars. My husband did not want to write a review because he did not want to let others know what a neat place this was and ruin it for us on a next visit.  
+<Date>Oct 3, 2008
+<Rating>4	5	5	5	5	5	5	5	
+<Aspects>
+17	23(little):1	37(review):2	65(visit):1	88(read):1	105(husband):1	150(pleasant):1	199(surprise):1	332(charm):1	344(write):1	1180(dessert):1	1243(ruin):1	1286(neat):1	2187(marvelous):1	2303(unbeatable):1	2994(painting):1	5380(leary):1	12663(cornell):2	
+4	105(husband):2	804(anniversary):1	9738(fearful):1	9835(frugal):1	
+30	1(location):1	11(bed):1	18(book):1	25(comfortable):1	37(review):1	54(door):1	57(water):2	58(quiet):1	61(shower):1	94(noise):1	114(hot):1	139(square):1	158(plenty):1	250(yes):1	305(decorate):1	451(union):1	479(sheet):1	496(concern):1	595(perfectly):1	784(wharf):1	847(mattress):1	893(strong):1	1049(character):1	1568(basement):1	2091(tuck):1	2198(fishermans):1	2295(male):1	2888(restaraunt):1	3714(stream):1	8428(unsavory):1	
+6	28(close):1	121(car):1	484(cable):1	1132(chinatown):1	1393(pub):1	1732(multiple):1	
+0	
+0	
+11	2(night):1	6(breakfast):1	56(morning):1	117(dinner):1	165(start):1	222(cold):1	270(fabulous):1	327(glass):1	362(juice):2	506(reserve):1	8339(restarant):1	
+0	
+
+<Author>haleygolightly
+<Content>Seriously Sub-par Upon arrival, this BB seemed alright. When checking in to the room, I was asked to pay a rate that was above anything listed on the website. When I inquired as to why, the clerk told me that since it's a busy weekend they could up the prices without notice. Fine. Then I handed over my AAA card and she told me they couldn't accept it because they had already given me a $5 discount. So basically, they could have named any price and told me I had already been given some sort of discount. Then we got to our room. It was packed with what can only be described as a full-sized bed, NOT a queen like we had requested and another twin bed which we had not requested. The bathroom was stark white and pretty depressing. Very industrial and cold. The room was poorly decorated and the carpet and bedding were full of stains. For the price, I probably could have found something better had I known. Please take my advice and look elsewhere in SF.  
+<Date>Sep 19, 2008
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	20(look):1	113(fine):1	173(please):1	222(cold):1	224(arrival):1	575(advice):1	646(elsewhere):1	802(sf):1	1441(seriously):1	2130(all right):1	2380(bb):1	3256(industrial):1	4827(sub-par):1	
+20	19(price):3	32(check):1	42(pay):1	69(tell):3	78(rate):1	172(weekend):1	178(probably):1	220(busy):1	262(website):1	292(card):1	295(name):1	354(notice):1	377(hand):1	557(sort):1	650(list):1	788(clerk):1	790(basically):1	864(discount):2	1247(accept):1	1704(inquire):1	
+16	11(bed):3	13(bathroom):1	109(pretty):1	148(request):2	305(decorate):1	396(carpet):1	466(white):1	543(Queen):1	690(twin):1	715(pack):1	723(stain):1	955(describe):1	1635(poorly):1	2189(depress):1	4380(stark):1	4389(full-size):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>delilah86
+<Content>Awful! Myself and my partner stayed at the Cornell for two nights at the end of August. The standard of accommodation and service offered by this hotel was absolutely unacceptable.The d茅cor is shabby and scruffy 鈥?it urgently needs refurbishment and the French theme is tacky and badly executed. We had been warned that our room was small, but we were not prepared for the tiny window (which could not be opened), the dingy shower room and the blanket so scruffy that it had to be relegated to the corner of the room for the duration of our stay. The dressing table/vanity unit was riddled with wood lice. Although we didn't see any cockroaches or mice, we had serious doubts as to the cleanliness of the premises. Its the type of place where you don't want to look under the bed!The demeanor of the staff is arrogant and unhelpful. At check in a member of staff made a mildly racist comment. This was a complete contrast to the excellent service we received during the rest of our holiday in California. At checkout I suddenly realized that my credit card was missing, which caused me a certain amount of anxiety. Upon seeing me realize that I could not find my card, the receptionist unhelpfully and insensitively commented 鈥渨ell at least you'll be able to pay our bill 鈥?I have your credit card authorization鈥? Of course, our ability to pay the hotel bill had never been in question as my partner also had a credit card (as she should have guessed). When I asked her whether I could use the phone to call my credit card company, she informed me that I would have to go back to the bedroom which we had just checked out of. We ascertained immediately that the purpose of this was to ensure that she could charge us for the phone call and predictably, when we came back down to reception after making a very short (albeit international) call to each of the bank and the credit card issuer, she proceeded to charge us $26, which is an extortionate figure, even taking into account the fact that hotel phone charges tend to be expensive. Needless to say, we deemed this an extraordinarily poor way of handling a situation.Unusually the hotel does provide a cooked breakfast which is served in the dungeon-like restaurant. The food at breakfast is, surprisingly, good. The location of the hotel is central and a good base for tourist attractions, though I did not feel at all safe walking up the street alone, even in daylight hours. I should say that the building next door is an 鈥渁dult鈥?theater.I would not recommend the Cornell under any circumstances. We stayed in eight hotels in eight different locations during our vacation in California and this was the worst by far (and one of the most expensive). Travelers can do better in San Francisco!  
+<Date>Sep 7, 2008
+<Rating>1	1	1	4	1	1	1	3	
+<Aspects>
+32	2(night):1	15(recommend):1	54(door):1	135(build):1	177(san):1	229(table):1	254(french):1	267(traveler):1	331(poor):1	355(francisco):1	635(theater):1	736(awful):1	890(situation):1	935(dress):1	966(handle):1	980(unit):1	1006(partner):1	1118(theme):1	1319(shabby):1	1327(wood):1	1356(needless):1	1663(badly):1	2253(refurbishment):1	2406(tacky):1	3043(circumstance):1	5043(extraordinarily):1	5529(scruffy):1	6811(execute):1	8658(deem):1	10221(urgently):1	11495(riddle):1	12663(cornell):2	
+11	1(location):1	9(service):1	50(bad):1	89(offer):1	124(expensive):1	130(standard):1	131(vacation):1	189(absolutely):1	721(accommodation):1	1656(california):1	2230(unacceptable):1	
+22	11(bed):1	20(look):1	32(check):1	61(shower):1	67(call):1	119(window):1	200(corner):1	268(bedroom):1	292(card):1	296(phone):1	338(tiny):1	389(type):1	460(prepare):1	659(credit):1	679(warn):1	760(company):1	817(inform):1	1369(blanket):1	1749(dingy):1	2961(duration):1	5529(scruffy):1	11903(relegate):1	
+11	1(location):1	7(walk):1	34(feel):1	35(street):1	60(hour):1	137(safe):1	168(central):1	209(tourist):1	284(base):1	350(attraction):1	3579(daylight):1	
+6	854(cleanliness):1	952(doubt):1	1469(serious):1	1989(premiss):1	2110(cockroach):1	2766(mouse):1	
+45	0(staff):2	32(check):1	42(pay):2	67(call):2	124(expensive):1	129(reception):1	136(charge):3	144(short):1	171(able):1	276(miss):1	292(card):5	293(course):1	296(phone):2	356(comment):2	394(question):1	469(guess):1	489(immediately):1	495(bill):2	607(realize):2	658(checkout):1	659(credit):4	666(amount):1	779(figure):1	855(receptionist):1	903(international):1	943(cause):1	1006(partner):1	1053(tend):1	1225(bank):1	1293(ensure):1	1428(purpose):1	1618(unhelpful):1	1730(account):1	2083(albeit):1	2150(proceed):1	2753(ability):1	3296(suddenly):1	3329(arrogant):1	5733(mildly):1	5932(extortionate):1	7150(demeanor):1	8051(authorization):1	8321(anxiety):1	11611(ell):1	11831(racist):1	
+16	6(breakfast):2	9(service):1	10(restaurant):1	16(food):1	21(excellent):1	153(provide):1	174(serve):1	223(holiday):1	288(rest):1	302(receive):1	550(cook):1	622(complete):1	1375(surprisingly):1	1656(california):1	2835(contrast):1	3639(unusually):1	
+0	
+
+<Author>mohicans
+<Content>An amazing place - in an amazing place What a treat this was. Sometimes things look better on the internet than they do in Real Life - not so in this case. The real thing is much better than it looks on line.This property is historic - almost 100 years old. It has an old fashioned elevator and rooms that are up to date, however with the integrity of the building's history intact. Very tastefully and elegantly decorated - all things French. The staff are friendly, but not in-your-face. The breakfast that is included is the best we had in California - and we toured the entire coast. If you have the money, don't miss out on the set menu dining experience in the resaurant - it is outstanding. Have a glass of wine - their house white is the best I've ever had. The location can't be beat - hop a cable car a couple of doors down. Or walk down the hill to Union Square. We will not stay anywhere else now, I think we really found a gem with this place!  
+<Date>Aug 26, 2007
+<Rating>5	5	4	5	5	4	4	3	
+<Aspects>
+5	20(look):1	145(amaze):2	188(line):1	240(real):1	320(treat):1	
+8	44(experience):1	80(money):1	234(set):1	276(miss):1	316(dine):1	423(menu):1	534(outstanding):1	9276(resaurant):1	
+12	7(walk):1	139(square):1	251(wine):1	254(french):1	281(house):1	305(decorate):1	327(glass):1	451(union):1	466(white):1	756(hill):1	1526(tastefully):1	4493(elegantly):1	
+7	1(location):1	54(door):1	99(couple):1	121(car):1	442(beat):1	484(cable):1	1151(hop):1	
+0	
+2	0(staff):1	12(friendly):1	
+17	6(breakfast):1	71(include):1	135(build):1	170(else):1	181(tour):1	214(property):1	216(elevator):1	329(entire):1	511(date):1	805(gem):1	1274(historic):1	1490(history):1	1656(california):1	1682(coast):1	1745(fashion):1	7344(intact):1	10218(integrity):1	
+5	20(look):1	97(internet):1	240(real):1	426(life):1	560(sometimes):1	
+
+<Author>Arapahoe
+<Content>So-so experience I stayed at the Cornell Hotel de France several years ago and enjoyed it. However, when I returned for a five-day stay from August 16th through the 21st of 2007, I was disappointed. My daughter had booked a cozy room with one queen bed because that was the only room available that weekend. Our one window opened onto a ventilation shaft, which was unattractive and provided no ventilation. The overhead fan helped some, but it was too hot to sleep well. Since the room wasn't on the street, it was quiet. I never missed air conditioning in San Francisco before, but it was a problem this time.The owners are a French couple who seem rather bored and bothered when you ask them questions. They will help you when you ask, but I found myself missing American friendliness.While the hotel is close to public transportation (the cable car), it is on Nob Hill, so you are on very steep hills. That's not unusual for San Francisco, but it's hard going down hill as well as up when you're tired.The upside to this hotel: The decor in the hotel is all French reproductions, which are charming. The main floor is Joan of Arc, other floors feature French artists. The paint is fresh and the rooms are very clean.The hotel is inexpensive for San Francisco.It is close to public transportation (a few blocks from Union Square)Breakfast is included -- eggs  toast or French toast, plus coffee, tea and juice. It's in the basement, but charmingly decorated and served on linen tablecloths.The Chinese employees are very friendly and helpful.Internet access is only in a computer in the lobby, but it is quite cheap--$1.00 for 15 minutes.There are restaurants and drug stores and little markets very close by.Check out the Italian restaurant across the street on the corner--I think it is Uncle Vito's. Small and crowded, but good food at reasonable prices.  
+<Date>Aug 25, 2007
+<Rating>2	4	2	3	5	2	4	2	
+<Aspects>
+18	12(friendly):1	14(helpful):1	39(return):1	92(help):1	154(disappoint):1	162(hard):1	177(san):1	276(miss):1	355(francisco):1	454(tire):1	608(employee):1	756(hill):1	764(chinese):1	1610(unusual):1	1754(friendliness):1	2029(16th):1	4913(21st):1	12304(five-day):1	
+13	16(food):1	19(price):1	44(experience):1	51(enjoy):1	177(san):1	273(reasonable):1	313(crowd):1	355(francisco):1	633(ago):1	1117(inexpensive):1	1784(france):1	1883(so-so):1	12663(cornell):1	
+44	3(clean):1	5(time):1	11(bed):1	18(book):1	24(floor):2	35(street):1	58(quiet):1	92(help):1	104(sleep):1	112(main):1	114(hot):1	119(window):1	134(available):1	153(provide):1	164(air):1	172(weekend):1	174(serve):1	177(san):1	197(fresh):1	254(french):2	263(condition):1	269(decor):1	276(miss):1	305(decorate):1	332(charm):1	355(francisco):1	467(daughter):1	543(Queen):1	630(linen):1	661(fan):1	731(feature):1	749(cozy):1	806(paint):1	1568(basement):1	1941(arc):1	2667(ventilation):2	3176(overhead):1	3400(artist):1	3613(upside):1	3630(shaft):1	5654(unattractive):1	7945(joan):1	8515(charmingly):1	9908(tablecloths):1	
+18	10(restaurant):2	23(little):1	28(close):2	32(check):1	35(street):1	121(car):1	200(corner):1	255(store):1	264(market):1	358(italian):1	379(public):1	484(cable):1	728(transportation):1	756(hill):2	1060(steep):1	2256(drug):1	2304(nob):1	5656(uncle):1	
+0	
+6	99(couple):1	254(french):1	307(bother):1	394(question):1	672(owner):1	1098(bore):1	
+15	6(breakfast):1	28(close):1	71(include):1	90(coffee):1	100(bloc):1	139(square):1	203(plus):1	254(french):1	301(tea):1	362(juice):1	379(public):1	412(egg):1	451(union):1	728(transportation):1	875(toast):2	
+6	29(minute):1	55(lobby):1	97(internet):1	143(cheap):1	159(access):1	555(computer):1	
+
+<Author>lseut
+<Content>Mildew smell not good for allergies Most hotels in San Francisco were sold out or $400 plus for this weekend. Th Cornell Hotel had availability at $165/night. I was prepared for a basic hotel, but was still disappointed. Joan was friendly on the phone. Arrival - man in the evening was not friendly, not hospitable, and without personality. Room - walked in and all I could smell or take in was the mildew/damp odor. We had a two night reservation - my friend left after the first night with severe allergy issues. Room has no A/C - left windows open to cool the room, which resulted in very little sleep b/c of the street noise.  
+<Date>Aug 21, 2007
+<Rating>2	2	2	4	2	1	2	-1	
+<Aspects>
+12	12(friendly):2	154(disappoint):1	224(arrival):1	296(phone):1	352(basic):1	460(prepare):1	2073(availability):1	2505(th):1	2522(personality):1	2743(hospitable):1	7945(joan):1	12663(cornell):1	
+0	
+12	7(walk):1	23(little):1	35(street):1	43(leave):1	94(noise):1	104(sleep):1	119(window):1	231(smell):1	278(cool):1	1109(result):1	1628(odor):1	1876(mildew):1	
+0	
+8	172(weekend):1	177(san):1	203(plus):1	231(smell):1	355(francisco):1	606(sell):1	1876(mildew):1	3491(allergy):1	
+7	2(night):2	43(leave):1	146(friend):1	156(reservation):1	265(issue):1	3491(allergy):1	3657(severe):1	
+0	
+0	
+
+<Author>hamn
+<Content>Cornell Hotel is a hidden gem!! We stayed at this gem of a hotel while on vacation in San Francisco for 9 days and I can't say enough good things about it. Firstly, the location is perfect, it's on the corner of the Powell St. cable car line which is really convenient and it's only 2 blocks from Union Square. Across the street is a great little Italian Restaurant - and also a car rental facility. The hotel is beautifully decorated and feels very welcoming. If you like the large modern corporate hotel rooms with lots of square footage, this hotel isn't for you! The rooms are cozy, but definitely adequate. Beds are comfortable and linens are clean. Breakfast is included with the room and is served in the beautiful hotel restaurant on the basement level. The breakfast was more than I could eat: choice of hot or cold cereal, choice of french toast or bacon, eggs, hash browns, fruit  toast, juice, tea or coffee. The people who work at the hotel are very friendly and helpful. If I return to San Francisco, I will definitely stay at this hotel again.  
+<Date>Aug 2, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	12(friendly):1	14(helpful):1	26(people):1	39(return):1	59(definitely):1	177(san):1	355(francisco):1	
+5	8(day):1	131(vacation):1	177(san):1	355(francisco):1	805(gem):1	
+24	1(location):1	34(feel):1	38(lot):1	59(definitely):1	74(perfect):1	100(bloc):1	121(car):1	139(square):2	151(modern):1	186(convenient):1	188(line):1	200(corner):1	202(welcome):1	305(decorate):1	390(adequate):1	451(union):1	484(cable):1	655(st):1	749(cozy):1	771(beautifully):1	1802(corporate):1	1897(powell):1	2140(firstly):1	8083(footage):1	
+7	10(restaurant):1	23(little):1	35(street):1	121(car):1	211(facility):1	358(italian):1	963(rental):1	
+4	3(clean):1	11(bed):1	25(comfortable):1	630(linen):1	
+0	
+25	6(breakfast):2	10(restaurant):1	45(beautiful):1	47(eat):1	71(include):1	90(coffee):1	107(choice):2	114(hot):1	174(serve):1	215(fruit):1	222(cold):1	254(french):1	301(tea):1	306(level):1	362(juice):1	412(egg):1	529(cereal):1	805(gem):1	875(toast):2	1057(bacon):1	1195(hide):1	1568(basement):1	1667(brown):1	5211(hash):1	12663(cornell):1	
+0	
+
+<Author>Casacarajo
+<Content>A Great Find! This was our first trip to San Francisco and we had no idea where to stay. I found this hotel listed in Frommers, and read the reviews before making reservations. After spending four nights there, I cannot understand the negative comments.The rooms are smallish, as expected in a European style older hotel, but they were quaint and very clean. Both rooms we had (we stayed three nights, and then another before returning home) had large claw foot tubs with shower enclosure. The towels were luxurious and there were actually real glasses instead of plastic!The hotel is ideally located near Union Square and steps from the Powell cable car lines, and the area abounds with eateries. The hotel itself has a very nice french restaurant and serves breakfast included in the fare.The entire staff was delightful and very helpful with questions about the area.We would not hesitate to return, or suggest the hotel to our friends.  
+<Date>May 22, 2007
+<Rating>5	5	4	5	5	5	5	3	
+<Aspects>
+13	2(night):1	33(trip):1	39(return):1	64(spend):1	146(friend):1	177(san):1	282(negative):1	355(francisco):1	356(comment):1	391(understand):1	452(suggest):1	639(idea):1	902(hesitate):1	
+0	
+31	0(staff):1	2(night):1	3(clean):1	14(helpful):1	39(return):1	61(shower):1	62(expect):1	84(locate):1	102(near):1	121(car):1	139(square):1	141(home):1	188(line):1	311(tub):1	326(style):1	329(entire):1	366(step):1	394(question):1	402(foot):1	451(union):1	484(cable):1	582(european):1	1176(delightful):1	1295(quaint):1	1779(eatery):1	1800(ideally):1	1897(powell):1	2104(smallish):1	4300(abound):1	6568(enclosure):1	8931(claw):1	
+0	
+0	
+5	37(review):1	88(read):1	156(reservation):1	650(list):1	5542(frommer):1	
+14	4(nice):1	6(breakfast):1	10(restaurant):1	71(include):1	125(towel):1	174(serve):1	180(actually):1	240(real):1	254(french):1	327(glass):1	353(instead):1	708(luxurious):1	1112(fare):1	1347(plastic):1	
+0	
+
+<Author>SMLJ
+<Content>loved the Cornell         
+<Date>Apr 29, 2007
+<Rating>4	4	4	4	4	3	3	-1	
+<Aspects>
+2	40(love):1	12663(cornell):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>mickers5
+<Content>Interesting Hotel. .. and affordable Spent 6 nights in this hotel in Jan., 2007. It is a small hotel right off of the Powell St. Cable Car line about 2 blocks from Union Square. It is easy to get to from the BART if you do not mind climbing a steep hill.It is a french hotel and seems to cater to french speaking visitors. However, all of the staff speak English. The rooms are smallish and i would definitely advise you to book the larger queen if there is 2 of you. The rooms are nice but nothing to write home about. The tariff includes morning breakfast of prepared eggs, cereal, or waffles in a lovely dining room. .. truly.If you stay 6 or more nights you get a absolutely wonderful, gourmet dinner for two as part of the package. I loved this place. .. great location, wonderful staff. great food.My only problem was that the wireless internet was free only in the lobby which created some inconvenience because I had quite a bit of work to do since I do online instruction.I will definitely go back though.  
+<Date>Feb 28, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	2(night):1	40(love):1	59(definitely):1	64(spend):1	127(speak):1	254(french):2	476(truly):1	951(visitor):1	1000(cater):1	1062(affordable):1	1462(jan):1	
+0	
+16	4(nice):1	18(book):1	59(definitely):1	100(bloc):1	121(car):1	139(square):1	141(home):1	188(line):1	344(write):1	451(union):1	484(cable):1	543(Queen):1	655(st):1	663(advise):1	1897(powell):1	2104(smallish):1	
+3	0(staff):1	1(location):1	48(wonderful):1	
+0	
+3	0(staff):1	127(speak):1	152(english):1	
+23	2(night):1	6(breakfast):1	16(food):1	48(wonderful):1	56(morning):1	71(include):1	87(lovely):1	93(easy):1	117(dinner):1	189(absolutely):1	294(mind):1	316(dine):1	412(egg):1	460(prepare):1	527(package):1	529(cereal):1	756(hill):1	1060(steep):1	1234(gourmet):1	1424(climb):1	1505(bart):1	1557(waffle):1	5152(tariff):1	
+9	46(free):1	52(bit):1	55(lobby):1	97(internet):1	717(wireless):1	822(online):1	1431(inconvenience):1	1696(create):1	2386(instruction):1	
+
+<Author>Edskid
+<Content>Not so hot. I was in San Francisco recently on business. At the last moment my original hotel booking changed to the Cornell Hotel de France. I looked online and it appeared to fine for the short visit. I agreed to change hotels. The room was shabby looking with an old beat up dirty green vinyl couch and a lumpy bed. It was not as clean as I would have wished. The rooms had an ironing board but no iron. You had to go downstairs to borrower an iron. The staff was pleasant but not all that helpful in helping me find my destination. I felt the Cornell Hotel was overpriced. I am in San Francisco at least once a year will not stay there in the future.  
+<Date>Feb 15, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	114(hot):1	161(change):1	177(san):1	355(francisco):1	473(agree):1	732(future):1	
+3	34(feel):1	727(overprice):1	12663(cornell):1	
+12	11(bed):1	20(look):1	323(dirty):1	442(beat):1	600(board):1	691(downstairs):1	868(iron):3	1005(green):1	1192(couch):1	1319(shabby):1	3162(lumpy):1	8811(vinyl):1	
+4	147(business):1	177(san):1	322(recently):1	355(francisco):1	
+2	3(clean):1	384(wish):1	
+5	0(staff):1	14(helpful):1	92(help):1	150(pleasant):1	1092(destination):1	
+6	18(book):1	161(change):1	670(moment):1	1270(original):1	1784(france):1	12663(cornell):1	
+6	20(look):1	65(visit):1	113(fine):1	144(short):1	541(appear):1	822(online):1	
+
+<Author>Lightpost
+<Content>Sweet Boutique Hotel       Streetscape of Cornell Hotel  
+<Date>Feb 7, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+3	623(boutique):1	950(sweet):1	12663(cornell):1	
+0	
+0	
+0	
+0	
+
+<Author>S_S
+<Content>Great location We stayed at the Cornell hotel in for 4 nights in a room with a double bed and a twin (for our son). The room was a bit small for three and overlooked the street. It was remarkably quiet when the windows were closed even though there was a lot of traffic and noise outside. When the radiator was on, the room got very hot, so we kept the heat off - perhaps since we were on the fourth floor, we got all the rising heat. The hotel is a bit old but kept up and the bathroom was nice with a new looking old fashioned tub with a great shower head. We had breakfast every morning (included with our rate). With breakfast you have a choice of eggs with toast and bacon or French toast or pancakes. You can also ask for a mixed eggs/pancakes. They also have a couple of cold cereals available. The service was quick and they were happy to get us extras like milk for our son. But the actual breakfast was about average. We also had dinner one night at the hotel as part of our package 鈥?they have a fixed price menu of French food. The front desk personnel were responsive and got us extra blankets, ordered taxi etc. The location is great! Step out the door and you can catch the cable car, and its just a few blocks from Chinatown and Union Square.  
+<Date>Dec 28, 2006
+<Rating>4	4	3	5	3	4	4	-1	
+<Aspects>
+4	99(couple):1	134(available):1	222(cold):1	529(cereal):1	
+0	
+30	1(location):1	2(night):1	4(nice):1	11(bed):1	13(bathroom):1	20(look):1	24(floor):1	52(bit):1	54(door):1	61(shower):1	100(bloc):1	114(hot):1	121(car):1	139(square):1	179(double):1	311(tub):1	319(head):1	366(step):1	451(union):1	484(cable):1	539(heat):2	540(catch):1	612(son):1	690(twin):1	1132(chinatown):1	1436(rise):1	1579(fourth):1	1745(fashion):1	3830(radiator):1	12663(cornell):1	
+20	1(location):1	28(close):1	31(front):1	35(street):1	36(desk):1	38(lot):1	52(bit):1	58(quiet):1	73(etc):1	94(noise):1	98(outside):1	119(window):1	128(extra):1	185(taxi):1	260(overlook):1	486(traffic):1	1369(blanket):1	1457(personnel):1	2351(responsive):1	4395(remarkably):1	
+0	
+0	
+27	2(night):1	6(breakfast):3	9(service):1	16(food):1	19(price):1	56(morning):1	71(include):1	78(rate):1	107(choice):1	117(dinner):1	128(extra):1	155(happy):1	227(average):1	254(french):2	299(quick):1	412(egg):1	423(menu):1	494(fix):1	527(package):1	609(mix):1	612(son):1	875(toast):2	1057(bacon):1	1116(milk):1	1477(pancake):1	1536(actual):1	8958(eggs):1	
+0	
+
+<Author>PARIS182
+<Content>Value for Price I spent 5 nights at the Hotel de France for vacation in San Francisco. The location is excellent close to the cable cars and within walking distance of Union Square and Market St. There are many restaurants close by and the hotel provides a breakfast that is free with your stay. That said the breakfast is just average and there is no choice of juice, something which I found inexplicably annoying. The rooms are of average size, clean but a tad down at heels. Mine had an ugly black vinyl sofa that somewhat spoiled the effect of any attempt at decor that might have been attempted. That said the rooms are clean and the baths are more than adequate and there is a huge claw foot tub. (If someone in your party is physically challenged this may be a problem.) Public areas are quaintly charming and the elevator is amusing and works remarkably well for its age.  They have an excellent dining room, however I am not sure as I would recommend the package that they offer due to the many dining choices offered in SF. Service is wildly variable and I agree with a previous reviewer that the gentleman who owns the hotel does not always seem like he wishes you were there. There also seems to be an unseemly emphasis on the bill, and while I only ate one of the two meals in the dining room, nothing was deducted from my bill. While all in all I was not dissatisfied with the stay, given the wide range of accomadations in SF I most likely would not stay there again  
+<Date>Nov 27, 2006
+<Rating>3	3	3	4	4	3	2	-1	
+<Aspects>
+8	363(party):1	714(range):1	802(sf):1	860(wide):1	1708(challenge):1	4181(physically):1	4708(accomadation):1	6008(dissatisfy):1	
+16	2(night):1	15(recommend):1	19(price):1	21(excellent):1	64(spend):1	81(value):1	89(offer):2	107(choice):1	131(vacation):1	177(san):1	259(due):1	316(dine):2	355(francisco):1	527(package):1	802(sf):1	1784(france):1	
+27	3(clean):2	47(eat):1	83(size):1	133(huge):1	213(meal):1	226(bath):1	227(average):1	269(decor):1	311(tub):1	316(dine):1	390(adequate):1	402(foot):1	495(bill):2	651(somewhat):1	842(sofa):1	1007(black):1	1119(attempt):2	1221(spoil):1	1269(mine):1	1872(ugly):1	2191(effect):1	2429(tad):1	4019(heel):1	5675(emphasis):1	5900(deduct):1	8811(vinyl):1	8931(claw):1	
+15	1(location):1	6(breakfast):1	7(walk):1	10(restaurant):1	21(excellent):1	28(close):2	46(free):1	115(distance):1	121(car):1	139(square):1	153(provide):1	264(market):1	451(union):1	484(cable):1	655(st):1	
+0	
+0	
+21	6(breakfast):1	9(service):1	107(choice):1	166(own):1	216(elevator):1	227(average):1	332(charm):1	362(juice):1	373(previous):1	379(public):1	384(wish):1	473(agree):1	505(age):1	564(reviewer):1	695(annoy):1	1506(gentleman):1	2871(amuse):1	4395(remarkably):1	5713(variable):1	7426(wildly):1	9830(inexplicably):1	
+0	
+
+<Author>ed30
+<Content>Recommended Booked this through my partners recommendation, really nice hotel. Friendly staff. Room is clean. The baths are a bonus for the USA - deep roll top tubs. The location is good although the adult theatre next door could be off putting for some. Parking is in the garage across the street at a reduced cost from the normal garage prices. If hiring a car through Alamo the office is right across the street. It is 5 minutes walk to Union Square- downhill although the walk up can be a struggle. The restaurant in the basement serves really good quality french food at a good price and is worth a visit.  
+<Date>Nov 15, 2006
+<Rating>4	4	4	4	4	4	4	4	
+<Aspects>
+7	118(top):1	226(bath):1	311(tub):1	813(roll):1	849(bonus):1	1043(deep):1	1474(usa):1	
+7	19(price):1	35(street):1	66(park):1	175(cost):1	878(normal):1	936(garage):2	2315(reduce):1	
+7	3(clean):1	7(walk):2	29(minute):1	139(square):1	451(union):1	1979(struggle):1	2983(downhill):1	
+9	1(location):1	35(street):1	54(door):1	121(car):1	556(adult):1	635(theater):1	792(office):1	1556(hire):1	9622(alamo):1	
+0	
+2	0(staff):1	12(friendly):1	
+14	4(nice):1	10(restaurant):1	15(recommend):1	16(food):1	18(book):1	19(price):1	65(visit):1	96(worth):1	174(serve):1	187(quality):1	254(french):1	577(recommendation):1	1006(partner):1	1568(basement):1	
+0	
+
+<Author>stlcurly
+<Content>Great Location The hotel is in a great location next to Union Square. We stayed for three nights and did not have a car ($40 cab from the airport). We were able to walk, take the bus, cable car, etc. to all points in the city. The rooms were clean and the breakfast was enjoyable. We had two choices for breakfast - French toast or eggs and toast. The French toast was delicious and was served a lot faster than the eggs.  
+<Date>Oct 15, 2006
+<Rating>4	-1	3	5	4	3	3	3	
+<Aspects>
+0	
+0	
+10	1(location):2	2(night):1	3(clean):1	6(breakfast):1	95(airport):1	121(car):1	139(square):1	380(cab):1	451(union):1	567(enjoyable):1	
+7	7(walk):1	41(city):1	73(etc):1	120(bus):1	121(car):1	171(able):1	484(cable):1	
+0	
+0	
+9	6(breakfast):1	38(lot):1	107(choice):1	174(serve):1	254(french):2	412(egg):2	485(delicious):1	499(fast):1	875(toast):3	
+0	
+
+<Author>katpaws
+<Content>Charming hotel This hotel makes you feel like you are in France. It is small and personal. The location is perfect and the price is very reasonable. We had dinner in the retaurant which was wonderful and totally romantic and the price was right. I would definitely stay here again.  
+<Date>Oct 11, 2006
+<Rating>4	5	3	5	3	4	3	-1	
+<Aspects>
+4	34(feel):1	59(definitely):1	332(charm):1	1784(france):1	
+9	1(location):1	19(price):2	48(wonderful):1	74(perfect):1	117(dinner):1	273(reasonable):1	611(totally):1	707(romantic):1	7959(retaurant):1	
+0	
+1	711(personal):1	
+0	
+0	
+0	
+0	
+
+<Author>Marell
+<Content>Loved the Hotel Cornell de France! My friend and I stayed here on my first ever trip to San Francisco. I loved it! It was quite warm during our visit but with the windows wide open the lack of AC was no problem. The rooms were cosy, clean, and comfortable, as were the baths. Yes, the elevator was slow but the stairs were convenient and besides, I was in great shape from the SF hills. We found the staff to be reserved yet friendly. The dog was there and he was super. The breakfast was nothing special, but good, and free. The location is great. You can catch the streetcar half a block away and go all over SF. You can walk to Union Square or to Chinatown, and to other areas. Booking via email and phone was easy and they responded promptly We originally booked one night, and while there we decided to stay another, and the staff was very helpful in making this happen conveniently, which involved a room change.I would definitely stay there again, hopefully for longer.  
+<Date>Oct 6, 2006
+<Rating>5	5	4	5	5	4	4	-1	
+<Aspects>
+11	33(trip):1	40(love):2	59(definitely):1	146(friend):1	177(san):1	355(francisco):1	464(super):1	1126(dog):1	1633(hopefully):1	1784(france):1	12663(cornell):1	
+0	
+29	0(staff):1	2(night):1	3(clean):1	7(walk):1	14(helpful):1	18(book):2	25(comfortable):1	65(visit):1	93(easy):1	119(window):1	139(square):1	161(change):1	219(decide):1	226(bath):1	236(warm):1	296(phone):1	349(lack):1	382(happen):1	451(union):1	512(via):1	749(cozy):1	860(wide):1	956(ac):1	1070(conveniently):1	1132(chinatown):1	1212(promptly):1	1300(originally):1	1538(involve):1	1587(respond):1	
+6	1(location):1	100(bloc):1	283(half):1	540(catch):1	802(sf):1	2391(streetcar):1	
+0	
+3	0(staff):1	12(friendly):1	506(reserve):1	
+12	6(breakfast):1	46(free):1	186(convenient):1	208(special):1	216(elevator):1	250(yes):1	455(slow):1	568(stair):1	756(hill):1	802(sf):1	1226(shape):1	1332(besides):1	
+0	
+
+<Author>Isoquant
+<Content>great hotel for the price. I stayed at Cornell while traveling on business by myself. It's in a great location. You can walk to anywhere in Union Square, the Financial District, and even South of Market for work. Since I didn't have a rental car, it was also nice to be able to walk to Chinatown or even Nob Hill to get something to eat. (by the way, try Bar Cruda's chowder-best I've ever had!!)I am surprised to read some reviews by people that criticize this hotel. It is in a perfect location, and most rooms are under $100 a night including breakfast. Good luck finding anything that compares to this. My room was small with little to no flair. But, I was not in my room very much and it suited me just fine. It is a little bit dated, the carpet in my room looked like it had been through a bit. I wouldn't label it as clean, but I also wasn't disgusted.Breakfast was a nice surprise! At this price, I expected stale doughnuts and cheap orange juice. The breakfast was freshly made with my choice of either eggs or french toast. It came with toast and fruit and juice and coffee. All included in the price of the room. The dining room was quite funky....really going for the french theme with the dining room...but it was clean.It was a great value, and a great location. If you are a tourist you can't beat the neighborhood (right off the cablecar). If you are in town for business, you can walk to everything if you are not a big complainer. I am going back for my next meeting.  
+<Date>Sep 22, 2006
+<Rating>4	5	2	5	2	2	3	2	
+<Aspects>
+12	26(people):1	37(review):1	88(read):1	196(meet):1	199(surprise):1	209(tourist):1	381(compare):1	421(neighbourhood):1	442(beat):1	1055(luck):1	4864(criticize):1	10028(cablecar):1	
+10	1(location):1	19(price):3	62(expect):1	71(include):1	81(value):1	143(cheap):1	362(juice):1	1104(orange):1	2052(stale):1	2222(doughnut):1	
+18	1(location):1	2(night):1	3(clean):1	6(breakfast):1	20(look):1	23(little):2	52(bit):2	71(include):1	74(perfect):1	113(fine):1	254(french):1	316(dine):2	396(carpet):1	511(date):1	861(suit):1	1118(theme):1	1516(funky):1	4272(flair):1	
+21	1(location):1	4(nice):1	7(walk):3	47(eat):1	68(travel):1	121(car):1	139(square):1	147(business):2	171(able):1	239(town):1	264(market):1	433(district):1	451(union):1	756(hill):1	769(south):1	963(rental):1	1132(chinatown):1	1746(financial):1	2304(nob):1	4615(complainer):1	12663(cornell):1	
+3	3(clean):1	1152(disgust):1	3128(label):1	
+0	
+13	4(nice):1	6(breakfast):2	27(bar):1	76(try):1	90(coffee):1	107(choice):1	199(surprise):1	215(fruit):1	254(french):1	362(juice):1	412(egg):1	875(toast):2	1775(freshly):1	
+0	
+
+<Author>hildig
+<Content>perfect place to stay in SF We just stayed for three nights at the Cornell, and could not have been at a better location in SF. The Cornell is a very charming small hotel. The room was comfortable and the included breakfast was handy and adequate. The services were all provided by friendly staff. One evening we came back and requested coffee and dessert in the dining room, and were welcomed. The location, steps from the Powell cable car, a couple blocks from China town and handy to all public transportation was great. It was our first stay in SF, and if we would return, it is a no brainer, the Cornell is a great place to stay!  
+<Date>Sep 13, 2006
+<Rating>4	5	4	5	5	5	5	3	
+<Aspects>
+4	39(return):1	802(sf):1	10742(brainer):1	12663(cornell):1	
+0	
+10	6(breakfast):1	25(comfortable):1	71(include):1	90(coffee):1	148(request):1	202(welcome):1	316(dine):1	390(adequate):1	755(handy):1	1180(dessert):1	
+17	1(location):2	2(night):1	74(perfect):1	99(couple):1	100(bloc):1	121(car):1	239(town):1	332(charm):1	366(step):1	379(public):1	484(cable):1	728(transportation):1	755(handy):1	802(sf):2	1159(china):1	1897(powell):1	12663(cornell):2	
+0	
+4	0(staff):1	9(service):1	12(friendly):1	153(provide):1	
+0	
+0	
+
+<Author>Aling
+<Content>Basic, but great location This hotel has a great location. It is close to Union Square, China Town and the Cable Car is just running alongside. The rooms are basic but well appointed. The staff of the hotel are not the most customer service focused of staff I ever encountered. Although the lady who serves breakfast is a real sweetheart and if you can understand her, I am sure she has some very nice things to say. The owner of the hotel is doing his very best to become the French Basil Fawlty. But having said that, considering price and location we had a very good stay, after all San Francisco is such a great city you will not be spending that much time in the hotel itself.  
+<Date>Aug 22, 2006
+<Rating>3	3	3	4	3	1	1	4	
+<Aspects>
+0	
+8	1(location):1	5(time):1	19(price):1	41(city):1	64(spend):1	177(san):1	248(consider):1	355(francisco):1	
+11	28(close):1	121(car):1	139(square):1	149(run):1	239(town):1	352(basic):1	451(union):1	484(cable):1	579(appoint):1	1159(china):1	4418(alongside):1	
+2	1(location):2	352(basic):1	
+0	
+9	0(staff):2	9(service):1	254(french):1	428(customer):1	672(owner):1	693(encounter):1	2480(focus):1	8266(fawlty):1	11305(basil):1	
+7	4(nice):1	6(breakfast):1	174(serve):1	240(real):1	391(understand):1	521(lady):1	7627(sweetheart):1	
+0	
+
+<Author>FlowerLover77
+<Content>Nice location but very poor customer service I was really looking forward to staying at this hotel based on the mostly-positive feedback I'd read in advance ... however, I was disappointed.First of all, it's located immediately next door to a nude gay male dancing bar. I hadn't seen THAT fact in any of the reviews. Don't get me wrong - I'm open-minded, but I also had my young sons and father with me and I would have liked to have made a more informed decision regarding where we were staying. Also, it was ~$18/day to park at the structure across the street from the hotel. It was very difficult to get across 3 lanes of one-way traffic to pull in front of the hotel each day.No one offered to help bring in our luggage. The hotel is mostly run by people who are very disinterested in providing customer service (both front office and waitresses). The male owner is emotionally removed from conversations with guests. The female owner was nicer, but can't undo the lousy customer service provided by the other workers there.On one morning when my father had a nose bleed and got a small amount of blood on the carpet, my husband went down to the front desk to notify them so they would know what it was and could remove it with the correct product. The front desk woman was ONLY concerned with the carpet and went into detail telling my husband that the carpet was new and how concerned she was that the blood might not come out of the new carpet; she indicated no concern for my father's condition. For the first 2 days of our stay, our bathroom sink was plugged and water could not run for more than 10 seconds without pooling in the sink. I told the front desk on the 2nd morning and they said they would fix it. They didn't. When I used the bathroom sink on the 2nd night and saw it was still plugged, I was very disappointed. I told the front desk on the 3rd morning and they argued with me and said that they already fixed it by using some special liquid. I told them that it obviously hadn't worked since it was still plugged up and that it was totally unacceptable, and that they needed to do it again and then make sure that it worked. She said okay, and when I returned on the 3rd night it was fixed, thank goodness. There is only one elevator to service the 7-floor building (basement with restaurant and 6 floors of rooms) - an old 4-person elevator (with a wire door) which is quaint. It broke down one day when we were there, so people had to walk the very narrow staircase; I felt sorry for people checking in who were staying on the 6th floor, for my father (who's 78), and anyone with mobility challenges. They had it fixed within 24 hours, so that was good.Every morning there were only 3 things offered for breakfast: eggs, french toast, or an omlet. They all came with a 1/4 cup of hash browns, 1 piece of bacon, 2 pieces of toast, a small glass of juice, and coffee. The food was okay, nothing special. Service was very fast, but servers were extremely emotionally detached, except for the one morning when the female owner was serving - she was nice. Every day, every table had a vase of real roses - they were very beautiful. The dinner menu looked really good but we didn't try it due to our anticipation of bad service which can ruin a meal. One of the rooms we had (of the 4 rooms) had a make-shift sheet setup on the window - the owner explained that the window blinds had broken and that she had ordered some custom blinds and they hadn't arrived yet. So instead, they hung some sheets on a flimsy curtain rod and she said you needed to GENTLY move the sheets over the window to cover them and that if you weren't careful, the sheets would fall down. Unbelievably tacky and unprofessional - I was shocked. Be aware that there is no one in the front office after 11 PM, so if you need something after 11 pm, you're pretty much out of luck....The restaurant and lobby have a Joan of Arc theme, which was interesting.The rooms were uncomfortably warm; there is no air conditioning, and some rooms have ceiling fans. In one of our 4 rooms, the ceiling fan was broken. The towels are amazingly thin (the cheapest I think I've ever seen). The bedsheets were really thin and cheap too, and the blankets seemed old and rough (we didn't use).They said there was wireless internet in the rooms for free, but the signal was so weak that I could never connect and had to use the San Francisco citywide wireless network (costs $5.95 per day). There is one computer in the lobby and they charge $1 per 15 minutes. That's reasonable. However, when I used it to print my boarding passes for everyone in my party (there were 7 of us in 4 rooms), the front office woman was very concerned that I was using 10 pieces of paper to print on, and said that I owed her $2 for the printing. I was shocked that she would act so cheap - I had just spent 2 THOUSAND DOLLARS at their hotel for 4 rooms ! Unbelievable... Again, a complete lack of customer service and no concept of wanting satisfied customers. After I agreed to her charging me $2 for the printing, she asked me if I knew very much about computers, and said that she couldn't read one of her computer drives. I told her that I knew a lot about computers, but would have to charge her a consulting fee of $2. She smiled but continued to ask my computer advice. I was unable to help her :-)I will NOT stay here again - when there are so many other choices in the city, there's no need to be treated like this.  
+<Date>Jul 1, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+25	2(night):1	8(day):1	37(review):1	39(return):1	45(beautiful):1	60(hour):1	69(tell):1	229(table):1	240(real):1	271(thank):1	273(reasonable):1	453(okay):1	494(fix):2	611(totally):1	781(obviously):1	1174(plug):1	1206(shock):1	2097(3rd):1	2230(unacceptable):1	2302(goodness):1	2406(tacky):1	2590(unbelievably):1	3134(unprofessional):1	4777(rose):1	5263(vase):1	
+17	41(city):1	64(spend):1	92(help):1	107(choice):1	125(towel):1	143(cheap):3	320(treat):1	430(dollar):1	754(thin):2	1047(rough):1	1206(shock):1	1369(blanket):1	1461(unable):1	1846(amazingly):1	1920(Act):1	3752(thousand):1	5338(bedsheets):1	
+47	2(night):1	7(walk):1	8(day):2	13(bathroom):2	22(pool):1	24(floor):1	26(people):2	32(check):1	34(feel):1	53(arrive):1	57(water):1	119(window):3	149(run):1	154(disappoint):1	164(air):1	207(move):1	228(break):3	236(warm):1	263(condition):1	353(instead):1	478(hang):1	479(sheet):4	509(sink):3	528(ceiling):2	552(cover):1	587(fall):1	661(fan):2	672(owner):1	743(curtain):1	768(explain):1	891(sorry):1	897(careful):1	1174(plug):2	1207(narrow):1	1326(2nd):1	1708(challenge):1	1839(blind):2	1869(6th):1	1966(custom):1	2119(staircase):1	2915(father):1	3363(setup):1	4304(mobility):1	4891(rod):1	5418(uncomfortably):1	5572(flimsy):1	6620(gently):1	
+30	1(location):1	4(nice):1	8(day):1	9(service):1	20(look):1	27(bar):1	31(front):1	35(street):1	54(door):1	66(park):1	84(locate):1	88(read):1	154(disappoint):1	284(base):1	331(poor):1	428(customer):1	486(traffic):1	489(immediately):1	572(difficult):1	685(advance):1	750(forward):1	757(dance):1	858(pull):1	2295(male):1	2552(gay):1	2566(lane):1	2824(feedback):1	2933(structure):1	4722(one-way):1	7644(nude):1	
+0	
+65	4(nice):1	9(service):2	10(restaurant):1	26(people):1	31(front):7	36(desk):4	55(lobby):1	56(morning):3	69(tell):3	91(guest):1	105(husband):2	109(pretty):1	149(run):1	153(provide):2	208(special):1	263(condition):1	363(party):1	393(pm):2	396(carpet):4	400(pass):1	427(wrong):1	428(customer):2	494(fix):2	496(concern):4	566(woman):2	592(detail):1	600(board):1	612(son):1	666(amount):1	672(owner):2	776(paper):1	792(office):3	817(inform):1	832(aware):1	930(regard):1	941(piece):1	1055(luck):1	1081(product):1	1101(print):3	1118(theme):1	1125(worker):1	1135(remove):2	1263(correct):1	1281(conversation):1	1326(2nd):1	1387(waitress):1	1539(decision):1	1714(female):1	1776(indicate):1	1894(argue):1	1941(arc):1	2097(3rd):1	2295(male):1	2409(lousy):1	2718(blood):2	2760(notify):1	2915(father):3	3466(nose):1	3838(liquid):1	4197(owe):1	4625(disinterested):1	7945(joan):1	10629(undo):1	11486(open-mind):1	12036(bleed):1	
+54	4(nice):1	6(breakfast):1	9(service):4	10(restaurant):1	16(food):1	20(look):1	24(floor):1	50(bad):1	54(door):1	56(morning):2	76(try):1	89(offer):2	90(coffee):1	92(help):1	110(extremely):1	117(dinner):1	135(build):1	142(bring):1	174(serve):1	208(special):1	213(meal):1	216(elevator):2	249(luggage):1	254(french):1	259(due):1	327(glass):1	337(except):1	349(lack):1	362(juice):1	412(egg):1	423(menu):1	428(customer):2	453(okay):1	499(fast):1	622(complete):1	672(owner):1	800(cup):1	875(toast):2	899(satisfy):1	941(piece):2	1057(bacon):1	1243(ruin):1	1295(quaint):1	1460(unbelievable):1	1540(server):1	1568(basement):1	1667(brown):1	1714(female):1	1904(wire):1	2354(concept):1	5211(hash):1	7886(omlet):1	8056(anticipation):1	8986(detach):1	
+26	8(day):1	29(minute):1	38(lot):1	46(free):1	55(lobby):1	69(tell):1	88(read):1	97(internet):1	136(charge):3	175(cost):1	177(san):1	298(drive):1	355(francisco):1	387(smile):1	473(agree):1	555(computer):5	575(advice):1	584(fee):1	717(wireless):2	841(connect):1	1096(continue):1	1101(print):1	1770(weak):1	2937(network):1	2974(signal):1	5182(consult):1	
+
+<Author>JeanAnderson
+<Content>Totally loved this hotel! I stayed at this hotel for four nights during the week of my 40th birthday celebration. Absolutely loved the place! The rooms may be a bit on the small side, but they are cozy and feel like a bedroom as opposed to a sterile, generic hotel room from one of the chains. The rooms are clean, and there's plenty of closet space and good water pressure in the showers. I will gladly stay at this hotel on my next trip to San Fran, but I will bring my own hairdryer next time. There is one in the room, but it was pretty weak and didn't work very well. This is a very minor complaint--everything else was fabulous. The staff was warm, friendly and very helpful. The price and location can't be beat, and I felt totally at home. I had my 40th birthday dinner there, and the chef prepared my soufflet with a birthday candle! My waiter sang Happy Birthday to me too--it was so sweet and so appreciated. I highly recommend this hotel and can't hardly wait to go back.  
+<Date>Jun 6, 2006
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+12	2(night):1	40(love):2	75(week):1	170(else):1	189(absolutely):1	190(complaint):1	270(fabulous):1	611(totally):1	720(minor):1	765(birthday):1	2510(celebration):1	2554(40th):1	
+6	1(location):1	19(price):1	34(feel):1	141(home):1	442(beat):1	611(totally):1	
+25	3(clean):1	5(time):1	33(trip):1	34(feel):1	52(bit):1	57(water):1	61(shower):1	109(pretty):1	142(bring):1	158(plenty):1	166(own):1	177(san):1	210(space):1	268(bedroom):1	565(closet):1	627(chain):1	686(pressure):1	749(cozy):1	1493(hairdryer):1	1744(fran):1	1770(weak):1	2176(gladly):1	2401(oppose):1	3411(generic):1	3811(sterile):1	
+0	
+0	
+14	0(staff):1	12(friendly):1	14(helpful):1	15(recommend):1	85(wait):1	138(highly):1	155(happy):1	236(warm):1	500(appreciate):1	735(waiter):1	765(birthday):1	950(sweet):1	985(hardly):1	1668(sing):1	
+6	117(dinner):1	460(prepare):1	765(birthday):2	1361(chef):1	1854(candle):1	2554(40th):1	
+0	
+
+<Author>VTDFR
+<Content>Ready to go Back We spent ten days at The Cornell for a four-generation family reunion, and had not been there for 17 years. Much had changed, and all for the better. Knowing it was small, quaint and had few public spaces, we worried about whether it would work for our grandchildren (5, 3 and 2 months) as we knew the hotel was not used to small children. But it was fine, and the little ones adored the dog, the glass elevator, running up and down the stairs, and the medieval decor in the restaurant. 20 family members from 2 months to 91 years gathered here, and no one had any complaints other than some rooms being too warm and one window in a room with kids having no screen. (Be warned though that the connecting rooms available for families are quite small and somewhat less upscale than the others.) All others were much more than adequate, and contained everything to make for a comfortable stay, including good matresses, ample closets, good water pressure, hair dryers, TVs, and superb cleanliness. Ours, in the back on the 4th floor, was not at all crowded, and delightfully cool. And unlike some of the reviewers, we heard no internal noise from other rooms, not even our infant grandson crying just across the hall. Yes, there was outside city noise, but I found the cable car clanging to be a charming lullabye at night! The staff were incredibly warm and friendly, the breakfasts were excellent, and the two dinners we had at the well reputed and very attractive restaurant were outstanding. This may not be a hotel for the business traveller who wants the high tech gizmos, or the yuppies who are accustomed to the anemities of a a $400 a night hotel room. But it is an outstanding European style small hotel in an outstanding location in San Francisco, at a very affordable price, including the parking across the street. I recommend it very highly. And if you go, pat the dog for me, and say hello to Madame and Monsieur for me as well.DFR, S. Strafford, VT  
+<Date>May 24, 2006
+<Rating>4	5	3	-1	5	-1	5	-1	
+<Aspects>
+13	8(day):1	15(recommend):1	64(spend):1	106(family):1	138(highly):1	161(change):1	274(ready):1	1126(dog):1	1519(hello):1	4228(reunion):1	4436(pat):1	7326(madame):1	12663(cornell):1	
+0	
+53	2(night):1	24(floor):1	25(comfortable):1	57(water):1	71(include):1	94(noise):1	106(family):2	119(window):1	132(hear):1	134(available):1	147(business):1	190(complaint):1	201(kid):1	210(space):1	236(warm):1	267(traveler):1	277(child):1	278(cool):1	313(crowd):1	379(public):1	388(month):2	390(adequate):1	407(superb):1	526(screen):1	564(reviewer):1	565(closet):1	616(hall):1	651(somewhat):1	679(warn):1	686(pressure):1	729(hair):1	841(connect):1	843(ours):1	845(4th):1	854(cleanliness):1	885(worried):1	1163(unlike):1	1209(dryer):1	1237(upscale):1	1295(quaint):1	1341(ample):1	1545(contain):1	1569(tvs):1	2396(cry):1	2433(gather):1	2869(internal):1	3077(accustom):1	3298(matress):1	3836(tech):1	4451(infant):1	6919(delightfully):1	7202(grandson):1	7302(grandchild):1	
+20	1(location):1	2(night):1	19(price):1	35(street):1	41(city):1	66(park):1	71(include):1	94(noise):1	98(outside):1	121(car):1	177(san):1	250(yes):1	326(style):1	332(charm):1	355(francisco):1	484(cable):1	534(outstanding):2	582(european):1	1062(affordable):1	7180(clang):1	
+0	
+0	
+20	0(staff):1	6(breakfast):1	10(restaurant):2	12(friendly):1	21(excellent):1	23(little):1	113(fine):1	117(dinner):1	149(run):1	216(elevator):1	236(warm):1	269(decor):1	327(glass):1	534(outstanding):1	568(stair):1	807(incredibly):1	1126(dog):1	1154(attractive):1	4085(adore):1	8687(mediaeval):1	
+0	
+
+<Author>Take_Me_Home_Now
+<Content>This Little Gem Needs Some Polish My partner and I recently returned to the Cornell Hotel after having stayed here once before in 1998. Not much has changed, which is both good and bad. First, the good: you can't beat this hotel's location, just off of Union Square. You also can't beat this hotel's price, which includes a yummy full breakfast in a restaurant decorated like a castle (which is located in the hotel's basement!); just remember, press B in the elevator for Breakfast.Now, the bad: there is no air conditioning, and if the weather is warm, the rooms get stuffy. Opening the windows lets in the air and every noise from Union Square if your room is located on the east-side of the hotel. If possible, reserve a Large Queen Room and ask for one at the very front of the hotel; these are the best rooms.Each hallway is decorated with the artwork of French artists. This is the only hotel that I've ever encountered where the hallways are better decorated than ther rooms (which are rather spartan).  
+<Date>Sep 21, 2005
+<Rating>3	4	2	-1	3	-1	3	-1	
+<Aspects>
+2	50(bad):1	161(change):1	
+0	
+31	1(location):1	6(breakfast):1	10(restaurant):1	19(price):1	31(front):1	50(bad):1	71(include):1	84(locate):2	94(noise):1	119(window):1	139(square):2	164(air):2	236(warm):1	254(french):1	263(condition):1	305(decorate):3	385(weather):1	442(beat):2	451(union):2	506(reserve):1	543(Queen):1	580(hallway):2	693(encounter):1	1568(basement):1	1798(yummy):1	1857(stuffy):1	1987(castle):1	3210(artwork):1	3400(artist):1	3662(spartan):1	3946(ther):1	
+0	
+0	
+0	
+11	6(breakfast):1	23(little):1	39(return):1	216(elevator):1	322(recently):1	375(remember):1	805(gem):1	1006(partner):1	1843(press):1	2699(polish):1	12663(cornell):1	
+0	
+
+<Author>BAFeller
+<Content>A wonderful litte French Hotel We stayed at the Cornell for 5 nights (August 31-September 4, 2005) and thought it was a quaint, litte French hotel in a great location--we were only a few steps away from the cable cars on Powell Street. We thought our room was adquate but a little on the small side (which we expected). The room was very clean and the maid service each day was great. We had breakfast each morning which was included in our room rate. The waitresses were a little hard to understand but if you were patient and kept asking questions you could get what you wanted. We were served a different fruit juice every day and a choice of eggs, hash browns and bacon or french toast or pancakes or an omlette--you were also offered a different kind of hot cereal every day or you could have dry cereal. The hotel staff, led by Joan, was very friendly and accommodating. We did not experience any noise from the street or the cable cars even though we had the windows open in our room as it was a little warm and stuffy. This hotel is a great value in San Francisco and would recommend it highly. We would be happy to answer any questions bruceanitafeller@aol.com.  
+<Date>Sep 17, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+3	155(happy):1	394(question):1	669(answer):1	
+10	0(staff):1	12(friendly):1	15(recommend):1	81(value):1	138(highly):1	177(san):1	355(francisco):1	624(accommodate):1	922(lead):1	7945(joan):1	
+18	3(clean):1	6(breakfast):1	8(day):1	9(service):1	23(little):2	35(street):1	44(experience):1	56(morning):1	62(expect):1	71(include):1	78(rate):1	94(noise):1	119(window):1	121(car):1	236(warm):1	300(maid):1	484(cable):1	1857(stuffy):1	
+12	1(location):1	2(night):1	35(street):1	48(wonderful):1	121(car):1	254(french):2	366(step):1	484(cable):1	1295(quaint):1	1897(powell):1	7831(litte):2	12663(cornell):1	
+0	
+6	23(little):1	162(hard):1	391(understand):1	394(question):1	1387(waitress):1	1882(patient):1	
+17	8(day):2	89(offer):1	107(choice):1	114(hot):1	174(serve):1	215(fruit):1	254(french):1	362(juice):1	412(egg):1	529(cereal):2	875(toast):1	1057(bacon):1	1257(dry):1	1477(pancake):1	1667(brown):1	4960(omlette):1	5211(hash):1	
+0	
+
+<Author>Gigi-on-the-Go
+<Content>Service was awful We stayed at the Cornell Hotel in May 2005. The hotel itself was nice. The rooms were nice. I wasn't impressed with the service. The gentlemen who helped me wasn't very friendly and I felt like I was bothering him whenever I asked for something. The waitress who served us our breakfast was downright rude. First of all, the hotel offers complimentary breakfast which was nice. However, when she asked us what we wanted, she made it seem like we could either get just french toast or just eggs. We ordered french toast for us and eggs for my grandson. When we ordered his eggs, she rudely asked Doesn't he want oatmeal? like he wasn't allowed to have any eggs. We stated again that he wanted eggs. Then when our meal came, we were surprised to see that the eggs also included hash browns, bacon and toast (which was what we really wanted). She did not specify this upon ordering. Perhaps we should have specifically asked what the eggs came with, but she didn't give us much of a chance - after the oatmeal exchange she just turned around and left. After our meal, we didn't feel she deserved a tip and boy did she give us a dirty look when we left! I would definitely not stay here again.  
+<Date>Jun 14, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	4(nice):1	12(friendly):1	34(feel):1	59(definitely):1	92(help):1	307(bother):1	1181(whenever):1	1506(gentleman):1	3449(specify):1	
+0	
+1	4(nice):1	
+0	
+8	20(look):1	34(feel):1	43(leave):1	194(tip):1	213(meal):1	323(dirty):1	881(boy):1	1072(deserve):1	
+0	
+29	4(nice):1	6(breakfast):2	9(service):2	43(leave):1	71(include):1	89(offer):1	174(serve):1	199(surprise):1	213(meal):1	254(french):2	343(impress):1	345(complimentary):1	359(allow):1	392(rude):1	412(egg):7	689(chance):1	736(awful):1	875(toast):3	1057(bacon):1	1387(waitress):1	1514(exchange):1	1667(brown):1	1810(specifically):1	3073(oatmeal):2	3254(rudely):1	3289(downright):1	5211(hash):1	7202(grandson):1	12663(cornell):1	
+0	
+
+<Author>sensibility
+<Content>Charming building, kind staff, central location, good value The Cornell is a cozy gem at a great price (it is SF after all, cha-ching), especially since it incuded a large and tasty breakfast. Everything about the building oozes old world charm and loving care, from the gargoyle corbel at the room's ceiling and the carved cherub on the bathroom door, to the artwork and stained glass in the hallways. Even the restored elevator was lovely, and it made our day when Noel the Golden Retriever greeted us. It's SO nice to stay in a place that feels like a home away from home, instead of a sterile box under a chain hotel sign.We were in a medium sized room for four nights and never felt cramped. We had ample closet space to get luggage out of the way, a nightstand at each side of a comfortable mattress, two reading lamps, and a bathroom large enough for free movement around the claw foot tub. Everything was spotless and every single staff person we crossed paths with was kind and helpful. City noise did come through the windows, but that's life in an old building that rests in a busy city. Reservations and paperwork were a breeze.The location is great for coming and going to the airport. For five bucks each, we got on the BART train at SFO airport and then got off at the Powell/Market stop about five blocks from the hotel. No need to transfer or anything. The walk from the Powell/Market stop was simple enough with luggage, and only took us a few minutes -- although the last block was steeeeep. When it comes to getting around the city, the cable car is just a few doors away, and within a couple blocks there are a few bus lines to choose from.The only thing we would do differently for a return trip would be to move down a few flights. We were on the top (6th) floor, and even though the radiator was turned off, it was hot in our room. You can't stop heat from rising, but you can request a room on one of the lower few floors.The only thing stopping me from giving the Cornell a 5-star rating here is that we didn't have the option to say no linen service today. Given the number of hotel rooms in a large city, the waste that goes into washing never-used fresh towels and still-clean sheets every day is overwhelming. In our opinion, the least we can do is be good stewards and curb our wastefulness, and we wish we had had the opportunity to do our part.  
+<Date>May 25, 2005
+<Rating>4	5	4	-1	5	-1	5	-1	
+<Aspects>
+5	384(wish):1	704(opinion):1	1021(transfer):1	1235(opportunity):1	4452(curb):1	
+20	0(staff):1	1(location):1	6(breakfast):1	9(service):1	19(price):1	78(rate):1	81(value):1	122(stop):1	126(especially):1	135(build):1	168(central):1	332(charm):1	336(option):1	630(linen):1	749(cozy):1	802(sf):1	805(gem):1	984(tasty):1	1831(5-star):1	12663(cornell):2	
+61	2(night):1	8(day):1	13(bathroom):2	24(floor):2	25(comfortable):1	33(trip):1	34(feel):1	39(return):1	40(love):1	41(city):3	46(free):1	54(door):1	83(size):1	88(read):1	94(noise):1	114(hot):1	118(top):1	119(window):1	122(stop):1	125(towel):1	135(build):2	148(request):1	197(fresh):1	207(move):1	210(space):1	220(busy):1	233(flight):1	242(care):1	249(luggage):1	272(world):1	288(rest):1	311(tub):1	327(glass):1	332(charm):1	335(numb):1	402(foot):1	426(life):1	479(sheet):1	528(ceiling):1	539(heat):1	565(closet):1	580(hallway):1	723(stain):1	777(lour):1	811(wash):1	847(mattress):1	928(waste):1	1080(cramp):1	1341(ample):1	1436(rise):1	1622(lamp):1	1869(6th):1	1992(overwhelm):1	2762(medium):1	3210(artwork):1	3799(carve):1	3830(radiator):1	4445(nightstand):1	5228(movement):1	5797(ooze):1	8931(claw):1	
+21	1(location):1	7(walk):1	29(minute):1	41(city):1	54(door):1	95(airport):2	99(couple):1	100(bloc):3	120(bus):1	121(car):1	122(stop):2	167(choose):1	182(train):1	188(line):1	249(luggage):1	484(cable):1	613(simple):1	1120(buck):1	1505(bart):1	1897(powell):2	2991(sfo):1	
+0	
+10	0(staff):1	14(helpful):1	156(reservation):1	193(person):1	304(single):1	548(spotless):1	799(breeze):1	1228(cross):1	1612(path):1	3776(paper-work):1	
+15	4(nice):1	8(day):1	34(feel):1	87(lovely):1	141(home):2	216(elevator):1	353(instead):1	415(greet):1	449(sign):1	627(chain):1	945(box):1	1317(golden):1	3238(restore):1	3811(sterile):1	8767(noel):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Just Right Near the corner of Powell and Bush is the Cornell Hotel de France. We spent two nights there in Room 308 the first two days in April. As this room was at the rear of the hotel about the ony sound was the cable cars on Powell, which ceased at midnight when they stopped running.We took advantage of one of their specials which included two nights lodging in one of their medium size rooms plus dinner for two for one of the nights. Cost was $269. Website lists the rooms at $95-145 per night, and that lower price wasn't available. The dinner price was $29.25 each, so it was a good deal.The restaurant, Jeanne d'Arc, is in the basement of the hotel, and offers a four-course dinner at a fixed price ($29.25). They also serve the complimentary breakfast there, with the choice of French toast or eggs, and anyway you want them.No doubt the next time we go into San Francisco we will return to Cornell Hotel de France, as if ain't broke, don't fix it.  
+<Date>Apr 4, 2005
+<Rating>5	5	5	-1	4	-1	5	-1	
+<Aspects>
+10	5(time):1	39(return):1	177(san):1	228(break):1	355(francisco):1	494(fix):1	952(doubt):1	1784(france):1	3302(ai):1	12663(cornell):1	
+9	2(night):1	19(price):2	117(dinner):1	134(available):1	140(deal):1	175(cost):1	262(website):1	650(list):1	777(lour):1	
+21	2(night):3	8(day):1	64(spend):1	71(include):1	83(size):1	117(dinner):1	121(car):1	122(stop):1	149(run):1	203(plus):1	208(special):1	409(sound):1	484(cable):1	867(advantage):1	1044(midnight):1	1878(lodge):1	1897(powell):1	2007(rear):1	2762(medium):1	7974(cease):1	10912(ony):1	
+6	102(near):1	200(corner):1	1784(france):1	1897(powell):1	3653(bush):1	12663(cornell):1	
+0	
+0	
+15	6(breakfast):1	10(restaurant):1	19(price):1	89(offer):1	107(choice):1	117(dinner):1	174(serve):1	254(french):1	345(complimentary):1	412(egg):1	417(anyway):1	494(fix):1	875(toast):1	1568(basement):1	8284(jeanne):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great location, great value A wonderful, old style, European type hotel. Great location, friendly people and good breakfast. Noisier than I would like, but still a great value.  
+<Date>Dec 15, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+7	1(location):1	48(wonderful):1	81(value):2	217(noisy):1	326(style):1	389(type):1	582(european):1	
+0	
+4	1(location):1	6(breakfast):1	12(friendly):1	26(people):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>good  The good: great rate, great location, neat and clean, charming. Good breakfast.The bad: tiny rooms (but who goes to SFX to spend time in hotel rooms?), no airconditioning and no soundproofing. Nights can be noisy...on my last night I heard a couple make passionate love, 2 girls gossiping about another, a man wih a hacking cough, and the water/gas pipes rumbling. Sleep was difficult....ear plugs a good idea, but would I have heard the wake-up call? Charging guests $1 for internet use is just tacky.  
+<Date>Oct 6, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+14	2(night):2	40(love):1	57(water):1	99(couple):1	132(hear):1	217(noisy):1	625(girl):1	2067(pipe):1	4202(rumble):1	4552(cough):1	10927(passionate):1	11075(hack):1	11441(wih):1	11726(gossip):1	
+0	
+14	5(time):1	50(bad):1	64(spend):1	67(call):1	104(sleep):1	132(hear):1	338(tiny):1	572(difficult):1	639(idea):1	1174(plug):1	1684(ear):1	1852(soundproof):1	1903(airconditione):1	3394(wake-up):1	
+5	1(location):1	3(clean):1	78(rate):1	332(charm):1	1286(neat):1	
+0	
+4	91(guest):1	97(internet):1	136(charge):1	2406(tacky):1	
+1	6(breakfast):1	
+0	
+
+<Author>ElevatorGuy
+<Content>A Marvelous Little Hotel My sons and I had a great stay at the Cornell. Understand that the rooms are small, but as for location, one could hardly ask for more--the cable cars run right by it. The restaurant was excellent; the breakfast (included with our stay) far surpassed my expectations--this was no continental breakfast. From the old-fashioned elevator to the golden retriever in the hall, the place is utterly charming. Given the room rate was very reasonable, I could not have been more pleased.  
+<Date>Sep 14, 2004
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+4	23(little):1	612(son):1	2187(marvelous):1	12663(cornell):1	
+0	
+3	78(rate):1	173(please):1	273(reasonable):1	
+6	1(location):1	121(car):1	149(run):1	391(understand):1	484(cable):1	985(hardly):1	
+0	
+0	
+13	6(breakfast):2	10(restaurant):1	21(excellent):1	71(include):1	216(elevator):1	332(charm):1	372(continental):1	431(expectation):1	616(hall):1	1317(golden):1	3204(surpass):1	3935(utterly):1	4201(old-fashioned):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Stopping at the Cornell; intimate, excellent restaurant! A delightful hotel; small, intimate and friendly. My wife and I have stayed there for the past 14 years on our trips to the City. The restaurant, which offers a free continental breakfast (eggs, toast, tea, coffee, juice) has a special surprise that took us a few years to discover: the dinners are exquisite! It's tempting to pass it up because of all the wonderful places to eat in the City, but it's well worth it to stay in and enjoy the hotel's restaurant. The staff is warm, friendly and attentive. The rooms have been remodeled (slightly) and the ones with views on Bush are the most coveted. The old elevator harkens back to those in Paris in 1920. Each floor is dedicated to a French painter. I would wholeheartedly recommend the Cornell, which is within walking distance of Union Square (down Powell), Chinatown (east on Bush) and right on the Powell cable car line. I have no complaints about the Cornell; we've also stayed at the St. Francis, Villa Florence (once the Manx), the Sir Francis Drake, Chancellor, Canterbury, King George and the Palace. Each is unique, just as is the small, intimate Cornell. It's the staff and restaurant and cozy rooms that bring us back.  
+<Date>Sep 14, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+16	33(trip):1	41(city):1	184(wife):1	190(complaint):1	243(king):1	346(florence):1	419(past):1	642(palace):1	655(st):1	712(villa):1	2287(george):1	2521(chancellor):1	2900(francis):2	3376(sir):1	4235(drake):1	12663(cornell):1	
+0	
+15	0(staff):1	10(restaurant):1	12(friendly):1	17(view):1	24(floor):1	142(bring):1	254(french):1	598(slightly):1	749(cozy):1	1176(delightful):1	1238(remodel):1	1812(intimate):1	3477(dedicate):1	3653(bush):1	9443(painter):1	
+16	7(walk):1	15(recommend):1	115(distance):1	121(car):1	139(square):1	188(line):1	451(union):1	484(cable):1	948(east):1	1027(unique):1	1132(chinatown):1	1812(intimate):1	1897(powell):2	3653(bush):1	5268(wholeheartedly):1	12663(cornell):2	
+0	
+4	0(staff):1	12(friendly):1	236(warm):1	537(attentive):1	
+28	6(breakfast):1	10(restaurant):3	21(excellent):1	41(city):1	46(free):1	47(eat):1	48(wonderful):1	51(enjoy):1	89(offer):1	90(coffee):1	96(worth):1	117(dinner):1	122(stop):1	199(surprise):1	208(special):1	216(elevator):1	301(tea):1	362(juice):1	372(continental):1	400(pass):1	403(paris):1	412(egg):1	869(discover):1	875(toast):1	1812(intimate):1	2751(exquisite):1	3086(tempt):1	12663(cornell):1	
+0	
+
+<Author>nmsouthwest
+<Content>A wonderful little hotel This is a lovely hotel. Flowers welcome you as you enter the lobby and the entire facility is in pristine condition. In my opinion, the location is the best in town. The Cable Car stop is practically at your doorstep. Union Square, Market Street, and Chinatown are all within easy walking distance. There are restaurants and shops galore.My single room was tastefully decorated and could not have been cleaner. The bed was a dream to sleep on. In addition, the room was unbelievably quiet. Breakfast was included in the rate and it was delightful. Served in the dining room, each table was covered with linen and adorned with fresh flowers. A different juice was served each morning along with a robust coffee. A choice of hot cereal was followed by a delicious combination of eggs, hash browns, bacon, toast and slice of fruit. French Toast was also an option. The staff was absolutely great!By all means, dine at the hotel restaurant. I took advantage of the weekly rate and enjoyed five marvelous French meals. Each included a hearty soup and generous basket of delightful bread. Salads were fresh and creative, entrees were expertly prepared, and deserts were absolutely divine. I cant say enough about the superb service. My waiter, Dan, was perfectly attentive without being fussy.I adore the Cornell - a fantastic discovery. I cant wait to go back.  
+<Date>Mar 23, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+28	23(little):1	48(wonderful):1	51(enjoy):1	78(rate):1	86(fantastic):1	87(lovely):1	121(car):1	122(stop):1	189(absolutely):1	197(fresh):1	213(meal):1	254(french):1	460(prepare):1	484(cable):1	867(advantage):1	909(salad):1	1706(desert):1	1850(practically):1	2071(doorstep):1	2187(marvelous):1	2451(entree):1	3481(divine):1	3951(discovery):1	3988(weekly):1	4003(creative):1	4085(adore):1	9201(expertly):1	12663(cornell):1	
+0	
+27	3(clean):1	6(breakfast):1	11(bed):1	58(quiet):1	71(include):2	78(rate):1	104(sleep):1	174(serve):1	197(fresh):1	229(table):1	304(single):1	305(decorate):1	316(dine):1	497(bread):1	552(cover):1	630(linen):1	778(flower):1	918(addition):1	1176(delightful):2	1256(dream):1	1523(generous):1	1526(tastefully):1	1772(soup):1	1865(basket):1	2590(unbelievably):1	4045(hearty):1	6124(adorn):1	
+14	1(location):1	7(walk):1	10(restaurant):1	35(street):1	49(shop):1	93(easy):1	115(distance):1	139(square):1	239(town):1	264(market):1	451(union):1	704(opinion):1	1132(chinatown):1	4216(galore):1	
+0	
+9	0(staff):1	85(wait):1	189(absolutely):1	537(attentive):1	595(perfectly):1	735(waiter):1	1145(cant):1	1867(fussy):1	7746(dan):1	
+33	9(service):1	10(restaurant):1	55(lobby):1	56(morning):1	90(coffee):1	107(choice):1	114(hot):1	174(serve):1	202(welcome):1	211(facility):1	215(fruit):1	246(mean):1	254(french):1	263(condition):1	316(dine):1	329(entire):1	336(option):1	362(juice):1	407(superb):1	412(egg):1	482(follow):1	485(delicious):1	529(cereal):1	601(enter):1	778(flower):1	875(toast):2	1057(bacon):1	1145(cant):1	1667(brown):1	1929(combination):1	2024(slice):1	2981(pristine):1	5211(hash):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>San Francisco charm We spent just three days in November at the Cornell and found it charming with all the character of an older San Francisco boutique hotel that we expected. I have used at least 15 San Francisco hotels over the past few years ranging from the best to moderate hotels and this is the first time I will definately book our next visit at the same place. When staying dont forget to greet the owners wonderful dog Bon Jour Noel and he will respond accordingly.  
+<Date>Dec 15, 2003
+<Rating>4	4	3	-1	4	-1	4	-1	
+<Aspects>
+0	
+0	
+0	
+10	8(day):1	62(expect):1	64(spend):1	177(san):2	332(charm):2	355(francisco):2	623(boutique):1	999(november):1	1049(character):1	12663(cornell):1	
+0	
+10	48(wonderful):1	397(forget):1	415(greet):1	503(dont):1	672(owner):1	1126(dog):1	1587(respond):1	3508(accordingly):1	3576(bon):1	8767(noel):1	
+9	5(time):1	18(book):1	65(visit):1	177(san):1	355(francisco):1	410(definately):1	419(past):1	714(range):1	2936(moderate):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Doesn't deliver, not even close. My medium size room was not worth the ninety dollars plus 15% tax plus sixteen dollars a day parking. It had very noisy steam heat that worked only part of the time and there wasn't even a toilet paper holder in the bathroom. There was just a roll of paper sitting across the b'room--not at all convenient. The prix fix dinner was just fair. Veggie overcook and potatoes stale. I left early so I wouldn't have to stay in that flop-house room.  
+<Date>Nov 29, 2003
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+24	5(time):1	8(day):1	13(bathroom):1	43(leave):1	66(park):1	83(size):1	96(worth):1	117(dinner):1	169(sit):1	186(convenient):1	203(plus):2	217(noisy):1	330(toilet):1	430(dollar):2	494(fix):1	539(heat):1	739(fair):1	776(paper):2	798(tax):1	813(roll):1	1760(steam):1	2762(medium):1	3253(holder):1	5722(prix):1	
+2	28(close):1	631(deliver):1	
+0	
+0	
+4	2027(potato):1	2052(stale):1	3506(over-cook):1	5727(veggie):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>French Style and Charm, Great Location, Incredible Value I travel regularly to S.F. My wife and I stayed here for a weekend after reading about the hotel in Sunset magazine. I kow stay there regularly for business. If you want to feel like San Francisco is a place that real people visit and get some of the charm you experienced when you were last in Paris, consider this hotel. It is small and European. Each floor is dedicated to a different Impressionist artist, and features that artist's paintings on the hallway walls. The staff are friendly and speak French or Chinese. The rooms are small and clean. It's never been noisy although it is near the cable cars and bustling Union Square. Price includes breakfast in the charming restaurant in the basement.Cool tip: Arrive by BART and take the Powell St. cable car up to Bush. The hotel is 3 doors down to the left.  
+<Date>Nov 23, 2003
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	43(leave):1	54(door):1	
+23	1(location):1	26(people):1	34(feel):1	44(experience):1	65(visit):1	68(travel):1	81(value):1	88(read):1	172(weekend):1	177(san):1	184(wife):1	240(real):1	248(consider):1	254(french):1	326(style):1	332(charm):2	355(francisco):1	403(paris):1	718(incredible):1	1246(sunset):1	1881(regularly):1	2202(magazine):1	4159(s.f):1	
+15	3(clean):1	24(floor):1	102(near):1	121(car):1	139(square):1	183(wall):1	217(noisy):1	451(union):1	484(cable):1	580(hallway):1	731(feature):1	1107(bustle):1	2994(painting):1	3400(artist):2	3477(dedicate):1	
+12	53(arrive):1	121(car):1	147(business):1	194(tip):1	278(cool):1	484(cable):1	582(european):1	655(st):1	1505(bart):1	1881(regularly):1	1897(powell):1	3653(bush):1	
+0	
+5	0(staff):1	12(friendly):1	127(speak):1	254(french):1	764(chinese):1	
+6	6(breakfast):1	10(restaurant):1	19(price):1	71(include):1	332(charm):1	1568(basement):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>NY Times travel section does it again! Not knowing anything about San Francisco, I did not realize that this gem of an intimate hotel is located literally seconds from the Powell St. Cable Car, walking distance to Chinatown, the theatre district, discount ticket center, shopping, restaurants galore, the wonderful Huntington Hotel with a piano bar and friendly bartender, the Muni, etc. My room was $75 per night, including a wonderful breakfast with excellent service in a true French cellar decorated with Jeanne D'Arc memorabilia. You could practice your french here too. Dinner was also superb. A definite find. Note, my room was for a single, but with a queen size bed. Very good quality bed too! website for the hotel: www.cornellhotel.com. Tell them Barbara from NY sent you!  
+<Date>Jul 29, 2003
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	5(time):1	68(travel):1	254(french):1	933(ny):1	947(section):1	2203(practice):1	2369(definite):1	
+2	11(bed):1	187(quality):1	
+16	2(night):1	6(breakfast):1	9(service):1	11(bed):1	21(excellent):1	48(wonderful):1	71(include):1	83(size):1	254(french):1	297(note):1	304(single):1	305(decorate):1	543(Queen):1	4984(cellar):1	8284(jeanne):1	12573(memorabile):1	
+31	7(walk):1	10(restaurant):1	12(friendly):1	27(bar):1	48(wonderful):1	49(shop):1	73(etc):1	84(locate):1	101(center):1	115(distance):1	121(car):1	177(san):1	262(website):1	355(francisco):1	433(district):1	484(cable):1	607(realize):1	621(ticket):1	635(theater):1	655(st):1	665(literally):1	676(bartender):1	805(gem):1	864(discount):1	1132(chinatown):1	1812(intimate):1	1897(powell):1	2016(piano):1	2181(muni):1	4216(galore):1	8333(huntington):1	
+0	
+0	
+6	69(tell):1	117(dinner):1	407(superb):1	447(send):1	933(ny):1	5997(barbara):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Repeat Customer My husband and I have stayed at the Cornell 5-6 times in the last three years. We love it. Great service, clean, rich in character, and the restuaurant Jeanne D'arc is superb. We've tried both the cozy rooms and the larger options. The cozy rooms are small, but -- as many have said before -- who goes to the City to hang out in a hotel room? Besides, sometimes you can get the cozy rooms for $65 per night, including that wonderful, yummy full breakfast. What a bargain!Kathleen EnnisJack Souza  
+<Date>Dec 12, 2002
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	5(time):1	40(love):1	105(husband):1	428(customer):1	1467(repeat):1	12663(cornell):1	
+1	759(bargain):1	
+12	2(night):1	6(breakfast):1	41(city):1	48(wonderful):1	71(include):1	253(tried):1	336(option):1	478(hang):1	560(sometimes):1	749(cozy):3	1332(besides):1	1798(yummy):1	
+0	
+6	3(clean):1	9(service):1	407(superb):1	1049(character):1	2350(rich):1	8284(jeanne):1	
+0	
+0	
+0	
+
+<Author>cmostowski
+<Content>Hotel Cornell Great Secret! Couldn't find a review anywhere for this Hotel, but stayed there. It was wonderful! We had the smallest room, (which was very small), but it was extremely clean, the bed was comfortable; a desk; small TV; dresser. No tub, just a shower, but it was fine; quiet; the breakfast was a full cooked to order served breakfast with juice, coffee or tea, cereal and either french toast or eggs/bacon/toast and hashbrowns. Beautifully decorated. The larger rooms are also wonderful, for not much more money. Would recommend to anyone at anytime for a room with character - not your cookie cutter type of standard hotel rooms.  
+<Date>Sep 22, 2002
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+4	37(review):1	48(wonderful):1	1127(secret):1	12663(cornell):1	
+0	
+18	3(clean):1	11(bed):1	15(recommend):1	25(comfortable):1	36(desk):1	48(wonderful):1	80(money):1	110(extremely):1	116(tv):1	130(standard):1	305(decorate):1	389(type):1	771(beautifully):1	1049(character):1	1173(cookie):1	1677(anytime):1	2128(dresser):1	5370(cutter):1	
+0	
+0	
+0	
+15	6(breakfast):2	58(quiet):1	61(shower):1	90(coffee):1	113(fine):1	174(serve):1	254(french):1	301(tea):1	311(tub):1	362(juice):1	529(cereal):1	550(cook):1	875(toast):1	8958(eggs):1	10345(hashbrowns):1	
+0	
+

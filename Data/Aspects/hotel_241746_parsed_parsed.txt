@@ -1,0 +1,784 @@
+<Author>Kevinandhelena
+<Content>Excellent hotel in great location Very good hotel, close enough to city center to be convenient but still fairly quiet. Very friendly and helpful staff. Free internet. Good breakfast service.  
+<Date>Jan 2, 2009
+<Rating>5	4	4	5	4	5	4	-1	
+<Aspects>
+0	
+0	
+8	1(location):1	21(excellent):1	28(close):1	41(city):1	58(quiet):1	101(center):1	186(convenient):1	462(fairly):1	
+0	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+2	6(breakfast):1	9(service):1	
+2	46(free):1	97(internet):1	
+
+<Author>sbva
+<Content>Our Unexpected Holiday Home I was excited to share the art of Florence with my daughter (a young adult) and this hotel was perfect for our needs. The room was easy to share being quite large by European standards, meticulously well kept, and very pretty. The morning breakfast was exceptional with tea and coffee made to order, fresh pastries, fruits, prosciutto, sliced cheese, whole grain cereal, and fantastic wheat rolls, all beautifully served. From the beginning the staff was very helpful, friendly but professional. For example, they went out of their way to confirm our tour with a local provider. The central location was wonderful yet the room was peacefully quiet at night. We had good help with the bags and was very glad there was a small lift.  But the real test came when at the airport our flight was unexpectedly cancelled and we were forced to spend both Christmas Eve and Christmas in Florence rather than joining friends in London. The hotel took us back immediately, helped us investigate any alternative modes of travel using their internet connection, and when all failed, gave us a fine rate for our room and superb recommendations for lunch at a trattoria open on Christmas Day (not easy in this basically small town). The kindness of the staff eased our disappointment and gave us the Spirit of Christmas. Grazie, Grazie mille!  
+<Date>Dec 31, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+16	74(perfect):1	141(home):1	181(tour):1	195(local):1	223(holiday):1	346(florence):1	467(daughter):1	520(share):1	556(adult):1	789(art):1	954(example):1	982(confirm):1	1136(excite):1	2372(unexpected):1	5189(provider):1	9815(grazie):2	
+0	
+26	1(location):1	2(night):1	48(wonderful):1	58(quiet):1	64(spend):1	93(easy):1	95(airport):1	109(pretty):1	130(standard):1	146(friend):1	168(central):1	233(flight):1	240(real):1	346(florence):1	520(share):1	582(european):1	697(london):1	962(christmas):2	1065(cancel):1	1290(join):1	1550(force):1	1787(eve):1	2922(test):1	4620(meticulously):1	5632(unexpectedly):1	8318(peacefully):1	
+4	92(help):1	290(bag):1	591(lift):1	619(glad):1	
+0	
+10	0(staff):2	12(friendly):1	14(helpful):1	501(professional):1	551(begin):1	866(disappointment):1	962(christmas):1	2057(ease):1	2182(spirit):1	3421(kindness):1	
+17	6(breakfast):1	56(morning):1	86(fantastic):1	90(coffee):1	174(serve):1	197(fresh):1	215(fruit):1	301(tea):1	441(cheese):1	529(cereal):1	652(pastry):1	771(beautifully):1	813(roll):1	837(exceptional):1	2024(slice):1	4586(grain):1	8251(wheat):1	
+20	8(day):1	68(travel):1	78(rate):1	92(help):1	93(easy):1	97(internet):1	113(fine):1	239(town):1	252(lunch):1	407(superb):1	489(immediately):1	577(recommendation):1	790(basically):1	932(connection):1	962(christmas):1	1298(alternative):1	1576(fail):1	3885(investigate):1	3991(trattoria):1	4290(mode):1	
+
+<Author>hammersman333
+<Content>Great small, friendly and well located hotel The hotel is brilliantly positioned just a few minutes walk from the station yet close to most of the attactions. The sfaff were friendly, the breakfast very nice, the room very clean and we even had a bottle of bubbly (staff noticed a couple of birthday cards and gave us a lovely surprise!).  
+<Date>Dec 29, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+13	0(staff):1	3(clean):1	4(nice):1	6(breakfast):1	12(friendly):1	87(lovely):1	99(couple):1	199(surprise):1	238(bottle):1	292(card):1	354(notice):1	765(birthday):1	5484(bubbly):1	
+9	7(walk):1	12(friendly):1	28(close):1	29(minute):1	82(station):1	84(locate):1	1093(position):1	5770(brilliantly):1	11082(attaction):1	
+0	
+0	
+0	
+0	
+
+<Author>JoelTiffChan
+<Content>Great!! Hotel is in a great location, staff were very friendly, helpful and accommodating; room was clean and a nice size; breakfast was delicious with a great variety!! Close to many attractions, eateries, shops and markets. Would highly recommend this hotel to anyone (business, family, couples, etc) and would definitely stay again when I holiday in Florence next!!  
+<Date>Dec 11, 2008
+<Rating>5	5	5	5	5	5	5	3	
+<Aspects>
+0	
+0	
+11	0(staff):1	1(location):1	3(clean):1	4(nice):1	6(breakfast):1	12(friendly):1	14(helpful):1	83(size):1	413(variety):1	485(delicious):1	624(accommodate):1	
+14	15(recommend):1	28(close):1	49(shop):1	59(definitely):1	73(etc):1	99(couple):1	106(family):1	138(highly):1	147(business):1	223(holiday):1	264(market):1	346(florence):1	350(attraction):1	1779(eatery):1	
+0	
+0	
+0	
+0	
+
+<Author>prenzi
+<Content>Great find. Staff were very helpful.       Standard Double  
+<Date>Dec 8, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+2	130(standard):1	179(double):1	
+0	
+0	
+0	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>LondonBaglady
+<Content>Friendly Florence I was warmly welcomed by a very friendly and helpful staff who despite my bad attempts to apeak Italian, spoke perfect English.The room was warm, comfortable and clean.The hotel was both convenient for the train station and bus services, but also close to most of the main places of interest in Florence.Close by also were many pavement side restaurants, an internet cafe, an amazing fresh food covered market and lots of wonderful market stalls selling tourist trinkets, bags, pashminas and other clothes etc.The hotel overall was colourful and attractive, homely but special as well - it was a nice place to come back to at night where one felt at home.Breakfast was a well stocked and varied buffet, extremely efficiently run by a homely woman who always welcomed you down to breakfast with a friendly greeting.I would thoroughly recommend this hotel.  
+<Date>Dec 1, 2008
+<Rating>5	5	4	5	5	5	5	3	
+<Aspects>
+2	15(recommend):1	898(thoroughly):1	
+0	
+3	3(clean):1	25(comfortable):1	236(warm):1	
+8	9(service):1	28(close):1	82(station):1	112(main):1	120(bus):1	182(train):1	186(convenient):1	346(florence):1	
+0	
+13	0(staff):1	12(friendly):2	14(helpful):1	50(bad):1	74(perfect):1	127(speak):1	152(english):1	202(welcome):1	346(florence):1	358(italian):1	498(despite):1	1119(attempt):1	2438(warmly):1	
+39	2(night):1	4(nice):1	6(breakfast):2	10(restaurant):1	12(friendly):1	16(food):1	28(close):1	34(feel):1	38(lot):1	48(wonderful):1	70(overall):1	73(etc):1	77(buffet):1	97(internet):1	110(extremely):1	141(home):1	145(amaze):1	149(run):1	197(fresh):1	202(welcome):1	208(special):1	209(tourist):1	264(market):2	275(cafe):1	290(bag):1	415(greet):1	552(cover):1	566(woman):1	599(stock):1	606(sell):1	709(clothe):1	1154(attractive):1	1578(varied):1	1701(stall):1	2461(efficiently):1	2489(colorful):1	4231(homely):2	4479(pavement):1	5284(trinkets):1	
+0	
+
+<Author>mandinkathebrave
+<Content>Botticelli - not only great for The Spring! Lovely hotel, ideally situated close to the hustle and bustle of the market stalls and for seeing the major sights; with fantastic eateries only doors away. Staff are very friendly and courteous. Clean and comfortable rooms. Special touches such as a bottle of wine left in the room for my husband's birthday keeps us going back year after year.  
+<Date>Dec 1, 2008
+<Rating>5	4	4	4	4	4	4	-1	
+<Aspects>
+2	1162(spring):1	12248(botticelli):1	
+0	
+9	3(clean):1	25(comfortable):1	43(leave):1	105(husband):1	208(special):1	238(bottle):1	251(wine):1	279(touch):1	765(birthday):1	
+13	28(close):1	54(door):1	86(fantastic):1	87(lovely):1	264(market):1	315(major):1	411(sight):1	574(situate):1	1107(bustle):1	1503(hustle):1	1701(stall):1	1779(eatery):1	1800(ideally):1	
+0	
+3	0(staff):1	12(friendly):1	483(courteous):1	
+0	
+0	
+
+<Author>oreillys
+<Content>Loved the ice-cream Location pretty good , staff very helpful and nice , breakfast average good . Ate in 3 restaurants in the center of Florence pretty poor quality ,nothing like the rest of Italy. S.Grech Malta  
+<Date>Nov 29, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+9	10(restaurant):1	47(eat):1	101(center):1	109(pretty):1	187(quality):1	288(rest):1	331(poor):1	346(florence):1	900(italy):1	
+0	
+9	0(staff):1	1(location):1	4(nice):1	6(breakfast):1	14(helpful):1	40(love):1	109(pretty):1	227(average):1	7388(ice cream):1	
+0	
+0	
+0	
+0	
+
+<Author>greenpenny
+<Content>Best Service and Location in Florence Hotel Botticelli is a true find in Florence. The small hotel is very comfortable, conveniently located in the historic center of Florence and very well priced. The Botticelli has the best staff we have ever encountered. They were very helpful, thoughtful and resourceful and assisted us with a number of unexpected requests as arrangements with credit cards and rental cars went awry and an additional member of our party joined us. From the multi-lingual staff at the front desk to the staff in the breakfast room to the cleaning staff, all were friendly and professional. The hotel is impeccably clean and well run; the daily complimentary breakfast is a delight with newspapers in several languages awaiting guests. The San Lorenzo location close to the Mercato Centrale makes it easy to walk all the sights and make a stop back at the hotel to refresh. Wi-fi in the lobby is a convenience. Rooms on the second and third floors are quieter but on the first floor (as Italy counts) we enjoyed the hum of the Florence street life - quite different from US. Terrific restaurants nearby. Pepo and Mario's are memorable. The Botticelli will not disappoint.  
+<Date>Nov 28, 2008
+<Rating>5	5	4	5	5	5	5	4	
+<Aspects>
+4	154(disappoint):1	1205(memorable):1	3488(mario):1	12248(botticelli):1	
+0	
+10	24(floor):2	35(street):1	51(enjoy):1	58(quiet):1	346(florence):1	426(life):1	532(third):1	900(italy):1	1781(Count):1	4292(hum):1	
+20	1(location):2	7(walk):1	9(service):1	19(price):1	25(comfortable):1	28(close):1	84(locate):1	93(easy):1	101(center):1	122(stop):1	177(san):1	346(florence):3	411(sight):1	1070(conveniently):1	1271(refresh):1	1274(historic):1	3900(lorenzo):1	6900(centrale):1	7894(mercato):1	12248(botticelli):1	
+0	
+25	0(staff):4	3(clean):1	6(breakfast):1	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	121(car):1	148(request):1	292(card):1	335(numb):1	363(party):1	501(professional):1	659(credit):1	693(encounter):1	835(additional):1	963(rental):1	1265(assist):1	1290(join):1	1415(arrangement):1	2372(unexpected):1	2837(thoughtful):1	6902(multi-lingual):1	12248(botticelli):1	12782(resourceful):1	
+17	3(clean):1	6(breakfast):1	10(restaurant):1	55(lobby):1	91(guest):1	149(run):1	232(nearby):1	345(complimentary):1	360(daily):1	698(language):1	699(terrific):1	925(convenience):1	1025(delight):1	1372(newspaper):1	1827(wi-fi):1	2742(await):1	3072(impeccably):1	
+0	
+
+<Author>skmccoy
+<Content>A Perfect Stay and my family was along! Usually I book hotels online but this hotel was affiliated with a conference and was a suggested hotel. The location is great- central and near the market at San Lorenzo. They have nice fluffy towels and my husband and 6th month old were along during my business stay. They had a nice baby bed and made the bed wonderfully for my daughter everyday. The breakfast was a typical breakfast and the staff was attentive and very helpful. We would stay again at the Botticelli in the future.  
+<Date>Nov 25, 2008
+<Rating>4	4	4	5	5	5	5	5	
+<Aspects>
+4	74(perfect):1	106(family):1	732(future):1	12248(botticelli):1	
+0	
+6	4(nice):1	11(bed):2	467(daughter):1	605(everyday):1	1304(baby):1	1686(wonderfully):1	
+19	1(location):1	4(nice):1	18(book):1	102(near):1	105(husband):1	125(towel):1	147(business):1	168(central):1	177(san):1	264(market):1	388(month):1	399(usually):1	452(suggest):1	794(conference):1	822(online):1	1792(fluffy):1	1869(6th):1	3900(lorenzo):1	5312(affiliate):1	
+0	
+5	0(staff):1	6(breakfast):2	14(helpful):1	537(attentive):1	628(typical):1	
+0	
+0	
+
+<Author>CathyMckenzie
+<Content>A Delightful haven in the heart of Florence Our trip to Italy was a joint birthday present for me and my partner and I was concerned that it would all go without a hitch. I was delighted with the hotel. Friendly and helpful staff and spotlessly clean and spacious room (worth the wee bit extra for the Superior). The via Taddea located close to the famous San Lorenzo street market was surpringly peaceful and made the hotel a welcome haven at the end of the day. I would not hesitate to book this hotel again. It was a great wee find and excellent value for money. I would just like to include our best wishes from Scotland to all the staff at the Hotel Botticelli. Cheers from Tommy Quinn and Cathy McKenzie  
+<Date>Nov 18, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	3075(cheer):1	8131(tommy):1	
+4	21(excellent):1	80(money):1	81(value):1	2310(wee):1	
+23	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	33(trip):1	52(bit):1	96(worth):1	111(spacious):1	128(extra):1	346(florence):1	450(heart):1	496(concern):1	765(birthday):1	785(superior):1	900(italy):1	1006(partner):1	1025(delight):1	1094(spotlessly):1	1176(delightful):1	2310(wee):1	2412(haven):1	3087(joint):1	4622(hitch):1	
+12	8(day):1	28(close):1	35(street):1	84(locate):1	177(san):1	202(welcome):1	264(market):1	512(via):1	1036(peaceful):1	1296(famous):1	2412(haven):1	3900(lorenzo):1	
+0	
+5	0(staff):1	71(include):1	384(wish):1	5493(scotland):1	12248(botticelli):1	
+2	18(book):1	902(hesitate):1	
+0	
+
+<Author>njandkl
+<Content>Fantastic stay at Hotel Botticelli We booked this through the hotel website and found that very easy. You simply print out the booking receipt and present it on arrival. When we got there the staff were friendly, helpful and courteous and offered us a range of rooms (with a view, quiet etc). The price proved to be excellent value for money; the decor is to a good standard for a 3 star hotel, the breakfast was adequate and the location perfect. We will definitely stay there again when we return to Florence; we can't imagine going anywhere else.  
+<Date>Nov 17, 2008
+<Rating>5	4	4	5	4	5	4	4	
+<Aspects>
+5	39(return):1	59(definitely):1	170(else):1	346(florence):1	733(imagine):1	
+12	1(location):1	6(breakfast):1	19(price):1	21(excellent):1	74(perfect):1	80(money):1	81(value):1	103(star):1	130(standard):1	269(decor):1	390(adequate):1	1554(prove):1	
+9	0(staff):1	12(friendly):1	14(helpful):1	17(view):1	58(quiet):1	73(etc):1	89(offer):1	483(courteous):1	714(range):1	
+0	
+0	
+0	
+9	18(book):2	86(fantastic):1	93(easy):1	224(arrival):1	262(website):1	488(simply):1	1101(print):1	2725(receipt):1	12248(botticelli):1	
+0	
+
+<Author>dunedin_al
+<Content>Nice little hotel Nice little hotel, with very helpful staff.Great location, walking distance from station and all the key sights.Room not large but very clean. Only slight issue was a bit of street noise - very little traffic, but what there was disturbed by rarity and clatter on paving. If light sleeper perhaps go for room at back ?  
+<Date>Nov 13, 2008
+<Rating>4	3	4	4	4	4	4	-1	
+<Aspects>
+0	
+0	
+3	3(clean):1	157(light):1	1299(sleeper):1	
+17	1(location):1	7(walk):1	23(little):1	35(street):1	52(bit):1	82(station):1	94(noise):1	115(distance):1	265(issue):1	339(key):1	411(sight):1	486(traffic):1	1067(disturb):1	1297(slight):1	4973(rarity):1	5564(pave):1	10512(clatter):1	
+0	
+4	0(staff):1	4(nice):2	14(helpful):1	23(little):2	
+0	
+0	
+
+<Author>YvonneBaum
+<Content>Hotel Botticelli - Great Hotel Botticelli is a great little hotel on the edge of Florence's historic centre and great value for money. The staff was very friendly and extremely helpful. Our room was spacious and very clean. The Santa Maria Novella train station is one a five minute walk away and the central markets is vitually next door where you can buy great tuscan produce.All the major sights are only a stone throw away from the hotel, so you can walk everywhere in little time. This was great for us as we only stayed for 3 days. Also, being on the edge of the city centre there a many nice Florentine restaurants where you can get authentical food without paying tourist prices. If you want to go for a good traditional meal, try 'Il Grillo Parlante' which is only a five minute walk away from the hotel. It's a little restaurant with great food and excellent service. Or ask one of the staff in the hotel, they are always happy to help.The staff of Hotel Botticelli made our stay in Florence very pleasant. I only can recommend to stay there and definitely will do it again.  
+<Date>Nov 9, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+3	8(day):1	15(recommend):1	59(definitely):1	
+16	4(nice):1	10(restaurant):1	16(food):1	19(price):1	23(little):1	41(city):1	42(pay):1	80(money):1	81(value):1	101(center):2	209(tourist):1	346(florence):1	1190(edge):2	1274(historic):1	4249(florentine):1	12248(botticelli):2	
+2	3(clean):1	111(spacious):1	
+22	5(time):1	7(walk):3	23(little):1	29(minute):2	54(door):1	76(try):1	82(station):1	168(central):1	182(train):1	213(meal):1	264(market):1	280(buy):1	315(major):1	411(sight):1	917(throw):1	1241(traditional):1	1394(stone):1	1510(santa):1	1833(mare):1	2538(produce):1	2855(tuscan):1	3407(novella):1	
+0	
+9	0(staff):3	12(friendly):1	14(helpful):1	92(help):1	110(extremely):1	150(pleasant):1	155(happy):1	346(florence):1	12248(botticelli):1	
+5	9(service):1	10(restaurant):1	16(food):1	21(excellent):1	23(little):1	
+0	
+
+<Author>vmstori322
+<Content>Excellent service, great location My husband and I selected Hotel Boticelli based on its location. It is relatively close to the train station and in the historical center of Florence. My husband dropped (and lost) his passport our first night walking from the train station to the hotel. The hotel's staff was very kind and gave us specific instructions on what to do, including where to report the lost passport and where to go to get a new one the following day. We were tired, weary, and they took care of us. The room was quite small, but we only slept there, so it was comfortable for what we needed. The breakfasts were typical, but still delicious. I would stay there again (or recommend it to a friend) because it is a quaint hotel in Florence's city center with good customer service. And it is a good value for the price.  
+<Date>Nov 4, 2008
+<Rating>4	4	3	5	5	5	5	3	
+<Aspects>
+3	242(care):1	454(tire):1	3186(weary):1	
+2	19(price):1	81(value):1	
+2	25(comfortable):1	104(sleep):1	
+18	1(location):2	2(night):1	7(walk):1	9(service):1	21(excellent):1	28(close):1	82(station):2	101(center):1	105(husband):2	182(train):2	284(base):1	346(florence):1	596(lose):1	662(drop):1	913(relatively):1	1294(select):1	1975(passport):1	2311(historical):1	
+0	
+9	0(staff):1	8(day):1	71(include):1	482(follow):1	596(lose):1	838(report):1	1848(specific):1	1975(passport):1	2386(instruction):1	
+11	6(breakfast):1	9(service):1	15(recommend):1	41(city):1	101(center):1	146(friend):1	346(florence):1	428(customer):1	485(delicious):1	628(typical):1	1295(quaint):1	
+0	
+
+<Author>clarissaFlorida
+<Content>Wonderful Stay at the Botticelli Hotel, Florence, Italy We certainly enjoyed our stay at the Botticelli Hotel, not only for it's convenient location and good service, but also because of the gracious politeness of the staff.  
+<Date>Oct 23, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+11	0(staff):1	1(location):1	9(service):1	48(wonderful):1	51(enjoy):1	186(convenient):1	346(florence):1	900(italy):1	1501(gracious):1	6903(politeness):1	12248(botticelli):2	
+0	
+0	
+0	
+0	
+
+<Author>Mamasbaba
+<Content>Nice but nothing special for the price!       This was the front of the hotel!  
+<Date>Oct 22, 2008
+<Rating>2	1	1	5	1	5	5	5	
+<Aspects>
+0	
+3	4(nice):1	19(price):1	208(special):1	
+0	
+0	
+0	
+1	31(front):1	
+0	
+0	
+
+<Author>Shnippa
+<Content>Service Unsurpassed We have just returned from a two week trip to Italy. Our stay in Florence was wonderful. We had a hire car and found the way to the Hotel Botticelli very easily. The location of the hotel was excellent. We were greeted with the utmost politeness from the front desk staff, Allesandro  Cecile. They were most helpful with all our requests. i.e.car parking facilities, maps around town, tour tickets and even replacing tickets when husbands misplaced them!!The rooms were comfortable, clean and of a reasonable size. The bathrooms had lovely hot showers. The breakfast was delicious and the charming breakfast lady a real sweetheart. Allessandro and Cecile spoke excellent English and were patient with my developing Italian. We would certainly stay at the Botticelli again on our return and would not hesitate to recommend other stay at this hotel. The rates of the hotel were very attractive (but this was at a time when A$=US$0.90) and excellent value for money. Finally, as a keen shopper I found the location of the Hotel marvellous, close to the markets, boutiques and many site seeing venues all within walking distance. Our only regret was that our stay in Florence was not nearly long enough.  
+<Date>Oct 20, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+17	15(recommend):1	21(excellent):1	39(return):1	48(wonderful):1	121(car):1	127(speak):1	152(english):1	346(florence):2	358(italian):1	438(easily):1	896(nearly):1	902(hesitate):1	1410(regret):1	1556(hire):1	1882(patient):1	2880(develop):1	12248(botticelli):2	
+6	5(time):1	21(excellent):1	78(rate):1	80(money):1	81(value):1	1154(attractive):1	
+8	3(clean):1	13(bathroom):1	25(comfortable):1	61(shower):1	83(size):1	87(lovely):1	114(hot):1	273(reasonable):1	
+23	1(location):2	7(walk):1	21(excellent):1	28(close):1	66(park):1	105(husband):1	115(distance):1	121(car):1	181(tour):1	192(site):1	211(facility):1	239(town):1	264(market):1	341(finally):1	621(ticket):2	724(map):1	912(replace):1	2187(marvelous):1	2190(venue):1	2641(keen):1	3286(boutiques):1	3844(shopper):1	5698(misplace):1	
+0	
+8	0(staff):1	14(helpful):1	31(front):1	36(desk):1	148(request):1	415(greet):1	6092(utmost):1	6903(politeness):1	
+12	6(breakfast):2	9(service):1	33(trip):1	39(return):1	75(week):1	240(real):1	332(charm):1	485(delicious):1	521(lady):1	900(italy):1	7627(sweetheart):1	8600(unsurpassed):1	
+0	
+
+<Author>michellegilmour
+<Content>great I had looked at many hotels in Florence before booking Hotel Botticelli and was very pleased that I chose this hotel. The location was perfect, the hotel delightful, but more importantly, the staff were fabulous with their friendliness, knowledge of the local area and helpfulness.I was travelling with 3 friends and after a very small room in Venice we were pleasantly surprsied at the size of our room-a double room with 2 separate beds and a sitting room turned into a bedroom. The room was spotless and the bathroom very modern and clean-adequate room over the bath to hang our washing! We were also pleased to see a lift for our luggage.We were so close to all the tourist amenities, cafes/restaurants, leather markets and supermarket which enabled us to walk everywhere. The only transport we took was to and from the train station with our heavy luggage.Internet on location was a huge bonus and verandah on second floor enabled us to bring antipasto and wine for dinner while listening to the bells of Il Duomo in the background.I booked through the hotel, which I found much cheaper than using other websites. Breakfast was excellent and served by lovely staff. Very good value.If I returned to Florence, I would certainly stay at Hotel Botticelli againMichelle Sydney , Australia  
+<Date>Oct 17, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+5	39(return):1	346(florence):1	809(sydney):1	1530(australia):1	12248(botticelli):1	
+1	81(value):1	
+26	0(staff):1	1(location):1	11(bed):1	13(bathroom):1	68(travel):1	74(perfect):1	83(size):1	146(friend):1	151(modern):1	169(sit):1	179(double):1	195(local):1	226(bath):1	268(bedroom):1	270(fabulous):1	474(separate):1	478(hang):1	548(spotless):1	747(pleasantly):1	811(wash):1	1176(delightful):1	1498(venice):1	1754(friendliness):1	1996(importantly):1	2148(knowledge):1	3872(helpfulness):1	
+14	7(walk):1	28(close):1	82(station):1	182(train):1	209(tourist):1	249(luggage):1	264(market):1	291(amenity):1	742(transport):1	1078(supermarket):1	1186(heavy):1	2729(leather):1	3727(enable):1	9129(cafes):1	
+0	
+0	
+30	0(staff):1	1(location):1	6(breakfast):1	18(book):2	20(look):1	21(excellent):1	24(floor):1	87(lovely):1	97(internet):1	117(dinner):1	133(huge):1	142(bring):1	143(cheap):1	167(choose):1	173(please):2	174(serve):1	249(luggage):1	251(wine):1	262(website):1	346(florence):1	591(lift):1	801(bell):1	849(bonus):1	981(duomo):1	997(listen):1	2445(background):1	3727(enable):1	6689(verandah):1	11787(antipasto):1	12248(botticelli):1	
+0	
+
+<Author>LeeWestYorkshire
+<Content>First time in Florence Recently I visited Italy (Florence) for the first time. I was looking for a hotel to stay in and did not know which to choose because there are so many. Fortunately I have an Italian friend who lives in Florence who arranged for my wife and I to stay the in the Hotel Botticelli. All I can say is you can't beat local knowledge or advice. The hotel was situated in the centre of Florence on one of the off streets which meant it was very quiet at night so we always got a good nights sleep, but you just walked out of the hotel door turned the corner and bang you were there in the mix.The room that we stayed in was gorgeous, spaceous and most importantly clean. One day we had a lie in and didn't expect the room to be tidied, when we returned that evening the room was spotless the cleaning staff waited. The staff were very polite and very helpful when it came to advising us of the places to go and see and where to eat. I was a little embaressed because my Italian was pathetic by comparison to the staffs mastery of English.I've already recommended this hotel to family  friends and I will being staying here again when I return to Florence.If the rest of the country has hotels and staff like the Hotel Botticelli then I will make Italy an annual vacation for me and my family.LeeWest Yorkshire  
+<Date>Oct 14, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+22	5(time):2	15(recommend):1	20(look):1	39(return):1	65(visit):1	106(family):1	146(friend):2	167(choose):1	184(wife):1	195(local):1	322(recently):1	346(florence):4	358(italian):1	426(life):1	442(beat):1	575(advice):1	680(arrange):1	900(italy):1	1585(fortunately):1	2148(knowledge):1	12248(botticelli):1	12817(yorkshire):1	
+8	0(staff):1	106(family):1	131(vacation):1	288(rest):1	530(country):1	900(italy):1	3623(annual):1	12248(botticelli):1	
+17	2(night):2	3(clean):1	7(walk):1	35(street):1	54(door):1	58(quiet):1	101(center):1	104(sleep):1	200(corner):1	246(mean):1	346(florence):1	446(gorgeous):1	574(situate):1	609(mix):1	1401(bang):1	1996(importantly):1	8858(spaceous):1	
+0	
+9	0(staff):1	3(clean):1	8(day):1	39(return):1	62(expect):1	85(wait):1	548(spotless):1	1100(tidy):1	1166(lie):1	
+10	0(staff):2	14(helpful):1	23(little):1	47(eat):1	152(english):1	358(italian):1	422(polite):1	663(advise):1	1525(comparison):1	3704(pathetic):1	
+0	
+0	
+
+<Author>Tuesday_Moon8
+<Content>The Botticelli - A Charming Florentine Vacation We found the Hotel Botticelli in the Karen Brown Guide and loved the description. We booked several months in advance and confirmed right before we arrived. The staff got back to us immediately confirming our reservation. This was for our honeymoon and we wanted something nice and close to the center of town. This charming boutique hotel was perfect. The staff is friendly and knowledgable, the rooms were extemely clean and comfortable. Each morning we ate breakfast there and enjoyed cappucino and croissants. The food was fresh and got us going for the day. When we needed internet access they provided it and when I needed to confirm train reservations or talk to a car rental agency they did that too since we do not speak Italian. The location of the hotel is excellent - very close to the center of town yet on a quiet street. From our window we could see a few cafe's and narrow streets. Just a few blocks away we were in the Piazza's and the Uffizi Gallery. We decided to walk from the train station when we got to Florence. It was challenging with suitcases but we managed. I would highly recommend this hotel for anyone traveling in Florence. All the necessary ammenities are provided in a sublime 16th century building.  
+<Date>Oct 9, 2008
+<Rating>5	4	4	5	5	5	5	5	
+<Aspects>
+14	15(recommend):1	68(travel):1	100(bloc):1	135(build):1	138(highly):1	153(provide):1	346(florence):1	1794(gallery):1	1940(uffizi):1	2029(16th):1	2116(piazza):1	2171(century):1	2231(ammenity):1	5742(sublime):1	
+14	4(nice):1	28(close):1	40(love):1	101(center):1	131(vacation):1	239(town):1	332(charm):1	502(honeymoon):1	829(guide):1	1667(brown):1	2034(description):1	4249(florentine):1	7204(karen):1	12248(botticelli):2	
+13	0(staff):1	3(clean):1	12(friendly):1	25(comfortable):1	35(street):1	119(window):1	275(cafe):1	645(manage):1	974(suitcase):1	1160(knowledgeable):1	1207(narrow):1	1708(challenge):1	6755(extemely):1	
+15	1(location):1	7(walk):1	21(excellent):1	28(close):1	35(street):1	58(quiet):1	74(perfect):1	82(station):1	101(center):1	182(train):1	219(decide):1	239(town):1	332(charm):1	346(florence):1	623(boutique):1	
+0	
+4	0(staff):1	156(reservation):1	489(immediately):1	982(confirm):1	
+14	6(breakfast):1	8(day):1	16(food):1	18(book):1	47(eat):1	51(enjoy):1	53(arrive):1	56(morning):1	197(fresh):1	388(month):1	685(advance):1	982(confirm):1	1004(croissant):1	4178(cappucino):1	
+12	97(internet):1	121(car):1	127(speak):1	153(provide):1	156(reservation):1	159(access):1	182(train):1	358(italian):1	371(talk):1	963(rental):1	982(confirm):1	2218(agency):1	
+
+<Author>alaskan_itchy-feet
+<Content>great location, quiet, good price, nice people, generous breakfast This hotel was perfect for my needs! Safe for a single female traveller, with easy walking to/from train station, and all major Florence attractions---but on a quiet side street. Lots of good restaurants and street markets nearby, and just a block away from the must-see central market. The staff was very helpful and friendly, there's free internet access on the lobby computer, the breakfast is generous, and the rooms are clean  well-maintained (comfy bed, good shower, bath amenities  blow-dryer--if you've traveled in Europe, you know these things can be iffy) I will definitely stay here again next time I'm in Florence.  
+<Date>Oct 8, 2008
+<Rating>5	4	4	5	4	4	4	4	
+<Aspects>
+0	
+8	1(location):1	4(nice):1	6(breakfast):1	19(price):1	26(people):1	58(quiet):1	74(perfect):1	1523(generous):1	
+23	0(staff):1	3(clean):1	5(time):1	6(breakfast):1	11(bed):1	12(friendly):1	14(helpful):1	46(free):1	55(lobby):1	59(definitely):1	61(shower):1	68(travel):1	97(internet):1	159(access):1	226(bath):1	291(amenity):1	346(florence):1	475(comfy):1	555(computer):1	700(europe):1	1523(generous):1	2905(well-maintaine):1	5100(iffy):1	
+20	7(walk):1	10(restaurant):1	35(street):2	38(lot):1	58(quiet):1	82(station):1	93(easy):1	100(bloc):1	137(safe):1	168(central):1	182(train):1	232(nearby):1	264(market):2	267(traveler):1	304(single):1	315(major):1	346(florence):1	350(attraction):1	1714(female):1	7852(must-see):1	
+0	
+0	
+0	
+0	
+
+<Author>JCTex
+<Content>Loved Hotel Botticelli My wife and I spent our 25th wedding anniversary at Hotel Botticelli. The staff was wonderful and made us feel very special. They gave us a bottle of sparkling Italian wine to celebrate our anniversary. The staff booked museums for us that allowed us to skip the long lines and they recommended and reserved wonderful restaurants for us - not one of which I could find in any guidebooks. The rooms are nice and very clean, but the friendliness and helpfulness of the staff are what really made the difference for me. Also, the location is great - easy walking distance to most of the main atrractions. When I go back to Florence someday, I will stay at Hotel Botticelli again.  
+<Date>Oct 6, 2008
+<Rating>5	4	4	5	4	5	5	-1	
+<Aspects>
+3	346(florence):1	4086(someday):1	12248(botticelli):1	
+7	40(love):1	64(spend):1	184(wife):1	604(wed):1	804(anniversary):1	1943(25th):1	12248(botticelli):2	
+6	0(staff):1	3(clean):1	4(nice):1	819(difference):1	1754(friendliness):1	3872(helpfulness):1	
+5	1(location):1	7(walk):1	93(easy):1	112(main):1	115(distance):1	
+0	
+4	0(staff):1	34(feel):1	48(wonderful):1	208(special):1	
+17	0(staff):1	10(restaurant):1	15(recommend):1	18(book):1	48(wonderful):1	188(line):1	238(bottle):1	251(wine):1	358(italian):1	359(allow):1	506(reserve):1	507(museum):1	804(anniversary):1	1014(celebrate):1	1429(skip):1	1919(sparkle):1	5938(guidebooks):1	
+0	
+
+<Author>jabOxon
+<Content>perfect Booked this hotel after reading trip advisor. Florence was fantastic, hotel was very clean, staff were more than helpful, location was perfect, We slept like we were in our own beds. A wonderful trip, can't wait to return and would stay at this hotel again.  
+<Date>Oct 5, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+10	0(staff):1	1(location):1	3(clean):1	11(bed):1	14(helpful):1	74(perfect):1	86(fantastic):1	104(sleep):1	166(own):1	346(florence):1	
+0	
+0	
+4	33(trip):1	39(return):1	48(wonderful):1	85(wait):1	
+5	18(book):1	33(trip):1	74(perfect):1	88(read):1	701(advisor):1	
+0	
+
+<Author>RacemanMontreal
+<Content>Great Location       Hotel Boticceli  
+<Date>Sep 30, 2008
+<Rating>5	4	3	5	4	4	4	3	
+<Aspects>
+0	
+0	
+0	
+1	1(location):1	
+0	
+0	
+0	
+0	
+
+<Author>Lindabee2
+<Content>Charming hotel, great locaation We stayed here for 4 nights in September 2008. The hotel is very conveniently located by the Piazza del Mercato Centrale. The staff was very friendly and helpful. The beds are comfortable. As with every room I've stayed in in Europe, the rooms are small. My best advice for travelers is don't bring a different outfit for every day - pack light! There are no drawers but we were able to fit one suitcase in the armoire. There is too much furniture in the room, making it seem even smaller. Our room was on the first floor overlooking a busy side street. It was noisy from about 7 am to midnight, but that coincided with our sleep plans, so it wasn't a problem. If you expect to sleep different hours, ask for an inside room. I would definitely stay here again.  
+<Date>Sep 28, 2008
+<Rating>4	5	4	5	5	5	5	5	
+<Aspects>
+4	2(night):1	59(definitely):1	332(charm):1	972(september):1	
+0	
+28	8(day):1	11(bed):1	24(floor):1	25(comfortable):1	35(street):1	60(hour):1	62(expect):1	104(sleep):2	142(bring):1	157(light):1	171(able):1	217(noisy):1	220(busy):1	221(plan):1	260(overlook):1	267(traveler):1	408(inside):1	440(furniture):1	575(advice):1	668(fit):1	700(europe):1	715(pack):1	974(suitcase):1	1044(midnight):1	1426(drawer):1	3225(armoire):1	4082(outfit):1	6890(coincide):1	
+6	84(locate):1	1070(conveniently):1	1482(del):1	2116(piazza):1	6900(centrale):1	7894(mercato):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>njm-inv
+<Content>Great Hotel in Florence What an excellent location - stayed three nights, wish we could have stayed longer.Very comfortable room, staff very friendly and helpful. The breakfasts were buffet style - breads, ham, cheese, fruit and yoghurt - perfectly adequate. Room very clean and comfortable (could have been warmer) and excellent value. Make sure you find the terrace on the third floor.We would definitely stay again - perfect location for the markets. Food market is right on the doorstep - don't miss it! We'll be back.  
+<Date>Sep 23, 2008
+<Rating>4	4	4	5	4	5	3	-1	
+<Aspects>
+0	
+5	3(clean):1	21(excellent):1	25(comfortable):1	81(value):1	236(warm):1	
+7	0(staff):1	12(friendly):1	14(helpful):1	24(floor):1	25(comfortable):1	532(third):1	673(terrace):1	
+11	1(location):2	2(night):1	16(food):1	21(excellent):1	59(definitely):1	74(perfect):1	264(market):2	276(miss):1	346(florence):1	384(wish):1	2071(doorstep):1	
+0	
+0	
+10	6(breakfast):1	77(buffet):1	215(fruit):1	326(style):1	390(adequate):1	441(cheese):1	497(bread):1	595(perfectly):1	927(yogurt):1	1561(ham):1	
+0	
+
+<Author>BudapestPeter007
+<Content>Great times in Botticelli We spent a lovely holiday at your hotel Botticelli from 7th sept. till 18th sept. Our room and the hotel services was absolutely satisfying.We would like to visit you again, as soon as its possible!Many thanks to the whole team!  
+<Date>Sep 19, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	5(time):1	64(spend):1	65(visit):1	87(lovely):1	223(holiday):1	418(soon):1	979(till):1	1804(sept):2	2213(18th):1	2951(7th):1	12248(botticelli):2	
+0	
+3	9(service):1	189(absolutely):1	899(satisfy):1	
+0	
+0	
+0	
+2	271(thank):1	1008(team):1	
+0	
+
+<Author>Jetstarr
+<Content>A wonderful discovery On our recent trip to Italy, we were in Florence for 4 days - the hotel we had booked was a great disappointment and while walking downtown, we came upon the Botticelli. The location was fantastic - in the heart of the center and situated near the Central Market of San Lorenzo. Fortunately, they had a room for us and the remainder of our Florentine adventure was so pleasant - in part due to the kindness of the hotel's Staff in supplying us with maps and shortcuts and helpful hints and indicating some really super restaurants. Our room, although not too large, was spotless with all the amenities - great shower - and a breathtaking view of the cupola of San Lorenzo from the lovely covered terrace where we wrote our postcards while enjoying a glass of wine. Breakfast was plentiful and varied - from cereals and fruit to sliced cheese and cold cuts. The coffee was divine! We would most definitely recommend the Botticelli to anyone going to Florence and we hope to be able to go back ourselves one day.  
+<Date>Aug 21, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+8	8(day):1	15(recommend):1	59(definitely):1	171(able):1	328(hope):1	346(florence):1	767(ourselves):1	12248(botticelli):1	
+0	
+15	17(view):1	51(enjoy):1	61(shower):1	87(lovely):1	177(san):1	251(wine):1	291(amenity):1	327(glass):1	344(write):1	548(spotless):1	552(cover):1	673(terrace):1	1444(breathtaking):1	3357(postcard):1	3900(lorenzo):1	
+22	1(location):1	7(walk):1	8(day):1	18(book):1	33(trip):1	48(wonderful):1	86(fantastic):1	101(center):1	102(near):1	168(central):1	177(san):1	264(market):1	334(downtown):1	346(florence):1	450(heart):1	574(situate):1	866(disappointment):1	900(italy):1	1064(recent):1	3900(lorenzo):1	3951(discovery):1	12248(botticelli):1	
+0	
+0	
+27	0(staff):1	6(breakfast):1	10(restaurant):1	14(helpful):1	90(coffee):1	150(pleasant):1	215(fruit):1	222(cold):1	259(due):1	441(cheese):1	464(super):1	529(cereal):1	724(map):1	859(supply):1	873(cut):1	1039(plentiful):1	1578(varied):1	1585(fortunately):1	1776(indicate):1	1861(adventure):1	2024(slice):1	2042(hint):1	3123(remainder):1	3421(kindness):1	3481(divine):1	4249(florentine):1	10039(shortcut):1	
+0	
+
+<Author>Wedge4321
+<Content>Superb accomodations My oldest daughter  I spent three glorious days in Florence using this lovely no frills hotel as our base. For starters, it is in a WONDERFUL location, walking distance from everything that is anything there (i.e., four minutes to Academia; 10-min to Ufitzy Museum; 8-min to Ponta Vechia bridge; 5-min to Duomo). The hotel is clean, off the beaten path so quiet, but minutes away from the action. Breakfast was superb. Cost was reasonable. Staff was VERY helpful calling to get us tours, museum reservations, and dinner recommendations and reservations. WE WILL GO AGAIN and stay here. It's simply lovely!  
+<Date>Aug 13, 2008
+<Rating>5	5	4	5	5	5	4	-1	
+<Aspects>
+2	87(lovely):1	488(simply):1	
+12	8(day):1	64(spend):1	87(lovely):1	175(cost):1	273(reasonable):1	284(base):1	346(florence):1	407(superb):1	467(daughter):1	780(accomodation):1	2210(frill):1	3318(glorious):1	
+6	3(clean):1	29(minute):1	58(quiet):1	442(beat):1	958(action):1	1612(path):1	
+10	1(location):1	7(walk):1	29(minute):1	48(wonderful):1	115(distance):1	507(museum):1	740(bridge):1	981(duomo):1	3081(starter):1	5162(academia):1	
+0	
+8	0(staff):1	14(helpful):1	67(call):1	117(dinner):1	156(reservation):2	181(tour):1	507(museum):1	577(recommendation):1	
+2	6(breakfast):1	407(superb):1	
+0	
+
+<Author>bluedevil97
+<Content>Great hotel--highly recommend! We have just returned from a lovely stay in Florence at the Hotel Botticelli. We have stayed there on vacations the last three years and would not consider anywhere else in Florence. On the recommendation of a friend, we tried the Hotel Botticelli in the summer of 2006. We found it to be a delightful place to stay. Its central location is great for seeing Florence on foot. The rooms are air-conditioned and inviting. The staff is the most courteous and helpful we have experienced on our trips. Each person at the reception desk was gracious in making reservations, checking train schedules, etc. for us. We highly recommend this charming hotel.  
+<Date>Aug 7, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+11	15(recommend):2	39(return):1	87(lovely):1	138(highly):2	146(friend):1	253(tried):1	332(charm):1	346(florence):1	577(recommendation):1	853(summer):1	12248(botticelli):2	
+9	0(staff):1	14(helpful):1	33(trip):1	44(experience):1	131(vacation):1	170(else):1	248(consider):1	346(florence):1	483(courteous):1	
+3	1176(delightful):1	1210(invite):1	3114(air-conditioned):1	
+4	1(location):1	168(central):1	346(florence):1	402(foot):1	
+0	
+9	32(check):1	36(desk):1	73(etc):1	129(reception):1	156(reservation):1	182(train):1	193(person):1	1196(schedule):1	1501(gracious):1	
+0	
+0	
+
+<Author>vicenzagirl
+<Content>Great little getaway Hotel Botticelli was well located right near the Duomo and within a 10 minute walk of all major sites. The hotel was very clean, excellent breakfast, and very friendly staff that were also very accommodating. Rooms were nice, but small, with a very clean bathroom. Staff were very helpful with directions, and other tourist information.  
+<Date>Aug 4, 2008
+<Rating>5	4	3	5	5	5	5	-1	
+<Aspects>
+0	
+6	0(staff):1	3(clean):1	6(breakfast):1	12(friendly):1	21(excellent):1	624(accommodate):1	
+3	3(clean):1	4(nice):1	13(bathroom):1	
+10	7(walk):1	23(little):1	29(minute):1	84(locate):1	102(near):1	192(site):1	315(major):1	981(duomo):1	1089(getaway):1	12248(botticelli):1	
+0	
+5	0(staff):1	14(helpful):1	209(tourist):1	395(direction):1	649(information):1	
+0	
+0	
+
+<Author>CR8ART
+<Content>A Gem of a Hotel Looking for a small, centrally located hotel in the historic area, we were thrilled upon our arrival in Florence to be greeted by courteous and helpful staff at the Hotel Botticelli. The room was comfortable and clean, the air conditioning nice and cool, the ensuite bathrooms large and convenient, and the complimentary breakfast tasty. As we had many sights to see on our list, the location was perfectly situated within walking distance of all our destinations. I was able to contact the multi-lingual staff via e-mail prior to arrival and they were wonderful in assisting with other reservations. They went out of their way to help us track down the 'best pizza in Florence', and assisted with every detail such as coordinating train schedules (in English for us!) We felt very secure walking at any time to and from the hotel, and we loved greeting each morning in Florence by opening the shutters and listening to the bells of the cathedral. We have recommended the hotel and its location to several friends, and look forward to returning soon. A wonderful hotel at just the right location and price.  
+<Date>Jul 17, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+3	1(location):1	19(price):1	48(wonderful):1	
+12	3(clean):1	4(nice):1	6(breakfast):1	13(bathroom):1	25(comfortable):1	164(air):1	186(convenient):1	263(condition):1	278(cool):1	345(complimentary):1	984(tasty):1	2601(ensuite):1	
+44	0(staff):1	1(location):2	5(time):1	7(walk):2	14(helpful):1	15(recommend):1	20(look):2	34(feel):1	39(return):1	40(love):1	56(morning):1	84(locate):1	92(help):1	115(distance):1	146(friend):1	152(english):1	182(train):1	224(arrival):1	346(florence):3	411(sight):1	415(greet):2	418(soon):1	483(courteous):1	574(situate):1	592(detail):1	595(perfectly):1	650(list):1	678(pizza):1	750(forward):1	801(bell):1	805(gem):1	879(centrally):1	997(listen):1	1034(secure):1	1092(destination):1	1196(schedule):1	1265(assist):1	1274(historic):1	1552(cathedral):1	1766(track):1	1822(thrill):1	2500(shutter):1	5297(coordinate):1	12248(botticelli):1	
+0	
+10	0(staff):1	48(wonderful):1	156(reservation):1	171(able):1	224(arrival):1	512(via):1	637(prior):1	713(contact):1	1265(assist):1	6902(multi-lingual):1	
+0	
+0	
+
+<Author>veroamore
+<Content>wished our entired stay in florence had been here! we transferred to this hotel our final night in florence after a/c problems at the BB we had been booked at.location wasn't quite as convenient as our initial BB but it wasn't horribly out of the way nor were we disturbed by the bells in giotto's tower in the morning. overall, i preferred this location.this is the 3rd hotel i've stayed at in florence and is by far the best. the rooms were much quieter and a little more luxurious than the other places i stayed in florence. the food offered for breakfast was also much better. prices were only slightly higher and certainly worth it.the woman at the front desk was a sweetheart - she gave special attention to my 6 year old and gave him a tourist book about florence (published by disney for kids) so he could learn more about the city.after the problems we had had at our previous hotel, moving to this hotel really made our final night in florence much better.i would certainly stay here again next time i'm in florence.  
+<Date>Jul 15, 2008
+<Rating>4	4	4	4	5	5	5	3	
+<Aspects>
+9	2(night):1	5(time):1	207(move):1	329(entire):1	346(florence):4	373(previous):1	384(wish):1	1337(final):1	2097(3rd):1	
+3	19(price):1	96(worth):1	598(slightly):1	
+14	1(location):1	23(little):1	56(morning):1	58(quiet):1	186(convenient):1	346(florence):1	378(tower):1	708(luxurious):1	801(bell):1	970(nor):1	1067(disturb):1	2074(initial):1	2380(bb):1	3606(horribly):1	
+3	1(location):1	70(overall):1	536(prefer):1	
+0	
+14	18(book):1	31(front):1	36(desk):1	41(city):1	201(kid):1	208(special):1	209(tourist):1	346(florence):1	566(woman):1	703(learn):1	726(attention):1	2759(disney):1	5651(publish):1	7627(sweetheart):1	
+9	2(night):1	6(breakfast):1	16(food):1	18(book):1	89(offer):1	346(florence):1	1021(transfer):1	1337(final):1	2380(bb):1	
+0	
+
+<Author>garysgal
+<Content>Great Location       Fron of hotel  
+<Date>Feb 5, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+2	1(location):1	6114(fron):1	
+0	
+0	
+0	
+0	
+
+<Author>Jack_in_NY
+<Content>Nice little hotel We stayed six nights in this cute little hotel and were completely satisfied. The room wasn't large - after all, this is Italy! - but certainly adequate. And the bathroom was actually much bigger than usual. Everything was clean and comfortable. The staff were friendly and helpful throughout. The three-star rating is well deserved.As mentioned in other reviews, the location of this hotel couldn't be better for day trips around Florence. The Arno is a 10 minute walk which takes you straight past the Duomo, Palazzo Vecchio, the Uffizzi, etc. And we found several fairly inexpensive restaurants with better-than-average food within a few blocks in any direction. The Mercato Centrale is also within five minutes by foot.Our only minus (and a slight one) is the breakfast offerings. Breakfast isn't an important meal in Italy, but our feeling is if you're going to offer it, the quality should be acceptable - especially the coffee! Our suggestion - walk 1/2 block to a fabulous and cheap coffee place and buy your own.Overall, we give this place a solid A.  
+<Date>Oct 21, 2007
+<Rating>4	4	4	5	4	5	4	-1	
+<Aspects>
+13	2(night):1	4(nice):1	23(little):2	29(minute):1	70(overall):1	390(adequate):1	402(foot):1	542(completely):1	899(satisfy):1	1202(cute):1	1617(solid):1	6900(centrale):1	7894(mercato):1	
+11	7(walk):1	78(rate):1	90(coffee):1	100(bloc):1	143(cheap):1	166(own):1	270(fabulous):1	280(buy):1	921(suggestion):1	1072(deserve):1	6215(three-star):1	
+8	6(breakfast):1	13(bathroom):1	180(actually):1	682(usual):1	900(italy):1	1297(slight):1	2064(minus):1	2610(offering):1	
+16	1(location):1	7(walk):1	8(day):1	29(minute):1	33(trip):1	37(review):1	73(etc):1	244(mention):1	346(florence):1	419(past):1	827(straight):1	981(duomo):1	1836(vecchio):1	2117(arno):1	3992(palazzo):1	6932(uffizzi):1	
+2	3(clean):1	25(comfortable):1	
+4	0(staff):1	12(friendly):1	14(helpful):1	445(throughout):1	
+15	6(breakfast):1	10(restaurant):1	16(food):1	34(feel):1	89(offer):1	90(coffee):1	100(bloc):1	126(especially):1	187(quality):1	213(meal):1	395(direction):1	462(fairly):1	900(italy):1	1117(inexpensive):1	1214(acceptable):1	
+0	
+
+<Author>Victoria71
+<Content>Central Location This hotel is very central and that is perhaps its redeeming feature. Rooms in Italy are small but this one was minute, two single beds end to end and with our luggage it was nearly impossible to move and to top it off the air conditioning didn't work. We were supplied with a fan which did little to help as it was really hot but when we pointed out to the staff the next morning our disappointment we were given a much better room. Breakfasts in this hotel are dreadful and with little effort that could be improved. The staff were friendly and knowledgable.  
+<Date>Aug 26, 2007
+<Rating>2	3	1	4	3	3	4	-1	
+<Aspects>
+0	
+0	
+19	0(staff):1	11(bed):1	23(little):1	29(minute):1	56(morning):1	92(help):1	114(hot):1	118(top):1	164(air):1	207(move):1	249(luggage):1	263(condition):1	304(single):1	661(fan):1	859(supply):1	866(disappointment):1	896(nearly):1	900(italy):1	1169(impossible):1	
+4	1(location):1	168(central):2	731(feature):1	4213(redeem):1	
+0	
+3	0(staff):1	12(friendly):1	1160(knowledgeable):1	
+5	6(breakfast):1	23(little):1	1017(effort):1	1217(improve):1	2895(dreadful):1	
+0	
+
+<Author>tim520
+<Content>Great Hotel, however.... Me and my partner stayed in this hotel for 3 nights. It could not have been in a better location! Considering the very affordable price the room was clean, the bathroom large (with plenty of hot water) and the morning breakfast delightful. The only shortcomings were with the front desk staff. The male attendant was very hospitable but the two female staff members who work throughout the afternoon were extremely cold and unfriendly. Standing directly in front of them didn't even get a glance in our direction until we forced it. I do admit that they did their job but it was difficult for me not to make the assumption that maybe they were simply offended that we were a gay couple as they were always seemingly friendly to other guests. Regardless, the stay was enjoyable. I highly recommend this hotel.  
+<Date>Aug 1, 2007
+<Rating>4	5	4	5	4	4	1	-1	
+<Aspects>
+18	2(night):1	12(friendly):1	15(recommend):1	91(guest):1	99(couple):1	138(highly):1	308(maybe):1	481(job):1	488(simply):1	567(enjoyable):1	572(difficult):1	1006(partner):1	1282(admit):1	2012(regardless):1	2552(gay):1	3501(seemingly):1	4026(offend):1	9046(assumption):1	
+0	
+11	3(clean):1	6(breakfast):1	13(bathroom):1	19(price):1	56(morning):1	57(water):1	114(hot):1	158(plenty):1	248(consider):1	1062(affordable):1	1176(delightful):1	
+1	1(location):1	
+0	
+18	0(staff):2	31(front):2	36(desk):1	110(extremely):1	222(cold):1	364(afternoon):1	383(directly):1	395(direction):1	444(stand):1	445(throughout):1	1446(attendant):1	1487(unfriendly):1	1550(force):1	1714(female):1	2295(male):1	2743(hospitable):1	3666(glance):1	4259(shortcoming):1	
+0	
+0	
+
+<Author>TracyandJoeRushton
+<Content>Watch out for the car parking fees!!! After reading the reviews from April, all I can say is either the contributors haven't travelled much, or the hotel has seriously gone downhill since then.Although this hotel is well located, that's about the only good thing. The staff are indifferent, somethimes rude. Rooms are ok, nothing special, and breakfast was one of the poorest on our 3 week trip across Europe. Why is it necessary to serve orange squash for breakfast instead of juice?Our biggest problem was with hotel parking. We parked our Freelander in the hotel carpark, and were quoted 25 euros a night. Hotel staff then moved it into a local multi storey, without asking, during which it got badly scratched. On checking out, the garage owner wanted 35 euros a night, as it was a larger vehicle.After a heated discussion with the hotel during which they said we'd been quoted the wrong price, we paid the amount we'd been quoted, and the hotel paid the rest. I wouldn't recommend this hotel to anyone.  
+<Date>Jul 30, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	15(recommend):1	37(review):1	68(travel):1	88(read):1	1441(seriously):1	2983(downhill):1	8586(contributor):1	
+8	19(price):1	42(pay):2	288(rest):1	427(wrong):1	539(heat):1	666(amount):1	1856(quote):2	3282(discussion):1	
+7	6(breakfast):1	33(trip):1	75(week):1	123(ok):1	208(special):1	331(poor):1	700(europe):1	
+9	2(night):1	66(park):3	84(locate):1	121(car):1	245(watch):1	256(euro):1	584(fee):1	1856(quote):1	4557(carpark):1	
+0	
+15	0(staff):2	2(night):1	32(check):1	195(local):1	207(move):1	256(euro):1	392(rude):1	672(owner):1	936(garage):1	1663(badly):1	1951(vehicle):1	2481(indifferent):1	2613(scratch):1	4946(storey):1	5171(multi):1	
+6	6(breakfast):1	174(serve):1	353(instead):1	362(juice):1	1104(orange):1	5235(squash):1	
+0	
+
+<Author>theWanderingStar
+<Content>A hotel to avoid - a very poor stay. I stayed in this hotel last year  had a very enjoyable stay and recommended it to many friends. I returned to Florence to the Hotel Botticelli but my what a fall from grace this hotel has had. I stayed for six nights and during my stay we had 3 days without hot water so we had to endure cold showers, not what one looks forward to in an Italian summer.I had the mistake of making use of the 12hr laundry service for two shirts, I was a little surprised to find that the items had not been cleaned on my return that evening... in fact the staff forgot to send the items for cleaning and was told the laundry would be back the next morning. Next morning arrives and guess what? no laundry! Eventually, two days later my two shirts that I was promised would be cleaned in 12hrs arrived back, I was happy at this stage to get them back at all!!Some of the staff were generally helpful but failed to tell us on the day of our departure that a 24hr general train strike was in operation in the Tuscany region as we booked a Taxi from the Hotel to the train station... For me this was the last straw as the train station staff advised us that all the hotels in Florence were made aware of the industrial action.Florence is a fantastic city and I will no doubt be back, but I won't be staying in the Hotel Botticelli  would recommend that people avoid staying here.  
+<Date>May 19, 2007
+<Rating>2	1	3	5	4	2	3	3	
+<Aspects>
+18	15(recommend):2	26(people):1	39(return):1	41(city):1	53(arrive):1	56(morning):1	86(fantastic):1	146(friend):1	331(poor):1	346(florence):2	436(avoid):2	469(guess):1	487(wo):1	567(enjoyable):1	587(fall):1	952(doubt):1	2620(grace):1	12248(botticelli):2	
+0	
+11	2(night):1	8(day):1	20(look):1	57(water):1	61(shower):1	114(hot):1	222(cold):1	358(italian):1	750(forward):1	853(summer):1	4049(endure):1	
+21	0(staff):2	8(day):1	14(helpful):1	18(book):1	69(tell):1	82(station):2	182(train):3	185(taxi):1	346(florence):1	663(advise):1	832(aware):1	958(action):1	1031(departure):1	1576(fail):1	1957(strike):1	2874(operation):1	3019(tuscany):1	3256(industrial):1	3393(straw):1	3612(region):1	3897(24hr):1	
+9	3(clean):1	8(day):1	53(arrive):1	79(late):1	155(happy):1	975(promise):1	1204(eventually):1	1844(shirt):1	1866(stage):1	
+0	
+14	0(staff):1	3(clean):2	9(service):1	23(little):1	39(return):1	56(morning):1	69(tell):1	199(surprise):1	397(forget):1	447(send):1	519(item):2	895(mistake):1	1075(laundry):3	1844(shirt):1	
+0	
+
+<Author>BrisbaneWhitefamily
+<Content>Top Spot!!! We stayed here for 3 days. We had a triple room. It was absolutely fantastic. The decor of the foyer was superb. We have travelled a lotthrough Italy and this hotel rates hightly for its 1. location. 2. cleanliness. 3. Helpfull Staff. Can't say enough about this lovely little hotel - and the little Wine Cellar next door for bulk wine - WOW!!!  
+<Date>Apr 19, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	8(day):1	68(travel):1	78(rate):1	86(fantastic):1	118(top):1	189(absolutely):1	317(spot):1	900(italy):1	10286(hightly):1	
+0	
+4	269(decor):1	407(superb):1	1553(triple):1	1931(foyer):1	
+1	1(location):1	
+1	854(cleanliness):1	
+2	0(staff):1	1478(helpfull):1	
+7	23(little):2	54(door):1	87(lovely):1	251(wine):2	862(wow):1	4984(cellar):1	7434(bulk):1	
+0	
+
+<Author>lalawmom
+<Content>Not a 3-star hotel We stayed at this hotel for one night during the Easter weekend. We had stayed at a fantastic 3-star hotel in Milan during the same trip and were very disappointed in the Botticelli Hotel. The only thing going for it is the location. It is near the San Marco piazza. That also was one of the biggest problems. Our room overlooked a narrow alley type street and motorcycles and scooters used it all night. It was VERY noisy. Additionally, the walls between the rooms were very thin and we heard more than we wanted to hear late into the night.The staff was helpful but not overly friendly. The complimentary breakfast was so-so. The room was small and the bathroom even smaller. There was dust all around the perimeter of the carpeted room.I would not return to this hotel and would never recommend it.  
+<Date>Apr 16, 2007
+<Rating>2	1	2	4	1	3	2	4	
+<Aspects>
+7	15(recommend):1	39(return):1	102(near):1	177(san):1	217(noisy):1	2116(piazza):1	2581(marco):1	
+9	2(night):1	33(trip):1	86(fantastic):1	154(disappoint):1	172(weekend):1	2075(easter):1	2814(3-star):2	7557(milan):1	12248(botticelli):1	
+17	2(night):2	13(bathroom):1	35(street):1	79(late):1	132(hear):2	183(wall):1	260(overlook):1	389(type):1	396(carpet):1	754(thin):1	1207(narrow):1	1671(alley):1	1845(dust):1	2649(additionally):1	4566(scooter):1	5449(motorcycle):1	6500(perimeter):1	
+1	1(location):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	1345(overly):1	
+3	6(breakfast):1	345(complimentary):1	1883(so-so):1	
+0	
+
+<Author>labrat2005
+<Content>Very Nice stay in Florence A very nice hotel in Florence. Clean, close to the market and a nice walk to the Duomo and close enough to the train station. Our room was on the street and it was somewhat noisy (those pesky scooters), a good suggestion to request a room not on the street. The staff was helpful making reservations for the Ufzzi and the Accademina (a must!) and checking on train schedules. We enjoed lunch one day at the market and dinners at Pepo, just down the street from the hotel.  
+<Date>Apr 8, 2007
+<Rating>4	-1	4	4	4	4	4	-1	
+<Aspects>
+2	4(nice):2	346(florence):2	
+0	
+7	35(street):2	148(request):1	217(noisy):1	651(somewhat):1	921(suggestion):1	4566(scooter):1	10162(pesky):1	
+14	3(clean):1	4(nice):1	7(walk):1	8(day):1	28(close):2	32(check):1	35(street):1	82(station):1	117(dinner):1	182(train):2	252(lunch):1	264(market):2	981(duomo):1	1196(schedule):1	
+0	
+3	0(staff):1	14(helpful):1	156(reservation):1	
+0	
+0	
+
+<Author>misstoscana
+<Content>Great location and helpful staff I had a group of 8 and we stayed here for 3 nights. It's about a 5-10 minute walk from the station and it's right in the middle of everything as far as walking distances, but it's tucked away on a side street so it's also quiet. The staff was very helpful and the rooms were clean.  
+<Date>Apr 3, 2007
+<Rating>5	5	4	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+3	0(staff):1	3(clean):1	14(helpful):1	
+12	0(staff):1	1(location):1	2(night):1	7(walk):2	14(helpful):1	29(minute):1	35(street):1	58(quiet):1	82(station):1	115(distance):1	325(middle):1	2091(tuck):1	
+0	
+0	
+0	
+0	
+
+<Author>Dudley93
+<Content>Chaming Tuscan hotel A charming hotel with an amazing ceiling to the foyer. Nice room. Pity that the bath plug didn't fit. Close to the Market where fine leather goods are on sale. Quite close to the Accademia, Duomo and to too far away from the Ponte Vecchio and the Uffizi.Recommended.  
+<Date>Mar 26, 2007
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+10	15(recommend):1	145(amaze):1	226(bath):1	332(charm):1	528(ceiling):1	668(fit):1	1174(plug):1	1931(foyer):1	2855(tuscan):1	3150(pity):1	
+0	
+1	4(nice):1	
+10	28(close):2	113(fine):1	264(market):1	981(duomo):1	1645(ponte):1	1723(sale):1	1836(vecchio):1	1940(uffizi):1	2729(leather):1	2806(accademia):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>This hotel comes hightly recommended! This hotel is certainly a place i would and will recommend to my friends. The staff were so friendly and helpful and my room was always tidy and clean. I stayed for a week and even extended my stay because it was so comfortable and reasonable. I've travelled for over 10 years and this is one of the best hotels i've stayed at. The decor is neutral and tasteful without distraction. The location is good also, only a few minutes walk from the central station (which is rough) but the hotel is in a safe place, within an easy few minutes walk to the main attractions. I was a single Chinese female there and i felt safe and looked after all the time. The staff were excellent and the breakfast was more than what typical hotels in Rome would serve. What more can i say but go for it!!!  
+<Date>Jun 24, 2006
+<Rating>5	3	3	-1	4	-1	5	-1	
+<Aspects>
+15	5(time):1	15(recommend):2	20(look):1	25(comfortable):1	34(feel):1	68(travel):1	75(week):1	137(safe):1	146(friend):1	273(reasonable):1	304(single):1	764(chinese):1	1303(extend):1	1714(female):1	10286(hightly):1	
+0	
+4	269(decor):1	2122(tasteful):1	3742(neutral):1	6578(distraction):1	
+10	1(location):1	7(walk):2	29(minute):2	82(station):1	93(easy):1	112(main):1	137(safe):1	168(central):1	350(attraction):1	1047(rough):1	
+5	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	1100(tidy):1	
+0	
+6	0(staff):1	6(breakfast):1	21(excellent):1	174(serve):1	628(typical):1	2185(rome):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great location, very nice hotel We stayed at the Botticelli for 2 nights from february 25th. We chose this hotel because of its perfect central location, steps from the Duomo and 5 minutes walking from Michelangelo鈥檚 David. The room was was well furnished, well kept and clean, with a nice view overlooking the San Lorenzo market. After the first night, though, we informed the Reception that the room was for us a little bit noisy and they kindly offered us another room on the back that was very quiet. We have nothing to criticize on the breakfast, we even had a great Parma ham! (perhaps the management took into consideration the reviews of Tripadvisor?). Would definetely recommend this small and cosy hotel  
+<Date>Mar 5, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+17	2(night):1	3(clean):1	4(nice):1	17(view):1	23(little):1	52(bit):1	58(quiet):1	89(offer):1	129(reception):1	177(san):1	217(noisy):1	260(overlook):1	264(market):1	787(furnish):1	817(inform):1	2509(kindly):1	3900(lorenzo):1	
+18	1(location):2	2(night):1	4(nice):1	7(walk):1	15(recommend):1	29(minute):1	74(perfect):1	167(choose):1	168(central):1	366(step):1	749(cozy):1	981(duomo):1	1230(february):1	1943(25th):1	1956(david):1	2820(definetely):1	3243(michelangelo):1	12248(botticelli):1	
+0	
+4	37(review):1	525(management):1	597(tripadvisor):1	2583(consideration):1	
+3	6(breakfast):1	1561(ham):1	4864(criticize):1	
+0	
+
+<Author>ofe
+<Content>tripadvisor great adivice! After searching for so many 3 star hotels in Florence when i red the reviews from trip adivsor i decided to book hotel botticelli. We stayed 2 nights at hotel botticelly, the entrance and the rooms were cosy, cute and very clean maybe just a bit noisy during the night time but not terrible. The location was great.The real terrible thing was the breakfast, when i red the reviews from tripadvisor I thought they were exagerating a little bit but they weren't.. The breakfast was absolutely HORRIBLE the bread was old and chewy the croissant was hard and oily the orange juice was water with sugar and some kind of orange flavour the tea was ok (oviously). I travel quite a lot and in my opinion to make a good breakfast in a hotel is not such a difficult thing to do. I red complains from other clients that stayed before on the guest book but they seem to not care about it.The staff was ok but not too friendlyIn general ok for a 3 star hotel.  
+<Date>Dec 6, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	597(tripadvisor):1	
+11	0(staff):1	18(book):1	33(trip):1	37(review):1	103(star):2	123(ok):2	219(decide):1	346(florence):1	590(red):1	1248(search):1	12248(botticelli):1	
+10	2(night):2	3(clean):1	5(time):1	52(bit):1	217(noisy):1	308(maybe):1	432(terrible):1	490(entrance):1	749(cozy):1	1202(cute):1	
+1	1(location):1	
+0	
+0	
+32	6(breakfast):3	18(book):1	23(little):1	37(review):1	38(lot):1	52(bit):1	57(water):1	68(travel):1	91(guest):1	123(ok):1	162(hard):1	189(absolutely):1	240(real):1	241(complain):1	242(care):1	301(tea):1	362(juice):1	432(terrible):1	497(bread):1	544(horrible):1	572(difficult):1	590(red):2	597(tripadvisor):1	704(opinion):1	1004(croissant):1	1104(orange):2	1952(client):1	2113(sugar):1	2147(flavor):1	8180(oily):1	8690(chewy):1	11073(exagerate):1	
+0	
+
+<Author>TnKarenLee
+<Content>We Loved IT. Just returned from 2 nights at Botticelli Hotel (Nov 8 - 10) and were charmed by this small Italian hotel. The desk staff was delightful and very helpful. The room itself was indeed smallish as was the bathroom, but the bed was comfortable and all equipment was clean and working. The breakfast was ok only. They certainly could have done a better job in that area with a minimum of effort. The coffee however was very good and brewed to order. The selling point was the location! Walking distance to EVERYTHING. In Florence, how much time are you really going to spend in your room anyway? We felt it was a great value for the money.  
+<Date>Nov 14, 2005
+<Rating>4	4	3	-1	4	-1	4	-1	
+<Aspects>
+4	40(love):1	481(job):1	1017(effort):1	2124(minimum):1	
+3	34(feel):1	80(money):1	81(value):1	
+11	3(clean):1	5(time):1	11(bed):1	13(bathroom):1	25(comfortable):1	64(spend):1	346(florence):1	417(anyway):1	990(indeed):1	1211(equipment):1	2104(smallish):1	
+10	1(location):1	2(night):1	7(walk):1	39(return):1	115(distance):1	332(charm):1	358(italian):1	606(sell):1	1763(nov):1	12248(botticelli):1	
+0	
+4	0(staff):1	14(helpful):1	36(desk):1	1176(delightful):1	
+4	6(breakfast):1	90(coffee):1	123(ok):1	4317(brew):1	
+0	
+
+<Author>MrArthur
+<Content>Not very well run First experience here was being smirked at when I said I had a reservation. They had apparently confirmed my room with the online booking agency, taken the prepaid payment, but forgotten to reserve a room. To their credit, the hotel did arrange a room at a nearby hotel (although booked a smoking room, even though our reservation at their hotel was non-smoking).Half the staff are friendly, half rude. Breakfast is very dismal - other guests ended up shouting at the staff to try to get coffee (which was ignored). After 20 minutes of being ignored in a room of only about 15 guests, I also gave up waiting. Don't bother wasting your time - find a cafe nearby and get something enjoyable. The guestbook is full of other complaints about breakfast, something that the owners either don't read or care about.Luggage storage is in a public room with no security, so leaving bags there during the day isn't ideal.On the good side, the hotel is in a good location, and the rooms although small were clean. Not particularly quiet rooms, so hope that the people around aren't too noisy.  
+<Date>Nov 9, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+4	44(experience):1	149(run):1	156(reservation):1	12267(smirk):1	
+17	8(day):1	26(people):1	29(minute):1	43(leave):1	58(quiet):1	85(wait):1	91(guest):1	217(noisy):1	249(luggage):1	290(bag):1	328(hope):1	379(public):1	545(ideal):1	553(particularly):1	641(security):1	1215(ignore):1	1311(storage):1	
+2	1(location):1	3(clean):1	
+7	18(book):1	156(reservation):1	232(nearby):1	468(smoke):1	659(credit):1	680(arrange):1	978(nonsmoking):1	
+4	0(staff):1	12(friendly):1	283(half):2	392(rude):1	
+27	0(staff):1	5(time):1	6(breakfast):2	18(book):1	76(try):1	88(read):1	90(coffee):1	91(guest):1	190(complaint):1	232(nearby):1	242(care):1	275(cafe):1	307(bother):1	397(forget):1	506(reserve):1	567(enjoyable):1	672(owner):1	822(online):1	863(apparently):1	928(waste):1	982(confirm):1	1215(ignore):1	2146(shout):1	2218(agency):1	2559(prepay):1	2645(payment):1	4611(dismal):1	
+0	
+
+<Author>mar11beth
+<Content>Very Nice Is close to train station and a few steps away from the central market was convenient but it is quite noisey. The markets set up early in the morning so you can hear all the vendor carts being moved up the street. Lot's of nice trattorias near by and gelato parlor. The buskers entertaining at the restaurants gave a nice typical Italian romantic feel as you go for a stroll in the evening. *sigh* I want to go back !! Close to Santa Maria del Fiore and walkable to Ponte Vecchio and Ufizzi. Free internet access was a bonus. Friendly staff. Breakfast also nice.  
+<Date>Nov 8, 2005
+<Rating>4	4	4	-1	4	-1	5	-1	
+<Aspects>
+7	4(nice):1	38(lot):1	102(near):1	4061(parlor):1	5093(gelato):1	5457(sigh):1	10277(trattorias):1	
+0	
+0	
+30	4(nice):2	10(restaurant):1	28(close):2	34(feel):1	35(street):1	56(morning):1	82(station):1	132(hear):1	168(central):1	182(train):1	186(convenient):1	207(move):1	234(set):1	264(market):2	358(italian):1	366(step):1	628(typical):1	707(romantic):1	1045(entertain):1	1056(stroll):1	1251(vendor):1	1322(cart):1	1482(del):1	1510(santa):1	1645(ponte):1	1833(mare):1	1836(vecchio):1	2197(walkable):1	3008(noisey):1	8151(ufizzi):1	
+0	
+2	0(staff):1	12(friendly):1	
+2	4(nice):1	6(breakfast):1	
+4	46(free):1	97(internet):1	159(access):1	849(bonus):1	
+
+<Author>A TripAdvisor Member
+<Content>hotel was fine with some exceptions The hotel is well located and well priced. However, the room lacked enough closet space, e.g. no dresser drawers for storing clothing. The breakfast was very poor (the hotel really economized here) and the coffee was very poor.  
+<Date>Sep 6, 2005
+<Rating>3	3	2	-1	3	-1	3	-1	
+<Aspects>
+0	
+4	19(price):1	84(locate):1	113(fine):1	1128(exception):1	
+7	210(space):1	255(store):1	349(lack):1	565(closet):1	709(clothe):1	1426(drawer):1	2128(dresser):1	
+0	
+0	
+0	
+3	6(breakfast):1	90(coffee):1	331(poor):2	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nice Hotel Nice Hotel with a great staff. Room overlooked the street and was still very quiet at night. Location was perfect and minutes from everything Florence has to offer. The hotel is able to set up great side trips as well and makes it very easy to see the rest of the Tuscany region. Breakfast was a little weak compared to some other hotels but overall we had a great stay and hope to come back soon.  
+<Date>Aug 6, 2005
+<Rating>4	5	4	-1	5	-1	5	-1	
+<Aspects>
+7	33(trip):1	93(easy):1	171(able):1	234(set):1	288(rest):1	3019(tuscany):1	3612(region):1	
+0	
+4	2(night):1	35(street):1	58(quiet):1	260(overlook):1	
+5	1(location):1	29(minute):1	74(perfect):1	89(offer):1	346(florence):1	
+0	
+2	0(staff):1	4(nice):2	
+7	6(breakfast):1	23(little):1	70(overall):1	328(hope):1	381(compare):1	418(soon):1	1770(weak):1	
+0	
+
+<Author>Canajun57
+<Content>Well Situated       Hotel terrace in the sun, Duomo top top left of photo  
+<Date>May 8, 2005
+<Rating>4	3	4	-1	4	-1	5	-1	
+<Aspects>
+7	43(leave):1	118(top):2	420(sun):1	574(situate):1	673(terrace):1	761(photo):1	981(duomo):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>ajwhee
+<Content>Very nice hotel         
+<Date>Oct 31, 2004
+<Rating>5	4	4	-1	5	-1	5	-1	
+<Aspects>
+1	4(nice):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>jfvc
+<Content>Excellent h么telL...       Reflet...  
+<Date>Nov 18, 2008
+<Rating>5	4	5	4	5	5	4	5	
+<Aspects>
+2	21(excellent):1	11611(ell):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

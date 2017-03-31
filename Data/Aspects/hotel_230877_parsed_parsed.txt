@@ -1,0 +1,672 @@
+<Author>saronca
+<Content>Good one Good Hotel. I booked a single, but I got a triple instead; it was huge, clean and looked exactly the same as in the pictures from their site. The guy at the reception was friendly, the hotel is perfectly located both for business (very close to the station, but not in the ugly part) and for leisure (packed of good restaurant around).  
+<Date>Dec 8, 2008
+<Rating>4	4	4	4	4	4	4	4	
+<Aspects>
+0	
+0	
+0	
+12	10(restaurant):1	12(friendly):1	28(close):1	82(station):1	84(locate):1	129(reception):1	147(business):1	368(guy):1	595(perfectly):1	715(pack):1	1872(ugly):1	2032(leisure):1	
+0	
+0	
+10	3(clean):1	18(book):1	20(look):1	133(huge):1	192(site):1	304(single):1	353(instead):1	456(picture):1	586(exactly):1	1553(triple):1	
+0	
+
+<Author>vikingCopenhagen
+<Content>Nice place in excellent location - we loved it Nice place in great location.The Nova Hotel is a nice place to stay if you are in Amsterdam.The english speaking staff are helpful and friendly. The rooms are clean, nice and the furniture is comfortable and in good condition. There is acces to the internet and the tv carries a variety of international channels. English and US channels are BBC1, BBC2, CNN, Discovery Channel and Euronews. English and US shows on the dutch channels are in english with dutch subtitles. The breakfast buffet is a typical hotel buffet of acceptable standard. The hotel is not suited for people with a walking disability.The nearest supermarket is on the corner of Nieuwjzids Burgwall and Paleisstraat. It is a large Albert Hein store that can fill all needs. Turn left outside the hotel and walk straight ahead.Newspapers and Magazines can be bought at Waterstones in the kalverstraat, American Book Center on Spui or the News stand next to the latter. You can also try the big kiosks at the Central Station.The nearest McDonalds is in Kalverstraat.We can recomend the italian restaurant at Paleisstraat no. 3,the french/italian cafe at no. 44/46 Nieuwendijk or the pastry shop at Hekelveld and Nieuwendijk.There are restaurants and cafes all over the area.All shopping needs can be filled locally due to the great location next to the Dam Square. If not you can take tram no.2 to the Leidsplein area.My girl friend and I liked this place and the location could not be better- We will certainly choose the Nova next time we come to Amsterdam  
+<Date>Dec 7, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	4(nice):1	102(near):1	255(store):1	361(amsterdam):1	491(fill):1	2524(mcdonalds):1	6001(albert):1	6984(nova):1	8795(hein):1	
+0	
+20	3(clean):1	4(nice):1	7(walk):1	25(comfortable):1	26(people):1	97(internet):1	116(tv):1	152(english):3	263(condition):1	413(variety):1	440(furniture):1	741(channel):4	824(carry):1	861(suit):1	903(international):1	2066(dutch):2	2101(cnn):1	3951(discovery):1	6449(disability):1	7766(acce):1	
+30	1(location):4	4(nice):2	5(time):1	7(walk):1	21(excellent):1	40(love):1	43(leave):1	49(shop):1	76(try):1	82(station):1	98(outside):1	102(near):1	139(square):1	146(friend):1	167(choose):1	168(central):1	200(corner):1	259(due):1	361(amsterdam):1	491(fill):1	570(tram):1	625(girl):1	827(straight):1	976(ahead):1	1078(supermarket):1	1266(dam):1	3231(locally):1	3330(kiosk):1	6984(nova):1	7779(leidsplein):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	127(speak):1	152(english):1	
+21	6(breakfast):1	10(restaurant):2	18(book):1	49(shop):1	77(buffet):2	101(center):1	130(standard):1	254(french):1	275(cafe):2	280(buy):1	358(italian):1	444(stand):1	628(typical):1	652(pastry):1	1214(acceptable):1	1372(newspaper):1	1420(recomend):1	1725(news):1	2202(magazine):1	3133(latter):1	10463(spui):1	
+0	
+
+<Author>NigelTaylor
+<Content>Disappointed I stayed at the Nova from 26th October to 1st November and had a room on the 4th floor. I had selected the hotel using Trip Advisor. The hotel is well situated with trams available from almost outside the hotel. On walking into my room I was impressed by the size but my feelings quickly went downhill. Despite having the heating on full the room was cold. On two occassions I mentioned this to reception staff but nothing was done. The probable reason it was is due to there being a door to the roof that had gaps around the edge and gaps around the window - some had been sealed with masking tape. The heating in my room packed up completely on the final night and it took two calls to reception before being offered a portable heater. The bathroom did not have any form of heating and smelt musty.Breakfast was adequate although the breakfast room reminded me of a staff canteen.Reception staff were normally very pleasant and helpful.  
+<Date>Nov 1, 2008
+<Rating>2	1	1	3	2	3	2	-1	
+<Aspects>
+3	33(trip):1	701(advisor):1	1294(select):1	
+0	
+44	0(staff):1	2(night):1	6(breakfast):2	7(walk):1	13(bathroom):1	24(floor):1	54(door):1	67(call):1	83(size):1	89(offer):1	119(window):1	129(reception):1	154(disappoint):1	222(cold):1	231(smell):1	259(due):1	343(impress):1	374(reason):1	390(adequate):1	471(quickly):1	498(despite):1	539(heat):3	542(completely):1	636(roof):1	715(pack):1	845(4th):1	911(october):1	999(november):1	1016(musty):1	1164(form):1	1190(edge):1	1285(remind):1	1337(final):1	2361(heater):1	2639(26th):1	2657(feelings):1	2726(gap):2	2860(seal):1	2983(downhill):1	3236(tape):1	3480(mask):1	4107(portable):1	6984(nova):1	8328(canteen):1	
+4	98(outside):1	134(available):1	570(tram):1	574(situate):1	
+0	
+7	0(staff):2	14(helpful):1	129(reception):2	150(pleasant):1	244(mention):1	1091(normally):1	4048(occassions):1	
+0	
+0	
+
+<Author>AlanPanther
+<Content>Excellent location A very friendly hotel situated in a very convenient location close to Dam Square and within easy walking distance of many Amsterdam attractions. The staff were very friendly and helpful. The room was clean and spacious and the bed was very comfortable. Breakfast was plentiful with lots of choice. The security was impressive  
+<Date>Oct 27, 2008
+<Rating>4	4	4	5	4	5	4	3	
+<Aspects>
+0	
+4	6(breakfast):1	38(lot):1	107(choice):1	1039(plentiful):1	
+6	3(clean):1	11(bed):1	25(comfortable):1	111(spacious):1	641(security):1	920(impressive):1	
+13	1(location):2	7(walk):1	12(friendly):1	21(excellent):1	28(close):1	93(easy):1	115(distance):1	139(square):1	186(convenient):1	350(attraction):1	361(amsterdam):1	574(situate):1	1266(dam):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>Jhandy
+<Content>Very nice hotel Clean, smoke free, reasonably priced for location, which was a approximately two blocks from Dam Square. Had a nicer than we had expected breakfast buffet. Hotel staff very accommodating. We stayed their for 3 days before leaving on a cruise. On returning from our cruise we had a 6PM flight out of Amsterdam that same day. The hotel staff allowed us to use their luggage room while we continued sightseeing unencumbered by luggage.  
+<Date>Oct 4, 2008
+<Rating>5	4	3	5	5	5	5	-1	
+<Aspects>
+3	8(day):1	43(leave):1	603(cruise):1	
+2	0(staff):1	624(accommodate):1	
+11	0(staff):1	8(day):1	39(return):1	233(flight):1	249(luggage):2	359(allow):1	361(amsterdam):1	603(cruise):1	640(sight-see):1	1096(continue):1	7686(6pm):1	
+0	
+11	1(location):1	3(clean):1	4(nice):1	19(price):1	46(free):1	100(bloc):1	139(square):1	468(smoke):1	578(reasonably):1	1266(dam):1	1961(approximately):1	
+0	
+4	4(nice):1	6(breakfast):1	62(expect):1	77(buffet):1	
+0	
+
+<Author>h_andy1
+<Content>Great location, good sized rooms The hotel is in a very good location in between Dam Square and Liedesplein and within walking distance of the train station (about 10minutes). The room was very large and clean with a large and tasty breakfast included in the price.Just one thing - the weather in Amsterdam was very hot and the room didn't have air conditioning. A fan was provided but it just wasn't enough. I would stay here again but maybe not in the summer months because it was too uncomfortable.  
+<Date>Jul 28, 2008
+<Rating>4	4	3	4	4	4	3	3	
+<Aspects>
+6	153(provide):1	308(maybe):1	388(month):1	661(fan):1	853(summer):1	856(uncomfortable):1	
+5	3(clean):1	6(breakfast):1	19(price):1	71(include):1	984(tasty):1	
+5	114(hot):1	164(air):1	263(condition):1	361(amsterdam):1	385(weather):1	
+9	1(location):2	7(walk):1	82(station):1	83(size):1	115(distance):1	139(square):1	182(train):1	1266(dam):1	9371(10minute):1	
+0	
+0	
+0	
+0	
+
+<Author>blackcard
+<Content>Great Hotel. This hotel is great. The staff is friendly. The location is awesome. It located close to the very center of town. When I return to Amsterdam I will definitely stay here again. After I checked in I visited many of the other hotels that are in the same price range. None of the other hotels looked nearly as nice as the Nova.My only complaint is that they do not have Free WiFi.  
+<Date>Jul 22, 2008
+<Rating>5	5	5	5	5	5	5	2	
+<Aspects>
+8	4(nice):1	20(look):1	39(return):1	59(definitely):1	361(amsterdam):1	573(none):1	896(nearly):1	6984(nova):1	
+4	19(price):1	32(check):1	65(visit):1	714(range):1	
+0	
+6	1(location):1	28(close):1	84(locate):1	101(center):1	239(town):1	348(awesome):1	
+0	
+2	0(staff):1	12(friendly):1	
+0	
+3	46(free):1	190(complaint):1	1268(wifi):1	
+
+<Author>goblue1943
+<Content>WELL WORTH THE MONEY My son-in-law and I have been traveling to Amsterdam for several years now at least twice a year. This was our first stay at the Nova. Will deifinately make recommendations to all we know to stay here. Cenrally located, clean, huge room and wonderful staff and value. Located near the Dam, every thing you need is nearby. Praises for the Nova. Alan Heath, Dunnellon, FL  
+<Date>Jul 6, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+11	68(travel):1	80(money):1	96(worth):1	347(twice):1	361(amsterdam):1	577(recommendation):1	2053(praise):1	5076(fl):1	6549(alan):1	6984(nova):2	9659(son-in-law):1	
+6	0(staff):1	3(clean):1	48(wonderful):1	81(value):1	84(locate):1	133(huge):1	
+0	
+4	84(locate):1	102(near):1	232(nearby):1	1266(dam):1	
+0	
+0	
+0	
+0	
+
+<Author>ParisFeFe
+<Content>Great hotel and location Stayed here April 17th - 20th, 2008. The Hotel Nova in Amsterdam was quite nice. Not upscale, but very clean and comfortable. We lucked out and got a HUGE room - #34. It had 4 twin beds in it and a row of windows, along with a little table and 2 chairs. Also, it had a little vanity type desk, refrigerator and an armoire. Another great asset was a huge mirror in the bedroom. We did have difficulty with the electrical outlets and we even had converters and adapters. The breakfast was very good. We had the choice of scrambled eggs, boiled eggs, bacon, assortment of breads/rolls, cereals, juices, milk, coffee, and tea. The desk staff was very nice. They messed a bit on one wake up call, but otherwise they were very friendly and very helpful with directions. I will stay here again.  
+<Date>Jun 12, 2008
+<Rating>4	4	4	5	4	4	4	-1	
+<Aspects>
+16	4(nice):1	12(friendly):1	14(helpful):1	52(bit):1	67(call):1	361(amsterdam):1	395(direction):1	508(otherwise):1	554(wake):1	1644(mess):1	1689(outlet):1	1777(difficulty):1	2555(electrical):1	4118(adapter):1	6032(converter):1	6984(nova):1	
+0	
+12	11(bed):1	23(little):1	119(window):1	133(huge):2	198(chair):1	229(table):1	268(bedroom):1	690(twin):1	1055(luck):1	1129(mirror):1	1638(row):1	3023(asset):1	
+3	1(location):1	1977(20th):1	2143(17th):1	
+3	3(clean):1	25(comfortable):1	1237(upscale):1	
+8	0(staff):1	4(nice):1	23(little):1	36(desk):2	389(type):1	916(refrigerator):1	2127(vanity):1	3225(armoire):1	
+13	6(breakfast):1	90(coffee):1	107(choice):1	301(tea):1	362(juice):1	412(egg):2	529(cereal):1	1057(bacon):1	1116(milk):1	1598(boil):1	1674(scramble):1	2761(assortment):1	11615(breads):1	
+0	
+
+<Author>tashytwo
+<Content>Loved Loved Loved Nova Hotel       Bike Riding Outside Hotel  
+<Date>Apr 27, 2008
+<Rating>5	5	5	5	5	5	5	3	
+<Aspects>
+0	
+0	
+0	
+5	40(love):3	98(outside):1	218(ride):1	1479(bike):1	6984(nova):1	
+0	
+0	
+0	
+0	
+
+<Author>EnglandHappywanderer
+<Content>The Nova hotel is great value for money We booked this hotel last year, and recently before we went I read some of the reviews. I must admit I was wondering if we had done the right thing, but now we have been I am glad to say my fears were not founded. The hotel is in a good location, a short distance from Dam Square. Get the number 1,2 or 5 tram to Dam square and its only a short walk down, or get the same tram to Spui (one stop further on) and walk up Nieuwezijds Voorburgwal street. Hotel is Number 276. We got a 4 day pass that takes you on all buses, trams and metro for 17.50 euros, but you can get them for shorter periods. Get them from the information office just outside Centraal station, and this is where you get your tram from. If you don't want to take a tram you can walk down Damrak, into Dam square and then to Nieuwezijds street, but it will take you about 10 to 15 minutes.The reception staff at the hotel were all very friendly and helpful. Our room was number 501, and you took the lift and then had a few more steps and along a short corridor to our room. Not difficult. the room was extremely large, clean, with modern decor, a comfy twin or double bed, dressing table, TV, table and chairs, fridge,digital safe in the wardrobe, and a hairdryer (contrary to someone's report). The bathroom was roomy with a shower. We did have to ask for a plug but this was soon supplied. (who takes all these plugs??) The room was warm, there wasn't a radiator in the bathroom but we didn't find it too cold. Our room overlooked the street and I was tempted to ask for one at the back after reading reviews, but we didn't find the trams a problem. Yes, you could hear them in the day, but they didn't keep me awake and certainly didn't wake me up. (needed an alarm clock for that!). The breakfast buffet supplied all our needs. when they ran out of something it was quickly replaced by 2 girls who worked really hard. We don't like a big English breakfast so fruit juice, yoghurt and fruit, cereals and milk, tea, coffee, bacon sandwiches, rolls and jam set us up. there is free hot water in the machine in reception, so if you need to take some up to your room to make a drink you can. I just took my travel kettle, and little sachets of coffee, etc with me and bought milk locally.You can leave your luggage in a locked room if you need to after checking out of your room (11.00am check out). During your staty when you go out for the day you hand your room key to reception and to get it back you have to show the small card you are given when you first register. This is for extra security.We thought that for the money we paid for the room it was excellent value. Good location and friendly staff. We are young sixty year olds and have travelled to many places, so our experiences with hotels have been varied. I'd be willing to answer questions and if I can help I will.  
+<Date>Apr 19, 2008
+<Rating>4	-1	4	4	3	4	4	3	
+<Aspects>
+23	8(day):1	92(help):1	132(hear):1	149(run):1	162(hard):1	250(yes):1	335(numb):1	394(question):1	471(quickly):1	554(wake):1	572(difficult):1	619(glad):1	625(girl):1	669(answer):1	912(replace):1	946(wonder):1	1174(plug):1	1282(admit):1	1291(clock):1	1380(alarm):1	1494(awake):1	2022(fear):1	11815(found):1	
+13	18(book):1	21(excellent):1	37(review):1	42(pay):1	44(experience):1	68(travel):1	80(money):2	81(value):2	88(read):1	322(recently):1	1578(varied):1	6984(nova):1	8367(sixty):1	
+52	1(location):1	3(clean):1	8(day):1	11(bed):1	13(bathroom):2	32(check):2	43(leave):1	46(free):1	57(water):1	61(shower):1	63(drink):1	110(extremely):1	114(hot):1	115(distance):1	116(tv):1	128(extra):1	129(reception):2	137(safe):1	139(square):1	144(short):2	151(modern):1	179(double):1	198(chair):1	222(cold):1	229(table):2	236(warm):1	249(luggage):1	269(decor):1	292(card):1	318(fridge):1	335(numb):1	339(key):1	366(step):1	377(hand):1	475(comfy):1	493(machine):1	591(lift):1	641(security):1	690(twin):1	774(lock):1	838(report):1	935(dress):1	1073(corridor):1	1266(dam):1	1353(roomy):1	1451(wardrobe):1	1493(hairdryer):1	2419(contrary):1	2833(register):1	3416(digital):1	3830(radiator):1	12785(staty):1	
+29	0(staff):1	1(location):1	7(walk):3	8(day):1	12(friendly):1	29(minute):1	35(street):3	37(review):1	82(station):1	88(read):1	98(outside):1	120(bus):1	122(stop):1	139(square):2	144(short):2	235(metro):1	256(euro):1	260(overlook):1	335(numb):1	400(pass):1	570(tram):6	649(information):1	792(office):1	1266(dam):2	1331(period):1	2450(centraal):1	3086(tempt):1	4550(damrak):1	10463(spui):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	129(reception):1	
+25	6(breakfast):2	23(little):1	68(travel):1	73(etc):1	77(buffet):1	90(coffee):2	152(english):1	215(fruit):2	234(set):1	280(buy):1	301(tea):1	362(juice):1	418(soon):1	529(cereal):1	813(roll):1	859(supply):2	927(yogurt):1	1057(bacon):1	1071(sandwich):1	1116(milk):2	1174(plug):1	1614(jam):1	1944(kettle):1	3231(locally):1	6547(sachet):1	
+0	
+
+<Author>martinel
+<Content>Too expensive, but clean and big room The hotel is situated right next to Dam sqare, in a quiet area. Location is more than perfect, walking distance to the main attractions (red light d, shopping, dam, bejighoff, central station, flower market, rembrandt, picasso).Don't expect the nice treats of a 180eur/night hotel. however, the room was quite large (around 18sqm) with a large bathroom, very clean.  
+<Date>Apr 13, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	4(nice):1	62(expect):1	320(treat):1	
+0	
+6	3(clean):2	13(bathroom):1	58(quiet):1	124(expensive):1	574(situate):1	1266(dam):1	
+16	1(location):1	7(walk):1	49(shop):1	74(perfect):1	82(station):1	112(main):1	115(distance):1	157(light):1	168(central):1	264(market):1	350(attraction):1	590(red):1	778(flower):1	1266(dam):1	4277(rembrandt):1	5283(picasso):1	
+0	
+0	
+0	
+0	
+
+<Author>Dravk
+<Content>Pleasant stay, very central       These Tanks emitted a constant humming sound.  
+<Date>Mar 21, 2008
+<Rating>4	3	4	5	4	5	4	3	
+<Aspects>
+7	150(pleasant):1	168(central):1	409(sound):1	1432(constant):1	3549(tank):1	4292(hum):1	9342(emit):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Jencolem
+<Content>Great Value I would highly recommend this hotel. I traveled to Amsterdam last week with 2 friends from the US and originally booked a big apartment to rent. Once we got there we determined that our apartment was too expensive, given how week the US dollar is. We walked around and our last stop was the Nova. I'm so glad we found this place. We got a triple for 90 euros w/ breakfast and couldn't have been happier. The room was nicely decorated, spacious and the beds were comfortable. We were in room 224 and had a beautiful view of the street. The breakfast was ok, nothing to brag about but served its purpose. The hotel has a lift, so to the other reviews regarding the stairs, I'm not quite sure what that's about. The staff was very helpful as well. Great bargain!!  
+<Date>Mar 17, 2008
+<Rating>4	4	4	5	4	5	5	3	
+<Aspects>
+1	619(glad):1	
+9	15(recommend):1	75(week):1	81(value):1	124(expensive):1	138(highly):1	430(dollar):1	751(apartment):1	759(bargain):1	3247(determine):1	
+20	11(bed):1	17(view):1	18(book):1	25(comfortable):1	35(street):1	37(review):1	45(beautiful):1	68(travel):1	75(week):1	111(spacious):1	146(friend):1	305(decorate):1	361(amsterdam):1	404(nicely):1	568(stair):1	591(lift):1	751(apartment):1	930(regard):1	1030(rend):1	1300(originally):1	
+3	7(walk):1	122(stop):1	6984(nova):1	
+0	
+2	0(staff):1	14(helpful):1	
+8	6(breakfast):2	123(ok):1	155(happy):1	174(serve):1	256(euro):1	1428(purpose):1	1553(triple):1	4779(brag):1	
+0	
+
+<Author>janny1
+<Content>Great family room in an excellent location This is the second time we have stayed at this hotel and we were not disappointed. We had a very clean spacious family room with proper beds for four people which seems to be extremely unusual. The room was at the back of the hotel so no view but it was quiet. It was great that the whole hotel is smokefree - unusual for Amsterdam which is somewhat behind the times in the smokefree stakes. The location is great - we walked everywhere very easily but its also central for trams. Its very close to Dam Square but at the nicer end of the street and we didn't have any problems with noise or feeling unsafe at night. Good selection of restaurants in the neighbouring streets and a truly amazing beer shop (the Cracked Kettle) a couple of streets away. We arrived in Amsterdam by car and used the Park and Ride at the Olympic Stadium and travelled in by tram getting off at Dam Square - a 5 minute walk from the hotel (it was only 6 Euros for 24 hours including travel tickets for two people to get into the city - can stay up to 4 days and gives a huge saving on parking prices in the city - also saves on the nerves as its not a good city to drive in from past experience!)  
+<Date>Feb 16, 2008
+<Rating>4	4	4	4	5	5	5	-1	
+<Aspects>
+0	
+0	
+14	1(location):1	3(clean):1	5(time):1	11(bed):1	17(view):1	21(excellent):1	26(people):1	58(quiet):1	106(family):2	110(extremely):1	111(spacious):1	154(disappoint):1	1610(unusual):1	1719(proper):1	
+47	1(location):1	2(night):1	4(nice):1	7(walk):2	8(day):1	10(restaurant):1	19(price):1	26(people):1	28(close):1	29(minute):1	34(feel):1	35(street):3	41(city):3	44(experience):1	49(shop):1	53(arrive):1	60(hour):1	66(park):2	68(travel):2	71(include):1	94(noise):1	99(couple):1	121(car):1	133(huge):1	139(square):2	145(amaze):1	168(central):1	218(ride):1	256(euro):1	298(drive):1	333(selection):1	361(amsterdam):1	419(past):1	425(save):2	438(easily):1	443(beer):1	476(truly):1	570(tram):2	621(ticket):1	934(neighbour):1	1266(dam):2	1411(crack):1	1890(unsafe):1	1944(kettle):1	2286(olympic):1	2695(stadium):1	4071(nerve):1	
+5	5(time):1	361(amsterdam):1	651(somewhat):1	1610(unusual):1	5481(stake):1	
+0	
+0	
+0	
+
+<Author>dandelion8
+<Content>Brilliant hotel breakfast brill Great hotel close to shops, transport ,room twin, very large ,large breakfast sets you off for the day, staff most helpful,no problems would go back my first time here and loved it  
+<Date>Jan 31, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+13	0(staff):1	5(time):1	6(breakfast):2	8(day):1	14(helpful):1	28(close):1	40(love):1	49(shop):1	234(set):1	690(twin):1	742(transport):1	793(brilliant):1	5382(brill):1	
+0	
+0	
+0	
+0	
+
+<Author>handleyr
+<Content>Fantastic 21st birthday in the dam I booked this trip through the BMI Baby website who I used to book flights with. It worked out being about 鈧?0 for a double room per night inc continental breakfast.This trip was for my 21st birthday with my girlfriend. It was brilliant. Id never been to Amsterdam before really and was very much looking forward to it. I was not to be disappointed.The hotel was really easy to find. Tram from Centraal Station to the Dam then a 2 minute walk up the cobbled street (not good if your dragging cases鈥?). The hotel is quite a small place built in an old building, though it is very nice and kept basis but always clean. On arrival, we were 3 hours early for check in, the receptionist took our bags. Then let us roam round dam until our room was ready. Check in was meant to be at 2 but our room was to be ready for half 12 so returned from the Dam to find our bags had been taken to the rooms, making check in easy.The room was big, plenty of space to get round the bed, there was even a table and chairs in the room as well as make up table for her and there was also a medium sized fridge. The bed was really comfy.The bathroom was big enough, nice powerful shower, plenty of bath towels which is always nice. The toilet was separate to the bathroom, not sure why but it didn鈥檛 cause a problem. The rooms are all none smoking, but there are windows.Breakfast was on the ground floor in the lobby area, continental breakfast so not really my favourite but I managed on the cereals and toast available.You may want to try Barneys if your after good morning food, I went there twice and it was really good grub. I would put more but tripadvisor guidelines prevent me, contact me for more details.Make sure you visit Anne Franks yard and the X-tra Cold Heineken Ice Bar, as well as the Red Light District and Coffee Shops.Iv booked back to go the dam in March with the Mrs again, this time staying at Hotel Orlando as we couldn鈥檛 get a good deal on the Nova Hotel, although I wouldn鈥檛 hesitate at staying here again.  
+<Date>Jan 9, 2008
+<Rating>5	5	4	5	5	5	5	-1	
+<Aspects>
+11	20(look):1	33(trip):1	93(easy):1	154(disappoint):1	361(amsterdam):1	750(forward):1	765(birthday):1	793(brilliant):1	994(girlfriend):1	2584(id):1	4913(21st):1	
+0	
+36	2(night):1	4(nice):2	6(breakfast):1	11(bed):2	13(bathroom):2	32(check):2	39(return):1	61(shower):1	83(size):1	93(easy):1	119(window):1	125(towel):1	158(plenty):2	179(double):1	198(chair):1	210(space):1	226(bath):1	229(table):2	246(mean):1	274(ready):2	283(half):1	290(bag):1	318(fridge):1	330(toilet):1	372(continental):1	468(smoke):1	474(separate):1	475(comfy):1	573(none):1	943(cause):1	1022(didn):1	1266(dam):2	2026(powerful):1	2762(medium):1	2958(roam):1	4043(inc):1	
+13	3(clean):1	4(nice):1	7(walk):1	29(minute):1	35(street):1	82(station):1	135(build):2	570(tram):1	1266(dam):1	1527(basis):1	1699(drag):1	2450(centraal):1	6989(cobble):1	
+0	
+10	32(check):1	60(hour):1	224(arrival):1	290(bag):1	592(detail):1	597(tripadvisor):1	713(contact):1	855(receptionist):1	2352(prevent):1	10915(guideline):1	
+45	5(time):1	6(breakfast):2	16(food):1	18(book):3	24(floor):1	27(bar):1	33(trip):1	49(shop):1	55(lobby):1	56(morning):1	65(visit):1	76(try):1	86(fantastic):1	90(coffee):1	134(available):1	140(deal):1	157(light):1	222(cold):1	233(flight):1	262(website):1	347(twice):1	372(continental):1	376(favourite):1	433(district):1	529(cereal):1	547(ice):1	590(red):1	615(march):1	645(manage):1	706(grind):1	765(birthday):1	875(toast):1	902(hesitate):1	1266(dam):2	1304(baby):1	1307(yard):1	2112(couldn):1	2136(frank):1	2238(anne):1	2586(wouldn):1	4311(orlando):1	4685(heineken):1	4913(21st):1	6984(nova):1	11017(grub):1	
+0	
+
+<Author>johan
+<Content>Very comfy beds!! Me and my wife stayed at the Nova Hotel in Amsterdam from the 14th until the 17th December 2007. We loved our stay there. The Hotel is located very close to the Dam Square and the trams 1,2 and 5 pass the hotel so easy to get to. There were however some steep stairs to to our room (205), so unless you are reasonbly fit this should be no problem. So ask for a suitable room when you book there as one part of the hotel is serviced by a lift and the other has stairs and this may be daunting with suitcases! However I must state not all the rooms are serviced by steep stairs.The breakfast was excellent and we could not fault it! The staff at the hotel are friendly.Our room 205 was spacious, quiet and warm and a fridge which came in handy. The beds are very comfortable and we did not like getting out of them first thing in the morning.The bathroom was ok but was cold as there was no heating in our bathroom (no radiator). The toilet tissue was not replenished which meant we had to get our own. Furthermore the showerhead hinge was defective which meant we could not take a shower either!I did inform reception in the morning on the next day of our stay. When we returned in the evening the showerhead was still not tended to....what a pity because this is not a bad hotel....all it needs is an improvement in service.....  
+<Date>Dec 18, 2007
+<Rating>3	3	4	4	4	4	2	4	
+<Aspects>
+12	40(love):1	166(own):1	184(wife):1	246(mean):1	330(toilet):1	361(amsterdam):1	993(december):1	1808(replenish):1	1998(14th):1	2143(17th):1	3211(tissue):1	6984(nova):1	
+0	
+34	9(service):3	11(bed):2	13(bathroom):2	18(book):1	25(comfortable):1	39(return):1	50(bad):1	56(morning):1	58(quiet):1	61(shower):1	111(spacious):1	123(ok):1	222(cold):1	236(warm):1	246(mean):1	318(fridge):1	405(unless):1	475(comfy):1	539(heat):1	568(stair):3	591(lift):1	668(fit):1	755(handy):1	974(suitcase):1	1053(tend):1	1060(steep):2	1486(improvement):1	1967(suitable):1	3150(pity):1	3360(furthermore):1	3571(showerhead):2	3830(radiator):1	5348(daunt):1	6339(hinge):1	
+7	28(close):1	84(locate):1	93(easy):1	139(square):1	400(pass):1	570(tram):1	1266(dam):1	
+0	
+6	0(staff):1	8(day):1	12(friendly):1	56(morning):1	129(reception):1	817(inform):1	
+3	6(breakfast):1	21(excellent):1	517(fault):1	
+0	
+
+<Author>Michel-B-62
+<Content>Good and central Central and within walking distance of main attractions and centre. Renovated rooms as really nice. Car park very close.  
+<Date>Oct 25, 2007
+<Rating>4	4	4	5	4	5	-1	1	
+<Aspects>
+0	
+0	
+2	4(nice):1	533(renovate):1	
+9	7(walk):1	28(close):1	66(park):1	101(center):1	112(main):1	115(distance):1	121(car):1	168(central):2	350(attraction):1	
+0	
+0	
+0	
+0	
+
+<Author>Chris_Overseas
+<Content>Great Location BUT Had a weekend away in Amsterdam - location was exception, but be prepared for less from this hotel than you'd expect with the pricetag!Room was a good size, and quiet, which was great, however the staircase leading up was a death trap. For a non-smoking hotel the corridor reaked of cigarette smoke, and the accommodation areas were generally dark and pretty dingy.That said, bedding was clean, mattress comfortable and the staff very friendly. Really good shopping in the area.I would recommend it, if only for the location and convenience. but with the proviso that you you expect not much in the way of decadence or display!  
+<Date>Oct 2, 2007
+<Rating>3	2	3	5	3	3	3	-1	
+<Aspects>
+3	62(expect):1	1917(display):1	10807(decadence):1	
+6	1(location):2	62(expect):1	172(weekend):1	361(amsterdam):1	460(prepare):1	1128(exception):1	
+12	0(staff):1	3(clean):1	11(bed):1	12(friendly):1	25(comfortable):1	58(quiet):1	83(size):1	847(mattress):1	922(lead):1	2119(staircase):1	2166(trap):1	3341(death):1	
+4	1(location):1	15(recommend):1	49(shop):1	925(convenience):1	
+9	109(pretty):1	459(dark):1	468(smoke):1	721(accommodation):1	978(nonsmoking):1	1073(corridor):1	1365(cigarette):1	1749(dingy):1	11637(reake):1	
+0	
+0	
+0	
+
+<Author>traveller882
+<Content>great location we stayed in this hotel for one night. Its located just behind Dam square and is within walking distance to Centraal Station or any of the major attractions. We arrived early in the morning and although the room wasnt ready we could book in and leave our bags in a locked room for the day. We had a triple room which was huge. The breakfast isn't great but the staff were friendly and helpful. If you come out of the hotel and head right towards dam square there is a supermarket (it has big marble-ish steps outside) and is handy for buying bottled water etc. The tram tickets from the supermarket are also cheaper than they are to buy on the tram itself.We spent the saturday in amsterdam and took the train to the Hague on the Sunday. Brilliant trip and the Nova hotel was an ideal place to stay for the night!!  
+<Date>Sep 16, 2007
+<Rating>4	4	4	5	2	3	4	3	
+<Aspects>
+5	2(night):1	33(trip):1	545(ideal):1	793(brilliant):1	6984(nova):1	
+0	
+11	8(day):1	18(book):1	43(leave):1	53(arrive):1	56(morning):1	133(huge):1	274(ready):1	290(bag):1	774(lock):1	1339(wasnt):1	1553(triple):1	
+29	1(location):1	2(night):1	7(walk):1	57(water):1	64(spend):1	73(etc):1	82(station):1	84(locate):1	98(outside):1	115(distance):1	139(square):2	143(cheap):1	182(train):1	238(bottle):1	280(buy):2	315(major):1	319(head):1	350(attraction):1	361(amsterdam):1	366(step):1	570(tram):2	621(ticket):1	755(handy):1	818(saturday):1	844(sunday):1	959(towards):1	1078(supermarket):2	1266(dam):2	2450(centraal):1	
+0	
+4	0(staff):1	6(breakfast):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>Ravind
+<Content>Good family hotel and convenient. Good hotel with simple European breakfast. Clean beddings.The place is very central and just a few minutes by tram to everywhere. New people to Amsterdam should take tram 2 or 5 and get off at the Dam. Great location for everything. Good hotel for family - relatively large rooms for 4 peopleRavind  VeenitaSydney, Australia  
+<Date>Sep 12, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	106(family):1	186(convenient):1	
+0	
+5	3(clean):1	106(family):1	913(relatively):1	1530(australia):1	8874(bedding):1	
+7	1(location):1	26(people):1	29(minute):1	168(central):1	361(amsterdam):1	570(tram):2	1266(dam):1	
+0	
+0	
+3	6(breakfast):1	582(european):1	613(simple):1	
+0	
+
+<Author>Briar_Rose65
+<Content>Ignore the bad reviews - This place is OK       Nova Bedroom 3  
+<Date>Aug 2, 2007
+<Rating>4	4	4	5	4	5	4	4	
+<Aspects>
+0	
+0	
+6	37(review):1	50(bad):1	123(ok):1	268(bedroom):1	1215(ignore):1	6984(nova):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>naney2
+<Content>Loved the location Loved this hotel it was situated within 5 minutes walking distance to the Dam Square and all its splendor. The hotel was clean and comfortable, room 304 was spacious and there was no noise as it is situated at the back, no good if you want a view.Breakfast was adequate, Reception were excellent and extremely helpful when asked if they could tell us where we could use internet check in at the airport they did it for us and printed out our boarding passes.Where the hotel is situated is perfect to get out and about to all the wonderful museums and shopping areas.Would recommend this hotel and definately stay there again.  Chris and Elaine UK  
+<Date>Jul 9, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	15(recommend):1	410(definately):1	1178(uk):1	3118(chris):1	
+0	
+6	3(clean):1	17(view):1	25(comfortable):1	94(noise):1	111(spacious):1	574(situate):1	
+13	1(location):1	7(walk):1	29(minute):1	40(love):2	48(wonderful):1	49(shop):1	74(perfect):1	115(distance):1	139(square):1	507(museum):1	574(situate):2	1266(dam):1	8031(splendour):1	
+0	
+13	6(breakfast):1	14(helpful):1	21(excellent):1	32(check):1	69(tell):1	95(airport):1	97(internet):1	110(extremely):1	129(reception):1	390(adequate):1	400(pass):1	600(board):1	1101(print):1	
+0	
+0	
+
+<Author>bookem28
+<Content>Comfortable and convenient Stayed here for just one night with my wife. Great value hotel, payed only 89 euro including breakfast. Our room was huge (superior comfort double, rm 304), very clean, and with some nice modern touches. Bathroom was a reasonable size with a good shower. The view from our room was not great, but we didn't care as we weren't there to stay in our room and look out the window. The hotel is very close to most of the main attractions, but is at the quieter end of the street. The hotel also feels very secure, the front door is locked at all times and requires a buzz-in from the front desk. The left-luggage room is also always locked and requires a swipe-card from the front-desk to get in. All in-all a very good, very comfortable hotel and I would definitely stay again, and recommend it to other travelers.  
+<Date>Jul 4, 2007
+<Rating>4	4	4	5	4	4	3	3	
+<Aspects>
+7	2(night):1	15(recommend):1	25(comfortable):2	59(definitely):1	184(wife):1	186(convenient):1	267(traveler):1	
+5	6(breakfast):1	42(pay):1	71(include):1	81(value):1	256(euro):1	
+17	3(clean):1	4(nice):1	13(bathroom):1	17(view):1	20(look):1	61(shower):1	83(size):1	119(window):1	133(huge):1	151(modern):1	179(double):1	242(care):1	273(reasonable):1	279(touch):1	702(comfort):1	785(superior):1	3855(rm):1	
+5	28(close):1	35(street):1	58(quiet):1	112(main):1	350(attraction):1	
+0	
+9	5(time):1	31(front):2	34(feel):1	36(desk):1	54(door):1	722(require):2	774(lock):2	1034(secure):1	4633(front-desk):1	
+0	
+0	
+
+<Author>HighHeels_7
+<Content>Friendly, safe, clean hotel in great location I booked this hotel for one night for me and my son and his girlfriend so we could spend a day exploring Amsterdam before attending a concert at the Melkweg. The family room was spacious, attractive, comfortable and clean. The staff were friendly and helpful; great location a minute's walk from Dam Square, and with frequent trams just outside to Centraal station (a ten-minutes walk away) and to the Melkweg. There is a nice cafe on the corner of the same street. (Caf茅 van Daele). Secure entry to the hotel, with staff on the desk all night. I will use this hotel again in future.EB.  
+<Date>Jun 29, 2007
+<Rating>5	5	4	4	4	5	5	3	
+<Aspects>
+3	732(future):1	1223(van):1	2532(caf):1	
+0	
+5	3(clean):1	25(comfortable):1	106(family):1	111(spacious):1	1154(attractive):1	
+30	0(staff):1	1(location):2	2(night):1	3(clean):1	4(nice):1	7(walk):2	8(day):1	12(friendly):2	14(helpful):1	18(book):1	29(minute):1	35(street):1	64(spend):1	82(station):1	98(outside):1	137(safe):1	139(square):1	200(corner):1	275(cafe):1	361(amsterdam):1	570(tram):1	594(explore):1	612(son):1	826(attend):1	994(girlfriend):1	1266(dam):1	1355(frequent):1	2296(concert):1	2450(centraal):1	10126(ten-minute):1	
+0	
+5	0(staff):1	2(night):1	36(desk):1	1034(secure):1	1649(entry):1	
+0	
+0	
+
+<Author>mimessex
+<Content>Fantastic break For a twoT plus hotel the Nova was perfect. We went with friends but had rooms on different floors but both were great, spacious and very clean. The only thing we would improve on would be tea/coffee making facilities in the rooms instead of paying for it in a machine in the lobby.Breakfasts were fine with plenty of it. Reception staff were brillaint giving excellent advice on day trips, even booking them for us with discounts. The candlelight cruise, Heineken experience and Anne Franks house are all worth visiting. Even the Red Light district was amusing. We would definately stay here again if we came back.  
+<Date>May 23, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	74(perfect):1	86(fantastic):1	203(plus):1	228(break):1	410(definately):1	6984(nova):1	
+0	
+17	3(clean):1	24(floor):1	44(experience):1	65(visit):1	96(worth):1	111(spacious):1	146(friend):1	157(light):1	281(house):1	433(district):1	590(red):1	603(cruise):1	2136(frank):1	2238(anne):1	2871(amuse):1	4685(heineken):1	7982(candlelight):1	
+0	
+0	
+8	0(staff):1	8(day):1	18(book):1	21(excellent):1	33(trip):1	129(reception):1	575(advice):1	864(discount):1	
+10	6(breakfast):1	42(pay):1	55(lobby):1	113(fine):1	158(plenty):1	211(facility):1	301(tea):1	353(instead):1	493(machine):1	1217(improve):1	
+0	
+
+<Author>janroy1
+<Content>Very pleasant stay Stayed for 4 nights. We had room 44 which was at the back of the hotel and whilst the view was over other buildings, it was nice and quiet. A good sized room, very comfortable and warm ( the weather was cold so we appreciated the radiator), satisfactory bathroom and TV (we could get BBC1and BBC2). The breakfast was continental and quite sufficient with cold meats, cheese, cereals, rolls, bread etc. Reception was always friendly and helpful. We booked Keukenhof excursion through reception but this year the tulips were already finished.Amsterdam was a lovely city with loads of eating options. Recommend the canal cruise from Central Station (7 euros), the houseboat museum on Prinsengracht and a drink in Rembrandtplein. We also caught the train to Zaanse-Shans (5.20 euros return every half hour platform 8A) which is an open air museum of Dutch life. Cheese making, clog making, 17th century houses, working windmills and other crafts. A good half day trip.Overall Amsterdam was a good experience and the Hotel Nova added a comfortable touch to our break.  
+<Date>May 12, 2007
+<Rating>4	4	4	5	4	5	4	-1	
+<Aspects>
+11	2(night):1	8(day):1	33(trip):1	41(city):1	47(eat):1	87(lovely):1	150(pleasant):1	283(half):1	336(option):1	361(amsterdam):1	886(load):1	
+8	25(comfortable):1	44(experience):1	70(overall):1	228(break):1	279(touch):1	351(add):1	361(amsterdam):1	6984(nova):1	
+21	4(nice):1	13(bathroom):1	17(view):1	25(comfortable):1	58(quiet):1	83(size):1	116(tv):1	222(cold):1	236(warm):1	281(house):1	385(weather):1	441(cheese):1	500(appreciate):1	745(building):1	877(whilst):1	2059(satisfactory):1	2143(17th):1	2171(century):1	3685(clog):1	3830(radiator):1	4011(craft):1	
+20	15(recommend):1	39(return):1	60(hour):1	63(drink):1	82(station):1	164(air):1	168(central):1	182(train):1	256(euro):2	283(half):1	426(life):1	507(museum):2	540(catch):1	603(cruise):1	638(canal):1	2066(dutch):1	3509(platform):1	7129(rembrandtplein):1	10206(prinsengracht):1	12035(houseboat):1	
+0	
+7	12(friendly):1	14(helpful):1	18(book):1	129(reception):2	734(excursion):1	772(finish):1	4251(tulip):1	
+10	6(breakfast):1	73(etc):1	222(cold):1	372(continental):1	441(cheese):1	497(bread):1	529(cereal):1	677(meat):1	813(roll):1	1713(sufficient):1	
+0	
+
+<Author>littlefrank
+<Content>Excellent Hotel, Good Location My partner and I have just returned from a 2 night stay at the Nova. We had room 401 which was a very spacious room at the front of the hotel. which great if you can tolerate the tram noise. We cannot fault anything about this hotel, the location was excellent, not far to walk to anywhere. The hotel is about 15 minute walk to Central Station, don't make the mistake of having a taxi as we got charged almost 鈧?0 for the journey, which is a bit of a rip off. Should I return to Amsterdam, i will be booking into this hotel again.  
+<Date>Mar 24, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+2	31(front):1	111(spacious):1	
+20	1(location):2	2(night):1	7(walk):2	21(excellent):2	29(minute):1	39(return):1	52(bit):1	82(station):1	94(noise):1	136(charge):1	168(central):1	185(taxi):1	517(fault):1	570(tram):1	895(mistake):1	1006(partner):1	1182(rip):1	1362(journey):1	4239(tolerate):1	6984(nova):1	
+0	
+0	
+3	18(book):1	39(return):1	361(amsterdam):1	
+0	
+
+<Author>funkeyminiman
+<Content>Totally non smoking hotel       Oceans 11 was filmed here  
+<Date>Feb 16, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+4	205(ocean):1	468(smoke):1	611(totally):1	2345(film):1	
+0	
+0	
+0	
+
+<Author>DavidAilie
+<Content>Excellent Value My fiance Ailie and I spent three nights at the Nova 15th - 18th December 2006, Had room 34 (Massive Room facing the street) Absolutely no complaints, Clean towels every day, full sized fridge,Rooms Clean and well furnished.Hotel staff friendly and very helpfull. Excellent location (1 minute stroll to Dam square). We would definately use the Nova again and would recommend to anyone looking for a good hotel in the heart of Amsterdam..  
+<Date>Dec 18, 2006
+<Rating>4	4	4	5	4	5	4	-1	
+<Aspects>
+6	15(recommend):1	20(look):1	361(amsterdam):1	410(definately):1	450(heart):1	6984(nova):1	
+0	
+24	1(location):1	2(night):1	3(clean):2	8(day):1	21(excellent):2	29(minute):1	35(street):1	64(spend):1	81(value):1	83(size):1	125(towel):1	139(square):1	189(absolutely):1	190(complaint):1	318(fridge):1	787(furnish):1	993(december):1	1056(stroll):1	1266(dam):1	1329(massive):1	2213(18th):1	2229(fiance):1	4273(15th):1	6984(nova):1	
+0	
+0	
+3	0(staff):1	12(friendly):1	1478(helpfull):1	
+0	
+0	
+
+<Author>Nors07
+<Content>Hotel Nova - excellent! I recently stayed here with my boyfriend and we thought it was an excellent hotel. Would definately return. its very central, near dam Square and central Station. Room 14 was very large and comfortable. I couldn't fault it.  
+<Date>Dec 8, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	21(excellent):2	39(return):1	322(recently):1	410(definately):1	517(fault):1	763(boyfriend):1	6984(nova):1	
+0	
+6	25(comfortable):1	82(station):1	102(near):1	139(square):1	168(central):2	1266(dam):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>qwerty99
+<Content>Great Hotel! Just come back from our first trip to Amsterdam and had to say that it was excellent. The hotel is about a 10 minute walk from Centraal Station, and is basically right on Dam Square with lots of museums and shops there. It is really easy to find and we had no problems checking in at all. All the staff were very helpful and efficient, and they were always there to offer help on the best places to visit, and the prices of things we had room number 16, which was MASSIVE! all rooms come with direct dial phones, fridge, towels, Tv (with english channels), and quite a small bathroom with an AMAZING shower!! the rooms were very comfy (Especially the beds!) and the heating worked perfectly. I don't know why other people on here have written any bad things about this hotel, such as bad smelling rooms, as the whole hotel smells nice and clean. Breakfast was nice, good selection of meats, cheese, cereals, bread/toast, egg, fruit salads and coffee and OJ etc. Staff clean rooms every day with fresh towels and glasses etc. the hotel is about 10 minutes walk from Ann Franks house, and 10 minutes walk to Leidsplein with LOADS of restaurants, night clubs etc.The only thing I wouldn't recommend about Amsterdam is taxis. Don't bother. If you do then ask how much would it cost to go to .....? as they are stupidly expensive. to be honest you don't need a taxi to anywhere as you can walk to everything you need, if not then there are trams everywhere, which all pretty much run along one main track so you just hop on and off wherever you want! amsterdam was an amazing experience and it is great to visit for any person of any age as there is so much to do! and i would definately stay in the Nova again.  
+<Date>Dec 5, 2006
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+8	21(excellent):1	33(trip):1	307(bother):1	361(amsterdam):1	410(definately):1	539(heat):1	595(perfectly):1	6984(nova):1	
+17	0(staff):1	14(helpful):1	19(price):1	44(experience):1	65(visit):2	89(offer):1	92(help):1	124(expensive):1	145(amaze):1	175(cost):1	193(person):1	335(numb):1	361(amsterdam):1	401(efficient):1	505(age):1	1329(massive):1	8921(stupidly):1	
+14	11(bed):1	13(bathroom):1	61(shower):1	116(tv):1	125(towel):1	126(especially):1	145(amaze):1	152(english):1	296(phone):1	318(fridge):1	475(comfy):1	741(channel):1	803(direct):1	3250(dial):1	
+35	0(staff):1	2(night):1	3(clean):1	7(walk):4	8(day):1	10(restaurant):1	15(recommend):1	29(minute):3	38(lot):1	49(shop):1	73(etc):2	82(station):1	109(pretty):1	112(main):1	125(towel):1	139(square):1	149(run):1	185(taxi):2	197(fresh):1	212(club):1	281(house):1	327(glass):1	361(amsterdam):1	507(museum):1	570(tram):1	790(basically):1	886(load):1	1108(honest):1	1151(hop):1	1266(dam):1	1766(track):1	2136(frank):1	2334(wherever):1	2450(centraal):1	7779(leidsplein):1	
+6	3(clean):1	4(nice):1	26(people):1	50(bad):2	231(smell):2	344(write):1	
+2	32(check):1	93(easy):1	
+13	4(nice):1	6(breakfast):1	73(etc):1	90(coffee):1	215(fruit):1	333(selection):1	412(egg):1	441(cheese):1	497(bread):1	529(cereal):1	677(meat):1	909(salad):1	3287(oj):1	
+0	
+
+<Author>maryclaude2
+<Content>Loved it! Well, I had a great time here...again. This is the third time I've stayed in the Nova Hotel and it's the first one I thought of when I went on a solo trip this time.This hotel is central to everything but not in the busiest street. It also has the advantage of being quite close to one of my favourite restaurants, the 'Kantijl and Tiger', for yummy Indonesian food.When I arrived, I was immediately given my key and directed to the lift, which is tiny but very efficient. I had booked a comfort room and when I walked in........it was just lovely! Twin beds pushed together with white sheets and a big wooden headboard. Three huge windows, looking down onto the street. Bathroom, fridge, table and chairs, TV. It was an enormous room and very comfortable.Breakfast is a cold buffet of fruit, cereal, cheese, cold meats, rolls and toast. I found the staff, as always, to be friendly and helpful. I had asked for a smoking room and was given a non-smoking room but was promised a new one in the morning. They rang me before breakfast, to ask me did I want to move but by then I was attached to my room and couldn't imagine that they could give me a better one. Altogether I would recommend this hotel, although I was tempted to write nothing and keep it as much of a secret as possible, so it isn't booked up next time I go.....:-)I would say though, shop around online. There are very good deals to be had and go for the comfort rooms if you can.  
+<Date>Nov 25, 2006
+<Rating>5	5	5	5	5	5	4	-1	
+<Aspects>
+13	5(time):3	33(trip):1	40(love):1	53(arrive):1	338(tiny):1	339(key):1	401(efficient):1	489(immediately):1	532(third):1	591(lift):1	803(direct):1	3526(solo):1	6984(nova):1	
+0	
+28	6(breakfast):1	7(walk):1	11(bed):1	13(bathroom):1	18(book):1	20(look):1	25(comfortable):1	35(street):1	87(lovely):1	116(tv):1	119(window):1	133(huge):1	140(deal):1	198(chair):1	207(move):1	229(table):1	318(fridge):1	466(white):1	479(sheet):1	690(twin):1	702(comfort):2	733(imagine):1	1041(push):1	1150(ring):1	1224(attach):1	1625(enormous):1	1756(wooden):1	3408(headboard):1	
+12	5(time):1	15(recommend):1	18(book):1	35(street):1	49(shop):1	168(central):1	220(busy):1	344(write):1	822(online):1	1127(secret):1	3086(tempt):1	3097(altogether):1	
+4	56(morning):1	468(smoke):1	975(promise):1	978(nonsmoking):1	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+17	6(breakfast):1	10(restaurant):1	16(food):1	28(close):1	77(buffet):1	215(fruit):1	222(cold):2	376(favourite):1	441(cheese):1	529(cereal):1	677(meat):1	813(roll):1	867(advantage):1	875(toast):1	1798(yummy):1	3482(indonesian):1	7612(tiger):1	
+0	
+
+<Author>annie999
+<Content>Horrible hotel We arrived to check into this hotel and had to leave. The room we were shown to was dirty and smelled really bad. We were shown to a second room but unfortunately it was as bad if not worse. The receptionist was unpleasant and unfriendly and I would not recommend this hotel.  
+<Date>Nov 17, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+2	50(bad):2	524(unfortunately):1	
+0	
+3	50(bad):1	231(smell):1	323(dirty):1	
+8	15(recommend):1	32(check):1	43(leave):1	53(arrive):1	544(horrible):1	855(receptionist):1	1487(unfriendly):1	1747(unpleasant):1	
+0	
+0	
+
+<Author>clemus
+<Content>bad experience... Sorry to say but this hotel was not a three star level, it smelled bad and got worse as you traveled beyond the lobby (a mix between mildew, marijuana and smoke) and our room had a leak of some sort that would flood our room floor every day. The rug on the floor had gotten moldy and created issues with breathing. On our last day they offered a new room, but that would mean carrying our luggage up and down these tiny little stairs to who knows where so we said no and just sucked it up another night. I would have thought they would offer to move our bags for us at the very least...The breakfast was ok, a bunch of bread and cheese; we ended up going elsewhere to cut the carbs. The staff was nice enough, but I felt this hotel was unclean, smelly and depressing. Search elsewhere...I will never stay there again...  
+<Date>Oct 24, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	646(elsewhere):1	1248(search):1	
+18	8(day):1	24(floor):1	44(experience):1	50(bad):3	55(lobby):1	68(travel):1	103(star):1	231(smell):1	306(level):1	468(smoke):1	557(sort):1	609(mix):1	738(beyond):1	891(sorry):1	1287(leak):1	1876(mildew):1	1927(flood):1	8693(marijuana):1	
+16	2(night):1	8(day):1	23(little):1	24(floor):1	89(offer):1	246(mean):1	249(luggage):1	265(issue):1	338(tiny):1	568(stair):1	824(carry):1	1696(create):1	1902(suck):1	2046(moldy):1	3016(rug):1	3873(breathe):1	
+0	
+6	0(staff):1	4(nice):1	34(feel):1	1697(smelly):1	2189(depress):1	3914(unclean):1	
+0	
+11	6(breakfast):1	89(offer):1	123(ok):1	207(move):1	290(bag):1	441(cheese):1	497(bread):1	646(elsewhere):1	873(cut):1	1624(bunch):1	10412(carbs):1	
+0	
+
+<Author>mairesinead
+<Content>great stay I am just back from Amsterdam last Friday and I booked a spacious comfort room at the Nova hotel costing me 155 euro a night. The room was a large room with two big single beds put together, the bathroom was small but catered for a bath/shower. The room also had a t.v which had some dutch channels and english channels and you also had the option of paying 12.50 a night for a few film channels. The room also contained a fridge however the view from our window was terrible but I was on holiday and spent most of the time outside and not looking out my window so I didn't mind. The Nova hotel also has a safety deposit box for every room and it is downstairs and it is of no extra cost. There was no noise and the people at reception rang for a taxi.The breakfast was sufficent. There was toast and many types of bread,cheese, turkey,all hot drinks, juice,fruit salad and cereal.All around, the Nova hotel was worth the stay as it was 1 minute from Dam square and everything leads off from there. I hope this has been of some help.  
+<Date>Oct 3, 2006
+<Rating>4	3	3	5	3	3	3	3	
+<Aspects>
+2	92(help):1	328(hope):1	
+9	2(night):1	18(book):1	111(spacious):1	175(cost):1	256(euro):1	361(amsterdam):1	702(comfort):1	923(friday):1	6984(nova):1	
+36	2(night):1	5(time):1	11(bed):1	13(bathroom):1	17(view):1	20(look):1	29(minute):1	42(pay):1	64(spend):1	96(worth):1	98(outside):1	119(window):2	128(extra):1	139(square):1	152(english):1	175(cost):1	223(holiday):1	226(bath):1	294(mind):1	304(single):1	318(fridge):1	336(option):1	432(terrible):1	691(downstairs):1	741(channel):3	922(lead):1	945(box):1	1000(cater):1	1266(dam):1	1448(safety):1	1545(contain):1	1603(deposit):1	2066(dutch):1	2345(film):1	2366(t.v):1	6984(nova):2	
+5	26(people):1	94(noise):1	129(reception):1	185(taxi):1	1150(ring):1	
+0	
+0	
+12	6(breakfast):1	63(drink):1	114(hot):1	215(fruit):1	362(juice):1	389(type):1	441(cheese):1	497(bread):1	529(cereal):1	875(toast):1	909(salad):1	3650(turkey):1	
+0	
+
+<Author>franky101
+<Content>great stay It was close to everywhere i wanted to go. All the main coffeeshops, all the museums, dam square, all the great shops, and right downtown. It was clean and i really enjoyed the buffet Continental Breakfast. It was quiet while i was there. Which was 2 nights. I felt very safe being that the only way in was to be buzzed in. I have just booked my 2nd trip to Amsterdam for my wife and me and we will be staying here again. This time for 6 nights.  
+<Date>Sep 11, 2006
+<Rating>5	4	5	5	5	4	3	-1	
+<Aspects>
+5	2(night):2	5(time):1	34(feel):1	137(safe):1	2000(buzz):1	
+0	
+1	58(quiet):1	
+8	28(close):1	49(shop):1	112(main):1	139(square):1	334(downtown):1	507(museum):1	1266(dam):1	7609(coffeeshops):1	
+0	
+0	
+10	3(clean):1	6(breakfast):1	18(book):1	33(trip):1	51(enjoy):1	77(buffet):1	184(wife):1	361(amsterdam):1	372(continental):1	1326(2nd):1	
+0	
+
+<Author>The Fatbloke
+<Content>excellent location, friendly Hotel Stayed in the hotel over a weekend in May '06, found th staff to be friendly and helpfull Security was good as you had to be let in and out of the main door on a buzzer system. The hotel was pleasantly furnished, although the lurid green walls at breakfast where bit much at breakfast, especially after a night on the alcohol. Talking of which there is no in-house bar, however the location is such that there is no problem with that. A resonable sized lift is available for the ascent to the rooms, The rooms where clean and tidy, the one we had was a bit crowded with a table in the room, twin beds pushed together, and a fridge as well as a wardrobe. tv in the room giving all the usual channels plus BBC1 and 2 a bonus for us Brits. the toilet was seperate from the Shower room making it better for two people when one is being used. Our room overlooked the back of the Hotel and as has been stated in an earlier review, a bit bleak, but no more so than any other in a tightly packed city centre. the room was surprisingly quiet, no noise heard of returning revellers during the night and only the cleaning staff allowing a fire door to shut broke the slumber (it was an acceptable 08:00hrs).This is not the cheapest hotel in Amsterdam, but a hostel it isn't. it is good value, excellent location, no more than 10 minutes walk to any major area, unless you started looking in shops. Breakfast is normal continental, buffet style and you can help yourself to whatever, is available. I would recommend this hotel to the person who can aford more than budget , but maybe not The Grand.  
+<Date>May 23, 2006
+<Rating>4	3	3	-1	4	-1	4	-1	
+<Aspects>
+5	15(recommend):1	193(person):1	308(maybe):1	365(grand):1	429(budget):1	
+3	143(cheap):1	361(amsterdam):1	1560(hostel):1	
+67	0(staff):2	1(location):2	2(night):2	3(clean):2	6(breakfast):2	11(bed):1	12(friendly):2	21(excellent):1	26(people):1	27(bar):1	37(review):1	39(return):1	41(city):1	52(bit):3	54(door):2	58(quiet):1	61(shower):1	83(size):1	94(noise):1	101(center):1	112(main):1	116(tv):1	126(especially):1	132(hear):1	134(available):1	172(weekend):1	183(wall):1	203(plus):1	228(break):1	229(table):1	260(overlook):1	313(crowd):1	318(fridge):1	330(toilet):1	359(allow):1	371(talk):1	518(system):1	591(lift):1	641(security):1	682(usual):1	690(twin):1	715(pack):1	741(channel):1	747(pleasantly):1	787(furnish):1	849(bonus):1	1005(green):1	1041(push):1	1086(shut):1	1100(tidy):1	1214(acceptable):1	1262(fire):1	1267(alcohol):1	1375(surprisingly):1	1416(seperate):1	1451(wardrobe):1	1464(hr):1	1478(helpfull):1	2505(th):1	4016(in-house):1	4314(brits):1	5169(resonable):1	6307(buzzer):1	6908(tightly):1	7006(reveller):1	9432(bleak):1	12473(slumber):1	
+10	1(location):1	7(walk):1	20(look):1	21(excellent):1	29(minute):1	49(shop):1	81(value):1	165(start):1	315(major):1	405(unless):1	
+0	
+0	
+9	6(breakfast):1	77(buffet):1	92(help):1	134(available):1	326(style):1	372(continental):1	576(yourself):1	878(normal):1	937(whatever):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Amsterdam: Nova Hotel Amsterdam: "not good value" We stayed there for 3 nights in early April 06, having booked it on Octopus, cost - 拢300+ it is the most overpriced hotel that I ever have stayed in ,I stayed in room 16 which faced onto the back of the hotel with a view like Beruit, The noise from the above room was unbearable I complained asked for a different room but no joy the hotel was full, This hotel is defiantly not in the top league 3 star hotels, it might have a lift  be near to all the attractions which Amsterdam has to offer but that鈥檚 about all what鈥檚 going for it, take my advice  look elsewhere, the breakfast was very basic but there was enough choice so you wouldn鈥檛 starve, However we found all the hotel staff friendly polite and helpful, Most of hotel guests where students but well behaved ones, stay at this hotel as a last resort or if you get the price down to halve what I paidOh before I forget (the kitchen staff shoud be trained to put disposable gloves on before handling the food at breakfast it was disgusting to watch themSorry to slag this hotel off but Iam just being honest  
+<Date>Apr 7, 2006
+<Rating>1	1	3	-1	3	-1	3	-1	
+<Aspects>
+0	
+49	0(staff):2	2(night):1	6(breakfast):2	12(friendly):1	14(helpful):1	16(food):1	17(view):1	18(book):1	19(price):1	20(look):1	72(resort):1	81(value):1	89(offer):1	91(guest):1	94(noise):1	102(near):1	103(star):1	107(choice):1	118(top):1	175(cost):1	182(train):1	241(complain):1	245(watch):1	350(attraction):1	352(basic):1	361(amsterdam):3	397(forget):1	422(polite):1	461(kitchen):1	575(advice):1	591(lift):1	646(elsewhere):1	727(overprice):1	966(handle):1	1108(honest):1	1152(disgust):1	2020(student):1	2486(joy):1	2586(wouldn):1	2785(unbearable):1	3074(starve):1	4182(behave):1	4697(league):1	5057(disposable):1	5209(octopus):1	5850(glove):1	6212(defiantly):1	6984(nova):1	11151(iam):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>diderek
+<Content>Great location  We found the Nova really central and walking distance to any attractions and the railway station. Very close to Dam square and a supermarket just down the road, so the fridge would come in handy in summer. Tea  Coffee facilities would be my only improvement. We felt very secure with the front door locked at all times and the locked luggage storage facility also came in handy. The staff were very helpful and booked a tour for us as well. The room was ncely decorated and had plenty of room for the 3 of us who stayed.Would recommend!!  
+<Date>Jan 21, 2006
+<Rating>4	4	5	-1	5	-1	5	-1	
+<Aspects>
+1	15(recommend):1	
+0	
+2	158(plenty):1	305(decorate):1	
+16	1(location):1	7(walk):1	28(close):1	82(station):1	115(distance):1	139(square):1	168(central):1	230(road):1	318(fridge):1	350(attraction):1	755(handy):1	853(summer):1	1078(supermarket):1	1266(dam):1	2002(railway):1	6984(nova):1	
+0	
+4	0(staff):1	14(helpful):1	18(book):1	181(tour):1	
+13	5(time):1	31(front):1	34(feel):1	54(door):1	90(coffee):1	211(facility):2	249(luggage):1	301(tea):1	755(handy):1	774(lock):2	1034(secure):1	1311(storage):1	1486(improvement):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Quiet and safe but near the action       beds  
+<Date>Nov 16, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+5	11(bed):1	58(quiet):1	102(near):1	137(safe):1	958(action):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Fastbloke
+<Content>Alright, I Suppose This hotel is in a good location, and the breakfast is ok - A bit more choice would be welcomed. The room was big and had a fridge in it, which was handy. They could really do with getting someone to go round the building screwing down all the squeeky floorboards. Being woken up at 4 in the morning by people moving about for half an hour is not great. Also, this was another hotel where the shower goes from cold up to hot, but manages to miss a sensible temperature in the middle (unless standing and fidling with it for ten minutes)  
+<Date>Nov 6, 2005
+<Rating>3	3	2	-1	4	-1	3	-1	
+<Aspects>
+6	26(people):1	56(morning):1	60(hour):1	207(move):1	283(half):1	554(wake):1	
+8	1(location):1	6(breakfast):1	52(bit):1	107(choice):1	123(ok):1	202(welcome):1	620(suppose):1	2130(all right):1	
+16	29(minute):1	61(shower):1	114(hot):1	135(build):1	222(cold):1	276(miss):1	318(fridge):1	325(middle):1	405(unless):1	444(stand):1	645(manage):1	755(handy):1	944(temperature):1	2853(screw):1	5887(sensible):1	9509(floorboards):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Friendly hotel Nova hotel in good location near dam square.All the sights easily accessible. The room was clean with adaquate furnishings including fridge, the breakfast was OK but nothing special. The friendly reception staff were extremely helpful. The many flights of stairs to bedroom may cause a problem to the less agile as it was difficult to carry luggage in and out of the hotel.  
+<Date>Oct 2, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+21	1(location):1	3(clean):1	6(breakfast):1	12(friendly):1	71(include):1	102(near):1	123(ok):1	139(square):1	208(special):1	233(flight):1	249(luggage):1	268(bedroom):1	318(fridge):1	568(stair):1	572(difficult):1	824(carry):1	870(furnishings):1	943(cause):1	1266(dam):1	6984(nova):1	9418(adaquate):1	
+0	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	110(extremely):1	129(reception):1	
+0	
+3	411(sight):1	438(easily):1	1342(accessible):1	
+
+<Author>notakid
+<Content>Really good hotel For the price we were really pleased with the Hotel Nova. Its location was brilliant next to Dam Square and there was a large supermarket afew doors down. The reception was helpful and the breakfast basic but good. Lots of choice with chocolate sprinkes for the kids.Our room was huge, no view but why bother to look out the window when you are so close to everything. We also had a full sized fridge which was unusual but welcome. Our only problem was on the last day. My daughter left her bag in the room as we vacated it we her and her brothers game boys in it. When we reliesed we went back but it had disappeared. Reception were helpful and even rang the police for us. We just had enough time to report the theft before flying home. Don't let this put you off the hotel however as it could have happened anywhere just be careful with your stuff (unlike us)  
+<Date>Jul 12, 2005
+<Rating>4	5	4	-1	5	-1	3	-1	
+<Aspects>
+11	5(time):1	8(day):1	141(home):1	382(happen):1	480(stuff):1	614(fly):1	838(report):1	897(careful):1	1163(unlike):1	2594(disappear):1	3465(theft):1	
+7	19(price):1	38(lot):1	107(choice):1	173(please):1	201(kid):1	632(chocolate):1	6984(nova):1	
+17	17(view):1	20(look):1	28(close):1	43(leave):1	83(size):1	119(window):1	133(huge):1	202(welcome):1	290(bag):1	307(bother):1	318(fridge):1	467(daughter):1	683(game):1	881(boy):1	1610(unusual):1	2010(brother):1	5431(vacate):1	
+7	1(location):1	54(door):1	139(square):1	793(brilliant):1	1078(supermarket):1	1266(dam):1	12846(afew):1	
+0	
+6	6(breakfast):1	14(helpful):2	129(reception):2	352(basic):1	1150(ring):1	1409(police):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Excellent stay Stayed at the Nova Hotel in Amsterdam last winter (2003-2004) and had a terrific time. The hotel is located in a very central location, close to all the shops, museums, restaurants, and major attractions. The staff was very friendly and had all the answers and great suggestions. The room was very clean, quite big, and very comfortable. Excellent breakfast in the morning really fills you up for the day. Found a terrific last minute deal on this hotel and had a really great time. Would definitely stay again.  
+<Date>Apr 14, 2005
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+9	5(time):2	21(excellent):1	29(minute):1	59(definitely):1	140(deal):1	361(amsterdam):1	699(terrific):2	1599(winter):1	6984(nova):1	
+0	
+2	3(clean):1	25(comfortable):1	
+9	1(location):1	10(restaurant):1	28(close):1	49(shop):1	84(locate):1	168(central):1	315(major):1	350(attraction):1	507(museum):1	
+0	
+4	0(staff):1	12(friendly):1	669(answer):1	921(suggestion):1	
+5	6(breakfast):1	8(day):1	21(excellent):1	56(morning):1	491(fill):1	
+0	
+
+<Author>Jan_from_Atlanta
+<Content>2 Star Hotel - 4 Star Location Although thie hotel carries a 3 star rating, the overall quality of the Nova is more in keeping with a 2 start facility. Our room was basic but adequate, the free breakfast offers a broad selection of items, and the staff was very helpful and responsive. The location is indeed excellent and is only steps from the Dam, a large supermarket, and lots of eating options. The tram runs right by the hotel with stops nearby in both directions. If you want a view then ask for a front window (with street noise). We stayed inside but still found the building to be a bit noisy with hearing doors closing, people walking etc. Our room had three twin beds and some have four so this is a good spot for those who can use such bed configurations. The hotel is undergoing renovation one floor at a time but that was not a problem. If this still sounds appealing then look for 2 star pricing on the room- not 3 star. We stayed 5 nights in December and finally nailed down via Internet a double rate of 75 Euros (half of the brochure price). Last-minute walk-ins did even better, if that is an option in your travels.  
+<Date>Jan 4, 2005
+<Rating>3	3	3	-1	3	-1	4	-1	
+<Aspects>
+0	
+23	1(location):1	2(night):1	19(price):2	20(look):1	70(overall):1	78(rate):2	97(internet):1	103(star):5	165(start):1	179(double):1	187(quality):1	211(facility):1	256(euro):1	283(half):1	341(finally):1	409(sound):1	512(via):1	824(carry):1	993(december):1	1679(appeal):1	2001(brochure):1	3281(nail):1	6984(nova):1	
+24	0(staff):1	5(time):1	6(breakfast):1	11(bed):2	14(helpful):1	17(view):1	24(floor):1	31(front):1	35(street):1	46(free):1	89(offer):1	94(noise):1	119(window):1	317(spot):1	333(selection):1	352(basic):1	390(adequate):1	519(item):1	687(renovation):1	690(twin):1	2086(undergo):1	2351(responsive):1	5176(broad):1	5294(configuration):1	
+27	1(location):1	7(walk):1	21(excellent):1	26(people):1	28(close):1	38(lot):1	47(eat):1	52(bit):1	54(door):1	68(travel):1	73(etc):1	122(stop):1	132(hear):1	135(build):1	149(run):1	217(noisy):1	232(nearby):1	336(option):2	366(step):1	395(direction):1	408(inside):1	570(tram):1	990(indeed):1	1078(supermarket):1	1266(dam):1	2367(walk-in):1	6062(last-minute):1	
+0	
+0	
+0	
+0	
+
+<Author>kellylla
+<Content>meno peggio di quello che mi aspettavo...       la mia stanza:una tripla standard  
+<Date>Sep 19, 2008
+<Rating>3	3	3	4	3	4	3	3	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+6	130(standard):1	225(la):1	3881(di):1	4209(mi):1	5051(mia):1	6494(una):1	
+0	
+

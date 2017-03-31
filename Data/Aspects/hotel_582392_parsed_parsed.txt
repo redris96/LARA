@@ -1,0 +1,574 @@
+<Author>Kildare3
+<Content>Fantastic Deal! Hotel Victoria is a gem on a crowded street ---entirelt soundproofed! Rooms are well-appointed, as in US motels (i.e., standard layout), but larger. Efficient and generous breakfast downstairs. Stupendous value for Mardrid. Good staff, English-speaking. 10 minutes walk to the Prado, 5 minutes to Sol, the major metro stop that will connect you with everything (!) Foodshops and restauranrts close by.  
+<Date>Dec 31, 2008
+<Rating>5	5	5	5	5	5	5	3	
+<Aspects>
+2	86(fantastic):1	140(deal):1	
+2	81(value):1	10658(stupendous):1	
+8	6(breakfast):1	130(standard):1	401(efficient):1	691(downstairs):1	991(motel):1	1453(layout):1	1523(generous):1	2440(well-appoint):1	
+14	7(walk):1	28(close):1	29(minute):2	35(street):1	122(stop):1	235(metro):1	313(crowd):1	315(major):1	805(gem):1	841(connect):1	1830(victoria):1	1852(soundproof):1	2088(sol):1	3562(prado):1	
+0	
+2	0(staff):1	4788(english-speake):1	
+0	
+0	
+
+<Author>renopair
+<Content>Best Location for Old Madrid We loved staying at the Victoria 4, in Madrid. It was located on a cute side street only steps from the Plaza del Sol. The staff was very friendly, the room was sufficient, the breakfast was good. They have a nice and comfortable sitting area off of the main reception area. The room had everything we needed. 2 twin beds, a writing desk, a large armoire, simple but clean bathroom, with a bathtub. The room was also very quiet, which we really appreciated based on the busy area in which we were located. Everything was simple but comfortable as this location.We were able to walk to every major tourist site in the center of Madrid, from all of the museums, to the opera house, to... well, all of it. The metro station, SOL, is only about two blocks away, and is a major hub for transit, and therefore extremely convenient.  
+<Date>Dec 20, 2008
+<Rating>4	4	4	5	4	5	-1	-1	
+<Aspects>
+0	
+0	
+18	0(staff):1	3(clean):1	6(breakfast):1	11(bed):1	12(friendly):1	13(bathroom):1	36(desk):1	58(quiet):1	84(locate):1	220(busy):1	284(base):1	344(write):1	500(appreciate):1	613(simple):1	690(twin):1	1023(bathtub):1	1713(sufficient):1	3225(armoire):1	
+29	1(location):2	7(walk):1	25(comfortable):1	35(street):1	40(love):1	82(station):1	84(locate):1	100(bloc):1	101(center):1	110(extremely):1	171(able):1	186(convenient):1	192(site):1	209(tourist):1	235(metro):1	281(house):1	315(major):2	366(step):1	507(museum):1	515(plaza):1	613(simple):1	1202(cute):1	1280(madrid):3	1374(opera):1	1482(del):1	1830(victoria):1	2015(transit):1	2088(sol):2	3027(hub):1	
+0	
+5	4(nice):1	25(comfortable):1	112(main):1	129(reception):1	169(sit):1	
+0	
+0	
+
+<Author>xpis3
+<Content>There is always BUT! The hotel is in the heart of Madrid and you can walk to almost every site, museum etc. On top of that the Metro Puerta de Sol is over the corner. The room was spacious and very clean. The staff are very friendly. The BUT is about the breakfast - it is very poor and you have it in the bar which is connected to the hotel. (the breakfast is was included in our package). Other than that we recommend this hotel. If the breakfast is not included in your reservation you can always get a good breakfast at one of the many restaurants/bars/coffee houses in the vicinity.  
+<Date>Oct 16, 2008
+<Rating>4	3	4	4	5	4	-1	-1	
+<Aspects>
+6	15(recommend):1	118(top):1	200(corner):1	235(metro):1	2088(sol):1	3774(puerta):1	
+0	
+2	3(clean):1	111(spacious):1	
+6	7(walk):1	73(etc):1	192(site):1	450(heart):1	507(museum):1	1280(madrid):1	
+0	
+2	0(staff):1	12(friendly):1	
+10	6(breakfast):4	27(bar):1	71(include):2	156(reservation):1	281(house):1	331(poor):1	527(package):1	841(connect):1	2232(vicinity):1	3920(restaurants):1	
+0	
+
+<Author>TeamBeag
+<Content>Superb location We spent 5 nights at the hotel with our 8 month old son. The hotel was fairly contemporary and the staff were very helpful. Rooms and bathrooms were clean. Air cond was very effective. Breakfast was served in the adjoining restaurant - pretty basic but was included in the cost of the room. Very busy at breakfast but the staff seemed to keep on top of things. Didn't encounter any noise issues from other occupants or the street. The location has to be the main reason for staying, its a 3 minute walk from Sol metro station. Loads of authentic tapas bars within minutes of the hotel.  
+<Date>Sep 29, 2008
+<Rating>4	4	4	5	5	4	4	-1	
+<Aspects>
+0	
+0	
+9	0(staff):1	3(clean):1	13(bathroom):1	14(helpful):1	164(air):1	462(fairly):1	1475(contemporary):1	2774(effective):1	7555(cond):1	
+22	0(staff):1	1(location):2	2(night):1	6(breakfast):1	7(walk):1	29(minute):1	35(street):1	64(spend):1	82(station):1	94(noise):1	112(main):1	118(top):1	220(busy):1	235(metro):1	265(issue):1	374(reason):1	388(month):1	407(superb):1	612(son):1	693(encounter):1	2088(sol):1	3265(occupant):1	
+0	
+0	
+13	6(breakfast):1	10(restaurant):1	27(bar):1	29(minute):1	71(include):1	109(pretty):1	174(serve):1	175(cost):1	352(basic):1	886(load):1	1412(adjoin):1	1455(tapa):1	1886(authentic):1	
+0	
+
+<Author>Dora007
+<Content>Great location The hotel is very central and clean. However, on checking in, they told us our room was in another building across the road, which turned out to be another hotel but owned by Hotel Victoria 4. The rooms were tiny, noisey, with no natural light and a view of the hotel room opposite. Would recommend this Hotel for its location but I would insist on a room in the main building of Hotel Victoria 4.  
+<Date>Sep 26, 2008
+<Rating>2	2	2	5	4	3	3	-1	
+<Aspects>
+0	
+0	
+16	1(location):1	15(recommend):1	17(view):1	32(check):1	69(tell):1	112(main):1	135(build):2	157(light):1	166(own):1	230(road):1	338(tiny):1	783(opposite):1	1495(insist):1	1543(natural):1	1830(victoria):2	3008(noisey):1	
+3	1(location):1	3(clean):1	168(central):1	
+0	
+0	
+0	
+0	
+
+<Author>rr123
+<Content>Great Location This is a very nice property close to Puerta del Sol and metro station. The rooms are nice and clean. Rooms are small and beds are ok'ay. However, size of bath is good. We had breakfast nextdoor and it was fair and easy nothing out of this world. We would stay there again due to location. The young ladies who staff the front desk were great...the restaurant recommended were great. They even made reservations for us at El Botin. We had a wonderful stay in Madrid and the hotel and location assisted with that too.  
+<Date>Jul 11, 2008
+<Rating>4	4	3	5	4	5	5	-1	
+<Aspects>
+0	
+0	
+12	3(clean):1	4(nice):1	6(breakfast):1	11(bed):1	83(size):1	93(easy):1	123(ok):1	226(bath):1	272(world):1	739(fair):1	8096(nextdoor):1	9691(ay):1	
+13	1(location):3	4(nice):1	28(close):1	48(wonderful):1	82(station):1	214(property):1	235(metro):1	259(due):1	1265(assist):1	1280(madrid):1	1482(del):1	2088(sol):1	3774(puerta):1	
+0	
+8	0(staff):1	10(restaurant):1	15(recommend):1	31(front):1	36(desk):1	156(reservation):1	521(lady):1	752(el):1	
+0	
+0	
+
+<Author>kovals
+<Content>Absolutely Fantastic       The view from the room  
+<Date>Jun 20, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+3	17(view):1	86(fantastic):1	189(absolutely):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>fifikiwi
+<Content>Practical hotel with great location My friend and I stayed there for two nights. I love the location of the hotel, close to the Sol Metro station and walking distance to almost all major tourist sites. Room is clean but has thin walls, we heard showers from next door and cleaning noise (sweeping and vacuuming). Staffs are very helpful in general.  
+<Date>Jun 2, 2008
+<Rating>4	4	3	5	4	4	4	2	
+<Aspects>
+0	
+0	
+9	3(clean):2	54(door):1	61(shower):1	94(noise):1	132(hear):1	183(wall):1	754(thin):1	2680(vacuum):1	2724(sweep):1	
+14	1(location):2	2(night):1	7(walk):1	28(close):1	40(love):1	82(station):1	115(distance):1	146(friend):1	192(site):1	209(tourist):1	235(metro):1	315(major):1	2088(sol):1	3107(practical):1	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>reggy67
+<Content>Fab Location What a jewel in an otherwise rundown neglected area of this large city. Myself and two friends have just returned and were impressed by the standard of the hotel. All the staff were friendly from the managers to the cleaners. Hotel ios decorated in a conntemporary style and rooms are although not spacious, adequate for a short stay. Breakfast was included in our stay and was taken in a small room adjacent to the hotel's bar. this consisted of a good range of choices served in a clean environment. Hotel itself was spotlessly clean with chambermaids that didn't knock on your door at the crack of dawn wanting to clean the rooom. Public areas quiet and elegant.We however found Madrid itself to be somewhat of a disappointment. Streets were litter strewn with piles of rubbish overflowing from all of the communal recycling bins we came across.Hotel is very well placed to get around Madrid from. Within walking distance of most of the landmarks and shopping areas.Excellent public service provision.Madrid however is not a place we would rush back to for a follow up visit. But we wouldn't have missed this chance we got to see this capital city.  
+<Date>May 15, 2008
+<Rating>4	4	5	5	5	5	5	-1	
+<Aspects>
+14	39(return):1	41(city):1	65(visit):1	130(standard):1	146(friend):1	276(miss):1	343(impress):1	482(follow):1	651(somewhat):1	689(chance):1	866(disappointment):1	1244(rush):1	1280(madrid):3	3324(capital):1	
+6	3(clean):1	107(choice):1	174(serve):1	714(range):1	1185(consist):1	1712(environment):1	
+8	58(quiet):1	111(spacious):1	144(short):1	305(decorate):1	326(style):1	379(public):1	390(adequate):1	986(elegant):1	
+20	1(location):1	7(walk):1	35(street):1	41(city):1	49(shop):1	115(distance):1	508(otherwise):1	1216(fab):1	2323(rundown):1	2664(rubbish):1	2797(landmark):1	2804(jewel):1	2886(pile):1	3059(bin):1	3249(communal):1	3404(litter):1	3460(overflow):1	3543(neglect):1	4595(recycle):1	7098(strew):1	
+8	3(clean):2	54(door):1	1094(spotlessly):1	1323(knock):1	1411(crack):1	3548(dawn):1	4749(chambermaid):1	7761(rooom):1	
+4	0(staff):1	12(friendly):1	258(manager):1	2487(cleaner):1	
+8	6(breakfast):1	9(service):1	21(excellent):1	27(bar):1	71(include):1	379(public):1	1061(adjacent):1	5628(provision):1	
+0	
+
+<Author>SHFT54
+<Content>Located on a Tapas Bar Street       THE ROOM  
+<Date>May 14, 2008
+<Rating>4	5	4	5	4	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+4	27(bar):1	35(street):1	84(locate):1	1455(tapa):1	
+0	
+0	
+0	
+0	
+
+<Author>Renno2355
+<Content>Fantastic Stayed at hotel from 16.04.2008 for three nights. Paid 42 Euros from airport in taxi and 25 Euros for return. Well ripped off. Ask for price before you accept ride.Hotel very clean and modern. The buffet breakfast was good and you could get bacon and eggs if you paid extra.The location was great. Right in the centre and close to all the Tapas bars. Their food was excellent and cheap for a major city as was the drinks. The staff in the Tapas bars were very helpful and friendly. We felt safe being two women alone.The only down side was the weather. It rained most days but we went to Retiro park which is lovely.Madrid and its people are great. Take a phrase book not many English speakers in Tapas bars.  
+<Date>Apr 20, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	2(night):1	26(people):1	34(feel):1	86(fantastic):1	137(safe):1	385(weather):1	566(woman):1	1182(rip):1	1280(madrid):1	
+3	19(price):1	218(ride):1	1247(accept):1	
+0	
+15	1(location):1	8(day):1	27(bar):1	28(close):1	39(return):1	42(pay):1	66(park):1	87(lovely):1	95(airport):1	101(center):1	185(taxi):1	256(euro):2	581(rain):1	1455(tapa):1	7509(retiro):1	
+2	3(clean):1	151(modern):1	
+5	0(staff):1	12(friendly):1	14(helpful):1	27(bar):1	1455(tapa):1	
+18	6(breakfast):1	16(food):1	18(book):1	21(excellent):1	27(bar):1	41(city):1	42(pay):1	63(drink):1	77(buffet):1	128(extra):1	143(cheap):1	152(english):1	315(major):1	412(egg):1	1057(bacon):1	1455(tapa):1	2398(speaker):1	2764(phrase):1	
+0	
+
+<Author>draculaisfromdublin
+<Content>happy return we stayed at the victoria from 27 to 31 january and once again found it to be an excellant choice. last year we decided after staying here that it was the best value and location over a six year period coming to madrid and using a different hotel each year.close to everything you want to see and only metres from sol. we recomend tapas bar el lacon off plaza santa ana and the best value restaurant in madrid is la finca de susana which we visit each year. on the corner of calle victoria is the largest branch of museo de jamon and the salon upstairs serves a good menu del dia just in case you dislike breakfast.  
+<Date>Feb 10, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+11	1(location):1	39(return):1	81(value):1	107(choice):1	155(happy):1	219(decide):1	1018(january):1	1280(madrid):1	1331(period):1	1830(victoria):1	2786(excellant):1	
+0	
+3	28(close):1	1194(metre):1	2088(sol):1	
+0	
+0	
+25	6(breakfast):1	10(restaurant):1	27(bar):1	65(visit):1	81(value):1	174(serve):1	200(corner):1	225(la):1	423(menu):1	515(plaza):1	752(el):1	1280(madrid):1	1358(upstairs):1	1420(recomend):1	1455(tapa):1	1482(del):1	1510(santa):1	1830(victoria):1	2881(dislike):1	3418(salon):1	3689(ana):1	4580(calle):1	5316(branch):1	10198(museo):1	11262(dia):1	
+0	
+
+<Author>Gavatron07
+<Content>Great Location We enjoyed a one night stay at the Victoria 4 arriving early evening and leaving at the end of the following day, heading south.It is very conveniently located. The staff were variable but we met one guy as we were leaving who had spent 10 years working in hotels in the UK and he was fount of knowledge about Spain and Spaniards and very funny!The desk staff were helpful with our luggage as we checked out but went sightseeing until picking up our bags before heading to the train station. The room was good, the breakfast only okay. We though the Victoria 4 was good value and would certainly stay there again.  
+<Date>Jan 30, 2008
+<Rating>4	4	3	4	3	4	3	-1	
+<Aspects>
+0	
+2	81(value):1	1830(victoria):1	
+2	6(breakfast):1	453(okay):1	
+22	0(staff):1	1(location):1	2(night):1	8(day):1	14(helpful):1	32(check):1	36(desk):1	43(leave):1	51(enjoy):1	53(arrive):1	82(station):1	84(locate):1	182(train):1	249(luggage):1	266(pick):1	290(bag):1	482(follow):1	640(sight-see):1	769(south):1	1070(conveniently):1	1437(heading):2	1830(victoria):1	
+0	
+12	0(staff):1	43(leave):1	64(spend):1	196(meet):1	368(guy):1	1156(funny):1	1178(uk):1	1636(spain):1	2148(knowledge):1	5713(variable):1	7775(spaniards):1	8418(font):1	
+0	
+0	
+
+<Author>stacesl3
+<Content>Very nice central hotel! Myself and two friends visited Madrid on the 6th December for a few days and stayed in the Victoria Hotel . Overall this is a nice hotel, it is bang smack in the centre and near to lots of bars and restaurants and shopping! The blinds/shutters block out any noise and also any light...so word of advice to any early risers - set an alarm as we made the mistake of thinking it was dark still and it was 1.00 in the day!! The rooms were average sized (we had 3 girls in one room, so not ideal but we managed) and very clean, the maid came every day and we found the reception staff helpful and friendly.....although there was one or two who dont speak the best english so study on your Spanish before you go! Somebody has said about a smell of drains throughout the hotel, there is a faint smell but its not in the room so that didn't bother me at all!The breakfast is continential, so just cold meats, pastries etc and it is very busy but they did let us sit in the restaurant as there were no seats.We ate in the restaurant on the last day and were very disapointed by the food and the service!Overall I would recommentd this hotel as its very central, clean and i thought pretty good value for money.  
+<Date>Dec 19, 2007
+<Rating>4	4	4	5	4	4	3	-1	
+<Aspects>
+9	4(nice):1	8(day):1	65(visit):1	146(friend):1	168(central):1	993(december):1	1280(madrid):1	1830(victoria):1	1869(6th):1	
+6	3(clean):1	70(overall):1	80(money):1	81(value):1	109(pretty):1	168(central):1	
+32	0(staff):1	3(clean):1	8(day):2	12(friendly):1	14(helpful):1	83(size):1	94(noise):1	100(bloc):1	127(speak):1	129(reception):1	152(english):1	157(light):1	227(average):1	231(smell):2	234(set):1	300(maid):1	307(bother):1	369(spanish):1	445(throughout):1	459(dark):1	503(dont):1	545(ideal):1	571(word):1	575(advice):1	625(girl):1	645(manage):1	895(mistake):1	1380(alarm):1	1489(drain):1	3607(riser):1	3769(study):1	3939(faint):1	
+0	
+0	
+0	
+24	4(nice):1	6(breakfast):1	8(day):1	9(service):1	10(restaurant):3	16(food):1	27(bar):1	38(lot):1	47(eat):1	49(shop):1	70(overall):1	73(etc):1	101(center):1	102(near):1	169(sit):1	220(busy):1	222(cold):1	504(seat):1	652(pastry):1	677(meat):1	1401(bang):1	2513(disapoint):1	3069(smack):1	8525(continential):1	
+0	
+
+<Author>cheapies
+<Content>Would Return Getting ThereWas a late flight into Madrid so I got an Aerocity 20E. Was 40 mins from picking up bags to checking in. Otherwise go everywhere by Metro as I did on the return legHotelRooms were very clean and modern, AC and heating were fine, nice balcony fronted road. Little noisy but no problem.LocationThis is where the Hotel shines, very close to Sol and surrounded by nice Tapas bar and restaurants.BreakfastNot very good as it was provided in the Restaurant next door which was not big enough and got cluttered and smoky. Not much on choice either . Bit of a let downTipsNice Tapas bar right outsideAvoid Irish Bars as they are TackyAvoid Chinese around the corner as it is woefulGet a 10 trip ticket on the Metro 6e 40cGo to the Ham supermarket over the road , fabulous.I have pictures of the room and surrounding area , but cannot upload them. Contact me if you would like to see them using this site  
+<Date>Dec 2, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	23(little):1	217(noisy):1	
+1	107(choice):1	
+18	3(clean):1	4(nice):1	31(front):1	39(return):2	79(late):1	113(fine):1	151(modern):1	191(balcony):1	230(road):1	233(flight):1	235(metro):1	456(picture):1	508(otherwise):1	539(heat):1	667(surround):1	956(ac):1	1280(madrid):1	8665(upload):1	
+21	4(nice):1	10(restaurant):1	27(bar):3	28(close):1	33(trip):1	52(bit):1	192(site):1	200(corner):1	230(road):1	235(metro):1	270(fabulous):1	621(ticket):1	667(surround):1	713(contact):1	764(chinese):1	1078(supermarket):1	1455(tapa):2	1561(ham):1	2088(sol):1	2347(irish):1	2349(shine):1	
+0	
+4	32(check):1	247(min):1	266(pick):1	290(bag):1	
+5	10(restaurant):1	54(door):1	153(provide):1	3782(smoky):1	5880(clutter):1	
+0	
+
+<Author>Katywaty
+<Content>Fab Hotel We've just returned from a weekend at this hotel and it couldn't have been better! There were 6 of us, 3 couples!The rooms were modern and clean and although we only stayed 2 nights, the room was cleaned whilst we there.The location was great, loads of fab tapas restaurants right outside the door as well as an Irish bar! The boys went off to watch Real Madrid play which took about 10 mins in a cab and the girls went shopping in the big shopping centre they have there! It was great, over 3 floors! And open till 10pm! Again it took only about 10 mins in a cab!Breakfast was adequate, continental style! I would definately stay there again! Location was great!  
+<Date>Nov 13, 2007
+<Rating>4	4	4	5	5	5	5	-1	
+<Aspects>
+9	39(return):1	99(couple):1	172(weekend):1	247(min):1	380(cab):1	410(definately):1	979(till):1	1216(fab):1	7119(10pm):1	
+0	
+5	2(night):1	3(clean):2	24(floor):1	151(modern):1	877(whilst):1	
+19	1(location):2	10(restaurant):1	27(bar):1	49(shop):2	54(door):1	98(outside):1	101(center):1	240(real):1	245(watch):1	247(min):1	380(cab):1	386(play):1	625(girl):1	881(boy):1	886(load):1	1216(fab):1	1280(madrid):1	1455(tapa):1	2347(irish):1	
+0	
+0	
+4	6(breakfast):1	326(style):1	372(continental):1	390(adequate):1	
+0	
+
+<Author>Exode
+<Content>Great location, friendly staff We had a room overlooking the busy street. Room was good, nice bathroom (including bath!), beds were ok (not great), location was very good! very near to Sol and bars and restaurants in the street. Just around the corner were shops.Room was big, cleaning very nice and the free Cava was great to drink in bath :o)The staff was friendly en helpfull, breakfast was ok, not great and as said before the restaurant was small.Overall a good hotel and would go back if I went to Madrid again.  
+<Date>Oct 29, 2007
+<Rating>4	4	4	5	4	5	4	-1	
+<Aspects>
+2	70(overall):1	1280(madrid):1	
+0	
+7	1(location):1	4(nice):1	11(bed):1	13(bathroom):1	71(include):1	123(ok):1	226(bath):1	
+8	0(staff):1	1(location):1	12(friendly):1	35(street):1	49(shop):1	200(corner):1	220(busy):1	260(overlook):1	
+0	
+0	
+17	0(staff):1	3(clean):1	4(nice):1	6(breakfast):1	10(restaurant):2	12(friendly):1	27(bar):1	35(street):1	46(free):1	63(drink):1	102(near):1	123(ok):1	226(bath):1	1478(helpfull):1	2065(en):1	2088(sol):1	2341(cava):1	
+0	
+
+<Author>ofomenko
+<Content>Overpromise and underdeliver We had our wedding organised on the terrace of this hotel - great location and views. It ended there!Poor organisation and non-functioning jakuzzi and entertainment system in our suite were major disappointments.We also feel that they are not clean with the way they managed our finances for this event ... person in charge avoids any contact for two months.  
+<Date>Oct 24, 2007
+<Rating>2	2	1	5	4	4	-1	-1	
+<Aspects>
+0	
+0	
+8	108(suite):1	315(major):1	331(poor):1	340(entertainment):1	518(system):1	866(disappointment):1	4327(organization):1	11612(non-functione):1	
+5	1(location):1	17(view):1	604(wed):1	673(terrace):1	1167(organize):1	
+0	
+10	3(clean):1	34(feel):1	136(charge):1	193(person):1	388(month):1	436(avoid):1	645(manage):1	713(contact):1	1106(event):1	7693(finance):1	
+0	
+0	
+
+<Author>giggy55
+<Content>Nice Hotel, Good Location The best thing about this hotel is the location. It is centrally located in Sol which is in the heart of everything. The reception staff were extremely helpful and friendly. Our room was clean and was a good siza but was on the 5th floor with a tiny window and was very dark. Our room was cleaned with fresh towels every day. The hotel itself was clean but the adjoining bar and restaurant are was absolutely filthy. The floor was covered in rubbish and was not picked up for the 3 nights we were there. Don't eat in the hotel, just sleep there and its fine.  
+<Date>Oct 12, 2007
+<Rating>3	3	3	5	2	5	3	-1	
+<Aspects>
+0	
+0	
+16	2(night):1	3(clean):2	8(day):1	24(floor):2	47(eat):1	104(sleep):1	113(fine):1	119(window):1	125(towel):1	197(fresh):1	266(pick):1	338(tiny):1	459(dark):1	552(cover):1	839(5th):1	2664(rubbish):1	
+6	1(location):2	4(nice):1	84(locate):1	450(heart):1	879(centrally):1	2088(sol):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	110(extremely):1	129(reception):1	
+6	3(clean):1	10(restaurant):1	27(bar):1	189(absolutely):1	1320(filthy):1	1412(adjoin):1	
+0	
+
+<Author>Qwert1a
+<Content>Highly Recommend Victoria 4 Victoria 4 is well located, near Plaza de Sol, about half-way between the Prado and the Royal Palace, and a short walk to the Gran Via. There are many restaurants in the immediate neighborhood. The hotel staff was helpful, the room sufficiently large, clean and quiet. The lobby is somewhat small. The breakfast, which was included, was more than satisfactory for a continental breakfast. Victoria 4 is a good choice  
+<Date>Sep 23, 2007
+<Rating>4	4	4	5	4	4	4	-1	
+<Aspects>
+0	
+2	107(choice):1	1830(victoria):1	
+5	0(staff):1	3(clean):1	14(helpful):1	58(quiet):1	5602(sufficiently):1	
+17	7(walk):1	15(recommend):1	55(lobby):1	84(locate):1	102(near):1	138(highly):1	144(short):1	512(via):1	515(plaza):1	642(palace):1	651(somewhat):1	753(royal):1	1535(gran):1	1830(victoria):2	2088(sol):1	3562(prado):1	9114(half-way):1	
+0	
+0	
+7	6(breakfast):2	10(restaurant):1	71(include):1	372(continental):1	421(neighbourhood):1	1761(immediate):1	2059(satisfactory):1	
+0	
+
+<Author>Wrekin68
+<Content>Fantastic!! We stayed here for three nights at the end of August and would thoroughly recommend this hotel in every respect. We had never visited Madrid before and so we could not have been more fortunate with the location of the hotel. Almost all of the major tourist sites were within a comfortable walk and the famous Madrid nightlife was literally on our doorstep.The hotel and, most importantly, the room were spotlessly clean and standards of housekeeping were very high throughout our stay. The bathroom and the furniture in the room were modern and more than adequate - certainly much better than the 3* rating might lead you to expect. We were on the first floor overlooking c/Victoria and, although it was fairly noisy in the evening and into the early hours, it was nothing that shutting the shutters and balcony windows (and a pair of ear plugs if you're a light sleeper), couldn't solve. Our room was also next to the lift but we heard no sound from it (or any other guests) the whole time we were there.Breakfast was a perfectly adequate continental affair, (although I failed to work out where the hot water for the decaf coffee sachets was kept). The staff - particularly those at Reception - were brilliant at all times. On our last night we managed to lose our key card but the lady on the desk sorted it out in no time at all. Incidentally, all the staff we met spoke very good English.We would certainly stay at this hotel again. A word of warning though - on our first night we failed to set an alarm. With the shutters and the curtains both closed the room was so dark that neither of us woke up until midday the following morning. This fact should also reassure any potential guests still worried about noise level at the hotel.Many thanks to the Victoria 4 for helping to make our first trip to Madrid so memorable!!  
+<Date>Aug 29, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+22	2(night):2	15(recommend):1	33(trip):1	86(fantastic):1	91(guest):1	92(help):1	94(noise):1	234(set):1	271(thank):1	306(level):1	571(word):1	679(warn):1	885(worried):1	898(thoroughly):1	1205(memorable):1	1280(madrid):1	1380(alarm):1	1389(respect):1	1576(fail):1	1830(victoria):1	1995(potential):1	4260(reassure):1	
+0	
+41	3(clean):1	5(time):1	13(bathroom):1	24(floor):1	28(close):1	56(morning):1	60(hour):1	62(expect):1	78(rate):1	91(guest):1	119(window):1	130(standard):1	132(hear):1	151(modern):1	157(light):1	191(balcony):1	217(noisy):1	260(overlook):1	367(housekeeping):1	390(adequate):1	409(sound):1	440(furniture):1	445(throughout):1	459(dark):1	462(fairly):1	482(follow):1	554(wake):1	591(lift):1	743(curtain):1	922(lead):1	1086(shut):1	1094(spotlessly):1	1174(plug):1	1275(neither):1	1299(sleeper):1	1684(ear):1	1996(importantly):1	2094(solve):1	2207(pair):1	2500(shutter):2	4379(midday):1	
+13	1(location):1	7(walk):1	25(comfortable):1	65(visit):1	192(site):1	209(tourist):1	315(major):1	665(literally):1	1280(madrid):2	1296(famous):1	1305(nightlife):1	2071(doorstep):1	2228(fortunate):1	
+0	
+17	0(staff):2	2(night):1	5(time):2	36(desk):1	127(speak):1	129(reception):1	152(english):1	196(meet):1	292(card):1	339(key):1	521(lady):1	553(particularly):1	557(sort):1	596(lose):1	645(manage):1	793(brilliant):1	4593(incidentally):1	
+11	6(breakfast):1	57(water):1	90(coffee):1	114(hot):1	372(continental):1	390(adequate):1	595(perfectly):1	1576(fail):1	3546(affair):1	6364(decaf):1	6547(sachet):1	
+0	
+
+<Author>Calabrisella5
+<Content>WONDERFUL!! Most accommodating staff of any of the hotels we stayed at in Spain       at night (picture appears dark but hotel and street are well lit)  
+<Date>Aug 23, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+1	48(wonderful):1	
+9	0(staff):1	2(night):1	35(street):1	157(light):1	456(picture):1	459(dark):1	541(appear):1	624(accommodate):1	1636(spain):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>NapsRJ
+<Content>Recently renewed Hotel       Hotel Victoria 4  
+<Date>Jul 9, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+3	322(recently):1	1830(victoria):1	3493(renew):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Netherland
+<Content>Great choice for Madrid-trip I read all the reviews on Tripadvisor and thought this hotel was a good choice for my 4-day trip to Madrid. I got a great deal from a Dutch magazine and decided to go for the Victoria 4.The location of the hotel is perfect, really ideal! It's just behind the Puerta del Sol ('center' of the city, big metrostop, busstops and it's the place where everything is). The hotel itself is really clean, modernly decorated, the rooms are good (not that big, but everthing you need and very clean. Plus: good beds!). The staff is very friendly and helpfull (from the enthousiastic people at the reception to the friendly cleaning lady, who founded a jacket I left).The breakfast is OK. Not that many choices, but enough and the food is nice (like pastries, breads, toast, sweets, cheeses and fruit).Overall, I would really recommend this hotel. It's a great 3-star hotel with a perfect location and a friendly staff!  
+<Date>Jul 6, 2007
+<Rating>4	4	3	5	5	5	4	3	
+<Aspects>
+7	15(recommend):1	70(overall):1	140(deal):1	219(decide):1	1830(victoria):1	2066(dutch):1	2202(magazine):1	
+12	0(staff):1	1(location):1	12(friendly):1	33(trip):1	37(review):1	74(perfect):1	88(read):1	107(choice):2	597(tripadvisor):1	1280(madrid):1	2814(3-star):1	6529(4-day):1	
+6	3(clean):2	11(bed):1	203(plus):1	305(decorate):1	3464(everth):1	9524(modernly):1	
+8	1(location):1	41(city):1	74(perfect):1	101(center):1	545(ideal):1	1482(del):1	2088(sol):1	3774(puerta):1	
+0	
+10	0(staff):1	3(clean):1	12(friendly):2	26(people):1	43(leave):1	129(reception):1	521(lady):1	1478(helpfull):1	3375(jacket):1	11815(found):1	
+11	4(nice):1	6(breakfast):1	16(food):1	107(choice):1	123(ok):1	215(fruit):1	441(cheese):1	497(bread):1	652(pastry):1	875(toast):1	950(sweet):1	
+0	
+
+<Author>incrediblepie
+<Content>Good location..strange breakfast arrangement. A good place to stay for a short stay. Room slightly cramped and the bathroom was small. Everything was clean. don't book into this place if you're after a nice view of Madrid. My room faced onto the next building, even though it was on fifth floor. Its location is good in that its close to the Metro and a lot of bars and restaurants in walking distance. I had a big problem with the breakfast. Apart from the fact that it is served from 0700 onwards, which is pretty late if you have business to do. but to get to the breakfast room, You need to pass through a caf猫\bar to get to there. So no one told me this small detail and I sat down in the bar area as its connected right to the hotel. I was swiftly moved along by the exceptionally rude staff of the caf猫 into the hotel breakfast room. Which was cramped and noisy and the breakfast staff were constantly hovering around and there was a continual movement of people complaining or confused about the breakfast arrangement. not the end of the world, just not a nice start to the morning. Plus the caf猫\bar is a smoking zone so that came through to the breakfast area.Also for some reason on the checkout morning the power went in the whole block....not the hotels fault. but quite stressful for me as i had a plane to catch and the lady behind the desk as she couldn't do anything for me as i couldn't check out with credit card. luckily I had the cash equivalent, but they still couldn't give me a printed receipt for expenses and work. So they said they'd send receipt in the post. bye bye the receipt i thought. but sure enough a week later in my office arrived the receipt. Well done...that's good customer service and counts a lot!.  
+<Date>Jun 18, 2007
+<Rating>3	3	2	3	3	2	2	-1	
+<Aspects>
+10	144(short):1	447(send):1	644(post):1	1082(cash):1	1101(print):1	1200(luckily):1	2058(expense):1	2725(receipt):3	3117(equivalent):1	6451(bye):2	
+4	4(nice):1	56(morning):1	165(start):1	272(world):1	
+13	0(staff):1	6(breakfast):1	13(bathroom):1	24(floor):1	135(build):1	207(move):1	392(rude):1	598(slightly):1	1080(cramp):1	1242(exceptionally):1	1832(fifth):1	2532(caf):1	6159(swiftly):1	
+18	1(location):2	7(walk):1	10(restaurant):1	27(bar):2	28(close):1	38(lot):1	69(tell):1	79(late):1	109(pretty):1	115(distance):1	147(business):1	169(sit):1	174(serve):1	235(metro):1	592(detail):1	841(connect):1	857(apart):1	5487(onwards):1	
+1	3(clean):1	
+19	32(check):1	36(desk):1	53(arrive):1	56(morning):1	75(week):1	79(late):1	100(bloc):1	292(card):1	374(reason):1	517(fault):1	521(lady):1	540(catch):1	658(checkout):1	659(credit):1	792(office):1	968(plane):1	1276(power):1	2725(receipt):1	3916(stressful):1	
+27	0(staff):1	4(nice):1	6(breakfast):6	9(service):1	17(view):1	18(book):1	26(people):1	27(bar):2	38(lot):1	203(plus):1	217(noisy):1	241(complain):1	400(pass):1	428(customer):1	468(smoke):1	995(constantly):1	1058(strange):1	1080(cramp):1	1280(madrid):1	1415(arrangement):2	1419(confuse):1	1781(Count):1	2227(zone):1	2532(caf):2	5228(movement):1	6417(hover):1	9504(continual):1	
+0	
+
+<Author>Englishtourists
+<Content>Good location, well presented hotel My husband and I stayed at Hotel Victoria 4 in May 2007. We stayed in a room overlooking the street, Calle Victoria. We were pleased with our accomodation: the room was of a decent size and very clean. We were told by reception that the hotel had had a refit in 2005. The decor was very pleasant, or at least we thought so:: wood effect floors and magnolia walls with pleasant wood effect furnishings. The people at reception were very helpful and obliging.I would agree with comments I read about the hotel, prior to booking, with regard to the breakfast, which was included in the price we paid for the room. It wasn't particularly good, but of self service, canteen-style with hot drinks from a machine. Also, I had certain concerns re hygiene concerning the trays of food and tableware, guests might like to pay close attention to these and form their own opinion. However, we found that most hotels in Madrid did not include breakfast in the room rate, unlike the Victoria 4, also the hotel charges reasonable rates so we felt it was just as well to have breakfast elsewhere.The hotel is situated in a very convenient location in the old part of the city, within walking distant of most of the main tourist attractions, yet despite this it is not as noisy as we expected for such a central location. We had a very pleasant stay and would recommend this hotel. One word of caution: bag stealing and pickpocketing is rife in the area. My handbag was stolen from a bar opposite the hotel and two nights later we were having a meal in the outdoor paella restaurant that seems to be annexed to the hotel and a young lady on a nearby table had her handbag stolen. It really is not advisable to put a bag on the floor as it would seem that thieves are constantly on the lookout for the slightest opportunity to steal.  
+<Date>May 19, 2007
+<Rating>4	4	4	4	3	4	-1	-1	
+<Aspects>
+2	15(recommend):1	150(pleasant):1	
+20	6(breakfast):1	16(food):1	18(book):1	19(price):1	28(close):1	42(pay):2	71(include):1	88(read):1	91(guest):1	166(own):1	356(comment):1	473(agree):1	496(concern):2	637(prior):1	704(opinion):1	726(attention):1	930(regard):1	1164(form):1	1767(tray):1	5025(hygiene):1	
+34	3(clean):1	6(breakfast):2	24(floor):2	34(feel):1	35(street):1	71(include):1	78(rate):2	83(size):1	136(charge):1	150(pleasant):2	173(please):1	183(wall):1	257(decent):1	260(overlook):1	269(decor):1	273(reasonable):1	290(bag):1	646(elsewhere):1	780(accomodation):1	870(furnishings):1	995(constantly):1	1163(unlike):1	1187(steal):1	1235(opportunity):1	1280(madrid):1	1297(slight):1	1327(wood):2	1830(victoria):2	2191(effect):2	4512(thief):1	4580(calle):1	6163(magnolia):1	6606(advisable):1	7741(lookout):1	
+15	1(location):3	7(walk):1	41(city):1	62(expect):1	105(husband):1	112(main):1	168(central):1	186(convenient):1	209(tourist):1	217(noisy):1	350(attraction):1	498(despite):1	574(situate):1	1830(victoria):1	3263(distant):1	
+0	
+6	14(helpful):1	26(people):1	69(tell):1	129(reception):2	2709(oblige):1	8836(refit):1	
+25	2(night):1	9(service):1	10(restaurant):1	27(bar):1	63(drink):1	79(late):1	114(hot):1	213(meal):1	229(table):1	232(nearby):1	290(bag):1	493(machine):1	521(lady):1	553(particularly):1	571(word):1	783(opposite):1	901(outdoor):1	1187(steal):3	1314(self):1	2102(caution):1	3342(paella):1	3643(annex):1	6590(handbag):2	9277(pickpockete):1	11364(rife):1	
+0	
+
+<Author>Mai_ccs
+<Content>Modern and Comfortable Hotel !!! I was in this hotel for my recent vacations in Spain, and I think this is the perfect election for a turist, because:1._ Great Location: Is located in a centric zone, near of various Metro Stations, like Sol, Gran Via or Sevilla, so, you can go just walking or in metro to the Gran Via Avenue or visit the Oriental Palace - Almudena Church.2._ Wired Internet Connection: Yes! all rooms have RJ-45 jacket for to connect your laptop!!! (remember take with you the cable) the internet service is delivered for Telefonica and is included in the room price, believe me....found internet connection in Madrid hotelsis wire !!!, so, if you need stay online for make reservations or review emails, this is your correct election.3._ Great Breakfast: nice buffet with diversity of cereals, fruits, breads, yogurts, croissans, chocolate muffins (you must probe it!), juices, coffee...uhmmm, what else you need for begin a great day?4._ Modern  Clean room: This is a remodelated hotel (the building is from 1850), with 5 floors and 52 rooms, I stayed in a Superior Room very nice and clean, with mini-bar, security box, big closets and windows, air condition/calefaction, big bathroom, direct phone, and of course....internet connection!!!! :=)5._ Excelent Attention: I was really happy with the service of the desk and the restaurant people, specially the desk team, they receive a package of master card for me, without problem while I was sleeping...the check-in (I made the reservation for internet) and check-out was very quickly, In summary, I hope you can enjoy this hotel in your next stay in Madrid, I really recommend it !!! This is the site of it: [----]  
+<Date>May 14, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+2	25(comfortable):1	151(modern):1	
+6	74(perfect):1	131(vacation):1	1064(recent):1	1636(spain):1	11806(election):1	12502(turist):1	
+22	3(clean):2	4(nice):1	13(bathroom):1	24(floor):1	97(internet):1	119(window):1	135(build):1	151(modern):1	164(air):1	263(condition):1	293(course):1	296(phone):1	565(closet):1	641(security):1	785(superior):1	803(direct):1	841(connect):1	932(connection):1	945(box):1	1111(laptop):1	1338(mini-bar):1	3375(jacket):1	
+18	1(location):1	7(walk):1	65(visit):1	82(station):1	84(locate):1	102(near):1	192(site):1	235(metro):2	512(via):2	642(palace):1	823(various):1	1090(avenue):1	1535(gran):2	1616(Oriental):1	1731(church):1	2088(sol):1	2227(zone):1	9587(sevilla):1	
+0	
+28	9(service):1	10(restaurant):1	15(recommend):1	26(people):1	36(desk):2	37(review):1	51(enjoy):1	97(internet):1	104(sleep):1	126(especially):1	155(happy):1	156(reservation):2	286(check-in):1	292(card):1	302(receive):1	328(hope):1	471(quickly):1	527(package):1	658(checkout):1	726(attention):1	822(online):1	1008(team):1	1263(correct):1	1280(madrid):1	1716(summary):1	2337(master):1	3835(excelent):1	11806(election):1	
+15	4(nice):1	6(breakfast):1	8(day):1	77(buffet):1	90(coffee):1	170(else):1	215(fruit):1	362(juice):1	497(bread):1	529(cereal):1	551(begin):1	632(chocolate):1	927(yogurt):1	1260(muffin):1	6834(diversity):1	
+12	9(service):1	19(price):1	71(include):1	97(internet):3	250(yes):1	312(believe):1	375(remember):1	484(cable):1	631(deliver):1	932(connection):2	1280(madrid):1	1904(wire):2	
+
+<Author>AHL
+<Content>GREAT hotel Just got back from Madrid! A beatiful city!! :)And from a GREAT hotel in the center of town! Hotel Victoria had everything we needed, good beds, great bath, large rooms, in the center of Madrid, and friendly staff!All spoke good english, and were very helpfull!We had a room with a balcony out onto the streets and were not disturped by noise or foodsmell! The restaurant was not very good, Cafe de Levante, but don't think about it, there are good restaurants at every streetcorner! So just use for breakfast!  
+<Date>May 9, 2007
+<Rating>4	5	4	5	5	4	5	3	
+<Aspects>
+6	41(city):1	127(speak):1	152(english):1	1280(madrid):1	1478(helpfull):1	4068(beatiful):1	
+0	
+10	0(staff):1	11(bed):1	12(friendly):1	35(street):1	94(noise):1	101(center):1	191(balcony):1	226(bath):1	1280(madrid):1	1830(victoria):1	
+0	
+0	
+0	
+3	6(breakfast):1	10(restaurant):2	275(cafe):1	
+2	101(center):1	239(town):1	
+
+<Author>DavidfromLongIsland
+<Content>My new place to stay in Madrid I used to live in Madrid and went back to Spain for a vacation. We stayed at the Hotel Victoria 4 and thought it was great! The hotel has a classic look from the outside, but a sleek, modern look inside (Check out the circular bathroom in the middle of the lobby!)The staff were friendly and accomodating. I speak Spanish, but I heard them speaking English with other guests.The location can't be beat - it's 2 blocks from the Puerta del Sol (the center of Madrid), and surrounded by restaurants, great tapas bars, and cofee shops. The Prado is about a 15 minute walk, as is the Reina Sofia. The Plaza Mayor can be reached in about 10 minutes, and the Palacio Real in 15.The rooms were a nice size. At first we were given a cama matrimionial (two person bed), and when we asked for two separate beds, our room was changed immediately. We had a nice big window that opened to streets below. Once the window was closed, we couldn't hear any noise from the outside. Everything was immaculately clean, of course. Breakfast was included, consisting of the standards: coffee, juice, breads, ham, cheese, yogurt, cold cereals, fruit.Al in all, this is my new place to stay in Madrid. You will not be dissapointed.  
+<Date>Apr 19, 2007
+<Rating>5	5	5	5	5	4	5	-1	
+<Aspects>
+8	91(guest):1	127(speak):2	132(hear):1	152(english):1	369(spanish):1	1280(madrid):1	1371(dissapoint):1	1830(victoria):1	
+7	0(staff):1	12(friendly):1	131(vacation):1	206(live):1	549(accomodate):1	1280(madrid):2	1636(spain):1	
+22	4(nice):2	11(bed):2	13(bathroom):1	20(look):2	32(check):1	35(street):1	55(lobby):1	83(size):1	98(outside):1	119(window):1	151(modern):1	161(change):1	193(person):1	325(middle):1	408(inside):1	474(separate):1	489(immediately):1	585(below):1	1789(classic):1	1912(circular):1	2616(sleek):1	12006(cama):1	
+29	1(location):1	7(walk):1	10(restaurant):1	27(bar):1	28(close):1	29(minute):2	49(shop):1	94(noise):1	98(outside):1	100(bloc):1	101(center):1	119(window):1	132(hear):1	240(real):1	442(beat):1	515(plaza):1	667(surround):1	851(reach):1	1280(madrid):1	1455(tapa):1	1482(del):1	2088(sol):1	3054(mayor):1	3562(prado):1	3774(puerta):1	5817(palacio):1	7602(sofia):1	7963(cofee):1	8401(reina):1	
+3	3(clean):1	293(course):1	2084(immaculately):1	
+0	
+13	6(breakfast):1	71(include):1	90(coffee):1	130(standard):1	215(fruit):1	222(cold):1	362(juice):1	441(cheese):1	497(bread):1	529(cereal):1	927(yogurt):1	1185(consist):1	1561(ham):1	
+0	
+
+<Author>Traveller23456
+<Content>Great place to stay Great Hotel - looks brand new and was very clean. Room was spacious although no double beds. Bathroom lovely and excellent power shower! Good continental breakfast.Within walking distance to Plaza Mayor, Sol and the Royal Palace. Lots of bars and cafe's close by for dinner or evening drinks - but you can't hear the noise from your bedroom.Would recommend to anyone as a simple and convenient place to stay if on a city break.  
+<Date>Mar 4, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	15(recommend):1	41(city):1	186(convenient):1	228(break):1	613(simple):1	
+0	
+8	11(bed):1	13(bathroom):1	21(excellent):1	61(shower):1	87(lovely):1	111(spacious):1	179(double):1	1276(power):1	
+7	7(walk):1	115(distance):1	515(plaza):1	642(palace):1	753(royal):1	2088(sol):1	3054(mayor):1	
+3	3(clean):1	20(look):1	883(brand):1	
+0	
+11	6(breakfast):1	27(bar):1	28(close):1	38(lot):1	63(drink):1	94(noise):1	117(dinner):1	132(hear):1	268(bedroom):1	275(cafe):1	372(continental):1	
+0	
+
+<Author>ord
+<Content>brilliant hotel Just got back and I haven't a negative comment about this Hotel. It was in a great locatiion, walking distance to all major attractions[ except Bernabeu Stadium] The Hotel is very modern and clean, rooms were an ample size and breakfast in the cafe was good too! We will recommend it to anyone we know who is visiting Madrid.  
+<Date>Feb 20, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+6	15(recommend):1	65(visit):1	282(negative):1	356(comment):1	793(brilliant):1	1280(madrid):1	
+0	
+12	3(clean):1	6(breakfast):1	7(walk):1	83(size):1	115(distance):1	151(modern):1	275(cafe):1	315(major):1	337(except):1	350(attraction):1	1341(ample):1	2695(stadium):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>chufa
+<Content>Central but noisy        lobby - sitting room  
+<Date>Jan 3, 2007
+<Rating>2	4	3	4	4	4	2	3	
+<Aspects>
+0	
+0	
+4	55(lobby):1	168(central):1	169(sit):1	217(noisy):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>MarkBTID
+<Content>Excellent all round, Me and partner have just returned from a 3 night stay at the Hotel Victoria 4, and we loved it! The location was spot on, very close to the Puerta de sol, but not right in so you do get some space around the hotel. (It's about 4-5 mins walk) If you're getting there, take the metro to Sol, it was so easy! First impressions of the hotel were great, the receptionist spoke very good English and checked us in quickly. Our room was on the 5th floor , so we had a view over rooftops but this wasnt important, the room was pretty big, was very very clean, and looked very swanky with wooden floors. It was also pretty quiet! The room had a table and chairs towards the window, so you could relax away from the bed, and a great little minibar thatw as stocked each day. The bathroom was stoned/marbled , again very clean and the shower/bath was a good size. It was definitely one of the best hotels I have stayed at(admittedly that is limited) but for 3* you won't go wrong if you stay here. Highly recommended.  
+<Date>Nov 15, 2006
+<Rating>5	5	4	5	5	5	5	-1	
+<Aspects>
+13	2(night):1	15(recommend):1	21(excellent):1	39(return):1	40(love):1	59(definitely):1	138(highly):1	427(wrong):1	487(wo):1	510(limit):1	1006(partner):1	1830(victoria):1	3051(admittedly):1	
+0	
+24	3(clean):2	8(day):1	11(bed):1	13(bathroom):1	17(view):1	20(look):1	23(little):1	24(floor):2	58(quiet):1	61(shower):1	83(size):1	109(pretty):2	119(window):1	160(relax):1	198(chair):1	229(table):1	599(stock):1	839(5th):1	959(towards):1	1037(minibar):1	1339(wasnt):1	1756(wooden):1	3772(rooftops):1	4803(swanky):1	
+10	1(location):1	7(walk):1	28(close):1	93(easy):1	210(space):1	235(metro):1	247(min):1	317(spot):1	2088(sol):2	3774(puerta):1	
+0	
+6	32(check):1	127(speak):1	152(english):1	471(quickly):1	848(impression):1	855(receptionist):1	
+0	
+0	
+
+<Author>BalticGuyCan
+<Content>Great location and good value!       Night view of the hotel  
+<Date>Oct 31, 2006
+<Rating>4	4	4	5	4	5	-1	-1	
+<Aspects>
+2	2(night):1	17(view):1	
+2	1(location):1	81(value):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>livinginleeds
+<Content>Great hotel I stayed at Victoria 4 with a friend at the end of September. We got a great deal with last minute.com and I chose the hotel based on reviews I read at trip advisor. I wasn't disappointed!! The hotel was really central. The rooms were great - comfortable beds, biggish rooms, a small balcony, double glazing (great to keep the niose out) and a huge modern bathroom!! Staff were great. Would definitely stay there again and recommend to others!  
+<Date>Oct 6, 2006
+<Rating>5	5	5	5	5	5	-1	-1	
+<Aspects>
+15	15(recommend):1	33(trip):1	37(review):1	59(definitely):1	88(read):1	140(deal):1	146(friend):1	154(disappoint):1	167(choose):1	168(central):1	284(base):1	701(advisor):1	972(september):1	1830(victoria):1	11434(minute.com):1	
+0	
+8	11(bed):1	13(bathroom):1	25(comfortable):1	133(huge):1	151(modern):1	179(double):1	191(balcony):1	2144(glaze):1	
+0	
+0	
+1	0(staff):1	
+0	
+0	
+
+<Author>bmarshall
+<Content>Great location and Very good value Just back from 5 nights with 2 rooms at this hotel. We had read the recent reviews and they are pretty accurate. The location is very brilliantly central ( you can go back to the hotel in the heat of the day) and the rooms are very clean and good value. We stayed on the fifth floor which only had views over the rooftops. The good point was this made it quiet as many rooms overlook the street restaurant (all appear double glazed though). Other low spots were the wooden floored corridors (quite noisy footsteps by) but not as bad as we expected from the other reviews. The terrace referred to in hotel literature is open but there were no chairs on it! The hotel staff were all really helpful and booked us coach tickets. We booked on lastminute .com and the tariff included breakfast. The breakfast is fine for a continental breakfast but not too much variety over our 5 days. Having said the rooms were very clean you find the odd chipped plate but we found these in much better Madrid restaurants. We recommend the metro one euro from the airport, the Telefonica cable ride for less than 5 euro return, visit a bullfight on sunday (I think they end in october) see a soccer match Athletico or Real Madrid, see a Flamenco dance. Last tip : each restaurant is obliged to offer a menu of the day but they dont show you it until you ask.  
+<Date>Sep 12, 2006
+<Rating>4	4	4	5	5	5	4	4	
+<Aspects>
+5	37(review):1	88(read):1	109(pretty):1	1064(recent):1	1785(accurate):1	
+8	1(location):2	2(night):1	3(clean):1	8(day):1	81(value):2	168(central):1	539(heat):1	5770(brilliantly):1	
+44	3(clean):1	10(restaurant):2	15(recommend):1	17(view):1	24(floor):2	35(street):1	37(review):1	39(return):1	50(bad):1	58(quiet):1	62(expect):1	65(visit):1	95(airport):1	179(double):1	198(chair):1	217(noisy):1	218(ride):1	235(metro):1	240(real):1	256(euro):2	260(overlook):1	317(spot):1	484(cable):1	513(low):1	541(appear):1	673(terrace):1	757(dance):1	844(sunday):1	911(october):1	1002(plate):1	1073(corridor):1	1088(odd):1	1280(madrid):2	1302(chip):1	1476(match):1	1756(wooden):1	1832(fifth):1	2144(glaze):1	2297(refer):1	2659(flamenco):1	3510(soccer):1	3772(rooftops):1	5067(footstep):1	5585(literature):1	
+0	
+0	
+5	0(staff):1	14(helpful):1	18(book):1	621(ticket):1	2600(coach):1	
+16	6(breakfast):3	8(day):2	10(restaurant):1	18(book):1	71(include):1	89(offer):1	113(fine):1	194(tip):1	372(continental):1	413(variety):1	423(menu):1	503(dont):1	2709(oblige):1	5152(tariff):1	5958(com):1	6433(lastminute):1	
+0	
+
+<Author>serendip999ny
+<Content>Modern, clean, great location! Hotel was very modern and clean, bathrooms were very nice too. The best part was location. It was very centrally located by the Puerta del Sol, and we were easily able to walk to all points of interest -- didn't have to use the metro at all (although there was a stop less than a block away). Our room had a little balcony with a view of the block, and even though people are on the block until very early am, the windows block out the noise. Front desk was very helpful in looking up certain streets on the internet that were not visible on the map (tip: you can get much better, more detailed map if you go into a more upscale hotel and ask the front desk). Breakfast was pretty good, but standard. Meats, cheese, bread, fruit, cereal, yogurt, coffee/juice. Be prepared to eat a lot of ham (it comes on everything). Only slight minus was that the only english tv channels was bbc and a travel channel. Recommend a day trip to Toledo if you have time bc it was beautiful. We took a guided tour and were glad, bc the streets are very narrow and hilly and it seemed like it would be hard to navigate on your own.  
+<Date>Jun 17, 2006
+<Rating>5	4	4	-1	4	-1	3	-1	
+<Aspects>
+11	5(time):1	8(day):1	15(recommend):1	33(trip):1	38(lot):1	45(beautiful):1	47(eat):1	460(prepare):1	1561(ham):1	5166(bc):1	9390(toledo):1	
+0	
+18	3(clean):1	4(nice):1	13(bathroom):1	17(view):1	23(little):1	26(people):1	68(travel):1	94(noise):1	100(bloc):3	116(tv):1	119(window):1	151(modern):1	152(english):1	191(balcony):1	741(channel):2	1297(slight):1	2064(minus):1	2997(bbc):1	
+24	1(location):2	3(clean):1	7(walk):1	35(street):1	84(locate):1	100(bloc):1	122(stop):1	151(modern):1	162(hard):1	166(own):1	171(able):1	181(tour):1	235(metro):1	438(easily):1	619(glad):1	829(guide):1	879(centrally):1	1207(narrow):1	1482(del):1	2088(sol):1	2252(navigate):1	3774(puerta):1	5166(bc):1	6285(hilly):1	
+0	
+11	14(helpful):1	20(look):1	31(front):2	35(street):1	36(desk):2	97(internet):1	194(tip):1	592(detail):1	724(map):2	1237(upscale):1	2662(visible):1	
+10	6(breakfast):1	90(coffee):1	109(pretty):1	130(standard):1	215(fruit):1	441(cheese):1	497(bread):1	529(cereal):1	677(meat):1	927(yogurt):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good hotel, central location This hotel has a great location, 5 minutes walk from the main shopping area, historical Plaza Mayor and metro links. We couldn't fault the friendliness and helpfulness of the staff during our stay. Our room was clean and had everything we needed for a 2 night stay, the bed was comfortable, the shower was lovely and the air conditioning was fantastic (just make sure to turn it up at night because it was a little too cold when we didn't!). The breakfast was really good with fresh bread/croissants and cereals etc (perhaps this has improved since the reviews written about the bad breakfast that we read on trip advisor before we went). The only downfall of our stay was being disturbed by street noise at night (this was probably made worse because we had a front-facing room). All in all we would recommend this hotel, you couldn't beat the price when we looked around for similar hotels and it lived up to the other reviews we had read before booking it.  
+<Date>Jun 4, 2006
+<Rating>4	3	5	-1	4	-1	4	-1	
+<Aspects>
+0	
+9	15(recommend):1	18(book):1	19(price):1	20(look):1	37(review):1	88(read):1	206(live):1	442(beat):1	874(similar):1	
+17	2(night):3	3(clean):1	11(bed):1	23(little):1	25(comfortable):1	35(street):1	50(bad):1	61(shower):1	86(fantastic):1	87(lovely):1	94(noise):1	164(air):1	178(probably):1	222(cold):1	263(condition):1	1067(disturb):1	3136(downfall):1	
+11	1(location):2	7(walk):1	29(minute):1	49(shop):1	112(main):1	168(central):1	235(metro):1	515(plaza):1	1727(link):1	2311(historical):1	3054(mayor):1	
+0	
+4	0(staff):1	517(fault):1	1754(friendliness):1	3872(helpfulness):1	
+12	6(breakfast):2	33(trip):1	37(review):1	50(bad):1	73(etc):1	88(read):1	197(fresh):1	344(write):1	497(bread):1	529(cereal):1	701(advisor):1	1217(improve):1	
+0	
+
+<Author>pdoudar
+<Content>Awsome Hotel Victoria We Just got back from 4 nights at the Hotel Vicoria 4 , Madrid . We had read the reviews posted on Trip Advisor before we made the reservations. Overall , the hotel was clean , and the room spacious . I didn't care for the double bed room because the view was limited, but the rooms with the twin beds were very nice. The staff was very friendly , and went out of their way to make our stay enjoyable . One receptionist , Maria , with the lovely dimples , stood out. She helped us get tickets to the flamingo dances and other shows . I do agree with the other reviews that the street can get noisy at night , but when the glass door is closed , you won't hear a hiss, and the A/C worked well. I recommend the hotel , and would certainly stay there again.  
+<Date>May 7, 2006
+<Rating>4	3	4	-1	5	-1	4	-1	
+<Aspects>
+9	2(night):1	15(recommend):1	92(help):1	621(ticket):1	757(dance):1	1280(madrid):1	1830(victoria):1	2325(flamingo):1	3215(awsome):1	
+0	
+10	3(clean):1	4(nice):1	11(bed):2	17(view):1	70(overall):1	111(spacious):1	179(double):1	242(care):1	510(limit):1	690(twin):1	
+10	2(night):1	28(close):1	35(street):1	37(review):1	54(door):1	132(hear):1	217(noisy):1	327(glass):1	473(agree):1	487(wo):1	
+0	
+13	0(staff):1	12(friendly):1	33(trip):1	37(review):1	87(lovely):1	88(read):1	156(reservation):1	444(stand):1	567(enjoyable):1	644(post):1	701(advisor):1	855(receptionist):1	1833(mare):1	
+0	
+0	
+
+<Author>hea27
+<Content>Great on the surface but they've skimped on the essentials Hotel Victoria 4 MadridPrice: 58 EUR double incl. awful breakfast, booked thru online travel agencyLocation: great, 3 streets away from Central Metro Station Sol exiting on Carretas StReception: great, efficient and friendlyRoom: great first impression, modern, neat but we were let down with a very uncomfortable bed and very noisy room (could hear the party group on same floor entering/exiting their room at all hours of day/night)Breakfast: hopeless! Unfriendly staff dropping one small bread roll and an awful croissant with jam and butter on out table, also offered coffee/tea. Other items on the menu were for purchasePros: location, cheapCons: looks modern but they鈥檝e skimped on the essentials  
+<Date>Apr 8, 2006
+<Rating>3	3	2	-1	5	-1	2	-1	
+<Aspects>
+0	
+12	1(location):1	20(look):1	151(modern):1	179(double):1	423(menu):1	519(item):1	1830(victoria):1	2496(essential):2	2534(surface):1	3084(eur):1	3537(incl):1	6623(skimp):2	
+25	6(breakfast):2	8(day):1	11(bed):1	18(book):1	24(floor):1	35(street):1	60(hour):1	68(travel):1	82(station):1	132(hear):1	151(modern):1	168(central):1	217(noisy):1	235(metro):1	363(party):1	401(efficient):1	736(awful):1	822(online):1	848(impression):1	856(uncomfortable):1	1231(thru):1	1286(neat):1	1354(exit):1	2088(sol):1	8028(hopeless):1	
+0	
+0	
+0	
+12	0(staff):1	89(offer):1	90(coffee):1	229(table):1	497(bread):1	662(drop):1	736(awful):1	813(roll):1	1004(croissant):1	1487(unfriendly):1	1614(jam):1	2183(butter):1	
+0	
+
+<Author>nat65
+<Content>superbe !       vue sur la terrasse  
+<Date>Aug 20, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+5	225(la):1	5145(vue):1	6129(sur):1	6883(superbe):1	11749(terrasse):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

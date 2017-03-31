@@ -1,0 +1,994 @@
+<Author>brsc
+<Content>Great location, friendly staff Helpful, friendly staff. When I booked the room I asked specifically about parking and was told one thing that was different than what I was told at check-in. The desk clerk took care of everything immediately and I truly appreciated it. The staff is professional and friendly. Rates were reasonable if not a great buy. The street car is merely steps from the front door so it's easy to get to the Quarter or around the Garden District. That said, it would have been nice if the toilet had a seat on it. Women like toilet seats -- and, yes we like them down because we sit down to put on our hose. It would also have been nice if the Community Coffee served at the continental breakfast had also been in the rooms. The in-room coffee was too weak and tasteless to bother making. Do yourself a favor and drop by Rouses on Royal St. and pick up some 4-cup packs of Community Coffee. Also, it's an older hotel but they have made an effort to have enough outlets. One or two more would be helpful what with laptops, cell phones, hair rollers, coffee pot, iron . . . Because we never expect absolute, anal-retentive perfection and actually enjoy the differences between cities, hotels and their staffs, I rate this hotel as a wonderful experience and hope to stay there again. It's clean, quiet and has a great location and professional staff.  
+<Date>Nov 7, 2008
+<Rating>4	4	4	5	4	5	5	3	
+<Aspects>
+12	4(nice):1	78(rate):1	169(sit):1	250(yes):1	273(reasonable):1	280(buy):1	330(toilet):2	504(seat):2	566(woman):1	1017(effort):1	1689(outlet):1	4773(hose):1	
+21	0(staff):1	14(helpful):1	41(city):1	44(experience):1	48(wonderful):1	51(enjoy):1	62(expect):1	78(rate):1	90(coffee):1	180(actually):1	296(phone):1	328(hope):1	729(hair):1	819(difference):1	868(iron):1	1111(laptop):1	1250(absolute):1	1447(pot):1	1583(cell):1	2269(perfection):1	6045(roller):1	
+10	0(staff):1	1(location):1	3(clean):1	58(quiet):1	90(coffee):1	307(bother):1	501(professional):1	1301(in-room):1	1770(weak):1	3817(tasteless):1	
+14	0(staff):2	1(location):1	12(friendly):2	14(helpful):1	31(front):1	35(street):1	54(door):1	93(easy):1	121(car):1	310(garden):1	366(step):1	433(district):1	463(quarter):1	3378(merely):1	
+0	
+14	0(staff):1	12(friendly):1	18(book):1	36(desk):1	66(park):1	69(tell):2	242(care):1	286(check-in):1	476(truly):1	489(immediately):1	500(appreciate):1	501(professional):1	788(clerk):1	1810(specifically):1	
+13	4(nice):1	6(breakfast):1	90(coffee):2	174(serve):1	266(pick):1	372(continental):1	576(yourself):1	655(st):1	662(drop):1	715(pack):1	753(royal):1	1521(favor):1	3502(community):2	
+0	
+
+<Author>princedylan
+<Content>Nice People - But Should Have Been Closed For Construction I'll stick to the facts: Paid $85 per night for a queen deluxe. Stayed 4 nights. Room was located mere feet from a filthy janitor's closet from which a team of hotel employees emerged noisily and ceaselessly each day beginning at 8:00am and and ending sometime in the afternoon, banging their carts into the door and leaving bags of rank garbage and cleaning equipment in the pathway. The nearby corner nook resembled a makeshift toilet found in the alley of some Third World country, stained and always filthy - a place that if you dropped a ten dollar bill you might just leave it. But this is nothing. A large portion of the hotel was under construction and unoccupied, so there were no rooms to move to. All night long forklifts hummed and beeped and things crashed and rattled about 60 feet from our room. It was so absurd it was almost funny. Almost. The pool area is great too if you're an unsavory looking character who likes to stay up all hours playing dominoes, cussin', and suckin' down daiquaris. The oddest thing of all is that the employees thought nothing of the construction madness, the noise and mess - and when I pulled the car around to load up the bags I was barked at and forced to park my car on the street and push everything up the block. Bizarre. The room itself: average size, had no cold water, and the air conditioning maxed out at around 70 degrees - which is just a touch too warm. The TV was 17 or 19-inch - quite a splurge... Not! All in all, it was a strange place to stay and I will never in a million years return. The location is great, however. Surely the hotel's owner is either a world class slime bag or just doesn't give a hoot. Hey! It's New Orleans - who cares about cleanliness and quiet!?  
+<Date>Aug 13, 2008
+<Rating>2	3	2	4	2	3	3	3	
+<Aspects>
+15	2(night):1	20(look):1	22(pool):1	39(return):1	60(hour):1	386(play):1	1049(character):1	1058(strange):1	1156(funny):1	1367(hey):1	3957(bizarre):1	5507(absurd):1	6388(million):1	8428(unsavory):1	8477(domino):1	
+25	2(night):1	4(nice):1	26(people):1	28(close):1	42(pay):1	43(leave):1	200(corner):1	232(nearby):1	272(world):1	330(toilet):1	430(dollar):1	495(bill):1	530(country):1	532(third):1	543(Queen):1	583(construction):1	648(deluxe):1	662(drop):1	688(stick):1	723(stain):1	1320(filthy):1	1671(alley):1	3497(resemble):1	5483(nook):1	9028(makeshift):1	
+25	2(night):1	57(water):1	58(quiet):1	83(size):1	116(tv):1	164(air):1	207(move):1	222(cold):1	227(average):1	236(warm):1	242(care):1	263(condition):1	279(touch):1	402(foot):1	583(construction):1	588(orleans):1	854(cleanliness):1	1252(degree):1	1450(portion):1	2192(crash):1	2358(splurge):1	4292(hum):1	4511(rattle):1	6893(unoccupied):1	7133(beepe):1	
+39	1(location):1	3(clean):1	8(day):1	35(street):1	43(leave):1	54(door):1	66(park):1	84(locate):1	94(noise):1	100(bloc):1	121(car):2	290(bag):2	364(afternoon):1	402(foot):1	551(begin):1	565(closet):1	583(construction):1	608(employee):2	858(pull):1	886(load):1	1008(team):1	1041(push):1	1088(odd):1	1211(equipment):1	1320(filthy):1	1322(cart):1	1401(bang):1	1550(force):1	1644(mess):1	1650(garbage):1	1795(rank):1	2938(sometime):1	3317(mere):1	3336(bark):1	4392(pathway):1	4455(madness):1	7492(emerge):1	9760(noisily):1	11788(janitor):1	
+0	
+6	272(world):1	290(bag):1	470(class):1	672(owner):1	2033(surely):1	6612(hoot):1	
+0	
+0	
+
+<Author>this2shallpass
+<Content>Cute hotel w/great customer service When you drive up to the hotel it seems like it could be in a bad neighborhood but it isn't bad at all. It is located in the Garden District which is about 5 minutes from the French Quarter. I experienced excellent customer service from everyone I encountered. The rooms were simple but adequate. I brought a cat, so they were pet friendly too. I would stay here again.  
+<Date>Aug 7, 2008
+<Rating>4	4	4	4	4	4	5	4	
+<Aspects>
+4	12(friendly):1	142(bring):1	2177(cat):1	2477(pet):1	
+5	9(service):1	21(excellent):1	44(experience):1	428(customer):1	693(encounter):1	
+2	390(adequate):1	613(simple):1	
+6	29(minute):1	84(locate):1	254(french):1	310(garden):1	433(district):1	463(quarter):1	
+0	
+0	
+6	9(service):1	50(bad):2	298(drive):1	421(neighbourhood):1	428(customer):1	1202(cute):1	
+0	
+
+<Author>IntoTheSunset
+<Content>Awesome city, great place to stay, but don't drink the water I would gladly have given this hotel a five star rating, but I'm absolutely certain that all of us - including our dog - got sick from the hotel water. What's worse is that they wouldn't respond to our e-mail complaint about it.Anyway, aside from 5 days of diarrhea following our stay, we really enjoyed this hotel and the city of New Orleans. The staff were nice and helpful, the hotel was really cool, and the street car stop couldn't have been more convenient. Breakfast was pretty good, and we liked checking out the hotel grounds in the evening. The place is dog-friendly, which was a requirement for us. You can tell that the buildings are old, but I found it charming. Everything worked fine, and the room was very comfortable. The hotel chain bought all the buildings on a city block and turned them into hotel rooms. So breakfast is in one building, laundry is in another, check-in is in another, and so on. It's pretty neat to walk to the various buildings and see the different architecture, plants, etc. Everything is gated in, and I felt pretty safe, even in the evening. There is a great restaurant about 7 blocks from the hotel. I think it was called the Cheesecake Bistro. It was fantastic. I definitely recommend grabbing a drink or bite to eat there. We also took the street cars into the French Quarter several times. We walked around by the Mississippi, visited Bourbon Street, and checked out a really pretty cathedral. We had a blast drinking on Bourbon Street at night. Every single thing we ate was amazing. The food can't be beat. Even the greasy pub we stopped at had awesome fries. I definitely recommend this hotel and visiting New Orleans. Just an important tip... don't drink the water!!!  
+<Date>Jul 8, 2008
+<Rating>4	3	3	4	3	4	-1	3	
+<Aspects>
+31	8(day):1	15(recommend):1	34(feel):1	41(city):1	47(eat):1	50(bad):1	51(enjoy):1	59(definitely):1	65(visit):1	69(tell):1	86(fantastic):1	109(pretty):1	122(stop):1	137(safe):1	145(amaze):1	190(complaint):1	304(single):1	332(charm):1	348(awesome):1	417(anyway):1	482(follow):1	588(orleans):2	745(building):1	992(gate):1	1009(fry):1	1393(pub):1	1502(aside):1	1587(respond):1	2642(requirement):1	3345(diarrhea):1	3665(greasy):1	
+11	41(city):1	57(water):2	63(drink):1	71(include):1	78(rate):1	103(star):1	189(absolutely):1	348(awesome):1	654(sick):1	1126(dog):1	2176(gladly):1	
+7	25(comfortable):1	41(city):1	100(bloc):1	113(fine):1	280(buy):1	627(chain):1	745(building):1	
+27	0(staff):1	2(night):1	4(nice):1	5(time):1	7(walk):2	14(helpful):1	32(check):1	35(street):4	63(drink):1	65(visit):1	73(etc):1	109(pretty):2	121(car):2	122(stop):1	186(convenient):1	254(french):1	278(cool):1	463(quarter):1	745(building):1	823(various):1	1038(bourbon):2	1279(blast):1	1286(neat):1	1552(cathedral):1	1803(architecture):1	1906(plant):1	4715(mississippi):1	
+0	
+7	6(breakfast):2	32(check):1	109(pretty):1	135(build):1	285(ground):1	286(check-in):1	1075(laundry):1	
+15	10(restaurant):1	15(recommend):1	16(food):1	47(eat):1	57(water):1	59(definitely):1	63(drink):2	67(call):1	100(bloc):1	194(tip):1	442(beat):1	1042(bite):1	1139(grab):1	2585(bistro):1	3031(cheese-cake):1	
+0	
+
+<Author>evilwebqueen
+<Content>Great place to stay in New Orleans I've stayed here before and it's still the same great place. Clean, big rooms in 3-story buildings, clustered around courtyards. We overlooked the pool. The St. Charles streetcar stops right out front. The free continental breakfast is yummy. The front desk staff personnel are very polite and helpful. And it's cheap! $80 a night. The grounds are gated and guest parking is in an adjacent gated lot so there aren't a bunch of cars right next to your room door. Our room had a minifridge and microwave and they have free wireless. There's a bathroom area counter outside the shower/toilet room for plenty of dressing area. Our room had two queen beds, dresser, desk, table and two upholstered chairs and wasn't cramped.  
+<Date>Jun 21, 2008
+<Rating>5	5	5	5	4	5	5	5	
+<Aspects>
+4	2(night):1	22(pool):1	260(overlook):1	588(orleans):1	
+1	143(cheap):1	
+31	3(clean):1	11(bed):1	13(bathroom):1	36(desk):1	38(lot):1	46(free):1	54(door):1	61(shower):1	66(park):1	91(guest):1	98(outside):1	121(car):1	158(plenty):1	198(chair):1	229(table):1	285(ground):1	435(courtyard):1	543(Queen):1	717(wireless):1	745(building):1	820(microwave):1	935(dress):1	992(gate):2	1001(counter):1	1061(adjacent):1	1080(cramp):1	1624(bunch):1	2128(dresser):1	6485(cluster):1	7021(minifridge):1	7626(upholster):1	
+5	31(front):1	122(stop):1	655(st):1	2096(charl):1	2391(streetcar):1	
+0	
+6	0(staff):1	14(helpful):1	31(front):1	36(desk):1	422(polite):1	1457(personnel):1	
+4	6(breakfast):1	46(free):1	372(continental):1	1798(yummy):1	
+0	
+
+<Author>Bradybunch77
+<Content>The best of both worlds! I have now returned to this hotel twice for a week each time and LOVED it! For the price, you get a great deal of value. The rooms are pristine, compact and offer everything that you need for a comfy stay. The courtyards and pool were great! the Staff are very friendly, talkative and open to any and all questions, As someone who had to park a large van, their secure exterior lot was so amazing. If you are looking to be able to walk out of your hotel door and be in the heart of New Orleans, you are going to pay twice as much than the Maison St. Charles. If you want easy access to local transportation and the Garden District, great local eateries (Slice is a slice of heaven!) and want to save your travel money to eat and shop-- stay here!  
+<Date>Jun 9, 2008
+<Rating>4	5	4	4	5	5	5	-1	
+<Aspects>
+6	5(time):1	39(return):1	40(love):1	75(week):1	272(world):1	347(twice):1	
+14	7(walk):1	19(price):1	20(look):1	42(pay):1	54(door):1	81(value):1	140(deal):1	171(able):1	347(twice):1	450(heart):1	588(orleans):1	655(st):1	2096(charl):1	3724(maison):1	
+6	22(pool):1	89(offer):1	435(courtyard):1	475(comfy):1	2021(compact):1	2981(pristine):1	
+24	0(staff):1	12(friendly):1	38(lot):1	47(eat):1	49(shop):1	66(park):1	68(travel):1	80(money):1	93(easy):1	145(amaze):1	159(access):1	195(local):2	310(garden):1	394(question):1	425(save):1	433(district):1	728(transportation):1	1034(secure):1	1223(van):1	1363(heaven):1	1779(eatery):1	1828(exterior):1	2024(slice):2	9761(talkative):1	
+0	
+0	
+0	
+0	
+
+<Author>GermanyTraveler
+<Content>Moderately recommendable I booked this hotel based on the positive recommendations, and while it didn't quite meet my expectations it is OK when you know what you're dealing with.The location is reasonably convenient with a tram stop right in front of the hotel, but the neighborhood itself didn't make a particularly safe impression. Front desk staff wasn't overly helpful; we had to haggle for fifteen minutes to get decent rooms after they initially wanted to dump us in dirty ones right next to the extremely noisy pool. Our final rooms were decent, but note that you're dealing here with what is essentially a motel one notch up from Motel 6 - so stained carpets and bed spreads should be expected.In terms of value for money (we paid about $80) I don't complain - but it certainly isn't the fairytale inn some other reviewers have painted it as.  
+<Date>Jun 6, 2008
+<Rating>3	3	3	4	2	2	3	-1	
+<Aspects>
+0	
+19	18(book):1	42(pay):1	80(money):1	81(value):1	123(ok):1	140(deal):1	196(meet):1	241(complain):1	284(base):1	324(inn):1	431(expectation):1	458(positive):1	564(reviewer):1	577(recommendation):1	806(paint):1	1011(term):1	3195(moderately):1	6371(recommendable):1	12840(fairytale):1	
+12	11(bed):1	62(expect):1	140(deal):1	257(decent):1	297(note):1	396(carpet):1	723(stain):1	991(motel):2	1203(spread):1	1227(notch):1	1337(final):1	2977(essentially):1	
+10	1(location):1	31(front):1	122(stop):1	137(safe):1	186(convenient):1	421(neighbourhood):1	553(particularly):1	570(tram):1	578(reasonably):1	848(impression):1	
+0	
+15	0(staff):1	14(helpful):1	22(pool):1	29(minute):1	31(front):1	36(desk):1	110(extremely):1	217(noisy):1	257(decent):1	323(dirty):1	1345(overly):1	1439(initially):1	1449(dump):1	2768(haggle):1	4856(fifteen):1	
+0	
+0	
+
+<Author>Nic32585
+<Content>LOVED this hotel! We booked this hotel originally not knowing what it was; we booked the surprise package. We were expecting something decent, but this hotel is amazing. I loved everything about it, from the location to the friendly staff. I would love to stay here again!  
+<Date>May 17, 2008
+<Rating>5	5	4	5	5	5	5	5	
+<Aspects>
+4	40(love):2	62(expect):1	145(amaze):1	257(decent):1	
+0	
+0	
+4	0(staff):1	1(location):1	12(friendly):1	40(love):1	
+0	
+0	
+4	18(book):2	199(surprise):1	527(package):1	1300(originally):1	
+0	
+
+<Author>Grovemontjanet
+<Content>Visit New Orleans, but consider staying somewhere else. The Maison St. Charles has its upside - it is convenient, but at #24 this hotel is ranked too high on TripAdvisor. At the price (about $90) you're getting what you pay for . The hotel is located across from the streetcar stop and Emeril's Delmonico restaurant, but guests should be aware of surroundings in the general neighborhood. The hotel does have visible security and secure parking lots. We had several problems with our room including no towels and missing light bulbs and malfunctioning lamps, old and stained linen. The bathroom smelled of mildew. Front desk staff were flip and less than helpful, but the manager was responsive to our complaints. He said that a major renovation is planned, and the hotel may be worth a second look after it's done. Be sure to visit the Audubon Zoo and ride the streetcar from start to finish. Watch the Mississippi roll by behind the Cafe DuMonde. Eat at Mothers, the Palace Cafe and find a little neighborhood place like Liuzza's. Walk the uptown streets and shop on Magazine street. Browse the antique stores on Royal Steet for the best of the city.  
+<Date>May 17, 2008
+<Rating>2	2	2	4	1	2	2	-1	
+<Aspects>
+17	41(city):1	65(visit):1	170(else):1	186(convenient):1	248(consider):1	255(store):1	588(orleans):1	597(tripadvisor):1	655(st):1	753(royal):1	1795(rank):1	1936(antique):1	2096(charl):1	3613(upside):1	3724(maison):1	3888(browse):1	8671(steet):1	
+8	19(price):1	42(pay):1	65(visit):1	165(start):1	218(ride):1	772(finish):1	1511(zoo):1	2391(streetcar):1	
+17	13(bathroom):1	20(look):1	71(include):1	96(worth):1	125(towel):1	157(light):1	221(plan):1	231(smell):1	276(miss):1	315(major):1	630(linen):1	687(renovation):1	723(stain):1	1622(lamp):1	1876(mildew):1	2458(bulb):1	5262(malfunction):1	
+14	7(walk):1	10(restaurant):1	35(street):2	49(shop):1	84(locate):1	91(guest):1	122(stop):1	421(neighbourhood):1	832(aware):1	1551(surroundings):1	2202(magazine):1	2391(streetcar):1	3285(uptown):1	8123(emeril):1	
+0	
+8	0(staff):1	14(helpful):1	31(front):1	36(desk):1	190(complaint):1	258(manager):1	2351(responsive):1	2765(flip):1	
+15	23(little):1	38(lot):1	47(eat):1	66(park):1	245(watch):1	275(cafe):2	421(neighbourhood):1	641(security):1	642(palace):1	813(roll):1	1034(secure):1	1359(mother):1	2662(visible):1	4715(mississippi):1	12172(dumonde):1	
+0	
+
+<Author>Debikg
+<Content>Really Enjoyed the Maison St Charles! Stayed at the Maison St Charles 4/20 - 4/25 and had a nice time. Hotel is very homey and the staff was FANTASTIC! Valerie at the front desk and a gentleman who helped with luggage  taxies- sorry I forgot his name - were so helpful and extremely kind. Will definitely stay again.Keep in mind that because this is an older hotel, there is no elevator. There are only two floors but carrying luggage up two floors was a treat at midnight! Two french women own 75% of the hotel with the other 25% being recently purchased by Quality Inn who is putting $2 million of updates into the property.Eat at Slice which is two blocks from the hotel on the same side of the street. FANTASTIC food. It is a pizzaria/bistro with a lot more than just pizza. Everything we tried from their salads, desserts and pizza were fantastic. The service was outstanding. Their professional chef makes great 4 course meals to include wine. Best value and food in the area.Loved the Garden District and the wonderful people!Deb  Art  
+<Date>Apr 26, 2008
+<Rating>4	5	3	5	5	5	5	3	
+<Aspects>
+20	4(nice):1	5(time):1	26(people):1	38(lot):1	40(love):1	48(wonderful):1	51(enjoy):1	59(definitely):1	86(fantastic):1	253(tried):1	310(garden):1	433(district):1	678(pizza):2	789(art):1	909(salad):1	940(St):2	1180(dessert):1	2096(charl):2	3724(maison):2	10563(pizzaria):1	
+12	16(food):1	81(value):1	166(own):1	187(quality):1	214(property):1	254(french):1	322(recently):1	324(inn):1	566(woman):1	725(update):1	887(purchase):1	6388(million):1	
+5	24(floor):2	249(luggage):1	320(treat):1	824(carry):1	1044(midnight):1	
+15	14(helpful):1	31(front):1	35(street):1	36(desk):1	47(eat):1	92(help):1	100(bloc):1	110(extremely):1	185(taxi):1	249(luggage):1	295(name):1	397(forget):1	891(sorry):1	1506(gentleman):1	2024(slice):1	
+0	
+3	0(staff):1	86(fantastic):1	3645(homey):1	
+12	9(service):1	16(food):1	71(include):1	86(fantastic):1	213(meal):1	216(elevator):1	251(wine):1	293(course):1	294(mind):1	501(professional):1	534(outstanding):1	1361(chef):1	
+0	
+
+<Author>NateKinFL
+<Content>**Excellent Stay*** We stayed at the Maison St. Charles for four nights in April 08 for Spring Break. I can't believe what a great price I received for what I got. The room was perfect for this price range. The bed was very comfy and soft sheets. I was shocked the first morning to find that continental breakfast was included. It was an impressing spread with good coffee, muffins, bagels w/ cream cheese, croissants, cereal, etc. I woud defenitely stay here again!  
+<Date>Apr 17, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	2(night):1	21(excellent):1	228(break):1	655(st):1	1162(spring):1	2096(charl):1	3724(maison):1	3963(\*\*):1	4757(\*\*\*):1	7184(woud):1	9547(defenitely):1	
+5	19(price):2	74(perfect):1	302(receive):1	312(believe):1	714(range):1	
+4	11(bed):1	475(comfy):1	479(sheet):1	589(soft):1	
+0	
+0	
+0	
+15	6(breakfast):1	56(morning):1	71(include):1	73(etc):1	90(coffee):1	343(impress):1	372(continental):1	441(cheese):1	529(cereal):1	1004(croissant):1	1188(cream):1	1203(spread):1	1206(shock):1	1260(muffin):1	1370(bagels):1	
+0	
+
+<Author>irongrrl22
+<Content>Delightful, affordable hotel The Maison St. Charles is a delightful, affordable hotel in the Garden District in New Orleans. The rooms are large, clean, and comfortable with free wireless internet. I loved the pool and spa, and the continental breakfast was substantial with surprisingly healthy options (New Orleans is not known for its health food). The hotel service was great, I was always easily accommodated no matter what I needed. There is a street car line basically at the hotel's front door and it will take you to the French Quarter, but I preferred the 20-minute walk. I have no complaints about the Maison St. Charles, and I highly recommend it to those traveling to New Orleans for business or pleasure.  
+<Date>Apr 16, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+4	9(service):1	438(easily):1	531(matter):1	624(accommodate):1	
+8	310(garden):1	433(district):1	588(orleans):1	655(st):1	1062(affordable):2	1176(delightful):2	2096(charl):1	3724(maison):1	
+21	7(walk):1	15(recommend):1	31(front):1	35(street):1	54(door):1	68(travel):1	121(car):1	138(highly):1	147(business):1	188(line):1	190(complaint):1	254(french):1	463(quarter):1	536(prefer):1	588(orleans):1	655(st):1	790(basically):1	907(pleasure):1	2096(charl):1	3724(maison):1	8743(20-minute):1	
+0	
+0	
+12	6(breakfast):1	16(food):1	22(pool):1	40(love):1	314(spa):1	336(option):1	372(continental):1	588(orleans):1	1375(surprisingly):1	1736(health):1	2294(healthy):1	2970(substantial):1	
+5	3(clean):1	25(comfortable):1	46(free):1	97(internet):1	717(wireless):1	
+
+<Author>Citprof
+<Content>Great stay!! Great price, clean room, visible security, great location, quiet, friendly  helpful staff. I liked coming home at night and stopping in the lobby for a cup of tea! Just can't beat the streetcar  bus stops across the street. So easy to hop on the streetcar  get dropped of right at Canal  Bourbon! Get the visitor's pass to jump on  off the streetcar, I had a great time doing this. Took the streetcar down to the Garden District, jumped off at Audobon Park, took a nice stroll, back on the streetcar to the end where there was a really nice little cafe Le Madeleines, fresh pastries, tea. then back on the streetcar!3 blocks down, super restaurant, Zea! Give it a try. I was in town just a short time before/after cruise, but can't wait to go back! New Orleans is so beautiful and very easy to get around! Between walking  the convenient public transportation, no cars needed!As a woman traveling alone, I felt safe  secure at the Maison St. Charles, and actually the whole time I was in New Orleans!  
+<Date>Apr 1, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+14	5(time):1	34(feel):1	45(beautiful):1	68(travel):1	76(try):1	93(easy):1	137(safe):1	180(actually):1	566(woman):1	588(orleans):2	655(st):1	1034(secure):1	2096(charl):1	3724(maison):1	
+0	
+9	0(staff):1	1(location):1	3(clean):1	12(friendly):1	14(helpful):1	19(price):1	58(quiet):1	641(security):1	2662(visible):1	
+19	5(time):1	7(walk):1	35(street):1	93(easy):1	120(bus):1	121(car):1	122(stop):1	186(convenient):1	379(public):1	400(pass):1	442(beat):1	638(canal):1	662(drop):1	728(transportation):1	951(visitor):1	1038(bourbon):1	1151(hop):1	1404(jump):1	2391(streetcar):4	
+0	
+5	5(time):1	85(wait):1	144(short):1	239(town):1	603(cruise):1	
+22	2(night):1	4(nice):2	10(restaurant):1	23(little):1	55(lobby):1	66(park):1	100(bloc):1	122(stop):1	141(home):1	197(fresh):1	275(cafe):1	301(tea):2	310(garden):1	433(district):1	464(super):1	652(pastry):1	800(cup):1	1056(stroll):1	1133(le):1	1404(jump):1	2391(streetcar):2	10404(madeleine):1	
+0	
+
+<Author>TxNurse
+<Content>Loved It!       Courtyard/rooms  
+<Date>Mar 31, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+1	40(love):1	
+0	
+1	435(courtyard):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>timbolester
+<Content>Okay...       Resident cat (there are several here)  
+<Date>Mar 30, 2008
+<Rating>3	4	3	3	4	4	5	4	
+<Aspects>
+3	453(okay):1	1988(resident):1	2177(cat):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>diersett
+<Content>Unique  Our first time in the Big Easy  we couldn't have picked a better hotel for authenicity. Talking to one of the staff it transpires that some of the accommodation was part of the old slave quarters. Picturesque courtyards  a spacious room which was peaceful  quiet. The staff were friendly  helpful, but the biggest plus was the location. Just accross from the tram which took us through the Garden District to the unmissable Auduborn Zoo  within easy strolling distance of French Quarter, Shopping centre  the wonderful Magazine St shops. We only ate in the hotel once, as we soon discovered the excellent quality  value food at the St Charles Tavern, just 2 blocks down. It was a pleasure to experience such Southern hospitality  the lovely people of New Orleans - we can't wait to return!  
+<Date>Mar 27, 2008
+<Rating>4	4	4	5	4	5	5	-1	
+<Aspects>
+4	5(time):1	93(easy):1	266(pick):1	1027(unique):1	
+26	0(staff):1	16(food):1	21(excellent):1	26(people):1	39(return):1	44(experience):1	47(eat):1	81(value):1	85(wait):1	87(lovely):1	100(bloc):1	187(quality):1	371(talk):1	418(soon):1	463(quarter):1	588(orleans):1	721(accommodation):1	869(discover):1	907(pleasure):1	940(St):1	1115(hospitality):1	2096(charl):1	2502(southern):1	6192(tavern):1	10772(slave):1	12017(transpire):1	
+5	58(quiet):1	111(spacious):1	435(courtyard):1	1036(peaceful):1	3387(picturesque):1	
+20	0(staff):1	1(location):1	12(friendly):1	14(helpful):1	48(wonderful):1	49(shop):2	93(easy):1	101(center):1	115(distance):1	203(plus):1	254(french):1	310(garden):1	433(district):1	463(quarter):1	570(tram):1	940(St):1	1056(stroll):1	1511(zoo):1	2202(magazine):1	2650(accross):1	
+0	
+0	
+0	
+0	
+
+<Author>GHillTraveler
+<Content>Budget Stay Away from the Hubbub This was a good place to stay for my husband and I while attending a convention at the Morial Convention Center and spending some time sightseeting. It was about a 15 minute walk to the convention center, which wasn't bad at all. Along the way, you can walk passed the Civil War Museum (unfortunately for us, it is temporarily closed) and the National WWII Museum (where we easily spent 3 hours one day). The street car can be picked up right outside the hall, which is handy if you want to get a ride close to the French Quarter. Across the street is a very tasty restaurant, Emeril's Delmonico (highly recommend), and there are several casual eateries along the street. The pizza at Slice was very good, for example.As for the hotel itself, the staff was pleasant, and the room was clean. The furnishings were a bit dated (peach-colored tub, small TV), but the hotel did offer free wireless internet! The beds were a bit worn and swayback. There is a coffee maker in the room, but they also offer a free continental breakfast, which was pretty good: Coffee, juice, cereals, variety of breads and pastries, fresh fruit, boiled eggs.The grounds are pretty, but some areas can do with some cleanup (like the area by the elevator near our room, 219).Also, the doors to the room are to the outside, which can make for some noise in the night as revelers return. Overall, it was a good place to stay if you are on a limited budget.  
+<Date>Mar 9, 2008
+<Rating>3	4	3	3	4	4	4	4	
+<Aspects>
+6	70(overall):1	429(budget):1	510(limit):1	678(pizza):1	954(example):1	2024(slice):1	
+0	
+20	0(staff):1	2(night):1	3(clean):1	11(bed):1	39(return):1	46(free):1	52(bit):2	54(door):1	89(offer):1	94(noise):1	97(internet):1	98(outside):1	116(tv):1	150(pleasant):1	311(tub):1	434(wear):1	511(date):1	717(wireless):1	870(furnishings):1	7547(reveler):1	
+34	7(walk):2	8(day):1	10(restaurant):1	15(recommend):1	28(close):2	29(minute):1	35(street):3	50(bad):1	60(hour):1	64(spend):1	98(outside):1	101(center):1	121(car):1	138(highly):1	218(ride):1	254(french):1	266(pick):1	400(pass):1	438(easily):1	463(quarter):1	507(museum):2	524(unfortunately):1	616(hall):1	755(handy):1	984(tasty):1	1048(convention):1	1779(eatery):1	1981(casual):1	2340(national):1	4624(war):1	5917(temporarily):1	8123(emeril):1	8984(civil):1	11422(wwii):1	
+0	
+0	
+20	6(breakfast):1	46(free):1	89(offer):1	90(coffee):2	102(near):1	109(pretty):2	197(fresh):1	215(fruit):1	216(elevator):1	285(ground):1	362(juice):1	372(continental):1	412(egg):1	413(variety):1	497(bread):1	529(cereal):1	652(pastry):1	996(maker):1	1598(boil):1	10955(cleanup):1	
+8	5(time):1	64(spend):1	101(center):1	105(husband):1	429(budget):1	826(attend):1	1048(convention):2	8549(hubbub):1	
+
+<Author>mslarue72
+<Content>Great spot for a few nights. We stayed here this past weekend and while our room (141) was tiny it was a nice stay. This hotel is a nice spot, neat courtyards, extremely pleasant staff and is right on the st. charles street car line. It is only about a 15 minute walk to the quarter. We stayed with some friends and when they first checked into their room the toilet didn't work and it was clearly a smoking room (they had requested non). The staff quickly changed their room. We hung out in the hotel bar the first night and had some mean Hurricanes made by Liz. Stop by and say hi!It was a bit noisy in our room on Saturday but our friends didn't hear anything in their building. Would probably helped if we weren't an end room but nothing that was unbearable or went on for any lenght. Plus it is Mardi Gras time so....... :-) Woudl stay here again but no more than a few nights. Older hotel that could use a little upgrading but not bad.  
+<Date>Jan 29, 2008
+<Rating>4	4	3	5	4	5	5	1	
+<Aspects>
+9	2(night):2	5(time):1	122(stop):1	203(plus):1	317(spot):1	1863(hi):1	2925(gras):1	3106(mardi):1	9132(woudl):1	
+0	
+27	0(staff):2	4(nice):2	35(street):1	52(bit):1	92(help):1	110(extremely):1	121(car):1	132(hear):1	135(build):1	146(friend):1	150(pleasant):1	161(change):1	172(weekend):1	178(probably):1	188(line):1	217(noisy):1	317(spot):1	338(tiny):1	419(past):1	435(courtyard):1	471(quickly):1	655(st):1	818(saturday):1	1286(neat):1	2096(charl):1	2785(unbearable):1	12037(lenght):1	
+3	7(walk):1	29(minute):1	463(quarter):1	
+0	
+5	32(check):1	146(friend):1	148(request):1	330(toilet):1	468(smoke):1	
+5	2(night):1	27(bar):1	246(mean):1	478(hang):1	1993(hurricane):1	
+3	23(little):1	50(bad):1	163(upgrade):1	
+
+<Author>Bulgarian
+<Content>Give this hotel a thumbs up! A nice and interesting place to stay, now that the St. Charles Streetcar is running (it stops right in front). Composed of several older and newer buildings around courtyards. Great access to Vieux Carre and to the Garden District. Croissants are on (the included) continental breakfast buffet. Parking is reasonable, but try the street first; you may avoid the nightly fee. Restaurants are nearby, from fast food to neighborhood bars to Japanese to one of the Emeril's establishments for those with deep pockets. A short streetcar ride to the heart of the Garden District and many restaurant opportunities within a short walk. The only glitch in our stay: for three days the front desk couldn't come up with a TV channel list missing from our room. Still, highly recommended.  
+<Date>Jan 13, 2008
+<Rating>5	5	4	5	4	4	3	5	
+<Aspects>
+3	15(recommend):1	138(highly):1	2165(thumb):1	
+0	
+11	8(day):1	31(front):1	36(desk):1	116(tv):1	276(miss):1	435(courtyard):1	650(list):1	741(channel):1	745(building):1	3121(glitch):1	9633(compose):1	
+22	4(nice):1	7(walk):1	10(restaurant):1	31(front):1	35(street):1	66(park):1	76(try):1	122(stop):1	144(short):2	149(run):1	218(ride):1	273(reasonable):1	310(garden):1	433(district):1	436(avoid):1	450(heart):1	584(fee):1	655(st):1	1033(nightly):1	1235(opportunity):1	2096(charl):1	2391(streetcar):2	
+0	
+0	
+16	6(breakfast):1	10(restaurant):1	16(food):1	27(bar):1	71(include):1	77(buffet):1	232(nearby):1	372(continental):1	421(neighbourhood):1	499(fast):1	559(japanese):1	1004(croissant):1	1043(deep):1	1473(establishment):1	2199(pocket):1	8123(emeril):1	
+5	159(access):1	310(garden):1	433(district):1	11777(carre):1	11979(vieux):1	
+
+<Author>tyco
+<Content>Small hotel away from the action Stayed there for the Sugar Bowl. Very close to the Superdome, about a 10 minute walk. Took the streetcar which stops right in front of the hotel to Canal Street to go to the French Quarters. If you want to be close to the French Quarters and to where all the action is, then you should stay on Canal Street. Average hotel, no frills but free continental breakfast was nice with pastries, bagels, and yogurt.  
+<Date>Jan 6, 2008
+<Rating>3	3	3	3	3	4	3	2	
+<Aspects>
+0	
+0	
+0	
+14	7(walk):1	28(close):2	29(minute):1	31(front):1	35(street):2	122(stop):1	254(french):2	463(quarter):2	638(canal):2	958(action):2	1366(bowl):1	2113(sugar):1	2391(streetcar):1	5581(superdome):1	
+0	
+0	
+9	4(nice):1	6(breakfast):1	46(free):1	227(average):1	372(continental):1	652(pastry):1	927(yogurt):1	1370(bagels):1	2210(frill):1	
+0	
+
+<Author>lodgingdude
+<Content>Fantastic Staff Please tell your staff that they should be commended. With everything you all went through, I鈥檓 still amazed at how well you鈥檝e done. Your employees are fantastic. I鈥檝e had my group at many hotels over the years and they have NEVER raved about the staff at any hotel (high end or low end). Tell them thanks for me!On another note, our VP of Finance, Mr. Webel, said that you guys were fantastic and that you went above and beyond what anyone expected of you. Thank you so much. As for Peter Mastores (he鈥檚 our President), I鈥檓 sorry. He tends to get very excited over everything and I apologize to anyone he may have offended. Thank you so much for putting up with our group, I know they can be a nightmare.I will be awaiting the finalized bill (must have by next week). Thank you for everything and I will be telling friends and business associates how great you guys were. I hope that our stay helped put some finances back into your hotel. Good luck and everyone is rooting for New Orleans to make a fantastic comeback. From what I鈥檝e heard, you are well on your way. Excellent service, great rooms and great people!Pat  
+<Date>Nov 14, 2007
+<Rating>5	-1	3	5	5	4	5	4	
+<Aspects>
+26	62(expect):1	69(tell):1	86(fantastic):3	92(help):1	132(hear):1	145(amaze):1	271(thank):3	297(note):1	328(hope):1	368(guy):1	588(orleans):1	608(employee):1	738(beyond):1	891(sorry):1	1053(tend):1	1055(luck):1	1136(excite):1	1485(apologize):1	1534(nightmare):1	3732(president):1	4026(offend):1	4149(peter):1	4436(pat):1	6926(root):1	7693(finance):2	10414(comeback):1	
+0	
+3	9(service):1	21(excellent):1	26(people):1	
+6	69(tell):1	146(friend):1	147(business):1	271(thank):1	368(guy):1	2648(associate):1	
+0	
+11	0(staff):3	69(tell):1	75(week):1	86(fantastic):1	173(please):1	495(bill):1	513(low):1	1581(rave):1	2742(await):1	4080(commend):1	9140(finalize):1	
+0	
+0	
+
+<Author>interviewqueen
+<Content>not bad for the price. Bug problem Stayed one night for an interview at Touro hospital. Booked hotel online for a very good deal, although price was comparable to the Garden District hotel down the road (parking is more expensive though). Hotel was very close to both the touro hospital and French Quarter. The streetcar not working yet, was told it will be up by Nov 11. I took the bus to french quarter, the hotel was across the street from the bus line. The receptionist was very friendly, helped with getting to places and calling cab. The wireless internet was not working, even after she gave me the passcode. They had a computer in the lobby to use. I rented a double bed room. The room was nicer inside than it looked outside. The bed was VERY comfortable. hardwood floors so bring slippers. There was a bug problem however. I woke up to shower and there was a gigantic cockroach behind the shower curtain when i got into the shower. I reported the cockroach and the small ant problem the next morning and they just wrote it down and didn't apologize or offer to comp me for anything. My experience with hotels is that you should be happy with your stay and I def was happy up until the cockroach surprise at 6am.  
+<Date>Nov 3, 2007
+<Rating>2	2	4	3	3	4	3	1	
+<Aspects>
+4	2(night):1	602(bug):2	1911(hospital):1	8583(interview):1	
+17	18(book):1	19(price):2	44(experience):1	50(bad):1	66(park):1	124(expensive):1	140(deal):1	155(happy):2	199(surprise):1	230(road):1	310(garden):1	433(district):1	822(online):1	1813(comparable):1	2110(cockroach):1	2802(def):1	7363(6am):1	
+17	4(nice):1	11(bed):2	20(look):1	24(floor):1	25(comfortable):1	61(shower):3	98(outside):1	142(bring):1	179(double):1	408(inside):1	554(wake):1	743(curtain):1	1097(rent):1	1306(slipper):1	2110(cockroach):1	4044(hardwood):1	4184(gigantic):1	
+18	28(close):1	35(street):1	56(morning):1	69(tell):1	89(offer):1	120(bus):2	188(line):1	254(french):2	344(write):1	463(quarter):2	838(report):1	1485(apologize):1	1675(ant):1	1763(nov):1	1911(hospital):1	2110(cockroach):1	2391(streetcar):1	2942(comp):1	
+0	
+5	12(friendly):1	67(call):1	92(help):1	380(cab):1	855(receptionist):1	
+0	
+4	55(lobby):1	97(internet):1	555(computer):1	717(wireless):1	
+
+<Author>tig1442
+<Content>Wonderfull historic hotel close to everything The staff is friendly and helpful, the hotel was clean and the court yards are fantastic. This is a great place to stay away from the noise of the French Quarter, but still close enough to enjoy it.  
+<Date>Oct 24, 2007
+<Rating>5	5	3	4	4	4	5	5	
+<Aspects>
+0	
+0	
+0	
+14	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	28(close):2	51(enjoy):1	86(fantastic):1	94(noise):1	254(french):1	463(quarter):1	1068(court):1	1274(historic):1	1307(yard):1	2901(wonderfull):1	
+0	
+0	
+0	
+0	
+
+<Author>MarcoDallas
+<Content>Charming hotel A wonderful staying in this hotel, courtyards  patios on the evening 're charming with the friendlyness of the staff ! We'll come back here next year!  
+<Date>Sep 11, 2007
+<Rating>4	5	4	4	5	4	5	5	
+<Aspects>
+0	
+0	
+6	0(staff):1	48(wonderful):1	332(charm):2	435(courtyard):1	5831(patios):1	12385(friendlyness):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>deebAl
+<Content>comfy ,a nice surprise Don't let the exterior put you off.We were there 2 nights and the only complaint is the plumbing. Perhaps the rain had something to do with it but nevertheless annoying. They came quickly when called. If you want fancy it's not for you. It IS lovely in the courtyard with the bar and pool . The price and free parking of this hotel make it a great find . The room was larger than hotels we have stayed in New Orleans for twice the price.We will definitely stay there again .  
+<Date>Jan 1, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	2(night):1	4(nice):1	59(definitely):1	67(call):1	190(complaint):1	199(surprise):1	471(quickly):1	475(comfy):1	581(rain):1	695(annoy):1	796(fancy):1	1828(exterior):1	2107(plumb):1	
+5	19(price):2	46(free):1	66(park):1	347(twice):1	588(orleans):1	
+4	22(pool):1	27(bar):1	87(lovely):1	435(courtyard):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>ZydecoGal
+<Content>What a great place and staff!--Come back to NOLA and stay here!       In the Lobby facing St. Charles St.  
+<Date>Oct 25, 2006
+<Rating>5	4	3	4	3	4	5	4	
+<Aspects>
+1	2777(nola):1	
+0	
+0	
+0	
+0	
+1	0(staff):1	
+3	55(lobby):1	655(st):2	2096(charl):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Change of Pace from normal hotels We stayed at the Maison St. Charles on May 29th for 5 nights. We are trying to reestablish ourselves in New Orleans so our stay was primarily business, i.e. checking on our house, meeting with contractors and visiting family. I booked this hotel on the choice privileges website and due to a pricing glitch got a steal of a deal on their 2 bedroom suite, The Robert E. Lee suite. Check-in was quick and the staff was friendly. Parking at this time was free and is a lot across the street. The room was a two bedroom suite with a King bed in one room and a double bed in the other bedroom. It also has a sofasleeper in the living room. The room on arrival was not as clean as I like. One of the bathrooms was a little dirty and the carpet was filthy. I think since this room normally goes for $275 a night and probably had not been used recently, I think that's why the room was not as clean. Had I been paying that rate I would have left shortly after arriving. Since I was getting the room at a steal, I contacted the front desk staff who was very nice about everything. They said to make a list of all our problems and they would remedy the next day which they did. They came in and did a thourough cleaning the next day. They even removed the dirty oriental rug and shampooed the carpet. Maid service at this time was only on Tuesdays, Thursdays, and Saturday, so be aware of that. The rooms are quaint and a change from typical hotels, so if you like that style of hotel, this place is for you. There's no elevator. Our room was the entire second floor of one of the buidlings, so be prepared to climb stairs. For our family of five including 3 small children we had adequate space. There are also 3 TVs, one in each room which is a must have with children. Our room came with fridge and microwave. Just be aware also if you are travelling with others and seeking privacy, don't let anyone use the sofabed. There is no covering on top of the master bedroom door, it's an open window. There is a lounge and pool if you want drinks, but no restaurant open at this time. There are fast food and neighborhood restaurants nearby since this is St Charles avenue, so eating out is not a problem. Just be prepared for lines like most restaurants Post Katrina. I would recommend for someone looking for a change of pace.  
+<Date>Jun 24, 2006
+<Rating>2	5	2	-1	2	-1	2	-1	
+<Aspects>
+18	2(night):1	8(day):1	15(recommend):1	20(look):1	68(travel):1	161(change):2	650(list):1	655(st):1	832(aware):1	878(normal):1	1183(privacy):1	1980(seek):1	2096(charl):1	2291(pace):2	3366(29th):1	3558(remedy):1	3724(maison):1	5086(sofabe):1	
+5	42(pay):1	43(leave):1	53(arrive):1	78(rate):1	2465(shortly):1	
+64	2(night):1	3(clean):2	11(bed):2	13(bathroom):1	18(book):1	19(price):1	23(little):1	24(floor):1	32(check):1	54(door):1	65(visit):1	71(include):1	76(try):1	106(family):2	107(choice):1	108(suite):3	118(top):1	119(window):1	140(deal):1	147(business):1	161(change):1	178(probably):1	179(double):1	196(meet):1	206(live):1	210(space):1	224(arrival):1	243(king):1	259(due):1	262(website):1	268(bedroom):4	277(child):2	281(house):1	318(fridge):1	322(recently):1	323(dirty):2	326(style):1	329(entire):1	390(adequate):1	396(carpet):2	460(prepare):1	552(cover):1	568(stair):1	588(orleans):1	628(typical):1	767(ourselves):1	820(microwave):1	1051(shampoo):1	1091(normally):1	1135(remove):1	1187(steal):1	1295(quaint):1	1320(filthy):1	1424(climb):1	1569(tvs):1	1616(Oriental):1	2337(master):1	2519(primarily):1	2615(privilege):1	3016(rug):1	3121(glitch):1	4193(robert):1	7387(lee):1	8532(contractor):1	
+5	5(time):1	35(street):1	38(lot):1	46(free):1	66(park):1	
+2	3(clean):1	8(day):1	
+9	0(staff):2	4(nice):1	12(friendly):1	31(front):1	36(desk):1	286(check-in):1	299(quick):1	713(contact):1	1187(steal):1	
+24	5(time):2	9(service):1	10(restaurant):3	16(food):1	22(pool):1	47(eat):1	63(drink):1	188(line):1	216(elevator):1	232(nearby):1	237(lounge):1	300(maid):1	421(neighbourhood):1	460(prepare):1	499(fast):1	644(post):1	818(saturday):1	832(aware):1	940(St):1	1090(avenue):1	2096(charl):1	2676(katrina):1	8168(thursdays):1	8887(tuesdays):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A lovely and charming hotel with a great staff! This was my second stay at the Maison St. Charles;and it was wonderful like always! It is the most convenient location for everything. Having the restaurant next door is a big plus, also. I will definately stay at the MSC again as soon as they have recovered from all the damage. God bless them!  
+<Date>Oct 27, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+10	48(wonderful):1	410(definately):1	418(soon):1	655(st):1	1522(god):1	2030(damage):1	2096(charl):1	2887(bless):1	3020(recover):1	3724(maison):1	
+0	
+0	
+2	1(location):1	186(convenient):1	
+0	
+3	0(staff):1	87(lovely):1	332(charm):1	
+3	10(restaurant):1	54(door):1	203(plus):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Hope you made it through katrina Twelve family members stayed here for my daughter's graduation from Tulane. This was my second stay in the hotel and we had hoped to come back. All of your staff was great. Hope everyone is safe and the hotel made it through Katrina. God bless you all and hope we can see you soon!!  
+<Date>Sep 4, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	106(family):1	137(safe):1	328(hope):4	418(soon):1	467(daughter):1	1522(god):1	2676(katrina):2	2887(bless):1	5692(graduation):1	9157(tulane):1	
+0	
+0	
+0	
+0	
+1	0(staff):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Wonderful Little Inn We stayed at the Maison St. Charles on July 11-July 14, and I couldn't have been more pleased. It is the perfect location if you don't want to be to close to the hustle and bustle of the French Quarters or Bourbon Street. The streetcar passes right in front of the hotel, which is a definite plus. Although the first day we were there we got on the streetcar going the wrong way, the driver was nice enough to give us passes to ride the streetcar back in the right direction. But the scenery down St. Charles is great.The rooms may not have been spectacular but they were clean and roomy enough for me and my two girls. There is a safe in each room, that was another plus. Our room overlooked a nice courtyard that was quiet and there was always security on duty 24 hours a day. There is also valet parking. All vehicles are placed in a secure gated lot. The regular rate for parking is $14.00 a day, which isn鈥檛 bad, compared to some of the fees charges around the city for parking. Of course I received a great deal online from the hotels鈥?web site. We paid $91.00 per night, the third night was free and parking was half price. The pool is great and there is a spa.One block down is a fantastic tavern called St. Charles Tavern that serves New Orleans style dishes (seafood, steaks, etc); and the prices are reasonable. My girls can be very picky when it comes to eating away from home, but they loved it so much we ate there two nights in a row. The streets have good lighting so we never felt unsafe walking at night. There are other places to eat right next door and across the street.Most of all the entire staff was very friendly and helpful. What a remarkable group of people. When I am in New Orleans again I will definitely staff at the Maison St. Charles again. We absolutely loved it!  
+<Date>Jul 15, 2005
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+24	2(night):1	22(pool):1	23(little):1	26(people):1	38(lot):1	40(love):2	47(eat):2	48(wonderful):1	141(home):1	173(please):1	189(absolutely):1	314(spa):1	324(inn):1	625(girl):1	655(st):2	926(picky):1	992(gate):1	1034(secure):1	1638(row):1	1951(vehicle):1	2096(charl):2	2247(scenery):1	3163(remarkable):1	3724(maison):1	
+7	2(night):2	19(price):1	42(pay):1	46(free):1	66(park):1	283(half):1	532(third):1	
+14	3(clean):1	4(nice):1	8(day):1	58(quiet):1	60(hour):1	137(safe):1	203(plus):1	260(overlook):1	435(courtyard):1	625(girl):1	641(security):1	656(spectacular):1	1325(duty):1	1353(roomy):1	
+43	1(location):1	2(night):1	4(nice):1	7(walk):1	8(day):2	28(close):1	31(front):1	34(feel):1	35(street):3	41(city):1	47(eat):1	50(bad):1	54(door):1	66(park):3	74(perfect):1	78(rate):1	136(charge):1	140(deal):1	157(light):1	192(site):1	203(plus):1	218(ride):1	254(french):1	293(course):1	302(receive):1	381(compare):1	395(direction):1	400(pass):2	427(wrong):1	457(valet):1	463(quarter):1	563(driver):1	584(fee):1	744(regular):1	822(online):1	1019(web):1	1038(bourbon):1	1107(bustle):1	1503(hustle):1	1890(unsafe):1	2369(definite):1	2391(streetcar):3	3205(isn):1	
+0	
+9	0(staff):2	12(friendly):1	14(helpful):1	59(definitely):1	329(entire):1	588(orleans):1	655(st):1	2096(charl):1	3724(maison):1	
+15	19(price):1	67(call):1	73(etc):1	86(fantastic):1	100(bloc):1	174(serve):1	273(reasonable):1	326(style):1	588(orleans):1	655(st):1	660(steak):1	815(seafood):1	816(dish):1	2096(charl):1	6192(tavern):2	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nothing special When we arrived at the hotel we were assigned to a 1st floor room next to the ice machine. The room itself wasnt anything special and the one thing i remember about this room was that my husband had to kill a spider that was in his words huge. He's not usually scared of bugs but this was pretty bad. Luckily, I didnt see it. The grounds were really neat. They looked like a little village and at nite it was all lit up. They also had a hot tub that my husband enjoyed. The location isnt that great if you want to go to the french quarter. We ended up getting on the wrong streetcar going in the opposite direction - not happy. I dont think I' would stay here again mainly because of the location. Its nice to be able walk out of the hotel and you are in the french quarter.  
+<Date>Jun 29, 2005
+<Rating>3	4	2	-1	3	-1	3	-1	
+<Aspects>
+13	50(bad):1	51(enjoy):1	105(husband):1	109(pretty):1	114(hot):1	285(ground):1	311(tub):1	399(usually):1	602(bug):1	626(didnt):1	1200(luckily):1	1286(neat):1	1711(scare):1	
+0	
+18	20(look):1	23(little):1	24(floor):1	53(arrive):1	105(husband):1	133(huge):1	157(light):1	208(special):2	375(remember):1	493(machine):1	547(ice):1	571(word):1	1087(village):1	1339(wasnt):1	1722(assign):1	1895(nite):1	2070(kill):1	4534(spider):1	
+14	1(location):2	4(nice):1	7(walk):1	155(happy):1	171(able):1	254(french):2	395(direction):1	427(wrong):1	463(quarter):2	503(dont):1	783(opposite):1	1177(mainly):1	2377(isnt):1	2391(streetcar):1	
+0	
+0	
+0	
+0	
+
+<Author>pooka54
+<Content>Nice hotel with a fantastic staff! A friend and I stayed at the Maison St. Charles for three days in February prior to sailing on a crusie. We had a marvelous time on our first trip to New Orleans. The hotel looked a little shabby when we first pulled up in a taxi, but we were pleasantly surprised upon entering the grounds. This charming little hotel is as close to living in a gated community as I will ever get.The hotel is situated within easy reach of the entire city as there is a streetcar stop right outside the front door. We bought a three day transit pass at the bank across the street and off we went. When we weren't riding the rails, we were walking St. Charles Avenue and never felt threatened or uncomfortable.The room was your typical hotel room, but it was the fantastic staff that made the Maison St. Charles such a great place to stay. Everyone was extremely friendly and helpful went out of their way to make us feel welcome. We had plently of typical tourist questions, but they always had a smile and a wealth of information to share. We wish that we only had enough time to try all of their recommendations. Thanks to Hurricane Gene in the bar, Jennifer  Barbara at the Front Desk, and all of the other staff whose names we can not recall...Y'all made our first trip to New Orleans memorable and when we come back we will definitely stay with you again!  
+<Date>Jun 28, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+20	5(time):2	8(day):1	12(friendly):1	14(helpful):1	33(trip):1	34(feel):1	76(try):1	110(extremely):1	146(friend):1	202(welcome):1	384(wish):1	577(recommendation):1	588(orleans):1	637(prior):1	655(st):1	1230(february):1	2096(charl):1	2187(marvelous):1	2299(sail):1	3724(maison):1	
+0	
+6	0(staff):1	86(fantastic):1	628(typical):1	655(st):1	2096(charl):1	3724(maison):1	
+39	7(walk):1	8(day):1	20(look):1	23(little):2	28(close):1	31(front):1	34(feel):1	35(street):1	41(city):1	54(door):1	93(easy):1	98(outside):1	122(stop):1	185(taxi):1	199(surprise):1	206(live):1	218(ride):1	280(buy):1	285(ground):1	329(entire):1	332(charm):1	400(pass):1	574(situate):1	601(enter):1	655(st):1	747(pleasantly):1	851(reach):1	856(uncomfortable):1	858(pull):1	992(gate):1	1090(avenue):1	1225(bank):1	1319(shabby):1	1755(rail):1	2015(transit):1	2096(charl):1	2391(streetcar):1	2537(threaten):1	3502(community):1	
+0	
+24	0(staff):2	4(nice):1	27(bar):1	31(front):1	33(trip):1	36(desk):1	59(definitely):1	86(fantastic):1	209(tourist):1	271(thank):1	295(name):1	387(smile):1	394(question):1	520(share):1	588(orleans):1	628(typical):1	649(information):1	1205(memorable):1	1993(hurricane):1	3014(recall):1	5782(wealth):1	5861(plently):1	5997(barbara):1	6996(jennifer):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nice place but beware of the wireless internet       View from our room  
+<Date>Jun 7, 2005
+<Rating>4	3	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+5	4(nice):1	17(view):1	97(internet):1	717(wireless):1	737(beware):1	
+
+<Author>RaginCajun1
+<Content>Has taken a down turn This used to be our favorite accommodations but during our resent stay that changed. The facility is in need of an update. The rooms are aged, carpets worned and bath fixtures dirty. The area around the Maison has also taken a down turn. There is now a bar across the side street where undesirables are hanging around at night.  
+<Date>Jun 6, 2005
+<Rating>2	3	2	-1	2	-1	4	-1	
+<Aspects>
+1	3724(maison):1	
+4	161(change):1	376(favourite):1	721(accommodation):1	9685(resent):1	
+5	226(bath):1	323(dirty):1	396(carpet):1	505(age):1	1541(fixture):1	
+7	2(night):1	27(bar):1	35(street):1	211(facility):1	478(hang):1	725(update):1	7420(undesirable):1	
+0	
+0	
+0	
+0	
+
+<Author>trulyatraveler
+<Content>Great convenient location, good price and good service I booked a room here after reading reviews on Trip Advisor. It was really my third choice because the other two had breakfast included but they were booked up. You can't see much from the street but once they take you to your room it is really quite charming - a lot of separate buildings each with their own courtyard equipped with tables and chairs. You can grab a croissant from La Patisserie next door and have your breakfast outside. I'd say the rooms are average but I'm not there to sit in a hotel room anyway. You are right on the streetcar line which for $1.25 will take you downtown or the other way to the garden district. There is every possible kind of restaurant you would want within a 3 block walk - fast food, French, Japanese, Italian, bar food, BBQ, Emeril's, etc. I recommend the St. Charles Inn - a bar that's open 24 hrs. and has huge portions, and the BBQ place across the street that I forgot the name of. We ate at the St. Charles 3 times! The hotel staff was friendly - especially the valet!  
+<Date>May 13, 2005
+<Rating>4	4	3	-1	4	-1	4	-1	
+<Aspects>
+4	5(time):1	47(eat):1	655(st):1	2096(charl):1	
+0	
+13	35(street):1	38(lot):1	166(own):1	169(sit):1	198(chair):1	227(average):1	229(table):1	332(charm):1	417(anyway):1	435(courtyard):1	474(separate):1	745(building):1	884(equip):1	
+11	35(street):1	133(huge):1	188(line):1	295(name):1	310(garden):1	334(downtown):1	397(forget):1	433(district):1	1450(portion):1	2072(bbq):1	2391(streetcar):1	
+4	0(staff):1	12(friendly):1	126(especially):1	457(valet):1	
+0	
+36	1(location):1	6(breakfast):2	7(walk):1	9(service):1	10(restaurant):1	15(recommend):1	16(food):2	18(book):2	19(price):1	27(bar):2	33(trip):1	37(review):1	54(door):1	71(include):1	73(etc):1	88(read):1	98(outside):1	100(bloc):1	107(choice):1	186(convenient):1	225(la):1	254(french):1	324(inn):1	358(italian):1	499(fast):1	532(third):1	559(japanese):1	655(st):1	701(advisor):1	1004(croissant):1	1139(grab):1	1464(hr):1	2072(bbq):1	2096(charl):1	5623(patisserie):1	8123(emeril):1	
+0	
+
+<Author>uniquegirl
+<Content>improved maison st. charles we had stayed at maison st charles sept. 2004, and i had written an unfavorable review. we were in new orleans again april 20,2005. we decided to give maison st. charles another shot. i'm glad we did . we had a wonderful stay. our room was great and tony the valet-security guy is always so helpful. the only thing wrong is the front desk lady still doesn't go out of her way for the guests, but other than that, i would recomend this hotel again. they have improved and have done some renovations.  
+<Date>May 3, 2005
+<Rating>4	3	4	-1	4	-1	3	-1	
+<Aspects>
+14	37(review):1	48(wonderful):1	219(decide):1	344(write):1	588(orleans):1	619(glad):1	655(st):2	940(St):1	1217(improve):1	1778(shoot):1	1804(sept):1	2096(charl):3	3724(maison):3	10476(unfavorable):1	
+0	
+5	14(helpful):1	368(guy):1	687(renovation):1	1217(improve):1	3540(tony):1	
+0	
+0	
+6	31(front):1	36(desk):1	91(guest):1	427(wrong):1	521(lady):1	1420(recomend):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Maison St Charles Highly Recommended My husband and I stayed at the Maison St Charles for 11 nights from 15 - 26 March. It was our first time in New Orleans, and even in the USA, and we loved every minute of our holiday. The hotel was lovely - we had a standard room, but the furnishings were very smart and tasteful, with 2 queen-sized solid wood beds. The maids kept the room spotlessly clean, so I can't understand a previous poster's comments that the hotel is a filthy dump. I'm with Cromette on this one! La Madeleine is wonderful, and the staff efficient and friendly - I highly recommend the yogurt parfait for breakfast, and the Sacha Torte if you really fancy spoiling yourself for dessert!Go to the St Charles Tavern also, for a great cheap breakfast, lively and attentive service, and great deals on dinner!We always felt perfectly safe walking round on St Charles Avenue both day and night - and the people in New Orleans are great, so polite and accommodating. In short, do stay at the Maison St Charles, it's fantastic value for money and only a short street car journey away from all the noise and action!  
+<Date>Mar 30, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+14	2(night):1	5(time):1	15(recommend):1	29(minute):1	40(love):1	105(husband):1	138(highly):1	223(holiday):1	588(orleans):1	615(march):1	940(St):2	1474(usa):1	2096(charl):2	3724(maison):2	
+12	35(street):1	80(money):1	81(value):1	86(fantastic):1	94(noise):1	121(car):1	144(short):2	940(St):1	958(action):1	1362(journey):1	2096(charl):1	3724(maison):1	
+18	3(clean):1	11(bed):1	87(lovely):1	130(standard):1	300(maid):1	356(comment):1	373(previous):1	391(understand):1	870(furnishings):1	1094(spotlessly):1	1320(filthy):1	1327(wood):1	1449(dump):1	1617(solid):1	1687(smart):1	2043(poster):1	2122(tasteful):1	5385(queen-size):1	
+13	2(night):1	7(walk):1	8(day):1	26(people):1	34(feel):1	137(safe):1	422(polite):1	588(orleans):1	595(perfectly):1	624(accommodate):1	940(St):1	1090(avenue):1	2096(charl):1	
+0	
+0	
+24	0(staff):1	6(breakfast):2	9(service):1	12(friendly):1	15(recommend):1	48(wonderful):1	117(dinner):1	138(highly):1	140(deal):1	143(cheap):1	225(la):1	401(efficient):1	537(attentive):1	576(yourself):1	796(fancy):1	927(yogurt):1	940(St):1	1180(dessert):1	1221(spoil):1	1600(lively):1	2096(charl):1	6192(tavern):1	9959(parfait):1	10404(madeleine):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>very nice. we stayed March 17-20 We loved the maison st charles. It's in the garden district, a beautiful, nice part of town. It's about a five minute cab ride to bourbon and the french quarter. It is a nice clean pretty hotel. Everything was perfect and the restaurant La Madeleine has great food. There are several other restaurants close by. The price was very reasonable especially compared to other places. We loved this hotel!  
+<Date>Mar 21, 2005
+<Rating>5	4	5	-1	5	-1	4	-1	
+<Aspects>
+16	4(nice):2	29(minute):1	40(love):2	45(beautiful):1	218(ride):1	239(town):1	254(french):1	310(garden):1	380(cab):1	433(district):1	463(quarter):1	615(march):1	940(St):1	1038(bourbon):1	2096(charl):1	3724(maison):1	
+4	19(price):1	126(especially):1	273(reasonable):1	381(compare):1	
+0	
+2	10(restaurant):1	28(close):1	
+3	3(clean):1	4(nice):1	109(pretty):1	
+0	
+5	10(restaurant):1	16(food):1	74(perfect):1	225(la):1	10404(madeleine):1	
+0	
+
+<Author>travelustej
+<Content>great location I stayed with girlfriends at the Maison for four nights back in December. The hotel room itself was admittedly standard and even slightly worn. But the location and price were ideal. You are right on the streetcar line and equidistance between the Garden District and the French Quarter. The price is very reasonable and the noise is nothing compared to what you would probably encounter staying in the French Quarter. There are some great restaurants in the immediate area. I found the outside of the hotel charming and thought the courtyard setup was very nice. No doubt, there are nicer places to stay in the city but for the above reasons I would definetly return to The Maison St. Charles.  
+<Date>Mar 21, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	4(nice):1	39(return):1	41(city):1	374(reason):1	655(st):1	952(doubt):1	1964(definetly):1	2096(charl):1	3724(maison):1	
+10	1(location):1	19(price):2	94(noise):1	178(probably):1	254(french):1	273(reasonable):1	381(compare):1	463(quarter):1	545(ideal):1	693(encounter):1	
+9	4(nice):1	98(outside):1	130(standard):1	332(charm):1	434(wear):1	435(courtyard):1	598(slightly):1	3051(admittedly):1	3363(setup):1	
+11	1(location):1	2(night):1	188(line):1	254(french):1	310(garden):1	433(district):1	463(quarter):1	993(december):1	994(girlfriend):1	2391(streetcar):1	3724(maison):1	
+0	
+0	
+2	10(restaurant):1	1761(immediate):1	
+0	
+
+<Author>Helena Traveler
+<Content>Great Location/Average Room I guess you get what you pay for. This is a complex of buildings and we got a room in the 1970's motel. Outside entrances that look over a parking lot converted to a courtyard. The room was what you would expect a 'motel' room to be. Nothing special, but the price was good.The best part of the hotel was it's location. Located directly accross the street is a cable car stop which will take you to the French Quarter. Walking distance to the 'D-Day' Museum and RiverWalk.  
+<Date>Mar 17, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+5	1(location):1	19(price):1	42(pay):1	208(special):1	469(guess):1	
+4	62(expect):1	745(building):1	991(motel):2	1074(complex):1	
+22	1(location):1	7(walk):1	8(day):1	20(look):1	35(street):1	38(lot):1	66(park):1	84(locate):1	98(outside):1	115(distance):1	121(car):1	122(stop):1	254(french):1	383(directly):1	435(courtyard):1	463(quarter):1	484(cable):1	490(entrance):1	507(museum):1	2079(convert):1	2650(accross):1	3556(riverwalk):1	
+0	
+0	
+0	
+0	
+
+<Author>travelseeker
+<Content>Happy with this hotel Stayed Feb. 18-20th. All other hotels were much more expensive during that time so after reading positive reviews here I booked for $100 a night. All though the hotel is not in the action of the French Quarter I loved it. My boyfriend and I opted to walk to the French Quarter and did not feel unsafe even when walking Friday evening at 11 pm. The trolley is right by the hotel but I found the wait to be pretty long and was usually full by the time it got to the hotel. My only complaint was when we tried to go to the hotel bar around 10 pm on Saturday it was closed. We were going on a cruise Sunday and had the front desk hold our luggage so we could check out and then have breakfast at the attached restaurant, La Madelines (very good). Only had to wait a few minutes before a taxi showed up in front of the hotel to take us to the port. I would certainly recommend this hotel to any one.  
+<Date>Mar 11, 2005
+<Rating>4	4	3	-1	4	-1	4	-1	
+<Aspects>
+7	15(recommend):1	40(love):1	155(happy):1	254(french):1	463(quarter):1	958(action):1	1258(feb):1	
+7	2(night):1	5(time):1	18(book):1	37(review):1	88(read):1	124(expensive):1	458(positive):1	
+0	
+19	7(walk):2	27(bar):1	28(close):1	29(minute):1	31(front):1	34(feel):1	85(wait):1	185(taxi):1	190(complaint):1	253(tried):1	254(french):1	393(pm):2	463(quarter):1	763(boyfriend):1	818(saturday):1	923(friday):1	1184(opt):1	1288(port):1	1890(unsafe):1	
+0	
+16	5(time):1	6(breakfast):1	10(restaurant):1	31(front):1	32(check):1	36(desk):1	85(wait):1	109(pretty):1	225(la):1	249(luggage):1	399(usually):1	593(hold):1	603(cruise):1	844(sunday):1	1079(trolley):1	1224(attach):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nice hotel at a nice price My wife and I stayed at the Masion St. Charles from Feb. 23-25th. I had read a few of the revues that had been written here on tripadvisor before we booked the Hotel. We were looking for a nice place to stay, that was near everything we wanted to see, that wouldnt cost us a fortune. This Hotel met all of our expectations. We reserved a basic room, that cost us less than $100.00/night. The hotel is located in the Garden District, on the Streetcar line, and is just minutes away from the French Quarter. It is also surrounded by some pretty good restaurants. Emerils Del Monico is right across the street, Houstons restaurant, is right down the street, and theres a Le Madeleine right next door. So if you dont want to pay the exorbatant prices for food in the Quarter, you have other options. Our room at the Masion was small, but was very clean. The hotel itself is rather quaint, with a nice courtyard in the middle of the hotel, which is next to the Hotel Bar. The bartender at the Hotel Bar, Dianne, was GREAT ! She gave us some pointers on what we wanted to see while in New Orleans, and the best way to get their. She was also alot of fun and very friendly to us during our stay. Overall, the staff at the Hotel was extremely friendly, and were ready to help at our beckon call. The parking at the Hotel was very convenient, and our valuables always felt very safe. I would recoomend this Hotel to anyone of my friends in a minute. It is a nice, clean, easy accesible hotel, in a city full of OVER-priced hotels and meals. We will stay at the Maison St. Charles on our next trip back to the Big Easy.Tim  
+<Date>Feb 28, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	12(friendly):1	29(minute):1	33(trip):1	93(easy):1	146(friend):1	176(fun):1	588(orleans):1	647(alot):1	655(st):1	2096(charl):1	3724(maison):1	5800(tim):1	6928(pointer):1	
+27	2(night):1	3(clean):1	4(nice):4	16(food):1	19(price):2	20(look):1	41(city):1	42(pay):1	93(easy):1	102(near):1	175(cost):2	184(wife):1	196(meet):1	213(meal):1	336(option):1	352(basic):1	431(expectation):1	463(quarter):1	503(dont):1	506(reserve):1	655(st):1	1258(feb):1	1849(wouldnt):1	2096(charl):1	2490(fortune):1	3386(over-price):1	7410(accesible):1	
+6	3(clean):1	4(nice):1	27(bar):1	325(middle):1	435(courtyard):1	1295(quaint):1	
+21	10(restaurant):2	29(minute):1	34(feel):1	35(street):2	54(door):1	66(park):1	84(locate):1	109(pretty):1	137(safe):1	186(convenient):1	188(line):1	254(french):1	310(garden):1	433(district):1	463(quarter):1	667(surround):1	1133(le):1	1482(del):1	1935(valuable):1	2391(streetcar):1	10404(madeleine):1	
+0	
+8	0(staff):1	12(friendly):1	67(call):1	70(overall):1	92(help):1	110(extremely):1	274(ready):1	9673(beckon):1	
+6	18(book):1	27(bar):1	88(read):1	344(write):1	597(tripadvisor):1	676(bartender):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>eh. my boyfriend and i stayed for 4 days in december, and were not terribly impressed. we were awoken before 9 on our first morning by the sounds of a staff member raking leaves (with a metal rake) on the pavement outside our room - very loud indeed. we requested and recieved a quieter room, but were consistently bothered by the fact that you can hear everyone's conversations (both staff and other guests) outside as clearly as if they were standing beside you. rooms are clean and moderately sized, but nothing special. on the upside, i returned home before discovering that i had left my discman at the hotel. the housekeeping staff was extremely diligent in tracking it down and mailing it to me.  
+<Date>Feb 8, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	8(day):1	39(return):1	43(leave):1	141(home):1	343(impress):1	763(boyfriend):1	869(discover):1	993(december):1	1910(terribly):1	3613(upside):1	4975(eh):1	
+0	
+30	0(staff):3	3(clean):1	56(morning):1	58(quiet):1	83(size):1	91(guest):1	98(outside):2	110(extremely):1	132(hear):1	148(request):1	208(special):1	307(bother):1	367(housekeeping):1	409(sound):1	416(loud):1	444(stand):1	990(indeed):1	1281(conversation):1	1350(beside):1	1494(awake):1	1593(leaf):1	1766(track):1	2060(recieve):1	2249(consistently):1	2446(mail):1	2720(metal):1	3195(moderately):1	3382(rake):2	4479(pavement):1	8195(diligent):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nice for the price. We stayed here 1/16-1/18/05. Found the accomodations to be pretty much as described. We had a small room with queen bed. The room was simple, but clean. Staff were friendly and attentive. I thought the $14/day valet parking charge was kind of absurd, as we were told to go get our own car each morning when we asked for it. The price for parking wasn't bad however, when compared with other hotels. Seems you must pay to park in this city no matter where you stay. The location was great--you can jump on the streetcars right in front of the hotel and go anywhere. The neighborhood wasn't bad, and we felt pretty safe walking around there at night. Overall, it was a good experience, and I would stay there again.  
+<Date>Jan 31, 2005
+<Rating>4	5	4	-1	5	-1	4	-1	
+<Aspects>
+0	
+13	4(nice):1	19(price):2	41(city):1	42(pay):1	44(experience):1	50(bad):1	66(park):2	70(overall):1	109(pretty):1	381(compare):1	531(matter):1	780(accomodation):1	955(describe):1	
+4	3(clean):1	11(bed):1	543(Queen):1	613(simple):1	
+19	1(location):1	2(night):1	7(walk):1	31(front):1	34(feel):1	50(bad):1	56(morning):1	66(park):1	69(tell):1	109(pretty):1	121(car):1	136(charge):1	137(safe):1	166(own):1	421(neighbourhood):1	457(valet):1	1404(jump):1	2391(streetcar):1	5507(absurd):1	
+0	
+3	0(staff):1	12(friendly):1	537(attentive):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good choice for reasonable hotel We needed a reasonably priced hotel in the Garden District where my son was visiting Loyola U. Maison St. Charles was lovely. Some of the rooms are in renovated creole buildings - all rooms face courtyards. The staff was attentive, and polite. There's a casual French Bakery restaurant - La Madeleine - right next door - which serves breakfast, lunch and dinner. The only drawbacks: have to pay for valet parking and the rooms were quite small. Otherwise a great deal for the price. Can leave your car at the hotel and take the trolley which stops right in front. I would stay there again.  
+<Date>Jan 11, 2005
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+14	19(price):2	65(visit):1	87(lovely):1	107(choice):1	140(deal):1	273(reasonable):1	310(garden):1	433(district):1	508(otherwise):1	578(reasonably):1	612(son):1	655(st):1	2096(charl):1	3724(maison):1	
+4	435(courtyard):1	533(renovate):1	745(building):1	8768(creole):1	
+4	42(pay):1	66(park):1	457(valet):1	1344(drawback):1	
+0	
+8	0(staff):1	31(front):1	43(leave):1	121(car):1	122(stop):1	422(polite):1	537(attentive):1	1079(trolley):1	
+11	6(breakfast):1	10(restaurant):1	54(door):1	117(dinner):1	174(serve):1	225(la):1	252(lunch):1	254(french):1	1483(bakery):1	1981(casual):1	10404(madeleine):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Maison St. Charles Quality Inn and Suites We just returned home from a 4 day New Year's Eve holiday and wedding. The staff at this older hotel were lovely, the accommodations were just as beautiful as the pictures. The location was fabulous, just a 10 minute trolley ride from the busy hustle of the French Quarter. We even walked it twice and it took less than 20 minutes, and felt safe walking even in the night. The rooms were spacious and clean, and had good service each day. The front desk clerk was friendly and helpful, they kept watch out for our missing luggage and kept it secure until we could pick it up. The hotel is right beside a french bakery/cafe and the staff there were super as well. I'd highly recommend this hotel, it was quiet and beautiful with 3 different courtyards to view from your rooms. Just a great holiday!!!  
+<Date>Jan 4, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	223(holiday):1	
+5	0(staff):1	45(beautiful):1	87(lovely):1	456(picture):1	721(accommodation):1	
+21	3(clean):1	8(day):2	9(service):1	15(recommend):1	17(view):1	39(return):1	45(beautiful):1	58(quiet):1	108(suite):1	111(spacious):1	138(highly):1	141(home):1	187(quality):1	223(holiday):1	324(inn):1	435(courtyard):1	604(wed):1	655(st):1	1787(eve):1	2096(charl):1	3724(maison):1	
+14	1(location):1	2(night):1	7(walk):2	29(minute):2	34(feel):1	137(safe):1	218(ride):1	220(busy):1	254(french):1	270(fabulous):1	347(twice):1	463(quarter):1	1079(trolley):1	1503(hustle):1	
+0	
+15	0(staff):1	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	245(watch):1	249(luggage):1	254(french):1	266(pick):1	276(miss):1	464(super):1	788(clerk):1	1034(secure):1	1350(beside):1	1483(bakery):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Wonderful, no complaints!!! My boyfriend and I have stayed here a few times on long weekends to New Orleans and we have had nothing but wonderful experiences at the Maison St. Charles. The staff is excellent and accomodating, and the pool and jacuzzi are available throughout the night (as long as your quiet!). I wouldn't have changed a thing!!!  
+<Date>Dec 1, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	48(wonderful):1	161(change):1	190(complaint):1	
+18	0(staff):1	2(night):1	5(time):1	21(excellent):1	22(pool):1	44(experience):1	48(wonderful):1	58(quiet):1	134(available):1	172(weekend):1	445(throughout):1	549(accomodate):1	588(orleans):1	655(st):1	763(boyfriend):1	808(jacuzzi):1	2096(charl):1	3724(maison):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very positive expeirence Just returned from a 3 night stay in New Orleans. I found the hotel to be clean, the staff to be friendly and helpful, and the location to be great. I was given the choice of switching to a lower fare room, which was supposed to be a bit smaller than the one I had reserved and on the ground floor, but suit my purposes just fine. The hotel is laid out motel style, but certainly does not have a motel feel. In fact, the inner courtyard is tastefully done, with a pool and trees with lights. The room was quiet and clean, the bed comfortable. I do not typically inspect rooms for minor flaws, however - so can't comment on little cracks or bubbles in the paint (as in previous review). I arrived back from Bourbon St. each night well into the early hours of the morning (that's another review), and was greeted each time by friendly staff members. Questions were quickly answered by the desk staff, and helpful suggestions made. A short streetcar ride and you are in the French Quarter. I would definitely stay here again when visiting New Orleans. It is a great value for the money.  
+<Date>Nov 23, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	2(night):1	34(feel):1	39(return):1	59(definitely):1	65(visit):1	326(style):1	458(positive):1	588(orleans):2	696(lay):1	991(motel):2	
+2	80(money):1	81(value):1	
+33	3(clean):1	11(bed):1	22(pool):1	23(little):1	24(floor):1	25(comfortable):1	37(review):1	52(bit):1	58(quiet):1	107(choice):1	113(fine):1	157(light):1	356(comment):1	373(previous):1	435(courtyard):1	506(reserve):1	620(suppose):1	706(grind):1	720(minor):1	777(lour):1	806(paint):1	828(tree):1	861(suit):1	888(switch):1	1112(fare):1	1411(crack):1	1428(purpose):1	1526(tastefully):1	1994(typically):1	2240(inner):1	2808(flaw):1	3272(bubble):1	4492(inspect):1	
+10	0(staff):1	1(location):1	3(clean):1	12(friendly):1	14(helpful):1	144(short):1	218(ride):1	254(french):1	463(quarter):1	2391(streetcar):1	
+0	
+17	0(staff):2	2(night):1	5(time):1	12(friendly):1	14(helpful):1	36(desk):1	37(review):1	53(arrive):1	56(morning):1	60(hour):1	394(question):1	415(greet):1	471(quickly):1	655(st):1	669(answer):1	921(suggestion):1	1038(bourbon):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Exceptional ! We had a wonderful experience at this hotel. Everything about it was great from the price, the rooms and the staff. They couldn't have been nicer or more willing to assist. I won't stay anywhere else. Just for your info...never, never go to the Quality Inn - Mid city.  
+<Date>Nov 17, 2004
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+5	4(nice):1	170(else):1	487(wo):1	837(exceptional):1	1265(assist):1	
+9	0(staff):1	19(price):1	41(city):1	44(experience):1	48(wonderful):1	187(quality):1	324(inn):1	1313(mid):1	1360(info):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Stujo4
+<Content>'Disappointing' from Missouri got it right.... I read the reviews here and booked Sat and Sun nights for an average of $99 each and thought I got a bargain until I checked in. They bought a city block and moved separate buildings on to it (all rooms have outside entrances, like a motel) and refurbished it all in 1984 and apparently not much has changed since. Peeling paint and just a general state of shabbiness abound. Our room was clean, but cracked bathroom tiles, cast iron headboards that bang on the wall when you sit on the bed, dim lighting (can't really see in the bathroom without the heat lamp on) and a lackadaisical staff made me decide that this wasn't a very good value. I think you can do better for the price in the Garden District and I know you can in the Central Business District. High point: Quick and courteous valet parking is only $14/day.  
+<Date>Nov 16, 2004
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	806(paint):1	1887(peel):1	4300(abound):1	11105(shabbiness):1	
+5	19(price):1	147(business):1	168(central):1	310(garden):1	433(district):2	
+30	0(staff):1	3(clean):1	11(bed):1	13(bathroom):2	41(city):1	81(value):1	98(outside):1	100(bloc):1	157(light):1	161(change):1	169(sit):1	183(wall):1	207(move):1	219(decide):1	280(buy):1	474(separate):1	490(entrance):1	539(heat):1	745(building):1	846(tile):1	863(apparently):1	868(iron):1	991(motel):1	1253(refurbish):1	1401(bang):1	1411(crack):1	1622(lamp):1	2048(dim):1	3408(headboard):1	5414(cast):1	
+4	66(park):1	299(quick):1	457(valet):1	483(courteous):1	
+0	
+0	
+11	2(night):1	18(book):1	32(check):1	37(review):1	88(read):1	154(disappoint):1	169(sit):1	227(average):1	420(sun):1	759(bargain):1	10385(missouri):1	
+0	
+
+<Author>Alibyrd
+<Content>Very Lucky Random Pick...Great Hotel! We just spent 2 nights at the Maison St. Charles  it was outstanding! Atmosphere reminded us of Paris , while not lavish, the room was great...clean, comfortable, quiet...a good deal for the price! Streetcar took us anywhere we needed to go for $5/day...can't beat that! We intend to go back for our 20th anniversary in 2 yrs!!  
+<Date>Oct 19, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	2(night):1	64(spend):1	266(pick):1	534(outstanding):1	655(st):1	797(lucky):1	2096(charl):1	3255(random):1	3724(maison):1	
+13	3(clean):1	19(price):1	25(comfortable):1	58(quiet):1	140(deal):1	403(paris):1	414(atmosphere):1	804(anniversary):1	1285(remind):1	1862(intend):1	1977(20th):1	3365(yrs):1	4199(lavish):1	
+0	
+2	442(beat):1	2391(streetcar):1	
+0	
+0	
+0	
+0	
+
+<Author>Karen-Ducharme
+<Content>Wonderful stay With the hurricane heading straight for New Orleans I had actually canceled my hotel reservations at Maison St.Charles, and couldn't rebook through the internet. I called Maison St. Charles on their 1-800 line and was told they would honor my original booking. When we arrived September 17th for our 8 night stay people were still coming back into the city after being evacuated. The staff was friendly and our room was quite nice, on the main floor with a lovely courtyard right outside the room. The Maison St. Charles is perfectly located, with Bourbon Street and the French Quarter an easy walk in one direction, and restaurants like the St. Charles Tavern and a wonderful Japanese restaurant in the other! A Walgreen's is just down the street, a nice walk in the evening to grab some munchies and a drink, and the St. Charles Tavern is open 24 hours as well, serving food and drink all hours of the day and night! Staying at the Maison St. Charles allowed us to leave the Bourbon Street strip for a quiet and beautiful retreat, a relaxing dip in the pool, and then a nice soak in the hot tub to relieve our sore feet from walking so much! The staff was always friendly and polite, and I knew that if we had any trouble with our room it would of been taken care of immediately! The room itself was a nice size, 2 queen size beds for 3 of us, a tv with full cable for the evenings when Bourbon Street was no longer a draw, and the best part, the sink and the toilet were in seperate rooms, so a person could be taking a shower while another person was using the sink to put on makeup or what have you. A bar on site allowed you to order drinks or beers and take them back to your room, or you could have them delivered for a small fee. They also had full service to the pool! The bakery right next door makes a wonderful rosemary herbed rotisserie chicken and the best spinach salad I have ever had, as well as a full menu of items from breakfast to dinner. Just make sure you make it to the Cafe Du Monde for coffee and beignets, and your stay in New Orleans will be complete!  
+<Date>Oct 13, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	2(night):1	26(people):1	41(city):1	53(arrive):1	972(september):1	2143(17th):1	7265(evacuate):1	
+0	
+27	0(staff):2	4(nice):2	11(bed):1	12(friendly):2	24(floor):1	35(street):1	61(shower):1	83(size):2	87(lovely):1	98(outside):1	112(main):1	116(tv):1	193(person):2	242(care):1	330(toilet):1	422(polite):1	435(courtyard):1	484(cable):1	489(immediately):1	509(sink):2	543(Queen):1	569(trouble):1	1003(evening):1	1038(bourbon):1	1416(seperate):1	1620(draw):1	2597(makeup):1	
+38	4(nice):1	7(walk):2	10(restaurant):2	22(pool):1	27(bar):1	35(street):2	43(leave):1	45(beautiful):1	48(wonderful):1	58(quiet):1	63(drink):1	84(locate):1	93(easy):1	114(hot):1	160(relax):1	192(site):1	254(french):1	311(tub):1	359(allow):2	395(direction):1	402(foot):1	443(beer):1	463(quarter):1	559(japanese):1	584(fee):1	595(perfectly):1	631(deliver):1	655(st):3	1038(bourbon):2	1379(strip):1	1468(soak):1	2096(charl):3	2244(re-treat):1	2272(dip):1	3351(relieve):1	3568(sore):1	3724(maison):2	6192(tavern):1	
+0	
+13	48(wonderful):1	97(internet):1	156(reservation):1	180(actually):1	588(orleans):1	655(st):1	827(straight):1	1065(cancel):1	1437(heading):1	1993(hurricane):1	2096(charl):1	3724(maison):1	7260(rebook):1	
+43	2(night):1	4(nice):1	6(breakfast):1	7(walk):1	8(day):1	9(service):1	16(food):1	18(book):1	22(pool):1	35(street):1	48(wonderful):1	54(door):1	60(hour):2	63(drink):2	67(call):1	69(tell):1	90(coffee):1	117(dinner):1	174(serve):1	188(line):1	275(cafe):1	423(menu):1	519(item):1	588(orleans):1	622(complete):1	655(st):2	909(salad):1	949(chicken):1	1139(grab):1	1270(original):1	1376(honor):1	1483(bakery):1	2096(charl):2	3724(maison):1	4164(monde):1	4842(munchy):1	5061(walgreen):1	6192(tavern):1	7230(herb):1	7624(spinach):1	8373(beignets):1	10327(rosemary):1	10433(rotisserie):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Maison St. Charles is wonderful! I cannot say enough about Maison St. Charles and the staff. We've just returned from a cruise and we stayed both before and after at Maison St. Charles. It was like being with family! Reasonably priced, great location in the Garden District and minutes from Bourbon St. The trolley is conveniently right out the front door. We'll stay there again!  
+<Date>Aug 26, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	39(return):1	48(wonderful):1	106(family):1	603(cruise):1	655(st):2	2096(charl):2	3724(maison):2	
+12	1(location):1	19(price):1	29(minute):1	31(front):1	54(door):1	310(garden):1	433(district):1	578(reasonably):1	655(st):1	1038(bourbon):1	1070(conveniently):1	1079(trolley):1	
+0	
+0	
+0	
+4	0(staff):1	655(st):1	2096(charl):1	3724(maison):1	
+0	
+0	
+
+<Author>kjtm
+<Content>Nice hotel We stayed at this hotel while in New Orleans for a convention. We stayed in a 2 bathroom suite, with a living room and a bedroom. The hotel location was nice, it was out of the hustle and bustle of the French Quarter, but right on the St. Charles streetcar line, so it was fairly easy to get anywhere (walk to convention center took about 15 minutes). Our room was weird, very large, and a strange mix of new and antique furnishings. We were on the top floor of one of the buildings, so we kind of felt like we were in the attic. The pool of the hotel was nice, a little small but nice. Jacuzzi was also nice, but broke the last day we were there. Loved the pastry shop being right next door. Yum! All in all a good experience.  
+<Date>Jul 1, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	4(nice):2	8(day):1	228(break):1	588(orleans):1	808(jacuzzi):1	1048(convention):1	3593(yum):1	
+1	44(experience):1	
+14	13(bathroom):1	24(floor):1	34(feel):1	108(suite):1	118(top):1	206(live):1	268(bedroom):1	609(mix):1	745(building):1	870(furnishings):1	1058(strange):1	1611(weird):1	1936(antique):1	4172(attic):1	
+22	1(location):1	4(nice):3	7(walk):1	22(pool):1	23(little):1	29(minute):1	40(love):1	49(shop):1	54(door):1	93(easy):1	101(center):1	188(line):1	254(french):1	462(fairly):1	463(quarter):1	652(pastry):1	655(st):1	1048(convention):1	1107(bustle):1	1503(hustle):1	2096(charl):1	2391(streetcar):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>The Best Hotel In New Orleans My husband and I only stay Maison St. Charles. The friendliest staff in New Orleans,always willing to go out of their way for you. The property is kept clean and don't forget about the murals on the outside wall. The valet is always prompt and courteous. Never will my husband nor myself stay in another hotel for business or pleasure. We will be back in July 04.  
+<Date>Jun 30, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	105(husband):1	588(orleans):1	655(st):1	2096(charl):1	3724(maison):1	
+0	
+0	
+10	3(clean):1	98(outside):1	105(husband):1	147(business):1	183(wall):1	214(property):1	397(forget):1	907(pleasure):1	970(nor):1	5975(mural):1	
+3	457(valet):1	483(courteous):1	1208(prompt):1	
+3	0(staff):1	12(friendly):1	588(orleans):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Maison St. Charles Quality Inn I Looked at a lot of places online and randomly picked Maison St. Charles because it was on the streetcar line and because LA MADELAINE'S was on the property. But I have to say they were quaint, clean, comfortable, quiet and everyone was friendly and kind. The front desk personnel and the valets were always helpful and Gene at PIERRE'S was a delightful person. Since I don't like large noisy hotels, this place was ideal...I will never stay anywhere in New Orleans but Maison St. Charles. My Kudos for a job well done.  
+<Date>Jun 29, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	217(noisy):1	481(job):1	545(ideal):1	588(orleans):1	655(st):1	2096(charl):1	3108(kudos):1	3724(maison):1	
+14	20(look):1	38(lot):1	187(quality):1	188(line):1	214(property):1	225(la):1	266(pick):1	324(inn):1	655(st):2	822(online):1	2096(charl):2	2391(streetcar):1	3724(maison):2	6830(randomly):1	
+5	3(clean):1	12(friendly):1	25(comfortable):1	58(quiet):1	1295(quaint):1	
+0	
+0	
+8	14(helpful):1	31(front):1	36(desk):1	193(person):1	457(valet):1	1176(delightful):1	1457(personnel):1	4581(pierre):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great stay at Maison St. Charles My recent stay at the Maison St. Charles couldn't have been more delightful. The entire staff was happy to assist me in any way possible during the busy Memorial Day weekend . And, hats off to the housekeeping and grounds staff as everything was kept very clean and comfortable. I would highly recommend this establishment and am looking forward to visiting again. This is definately the best place I've stayed in New Orleans.  
+<Date>Jun 19, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	15(recommend):1	20(look):1	65(visit):1	138(highly):1	410(definately):1	588(orleans):1	750(forward):1	1473(establishment):1	
+0	
+5	655(st):2	1064(recent):1	1176(delightful):1	2096(charl):2	3724(maison):2	
+8	0(staff):1	8(day):1	155(happy):1	172(weekend):1	220(busy):1	329(entire):1	1265(assist):1	2548(memorial):1	
+6	0(staff):1	3(clean):1	25(comfortable):1	285(ground):1	367(housekeeping):1	2175(hat):1	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good people, great stay! On my first trip to New Orleans, we rendezvoused with a newlywed couple who are friends of ours. We wanted to stay where they stayed, and after some research, my friends chose this property. I booked directly with the hotel after requesting an AAA rate.(Caveat: I was offered a room upgrade to a queen/king for about 33% more per night than what I was paying, but I declined. The clerk who took my reservation warned me that some guests had complained about the age and size of our room, but I chose to go with the budget accommodation.)Location: Not as close to the French Quarter or the Garden District as the promos would have you believe. Get ready for a 15 or 20 minute ride by streetcar to Bourbon/Canal. For the Garden District, it's a less rowdy ten-minute ride in the other direction.Services, such as drug stores, grocery stores or even convenience stores, are generally not to be found in this area. As another reviewer pointed out, the closest is Walgreens, which is a good ten minutes away.If you're really in a pinch, Office Depot (or OfficeMax) is literally a stone's throw away, and I suppose you could always pick up a bottle of Coke, a bag of candy and a laser printer here. These office superstores sell everything!In the positive column, a stop along the St. Charles streetcar line is across the street. Also across the street is a bank with ATM access. Considering how expensive New Orleans is, you better believe I made a daily trip to this ATM machine.(An ATM machine can also be found in the lobby of the hotel, along with a US Postal Service dropbox, but with the fee being charged, I opted for a 30-second walk across the street.)Wendy's and Popeyes are next door; a French bakery is the next-door neighbor on the opposite side of the hotel. A Delmonico restaurant in the Emeril Lagasse Empire chain is also across the street, next door to the bank.Overall, the streetcar stop and the restaurants work in favor of the hotel's location, but the lack of services nearby work against it, along with the distance to major attractions.Grade: BStaff: I didn't encounter too many of them, but the ones I encountered were fantastic. Although we showed up three hours early (during a holiday weekend, no less), we were told we may have to wait half an hour or an hour for housekeeping to finish before we could see our room. Ten minutes later, we were walking to the room.After meeting our friends, we were excited about heading out, but upon walking out the door, we discovered that the magnetic lock on the door was no longer, well, locking the door.When I spoke to the front desk about this issue, expecting to wait an hour or two in our room while we waited for maintenance, they dispatched a security person to our room immediately who offered to stand guard in front of the door until maintenance could arrive. He assured us that the door would be fixed and we would have no problems entering upon our return. And you know what? He was right.Finally, when my companion had a little accident in Nawlins, the graveyard-shift clerk was very helpful in procuring medical supplies we needed and offered to help in any way he could. On the spot, I wrote a letter to his manager to commend him.I don't care what others have written about the staff at this hotel (see below). If you can't find the elevator or missed the note in the room (near the phone!) about sheets being changed only if requested, then you're probably not the most observant hotel guest, anyway.I enjoyed my stay, and the staff helped make it memorable.Grade: AExtras/amenities: You're not going to find many at this property. Coke machines and snack machines are plentiful. There's a one-cup coffee maker in the room, along with an iron, small ironing board, and some toiletries.The pool is terrific if you're experiencing that New Orleans humidity and want to cool off before a night on the town.The barman knew his stuff, even if the bar never seemed open. (In New Orleans!?) I suppose he did open...from noon to 4 pm, maybe? When no one was looking?The best extra, though, had absolutely nothing to do with the hotel or its management. Less than a five minute walk away toward the Garden District is the St. Charles Tavern. Other reviewers have mentioned it, and with good reason.Our tour guide, a 30+ year resident of New Orleans, told us he eats breakfast every day at the St. Charles Tavern. And when you get an endorsement like that from a lifelong resident, you heed it.From the outside, it doesn't look like much. In fact, it looks like your friendly neighborhood dive bar. The first thing that will catch your eye is that the Tavern is Zagat-rated, something that your neighborhood dive probably isn't.Trust me when I say it's all good here--good drinks, good wait staff, good breakfast, good lunch, good dinner. And for New Orleans, at VERY competitive prices.We never hesitated to eat here and have a celebratory dinner. My college buddy and I met up for breakfast every morning at 7 am while the wife and girlfriend slept. If we felt hair of the dog, we would rather walk here than the Daiquiri Bar next door to the hotel.I am considering going to New Orleans again soon just to have a meal here.I cannot say enough nice things about the Tavern.Grade: B- on its own / B+ for the proximity to the St. Charles TavernRoom: The air conditioner rattled ALL NIGHT LONG. The room was about the size of some European ones where I've stayed. Everything seemed a little shabby and worn. The shower spat out cold and hot water with no rhyme or reason as you stood under a scalding or ice-cold spray.That's our room.Our friends' room was a queen deluxe that was spacious, well-appointed, fresh and new. It looked like a thousand other budget-to-moderate rooms where I've stayed on business.Trust me when I say that it's worth the extra to upgrade out of the ghetto. Pay the extra dollar for a queen or king deluxe. It's still a good deal for New Orleans.Grade: (Budget) C / (Deluxe) B+Value for your money: It's hard for me to say since it was my first trip to New Orleans. Overall, I enjoyed our stay, definitely felt like I got the best value for my dollar (yes, even after what I've written about our room), and loved the neighborhood and its proximity to what we wanted to see.The staff were great, the St. Charles Tavern is a big don't-miss, and the pool was welcome.I look forward, indeed, to staying here the next time I'm in New Orleans for some fun in the sun.Would I stay here again? You bet.Overall: B+ in the ghetto, A- for a queen/king room  
+<Date>Jun 14, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+53	4(nice):1	5(time):1	20(look):2	23(little):1	26(people):1	33(trip):2	39(return):1	54(door):1	80(money):1	99(couple):1	140(deal):1	146(friend):1	162(hard):1	176(fun):1	178(probably):1	213(meal):1	218(ride):1	244(mention):1	248(consider):1	308(maybe):1	310(garden):1	374(reason):1	393(pm):1	395(direction):1	418(soon):1	420(sun):1	421(neighbourhood):1	429(budget):1	433(district):1	434(wear):1	494(fix):1	540(catch):1	564(reviewer):1	588(orleans):6	601(enter):1	620(suppose):1	648(deluxe):1	750(forward):1	843(ours):1	977(eye):1	990(indeed):1	1309(noon):1	1319(shabby):1	1349(assure):1	1627(dive):1	1821(bet):1	1988(resident):1	2827(grade):1	3631(rowdy):1	5046(heed):1	6192(tavern):2	7883(rendezvous):1	10126(ten-minute):1	
+38	2(night):2	19(price):1	22(pool):1	33(trip):1	34(feel):1	40(love):1	42(pay):2	44(experience):1	51(enjoy):1	59(definitely):1	70(overall):1	81(value):1	89(offer):1	124(expensive):1	128(extra):1	163(upgrade):1	239(town):1	243(king):1	248(consider):1	250(yes):1	278(cool):1	312(believe):1	344(write):1	360(daily):1	421(neighbourhood):1	430(dollar):2	493(machine):1	543(Queen):1	588(orleans):3	648(deluxe):1	699(terrific):1	1114(proximity):1	2115(humidity):1	2394(decline):1	2405(atm):1	3279(competitive):1	3713(caveat):1	9003(queen):1	
+71	2(night):1	6(breakfast):1	7(walk):2	20(look):1	27(bar):1	29(minute):1	34(feel):1	54(door):1	56(morning):1	57(water):1	60(hour):3	61(shower):1	69(tell):1	70(overall):1	79(late):1	83(size):2	85(wait):1	90(coffee):1	91(guest):1	104(sleep):1	111(spacious):1	114(hot):1	146(friend):1	147(business):1	156(reservation):1	164(air):1	166(own):1	167(choose):1	172(weekend):1	184(wife):1	196(meet):1	197(fresh):1	222(cold):1	223(holiday):1	241(complain):1	283(half):1	367(housekeeping):1	374(reason):1	429(budget):1	444(stand):1	505(age):1	543(Queen):1	582(european):1	600(board):1	648(deluxe):1	655(st):1	657(toiletry):1	679(warn):1	721(accommodation):1	729(hair):1	772(finish):1	788(clerk):1	868(iron):2	994(girlfriend):1	996(maker):1	1083(conditioner):1	1099(spray):1	1114(proximity):1	1126(dog):1	1925(college):1	2096(charl):1	2440(well-appoint):1	2827(grade):1	3752(thousand):1	4511(rattle):1	4699(spit):1	4825(scald):1	4838(buddy):1	5502(ghetto):1	9003(queen):1	9074(daiquiri):1	
+59	1(location):2	7(walk):3	9(service):2	10(restaurant):2	20(look):1	28(close):2	29(minute):3	35(street):4	54(door):5	55(lobby):1	70(overall):1	98(outside):1	115(distance):1	122(stop):2	136(charge):1	146(friend):1	159(access):1	188(line):1	196(meet):1	218(ride):1	232(nearby):1	254(french):2	274(ready):1	310(garden):2	312(believe):1	315(major):1	349(lack):1	350(attraction):1	433(district):2	458(positive):1	463(quarter):1	493(machine):1	564(reviewer):1	584(fee):1	627(chain):1	655(st):2	774(lock):2	783(opposite):1	869(discover):1	934(neighbour):1	1038(bourbon):1	1136(excite):1	1184(opt):1	1225(bank):2	1437(heading):1	1483(bakery):1	1521(favor):1	1608(Empire):1	2096(charl):2	2391(streetcar):3	2405(atm):2	2549(walgreens):1	4471(wendy):1	5994(column):1	6192(tavern):1	8123(emeril):1	8257(magnetic):1	9614(next-door):1	12487(postal):1	
+0	
+72	0(staff):3	6(breakfast):1	8(day):1	18(book):1	22(pool):1	31(front):2	36(desk):1	47(eat):1	51(enjoy):1	53(arrive):1	54(door):1	60(hour):1	62(expect):1	69(tell):1	78(rate):1	85(wait):2	86(fantastic):1	89(offer):1	91(guest):1	92(help):1	127(speak):1	128(extra):1	148(request):2	161(change):1	178(probably):1	181(tour):1	189(absolutely):1	193(person):1	202(welcome):1	238(bottle):1	242(care):1	258(manager):1	265(issue):1	266(pick):1	276(miss):1	290(bag):1	317(spot):1	344(write):2	383(directly):1	417(anyway):1	444(stand):1	479(sheet):1	489(immediately):1	525(management):1	585(below):1	588(orleans):1	606(sell):1	620(suppose):1	641(security):1	655(st):2	665(literally):1	693(encounter):2	792(office):2	829(guide):1	917(throw):1	1149(maintenance):2	1205(memorable):1	1394(stone):1	1672(coke):1	1762(guard):1	1972(letter):1	1988(resident):1	2096(charl):2	2138(candy):1	2328(printer):1	2827(grade):1	4080(commend):1	5003(pinch):1	6077(depot):1	6192(tavern):2	9655(laser):1	11096(dispatch):1	
+47	0(staff):1	6(breakfast):1	9(service):1	12(friendly):1	14(helpful):1	20(look):1	23(little):1	27(bar):2	47(eat):1	63(drink):1	85(wait):1	89(offer):1	92(help):1	102(near):1	117(dinner):2	146(friend):1	167(choose):1	214(property):2	216(elevator):1	252(lunch):1	255(store):3	276(miss):1	296(phone):1	297(note):1	341(finally):1	406(snack):1	421(neighbourhood):1	480(stuff):1	493(machine):2	788(clerk):1	859(supply):1	902(hesitate):1	925(convenience):1	1024(research):1	1039(plentiful):1	1199(grocery):1	1402(trust):1	1627(dive):1	1672(coke):1	2256(drug):1	2408(medical):1	2827(grade):1	2998(companion):1	3213(accident):1	3315(barman):1	10934(procure):1	11607(nawlin):1	
+5	96(worth):1	128(extra):1	163(upgrade):1	1402(trust):1	5502(ghetto):1	
+
+<Author>A TripAdvisor Member
+<Content>Great Place for the Price I recently stayed at the Quality Inn  Suites St. Charles while in New Orleans for my graduation from Loyola University. I was nervous about this first trip to New Orleans, but I found the accomodations to be wonderful. The location was great, the 1900 block of St. Charles Street, next door to a Wendys and a Le Madeline Bakery, and within walking distance/Streetcar ride of several other restaurants. The streetcar stops right in front of the hotel, and the bank across the street from the hotel sells streetcar passes. The hotel staff were friendly and accomodating. I arrived before noon, and check-in was not til 3 PM, but the staff held my bags for the afternoon while I freshened up and went to explore the area. The room had a King sized bed, the A/C worked fine, there was cable TV, a swimming pool, and a cute courtyard right outside my room. Best of all, I could not hear the people in the rooms next door, so I was able to get some rest before going out on the town. I would gladly stay at this hotel again in the future!  
+<Date>May 18, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	732(future):1	2176(gladly):1	
+17	0(staff):1	12(friendly):1	19(price):1	33(trip):1	48(wonderful):1	108(suite):1	187(quality):1	322(recently):1	324(inn):1	549(accomodate):1	588(orleans):2	655(st):1	780(accomodation):1	1408(nervous):1	2096(charl):1	2381(university):1	5692(graduation):1	
+17	11(bed):1	22(pool):1	26(people):1	54(door):1	83(size):1	98(outside):1	113(fine):1	116(tv):1	132(hear):1	171(able):1	239(town):1	243(king):1	261(swim):1	288(rest):1	435(courtyard):1	484(cable):1	1202(cute):1	
+19	1(location):1	7(walk):1	10(restaurant):1	31(front):1	35(street):2	54(door):1	100(bloc):1	115(distance):1	122(stop):1	218(ride):1	400(pass):1	606(sell):1	655(st):1	1133(le):1	1225(bank):1	1483(bakery):1	2096(charl):1	2391(streetcar):2	9326(wendys):1	
+0	
+11	0(staff):1	53(arrive):1	286(check-in):1	290(bag):1	364(afternoon):1	393(pm):1	593(hold):1	594(explore):1	1309(noon):1	2196(til):1	2844(freshen):1	
+0	
+0	
+
+<Author>cfarina
+<Content>A Great Place To Stay The AAA book rated this hotel as a great value for the money. After spending a week here, I would have to agree. I also liked the fact that it wasn't in the French Quarter. It was nice to come back to a quiet area of town after being in the French Quarter. There was a good restaurant attached to the hotel Le Madeleine, and others within walking distance. The people at the hotel were pleasant and friendly.  
+<Date>Apr 28, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	12(friendly):1	26(people):1	64(spend):1	75(week):1	150(pleasant):1	254(french):1	463(quarter):1	473(agree):1	
+4	18(book):1	78(rate):1	80(money):1	81(value):1	
+5	4(nice):1	58(quiet):1	239(town):1	254(french):1	463(quarter):1	
+6	7(walk):1	10(restaurant):1	115(distance):1	1133(le):1	1224(attach):1	10404(madeleine):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Above average accommodations for the budget traveler I recently spent 6 days in New Orleans on a family vacation. My wife and I and our two small sons (4 and 6 yrs. old) stayed at the Maison St. Charles while in town.We had a non-smoking room with two queen size beds, poolside, 2nd floor. The room was clean, in good shape and, maybe, just slightly smaller than average but was plenty big for the four of us. It suited our needs just fine. The room was very quiet. At night you couldn't hear a thing. No street noise or sounds from adjacent rooms. There would be some noise from the pool occasionally but that was to be expected considering our room location.The front desk staff was friendly and helpful. Not only helping us with directions to a nearby restaurant one day but also giving us a coupon to the place. We didn't rent a car so it was very nice having the streetcar stop right in front of the hotel. We chose a hotel on St. Charles Ave. for that very reason.The Maison St. Charles is pretty centrally located between the three main attractions we wanted to see. The Audubon Zoo, The Aquarium of the Americas and the French Quarter. Using the St. Charles Streetcar it was easy to get to all theses places right from the front steps of the hotel.It was 15-20 minutes to the top of Audubon Park where you could then catch the free Zoo Shuttle bus to the zoo. It was probably only 10 minutes the other direction to Canal Street where you could easily walk to the Aquarium or the French Quarter.The one weak spot for the hotel, in my opinion, is the adjoing Le Madeliene (sp?) restaurant/bakery. The breakfast menu is decent (not great) but pricey for what you get. And the bakery fare (their supposed strong suit) was often day old tasting and none to special. For eating options while staying there I would highly recommend a stroll west on St. Charles Ave. the St. Charles Tavern (very good breakfast menu) or VooDoo BBQ are both just a block away. A few blocks farther in the same direction is Copeland's Cheesecake Grill and Igor's Garlic Clove Restaurant. Across the street is Emeril's Del Monico Restaurant but we were unable to eat there because it had a dress code and all we had packed were shorts and jeans.Overall I was satisfied with my stay at the Maison St. Charles Inn. I would just avoid the on sight food if possible. In a city like New Orleans you can easily do much better.  
+<Date>Apr 20, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+26	2(night):1	41(city):1	70(overall):1	132(hear):1	167(choose):1	239(town):1	254(french):1	317(spot):1	324(inn):1	374(reason):1	438(easily):1	463(quarter):1	588(orleans):1	655(st):3	704(opinion):1	899(satisfy):1	1133(le):1	1433(ave):1	1511(zoo):1	1770(weak):1	2096(charl):3	2157(aquarium):1	3470(sp):1	3724(maison):2	6164(americas):1	12089(adjoing):1	
+14	6(breakfast):1	8(day):1	64(spend):1	106(family):1	131(vacation):1	227(average):1	257(decent):1	267(traveler):1	322(recently):1	423(menu):1	429(budget):1	546(pricey):1	588(orleans):1	721(accommodation):1	
+33	1(location):1	3(clean):1	8(day):1	11(bed):1	22(pool):1	24(floor):1	35(street):1	58(quiet):1	62(expect):1	83(size):1	94(noise):2	113(fine):1	158(plenty):1	208(special):1	227(average):1	248(consider):1	308(maybe):1	409(sound):1	439(taste):1	543(Queen):1	573(none):1	598(slightly):1	620(suppose):1	861(suit):2	893(strong):1	978(nonsmoking):1	1061(adjacent):1	1112(fare):1	1226(shape):1	1326(2nd):1	1430(poolside):1	1483(bakery):1	2533(occasionally):1	
+46	4(nice):1	7(walk):1	10(restaurant):1	29(minute):2	31(front):2	35(street):2	46(free):1	47(eat):1	66(park):1	84(locate):1	93(easy):1	109(pretty):1	112(main):1	118(top):1	120(bus):1	121(car):1	122(stop):1	144(short):1	178(probably):1	184(wife):1	254(french):1	321(shuttle):1	350(attraction):1	366(step):1	395(direction):1	438(easily):1	463(quarter):1	540(catch):1	612(son):1	638(canal):1	655(st):2	715(pack):1	879(centrally):1	935(dress):1	1030(rend):1	1461(unable):1	1482(del):1	1511(zoo):2	2096(charl):2	2157(aquarium):1	2161(code):1	2391(streetcar):2	3365(yrs):1	3724(maison):1	3936(jeans):1	8123(emeril):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	
+27	6(breakfast):1	8(day):1	10(restaurant):3	15(recommend):1	16(food):1	47(eat):1	92(help):1	100(bloc):2	138(highly):1	232(nearby):1	336(option):1	395(direction):2	411(sight):1	423(menu):1	436(avoid):1	629(grill):1	655(st):2	953(west):1	1056(stroll):1	1433(ave):1	2072(bbq):1	2096(charl):2	2106(coupon):1	3031(cheese-cake):1	4596(garlic):1	6192(tavern):1	8198(voodoo):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>not bad This hotel was not bad. we arrived and the front desk staff was very nice, the valet parking people were nice. the property was cute once you got into the hotel part and away from wendys and all that junk. once you got into the courtyards and all that stuff you couldnt even tell that wendys was next door or it wasnt a private locale. one thing i was dissapointed about was all the pictures i saw were of cute little rooms in the old remodled townhouses. We ended up getting a room in one of the new add ons they had built. It was just a plain run of teh mill hotel room whcih was a little disapointing, to advoid this you can just call or not book through the government rate. it is only liek an extra 5 bucks to get the cute rooms. all over the stay was fine. The rooms were quiet and peaceful!  
+<Date>Apr 11, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	50(bad):2	113(fine):1	
+0	
+32	18(book):1	23(little):2	54(door):1	58(quiet):1	67(call):1	69(tell):1	78(rate):1	128(extra):1	135(build):1	149(run):1	351(add):1	435(courtyard):1	456(picture):1	480(stuff):1	492(private):1	1036(peaceful):1	1120(buck):1	1202(cute):2	1339(wasnt):1	1371(dissapoint):1	1528(couldnt):1	1546(plain):1	2513(disapoint):1	3284(government):1	3655(teh):1	4125(mill):1	4349(locale):1	6178(townhouse):1	8387(whcih):1	9326(wendys):1	11294(ons):1	12280(remodl):1	
+0	
+0	
+8	0(staff):1	4(nice):2	26(people):1	31(front):1	36(desk):1	53(arrive):1	66(park):1	457(valet):1	
+4	214(property):1	1202(cute):1	4293(junk):1	9326(wendys):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Needs improvement, will not go back  I made my vacation arrangements through vacationsmadeeasy. They did a great job on the attractions, and I'd suggest them. I had chose another hotel, but it was completely booked. I was given the choice, one being a downtown hotel, and another being the Maison St. Charles hotel. I chose this hotel. It is located, not in the Garden District, as the ad states, but in the cut-off at the Central Business District, which isn't close to anything. It is on a street car stop, (but so is Lady Foot Locker on Canal Street), get my point? I had my 13 year old son with me, and had planned on this trip for awhile. I figured anything would be better than staying at a youth hostel, as I had 15 years ago in New Orleans. I had called them twice, and told them what time I'd be arriving. They had the hotel room ready. They gave me my keycard, and told me where the room was, without offer to help me with my baggage. We lugged our luggage up three huge flights of stairs, and then, we found the elevator, again, no one told us where anything was, only how to get to the room. In the room, the two double beds were nearly together. The t.v. is housed in a nice wood entertainment center, with two drawers beneath it. Next to this, is a desk, a chair. I forgot to add, that near the bed, is a small round table, with a chair. Beside the desk, around a small alcove, is a vanity, with a roomy sink, a safe which I did not utilize, and then, there's the bathroom. Also included is an area to hang clothes. We had ridden on two planes to get to New Orleans. We were very much experienced with air plane bathrooms. Having stayed at a Quality Inn Suite hotel before, I expected a more spacious bathroom. I knew what to expect reading some of the reviews here. I went to the bathroom, and the door, when opens, misses the toilet seat by an inch and a half. The bathroom measures a whole 5 foot by 3 feet, not including the tub, which is small, also. The tub has a shower massge by Water Pick. I drink hot tea, and the first thing I do when I go into hotel rooms is to run clear water through the coffee machine. I did, and I did it three times. By the third time, the thing still smelled and tasted like coffee, infact, the water had a brownish tone. New Orleans has good tasting water, so I knew it wasn't coming from the faucet. Also, on the vanity, I forgot to mention, is a coffee maker that's dirty, and a small baggie of condiments. No where is there any tea bags. Infact, the nearest place to buy resonably priced items of convience is at 1821 St. Charles, at Wal-greens. You'd think a hotel of the company owned by Quality Inn, knowing there's no conviences availabe anywhere near them, would atleast provide, even with purchase, and women, you know what I'm talking about here cause we all need things, would atleast have a vending machine or something, to make them easy to purchase. Not just teabags, but other items. Other Qualtiy Inn's I've stayed at has had this to purchase. I accepted the small sized room, and dealt with it. I accepeted not being helped with luggage. Then, the big one. My 13 year old son had collected river rocks, and some beads along St. Charles Avenue. We had laid them in a pile on the night stand, and left the next morning for some tours. We came back that evening, and they weren't there! I looked everywhere. They were not to be found. (I have filed a complaint, by the way, I'm not being picky, but that isn't fair). The room was cold at night. Even with heat, it was cold. No extra blankets, anywhere. I have another item to mention, on the same lines: We had eaten muffins in our room, no where near the bed, but in the two seperate chairs. We then left to do more tours. When we came back, after a full wonderful day, we were ready to get to bed. I unmade my son's bed, and there was a stain that appeared to be chocolate, on the bottom sheet! I called the front desk twice, for new sheets. When the man brought up the sheets, he gave them to me, and said, Here's your sheets,  and walked away. When I brought the sheets into the room and unmade the bed myself (remember, we had nothing to do with the stain), there were two top sheets! We struggled with them, but we got the bed made. You would think that my sheets would have been remade by the staff. But that did not occur. The hotel does have a bar, and an outside pool. It also has a courtyard, which is pretty, and has wrought-iron tables and chairs. The pool was very clean, and there's a hot tub which was also very clean. The bar serves most drinks, including the popular frozen hurricanes, which are 5.50. At St. Charles Tavern, down the street, they are 4.00, and very high quality. I chose not to eat at the hotel restuarant, but we did eat at St. Charles Tavern, and it was awesome food. Check out their belgium waffles, which are to die for! While I love New Orleans, I will not be staying at this hotel. I have filed complaints to them already. If you're considering New Orleans, go for it, it's a wonderful town, but, do not choose this hotel. Try everything, and eat all the good food. We did, and when we weren't at the hotel, we had a great time!   
+<Date>Mar 29, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+50	2(night):1	5(time):3	20(look):1	33(trip):1	37(review):1	40(love):1	43(leave):2	48(wonderful):1	53(arrive):1	56(morning):1	57(water):1	62(expect):1	67(call):1	69(tell):1	71(include):1	88(read):1	128(extra):1	167(choose):2	181(tour):2	190(complaint):1	218(ride):1	221(plan):1	222(cold):1	239(town):1	248(consider):1	324(inn):1	347(twice):1	350(attraction):1	439(taste):1	444(stand):1	452(suggest):1	478(hang):1	481(job):1	539(heat):1	588(orleans):5	612(son):1	633(ago):1	696(lay):1	709(clothe):1	779(figure):1	887(purchase):1	968(plane):1	1369(blanket):1	1560(hostel):1	2283(occur):1	2755(awhile):1	2823(faucet):1	2886(pile):1	3110(file):1	3525(youth):1	
+18	19(price):1	35(street):1	102(near):1	107(choice):1	131(vacation):1	187(quality):1	280(buy):1	334(downtown):1	519(item):1	655(st):3	1415(arrangement):1	1486(improvement):1	2096(charl):3	3724(maison):1	4096(infact):1	6192(tavern):1	7878(convience):1	8139(resonably):1	
+88	2(night):1	4(nice):1	8(day):1	11(bed):7	13(bathroom):5	36(desk):2	44(experience):1	47(eat):1	48(wonderful):1	54(door):1	57(water):1	61(shower):1	62(expect):1	69(tell):2	71(include):1	83(size):1	89(offer):1	92(help):1	101(center):1	102(near):2	108(suite):1	109(pretty):1	111(spacious):1	118(top):1	133(huge):1	137(safe):1	140(deal):1	142(bring):1	164(air):1	179(double):1	187(quality):1	188(line):1	190(complaint):1	198(chair):4	216(elevator):1	222(cold):1	229(table):2	233(flight):1	244(mention):1	249(luggage):1	266(pick):1	274(ready):2	276(miss):1	281(house):1	283(half):1	311(tub):2	324(inn):1	330(toilet):1	340(entertainment):1	351(add):1	375(remember):1	397(forget):1	402(foot):2	435(courtyard):1	479(sheet):3	504(seat):1	509(sink):1	519(item):1	541(appear):1	568(stair):1	612(son):1	632(chocolate):1	723(stain):2	739(fair):1	850(bottom):1	896(nearly):1	926(picky):1	968(plane):1	1247(accept):1	1260(muffin):1	1327(wood):1	1350(beside):1	1353(roomy):1	1416(seperate):1	1426(drawer):1	1688(inch):1	1783(baggage):1	1979(struggle):1	2127(vanity):1	2366(t.v):1	2911(measure):1	2929(lug):1	3022(utilize):1	3110(file):1	4032(beneath):1	5026(alcove):1	5044(keycard):1	7619(unmade):2	
+29	7(walk):1	22(pool):1	27(bar):1	28(close):1	35(street):2	84(locate):1	98(outside):1	121(car):1	122(stop):1	142(bring):1	147(business):1	168(central):1	310(garden):1	402(foot):1	433(district):2	479(sheet):2	521(lady):1	612(son):1	638(canal):1	655(st):1	710(river):1	773(rock):1	1090(avenue):1	1889(collect):1	2096(charl):1	3446(locker):1	3538(ad):1	5908(bead):1	12772(cutoff):1	
+18	3(clean):2	5(time):1	22(pool):1	57(water):1	90(coffee):2	114(hot):1	231(smell):1	244(mention):1	311(tub):1	323(dirty):1	397(forget):1	439(taste):1	532(third):1	996(maker):1	2127(vanity):1	2596(tone):1	4096(infact):1	8463(condiment):1	
+11	0(staff):1	31(front):1	32(check):1	36(desk):1	67(call):1	347(twice):1	479(sheet):2	1264(die):1	1557(waffle):1	6374(belgium):1	8838(remake):1	
+29	16(food):2	18(book):1	27(bar):1	47(eat):3	57(water):1	63(drink):2	71(include):1	76(try):1	90(coffee):1	92(help):1	114(hot):1	149(run):1	167(choose):2	174(serve):1	249(luggage):1	290(bag):1	301(tea):2	348(awesome):1	493(machine):1	519(item):1	542(completely):1	655(st):1	1277(popular):1	1321(freeze):1	1993(hurricane):1	2096(charl):1	2114(restuarant):1	6192(tavern):1	9313(teabags):1	
+16	93(easy):1	102(near):1	153(provide):1	166(own):1	187(quality):1	324(inn):1	371(talk):1	493(machine):1	566(woman):1	760(company):1	887(purchase):2	943(cause):1	2454(vend):1	4711(atleast):2	7878(convience):1	9791(availabe):1	
+
+<Author>bartonsark
+<Content>Little snug for 4 people to share We just stayed in the Maison St Charles for 3 nights in March 2004. It is a nice hotel for a good price ($100/night if booked online) in a convenient location. It comprises of 4 renovated buildings each with their own little courtyard where you can sit outside at the tables and chairs. It is set back from the main road outside (St Charles Ave) and was surprisingly quiet. The valet parking is $12 a day and little slow so don't ask your car in a hurry! Adjacent is a La Madeleine cafe, and on the other side a Wendy's. Opposite is one of Emeril's restaurant and a KFC! There is a bar onsite but it was only open on the Saturday night during our stay so don't rely on it. The best advantage is that the St Charles Ave streetcar runs right outside the hotel which takes you to Canal St - best bet is to buy a day pass onboard for $5. It was close enough to the action without being right there on top of it and paying the price for it! Our party was 4 adults and a toddler staying in his own pack-n-play. It was a small double double room by US standards and we were very tight on space. But it was clean, the beds were comfortable and the curtains blocked out all light. Overall the room was well insulated against noise however we were in a non-smoking room but the adjoining room was a smoking and we could occassionally smell it seeping through the adjoining door! We would definitely stay here again but get 2 rooms instead for the number of people travelling.  
+<Date>Mar 18, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	2(night):1	23(little):1	26(people):1	166(own):1	363(party):1	520(share):1	556(adult):1	615(march):1	940(St):1	2096(charl):1	2883(toddler):1	3724(maison):1	7364(snug):1	
+10	1(location):1	4(nice):1	18(book):1	19(price):2	28(close):1	42(pay):1	118(top):1	186(convenient):1	822(online):1	958(action):1	
+33	3(clean):1	11(bed):1	23(little):1	25(comfortable):1	26(people):1	58(quiet):1	59(definitely):1	68(travel):1	98(outside):2	112(main):1	130(standard):1	157(light):1	166(own):1	169(sit):1	179(double):2	198(chair):1	210(space):1	229(table):1	230(road):1	234(set):1	335(numb):1	353(instead):1	435(courtyard):1	533(renovate):1	743(curtain):1	745(building):1	940(St):1	1375(surprisingly):1	1399(tight):1	1433(ave):1	1898(block):1	2096(charl):1	4564(comprise):1	
+28	2(night):1	8(day):2	10(restaurant):1	23(little):1	27(bar):1	66(park):1	98(outside):1	121(car):1	149(run):1	280(buy):1	400(pass):1	455(slow):1	457(valet):1	638(canal):1	783(opposite):1	818(saturday):1	867(advantage):1	940(St):2	1433(ave):1	1821(bet):1	2096(charl):1	2265(hurry):1	2327(rely):1	2391(streetcar):1	2629(onsite):1	5175(kfc):1	8123(emeril):1	12209(onboard):1	
+10	54(door):1	70(overall):1	94(noise):1	231(smell):1	468(smoke):1	978(nonsmoking):1	1412(adjoin):2	2434(insulate):1	7068(seep):1	7876(occassionally):1	
+0	
+5	225(la):1	275(cafe):1	1061(adjacent):1	4471(wendy):1	10404(madeleine):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Loved the Maison St Charles Quality Inn Since this was our first time to New Orleans we were somewhat unsure as to where we should stay. I looked on the Choice Hotels web site and found that the Maison St. Charles Quality Inn had received the gold host award. After a couple of phone calls I booked with them mainly because of the treatment of their reservation personnel. I was not a hurried call and the lady spent plenty of time explaining all our options and what the property could offer our group, the best way to get from the airport, then three days later they arranged for us to get to our cruise ship. We found the property nicely laid out and although some of the buildings are older historic buildings don脗 t be put off by that because the rooms are beautifully appointed and very ample in size. Cleanliness of the property was absolutely superb. We selected some tours that was offered in the New Orleans area and was set up for us by the hotels concierge (Tony) what a fabulous person to work with and Tony really adds value with his knowledge and willingness to make our vacation an enjoyable one. Set them up through him because he got us a better rate than on the brochure. He set us up with an airboat swamp tour through Ragin Cagin Tours with transportation to and from the airboat included, and a Battlefield tour on the Creole Queen. Both come highly recommended. The St Charles Street Car Line runs right in front of the hotel with very easy boarding and alighting opportunities and offers a short and historic ride to the French Quarter. Tony also recommended a number of excellent restaurants to us. The one that sticks out in my mind is on Iberville St. in the French Quarter, called Deanies. The fish platter that we ordered was suppose to feed 4, but I think it would of fed 6 easy, the catfish, soft shell crab, and shrimp were cooked to perfection, fried but not at all greasy. The boiled red potatoes served as an appetizer were a welcome change to other restaurants. Would I stay here again? I sure would. Thanks for a great but too of short stay in New Orleans. We will be back.  
+<Date>Mar 2, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+29	15(recommend):1	67(call):1	78(rate):1	93(easy):1	138(highly):1	144(short):1	234(set):1	254(french):1	271(thank):1	294(mind):1	463(quarter):1	550(cook):1	584(fee):1	588(orleans):1	589(soft):1	620(suppose):1	653(fish):1	655(st):1	688(stick):1	1009(fry):1	1826(shrimp):1	2001(brochure):1	2269(perfection):1	2373(feed):1	2424(shell):1	3193(crab):1	3462(platter):1	3665(greasy):1	5094(iberville):1	
+33	5(time):1	20(look):1	40(love):1	81(value):1	89(offer):1	107(choice):1	131(vacation):1	181(tour):1	187(quality):2	192(site):1	193(person):1	204(concierge):1	234(set):1	270(fabulous):1	302(receive):1	324(inn):2	351(add):1	567(enjoyable):1	588(orleans):2	651(somewhat):1	655(st):1	940(St):1	1019(web):1	1283(host):1	1294(select):1	1571(gold):1	2096(charl):2	2148(knowledge):1	2945(award):1	3145(unsure):1	3540(tony):2	3724(maison):2	6340(willingness):1	
+40	5(time):1	8(day):1	31(front):1	35(street):1	64(spend):1	67(call):1	79(late):1	83(size):1	89(offer):2	93(easy):1	95(airport):1	121(car):1	144(short):1	149(run):1	158(plenty):1	188(line):1	214(property):2	218(ride):1	254(french):1	336(option):1	404(nicely):1	463(quarter):1	521(lady):1	579(appoint):1	600(board):1	603(cruise):1	680(arrange):1	696(lay):1	745(building):2	768(explain):1	771(beautifully):1	908(don):1	940(St):1	1235(opportunity):1	1274(historic):2	1341(ample):1	1392(ship):1	2096(charl):1	2265(hurry):1	11952(alight):1	
+7	71(include):1	181(tour):3	234(set):1	543(Queen):1	728(transportation):1	4335(swamp):1	8768(creole):1	
+4	189(absolutely):1	214(property):1	407(superb):1	854(cleanliness):1	
+8	18(book):1	67(call):1	99(couple):1	156(reservation):1	296(phone):1	1147(treatment):1	1177(mainly):1	1457(personnel):1	
+12	10(restaurant):2	15(recommend):1	21(excellent):1	161(change):1	174(serve):1	202(welcome):1	335(numb):1	590(red):1	1597(appetizer):1	1598(boil):1	2027(potato):1	3540(tony):1	
+0	
+
+<Author>morninglorie
+<Content>Very nice stay at the Maison St. Charles My husband and I recently (01/2004) stayed at the Maison St Charles. We learned of this hotel while searching the trip advisor website and found that it is certainly a treasure in New Orleans. Situated right on the St. Charles trolley line, it is a quick ride to the French Quarter as well as only a couple of blocks walk to the D-Day Museum and the Ogden and Confederate Museums. The location is great! The room was clean, the desk staff friendly and very helpful, and it is a great value compared with the prices of other New Orleans hotels. (An even better deal if you go to the Quality Inn website and book using the internet rate!). I would certainly stay here again.  
+<Date>Feb 10, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	4(nice):1	105(husband):1	322(recently):1	655(st):1	940(St):1	2096(charl):2	3724(maison):2	
+9	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	19(price):1	36(desk):1	81(value):1	381(compare):1	588(orleans):1	
+0	
+21	1(location):1	7(walk):1	33(trip):1	99(couple):1	100(bloc):1	188(line):1	218(ride):1	254(french):1	262(website):1	299(quick):1	463(quarter):1	507(museum):2	574(situate):1	588(orleans):1	655(st):1	701(advisor):1	703(learn):1	1079(trolley):1	1248(search):1	2096(charl):1	2980(treasure):1	
+0	
+0	
+7	18(book):1	78(rate):1	97(internet):1	140(deal):1	187(quality):1	262(website):1	324(inn):1	
+0	
+
+<Author>clarkjohnston
+<Content>Great place to stay! This was a great place to stay. Everything was clean, the staff was very friendly and the pool was great (we didn't realize how hot it was in New Orleans!) I would definately recommend this hotel and will stay there again. Very convenient to be close to the streetcar.  
+<Date>Feb 8, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	15(recommend):1	410(definately):1	
+0	
+0	
+3	28(close):1	186(convenient):1	2391(streetcar):1	
+7	0(staff):1	3(clean):1	12(friendly):1	22(pool):1	114(hot):1	588(orleans):1	607(realize):1	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Wonderful Hotel My husband and I stayed at the Maison St. Charles from 1/8/04-1/11/04 and had a great time. The rooms were clean and the service was great. The parking is VERY cheap for New Orleans and you drive into the hotel area to get to the valet instead of waiting in line on the street. The valet staff were quick and friendly and made sure we knew where they parked our vehicle which was behind a tall locked iron gate way off the street. Very safe and very, very convenient. They have on-site security 24 hours. There was a very nice lighted courtyard outside the small bar. Our room was right off the Court Yard and our door opened right to it. I imagine it would be great during the spring and summer. La Madeline provides room service and are right next door. There are plenty of restaurants and pubs within walking distance. It was very New Orleans and we loved it. The streetcar runs 24 hours per day right across the street, so getting to the Quarter was no problem. Very reasonable rates. We stayed three days and paid $200.00 TOTAL for room and parking. I would recommend this hotel to anyone and will definetly stay there again. I was very pleasantly surprised.  
+<Date>Jan 15, 2004
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+19	5(time):1	15(recommend):1	40(love):1	48(wonderful):1	78(rate):1	105(husband):1	137(safe):1	186(convenient):1	199(surprise):1	273(reasonable):1	588(orleans):1	655(st):1	733(imagine):1	747(pleasantly):1	853(summer):1	1162(spring):1	1964(definetly):1	2096(charl):1	3724(maison):1	
+4	8(day):1	42(pay):1	66(park):1	786(total):1	
+15	3(clean):1	4(nice):1	9(service):2	27(bar):1	54(door):2	60(hour):1	98(outside):1	153(provide):1	157(light):1	225(la):1	435(courtyard):1	641(security):1	1068(court):1	1307(yard):1	2484(on-site):1	
+27	0(staff):1	7(walk):1	8(day):1	10(restaurant):1	12(friendly):1	35(street):3	60(hour):1	66(park):2	85(wait):1	115(distance):1	143(cheap):1	149(run):1	158(plenty):1	188(line):1	298(drive):1	299(quick):1	353(instead):1	457(valet):2	463(quarter):1	588(orleans):1	774(lock):1	868(iron):1	992(gate):1	1393(pub):1	1626(tall):1	1951(vehicle):1	2391(streetcar):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Stay over Sugar Bowl Weekend We stayed at the Maison St. Charles on one of the busiest weekends of the year. The rooms were decent, although we had a smoking room (all that was left) and the 'fumigation' still left the stench in the room. Rooms were relatively clean (bathrooms were a bit dingy) but the best thing was the management, which was quite responsive to all requests. Rowdy football fans at 1am were quickly quieted down, and they accomodated us with a change of room without any hastle. Good location, on the edge of the Garden district, and a 15 minute walk to the French Quarter (best not done at night). Overall, a satisfactory experience. Ask for General, he was very helpful in pointing out all the good night locations and 'non-touristy' sights of the city.  
+<Date>Jan 12, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+3	44(experience):1	70(overall):1	2059(satisfactory):1	
+21	3(clean):1	13(bathroom):1	43(leave):2	52(bit):1	58(quiet):1	148(request):1	161(change):1	257(decent):1	468(smoke):1	471(quickly):1	525(management):1	549(accomodate):1	661(fan):1	913(relatively):1	1749(dingy):1	2351(responsive):1	2363(football):1	3631(rowdy):1	3823(stench):1	8726(1am):1	11004(hastle):1	
+19	1(location):2	2(night):2	7(walk):1	14(helpful):1	29(minute):1	41(city):1	172(weekend):2	220(busy):1	254(french):1	310(garden):1	411(sight):1	433(district):1	463(quarter):1	655(st):1	1190(edge):1	1366(bowl):1	2096(charl):1	2113(sugar):1	3724(maison):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nice Hotel with lots of character This hotel, located on the edge of New Orleans' Garden District, is a wonderful experience when visiting this wonderful city. The rooms occupy four old town houses built during the mid-1800's. A small courtyard/garden area adds to the charm and character. The room was very clean and comfortable and the staff was friendly. Very affordable for a hotel that offers valet parking. The location is great also. It is only a short streetcar ride to the French Quarter, which we found very convenient. The streetcar only costs $1.25 each way. If you prefer to drive and park in the French Quarter, parking is $13 dollars for the day. One of Emeril's restaurants is located across the street from Maison St. Charles, and the D-Day Museum and the Southern Art Museum are within walking distance. While in New Orleans, I'd highly recommend having a beignet and cafe au lait at the Cafe du Monde on Decatur St. Makes a wonderful breakfast. The Maison St. Charles is a great value and very convenient for enjoying a trip to New Orleans.  
+<Date>Jan 7, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+28	4(nice):1	8(day):1	33(trip):1	38(lot):1	41(city):1	44(experience):1	48(wonderful):2	51(enjoy):1	65(visit):1	66(park):2	81(value):1	84(locate):1	175(cost):1	186(convenient):1	254(french):1	298(drive):1	310(garden):1	430(dollar):1	433(district):1	463(quarter):1	536(prefer):1	588(orleans):2	655(st):1	1049(character):1	1190(edge):1	2096(charl):1	2391(streetcar):1	3724(maison):1	
+12	0(staff):1	3(clean):1	12(friendly):1	25(comfortable):1	135(build):1	239(town):1	281(house):1	332(charm):1	351(add):1	435(courtyard):1	1049(character):1	1678(occupy):1	
+23	1(location):1	7(walk):1	10(restaurant):1	35(street):1	66(park):1	84(locate):1	89(offer):1	115(distance):1	144(short):1	186(convenient):1	218(ride):1	254(french):1	457(valet):1	463(quarter):1	507(museum):2	655(st):1	789(art):1	1062(affordable):1	2096(charl):1	2391(streetcar):1	2502(southern):1	3724(maison):1	8123(emeril):1	
+0	
+0	
+11	6(breakfast):1	15(recommend):1	48(wonderful):1	138(highly):1	275(cafe):2	588(orleans):1	655(st):1	2716(au):1	4164(monde):1	6222(decatur):1	8410(lait):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>The Essence of New Orleans My husband and I stayed at the Maison St. Charles for three nights this past week (November 4 - 7). It was our first time to New Orleans and we were not disappointed. The hotel's charm and character helped us experience New Orleans. Too many hotels today make you feel like you haven't left your own city - not so here. The room had two queen beds with very comfortable mattresses. The iron headboards and patterned bedspreads helped with the New Orleans ambiance. The textured wall treatments added warmth and comfort. The court yard that our room opened up on was surrounded by palm trees and flowering bushes that held a wonderful scent. The staff were very friendly and the location lends itself to experiencing all that New Orleans has to offer.  
+<Date>Nov 11, 2003
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+16	2(night):1	5(time):1	34(feel):1	41(city):1	43(leave):1	75(week):1	105(husband):1	154(disappoint):1	166(own):1	419(past):1	588(orleans):2	655(st):1	999(november):1	2096(charl):1	3724(maison):1	4676(essence):1	
+10	0(staff):1	1(location):1	12(friendly):1	44(experience):2	89(offer):1	92(help):1	332(charm):1	588(orleans):2	1049(character):1	3293(lend):1	
+11	11(bed):1	25(comfortable):1	92(help):1	543(Queen):1	588(orleans):1	847(mattress):1	868(iron):1	957(ambience):1	2278(bedspread):1	3408(headboard):1	4483(pattern):1	
+15	48(wonderful):1	183(wall):1	351(add):1	593(hold):1	667(surround):1	702(comfort):1	778(flower):1	828(tree):1	987(palm):1	1068(court):1	1147(treatment):1	1307(yard):1	2560(warmth):1	2870(scent):1	3653(bush):1	
+0	
+0	
+0	
+0	
+

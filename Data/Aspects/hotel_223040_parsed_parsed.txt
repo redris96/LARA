@@ -1,0 +1,574 @@
+<Author>Roombaguy
+<Content>Consistantly brilliant After a few stays, this hotel is consistantly brilliant. Staff is friendly and always helpful. Location is great for business travelors to the financial district.  
+<Date>Dec 14, 2008
+<Rating>5	5	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	793(brilliant):2	9040(consistantly):2	
+0	
+0	
+5	1(location):1	147(business):1	433(district):1	1746(financial):1	10815(travelor):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>Arlowe
+<Content>Superb facilities Clean, large, very well equipped room. Top notch staff. An excellent choice for a business stay. Not much in the immediate area with respect to restaurants and bars but South Beach isn't very far by cab  
+<Date>Aug 4, 2008
+<Rating>5	4	5	3	5	4	4	5	
+<Aspects>
+0	
+3	21(excellent):1	107(choice):1	147(business):1	
+4	3(clean):1	211(facility):1	407(superb):1	884(equip):1	
+0	
+0	
+3	0(staff):1	118(top):1	1227(notch):1	
+7	10(restaurant):1	27(bar):1	30(beach):1	380(cab):1	769(south):1	1389(respect):1	1761(immediate):1	
+0	
+
+<Author>michiruo
+<Content>Usual 5 star treatment from Marriott JW Marriott has always been known to be a business and 5 star hotel. Comfort, service and hotel amentities definitely delivers. Location is ok but if you want to be near the beach, probably not. Walking distance to restaurants like Morton, porcao. Valet per night costs about US$30. Budget traveller will find that hotel price is high. If you do not have restricted budget, definitely try this.  
+<Date>Aug 3, 2008
+<Rating>5	4	4	3	5	4	5	5	
+<Aspects>
+4	59(definitely):1	76(try):1	429(budget):1	4113(restrict):1	
+12	2(night):1	19(price):1	103(star):2	147(business):1	175(cost):1	267(traveler):1	429(budget):1	457(valet):1	618(marriott):2	682(usual):1	1147(treatment):1	3048(jw):1	
+0	
+9	1(location):1	7(walk):1	10(restaurant):1	30(beach):1	102(near):1	115(distance):1	123(ok):1	178(probably):1	6948(morton):1	
+0	
+0	
+5	9(service):1	59(definitely):1	631(deliver):1	702(comfort):1	6829(amentity):1	
+0	
+
+<Author>Rmacari
+<Content>Great place to stay Located at Brickel Avenue the JW Mariott was my best choice to stay so far. Great staff, excellent location and a comfortable room make this hotel the best choice in Miami.  
+<Date>Jul 7, 2008
+<Rating>5	5	5	5	5	5	4	4	
+<Aspects>
+0	
+6	0(staff):1	1(location):1	21(excellent):1	25(comfortable):1	107(choice):1	1095(miami):1	
+0	
+5	84(locate):1	107(choice):1	1090(avenue):1	3048(jw):1	5469(mariott):1	
+0	
+0	
+0	
+0	
+
+<Author>Navy_Lady
+<Content>Great Deal, Great Service, All-around Great experience! I'm actually a die-hard Hilton Honors fan; however, the rate at Marriott was better than the Conrad in Miami so I went ahead and tried it.Let me first tell you that this hotel is one of the best I've experienced. Clean, large, well equipped room. Top-of-the-line amenities (soap, lotion, mouthwash, shampoo, conditioner, shower gel); free bottled water and coffee/tea service; 42 plasma wall-mounted TV; FREE internet in the room; awesome views of the city; comfy but firm bed with crisp white smooth linens and lots of pillows; great room service ... really very pleasant stay!Within two blocks, there is access to the free metro mover which takes you pretty much every where you'd like to go. Went from the downtown/Brickell area to the port area to the shopping at Bayside. Very convenient, FREE, and lots of bang for the buck (LOL! shopping queen here). Right next door to Gordon Biersch which was very nice to have a variety of cold beers and then be able to walk back across the street to the JW Marriott. Also across the street from Morton's Steakhouse, if that's what you're into (I'm not, since I'd much rather BBQ my own ranch-raised steers than pay for their overpriced a la carte steak dinners).Last, I do have one suggestion for the JW Marriott folks ... you are missing a TREMENDOUS opportunity for some really great PR with those silly newspaper holders...you know the ones that hang over the door, with your hotel name on the front, and a little strip of fabric holding the newspaper inside. Well, spend a few more cents and make it a bag with a solid bottom, and I'll bet folks will take them home/traveling with them to tote items around. What a great way to get publicity and get your name throughout the airports, with very little cost or modification of what you're doing now. And the little tote could turn up around the world, given the business travelers and cruise-line hoppers that come thru your hotel daily. Just a thought!  
+<Date>Jul 6, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+26	38(lot):1	46(free):1	64(spend):1	78(rate):1	141(home):1	180(actually):1	186(convenient):1	253(tried):1	290(bag):1	477(hilton):1	519(item):1	618(marriott):1	661(fan):1	850(bottom):1	976(ahead):1	1050(folk):1	1095(miami):1	1120(buck):1	1376(honor):1	1401(bang):1	1617(solid):1	1821(bet):1	1888(cent):1	2431(lol):1	3098(conrad):1	8210(tote):1	
+23	9(service):1	23(little):1	35(street):1	42(pay):1	44(experience):2	69(tell):1	95(airport):1	117(dinner):1	140(deal):1	166(own):1	175(cost):1	225(la):1	295(name):1	445(throughout):1	660(steak):1	681(carte):1	727(overprice):1	1315(steakhouse):1	2072(bbq):1	3591(steer):1	6948(morton):1	8738(all-around):1	11686(publicity):1	
+51	3(clean):1	9(service):2	11(bed):1	17(view):1	23(little):1	31(front):1	38(lot):1	41(city):1	46(free):2	54(door):1	57(water):1	61(shower):1	90(coffee):1	97(internet):1	116(tv):1	150(pleasant):1	238(bottle):1	276(miss):1	291(amenity):1	295(name):1	303(pillow):1	348(awesome):1	408(inside):1	466(white):1	475(comfy):1	478(hang):1	593(hold):1	618(marriott):1	630(linen):1	884(equip):1	921(suggestion):1	965(soap):1	1050(folk):1	1051(shampoo):1	1083(conditioner):1	1235(opportunity):1	1368(firm):1	1372(newspaper):2	1379(strip):1	1400(smooth):1	1500(plasma):1	1873(lotion):1	2293(crisp):1	2415(gel):1	2638(silly):1	2671(tremendous):1	3048(jw):1	3253(holder):1	3381(fabric):1	7009(mouth wash):1	8050(wall-mount):1	
+24	4(nice):1	7(walk):1	23(little):1	35(street):1	49(shop):2	54(door):1	147(business):1	171(able):1	222(cold):1	267(traveler):1	272(world):1	334(downtown):1	360(daily):1	413(variety):1	443(beer):1	543(Queen):1	618(marriott):1	1231(thru):1	1288(port):1	3048(jw):1	4203(bayside):1	6517(gordon):1	8210(tote):1	11421(hopper):1	
+0	
+0	
+0	
+6	46(free):1	100(bloc):1	109(pretty):1	159(access):1	235(metro):1	11562(mover):1	
+
+<Author>timjarrett
+<Content>Lovely Hotel, Great Staff, Handy Location We were a bit dubious about the downtown location of the hotel before we got there, but in the end were extremely happy with our choice. The staff in all areas of the hotel were friendly and more than helpful. Valet parking is compulsory and is charged for, but the service is really quick and the car was always ready for us within a couple of minutes.Our room had a great view, and was really well equipped, with the best TV I've seen in a hotel in a long time. The free wi-fi was useful, but the room was also equipped with a thin client internet terminal which was an unusual but very welcome touch.All in all, I'd highly recommend the JW Marriott Miami as a great location for exploring the City. Key Biscayne is about five minutes away along Brickell with some fantastic beaches, and the American Airlines Arena, Children's museum and Miami Beach are all just a short drive away.  
+<Date>May 21, 2008
+<Rating>5	5	5	4	5	4	5	5	
+<Aspects>
+0	
+10	0(staff):1	1(location):2	52(bit):1	87(lovely):1	107(choice):1	110(extremely):1	155(happy):1	334(downtown):1	755(handy):1	5351(dubious):1	
+14	5(time):1	17(view):1	46(free):1	97(internet):1	116(tv):1	202(welcome):1	279(touch):1	754(thin):1	884(equip):2	1232(useful):1	1261(terminal):1	1610(unusual):1	1827(wi-fi):1	1952(client):1	
+20	1(location):1	15(recommend):1	29(minute):1	30(beach):2	41(city):1	86(fantastic):1	138(highly):1	144(short):1	277(child):1	298(drive):1	339(key):1	507(museum):1	594(explore):1	618(marriott):1	1095(miami):2	1336(airline):1	3048(jw):1	3153(arena):1	5754(biscayne):1	9281(brickell):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+10	9(service):1	29(minute):1	66(park):1	99(couple):1	121(car):1	136(charge):1	274(ready):1	299(quick):1	457(valet):1	12147(compulsory):1	
+0	
+
+<Author>jwachh
+<Content>Very Good Pre Cruise Hotel This is a very good hotel. The desk and bell staff were excellent! The room large and modern, complete with a flat screen tv and an internet terminal at no additional charge. I must say that the beds were the most comfortable hotel beds I can remember. The hotel is obviously upscale and you pay for it. But as in most things you usally get what you pay for.My only negative comments and the reason I didn't rate the hotel excellent would be the terrible service outside by the pool bar. It took forever to get a cocktail. For some reason they had to be ordered through the outside bartender and brought out from inside the hotel by wait staff, and wait you did. All things considered, I would stay here again in a heartbeat. I would just go to the brew pub next door for drinks.  
+<Date>Mar 24, 2008
+<Rating>4	4	5	5	5	5	5	5	
+<Aspects>
+6	248(consider):1	603(cruise):1	716(cocktail):1	1643(forever):1	1683(heartbeat):1	2422(pre):1	
+4	42(pay):2	781(obviously):1	1237(upscale):1	11814(usally):1	
+12	11(bed):2	25(comfortable):1	97(internet):1	116(tv):1	136(charge):1	151(modern):1	375(remember):1	526(screen):1	535(flat):1	622(complete):1	835(additional):1	1261(terminal):1	
+0	
+0	
+10	0(staff):2	21(excellent):1	36(desk):1	85(wait):2	98(outside):1	142(bring):1	374(reason):1	408(inside):1	676(bartender):1	801(bell):1	
+14	9(service):1	21(excellent):1	22(pool):1	27(bar):1	54(door):1	63(drink):1	78(rate):1	98(outside):1	282(negative):1	356(comment):1	374(reason):1	432(terrible):1	1393(pub):1	4317(brew):1	
+0	
+
+<Author>Mroth
+<Content>Very Nice Business Downtown Location Very Nice Hotel ....Nice Amenitities.......Very Good Business Hotel.....but if you are looking to live the fun life......it is not that type  
+<Date>Mar 24, 2008
+<Rating>4	4	4	4	4	4	4	4	
+<Aspects>
+1	389(type):1	
+0	
+0	
+8	1(location):1	4(nice):3	20(look):1	147(business):2	176(fun):1	206(live):1	334(downtown):1	426(life):1	
+0	
+0	
+0	
+0	
+
+<Author>JW37
+<Content>First class After checking in and out of a terrible hotel in a matter of minutes, I called Marriott and booked a room here. First class hotel all the way. The staff was friendly, check-in quick  efficient and the room warm, large and well appointed with large flat panel tv, internet and decent bathroom. Thank you Marriott for turning a bad night in to a wonderful night. Would absolutely stay again. In financial district so not the place to stay if you're trying to do the beach. The views from the Biscayne Bay Marriott are incredible but the rooms are nicer here.  
+<Date>Feb 23, 2008
+<Rating>5	4	5	3	5	5	5	5	
+<Aspects>
+7	2(night):2	48(wonderful):1	50(bad):1	189(absolutely):1	271(thank):1	470(class):1	618(marriott):1	
+0	
+26	0(staff):1	4(nice):1	12(friendly):1	13(bathroom):1	17(view):1	18(book):1	29(minute):1	32(check):1	67(call):1	97(internet):1	116(tv):1	236(warm):1	257(decent):1	286(check-in):1	299(quick):1	401(efficient):1	432(terrible):1	470(class):1	531(matter):1	535(flat):1	579(appoint):1	618(marriott):2	671(bay):1	718(incredible):1	2134(panel):1	5754(biscayne):1	
+4	30(beach):1	76(try):1	433(district):1	1746(financial):1	
+0	
+0	
+0	
+0	
+
+<Author>Sicall
+<Content>First Class Top rate Five Star Hotel located in heart of Business District we stayed for 5 nights to watch the tennis at Key Biscayne. Service and rooms are as you expect from a hotel of this standard in the USA.Couldnt find any fault with the hotel. Location is safe with some excellent quality restaurants within walking distance. So good in fact that we didnt eat in the hotel restaurant.  
+<Date>Jan 8, 2008
+<Rating>5	4	5	4	5	5	5	5	
+<Aspects>
+2	517(fault):1	1528(couldnt):1	
+0	
+4	9(service):1	62(expect):1	130(standard):1	1474(usa):1	
+20	1(location):1	2(night):1	7(walk):1	10(restaurant):1	21(excellent):1	78(rate):1	84(locate):1	103(star):1	115(distance):1	118(top):1	137(safe):1	147(business):1	187(quality):1	245(watch):1	339(key):1	433(district):1	450(heart):1	470(class):1	1734(tennis):1	5754(biscayne):1	
+0	
+0	
+3	10(restaurant):1	47(eat):1	626(didnt):1	
+0	
+
+<Author>vlartan
+<Content>Don't Stay Here The staff is unattentive. For starters, the bell hop never took our bags after saying he would take them in and up to our room. He left them at the curb side. After checking in, I had to go back outside and get my own bags. The pool area looked like it had just been through a storm. The area was not crowded and there are very few chairs to sit on. Most hotels ask you to use towels provided at the pool. In this case, there were no towels to be had. The pool staff hung a sign to use the towels from your room. I was told by the pool staff that my towels would be replaced in the room. This now required me to go back to my room to get the only 2 towels that were left in there, call the desk for replacements and then go back to the pool. 2 hours later, the towels were not left in the room. It took me a total of 3 phone calls to have the towels replaced in the room, with the final call to the hotel manager. The main restaurant was also not open for dinner. This hotel was not what is expected from a Marriott owned property. I would not recommend staying here.  
+<Date>Dec 31, 2007
+<Rating>2	2	3	3	3	3	1	-1	
+<Aspects>
+6	15(recommend):1	20(look):1	22(pool):1	43(leave):1	1884(storm):1	4452(curb):1	
+4	290(bag):1	801(bell):1	1151(hop):1	3081(starter):1	
+21	0(staff):2	22(pool):3	36(desk):1	43(leave):2	60(hour):1	67(call):3	69(tell):1	79(late):1	125(towel):5	169(sit):1	198(chair):1	258(manager):1	296(phone):1	313(crowd):1	449(sign):1	478(hang):1	722(require):1	786(total):1	912(replace):2	1337(final):1	2593(replacement):1	
+4	32(check):1	98(outside):1	166(own):1	290(bag):1	
+0	
+2	0(staff):1	9961(unattentive):1	
+10	10(restaurant):1	22(pool):1	62(expect):1	112(main):1	117(dinner):1	125(towel):2	153(provide):1	166(own):1	214(property):1	618(marriott):1	
+0	
+
+<Author>Travellady44
+<Content>Good business hotel Beautiful hotel, right in the business area of Miami. All amenities are in the hotel and the service is great. Beds have that pillow mattress effect - very comfortable.  
+<Date>Dec 19, 2007
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+5	11(bed):1	25(comfortable):1	303(pillow):1	847(mattress):1	2191(effect):1	
+3	45(beautiful):1	147(business):2	1095(miami):1	
+0	
+0	
+2	9(service):1	291(amenity):1	
+0	
+
+<Author>MI_Jayhawk
+<Content>Great Quiet, clean, convenient, great all the way around. And, no noise or slamming doors. Thank you Marriott.  
+<Date>Dec 12, 2007
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+5	54(door):1	94(noise):1	271(thank):1	618(marriott):1	2008(slam):1	
+0	
+3	3(clean):1	58(quiet):1	186(convenient):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>UpperClassChick
+<Content>Great pre-cruise short stay We stayed at this hotel for one night before a cruise from the Port of Miami (having arrived from the UK).I did a LOT of research before choosing a pre-cruise hotel in Miami. The location of the Bayside Marketplace Intercontinental was VERY appealing, but many of the recent reviews on that hotel have been disappointing. The main Miami Hyatt also didn't have great press. In the end, I narrowed the choice down to the JW Marriott or the Mandarin Oriental. The consistently good reviews and the price led me to choose the JW Marriott - we weren't to be disappointed.We were flying in from the UK (connecting in Orlando). Our flight into Miami was delayed and we eventually arrived at the hotel, by taxi, quite late (about 10.30pm). We were checked in very quickly and efficiently - the staff were friendly too.I was very impressed with the room: very tastefully furnished, very clean, lovely bed and linens, very nice large flat screen TV mounted on the wall, well appointed spotless luxurious bathroom. The room was also very quiet: didn't hear any noise from Brickell Avenue or from the corridor. It was a perfect short stay hotel room.The whole hotel was very modern, sophisticated, tasteful and spotlessly clean.I was surprised how quiet the hotel seemed to be - maybe because we stayed on a Friday night: I assume that the hotel is probably a lot busier, with business people, during week nights. It was getting late, but - because our body clocks were so confused - we popped down to the casual bar/restaurant for a quick bite to eat. I had a shrimp caesar salad, husband had a burger - food arrived quickly and both were good. Service was a little laid back, but there weren't many customers and we didn't have any trouble getting the attention of the servers when we wanted something. There was what is supposedly a very nice restaurant next to the JW Marriott - the Gordon Biersch Brewery Restaurant. Also a Morton's across the road from the hotel. We didn't have time to try either unfortunately.The bed was excellent and I slept like a princess...I used the gym the next morning - I THINK that it may be 24 hour, but am not sure. I was there by 6.15am and didn't see any other guests there (just one cleaner) - I left at about 7.30am. Cardio machines are pretty good and there are TVs there that you can plug headphones into. I thought that the resistance machines were few and very disappointing. There were plenty of complimentary bottles of water available in the gym (also some in the room and some in reception) - a nice touch. I am probably spoilt by having such a good gym at home, but I thought that the JW Marriott gym was perfectly acceptable.We didn't use the swimming pool, but it looked nice: pretty small, but nice for a quick dip.We had breakfast in the main hotel restaurant - a HUGE selection: what looked like a very good buffet, plus a good a la carte choice too. It was fairly pricey, but for a treat (or if you are on an expense account) it is fine. Good food and good service - very enjoyable.Check-out was as efficient and friendly as check-in. One of the doormen hailed a taxi for us and it was a short taxi ride (about 15 minutes and about $25) to the Port of Miami.Was very satisfied with our stay - this hotel is spot on for short pre-cruise stays or business trips. If you are looking for a resort hotel or a bustling family-oriented hotel, then look elsewhere. But it suited us perfectly and I would have absolutely no hesitation in staying here again or recommending it to others.  
+<Date>Nov 26, 2007
+<Rating>5	4	5	3	5	5	5	5	
+<Aspects>
+22	2(night):1	5(time):1	38(lot):1	53(arrive):1	76(try):1	112(main):1	144(short):1	167(choose):1	230(road):1	524(unfortunately):1	603(cruise):1	614(fly):1	841(connect):1	924(hyatt):1	1024(research):1	1095(miami):3	1178(uk):2	1288(port):1	1843(press):1	3190(pre-cruise):2	4311(orlando):1	6948(morton):1	
+18	19(price):1	37(review):1	107(choice):1	113(fine):1	154(disappoint):1	167(choose):1	320(treat):1	462(fairly):1	546(pricey):1	618(marriott):2	922(lead):1	1207(narrow):1	1616(Oriental):1	1730(account):1	1954(mandarin):1	2058(expense):1	2249(consistently):1	3048(jw):2	
+60	2(night):2	3(clean):1	4(nice):2	11(bed):2	13(bathroom):1	15(recommend):1	21(excellent):1	26(people):1	38(lot):1	56(morning):1	57(water):1	58(quiet):2	60(hour):1	74(perfect):1	75(week):1	87(lovely):1	94(noise):1	104(sleep):1	109(pretty):1	116(tv):1	129(reception):1	132(hear):1	134(available):1	144(short):1	147(business):1	158(plenty):1	178(probably):1	183(wall):1	189(absolutely):1	199(surprise):1	220(busy):1	238(bottle):1	279(touch):1	308(maybe):1	343(impress):1	345(complimentary):1	493(machine):1	523(gym):2	526(screen):1	535(flat):1	548(spotless):1	579(appoint):1	595(perfectly):1	630(linen):1	708(luxurious):1	787(furnish):1	861(suit):1	923(friday):1	1073(corridor):1	1090(avenue):1	1174(plug):1	1239(princess):1	1373(hesitation):1	1407(assume):1	1526(tastefully):1	1569(tvs):1	2794(mount):1	3621(cardio):1	5786(headphone):1	9281(brickell):1	
+37	1(location):1	4(nice):2	20(look):3	22(pool):1	29(minute):1	33(trip):1	37(review):1	53(arrive):1	72(resort):1	79(late):1	109(pretty):1	144(short):2	147(business):1	154(disappoint):1	185(taxi):3	218(ride):1	233(flight):1	261(swim):1	299(quick):1	317(spot):1	393(pm):1	646(elsewhere):1	899(satisfy):1	998(doorman):1	1064(recent):1	1095(miami):2	1107(bustle):1	1204(eventually):1	1288(port):1	1351(delay):1	1606(intercontinental):1	1679(appeal):1	2272(dip):1	2852(hail):1	2861(marketplace):1	3190(pre-cruise):1	4203(bayside):1	
+7	3(clean):2	43(leave):1	91(guest):1	151(modern):1	1094(spotlessly):1	2122(tasteful):1	3165(sophisticated):1	
+9	0(staff):1	9(service):1	12(friendly):2	16(food):1	32(check):1	286(check-in):1	401(efficient):1	471(quickly):1	2461(efficiently):1	
+48	4(nice):1	6(breakfast):1	9(service):1	10(restaurant):3	16(food):1	20(look):1	23(little):1	27(bar):1	47(eat):1	53(arrive):1	77(buffet):1	79(late):1	105(husband):1	107(choice):1	112(main):1	133(huge):1	141(home):1	178(probably):1	203(plus):1	225(la):1	299(quick):1	333(selection):1	428(customer):1	471(quickly):1	523(gym):2	569(trouble):1	595(perfectly):1	618(marriott):2	681(carte):1	696(lay):1	726(attention):1	909(salad):1	1042(bite):1	1157(burger):1	1214(acceptable):1	1221(spoil):1	1291(clock):1	1352(body):1	1419(confuse):1	1540(server):1	1558(pop):1	1826(shrimp):1	1981(casual):1	2062(supposedly):1	3048(jw):2	6176(caesar):1	6234(brewery):1	6517(gordon):1	
+3	154(disappoint):1	493(machine):1	8378(resistance):1	
+
+<Author>Matt005
+<Content>Good Experience Stayed here for a few nights back in July. Had not been to Miami recently and this place was available for a reasonable rate. Showed up and as a Marriott Rewards Platinum Member was given a room on the concierge level. One of the nicer rooms I've had. Huge plasma TV attached to the wall. Computer in room providing free internet access (also had the option of using a laptop and paying for internet). Spacious bathroom with scale and small tv. Bed was extremely comfortable. Housekeeping service was great, room cleaned both days in a timely fashion. Also impressed with the turn down service provided.Was pretty late the night I got in so I just ordered room service. Quick, efficient, and friendly service. Food was good, also. Concierge lounge open on weekends which is a nice feature. Great breakfast served in the lounge. Did not try dining in the hotel restaurants or bar.Rooftop pool area was nice, as was the spa area which led to the pool. Really the only thing I disliked about this hotel was the parking situation. Valet only. I understand that it's downtown Miami but the $27/night charge seemed steep. Also, I may be mistaken but I believe the Conrad next door offers self parking. Location not that great, either. Not a lot going on downtown. Yes, this is primarily a business hotel. I can't complain about that too much as I was aware when booking. Mainly just wanted to try this JW hotel out, despite its location.Would stay here again for business but not if I was only in town for fun.  
+<Date>Sep 3, 2007
+<Rating>4	4	5	-1	5	4	5	5	
+<Aspects>
+12	4(nice):1	22(pool):2	38(lot):1	78(rate):1	134(available):1	273(reasonable):1	314(spa):1	322(recently):1	334(downtown):1	922(lead):1	1063(rooftop):1	1095(miami):1	
+2	2(night):1	44(experience):1	
+26	2(night):1	3(clean):1	4(nice):1	8(day):1	9(service):2	11(bed):1	13(bathroom):1	25(comfortable):1	79(late):1	109(pretty):1	110(extremely):1	111(spacious):1	116(tv):2	133(huge):1	183(wall):1	204(concierge):1	306(level):1	367(housekeeping):1	618(marriott):1	1224(attach):1	1500(plasma):1	1745(fashion):1	2186(reward):1	2428(scale):1	2542(platinum):1	3159(timely):1	
+19	1(location):2	54(door):1	66(park):2	76(try):1	89(offer):1	147(business):2	176(fun):1	239(town):1	250(yes):1	312(believe):1	498(despite):1	890(situation):1	895(mistake):1	1177(mainly):1	1314(self):1	2519(primarily):1	2881(dislike):1	3048(jw):1	3098(conrad):1	
+1	457(valet):1	
+10	4(nice):1	136(charge):1	172(weekend):1	204(concierge):1	237(lounge):1	334(downtown):1	391(understand):1	731(feature):1	1060(steep):1	1095(miami):1	
+17	6(breakfast):1	9(service):2	10(restaurant):1	12(friendly):1	16(food):1	18(book):1	27(bar):1	76(try):1	153(provide):1	174(serve):1	237(lounge):1	241(complain):1	299(quick):1	316(dine):1	343(impress):1	401(efficient):1	832(aware):1	
+8	42(pay):1	46(free):1	97(internet):2	153(provide):1	159(access):1	336(option):1	555(computer):1	1111(laptop):1	
+
+<Author>MimiCSeattle
+<Content>Great Business Hotel I booked the JW Marriott for a business trip based on positive reviews I had read here and I was not disappointed. The hotel is very much a business hotel. Those looking for a Miami experience should book another area. Brickell is very much about the financial center, although they seem to be trying to create a more traditional community with hundreds of condos being built and additional restaurants and shops. I was there on weekend and the whole area essentially shuts down. Like I said, don't expect it to be the center of any leisure stay, although South Beach is a short drive away. For business it meets all expectations: quiet, well-appointed rooms with incredibly comfortable beds and great wireless internet access. The tv in the room was the largest I've seen in any hotel, and it had a great range of free channels. The concierge was friendly and quickly printed out directions to my meeting. Other staff were also very friendly and helpful. A great experience overall. My only complaint would be the ridiculous price of parking at $27 and a pool that lacked any character---but if you just want to do some laps, it's ok. Overall a B+  
+<Date>Aug 3, 2007
+<Rating>4	3	5	3	5	5	5	5	
+<Aspects>
+4	70(overall):1	172(weekend):1	1086(shut):1	2977(essentially):1	
+14	18(book):1	19(price):1	20(look):1	22(pool):1	44(experience):2	66(park):1	70(overall):1	123(ok):1	190(complaint):1	349(lack):1	1049(character):1	1095(miami):1	1533(ridiculous):1	2432(lap):1	
+4	46(free):1	116(tv):1	714(range):1	741(channel):1	
+29	10(restaurant):1	18(book):1	30(beach):1	33(trip):1	37(review):1	49(shop):1	62(expect):1	76(try):1	88(read):1	101(center):2	135(build):1	144(short):1	147(business):3	154(disappoint):1	284(base):1	298(drive):1	458(positive):1	618(marriott):1	769(south):1	835(additional):1	1241(traditional):1	1696(create):1	1746(financial):1	2032(leisure):1	2206(hundred):1	3048(jw):1	3502(community):1	4074(condos):1	9281(brickell):1	
+0	
+8	0(staff):1	12(friendly):2	14(helpful):1	196(meet):1	204(concierge):1	395(direction):1	471(quickly):1	1101(print):1	
+0	
+11	11(bed):1	25(comfortable):1	58(quiet):1	97(internet):1	147(business):1	159(access):1	196(meet):1	431(expectation):1	717(wireless):1	807(incredibly):1	2440(well-appoint):1	
+
+<Author>cruisermeg
+<Content>Excellent-almost 5 stars The JW Marriott Miami on Brickell Avenue is a 22 story, 296 room hotel in Miami's financial district. It's a four-diamond AAA hotel and is about 8 or 9 miles from MIA and maybe 5 miles form the Port of Miami. I had a coupon for buy one night, get one free so I splurged. The Concierge lounge in this hotel is actually open on the weekends so when I figured in that I would get free breakfast, snacks and hors d'oeuvres (a/k/a dinner!) the rate, while higher than I would pay normally, worked out to be what I would have spent for food.The hotel is s few blocks' walk from the MetroMover and several buses stop out front. I hadn't been able to figure this all out ahead so I wound up taking a longish (5 blocks or so, in the HOT, with luggage) walk from the metrorail station as I was continuing my quest to not use cabs. Miami-Dade's public transportation website needs to be better organized, as does that of neighboring Broward county. NOTE TO BOTH: check out the Chicago Transit Authority! They make it easy to plan trips, buy passes and use their system. but I digress. I asked one of Miami's finest where the JW was located and he pointed me in the right direction. I made a couple stops at benches in the shade on the way. When I finally got to the hotel, I rested a few minutes on the steps before going around to the side entrance. I passed 2 doormen and one valet parking attendant. Do you think any of them offered help with my bags? Help with the door? You are correct. The answer is no!Sat in the lobby a few minutes to cool off and went to check in. I told the desk clerk that no one offered help. I think I shocked him as all he said was oh, well they are different than us. Huh?? I got checked in, confused him with my certificate but was finally given my key to my Concierge-level room. I was on the 20th floor, close to the elevators but not so close that all I heard was noise. Actually, the rooms were fairly quiet. As you are in the financial area, there isn't much of anything to look at aside from other skyscrapers! Oh well-if I wanted a view, I would have gone to Biscayne Bay or South Beach.The room was beautiful Big, fluffy king-sized bed. Slept very well. Large leather armchair and matching ottoman, big, plasma TV with a decent selection of channels (but I cant recall which ones! Darn!) A desk and chair and a computer! To my surprise, that computer offered free internet access! No printer, but I believe that if you needed a boarding pass, the desk or concierge can do that for you. Also, the in-room coffee maker is actually an espresso machine. I tried using it, the coffee was horrible! Maybe it was just me! It was fun to use, but it probably helps to be a mechanical engineer, or Starbucks barista to get it to work properly!!The bathroom was huge! Everything was in one room, but it was nice sized with great toiletries. The tub also had a shelf thing so you could but say, a book on it and read! Three phones (two in the bedroom, one in the bathroom), a rug, vanity seat, lighted makeup mirror, two robes and a mini bar. I picked up the mini bar menu and is was all wet and yucky! In the corner of the room was a wooden valet stand, next to which was a nice, red nail polish stain. I noticed a couple other little goof-ups and told the desk. I got a prompt apology and 5000 points credited to my Marriott account.I didn't use any of the restaurants as I was able to get food in the Concierge lounge, but the breakfast menu had the standard Marriott offerings, including the buffet, at substantially higher prices! I think the buffet was over $20.00. Yes, it's Miami, yes it's the business district and most people here have expense accounts, but get serious! The hotel does offer 24-hour room service, so if you wake up with the munchies, you can get food!The concierge lounge was lovely. All of the concierge staff here were very polite, great to talk to and knowledgeable. I also didn't have trouble with the lobby concierge as other reviews here have mentioned. However; I can see that there could be some trouble as a few people at the desk were a bit, shall we say, clueless?Interestingly, beer and wine in the Concierge lounge are complimentary. Works for me! Several wines and beers were offered-not just domestic things like Coors light either! The evening snacks were tasty and enough that I didn't need dinner. Also, each night there were a couple nice, fresh cakes and pastries for dessert. One evening, the chafing dish was hot but the food was not. The nice man promptly called the kitchen for new food and heated some things up for me! No complaints, no excuses, just a solution. I really think he read the kitchen the riot act as a chef was up there in about 5 minutes with another big dish full of hot hors d'oeuvres.Breakfast in the morning was nice as well. All the tables were set up like they would be in a restaurant. There was a large selection of pastries, breads and cereals (no oatmeal here though-only in the restaurant.) Meats, cheeses and lox with toppings, eggs and bacon were also offered along with juices and fresh fruits. Again, very nice, very classy and very yummy. During the afternoon there was whole fresh fruit, bagged chips and sodas available. No complaints here, just pleasant surprises. The JW Marriott is surrounded by banks, condos and foreign embassies. You'll; hear lots of languages here. You can walk to a Publix and a Walgreens, about 3 blocks away. Also, the MetroMover is a short, two-block walk. I rode this a couple times, once to go to church, and a couple times to walk around Bayside. The JW Marriott is mainly a business-oriented hotel. As such, there isn't much to do in the area. The pool area is nice, but it isn't resort-like so if that is what you are looking for, this hotel may not be for you. There are a few restaurants nearby, one is a Gordon Biersch brew pub just across the street. I didn't dine in this particular location, but I have eaten in them before and the food is good, with reasonable prices, although I didn't look at the menu here, so they may be a little higher. Cabs are plentiful, the bus stops just a short distance away and you can park your car (or valet) for the bargain price of $27 per day. If you hop the MetroMover over to Bayside, there are other shops and lots of restaurants including a Hard Rock Cafe and Bubba Gump's, plus a food court. Also, there are hundreds of restaurants in Miami. You can also head over to Coconut Grove which you can reach by bus or taxi. All in all, this is a solid, four-diamond hotel. If you want a nice, quiet place for a getaway or a pre/post cruise stay, check it out. They do offer some packages and specials so check them out. You get what you pay for and, aside from a few bumps, I would return if I could get a decent rate.  
+<Date>Jul 24, 2007
+<Rating>4	4	5	4	4	3	4	-1	
+<Aspects>
+53	2(night):1	4(nice):2	20(look):2	22(pool):1	38(lot):1	46(free):1	54(door):1	89(offer):1	92(help):2	99(couple):1	122(stop):1	132(hear):1	134(available):1	150(pleasant):1	190(complaint):2	197(fresh):1	199(surprise):1	215(fruit):1	280(buy):1	290(bag):2	308(maybe):2	364(afternoon):1	618(marriott):1	659(credit):1	669(answer):1	692(mile):2	698(language):1	795(shade):1	1095(miami):1	1164(form):1	1206(shock):1	1208(prompt):1	1263(correct):1	1288(port):1	1302(chip):1	1308(soda):1	1488(classy):1	1502(aside):1	1547(apology):1	1617(solid):1	1730(account):1	1746(financial):1	1798(yummy):1	1965(excuse):1	2106(coupon):1	2358(splurge):1	2800(solution):1	3270(bench):1	4476(skyscraper):1	4499(darn):1	5051(mia):1	5523(huh):1	8816(digress):1	
+45	1(location):1	8(day):1	16(food):2	19(price):2	20(look):1	23(little):1	39(return):1	42(pay):2	47(eat):1	64(spend):1	66(park):1	78(rate):2	92(help):1	103(star):1	115(distance):1	120(bus):1	121(car):1	122(stop):1	144(short):1	176(fun):1	178(probably):1	257(decent):1	273(reasonable):1	316(dine):1	380(cab):1	423(menu):1	433(district):1	457(valet):1	618(marriott):1	759(bargain):1	906(story):1	938(particular):1	939(starbucks):1	1039(plentiful):1	1090(avenue):1	1091(normally):1	1095(miami):2	1144(properly):1	1502(aside):1	1746(financial):1	2162(bump):1	3048(jw):1	3328(engineer):1	5566(mechanical):1	9281(brickell):1	
+65	4(nice):3	11(bed):1	13(bathroom):2	27(bar):1	29(minute):1	32(check):1	45(beautiful):1	58(quiet):2	83(size):1	88(read):1	90(coffee):1	104(sleep):1	114(hot):1	116(tv):1	133(huge):1	157(light):2	180(actually):2	200(corner):1	251(wine):1	257(decent):1	268(bedroom):1	296(phone):1	333(selection):1	443(beer):1	444(stand):1	448(mini):1	457(valet):1	461(kitchen):1	462(fairly):1	493(machine):1	504(seat):1	590(red):1	603(cruise):1	657(toiletry):1	723(stain):1	741(channel):1	816(dish):1	996(maker):1	1046(robe):1	1089(getaway):1	1129(mirror):1	1145(cant):1	1301(in-room):1	1361(chef):1	1476(match):1	1500(plasma):1	1756(wooden):1	1792(fluffy):1	1920(Act):1	2127(vanity):1	2324(espresso):1	2417(king-size):1	2422(pre):1	2597(makeup):1	2699(polish):1	2729(leather):1	3014(recall):1	3016(rug):1	3281(nail):1	3575(hor):1	4357(domestic):1	4772(armchair):1	5062(ottoman):1	7732(riot):1	11445(oeuvr):1	
+70	5(time):2	7(walk):5	10(restaurant):1	17(view):1	26(people):1	30(beach):1	31(front):1	35(street):1	66(park):1	82(station):1	84(locate):1	99(couple):2	100(bloc):3	113(fine):1	114(hot):1	120(bus):2	122(stop):1	144(short):1	147(business):1	171(able):1	185(taxi):1	218(ride):1	232(nearby):1	249(luggage):1	250(yes):2	262(website):1	319(head):1	379(public):1	380(cab):1	395(direction):1	400(pass):1	433(district):1	457(valet):1	618(marriott):2	667(surround):1	671(bay):1	728(transportation):1	769(south):1	779(figure):1	851(reach):1	934(neighbour):1	976(ahead):1	998(doorman):1	1095(miami):2	1096(continue):1	1167(organize):1	1168(wind):1	1177(mainly):1	1225(bank):1	1393(pub):1	1446(attendant):1	1469(serious):1	1730(account):1	1731(church):1	1768(embassy):1	1938(coconut):1	2058(expense):1	2375(foreign):1	2549(walgreens):1	3048(jw):3	3789(grove):1	4074(condos):1	4203(bayside):1	4317(brew):1	4528(quest):1	5754(biscayne):1	6115(County):1	6517(gordon):1	9584(publix):1	11214(longish):1	
+0	
+43	0(staff):1	23(little):1	26(people):1	29(minute):2	32(check):4	36(desk):4	37(review):1	52(bit):1	55(lobby):2	69(tell):2	87(lovely):1	89(offer):2	92(help):1	99(couple):1	169(sit):1	204(concierge):4	208(special):1	237(lounge):1	244(mention):1	278(cool):1	288(rest):1	297(note):1	312(believe):1	339(key):1	341(finally):2	354(notice):1	366(step):1	371(talk):1	400(pass):1	422(polite):1	490(entrance):1	527(package):1	569(trouble):2	600(board):1	788(clerk):1	1160(knowledgeable):1	1419(confuse):1	2015(transit):1	2328(printer):1	2706(chicago):1	4126(authority):1	4328(certificate):1	4422(clueless):1	
+92	2(night):1	4(nice):3	6(breakfast):3	9(service):1	10(restaurant):5	16(food):5	18(book):1	19(price):1	24(floor):1	27(bar):1	28(close):2	38(lot):1	46(free):1	49(shop):1	56(morning):1	67(call):1	71(include):2	77(buffet):2	88(read):1	89(offer):2	90(coffee):1	94(noise):1	99(couple):1	114(hot):1	117(dinner):2	130(standard):1	132(hear):1	162(hard):1	171(able):1	172(weekend):1	180(actually):1	197(fresh):2	203(plus):1	204(concierge):3	215(fruit):1	216(elevator):1	229(table):1	234(set):1	237(lounge):3	251(wine):1	253(tried):1	266(pick):1	275(cafe):1	311(tub):1	333(selection):1	345(complimentary):1	362(juice):1	406(snack):2	412(egg):1	423(menu):2	441(cheese):1	443(beer):1	448(mini):1	461(kitchen):1	497(bread):1	529(cereal):1	539(heat):1	544(horrible):1	554(wake):1	618(marriott):1	652(pastry):2	677(meat):1	773(rock):1	779(figure):1	816(dish):1	984(tasty):1	1029(cake):1	1032(wet):1	1057(bacon):1	1068(court):1	1095(miami):1	1151(hop):1	1180(dessert):1	1212(promptly):1	1484(shelf):1	1977(20th):1	2206(hundred):1	2610(offering):1	3073(oatmeal):1	3575(hor):1	3743(24-hour):1	4203(bayside):1	4842(munchy):1	5305(bubba):1	5525(interestingly):1	6105(d'oeuvr):1	6144(substantially):1	7252(topping):1	7797(yucky):1	10008(lox):1	10829(gump):1	12339(chafe):1	
+14	33(trip):1	36(desk):1	46(free):1	89(offer):1	93(easy):1	97(internet):1	159(access):1	198(chair):1	199(surprise):1	221(plan):1	280(buy):1	400(pass):1	518(system):1	555(computer):2	
+
+<Author>TravelingRaider
+<Content>Great place to stay Service, Quality, and style. you wlil find it all at this wonderful marriott property.  
+<Date>May 30, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+3	9(service):1	187(quality):1	326(style):1	
+0	
+0	
+0	
+0	
+3	48(wonderful):1	214(property):1	618(marriott):1	
+0	
+
+<Author>mangopa
+<Content>Great Hotel Away From South Beach We stayed at the JW Marriott from 5/23 - 5/27/2007. Hotel is right in Downtown Miami, away from South Beach. Hotel was great, very nice hotel with great pool and gym. Highly recommend the JW Marriott! Rooms: Fluffy luxurious beds, with a 42 inch flat screen television and nice size bathroom.Valet Parking: Efficient, but kind of pricey at $ 27 per day.Food: We had the buffet breakfast it was convenient and fair. For $ 45 for two, to me, it wasn't worth the price. Housekeeping, Front Desk Staff and Business Center all were great.Stay at this hotel, although not in South Beach great luxury hotel!  
+<Date>May 29, 2007
+<Rating>4	4	4	5	5	5	4	5	
+<Aspects>
+4	15(recommend):1	138(highly):1	618(marriott):1	3048(jw):1	
+7	8(day):1	19(price):1	66(park):1	96(worth):1	401(efficient):1	457(valet):1	546(pricey):1	
+10	4(nice):1	11(bed):1	13(bathroom):1	83(size):1	526(screen):1	535(flat):1	708(luxurious):1	1158(television):1	1688(inch):1	1792(fluffy):1	
+7	30(beach):3	334(downtown):1	437(luxury):1	618(marriott):1	769(south):3	1095(miami):1	3048(jw):1	
+0	
+6	0(staff):1	31(front):1	36(desk):1	101(center):1	147(business):1	367(housekeeping):1	
+8	4(nice):1	6(breakfast):1	16(food):1	22(pool):1	77(buffet):1	186(convenient):1	523(gym):1	739(fair):1	
+0	
+
+<Author>nycosmopolitan
+<Content>Stay Away The entire area is building highrises, banks, etc. so don't expect much morning sleep. Don't expect much from the concierge either. On the day we checked in I asked her to call Hertz to find out when my car was going to be delivered. She actually called the hotel. She obviously didn't know where she was or possibly if she should be in a horizontal position. Housekeeping is another deal. They snoop through hotel guests garbage. The hotel is non-smoking and housekeeping found a wrapped up cigarette butt in my garbage so they ran to brown nose Mr. or Ms. Big Shot. Before I know it I have a Smoke Recovery letter in my room with a $250 charge. I went to one of the many managers and she took it off my bill. She told me that they check with housekeeping and asked if she smelled smoke. Housekeeping said No. Of course not, I didn't smoke in the room. A week before arrival I made a spa reservation for a body wrap and message. The girl, who did more giggling than talking called me about 4 times to get my credit card number, to confirm my 9:30 appointment, to change my time to 8:30, and to giggle. When I went to the spa, they were going to give me a body wax not body wrap. The woman said The Chinese girl doesn't speak English well. So I ended up getting back to back messages because the woman told me I was going to be charged anyway. My husband was accused of stealing by a valet person. We parked our car in valet every night. My daughter and son-in-law pulled their car into valet, and we had lunch. When it was time for them to take their car out, my husband gave the valet $10 (the cost was $9). The valet guy came back and gave $11 in change to my son-in-law. My husband said he gave the valet guy $10 not $20. All of a sudden, the valet guy started screaming at my husband for stealing money. The cashier girl came out and was confused. But my husband is honest. They didn't even apologize. Additionally, we were never told that if visitors eat in any of their restaurants, there is no charge for parking. My daughter and son-in-law ate with us at the hotel 2 times. Guess no one bothered to mention this. I could go on and on. Oh and after speaking to a few managers they all apologized for such horrific treatment, then the wine, cheese, crackers started coming to our room. Too late for apologies. Please be warned, don't stay here and if you do, make sure you monitor all staff moves. They are rude, crude and very unprofessional. Their English isn't the greatest either. The concierge level club smells rotten and stale. If you ask for coffee after a certain afternoon time, you just may be asked if you want the coffee to stay or go after you're told its 2 hours old. The beds are uncomfortable, oh and bring a scrub brush and soap so you can clean the bathroom. They install a tv in the bathroom hoping you will be distracted and not see the dirt. Ask for towels, otherwise you'll end up using a washcloth or if you're lucky 2 washcloths to dry yourself off after a shower. They must crack the whip with housekeeping - we were lucky, we had 1/2 roll of toilet paper. Shall I go on? I think not. Its a HORROR HOTEL.  
+<Date>Apr 12, 2007
+<Rating>1	1	1	1	1	1	1	-1	
+<Aspects>
+38	5(time):3	47(eat):1	67(call):2	79(late):1	91(guest):1	105(husband):1	127(speak):1	152(english):2	161(change):1	180(actually):1	244(mention):1	292(card):1	307(bother):1	314(spa):1	335(numb):1	371(talk):1	392(rude):1	467(daughter):1	469(guess):1	566(woman):1	625(girl):3	659(credit):1	764(chinese):1	982(confirm):1	1108(honest):1	1352(body):2	1419(confuse):1	1485(apologize):1	1547(apology):1	1650(garbage):1	2085(wrap):1	2651(appointment):1	2818(horror):1	3134(unprofessional):1	6295(cashier):1	6916(wax):1	7577(giggle):2	9659(son-in-law):1	
+11	5(time):1	80(money):1	105(husband):2	121(car):1	165(start):1	175(cost):1	368(guy):1	457(valet):2	1187(steal):1	1757(scream):1	4830(sudden):1	
+40	3(clean):1	11(bed):1	13(bathroom):2	56(morning):1	61(shower):1	62(expect):1	73(etc):1	104(sleep):1	116(tv):1	125(towel):1	135(build):1	136(charge):1	140(deal):1	142(bring):1	293(course):1	328(hope):1	329(entire):1	330(toilet):1	367(housekeeping):3	468(smoke):2	508(otherwise):1	576(yourself):1	776(paper):1	797(lucky):2	813(roll):1	856(uncomfortable):1	965(soap):1	1225(bank):1	1257(dry):1	1411(crack):1	1564(brush):1	1972(letter):1	2004(dirt):1	2466(washcloth):2	2691(install):1	3706(scrub):1	4258(distract):1	6248(whip):1	6710(recovery):1	7051(highrise):1	
+7	2(night):1	66(park):1	121(car):1	457(valet):1	781(obviously):1	1093(position):1	1233(possibly):1	
+31	32(check):1	69(tell):1	105(husband):2	121(car):1	149(run):1	161(change):1	193(person):1	204(concierge):1	212(club):1	231(smell):2	252(lunch):1	306(level):1	367(housekeeping):2	368(guy):2	457(valet):4	467(daughter):1	468(smoke):1	858(pull):1	978(nonsmoking):1	1187(steal):1	1365(cigarette):1	1650(garbage):1	1667(brown):1	1778(shoot):1	2052(stale):1	2085(wrap):1	2511(butt):1	3466(nose):1	4477(rotten):1	5018(accuse):1	9659(son-in-law):2	
+26	0(staff):1	8(day):1	32(check):1	62(expect):1	67(call):1	69(tell):1	75(week):1	121(car):1	136(charge):1	156(reservation):1	173(please):1	204(concierge):1	207(move):1	224(arrival):1	258(manager):1	314(spa):1	417(anyway):1	495(bill):1	566(woman):1	631(deliver):1	679(warn):1	1352(body):1	1809(message):2	2085(wrap):1	4111(monitor):1	4431(hertz):1	
+20	5(time):1	10(restaurant):1	47(eat):1	60(hour):1	66(park):1	69(tell):2	90(coffee):2	127(speak):1	136(charge):1	165(start):1	251(wine):1	258(manager):1	364(afternoon):1	441(cheese):1	951(visitor):1	1147(treatment):1	1485(apologize):1	2649(additionally):1	3294(cracker):1	4332(horrific):1	
+0	
+
+<Author>papaspoo
+<Content>Classy Hotel Very attentive staff and very clean. Our room was impeccable. Definitely more for the business traveler.  
+<Date>Mar 8, 2007
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+1	1542(impeccable):1	
+3	59(definitely):1	147(business):1	267(traveler):1	
+4	0(staff):1	3(clean):1	537(attentive):1	1488(classy):1	
+0	
+0	
+0	
+
+<Author>We'reouttahere
+<Content>Nice hotel, but probably best for business travel Stayed at the JW, Downtown Miami on Thursday, February 22nd, 2007. We stayed for one night, pre-cruise and had been upgraded tto this hotel through Royal Caribbean with their cruise package deal. We arrived early (9:45 a.m.), and although had requested early check in, were not guaranteed a room that early - completely understandable. Surprise, surprise, the room was ready upon arrival! Check in was very quick and efficient and porter's were wating at curbside to help with baggage. I'm not sure what we were expecting for a 5-star hotel, but first impression of the lobby area was that it was just average. The furnishings were nice, and there was wood trim everywhere, giving it a very warm feeling, but nothing stood out as WOW! so this is how the other half lives! ha-ha! We had room #2005, on the 20th floor. The room was again, very nice. They had a beautiful CD playing when we walked in, nice, calm, serene music -- would have liked to have been able to purchase it! The walls were painted a medium yellow color. The furnishings consisted of a large, long bureau type of thing. It had some drawers and also held a fully stocked small refrigerator (with drinks and alcohol). Also some tea, coffee, espresso maker (I think) etc. On top was a few bottles of water (free), two wine glasses and a small bottle of wine that could be purchased for $20.00. There was also a matching desk, with computer, a nice comfy club chair with matching ottoman, a king sized bed and 2 nighstands. The bed was very inviting - crisp white linens and lots of fluffy pillows. The bathroom was medium sized with a vanity with granite countertop, and nice stool. Otherwise, average. Above the long bureau was a large flat screened TV, framed out nicely with the same wood the furnishings were made from. There was also a good sized closet, and 2 white comfy robes for our use. The view from this particular room was of the surrounding downtown area. While this MIGHT be lovely, especially in the evening, when all is lit up, it should be noted that the ENTIRE city of Miami is going through renovations. Buildings are being torn down, put up, and renovated. Therefore, our view consisted of buildings in various stages of construction, or destruction, complete with scaffolding, loud noise etc. We really were not bothered by this as our intent was to not spend much time in the room - just wanted any potential visitors to be aware of this. Two other things noticeable about this room. On the club chair ottoman, along the top seam, was a tear in the fabric about 4 long. Now, this could have happened the day before we arrived for all I know. And again, this did not bother us, BUT we had paid a very discounted rate for this hotel. I only mention this to others that are thinking about spending the average $400.00 per night for this hotel. Also, there was something above the mirror in the bathroom. It had a screen, so I can only assume it was some sort of TV/radio combination. Both my husband and I could not get it to work. Again - we didn't care, but considering the cost of the room for MOST visitors, I thought I should make note of it.The pool, spa, and gym are all located on the 7th floor. The pool is outdoors and is on a roof. We spent time there on Friday morning (11:00 to noon). Most of that time, the pool was in the shade, as were a good number of the lounge chairs - there are about 25 of them, and the pool is not too big. The sun was being blocked out by the large, tall building to the left. I'm not sure how long it would take for the sun to move to the other side of the building, but there was also another tall building on the other side, so.... The pool was very clean, and there was tile work all around along with various palm trees and plants. There was a bar at the pool, but no attendant that early. We did not use the spa or the gym, but both my husand and I have gym memberships at home and are regular users. We did look over this gym, and felt that although small, it was much better equipped than some we have seen at other hotels, and you could get a good full body workout from what they had to offer - machines and weights. Also, they did have quite a few pieces of cardio equipment.The location of this hotel, for the average traveller looking to see the sights and spend time at the beach, in my opinion is not that convenient, unless you have a car, which we did not. Here is an example: the day we arrived we wanted to head to Miami beach/South beach area. We found the conceirge to be quite helpful. He supplied us with maps and instructions and sent us on our way. We had to walk appx. 20 minutes to a bus station. The area is very trafficy. Keeping in mind all the construction going on, MANY sidewalks are closed to pedestrians. Also, MANY streets are blocked off. So, navigating this can be tricky. We found our way to the bus station, and then took a bus to South Beach. We didn't think the buses were clearly marked as to where they went, and as our bus driver didn't really speak English, we weren't quite sure if we were headed in the right direction, but we were. After a great day at the beach, we headed back, taking the same bus as before. For some reason, which we couldn't comprehend, that bus took us all over the city before bringing us back to the bus stop -- it was not direct, like the morning bus was. We then decided to use the MetroMover (which was across from the bus stop) to get us back to the hotel - instead of walking the 20 minutes - this is a FREE elevated train. But, it is slow, (took at least 20 minutes) and still dropped us off 2 blocks from the hotel - so again, not real easy or convenient to use. For dinner, I suppose you could eat at the hotel. We did not use any of the bar/restaurant services there. We did eat dinner at the Gordon Biersh Brewery/Restaurant which is right next door to the hotel. We found the food to be quite good, and they have a whole list of beers they brew themselves. For nightlife there does not appear to be much within walking distance - we felt very safe in the area, and would not have been afraid to walk, there is just nothing to walk to. We decided instead of walking and bussing to Bayside, we would hire a cab, which was very easy. The ride cost $5.00 or $6.00 with tip included, each way. Bayside was o.k. -- pretty dead on a Thursday night, and mainly just shopping and restaurants. We did not stay long. Just to make note, I had a problem with the hotel regarding arrival of a package. I had sent a package to ourselves via UPS before leaving on the trip. The package held all of our cosmetics and toiletries, as airline restrictions are so difficult now, and we did not check any of our bags. I paid for service through UPS and the package was guaranteed to be delivered by Thursday at 5:00 p.m.. Upon check in, I mentioned that I was expecting a package. I asked how I would be notified when it arrived, and I was told there would be a message on our phone. When we got back to the hotel, at appx. 7:30 p.m., I waited in line at the desk, and then checked for the package. I was told it had not arrived, although there seemed to be some confusion on when exactly the UPS deliveries were made. Upon returning from Bayside at 10:45 p.m., I again inquired about the package. I was told it still had not arrived. It seems they keep a hand-written log regarding packages somewhere about the desk...often times they had to search for it. I asked for help in getting a 1-800 number so I could contact UPS and find out where the package was. I was getting quite panicy as we were leaving for this cruise the next day, we had none of our personal items, and I had no way to get to a pharmacy to purchase them! At one point the conceirge did offer to get my husband a shaving kit, and we did have the shampoo/conditioner and lotion samples given to us in the room. Anyway, after spending 15 minutes on the phone with UPS, I was told the package HAD been delivered at 11:54 that morning and was given the name of the person who had signed for it. SO, I went back down to the desk and spent the next 15 minutes standing there while they tracked down the hand-written book, went into the back room, came back out, left again, etc. Finally a supervisor came out with the desk cleark, half apologized and said it would be another 5 minutes as the package was in a secured location and they needed someone with a key to access it. I asked if I should continue to wait. She said, well, you have waited long enough. It will take 5 more minutes, why don't you go upstairs and it will be delived by the bellhop in 5 minutes. So, I did. FORTY-FIVE minutes later I still had no package. We had now been up for 22 hours, and we were literally staying awake waiting for this package. I called down to the front desk and a gentleman told me he was looking at the bellhop who was getting into the elevator to bring it to me. The elevator must have been awfully slow, because to go the 20 floors took another 15 minutes. The staff the day and a half that we were there seemed somewhat distracted and flustered. Apparently there was some big event going on at the American Arena -- someone told us it was a Latin American awards ceremony, and a lot of the stars/guests were staying at the JW. I can understand things being a little crazy, but I would think a hotel of this caliber should be able to handle it. I COMPLETELY understand that mistakes are made - for all I know, someone new was working on the shipping dock and my package got put in the wrong pile, or whatever. But I also feel that I was never given an explanation of what happened, and a lot of my time was wasted, between waiting at the desk - twice, the 15 minute phone call to UPS, and then the 1 hour wait for the package to be delivered. The mix up completely defeated the point of not checking our luggage in the first place. I was kind of surprised that for our inconvenience, we weren't offered some sort of small compensation - breakfast, manicure, a copy of the CD from our room (ha-ha!) - whatever. But there was no explanation, and no compensation.Check out the morning of the 23rd, was quick and easy. You were able to access your account via the TV, and then we just turned in our room cards. Transportation to the pier, was provided by Royal Caribbean, and that went very smoothly - the busses picking us up right at the hotel lobby.Overall, we had a nice stay at the JW. The rooms were clean, the furnishings inviting, the staff was quite helpful. In my opinion, if you were a business traveller, and didn't need a car, or if you had one, it would be a GREAT place to stay. But for the average person wanting to see the sights, and get around Miami, especially the beach area I would choose to stay somewhere else - even with the discounted rate through the cruiseline, we really didn't feel the location was worth it, and quite honestly, I don't see what is so special about this hotel that it commands such a high room rate.  
+<Date>Feb 27, 2007
+<Rating>3	3	5	2	5	5	2	5	
+<Aspects>
+97	2(night):1	4(nice):1	5(time):1	8(day):2	14(helpful):1	17(view):1	22(pool):1	23(little):1	29(minute):3	33(trip):1	39(return):1	43(leave):3	53(arrive):4	56(morning):2	64(spend):3	69(tell):4	70(overall):1	73(etc):1	79(late):1	93(easy):1	94(noise):1	100(bloc):1	105(husband):1	135(build):1	171(able):1	186(convenient):1	193(person):1	224(arrival):1	227(average):2	240(real):1	244(mention):1	283(half):1	295(name):1	296(phone):2	297(note):1	382(happen):1	391(understand):2	416(loud):1	417(anyway):1	420(sun):1	426(life):1	427(wrong):1	447(send):1	449(sign):1	455(slow):1	508(otherwise):1	512(via):1	519(item):1	527(package):6	542(completely):1	573(none):1	583(construction):1	586(exactly):1	603(cruise):1	622(complete):1	631(deliver):1	636(roof):1	662(drop):1	711(personal):1	745(building):1	767(ourselves):1	823(various):1	887(purchase):1	895(mistake):1	923(friday):1	930(regard):1	937(whatever):2	941(piece):1	966(handle):1	1185(consist):1	1211(equipment):1	1259(crazy):1	1309(noon):1	1392(ship):1	1466(p.m):1	1626(tall):1	1704(inquire):1	1809(message):1	1866(stage):1	1898(block):1	2152(delivery):1	2252(navigate):1	2338(dock):1	2693(explanation):1	2760(notify):1	2801(conceirge):1	2831(confusion):1	2875(pharmacy):1	2885(compensation):1	2886(pile):1	3048(jw):1	3064(outdoors):1	3071(tricky):1	3126(caliber):1	3621(cardio):1	4203(bayside):1	4736(scaffolding):1	
+32	9(service):1	38(lot):1	42(pay):2	55(lobby):1	62(expect):1	69(tell):1	71(include):1	78(rate):1	175(cost):2	194(tip):1	218(ride):1	227(average):1	242(care):1	248(consider):1	297(note):1	307(bother):1	527(package):1	631(deliver):1	848(impression):1	863(apparently):1	864(discount):1	951(visitor):1	1106(event):1	1466(p.m):1	1471(guarantee):1	1823(thursday):1	1831(5-star):1	2014(latin):1	2945(award):1	3048(jw):1	3153(arena):1	3565(ceremony):1	
+117	0(staff):1	3(clean):1	4(nice):4	5(time):2	6(breakfast):1	11(bed):2	13(bathroom):2	14(helpful):1	17(view):1	18(book):1	22(pool):3	24(floor):2	29(minute):3	32(check):1	34(feel):1	36(desk):2	38(lot):1	41(city):1	43(leave):1	64(spend):2	73(etc):1	83(size):3	84(locate):1	87(lovely):1	89(offer):2	105(husband):1	116(tv):3	126(especially):1	157(light):1	159(access):1	171(able):1	198(chair):2	199(surprise):3	212(club):1	224(arrival):1	236(warm):1	237(lounge):1	243(king):1	274(ready):1	290(bag):1	292(card):1	297(note):1	303(pillow):1	307(bother):1	314(spa):1	329(entire):1	334(downtown):1	335(numb):1	389(type):1	404(nicely):1	444(stand):2	466(white):2	475(comfy):2	512(via):1	523(gym):1	526(screen):2	527(package):1	535(flat):1	555(computer):1	557(sort):2	565(closet):1	572(difficult):1	593(hold):1	630(linen):1	657(toiletry):1	667(surround):1	687(renovation):1	795(shade):1	832(aware):1	862(wow):1	870(furnishings):4	938(particular):1	951(visitor):1	1046(robe):1	1051(shampoo):1	1095(miami):1	1129(mirror):1	1185(consist):1	1210(invite):2	1327(wood):2	1336(airline):1	1358(upstairs):1	1407(assume):1	1431(inconvenience):1	1476(match):2	1729(cd):1	1730(account):1	1766(track):1	1792(fluffy):1	1873(lotion):1	1929(combination):1	1960(sample):1	1977(20th):1	1995(potential):1	2127(vanity):1	2245(copy):1	2293(crisp):1	2339(frame):1	2599(manicure):1	2762(medium):1	2773(kit):1	2793(granite):1	2801(conceirge):1	2885(compensation):1	2909(bellhop):1	2951(7th):1	3065(shave):1	3246(noticeable):1	4217(stool):1	4257(trim):1	4494(cosmetic):1	5062(ottoman):1	5186(bureau):2	5374(restriction):1	5832(countertop):1	6460(intent):1	7412(hand-written):1	
+130	1(location):3	2(night):1	4(nice):2	5(time):1	7(walk):7	8(day):2	10(restaurant):1	20(look):2	28(close):1	29(minute):3	30(beach):6	34(feel):3	35(street):1	36(desk):1	41(city):1	45(beautiful):1	46(free):2	49(shop):1	53(arrive):1	55(lobby):1	56(morning):1	57(water):1	63(drink):1	64(spend):1	68(travel):1	78(rate):2	82(station):2	89(offer):1	93(easy):1	96(worth):1	109(pretty):1	115(distance):1	118(top):1	120(bus):12	121(car):2	122(stop):2	126(especially):1	127(speak):1	137(safe):1	142(bring):1	147(business):2	152(english):1	153(provide):1	159(access):1	167(choose):1	170(else):1	171(able):1	178(probably):1	182(train):1	183(wall):1	186(convenient):1	193(person):1	208(special):1	219(decide):2	227(average):2	238(bottle):2	251(wine):2	266(pick):1	267(traveler):2	283(half):1	294(mind):1	319(head):3	327(glass):1	334(downtown):1	339(key):1	341(finally):1	353(instead):2	374(reason):1	380(cab):1	386(play):1	395(direction):1	398(music):1	405(unless):1	411(sight):2	493(machine):1	523(gym):1	527(package):1	541(appear):1	563(driver):1	583(construction):1	593(hold):1	599(stock):1	704(opinion):2	728(transportation):1	753(royal):1	769(south):1	803(direct):1	806(paint):1	864(discount):1	882(mark):1	884(equip):1	887(purchase):2	916(refrigerator):1	931(caribbean):1	942(color):1	954(example):1	1028(honestly):1	1034(secure):1	1095(miami):3	1155(calm):1	1177(mainly):1	1230(february):1	1267(alcohol):1	1305(nightlife):1	1352(body):1	1426(drawer):1	1456(pier):1	1485(apologize):1	1544(afraid):1	1556(hire):1	1582(weight):1	1621(dead):1	1729(cd):1	1801(workout):1	1823(thursday):2	1898(block):1	1949(yellow):1	2267(smoothly):1	2329(sidewalk):1	2403(pedestrian):1	2540(o.k):1	2762(medium):1	3048(jw):1	3201(supervisor):1	3276(serene):1	4203(bayside):2	4806(command):1	5185(elevate):1	6381(22nd):1	11097(comprehend):1	
+11	3(clean):1	22(pool):1	135(build):2	207(move):1	420(sun):1	823(various):1	828(tree):1	846(tile):1	987(palm):1	1626(tall):1	1906(plant):1	
+59	0(staff):1	5(time):2	8(day):1	20(look):1	29(minute):1	31(front):1	32(check):6	34(feel):1	36(desk):4	38(lot):1	53(arrive):1	56(morning):1	60(hour):2	62(expect):1	67(call):2	69(tell):1	85(wait):6	92(help):2	93(easy):1	142(bring):1	148(request):1	188(line):1	216(elevator):1	244(mention):1	249(luggage):1	283(half):1	296(phone):1	299(quick):2	335(numb):1	347(twice):1	382(happen):1	401(efficient):1	527(package):6	542(completely):2	609(mix):1	631(deliver):1	651(somewhat):1	665(literally):1	713(contact):1	928(waste):1	930(regard):1	1096(continue):1	1248(search):1	1466(p.m):1	1471(guarantee):1	1494(awake):1	1506(gentleman):1	1653(porter):1	1783(baggage):1	2693(explanation):1	2909(bellhop):1	3437(log):1	3986(understandable):1	4258(distract):1	5123(23rd):1	7412(hand-written):1	9176(defeat):1	10604(curbside):1	11977(fluster):1	
+43	9(service):1	16(food):1	22(pool):1	24(floor):1	27(bar):2	29(minute):1	47(eat):2	54(door):1	73(etc):1	90(coffee):1	117(dinner):2	118(top):1	141(home):1	198(chair):1	212(club):1	216(elevator):1	301(tea):1	314(spa):1	443(beer):1	447(send):1	455(slow):1	523(gym):2	533(renovate):1	620(suppose):1	650(list):1	724(map):1	744(regular):1	745(building):1	859(supply):1	996(maker):1	1059(themselves):1	1446(attendant):1	1605(tear):2	2324(espresso):1	2386(instruction):1	2756(user):1	3381(fabric):1	4317(brew):1	5062(ottoman):1	6234(brewery):1	6517(gordon):1	6521(awfully):1	7050(seam):1	
+8	2(night):1	140(deal):1	163(upgrade):1	527(package):1	603(cruise):1	753(royal):1	931(caribbean):1	3190(pre-cruise):1	
+
+<Author>aerofl
+<Content>A solid 4-star hotel My husband and I spent one night at the JW Marriott in Miami last month. The stay was reserved on the Marriott website using Marriott Reward points. This was a very last minute trip (booked on Thursday for Saturday night), so we were willing to consider all Marriott properties in and around downtown Miami or South Beach. This was the property that had availability. By the way, in late January rooms were available starting at over $400 a night. Our stay included the buffet breakfast on Sunday morning and my husband said it was really quite nice. The property is located on Brickell Ave., in the midst of many high rises - both condos and office buildings. I had printed directions to the hotel off of Mapquest and I'm glad I did as it wasn't readily apparent where the entrance to the hotel was. Parking was $27 per night (or $9 per hour - you do the math) and it appeared to us that it was valet only. Valet staff was courteous and quite efficient.The check-in was pretty efficient and the hotel had an accurate record of the points being used for our reservation. The hotel lobby is very spacious and filled with beautiful seating areas. Lots of dark wood and gleaming brass, marble floors. Our room was on the 17th floor, looking out over the city of Miami (which appears to be a city of cranes and partially constructed high rise condos and offices). The room was reasonably large, very light and airy. It had very nice furniture with the lovely new Marriott bedding. Desk with chair (and a computer and keyboard, though we had our own laptop), easy chair, chest with minibar and drawers under a flat screen TV. Bottled water was provided for no charge. The bathroom seemed a bit on the small side, with only a single sink and a combo shower/tub. Plentiful and good quality towels and the type of shower curtain that bows out to give you the feel of more space in the shower. Generous toiletries - be aware that the hairdryer is stored in the closet outside the bathroom. The one odd thing about the bathroom was the open toilet - no closing lid, which I found a bit disconcerting when brushing my teeth at the nearby sink.We were at the hotel such a short time that we didn't have time to use any of their facilities such as the gym or the pool. We did have pre-dinner drinks in Drake's Bar and it was a quiet, very clubby bar in which to wait for family to gather. The single bartender had our table of 6 and another couple to wait on, but seemed to disappear just when we needed something. She was however, very nice and very attentive when she was around.We were able to walk to dinner at a nearby Italian restaurant, though we did notice that there was almost nothing (store, restaurant, bars, etc.) open within the area of the hotel on the weekend. I would assume there would be more during the weekdays, but the area appeared to be virtually deserted on a Saturday.  The hotel is not near the beaches or the activity of South Beach or Coconut Grove. This made me think of this more as a business hotel, rather than a place to take the family for a vacation.Lunch on the day of our departure was a bit disappointing, as we ate at the La Terraza Cafe in the hotel and experienced indifferent, extremely slow service. It wasn't busy, so we were a bit puzzled by the inattentiveness of the wait staff. All in all, the JW Marriott Miami served our purpose - a (relatively) free stay on short notice for one night to visit family. For a business hotel, I would say good choice. For a family vacation or to really experience Miami, head out to the water and the beaches. For the rates they charge during our season, I'd consider other options.  
+<Date>Feb 22, 2007
+<Rating>4	4	4	3	4	3	3	-1	
+<Aspects>
+8	4(nice):1	537(attentive):1	541(appear):1	818(saturday):1	1407(assume):1	1706(desert):1	1892(virtually):1	2734(weekday):1	
+21	2(night):2	30(beach):1	44(experience):1	57(water):1	64(spend):1	79(late):1	105(husband):1	106(family):2	107(choice):1	131(vacation):2	134(available):1	147(business):2	165(start):1	319(head):1	388(month):1	618(marriott):1	1018(january):1	1095(miami):2	1617(solid):1	2254(4-star):1	3048(jw):1	
+68	4(nice):1	11(bed):1	13(bathroom):3	20(look):1	24(floor):2	28(close):1	34(feel):1	36(desk):1	38(lot):1	41(city):2	52(bit):2	61(shower):3	87(lovely):1	93(easy):1	98(outside):1	116(tv):1	125(towel):1	157(light):1	166(own):1	187(quality):1	198(chair):2	210(space):1	232(nearby):1	255(store):1	304(single):1	330(toilet):1	389(type):1	440(furniture):1	459(dark):1	509(sink):2	526(screen):1	535(flat):1	541(appear):1	555(computer):1	565(closet):1	578(reasonably):1	618(marriott):1	657(toiletry):1	705(marble):1	743(curtain):1	792(office):1	832(aware):1	1037(minibar):1	1039(plentiful):1	1088(odd):1	1095(miami):1	1111(laptop):1	1327(wood):1	1426(drawer):1	1436(rise):1	1493(hairdryer):1	1523(generous):1	1564(brush):1	1737(tooth):1	1947(airy):1	2143(17th):1	3355(combo):1	3500(partially):1	3686(chest):1	4074(condos):1	4439(keyboard):1	4627(construct):1	5170(crane):1	5386(disconcert):1	5762(brass):1	5792(lid):1	6297(bow):1	6799(gleam):1	
+21	2(night):1	30(beach):2	60(hour):1	66(park):1	84(locate):1	102(near):1	214(property):1	357(activity):1	457(valet):1	541(appear):1	745(building):1	769(south):1	792(office):1	1433(ave):1	1436(rise):1	1938(coconut):1	3338(midst):1	3789(grove):1	4074(condos):1	7269(math):1	9281(brickell):1	
+4	0(staff):1	401(efficient):1	457(valet):1	483(courteous):1	
+31	0(staff):1	52(bit):1	57(water):1	78(rate):1	85(wait):2	99(couple):1	109(pretty):1	136(charge):2	153(provide):1	156(reservation):1	220(busy):1	229(table):1	238(bottle):1	248(consider):1	286(check-in):1	304(single):1	336(option):1	395(direction):1	401(efficient):1	490(entrance):1	610(season):1	619(glad):1	676(bartender):1	1101(print):1	1785(accurate):1	2251(record):1	2594(disappear):1	2715(readily):1	3039(apparent):1	4774(puzzle):1	9204(mapquest):1	
+73	2(night):2	4(nice):1	5(time):2	6(breakfast):1	7(walk):1	8(day):1	9(service):1	10(restaurant):2	18(book):1	22(pool):1	27(bar):3	29(minute):1	30(beach):1	33(trip):1	44(experience):1	45(beautiful):1	46(free):1	47(eat):1	52(bit):1	55(lobby):1	56(morning):1	58(quiet):1	63(drink):1	65(visit):1	71(include):1	73(etc):1	77(buffet):1	85(wait):1	105(husband):1	106(family):2	110(extremely):1	111(spacious):1	117(dinner):1	144(short):2	154(disappoint):1	171(able):1	172(weekend):1	174(serve):1	211(facility):1	214(property):2	225(la):1	232(nearby):1	248(consider):1	252(lunch):1	255(store):1	262(website):1	275(cafe):1	334(downtown):1	354(notice):2	358(italian):1	455(slow):1	491(fill):1	504(seat):1	506(reserve):1	523(gym):1	618(marriott):4	769(south):1	818(saturday):1	844(sunday):1	913(relatively):1	1031(departure):1	1095(miami):2	1428(purpose):1	1823(thursday):1	2073(availability):1	2186(reward):1	2433(gather):1	2481(indifferent):1	3048(jw):1	4235(drake):1	6611(pre-dinner):1	11243(clubby):1	12887(terraza):1	
+0	
+
+<Author>meglu
+<Content>It was fine- Wouldn't be my first choice Pool was small, no view to speak of, often shaded from buildings close by. Breakfast buffet was good and a great deal for kids. Concierge was unresponsive and didn't seem to know much...Rooms were clean, flat screens, near financial district, but not near beaches!Great for business travel but just ok as vacation spot!  
+<Date>Jan 21, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+5	68(travel):1	123(ok):1	131(vacation):1	147(business):1	317(spot):1	
+9	3(clean):1	30(beach):1	102(near):2	204(concierge):1	433(district):1	526(screen):1	535(flat):1	1746(financial):1	6770(unresponsive):1	
+8	17(view):1	22(pool):1	28(close):1	107(choice):1	113(fine):1	127(speak):1	745(building):1	795(shade):1	
+0	
+0	
+4	6(breakfast):1	77(buffet):1	140(deal):1	201(kid):1	
+0	
+
+<Author>TERRIERSRULE
+<Content>This Hotel Is Numero Uno Just came back tonight (11-23) after a fantastic three night stay at the JW Mariott. It is one of the best hotels I have ever stayed anywhere. Clean, decent size rooms, paper at your door daily, comp bottled water in the room daily, great plasma tv on the wall and overall excellent.  
+<Date>Nov 23, 2006
+<Rating>5	4	5	4	5	4	5	5	
+<Aspects>
+6	2(night):1	86(fantastic):1	3048(jw):1	5469(mariott):1	5519(tonight):1	8053(uno):1	
+0	
+14	3(clean):1	21(excellent):1	54(door):1	57(water):1	70(overall):1	83(size):1	116(tv):1	183(wall):1	238(bottle):1	257(decent):1	360(daily):2	776(paper):1	1500(plasma):1	2942(comp):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>nimrodwetman
+<Content>excellent hotel no flaws I had the pleasure of 6 nights in this splendid hotel on vacation from the UK. The whole experience was flawless excellent room great amenities and unbelievable staff. I would certailnly stay here again and would have no problems recommending it for a vacation or business.  
+<Date>Nov 20, 2006
+<Rating>5	4	5	4	5	5	5	5	
+<Aspects>
+0	
+14	0(staff):1	2(night):1	15(recommend):1	21(excellent):2	44(experience):1	131(vacation):2	147(business):1	291(amenity):1	907(pleasure):1	1178(uk):1	1460(unbelievable):1	2518(splendid):1	2808(flaw):1	2873(flawless):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>TheBigHammer
+<Content>Flawless Find Great from top to bottom - Peder at the front desk upgraded us to the concierge level with the free food and honor bar ...Pool is a must-do as is the breakfast buffet (try to get coupons as it's VERY expensive)Clean, great rooms, love the flatscreen and the furnishings...Close to everything in Financial District and to all of downtown.  
+<Date>Nov 16, 2006
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+27	3(clean):1	6(breakfast):1	16(food):1	22(pool):1	27(bar):1	28(close):1	31(front):1	36(desk):1	40(love):1	46(free):1	76(try):1	77(buffet):1	118(top):1	124(expensive):1	163(upgrade):1	204(concierge):1	306(level):1	334(downtown):1	433(district):1	850(bottom):1	870(furnishings):1	1376(honor):1	1746(financial):1	2106(coupon):1	2873(flawless):1	3559(flatscreen):1	12178(must-do):1	
+0	
+
+<Author>daifly
+<Content>Great hotel Nice hotel, really impressed.Location's the only thing that counts against it as it's in the heart of the Business District, which means all the sights are a drive away.Front desk was good, very quick and efficient.Concierge lounge had good selection with pleasant staff. Free internet in every room on the concierge level - excellent freebie, saved unpacking my laptop all the time.Staff in the 2nd floor bar (the only one open on weekends) were friendly enough, if a bit slow in responding to empty glasses!Rooms, standard JW, comfy bed.My room smelt a bit damp, but the carpet looked and felt like it had just been cleaned, so presume it was that.Other than that minor niggle (which went when the Air Con was on), highly recommended.  
+<Date>Oct 24, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	4(nice):1	343(impress):1	
+0	
+38	0(staff):1	3(clean):1	5(time):1	11(bed):1	12(friendly):1	15(recommend):1	20(look):1	21(excellent):1	24(floor):1	27(bar):1	34(feel):1	46(free):1	52(bit):2	97(internet):1	130(standard):1	138(highly):1	164(air):1	172(weekend):1	204(concierge):1	231(smell):1	306(level):1	327(glass):1	396(carpet):1	425(save):1	455(slow):1	475(comfy):1	720(minor):1	810(empty):1	840(Con):1	1111(laptop):1	1326(2nd):1	1587(respond):1	1640(damp):1	2179(unpack):1	3048(jw):1	3910(niggle):1	5425(presume):1	8417(freebie):1	
+8	1(location):1	147(business):1	246(mean):1	298(drive):1	411(sight):1	433(district):1	450(heart):1	1781(Count):1	
+0	
+9	0(staff):1	31(front):1	36(desk):1	150(pleasant):1	204(concierge):1	237(lounge):1	299(quick):1	333(selection):1	401(efficient):1	
+0	
+0	
+
+<Author>sampagirl
+<Content>Perfect Wow! I have spent my first night in Miami in this hotel and cannot describe how great it was. Very comfortable beds , in-room complimentary internet access (great, great, great!!!), 42麓 flat tvs, rooms carefully maintained in every single detail.I felt very safe at all times, their staff is extremely helpful and kind and there are nice little touches everywhere, like complimentary bottled water near the check in. It鈥檚 not a beach hotel, however, it鈥檚 more like a business hotel, but they have a nice swimming pool and spa/fitness facilities. I would have loved to remain there for the whole stay. Perhaps next time...  
+<Date>Jun 18, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	2(night):1	5(time):1	40(love):1	64(spend):1	74(perfect):1	862(wow):1	955(describe):1	1095(miami):1	1391(remain):1	
+0	
+12	11(bed):1	25(comfortable):1	97(internet):1	159(access):1	304(single):1	345(complimentary):1	535(flat):1	562(maintain):1	592(detail):1	1301(in-room):1	1569(tvs):1	2523(carefully):1	
+7	4(nice):1	22(pool):1	30(beach):1	147(business):1	211(facility):1	261(swim):1	314(spa):1	
+0	
+14	0(staff):1	4(nice):1	5(time):1	14(helpful):1	23(little):1	32(check):1	34(feel):1	57(water):1	102(near):1	110(extremely):1	137(safe):1	238(bottle):1	279(touch):1	345(complimentary):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Beautiful Hotel Arrived on Saturday around 12:00, and early Check-In was available. Went to the room and it was exactly like it was presented on the website. Soft classical music was playing when we entered the room and everything looked immaculate. Went to enjoy the concerige lounge and found it very nice as well. Overall the hotel looked empty because I think it was in downtown Miami so not many people stay there for the weekend. Concerige desk personnel was extremely helpful and patient when we asked for directions. Would definitly stay here again, no question.  
+<Date>May 19, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+9	20(look):1	26(people):1	70(overall):1	172(weekend):1	334(downtown):1	394(question):1	810(empty):1	1095(miami):1	2971(definitly):1	
+0	
+9	20(look):1	262(website):1	386(play):1	398(music):1	586(exactly):1	589(soft):1	601(enter):1	894(immaculate):1	4157(classical):1	
+0	
+0	
+12	14(helpful):1	36(desk):1	45(beautiful):1	53(arrive):1	110(extremely):1	134(available):1	286(check-in):1	395(direction):1	818(saturday):1	1457(personnel):1	1882(patient):1	8654(concerige):1	
+4	4(nice):1	51(enjoy):1	237(lounge):1	8654(concerige):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>This was my home for 8 months I spent over 100 nights at JW Marriott last year, travelling on business. The same is true for about 10-15 other people I travelled with. We all had a great time at JW Marriott Miami.This place is GREAT. I already miss it, but I'm sure I will return soon.It is probably the best hotel in Miami for business travellers, although during the week-end it's good for leisure travel as well. The hotel is sold out almost every week, so book ahead for best rates/selection, or you'd have to use the Platinum override to get a room.The rooms are large, with welcoming yellow tones, 42 plasma TV (selected floors), free high-speed internet computer terminals (selected rooms). A nice comfy bed and way too many pillows nicely fill the room.Ask for a bay view, corner room, concierge floor.The 21st floor has a concierge lounge (free for 21st floor quests or Gold/Platinum members) that serves breakfast, free drinks and snacks in the evening, and a nice place to chat and relax with friends.The front desk girls are great, very pretty and always smilling. They are very friendly, helpful, and not stiff as Four Seasons staff.Please don't forget the cleaning ladies, and leave a couple $$ on the bed, as they do a great job at cleaning the room for you.This place indeed makes you feel like home.  
+<Date>Apr 13, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+12	5(time):1	26(people):1	34(feel):1	39(return):1	68(travel):1	141(home):1	276(miss):1	418(soon):1	618(marriott):1	990(indeed):1	1095(miami):1	3048(jw):1	
+0	
+24	3(clean):2	4(nice):1	11(bed):2	17(view):1	18(book):1	24(floor):1	43(leave):1	75(week):1	99(couple):1	173(please):1	200(corner):1	204(concierge):1	303(pillow):1	397(forget):1	404(nicely):1	475(comfy):1	481(job):1	491(fill):1	521(lady):1	606(sell):1	671(bay):1	976(ahead):1	2542(platinum):1	10745(override):1	
+13	2(night):1	64(spend):1	68(travel):2	141(home):1	147(business):2	178(probably):1	267(traveler):1	388(month):1	618(marriott):1	1095(miami):1	2032(leisure):1	3048(jw):1	4679(week-end):1	
+0	
+9	0(staff):1	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	109(pretty):1	610(season):1	625(girl):1	3587(stiff):1	
+15	4(nice):1	6(breakfast):1	24(floor):2	46(free):2	63(drink):1	146(friend):1	160(relax):1	174(serve):1	204(concierge):1	237(lounge):1	406(snack):1	1571(gold):1	1629(chat):1	4528(quest):1	4913(21st):2	
+12	24(floor):1	46(free):1	97(internet):1	116(tv):1	202(welcome):1	555(computer):1	1261(terminal):1	1294(select):2	1500(plasma):1	1949(yellow):1	2596(tone):1	3436(high-speed):1	
+
+<Author>muttger
+<Content>The Lap of Luxury We stayed at the JW Marriott for 2 nights in mid-March. The service was impeccable and our rooms were extremely comfortable. The rooms were a nice size and pleasantly decorated. This hotel has connecting room so is good for families that need more than one room. We have absolutely no complaints at all. The Brickell Village is an up and coming neighborhood just a couple of blocks away with a great Italian restaurant and a French Bistro. The fitness room was well appointed and the pool with it's stainless steel sides and bottom was just terrific. We stayed on the 7th floor which opened to the pool and had outside space. We had lunch by the pool and room service breakfast one morning and all was on par with what you would expect from hotel room service. There were complimentary bottles of water at turndown and also in the fitness room. It seems that they thought of everything to keep their guests comfortable.  
+<Date>Apr 4, 2006
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+10	2(night):1	25(comfortable):1	91(guest):1	189(absolutely):1	190(complaint):1	437(luxury):1	618(marriott):1	2432(lap):1	3048(jw):1	10158(mid-march):1	
+0	
+25	4(nice):1	9(service):1	22(pool):2	24(floor):1	25(comfortable):1	57(water):1	83(size):1	98(outside):1	106(family):1	110(extremely):1	210(space):1	238(bottle):1	305(decorate):1	345(complimentary):1	579(appoint):1	699(terrific):1	747(pleasantly):1	841(connect):1	850(bottom):1	983(fitness):2	1542(impeccable):1	2080(turndown):1	2951(7th):1	4024(steel):1	6038(stainless):1	
+0	
+0	
+0	
+16	6(breakfast):1	9(service):2	10(restaurant):1	22(pool):1	56(morning):1	62(expect):1	99(couple):1	100(bloc):1	252(lunch):1	254(french):1	358(italian):1	421(neighbourhood):1	1087(village):1	1666(par):1	2585(bistro):1	9281(brickell):1	
+0	
+
+<Author>equipesom
+<Content>Good Hotel This hotel is beautiful and very nice. I disagree with the previous comments. The person that posted the last comment, did not really face problems. Remember also: we are just humans trying to make the best of it.  
+<Date>Mar 8, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+10	4(nice):1	45(beautiful):1	76(try):1	193(person):1	356(comment):2	373(previous):1	375(remember):1	644(post):1	3102(disagree):1	3533(human):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>EvaLouise
+<Content>Wonderful Hotel This hotel stands out for its remarkable care for its guests. I have never experienced such an abundance of professional excellence in one location where every member of the staff meets or exceeds the expectations of a guest. It is a pleasure to recommend this hotel for travelers who like serenity and security.  
+<Date>Mar 6, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	48(wonderful):1	91(guest):1	242(care):1	444(stand):1	3163(remarkable):1	
+10	0(staff):1	1(location):1	44(experience):1	91(guest):1	196(meet):1	431(expectation):1	501(professional):1	1153(exceed):1	1254(excellence):1	2829(abundance):1	
+5	15(recommend):1	267(traveler):1	641(security):1	907(pleasure):1	4916(serenity):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Worst JW MARRIOTT I have ever stayed in !!!! At 1st glance, the JW Marriott seems like the hidden gem of Miami downtown hotels - At 2nd glance it's a poorly run franchise hotel with bad staff and faulty maintanance issues.I checked in on Wednesday March 1st for a 2 night stay. I arrived at the airport at 10:30 PM and immediately called the hotel to let them know I was coming. I told them I wanted to order room service before I got there so it would be ready for me when I arrived. The lady on the phone put me on hold and said she had to confirm if I could order from the dinner menu at 11:00 PM. I was on hold for 7 minutes and she never came back to the phone. I called a few more times and she did the same thing so finally I spoke to a night manager named Florencia (Best person who works there) and she took my order. That was just the beginning of the horror show I experienced there:After I checked in I was put in room 2123 on the concierge floor. The room had numerous maintenance problems 1)TV volume control did not work2)Air conditioner made strange noise3)Curtain was falling offI got to know the engineer very well on this trip.The next day I spoke with the General Manager(also named Florencia) and I told her what happened. She didn't offer me anything off the room and tried to say she would upgrade me to a suite for $299.00 the next night. I couldn't believe it and after 30 minutes of arguing with her she agreed to comp the previous night. I mean, the whole discussion was ridiculous!!!Anyways, I literally got no sleep the night before so after viewing my new room I proceeded to fall asleep in my original room (I was dead tired!!!) I got a phone call at 4:00 PM from the front desk manager who told me I had to move now because the hotel was sold out but I could not even move I was soooo tired. I told him I'll just stay in the original room because I was very tired and he said okay. Well, when I got up I went to eat out and came back around 11:30 PM to my room. This time line 1 on the phone didn't work and up came the engineer who tried for an hour to fix the phone with no luck. I woke up at around 4:00 AM and was a little hungry so I called room service to get some cereal and milk. Here's the kicker - I can't drink 2% or whole milk because I have stomach problems so I told the order taker I would like skim milk (I said it 3 times). So what do you think the waiter brings up to my room???? 2% milk of course. The kicker is that he tried to tell me for 5 minutes that the milk he brought was skim and I ALMOST believed him until I looked at it ultra carefully and determined it was 2%. When I finally screamed to him it was not SKIM milk, he said Oh, skim milk is not the same as 2% ??? I just looked at him and shook my head in disgust. That summed up my stay at this horrible excuse for a Marriott!!!!Bottom Line is this: if anyone decides to stay there, they need to be aware that most of the staff don't speak good english, they have 1 at your service button that handles all the departments and if you ask for let's say, the front desk extension, they'll never give it to you!!!! Lastly, the general manager of the property, Florencia (I forget her last name) is the worst GENERAL MANAGER I have ever seen. I tried asking for her boss's name and she would not tell me all call the corporate office she kept saying. I fially found out that a gentleman named Mr. Glass owns the hotel and I tried to reach him unsuccessfully.Sorry for the long review but everyone needs to know what I experienced at this horrible hotel. I told the GM I would post a review on trip advisor and she did not care - maybe now if people don't stay there she will...  
+<Date>Mar 6, 2006
+<Rating>1	1	2	-1	3	-1	1	-1	
+<Aspects>
+54	2(night):1	5(time):1	20(look):2	26(people):1	29(minute):3	33(trip):1	37(review):1	50(bad):1	60(hour):1	69(tell):2	142(bring):1	166(own):1	188(line):1	242(care):1	246(mean):1	253(tried):3	293(course):1	295(name):1	296(phone):3	308(maybe):1	312(believe):2	319(head):1	327(glass):1	341(finally):1	373(previous):1	473(agree):1	494(fix):1	544(horrible):1	593(hold):1	618(marriott):2	644(post):1	701(advisor):1	851(reach):1	1055(luck):1	1116(milk):4	1152(disgust):1	1506(gentleman):1	1533(ridiculous):1	1651(sum):1	1757(scream):1	1894(argue):1	1965(excuse):1	2517(shake):1	2523(carefully):1	2744(ultra):1	2942(comp):1	3048(jw):1	3247(determine):1	3282(discussion):1	3328(engineer):1	4012(gm):1	6947(kicker):1	7993(skim):3	11905(unsuccessfully):1	
+4	37(review):1	44(experience):1	544(horrible):1	891(sorry):1	
+49	2(night):2	9(service):2	17(view):1	23(little):1	24(floor):1	32(check):1	33(trip):1	44(experience):1	47(eat):1	53(arrive):2	67(call):2	69(tell):2	89(offer):1	95(airport):1	104(sleep):1	108(suite):1	116(tv):1	142(bring):1	163(upgrade):1	164(air):1	204(concierge):1	253(tried):1	274(ready):1	393(pm):2	453(okay):1	454(tire):2	489(immediately):1	529(cereal):1	551(begin):1	554(wake):1	587(fall):2	665(literally):1	735(waiter):1	743(curtain):1	865(control):1	971(numerous):1	1058(strange):1	1083(conditioner):1	1116(milk):1	1149(maintenance):1	1270(original):2	1381(hungry):1	1621(dead):1	2123(asleep):1	2150(proceed):1	2348(anyways):1	2818(horror):1	2946(volume):1	3328(engineer):1	
+0	
+0	
+54	0(staff):2	2(night):2	5(time):1	8(day):1	9(service):1	31(front):2	32(check):1	36(desk):2	50(bad):2	67(call):3	69(tell):3	127(speak):3	149(run):1	152(english):1	188(line):1	193(person):1	207(move):2	214(property):1	219(decide):1	253(tried):1	258(manager):5	265(issue):1	295(name):4	296(phone):1	334(downtown):1	341(finally):1	382(happen):1	393(pm):1	397(forget):1	454(tire):1	606(sell):1	615(march):1	618(marriott):1	792(office):1	805(gem):1	832(aware):1	850(bottom):1	966(handle):1	1095(miami):1	1195(hide):1	1326(2nd):1	1635(poorly):1	1707(department):1	1802(corporate):1	2142(button):1	2322(lastly):1	2665(wednesday):1	2862(soooo):1	3048(jw):1	3666(glance):2	4087(boss):1	4214(extension):1	4333(faulty):1	8025(franchise):1	
+14	5(time):1	63(drink):1	69(tell):1	117(dinner):1	296(phone):1	393(pm):1	423(menu):1	521(lady):1	593(hold):1	982(confirm):1	1116(milk):2	1318(stomach):1	6947(kicker):1	7993(skim):1	
+0	
+
+<Author>TRAVELWAY52
+<Content>great day at 1st class hotel I was traveling with my family to Miami to meet a cruise ship, so rather than rush, we opted to fly in early and stay at a local hotel. With my Marriott points, i selected the JW Marriott hotel in Miami.I have stayed at Marriotts, Westins, and Ritz Carltons,and I would have to say that this hotel resembles the Ritz Carltons ( owned by Marriott also).Top notch, first class, 5 star,and exceptional service!!When you first walk it, you can tell you have a hotel that cares about appearance and cleanliness. It doesn't matter if you are wearing shorts or a tuxedo, you are given nothing but the best.The room faced the pool area and was quite nice with the plasma screen tv, internet access, marble bathroom,and pillow top beds. I love to work out at the fitness area because it was like a real gym!!Not only were there plentiful machines, but LCD television screens at almost each machine!!The fitness room had a large 42 inch plasma when you walk in, if you prefer just to relax and read a newspaper or magazine, cranberry juice, apples, pears, and lots of bottled water and towels ...like being in fitness heaven.There isn't much nite life because it is in the financial district of town, and not many restauarants open late in the evening. We did find an Italian restuarant called Ludo''s that offered great pizzaand tasty pasta.Would definitely go back again...though it may be a few minutes drive to Bayside or South BEach, the experience at this hotel is well worth it.  
+<Date>Jan 15, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+37	8(day):1	67(call):1	68(travel):1	79(late):1	89(offer):1	106(family):1	144(short):1	166(own):1	195(local):1	196(meet):1	239(town):1	358(italian):1	426(life):1	433(district):1	434(wear):1	470(class):1	531(matter):1	603(cruise):1	614(fly):1	618(marriott):3	825(ritz):2	889(westin):1	984(tasty):1	1095(miami):2	1143(pasta):1	1184(opt):1	1244(rush):1	1294(select):1	1392(ship):1	1746(financial):1	1895(nite):1	2114(restuarant):1	3048(jw):1	3497(resemble):1	4858(marriotts):1	8622(carltons):2	9374(restauarants):1	
+14	9(service):1	29(minute):1	30(beach):1	44(experience):1	59(definitely):1	96(worth):1	103(star):1	118(top):1	298(drive):1	470(class):1	769(south):1	837(exceptional):1	1227(notch):1	4203(bayside):1	
+16	4(nice):1	11(bed):1	13(bathroom):1	22(pool):1	97(internet):1	116(tv):1	118(top):1	159(access):1	303(pillow):1	493(machine):2	526(screen):2	705(marble):1	1039(plentiful):1	1158(television):1	1500(plasma):1	1773(lcd):1	
+5	7(walk):1	69(tell):1	242(care):1	854(cleanliness):1	2312(appearance):1	
+0	
+0	
+21	7(walk):1	38(lot):1	40(love):1	57(water):1	88(read):1	125(towel):1	160(relax):1	238(bottle):1	240(real):1	362(juice):1	523(gym):1	536(prefer):1	905(apple):1	983(fitness):3	1363(heaven):1	1372(newspaper):1	1500(plasma):1	1688(inch):1	2202(magazine):1	7307(pear):1	8121(cranberry):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Beautiful hotel, but...... This hotel was beautiful, clean and really top notch. But because we were looking for a beach vacation we found we had to do some traveling by car in order to see a beach. This hotel is in downtown Miami. If you love the city then this hotel is for you. If you love the beach then opt to stay in South Beach or Ft Lauderdale. We enjoyed our stay but rather be beachfront. Loved the flat screen TV and in room internet access!  
+<Date>Jan 3, 2006
+<Rating>4	4	5	-1	5	-1	4	-1	
+<Aspects>
+5	40(love):1	41(city):1	45(beautiful):1	334(downtown):1	1095(miami):1	
+5	20(look):1	30(beach):2	68(travel):1	121(car):1	131(vacation):1	
+6	40(love):1	97(internet):1	116(tv):1	159(access):1	526(screen):1	535(flat):1	
+8	30(beach):2	40(love):1	51(enjoy):1	769(south):1	1184(opt):1	2572(beachfront):1	2617(ft):1	7604(lauderdale):1	
+4	3(clean):1	45(beautiful):1	118(top):1	1227(notch):1	
+0	
+0	
+0	
+
+<Author>Mid_West_Traveler
+<Content>JW Marriott -- Beautiful, Great Service and Location I stayed 8 nights at the JW Marriott in Miami just before Christmas. I was very pleased with this hotel. It's beautiful. Drake's bar, off the lobby is particularly beautiful -- English gentleman's club decor but very well done. It's also non-smoking so I enjoyed having a cocktail before dinner there. I also loved the pool area. It's not super huge, but very nice and there is poolside bar and food service. It was a great treat to have excellent food and drinks brought to your chaise lounge. The pool is heated so even if the breeze is a little cool, you can have a comfortable swim. My room was large, beautiful, and had lots of extras like an in-room safe, mini-bar, granite counter tops, 42 flat screen TV, up-graded linens, and bath products. One great touch is free internet access via a computer terminal in your room. I loved this - - very easy and convenient to check e-mail and get info off the net. Room service was very good too. I had access to the concierge lounge which had a great breakfast buffet. Overall the service was excellent. The staff are very polite, prompt, and professional. While there is not a lot to do in the immediate area around the hotel, as mentioned in a previous review, this hotel is only about 10 or 15 minutes from South Beach. We took Highway 1 North to the Venetian Causeway (turn right on 15th St I think - - near the Omni?). It's a very easy drive and we never encountered much traffic. One other thing, this hotel is also very close to Key Biscayne and the beaches there - - also a 10 - 15 minute drive and very little traffic. I did not have lunch or dinner in the restaurants so I can't evaluate them. We got a great rate of $169.00 on Marriott. For this price, this hotel was a steal. While it's primarily a business hotel, we thoroughly enjoyed using it as a vacation hotel. I highly recommend this hotel.  
+<Date>Jan 1, 2006
+<Rating>5	5	5	-1	4	-1	5	-1	
+<Aspects>
+16	15(recommend):1	22(pool):1	40(love):1	45(beautiful):1	78(rate):1	102(near):1	138(highly):1	173(please):1	618(marriott):1	684(North):1	940(St):1	1868(omni):1	1870(highway):1	4270(causeway):1	4273(15th):1	4845(venetian):1	
+7	19(price):1	51(enjoy):1	131(vacation):1	147(business):1	898(thoroughly):1	1187(steal):1	2519(primarily):1	
+17	9(service):1	38(lot):1	45(beautiful):1	116(tv):1	118(top):1	128(extra):1	137(safe):1	226(bath):1	526(screen):1	535(flat):1	630(linen):1	1001(counter):1	1081(product):1	1301(in-room):1	1338(mini-bar):1	2793(granite):1	8138(up-grade):1	
+24	1(location):1	2(night):1	9(service):1	23(little):1	28(close):1	29(minute):2	30(beach):2	37(review):1	38(lot):1	45(beautiful):1	93(easy):1	244(mention):1	298(drive):2	339(key):1	373(previous):1	486(traffic):2	618(marriott):2	693(encounter):1	769(south):1	962(christmas):1	1095(miami):1	1761(immediate):1	3048(jw):2	5754(biscayne):1	
+4	51(enjoy):1	117(dinner):1	716(cocktail):1	978(nonsmoking):1	
+10	0(staff):1	32(check):1	40(love):1	93(easy):1	186(convenient):1	422(polite):1	501(professional):1	1208(prompt):1	1360(info):1	2076(net):1	
+37	4(nice):1	6(breakfast):1	9(service):2	10(restaurant):1	16(food):2	21(excellent):2	22(pool):1	23(little):1	25(comfortable):1	27(bar):2	45(beautiful):1	55(lobby):1	63(drink):1	70(overall):1	77(buffet):1	117(dinner):1	133(huge):1	142(bring):1	152(english):1	159(access):1	204(concierge):1	212(club):1	237(lounge):2	252(lunch):1	261(swim):1	269(decor):1	278(cool):1	320(treat):1	464(super):1	539(heat):1	553(particularly):1	799(breeze):1	1430(poolside):1	1506(gentleman):1	3274(chaise):1	4235(drake):1	9156(evaluate):1	
+7	46(free):1	97(internet):1	159(access):1	279(touch):1	512(via):1	555(computer):1	1261(terminal):1	
+
+<Author>A TripAdvisor Member
+<Content>JW - Good Deal Stayed here on October 1, 2005. I chose this hotel because its close to Port of Miami and received good reviews on this board. It鈥檚 a nice hotel, the hotel employees are very friendly. The lobby was very opulent and I was a bit embarrassed that I was traveling in jeans and tennis shoes. But everyone treated me courteously and made me feel very welcome. My room had a view overlooking the business districts city skyline with a view of the metromover. As some have said on this board, its nothing exciting too see in the surrounding area. Lots of construction (building and roads) I walked a few blocks behind the hotel and there is a bay but there were no boats sailing there. I then made my way back up to Brickell Ave to look for some place to eat. I found this relatively inexpensive place called Pasha鈥檚. It鈥檚 a Mediterranean eatery. I order a chicken wrap and Greek salad. It was very good. I spent about $11.It was rainy so I could not enjoy the interesting steel rooftop pool, so I treated my self to a pedicure in the hotel spa for around $40. They do need to replace the pool lounge chairs. There were noticeably holes and snags in them and it just did not look appealing. For that reason alone, can鈥檛 put it up there with Park Hyatt. I would however, recommend JW as a precruise, especially for women traveling alone. I felt safe in the hotel and walking the immediate hotel area.  
+<Date>Dec 31, 2005
+<Rating>3	3	3	-1	3	-1	4	-1	
+<Aspects>
+38	4(nice):1	12(friendly):1	15(recommend):1	20(look):2	22(pool):1	34(feel):1	47(eat):1	51(enjoy):1	64(spend):1	68(travel):1	126(especially):1	140(deal):1	202(welcome):1	314(spa):1	320(treat):2	566(woman):1	608(employee):1	909(salad):1	911(october):1	949(chicken):1	1063(rooftop):1	1218(hole):1	1314(self):1	1433(ave):1	1679(appeal):1	1779(eatery):1	2085(wrap):1	2300(rainy):1	2508(mediterranean):1	3048(jw):2	4024(steel):1	4562(pedicure):1	5080(snag):1	5346(greek):1	6874(noticeably):1	6912(courteously):1	9281(brickell):1	9496(precruise):1	
+3	67(call):1	913(relatively):1	1117(inexpensive):1	
+10	17(view):2	22(pool):1	41(city):1	147(business):1	198(chair):1	237(lounge):1	260(overlook):1	433(district):1	912(replace):1	2526(skyline):1	
+24	7(walk):2	28(close):1	34(feel):1	37(review):1	38(lot):1	66(park):1	100(bloc):1	135(build):1	137(safe):1	167(choose):1	230(road):1	302(receive):1	374(reason):1	583(construction):1	600(board):2	667(surround):1	671(bay):1	674(boat):1	924(hyatt):1	1095(miami):1	1136(excite):1	1288(port):1	1761(immediate):1	2299(sail):1	
+0	
+0	
+8	52(bit):1	55(lobby):1	68(travel):1	1191(shoe):1	1734(tennis):1	3183(embarrass):1	3936(jeans):1	4463(opulent):1	
+0	
+
+<Author>Sarasota34235
+<Content>Wow! Beautiful hotel, terrific service! Just returned from a one-night stay at the JW Marriott on Brickell Avenue in Miami. Had the pleasure of staying on the concierge level and was very impressed by the beautiful food presentations - reminded me of a Ritz Carlton Club Floor. The room was beautiful, in shades of yellow, with a 42 Panasonic LCD TV mounted to the wall. The service all around was outstanding.  
+<Date>Dec 28, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+1	862(wow):1	
+0	
+7	45(beautiful):1	116(tv):1	183(wall):1	795(shade):1	1773(lcd):1	1949(yellow):1	2794(mount):1	
+7	39(return):1	618(marriott):1	1090(avenue):1	1095(miami):1	3048(jw):1	4991(one-night):1	9281(brickell):1	
+0	
+0	
+15	9(service):2	16(food):1	24(floor):1	45(beautiful):2	204(concierge):1	212(club):1	306(level):1	343(impress):1	534(outstanding):1	699(terrific):1	825(ritz):1	907(pleasure):1	1285(remind):1	1518(carlton):1	1932(presentation):1	
+0	
+
+<Author>Munson35
+<Content>Met My Expectations The JW Marriott Miami is conveniently located downtown in the heart of the financial district, about 15 to 20 minutes from Miami International Airport and South Beach. Like previous reviews, it is mostly active during the day and a bit subdued at night. If you鈥檙e looking for peace and quiet, this is the place to be. Otherwise, a quick taxi ride to South Beach will cost about $25 each way.Rooms are clean (turned down twice a day), bright (yellow palettes), and with comfortable beds (you can choose the type of pillow), and include modern amenities. The hotel is safe as well since card access is needed not just to open the door to your room but also to in order to activate the elevator system to your floor.Room service is top-notch, with perceptive staff; they know when they鈥檙e needed. The pool is a welcome respite from the day鈥檚 activities and the spa service is excellent as well.  
+<Date>Nov 22, 2005
+<Rating>5	4	4	-1	5	-1	5	-1	
+<Aspects>
+7	2(night):1	8(day):1	37(review):1	52(bit):1	373(previous):1	2455(active):1	6648(subdue):1	
+0	
+27	0(staff):1	3(clean):1	8(day):1	9(service):1	11(bed):1	20(look):1	24(floor):1	25(comfortable):1	54(door):1	58(quiet):1	71(include):1	137(safe):1	151(modern):1	159(access):1	167(choose):1	216(elevator):1	291(amenity):1	292(card):1	303(pillow):1	347(twice):1	389(type):1	518(system):1	880(bright):1	1517(peace):1	1949(yellow):1	3011(top-notch):1	4618(activate):1	
+21	29(minute):1	30(beach):2	84(locate):1	95(airport):1	175(cost):1	185(taxi):1	196(meet):1	218(ride):1	299(quick):1	334(downtown):1	431(expectation):1	433(district):1	450(heart):1	508(otherwise):1	618(marriott):1	769(south):2	903(international):1	1070(conveniently):1	1095(miami):2	1746(financial):1	3048(jw):1	
+0	
+0	
+8	8(day):1	9(service):1	21(excellent):1	22(pool):1	202(welcome):1	314(spa):1	357(activity):1	3947(respite):1	
+0	
+

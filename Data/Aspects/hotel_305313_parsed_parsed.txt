@@ -1,0 +1,490 @@
+<Author>travelgirl67
+<Content>Great Staff, Great Service, Great Stay!       view from room  
+<Date>Dec 5, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+1	17(view):1	
+0	
+0	
+2	0(staff):1	9(service):1	
+0	
+0	
+
+<Author>Suomessa
+<Content>Nice. Just watch the price of the cappuccino Close to the city center and very nicely appointed, having been recently renovated. Slightly noisy due to the main roads in close proximity but I wouldn't let that put you off because it's the case for many hotels in the center. The staff are nice - seemed to be finding their way in some respects - but well intentioned. Just be aware of the very high prices on things like coffees and drinks, which are even more disproportionate to local prices than other cities.Overall, I'd stay here again - but I'd probably lean more towards the China World Hotel, which has a more extensive breakfast and is walking distance to the Silk Road shopping center.  
+<Date>Nov 29, 2008
+<Rating>4	3	4	4	5	4	4	5	
+<Aspects>
+1	4(nice):1	
+10	19(price):1	28(close):1	41(city):1	101(center):1	245(watch):1	322(recently):1	404(nicely):1	533(renovate):1	579(appoint):1	3821(cappuccino):1	
+8	28(close):1	101(center):1	112(main):1	217(noisy):1	230(road):1	259(due):1	598(slightly):1	1114(proximity):1	
+14	6(breakfast):1	7(walk):1	49(shop):1	70(overall):1	101(center):1	115(distance):1	178(probably):1	230(road):1	272(world):1	959(towards):1	1159(china):1	1703(extensive):1	3397(lean):1	4137(silk):1	
+0	
+3	0(staff):1	4(nice):1	1389(respect):1	
+6	19(price):2	41(city):1	63(drink):1	90(coffee):1	195(local):1	832(aware):1	
+0	
+
+<Author>W0OkieE
+<Content>Good Stay Almost :) Such a nice Stay , I spend like 9 Days in this Hotel and here is my Review : Location : Very nice district near the airport but away from the main Shopping Streets / Malls , you will need a taxi to reach them , or a Taxi to the nearest Subway . District is like a business centre , very clean but full of ppl @ night asking you if you need massage . There is some constructions going on , in the area next to the hotel so you might hear them if you are in a lower floor , I recommend you choose a higher floor . Breakfast : So Nice ..Almost Everything is there , Omlet , Cheese , Meat , Chicken , Bakery . Chinese Food . Room : Very nice and clean , Bathroom is so nice also . I liked it .  
+<Date>Nov 20, 2008
+<Rating>4	3	5	4	5	4	3	4	
+<Aspects>
+0	
+0	
+9	3(clean):1	4(nice):2	13(bathroom):1	15(recommend):1	24(floor):2	132(hear):1	167(choose):1	583(construction):1	777(lour):1	
+15	1(location):1	4(nice):2	8(day):1	35(street):1	37(review):1	49(shop):1	64(spend):1	95(airport):1	102(near):2	112(main):1	185(taxi):2	370(subway):1	433(district):1	643(mall):1	851(reach):1	
+0	
+0	
+9	4(nice):1	6(breakfast):1	16(food):1	441(cheese):1	677(meat):1	764(chinese):1	949(chicken):1	1483(bakery):1	7886(omlet):1	
+7	2(night):1	3(clean):1	101(center):1	147(business):1	433(district):1	730(massage):1	4694(ppl):1	
+
+<Author>RobertsMom
+<Content>Great Location - attentive staff       Closet area  
+<Date>Nov 18, 2008
+<Rating>4	4	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+0	
+4	0(staff):1	1(location):1	537(attentive):1	565(closet):1	
+0	
+0	
+0	
+0	
+
+<Author>BoonyGermany
+<Content>Very good 5 star Hotel       view in a room  
+<Date>Nov 5, 2008
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+0	
+2	17(view):1	103(star):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>catozzo123
+<Content>Good Hilton Standard The Hotel as been recently refurbished and part of it still remains to be, I have been at the refurbished executive rooms and they are excellent, very good minibar and roomservice is great.Clean and quite.The hotel restaurants are good and with a good variety of food, the Buffet is outstanding.Good also the location just 15-20 minutes from airport and same time for going downtown.I suggest you ask for the refurbished area.  
+<Date>Sep 8, 2008
+<Rating>4	4	4	4	5	3	4	5	
+<Aspects>
+2	452(suggest):1	1253(refurbish):1	
+0	
+0	
+5	1(location):1	5(time):1	29(minute):1	95(airport):1	334(downtown):1	
+1	3(clean):1	
+0	
+14	10(restaurant):1	16(food):1	21(excellent):1	77(buffet):1	130(standard):1	322(recently):1	413(variety):1	477(hilton):1	534(outstanding):1	872(executive):1	1037(minibar):1	1253(refurbish):2	1391(remain):1	6103(roomservice):1	
+0	
+
+<Author>Frank_and_Barbara
+<Content>Beijing ... you should stay here when you are in Beijing       Executive Launch  
+<Date>Sep 6, 2008
+<Rating>5	5	5	3	4	4	4	4	
+<Aspects>
+3	872(executive):1	1240(beije):2	6575(launch):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Hotcornerhank
+<Content>Nice hotel Just stayed one night in the hotel and wanted to be close to the airport. It's clean, comfortable and the service is excellent. The rooms were very nice as well as the bathrooms. Breakfast was a little expensive ($30 USD), but the selection was amazing. I would stay there again, but only for short stays, as it seems somewhat inconvenient to get to the city center of Beijing.  
+<Date>Jun 26, 2008
+<Rating>4	4	4	3	4	5	5	3	
+<Aspects>
+0	
+6	6(breakfast):1	23(little):1	124(expensive):1	145(amaze):1	333(selection):1	1807(usd):1	
+2	4(nice):1	13(bathroom):1	
+4	2(night):1	4(nice):1	28(close):1	95(airport):1	
+4	3(clean):1	9(service):1	21(excellent):1	25(comfortable):1	
+0	
+0	
+6	41(city):1	101(center):1	144(short):1	651(somewhat):1	1240(beije):1	2301(inconvenient):1	
+
+<Author>SFDancer91
+<Content>No mango shake, no stay. Hilton hotels are never impeccable but always decent. But, this one was a disaster, in my experience.The exterior was under construction, so arriving on a raining day was a yuck first impression. Then the front desk woman had an attitude. The room and bathroom were small. THE LUGGAGE BENCH HAD A VISIBLE LAYER OF WHITE DUST which was unacceptable. Finally when I went to one of the hotel restaurants, the staff couldn't accommodate my simple request. I asked them to not use the ginger in the mango shake with honey and ginger. The waitress said she had to check with the chef, and then told me the chef said we can't do it b/c it won't be the same drink any more. I told her I would take full responsibility for the drink being unoriginal or whatever it would turn out to be, BECAUSE THAT WAS WHAT I WANTED. She then had to check with the manager, and returned to tell me our manager said you should maybe order the orange juice instead. I was stunned but was really in the mood for a mango shake. So I ordered the mango shake with the ginger. I then packed my stuff and left in a hurry. You might think it's funny that I left a hotel for a mango drink. But it's the principle of it that I can't tolerate. In the capital city of China where thousands of new and existing hotels are competing for the summer Olympic customers and beyond, there is no need to put up with anything that's below satisfactory.BTW, the Marriott West hotel in Beijing that I moved to was a hidden gem. Beautiful French decor. Amazing city view if you get a nice room. And, great service!  
+<Date>Jun 18, 2008
+<Rating>1	1	2	4	1	2	1	4	
+<Aspects>
+34	8(day):1	41(city):1	43(leave):1	53(arrive):1	257(decent):1	428(customer):1	477(hilton):1	480(stuff):1	581(rain):1	583(construction):1	585(below):1	715(pack):1	738(beyond):1	848(impression):1	853(summer):1	988(stun):1	1159(china):1	1542(impeccable):1	1828(exterior):1	2039(exist):1	2059(satisfactory):1	2132(mood):1	2265(hurry):1	2286(olympic):1	2517(shake):4	3151(yuck):1	3324(capital):1	3619(mango):4	3659(honey):1	3752(thousand):1	3941(compete):1	4239(tolerate):1	6284(ginger):3	6511(principle):1	
+2	44(experience):1	2355(disaster):1	
+8	4(nice):1	13(bathroom):1	17(view):1	41(city):1	45(beautiful):1	145(amaze):1	254(french):1	269(decor):1	
+0	
+0	
+22	0(staff):1	10(restaurant):1	31(front):1	32(check):2	36(desk):1	39(return):1	63(drink):1	69(tell):2	148(request):1	258(manager):2	308(maybe):1	341(finally):1	353(instead):1	362(juice):1	487(wo):1	566(woman):1	613(simple):1	624(accommodate):1	821(attitude):1	1104(orange):1	1361(chef):2	1387(waitress):1	
+22	9(service):1	43(leave):1	63(drink):2	69(tell):1	207(move):1	249(luggage):1	466(white):1	618(marriott):1	805(gem):1	937(whatever):1	953(west):1	1156(funny):1	1195(hide):1	1240(beije):1	1845(dust):1	2230(unacceptable):1	2662(visible):1	2713(btw):1	3270(bench):1	3619(mango):1	3721(responsibility):1	4192(layer):1	
+0	
+
+<Author>worldtravelers3
+<Content>Way to Go in Beijing Stayed for 4 days in March, and will stay again when I go to Beijing. This is a perfect hotel for business, couples, and families with kids. The hotel is near shopping, and not too far from the center of Beijing. The rooms are new, the service is impeccable, and the hotel manager is one of the best I have seen in China so far. The hotel looks small upon arrival, however the foyer is grand. Enjoy a night cocktail in their bars. In Beijing this hotel is a great for the price.  
+<Date>May 18, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+3	8(day):1	615(march):1	1240(beije):2	
+2	19(price):1	1240(beije):1	
+4	9(service):1	258(manager):1	1159(china):1	1542(impeccable):1	
+13	20(look):1	49(shop):1	74(perfect):1	99(couple):1	101(center):1	102(near):1	106(family):1	147(business):1	201(kid):1	224(arrival):1	365(grand):1	1240(beije):1	1931(foyer):1	
+0	
+0	
+4	2(night):1	27(bar):1	51(enjoy):1	716(cocktail):1	
+0	
+
+<Author>DLMCC
+<Content>Good hotel on right side of town for airport I stayed here for 5 nights on business. I was not on the executive floor but my room was well equipped and spacious. The bathroom is well equipped and spacious also with good toiletries. The temperature outside was below freezing for the duration of my stay but the rooms, bars and restaurants were all cosy. If you sit too near the door in the lobby you will be blasted by icy air every so often though. The food and service was good but the more expensive restaurant and bar were very empty and therefore pretty soul-less. Breakfast was very good with a choice of Chinese and western food. I would certainly return.  
+<Date>Feb 8, 2008
+<Rating>4	5	5	5	5	5	5	5	
+<Aspects>
+1	39(return):1	
+0	
+13	13(bathroom):1	24(floor):1	54(door):1	55(lobby):1	102(near):1	111(spacious):2	164(air):1	169(sit):1	657(toiletry):1	872(executive):1	884(equip):2	1279(blast):1	6792(icy):1	
+4	2(night):1	95(airport):1	147(business):1	239(town):1	
+0	
+0	
+17	6(breakfast):1	9(service):1	10(restaurant):2	16(food):2	27(bar):2	98(outside):1	107(choice):1	109(pretty):1	124(expensive):1	585(below):1	749(cozy):1	764(chinese):1	810(empty):1	944(temperature):1	1015(western):1	1321(freeze):1	2961(duration):1	
+0	
+
+<Author>hoognj
+<Content>Amazing service Staff was unbelievably attentive and helpful. We stayed on the concierge level complimentary with our Hilton Hhonors membership which is food and drinks pretty much all day long. If you are a light eater than can save you on some dinners. The concierge staff were always accomodating and pleasant to talk to. The hotel and rooms were extremely clean. Hotel lobby was modern and high class. Turndown service, robe, and slippers were a nice touch. The rooms were standard small size with Crabtree and Eveyln products outfitted in marble, with a large tub and separate shower. It had an fancy coffee machine as well as the usual teas and nice oversized closets. The gym was well fitted with racquetball courts and a good sized indoor pool. The staff sets up the machines and gets you drinks, brings you towels. The bar is great...lots of people watching and fun drinks. Breakfast buffet was a highlight. The food was fresh, delicious, and in abundant selection. We never had a problem taking a taxi as they have door people abundant who hail the taxis and let them know where you are going. We made sure to get the written name and address of the place from the hotel concierge as well as kept a card  map with the Hilton's address for the return ride. Also make sure the taxi drivers use the meter. Taxis were not very expensive between $3 nearby -$7half hour ride. Took a group tour for the Great Wall but they make alot of stops at factories where they give you a tour then sell the items at a large markup. If your short on time or these stops annoy you go with a private tour. Make sure to try a Peking Duck restaurant...it is amazing.  
+<Date>Feb 7, 2008
+<Rating>5	5	4	4	5	5	5	5	
+<Aspects>
+6	5(time):1	122(stop):1	144(short):1	181(tour):1	492(private):1	695(annoy):1	
+0	
+20	3(clean):1	22(pool):1	61(shower):1	83(size):2	110(extremely):1	117(dinner):1	130(standard):1	157(light):1	311(tub):1	425(save):1	474(separate):1	523(gym):1	668(fit):1	705(marble):1	1068(court):1	1081(product):1	1658(eater):1	1680(indoor):1	4082(outfit):1	6793(crabtree):1	
+18	26(people):1	54(door):1	60(hour):1	122(stop):1	124(expensive):1	181(tour):2	183(wall):1	185(taxi):4	218(ride):1	232(nearby):1	519(item):1	563(driver):1	606(sell):1	647(alot):1	1194(metre):1	2317(factory):1	2852(hail):1	3219(abundant):1	
+0	
+18	0(staff):2	9(service):1	14(helpful):1	39(return):1	145(amaze):1	150(pleasant):1	204(concierge):2	218(ride):1	292(card):1	295(name):1	344(write):1	371(talk):1	477(hilton):1	537(attentive):1	549(accomodate):1	724(map):1	1312(address):2	2590(unbelievably):1	
+47	0(staff):1	4(nice):2	6(breakfast):1	8(day):1	9(service):1	10(restaurant):1	16(food):2	26(people):1	27(bar):1	38(lot):1	55(lobby):1	63(drink):3	76(try):1	77(buffet):1	90(coffee):1	109(pretty):1	125(towel):1	142(bring):1	145(amaze):1	151(modern):1	176(fun):1	197(fresh):1	204(concierge):1	234(set):1	245(watch):1	279(touch):1	301(tea):1	306(level):1	333(selection):1	345(complimentary):1	470(class):1	477(hilton):1	485(delicious):1	493(machine):2	565(closet):1	682(usual):1	796(fancy):1	1046(robe):1	1141(highlight):1	1306(slipper):1	1921(duck):1	2080(turndown):1	3219(abundant):1	3426(oversized):1	3670(membership):1	4560(hhonor):1	6615(peke):1	
+0	
+
+<Author>Smart_traveler8
+<Content>The HIlton Beijing The Hilton Beijing is a marvelous facility with excellent staff. The service, the food, and the rooms are great. Also, when something does not go according to plan, they work hard to make it right. We stayed there for a total of five nights in January 2008 and would not hesitate to stay there again.ENJOY!  
+<Date>Feb 5, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	2(night):1	51(enjoy):1	162(hard):1	221(plan):1	786(total):1	902(hesitate):1	1018(january):1	2019(accord):1	
+0	
+0	
+6	0(staff):1	21(excellent):1	211(facility):1	477(hilton):2	1240(beije):2	2187(marvelous):1	
+0	
+0	
+2	9(service):1	16(food):1	
+0	
+
+<Author>DCRatcliff
+<Content>Tries hard......... Stayed over a weekend. It was cold and the lobby was too chilly to stay and sit down which is a problem as this is where the cafe and one of the bars are. So if you just want to hang out there is nowhere to do this is except the executive floor. The rooms were nice and the staff tried very hard and were helpful. I didn't like the gym at all. The food was OK but expensive. I will try somewhere else next time.  
+<Date>Feb 2, 2008
+<Rating>2	2	4	3	4	4	4	4	
+<Aspects>
+5	5(time):1	76(try):2	162(hard):1	170(else):1	172(weekend):1	
+3	16(food):1	123(ok):1	124(expensive):1	
+9	0(staff):1	4(nice):1	14(helpful):1	24(floor):1	162(hard):1	253(tried):1	337(except):1	478(hang):1	872(executive):1	
+0	
+0	
+0	
+7	27(bar):1	55(lobby):1	169(sit):1	222(cold):1	275(cafe):1	523(gym):1	2622(chilly):1	
+0	
+
+<Author>snrman
+<Content>Outstanding Service Visited Beijing Hilton between Christmas and New Year. I was very impressed with the staff and the facility.I have lived and traveled in Asia for more than 10 years; this was the best trained and most capable hotel staff I have encountered in China. I stayed on the executive floor; the staff in the lounge was courteous and attentive without hovering . FB quality very good, room was well maintained and comfortable. The fitness center was well-equipped and staff helpful. I recommend the hotel without any hesitation -  
+<Date>Jan 15, 2008
+<Rating>5	5	5	3	5	4	5	5	
+<Aspects>
+2	15(recommend):1	1373(hesitation):1	
+4	25(comfortable):1	187(quality):1	562(maintain):1	8404(fb):1	
+7	0(staff):1	24(floor):1	237(lounge):1	483(courteous):1	537(attentive):1	872(executive):1	6417(hover):1	
+10	0(staff):2	68(travel):1	182(train):1	206(live):1	211(facility):1	343(impress):1	693(encounter):1	1159(china):1	2108(asia):1	5081(capable):1	
+0	
+5	0(staff):1	14(helpful):1	101(center):1	983(fitness):1	3542(well-equip):1	
+6	9(service):1	65(visit):1	477(hilton):1	534(outstanding):1	962(christmas):1	1240(beije):1	
+0	
+
+<Author>JoshesBoy
+<Content>All good(ish) Stayed here on a work trip and found it a pleasant place to stay for 4 nights. The food for breakfast was great with loads of choice of hot and cold dishes.The rooms are of a high standard and kept very clean.Service in all the bars is tip-top.Prices in the restaurant are expensive but I guess you expect this.Not the best location to be honest as it's not really at the exciting parts of town but as taxis are SO cheap by UK standards that's not really a problem.Staff are uber-friendly.My only gripe would be to check your bill at check-out time for odd items from the mini-bar. I hadn't used mine and in my delirious early departure didn't notice some items had been added.  
+<Date>Dec 21, 2007
+<Rating>4	4	4	3	4	4	4	4	
+<Aspects>
+9	2(night):1	33(trip):1	150(pleasant):1	351(add):1	354(notice):1	519(item):1	1031(departure):1	1269(mine):1	4244(ish):1	
+5	10(restaurant):1	19(price):1	62(expect):1	124(expensive):1	469(guess):1	
+2	3(clean):1	130(standard):1	
+8	1(location):1	130(standard):1	143(cheap):1	185(taxi):1	239(town):1	1108(honest):1	1136(excite):1	1178(uk):1	
+0	
+9	0(staff):1	5(time):1	32(check):1	495(bill):1	519(item):1	658(checkout):1	1088(odd):1	1338(mini-bar):1	1788(gripe):1	
+9	6(breakfast):1	9(service):1	16(food):1	27(bar):1	107(choice):1	114(hot):1	222(cold):1	816(dish):1	886(load):1	
+0	
+
+<Author>GlobalEyes
+<Content>Fine Hotel, But Not a Great Locale       Room  
+<Date>Nov 30, 2007
+<Rating>4	5	5	1	5	5	5	-1	
+<Aspects>
+0	
+0	
+2	113(fine):1	4349(locale):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Geoexplore99
+<Content>Great Location The Hilton Beijing is a 5-star hotel in a central location for tourists and business. The rooms are clean, but a but smaller than the Intercontinental. Service was excellent. Upgrading to Executive Suites is well worth it as you will get complimentary full bar happy hour and breakfast.  
+<Date>Nov 21, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+11	3(clean):1	6(breakfast):1	27(bar):1	60(hour):1	96(worth):1	108(suite):1	155(happy):1	163(upgrade):1	345(complimentary):1	872(executive):1	1606(intercontinental):1	
+7	1(location):2	147(business):1	168(central):1	209(tourist):1	477(hilton):1	1240(beije):1	1831(5-star):1	
+0	
+0	
+2	9(service):1	21(excellent):1	
+0	
+
+<Author>TacticalTraveler
+<Content>Service with a Smile, and in crystal clear English       expresso machine in king size room  
+<Date>Nov 16, 2007
+<Rating>5	4	5	3	5	5	5	5	
+<Aspects>
+0	
+0	
+8	9(service):1	83(size):1	152(english):1	243(king):1	387(smile):1	493(machine):1	2324(espresso):1	2430(crystal):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>beijingtravel2world
+<Content>Near the downtown The hotel is beside 3rd Ring Road, and is very near Luf Shopping Mall. It's convinient. To the south of the hotel is CBD. Most Fortune 500 companies stay in CBD.  
+<Date>Oct 23, 2007
+<Rating>3	4	4	4	4	3	3	4	
+<Aspects>
+3	769(south):1	2731(cbd):1	5866(convinient):1	
+0	
+0	
+8	49(shop):1	102(near):2	230(road):1	334(downtown):1	643(mall):1	1150(ring):1	1350(beside):1	2097(3rd):1	
+0	
+0	
+0	
+3	760(company):1	2490(fortune):1	2731(cbd):1	
+
+<Author>elysium246
+<Content>Wonderful Hotel in Beijing This hotel easily deserves a 5-star rating on TripAdvisor. I stayed here for 8 nights on business, and was amazed by the consistently great service. Internet is lightning fast, the gym is all you need (there are even squash courts and an indoor pool). If you are a Gold/Diamond HHonors member, the Executive lounge is wonderful - free snacks all day, from fresh sushi to smoked salmon to good cheeses. And the happy hour has any/all drinks.The rooms aren't large, nor small, but very well furnished. I had a large glass shower and a separate bath, with a tv in the bathroom if you decide to take a bath and watch some CNN.The location is a quick taxi drive along the ring road to the business district. The restaurants are good, and the buffet at Elements is actually a good value for a hotel buffet.But the service was just perfect - always willing to help with anything. Everyone speaks at least decent english, which is helpful in a city where most people don't speak english at all.I strongly recommend this hotel.  
+<Date>Oct 13, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	14(helpful):1	15(recommend):1	26(people):1	41(city):1	127(speak):2	152(english):2	257(decent):1	1386(strongly):1	
+7	48(wonderful):1	78(rate):1	438(easily):1	597(tripadvisor):1	1072(deserve):1	1240(beije):1	1831(5-star):1	
+19	13(bathroom):1	22(pool):1	61(shower):1	97(internet):1	116(tv):1	219(decide):1	226(bath):2	245(watch):1	327(glass):1	474(separate):1	499(fast):1	523(gym):1	787(furnish):1	970(nor):1	1068(court):1	1680(indoor):1	2101(cnn):1	5235(squash):1	7972(lightning):1	
+12	1(location):1	2(night):1	9(service):1	145(amaze):1	147(business):2	185(taxi):1	230(road):1	298(drive):1	299(quick):1	433(district):1	1150(ring):1	2249(consistently):1	
+0	
+0	
+24	8(day):1	9(service):1	10(restaurant):1	46(free):1	48(wonderful):1	60(hour):1	63(drink):1	74(perfect):1	77(buffet):2	81(value):1	92(help):1	155(happy):1	180(actually):1	197(fresh):1	237(lounge):1	406(snack):1	441(cheese):1	468(smoke):1	872(executive):1	1571(gold):1	1632(sushi):1	2376(salmon):1	3232(element):1	4560(hhonor):1	
+0	
+
+<Author>NooYawkuh
+<Content>Expensive, but good quality The Hilton Beijing is a top-end hotel in the Chaoyang area of Beijing.(1) Neighborhood(I'm actually copying this section from another hotel review that I wrote because the two hotels are near each other and the information is exactly the same.)The Hotel is realtively close to the airport -- about 25 minutes, assuming good traffic conditions. (Beijing is urban sprawl hell, so this is a good location if you want to be close to the airport.) A taxi from the airport should cost about Y$75 (about US$10). The hotel is located in the Chaoyang neighborhood, but there's really not much to see within walking distance. There are a number of embassies located nearby, a street called Super Bar for nightlife, and a decent mall, all within walking distance. The neighborhood was perfectly acceptable, if lacking in major siteseeing opportunities. The hotel has a taxi stand, and taxis are relatively inexpensive (at least to NYC standards). The hotel is not close to any subway stations.(2) Check-In / Check-OutCheck-in and check-out are very smooth. The employees speak fantastic English and are polite and helpful. There's also a service for checking out the night before you leave. There's always multiple people in the lobby to help you with anything you need. A concierge service can confirm airline bookings and other things.(3) PriceMy friend and I paid US$187/night for a room with two beds.(4) RoomsThe rooms are great. Extremely comfortable beds, mattresses, and sheets. There's lots of space to spread out, with a desk, multiple closets, and comfortable chairs.The bathroom was large with separate shower stall and bathtub. There are plenty of towels and bathrobes are included in the room.The quality of the room was more than good, though I'm not sure I would rate it as excellent, only because it didn't have too many extras.One slight annoyance: A maid tried to clean our room at 8:30 am on a Saturday morning. We had bolted the door, so she realized that we hadn't left yet for the day, but in a luxury hotel, the staff really should know better than to wake people up early on a weekend.(5) Other AmenitiesComputers with internet access are available on the 3rd floor for Y$3/minute. This is about US$24/hour. Quite honestly, this was the most expensive price for use of a computer with internet access that I found anywhere in China. I'm aware that this is a luxury hotel with business clientelle and expense accounts to burn, but US$24/hour is a rip-off, plain and simple, and no amount of luxury can justify this price. There was internet service available in the room, but we didn't have a computer.The room includes 2 free bottles of water and a huge delicious apple every day, along with cloth napkin and a knife. 1 Liter of Evian is available for sale for Y$60. (As a comparison, the other hotel we stayed at in this neighborhood sold Evian for Y$30, and a nearby store sold it for Y$18.)Every evening, there was live music at the front of the hotel. Nice and relaxing after a long day.Guests have free use of a gym in the hotel. The staff at the gym seemed like they wanted to actually show me how to use the equipment before I told them that I knew what I was doing.(6) ConclusionThis is a top-end business-class hotel, located close to the airport. There are many amenities and luxuries, and the service is top-notch. Perhaps that's also my main complaint: I don't really need or desire this type of luxury while travelling. (I was staying here because my travelling companion wanted a few nights at a top-end hotel.) As a result, I found the extremely expensive internet service to be almost usurious.Despite that, however, I'll say that this hotel does give value for the money. The service really is fantastic, and there's a bit of pampering involved. The lobby is gorgeous, and the cafes in the lobby are the kinds of places where you can easily greet business clients. The rooms are extremely comfortable and will most certainly result in a good night's sleep. The employees are courteous and helpful. It's a good place, especially if you're looking for much more than just a basic place to sleep for the night.  
+<Date>Sep 5, 2007
+<Rating>4	4	5	3	5	5	5	3	
+<Aspects>
+27	2(night):1	4(nice):1	8(day):1	14(helpful):2	68(travel):2	86(fantastic):1	112(main):1	127(speak):1	134(available):1	152(english):1	160(relax):1	190(complaint):1	232(nearby):1	255(store):1	389(type):1	421(neighbourhood):1	422(polite):1	437(luxury):1	483(courteous):1	606(sell):2	608(employee):2	1219(desire):1	1525(comparison):1	1723(sale):1	2998(companion):1	5282(liter):1	5366(evian):2	
+31	9(service):1	11(bed):1	19(price):1	21(excellent):1	42(pay):1	78(rate):1	80(money):1	81(value):1	97(internet):1	110(extremely):1	124(expensive):2	128(extra):1	146(friend):1	147(business):1	187(quality):2	437(luxury):2	477(hilton):1	498(despite):1	613(simple):1	666(amount):1	832(aware):1	1109(result):1	1240(beije):2	1289(burn):1	1546(plain):1	1730(account):1	2058(expense):1	3780(rip-off):1	3895(justify):1	10651(clientelle):1	12316(chaoyang):1	
+45	2(night):2	3(clean):1	8(day):1	11(bed):1	13(bathroom):1	20(look):1	25(comfortable):3	36(desk):1	38(lot):1	46(free):1	56(morning):1	57(water):1	61(shower):1	71(include):2	104(sleep):2	110(extremely):2	125(towel):1	126(especially):1	133(huge):1	158(plenty):1	198(chair):1	210(space):1	238(bottle):1	253(tried):1	300(maid):1	352(basic):1	474(separate):1	479(sheet):1	485(delicious):1	565(closet):1	818(saturday):1	847(mattress):1	905(apple):1	1023(bathtub):1	1109(result):1	1203(spread):1	1297(slight):1	1529(bathrobe):1	1701(stall):1	1732(multiple):1	1864(cloth):1	2966(annoyance):1	4166(napkin):1	4298(knife):1	9644(roomsthe):1	
+41	1(location):1	7(walk):2	27(bar):1	28(close):4	29(minute):1	35(street):1	67(call):1	82(station):1	84(locate):3	95(airport):4	115(distance):2	130(standard):1	175(cost):1	185(taxi):3	232(nearby):1	257(decent):1	263(condition):1	315(major):1	335(numb):1	349(lack):1	370(subway):1	421(neighbourhood):2	444(stand):1	464(super):1	486(traffic):1	558(nyc):1	595(perfectly):1	643(mall):1	913(relatively):1	1117(inexpensive):1	1214(acceptable):1	1235(opportunity):1	1240(beije):1	1305(nightlife):1	1407(assume):1	1768(embassy):1	1918(hell):1	2673(urban):1	4778(sprawl):1	7501(siteseeing):1	12316(chaoyang):1	
+0	
+31	0(staff):2	2(night):1	8(day):1	9(service):1	26(people):1	31(front):1	32(check):1	37(review):1	43(leave):2	54(door):1	69(tell):1	102(near):1	172(weekend):1	180(actually):2	206(live):1	286(check-in):1	344(write):1	398(music):1	421(neighbourhood):1	437(luxury):1	523(gym):1	554(wake):1	586(exactly):1	607(realize):1	649(information):1	658(checkout):1	947(section):1	1211(equipment):1	1400(smooth):1	2245(copy):1	5277(bolt):1	
+25	9(service):3	26(people):1	46(free):1	52(bit):1	55(lobby):3	86(fantastic):1	91(guest):1	92(help):1	147(business):1	204(concierge):1	275(cafe):1	291(amenity):1	415(greet):1	437(luxury):1	438(easily):1	446(gorgeous):1	523(gym):1	982(confirm):1	1336(airline):1	1538(involve):1	1732(multiple):1	1815(pamper):1	1952(client):1	2531(booking):1	3011(top-notch):1	
+11	9(service):1	19(price):1	24(floor):1	97(internet):3	124(expensive):1	134(available):2	159(access):2	555(computer):2	1028(honestly):1	1159(china):1	2097(3rd):1	
+
+<Author>GoeieWitte
+<Content>Location looses versus ammenity Stayed here for business during cold Winter.Stayed on the seventh floor in remodeled room.Room was nicely decorated, fresh looking, clean and conveniently laid out.Standard Western Style hotel with associated amenities.Staff was friendly, helpful and many could speak decent English.Humor: staff wears award winning robes  
+<Date>Aug 27, 2007
+<Rating>3	2	4	3	4	4	4	4	
+<Aspects>
+5	130(standard):1	291(amenity):1	326(style):1	1015(western):1	2648(associate):1	
+0	
+10	3(clean):1	20(look):1	24(floor):1	197(fresh):1	305(decorate):1	404(nicely):1	696(lay):1	1070(conveniently):1	1238(remodel):1	4890(seventh):1	
+7	1(location):1	147(business):1	222(cold):1	1599(winter):1	2231(ammenity):1	2234(loose):1	3924(versus):1	
+0	
+11	0(staff):2	12(friendly):1	14(helpful):1	127(speak):1	152(english):1	257(decent):1	434(wear):1	1046(robe):1	1273(win):1	2945(award):1	3169(humor):1	
+0	
+0	
+
+<Author>GoodtoGoSwitzerland
+<Content>Great gym Stayed at the hotel for business reasons. Not only were all of the staff helpful, but has a great gym. I saw the construction mentioned by other reviewers, but it didn't bother me. Perhaps I was on the non-noisy side of the hotel.  
+<Date>Aug 14, 2007
+<Rating>5	4	5	4	5	5	5	5	
+<Aspects>
+4	244(mention):1	307(bother):1	564(reviewer):1	583(construction):1	
+0	
+0	
+3	147(business):1	374(reason):1	523(gym):1	
+0	
+3	0(staff):1	14(helpful):1	523(gym):1	
+0	
+0	
+
+<Author>cy_steve
+<Content>Good Hotel but noisy construction next door I recently stayed at the Beijing Hilton and while impressed with the hotel, the construction next door was loud. The workers worked until after midnight.I asked to be moved but was told there were no more rooms. Half the hotel faces this construction so I guess it would be hard to move everyone.The room was nice though but had an odd odor. The bed was very nice. Once the construction stopped I slept well. The bathroom was roomy with both a bath and stall shower.A fuse blew in my room and I will commend the hotel for getting it fixed right away. It looks like they had had this problem before as when I checked in the door to the fuse box was open.If I was on the other side of the hotel my review would have been a whole lot better. The rest of the service was exceptional and the buffet was excellent.  
+<Date>Aug 6, 2007
+<Rating>3	3	2	5	5	5	5	5	
+<Aspects>
+16	37(review):1	38(lot):1	54(door):2	162(hard):1	207(move):1	217(noisy):1	283(half):1	322(recently):1	343(impress):1	416(loud):1	469(guess):1	477(hilton):1	583(construction):3	1044(midnight):1	1125(worker):1	1240(beije):1	
+0	
+18	4(nice):2	11(bed):1	13(bathroom):1	61(shower):1	69(tell):1	104(sleep):1	122(stop):1	207(move):1	226(bath):1	494(fix):1	583(construction):1	1088(odd):1	1146(blow):1	1353(roomy):1	1628(odor):1	1701(stall):1	4080(commend):1	6921(fuse):1	
+0	
+0	
+5	20(look):1	32(check):1	54(door):1	945(box):1	6921(fuse):1	
+5	9(service):1	21(excellent):1	77(buffet):1	288(rest):1	837(exceptional):1	
+0	
+
+<Author>BDavisDecatur_GA
+<Content>Excellent - will stay again Excellent Hilton property and customer service...I am a Hilton Honors Diamond VIP level. After staying in Chinese-owned hotels, it was a nice change to a familiar corporate hotel chain. This would be a good option for foreigners who crave a bit of Western comfort.Rooms are clean, modern, comfortable with all the ammenities such as robe/slipper, well-stocked beverages and snacks, safe. Bathroom is large with plenty of room for two people. Bedding was extremely comfortable and slept well.Room service was excellent...there are many restaurants in the hotel and we ate several meals in-room. The location requires taxi rides to other locations but taxi fares are not expensive (make sure you choose a taxi that has a working meter or else you will haggle a price once you arrive at your destination).The staff was excellent...they speak very clear English, are friendly and attentive.  
+<Date>Jul 23, 2007
+<Rating>5	5	5	3	5	5	5	5	
+<Aspects>
+11	4(nice):1	52(bit):1	161(change):1	336(option):1	627(chain):1	702(comfort):1	1015(western):1	1802(corporate):1	2081(familiar):1	4648(crave):1	5084(foreigner):1	
+0	
+15	3(clean):1	11(bed):1	13(bathroom):1	25(comfortable):2	26(people):1	104(sleep):1	110(extremely):1	137(safe):1	151(modern):1	158(plenty):1	406(snack):1	1046(robe):1	1334(beverage):1	2231(ammenity):1	4525(well-stock):1	
+13	1(location):2	19(price):1	53(arrive):1	124(expensive):1	167(choose):1	170(else):1	185(taxi):3	218(ride):1	722(require):1	1092(destination):1	1112(fare):1	1194(metre):1	2768(haggle):1	
+0	
+6	0(staff):1	12(friendly):1	21(excellent):1	127(speak):1	152(english):1	537(attentive):1	
+13	9(service):2	10(restaurant):1	21(excellent):3	47(eat):1	213(meal):1	214(property):1	306(level):1	428(customer):1	477(hilton):2	1137(diamond):1	1301(in-room):1	1376(honor):1	1555(vip):1	
+0	
+
+<Author>CreativeArts
+<Content>Great Hotel, Great service The service at the Beijing Hilton was excellent in every area, and available 24/7. Myself and my family felt very comfortable at the hotel while visiting a new city and a different culture. (on business and holiday). Everyone made us feel welcomed. House keeping was excellent and responsive. Rooms were comfortable, clean. Quiet at night. Great bathroom, big tub to soak in and separate shower. Great beds. The staff were wonderful. Anticipating needs and providing excellent service without being solicitous. Friendly and kind, very good english. Staff and travel desk did a great job with helping in-country travel arrangements. Always making sure we understood the issues and answered all our questions or pointed us in the right direction. A wonderful staff that should make Hilton proud to have. Concierge desk always made sure we could get somewhere and get back. A home away from home. Highly recommended.  
+<Date>Jul 19, 2007
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+17	12(friendly):1	15(recommend):1	25(comfortable):1	34(feel):2	41(city):1	65(visit):1	106(family):1	138(highly):1	141(home):2	152(english):1	202(welcome):1	265(issue):1	391(understand):1	394(question):1	395(direction):1	669(answer):1	1497(culture):1	
+0	
+13	2(night):1	3(clean):1	11(bed):1	13(bathroom):1	21(excellent):1	25(comfortable):1	58(quiet):1	61(shower):1	281(house):1	311(tub):1	474(separate):1	1468(soak):1	2351(responsive):1	
+2	147(business):1	223(holiday):1	
+0	
+10	0(staff):3	36(desk):2	48(wonderful):2	68(travel):2	92(help):1	204(concierge):1	477(hilton):1	481(job):1	1415(arrangement):1	3346(proud):1	
+8	9(service):3	21(excellent):2	134(available):1	153(provide):1	477(hilton):1	1240(beije):1	2305(anticipate):1	9164(solicitous):1	
+0	
+
+<Author>BandC_Explorer
+<Content>Enjoyable Stay at the Hilton Beijing My spouse and I stayed 4 nights at the Hilton Beijing using hotel points. Overall we were impressed by the level of service and quality of the room and would recommend the hotel. Unfortunately, there was one significant negative: the location. The hotel is just beyond the entrance to the third ring road so it was either a U-turn to go into the city or a double U-turn to get on the highway to see outside the city sites (Great Wall, Summer Palace, etc.). The traffic in Beijing is quite bad all day through about 9 pm at night (It took 45 minutes to get to the Temple of Heaven leaving at 10:15 am). One day, we took a taxi just to the subway to save time and it still took over 15 minutes. Maybe when the new subway lines are available, one will reach this area.More specific information about our visit:- Check in was pleasant and easy. There was a welcome food tray and a bottle of wine in the room. They did not upgrade our room but we did have access to the Executive Lounge on the 22nd floor for free breakfast (cereal, eggs, limited dim sum, cheese, fruit, pastry, excellent smoked fish), happy hour, and wireless internet (also available in the lobby) which we did not expect.- Room decor was simple but in good condition - not flashy or exotic but more a classic style. We had some extra luggage because this vacation was an add-on after a business trip but there was room for 2 large and 4 smaller bags. Bath had a nice shower, large tub, room for two at the sink area (single sink) and lighted magnifying mirror although lighting overall could have been brighter.- Best thing about the hotel was the service level - called for laundry pickup and someone was there within 3 minutes, concierge called restaurants/shops to get directions and then went out to the taxi to explain, never a wait for a taxi, we wanted sandwiches to take with us to the Great Wall and the snack shop in the lobby called to get the sandwiches delivered 10 minutes early so we could depart on time. Everyone had a friendly demeanor, spoke decent English and had a service-oriented attitude.A very good hotel overall but plan on extra travel time given its location.  
+<Date>Jun 25, 2007
+<Rating>4	4	4	2	4	5	5	4	
+<Aspects>
+10	2(night):1	134(available):1	188(line):1	308(maybe):1	370(subway):1	477(hilton):2	567(enjoyable):1	851(reach):1	1240(beije):2	3969(spouse):1	
+6	9(service):1	15(recommend):1	70(overall):1	187(quality):1	306(level):1	343(impress):1	
+18	4(nice):1	61(shower):1	70(overall):1	157(light):2	226(bath):1	263(condition):1	269(decor):1	304(single):1	311(tub):1	326(style):1	509(sink):2	613(simple):1	880(bright):1	1129(mirror):1	1789(classic):1	3079(exotic):1	5613(flashy):1	6046(magnify):1	
+42	1(location):2	2(night):1	5(time):2	8(day):2	29(minute):2	33(trip):1	41(city):2	43(leave):1	50(bad):1	68(travel):1	70(overall):1	73(etc):1	98(outside):1	128(extra):2	131(vacation):1	147(business):1	179(double):1	183(wall):1	185(taxi):1	192(site):1	221(plan):1	230(road):1	249(luggage):1	282(negative):1	290(bag):1	370(subway):1	393(pm):1	425(save):1	486(traffic):1	490(entrance):1	524(unfortunately):1	532(third):1	642(palace):1	738(beyond):1	853(summer):1	1150(ring):1	1240(beije):1	1363(heaven):1	1870(highway):1	2362(significant):1	2626(temple):1	10765(add-on):1	
+0	
+6	32(check):1	65(visit):1	93(easy):1	150(pleasant):1	649(information):1	1848(specific):1	
+57	5(time):1	6(breakfast):1	9(service):1	12(friendly):1	16(food):1	21(excellent):1	24(floor):1	29(minute):2	46(free):1	49(shop):1	55(lobby):2	60(hour):1	62(expect):1	67(call):3	85(wait):1	97(internet):1	127(speak):1	134(available):1	152(english):1	155(happy):1	159(access):1	163(upgrade):1	183(wall):1	185(taxi):2	202(welcome):1	204(concierge):1	215(fruit):1	237(lounge):1	238(bottle):1	251(wine):1	257(decent):1	306(level):1	395(direction):1	406(snack):1	412(egg):1	441(cheese):1	468(smoke):1	510(limit):1	529(cereal):1	631(deliver):1	652(pastry):1	653(fish):1	717(wireless):1	768(explain):1	821(attitude):1	872(executive):1	1071(sandwich):2	1075(laundry):1	1651(sum):1	1767(tray):1	1814(depart):1	2048(dim):1	2258(pickup):1	3920(restaurants):1	6381(22nd):1	7150(demeanor):1	9428(service-orient):1	
+0	
+
+<Author>thusly
+<Content>Rennovation really improved the hotel! Just spent two days at this hotel that just finished a major renovation. I am a pretty loyal Hilton hotel user; this hotel was the best I have stayed! Quality is far greater than typical Hiltons in the U.S., and quality level (room amenities, bathrooms (lcd in bath tub area), bedding, common areas) approaches a Ritz level. Workout facilities are the best of any hotels I have recently stayed, and on par with the recently remodeled Ritz Carlton Laguna Niguel. Services levels are very good, and Hilton has done a good job staffing English speaking employees. Definitely request the VIP 22nd floor club level; full service breakfast, drinks, wireless internet and late night drinks snacks at no cost were all greatly appreciated. VIP was not quite like the club levels of Ritz, but close with no extra charges (like Renaissance). Highly recommended!  
+<Date>Jun 21, 2007
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+8	15(recommend):1	109(pretty):1	138(highly):1	477(hilton):1	1217(improve):1	2756(user):1	5561(rennovation):1	5587(loyal):1	
+0	
+19	8(day):1	11(bed):1	13(bathroom):1	64(spend):1	187(quality):2	226(bath):1	291(amenity):1	306(level):2	311(tub):1	315(major):1	628(typical):1	687(renovation):1	772(finish):1	825(ritz):1	830(common):1	1378(approach):1	1773(lcd):1	1817(u.s):1	4527(hiltons):1	
+15	28(close):1	128(extra):1	136(charge):1	211(facility):1	212(club):1	306(level):1	322(recently):2	825(ritz):2	1238(remodel):1	1518(carlton):1	1555(vip):1	1666(par):1	1801(workout):1	2028(renaissance):1	5130(laguna):1	
+0	
+8	0(staff):1	9(service):1	127(speak):1	152(english):1	306(level):1	477(hilton):1	481(job):1	608(employee):1	
+18	2(night):1	6(breakfast):1	9(service):1	24(floor):1	59(definitely):1	63(drink):2	79(late):1	97(internet):1	148(request):1	175(cost):1	212(club):1	306(level):1	406(snack):1	500(appreciate):1	717(wireless):1	1555(vip):1	1905(greatly):1	6381(22nd):1	
+0	
+
+<Author>fsdfkhsdkjfj
+<Content>i like it so much i like it . good price .good place.good room.but a little old  
+<Date>Apr 18, 2007
+<Rating>4	4	4	4	5	4	5	4	
+<Aspects>
+1	23(little):1	
+1	19(price):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Jin_Jiang
+<Content>Wonderful business or tourist hotel if you don't mind the location I almost never stay at a Hilton hotel (last time before this was 14 years ago). However, my stay compelled me to post a review.The location - honestly, not a great location. This one is more for someone doing business in the area. However, if you are a tourist who does not mind waking up each day accepting that you must take a taxi to wherever you want to go and to whom creature comforts of a room matter most, then you should stay here.The hotel - recently renovated, handsome common areas including a very nice lobby/entry.The restaurants - fantastic breakfast buffet (massive selection of delicious food). Great wine bar/restaurant - very good choices of wine and comfortable.The room - absolutely outstanding. I stayed in an executive suite and have never seen such a clever floorplan. The bedroom has two doors which could be shut and completely insulate you from noise - one door leads to the living area which leads to the room's front door, the second door leads to your bathroom but you have to walk around your closet area to get there. Once in the bathroom area, separate shower stall and large tub, inviting vanity area/sinks and a large full-length mirror - overall a fantastic bathroom. The bed was extremely comfortable - slept like a rock given no noise at all. The living area (albeit a tad small) was comfortable and inviting. The service - great service throughout the hotel. In fact, had much better service than the China World.  
+<Date>Apr 14, 2007
+<Rating>4	4	5	2	5	5	5	5	
+<Aspects>
+3	37(review):1	644(post):1	3461(compel):1	
+0	
+32	7(walk):1	11(bed):1	13(bathroom):3	25(comfortable):1	31(front):1	54(door):4	61(shower):1	70(overall):1	86(fantastic):1	94(noise):2	104(sleep):1	108(suite):1	110(extremely):1	189(absolutely):1	206(live):1	268(bedroom):1	311(tub):1	474(separate):1	534(outstanding):1	542(completely):1	565(closet):1	773(rock):1	872(executive):1	922(lead):3	1086(shut):1	1129(mirror):1	1210(invite):1	1701(stall):1	2127(vanity):1	2434(insulate):1	4554(clever):1	9108(full-length):1	
+22	1(location):3	5(time):1	8(day):1	25(comfortable):1	48(wonderful):1	147(business):2	185(taxi):1	206(live):1	209(tourist):2	294(mind):2	477(hilton):1	531(matter):1	554(wake):1	633(ago):1	702(comfort):1	1028(honestly):1	1210(invite):1	1247(accept):1	2083(albeit):1	2334(wherever):1	2429(tad):1	4486(creature):1	
+0	
+0	
+23	4(nice):1	6(breakfast):1	9(service):3	10(restaurant):1	16(food):1	25(comfortable):1	27(bar):1	55(lobby):1	71(include):1	77(buffet):1	86(fantastic):1	107(choice):1	251(wine):2	272(world):1	322(recently):1	333(selection):1	445(throughout):1	485(delicious):1	533(renovate):1	830(common):1	1159(china):1	1329(massive):1	6148(handsome):1	
+0	
+
+<Author>elle__esse
+<Content>Good stay             Room  
+<Date>Apr 11, 2007
+<Rating>4	4	4	3	4	5	5	4	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>wilhelmina
+<Content>fantastic styayed for 6 nights, airport pick up was waiting on arrival, room was fantastic exec suite, great lounge with complimentary drinks etc all day. staff were helpful. we were conserned initially that location was to far out it was not a problem as beijing is HUGE so no matter where you stay you will need to take very inexpansive cabs $5 aud to forbidden city etc. if you are going to olympics this is a great choice as right on the ring road. if the price is right well worth considering  
+<Date>Jan 17, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+17	1(location):1	19(price):1	41(city):1	73(etc):1	96(worth):1	107(choice):1	133(huge):1	230(road):1	248(consider):1	380(cab):1	531(matter):1	1150(ring):1	1240(beije):1	1439(initially):1	2271(forbid):1	4102(olympics):1	5360(aud):1	
+13	2(night):1	8(day):1	63(drink):1	73(etc):1	85(wait):1	86(fantastic):2	95(airport):1	108(suite):1	224(arrival):1	237(lounge):1	266(pick):1	345(complimentary):1	4420(exec):1	
+0	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>YuTurner
+<Content>Great Staff, Good Food, Wonderful Atmosphere We stayed here in September 2006 with a tour group. The staff was excellent and worked very hard at trying to get everything right. The food was outstanding. Our group had two dinners there and the buffet breakfast - all very good. I learned the hotel was recently renovated, and it showed! It is not close to the center of the city, so may not be ideal location wise, but it was worth it!  
+<Date>Oct 27, 2006
+<Rating>5	5	5	4	5	4	5	5	
+<Aspects>
+3	322(recently):1	533(renovate):1	703(learn):1	
+6	0(staff):1	16(food):1	48(wonderful):1	181(tour):1	414(atmosphere):1	972(september):1	
+0	
+7	1(location):1	28(close):1	41(city):1	96(worth):1	101(center):1	545(ideal):1	1676(wise):1	
+0	
+4	0(staff):1	21(excellent):1	76(try):1	162(hard):1	
+5	6(breakfast):1	16(food):1	77(buffet):1	117(dinner):1	534(outstanding):1	
+0	
+
+<Author>GraemeBT
+<Content>Not Bad at all I used the Hilton recently as the Shangri La, my usual Beijing hotel, was full.I'd stayed here before and was pleased to see that the hotel has undergone a significant renovation. The front desk staff were helpful and escorted me to my check in point on the Executive floor, where I was offered drinks while they processed the check in.My room facilities were first class and included a dedicated fax, printer, rotating flat screen TV and DVD player. There was also a TV on the bathroom wall.The bathroom was large and included a walk in shower.A small gripe: the renovations still seemed to be going on and the noise, especially in the lobby and bar, was intrusive.And why do Hilton insist on charging for internet access when their competitors offer it for free?  
+<Date>Oct 18, 2006
+<Rating>4	4	5	2	4	5	3	2	
+<Aspects>
+7	50(bad):1	225(la):1	322(recently):1	477(hilton):1	682(usual):1	1240(beije):1	4955(shangri):1	
+0	
+20	7(walk):1	13(bathroom):2	61(shower):1	71(include):2	116(tv):2	173(please):1	183(wall):1	211(facility):1	470(class):1	526(screen):1	535(flat):1	687(renovation):1	1076(player):1	1364(dvd):1	2086(undergo):1	2328(printer):1	2362(significant):1	2536(fax):1	3477(dedicate):1	4939(rotate):1	
+0	
+0	
+11	0(staff):1	14(helpful):1	24(floor):1	31(front):1	32(check):2	36(desk):1	63(drink):1	89(offer):1	872(executive):1	1222(process):1	2005(escort):1	
+7	27(bar):1	55(lobby):1	94(noise):1	126(especially):1	687(renovation):1	1788(gripe):1	2908(intrusive):1	
+8	46(free):1	89(offer):1	97(internet):1	136(charge):1	159(access):1	477(hilton):1	1495(insist):1	6254(competitor):1	
+

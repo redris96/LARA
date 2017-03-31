@@ -1,0 +1,672 @@
+<Author>99mph
+<Content>Warning - Do not stay here What a near disaster! Made reservations here for the weekend of the Boston Marathon. When making confirmation for my stay they had no record of me reserving there. Was barely able to get a room somewhere else at considerably more money and it wasn't near as close to the area I wanted to be. YOU HAVE BEEN WARNED - Stay Away.  
+<Date>Dec 27, 2008
+<Rating>1	1	1	1	1	1	1	1	
+<Aspects>
+3	102(near):1	679(warn):2	2355(disaster):1	
+0	
+7	28(close):1	80(money):1	102(near):1	170(else):1	171(able):1	1020(barely):1	3252(considerably):1	
+0	
+0	
+4	156(reservation):1	172(weekend):1	791(boston):1	3779(marathon):1	
+3	506(reserve):1	1641(confirmation):1	2251(record):1	
+0	
+
+<Author>frab83
+<Content>Great Location to visit Boston We stayed at Milner hOtel  nights at the end of Oct 2008.The staff was always very helpfull and rooms was not moderns but very well equipped and very clean.The Hotel is a few step from Boston Common and from Theatre district.Really great was the breakfast including every kind of delicious....Yogurt,Pancakes fruit juie tea coffe donuts...really great also the price!!!  
+<Date>Nov 30, 2008
+<Rating>4	4	4	4	4	4	3	4	
+<Aspects>
+5	366(step):1	433(district):1	635(theater):1	791(boston):1	830(common):1	
+0	
+5	0(staff):1	3(clean):1	151(modern):1	884(equip):1	1478(helpfull):1	
+5	1(location):1	2(night):1	65(visit):1	791(boston):1	1851(oct):1	
+0	
+0	
+10	6(breakfast):1	19(price):1	71(include):1	215(fruit):1	301(tea):1	485(delicious):1	927(yogurt):1	1477(pancake):1	2222(doughnut):1	3297(coffe):1	
+0	
+
+<Author>mollytruly
+<Content>Avoid At All Costs Please avoid this hotel at all costs-- this place is a public health hazard!!! We checked in yesterday, and were on the bed watching a movie when my companion noticed a small black bug crawling across our restaurant guide. She squished it and it was filled with blood. I suspected bed bugs but didn't want to believe it, so I went online and sure enough, Harvard has a fact sheet on the web that described the bug to the tee (it was a juvenile,) including where to look and what signs to look for. We flipped up the mattress and the underside was crawling with adult bed bugs!!!! We were totally freaked out and pissed off. We went down to the desk, where they were nice and apologetic, and got a full refund. Small comfort considering we were exhausted and now looking for a hotel at 12:30 am. The worst part, however, was that the desk clerk told us this had been a problem before and they had sprayed but I guess it didn't work. This hotel is clearly shady and please don't expose yourself to that kind of health risk-- we now have to disinfect our luggage and all of our stuff, what a pain. But better than the alternative-- bringing them home!!!  
+<Date>Nov 8, 2008
+<Rating>1	1	1	1	1	1	1	1	
+<Aspects>
+9	141(home):1	142(bring):1	491(fill):1	611(totally):1	1298(alternative):1	2718(blood):1	3141(freak):1	5570(piss):1	9411(squish):1	
+6	173(please):1	175(cost):2	379(public):1	436(avoid):2	1736(health):1	4839(hazard):1	
+17	11(bed):2	20(look):2	71(include):1	312(believe):1	449(sign):1	479(sheet):1	556(adult):1	602(bug):3	822(online):1	847(mattress):1	955(describe):1	1019(web):1	1983(suspect):1	2371(crawl):1	2765(flip):1	4252(tee):1	7029(harvard):1	
+4	20(look):1	248(consider):1	702(comfort):1	1769(exhaust):1	
+0	
+21	4(nice):1	10(restaurant):1	11(bed):1	32(check):1	36(desk):2	50(bad):1	69(tell):1	245(watch):1	354(notice):1	469(guess):1	602(bug):1	788(clerk):1	829(guide):1	989(movie):1	1007(black):1	1099(spray):1	1492(refund):1	2371(crawl):1	2447(yesterday):1	2483(apologetic):1	2998(companion):1	
+10	173(please):1	249(luggage):1	480(stuff):1	576(yourself):1	1481(pain):1	1736(health):1	2168(risk):1	2543(shady):1	2637(expose):1	12146(disinfect):1	
+0	
+
+<Author>FlyingLA
+<Content>If you like bedbugs you'll love the Milner Boston, MA After about 20 minutes to get checked in, I was given a key to my room. I entered the very small room, walked into the restroom and was greeted by a small beetle looking bug on the floor. I thought, no worries, just a beetle. After a long day, it was time for bed. The sheets weren't the crispiest I'd ever seen, but this is a two-star hotel. When I woke up, I saw another beetle crawling across my pillow. I contacted the front desk and informed them about the beetles. Throughout the day, I began itching. I noticed red bumps all over my body, I thought, Oh my God! They have bed bugs!! I complained and the management switched me to another room, which I learned (the hard way) had bed bugs as well. The bed bugs were one of the many problems at this hotel. The hotel is in desparate need of renovation. The bathroom tub was extremely grimy. This place needs need serious attention. It has potential, but it is poorly operated.  
+<Date>Oct 23, 2008
+<Rating>1	1	1	4	1	2	1	1	
+<Aspects>
+16	8(day):1	303(pillow):1	354(notice):1	445(throughout):1	551(begin):1	554(wake):1	590(red):1	726(attention):1	831(worry):1	1352(body):1	1469(serious):1	1522(god):1	2162(bump):1	2371(crawl):1	6533(itching):1	10923(beetle):2	
+2	479(sheet):1	7967(two-star):1	
+29	5(time):1	7(walk):1	8(day):1	11(bed):4	13(bathroom):1	20(look):1	24(floor):1	29(minute):1	32(check):1	40(love):1	110(extremely):1	162(hard):1	241(complain):1	311(tub):1	339(key):1	415(greet):1	525(management):1	601(enter):1	602(bug):4	687(renovation):1	703(learn):1	791(boston):1	888(switch):1	3679(restroom):1	3999(ma):1	4462(bedbug):1	6185(grimy):1	10923(beetle):1	11387(desparate):1	
+3	1623(operate):1	1635(poorly):1	1995(potential):1	
+0	
+5	31(front):1	36(desk):1	713(contact):1	817(inform):1	10923(beetle):1	
+0	
+0	
+
+<Author>sofke8868
+<Content>Avoid this hotel! One month before going to Boston, it was hard to find an affordable hotel room so I booked a room in the Milner Hotel, being the cheapest one, without paying too much attention to the negative reviews it received. I鈥檓 a low budget traveller and usually choose the cheapest I can find at the best location (which doesn鈥檛 always mean it鈥檚 cheap). I鈥檝e never had such a bad experience as in the Milner Hotel. I do not mind a small room and even the fact that there鈥檚 no door between the room and bathroom doesn鈥檛 bother me. There was always a lot of noise at night. I was sleeping on the 5th floor near the back alley, where a dump truck collected trash every night + at some times people were talking and even yelling. The room clearly wasn鈥檛 isolated well enough. The second and worst problem was the cleanness. After one night I had several flea bites on my arms and legs (+ it got worse the other 4 nights :-(((. I asked the housekeeper to change the sheets (although I wonder if that would鈥檝e helped, probably those fleas were in the dirty carpet) but they never did. They never sent anyone to reset the phone either (the voice mail settings on the phone had been changed, I never got any of the messages that my friend left me). I wonder if I can report this flea problem to a healthcare service in the US? Apart from that I had a few minor problems: curtains falling down when trying to close them (I had to 鈥榟ang鈥?them up again several times), the lamp on the nightstand which didn鈥檛 work at all, and hardly any warm water in the shower (best I could get was lukewarm). I reported this when checking out but I doubt they fixed it by now as they never seemed to care about the flea and voice mail problem either. Taking everything in mind, this room definitely isn鈥檛 worth a $129 per night!  
+<Date>Oct 23, 2008
+<Rating>1	1	1	4	1	3	1	-1	
+<Aspects>
+19	2(night):3	38(lot):1	43(leave):1	50(bad):1	94(noise):1	146(friend):1	161(change):1	296(phone):2	436(avoid):1	447(send):1	1042(bite):1	1421(leg):1	1726(arm):1	1809(message):1	2264(voice):1	2289(flea):1	2446(mail):1	4173(setting):1	4863(reset):1	
+21	1(location):1	18(book):1	37(review):1	42(pay):1	44(experience):1	50(bad):1	143(cheap):3	162(hard):1	167(choose):1	246(mean):1	267(traveler):1	282(negative):1	302(receive):1	388(month):1	399(usually):1	429(budget):1	513(low):1	726(attention):1	791(boston):1	1062(affordable):1	2924(doesn):1	
+47	2(night):2	5(time):2	13(bathroom):1	24(floor):1	26(people):1	28(close):1	54(door):1	57(water):1	59(definitely):1	61(shower):1	76(try):1	92(help):1	96(worth):1	102(near):1	104(sleep):1	161(change):1	178(probably):1	236(warm):1	294(mind):2	307(bother):1	323(dirty):1	371(talk):1	396(carpet):1	479(sheet):1	587(fall):1	720(minor):1	743(curtain):1	839(5th):1	857(apart):1	946(wonder):1	985(hardly):1	1022(didn):1	1449(dump):1	1507(truck):1	1591(housekeeper):1	1622(lamp):1	1671(alley):1	1793(trash):1	1829(wasn):1	1889(collect):1	1939(yell):1	2289(flea):1	2468(isolate):1	2924(doesn):1	3205(isn):1	3498(lukewarm):1	4445(nightstand):1	
+0	
+2	50(bad):1	12850(cleanness):1	
+8	32(check):1	242(care):1	494(fix):1	838(report):1	952(doubt):1	2264(voice):1	2289(flea):1	2446(mail):1	
+4	9(service):1	838(report):1	946(wonder):1	2289(flea):1	
+0	
+
+<Author>SK8ERLasVegas
+<Content>A Throwback to the Simple life...... We stayed at the Milner prior to our cruise, we and another couple got quite a laugh out of our stay, after reading the reviews we were ready for the worst.......but actually enjoyed seeing what rooms were like eons ago....the narrow halls, the can't bend over showers, the three person elevator, and the miniscule breakfast room, and the outdoor old-fashioned fire escape.....but our room was very clean, the staff were pleasant and helpful and it was within walking distance of what we wanted to see....after staying in some of the newest ,most beautiful, and highest priced places, we would do the Milner again in a heartbeat..as for all the people who panned it, get a grip, slow down, and remember that Hilton did not build the first hotel........m  
+<Date>Oct 7, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+18	26(people):1	37(review):1	50(bad):1	88(read):1	99(couple):1	135(build):1	274(ready):1	375(remember):1	426(life):1	455(slow):1	477(hilton):1	603(cruise):1	613(simple):1	637(prior):1	1245(laugh):1	2125(pan):1	7181(grip):1	11285(throwback):1	
+0	
+24	0(staff):1	3(clean):1	6(breakfast):1	7(walk):1	14(helpful):1	19(price):1	45(beautiful):1	51(enjoy):1	61(shower):1	115(distance):1	150(pleasant):1	180(actually):1	193(person):1	216(elevator):1	616(hall):1	633(ago):1	901(outdoor):1	1207(narrow):1	1262(fire):1	1601(escape):1	1683(heartbeat):1	2333(bend):1	4201(old-fashioned):1	5317(miniscule):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>davecox78
+<Content>Did the job! Hey, I went to the Milner with a degree of trepidation as the reviews were a mixed bunch. I decided to go there as it was central and cheap. Mathew and Jackie (cute) were cool at the front desk, chatty and helpful. I was a random English guy on my own, there to see the sights, so for me the hotel was fine. Yes the rooms are small, I was in 413, on the fire exit staircase (nice), and when 'Pearl's' club spilled out onto the streets you knew about it, and yet overall, the place was fine.I didn't do breakfast in the 'Nook', looked small, and to be honest breakfast in one of the many diner's in the city is much more fun.Give it a try if you just want a place to dump your stuff and get on with seeing a great city day and night. Gladis  
+<Date>Sep 16, 2008
+<Rating>4	4	3	5	3	4	4	3	
+<Aspects>
+19	2(night):1	8(day):1	37(review):1	41(city):1	76(try):1	113(fine):1	152(english):1	166(own):1	368(guy):1	411(sight):1	480(stuff):1	481(job):1	609(mix):1	1252(degree):1	1367(hey):1	1449(dump):1	1624(bunch):1	3255(random):1	5556(trepidation):1	
+3	143(cheap):1	168(central):1	219(decide):1	
+11	4(nice):1	35(street):1	70(overall):1	113(fine):1	212(club):1	250(yes):1	1262(fire):1	1354(exit):1	2119(staircase):1	2854(pearl):1	3353(spill):1	
+6	6(breakfast):2	20(look):1	41(city):1	176(fun):1	1108(honest):1	1324(diner):1	
+0	
+7	14(helpful):1	31(front):1	36(desk):1	278(cool):1	1202(cute):1	5368(chatty):1	9755(jackie):1	
+0	
+0	
+
+<Author>NorCTDnL
+<Content>Perfectly fine for no-nonsense, no frills It's a perfectly fine place to hang your hat. When I'm travelling on business, I want clean, quiet, inexpensive, well located. I don;t want or need the luxury amenities. I'm not in my room enough to make those worth the price. I read the other reviews for Milner, and I suspect most of the negatives were from people with expectations of luxury. Nope. You wont get that. It's a bit dated, but the paint is relatively recent. Lighting could be improved to make the corridors more pleasant. Front desk staff was competent. (although one traveller did have issues with the newbie behind the front desk. Ultimately the manager took care of the problem). Morning breakfast was reasonable. Internet connection spotty. Room was TINY. I was travelling single, and I got single: a twin bed in a small room. But the room was quiet and clean. I booked for one night via a web site. Then, my business plans changed, so I called the hotel directly, got rebooked for another night, at $50 less than the web site! It's in a great location in the theatre/downtown district, near everything one needs. I'll go back. Not a place for the fantastic honeymoon or partiers. But fine if all you want is a clean, quiet, acceptable place to sleep.  
+<Date>Aug 7, 2008
+<Rating>4	4	3	5	3	3	3	2	
+<Aspects>
+15	52(bit):1	113(fine):2	291(amenity):1	437(luxury):1	478(hang):1	511(date):1	595(perfectly):2	806(paint):1	908(don):1	913(relatively):1	1064(recent):1	1820(wont):1	2175(hat):1	2210(frill):1	5246(nope):1	
+12	19(price):1	26(people):1	37(review):1	86(fantastic):1	88(read):1	96(worth):1	282(negative):1	431(expectation):1	437(luxury):1	502(honeymoon):1	1983(suspect):1	6151(partier):1	
+14	3(clean):2	11(bed):1	58(quiet):2	68(travel):1	104(sleep):1	113(fine):1	150(pleasant):1	157(light):1	304(single):2	338(tiny):1	690(twin):1	1073(corridor):1	1214(acceptable):1	1217(improve):1	
+19	1(location):1	2(night):2	3(clean):1	18(book):1	58(quiet):1	67(call):1	68(travel):1	84(locate):1	102(near):1	147(business):2	161(change):1	192(site):2	221(plan):1	383(directly):1	433(district):1	512(via):1	1019(web):2	1117(inexpensive):1	6552(rebooke):1	
+0	
+9	0(staff):1	31(front):2	36(desk):2	242(care):1	258(manager):1	265(issue):1	267(traveler):1	2921(competent):1	3716(ultimately):1	
+3	6(breakfast):1	56(morning):1	273(reasonable):1	
+3	97(internet):1	932(connection):1	3513(spotty):1	
+
+<Author>dinkyninky
+<Content>Location great, hotel a bit grotty The hotel staffw ere lovely and welcoming.However, the hotel itself was not very clean, very run down in general, and in need of refurbishment.BUT great great location! To be reommneded for budget travellers, if you're not too fussy! the price was great too.  
+<Date>Apr 6, 2008
+<Rating>2	4	2	5	1	5	5	-1	
+<Aspects>
+3	267(traveler):1	429(budget):1	1867(fussy):1	
+1	19(price):1	
+0	
+5	1(location):2	52(bit):1	87(lovely):1	202(welcome):1	5409(grotty):1	
+3	3(clean):1	149(run):1	2253(refurbishment):1	
+0	
+0	
+0	
+
+<Author>killara
+<Content>Avoid this one like the plague I attended a conference in Boston for a week in Oct 07 and booked this hotel on the internet after searching all hotels online in the vicinity of the conference centre to no avail -unless I could have afforded $650 per night which was all that was left! (onference was at the Sheraton hotel, and all their rooms were booked out). The Milner鈥檚 description and photos made it SOUND OK - and it was convenient enough...BUT.....in reality it is a FILTHY HOVEL. I feel I should report to Health department. IT IS A DISGUSTING PLACE and NOBODY there seems to care about it 鈥?except the handyman !For 'quaint' read 'falling apart'. Service is apathetic at the best of times although there was one young guy who was helpful. My room described as double room with desk and private bathroom was small, shabby, run down and dirty. The curtains were crappy and didn't meet in the middle so I was potentially overlooked (in bed) from across the road when the light was on. The shower tray was cracked and held together by tape; there was no door between the toilet and bedroom, and the washbasin was in a separate corner of the room. There was a huge stained area of ceiling tiles in the washbasin corner from an old water leak. No wardrobe but a hanging space with rail and 3 plastic hangers in the room. Nowhere to store luggage. The only good point was free internet access.The handyman told me that the hotel is half refurbished (5th floor is apparently more modern, avoid 3rd for sure!!) and the whole place NEEDS repair and refurbishment but management is not listening to what needs doing.Next morning I requested a change of room, and was put in the suite on level 6 (lift stops at level 5) so a walk up with luggage to the ATTIC. This was bigger with a small desk - window blinds have not been cleaned this century I reckon and the room reeked of stale tobacco smoke. The carpet was dirty too, not sure when it would have last been vacuumed, and the toilet needs attention -water dripped into the bowl continuously between flushes. Anyway I stuck it out 鈥?it鈥檚 a noisy place because the lift shaft is next to it so I got vibrations through the pillow at times..... (apparently this is the manager's suite when he is there so now I know his standards I can understand why this place is so run down....)Went to 'breakfast' once 鈥?a tiny little dirty area off the main foyer - floor filthy and sticky, nobody to assist, tables dirty, make your own waffles or find cereal, few yogurts and unappetising hard boiled eggs sitting in a bowl on ice.... make your own tea or coffee, use plastic cutlery (obviously recycled and stacked in containers unwrapped), muffins, doughnuts and bread in their plastic wrappers to help yourself to..... felt sick at the sight of it so didn't go back. TV was playing all the time, some inane rubbishy show.Thank goodness I was able to transfer out of this dreadful filthy place for my last night and stay at the Sheraton in deluxe comfort for not much more than the Milner charged.Milner should be knocked down; it is overpriced, filthy and unpleasant. If you want cheap accommodation try camping or a Youth hostel, definitely don't come here; if you want value for money then this place is a RIP-OFF  
+<Date>Jan 14, 2008
+<Rating>1	1	1	3	1	2	1	4	
+<Aspects>
+26	34(feel):1	57(water):1	88(read):1	123(ok):1	133(huge):1	186(convenient):1	200(corner):1	242(care):1	337(except):1	409(sound):1	528(ceiling):1	587(fall):1	723(stain):1	761(photo):1	838(report):1	846(tile):1	857(apart):1	1152(disgust):1	1287(leak):1	1295(quaint):1	1320(filthy):1	1707(department):1	1736(health):1	2034(description):1	2260(reality):1	7551(washbasin):1	
+14	59(definitely):1	76(try):1	80(money):1	81(value):1	143(cheap):1	721(accommodation):1	727(overprice):1	1320(filthy):1	1323(knock):1	1560(hostel):1	1747(unpleasant):1	2087(camp):1	3525(youth):1	3780(rip-off):1	
+71	3(clean):1	5(time):1	7(walk):1	11(bed):1	13(bathroom):1	18(book):1	24(floor):1	36(desk):2	54(door):1	56(morning):1	61(shower):1	69(tell):1	108(suite):1	116(tv):1	119(window):1	122(stop):1	148(request):1	149(run):1	151(modern):1	157(light):1	161(change):1	179(double):1	196(meet):1	200(corner):1	210(space):1	230(road):1	249(luggage):1	260(overlook):1	268(bedroom):1	283(half):1	306(level):2	323(dirty):1	325(middle):1	330(toilet):1	386(play):1	436(avoid):1	468(smoke):1	474(separate):1	478(hang):1	492(private):1	525(management):1	591(lift):1	593(hold):1	743(curtain):1	839(5th):1	863(apparently):1	955(describe):1	997(listen):1	1013(sheraton):1	1253(refurbish):1	1319(shabby):1	1347(plastic):1	1398(repair):1	1411(crack):1	1451(wardrobe):1	1755(rail):1	1767(tray):1	1839(blind):1	2052(stale):1	2097(3rd):1	2171(century):1	2253(refurbishment):1	2506(hanger):1	3236(tape):1	3372(reek):1	3380(crappy):1	4172(attic):1	5139(tobacco):1	5242(potentially):1	6054(reckon):1	7551(washbasin):1	
+0	
+10	57(water):1	323(dirty):1	330(toilet):1	396(carpet):1	726(attention):1	1366(bowl):1	1619(flush):1	2680(vacuum):1	2682(drip):1	4376(continuously):1	
+11	2(night):1	136(charge):1	171(able):1	271(thank):1	648(deluxe):1	702(comfort):1	1013(sheraton):1	1021(transfer):1	1320(filthy):1	2302(goodness):1	2895(dreadful):1	
+58	5(time):2	6(breakfast):1	9(service):1	14(helpful):1	23(little):1	24(floor):1	34(feel):1	90(coffee):1	92(help):1	108(suite):1	112(main):1	130(standard):1	149(run):1	162(hard):1	166(own):2	169(sit):1	217(noisy):1	229(table):1	249(luggage):1	255(store):1	258(manager):1	301(tea):1	303(pillow):1	323(dirty):2	338(tiny):1	368(guy):1	391(understand):1	411(sight):1	412(egg):1	417(anyway):1	497(bread):1	529(cereal):1	547(ice):1	576(yourself):1	591(lift):1	654(sick):1	688(stick):1	781(obviously):1	863(apparently):1	927(yogurt):1	1260(muffin):1	1265(assist):1	1320(filthy):1	1347(plastic):2	1366(bowl):1	1557(waffle):1	1598(boil):1	1931(foyer):1	2222(doughnut):1	3182(cutlery):1	3379(container):1	3445(stack):1	3447(sticky):1	3630(shaft):1	4595(recycle):1	6956(wrapper):1	7414(vibration):1	8181(apathetic):1	
+20	2(night):1	18(book):1	43(leave):1	46(free):1	75(week):1	97(internet):2	101(center):1	159(access):1	405(unless):1	436(avoid):1	791(boston):1	794(conference):2	822(online):1	826(attend):1	1248(search):1	1452(afford):1	1851(oct):1	2232(vicinity):1	3122(avail):1	4558(plague):1	
+
+<Author>n6783
+<Content>Good location, not as bad a feared Stayed in a single room for 5 nights. Main reasons for choosing this hotel were price, location and availability. Was running in Boston marathon.Was a bit apprehensive after reading some of the reviews on this website before travelling, but it was not that bad.Hotel is more like a BB/guest house with 24hr reception.Room had an AC/heater unit in window - this had to be kept on overnight as it was cold and wet when I stayed in Boston. Noise of unit may annoy some people, but when its keeping you warm you don't care!Room was small, there was no door separating the toilet/shower from the bedroom.Bed was against wall with window that did not shut flush, so had to stuff a pillow against window to keep cold out.Light switches looked ancient, took a while to get light a over bed on/off. Started off pulling socked in and out!Room was quiet, only noise was from traffic during night.Breakfast was eat as much as you want (or is that can).Cereal, bagels, make your own waffles, english muffins.Cereals in single serving boxes, so had to take more that one.Breakfast served in 2 quite small rooms, if hotel busy you may struggle to get a seat and just end up carrying it up to your room.Lift was out of order until morning I checked out, was on 1st floor so this didn't bother me.  
+<Date>Jan 4, 2008
+<Rating>2	3	2	4	3	3	3	-1	
+<Aspects>
+15	26(people):1	94(noise):1	149(run):1	152(english):1	166(own):1	236(warm):1	242(care):1	529(cereal):1	695(annoy):1	791(boston):1	980(unit):1	1260(muffin):1	1370(bagels):1	1557(waffle):1	3779(marathon):1	
+9	1(location):1	19(price):1	112(main):1	165(start):1	167(choose):1	374(reason):1	858(pull):1	2073(availability):1	3259(sock):1	
+38	1(location):1	2(night):2	11(bed):2	20(look):1	24(floor):1	32(check):1	50(bad):1	54(door):1	56(morning):1	58(quiet):1	94(noise):1	119(window):3	129(reception):1	157(light):2	183(wall):1	222(cold):2	268(bedroom):1	281(house):1	303(pillow):1	304(single):1	307(bother):1	330(toilet):1	474(separate):1	480(stuff):1	486(traffic):1	591(lift):1	791(boston):1	888(switch):1	956(ac):1	980(unit):1	1032(wet):1	1086(shut):1	1171(overnight):1	1619(flush):1	2022(fear):1	2380(bb):1	3356(ancient):1	3897(24hr):1	
+13	6(breakfast):1	37(review):1	50(bad):1	52(bit):1	68(travel):1	88(read):1	174(serve):1	220(busy):1	262(website):1	504(seat):1	824(carry):1	1979(struggle):1	2129(apprehensive):1	
+0	
+0	
+6	6(breakfast):1	47(eat):1	174(serve):1	304(single):1	529(cereal):1	945(box):1	
+0	
+
+<Author>pcato
+<Content>A vacuum cleaner never came there! This place is absolutely awful. The entrance and elevator were dirty to say the least, and the whole place looks completely worn. I had a 5 sqm room with a narrow bed and a dying mattress. Though on the 5th floor the noise from the street was invasive, and there was almost no heating. On the morning I had to wait 5 minutes tap open to get the first drop of hot water. Avoid this hotel, this is definitely not a place to stay.  
+<Date>Dec 21, 2007
+<Rating>1	1	1	3	1	3	-1	3	
+<Aspects>
+4	59(definitely):1	189(absolutely):1	436(avoid):1	736(awful):1	
+0	
+9	11(bed):1	24(floor):1	35(street):1	94(noise):1	539(heat):1	839(5th):1	847(mattress):1	1207(narrow):1	1264(die):1	
+0	
+8	3(clean):1	20(look):1	216(elevator):1	323(dirty):1	434(wear):1	490(entrance):1	542(completely):1	2680(vacuum):1	
+7	29(minute):1	56(morning):1	57(water):1	85(wait):1	114(hot):1	662(drop):1	1504(tap):1	
+0	
+0	
+
+<Author>KeyWestGal44
+<Content>Wonderful and Charming       Approaching a wonderful stay...  
+<Date>Dec 4, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	48(wonderful):2	332(charm):1	1378(approach):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>ExiledinAberdeen
+<Content>Close encounters ! I chose to stay at the Milner after reading a few reviews, it looked a reasonable kind of place to me. The rooms are clean but very small, if you want a closed in kind of feeling then this is the place for you. Not me, I would not choose to stay at the Milner again. The expression you could not swing a cat should come to your mind. The interior of the hotel could do with a bit of a tidy up. Location wise it's ok. Easy for walking in the city and public transport.  
+<Date>Dec 2, 2007
+<Rating>3	3	3	3	3	3	3	-1	
+<Aspects>
+9	20(look):1	37(review):1	88(read):1	167(choose):2	273(reasonable):1	294(mind):1	2177(cat):1	2696(swing):1	7272(expression):1	
+0	
+0	
+12	1(location):1	3(clean):1	7(walk):1	28(close):2	34(feel):1	41(city):1	93(easy):1	123(ok):1	379(public):1	693(encounter):1	742(transport):1	1676(wise):1	
+3	52(bit):1	1026(interior):1	1100(tidy):1	
+0	
+0	
+0	
+
+<Author>pammyca
+<Content>Hang on to your valuables The ONLY thing this hotel has going for it is location. The rooms are incredibly small, well worn, and on my floor one lockset was missing and I could see the person in bed in their room via the 3 x 4 hole in the door. My room was crooked and had to body slam my way into the room. The 3rd day, I was in a hurry and left purse hanging on chair in breakfast room, and within 5 mins. realized it, came downstairs, a nice couple said some young ladies turned it into the front desk and when I got there, the desk clerk had gone through it, took out all the large bills and left me with 6 $1 bills. I didn't realize it until checking out, cab was there and when I went to pay the female desk clerk couldn't look at me and said, don't worry about it, your cab is there, so I wouldn't open my wallet. Thing was my dad had given a $50 bill 7 years ago at my mom's funeral and said always keep this just in case and it hurt to have it ripped off. Otherwise, she took about $140. I called mananger, never got a return call, and this is just an in and out dump. It's dirty, old and they don't care.  
+<Date>Oct 13, 2007
+<Rating>1	1	1	4	1	3	1	1	
+<Aspects>
+11	39(return):1	67(call):2	495(bill):1	508(otherwise):1	633(ago):1	1182(rip):1	1449(dump):1	1855(mom):1	2320(hurt):1	2913(dad):1	10181(funeral):1	
+0	
+21	6(breakfast):1	8(day):1	11(bed):1	24(floor):1	43(leave):1	54(door):1	193(person):1	198(chair):1	247(min):1	276(miss):1	434(wear):1	478(hang):1	512(via):1	807(incredibly):1	1218(hole):1	1352(body):1	2008(slam):1	2097(3rd):1	2265(hurry):1	3519(purse):1	5611(crook):1	
+3	1(location):1	478(hang):1	1935(valuable):1	
+2	242(care):1	323(dirty):1	
+17	4(nice):1	20(look):1	31(front):1	32(check):1	36(desk):3	42(pay):1	43(leave):1	99(couple):1	380(cab):2	495(bill):2	521(lady):1	607(realize):2	691(downstairs):1	788(clerk):2	831(worry):1	1714(female):1	2460(wallet):1	
+0	
+0	
+
+<Author>W0rking_traveller
+<Content>Never, never, never stay here - grottiest hovel ever I cannot over-emphasise how bad this hotel is. Do not stay here. Find a campsite or a cardboard box and sleep on the street. This is by far and away the worst hotel I have ever stayed at. Due to the large conference in Boston we were attending all the regular business hotels were fully booked and we ended up at this place. Once there, there was no chance we could move somewhere else as even airport hotels were booked. The place is absolutely filthy. Nothing works - and management are totally uninterested in getting things fixed. The airconditioning was blowing warm but the room was so hot that it was still better than leaving it off. The internet did not work and I complained twice a day for 5 days - not fixed. The handle broke off the toilet so it wouldn't flush. The shower ran out of hot water most days and ran lukewarm. We were put into single rooms F(defined as a twin bed) which are the smallest rooms I have ever stayed in and featured a single bed designed for dwarves. My colleague is over 6 foot tall and was too long for the bed. Great for him given there was 3 inches clearance between the foot of the bed and the wall. The first single room I was put into was accessed through the fire exit stairwell and had no desk, had a basin in room itself, and physically not enough floor space to even open my suitcase.I got switched to one that included a desk and managed to jam the suitcase down at the end of the bed.No cupboard. to hang anything in. No chest of drawers. No iron. No drycleaning facilities - you can do your laundry downstairs. Not good if you are travelling for business. You inform the staff of issues and get a surly response. And nothing is dealt with. To reemphasise - this place is beyond tired. It is broken down and old. They could at least do the basics and clean the carpets which are brown and filthy and disgusting. It smells dirty. I could go on but I won't - I am looking forward to the Sheraton tonight.  
+<Date>Oct 5, 2007
+<Rating>1	1	1	4	1	1	1	1	
+<Aspects>
+20	20(look):1	50(bad):1	140(deal):1	189(absolutely):1	228(break):2	330(toilet):1	454(tire):1	478(hang):1	487(wo):1	738(beyond):1	750(forward):1	868(iron):1	966(handle):1	1013(sheraton):1	1320(filthy):1	1426(drawer):1	1619(flush):1	2374(cupboard):1	3686(chest):1	5519(tonight):1	
+0	
+49	3(clean):1	8(day):1	11(bed):5	18(book):1	24(floor):1	36(desk):2	43(leave):1	50(bad):1	57(water):1	61(shower):1	71(include):1	95(airport):1	114(hot):2	149(run):2	159(access):1	170(else):1	183(wall):1	207(move):1	210(space):1	236(warm):1	304(single):3	396(carpet):1	402(foot):2	516(design):1	645(manage):1	689(chance):1	690(twin):1	731(feature):1	888(switch):1	974(suitcase):2	1146(blow):1	1152(disgust):1	1262(fire):1	1320(filthy):1	1354(exit):1	1614(jam):1	1626(tall):1	1667(brown):1	1688(inch):1	1903(airconditione):1	1991(colleague):1	2469(basics):1	2813(basin):1	3498(lukewarm):1	4181(physically):1	4700(stairwell):1	6324(define):1	10929(clearance):1	11275(dwarf):1	
+12	18(book):1	35(street):1	68(travel):1	104(sleep):1	147(business):2	259(due):1	744(regular):1	791(boston):1	794(conference):1	826(attend):1	945(box):1	5594(cardboard):1	
+2	231(smell):1	323(dirty):1	
+9	0(staff):1	265(issue):1	494(fix):1	525(management):1	611(totally):1	817(inform):1	1330(response):1	2891(surly):1	4817(uninterest):1	
+3	211(facility):1	691(downstairs):1	1075(laundry):1	
+5	8(day):2	97(internet):1	241(complain):1	347(twice):1	494(fix):1	
+
+<Author>andrewpiner
+<Content>The worst place I have ever stayed...management should all be fired This place is without a doubt the worst place I have ever stayed in the world. To start with, I get there to check in and the woman behind the counter blows me off for 20 MINUTES while she calls and talks to various people on the phone. THEN after all that she looks up to tell me that she then has to wait for someone else to come down before she can think about checking me in. Extremely frustrated I get them to hold my bags so that I can go and show my wife the city for her first time. When I get back, I have to go through the entire check in procedure all over again and then the guy behind the counter says he has to get a photo ID from everyone staying in the room WTH?? He says that it is case of fire they have a picture to look for me. To accomplish this they photocopy mine and my wife's driver's license and blanket out NOTHING. THIS IS A LIE!!!!! HE LIED RIGHT TO MY FACE!!! I then went the next morning to retrieve this photo since I was leaving they no longer need it. However, then I was told by the girl behind the counter that it is HOTEL POLICY to take ALL of these photos and forward them to the corporate office!!! it is not only a security risk, but with a drivers license number and address, ANYONE can get a credit card IN MY NAME. Neither talking with the girl behind the desk or the manager would get my info back. This policy is not posted anywhere or written down anywhere on any information, so if you don't want your information floating around their unknown databases, DON'T STAY THERE!!!Other reasons not to stay there:This room is the smallest room I have ever been in...in the entire world. There was literally 2 feet of space on three sides of the bed. The bed itself was a double size to boot so that tells you how small the room was. Of all of the services in the basement that they offered, the only things that were working was the vending machine with the disposable razors and the ice maker.The elevator does not have a safety release and nearly cut me in half. Fortunately, I work out so I was able to force the door back open.(This was at the lobby level and no one seemed to care about the fact that I was caught in the door.Not that I had a view, but the window didn't open either.In conclusion, this is the worst place I have ever stayed and I am now actively discouraging everyone to stay away from this place.  
+<Date>Jul 23, 2007
+<Rating>1	3	1	3	2	1	1	-1	
+<Aspects>
+29	5(time):1	20(look):1	41(city):1	43(leave):1	50(bad):1	54(door):1	56(morning):1	110(extremely):1	171(able):1	184(wife):2	290(bag):1	456(picture):1	563(driver):1	593(hold):1	761(photo):1	1166(lie):2	1262(fire):1	1269(mine):1	1369(blanket):1	1550(force):1	1574(frustrate):1	1585(fortunately):1	2089(conclusion):1	2864(retrieve):1	3816(discourage):1	4464(license):1	5038(accomplish):1	8465(photocopy):1	9121(actively):1	
+11	26(people):1	29(minute):1	32(check):1	67(call):1	165(start):1	296(phone):1	371(talk):1	566(woman):1	823(various):1	1001(counter):1	1146(blow):1	
+29	11(bed):2	17(view):1	32(check):1	69(tell):1	83(size):1	119(window):1	179(double):1	210(space):1	272(world):1	292(card):1	295(name):1	329(entire):2	335(numb):1	368(guy):1	374(reason):1	402(foot):1	563(driver):1	641(security):1	659(credit):1	665(literally):1	761(photo):1	1001(counter):1	1312(address):1	2168(risk):1	2584(id):1	3173(boot):1	3905(procedure):1	4464(license):1	9628(wth):1	
+0	
+0	
+27	20(look):1	32(check):1	36(desk):1	50(bad):2	69(tell):2	85(wait):1	170(else):1	258(manager):1	272(world):1	344(write):1	371(talk):1	525(management):1	625(girl):2	644(post):1	649(information):2	750(forward):1	761(photo):1	792(office):1	952(doubt):1	1001(counter):1	1262(fire):1	1275(neither):1	1360(info):1	1630(float):1	1634(policy):2	1802(corporate):1	4506(unknown):1	
+20	9(service):1	54(door):1	55(lobby):1	89(offer):1	216(elevator):1	242(care):1	283(half):1	306(level):1	493(machine):1	540(catch):1	547(ice):1	873(cut):1	896(nearly):1	996(maker):1	1448(safety):1	1568(basement):1	2454(vend):1	3731(razor):1	4961(release):1	5057(disposable):1	
+0	
+
+<Author>geohab
+<Content>An experience you'll tell friends about! As I recall, I wrote on the Milner's comment card that my room was so laughably terrible it was actually a fun experience. On top of everything, the floor sloped, so that when you got out of the bed to go to the bathroom, you wound up kind of running downhill! Even the manager, who came to the room to verify this, admitted the problem and gave me a slight reduction in the room rate. My stay at the Milner was the second worst I've ever had in my 50 years of traveling (the worst being in a small hotel outside Le Bourget Airport in Paris, where I had to hold a match in the lightless bathroom in order to see what I was doing, and where!)  
+<Date>Jul 15, 2007
+<Rating>1	1	1	5	3	3	3	3	
+<Aspects>
+0	
+10	44(experience):2	69(tell):1	146(friend):1	176(fun):1	180(actually):1	292(card):1	344(write):1	356(comment):1	432(terrible):1	3014(recall):1	
+22	11(bed):1	13(bathroom):2	24(floor):1	50(bad):2	68(travel):1	78(rate):1	95(airport):1	98(outside):1	118(top):1	149(run):1	258(manager):1	403(paris):1	593(hold):1	1133(le):1	1168(wind):1	1282(admit):1	1297(slight):1	1476(match):1	2983(downhill):1	3712(verify):1	4467(slope):1	5635(reduction):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>pentlandbiker
+<Content>Great Value Stayed at Milner to avoid stupid prices charged during the BIO convention. I expected the worst from the other reviews here - what a surprise! Very helpful staff from the moment I arrived. Great breakfasts, and free internet connection (that worked!). So what that the place is small, and could do with brightening up. When I go back to Boston I will go back to the Milner.  
+<Date>May 13, 2007
+<Rating>4	4	3	2	4	4	5	5	
+<Aspects>
+5	37(review):1	50(bad):1	62(expect):1	199(surprise):1	791(boston):1	
+7	19(price):1	81(value):1	136(charge):1	436(avoid):1	1048(convention):1	2708(stupid):1	6664(bio):1	
+0	
+1	8054(brighten):1	
+0	
+4	0(staff):1	14(helpful):1	53(arrive):1	670(moment):1	
+0	
+4	6(breakfast):1	46(free):1	97(internet):1	932(connection):1	
+
+<Author>emilie999
+<Content>Poor stay, i would not recommend this hotel :(       the wash basin:(  
+<Date>Nov 1, 2006
+<Rating>2	2	1	3	2	3	3	-1	
+<Aspects>
+4	15(recommend):1	331(poor):1	811(wash):1	2813(basin):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Irishglobetrotter
+<Content>Good value great location, stop whining I stayed in the Milner after Arriving in Boston well after midnight on an Aer Lingus flight delayed 8 hours. I had to fight with Aer Lingus to get them to pay for my hotel because i was not going to arrive at my friends house after midnight so I choose the lowest rate.The desk clerk was friendly and efficient, the room was extremely small but compared to the other hotels in the area so was the price. The continental breakfast was a far cry from the normal coffee and donut most hotels offer. There was several cereals and juices, fruit, yogurts, Freshly made waffles and pastries plus tea and coffee.Like i said my room was very small but it had a bed a tv and phone with private bathroom at a very low price by downtown Boston prices. I cringed listenening to to guests moaning and whinging about stupid insignificant stuff trying to get a discount on the lowest rates in Boston. There was an English couple in front of me a the desk abusing the clerk telling her she was rude when they should have been arrested for their racist comments.If you want luxury stay at one of the 300+ per night hotels in the same area. Also remember the Milner has larger rooms for a little more money  
+<Date>Oct 7, 2006
+<Rating>4	5	3	5	4	5	3	-1	
+<Aspects>
+2	2(night):1	437(luxury):1	
+32	1(location):1	12(friendly):1	19(price):1	36(desk):1	42(pay):1	53(arrive):2	60(hour):1	76(try):1	78(rate):2	81(value):1	91(guest):1	110(extremely):1	122(stop):1	146(friend):1	167(choose):1	233(flight):1	281(house):1	381(compare):1	401(efficient):1	480(stuff):1	513(low):2	788(clerk):1	791(boston):2	864(discount):1	1044(midnight):2	1351(delay):1	1759(fight):1	2708(stupid):1	3644(moan):1	5864(whine):1	8314(insignificant):1	9727(cringe):1	
+12	11(bed):1	13(bathroom):1	19(price):2	23(little):1	80(money):1	116(tv):1	296(phone):1	334(downtown):1	375(remember):1	492(private):1	513(low):1	791(boston):1	
+0	
+0	
+11	31(front):1	36(desk):1	69(tell):1	99(couple):1	152(english):1	356(comment):1	392(rude):1	788(clerk):1	5918(abuse):1	9497(arrest):1	11831(racist):1	
+16	6(breakfast):1	89(offer):1	90(coffee):2	203(plus):1	215(fruit):1	301(tea):1	362(juice):1	372(continental):1	529(cereal):1	652(pastry):1	878(normal):1	927(yogurt):1	1557(waffle):1	1775(freshly):1	2222(doughnut):1	2396(cry):1	
+0	
+
+<Author>BobLobblaw
+<Content>Hmmm... So So.. We just stayed at the Milner on Sept 24-27. My stay was not nearly as bad as some of these other reviews. But I could easily see why some people had issues. It is a very budget hotel but has a great central location with plenty to do near by. Our room was small with 2 double beds and had a great view of a brick wall! No sunlight/view what so ever. I was a little leery of our bathroom as it had evidence of a leak in the ceiling from the room above. The paint was all bubbled and there was plenty of black mold to support my claim. The front desk staff was just fine by my account, but a friend of mine ran into one staffer that was far from friendly. Our room was cleaned and made up everyday, which was good. The hotel is in a good location. Lots to do and the train is a 5 minute walk and goes everywhere. We were out often at night and felt safe. But, down near The Common is a little different story. Pretty weird at night... beware.One thing that sucked.... our room keys had to be re-keyed each time we came back to the hotel. I guess they get screwed up if they touch anything! And I do mean anything. They didn鈥檛 really check as to which room we were in either. We just told them the room number.I will recommend the Milner to those that are there for a clean place to sleep (well, minus the black mold) and are in town to see Boston, not the hotel. This is not a place for those people that are high maintenance and need perfect accommodations. There was also a little area with a continental breakfast. That was a good way to start the day in Boston. Might not get that perk from other budget hotels.On a scale of 1-10鈥?I would give it a 5. I would agree with another persons review that it might be like 鈥渞olling the dice鈥?staying here.Hope this helps! Boston is a great place!!  
+<Date>Oct 2, 2006
+<Rating>2	2	3	5	4	4	4	3	
+<Aspects>
+38	2(night):2	23(little):1	26(people):1	34(feel):1	37(review):2	50(bad):1	92(help):1	102(near):1	109(pretty):1	137(safe):1	158(plenty):1	193(person):1	246(mean):1	265(issue):1	279(touch):1	328(hope):1	429(budget):1	438(easily):1	469(guess):1	473(agree):1	737(beware):1	791(boston):1	806(paint):1	830(common):1	896(nearly):1	906(story):1	1007(black):1	1077(claim):1	1138(mold):1	1611(weird):1	1804(sept):1	1914(perk):1	2428(scale):1	2448(support):1	2853(screw):1	3272(bubble):1	4874(hmmm):1	8319(dice):1	
+7	8(day):1	26(people):1	74(perfect):1	165(start):1	721(accommodation):1	791(boston):1	1149(maintenance):1	
+28	3(clean):2	5(time):1	11(bed):1	13(bathroom):1	15(recommend):1	17(view):1	23(little):1	32(check):1	69(tell):1	104(sleep):1	179(double):1	183(wall):1	239(town):1	335(numb):1	339(key):1	528(ceiling):1	605(everyday):1	791(boston):1	1007(black):1	1022(didn):1	1138(mold):1	1287(leak):1	1902(suck):1	2003(brick):1	2064(minus):1	3261(evidence):1	4390(sunlight):1	7010(leery):1	
+9	1(location):2	7(walk):1	29(minute):1	38(lot):1	102(near):1	158(plenty):1	168(central):1	182(train):1	429(budget):1	
+0	
+10	0(staff):1	12(friendly):1	31(front):1	36(desk):1	113(fine):1	146(friend):1	149(run):1	1269(mine):1	1730(account):1	5313(staffer):1	
+3	6(breakfast):1	23(little):1	372(continental):1	
+0	
+
+<Author>ylantz
+<Content>Quaint, charming, much better than expected I had booked the Milner through a website, then decided to check the reviews on TripAdvisor, and was afraid I had made a terrible mistake after seeing all the negative reviews. It would have cost me $25 to cancel, so I thought I would just take my chances. I'm happy to say it was much, much nicer than what I had expected. Colleen is a new manager and she couldn't have been friendlier. It was clean, and the breakfast area with black wrought iron tables and chairs had a European charm. The rooms are small, but I was only there to get my daughter settled in at her college, so it met our needs. I did not see any mold or notice any peculiar smells. The location is great, and we were able to walk to the Boston Common and dinner. There was not a lot of traffic on the street, which made getting around easy. So if you're just looking for a nice room for the night, I would recommend the Milner. Add another $20 for parking, though.  
+<Date>Sep 8, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	4(nice):1	62(expect):1	155(happy):1	
+3	175(cost):1	689(chance):1	1065(cancel):1	
+17	2(night):1	3(clean):1	4(nice):1	6(breakfast):1	15(recommend):1	20(look):1	196(meet):1	198(chair):1	229(table):1	332(charm):1	467(daughter):1	582(european):1	868(iron):1	1007(black):1	1414(settle):1	1925(college):1	7653(wrought):1	
+12	1(location):1	7(walk):1	35(street):1	38(lot):1	66(park):1	93(easy):1	117(dinner):1	171(able):1	351(add):1	486(traffic):1	791(boston):1	830(common):1	
+4	231(smell):1	354(notice):1	1138(mold):1	7066(peculiar):1	
+2	12(friendly):1	258(manager):1	
+13	18(book):1	32(check):1	37(review):2	62(expect):1	219(decide):1	262(website):1	282(negative):1	332(charm):1	432(terrible):1	597(tripadvisor):1	895(mistake):1	1295(quaint):1	1544(afraid):1	
+0	
+
+<Author>JesseM
+<Content>Don't ever stay at the Milner Hotel Anybody who is considering staying at the Milner Hotel should think twice.I made a reservation to stay here about a month before my stay. I arrived in Boston (flew in from Toronto) and took the 25 minute cab ride from the airport and found the Milner Hotel. The receptionist at the front desk said they had no record of my reservation. I gave her a confirmation code, but she said it wasn't valid. I asked to speak with her manager but she said he was not there. After an hour of talking on the phone to my travel agent (and her talking to the receptionist), we gave up and went elsewhere (the Milner Hotel was full, as was the entire city virtually because of conferences in Boston at the time). The only hotel we could find in the city was the Embassy Suites - nice place, but $350 a night!One month later, I received a charge on my credit card - for a no show charge - from the Milner hotel! I called my travel agent - she called the hotel. They did not return her call (big surprise) until she threatened to fly down and call CNN as this experience was horrible. Finally the manager called back. They had spelled my name wrong, AND had put my reservation down for the wrong month! The manager had to put my travel agent on hold because the cleaning staff were in a fist fight.Although the manager did refund the no-show charge and credited my credit card for the difference for one night between the Milner ($150) and the Embassy Suites ($350), it was not worth the hassle and the Milner's rude staff. I suggest to avoid this hotel at all costs. They are unprofessional, rude, disorganized, and above were accusatory to me even though it ended up being their error. Go anywhere else but the Milner.  
+<Date>Sep 2, 2006
+<Rating>1	1	1	2	1	1	1	1	
+<Aspects>
+13	67(call):2	68(travel):1	170(else):1	248(consider):1	347(twice):1	392(rude):1	766(agent):1	1641(confirmation):1	2161(code):1	2628(error):1	3134(unprofessional):1	3603(disorganize):1	4438(valid):1	
+11	39(return):1	44(experience):1	67(call):2	175(cost):1	199(surprise):1	436(avoid):1	452(suggest):1	544(horrible):1	614(fly):1	2101(cnn):1	2537(threaten):1	
+13	2(night):1	4(nice):1	29(minute):1	41(city):1	53(arrive):1	95(airport):1	108(suite):1	218(ride):1	380(cab):1	614(fly):1	791(boston):1	1768(embassy):1	1858(toronto):1	
+0	
+0	
+44	0(staff):2	2(night):1	3(clean):1	5(time):1	31(front):1	36(desk):1	41(city):1	60(hour):1	67(call):1	68(travel):2	79(late):1	96(worth):1	108(suite):1	127(speak):1	136(charge):3	156(reservation):3	258(manager):4	292(card):2	295(name):1	296(phone):1	302(receive):1	329(entire):1	341(finally):1	371(talk):2	388(month):3	392(rude):1	427(wrong):2	593(hold):1	646(elsewhere):1	659(credit):3	766(agent):2	791(boston):1	794(conference):1	819(difference):1	855(receptionist):2	1193(hassle):1	1492(refund):1	1759(fight):1	1768(embassy):1	1892(virtually):1	2251(record):1	2792(spell):1	6175(fist):1	11782(no-show):1	
+0	
+0	
+
+<Author>gabacuda
+<Content>The worst staff and accomodations The front desk woman along with her manager, are the most incompetent, rude, and unprofessional staff I've ever dealt with! The hotel (if you can call it that) hasn't been upgraded or maintained since 1970's. There's mildew in the bathroom, a terrible stench in the room, and the streetwalkers outside DO NOT equate to $120/night !  
+<Date>Aug 14, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+6	13(bathroom):1	98(outside):1	432(terrible):1	1876(mildew):1	3823(stench):1	8041(equate):1	
+3	67(call):1	163(upgrade):1	562(maintain):1	
+11	0(staff):2	31(front):1	36(desk):1	50(bad):1	140(deal):1	258(manager):1	392(rude):1	566(woman):1	780(accomodation):1	3134(unprofessional):1	4109(incompetent):1	
+0	
+0	
+
+<Author>MrCheese
+<Content>This Hotel Is A Complete Toilet From the moment we arrived from the Airport I knew that We had made a terrible mistake. The Girl at the Check in was surly beyond belief, the lobby was knackered and depressing, the room was a cramped garret! I could only pass down one side of the bed and I was astonished to find that the air conditioning unit in the window above the bed head (12 from my forehead!) . It was quite impossible to sleep  I had to put the pillows at the other end of the bed, although I still awoke every time the damn thing started up! I have never written a wingeing report before but this one is totally justified.. We checked out after two nights and moved to the Radisson over the street, where we enjoyed sumptuous comfort and civility for $50 per night LESS!!!!AVOID THIS FLEA PIT!!!!!  
+<Date>Aug 9, 2006
+<Rating>1	1	1	3	2	1	1	1	
+<Aspects>
+7	344(write):1	436(avoid):1	611(totally):1	838(report):1	2289(flea):1	3413(pit):1	5463(justified):1	
+0	
+30	5(time):1	11(bed):3	32(check):1	53(arrive):1	55(lobby):1	95(airport):1	104(sleep):1	119(window):1	164(air):1	165(start):1	263(condition):1	303(pillow):1	319(head):1	330(toilet):1	400(pass):1	432(terrible):1	622(complete):1	625(girl):1	670(moment):1	738(beyond):1	895(mistake):1	980(unit):1	1080(cramp):1	1169(impossible):1	1494(awake):1	2189(depress):1	2891(surly):1	4176(damn):1	4829(belief):1	5410(astonish):1	
+8	2(night):2	32(check):1	35(street):1	51(enjoy):1	207(move):1	702(comfort):1	1958(radisson):1	4321(sumptuous):1	
+0	
+0	
+0	
+0	
+
+<Author>CarlosBBB
+<Content>Not Worth It at Any Price Spare Yourself!!! Those travelers who found the Milner acceptable speak to its lower rates compared to the expensive Boston area, allowing use of disposable income for other activities. My experience was that the savings were Not Worth the stress  aggravation caused by the dirty premises, questionable safety of the area, and Horrendous customer service. NOTE that the Company's Membership in Better Business Bureau WAS REVOKED for unresolved complaints in Jan 2006 - you can check this on BBB website. Despite this, they still post a BBB sticker. That in itself should be a read flag!! I stayed here with a group of co-workers because our company's travel service identified it as a reasonably priced option for business travel. We will ensure that it is removed as an option. This is NOT a business hotel - there is no desk or workspace, and the data port sables barely reach to the bed. Lighting is poor. The area is shady 鈥?I spoke to a police officer on the street and he said the block is known for 鈥渁 lot of drug dealing鈥?and to be careful. From that point on I only took cabs, rather than tried to walk from the hotel.Many of the other reviewers have noted how dank, dirty, poorly ventilated the property is, so I won't focus on that aspect except to Agree. My room smelled, the floor was continually damp  I had to lay out towels to walk around. It was the kind of place where you did not want to think about the cleanliness of mattress or pillows or you would not be able to sleep.But the WORST was the Customer Service 鈥?the word service is inappropriate, as dealing with staff entailed a mixture of apathy (desk clerks)  hostility (manager). Rates of return business are almost certainly Nil  the company has no investment in customer satisfaction. Most of the time the desk is staffed by disinterested young people who are busy chatting with friends on cell phones or staring off into space - they deflect requests/complaints with reflexive statement of impotence There is nothing I can do, or lame, substanceless excuses 鈥淚t's company Policy. Taking things to 'The Manager produced several Shouting Matches, with immediate escalation - something I have never experienced in all my business or personal travel. Do not expect anyone to ask 鈥榃hat can I do to resolve the problem or improve your stay?鈥?in This Dump.The only reason I did not try to get out immediately after setting my first foot in the place was lack of alternatives due to crowding of downtown by conferences. If the Milner is the only available hotel, better to reschedule your trip. Plan ahead and avoid it!! Awful, Awful, Awful!!  
+<Date>Jul 27, 2006
+<Rating>1	1	1	2	1	1	1	1	
+<Aspects>
+20	33(trip):1	62(expect):1	88(read):1	134(available):1	221(plan):1	336(option):1	436(avoid):1	498(despite):1	644(post):1	736(awful):3	976(ahead):1	1135(remove):1	1217(improve):1	1293(ensure):1	1449(dump):1	1715(resolve):1	2175(hat):1	2290(flag):1	5522(sticker):1	7788(reschedule):1	
+25	19(price):1	44(experience):1	68(travel):1	78(rate):1	96(worth):1	124(expensive):1	127(speak):1	147(business):1	258(manager):1	267(traveler):1	357(activity):1	359(allow):1	381(compare):1	576(yourself):1	711(personal):1	777(lour):1	791(boston):1	1214(acceptable):1	1476(match):1	1761(immediate):1	2146(shout):1	2266(spare):1	2538(produce):1	5057(disposable):1	7783(income):1	
+22	7(walk):1	11(bed):1	24(floor):1	36(desk):1	104(sleep):1	125(towel):1	147(business):1	157(light):1	171(able):1	231(smell):1	303(pillow):1	331(poor):1	696(lay):1	847(mattress):1	851(reach):1	854(cleanliness):1	1020(barely):1	1288(port):1	1640(damp):1	3831(continually):1	7921(data):1	11923(workspace):1	
+24	7(walk):1	35(street):1	38(lot):1	76(try):1	100(bloc):1	127(speak):1	140(deal):1	234(set):1	253(tried):1	259(due):1	313(crowd):1	334(downtown):1	349(lack):1	374(reason):1	380(cab):1	402(foot):1	489(immediately):1	794(conference):1	897(careful):1	1298(alternative):1	1409(police):1	2256(drug):1	2543(shady):1	4282(officer):1	
+24	9(service):1	44(experience):1	96(worth):1	214(property):1	297(note):1	323(dirty):2	337(except):1	428(customer):1	473(agree):1	487(wo):1	564(reviewer):1	943(cause):1	1255(aspect):1	1448(safety):1	1635(poorly):1	1753(stress):1	1989(premiss):1	2480(focus):1	3140(horrendous):1	3391(questionable):1	3933(savings):1	5405(dank):1	7064(aggravation):1	7861(ventilate):1	
+27	0(staff):2	5(time):1	9(service):2	26(people):1	36(desk):2	50(bad):1	140(deal):1	146(friend):1	210(space):1	220(busy):1	258(manager):1	296(phone):1	428(customer):1	571(word):1	760(company):1	788(clerk):1	1583(cell):1	1629(chat):1	1634(policy):1	1965(excuse):1	2748(stare):1	3245(statement):1	3561(lame):1	3649(mixture):1	4625(disinterested):1	5934(inappropriate):1	9554(entail):1	
+0	
+22	9(service):1	19(price):1	32(check):1	39(return):1	68(travel):2	78(rate):1	147(business):3	190(complaint):1	262(website):1	297(note):1	336(option):1	428(customer):1	578(reasonably):1	760(company):3	1462(jan):1	2863(satisfaction):1	3670(membership):1	4145(identify):1	4194(co-worker):1	4989(investment):1	5186(bureau):1	11837(nil):1	
+
+<Author>jenninboston
+<Content>NASTY!!!!! The only somewhat positive aspect of this dump is its location. Even then, at nighttime, it is sketchy being on the fringe of the combat zone. I ended up staying here because it was the only place left with a room because of a Microsoft convention. I checked out the next afternoon after I spent hours calling other hotels in town and got lucky with a cancellation. Moving to a Holiday Inn felt like the Four Seasons.This hotel is filthy and rundown. It reminded me of a seedy hotel from a horror movie. There is a mildewy odor in the air throughout the lobby which follows you into the room. I stayed in room 208 where there was an air conditioner in the window which was not doing much to cool the room despite all the noise it was making. To my dismay, the window in which the unit was sitting had no lock. There was a fire escape just outside the window which went down to ground level. I was sitting in my underwear when some man appeared right outside the window next to the bed on this fire escape. I asked the front desk for a stick to jam into the window so noone could open the window. I ended up using coat hangers. Furthermore, there was no chain or alternative lock to the door. I normally do not worry about these things, but felt unsafe after seeing some stranger outside my window. This place reminded me of a youth hostel you might stay in while backpacking through Europe. Actually, it was worse than that. There were dark stains on the dark carpet which also felt damp. The bathroom was nasty. The faucet handle came off every time I tried to turn on the water. There was cracked paint and mildew everywhere. The front desk person was some apathetic, mindless shift worker who was obviously there because they couldn't find a better job. I dreaded staying here after reading previous reviews and want to save all others from a nightmare experience.  
+<Date>Jul 21, 2006
+<Rating>1	-1	1	4	1	1	1	-1	
+<Aspects>
+35	5(time):1	34(feel):1	50(bad):1	54(door):1	57(water):1	180(actually):1	207(move):1	223(holiday):1	253(tried):1	324(inn):1	610(season):1	627(chain):1	700(europe):1	774(lock):1	806(paint):1	966(handle):1	1285(remind):1	1298(alternative):1	1320(filthy):1	1411(crack):1	1560(hostel):1	1639(nasty):1	1876(mildew):1	2227(zone):1	2323(rundown):1	2506(hanger):1	2636(coat):1	2823(faucet):1	3148(sketchy):1	3360(furthermore):1	3525(youth):1	3701(night-time):1	4695(backpack):1	7139(fringe):1	10060(combat):1	
+7	37(review):1	44(experience):1	88(read):1	373(previous):1	425(save):1	1534(nightmare):1	3864(dread):1	
+32	11(bed):1	13(bathroom):1	34(feel):1	43(leave):1	55(lobby):1	94(noise):1	98(outside):2	119(window):4	164(air):2	169(sit):2	278(cool):1	306(level):1	396(carpet):1	445(throughout):1	459(dark):2	482(follow):1	498(despite):1	541(appear):1	706(grind):1	723(stain):1	774(lock):1	980(unit):1	1048(convention):1	1083(conditioner):1	1262(fire):2	1601(escape):2	1628(odor):1	1639(nasty):1	1640(damp):1	4604(dismay):1	6725(underwear):1	7403(mildewy):1	
+12	1(location):1	34(feel):1	98(outside):1	119(window):1	458(positive):1	651(somewhat):1	831(worry):1	1058(strange):1	1091(normally):1	1255(aspect):1	1449(dump):1	1890(unsafe):1	
+0	
+19	31(front):2	32(check):1	36(desk):2	60(hour):1	64(spend):1	67(call):1	119(window):2	193(person):1	239(town):1	364(afternoon):1	481(job):1	688(stick):1	781(obviously):1	797(lucky):1	1125(worker):1	1614(jam):1	2479(shift):1	2621(cancellation):1	8181(apathetic):1	
+4	989(movie):1	1285(remind):1	2209(seedy):1	2818(horror):1	
+0	
+
+<Author>Robin from Hudson
+<Content>Good location, good price; tiny, modest room; you get what you pay for Every major hotel in the neighborhood was booked solid for a Microsoft conference, so I took a chance on the Milner. I stayed in a single room with a twin bed on the 5th floor ($108 including tax and breakfast, booked via Expedia.) The room was quite small, modestly furnished with a sink/mirror in the bedroom and a private bath with a toilet and shower stall. The room also had a window air conditioner, a TV, and free wired internet access; but it had no desk, so I worked at my laptop while seated on the bed. Oddly, the floor was not level, with a distinct downhill slope from the bed toward the bathroom. The bed was comfy--though tilted slightly to one side, like the floor beneath--and the room was cozy and quiet, so I slept soundly. Concerns: the lobby, elevator, hallways, and breakfast room were not air conditioned and felt quite uncomfortable in the July heat. I went downstairs for breakfast, and like other reviewers I enjoyed the make-your-own waffle iron, but it heats up the already airless breakfast room and makes it miserably hot. There are a couple of tables in a little alcove just across from the breakfast room where it's a little cooler. An air conditioner in the breakfast room would be a big improvement.The Milner is comparable to a 2-star hotel in Europe, which is to say it's fine for one or two night's stay on business, but I wouldn't go there on vacation and I certainly wouldn't take my 70-year-old mother there. It's one of the most modest hotel properties I've seen in any major city in the US.Still, the low price and convenient location are big plusses. With the money I saved on accomodations I was able to treat myself to a lovely meal at the nearby Legal Seafood Restaurant, and I was just a couple of minutes away on foot from my business meeting at the Park Plaza. I'd say I got what I paid for.  
+<Date>Jul 16, 2006
+<Rating>2	4	2	-1	3	-1	3	-1	
+<Aspects>
+0	
+22	1(location):2	2(night):1	18(book):1	19(price):2	42(pay):2	113(fine):1	131(vacation):1	147(business):1	186(convenient):1	203(plus):1	315(major):1	338(tiny):1	421(neighbourhood):1	513(low):1	689(chance):1	700(europe):1	794(conference):1	1359(mother):1	1617(solid):1	1813(comparable):1	2553(modest):1	5239(2-star):1	
+61	6(breakfast):5	11(bed):4	13(bathroom):1	18(book):1	23(little):2	24(floor):3	36(desk):1	46(free):1	51(enjoy):1	58(quiet):1	61(shower):1	71(include):1	97(internet):1	99(couple):1	104(sleep):1	114(hot):1	116(tv):1	119(window):1	159(access):1	164(air):2	226(bath):1	229(table):1	268(bedroom):1	278(cool):1	304(single):1	306(level):1	330(toilet):1	475(comfy):1	492(private):1	504(seat):1	509(sink):1	512(via):1	539(heat):1	564(reviewer):1	598(slightly):1	690(twin):1	691(downstairs):1	749(cozy):1	787(furnish):1	798(tax):1	839(5th):1	868(iron):1	1066(expedia):1	1083(conditioner):2	1111(laptop):1	1486(improvement):1	1557(waffle):1	1701(stall):1	1904(wire):1	2983(downhill):1	3751(oddly):1	4032(beneath):1	4430(distinct):1	4467(slope):1	5026(alcove):1	5546(soundly):1	7739(modestly):1	9651(miserably):1	10358(tilt):1	11064(airless):1	11112(make-your-own):1	
+18	10(restaurant):1	29(minute):1	66(park):1	80(money):1	87(lovely):1	99(couple):1	147(business):1	171(able):1	196(meet):1	213(meal):1	232(nearby):1	320(treat):1	402(foot):1	425(save):1	515(plaza):1	780(accomodation):1	815(seafood):1	4496(legal):1	
+0	
+0	
+14	6(breakfast):1	34(feel):1	41(city):1	55(lobby):1	164(air):1	214(property):1	216(elevator):1	263(condition):1	315(major):1	496(concern):1	539(heat):1	580(hallway):1	856(uncomfortable):1	2553(modest):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>perfectly fine Maybe things vary from room to room but our room was fine, no there wasn't an extra area for a couch or a big screen tv, but how much time do you spend in the hotel? The bathroom was twice as big as the one in my apt. The room was cleaned everyday. The only complaint really is that you have to recharge your keycard about everyday. Near the T and park. If you're planning on walking the city and not spending hours in the room this is a great hotel for the price, you want pools and fold out couches go across the street.  
+<Date>Jul 5, 2006
+<Rating>4	4	3	-1	4	-1	3	-1	
+<Aspects>
+0	
+0	
+15	3(clean):1	5(time):1	13(bathroom):1	64(spend):1	113(fine):2	116(tv):1	128(extra):1	308(maybe):1	347(twice):1	526(screen):1	595(perfectly):1	605(everyday):1	1192(couch):1	2018(vary):1	4588(apt):1	
+12	7(walk):1	19(price):1	22(pool):1	35(street):1	41(city):1	60(hour):1	64(spend):1	66(park):1	102(near):1	221(plan):1	1192(couch):1	2193(fold):1	
+0	
+4	190(complaint):1	605(everyday):1	5044(keycard):1	5833(recharge):1	
+0	
+0	
+
+<Author>NYman
+<Content>Milner - Gag me with a rope My wife and I booked with the Milner. This was our second choice as the hotel we normally use in Cambridge was full due to some conferences in town. I hesitated to give the wost rating because I can imagine that for some people it might have gone OK. However, if you have any problems, you might as well forget about it.Wnen we checked in we noticed that the window AC unit was not cooling (I used to do comercial and residential HVAC work, so I checked it out myself before alerting the front desk). After I determed that is wasn't working, I told the person at the front desk about the problem. She assured me that theywould take care of the problem. When I got up in the morning I told the Morning person at the front desk about the problem. She assured me that she would report it to maintenance. When we arrived back at our room that evening, it han not been looked at. I know this because we put folded up papers to hold the air fins (they were broken too) straight. These papers hadn't been touched. The room was blazing and the weather was calling for 90s the next two days. The person at the front desk said they didn't have a room available to move us into and said there was nothing he could do. My wife called the other hotel we usually use. They had some cancellations, so I told them we would be right over. When I told the front desk attendant that we were leaving and that I would not pay for the second night, they suddenly found another room. After quite an argument, they decided not to charge us for the second night.Additionally the ice machine didn't work and they seemed to be unable to do anything about it.If you luck out and get a room to your liking and with everything working, it would be a servicable low budget hotel in a great location. However, if you have any problems at all, you can forget about anything getting fixed.My advice is that if you are willing to roll the dice, then go ahead. However, a few more dollars is worth the peace of mind.  
+<Date>Jun 25, 2006
+<Rating>2	4	2	-1	3	-1	1	-1	
+<Aspects>
+22	26(people):1	67(call):1	69(tell):1	78(rate):1	123(ok):1	184(wife):1	242(care):1	279(touch):1	397(forget):2	399(usually):1	494(fix):1	575(advice):1	733(imagine):1	776(paper):1	813(roll):1	838(report):1	902(hesitate):1	976(ahead):1	1149(maintenance):1	1349(assure):2	2621(cancellation):1	8319(dice):1	
+4	96(worth):1	294(mind):1	430(dollar):1	1517(peace):1	
+18	1(location):1	8(day):1	20(look):1	53(arrive):1	67(call):1	164(air):1	228(break):1	385(weather):1	429(budget):1	513(low):1	593(hold):1	776(paper):1	827(straight):1	1055(luck):1	2193(fold):1	6649(fin):1	6662(blaze):1	10103(servicable):1	
+6	107(choice):1	239(town):1	259(due):1	794(conference):1	1091(normally):1	4114(cambridge):1	
+0	
+24	2(night):2	31(front):5	32(check):2	36(desk):5	42(pay):1	43(leave):1	56(morning):2	69(tell):3	119(window):1	134(available):1	136(charge):1	193(person):3	207(move):1	219(decide):1	278(cool):1	354(notice):1	956(ac):1	980(unit):1	1446(attendant):1	1537(residential):1	3296(suddenly):1	3628(alert):1	3815(argument):1	7575(hvac):1	
+4	18(book):1	184(wife):1	3832(rope):1	8175(gag):1	
+4	493(machine):1	547(ice):1	1461(unable):1	2649(additionally):1	
+
+<Author>A TripAdvisor Member
+<Content>Overcharged us, really small and uncomfortable rooms They charged us for 4 nights and we stayed for three. We didn't realize this until it was too late, because they were rushing us to check out (there was a line). The place is really old and the pull out bed was less comfortable then the floor. The rooms are really small too. While it may seem like a deal when they overcharge you, its not worth it. The location is ok.  
+<Date>Jun 23, 2006
+<Rating>1	1	1	-1	3	-1	1	-1	
+<Aspects>
+0	
+0	
+8	2(night):1	11(bed):1	24(floor):1	25(comfortable):1	136(charge):1	856(uncomfortable):1	858(pull):1	3155(overcharge):1	
+2	1(location):1	123(ok):1	
+0	
+8	32(check):1	79(late):1	96(worth):1	140(deal):1	188(line):1	607(realize):1	1244(rush):1	3155(overcharge):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good value for price I booked the Milner through a hotel discount web site. I was only staying one night to pick someone up. I was initially going to stay at the hotel alone but plans changed and there were 2 of us staying overnight. The discount web site told me to just let the hotel know when I arrived. If anyone other than the hotel staff ever tells you this, contact the hotel beforehand since the hotel usually isn't aware this is being done!! They were totally booked but Monica, the front desk attendant told me she would wait for the manager to come back  see what she could do as far as juggling rooms to accommodate us. I had arrived earlier than check in time, but Monica arranged for me to have a room with a full bed as opposed to a twin bed and the management also arranged for me to check in earlier. The room was small and clean but it was what I had expected for the price. The staff at the hotel are very helpful and attentive giving me valuable tips on things to do and see in Boston. I would stay there again because the people were so personable and accommodating.  
+<Date>Jun 17, 2006
+<Rating>3	3	3	-1	3	-1	4	-1	
+<Aspects>
+6	2(night):1	161(change):1	221(plan):1	266(pick):1	1171(overnight):1	1439(initially):1	
+13	3(clean):1	18(book):1	19(price):2	26(people):1	53(arrive):1	62(expect):1	69(tell):1	81(value):1	192(site):2	624(accommodate):1	864(discount):2	1019(web):2	2551(personable):1	
+9	5(time):1	11(bed):2	32(check):2	53(arrive):1	525(management):1	680(arrange):2	690(twin):1	2401(oppose):1	3431(monica):1	
+0	
+0	
+21	0(staff):2	14(helpful):1	18(book):1	31(front):1	36(desk):1	69(tell):2	85(wait):1	194(tip):1	258(manager):1	399(usually):1	537(attentive):1	611(totally):1	624(accommodate):1	713(contact):1	791(boston):1	832(aware):1	1446(attendant):1	1935(valuable):1	3180(beforehand):1	3431(monica):1	9061(juggle):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>wonderful old hotel w/ plumbing troubles. Awesome Staff. I was suppose to stay across the street at the Radisson for $170 conf. rate and they were ---- so I decided to find something else. I was really pleased with how NICE the Milner staff are and how well trained. It has cable  high speed internet. The hotel is older (18XX) and yes, rooms are small -- but big enough to get around. People at the conf. complained they paid $200+ for 25x45 rooms at their hotels bowling alleys. I got the rack rate of $120 (minus some haggling) but I see on line you can get $90. It is CENTRAL to the theatre district. Every room I went into was clean and the mattresses were super comfortable, so I don't understand some of the other reviews. My review could be horrible! Our toilet exploded at 11:00 at night and they were fully booked. They gave us a key to a room under renovation, a steep discount and moved us to a bigger room the next morning (with a loose sink faucet). Mostly, though, they were super nice about it. Not the brown-nose oh we are soooo sorry but there is nothing we can doooo. They wanted to solve the problem. The manager lives on site and they woke him up to figure it out. He's amazing. I've interacted with 5 shifts of staff and everyone has been very very very nice and professional. People who have stayed in non-chain hotels in big cities like New York or SF or are familiar with European hotels will have the right mind set for room size. If you want a huge King bed and two nightstands and room to land a helicopter in your living room -- you will have to pay for that and get it somewhere else.  
+<Date>Mar 26, 2006
+<Rating>4	4	2	-1	5	-1	5	-1	
+<Aspects>
+22	4(nice):1	26(people):1	37(review):1	48(wonderful):1	78(rate):2	145(amaze):1	168(central):1	170(else):1	188(line):1	219(decide):1	433(district):1	464(super):1	544(horrible):1	569(trouble):1	635(theater):1	891(sorry):1	1916(rack):1	2064(minus):1	2094(solve):1	2107(plumb):1	2768(haggle):1	2862(soooo):1	
+4	42(pay):1	241(complain):1	1366(bowl):1	1671(alley):1	
+35	3(clean):1	11(bed):1	25(comfortable):1	26(people):1	37(review):1	41(city):1	42(pay):1	56(morning):1	83(size):1	133(huge):1	170(else):1	206(live):1	207(move):1	234(set):1	243(king):1	250(yes):1	294(mind):1	339(key):1	391(understand):1	424(york):1	464(super):1	509(sink):1	582(european):1	687(renovation):1	802(sf):1	847(mattress):1	864(discount):1	1060(steep):1	1346(land):1	2081(familiar):1	2234(loose):1	2823(faucet):1	3352(helicopter):1	7304(nightstands):1	10779(non-chain):1	
+12	0(staff):1	4(nice):1	35(street):1	173(please):1	182(train):1	192(site):1	258(manager):1	426(life):1	554(wake):1	620(suppose):1	779(figure):1	1958(radisson):1	
+0	
+6	0(staff):2	4(nice):1	348(awesome):1	501(professional):1	2479(shift):1	3354(interact):1	
+4	2(night):1	18(book):1	330(toilet):1	8516(explode):1	
+3	97(internet):1	484(cable):1	1170(speed):1	
+
+<Author>A TripAdvisor Member
+<Content>No room in the inn Get your room confirmation in writing! We reserved a double by phone. When we arrived they gave us a single. There wasn't even enough room to put a roll-away in the room and, since they had no doubles available (said they were fully booked with a waiting list), we were left without a room the weekend of Head of the Charles when everything full. We were informed that our Master Card would still be charged for one night's stay since we hadn't cancelled 24 hours in advance (if they had a waiting list as they said they possibly re-sold the room and got double their fee!). It was absurd since the mistake was theirs. However our MC company said we had authorized the charge and were liable for it since we had nothing in writing to prove they mishandled the reservation. However the Milner looked scarier than the hotel in Psycho, so actually it was probably worth paying for one night just so we didn't have to sleep there. Avoid this hotel. They are dishonest!  
+<Date>Dec 3, 2005
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+7	53(arrive):1	304(single):1	436(avoid):1	895(mistake):1	3192(theirs):1	5507(absurd):1	5928(dishonest):1	
+8	2(night):1	20(look):1	42(pay):1	96(worth):1	104(sleep):1	178(probably):1	180(actually):1	1566(scary):1	
+13	18(book):1	43(leave):1	85(wait):1	134(available):1	172(weekend):1	179(double):1	319(head):1	324(inn):1	344(write):1	650(list):1	1641(confirmation):1	2096(charl):1	6481(roll-away):1	
+0	
+0	
+20	2(night):1	60(hour):1	85(wait):1	136(charge):2	156(reservation):1	179(double):1	292(card):1	344(write):1	584(fee):1	650(list):1	685(advance):1	760(company):1	817(inform):1	1065(cancel):1	1233(possibly):1	1554(prove):1	2337(master):1	5054(mc):1	6724(authorize):1	12116(liable):1	
+3	179(double):1	296(phone):1	506(reserve):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>You could stay in a worse place It's as simple as this. The rooms are quite small, the decoration is old fashioned BUT, it's safe and in a super location and is really cheap compared to anything else in the area.It's ideal for anyone on a budget who only plans to use the place to sleep - afterall, the rest of Boston is so good why would you need to stay in much?I personally found the staff helpful and the hotel easy to find, which is not the view of other reviews but I can only jusge as i find.  
+<Date>Nov 27, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	50(bad):1	613(simple):1	
+0	
+15	1(location):1	104(sleep):1	137(safe):1	143(cheap):1	170(else):1	221(plan):1	288(rest):1	381(compare):1	429(budget):1	464(super):1	545(ideal):1	791(boston):1	1580(decoration):1	1745(fashion):1	4732(afterall):1	
+0	
+0	
+6	0(staff):1	14(helpful):1	17(view):1	37(review):1	93(easy):1	1052(personally):1	
+0	
+0	
+
+<Author>psasquatch99
+<Content>Great Value / Tiny Rooms There is no other way to put it but the rooms are tiny. The running joke between myself and my group was I have to go outside to change my mind. I stayed in a room with two double beds, which had no closet and a very small dresser, but it was very clean and had a quite comfortable bed. Staff was friendly and helpful in giving directions to local places. Continental Breakfast of coffee, assorted teas, waffles, bagels, fruit  cereals was good as well. The location is great, two blocks from orange line subway  a block and a half from the Rock Bottom Brewery (highly recommend 鈥淕ood Beer  Food鈥?. Overall, I have stayed in much nicer and much worse; I would defiantly stay here again.  
+<Date>Nov 5, 2005
+<Rating>3	5	2	-1	4	-1	4	-1	
+<Aspects>
+4	4(nice):1	50(bad):1	70(overall):1	6212(defiantly):1	
+2	81(value):1	338(tiny):2	
+6	3(clean):1	11(bed):2	25(comfortable):1	179(double):1	565(closet):1	2128(dresser):1	
+19	1(location):1	15(recommend):1	16(food):1	98(outside):1	100(bloc):2	138(highly):1	149(run):1	161(change):1	188(line):1	283(half):1	294(mind):1	370(subway):1	443(beer):1	773(rock):1	850(bottom):1	1104(orange):1	1175(joke):1	6234(brewery):1	9907(ood):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	195(local):1	395(direction):1	
+9	6(breakfast):1	90(coffee):1	215(fruit):1	301(tea):1	372(continental):1	529(cereal):1	1370(bagels):1	1557(waffle):1	3968(assorted):1	
+0	
+
+<Author>dancequeen33
+<Content>A Charming  We chose the hotel sight unseen,based only on website,price and great location. It is old, but very clean and quaint. Every staff member made us feel welcome and took the time to answer questions and make suggestions on places to eat and see. Breakfast was included and the rooms were cozy, yet spacious. We were able to walk to Boston Commons,Beacon Hill,Chinatown and The Freedom Trail. There were several bars  restaurants within a one-mile or less radius. I believe we received good value for our money.The day we left, it was raining, so the manager secured us a cab, and he and his assistant even helped us with our luggage. I would definately stay here again.  
+<Date>Oct 5, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	410(definately):1	
+4	80(money):1	81(value):1	302(receive):1	312(believe):1	
+4	6(breakfast):1	71(include):1	111(spacious):1	749(cozy):1	
+17	1(location):1	7(walk):1	19(price):1	167(choose):1	171(able):1	262(website):1	284(base):1	332(charm):1	411(sight):1	756(hill):1	791(boston):1	830(common):1	1132(chinatown):1	2507(trail):1	3221(beacon):1	3652(freedom):1	9123(unseen):1	
+2	3(clean):1	1295(quaint):1	
+17	0(staff):1	5(time):1	8(day):1	34(feel):1	43(leave):1	47(eat):1	92(help):1	202(welcome):1	249(luggage):1	258(manager):1	380(cab):1	394(question):1	581(rain):1	669(answer):1	921(suggestion):1	1034(secure):1	3044(assistant):1	
+3	10(restaurant):1	27(bar):1	4443(radius):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Terrible manner! The manager of this hotel was terrible. Even if we made a reservation in advance, this guy expelled us out of this hotel. This was so terrible experience. This hotel was the worst hotel that I have stayed so far. You should be careful. Additionally, the room was so small and very uncomfortable.  
+<Date>Aug 30, 2005
+<Rating>1	1	1	-1	2	-1	1	-1	
+<Aspects>
+4	50(bad):1	432(terrible):1	897(careful):1	1721(manner):1	
+2	44(experience):1	432(terrible):1	
+2	856(uncomfortable):1	2649(additionally):1	
+0	
+0	
+5	156(reservation):1	258(manager):1	368(guy):1	432(terrible):1	685(advance):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Bring Extra Locks Either bring extra locks for your doors or bring a guard dog. We posted a DO NOT DISTURB sign on our door which was entirely ignored (This is the only hotel I know of where DO NOT DISTURB signs are blatantly not honored). We suffered unauthorized entry into our hotel room while staying at the Milner at least one time that we noticed. A personal item was removed from our room that the management stated may have accidentally been thrown away with only casual concern shown. Only after calling the national office was our complaint even heard!!!!Our traveling companions had a door that would not latch properly. Their request to have this fixed went unattended and they returned to their room to find the door slightly ajar on more than one occasion.I would not return to this hotel even if offered a free room and personal security. You can do much better than to stay at a hotel where the doors do not lock, items get 鈥渢hrown away,鈥?and the privacy and safety of the guest appears secondary at best.For comparable pricing, you can stay at much nicer locations, and be able to enjoy your vacation rather than worry about what may be occurring within your room or with your belongings.  
+<Date>Jun 29, 2005
+<Rating>1	1	2	-1	1	-1	3	-1	
+<Aspects>
+23	54(door):4	68(travel):1	91(guest):1	128(extra):2	142(bring):3	449(sign):2	519(item):1	541(appear):1	644(post):1	774(lock):3	1067(disturb):2	1126(dog):1	1144(properly):1	1183(privacy):1	1215(ignore):1	1376(honor):1	1448(safety):1	1762(guard):1	2069(entirely):1	2998(companion):1	6639(latch):1	7595(secondary):1	8592(blatantly):1	
+10	1(location):1	4(nice):1	19(price):1	51(enjoy):1	131(vacation):1	171(able):1	831(worry):1	1813(comparable):1	2283(occur):1	2426(belongings):1	
+23	5(time):1	39(return):2	46(free):1	54(door):1	89(offer):1	148(request):1	354(notice):1	494(fix):1	496(concern):1	519(item):1	525(management):1	598(slightly):1	641(security):1	711(personal):2	871(occasion):1	917(throw):1	1135(remove):1	1649(entry):1	1790(suffer):1	1981(casual):1	3972(accidentally):1	4616(unattended):1	9324(ajar):1	
+0	
+0	
+5	67(call):1	132(hear):1	190(complaint):1	792(office):1	2340(national):1	
+0	
+0	
+
+<Author>bostona
+<Content>Great location, great price Can't beat the location/price ratio. Rooms are very small (all are different, you can end up in a small one but also in a relatively large one) but clean and the staff is very nice. Location is unbeatable. Unless you want spend twice as much.If you plan to stay for more than a couple of days, plan on getting a large room, not a single.I go back there every year and I strongly raccomend it.  
+<Date>May 22, 2005
+<Rating>4	5	3	-1	3	-1	4	-1	
+<Aspects>
+4	64(spend):1	347(twice):1	405(unless):1	1386(strongly):1	
+4	1(location):2	19(price):1	442(beat):1	4660(ratio):1	
+8	0(staff):1	3(clean):1	4(nice):1	8(day):1	99(couple):1	221(plan):2	304(single):1	913(relatively):1	
+2	1(location):1	2303(unbeatable):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Thumbs up for the Milner Before going to Boston but after booking the Milner, I read the reviews of other people and felt sick to my stomach. I considered canceling my reservation but was too busy so decided to just go and was pleasantly surprised. Yes, my room was small, but very cute and cozy. The hotel had a very nice atmosphere as well. If you've ever traveled in Europe and stayed in 2 - 3 star hotels, you'll know what I mean. No, it wasn't new and, being an older hotel, the oldest in Boston apparently, not everything was in perfect condition, but I think you have to expect that. The manager was great and very receptive to my concerns. The staff were professional, friendly and helpful. As for the breakfast, also very nice, especially because of the fresh fruit. I don't mind eating with plastic utensils. I thought my stay at the Milner was very good. I slept well, was very centrally located, and was treated well by the staff. I would stay there again.  
+<Date>May 4, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	47(eat):1	62(expect):1	74(perfect):1	263(condition):1	294(mind):1	791(boston):1	863(apparently):1	1347(plastic):1	2919(utensil):1	
+6	4(nice):1	68(travel):1	103(star):1	246(mean):1	414(atmosphere):1	700(europe):1	
+8	0(staff):1	84(locate):1	104(sleep):1	250(yes):1	320(treat):1	749(cozy):1	879(centrally):1	1202(cute):1	
+7	156(reservation):1	199(surprise):1	219(decide):1	220(busy):1	248(consider):1	747(pleasantly):1	1065(cancel):1	
+0	
+7	0(staff):1	12(friendly):1	14(helpful):1	258(manager):1	496(concern):1	501(professional):1	7582(receptive):1	
+14	4(nice):1	6(breakfast):1	18(book):1	26(people):1	34(feel):1	37(review):1	88(read):1	126(especially):1	197(fresh):1	215(fruit):1	654(sick):1	791(boston):1	1318(stomach):1	2165(thumb):1	
+0	
+
+<Author>dscott12
+<Content>Stay away! Please! stay away from the Horrible Hotel, the rooms are not much bigger than closets, the tv did not work, the toilet leaked all over the bathroom floor, the beds are horrible, the shower curtain was half as wide as the tub so it was impossible to take a shower without getting water all over the bathroom floor.do yourself a favor and stay very far away from this absolutely terrible hotel! consider yourself warned  
+<Date>Mar 16, 2005
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	173(please):1	189(absolutely):1	248(consider):1	432(terrible):1	576(yourself):2	679(warn):1	1521(favor):1	
+0	
+15	11(bed):1	13(bathroom):2	24(floor):2	57(water):1	61(shower):2	116(tv):1	283(half):1	311(tub):1	330(toilet):1	544(horrible):2	565(closet):1	743(curtain):1	860(wide):1	1169(impossible):1	1287(leak):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>rastro
+<Content>A Picture Is Worth 1000 Words - It's Not A Place I Would Stay Again !!       Small Hallway Is Right !!  
+<Date>Feb 28, 2005
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+3	96(worth):1	456(picture):1	571(word):1	
+0	
+0	
+1	580(hallway):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Don't believe the others... the Milner is fine The other people who wrote these reviews had the wrong expectations of the hotel. If you're looking for a place right downtown Boston for approx. $100, then this is a great place. But don't expect either the service or room size of the Marriott, or the Radisson, etc. If you can afford the $200+ for the night, then go to one of those places and get the big room and the brown-nosing concierge. If you just want a place to rest your head in the heart of the city, and square footage isn't a big deal for you, I would recommend this hotel. Plus, if you're thirsty in the middle of the night, in some of the rooms you almost don't have to get out of bed to turn on the sink! It's just over an arm's reach away!  
+<Date>Nov 9, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	20(look):1	334(downtown):1	791(boston):1	851(reach):1	1423(approx):1	1726(arm):1	
+7	26(people):1	37(review):1	113(fine):1	312(believe):1	344(write):1	427(wrong):1	431(expectation):1	
+22	2(night):2	9(service):1	11(bed):1	15(recommend):1	41(city):1	62(expect):1	73(etc):1	83(size):1	139(square):1	140(deal):1	203(plus):1	204(concierge):1	288(rest):1	319(head):1	325(middle):1	450(heart):1	509(sink):1	618(marriott):1	1452(afford):1	1958(radisson):1	5221(thirsty):1	8083(footage):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Don't Stay Here! Blessed are those who expect nothing for they shall not be disappointed. You will still be disappointed here though, there is a foul odour upon entering the foyer and the staff are in the main unhelpful. The rooms are small, unclean, and in need of maintenance, not to mention the pungent smell in the rooms too. You may be on a tight budget, but there are better options for you.  
+<Date>Oct 11, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	62(expect):1	154(disappoint):1	336(option):1	429(budget):1	1399(tight):1	2887(bless):1	
+0	
+0	
+0	
+5	231(smell):1	244(mention):1	1149(maintenance):1	3914(unclean):1	10805(pungent):1	
+8	0(staff):1	112(main):1	154(disappoint):1	601(enter):1	1618(unhelpful):1	1628(odor):1	1931(foyer):1	4058(foul):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>hated it I spent five long nights at this quaint hotel. Staying anywhere but home for five nights is difficult, but it was made even more so at the Milner. The staff did not seem welcoming or knowledgable about anything pertaining to the hotel and the rooms were dingy and cheap looking. The room did not look updated nor very clean...maybe it was the cement block walls painted lime green with red accents??? For some reason the Milner felt more like a hostel for senior citizens.  
+<Date>Oct 3, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	2(night):2	34(feel):1	64(spend):1	141(home):1	374(reason):1	572(difficult):1	1110(hate):1	1295(quaint):1	1560(hostel):1	2990(senior):1	3944(citizen):1	
+7	0(staff):1	20(look):1	143(cheap):1	202(welcome):1	1160(knowledgeable):1	1749(dingy):1	11658(pertain):1	
+13	3(clean):1	20(look):1	100(bloc):1	183(wall):1	308(maybe):1	590(red):1	725(update):1	806(paint):1	970(nor):1	1005(green):1	3563(accent):1	4319(lime):1	4647(cement):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Guderian
+<Content>Bruchbude mit h枚chst inkompetentem Personal            
+<Date>Dec 31, 2006
+<Rating>1	1	1	2	2	1	1	-1	
+<Aspects>
+2	711(personal):1	9434(mit):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

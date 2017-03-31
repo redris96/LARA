@@ -1,0 +1,490 @@
+<Author>mpit935
+<Content>Great Stay!! We had a wonderful stay at this hotel. The rooms were huge, and bathrooms were large as well. The hotel was beautiful. It's an old monastery with a lot of history. The rooms were very clean and comfortable and the price was right in our budget. The view from our window of the front courtyard was great. Breakfasts were wonderful as well.The staff was very accommodating and helpful. Everyone spoke perfect English. The location of this hotel was perfect. It was close to all the attractions, shopping, and restaurants.  
+<Date>Jan 7, 2009
+<Rating>4	5	5	5	5	5	5	5	
+<Aspects>
+8	38(lot):1	45(beautiful):1	48(wonderful):1	74(perfect):1	127(speak):1	152(english):1	1490(history):1	8149(monastery):1	
+7	0(staff):1	3(clean):1	14(helpful):1	19(price):1	25(comfortable):1	429(budget):1	624(accommodate):1	
+6	13(bathroom):1	17(view):1	31(front):1	119(window):1	133(huge):1	435(courtyard):1	
+6	1(location):1	10(restaurant):1	28(close):1	49(shop):1	74(perfect):1	350(attraction):1	
+0	
+0	
+2	6(breakfast):1	48(wonderful):1	
+0	
+
+<Author>Dave_Cypress_TX_USA
+<Content>Less than Satisfied       Front of Hotel  
+<Date>Nov 25, 2008
+<Rating>2	2	1	2	3	3	3	2	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+2	31(front):1	899(satisfy):1	
+0	
+0	
+
+<Author>skmtravel
+<Content>Good experience My wife and I stayed there 4 nights with our 2 young children. They gave us two adjacent rooms on the top (3rd) floor, however there was no door between the rooms unlike in many other hotels.Many positives:* Convenient location.* Friendly and helpful staff (who also made museum reservations for us).* Clean and comfortable rooms/bathrooms; not noisy at all.* Moderately priced for such a popular tourist destination.Some (minor) negatives:* The elevator broke down on our first day, and was not repaired even by day 4.* WIFI access is only in the lobby, and did not always work. No internet in the rooms.Overall would recommend it for people looking for a comfortable, pleasant but certainly not luxurious stay at a moderate price.  
+<Date>Sep 9, 2008
+<Rating>4	4	4	4	5	4	4	3	
+<Aspects>
+0	
+17	2(night):1	15(recommend):1	19(price):2	20(look):1	25(comfortable):1	26(people):1	44(experience):1	70(overall):1	150(pleasant):1	184(wife):1	209(tourist):1	277(child):1	708(luxurious):1	1092(destination):1	1277(popular):1	2936(moderate):1	3195(moderately):1	
+10	3(clean):1	24(floor):1	25(comfortable):1	54(door):1	97(internet):1	118(top):1	217(noisy):1	1061(adjacent):1	1163(unlike):1	2097(3rd):1	
+3	1(location):1	186(convenient):1	458(positive):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	156(reservation):1	507(museum):1	
+6	8(day):2	216(elevator):1	228(break):1	282(negative):1	720(minor):1	1398(repair):1	
+3	55(lobby):1	159(access):1	1268(wifi):1	
+
+<Author>rv27
+<Content>mosquito hell Be aware, we did not sleep at all due to a mosquito problem. not exactly sure why the staff neglected to point out the disgusting plug in bug repellent that the offer as a solution to their mosquito infestation. When we came down the next morning for breakfast, I mentioned my lack of sleep due to the mosquitoes. In a very sarcastic response, they suggested that I should have called and they would have told us to either close the windows, or plug this container with blue liquid into the wall. they then laughed at me when I asked if I was the only person that ever complained. Needless to say while eating breakfast, the topic of conversation amoungst every table was about the mosquitoes. not to mention the wonderful view of the back ally they allowed us to see while they opened the door in the dining room to let even more mosquitoes in. not worth the money or the location. stay away.  
+<Date>Jul 27, 2008
+<Rating>1	1	2	3	1	1	-1	1	
+<Aspects>
+3	193(person):1	241(complain):1	1245(laugh):1	
+0	
+15	6(breakfast):1	17(view):1	48(wonderful):1	54(door):1	56(morning):1	104(sleep):2	244(mention):2	259(due):2	316(dine):1	349(lack):1	359(allow):1	832(aware):1	1054(mosquito):4	1918(hell):1	11003(ally):1	
+25	0(staff):1	1(location):1	28(close):1	67(call):1	69(tell):1	80(money):1	89(offer):1	96(worth):1	119(window):1	183(wall):1	452(suggest):1	586(exactly):1	602(bug):1	694(blue):1	1054(mosquito):1	1152(disgust):1	1174(plug):2	1330(response):1	2800(solution):1	2858(repellent):1	3379(container):1	3543(neglect):1	3838(liquid):1	6706(infestation):1	9953(sarcastic):1	
+0	
+0	
+7	6(breakfast):1	47(eat):1	229(table):1	1054(mosquito):1	1281(conversation):1	1356(needless):1	6591(topic):1	
+0	
+
+<Author>Gigem03
+<Content>Wouldn't stay her again if I had a choice The staff of this hotel was friendlly, helpful, and was by far the best part of the hotel. The room and bathroom was clean but a little outdated. It needed some attention in the decorating area.The location is what we did not like about this hotel. Although it was located in close proximity to the duomo, we did not feel safe walking to the hotel. Beginning in the early afternoon and into the wee hours of the morning drunks and homeless people sit in the piazza outside and make cat-calls to you and make you feel extremely uncomfortable. My husband does not usually get nervous but he almost changed hotels because of this. When I mentioned it to the night staff one night the man I spoke with did not speak much english.I would not stay her again because I did not feel safe walking home a night.  
+<Date>Jul 23, 2008
+<Rating>2	2	2	1	3	3	3	-1	
+<Aspects>
+4	105(husband):1	161(change):1	399(usually):1	1408(nervous):1	
+3	0(staff):1	14(helpful):1	107(choice):1	
+6	3(clean):1	13(bathroom):1	23(little):1	305(decorate):1	726(attention):1	1549(outdated):1	
+23	1(location):1	2(night):1	7(walk):2	26(people):1	28(close):1	34(feel):3	56(morning):1	60(hour):1	84(locate):1	98(outside):1	110(extremely):1	137(safe):2	141(home):1	169(sit):1	364(afternoon):1	551(begin):1	856(uncomfortable):1	981(duomo):1	1114(proximity):1	1567(homeless):1	2116(piazza):1	2310(wee):1	4127(drunk):1	
+0	
+5	0(staff):1	2(night):2	127(speak):2	152(english):1	244(mention):1	
+0	
+0	
+
+<Author>funky_homosapien
+<Content>Great Location, Air-Con Tons of character and ideally located. The Hotel is located in an old monastery, rooms seem large with A/C, TV. Lobby had internet access. Breakfast was good.  
+<Date>Jun 16, 2008
+<Rating>4	4	4	5	4	3	4	3	
+<Aspects>
+0	
+0	
+3	84(locate):1	116(tv):1	8149(monastery):1	
+6	1(location):1	84(locate):1	967(ton):1	1049(character):1	1800(ideally):1	3349(air-con):1	
+0	
+0	
+1	6(breakfast):1	
+3	55(lobby):1	97(internet):1	159(access):1	
+
+<Author>xana12
+<Content>Honeymoon in Florence -       P.za SS. Annunziata  
+<Date>May 10, 2008
+<Rating>2	2	3	4	4	1	1	2	
+<Aspects>
+0	
+3	346(florence):1	502(honeymoon):1	9888(za):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>twoplusonetravel
+<Content>Just lovely Well somehow this site continues to surprise! Having read some reviews I was worried about our stay here, booked by my mother for a celebration large family trip - worried about the tramps in the square, the breakfast, lack of room service... having just come back I cannot see why I would stay anywhere in Florence again. The location could not be bettered - surely the only in an unspoilt Brunelleschi square, and opposite the lovely and touching swaddled babies reliefs of the Hospidales. Perhaps there has been a clean up but we noticed only a few beggars on a couple of occasions. And in what sense is two minutes walk to the Duomo off centre? The rest of the centre is a mix of old and newer but this square is the real deal, spacious and gracious, and round the corner from San Marco (surely the best value museum at 5 euro and shorter queues than anywhere, if not the best overall).Our room was large and airy with an over the top canopy bed, absorbing view over the courtyard of the art school (you can see paintings awaiting finishing and apparnetly sometimes see sculptors at work) - the rooms at the back are quieter than our house in London and we all slept well including the baby (no mosquitos, because of the time of year). The breakfast was fine, good coffee and warm brioches the best bits - the small bar was always open and a good place to sit and chat before and after family meals out, the two barmen both charming and eager to please, in a good way. Outside our room was a living room style hall area with antique comfy chairs and books.Overall this place is elegant, eclectic, friendly, relaxed, helpful - it has that something that five star places can often miss, a kind of integrity and individuality, a home from home with extra sparkle. Perhaps it is extra special in winter, when the square is not full, and where the decor seems cosy not heavy. I'd say ask for one of the larger back rooms (ours was 25) or a suite and give this a try.  
+<Date>Jan 4, 2008
+<Rating>5	5	4	5	5	4	5	-1	
+<Aspects>
+0	
+29	12(friendly):1	14(helpful):1	70(overall):2	81(value):1	101(center):1	103(star):1	111(spacious):1	128(extra):1	139(square):1	140(deal):1	141(home):2	144(short):1	160(relax):1	177(san):1	200(corner):1	240(real):1	256(euro):1	276(miss):1	288(rest):1	507(museum):1	609(mix):1	986(elegant):1	1463(queue):1	1501(gracious):1	1919(sparkle):1	2033(surely):1	2581(marco):1	4902(eclectic):1	10218(integrity):1	
+39	5(time):1	11(bed):1	17(view):1	18(book):1	58(quiet):1	71(include):1	76(try):1	98(outside):1	104(sleep):1	108(suite):1	118(top):1	128(extra):1	139(square):1	198(chair):1	206(live):1	208(special):1	269(decor):1	281(house):1	326(style):1	435(courtyard):1	475(comfy):1	560(sometimes):1	616(hall):1	697(london):1	749(cozy):1	772(finish):1	789(art):1	843(ours):1	1054(mosquito):1	1186(heavy):1	1229(school):1	1304(baby):1	1599(winter):1	1936(antique):1	1947(airy):1	2742(await):1	2994(painting):1	3790(canopy):1	6051(absorb):1	
+19	1(location):1	7(walk):1	29(minute):1	87(lovely):2	101(center):1	139(square):1	192(site):1	199(surprise):1	279(touch):1	783(opposite):1	981(duomo):1	1096(continue):1	1102(sense):1	1304(baby):1	2017(somehow):1	2033(surely):1	2482(relief):1	9683(unspoiled):1	10207(brunelleschi):1	
+5	3(clean):1	99(couple):1	354(notice):1	871(occasion):1	4682(beggar):1	
+0	
+26	6(breakfast):2	9(service):1	18(book):1	27(bar):1	33(trip):1	37(review):1	52(bit):1	88(read):1	90(coffee):1	106(family):2	113(fine):1	139(square):1	169(sit):1	173(please):1	213(meal):1	236(warm):1	332(charm):1	346(florence):1	349(lack):1	885(worried):2	1359(mother):1	1604(eager):1	1629(chat):1	2510(celebration):1	3315(barman):1	9459(tramp):1	
+0	
+
+<Author>Etheldene
+<Content>Liked the Loggiato dei Serviti, with minor reservations We - British father, French mother and 25-year-old son - stayed in the main building in a 3rd floor suite for 6 nights with a full view of the Duomo from each bed, and 75 yards from the perspex roof over the Accademia's David, for which we paid 250 euros per night including breakfast.The rooms were large, quiet and comfortable, as was one bathroom, the other being small, with a door badly in need of redecoration. The beds/mattresses were unexceptional.The season made air conditioning unnecessary, although mosquitoes at night were still a problem - the plug-in protectors were ineffective and we were bitten most nights (we slept with the windows open).The hotel has been offering wireless internet and a terminal in the lobby for the last month or so, both of which must be paid for. The additional charge is petty, and wastes time for both hotel staff and customers. We urged them to abandon it and include it in the room rate. In the end it was academic since neither functioned properly during our stay.The hotel may be slightly off center, but the center is so small that nothing that matters tourist-wise is further than a 20-minute walk. Perhaps the most impressive feature of the hotel is the discrete lighting over the nameplate under the arcade when glimpsed across the square at night. It doesn't look like a regular hotel, and this class is reflected in the subdued decoration of the interior, in particular the staircases. It still feels ancient  monastic.There were drunks in the south corner (we were never accosted or bothered by them), and a cloud of urine vapor. Just 24 hours after the garbage truck had passed, the square, including the steps up to the hotel, would be covered once again in litter (as everywhere in Florence), as if a bag of litter, in particular cigarette ends, had exploded over it. This together with the huge blue garbage bins and the scooters that would sometimes short-cut across the square (as everywhere in Florence) spoiled its overall appearance.A week before our arrival, we asked the hotel to make us Uffizi reservations (incidentally this avoids the 18 euros or so charged by internet agencies). It took a second email, and over 48 hours, before the hotel acknowledged the request, but they did make the booking. On the other hand, on our last evening, they failed to book a cab as they'd promised for the next morning, with the result that we only just made our flight.The breakfast is the standard unmemorable fare - prepacked, presliced, poured-from-a-carton whatever, with no attempt at anything specifically Florentine, Italian or homemade, apart from bought-in rolls and croissants. However, they did do a cappucino if asked.On our last day we had to leave before breakfast service was started - 7.15 am - and we were not offered any replacement even though our room rate included breakfast for that day. As standard in Italy, there were no coffee/tea facilities in the room. At 6.15 am we asked the night porter for hot water and Nescafe, only to discover that the espresso machine was already on - and he was able to make us a cappucino instead. We had the impression that the hotel has never thought of offering this routinely to its many guests leaving on early flights.We were impressed by the expertise and helpfulness of one of the front desk staff, Gianni Lorenzini, and by one of the breakfast staff. None of the others stood out.Enoteca Pinchiorri: Visitors tempted to try this 3-star restaurant - a 10 minute walk - should be warned that it takes a particular personality to feel relaxed in the company of fawning suited staff - more formal than in any such restaurant we know of - a curious conception of value, and a formidable wallet: one cupful of fresh pasta with 4 teaspoons of creamy mozzarella and two thin slices of sausage, totalling an apparent ingredient value under 5 euros, with nothing distinctive in either taste or texture, is priced at 90 euros. The cheapest menu with the cheapest wine, plus service, costs at least 325 euros per person, and you are unlikely to be able to enjoy yourself unless you are prepared to spend twice that. There is little that is recognizably Italian about the menu, and what is Italian - pasta and risotto - is no better, and far less generous, than in higher-end restaurants charging a quarter of the price.  
+<Date>Oct 17, 2007
+<Rating>4	4	4	4	3	3	3	1	
+<Aspects>
+8	34(feel):1	444(stand):1	573(none):1	1144(properly):1	1275(neither):1	1780(function):1	3356(ancient):1	4178(cappucino):1	
+65	0(staff):1	7(walk):1	9(service):1	10(restaurant):3	19(price):2	23(little):1	29(minute):1	34(feel):1	51(enjoy):1	64(spend):1	76(try):1	81(value):2	136(charge):1	143(cheap):2	160(relax):1	171(able):1	175(cost):1	193(person):1	197(fresh):1	200(corner):1	203(plus):1	251(wine):1	256(euro):3	307(bother):1	347(twice):1	358(italian):2	405(unless):1	423(menu):2	439(taste):1	460(prepare):1	463(quarter):1	576(yourself):1	679(warn):1	754(thin):1	760(company):1	769(south):1	786(total):1	861(suit):1	938(particular):1	951(visitor):1	1143(pasta):2	1385(sausage):1	1523(generous):1	2024(slice):1	2288(cloud):1	2460(wallet):1	2522(personality):1	2669(formal):1	2814(3-star):1	3039(apparent):1	3086(tempt):1	3191(urine):1	3691(ingredient):1	4023(curious):1	4127(drunk):1	4822(unlikely):1	6850(accost):1	7004(risotto):1	7016(distinctive):1	7675(texture):1	8186(creamy):1	8844(higher-end):1	10707(mozzarella):1	11705(formidable):1	12309(fawn):1	
+94	2(night):5	6(breakfast):1	11(bed):1	13(bathroom):1	17(view):1	18(book):1	20(look):1	24(floor):1	25(comfortable):1	42(pay):1	43(leave):1	54(door):1	56(morning):1	58(quiet):1	60(hour):1	70(overall):1	71(include):3	78(rate):1	89(offer):1	91(guest):1	104(sleep):1	108(suite):1	112(main):1	119(window):1	133(huge):1	135(build):1	139(square):3	156(reservation):1	157(light):1	164(air):1	233(flight):2	254(french):1	256(euro):1	263(condition):1	290(bag):1	346(florence):2	366(step):1	377(hand):1	380(cab):1	400(pass):1	470(class):1	552(cover):1	560(sometimes):1	610(season):1	612(son):1	636(roof):1	694(blue):1	720(minor):1	731(feature):1	744(regular):1	848(impression):1	920(impressive):1	938(particular):2	975(promise):1	981(duomo):1	1026(interior):1	1042(bite):1	1054(mosquito):1	1109(result):1	1221(spoil):1	1307(yard):1	1359(mother):1	1365(cigarette):1	1507(truck):1	1576(fail):1	1580(decoration):1	1650(garbage):2	1663(badly):1	1956(david):1	2097(3rd):1	2119(staircase):1	2250(reflect):1	2312(appearance):1	2407(british):1	2806(accademia):1	2915(father):1	3059(bin):1	3404(litter):2	3762(glimpse):1	4132(unnecessary):1	4410(urge):1	4480(abandon):1	4566(scooter):1	4574(arcade):1	6648(subdue):1	6674(routinely):1	6854(discrete):1	6862(dei):1	8232(beds):1	8249(ineffective):1	8298(redecoration):1	8516(explode):1	8566(plug-in):1	11595(unexceptional):1	
+5	7(walk):1	101(center):2	531(matter):1	598(slightly):1	8743(20-minute):1	
+0	
+26	0(staff):3	5(time):1	6(breakfast):1	18(book):1	31(front):1	36(desk):1	60(hour):1	75(week):1	97(internet):1	136(charge):2	148(request):1	156(reservation):1	224(arrival):1	256(euro):1	343(impress):1	428(customer):1	436(avoid):1	835(additional):1	928(waste):1	1940(uffizi):1	2218(agency):1	2453(acknowledge):1	3872(helpfulness):1	4593(incidentally):1	4613(petty):1	10881(expertise):1	
+33	2(night):1	6(breakfast):3	8(day):2	9(service):1	43(leave):1	57(water):1	71(include):1	78(rate):1	89(offer):1	90(coffee):1	114(hot):1	130(standard):2	165(start):1	171(able):1	211(facility):1	353(instead):1	358(italian):1	493(machine):1	813(roll):1	857(apart):1	869(discover):1	900(italy):1	937(whatever):1	1004(croissant):1	1112(fare):1	1119(attempt):1	1653(porter):1	1810(specifically):1	2324(espresso):1	2593(replacement):1	3729(homemade):1	4178(cappucino):1	4249(florentine):1	
+7	42(pay):1	55(lobby):1	89(offer):1	97(internet):1	388(month):1	717(wireless):1	1261(terminal):1	
+
+<Author>Kathlena
+<Content>A Gem After seeing the latest reviews on your website we almost cancelled our booking. We had stayed at this hotel about 7 years ago and found it wonderful at the time. Expecting the worse we decided because of its location not to cancel and are we pleased that we did not! The hotel staff were very friendly and anxious to help out and our room was magnificent. As I mentioned the location is perfect.We live part of the year in Italy and travel extensively so we do have experience with great lodgings and this one is very, very good. Perhaps some of the negative reviews have helped put the hotel back into wonderful, friendly territory!  
+<Date>Oct 6, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	5(time):1	12(friendly):1	37(review):1	48(wonderful):2	92(help):1	282(negative):1	633(ago):1	5379(territory):1	
+6	44(experience):1	68(travel):1	206(live):1	900(italy):1	2178(extensively):1	8368(lodgings):1	
+5	0(staff):1	12(friendly):1	92(help):1	1405(magnificent):1	3229(anxious):1	
+8	1(location):2	50(bad):1	62(expect):1	74(perfect):1	173(please):1	219(decide):1	244(mention):1	1065(cancel):1	
+0	
+0	
+6	18(book):1	37(review):1	79(late):1	262(website):1	805(gem):1	1065(cancel):1	
+0	
+
+<Author>Sinnock
+<Content>Stepping back in history Walking up the stairs you can imagine the monks that strolled these halls in the 1500s. The modern perks were incorporated with charm - a mini bar in an antique cabinet for example. Our room in the back of the hotel overlooked a garden and had a view of the Duomo, and was very quiet. The staff was very friendly and helpful. When I had a train mix up they looked up the possible routes and printed them out for me. We loved the location, the hotel, the everything. Especially recommended for the history lover.  
+<Date>Sep 21, 2007
+<Rating>5	4	4	5	4	5	5	-1	
+<Aspects>
+4	15(recommend):1	126(especially):1	1490(history):1	2568(lover):1	
+0	
+13	7(walk):1	17(view):1	58(quiet):1	260(overlook):1	310(garden):1	366(step):1	568(stair):1	616(hall):1	733(imagine):1	981(duomo):1	1056(stroll):1	1490(history):1	12285(monk):1	
+7	1(location):1	20(look):1	40(love):1	182(train):1	609(mix):1	1035(route):1	1101(print):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+9	27(bar):1	151(modern):1	332(charm):1	448(mini):1	954(example):1	1914(perk):1	1936(antique):1	2563(cabinet):1	6721(incorporate):1	
+0	
+
+<Author>JandJ57
+<Content>Great Hotel We stayed at this Florence hotel for 8 nights, booked online a few months ago. We had a room at the back of the hotel overlooking the Galleria della Accademia's gardens and the Florence rooftops. The room was light and airy and spacious and the air conditioning was great. The breakfast is simple but adequate, the staff  service were exceptional and the hotel is quite central. At 105 Euros per night we thought it was great value.  
+<Date>Aug 16, 2007
+<Rating>5	5	4	5	5	5	5	-1	
+<Aspects>
+0	
+3	2(night):1	81(value):1	256(euro):1	
+12	111(spacious):1	157(light):1	164(air):1	260(overlook):1	263(condition):1	310(garden):1	346(florence):1	1947(airy):1	2806(accademia):1	3415(galleria):1	3772(rooftops):1	4266(della):1	
+0	
+0	
+0	
+13	0(staff):1	2(night):1	6(breakfast):1	9(service):1	18(book):1	168(central):1	346(florence):1	388(month):1	390(adequate):1	613(simple):1	633(ago):1	822(online):1	837(exceptional):1	
+0	
+
+<Author>TravelerFever
+<Content>Yuk! My husband and I stayed at this hotel after a night at another horrible hotel in Florence. It appeared clean during the day, however, at night there were many drunks out. They started at 5:00 and there were empty bottles everywhere and the stench of urine was horrible. My husband had to go out for a few minutes and he saw some gentleman taking a bath in the fountain of the piazza. The room was big, but bleak. There was water damage in the ceiling, the air conditioning did not work and the toilet did not flush. It was fixed after we returned at night. Breakfast was so- so, but limited. We left the breakfast room and I returned 5 minutes later for a bottle of water. I was told I could not have one and had to buy one later.Our room was not located in the main hotel, which is located next to a soup kitchen. We had three sets of doors to use before we entered our room. Elevator was very small and ligthing was poor. Don't stay there if possible.  
+<Date>Jul 26, 2007
+<Rating>1	3	1	1	2	3	2	-1	
+<Aspects>
+15	2(night):2	29(minute):1	39(return):1	69(tell):1	79(late):1	105(husband):2	226(bath):1	280(buy):1	346(florence):1	494(fix):1	544(horrible):1	1506(gentleman):1	1702(fountain):1	2116(piazza):1	5491(yuk):1	
+6	165(start):1	238(bottle):1	544(horrible):1	810(empty):1	3191(urine):1	3823(stench):1	
+21	6(breakfast):1	29(minute):1	39(return):1	43(leave):1	54(door):1	57(water):2	79(late):1	84(locate):2	112(main):1	164(air):1	234(set):1	238(bottle):1	263(condition):1	330(toilet):1	461(kitchen):1	528(ceiling):1	601(enter):1	1619(flush):1	1772(soup):1	2030(damage):1	9432(bleak):1	
+0	
+5	2(night):1	3(clean):1	8(day):1	541(appear):1	4127(drunk):1	
+0	
+4	6(breakfast):1	216(elevator):1	331(poor):1	510(limit):1	
+0	
+
+<Author>AzMom29
+<Content>Huge disappointment We recently returned to Loggiato after a vacation 10 years ago. It is a huge disappointment.We booked a suite overlooking the Duomo at 400 euro per night. The room was horribly outdated, the bathrooms are in major need of an upgrade, and the sewage smell was awful as others have posted. The air conditioning barely cooled, though Florence was in an awful heat wave. The front desk staff barely smiled or grunted when one approached them and we had to wait almost 1/2 hour to have a glass of wine at 7:00 pm in the bar. AT 400 euro per night, I think one can do a whole lot better.The Piazza at night is seedy - call it what you want! There are vagrants everywhere and a few approached us as we returned with our family after dinner. We weren't frightened by them but who needs that after strolling the lovely streets of Florence. The Piazza during the day is ok but really seems run down and just so off the beaten path.We were horribly disappointed with the hotel as we were so excited to return after so many years. Please save your money and go somewhere else - it is so sad that they have let it get so run down.  
+<Date>Jul 14, 2007
+<Rating>2	1	1	4	2	2	1	-1	
+<Aspects>
+22	2(night):2	8(day):1	38(lot):1	39(return):1	67(call):1	80(money):1	123(ok):1	133(huge):1	149(run):2	154(disappoint):1	170(else):1	173(please):1	256(euro):1	425(save):1	442(beat):1	866(disappointment):1	1136(excite):1	1454(sad):1	1612(path):1	2116(piazza):2	2209(seedy):1	3606(horribly):1	
+6	39(return):1	131(vacation):1	133(huge):1	322(recently):1	633(ago):1	866(disappointment):1	
+22	2(night):1	13(bathroom):1	18(book):1	108(suite):1	163(upgrade):1	164(air):1	231(smell):1	256(euro):1	260(overlook):1	263(condition):1	278(cool):1	315(major):1	346(florence):1	539(heat):1	644(post):1	736(awful):2	836(wave):1	981(duomo):1	1020(barely):1	1549(outdated):1	3237(sewage):1	3606(horribly):1	
+5	35(street):1	87(lovely):1	346(florence):1	1056(stroll):1	4629(frighten):1	
+0	
+13	0(staff):1	27(bar):1	31(front):1	36(desk):1	60(hour):1	85(wait):1	251(wine):1	327(glass):1	387(smile):1	393(pm):1	1020(barely):1	1378(approach):1	9969(grunt):1	
+5	39(return):1	106(family):1	117(dinner):1	1378(approach):1	8172(vagrant):1	
+0	
+
+<Author>psyclin
+<Content>Fine experience, so-so location This is a fine property, but not a luxury hotel. Services are very limited. Our room in the back was huge, light and lovely, though the bath was very small. The air conditioning was barely adequate. The front desk people were polite, but not particularly helpful. They would do nothing to help when my wife was too ill to go out to dinner and we wanted to bring dinner in, though a kind bellman got us a table and dishes. While the location is convenient, the area in the vicinity of the hotel is dull, with very few restaurants and shops. The Duomo is only a 5 minute walk, however. The price we paid, 205 euros, seemed high given the limited service at the hotel. The square was lovely to look at but mostly quiet. We did not experience it as seedy. We would return to this hotel and recommend it, but would check other possibilities first.  
+<Date>Jul 8, 2007
+<Rating>4	3	4	4	4	3	2	-1	
+<Aspects>
+0	
+12	1(location):1	9(service):1	19(price):1	42(pay):1	44(experience):2	113(fine):2	214(property):1	256(euro):1	437(luxury):1	510(limit):1	1883(so-so):1	2209(seedy):1	
+11	20(look):1	58(quiet):1	87(lovely):2	133(huge):1	139(square):1	157(light):1	164(air):1	226(bath):1	263(condition):1	390(adequate):1	1020(barely):1	
+9	1(location):1	7(walk):1	10(restaurant):1	29(minute):1	49(shop):1	186(convenient):1	981(duomo):1	2232(vicinity):1	2689(dull):1	
+0	
+18	14(helpful):1	15(recommend):1	26(people):1	31(front):1	32(check):1	36(desk):1	39(return):1	92(help):1	117(dinner):2	142(bring):1	184(wife):1	229(table):1	422(polite):1	553(particularly):1	816(dish):1	1105(bellman):1	1657(ill):1	3507(possibility):1	
+2	9(service):1	510(limit):1	
+0	
+
+<Author>jbullock47
+<Content>Loved this place This is a wonderful hotel in a historic building (built in 1527). We had a room in the back which overlooked an art institute. We had a birds-eye view in the morning of art students painting, sculpting, etc. in the studios and patios of the school.The room was huge and had a very modern bathroom and a good air conditioner (important in Jul/Aug in Florence). The staff were very helpful and the breakfast buffet was first-rate.One of the previous reviewers was put off by the lack of life in the piazza in front of the hotel. This lack of activity at night was *exactly* the reason we wanted to be in this hotel. The last time we stayed in Florence we were in a hotel on a busy square with plenty of nightlife -- which went on until 4 a.m. and which was very audible from our room. Another review mentioned vagrants on the street. It's true, there were a couple of down-and-out types hanging around but they were easily ignored. Anyone who has traveled to any large American or European city should (sadly) be used to this.We will definitely go back to this place the next time we're in Florence.  
+<Date>Jun 24, 2007
+<Rating>5	5	-1	-1	-1	-1	-1	-1	
+<Aspects>
+30	2(night):1	5(time):1	17(view):1	40(love):1	41(city):1	48(wonderful):1	56(morning):1	59(definitely):1	68(travel):1	73(etc):1	99(couple):1	135(build):2	346(florence):1	349(lack):1	357(activity):1	374(reason):1	389(type):1	438(easily):1	478(hang):1	582(european):1	586(exactly):1	789(art):1	806(paint):1	1215(ignore):1	1229(school):1	1274(historic):1	1445(studio):1	2020(student):1	2135(sadly):1	5831(patios):1	
+0	
+16	5(time):1	13(bathroom):1	133(huge):1	139(square):1	151(modern):1	158(plenty):1	164(air):1	220(busy):1	260(overlook):1	346(florence):2	789(art):1	1083(conditioner):1	1305(nightlife):1	5202(audible):1	9689(jul):1	9924(institute):1	
+4	35(street):1	37(review):1	244(mention):1	8172(vagrant):1	
+0	
+6	31(front):1	349(lack):1	373(previous):1	426(life):1	564(reviewer):1	2116(piazza):1	
+5	0(staff):1	6(breakfast):1	14(helpful):1	77(buffet):1	5649(first-rate):1	
+0	
+
+<Author>gbluespirit
+<Content>beautiful hotel I loved this hotel. While its a little walk away from some of the major attractions...I found it to be perfectly located because of all the quaint shops and restaurants nearby. Everyone at the hotel was so nice and the room service was amazing (we had bellini's everynight before heading out). the view from our room was great and everything about the hotel felt traditional and non-tourisy. something about this hotel holds great memories in my mind...i would certainly go back! florence is so beautiful.  
+<Date>Feb 5, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+6	40(love):1	45(beautiful):2	294(mind):1	346(florence):1	593(hold):1	1631(memory):1	
+0	
+8	4(nice):1	9(service):1	17(view):1	34(feel):1	145(amaze):1	1241(traditional):1	1437(heading):1	3399(everynight):1	
+10	7(walk):1	10(restaurant):1	23(little):1	49(shop):1	84(locate):1	232(nearby):1	315(major):1	350(attraction):1	595(perfectly):1	1295(quaint):1	
+0	
+0	
+0	
+0	
+
+<Author>Mleder
+<Content>Loved the Hotel Loggiato dei Serviti in Florence My husband and I just got back from Italy, staying 6 days at this wonderfully located hotel. Our room was absolutely huge and beautiful with lovely antiques and a huge canopied bed. The staff is very professional and helpful. The only drawback were the vagrants (a few of them not a crowd) about two or three of them that live in the square. It would be an absolutely perfect place if this was not the case.All in all it is a marvelous value, with beautiful rooms, immaculate and modern bathrooms, and a good standard breakfast with delicious baked goods. We would certainly return to this hotel.  
+<Date>Dec 12, 2006
+<Rating>4	-1	5	5	5	5	4	1	
+<Aspects>
+3	39(return):1	74(perfect):1	189(absolutely):1	
+0	
+21	6(breakfast):1	11(bed):1	13(bathroom):1	45(beautiful):2	81(value):1	87(lovely):1	130(standard):1	133(huge):2	139(square):1	151(modern):1	189(absolutely):1	206(live):1	313(crowd):1	485(delicious):1	894(immaculate):1	1344(drawback):1	1936(antique):1	2100(bake):1	2187(marvelous):1	3790(canopy):1	8172(vagrant):1	
+8	8(day):1	40(love):1	84(locate):1	105(husband):1	346(florence):1	900(italy):1	1686(wonderfully):1	6862(dei):1	
+0	
+3	0(staff):1	14(helpful):1	501(professional):1	
+0	
+0	
+
+<Author>HEJ1949
+<Content>In search of the holy grail ...but we have yet to find it as far as good hotels in Florence go. We had rooms 4 and 5 in the annexe, both very noisy due to a restaurant kitchen with exuberant staff on the ground floor. And then on the Saturday night there was a wedding with disco - a very good disco, admittedly, and they stopped playing promptly at 1 am. However...room 5 is large and spacious with excellent storage and bathroom. Room 4 is small and storage inadequate. All spotlessly clean and recently decorated without losing the Florentine feel. Bathrooms excellent. Breakfast, too; served by a charming lady who could not have done more for us. Other staff were a bit indifferent. We were not mad about the people sleeping rough under the loggias around the square, or the beggars.  
+<Date>Dec 1, 2006
+<Rating>2	3	4	2	5	3	3	-1	
+<Aspects>
+11	2(night):1	122(stop):1	346(florence):1	386(play):1	604(wed):1	818(saturday):1	914(disco):2	1212(promptly):1	1248(search):1	3051(admittedly):1	8026(holy):1	
+0	
+26	0(staff):1	3(clean):1	10(restaurant):1	13(bathroom):2	21(excellent):2	24(floor):1	26(people):1	34(feel):1	104(sleep):1	111(spacious):1	139(square):1	217(noisy):1	259(due):1	305(decorate):1	322(recently):1	461(kitchen):1	596(lose):1	706(grind):1	1047(rough):1	1094(spotlessly):1	1311(storage):2	2607(mad):1	3610(inadequate):1	3643(annex):1	4249(florentine):1	4682(beggar):1	
+0	
+0	
+3	0(staff):1	52(bit):1	2481(indifferent):1	
+4	6(breakfast):1	174(serve):1	332(charm):1	521(lady):1	
+0	
+
+<Author>fiddlegal
+<Content>Beautiful hotel This was a great hotel in Florence. It was charming with lots of lovely tile, the rooms were spacious and quiet with a balcony overlooking a beautiful courtyard and the Duomo on the horizon. The Duomo only a few minutes walk away. The Piazza was a bit seedy but a lot of character. The price was very reasonable and the breakfast was good. Highly recommend. Ask for a quiet room in the back.  
+<Date>Nov 28, 2006
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+9	15(recommend):1	38(lot):1	45(beautiful):1	52(bit):1	138(highly):1	346(florence):1	1049(character):1	2116(piazza):1	2209(seedy):1	
+3	6(breakfast):1	19(price):1	273(reasonable):1	
+12	38(lot):1	45(beautiful):1	58(quiet):2	87(lovely):1	111(spacious):1	191(balcony):1	260(overlook):1	332(charm):1	435(courtyard):1	846(tile):1	981(duomo):1	5996(horizon):1	
+3	7(walk):1	29(minute):1	981(duomo):1	
+0	
+0	
+0	
+0	
+
+<Author>RoxyLA
+<Content>Enjoyed it My husband and I spent one night here in November 2006. We both loved it. The hotel is beautiful. It's very close to the Duomo and the Academia, and about a 10 minute walk from the Uffizi. It's in a quieter part of the city with less traffic, but I still used my earplugs at night. The room was big and comfortable. And, we had a balcony overlooking the piazza that was nice. The floors are a little creaky and the elevator was tiny and scared me too much, so I took the stairs. But, otherwise it was a great experience that I'd recommend. There were a few homeless people sleeping in the square, but they seemed harmless. I felt totally safe.  
+<Date>Nov 24, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	2(night):1	34(feel):1	40(love):1	45(beautiful):1	51(enjoy):1	64(spend):1	105(husband):1	137(safe):1	611(totally):1	999(november):1	
+3	15(recommend):1	44(experience):1	508(otherwise):1	
+22	2(night):1	4(nice):1	23(little):1	24(floor):1	25(comfortable):1	26(people):1	41(city):1	58(quiet):1	104(sleep):1	139(square):1	191(balcony):1	216(elevator):1	260(overlook):1	338(tiny):1	486(traffic):1	568(stair):1	1567(homeless):1	1711(scare):1	1771(earplugs):1	2116(piazza):1	6013(harmless):1	6127(creaky):1	
+6	7(walk):1	28(close):1	29(minute):1	981(duomo):1	1940(uffizi):1	5162(academia):1	
+0	
+0	
+0	
+0	
+
+<Author>perrierjouet
+<Content>A bit disappointing The hotel came highly recommended to us so we were really looking forward to our time here. The piazza was such a let down, we had imagined a buzzing square with lots of atmosphere but there is literally nothing! and no people except a few tramps with barking dogs that were fighting one night when we returned to our room. Such a shame as other corners of Florence have fun, atmospheric squares that are a joy to be in.We were given a room in the dependencia, which is a seperate building around the corner. This was awful, so scary. I was staying there with my mum and i did not feel at all safe, two females on their own. You go up three flights and there are only 4 other rooms in that building that have guests, the rest are offices! You even need to go through two seperate set of doors with extra keys...do not stay in this part.  Luckily we managed to get a room in the hotel. Its true that you get a real feel of old Italy, despite really poor lighting!! Breakfasts are simple...croissants, fruit, yoghurt and cereal, all in a nice dining room and the staff are just ok. Ont thing I have to say is that this hotel is wonderfully clean, towels, sheets, everyting is spotless!!!I suppose this place doesnt break the bank but we still werent thrilled.  
+<Date>Oct 29, 2006
+<Rating>3	3	3	3	4	3	3	-1	
+<Aspects>
+19	5(time):1	15(recommend):1	20(look):1	34(feel):1	52(bit):1	54(door):1	128(extra):1	137(safe):1	138(highly):1	154(disappoint):1	166(own):1	234(set):1	339(key):1	736(awful):1	750(forward):1	1416(seperate):1	1566(scary):1	1714(female):1	3175(mum):1	
+7	38(lot):1	139(square):1	414(atmosphere):1	665(literally):1	733(imagine):1	2000(buzz):1	2116(piazza):1	
+29	2(night):1	26(people):1	34(feel):1	39(return):1	91(guest):1	135(build):2	139(square):1	157(light):1	176(fun):1	200(corner):2	233(flight):1	240(real):1	288(rest):1	331(poor):1	337(except):1	346(florence):1	498(despite):1	645(manage):1	792(office):1	900(italy):1	1126(dog):1	1200(luckily):1	1292(shame):1	1416(seperate):1	1759(fight):1	2486(joy):1	3336(bark):1	5215(atmospheric):1	9459(tramp):1	
+6	228(break):1	620(suppose):1	1225(bank):1	1822(thrill):1	2588(doesnt):1	3037(werent):1	
+7	3(clean):1	125(towel):1	479(sheet):1	548(spotless):1	1686(wonderfully):1	9119(everyte):1	11605(ont):1	
+0	
+10	0(staff):1	4(nice):1	6(breakfast):1	123(ok):1	215(fruit):1	316(dine):1	529(cereal):1	613(simple):1	927(yogurt):1	1004(croissant):1	
+0	
+
+<Author>thanx4help
+<Content>great hotel We stayed here for five nights recently and really enjoyed this hotel. It has a great location, a few blocks from the Duomo, so is a little out of the crowds but still close to all the sights, and only a couple of blocks from the Accademia Museum.Our room was large and comfortable, and very clean. I suggest you ask for a room facing off the piazza; ours did and was probably quieter for that reason.The staff was pleasant and professional; they helped us make some restaurant reservations and had good recommendations. Breakfast was standard and good.We booked several hotels for our Italy trip through TripAdvisor's advice and friends' recommendations; this was our favorite.  
+<Date>Oct 14, 2006
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+3	2(night):1	51(enjoy):1	322(recently):1	
+0	
+8	3(clean):1	25(comfortable):1	58(quiet):1	178(probably):1	374(reason):1	452(suggest):1	843(ours):1	2116(piazza):1	
+10	1(location):1	23(little):1	28(close):1	99(couple):1	100(bloc):2	313(crowd):1	411(sight):1	507(museum):1	981(duomo):1	2806(accademia):1	
+0	
+7	0(staff):1	10(restaurant):1	92(help):1	150(pleasant):1	156(reservation):1	501(professional):1	577(recommendation):1	
+10	6(breakfast):1	18(book):1	33(trip):1	130(standard):1	146(friend):1	376(favourite):1	575(advice):1	577(recommendation):1	597(tripadvisor):1	900(italy):1	
+0	
+
+<Author>Apriljl
+<Content>Nice hotel in great location! We stayed at the Loggiato dei Serviti after moving from another hotel after an awful experience, and what a contrast! The hotel was full, but we were given rooms in an annex a block away. The rooms were beautiful...huge, quiet, and in the best location--a five minute walk to the Duomo and short walks to the other sites. The annex also has its own breakfast room.The staff was very professional and booked us tours of Tuscany and found us a driver to take us to The Mall at a very reasonable price. They were helpful, but sometimes for reservations at restaurants we had to push them to make the call. Overall, given our booking of the hotel at the last minute, we appreciated their professionalism greatly!  I have read about the mosquitos and the vagrants in the square, but if you go to Florence in the spring and summer the mosquitos are everywhere--even at five star hotels. We had a problem with mosquitos the first night, but the hotel quickly gave us two mosquito repellent devices and did not suffer after that. We also noted the large number of homeless people in the square. However, there are far worse areas in Florence with seedier folks in Florence, so we were not alarmed at all.This hotel is a great value and I would recommend it to anyone considering a trip to Florence.  
+<Date>May 15, 2006
+<Rating>4	5	5	-1	5	-1	4	-1	
+<Aspects>
+11	2(night):1	50(bad):1	346(florence):2	471(quickly):1	1050(folk):1	1054(mosquito):2	1380(alarm):1	1790(suffer):1	2209(seedy):1	2858(repellent):1	4460(device):1	
+26	0(staff):1	15(recommend):1	18(book):1	19(price):1	33(trip):1	44(experience):1	81(value):1	88(read):1	103(star):1	139(square):1	181(tour):1	207(move):1	248(consider):1	273(reasonable):1	346(florence):2	501(professional):1	563(driver):1	643(mall):1	736(awful):1	853(summer):1	1054(mosquito):2	1162(spring):1	2835(contrast):1	3019(tuscany):1	6862(dei):1	8172(vagrant):1	
+9	6(breakfast):1	26(people):1	100(bloc):1	139(square):1	166(own):1	297(note):1	335(numb):1	1567(homeless):1	3643(annex):2	
+10	1(location):2	4(nice):1	7(walk):2	29(minute):1	45(beautiful):1	58(quiet):1	133(huge):1	144(short):1	192(site):1	981(duomo):1	
+0	
+6	10(restaurant):1	14(helpful):1	67(call):1	156(reservation):1	560(sometimes):1	1041(push):1	
+6	18(book):1	29(minute):1	70(overall):1	500(appreciate):1	1905(greatly):1	3305(professionalism):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Fantastic location! As romantic as can be... We have just come back from our honeymoon in Italy. We couldn't have expected anything better! The hotel is part of a beautiful renaissance piazza, absolutely breathtaking view from the first floor. We were also blessed by the beautiest fluffy snow just before Xmas. Our room was just as we asked for, a cozy, warm room with a four poster bed. The staff was generally kind and more than helpful when asked for information.We highly recommend it to couples in search for romance  
+<Date>Jan 18, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	15(recommend):1	62(expect):1	99(couple):1	138(highly):1	1248(search):1	1792(fluffy):1	2884(snow):1	2887(bless):1	3053(romance):1	3208(xmas):1	
+3	502(honeymoon):1	707(romantic):1	900(italy):1	
+11	11(bed):1	17(view):1	24(floor):1	45(beautiful):1	189(absolutely):1	236(warm):1	749(cozy):1	1444(breathtaking):1	2028(renaissance):1	2043(poster):1	2116(piazza):1	
+2	1(location):1	86(fantastic):1	
+0	
+3	0(staff):1	14(helpful):1	649(information):1	
+0	
+0	
+
+<Author>Flunie
+<Content>Great 3 star boutique hotel in Florence, Italy My wife and I and 2 other couples spent two nights at this charming hotel in Florence in September, 2005, at the back end of a cycling trip in Southern Tuscany with Backroads (see my review on the biking trip separately under Backroads).This hotel is a very good choice for those looking for an unconventional, boutique-like small hotel with lots of charm. It's pretty good value, we paid 200 Euros at the height of the tourist season including breakfast. The rooms are spacious and nice, although I recommend you specifically ask for rooms at the back of the hotel which are much quieter than the ones in the front which face the Piazza Annunziata. The location is pretty good, not perfect, since you're about a 15 minute walk to the Ponte Vecchio and the Galleria Uffizi, but then again, Florence is very walkable and nothing is too far. The hotel is also around the corner from the David. All in all, we liked it a lot.  
+<Date>Oct 22, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	38(lot):1	200(corner):1	1956(david):1	
+26	2(night):1	6(breakfast):1	33(trip):2	37(review):1	42(pay):1	64(spend):1	71(include):1	81(value):1	99(couple):1	103(star):1	109(pretty):1	184(wife):1	209(tourist):1	256(euro):1	332(charm):1	346(florence):2	610(season):1	623(boutique):1	900(italy):1	972(september):1	1479(bike):1	2279(height):1	2502(southern):1	3019(tuscany):1	3813(cycle):1	4042(separately):1	
+7	4(nice):1	15(recommend):1	31(front):1	58(quiet):1	111(spacious):1	1810(specifically):1	2116(piazza):1	
+15	1(location):1	7(walk):1	20(look):1	29(minute):1	38(lot):1	74(perfect):1	107(choice):1	109(pretty):1	332(charm):1	346(florence):1	1645(ponte):1	1836(vecchio):1	1940(uffizi):1	2197(walkable):1	3415(galleria):1	
+0	
+0	
+0	
+0	
+
+<Author>dbm82705
+<Content>Perfect Stay My wife and I began our Italian honeymoon in Florence and stayed at Hotel Loggiato dei Serviti. We found it to be a perfect place to start our trip. The staff was extremely helpful from check-in to checkout. In fact, our best dinner that we had in Italy was at a place recommended by the woman working the desk (Mama Gina's...very good). Our room was very clean and spacious. It was at the back of the hotel, which was fortunate since (as many other reviewers have mentioned) there was music in the piazza outside the hotel during the evening. The music usually lasted until around midnight. We thought it was cool to have a concert outside our front door. I'm sure if we had a room in the front of the hotel, we would have had a different opinion, though. The breakfast was decent. It consisted of the standard fare - bread, fruit, ham, cheeses, cereal, coffee, etc. As some others have mentioned, the bed was pretty hard. They were like that in every place that we stayed throughout Italy. If you want a soft bed, you're better off at a Westin or Sheraton. The only issue we had was at checkout. I was almost overcharged for the room. Fortunately, I had my email confirmation with me and was able to confirm the correct price with the staff. Overall, it was an extremely pleasant stay.  
+<Date>Oct 7, 2005
+<Rating>4	4	4	-1	5	-1	4	-1	
+<Aspects>
+8	70(overall):1	110(extremely):1	150(pleasant):1	398(music):1	399(usually):1	445(throughout):1	900(italy):1	1044(midnight):1	
+16	0(staff):1	19(price):1	33(trip):1	74(perfect):2	165(start):1	171(able):1	184(wife):1	346(florence):1	358(italian):1	502(honeymoon):1	551(begin):1	982(confirm):1	1263(correct):1	1585(fortunately):1	1641(confirmation):1	6862(dei):1	
+12	3(clean):1	11(bed):2	31(front):1	109(pretty):1	111(spacious):1	162(hard):1	244(mention):1	589(soft):1	704(opinion):1	889(westin):1	1013(sheraton):1	3155(overcharge):1	
+10	31(front):1	54(door):1	98(outside):2	244(mention):1	278(cool):1	398(music):1	564(reviewer):1	2116(piazza):1	2228(fortunate):1	2296(concert):1	
+0	
+13	0(staff):1	14(helpful):1	15(recommend):1	36(desk):1	110(extremely):1	117(dinner):1	265(issue):1	286(check-in):1	566(woman):1	658(checkout):2	900(italy):1	2926(mama):1	11830(gina):1	
+12	6(breakfast):1	73(etc):1	90(coffee):1	130(standard):1	215(fruit):1	257(decent):1	441(cheese):1	497(bread):1	529(cereal):1	1112(fare):1	1185(consist):1	1561(ham):1	
+0	
+
+<Author>dre51
+<Content>Big Disappointment! This was my third visit to the Loggiato dei Serviti since 1996 and I had pleasant memories of the beautiful public spaces, the gorgeous public square, the fine staff and small, but charming, clean rooms. No such luck on this trip! The piazza has definitely gone downhill in attracting a seedy bunch of people who lounge on the steps and stagger around the piazza at night. The staff was not friendly this time and our room was unacceptable. The bed was like sleeping on plywood and the worst part was a horrible smell (like a backed up sewer or toilet) that permeated our room the second morning we were there. While the location is great, we will NOT go back. I think the management has not done a good job with keeping the place up to date - everything is tired and worn looking. A real shame since this had been a top notch hotel in the past.  
+<Date>Oct 2, 2005
+<Rating>2	3	1	-1	3	-1	2	-1	
+<Aspects>
+8	33(trip):1	118(top):1	240(real):1	419(past):1	866(disappointment):1	1055(luck):1	1227(notch):1	1292(shame):1	
+0	
+27	0(staff):2	3(clean):1	5(time):1	11(bed):1	12(friendly):1	45(beautiful):1	50(bad):1	56(morning):1	65(visit):1	104(sleep):1	113(fine):1	139(square):1	150(pleasant):1	210(space):1	231(smell):1	330(toilet):1	332(charm):1	379(public):2	446(gorgeous):1	532(third):1	544(horrible):1	1631(memory):1	2230(unacceptable):1	3882(sewer):1	5247(permeate):1	6862(dei):1	8163(plywood):1	
+1	1(location):1	
+0	
+6	20(look):1	434(wear):1	454(tire):1	481(job):1	511(date):1	525(management):1	
+11	2(night):1	26(people):1	59(definitely):1	237(lounge):1	366(step):1	1624(bunch):1	2116(piazza):2	2209(seedy):1	2452(attract):1	2983(downhill):1	5588(stagger):1	
+0	
+
+<Author>dec-ben
+<Content>Loggiato dei Serviti very disappointing We stayed in the Loggiato dei serviti three years ago and had a great time. The hotel dates to the early 1500's so you automatically feel steeped in the history of Florence. It is close to most of the attractions and on paper fits the bill.Our second stay in October of this year was terrible. The booking process was difficult to start with as there are no online credit card bookings available.It took several emails, phone calls and even two faxes to book this hotel! There was no hot water in the hotel when we arrived. The staff were rude and standoffish when asked about it. The hotel was also noisy. The hotel overlooks a Piazzo and music is played there until the early hours of the morning. I had heard about this before we went and asked for a room at the back of the hotel. They assured me that there would be no noise from the hotel in October as the main tourist season would be finished at that stage and they gave us a room at the front which couldn't be changed when we asked. Our group got very little sleep as a result.The staff were very unhelpful when two members of our party wanted to make an international phone-call to the point of being rude. All in all a bad experience. We were glad to leave.We would not reccomend Loggiato Dei Serviti.  
+<Date>Oct 1, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+24	5(time):1	34(feel):1	43(leave):1	53(arrive):1	56(morning):1	57(water):1	60(hour):1	114(hot):1	154(disappoint):1	217(noisy):1	260(overlook):1	346(florence):1	386(play):1	398(music):1	432(terrible):1	511(date):1	619(glad):1	633(ago):1	911(october):1	1060(steep):1	1490(history):1	1513(reccomend):1	2573(automatically):1	6862(dei):3	
+11	18(book):1	44(experience):1	50(bad):1	134(available):1	165(start):1	292(card):1	572(difficult):1	659(credit):1	822(online):1	1222(process):1	2531(booking):1	
+14	23(little):1	31(front):1	94(noise):1	104(sleep):1	112(main):1	132(hear):1	161(change):1	209(tourist):1	610(season):1	772(finish):1	911(october):1	1109(result):1	1349(assure):1	1866(stage):1	
+5	28(close):1	350(attraction):1	495(bill):1	668(fit):1	776(paper):1	
+0	
+6	0(staff):2	363(party):1	392(rude):2	903(international):1	1618(unhelpful):1	10292(standoffish):1	
+4	18(book):1	67(call):1	296(phone):1	2536(fax):1	
+0	
+
+<Author>Chicpolitan
+<Content>Small Gem The Loggiato dei Serviti provided my family with a cozy, comfortable, and quiet stay. As mentioned, there was entertainment in the piazza later on at night; however, the noise was, in fact, not enough to distract us from sleep. The staff was friendly, always making reservations for sights and restaurants alike at least a day in advance. I suppose it really does depend on the room you stay in, because we had a triple (one king in the main room, which happened to be quite large...one bed off in another room to the side of the bathroom). The bathroom in this particular room was a good size and easy to walk around in. The accomodations were very clean, which is always a plus. As for the colorful characters hanging around right outside in the piazza: just don't let it bother you. Granted, no one wants to go on vacation and hear remarks coming from driftersand other characters right outside of their hotel. But this kind of a situation could happen in any city. It did get a little tiresome, but don't let this scare you away. Walking up to the hotel may not be great fun, but once you step inside you are immediately transported into old world charm. Recommended, despite the inevitable characters that us reviewers have unanimously agreed on being a little displeased with. Thanks to the warm staff!  
+<Date>Aug 16, 2005
+<Rating>3	4	4	-1	4	-1	4	-1	
+<Aspects>
+13	15(recommend):1	23(little):2	41(city):1	382(happen):1	473(agree):1	498(despite):1	564(reviewer):1	890(situation):1	1049(character):1	1711(scare):1	5875(tiresome):1	7209(inevitable):1	8599(displease):1	
+9	3(clean):1	98(outside):1	131(vacation):1	132(hear):1	203(plus):1	780(accomodation):1	1049(character):1	1690(grant):1	3429(remark):1	
+27	2(night):1	7(walk):1	11(bed):1	13(bathroom):2	25(comfortable):1	58(quiet):1	79(late):1	83(size):1	93(easy):1	94(noise):1	104(sleep):1	106(family):1	112(main):1	153(provide):1	243(king):1	244(mention):1	340(entertainment):1	382(happen):1	620(suppose):1	749(cozy):1	805(gem):1	938(particular):1	969(depend):1	1553(triple):1	2116(piazza):1	4258(distract):1	6862(dei):1	
+14	7(walk):1	98(outside):1	176(fun):1	272(world):1	307(bother):1	332(charm):1	366(step):1	408(inside):1	478(hang):1	489(immediately):1	742(transport):1	1049(character):1	2116(piazza):1	2489(colorful):1	
+0	
+10	0(staff):2	8(day):1	10(restaurant):1	12(friendly):1	156(reservation):1	236(warm):1	271(thank):1	411(sight):1	685(advance):1	3764(alike):1	
+0	
+0	
+
+<Author>Teach4
+<Content>Didn't live up to its pictures My parents and I stayed at the Loggiato dei Serviti in Florence for two nights. I chose this hotel because it was near the Accademia Museum and I thought being a bit towards the outskirts of central Florence would be better for us. When we arrived at the hotel it was in a big, empty square with homeless people sitting all over the stairs and benches surrounding the area. The smell of urine was pugnant in the still, summer air. There is a small door leading into the hotel, past a sleeping homeless woman.The staff at the hotel were not unfriendly, but also not very helpful. When asked a simple question the answer was not very informative.We went up to the room (I had asked for a quiet room) and were greeted with a view of an interior alley with piles of boxes and left-over junk. There was also a note that a mosquito plug-in would help ward off the pesky critters! We sometimes like to open the window to let in the night air-but this warned us off of that idea! The room itself was not like the pictures showed us from the online Venere. Instead of wooden beds with canopies, I slept on a dusty, couch-like daybed, and my parents had a metal, mosquito cloth curtain ensemble that reminded us of Africa or some jungle habitat. We were not impressed by the bathroom either. It was long and narrow,with hardly any room to turn around in, and had black mold in the shower. I have been to Europe many times before, so I know what to expect. In my month-long trip in Italy this was my least favorite accomodation. I would have to rate the Loggiata dei Serviti and being less than expected, and farther away from the center sites to be worth another visit. I have stayed in the Hotel Centrale in Florence and would recommend this central, modern hotel much more.  
+<Date>Jul 21, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+20	2(night):1	5(time):1	15(recommend):1	62(expect):1	92(help):1	151(modern):1	168(central):1	206(live):1	297(note):1	346(florence):2	456(picture):1	700(europe):1	1054(mosquito):1	1197(parent):1	6818(critter):1	6862(dei):1	6900(centrale):1	7423(ward):1	8566(plug-in):1	10162(pesky):1	
+5	33(trip):1	376(favourite):1	780(accomodation):1	900(italy):1	12014(month-long):1	
+57	2(night):1	11(bed):1	13(bathroom):1	17(view):1	26(people):1	53(arrive):1	54(door):1	58(quiet):1	61(shower):1	104(sleep):2	119(window):1	139(square):1	164(air):1	169(sit):1	231(smell):1	343(impress):1	353(instead):1	415(greet):1	419(past):1	456(picture):1	560(sometimes):1	566(woman):1	568(stair):1	639(idea):1	667(surround):1	679(warn):1	743(curtain):1	810(empty):1	822(online):1	853(summer):1	922(lead):1	945(box):1	985(hardly):1	1007(black):1	1026(interior):1	1054(mosquito):1	1138(mold):1	1197(parent):1	1207(narrow):1	1285(remind):1	1567(homeless):2	1671(alley):1	1756(wooden):1	1864(cloth):1	2720(metal):1	2796(dusty):1	2886(pile):1	3083(jungle):1	3191(urine):1	3227(leftover):1	3270(bench):1	3790(canopy):1	4293(junk):1	6160(africa):1	6954(venere):1	9209(daybe):1	9926(habitat):1	
+16	52(bit):1	62(expect):1	65(visit):1	78(rate):1	96(worth):1	101(center):1	102(near):1	167(choose):1	168(central):1	192(site):1	346(florence):1	507(museum):1	959(towards):1	2806(accademia):1	4398(outskirts):1	6862(dei):1	
+0	
+7	0(staff):1	14(helpful):1	394(question):1	613(simple):1	669(answer):1	1487(unfriendly):1	1976(informative):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Adored this hotel, Memorable Anniversary We found our recommendation to the Hotel Loggiato Dei Serviti from Rick Steve's initially. It sounded wonderful and they took a reservation with email. Our experience couldn't have been better. We had a lovely room, well appointed amenities over looking the Piazza. The Bed was a lovely poster bed and so .... comfortable with 4 fluffy pillows. There was nightly entertainment in the Piazza out front and that was a lot of fun, but it was never too noisy to interupt sleep. If you need to go to Mass on Sunday, a beautiful old church is on the left in the Paizza. The Desk Clerk/conciege Fabio was outstanding and set us up at a different restaurant each night. The maids did a great job. In fact all the staff was pleasant. Continental breakfast was great. I would stay here again and recommend it to anyone.  
+<Date>Jul 21, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+8	15(recommend):1	43(leave):1	45(beautiful):1	300(maid):1	481(job):1	844(sunday):1	1731(church):1	2653(mass):1	
+9	44(experience):1	577(recommendation):1	804(anniversary):1	1205(memorable):1	1439(initially):1	3104(rick):1	3422(steve):1	4085(adore):1	6862(dei):1	
+18	11(bed):2	20(look):1	25(comfortable):1	31(front):1	38(lot):1	87(lovely):2	104(sleep):1	176(fun):1	217(noisy):1	291(amenity):1	303(pillow):1	340(entertainment):1	579(appoint):1	1033(nightly):1	1792(fluffy):1	2043(poster):1	2116(piazza):2	9850(interupt):1	
+0	
+0	
+11	0(staff):1	2(night):1	10(restaurant):1	36(desk):1	48(wonderful):1	150(pleasant):1	156(reservation):1	234(set):1	409(sound):1	534(outstanding):1	788(clerk):1	
+2	6(breakfast):1	372(continental):1	
+0	
+
+<Author>Ianchel
+<Content>Excellent hotel but ask for the right room! As will be seen from the other reviews, this is a wonderfully historic hotel with beautiful common areas, but the rooms clearly vary considerably. We had informed them this was the second week of our honeymoon (for week 1 see Villa Accini in Monterosso) and we had a fabulous room, at the back so quiet, with drapes over the bed, fine bathroom, antique furniture, lovely view of the students from the Academia in their courtyard working on their sculptures. Breakfast good, barstaff/porters friendly, receptionists less so but helpful when asked. Make sure you ask for a room with a view and at the back of the hotel not overlooking the Piazza. Incidentally, coming from London we didn't find the 'characters' in the Piazza at all worrying, just colourful.  
+<Date>Jun 4, 2005
+<Rating>5	4	5	-1	5	-1	3	-1	
+<Aspects>
+6	697(london):1	831(worry):1	1049(character):1	2116(piazza):1	2489(colorful):1	4593(incidentally):1	
+0	
+28	11(bed):1	13(bathroom):1	17(view):2	21(excellent):1	37(review):1	45(beautiful):1	58(quiet):1	75(week):2	87(lovely):1	113(fine):1	260(overlook):1	270(fabulous):1	435(courtyard):1	440(furniture):1	502(honeymoon):1	712(villa):1	817(inform):1	830(common):1	1274(historic):1	1686(wonderfully):1	1936(antique):1	2018(vary):1	2020(student):1	2116(piazza):1	2501(drape):1	3252(considerably):1	3794(sculpture):1	5162(academia):1	
+0	
+0	
+5	6(breakfast):1	12(friendly):1	14(helpful):1	855(receptionist):1	12900(barstaff):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Lovely Hotel We recently stayed 2 nights beginning of February at a special low season rate of 拢98.00. per night booked directly with the hotel. Hotel is in an excellent location, 15 mins walk from the train station.Room was lovely and light, and the bathroom had the biggest walk in shower that I have seen. Breakfast was good.We really enjoyed our stay here and would highly recommend this charming hotel.  
+<Date>Feb 15, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	2(night):1	15(recommend):1	51(enjoy):1	78(rate):1	87(lovely):1	138(highly):1	208(special):1	322(recently):1	332(charm):1	513(low):1	551(begin):1	610(season):1	1230(february):1	
+0	
+5	7(walk):1	13(bathroom):1	61(shower):1	87(lovely):1	157(light):1	
+6	1(location):1	7(walk):1	21(excellent):1	82(station):1	182(train):1	247(min):1	
+0	
+0	
+4	2(night):1	6(breakfast):1	18(book):1	383(directly):1	
+0	
+
+<Author>EnotecaToscana
+<Content>a disappointment After 9 days of cycling, we were looking forward to a comfortable bed and a nice shower. Our shower was nothing more than a corner of the bathroom that faced the toilet. It was impossible to take one without flooding the entire bathroom and soaking the toilet paper! The bed was hard as a rock, and we had absolutely no view. Would recommend to stay away from this place. Very sketchy characters hang out in front.  
+<Date>Dec 29, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	15(recommend):1	
+0	
+21	4(nice):1	8(day):1	11(bed):2	13(bathroom):2	17(view):1	20(look):1	25(comfortable):1	61(shower):2	162(hard):1	189(absolutely):1	200(corner):1	329(entire):1	330(toilet):2	750(forward):1	773(rock):1	776(paper):1	866(disappointment):1	1169(impossible):1	1468(soak):1	1927(flood):1	3813(cycle):1	
+0	
+0	
+4	31(front):1	478(hang):1	1049(character):1	3148(sketchy):1	
+0	
+0	
+

@@ -1,0 +1,812 @@
+<Author>paddingtonian
+<Content>just not majestic at all This hotel is simply not clean enough. Smelly carpets and soft furnishings, hairs in the bathtub, old bed sheets and tired furniture. Just not up to standard!  
+<Date>Oct 4, 2008
+<Rating>1	1	1	4	1	3	3	1	
+<Aspects>
+1	130(standard):1	
+0	
+10	11(bed):1	396(carpet):1	440(furniture):1	454(tire):1	479(sheet):1	589(soft):1	729(hair):1	870(furnishings):1	1023(bathtub):1	1697(smelly):1	
+0	
+3	3(clean):1	488(simply):1	1284(majestic):1	
+0	
+0	
+0	
+
+<Author>Tim068
+<Content>Ok but not Great The room was large with good sized beds and a nice little couch to sit on but the general decor and bathroom was dated!!! I felt like I was in a bedroom in the 1960's and it wasn't a classix feel.It was clean but the shower was pretty pathetic.The sockets seemed to be coming off the walls which was a little concerning.The location was alright. We got a bus into town during the day and a taxi about at night. The staff were very friendly and helpful but I don't think I would stay here again.  
+<Date>Sep 3, 2008
+<Rating>2	2	2	3	3	3	3	-1	
+<Aspects>
+0	
+0	
+16	3(clean):1	4(nice):1	11(bed):1	13(bathroom):1	23(little):1	34(feel):2	61(shower):1	83(size):1	109(pretty):1	123(ok):1	169(sit):1	268(bedroom):1	269(decor):1	511(date):1	1192(couch):1	3704(pathetic):1	
+11	1(location):1	2(night):1	8(day):1	23(little):1	120(bus):1	183(wall):1	185(taxi):1	239(town):1	496(concern):1	2130(all right):1	4040(socket):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>bobbyrs
+<Content>Great Hotel, Great City This is a beautiful little hotel in a great location in san Francisco. We were staying here for a few days at the start of our honeymoon and absolutely loved it. The staff were all really freindly and helpful and the hotel is very nice- all mirrors, marble and four poster beds. We booked a basic room intending to upgrade to a suite on arrival but unfortunately they were all booked up. The basic room was perfectly fine but a little on the small side.Location: the hotel is about 15mins walk from Union square but is right on one of the main bus routes for getting to Pier 39 and Fishermans warf. The public transport is the best way to get around (you could walk but the place is ALL hills) and is very reasonable if you by a multi day ticket.Overall a great start to the honeymoon and we would definitely recomend the Majestic to our friends.  
+<Date>Jun 28, 2008
+<Rating>4	5	4	4	5	5	5	-1	
+<Aspects>
+0	
+10	8(day):1	40(love):1	59(definitely):1	70(overall):1	146(friend):1	165(start):2	189(absolutely):1	502(honeymoon):2	1284(majestic):1	1420(recomend):1	
+18	0(staff):1	4(nice):1	11(bed):1	14(helpful):1	18(book):2	23(little):1	108(suite):1	113(fine):1	163(upgrade):1	224(arrival):1	352(basic):2	524(unfortunately):1	595(perfectly):1	705(marble):1	1129(mirror):1	1862(intend):1	2043(poster):1	2779(freindly):1	
+23	1(location):2	7(walk):2	8(day):1	23(little):1	41(city):1	45(beautiful):1	112(main):1	120(bus):1	139(square):1	177(san):1	273(reasonable):1	355(francisco):1	379(public):1	451(union):1	621(ticket):1	742(transport):1	756(hill):1	1035(route):1	1456(pier):1	2198(fishermans):1	4453(warf):1	5013(15min):1	5171(multi):1	
+0	
+0	
+0	
+0	
+
+<Author>jmhb07
+<Content>Worst hotel ever visited DO NOT GO TO THIS HOTEL!!!!!!!First of all their website is A LIE! Don't believe anything on there.The place is a total dump. We thought it would be a cool old hotel, and it was old for sure. Our Junior Suite was smaller than most regular hotel rooms I have stayed in and completely filthy. The carpet used to be red (from the looks of it under the pink couch which used to be red as well) but was brown throughout the room. The television (at least 20 years old) didn't work, and the mini fridge was older than the TV. We had to wait over an hour to check in and the staff was unhelpful to say the least. The clawfooted tub we were promised was nowhere to be found in the world's-smallest-bathroom (you had to press up against the shower to close the door, which was necessary to get into the toilet and sink). No air conditioning, room smelled funny and I don't think the cover on the bed has been changed since the day the hotel opened. We had a room on the top floor and it was SO loud from the street all night.The restaurant was nice for dinner (the only reason they get 1 star) but when we went down for breakfast (1.5 hrs after it was supposed to begin) we were told that the restaurant wasn't open yet because the chef hadn't shown up. Then the kicker- when we checked out (after paying for the $20 valet charge) our car pulled up and had a HUGE dent in the side!! If that wasn't bad enough, while we were filling out the accident report, their brilliant valet decides to re-park a car infront of ours and smashes into our bumper and the bumper of the car in front of him!!!!!! All in all, it was the worst hotel experience we have ever had (and traveling with sports teams, I have stayed in some pretty budget hotels) and I wouldn't pay $50 for a room there, much less $200.Even the staff knows it is terrible, and according to them, it is getting worse with the new manager they have. The saving grace of the hotel is the young girl who works at the front desk named Bar Jah, she should find a better place to work.  
+<Date>Jun 21, 2008
+<Rating>1	1	1	4	1	1	1	1	
+<Aspects>
+6	50(bad):1	65(visit):1	278(cool):1	312(believe):1	786(total):1	1449(dump):1	
+8	42(pay):1	44(experience):1	50(bad):1	68(travel):1	109(pretty):1	429(budget):1	919(sport):1	1008(team):1	
+38	2(night):1	8(day):1	11(bed):1	20(look):1	24(floor):1	28(close):1	35(street):1	54(door):1	61(shower):1	108(suite):1	116(tv):1	118(top):1	161(change):1	164(air):1	231(smell):1	263(condition):1	272(world):1	311(tub):1	318(fridge):1	330(toilet):1	396(carpet):1	416(loud):1	445(throughout):1	448(mini):1	509(sink):1	542(completely):1	552(cover):1	590(red):2	744(regular):1	964(junior):1	975(promise):1	1156(funny):1	1158(television):1	1192(couch):1	1320(filthy):1	1667(brown):1	1843(press):1	2121(pink):1	
+15	31(front):1	50(bad):1	121(car):2	219(decide):1	262(website):1	457(valet):1	491(fill):1	793(brilliant):1	838(report):1	843(ours):1	1166(lie):1	3213(accident):1	4587(infront):1	4754(smash):1	10636(bumper):2	
+0	
+24	0(staff):2	27(bar):1	31(front):1	32(check):2	36(desk):1	42(pay):1	50(bad):1	60(hour):1	85(wait):1	121(car):1	133(huge):1	136(charge):1	258(manager):1	295(name):1	425(save):1	432(terrible):1	457(valet):1	625(girl):1	858(pull):1	1618(unhelpful):1	2019(accord):1	2620(grace):1	6601(dent):1	6947(kicker):1	
+11	4(nice):1	6(breakfast):1	10(restaurant):2	69(tell):1	103(star):1	117(dinner):1	374(reason):1	551(begin):1	620(suppose):1	1361(chef):1	1464(hr):1	
+0	
+
+<Author>csg
+<Content>Lovely, unique, old hotel My son, his friend, and I recently spent three nights in two rooms at Hotel Majestic. My first impression in the lobby was one of dark elegance with lovely fabrics, sofas, etc. There was free computer in the lobby with a printer (15 page limit), so that made it easy to print out boarding passes the day before we left San Francisco. My son's room had a canopy bed and a very large bathroom with an antique footed tub. They were in room 410. Because of the ghost rumors about the 4th floor, I requested another floor and was given room 200 at the top of the first flight of stairs. My room was lovely, but it was much smaller with a tiny bathroom. It was fine since I was alone, but it might have been a bit crowded if my husband had been with me. The floors sloped and creaked a lot, but I was aware that this building is over 100 years old, so I didn't mind. The tv in my room was so old, it was really funny! It did have remote control, but it really looked like something out of the 70's or early 80's. The restaurant was very highly rated, but we only had breakfast there, which was good. We paid $160 per night per room, so that was cheap by San Francisco standards. I think it is cheaper because of the location. It's almost isolated. There was, however, an Episcopal church just around the corner which I was able to attend on Sunday morning without calling a cab. Otherwise, we cabbed it to everywhere. Overall, it was a nice hotel at a good price, but you should know in advance that it is OLD.  
+<Date>Jun 17, 2008
+<Rating>3	3	3	2	5	5	5	4	
+<Aspects>
+18	20(look):1	52(bit):1	56(morning):1	67(call):1	105(husband):1	113(fine):1	171(able):1	200(corner):1	313(crowd):1	380(cab):1	508(otherwise):1	826(attend):1	844(sunday):1	865(control):1	1272(remote):1	1731(church):1	2468(isolate):1	11233(cabb):1	
+11	1(location):1	2(night):1	4(nice):1	19(price):1	42(pay):1	70(overall):1	130(standard):1	143(cheap):2	177(san):1	355(francisco):1	685(advance):1	
+31	2(night):1	11(bed):1	13(bathroom):2	24(floor):3	38(lot):1	64(spend):1	87(lovely):2	116(tv):1	118(top):1	135(build):1	146(friend):1	148(request):1	233(flight):1	294(mind):1	311(tub):1	322(recently):1	338(tiny):1	402(foot):1	568(stair):1	612(son):2	832(aware):1	845(4th):1	1027(unique):1	1156(funny):1	1284(majestic):1	1936(antique):1	3790(canopy):1	4331(ghost):1	4467(slope):1	5118(creak):1	6025(rumour):1	
+0	
+0	
+0	
+12	6(breakfast):1	10(restaurant):1	55(lobby):1	73(etc):1	78(rate):1	87(lovely):1	138(highly):1	459(dark):1	842(sofa):1	848(impression):1	2255(elegance):1	3381(fabric):1	
+14	8(day):1	43(leave):1	46(free):1	55(lobby):1	93(easy):1	177(san):1	355(francisco):1	400(pass):1	510(limit):1	555(computer):1	600(board):1	1101(print):1	2328(printer):1	2414(page):1	
+
+<Author>searchtravels
+<Content>Disappointing, and worse A friend who stayed there frequently until 3 years ago recommended the hotel to me. When I walked in the front desk staff were very helpful, and the place looked like it had lots of character. I needed 2 rooms, which they had, but they did not have a key for one of the two rooms! They would have to let me in, and lock when I left (not electronic). As it was late that was ok.The room appeared very nice, albeit worn, at first glance but then I started noticing how dirty things were. The bedspread had Stains, the carpet needed a cleaning, etc.I was there for 1 night, and left early in the morning. I realized 30 minutes later that I had left a shirt on the bed. I called, and someone promised to call back. I phone back after meeting 6 hours later and was told that they had not had time to clean or check the room yet (!), but that someone would look right away and call back within 15 minutes. I called again 1 hour later, and was told that everyone had left, I could call the next day. I called the next day and was told no one had checked the room yet, could they call me back?4 days later, 4 more calls and I'm still waiting for them to clean and check the room....I spend 120+ days a year in hotels. This is a first.  
+<Date>Jun 15, 2008
+<Rating>1	1	2	4	1	4	1	1	
+<Aspects>
+18	8(day):1	15(recommend):1	20(look):1	29(minute):1	43(leave):2	50(bad):1	60(hour):1	67(call):5	69(tell):1	79(late):2	123(ok):1	146(friend):1	154(disappoint):1	633(ago):1	774(lock):1	975(promise):1	1573(frequently):1	2578(electronic):1	
+0	
+22	2(night):1	3(clean):2	5(time):1	8(day):1	11(bed):1	29(minute):1	32(check):2	43(leave):2	56(morning):1	60(hour):1	67(call):2	69(tell):2	73(etc):1	79(late):2	196(meet):1	296(phone):1	339(key):1	396(carpet):1	607(realize):1	723(stain):1	1844(shirt):1	2278(bedspread):1	
+0	
+8	4(nice):1	165(start):1	323(dirty):1	354(notice):1	434(wear):1	541(appear):1	2083(albeit):1	3666(glance):1	
+15	0(staff):1	3(clean):1	7(walk):1	8(day):2	14(helpful):1	20(look):1	31(front):1	32(check):1	36(desk):1	38(lot):1	64(spend):1	67(call):1	79(late):1	85(wait):1	1049(character):1	
+0	
+0	
+
+<Author>KansasCityPat
+<Content>Wonderful Hotel Visiting for just 5 days, I found the Hotel Majestic to be centrally located with complimentary shuttle service to the financial district every morning as well as prompt taxi and shuttle service to and from SFO. My room on the fourth floor, was quiet, clean, functional and had a great view looking southeast. I also viewed the on premise suites and they are fantastic! The room rates are mid-range with a property that has the history and ambiance of being the oldest hotel in San Francisco. If you looking to get away from the chain type hotels, then give the Hotel Majestic a try.Bonnie, the manager, was extremely accommodating and the staff as well. I look forward to my return trip to San Fran and staying with Bonnie and her staff again.  
+<Date>Jun 8, 2008
+<Rating>4	4	4	4	5	4	5	3	
+<Aspects>
+5	20(look):1	76(try):1	389(type):1	627(chain):1	1284(majestic):1	
+0	
+18	3(clean):1	17(view):2	20(look):1	24(floor):1	58(quiet):1	78(rate):1	86(fantastic):1	108(suite):1	177(san):1	214(property):1	355(francisco):1	957(ambience):1	1348(functional):1	1490(history):1	1579(fourth):1	1989(premiss):1	5434(mid-range):1	8371(south-east):1	
+15	8(day):1	9(service):2	48(wonderful):1	56(morning):1	65(visit):1	84(locate):1	185(taxi):1	321(shuttle):2	345(complimentary):1	433(district):1	879(centrally):1	1208(prompt):1	1284(majestic):1	1746(financial):1	2991(sfo):1	
+0	
+10	0(staff):2	20(look):1	33(trip):1	39(return):1	110(extremely):1	177(san):1	258(manager):1	624(accommodate):1	750(forward):1	1744(fran):1	
+0	
+0	
+
+<Author>Rachel-London28
+<Content>Lovely, old style hotel The Hotel Majestic is really something special. The building itself is lovely and the lobby, bar and restaurant are beautiful. The barman will make you any cocktail you can think of perfectly and the bar stocks a great selection of wines. The restaurant is good for dinner and breakfast, but is really quite expensive. The location is pretty good, away from the hustle and bustle of downtown San Francisco, but still close enough to everything, including JapanTown, which is great. The decor of the bedrooms is a little on the 'shabby-chic' side, with some faded fabrics around the place, but they are clean and look lovely, and the furniture is antique. We stayed in the room with the circular window on the top floor, and watched the sun rise over San Francisco every day. Stunning.  
+<Date>Jun 2, 2008
+<Rating>4	4	4	4	5	5	5	-1	
+<Aspects>
+5	87(lovely):1	208(special):1	326(style):1	988(stun):1	1284(majestic):1	
+0	
+20	3(clean):1	8(day):1	20(look):1	23(little):1	24(floor):1	87(lovely):1	118(top):1	119(window):1	177(san):1	245(watch):1	268(bedroom):1	269(decor):1	355(francisco):1	420(sun):1	440(furniture):1	1436(rise):1	1912(circular):1	1936(antique):1	3013(fade):1	3381(fabric):1	
+10	1(location):1	28(close):1	71(include):1	109(pretty):1	177(san):1	334(downtown):1	355(francisco):1	1107(bustle):1	1503(hustle):1	7211(japantown):1	
+0	
+0	
+15	6(breakfast):1	10(restaurant):2	27(bar):2	45(beautiful):1	55(lobby):1	87(lovely):1	117(dinner):1	124(expensive):1	135(build):1	251(wine):1	333(selection):1	595(perfectly):1	599(stock):1	716(cocktail):1	3315(barman):1	
+0	
+
+<Author>Becca_C
+<Content>Edwardian Elegance        Canopy Bed with Fireplace and snacks  
+<Date>Mar 12, 2008
+<Rating>4	5	4	4	4	5	4	-1	
+<Aspects>
+0	
+0	
+6	11(bed):1	406(snack):1	2047(fireplace):1	2255(elegance):1	3790(canopy):1	12433(edwardian):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Redwood_Chic
+<Content>Cute at first glance... The room was small but it looked cute at first until you started looking closer. Very old fixtures. The bathroom lighting was dim and was difficulte to put my make-up on. There was no fan so when I took a shower the entire room got hot quickly. I had to open the window to let the air in. The carpet had stains. The television was just as small as the room. It was an old looking 14. The remote control was broken and was taped together so the batteries wouldn't fall out. Can you say ghetto?!The service was OK too. They said they had room service but the menu was missing. Then I was told that they only had 4 items on the dinner menu so the guy rattled them off to me; garlic fries, mushroom soup, meat and cheese plate, and chicken ceasar salad. A side from being a strange selection, I decided to order the fries and salad and was told it would be over an hour wait. If you only need a place to sleep, this hotel will meet that objective. If you stay longer, look for another hotel.  
+<Date>Mar 4, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	20(look):2	228(break):1	587(fall):1	865(control):1	1272(remote):1	1541(fixture):1	2475(battery):1	3236(tape):1	5502(ghetto):1	
+0	
+20	9(service):1	13(bathroom):1	61(shower):1	104(sleep):1	114(hot):1	119(window):1	157(light):1	164(air):1	196(meet):1	276(miss):1	329(entire):1	396(carpet):1	423(menu):1	471(quickly):1	661(fan):1	723(stain):1	1158(television):1	2048(dim):1	2597(makeup):1	5303(objective):1	
+5	20(look):2	28(close):1	165(start):1	1202(cute):2	3666(glance):1	
+0	
+8	60(hour):1	69(tell):1	85(wait):1	219(decide):1	333(selection):1	909(salad):1	1009(fry):1	1058(strange):1	
+18	9(service):1	69(tell):1	117(dinner):1	123(ok):1	368(guy):1	423(menu):1	441(cheese):1	519(item):1	677(meat):1	909(salad):1	949(chicken):1	1002(plate):1	1009(fry):1	1772(soup):1	4511(rattle):1	4596(garlic):1	5021(mushroom):1	8537(ceasar):1	
+0	
+
+<Author>Smosh
+<Content>A Taste of the Elegant Old Days What a wonderful surprise! Traveling on business and the local group I was visiting booked this hotel. It's an old mansion that's been tastefully converted to a hotel. Located in a residential neighborhood not far from downtown, this hotel's recently reopened restaurant has been rated one of the city's 10 best! It's small and very elegant and fabulous without costing an arm and a leg. Now for the sleeping rooms -- no cookie-cutter rooms here. Mine was a nice size with very high ceilings and a 4 poster-canopied bed with all the upscale comforts. No closets -- a wardrobe. The room had cool patterned victorian wallpaper. The bathroom was huge with a footed tub and a double sink. Although it seemed old fashioned it had a good shower and upscale toiletries. I recommend this highly!  
+<Date>Feb 29, 2008
+<Rating>4	5	4	3	4	4	-1	3	
+<Aspects>
+7	8(day):1	15(recommend):1	48(wonderful):1	138(highly):1	199(surprise):1	439(taste):1	986(elegant):1	
+5	175(cost):1	270(fabulous):1	986(elegant):1	1421(leg):1	1726(arm):1	
+25	4(nice):1	11(bed):1	13(bathroom):1	61(shower):1	83(size):1	104(sleep):1	133(huge):1	179(double):1	278(cool):1	311(tub):1	402(foot):1	509(sink):1	528(ceiling):1	657(toiletry):1	702(comfort):1	1237(upscale):2	1269(mine):1	1526(tastefully):1	1745(fashion):1	2079(convert):1	2093(wallpaper):1	3125(mansion):1	4483(pattern):1	4855(victorian):1	7011(cookie-cutter):1	
+16	10(restaurant):1	18(book):1	41(city):1	65(visit):1	68(travel):1	78(rate):1	84(locate):1	147(business):1	195(local):1	322(recently):1	334(downtown):1	421(neighbourhood):1	565(closet):1	1451(wardrobe):1	1537(residential):1	5550(reopen):1	
+0	
+0	
+0	
+0	
+
+<Author>ziggypop
+<Content>Not bad for a hundred or so years old! The Hotel Majestic is a nice choice for anyone looking for a relatively enjoyable and quick stay in San Francisco. Their rooms have lovely beds, often with a canopy, which I have never seen in a hotel before. It is slightly odd, but adds to the nice feel of the hotel and besides, it's so comfortable! The service is nice, but we did not ask for too much from them...we are not luxury travelers.The cons are not plentiful, but they are definitely there. I understand that they have tried to preserve the old, quaint, character of the hotel. This was mostly successful, but our bathtub was old and slightly awkward. It is very old-fashioned, with claw foots, and the hotel appears to be proud of having them. I suppose that it is impressive to have them functioning after all these years, but it is actually almost dangerous to get out of the bathtub because of its height. I don't know if all the rooms had these awkward and rather unsightly bathtubs, but we were taken aback. We got used to it after one night, but it was strange.The carpeting was kinda old, but we weren't expecting the Park Hyatt Chicago or anything. The armoire was quite creepy - nice but creepy. An added plus was the decorative fireplace. It was quite beautiful and definitely the cleanest thing in the room - very polished and shiny. Shiny is always nice for a traveler...Overall, we had a nice stay, but I wish Tripadvisor had a three-and-a-half star rating. I would award this hotel with it if it existed.  
+<Date>Feb 16, 2008
+<Rating>3	3	3	3	4	4	3	3	
+<Aspects>
+17	2(night):1	4(nice):1	50(bad):1	59(definitely):1	402(foot):1	541(appear):1	840(Con):1	1039(plentiful):1	1058(strange):1	2039(exist):1	2206(hundred):1	2945(award):1	3225(armoire):1	3346(proud):1	3499(creepy):2	4201(old-fashioned):1	8931(claw):1	
+16	4(nice):3	20(look):1	70(overall):1	78(rate):1	103(star):1	107(choice):1	177(san):1	267(traveler):1	299(quick):1	355(francisco):1	384(wish):1	567(enjoyable):1	597(tripadvisor):1	913(relatively):1	1284(majestic):1	4826(shiny):1	
+35	3(clean):1	4(nice):1	11(bed):1	25(comfortable):1	34(feel):1	45(beautiful):1	59(definitely):1	62(expect):1	66(park):1	87(lovely):1	180(actually):1	203(plus):1	351(add):2	396(carpet):1	598(slightly):2	620(suppose):1	920(impressive):1	924(hyatt):1	1023(bathtub):3	1088(odd):1	1332(besides):1	1780(function):1	1971(dangerous):1	2047(fireplace):1	2050(kinda):1	2279(height):1	2699(polish):1	2706(chicago):1	2906(awkward):2	3790(canopy):1	4826(shiny):1	5016(decorative):1	5031(successful):1	6133(aback):1	8757(unsightly):1	
+0	
+0	
+0	
+9	4(nice):1	9(service):1	253(tried):1	267(traveler):1	391(understand):1	437(luxury):1	1049(character):1	1295(quaint):1	4352(preserve):1	
+0	
+
+<Author>sjordan93436
+<Content>Loved the Willie Brown (suite) Stayed in the Willie Brown suite. It is highly recommended. Our room was relatively quiet. It is a old hotel 1902, but the room was clean spacious and the bath great.It is a short taxi ride to downtown.  
+<Date>Feb 4, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+2	15(recommend):1	138(highly):1	
+0	
+8	3(clean):1	40(love):1	58(quiet):1	108(suite):2	111(spacious):1	226(bath):1	913(relatively):1	1667(brown):2	
+4	144(short):1	185(taxi):1	218(ride):1	334(downtown):1	
+0	
+0	
+0	
+0	
+
+<Author>elts
+<Content>Loved the Majestic In 2 words: Loved it.Really funky, old school hotel, with great service at the desk and front of house. The room was groovy, with four poster bed, massive windows offering a view over the city (not as far as the sea), and an overall friendly feel to the place. A short taxi/bus ride into the city, walkable if you're feeling up to it (not so bad on the way in, uphill on the way back!!) The room next to ours was in the middle of being upgraded, we still had the old roll top bath etc. which was funky, groovy, stylish and unusual in a hotel in this day and age - I suspect it will have been replaced by now though!The fridge in the room worked (nice and quiet too!), there was an honesty basket with the usual stuff (didn't use it though!), and some lovely cookies left by room service everyday (great for dunking into a coffee on the walk down into town in the morning!)Didn't try the restaurant until the last night... OMG... hadn't realised it was a Michelin starred affair until we were in and seated...Fantastic. Fantastic. Fantastic. Never mind the current exchange rate, I'd happily have paid 拢200 for the dinner, never mind $200. The food was fresh,on an inspired menu, the wine selection was great, the service beyond compare.. should I go on?We had a great time in San Francisco, and staying at the Majestic only served to accentuate it.When we go back to the city I have no doubt that we will stay there again.  
+<Date>Dec 18, 2007
+<Rating>5	4	4	4	5	5	5	-1	
+<Aspects>
+10	40(love):2	41(city):1	86(fantastic):2	480(stuff):1	571(word):1	682(usual):1	952(doubt):1	1284(majestic):1	1865(basket):1	4095(honesty):1	
+17	2(night):1	10(restaurant):1	42(pay):1	76(try):1	78(rate):1	86(fantastic):1	103(star):1	117(dinner):1	294(mind):2	504(seat):1	607(realize):1	1514(exchange):1	1642(happily):1	2313(current):1	3546(affair):1	5411(omg):1	5530(michelin):1	
+29	4(nice):1	8(day):1	11(bed):1	12(friendly):1	17(view):1	34(feel):1	41(city):1	58(quiet):1	70(overall):1	73(etc):1	89(offer):1	118(top):1	119(window):1	163(upgrade):1	226(bath):1	318(fridge):1	325(middle):1	505(age):1	758(sea):1	813(roll):1	843(ours):1	912(replace):1	961(stylish):1	1329(massive):1	1516(funky):1	1610(unusual):1	1983(suspect):1	2043(poster):1	8953(groovy):2	
+8	34(feel):1	41(city):1	50(bad):1	144(short):1	185(taxi):1	218(ride):1	2197(walkable):1	3597(uphill):1	
+0	
+6	9(service):1	31(front):1	36(desk):1	281(house):1	1229(school):1	1516(funky):1	
+23	5(time):1	7(walk):1	9(service):2	16(food):1	43(leave):1	56(morning):1	87(lovely):1	90(coffee):1	174(serve):1	177(san):1	197(fresh):1	239(town):1	251(wine):1	333(selection):1	355(francisco):1	381(compare):1	423(menu):1	605(everyday):1	738(beyond):1	1173(cookie):1	1284(majestic):1	3625(inspire):1	12626(dunk):1	
+0	
+
+<Author>odwyer
+<Content>Fantastic hotel, fantastic location Myself and my wife stayed at the majestic for a few days as part of our honeymoon recently. We had come from a plush 5-star hotel in Cabo San Lucas, and were heading on to Chain hotels in Vegas  L.A., so I wanted something a little different for our stay in S.F.The hotel is superbly located, between the cool, chic boutiques and restaurants of Fillmore street and the typical mayhem of downtown. I have to agree with everything the previous reviewer said, so instead of going into detail here, you should read the review by hawaiilover. The staff were extremely courteous and helpful, the rooms were huge (we also had a one0bedroom suite on the 4th floor), and the service was excellent. Our only slightly negative thought on this hotel is that, as the building is so old, the walls in the rooms aren't very well sound-proofed. We found each morning that we were woken by people walking up and down the corridor outside the room. It wasn't particularly early, but I suppose you always want to wake up in your own time rather than be woken up by others.All-in-all, this is a fantastic hotel, with great staff and great rates. I believe the hotel was taken over by new owners last year, who have changed the bar and restaurant. They must have changed the attitude of the staff as well, as we encountered no negativity at all during our stay. Just like the previous reviewer, if I'm ever back in San Francisco, I won't even bother to look around for other hotels, this one is ideal.  
+<Date>Aug 12, 2007
+<Rating>5	5	5	4	5	4	5	4	
+<Aspects>
+8	20(look):1	177(san):1	307(bother):1	355(francisco):1	373(previous):1	487(wo):1	545(ideal):1	564(reviewer):1	
+7	1(location):1	8(day):1	86(fantastic):2	184(wife):1	322(recently):1	502(honeymoon):1	1284(majestic):1	
+15	0(staff):1	9(service):1	14(helpful):1	21(excellent):1	24(floor):1	108(suite):1	110(extremely):1	133(huge):1	135(build):1	183(wall):1	282(negative):1	483(courteous):1	598(slightly):1	845(4th):1	5689(sound-proofe):1	
+28	7(walk):1	10(restaurant):1	23(little):1	26(people):1	35(street):1	56(morning):1	84(locate):1	98(outside):1	177(san):1	278(cool):1	334(downtown):1	554(wake):1	627(chain):1	628(typical):1	1073(corridor):1	1437(heading):1	1472(chic):1	1831(5-star):1	1847(plush):1	1860(vegas):1	3286(boutiques):1	3820(superbly):1	4129(l.a):1	4159(s.f):1	7934(fillmore):1	7986(lucas):1	8115(cabo):1	9135(mayhem):1	
+0	
+12	0(staff):2	5(time):1	78(rate):1	86(fantastic):1	161(change):1	166(own):1	553(particularly):1	554(wake):2	620(suppose):1	693(encounter):1	821(attitude):1	8491(negativity):1	
+12	10(restaurant):1	27(bar):1	37(review):1	88(read):1	161(change):1	312(believe):1	353(instead):1	373(previous):1	473(agree):1	564(reviewer):1	592(detail):1	672(owner):1	
+0	
+
+<Author>HawaiiLover
+<Content>Everything about this boutique hotel is amazing!       Beautiful elevator!  
+<Date>Aug 7, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+0	
+2	145(amaze):1	623(boutique):1	
+0	
+0	
+2	45(beautiful):1	216(elevator):1	
+0	
+
+<Author>nature+surf
+<Content>Charming and Enjoyable Our family stayed at Hotel Majestic the last week of June. We are two adults with two teenagers. We didn't want to spend tons of money, but wanted a nice hotel with charm and character. We thought this hotel fit the bill perfectly. It was centrally located in the city- we were able to walk to Chinatown, and also to Union Square, and the piers were not to far away at all. The front desk people were very helpful and friendly. The room we had was a suite and there was plenty of room for the 4 of us. The furnishings and bathroom tiles were Victorian style and very pretty. There were qirks in the room (the floor on the way to the bathroom was gently sloping, for instance), but that just added to the fun of staying in an older hotel. And there were beautiful details and touches- like the chandelier light fixtures and the fluffy bathrobes they provided. I thought the hotel was a great choice and we would stay there again if we were in town.  
+<Date>Jul 25, 2007
+<Rating>4	4	4	5	5	4	4	4	
+<Aspects>
+16	4(nice):1	64(spend):1	75(week):1	80(money):1	106(family):1	332(charm):2	495(bill):1	556(adult):1	567(enjoyable):1	595(perfectly):1	664(june):1	668(fit):1	967(ton):1	1049(character):1	1284(majestic):1	1594(teenager):1	
+2	107(choice):1	239(town):1	
+23	13(bathroom):2	24(floor):1	45(beautiful):1	108(suite):1	109(pretty):1	153(provide):1	157(light):1	158(plenty):1	176(fun):1	279(touch):1	326(style):1	351(add):1	592(detail):1	846(tile):1	870(furnishings):1	1529(bathrobe):1	1541(fixture):1	1792(fluffy):1	2516(instance):1	3624(chandelier):1	4467(slope):1	4855(victorian):1	6620(gently):1	
+9	7(walk):1	41(city):1	84(locate):1	139(square):1	171(able):1	451(union):1	879(centrally):1	1132(chinatown):1	1456(pier):1	
+0	
+5	12(friendly):1	14(helpful):1	26(people):1	31(front):1	36(desk):1	
+0	
+0	
+
+<Author>onebluetrickdog
+<Content>Dusty and Musky Upon entering the room, it smelled musky and old. I immediately turned on the air conditioner, which helped. The shower curtain was orange around the hem, not white and pristine, so I had to put the curtain on the outside of the clawfut tub. The exposed plumbing and the back, sides and underneath the tub were dirty and dusty. The canopy on the bed was very dusty and had cobwebs on it. I just had to forget about it for the night. Yuck. Dust overhead while I slept.It would be better not to have a canopy than to have a dirty canopy.The staff was polite, professional and friendly. The lobby was charming. Valet service was the best $20 I spent on this trip! I called valet for my car and it was there within 5-10 minutes. I will say that the marble(?) entryway stairs are a bit steep, so, certain guests may have a hard time entering. Perhaps they have a ramp entrance to accomodate all their guests?  
+<Date>Jul 15, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	2(night):1	397(forget):1	705(marble):1	3151(yuck):1	
+4	91(guest):1	490(entrance):1	549(accomodate):1	3852(ramp):1	
+29	5(time):1	11(bed):1	52(bit):1	61(shower):1	91(guest):1	92(help):1	98(outside):1	104(sleep):1	162(hard):1	164(air):1	231(smell):1	311(tub):1	466(white):1	489(immediately):1	568(stair):1	601(enter):2	743(curtain):2	1060(steep):1	1083(conditioner):1	1104(orange):1	1845(dust):1	2796(dusty):2	2981(pristine):1	3176(overhead):1	3790(canopy):1	6518(entryway):1	7176(musky):2	8306(cobweb):1	12196(hem):1	
+0	
+14	9(service):1	29(minute):1	33(trip):1	64(spend):1	67(call):1	121(car):1	311(tub):1	323(dirty):2	457(valet):2	2107(plumb):1	2459(underneath):1	2637(expose):1	2796(dusty):1	3790(canopy):2	
+4	0(staff):1	12(friendly):1	422(polite):1	501(professional):1	
+2	55(lobby):1	332(charm):1	
+0	
+
+<Author>PCEBALLOS
+<Content>Majestic has a ghost. Despite its old  Victorian appearance the hotel majestic has a very pleasant entrance and staff, the room was a bit small and did not have a full length mirror, it also took housekeeping 25 minutes to bring us clean towels. but despite that the hotel majestic is deffintely filled with a spirit ghost, and esp on the 4th flooor.. during my experience me and some girlfriends stayed in room 411. our first evening we were not able to sleep due to noises within our room and the night terrors we experienced. the following evening we heard eerie noises and our chandilear started flickering, coincidentally our light bulbs were just about out. it has been said that the photo hanging in the hotel lobby is of the first owners daughter whose spirit lives within the walls. the 4th floor is deffinetely something else..goodluck.  
+<Date>Jun 26, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	491(fill):1	498(despite):1	845(4th):1	1284(majestic):2	2182(spirit):1	2624(esp):1	4331(ghost):2	
+11	44(experience):1	94(noise):1	132(hear):1	157(light):1	165(start):1	482(follow):1	994(girlfriend):1	2458(bulb):1	8508(flicker):1	9356(eerie):1	11401(coincidentally):1	
+25	0(staff):1	2(night):1	3(clean):1	24(floor):1	29(minute):1	44(experience):1	52(bit):1	94(noise):1	104(sleep):1	125(towel):1	142(bring):1	150(pleasant):1	170(else):1	171(able):1	259(due):1	367(housekeeping):1	490(entrance):1	498(despite):1	845(4th):1	1129(mirror):1	1284(majestic):1	1879(length):1	2312(appearance):1	4855(victorian):1	9018(terror):1	
+8	55(lobby):1	183(wall):1	426(life):1	467(daughter):1	478(hang):1	672(owner):1	761(photo):1	2182(spirit):1	
+0	
+0	
+0	
+0	
+
+<Author>csatro
+<Content>Great small hotel       Looking out from top of entry  
+<Date>May 4, 2007
+<Rating>4	4	4	3	4	4	4	-1	
+<Aspects>
+0	
+0	
+0	
+3	20(look):1	118(top):1	1649(entry):1	
+0	
+0	
+0	
+0	
+
+<Author>mjmorin
+<Content>Overall enjoyed the Majestic I have to admit that I was a bit anxious about booking 8 days with the Majestic after reading some of the recent horrid reviews; however, overall it turned out to be an excellent choice for us. We were looking for a small hotel in/near Pacific Heights that had parking and some type of restaurant facilities. We booked a suite for the incredible price of $185 per night which offered a significant amount of space, bright light, a lovely bathroom and wireless service that was simple/free. Yes, areas of the carpet are a bit worn and the paint could use a touch up here and there, but the place is immaculate and housekeeping excellent. It must be noted that they do not claim to be the Four Seasons.My only complaint, does mirror that of a few others: the service is quite variable with the vast majority exhibiting a very professional, courteous and pleasant demeanor, while others appear to be simply doing a job. Unfortunately, this is not unique to this hotel and hopefully appropriate feedback will reach those in need of it.  
+<Date>Jan 23, 2007
+<Rating>4	5	5	5	5	3	4	5	
+<Aspects>
+9	297(note):1	524(unfortunately):1	610(season):1	851(reach):1	1027(unique):1	1077(claim):1	1633(hopefully):1	2421(appropriate):1	2824(feedback):1	
+14	8(day):1	18(book):1	21(excellent):1	37(review):1	51(enjoy):1	52(bit):1	70(overall):2	88(read):1	107(choice):1	1064(recent):1	1282(admit):1	1284(majestic):2	3229(anxious):1	4509(horrid):1	
+38	2(night):1	9(service):2	13(bathroom):1	18(book):1	19(price):1	21(excellent):1	52(bit):1	87(lovely):1	89(offer):1	108(suite):1	150(pleasant):1	157(light):1	190(complaint):1	210(space):1	250(yes):1	279(touch):1	367(housekeeping):1	396(carpet):1	434(wear):1	481(job):1	483(courteous):1	488(simply):1	501(professional):1	541(appear):1	613(simple):1	666(amount):1	717(wireless):1	718(incredible):1	806(paint):1	880(bright):1	894(immaculate):1	1129(mirror):1	1584(majority):1	2362(significant):1	2476(vast):1	4958(exhibit):1	5713(variable):1	7150(demeanor):1	
+7	10(restaurant):1	20(look):1	66(park):1	211(facility):1	389(type):1	1575(pacific):1	2279(height):1	
+0	
+0	
+0	
+0	
+
+<Author>ourholiday
+<Content>Avoid this hotel A hotel to be avoided. We arrived at 3pm on a Saturday, only to find the receptionist entirely disinterested in getting us a room. After hanging around for 20 mins we finally were given a key, but nobody was available to move cases etc. We later returned to the lobby for the 鈥渃omplimentary coffee and biscuits promised on the key wallet, only to be told that the service had been discontinued!The room plumbing was awful: it took ten minutes for tepid hot water to appear in the shower. At least complimentary coffee was provided in the morning for the first day. Then this too was discontinued.This is an expensive hotel offering poor service, well away from Fisherman鈥檚 Wharf: there are many better hotels available.  
+<Date>Dec 26, 2006
+<Rating>2	2	2	1	2	1	1	-1	
+<Aspects>
+9	73(etc):1	134(available):1	207(move):1	247(min):1	339(key):1	341(finally):1	436(avoid):2	478(hang):1	12532(discontinue):1	
+7	9(service):1	89(offer):1	124(expensive):1	134(available):1	331(poor):1	784(wharf):1	1148(fisherman):1	
+8	29(minute):1	57(water):1	61(shower):1	114(hot):1	541(appear):1	736(awful):1	2107(plumb):1	7236(tepid):1	
+0	
+0	
+6	53(arrive):1	818(saturday):1	855(receptionist):1	2069(entirely):1	4625(disinterested):1	6855(3pm):1	
+15	8(day):1	9(service):1	39(return):1	55(lobby):1	56(morning):1	69(tell):1	79(late):1	90(coffee):2	153(provide):1	339(key):1	345(complimentary):1	975(promise):1	2460(wallet):1	2889(biscuit):1	12532(discontinue):1	
+0	
+
+<Author>Callidagirl
+<Content>The restaurant/bar service is awful The hotel itself is quite charming, but the service at the restaurant and bar was so awful it almost ruined the whole trip. The hotel is old, and though bathroom pipes clogged and lightbulbs seemed to go out left and right, it was somewhat tolerable and even expected. What was not tolerable and expected, however, is the crass, rude behavior of the bar that is endorsed by the management.While I know it is not necessarily normal to let a single person ruin a whole weekend, the man standing behind the bar managed to do just that. We asked to borrow a few extra wine glasses to bring to the room. He was standing in front of several dozen in an empty room and said emphatically no, he did not have enough to give. He changed us for things that we never got. When we went to talk about it with him, he rolled his eyes and acted as if we were in the wrong. Much more disturbing was the response of the management when we complained. The hotel manager, who was sitting at the bar late on a Saturday night, stated that the bartender was not rude. She simply told us we were wrong. Though the man was incredibly rude, unhelpful and unfriendly, according to the manager, he is not. There were no apologies for what we felt to be bad behavior. There were no attempts to listen to our story or empathize with our experience.  
+<Date>Dec 11, 2006
+<Rating>2	2	3	5	2	3	1	1	
+<Aspects>
+12	34(feel):1	50(bad):1	69(tell):1	161(change):1	371(talk):1	427(wrong):2	488(simply):1	813(roll):1	977(eye):1	1547(apology):1	2237(act):1	3009(behavior):1	
+4	44(experience):1	906(story):1	997(listen):1	1119(attempt):1	
+17	13(bathroom):1	31(front):1	43(leave):1	62(expect):1	128(extra):1	142(bring):1	251(wine):1	327(glass):1	444(stand):1	651(somewhat):1	810(empty):1	1874(dozen):1	2067(pipe):1	2666(borrow):1	3685(clog):1	3738(tolerable):1	7406(lightbulbs):1	
+0	
+0	
+16	2(night):1	27(bar):1	79(late):1	169(sit):1	241(complain):1	258(manager):2	392(rude):2	525(management):1	676(bartender):1	807(incredibly):1	818(saturday):1	1067(disturb):1	1330(response):1	1487(unfriendly):1	1618(unhelpful):1	2019(accord):1	
+20	9(service):2	10(restaurant):2	27(bar):3	33(trip):1	62(expect):1	172(weekend):1	193(person):1	304(single):1	332(charm):1	392(rude):1	444(stand):1	525(management):1	645(manage):1	736(awful):2	878(normal):1	1243(ruin):2	2817(necessarily):1	3009(behavior):1	3738(tolerable):1	7531(endorse):1	
+0	
+
+<Author>India001
+<Content>Shabby Hotel Majestic We stayed at the Hotel Majestic because it is just around the corner from our daughter. The weekend was a big one, a big birthday for my wife. The room, a suite, was OK, though several light bulbs had burned out, and we were told that the maintenance person had just gone home for the evening. After a short while, two bottles of champagne and some cheeses arrived. No indication of who sent them. I was asked to sign. I did and gave a pretty decent tip. Our daughter a short while later explained that the champagne was a gift from my sister, that she had prepaid everything, gratuity included. Later that evening, we went to the bar to say that we shouldn't have been billed for this. The bartender just rolled his eyes but finally did -- reluctantly, it seemed to us -- agree to check. He did, returning my tip but offered no apology. And when we said something about his demeanor, the hotel manager, who curiously was at the bar at 10:30 at night, jumped to his defense. The customer is always wrong seems to be their sense. In short, the hotel was shabby and so was the service. Despite the proximity to our daughter, I wouldn't stay there again and wouldn't in good conscience encourage anyone to do so.  
+<Date>Dec 10, 2006
+<Rating>1	3	2	3	2	3	1	1	
+<Aspects>
+23	39(return):1	89(offer):1	109(pretty):1	172(weekend):1	184(wife):1	194(tip):2	200(corner):1	257(decent):1	427(wrong):1	428(customer):1	447(send):1	449(sign):1	467(daughter):2	498(despite):1	765(birthday):1	1102(sense):1	1114(proximity):1	1284(majestic):2	1319(shabby):1	1547(apology):1	2241(encourage):1	4626(indication):1	12555(conscience):1	
+10	71(include):1	79(late):1	144(short):1	467(daughter):1	768(explain):1	770(champagne):1	852(gift):1	892(sister):1	2559(prepay):1	3490(gratuity):1	
+9	69(tell):1	108(suite):1	123(ok):1	141(home):1	157(light):1	193(person):1	1149(maintenance):1	1289(burn):1	2458(bulb):1	
+0	
+0	
+14	2(night):1	27(bar):1	32(check):1	258(manager):1	341(finally):1	473(agree):1	676(bartender):1	813(roll):1	977(eye):1	1404(jump):1	4465(reluctantly):1	6543(defence):1	7150(demeanor):1	10694(curiously):1	
+10	9(service):1	27(bar):1	53(arrive):1	79(late):1	144(short):2	238(bottle):1	441(cheese):1	495(bill):1	770(champagne):1	1319(shabby):1	
+0	
+
+<Author>adamsfamle
+<Content>Really like a Rich Uncle's Mansion My husband and I stayed at the Majestic the night before surgery at UCSF. The hospital gave us a long list of places nearby to stay and this one was the least expensive that was available. When I checked the internet using trip advisor the prices were $140 up. So I called the hotel and they said they could give us the patient rate of $115. The hospital was NOT that close -they told us 2 miles and it was 8 but the parking was free on the street and the neighborhood was safe to walk around at night. Upon arrival at our designated room, we found water on the floor in the bathroom so we requested another room. They gave us a beautiful room with a fireplace and a couch - all in turn of the century furniture, claw-foot bathtub and cookies (fresh baked!) on our pillows. They are in the process of renovation (they said) and it really was a beautiful mansion. Be sure to check out the amazing antique butterfly collection in the bar! We walked to dinner at a wonderful old buffet-type restaurant from the 20's across from Mel's Diner (sorry I cannot remember the name) and both of us ate a full course dinner for a total of $20! I can't believe that there still are places like this hotel  restaurant in SF. We had a great stay and good food at reasonable prices-highly recommended.  
+<Date>Nov 21, 2006
+<Rating>4	5	5	-1	5	4	5	-1	
+<Aspects>
+4	67(call):1	78(rate):1	303(pillow):1	1882(patient):1	
+13	15(recommend):1	16(food):1	19(price):1	32(check):1	33(trip):1	97(internet):1	124(expensive):1	134(available):1	232(nearby):1	273(reasonable):1	650(list):1	701(advisor):1	1911(hospital):1	
+24	2(night):1	13(bathroom):1	24(floor):1	45(beautiful):2	57(water):1	105(husband):1	148(request):1	197(fresh):1	224(arrival):1	440(furniture):1	687(renovation):1	1023(bathtub):1	1173(cookie):1	1192(couch):1	1222(process):1	1284(majestic):1	2047(fireplace):1	2100(bake):1	2171(century):1	2350(rich):1	3125(mansion):2	3971(designate):1	5656(uncle):1	5984(surgery):1	
+11	2(night):1	7(walk):1	28(close):1	35(street):1	46(free):1	66(park):1	69(tell):1	137(safe):1	421(neighbourhood):1	692(mile):1	1911(hospital):1	
+0	
+6	27(bar):1	32(check):1	145(amaze):1	1936(antique):1	2694(collection):1	9097(butterfly):1	
+14	7(walk):1	10(restaurant):2	47(eat):1	48(wonderful):1	117(dinner):2	293(course):1	295(name):1	312(believe):1	375(remember):1	786(total):1	802(sf):1	891(sorry):1	1324(diner):1	5253(mel):1	
+0	
+
+<Author>Brookied
+<Content>Fantastic Hotel We stayed at this hotel for 4 nights in September 06 as part of or honeymoon trip. We had just drove from LA to San Francisco on Monday and were greeted with a freindly smile from the service staff who offerd valet parking. We had to wait a few mins while the check in girl was on the phone but when finished she offerd us a free upgrade to a suit at the front of the building being honeymooners.The building is old and as such has some quirks. In our room of of the plugs did not work and the shower as faulty. The area for dinner and breakfast was just being finished as major work looks like it was done but we were out for diner in any case. I would with out a doubt recommend this hotel, We shall go back to San Francisco and stay in this hotel again  
+<Date>Sep 17, 2006
+<Rating>5	5	4	5	5	5	5	4	
+<Aspects>
+6	15(recommend):1	135(build):1	177(san):1	355(francisco):1	952(doubt):1	4696(quirk):1	
+5	2(night):1	33(trip):1	86(fantastic):1	502(honeymoon):1	972(september):1	
+3	61(shower):1	1174(plug):1	4333(faulty):1	
+0	
+0	
+12	31(front):1	32(check):1	46(free):1	85(wait):1	135(build):1	163(upgrade):1	247(min):1	296(phone):1	625(girl):1	772(finish):1	861(suit):1	2781(honeymooner):1	
+18	0(staff):1	6(breakfast):1	9(service):1	20(look):1	66(park):1	117(dinner):1	177(san):1	225(la):1	298(drive):1	315(major):1	355(francisco):1	387(smile):1	415(greet):1	457(valet):1	772(finish):1	1324(diner):1	1577(monday):1	2779(freindly):1	
+0	
+
+<Author>LM-2004
+<Content>European Flair My husband and I stayed at the Majestic May 8-10. We had a parking package, which included a 1 bedroom suite, parking, breakfast, and I thought evening drinks(which the website stated). We loved the suite-it was huge, but did have that old musty smell that other postings spoke about. The breakfast was o.k., and so was the service. I also wish they would have told me that the parking package didnt include all that it said on the website, e.g.-that evening drinks and snacks are not included, since the bar and restaurant are being renovated. Although they did manage to provide breakfast. But, all in all we loved the charm and ambience of this old world hotel.  
+<Date>May 16, 2006
+<Rating>4	4	4	-1	4	-1	3	-1	
+<Aspects>
+4	40(love):1	272(world):1	332(charm):1	957(ambience):1	
+0	
+18	6(breakfast):1	40(love):1	63(drink):1	66(park):2	71(include):1	105(husband):1	108(suite):1	127(speak):1	133(huge):1	231(smell):1	262(website):1	268(bedroom):1	527(package):1	582(european):1	1016(musty):1	1284(majestic):1	4272(flair):1	5077(posting):1	
+0	
+0	
+0	
+17	6(breakfast):2	9(service):1	10(restaurant):1	27(bar):1	63(drink):1	66(park):1	69(tell):1	71(include):2	153(provide):1	262(website):1	384(wish):1	406(snack):1	527(package):1	533(renovate):1	626(didnt):1	645(manage):1	2540(o.k):1	
+0	
+
+<Author>Gubbini
+<Content>For the price, very nice Our one night stay at the Hotel Majestic was very pleasant. Our room (a junior suite) had plenty of light, fireplace, sofa, canopy bed and a very large bathroom. Furnishings were very consistent with the historic nature of the hotel. The hotel's bar and restaurant were being renovated so we didn't use those. Breakfast was very European style. Staff was pleasant and helpful. Best part was the price - - hard to beat for the location. Only negative was a slightly musty air to the room.  
+<Date>May 12, 2006
+<Rating>4	5	3	-1	4	-1	4	-1	
+<Aspects>
+0	
+8	1(location):1	2(night):1	4(nice):1	19(price):2	150(pleasant):1	162(hard):1	442(beat):1	1284(majestic):1	
+17	11(bed):1	13(bathroom):1	108(suite):1	157(light):1	158(plenty):1	164(air):1	282(negative):1	598(slightly):1	842(sofa):1	870(furnishings):1	964(junior):1	1016(musty):1	1274(historic):1	1986(nature):1	2047(fireplace):1	2574(consistent):1	3790(canopy):1	
+0	
+0	
+3	0(staff):1	14(helpful):1	150(pleasant):1	
+6	6(breakfast):1	10(restaurant):1	27(bar):1	326(style):1	533(renovate):1	582(european):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Awful Customer Service The Hotel itself looks lovely from the website, but the customer service upon making my reservations was awful! It is the first impression that leaves a lasting impression. Upon calling to make reservations, the gentleman who ansered the phone asked me to call back to make my reservations, he was busy on another line. Internet pictures, descriptions and reviews are helpful, in choosing a hotel that suits your specific needs but you truly can gage your future experience by the helpfulness of the staff.A paying hotel or resort guest should be treated with respect and Customer Service is expected...obviously this receptionist hasn't been clued in on hotel and resort etiquette or for that matter his job description. If this is how I am to be treated before I've even made the reservations imagine the stay....  
+<Date>Mar 6, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	848(impression):2	1593(leaf):1	
+14	0(staff):1	14(helpful):1	37(review):1	44(experience):1	97(internet):1	167(choose):1	456(picture):1	476(truly):1	732(future):1	861(suit):1	1848(specific):1	2034(description):1	3872(helpfulness):1	9243(gauge):1	
+0	
+6	67(call):2	156(reservation):2	188(line):1	220(busy):1	296(phone):1	1506(gentleman):1	
+0	
+17	9(service):1	42(pay):1	62(expect):1	72(resort):2	91(guest):1	156(reservation):1	320(treat):2	428(customer):1	481(job):1	531(matter):1	733(imagine):1	781(obviously):1	855(receptionist):1	1389(respect):1	2034(description):1	3154(clue):1	11842(etiquette):1	
+7	9(service):2	20(look):1	87(lovely):1	156(reservation):1	262(website):1	428(customer):2	736(awful):2	
+0	
+
+<Author>Tom_Rolfe
+<Content>Wonderful place, wonderful staff The Majestic is the kind of hotel we love: well-located, personal not too big, with accommodating staff, and facilities that are well cared for. The hotel is a mid-sized dowager. At Sutter and Gough (Goff, please!), the hotel is pleasantly away from the tumult of Union Square and the Embarcadero and lively Fillmore St. shoppping, but a short drive or bus or cab ride from nearly everything. They serve a nice buffet breakfast and parking is relatively inexpensive. A big supermarket is just a block away. If the price remains reasonable, we'd surely stay there again.  
+<Date>Mar 4, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	173(please):1	5703(sutter):1	10036(gough):1	
+4	19(price):1	273(reasonable):1	1391(remain):1	2033(surely):1	
+1	11420(mid-size):1	
+24	0(staff):2	40(love):1	48(wonderful):2	100(bloc):1	120(bus):1	139(square):1	144(short):1	211(facility):1	218(ride):1	242(care):1	298(drive):1	380(cab):1	451(union):1	624(accommodate):1	655(st):1	711(personal):1	747(pleasantly):1	896(nearly):1	1078(supermarket):1	1284(majestic):1	1600(lively):1	2941(embarcadero):1	3858(well-locate):1	7934(fillmore):1	
+0	
+0	
+7	4(nice):1	6(breakfast):1	66(park):1	77(buffet):1	174(serve):1	913(relatively):1	1117(inexpensive):1	
+0	
+
+<Author>J13345
+<Content>Quiet and with character Stayed at the Hotel Majestic because it was suggested by the hotel where I customarily stay when it was all booked up. Staying at the Majestic feels like staying at some friend's rich uncle's mansion when they are away. It is an older building with character, meaning that the elevator has inexplicable pictures of monkeys playing and in the room are canopied beds where they canopies get in your way. However, you have to love a place where the hot and cold faucets are labelled Hot and Cold. The service is top notch - super friendly, able, and willing to help out the guests, most of whom appear to be return customers.The Majestic is a little out of the beaten path, but that's a good thing if you want some quiet. And, the 2,3, and 4 MUNI buses stop practically at its doorstep with the downtown loop only 2 blocks away. Japantown is only 3 blocks away and a really excellent supermarket is 1.5 blocks away (w/ really good empenadas).The only minus is if you have a car they don't have a convenient mechanism for stowing and retrieving it. Also, as of early Feb when I was there, the bar and restaurant were being renovated, but the complimentary continental breakfast was first rate with good coffee. Major renovations are due to begin in earnest soon. No question, I would definitely stay here again if my regular place was sold out again, if for nothing more than to get the empenadas at the local grocery.  
+<Date>Feb 19, 2006
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+17	40(love):1	59(definitely):1	114(hot):2	121(car):1	186(convenient):1	195(local):1	222(cold):2	394(question):1	606(sell):1	744(regular):1	1199(grocery):1	2064(minus):1	2823(faucet):1	2864(retrieve):1	3128(label):1	6512(stow):1	7676(mechanism):1	
+0	
+26	11(bed):1	18(book):1	23(little):1	34(feel):1	58(quiet):2	135(build):1	146(friend):1	216(elevator):1	246(mean):1	259(due):1	315(major):1	386(play):1	418(soon):1	442(beat):1	452(suggest):1	456(picture):1	551(begin):1	687(renovation):1	1049(character):2	1284(majestic):3	1612(path):1	2350(rich):1	2436(monkey):1	3125(mansion):1	3790(canopy):2	5656(uncle):1	
+11	21(excellent):1	100(bloc):3	120(bus):1	122(stop):1	334(downtown):1	1078(supermarket):1	1850(practically):1	2071(doorstep):1	2181(muni):1	4408(loop):1	7211(japantown):1	
+0	
+0	
+20	6(breakfast):1	9(service):1	10(restaurant):1	12(friendly):1	27(bar):1	39(return):1	78(rate):1	90(coffee):1	91(guest):1	92(help):1	118(top):1	171(able):1	345(complimentary):1	372(continental):1	428(customer):1	464(super):1	533(renovate):1	541(appear):1	1227(notch):1	1258(feb):1	
+0	
+
+<Author>Sharon the painter
+<Content>European feel My husband and I stayed for three nights in The Majestic, and were quite pleased. It is an historic building with charm. Our room on the top floor was small, but adequate, with a very comfortable bed. The hotel was sold recently, and the bar was closed, due to the lack of a liquor license. But breakfast in the lovely dining room was generous (fresh fruit, cereal, pastries, hard-cooked eggs, cheese, good coffee). There were free copies of newspapers (San Francisco and NYTimes) and classical music playing. The hotel is about 1 mile from Union Square (walkable for dinner) in a residential neighborhood. We were able to find street parking within 2 blocks of the hotel every night. I recommend this hotel, and would stay there again.  
+<Date>Feb 8, 2006
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+10	2(night):1	15(recommend):1	34(feel):1	105(husband):1	135(build):1	173(please):1	332(charm):1	582(european):1	1274(historic):1	1284(majestic):1	
+0	
+12	11(bed):1	24(floor):1	25(comfortable):1	117(dinner):1	118(top):1	139(square):1	390(adequate):1	421(neighbourhood):1	451(union):1	692(mile):1	1537(residential):1	2197(walkable):1	
+13	2(night):1	27(bar):1	28(close):1	35(street):1	66(park):1	100(bloc):1	171(able):1	259(due):1	322(recently):1	349(lack):1	606(sell):1	1390(liquor):1	4464(license):1	
+0	
+0	
+19	6(breakfast):1	46(free):1	87(lovely):1	90(coffee):1	177(san):1	197(fresh):1	215(fruit):1	316(dine):1	355(francisco):1	386(play):1	398(music):1	412(egg):1	441(cheese):1	529(cereal):1	652(pastry):1	1372(newspaper):1	1523(generous):1	2245(copy):1	4157(classical):1	
+0	
+
+<Author>Eventoff
+<Content>We felt at home at the Majestic My husband and I felt at home at the hotel. We stayed in the Willie Brown suite, and had relatives stop by for wine before we went out. The weather was warm, so didn't have the opportunity to use the lovely fireplace that turns on with the touch of a button.  The staff was very accomodating, and the location really worked for us. If you want to visit the city without the hassle, this hotel helps make traveling to S.F. stress free. I read some reviews prior to visiting the hotel, and our experience was far better than some of those opinions. The hotel was built in 1902, as a private residence, so it has charm and history. The bar and restaurant were not open when we were there, so we look forward to returning when they reopen, which we were told by management should be in three months or so.  
+<Date>Jan 13, 2006
+<Rating>5	5	5	-1	4	-1	4	-1	
+<Aspects>
+24	34(feel):2	41(city):1	46(free):1	65(visit):1	68(travel):1	87(lovely):1	92(help):1	105(husband):1	135(build):1	141(home):2	236(warm):1	279(touch):1	332(charm):1	385(weather):1	492(private):1	1193(hassle):1	1235(opportunity):1	1284(majestic):1	1490(history):1	1753(stress):1	1840(residence):1	2047(fireplace):1	2142(button):1	4159(s.f):1	
+9	0(staff):1	1(location):1	37(review):1	44(experience):1	65(visit):1	88(read):1	549(accomodate):1	637(prior):1	704(opinion):1	
+5	108(suite):1	122(stop):1	251(wine):1	1667(brown):1	2259(relative):1	
+0	
+0	
+0	
+9	10(restaurant):1	20(look):1	27(bar):1	39(return):1	69(tell):1	388(month):1	525(management):1	750(forward):1	5550(reopen):1	
+0	
+
+<Author>Mythos1978
+<Content>Not too impressed We stayed here as part of our honeymoon tour of California for 6 nights. I have to say I expected something better after reading the reviews here.We had booked a standard room, which smelt very musty and horrible and there was a disgusting stain on the carpet. I think for the charges they could afford a new carpet. In addition the canope bed sloped downhill towards your head! We asked to move after the first day and the response was less than impressive as there were no more rooms and we were told there was nothing left and good luck finding something else in SF! Anyway, we got moved to another room, which was a bit better, but was on the main road and was VERY NOISY. This hotel has ancient windows, so you can constantly hear traffic. We couldn't sleep without ear plugs!The breakfast here was also very mediocre. Stale bagels and not much choice.Needless to say, we could have booked a much nicer hotel for this price and enjoyed the final part of our stay in SF much more. In my opinion this hotel doesn't belong in the top ten most romantic hotels in the USA!  
+<Date>Nov 24, 2005
+<Rating>2	1	1	-1	3	-1	2	-1	
+<Aspects>
+8	37(review):1	62(expect):1	88(read):1	118(top):1	704(opinion):1	707(romantic):1	1474(usa):1	2927(belong):1	
+15	2(night):1	4(nice):1	18(book):1	19(price):1	51(enjoy):1	107(choice):1	181(tour):1	343(impress):1	502(honeymoon):1	802(sf):1	1337(final):1	1356(needless):1	1370(bagels):1	1656(california):1	2052(stale):1	
+38	8(day):1	11(bed):1	18(book):1	43(leave):1	52(bit):1	69(tell):1	104(sleep):1	112(main):1	119(window):1	130(standard):1	132(hear):1	136(charge):1	170(else):1	207(move):2	217(noisy):1	230(road):1	231(smell):1	319(head):1	396(carpet):2	417(anyway):1	486(traffic):1	544(horrible):1	723(stain):1	802(sf):1	918(addition):1	920(impressive):1	959(towards):1	995(constantly):1	1016(musty):1	1055(luck):1	1152(disgust):1	1174(plug):1	1330(response):1	1452(afford):1	1684(ear):1	2983(downhill):1	3356(ancient):1	4467(slope):1	
+0	
+0	
+0	
+2	6(breakfast):1	1340(mediocre):1	
+0	
+
+<Author>travelbug1011
+<Content>quintessentially San Fransisco We are from Australia and stayed at The Majestic for 3 nights. Booked a standard room but were offered an upgrade upon check in by the friendly staff. We booked The Majestic via the internet as it represented to us what San Fransisco is all about. The Majestic didn't fail to impress, the rooms were lovely, being a small boutique hotel the service was way above average(especially Tim the barman, he's THE BEST!) We have travelled extensively for the past 15 years within the USA so have experienced many, many hotels and motels in about 7 states, this was the most enjoyable stay we have experienced as the character and style of the Majestic is unique and relaxing. The free wine and hors'd'ouvres offered between 4 and 6pm in the lobby is a nice treat. Max the concierge is helpful and obliging. Pacific Heights is very handy to the city with cheap public transport in any direction. It is very quiet and away from the hustle and bustle of the noise of the city but close enough to walk to if your feeling enegetic. The hills are quite steep but take a bus for $1.50 if you dont feel like walking, your ticket lasts for 2 hours in any direction, very cheap and the buses come every couple of minutes. Great restaurants in Filmore and Bells Market is only one block away for freshly made food and supermarket supplies of any kind.  
+<Date>Oct 29, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+5	2(night):1	177(san):1	1284(majestic):1	1530(australia):1	5841(fransisco):1	
+12	44(experience):2	68(travel):1	160(relax):1	326(style):1	419(past):1	567(enjoyable):1	991(motel):1	1027(unique):1	1049(character):1	1284(majestic):1	1474(usa):1	2178(extensively):1	
+0	
+33	7(walk):2	9(service):1	28(close):1	29(minute):1	34(feel):2	41(city):2	58(quiet):1	60(hour):1	87(lovely):1	94(noise):1	99(couple):1	120(bus):2	126(especially):1	143(cheap):2	227(average):1	343(impress):1	379(public):1	395(direction):2	503(dont):1	621(ticket):1	623(boutique):1	742(transport):1	755(handy):1	756(hill):1	1060(steep):1	1107(bustle):1	1284(majestic):1	1503(hustle):1	1575(pacific):1	1576(fail):1	2279(height):1	3315(barman):1	5800(tim):1	
+0	
+11	0(staff):1	12(friendly):1	14(helpful):1	18(book):1	32(check):1	89(offer):1	130(standard):1	163(upgrade):1	204(concierge):1	2169(max):1	2709(oblige):1	
+23	4(nice):1	10(restaurant):1	16(food):1	18(book):1	46(free):1	55(lobby):1	89(offer):1	97(internet):1	100(bloc):1	177(san):1	251(wine):1	264(market):1	320(treat):1	512(via):1	801(bell):1	859(supply):1	1078(supermarket):1	1284(majestic):1	1775(freshly):1	2535(represent):1	3575(hor):1	5841(fransisco):1	7686(6pm):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Elegant but musty The staff was friendly and helpful. The afternoon wine and cookies at bedtime were a nice touch. I couldn't help but think I was staying at my grandmother's house. The musty odor (we were on the top floor) was reminescent of ancient but clean. All in all, we thought the location was great. Our friends that traveled with us were disappointed that a king size bed was not available. Our friends are a little on the heavy side, so this was an issue. We found it within comfortable walking distance to many places. They offer a complimentary taxi voucher for early mornings. We used ours to take us to the wharf to begin an early day. We enjoyed the stay.  
+<Date>Sep 11, 2005
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+9	8(day):1	23(little):1	51(enjoy):1	146(friend):1	265(issue):1	551(begin):1	784(wharf):1	843(ours):1	1186(heavy):1	
+0	
+22	3(clean):1	4(nice):1	11(bed):1	24(floor):1	68(travel):1	83(size):1	92(help):1	118(top):1	134(available):1	146(friend):1	154(disappoint):1	243(king):1	251(wine):1	279(touch):1	281(house):1	364(afternoon):1	1016(musty):1	1173(cookie):1	1628(odor):1	3356(ancient):1	5535(bedtime):1	5685(grandmother):1	
+9	1(location):1	7(walk):1	25(comfortable):1	56(morning):1	89(offer):1	115(distance):1	185(taxi):1	345(complimentary):1	1750(voucher):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	986(elegant):1	1016(musty):1	
+0	
+0	
+
+<Author>Speersy
+<Content>Good Value This is a decent hotel with very friendly staff. It is only a few blocks away from the cable car stop and so, although it is out of town a bit, it is not too much of a problem. The breakfast is very good - a help yourself affair of cereals, fruit and pastry's. We walked back from union square a couple of times and although it was a steep climb, no surprise in San Francisco, it certainly made you sleep well that night! We had no problems with noise and the rooms had a sort of olde worlde charm. Don't expect the last word in luxury and you will not be disappointed - you get what you pay for but all in all it IS very good value. I give it an excellent rating for its friendly and helpful staff, decent rooms for the price and a good breakfast.  
+<Date>Aug 16, 2005
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+6	52(bit):1	100(bloc):1	121(car):1	122(stop):1	239(town):1	484(cable):1	
+14	0(staff):2	6(breakfast):1	12(friendly):2	14(helpful):1	19(price):1	21(excellent):1	42(pay):1	62(expect):1	78(rate):1	81(value):2	154(disappoint):1	257(decent):2	437(luxury):1	571(word):1	
+23	2(night):1	5(time):1	6(breakfast):1	7(walk):1	92(help):1	94(noise):1	99(couple):1	104(sleep):1	139(square):1	177(san):1	199(surprise):1	215(fruit):1	332(charm):1	355(francisco):1	451(union):1	529(cereal):1	557(sort):1	576(yourself):1	652(pastry):1	1060(steep):1	1424(climb):1	3546(affair):1	10104(olde):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Not bad but... A quiet, clean, well-ventilated and temperature-controlled room with a bed that supports a good night鈥檚 sleep is what every hotel should deliver to its customers. Anything beyond that is luxury. The Hotel Majestic in San Francisco only partially delivers this. Street noise can at times be a major disturbance as there are no sound-proofed windows. And there are only king and queen beds but no twin beds. If you want to sleep separately, you will have to use the pull-out sofa bed which is so bad that you are better off just sleeping on the floor. The building is charming though, and the service effective, friendly and personal. The hotel is located in an attractive area with lots of shops and restaurants around. If you wish to spend a romantic night in SF which involves sharing a bed, then this is an acceptable choice at a competitive price.  
+<Date>Jun 18, 2005
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+7	177(san):1	355(francisco):1	437(luxury):1	631(deliver):1	738(beyond):1	1284(majestic):1	3500(partially):1	
+12	2(night):1	11(bed):1	19(price):1	64(spend):1	107(choice):1	384(wish):1	520(share):1	707(romantic):1	802(sf):1	1214(acceptable):1	1538(involve):1	3279(competitive):1	
+23	2(night):1	3(clean):1	5(time):1	11(bed):4	24(floor):1	35(street):1	50(bad):2	58(quiet):1	94(noise):1	104(sleep):3	119(window):1	243(king):1	315(major):1	428(customer):1	543(Queen):1	631(deliver):1	690(twin):1	842(sofa):1	2448(support):1	4042(separately):1	4602(disturbance):1	4797(pull-out):1	5689(sound-proofe):1	
+5	10(restaurant):1	38(lot):1	49(shop):1	84(locate):1	1154(attractive):1	
+0	
+0	
+6	9(service):1	12(friendly):1	135(build):1	332(charm):1	711(personal):1	2774(effective):1	
+0	
+
+<Author>dinnikate
+<Content>Majestic hotel We have just spent 5 days at this hotel, and thought it was excellent value.The staff were very helpful, breakfast was included in the very reasonable room rate, as were the complimentary evening cocktails.We walked or took the cable car into Union Square  every evening we walked a few blocks to Fillmore St,  chose somewhere to have dinner.We booked on the internet thru Expedia and our package included airfares from LA.The Hotel Majestic is an excellent choice for US  foreign tourists who want something other than a standard room with a hotel chain.  
+<Date>Apr 23, 2005
+<Rating>5	5	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+5	8(day):1	21(excellent):1	64(spend):1	81(value):1	1284(majestic):1	
+32	0(staff):1	6(breakfast):1	7(walk):2	14(helpful):1	18(book):1	21(excellent):1	71(include):2	78(rate):1	97(internet):1	100(bloc):1	107(choice):1	117(dinner):1	121(car):1	130(standard):1	139(square):1	167(choose):1	209(tourist):1	225(la):1	273(reasonable):1	345(complimentary):1	451(union):1	484(cable):1	527(package):1	627(chain):1	716(cocktail):1	940(St):1	1066(expedia):1	1231(thru):1	1284(majestic):1	2375(foreign):1	4256(airfare):1	7934(fillmore):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Hotel, Great Satff, Great Price! I stayed at the Majestic from 4/16-4/19 and was pleasantly pleased with everything the hotel had to offer. I was a bit worried about the location since I had read it was a bit off the beaten path. I can honestly say that after spending 4 days there, that I actually prefer the location over any other. The hotel is on a nice quiet street, about 10 blocks from noisy Union Square. I come from NY, so the last thing I want is to stay in a noisy overcrowded area. The Majestic is in relative walking distance from everywhere, but after a while you might want to take a cab to some tourist spots since walking so much gets a bit tiring after awhile.The rooms are small, but very clean and lovely. Many antiques with lots of Victorian touches. The staff was EXTREMELY helpful and nice. They took care of any requests that I had and customer service was there #1 priority.The free breakfast was great, a very nice touch with a good selection of fruit, pastries and cereals. This hotel is very romantic and for the price, it can't be beat. I paid $107 a night through Expedia and would come back here again.This was an A++++ stay.  
+<Date>Apr 20, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+11	38(lot):1	89(offer):1	173(please):1	217(noisy):1	279(touch):1	747(pleasantly):1	933(ny):1	1284(majestic):1	1936(antique):1	3058(overcrowd):1	4855(victorian):1	
+7	2(night):1	19(price):2	42(pay):1	442(beat):1	707(romantic):1	1066(expedia):1	10536(satff):1	
+9	3(clean):1	4(nice):1	35(street):1	58(quiet):1	87(lovely):1	100(bloc):1	139(square):1	217(noisy):1	451(union):1	
+20	1(location):2	7(walk):2	8(day):1	52(bit):3	64(spend):1	88(read):1	115(distance):1	180(actually):1	209(tourist):1	317(spot):1	380(cab):1	442(beat):1	454(tire):1	536(prefer):1	885(worried):1	1028(honestly):1	1284(majestic):1	1612(path):1	2259(relative):1	2755(awhile):1	
+0	
+9	0(staff):1	4(nice):1	9(service):1	14(helpful):1	110(extremely):1	148(request):1	242(care):1	428(customer):1	1985(priority):1	
+8	4(nice):1	6(breakfast):1	46(free):1	215(fruit):1	279(touch):1	333(selection):1	529(cereal):1	652(pastry):1	
+0	
+
+<Author>omegam87
+<Content>Excellent service Extremely helpful staff gave great tips about places to see and where to eat. The upgrade (standard to queen suite) upon check in was well worth it. Nice breakfast buffet. Appreciated how quiet the hotel was. Within easy walking distance to Filmore shopping and Japantown. Had a wonderful stay.  
+<Date>Mar 30, 2005
+<Rating>5	4	4	-1	4	-1	5	-1	
+<Aspects>
+1	48(wonderful):1	
+0	
+8	32(check):1	58(quiet):1	96(worth):1	108(suite):1	130(standard):1	163(upgrade):1	500(appreciate):1	543(Queen):1	
+5	7(walk):1	49(shop):1	93(easy):1	115(distance):1	7211(japantown):1	
+0	
+7	0(staff):1	9(service):1	14(helpful):1	21(excellent):1	47(eat):1	110(extremely):1	194(tip):1	
+3	4(nice):1	6(breakfast):1	77(buffet):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Oldy World Charm A bit of oldie world charm and great funAlmost like you've stepped into a time warp, the decor is definitely turn of the century (1900's) and the ambiance is somewhat similar, right down to the style of music playing very discreetly in the bar and breakfast roomWhilst the room decor looks a bit tired, the rooms and beds were spotless and couldn't be faulted. Beds were also firm and comfortableMore importantly the staff ever eager to help and responded to all requests for bookings etc.  
+<Date>Mar 22, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+24	5(time):1	6(breakfast):1	11(bed):1	20(look):1	27(bar):1	52(bit):2	59(definitely):1	269(decor):2	272(world):2	326(style):1	332(charm):2	366(step):1	386(play):1	398(music):1	454(tire):1	517(fault):1	548(spotless):1	651(somewhat):1	874(similar):1	957(ambience):1	2171(century):1	7470(warp):1	7980(discreetly):1	11273(oldie):1	
+0	
+0	
+10	0(staff):1	11(bed):1	73(etc):1	92(help):1	148(request):1	1368(firm):1	1587(respond):1	1604(eager):1	1996(importantly):1	2531(booking):1	
+0	
+0	
+
+<Author>TwoHavlesofCoconuts
+<Content>Depends on what you are looking for I was looking for a romantic hotel in SF that was away from the hustle and bustle but close enough so we could walk to places of interest. The Majestic did not disappoint. It is a very romantic hotel, old and grand in its history and decor. The service was very friendly and accommodating. If you don鈥檛 like to walk and don鈥檛 want to cab to places of interest, then the Majestic is not for you. If you want to fall in love, or are in love, and want to stroll hand in hand down SF streets on your way to Union Square or the Warf and then be able to retreat from the crowds, then let me recommend the Majestic. The only downsides of the Majestic are that the furnishings are a bit worn and the shower was disappointing. The former should be expected from such an old hotel and the later is only an issue if you like to take romantic showers with the one you love.  
+<Date>Mar 7, 2005
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+2	154(disappoint):1	1284(majestic):1	
+3	9(service):1	12(friendly):1	624(accommodate):1	
+28	15(recommend):1	35(street):1	40(love):3	52(bit):1	61(shower):2	62(expect):1	79(late):1	139(square):1	154(disappoint):1	171(able):1	265(issue):1	269(decor):1	313(crowd):1	365(grand):1	377(hand):2	434(wear):1	451(union):1	587(fall):1	707(romantic):2	782(downside):1	802(sf):1	870(furnishings):1	1056(stroll):1	1284(majestic):2	1490(history):1	2244(re-treat):1	2285(former):1	4453(warf):1	
+11	7(walk):2	20(look):2	28(close):1	380(cab):1	707(romantic):1	802(sf):1	908(don):2	969(depend):1	1107(bustle):1	1284(majestic):1	1503(hustle):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very nice, quiet location My husband and I stayed at the Majestic and found it to be a very nice  clean place to stay with alot of character. If you're looking for something different than the white boxy room with standard run of the mill motel decor, then you'll find it here, along with great prices and a very quiet location. The Majestic is a couple of blocks up the street from Japan Town, which if you're familiar with San Francisco, is a very quiet, peaceful  safe area. No panhandlers here. It's close enough to Fillmore Street shopping, and walkable to several area restaurants (if you don't mind a few block walk). The weekend we stayed, there was an above average continental breakfast, but if you want a full breakfast, there's the Cafe Mum or Denny's a couple of blocks away. The on-site restaurant advertised is closed, and hopefully they'll find someone to take it over before too long, as it would be a nice attribute.And if you're looking for a nice, quiet, uncrowded bar, there is a very small bar in the hotel called the Avalon, where they serve yummy huckleberry cosmos and lemon drops that are absolutely delicious. Perfect for a romantic drink for you and your date!! (Altho we went on Valentine's weekend and the bar was full, we've gone other weekends and it was less crowded)We've tried several small boutique and European hotels in SF, and the Majestic is one of our favorites. The cost is very reasonable, but don't book there if you want fancy smanchy. Our room was small but adequate, probably because we asked for the least expensive room. We'd definately stay there again, and probably get a suite next time.  
+<Date>Feb 15, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	5647(panhandler):1	
+7	18(book):1	124(expensive):1	175(cost):1	178(probably):1	273(reasonable):1	390(adequate):1	796(fancy):1	
+31	1(location):2	3(clean):1	4(nice):2	5(time):1	19(price):1	20(look):1	35(street):1	58(quiet):3	99(couple):1	100(bloc):1	105(husband):1	108(suite):1	130(standard):1	137(safe):1	149(run):1	177(san):1	178(probably):1	239(town):1	269(decor):1	355(francisco):1	410(definately):1	466(white):1	647(alot):1	991(motel):1	1036(peaceful):1	1049(character):1	1284(majestic):2	1900(japan):1	2081(familiar):1	4125(mill):1	12099(boxy):1	
+25	4(nice):1	7(walk):1	10(restaurant):2	27(bar):1	28(close):2	35(street):1	49(shop):1	100(bloc):1	172(weekend):2	253(tried):1	294(mind):1	313(crowd):1	376(favourite):1	582(european):1	623(boutique):1	802(sf):1	910(advertise):1	1284(majestic):1	1633(hopefully):1	2197(walkable):1	2484(on-site):1	3514(valentine):1	4280(attribute):1	5494(altho):1	7934(fillmore):1	
+0	
+0	
+26	4(nice):1	6(breakfast):2	20(look):1	27(bar):2	58(quiet):1	63(drink):1	67(call):1	74(perfect):1	99(couple):1	100(bloc):1	172(weekend):1	174(serve):1	189(absolutely):1	227(average):1	275(cafe):1	372(continental):1	485(delicious):1	511(date):1	662(drop):1	707(romantic):1	1798(yummy):1	2949(denny):1	3175(mum):1	3891(lemon):1	5794(uncrowded):1	11858(cosmos):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>disappointed you can't argue with the price in a very pricey city but be aware of a few things: 1) This hotel is NOT in Pacific Heights! 2) Quiet is an understatement - if this hotel were a person we would pronounce it dead. 3) you will have to drive EVERYWHERE - because the hotel is hell and gone from ANYWHERE 4) The small room is, well ... small. I couldn't blow dry my hair withhout hitting the door with my brush (don't you just hate that).All in all ... stay at the MAX.  
+<Date>Jan 24, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	2169(max):1	
+8	19(price):1	41(city):1	154(disappoint):1	546(pricey):1	832(aware):1	1575(pacific):1	1894(argue):1	2279(height):1	
+14	54(door):1	58(quiet):1	193(person):1	298(drive):1	729(hair):1	775(hit):1	1110(hate):1	1146(blow):1	1257(dry):1	1564(brush):1	1621(dead):1	1918(hell):1	4723(understatement):1	6289(pronounce):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Really enjoyed this one I really enjoyed staying at this hotel. I was very appreciative for the comments that everyone else left because the first thing I did when I got to the hotel was ask for a quiet room with a great hotel. I didn't get a fireplace that I read about nor did I get one of those nice bathtubs, but who cares? I wouldn't bathe in one of those anywhere except in my home! (I get grossed out fast by bacteria.) I ended up on the fifth floor with a great view of San Francisco.Staff: The staff was impeccable. Even the maids were nice and polite in a very traditional and professional way. The front desk help was friendly and even the man that delivered for room service was excellent and extremely professional. I liked him and made sure to tip him extra for his great service.Cleanliness: It was very clean, but I would give it 3 stars in this area because it didn't LOOK clean because the hotel is getting older. I'm sorry, but there was a big stain on the carpet in the room I was in. But I feel confident that everything WAS clean, it just looked a bit run down.Ambiance: The location is perfect because it is quiet and quaint and away from all the noise. The lobby is beautiful as is where breakfast is served (i had a wonderful wonderful time eating breakfast every morning, it was so relaxing and their free continental breakfast was more than adequate). The rooms themselves are very very nice, but old.... and getting a bit run down. But each room is different and another one I looked into did not look run down at all.I would stay here again for sure but next time I am going to get a suite, since they are SO much nicer. I loved my time here!  
+<Date>Jan 20, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+14	4(nice):1	5(time):1	40(love):1	51(enjoy):2	141(home):1	300(maid):1	337(except):1	422(polite):1	499(fast):1	501(professional):1	1241(traditional):1	1797(gross):1	1896(bathe):1	6502(bacterium):1	
+4	3(clean):2	20(look):1	103(star):1	854(cleanliness):1	
+30	1(location):1	4(nice):3	5(time):1	17(view):1	20(look):2	24(floor):1	43(leave):1	52(bit):1	58(quiet):2	74(perfect):1	88(read):1	94(noise):1	108(suite):1	149(run):2	170(else):1	177(san):1	242(care):1	355(francisco):1	356(comment):1	396(carpet):1	723(stain):1	891(sorry):1	957(ambience):1	970(nor):1	1023(bathtub):1	1059(themselves):1	1295(quaint):1	1832(fifth):1	2047(fireplace):1	3711(appreciative):1	
+0	
+6	3(clean):1	20(look):1	34(feel):1	52(bit):1	149(run):1	4052(confident):1	
+11	0(staff):2	9(service):1	12(friendly):1	21(excellent):1	31(front):1	36(desk):1	92(help):1	110(extremely):1	501(professional):1	631(deliver):1	1542(impeccable):1	
+15	5(time):1	6(breakfast):3	9(service):1	45(beautiful):1	46(free):1	47(eat):1	48(wonderful):2	55(lobby):1	56(morning):1	128(extra):1	160(relax):1	174(serve):1	194(tip):1	372(continental):1	390(adequate):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great hotel! This was our first stop on a trip up the coast. We loved it so much we stayed an extra day! The bartender is one of the best and breakfast is really good.  
+<Date>Jan 17, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	8(day):1	33(trip):1	40(love):1	122(stop):1	128(extra):1	1682(coast):1	
+0	
+0	
+0	
+0	
+0	
+2	6(breakfast):1	676(bartender):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great little hotel A bit out of the main tourist areas and better for it. Beautifully restored, clean and well-furnished, classy bar and dining room. Continental breakfast included. A bonus--high speed wireless Internet in the lobby and many of the rooms accessed by a per day payment or a short-term membership in an independent service.  
+<Date>Jan 13, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	23(little):1	52(bit):1	112(main):1	209(tourist):1	
+0	
+7	3(clean):1	27(bar):1	316(dine):1	771(beautifully):1	1488(classy):1	3238(restore):1	7415(well-furnish):1	
+0	
+0	
+0	
+3	6(breakfast):1	71(include):1	372(continental):1	
+12	8(day):1	9(service):1	55(lobby):1	97(internet):1	159(access):1	717(wireless):1	849(bonus):1	1170(speed):1	2645(payment):1	3670(membership):1	3860(independent):1	12012(short-term):1	
+
+<Author>A TripAdvisor Member
+<Content>Very Poor I'm sorry but I had real problems when I checked into this hotel. First of all they had promised me that I would have this beautiful room to surprise my wife with. Well she was surprised when she found out how small the room was. We also read that they had one of the nicest restaurants in San Francisco. Unfortunately, that has been closed for two years. The staff there seemed too busy planning for an outing that night than helping us with questions about the city. I'm really trying not to stay only bad things, but unfortunately the hotel is honestly not very good at any price.  
+<Date>Dec 1, 2004
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+5	19(price):1	50(bad):1	76(try):1	524(unfortunately):1	1028(honestly):1	
+4	45(beautiful):1	184(wife):1	199(surprise):2	975(promise):1	
+10	0(staff):1	2(night):1	28(close):1	41(city):1	92(help):1	220(busy):1	221(plan):1	394(question):1	524(unfortunately):1	4974(outing):1	
+0	
+4	32(check):1	240(real):1	331(poor):1	891(sorry):1	
+5	4(nice):1	10(restaurant):1	88(read):1	177(san):1	355(francisco):1	
+0	
+
+<Author>stelienka
+<Content>choose majestic if you want old-world elegance me and my boyfriend stayed at the majestic for two nights in august 2004 as the last stop of our california roadtrip. we loved it. the room was tiny but very cozy with a canopy bed that looked like one from a european castle (and boy was it comfy!). the room was 139 a night in high tourist season including breakfast - a slightly expanded continental which is the prevalent norm in california. the bathroom was very nice and the fluffy bathrobes were excellent. the so-called wine tasting hour with hors d'ouvres was an overstatement but we got an umbrella and great recommendations for dinner instead. it is two blocks from the cable car line - very convenient to all the touristy stuff. we would definitely stay there again - i would recommend it for a romantic getaway. if you plan to stay inside for most of the weekend, get a king size room or a suite - the queen ones are not up to american standards.  
+<Date>Nov 2, 2004
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+13	2(night):1	15(recommend):1	40(love):1	59(definitely):1	122(stop):1	167(choose):1	707(romantic):1	763(boyfriend):1	1089(getaway):1	1284(majestic):2	1656(california):1	2255(elegance):1	7435(old-world):1	
+0	
+33	2(night):1	4(nice):1	6(breakfast):1	11(bed):1	13(bathroom):1	20(look):1	21(excellent):1	71(include):1	83(size):1	108(suite):1	130(standard):1	172(weekend):1	209(tourist):1	221(plan):1	243(king):1	338(tiny):1	372(continental):1	408(inside):1	475(comfy):1	543(Queen):1	582(european):1	598(slightly):1	610(season):1	749(cozy):1	881(boy):1	1529(bathrobe):1	1656(california):1	1792(fluffy):1	1987(castle):1	2529(norm):1	3790(canopy):1	4508(expand):1	8308(prevalent):1	
+7	100(bloc):1	121(car):1	186(convenient):1	188(line):1	480(stuff):1	484(cable):1	1470(touristy):1	
+0	
+0	
+9	60(hour):1	117(dinner):1	251(wine):1	353(instead):1	439(taste):1	577(recommendation):1	1140(umbrella):1	3575(hor):1	3737(so-called):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Fantastic Stay We stayed at the Majetic from the 15th September - 22nd September and had a fantastic time. Room was great, staff were very friendly and helpful. Found the hotel a good location for many of the places we wanted to visit and was only a 15 minute walk to Union Square and only a 25 minute walk to Fisherman Wharf if you wanted to walk. Cookies on the bed at night were a real treat and we managed to get two packs a day! Next time we come back to San Francisco we will definitely stay there again.  
+<Date>Oct 25, 2004
+<Rating>5	4	5	-1	4	-1	4	-1	
+<Aspects>
+8	5(time):2	59(definitely):1	86(fantastic):2	177(san):1	355(francisco):1	972(september):2	4273(15th):1	6381(22nd):1	
+0	
+11	0(staff):1	2(night):1	8(day):1	11(bed):1	12(friendly):1	14(helpful):1	240(real):1	320(treat):1	645(manage):1	715(pack):1	1173(cookie):1	
+8	1(location):1	7(walk):3	29(minute):2	65(visit):1	139(square):1	451(union):1	784(wharf):1	1148(fisherman):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>San Francisco's best-kept secret The Majestic is a great hotel for the price. In the past in San Francisco, I've always stayed in the downtown area, which has meant choosing between cheap  awful or superb but costly. The Majestic is a bit out of the way (at Sutter  Gough), but it was a quick cab ride from everywhere. The rooms were spotless and beautifully decorated, the staff was excellent and knew its business, and the hotel even provided a nice complimentary breakfast in a sunny dining room every day. All this and it wasn't even expensive. From now on I'm definitely staying at the Majestic.  
+<Date>Sep 21, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	52(bit):1	59(definitely):1	218(ride):1	299(quick):1	380(cab):1	1284(majestic):2	5703(sutter):1	10036(gough):1	
+14	19(price):1	124(expensive):1	143(cheap):1	167(choose):1	177(san):2	246(mean):1	334(downtown):1	355(francisco):2	407(superb):1	419(past):1	736(awful):1	1127(secret):1	1284(majestic):1	3457(costly):1	
+13	0(staff):1	4(nice):1	6(breakfast):1	8(day):1	21(excellent):1	147(business):1	153(provide):1	305(decorate):1	316(dine):1	345(complimentary):1	548(spotless):1	771(beautifully):1	1700(sunny):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Beautiful...a little out of the way and possible mold in the bath The hotel was beautiful, the staff was pleasant and I was happy to be there. It is out of the way to go to the typical tourist attractions- you need to take public transit, which is manageable and not far away once you figure it out. If you want to walk out of your door and go to dinner, it's about 5 blocks to where they recommend restaurants although it's a quiet residential walk.A typical problem with old buildings is mold in the bathroom- that was the case in the first room that we stayed in. It had a canapy bed, exquisite wallpaper and mold in the tub. I asked at the front desk if they would clean it out and they were very apologetic and assurred me that it would be taken care of when I returned as I was on my way out. We came in late and went to bed and the next morning when I hopped in the shower the mold was still there. I went to the desk and after being sent to a replacement room that was ugly, off the staircase and dreary, I went back to the desk near tears. They explained that they couldn't upgrade me because they had only one suite left and gave me the choice of two other rooms. I chose one that was on the side of the hotel and didn't have much light, but did have a clean bathroom. It worked for us and I was happy with the switch.  
+<Date>Aug 11, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	155(happy):1	209(tourist):1	350(attraction):1	379(public):1	628(typical):1	779(figure):1	888(switch):1	2015(transit):1	4204(manageable):1	
+0	
+25	3(clean):1	11(bed):1	13(bathroom):2	36(desk):2	43(leave):1	56(morning):1	61(shower):1	79(late):1	102(near):1	107(choice):1	108(suite):1	157(light):1	163(upgrade):1	167(choose):1	447(send):1	628(typical):1	745(building):1	768(explain):1	1138(mold):2	1151(hop):1	1605(tear):1	1872(ugly):1	2119(staircase):1	2593(replacement):1	4133(dreary):1	
+5	11(bed):1	311(tub):1	1138(mold):1	2093(wallpaper):1	2751(exquisite):1	
+0	
+13	0(staff):1	3(clean):1	23(little):1	31(front):1	36(desk):1	39(return):1	45(beautiful):2	150(pleasant):1	155(happy):1	226(bath):1	242(care):1	1138(mold):1	2483(apologetic):1	
+8	7(walk):2	10(restaurant):1	15(recommend):1	54(door):1	58(quiet):1	100(bloc):1	117(dinner):1	1537(residential):1	
+0	
+
+<Author>hthcorp
+<Content>Step back in time  after reading reviews on trip advisor, we felt comfortable in choosing the majestic for our 2-night family stay in san francisco. what a great choice it was! a beautiful suite accommodated 2 adults and 3 kids with no problem. the attention to detail from the moment you entered the hotel was evident. we weren't in a hotel---we were home! the (included) breakfast was delicious and the staff could not have been more friendly. stay here! we can't wait to go back!  
+<Date>Jul 29, 2004
+<Rating>5	3	5	-1	5	-1	5	-1	
+<Aspects>
+20	5(time):1	25(comfortable):1	33(trip):1	34(feel):1	37(review):1	88(read):1	106(family):1	141(home):1	167(choose):1	177(san):1	355(francisco):1	366(step):1	592(detail):1	601(enter):1	670(moment):1	701(advisor):1	726(attention):1	1284(majestic):1	3278(evident):1	8243(2-night):1	
+1	107(choice):1	
+5	45(beautiful):1	108(suite):1	201(kid):1	556(adult):1	624(accommodate):1	
+0	
+0	
+6	0(staff):1	6(breakfast):1	12(friendly):1	71(include):1	85(wait):1	485(delicious):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Wonderful I stayed at The Majestic, after reading all the great reviews on TripAdvisor, on my first trip to San Francisco. This hotel was perfect. The staff was totally accomodating from the moment I made my reservation till I headed for the airport. Although the room was small, it was very cozy and romantic. The Majestic is also in a great location. The neighborhood is quiet enough that you can get some sleep and close enough to many attractions so you can make the most of your time in San Francisco. I would highly recommend The Majestic Hotel.  
+<Date>Jul 19, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	15(recommend):1	33(trip):1	37(review):1	48(wonderful):1	74(perfect):1	88(read):1	138(highly):1	177(san):1	355(francisco):1	597(tripadvisor):1	1284(majestic):2	
+0	
+10	5(time):1	28(close):1	58(quiet):1	104(sleep):1	177(san):1	350(attraction):1	355(francisco):1	421(neighbourhood):1	707(romantic):1	749(cozy):1	
+2	1(location):1	1284(majestic):1	
+0	
+8	0(staff):1	95(airport):1	156(reservation):1	319(head):1	549(accomodate):1	611(totally):1	670(moment):1	979(till):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Charming, Comfortable and Cozy I stayed at the Hotel Majestic for over 2 months while working in San Francisco. I stayed in one of their smaller rooms and was actually quite comfortable. I think that it would be a little cramped for two people, but it's great for one. It's not exactly service oriented but the people who work there are very friendly and will help when asked. The bar is charming.I think it's a great value in an overpriced city.  
+<Date>Jul 13, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	23(little):1	25(comfortable):1	26(people):1	177(san):1	332(charm):1	355(francisco):1	388(month):1	749(cozy):1	1080(cramp):1	1284(majestic):1	
+3	41(city):1	81(value):1	727(overprice):1	
+2	25(comfortable):1	180(actually):1	
+0	
+0	
+0	
+8	9(service):1	12(friendly):1	26(people):1	27(bar):1	92(help):1	332(charm):1	586(exactly):1	2385(orient):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Not That Great I was put in a tiny back room facing another building. The room was about 10x10. It was the smallest room I had ever seen. The bed took up half the room and the wall paper was all ripped up. I was expecting the most romantic hotel in SF and this was worse than staying at a motel 6. So, I called the front desk and they put me in an average size room with a fireplace. The fireplace barely even worked and the room smelled like gas. The only thing sort of romantic about that room is that they had a fancy headboard and a nice looking fireplace (even though it didnt work well and smelled like gas). And the window didnt open which made the smelly room even worse. I would not pay over $65 to stay at this hotel again. It was NOT ALL THAT.  
+<Date>Jul 2, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	50(bad):1	62(expect):1	707(romantic):1	802(sf):1	991(motel):1	
+1	42(pay):1	
+26	4(nice):1	11(bed):1	20(look):1	31(front):1	36(desk):1	50(bad):1	67(call):1	83(size):1	119(window):1	135(build):1	183(wall):1	227(average):1	231(smell):2	283(half):1	338(tiny):1	557(sort):1	626(didnt):2	707(romantic):1	776(paper):1	796(fancy):1	1020(barely):1	1182(rip):1	1697(smelly):1	2047(fireplace):3	2632(gas):2	3408(headboard):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>usa0508
+<Content>Super Preis-Leistungsverh盲ltnis!       Bad  
+<Date>Jun 10, 2008
+<Rating>4	4	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	50(bad):1	464(super):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

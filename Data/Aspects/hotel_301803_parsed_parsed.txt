@@ -1,0 +1,574 @@
+<Author>varunjsharma
+<Content>Good Business Hotel I found Sheraton Towers to be a good place for Business Meets and conferences. The rooms / architecture is quite old-world and is not half as modern as the Hyatt which is a few blocks away. The food is ok-ish, esp. for desis while the service is fantastic. I had a club room so had a great time, in the free-drinks hours in the evenings :)  
+<Date>Dec 22, 2008
+<Rating>4	4	4	5	5	5	4	5	
+<Aspects>
+0	
+0	
+6	100(bloc):1	151(modern):1	283(half):1	924(hyatt):1	1803(architecture):1	7435(old-world):1	
+5	147(business):2	196(meet):1	378(tower):1	794(conference):1	1013(sheraton):1	
+0	
+0	
+8	5(time):1	9(service):1	16(food):1	60(hour):1	86(fantastic):1	212(club):1	1003(evening):1	2624(esp):1	
+0	
+
+<Author>HKGJetsetter
+<Content>Musty damp smell !!! This is a terrible hotel. The only thing going for it was the Location. They need to revamp the whole place and change the smelly carpets. Upon entering the Lobby all you can smell is the musty smell that runs throughout the hotel into the rooms. Shower was pathetic, lack of toiletries provided. Was very disappointed. Its too old and for the price you pay its definitely not value for money. I expect alot more from a Sheraton property.  
+<Date>Nov 22, 2008
+<Rating>1	1	2	3	2	3	3	-1	
+<Aspects>
+2	154(disappoint):1	432(terrible):1	
+5	19(price):1	42(pay):1	59(definitely):1	80(money):1	81(value):1	
+15	55(lobby):1	61(shower):1	149(run):1	153(provide):1	161(change):1	231(smell):2	349(lack):1	396(carpet):1	445(throughout):1	601(enter):1	657(toiletry):1	1016(musty):1	1697(smelly):1	3704(pathetic):1	5500(revamp):1	
+1	1(location):1	
+3	231(smell):1	1016(musty):1	1640(damp):1	
+0	
+4	62(expect):1	214(property):1	647(alot):1	1013(sheraton):1	
+0	
+
+<Author>Saranghae
+<Content>No Complaint... Big and luxurious lobby. The deluxe room is big enough and very comfortable. The bathroom is big enough and luxurious. This hotel is worthy to be called a 5 star hotel. The location is also very strategic because only take about 3 minutes to walk to Newton MRT station and bus stop. No complaint...just very satisfied.  
+<Date>Oct 9, 2008
+<Rating>5	-1	5	5	5	5	5	5	
+<Aspects>
+2	190(complaint):1	899(satisfy):1	
+3	67(call):1	103(star):1	2923(worthy):1	
+4	13(bathroom):1	25(comfortable):1	648(deluxe):1	708(luxurious):1	
+9	1(location):1	7(walk):1	29(minute):1	82(station):1	120(bus):1	122(stop):1	2151(mrt):1	8320(newton):1	8427(strategic):1	
+0	
+0	
+3	55(lobby):1	190(complaint):1	708(luxurious):1	
+0	
+
+<Author>ShanghaiMac
+<Content>Going downhill quickly Stayed on business. Persuasive musty smell, stains on the carpet in the room, furniture / closet veneer peeling off - the management is simply not maintaining this hotel and at 5 star prices, its seriously over priced.They forgot to clean my room and then tried to blame me for leaving the privacy light on until I pointed out that they delivered the laundry. I will never stay here again. There is no shortage of nice hotels in Singapore so why waste your money and time on this dump?  
+<Date>Aug 25, 2008
+<Rating>1	1	1	3	1	1	1	-1	
+<Aspects>
+7	4(nice):1	5(time):1	80(money):1	928(waste):1	960(singapore):1	1449(dump):1	2930(shortage):1	
+0	
+23	3(clean):1	19(price):2	43(leave):1	103(star):1	157(light):1	231(smell):1	253(tried):1	396(carpet):1	397(forget):1	440(furniture):1	488(simply):1	525(management):1	562(maintain):1	565(closet):1	631(deliver):1	723(stain):1	1016(musty):1	1075(laundry):1	1183(privacy):1	1441(seriously):1	1887(peel):1	2219(blame):1	9728(veneer):1	
+3	147(business):1	471(quickly):1	2983(downhill):1	
+0	
+0	
+0	
+0	
+
+<Author>paris-eric
+<Content>a very convenient place After so many bad reviews on Tripadvisor, my partner and I were a little bit reluctant to stay at the Sheraton Singapore. We almost cancelled our booking. Eventually, we stayed three nights there and we have to admit that this is a good value for money place.First, it's very convenient, easily accessible from the airport, and very closed to a subway station (Newton). Then, if it's not the last fashionable crazy design boutique hotel you can see in many trendy magazines, this is a very confortable Sheraton hotel. Everything is very easy there. Rooms are OK, just what you need after a long trip from Europe. Ours was very quiet, facing the park on Scotts Road (rooms on the rear face a construction site that might be noisy). Not far from the hotel, there is a wonderful food hawker, with plenty of varieties of food, for a very affordable price. Just cross Scotts Road and go right before Newton Circus (5 min walk from the hotel)  
+<Date>Aug 24, 2008
+<Rating>4	4	4	5	4	4	4	4	
+<Aspects>
+11	23(little):1	37(review):1	50(bad):1	52(bit):1	93(easy):1	186(convenient):1	597(tripadvisor):1	960(singapore):1	1006(partner):1	1013(sheraton):1	3759(reluctant):1	
+12	2(night):1	16(food):2	19(price):1	48(wonderful):1	80(money):1	81(value):1	158(plenty):1	413(variety):1	1062(affordable):1	1204(eventually):1	1282(admit):1	4313(hawker):1	
+12	33(trip):1	58(quiet):1	66(park):1	123(ok):1	192(site):1	217(noisy):1	230(road):1	583(construction):1	700(europe):1	843(ours):1	2007(rear):1	7673(scotts):1	
+22	7(walk):1	28(close):1	82(station):1	95(airport):1	186(convenient):1	230(road):1	247(min):1	370(subway):1	438(easily):1	516(design):1	623(boutique):1	1013(sheraton):1	1228(cross):1	1259(crazy):1	1342(accessible):1	1413(trendy):1	2202(magazine):1	2435(confortable):1	3412(circus):1	5105(fashionable):1	7673(scotts):1	8320(newton):2	
+0	
+0	
+2	18(book):1	1065(cancel):1	
+0	
+
+<Author>hydepark
+<Content>Better than Expected         
+<Date>Aug 6, 2008
+<Rating>4	1	4	4	4	3	-1	-1	
+<Aspects>
+1	62(expect):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>KaiP
+<Content>Dated, overpriced, what shall I say... I stayed there in June 2008 for 4 nights. I have been to other fine hotels in Singapore, therefore I consider myself a bit spoiled... This hotel was truly a poor experience- the rooms are pretty dated, it smelled musty in the hallways as well as the room itself. Taking into account the pretty hefty price tag I would strongly recommend another place, unless you really need to stay in that location.  
+<Date>Aug 3, 2008
+<Rating>2	2	2	3	3	3	3	3	
+<Aspects>
+0	
+24	1(location):1	2(night):1	15(recommend):1	19(price):1	44(experience):1	52(bit):1	109(pretty):2	113(fine):1	231(smell):1	248(consider):1	331(poor):1	405(unless):1	476(truly):1	511(date):2	580(hallway):1	664(june):1	727(overprice):1	960(singapore):1	1016(musty):1	1221(spoil):1	1386(strongly):1	1730(account):1	2395(tag):1	4940(hefty):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>jaejaez
+<Content>Disappoints in Every Aspect Sheraton Towers Singapore (hereafter STS) is an aging property whose only chance of competing with its younger rivals is its level of service. Rooms are clean and serve their purpose but lacks in style and taste (a given for most hotels these days) with old TVs and plain furniture. The newly designed lobby is grandeur with marbles and smart lighting used to good effect, but still is unable to compete with the likes of the stylish Oriental or the magnificent Shangri-la (just to name two). The pool and the gym is also quite average and bland. The exterior of the hotel is the worst drawback, displaying a desperate need of a make-over. In all, the hotel is functional and will serve the basic needs but seriously lacks in tasteful touches. I once found a large, bulky and ugly looking air freshener placed right in front of the elevators in the hallway of my floor. Perhaps the ugliest sight I had ever seen from a (so-called) 5 star property.So what about service? I stayed here a few times and regret to say that the level of service has been poor every single time. The biggest flop was when I wanted to catch a taxi out at around 10:45PM and asked the doorman for help. To my shock, he showed resentment and told us that he was getting ready to go home as he finishes work at 11PM! Never before did I experience such nonsense. His tone of voice was also that of an uncle telling his nephew. In the end, I had to find my own cab 鈥?A revolting experience that I will never forget.Another mishap I experienced was when the check-in staff had no idea about the package I had booked. I once booked a romance-package that allows you a late checkout at 4 PM. When I was told that the check-out time was 12 PM, I enquired about my package but the staff had NO IDEA what I was talking about. After what felt like forever for her to search around her computer, I was told that the best she could do for me was a 2 PM check-out. Not wanting to spoil my romantic weekend, I forced myself to agree and went to my room. It was later that day when the front-desk called me to apologize and extended the check-out to 4 PM, which should have been the case from the very beginning.STS has to wake up and smell the coffee as Singapore is spoiled for good hotels with more in the pipeline. With no taste, poor service, only adequate amenities and doormen that scold guests for asking him to do his job, I would advise all to stay well clear. My only reason for having patronized Sheraton Towers Singapore was for it being one of the few Starwood properties in Singapore, but not even that will bring me back to this ugly building of disappointment ever again.  
+<Date>Jul 31, 2008
+<Rating>2	1	3	4	5	1	1	5	
+<Aspects>
+16	50(bad):1	69(tell):2	141(home):1	274(ready):1	772(finish):1	1206(shock):1	1344(drawback):1	1828(exterior):1	1917(display):1	2264(voice):1	2596(tone):1	2730(desperate):1	5656(uncle):1	5824(nephew):1	6840(11pm):1	9541(make-over):1	
+20	44(experience):2	103(star):1	135(build):1	142(bring):1	166(own):1	214(property):2	374(reason):1	378(tower):1	380(cab):1	397(forget):1	411(sight):1	866(disappointment):1	960(singapore):2	1013(sheraton):1	1872(ugly):2	1915(starwood):1	3737(so-called):1	5871(patronize):1	5955(nonsense):1	8305(revolt):1	
+39	3(clean):1	8(day):1	20(look):1	24(floor):1	31(front):1	55(lobby):1	157(light):1	164(air):1	172(weekend):1	174(serve):1	216(elevator):1	295(name):1	326(style):1	349(lack):1	439(taste):1	440(furniture):1	473(agree):1	516(design):1	580(hallway):1	705(marble):1	707(romantic):1	961(stylish):1	1189(newly):1	1221(spoil):1	1405(magnificent):1	1428(purpose):1	1461(unable):1	1546(plain):1	1550(force):1	1569(tvs):1	1616(Oriental):1	1687(smart):1	1872(ugly):1	2191(effect):1	3496(shangri-la):1	3941(compete):1	4101(freshener):1	5408(grandeur):1	9866(bulky):1	
+6	92(help):1	185(taxi):1	393(pm):1	540(catch):1	998(doorman):1	3680(flop):1	
+6	90(coffee):1	231(smell):1	554(wake):1	940(St):1	960(singapore):1	1221(spoil):1	
+25	0(staff):2	5(time):1	8(day):1	18(book):2	34(feel):1	44(experience):1	67(call):1	69(tell):2	79(late):2	286(check-in):1	359(allow):1	371(talk):1	393(pm):4	527(package):2	551(begin):1	555(computer):1	639(idea):2	658(checkout):4	1248(search):1	1303(extend):1	1485(apologize):1	1643(forever):1	1704(inquire):1	4633(front-desk):1	5650(mishap):1	
+36	5(time):2	9(service):4	22(pool):1	91(guest):1	154(disappoint):1	174(serve):1	214(property):1	227(average):1	279(touch):1	291(amenity):1	304(single):1	306(level):2	331(poor):2	349(lack):1	352(basic):1	378(tower):1	390(adequate):1	439(taste):1	481(job):1	505(age):1	523(gym):1	663(advise):1	689(chance):1	940(St):1	960(singapore):1	998(doorman):1	1013(sheraton):1	1255(aspect):1	1348(functional):1	1410(regret):1	1441(seriously):1	1819(bland):1	2122(tasteful):1	3941(compete):1	4559(rival):1	7941(scold):1	
+0	
+
+<Author>Godfried
+<Content>Conveniently located, excellent service Stayed here for 1 week beginning of July 2008. We stayed at the top floor.The hotel has got all it takes. Beautiful interior design, excellent service, conveniently located just beside the MRT station, at a short walk from Orchard Road and the Alliance Francaise. The breakfast buffet is as you would expect it in any upmarket hotel in Singapore: very copious, catering to all tastes and cultures.There are a few minor nuisances to mention:- The cornflakes at the breakfast buffet was quite flat and tasteless- The internet connection in the room is inconvenient - requires you to restart your computer several times before it works - and very expensive!- Don't go here for panoramic views: even from the top floor, all you see are cranes and construction sites. Then again, that's just Singapore I suppose.  
+<Date>Jul 20, 2008
+<Rating>5	4	4	5	4	4	4	2	
+<Aspects>
+2	620(suppose):1	960(singapore):1	
+0	
+7	17(view):1	24(floor):2	118(top):2	192(site):1	583(construction):1	3402(panoramic):1	5170(crane):1	
+16	7(walk):1	9(service):2	21(excellent):2	45(beautiful):1	75(week):1	82(station):1	84(locate):2	144(short):1	230(road):1	516(design):1	551(begin):1	1026(interior):1	1070(conveniently):2	1350(beside):1	1670(orchard):1	2151(mrt):1	
+0	
+0	
+9	6(breakfast):1	62(expect):1	77(buffet):1	439(taste):1	960(singapore):1	1000(cater):1	1497(culture):1	3373(upmarket):1	7880(copious):1	
+15	5(time):1	6(breakfast):1	77(buffet):1	97(internet):1	124(expensive):1	244(mention):1	535(flat):1	555(computer):1	720(minor):1	722(require):1	932(connection):1	2301(inconvenient):1	3817(tasteless):1	3973(nuisance):1	6300(cornflake):1	
+
+<Author>Elizabeth7
+<Content>Fine, a bit dated but very welcoming staff We stayed at this hotel for 1 night and found the staff very friendly and helpful.The room was fine a good size, comfortable bed (though not sweet sleeper) but generally the hotel was maybe a bit tired. The building works next door didn't seem to generate noise during our short stay (as with other review) but then we were there at a weekend.Overall it was an above average hotel.  
+<Date>Jul 18, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	37(review):1	54(door):1	70(overall):1	94(noise):1	135(build):1	144(short):1	172(weekend):1	227(average):1	6486(generate):1	
+0	
+9	11(bed):1	25(comfortable):1	52(bit):1	83(size):1	113(fine):1	308(maybe):1	454(tire):1	950(sweet):1	1299(sleeper):1	
+0	
+0	
+8	0(staff):2	2(night):1	12(friendly):1	14(helpful):1	52(bit):1	113(fine):1	202(welcome):1	511(date):1	
+0	
+0	
+
+<Author>JamesVki
+<Content>Nice, Great Staff       View From Window  
+<Date>Jul 14, 2008
+<Rating>4	4	3	3	5	5	4	3	
+<Aspects>
+0	
+0	
+4	0(staff):1	4(nice):1	17(view):1	119(window):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>flyboyden
+<Content>Bring your earplugs Major construction project right next door. They work 0700-2100 and the noise is terrible. They do not tell you this at check in. If you need to sleep between 0700-2100 choose another location.  
+<Date>Apr 22, 2008
+<Rating>2	2	3	5	3	3	3	3	
+<Aspects>
+8	54(door):1	94(noise):1	142(bring):1	315(major):1	432(terrible):1	583(construction):1	1771(earplugs):1	3326(project):1	
+0	
+3	1(location):1	104(sleep):1	167(choose):1	
+0	
+0	
+2	32(check):1	69(tell):1	
+0	
+0	
+
+<Author>rakibey
+<Content>Nice place       A Room  
+<Date>Apr 12, 2008
+<Rating>4	4	4	4	4	5	4	-1	
+<Aspects>
+0	
+0	
+1	4(nice):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Asiabugs
+<Content>a bit dated but with excellent service and thats what matters We stayed in this hotel for 3 nights stopping over in Singapore on a trip to the Middle and Far East. The rooms and public areas are getting a bit dated and are no longer any comparison to some of the new or more recently upgraded properties. But what did impress us was the very friendly and attentive service we experienced everywhere in the hotel, right from the minute we entered through to breakfast and maid service. Tis certainly did make the difference. With the convenient MRT station across the street you are minutes from anywhere on the island and I can recommend this hotel to anyone looking fo a convenient and friendly spot, whether for business or pleasure.  
+<Date>Apr 12, 2008
+<Rating>4	4	2	5	4	5	5	4	
+<Aspects>
+1	819(difference):1	
+0	
+7	52(bit):1	163(upgrade):1	214(property):1	322(recently):1	379(public):1	511(date):1	1525(comparison):1	
+13	12(friendly):1	15(recommend):1	20(look):1	29(minute):1	35(street):1	82(station):1	147(business):1	186(convenient):2	317(spot):1	342(island):1	907(pleasure):1	2151(mrt):1	4923(fo):1	
+0	
+0	
+20	2(night):1	6(breakfast):1	9(service):3	12(friendly):1	21(excellent):1	29(minute):1	33(trip):1	44(experience):1	52(bit):1	122(stop):1	300(maid):1	325(middle):1	343(impress):1	511(date):1	531(matter):1	537(attentive):1	601(enter):1	948(east):1	960(singapore):1	1198(thats):1	
+0	
+
+<Author>Proracer45
+<Content>construction going on....nuff said Just a heads up...if you are on business it will probably be o.k. But just be aware a new tower is probably 50% finished at this time. At the hotel pool, the noise during the day is pretty intolerable.Best of luck,Jim  
+<Date>Mar 17, 2008
+<Rating>3	3	3	3	3	4	5	4	
+<Aspects>
+7	8(day):1	22(pool):1	94(noise):1	109(pretty):1	1055(luck):1	5388(jim):1	7805(intolerable):1	
+0	
+9	5(time):1	147(business):1	178(probably):2	319(head):1	378(tower):1	583(construction):1	772(finish):1	832(aware):1	2540(o.k):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Platinum_Legion
+<Content>Abomination Just checked in this morning. I've trusted the SPG brand for years ... I'm now looking for an alternative.Hotel rooms are 80sSheraton Club floor is closed until April - maybe.Wired network in the room does not work(a wireless A/P is visible but not for use either)Cable came out of the handset of the phone when I tried to dial reception. When I arrived back at reception to report the problem with the phone I was asked why I hadn't telephoned down with the problem!!!Demolish it Starwood or get your name of the property!  
+<Date>Mar 3, 2008
+<Rating>1	1	1	4	1	3	3	1	
+<Aspects>
+5	20(look):1	883(brand):1	1298(alternative):1	1402(trust):1	4097(spg):1	
+4	214(property):1	295(name):1	1915(starwood):1	9019(demolish):1	
+13	24(floor):1	28(close):1	129(reception):1	212(club):1	253(tried):1	296(phone):1	308(maybe):1	484(cable):1	717(wireless):1	1904(wire):1	2662(visible):1	2937(network):1	3250(dial):1	
+0	
+0	
+7	32(check):1	53(arrive):1	56(morning):1	129(reception):1	296(phone):1	838(report):1	1692(telephone):1	
+0	
+0	
+
+<Author>ZMR
+<Content>Good service but disappointing rooms Hotel is in a decent location, though not too convenient if you wish to be near Orchard Rd. The services was excellent. Staff most helpful and went out of their way for all request.The rooms were extremely disappointing. Old furniture and very dusty. Definatly not worth the price or the star rating in terms of general look. Neads an overhaul  
+<Date>Mar 2, 2008
+<Rating>2	3	1	2	2	5	5	4	
+<Aspects>
+1	4053(overhaul):1	
+7	19(price):1	20(look):1	78(rate):1	96(worth):1	103(star):1	1011(term):1	2993(definatly):1	
+12	1(location):1	9(service):1	102(near):1	110(extremely):1	154(disappoint):2	186(convenient):1	257(decent):1	384(wish):1	440(furniture):1	1670(orchard):1	2796(dusty):1	3113(rd):1	
+0	
+0	
+3	0(staff):1	14(helpful):1	148(request):1	
+2	9(service):1	21(excellent):1	
+0	
+
+<Author>worldlyCanada
+<Content>Time for an Extreme Makeover Somebody at Sheraton needs to be held accountable for attaching the Sheraton name to this property, which is so in need of an extreme make-over, it is laughable. There is a retro feel to this place that would seem even dated for the likes of Austin Powers, complete with faded carpeting, laminate doors to the rooms, and a frumpines that makes the Raffles Hotel appear cutting edge in comparison. Unfortunately, management have appeared to try the soft make-over approach by updating bits and pieces here and there when what they need to do is face the truth: the grand old lady has seen her days and it's time to close her down and renovate 'big time'. For what this hotel is charging, its not even on the same page as other hotels in itsleague.  
+<Date>Feb 19, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+15	34(feel):1	54(door):1	396(carpet):1	511(date):1	541(appear):1	622(complete):1	873(cut):1	1190(edge):1	1276(power):1	1525(comparison):1	2456(raffle):1	3013(fade):1	4079(retro):1	6986(laminate):1	9300(austin):1	
+17	5(time):2	8(day):1	28(close):1	52(bit):1	76(try):1	365(grand):1	521(lady):1	524(unfortunately):1	525(management):1	533(renovate):1	541(appear):1	589(soft):1	725(update):1	941(piece):1	1378(approach):1	2558(truth):1	9541(make-over):1	
+0	
+2	136(charge):1	2414(page):1	
+11	5(time):1	214(property):1	295(name):1	593(hold):1	1013(sheraton):2	1224(attach):1	2656(extreme):2	3970(makeover):1	6412(laughable):1	9541(make-over):1	12828(accountable):1	
+0	
+
+<Author>Shaymur
+<Content>Convenient and nice hotel This hotel is located within a 10 minute walk of Orchard Road on Scotts Road. Check in and out was very efficient. The rooms are nice with a comfortable bed and good air conditioning though the hotel is a little old. Breakfast offers a good assortment of fruits, cereals, western and Asian style food but the seating area can be crowded during the week around 7:30 AM. An attendant dressed in white safari hat, white shorts, white shirt, white shoes, white socks and Sam Browne belt efficiently assists in catching a taxi. To catch an early flight, the attendant is also very helpful in scheduling a taxi for you. In rush hour, the hotel was about a 30 minute taxi ride from the airport, with minimal traffic the return trip was close to 20 minutes. My only complaints would be that the water temperature in the bath/shower was not real hot even when turned up to the maximum temperature; it was the same 3 days in a row and that the internet costs about $SGD30 per day. For a business traveler it is well situated close to the subway and the close walk to Orchard Row offers relaxation while walking around viewing shops and people.  
+<Date>Feb 2, 2008
+<Rating>4	4	4	5	5	4	-1	3	
+<Aspects>
+0	
+11	8(day):2	57(water):1	97(internet):1	114(hot):1	175(cost):1	190(complaint):1	226(bath):1	240(real):1	944(temperature):2	1638(row):1	3523(maximum):1	
+6	4(nice):1	11(bed):1	23(little):1	25(comfortable):1	164(air):1	263(condition):1	
+45	4(nice):1	7(walk):3	14(helpful):1	17(view):1	26(people):1	28(close):3	29(minute):3	33(trip):1	39(return):1	49(shop):1	60(hour):1	84(locate):1	89(offer):1	95(airport):1	144(short):1	147(business):1	185(taxi):3	186(convenient):1	218(ride):1	230(road):2	233(flight):1	267(traveler):1	370(subway):1	466(white):5	486(traffic):1	540(catch):2	574(situate):1	935(dress):1	1191(shoe):1	1196(schedule):1	1244(rush):1	1265(assist):1	1446(attendant):2	1615(minimal):1	1638(row):1	1662(relaxation):1	1670(orchard):2	1691(safari):1	1844(shirt):1	2175(hat):1	2461(efficiently):1	3259(sock):1	4748(belt):1	5454(sam):1	7673(scotts):1	
+0	
+2	32(check):1	401(efficient):1	
+12	6(breakfast):1	16(food):1	75(week):1	89(offer):1	215(fruit):1	313(crowd):1	326(style):1	504(seat):1	529(cereal):1	1015(western):1	1328(asian):1	2761(assortment):1	
+0	
+
+<Author>afra_martinas
+<Content>Quite up to par The hotel seemed adequate enough for a short stay and met all our expectations. Situated within a walking distance from Orchard Road, it nevertheless gives you a rest from the noise of the megapolis.  
+<Date>Jan 30, 2008
+<Rating>4	3	3	4	5	5	5	5	
+<Aspects>
+0	
+5	144(short):1	196(meet):1	390(adequate):1	431(expectation):1	1666(par):1	
+0	
+7	7(walk):1	94(noise):1	115(distance):1	230(road):1	288(rest):1	574(situate):1	1670(orchard):1	
+0	
+0	
+0	
+0	
+
+<Author>williwaw61
+<Content>Still Got It. I had completely forgotten about the Sheraton Towers in Singapore whenI needed a place to stay for the New Year holiday. My brother-in-law recommended it, and I was quite hesitant at first, thinking I preferred to stay at the Intercontinental instead. The architecture of the outside of the Sheraton Tower is rather dated, and has a distinct '70s appearance. But once I got into the lobby I completely changed my opinion. The space inside is magnificent; acres of marble, soaring ceilings, and a huge glass wall looking out onto a waterfall.Yes, it was also rather '70s in design, but it is very well maintained, and looks just as great as it did when I visited it the hotel back in the mid 1990's for a wedding dinner. This trip we stayed in one of their suites (the Cambridge on the17th floor), and found it to be very well appointed. Breakfast in the ground floor restaurant came with the room, and offered a nice spread that included local favorites as well as more exotic fare such as baked beans and roasted tomatoes (aka, The Full English). I highly recommend the basement Chinese restaurant Li Bai for Dim Sum. I'm always on the lookout for good Dim Sum, and this has to be mynew favorite in Singapore (also, check out the Dim Sum at Lei Gardenin Chijmes for another excellent offering). All-in-all, I think this fine hotel has been forgotten in Singapore's craze for all things that are new, and the Sheraton Towers will be onethat I will consider staying with in the future.  
+<Date>Jan 10, 2008
+<Rating>4	4	4	3	5	4	5	3	
+<Aspects>
+0	
+0	
+50	4(nice):1	6(breakfast):1	10(restaurant):1	20(look):1	24(floor):2	33(trip):1	71(include):1	89(offer):1	98(outside):1	108(suite):1	113(fine):1	133(huge):1	152(english):1	183(wall):1	195(local):1	210(space):1	223(holiday):1	248(consider):1	327(glass):1	376(favourite):1	378(tower):3	397(forget):2	408(inside):1	511(date):1	528(ceiling):1	542(completely):1	579(appoint):1	705(marble):1	706(grind):1	732(future):1	960(singapore):2	1013(sheraton):3	1112(fare):1	1203(spread):1	1405(magnificent):1	1803(architecture):1	2100(bake):1	2280(waterfall):1	2312(appearance):1	2550(bean):1	2877(roast):1	3079(exotic):1	3174(tomato):1	4114(cambridge):1	4430(distinct):1	5117(aka):1	5121(all-in-all):1	6326(acre):1	8669(soar):1	8819(70s):1	
+0	
+9	20(look):1	65(visit):1	117(dinner):1	250(yes):1	516(design):1	562(maintain):1	604(wed):1	1313(mid):1	8819(70s):1	
+10	21(excellent):1	32(check):1	89(offer):1	376(favourite):1	960(singapore):1	1651(sum):2	2048(dim):2	5053(leu):1	7741(lookout):1	12676(chijm):1	
+17	10(restaurant):1	15(recommend):2	55(lobby):1	138(highly):1	161(change):1	353(instead):1	536(prefer):1	542(completely):1	704(opinion):1	764(chinese):1	1568(basement):1	1606(intercontinental):1	1651(sum):1	2048(dim):1	2898(hesitant):1	7490(brother-in-law):1	11880(li):1	
+0	
+
+<Author>Kxi
+<Content>Not so great The Sheraton towers has good facilities, and the food in the restaurants are good. However expect small rooms. Both the bedroom and the bathroom are small and you can feel a cramped. The excutive room itself is clean, however the bed was not very comfy and the lighting was dim. If you like a cool room the aircon may keep you awake. I don't think this room is value for money.  
+<Date>Nov 26, 2007
+<Rating>3	4	4	3	4	3	3	3	
+<Aspects>
+0	
+2	80(money):1	81(value):1	
+13	3(clean):1	11(bed):1	13(bathroom):1	34(feel):1	62(expect):1	157(light):1	268(bedroom):1	278(cool):1	475(comfy):1	1080(cramp):1	1494(awake):1	2048(dim):1	2257(aircon):1	
+0	
+0	
+0	
+5	10(restaurant):1	16(food):1	211(facility):1	378(tower):1	1013(sheraton):1	
+0	
+
+<Author>ShaunScotland
+<Content>Not Worth the Money Having just recently stayed in 5 hotels in Sinagpore in 10days.I thought that $500 a night I had to pay would get me an exceptional room with breakfast. Instead I got a standard room which was smaller than anything else I had stayed in plus it looked like it had been decorated by my grandma. It had nice flower prints and no breakie.Got a bar bill added to my final account when asked to see it as I had not used the bar they could not find it. Eventualy the money was taken off me billThe only good things were the curtains blacked out the day giving me a good sleep and the pool was a nice size for getting some laps in. Would recommned staying in the Grand Copthorne Waterfront instead much nicer and cheaper.Also do not be taken in by the taxi mafia the white mercs out the front do not use meters and charge a fortune. So getting a normal meter taxi is hard as the door mafia do not allow them to wait outside.  
+<Date>Oct 25, 2007
+<Rating>3	3	2	3	4	3	3	-1	
+<Aspects>
+6	4(nice):1	80(money):1	96(worth):1	322(recently):1	778(flower):1	1101(print):1	
+10	2(night):1	4(nice):1	6(breakfast):1	42(pay):1	143(cheap):1	353(instead):1	365(grand):1	837(exceptional):1	1859(waterfront):1	10160(recommn):1	
+16	4(nice):1	8(day):1	20(look):1	22(pool):1	80(money):1	83(size):1	104(sleep):1	130(standard):1	170(else):1	203(plus):1	305(decorate):1	353(instead):1	743(curtain):1	1007(black):1	2432(lap):1	6238(grandma):1	
+12	31(front):1	54(door):1	85(wait):1	98(outside):1	136(charge):1	162(hard):1	185(taxi):2	359(allow):1	466(white):1	878(normal):1	1194(metre):2	2490(fortune):1	
+0	
+0	
+5	27(bar):2	351(add):1	495(bill):1	1337(final):1	1730(account):1	
+0	
+
+<Author>stephenpschan
+<Content>Good Hotel For Staying ... I recommend This hotel is to Sheraton International Standard that I stayed there quite some times. A fully equipped hotel with good service for business traveling. It is not a fair comment if someone saying it is not good.I recommend.Stephen, Hong Kong  
+<Date>Sep 29, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	5(time):1	15(recommend):2	130(standard):1	903(international):1	1013(sheraton):1	1121(kong):1	1123(hong):1	12135(stephen):1	
+0	
+2	356(comment):1	739(fair):1	
+4	9(service):1	68(travel):1	147(business):1	884(equip):1	
+0	
+0	
+0	
+0	
+
+<Author>olliwi
+<Content>Just for the points... I stayed at the Sheraton Towers for the last two weeks as I was on a two week business trip to Singapore.After reading the mostly bad reviews about this hotel I decided to book it anyway as I wanted to cross the 50 nights barrier in order to become a Starwood Platinum Preferred Guest again...I am afraid that mostly all of the bad comments about this hotel unfortunately are true. This hotel really doesn't deserve to call itself a Sheraton or be a member of the Starwood family.The design of the hotel's exterior and interior is somewhat 70s/80s like. The same can be said for the guestrooms. It might very well be possible that this hotel used to be ahead of its time some 20 to 30 years ago, but these days the design of the rooms is absolutely outdated and somewhat musty.I stayed on the 18th floor and had a Towers Executive room with free breakfast, 8 pieces of laundry per day and free local calls included at a rate of 410,- SGD.The gym is currently undergoing some renovation so that only a temporary facility can be used.Internet access in the rooms costs you 29,- SGD for 24 hours. (usually, on the executive floor you could expect this to be also included in the room rate).The choice of TV channels offered is very limited. Although you might have around 30 different channels, only a handful (Discovery, Star Movies, Star Sports and some others) are in English. An on-demand entertainment system is not existing.The hotel is located on Scotts Road and it is a 10 to 15 minute walk to Orchard Road. If you don't like walking in the hot and humid Singapore climate you could also take a cab, however, the doorman might also tell you that it is only a short walk and that exercise is good...There is really nothing positive to say about the rooms and the hotel design so you might think that the service could probably be great, but no way. During check out I had to wait for my invoice for around 30 minutes as all the costs that originally were included in my room rate had been added to my final invoice and I had to negotiate with the reception staff to take these items off.All in all, I have to say that the best part of my stay was the 10,000 points credit that I received on my Starwood accounts for spending a small fortune in a mediocre hotel. So, if you are also a point collector you might consider this hotel just for the points.  
+<Date>Sep 3, 2007
+<Rating>2	2	2	2	3	1	3	1	
+<Aspects>
+7	248(consider):1	516(design):1	651(somewhat):1	1026(interior):1	1828(exterior):1	8819(70s):1	9778(collector):1	
+18	64(spend):1	67(call):1	103(star):2	106(family):1	152(english):1	302(receive):1	659(credit):1	741(channel):1	919(sport):1	989(movie):1	1013(sheraton):1	1072(deserve):1	1340(mediocre):1	1730(account):1	1915(starwood):2	2490(fortune):1	3951(discovery):1	3966(handful):1	
+47	5(time):1	6(breakfast):1	7(walk):2	8(day):2	9(service):1	24(floor):2	33(trip):1	46(free):2	62(expect):1	67(call):1	69(tell):1	71(include):2	75(week):2	78(rate):2	89(offer):1	107(choice):1	114(hot):1	116(tv):1	144(short):1	147(business):1	178(probably):1	189(absolutely):1	195(local):1	378(tower):2	380(cab):1	399(usually):1	458(positive):1	510(limit):1	516(design):2	633(ago):1	651(somewhat):1	741(channel):1	872(executive):2	941(piece):1	960(singapore):2	976(ahead):1	998(doorman):1	1013(sheraton):1	1016(musty):1	1075(laundry):1	1459(exercise):1	1549(outdated):1	1825(humid):1	2213(18th):1	2704(climate):1	7315(guestrooms):1	7368(sgd):1	
+6	7(walk):1	29(minute):1	84(locate):1	230(road):2	1670(orchard):1	7673(scotts):1	
+0	
+14	0(staff):1	29(minute):1	32(check):1	71(include):1	78(rate):1	85(wait):1	129(reception):1	175(cost):1	351(add):1	519(item):1	1300(originally):1	1337(final):1	2397(negotiate):1	8361(invoice):2	
+22	2(night):1	18(book):1	37(review):1	50(bad):2	88(read):1	91(guest):1	211(facility):1	219(decide):1	356(comment):1	417(anyway):1	523(gym):1	524(unfortunately):1	536(prefer):1	687(renovation):1	1228(cross):1	1458(barrier):1	1544(afraid):1	1915(starwood):1	2006(currently):1	2086(undergo):1	2542(platinum):1	3770(temporary):1	
+8	60(hour):1	97(internet):1	159(access):1	175(cost):1	340(entertainment):1	518(system):1	2039(exist):1	7368(sgd):1	
+
+<Author>tongi
+<Content>Comfortable Stayed at the Sheraton Twrs for two weeks on business and found it comfortable and pleasant. The staff were very friendly and made a point of making me feel at home.The room was a good size for Singapore and well serviced.While the bar and dining areas are most pleasant and enhanced by water features and plants, there's not a lot of variety if one wants to use communal areas over a longer stay. The main dining room menu was OK, and the food was reliable. Love the juice lady at breakfast!The location is good - I preferred being a bit away from Orchard Road. Newton MRT station is a brief stroll away, and Newton Food Centre is most convenient for a quick and cheap meal.  
+<Date>Jul 30, 2007
+<Rating>4	3	4	4	5	3	5	2	
+<Aspects>
+0	
+11	16(food):1	82(station):1	101(center):1	143(cheap):1	186(convenient):1	213(meal):1	299(quick):1	1056(stroll):1	2036(brief):1	2151(mrt):1	8320(newton):2	
+9	9(service):1	16(food):1	83(size):1	112(main):1	123(ok):1	316(dine):1	423(menu):1	960(singapore):1	2416(reliable):1	
+10	1(location):1	25(comfortable):2	52(bit):1	75(week):1	147(business):1	150(pleasant):1	230(road):1	536(prefer):1	1013(sheraton):1	1670(orchard):1	
+0	
+4	0(staff):1	12(friendly):1	34(feel):1	141(home):1	
+14	6(breakfast):1	27(bar):1	38(lot):1	40(love):1	57(water):1	150(pleasant):1	316(dine):1	362(juice):1	413(variety):1	521(lady):1	731(feature):1	1906(plant):1	3249(communal):1	3489(enhance):1	
+0	
+
+<Author>Alena&Steve
+<Content>Economy option in central Singapore At US$149 a night for 2 with breakfast (booked through hotel.com) we did not have high expectations. The old, musty odour in the corridors thankfully did not carry over to the rooms which were comfortable enough. Drilling noise from refurbishments was annoying but stopped after 6pm. Gym was in temporary location due to refurbishments but at least there was exercise facilities available. The included breakfast was great and the concierge service was superb , staff going out of their way to find a suitable restaurant and make reservation for us . Location is not on Orchard but not far from it and the MRT station is close by.If looking for a value option in a central location this is a reasonable choice.  
+<Date>May 28, 2007
+<Rating>2	3	2	3	3	4	4	3	
+<Aspects>
+6	94(noise):1	122(stop):1	695(annoy):1	2253(refurbishment):1	3368(drill):1	7686(6pm):1	
+7	1(location):1	20(look):1	81(value):1	107(choice):1	168(central):1	273(reasonable):1	336(option):1	
+6	25(comfortable):1	824(carry):1	1016(musty):1	1073(corridor):1	1628(odor):1	1893(thankfully):1	
+12	1(location):2	28(close):1	82(station):1	134(available):1	211(facility):1	259(due):1	523(gym):1	1459(exercise):1	1670(orchard):1	2151(mrt):1	2253(refurbishment):1	3770(temporary):1	
+0	
+9	0(staff):1	6(breakfast):1	9(service):1	10(restaurant):1	71(include):1	156(reservation):1	204(concierge):1	407(superb):1	1967(suitable):1	
+9	2(night):1	6(breakfast):1	18(book):1	168(central):1	336(option):1	431(expectation):1	960(singapore):1	3319(economy):1	10330(hotel.com):1	
+0	
+
+<Author>afrisari
+<Content>Old hotel Plus side: close to the MRT Station, nice staff and pretty helpful which is a change. Breakfast is quite good.Negative side: the hotel is quite old, unfortunately located outside Orchard Road (though not that far but not convenient if you have a child). Will I go back again? Probably not. I'd rather chose closer to the Orchard Road either Marriot (yes quite expensive but you only a little bit more), so much closer to the main shopping places. Oh well Sheraton Singapore needs to upgrade its interior because this is not the same Sheraton as the other places that I've been.  
+<Date>Mar 16, 2007
+<Rating>3	3	2	2	3	4	4	3	
+<Aspects>
+1	178(probably):1	
+0	
+0	
+25	0(staff):1	4(nice):1	14(helpful):1	23(little):1	28(close):3	49(shop):1	52(bit):1	82(station):1	84(locate):1	98(outside):1	109(pretty):1	112(main):1	124(expensive):1	161(change):1	167(choose):1	186(convenient):1	203(plus):1	230(road):2	250(yes):1	277(child):1	282(negative):1	524(unfortunately):1	1670(orchard):2	2151(mrt):1	2472(marriot):1	
+0	
+0	
+1	6(breakfast):1	
+4	163(upgrade):1	960(singapore):1	1013(sheraton):2	1026(interior):1	
+
+<Author>RichRichRich
+<Content>A good hotel Stayed here for two nights on business.Location is great for shopping and sightseeing, since it is a few blocks from Orchard Road. It also has a metro stop right next door. It is also right next to the Newton Circus Hawker Center, which is a great place to get a good seafood meal cheap.If you're doing business downtown there are closer hotels, but nothing is very far away in a country this small. My business was at Suntec Center, so I had to take the metro and then walk through the usual underground shopping malls to get to work. The Ritz Carlton, Conrad, etc, are walking distance to Suntec but very expensive the days I needed them.This hotel is a bit old and dated, but the rooms were fine and the restaurants have good food (but I would eat at the hawker center for 1/10th the price!). I would definitely stay here again.The highlight of my stay was that the rate Amex got me included 8 pieces of laundry each day, and free drinks for happy hour! Yeah! That's what a business traveler needs!  
+<Date>Mar 14, 2007
+<Rating>4	4	4	4	4	5	4	4	
+<Aspects>
+5	54(door):1	59(definitely):1	122(stop):1	235(metro):1	2009(yeah):1	
+16	7(walk):1	8(day):1	73(etc):1	101(center):1	115(distance):1	124(expensive):1	143(cheap):1	213(meal):1	815(seafood):1	825(ritz):1	1518(carlton):1	3098(conrad):1	3412(circus):1	4313(hawker):1	5261(suntec):1	8320(newton):1	
+0	
+19	1(location):1	2(night):1	7(walk):1	28(close):1	49(shop):2	100(bloc):1	101(center):1	147(business):4	230(road):1	235(metro):1	267(traveler):1	334(downtown):1	530(country):1	640(sight-see):1	643(mall):1	682(usual):1	1085(underground):1	1670(orchard):1	5261(suntec):1	
+0	
+0	
+20	8(day):1	10(restaurant):1	16(food):1	19(price):1	46(free):1	47(eat):1	52(bit):1	60(hour):1	63(drink):1	71(include):1	78(rate):1	101(center):1	113(fine):1	155(happy):1	511(date):1	941(piece):1	1075(laundry):1	1141(highlight):1	4313(hawker):1	4663(amex):1	
+0	
+
+<Author>BMWBMW
+<Content>Nice hotel but single beds were too small Did not join membership until Jan 1, 2007.Stayed at the Sheraton Tower Singapore in April 2004 for 6 nights.Had a room with 2 single beds, no king size bed rooms left. The single beds were too small, one could easily roll onto the floor if in a deep sleep. Otherwise, a very nice hotel, great service with the butler.Location is steps away from a subway station. However, one subway stop to the main shopping area at Orchard Road. It was too hot to walk 2 km or so, especially first time in Singapore. It is for you to decide if that is a good location or not.  
+<Date>Jan 1, 2007
+<Rating>4	4	4	4	5	5	5	-1	
+<Aspects>
+0	
+0	
+18	2(night):1	4(nice):1	11(bed):4	24(floor):1	43(leave):1	83(size):1	104(sleep):1	243(king):1	304(single):3	378(tower):1	438(easily):1	813(roll):1	960(singapore):1	1013(sheraton):1	1043(deep):1	1290(join):1	1462(jan):1	3670(membership):1	
+15	1(location):2	5(time):1	7(walk):1	49(shop):1	82(station):1	112(main):1	114(hot):1	122(stop):1	126(especially):1	219(decide):1	230(road):1	366(step):1	370(subway):2	960(singapore):1	1670(orchard):1	
+0	
+0	
+4	4(nice):1	9(service):1	508(otherwise):1	2159(butler):1	
+0	
+
+<Author>KL_Sue
+<Content>There are better options in Singapore We were staying at this hotel using Asia Miles so had fairly low expectations. Rooms were clean and well maintained but the decor was very dated and old-fashioned. Bathrooms were quite small with shower over bath. Location is not bad - its just off Orchard Road, but Newton Circus MRT station is just two minutes walk away. If I was paying for the room, then I wouldn't stay here as there are better located and equiped hotels in Singapore for the same price. The swimming pool area and gym were being renovated so were not really useable during our stay. This is an ok hotel - you won't love it or hate it, and if you are doing lots if sightseeing in Singapore its fine as a base.  
+<Date>Dec 1, 2006
+<Rating>3	3	3	3	3	3	3	-1	
+<Aspects>
+0	
+11	19(price):1	42(pay):1	84(locate):1	336(option):1	431(expectation):1	462(fairly):1	513(low):1	692(mile):1	960(singapore):2	2108(asia):1	2976(equipe):1	
+8	3(clean):1	13(bathroom):1	61(shower):1	226(bath):1	269(decor):1	511(date):1	562(maintain):1	4201(old-fashioned):1	
+19	1(location):1	7(walk):1	29(minute):1	38(lot):1	40(love):1	50(bad):1	82(station):1	113(fine):1	123(ok):1	230(road):1	284(base):1	487(wo):1	640(sight-see):1	960(singapore):1	1110(hate):1	1670(orchard):1	2151(mrt):1	3412(circus):1	8320(newton):1	
+0	
+0	
+5	22(pool):1	261(swim):1	523(gym):1	533(renovate):1	8439(useable):1	
+0	
+
+<Author>dollygirl
+<Content>Dated and drab This hotel was not up to the usual Shearton standards. We had just stayed at the Sheraton Grande in Bangkok and thought this hotel would be on par with that..WRONG.It really is shabby...a real throwback from the 70's and very drab.The staff at check in were uninterested in us and just went through the motions.The rooms we booked were ok but again very drab, brown and dated. We didn't bother with breakfast as there are so many great places to eat in Singapore.It is near to the Newton metro and that is a great help as the hotel is a walk from the Orchard Road, although not to far but when it is very hot and humid it feels like miles. Don't get us started on the swimming pool area, granted it was in the middle of a building site as apartments/condo's or something is being built next door. The whole pool area is uninviting and clinical..and very very dated!!Would we stay here again..probably not! Sorry.  
+<Date>Oct 30, 2006
+<Rating>3	3	3	3	3	3	3	-1	
+<Aspects>
+17	22(pool):1	130(standard):1	178(probably):1	240(real):1	427(wrong):1	511(date):2	682(usual):1	891(sorry):1	1013(sheraton):1	1319(shabby):1	1666(par):1	3420(drab):2	3975(grande):1	4792(bangkok):1	6343(uninvite):1	7319(clinical):1	11285(throwback):1	
+8	22(pool):1	54(door):1	135(build):2	165(start):1	192(site):1	261(swim):1	325(middle):1	1690(grant):1	
+5	18(book):1	123(ok):1	511(date):1	1667(brown):1	3420(drab):1	
+11	7(walk):1	34(feel):1	92(help):1	102(near):1	114(hot):1	230(road):1	235(metro):1	692(mile):1	1670(orchard):1	1825(humid):1	8320(newton):1	
+0	
+4	0(staff):1	32(check):1	4186(motion):1	4817(uninterest):1	
+4	6(breakfast):1	47(eat):1	307(bother):1	960(singapore):1	
+0	
+
+<Author>MilesDependent
+<Content>By Singapore Standards... Pretty Bad I know Singapore hotels like the back of my hand. I have stayed dozens of times in Singapore, in just about every 5 star hotel on the island (and even Sentosa!). I am amazed that Sheraton Towers is so high on the popularity index. I have stayed here about 6 times over the past few years, and have always been disappointed. The only reason I stay here is that the sales staff are very slow at putting up their rates when big conferences are on, which means the Sheraton can be an absolute bargain when other nearby hotels triple their prices.There are two main problems:1. The rooms are small and antiquated by Singapore standards. They are not even in the same ball park as what is on offer at just about every other 5* hotel (e.g. Conrad, Grand Hyatt etc.). The bathroom is tiny and again very old. In all honesty, I have seen better rooms at a 3* Holiday Inn.2. The service is consistently poor, from the front desk, to the concierge, to the room service staff. They just do not care and it shows. The ony friendly person is the guy who opens the door, and he was only friendly to return-guests who he recognised. He completely ignored me when I said hello to him.The only thing the Sheraton does as good as the competition is its breakfast buffet which is out of this world.Overall, I am perplexed as to why people stay at this hotel. Particularly considering it is as expensive if not more expensive than much better nearby hotels. Even Starwood know it is not up to scratch - this hotel was booted out of Starwood's Luxury Collection a few years ago!If you want this area and a name-brand hotel - stay at the Grand Hyatt just down the road. I've stayed there many times, it's much better than the Sheraton.  
+<Date>Oct 14, 2006
+<Rating>1	2	2	4	5	2	2	4	
+<Aspects>
+26	5(time):2	12(friendly):2	26(people):1	50(bad):1	54(door):1	70(overall):1	109(pretty):1	112(main):1	130(standard):1	154(disappoint):1	193(person):1	230(road):1	242(care):1	365(grand):1	368(guy):1	377(hand):1	419(past):1	542(completely):1	924(hyatt):1	960(singapore):2	1013(sheraton):1	1215(ignore):1	1519(hello):1	2442(recognize):1	7309(perplex):1	10912(ony):1	
+27	0(staff):1	5(time):1	19(price):1	78(rate):1	103(star):1	124(expensive):2	232(nearby):2	246(mean):1	248(consider):1	342(island):1	374(reason):1	437(luxury):1	455(slow):1	553(particularly):1	633(ago):1	759(bargain):1	794(conference):1	960(singapore):1	1013(sheraton):1	1250(absolute):1	1553(triple):1	1723(sale):1	1874(dozen):1	1915(starwood):2	2613(scratch):1	2694(collection):1	7226(sentosa):1	
+13	13(bathroom):1	130(standard):1	145(amaze):1	223(holiday):1	324(inn):1	338(tiny):1	378(tower):1	960(singapore):1	1013(sheraton):1	4095(honesty):1	6586(popularity):1	6701(antiquated):1	12343(index):1	
+7	66(park):1	73(etc):1	89(offer):1	365(grand):1	924(hyatt):1	1685(ball):1	3098(conrad):1	
+0	
+7	0(staff):1	9(service):2	31(front):1	36(desk):1	204(concierge):1	331(poor):1	2249(consistently):1	
+5	6(breakfast):1	77(buffet):1	272(world):1	1013(sheraton):1	3161(competition):1	
+0	
+
+<Author>romadaro
+<Content>Never Again!!! My wife and I just returned from Singapore and stayed at the Sheraton for 4 nights for our 25th Anniversary. While the hotel is nice and within walking distance of all the great shopping and restaurants of Orchard Road, I was extremely disappointed in the service at this property. Although I was upgraded to a suite as a Platinum, this was the ONLY amenity I received (ie., no complimentary breakfast or even a morning newspaper, which I thought was standard!) However, when I checked in I was told that since I was paying a discounted rate, which I booked on the Starwood web site, I was not entitled to the normal amenities afforded Platinum members! I have stayed at Starwood properties all over the world and have never been told that you had to book a certain rate in order to get the standard amenties. Ironically, one evening my wife and I were on the elevator and I heard another guest complaining of the same thing. I have no idea what rate you have to book to get a newspaper, but you can be sure that they are losing more than the price of a newspaper by treating guests this way.  
+<Date>Jul 30, 2006
+<Rating>2	2	4	5	5	3	3	-1	
+<Aspects>
+0	
+21	2(night):1	18(book):1	32(check):1	39(return):1	42(pay):1	69(tell):1	78(rate):1	184(wife):1	192(site):1	291(amenity):1	804(anniversary):1	864(discount):1	878(normal):1	960(singapore):1	1013(sheraton):1	1019(web):1	1452(afford):1	1915(starwood):1	1943(25th):1	2542(platinum):1	3524(entitle):1	
+10	6(breakfast):1	56(morning):1	108(suite):1	130(standard):1	163(upgrade):1	291(amenity):1	302(receive):1	345(complimentary):1	1372(newspaper):1	2542(platinum):1	
+0	
+0	
+0	
+29	4(nice):1	7(walk):1	9(service):1	10(restaurant):1	18(book):2	19(price):1	49(shop):1	69(tell):1	78(rate):2	91(guest):2	110(extremely):1	115(distance):1	130(standard):1	132(hear):1	154(disappoint):1	184(wife):1	214(property):2	216(elevator):1	230(road):1	241(complain):1	272(world):1	320(treat):1	596(lose):1	639(idea):1	1372(newspaper):2	1670(orchard):1	1915(starwood):1	4529(amenty):1	6350(ironically):1	
+0	
+
+<Author>JOE8
+<Content>Impersonal staff The location of the hotel is excellent i.e. very close to the main shopping area of Orchard road.The rooms are okay nothing exceptional.The staff at the front desk was most impersonal i wanted some information regarding the reconfirmation of airline tickets and was treated in a very abrupt and rude manner.The only exception being the concierge who met everyone with a smile. The breakfast is very ordinary and after a couple of days becomes very boring. All said and done i wouldn't stay here again.  
+<Date>Jun 25, 2006
+<Rating>2	2	3	-1	4	-1	3	-1	
+<Aspects>
+0	
+0	
+2	453(okay):1	837(exceptional):1	
+9	0(staff):1	1(location):1	21(excellent):1	28(close):1	49(shop):1	112(main):1	230(road):1	1670(orchard):1	2754(impersonal):1	
+0	
+16	0(staff):1	31(front):1	36(desk):1	196(meet):1	204(concierge):1	320(treat):1	387(smile):1	392(rude):1	621(ticket):1	649(information):1	930(regard):1	1128(exception):1	1336(airline):1	1721(manner):1	2754(impersonal):1	4726(abrupt):1	
+5	6(breakfast):1	8(day):1	99(couple):1	1098(bore):1	2025(ordinary):1	
+0	
+
+<Author>alank1101
+<Content>Convenient but average. This hotel is very convenient to the main shopping and entertainment areas. Daily breakfast was ok, but limited in selections. After a couple of breakfast meals, eating gets quite mundane. Front desk personnel rarely greets you with your name or a smile. I think only the conciere was the friendliest. Front door personnel do not welcome you back from your days sightseeing, in fact no one welcomes you back. If you are a higher tiered starwood member, don't expect too much, maybe only the daily free breakfast. But if you just need a nice, convenient hotel and you can secure a good rate, then this sheraton will do. I prefer to be treated as a special guest. In singapore, I'd rather stay at the Shangri-la.  
+<Date>May 2, 2006
+<Rating>3	3	4	-1	4	-1	3	-1	
+<Aspects>
+13	4(nice):1	12(friendly):1	78(rate):1	91(guest):1	186(convenient):2	208(special):1	227(average):1	320(treat):1	536(prefer):1	960(singapore):1	1013(sheraton):1	1034(secure):1	3496(shangri-la):1	
+7	6(breakfast):1	46(free):1	62(expect):1	308(maybe):1	360(daily):1	1915(starwood):1	12572(tiered):1	
+0	
+10	8(day):1	31(front):1	49(shop):1	54(door):1	112(main):1	186(convenient):1	202(welcome):2	340(entertainment):1	640(sight-see):1	1457(personnel):1	
+0	
+7	31(front):1	36(desk):1	295(name):1	387(smile):1	415(greet):1	1457(personnel):1	1791(rarely):1	
+9	6(breakfast):2	47(eat):1	99(couple):1	123(ok):1	213(meal):1	333(selection):1	360(daily):1	510(limit):1	8829(mundane):1	
+0	
+
+<Author>DonegalGirly
+<Content>Nice Place!! Nice hotel. Nice location with just a short 1 min walk to Newton MRT station. Orchard road is 4 mins on the MRT so there is always plenty to do around there.Service in the place is very good especially from the inhouse staff and butlers on the executive floors.The rooms are fantastic and if you get a room facing the pool then you get a nice view across the north of the island.Also the apples in the bowl where you get the lift on the ground floor are fantastic!!!!!Shame about the maniac piano player in the bar in the evening time.. She plays like a cross between Schuman and Micheal Schumacher. If she only slowed down it would be enjoyable. She plays so fast that one in ten notes are off so it takes away from what she is trying to achieve. But a very nice place in a nice location with nice people.. What more could you want!!!!  
+<Date>Apr 28, 2006
+<Rating>4	5	5	-1	5	-1	5	-1	
+<Aspects>
+15	4(nice):2	76(try):1	158(plenty):1	230(road):1	247(min):1	297(note):1	386(play):2	455(slow):1	499(fast):1	567(enjoyable):1	1228(cross):1	1670(orchard):1	2151(mrt):1	5028(achieve):1	7474(micheal):1	
+0	
+17	0(staff):1	4(nice):1	9(service):1	17(view):1	22(pool):1	24(floor):2	86(fantastic):2	126(especially):1	342(island):1	591(lift):1	684(North):1	706(grind):1	872(executive):1	905(apple):1	1366(bowl):1	2159(butler):1	9145(inhouse):1	
+9	1(location):2	4(nice):4	7(walk):1	26(people):1	82(station):1	144(short):1	247(min):1	2151(mrt):1	8320(newton):1	
+0	
+0	
+6	5(time):1	27(bar):1	1076(player):1	1292(shame):1	2016(piano):1	11174(maniac):1	
+0	
+
+<Author>SpineyNorman
+<Content>Good average Sheraton I guess I had been a bit spoilt having stayed at the Shangri-La just a few days before. However this is a very good hotel although lacking in local character and you could be in any Sheraton in the world. Staff very helpful, well maintained and decorated rooms and good breakfasts - although nothing like as good as at the Shangri-La! The hotel is just a few steps from Newton SMT staton but with Singapore's cheap taxis - these are your best option unless you can't get one, which seems to happen sometimes when you're away from a hotel.  
+<Date>Apr 15, 2006
+<Rating>4	3	4	-1	4	-1	5	-1	
+<Aspects>
+11	8(day):1	52(bit):1	195(local):1	227(average):1	272(world):1	349(lack):1	469(guess):1	1013(sheraton):2	1049(character):1	1221(spoil):1	3496(shangri-la):1	
+0	
+6	0(staff):1	6(breakfast):1	14(helpful):1	305(decorate):1	562(maintain):1	3496(shangri-la):1	
+9	143(cheap):1	185(taxi):1	336(option):1	366(step):1	382(happen):1	405(unless):1	560(sometimes):1	960(singapore):1	8320(newton):1	
+0	
+0	
+0	
+0	
+
+<Author>AndrewD
+<Content>Great hotel, great location, can be a bit pricey All the other great reviews have it right. Only reservation is this hotel can be a little expensive at times.It is a little further from town than some - but that is great as little traffic noise, plus its only $1-$2 extra taxi fare - and its right next to the metro station. I always try to stay here if the rate is reasonable.  
+<Date>Apr 3, 2006
+<Rating>5	3	5	-1	5	-1	5	-1	
+<Aspects>
+3	76(try):1	78(rate):1	273(reasonable):1	
+8	1(location):1	5(time):1	23(little):1	37(review):1	52(bit):1	124(expensive):1	156(reservation):1	546(pricey):1	
+0	
+10	23(little):2	82(station):1	94(noise):1	128(extra):1	185(taxi):1	203(plus):1	235(metro):1	239(town):1	486(traffic):1	1112(fare):1	
+0	
+0	
+0	
+0	
+
+<Author>LiLxBeBe
+<Content>Awesome! Location:This hotel was really great! Its only one MRT stop away from ORchard road which is the big street expensive shopping. The MRT is right next to the hotel which was extremely convenient, although we got lazy at times and ended up taking a taxi.Service:We had our laundry done because we were traveling for a month and needed clean laundry. It was pricy about $5 USD for a shirt, but boy was it nicely done. You get it back at 6 pm sharp and its pressed. Food:We didn't try the food in the hotel because we wanted to try some of the authentic food around the areas. There is a big food court, I forgot what its called but the concierge and everyone working there can point it to you, its a nice 5 minute walk or you can get a taxi down there. The food is awesome! You have to try the chili crabs..mmmm...Room:the room was really nice and comfortable. It wasn't the biggest room I've seen but thats ok, it was roomy enough for 3 girls. I'd definately stay here again if I visited Singapore.  
+<Date>Mar 2, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+10	65(visit):1	76(try):1	348(awesome):1	393(pm):1	410(definately):1	960(singapore):1	1843(press):1	3193(crab):1	3469(sharp):1	4363(chilli):1	
+5	404(nicely):1	881(boy):1	1807(usd):1	1844(shirt):1	2959(pricy):1	
+7	4(nice):1	25(comfortable):1	123(ok):1	625(girl):1	1198(thats):1	1353(roomy):1	10698(mmmm):1	
+21	1(location):1	4(nice):1	5(time):1	7(walk):1	16(food):1	29(minute):1	35(street):1	49(shop):1	67(call):1	110(extremely):1	122(stop):1	124(expensive):1	185(taxi):2	186(convenient):1	204(concierge):1	230(road):1	397(forget):1	1068(court):1	1670(orchard):1	1786(lazy):1	2151(mrt):2	
+0	
+0	
+9	3(clean):1	9(service):1	16(food):4	68(travel):1	76(try):2	348(awesome):1	388(month):1	1075(laundry):2	1886(authentic):1	
+0	
+
+<Author>JulienF
+<Content>Un peu d茅莽u !       Ma chambre  
+<Date>Nov 26, 2008
+<Rating>3	3	2	4	4	3	-1	-1	
+<Aspects>
+3	2292(un):1	3867(chambre):1	3999(ma):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

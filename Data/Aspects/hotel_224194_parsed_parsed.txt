@@ -1,0 +1,490 @@
+<Author>jcasasnov
+<Content>Beautiful Hotel Very nice hotel. Very comfortable and spacious rooms. The employees were nice and excelent.I will go and stay again.  
+<Date>Mar 21, 2008
+<Rating>5	4	5	4	5	5	5	3	
+<Aspects>
+4	4(nice):2	45(beautiful):1	608(employee):1	3835(excelent):1	
+0	
+2	25(comfortable):1	111(spacious):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Key Traveler
+<Content>Fancy looking resort with a casual feel PROS:Rustic TropicalGood size roomClean sheets Comfortable bedGood size bathroomExcellent air conditioningBeautiful walking pathwaysBig pool with barRight on the beachPrivateInternet accessCONS:Service was at their pace but friendlyExpensive foodExtra Expensive cabsWe stayed at this resort for two nights in June 2007. We also stayed at the Condado Plaza Hotel  Casino. Martineau Bay is more tropical and less intrusive. A fancy looking villa resort with a casual feel. The lobby was big and the check-in was fine. We were shuttle to our room on a golf cart so we didn't have to walk. Although the rooms used keys we felt very safe. Something that can never be said of keys for most hotels. The room was wonderful and welcoming. The decor was beautifully stated with tile floors. The tub was big enough for two! The shower was tiled from top to bottom with no door. Very romantic bathroom for honeymooners. But I was there with my teenage daughter which was still fine. Mainly because you are hidden slightly while you shower. If that is not private enough you can simply close and lock the bathroom door. The toilet has it's own door in the bathroom but mind that privacy is only a breezy shutter door to cover you. With double sinks and lots of toiletries, all in all, the bathroom was a vacation favorite. The patio is small but very pretty with outdoor table and chairs. The walkways from all the villas lead to the pool and are lit at night. The pool was no deeper than 4 feet and very roomy. A swim up bar leads up to a large hut which sits between the pool and the patio deck for eating. The view of the ocean can be seen from both the patio and the pool while swimming. To go to the beach you simply walk down some steps and beach lounges are there on the beach. The water of course is warm. To go off the resort beware of the taxi prices. With that said we highly recomend eating at the affordable Richard's. The place is quaint and we didn't hold alot of expectation being that the name was American. Even though we live in MD and love our American food, we are also Puerto Ricans and know out stuff. Were we surprised. This place serves freshly made athentic Puerto Rican food. So, we ordered a ton of food with cocktails and left very happy. We had the taxi take us to a local mini mart and grabbed orange juice and little prepacked muffins (breakfast), chips, Coke, and Bacardi (snacks) to take back to our room. We then got prepared with our swim suits for the Bio- Bay tour. Amazing, amazing, amazing. Just go! Definitely get in the water. Don't hold back. The bus ride there and back was hilarious. It is the roughest and fastest ride you will experience. We couldn't stop laughing thru the whip lash. If you have no sense of humor and are tightly wound, this bus ride is not for you. Later that night we went with our snacks to the pool, meeting our other friends staying at the Resort. No one was around after 10 o'clock but the pool and patio stays lit. We grabbed wine glases from the pool bar, fixed our rum  cokes, crunched on chips, lounged and talked for hours. The highlight that night was floating on our backs with up lights on the plam trees sourrounding the pool and the stars that took our breathe away. On check-out day we did indeed order food and cocktails from the Resort's pool hut. It was very expensive and we only did it once. It was good and the view from the patio deck was gorgeous to go with it. Book this resort thru the hotel directly.  
+<Date>Jan 21, 2008
+<Rating>5	4	5	5	5	4	5	5	
+<Aspects>
+35	17(view):1	20(look):1	34(feel):1	47(eat):1	57(water):2	59(definitely):1	72(resort):1	113(fine):1	122(stop):1	138(highly):1	145(amaze):3	199(surprise):1	236(warm):1	293(course):1	311(tub):1	339(key):1	446(gorgeous):1	467(daughter):1	593(hold):1	671(bay):1	712(villa):1	796(fancy):1	812(tropical):1	973(patio):1	1062(affordable):1	1231(thru):1	1245(laugh):1	1406(deck):1	1420(recomend):1	1837(teen-age):1	1981(casual):1	2908(intrusive):1	4684(richard):1	6248(whip):1	11342(martineau):1	
+18	2(night):1	22(pool):1	44(experience):1	103(star):1	124(expensive):1	157(light):1	218(ride):1	295(name):1	431(expectation):1	499(fast):1	593(hold):1	647(alot):1	828(tree):1	1047(rough):1	1141(highlight):1	1295(quaint):1	1630(float):1	3873(breathe):1	
+72	2(night):2	7(walk):1	9(service):1	13(bathroom):4	20(look):1	22(pool):4	24(floor):1	25(comfortable):1	28(close):1	34(feel):2	38(lot):1	48(wonderful):1	54(door):4	61(shower):2	72(resort):2	83(size):2	109(pretty):1	118(top):1	124(expensive):1	131(vacation):1	137(safe):1	157(light):2	164(air):1	166(own):1	179(double):1	181(tour):1	198(chair):1	202(welcome):1	229(table):1	261(swim):1	269(decor):1	294(mind):1	330(toilet):1	339(key):1	376(favourite):1	402(foot):1	460(prepare):1	479(sheet):1	488(simply):1	492(private):1	509(sink):1	552(cover):1	598(slightly):1	657(toiletry):1	664(june):1	671(bay):1	707(romantic):1	712(villa):1	771(beautifully):1	774(lock):1	796(fancy):1	846(tile):2	850(bottom):1	861(suit):1	901(outdoor):1	922(lead):1	973(patio):2	1043(deep):1	1177(mainly):1	1183(privacy):1	1195(hide):1	1249(pro):1	1353(roomy):1	1748(walkway):1	1981(casual):1	2291(pace):1	2500(shutter):1	2781(honeymooner):1	3898(o'clock):1	4645(rustic):1	5058(breezy):1	6664(bio):1	
+22	7(walk):2	19(price):1	30(beach):3	72(resort):1	120(bus):2	185(taxi):1	218(ride):2	237(lounge):1	321(shuttle):1	366(step):1	488(simply):1	515(plaza):1	538(casino):1	737(beware):1	1012(golf):1	1102(sense):1	1168(wind):1	1322(cart):1	1934(condado):1	3169(humor):1	3771(hilarious):1	6908(tightly):1	
+0	
+11	8(day):1	16(food):1	22(pool):1	55(lobby):1	72(resort):1	113(fine):1	286(check-in):1	658(checkout):1	716(cocktail):1	990(indeed):1	1236(hut):1	
+54	2(night):1	6(breakfast):1	16(food):3	17(view):1	18(book):1	22(pool):4	23(little):1	27(bar):2	40(love):1	43(leave):1	47(eat):1	60(hour):1	72(resort):2	79(late):1	146(friend):1	155(happy):1	169(sit):1	174(serve):1	185(taxi):1	195(local):1	196(meet):1	205(ocean):1	206(live):1	237(lounge):1	251(wine):1	261(swim):2	362(juice):1	371(talk):1	383(directly):1	406(snack):2	448(mini):1	480(stuff):1	494(fix):1	716(cocktail):1	915(puerto):2	922(lead):1	967(ton):1	973(patio):2	1084(rum):1	1104(orange):1	1139(grab):2	1231(thru):1	1236(hut):1	1260(muffin):1	1302(chip):2	1406(deck):1	1672(coke):2	1775(freshly):1	2859(rican):1	4718(bacardi):1	5314(mart):1	8787(ricans):1	9544(md):1	9701(crunch):1	
+0	
+
+<Author>jtechyjenny
+<Content>Best Hotel on the strip I went to Puerto Rico Memorial weekend with a large group. I had friends staying in different hotels on teh strip and by far this was the best. Beach - amazingPools - They have the best private pools Food - Great Room Service expensive - Late dinner for 3 people was $145 and we had the sample appetizers and desert.They have 2 clubs in the main floor. The DJ's  Guest where with our group so I cant speak of the atmosphere on a regular nightEating out - Service as in most islands is very slow, super slow specially in the busy season, plan ahead. Even fast food isnt fast.  
+<Date>Aug 17, 2007
+<Rating>5	5	5	5	5	3	4	-1	
+<Aspects>
+7	146(friend):1	172(weekend):1	915(puerto):1	1131(rico):1	1379(strip):2	2548(memorial):1	3655(teh):1	
+0	
+3	24(floor):1	112(main):1	212(club):1	
+0	
+0	
+0	
+28	9(service):2	16(food):2	22(pool):1	26(people):1	30(beach):1	79(late):1	91(guest):1	117(dinner):1	124(expensive):1	126(especially):1	127(speak):1	220(busy):1	221(plan):1	342(island):1	414(atmosphere):1	455(slow):2	464(super):1	492(private):1	499(fast):2	610(season):1	744(regular):1	976(ahead):1	1145(cant):1	1597(appetizer):1	1706(desert):1	1960(sample):1	2377(isnt):1	3611(dj):1	
+0	
+
+<Author>SCPride
+<Content>Vieques is GREAT! Martineau Bay's Service is average at best My husband and I decided to go to Vieques for our 10 year anniversary March 2nd -6th. I loved the write up that Forbes had on the island and we have had great luck going to some of these up and coming island locations before they are swarming with tourists. I have to say that Vieques lived up to everything we had hoped for and more. We rented a Jeep weeks before we got to the island and spent everyday touring new beaches and visiting the two small towns on the island. We went to the Bioluminescent Bay tour (offered by a tour guide off of the resort) and it was AMAZING! My husband and I are not the kind of people to go out of our way for recommended nature tours, but this was by far one of the incredible things to experience on the island ----the motorized boat was broken so we took canoes and it was VERY EASY! I am far from an athlete and my husband and I did just fine. In regards to Martineau Bay - we were fine with the accomodations, I like older european style hotels so it fit well with my taste. However, the staff at the restaurant was HORRIBLE! Yes, HORRIBLE! There was not a day that we had a pleasant experience. Even on the buffet evenings the server did not approach us timely for drink orders ---not acceptable. When we did order from the menu it took close to two hours for us to wait for the meal and then complete the dinner. Breakfast was not much better and we are early risers --the server only had one or two other couples to watch over. With that being said, the rest of the hotel staff was very friendly and accomodating. When they tell you not to leave ANYTHING in your cars, please listen. We left a pair of worn out, soaked tennis shoes and a baseball cap in our rented, unlocked Jeep and the next morning both items had been stolen from our Jeep. The hotel security was more than apologetic. They were generally nice and extremely embarassed and everyday came to give us an update as to what they had done to make the parking lot more safe. The housekeeping staff was also very friendly, but of course room service was horrible --we should have known better after our other experiences with the hotel restaurant. It is sad to see that they are tearing down the entire complex to make room for a new modern style W hotel. The traditional appeal is what makes this island so attractive and personally, I think the last thing that little island needs is a golf course. Oh well, Starwood Hotels is obviously dumping a lot of money into the new property so I am sure they are hoping the new spa and golf course go over very well. If you are trying to decide on going to Vieques I absolutely recommend it! Martineau Bay has several private homes beside the resort for rent and that is a WONDERFUL option. The houses are GORGEOUS and most have their own private pools with a short walk to all of the resort amenities.  
+<Date>Aug 1, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+33	15(recommend):1	23(little):1	43(leave):1	48(wonderful):1	69(tell):1	72(resort):1	76(try):1	105(husband):1	113(fine):1	121(car):1	141(home):1	173(please):1	189(absolutely):1	206(live):1	219(decide):1	250(yes):1	293(course):1	328(hope):1	336(option):1	342(island):2	492(private):1	544(horrible):1	671(bay):1	997(listen):1	1012(golf):1	1030(rend):1	1052(personally):1	1154(attractive):1	1241(traditional):1	1350(beside):1	1679(appeal):1	3485(vieques):3	11342(martineau):1	
+46	0(staff):1	8(day):1	9(service):1	12(friendly):1	15(recommend):1	26(people):1	38(lot):1	44(experience):2	80(money):1	93(easy):1	105(husband):2	113(fine):1	150(pleasant):1	181(tour):1	214(property):1	219(decide):1	227(average):1	228(break):1	288(rest):1	293(course):1	314(spa):1	326(style):1	328(hope):1	342(island):1	439(taste):1	549(accomodate):1	582(european):1	615(march):1	668(fit):1	671(bay):2	674(boat):1	718(incredible):1	780(accomodation):1	781(obviously):1	804(anniversary):1	930(regard):1	1012(golf):1	1326(2nd):1	1449(dump):1	1915(starwood):1	1986(nature):1	2505(th):1	3485(vieques):1	4162(motorize):1	5432(canoe):1	11342(martineau):2	
+39	0(staff):1	7(walk):1	9(service):1	10(restaurant):1	12(friendly):1	22(pool):1	43(leave):1	44(experience):1	56(morning):1	72(resort):1	144(short):1	151(modern):1	166(own):1	281(house):1	291(amenity):1	293(course):1	326(style):1	329(entire):1	367(housekeeping):1	434(wear):1	446(gorgeous):1	492(private):1	519(item):1	544(horrible):1	641(security):1	1074(complex):1	1097(rent):1	1187(steal):1	1191(shoe):1	1454(sad):1	1468(soak):1	1605(tear):1	1734(tennis):1	2207(pair):1	2270(cap):1	2483(apologetic):1	3120(baseball):1	3599(unlock):1	3840(jeep):2	
+23	1(location):1	28(close):1	30(beach):1	40(love):1	60(hour):1	64(spend):1	65(visit):1	75(week):1	85(wait):1	117(dinner):1	181(tour):1	209(tourist):1	213(meal):1	239(town):1	342(island):4	344(write):1	423(menu):1	605(everyday):1	622(complete):1	1055(luck):1	1097(rent):1	3840(jeep):1	4545(swarm):1	
+0	
+10	0(staff):1	10(restaurant):1	72(resort):1	89(offer):1	145(amaze):1	181(tour):2	544(horrible):1	671(bay):1	829(guide):1	6626(bioluminescent):1	
+19	4(nice):1	6(breakfast):1	38(lot):1	63(drink):1	66(park):1	77(buffet):1	99(couple):1	110(extremely):1	137(safe):1	245(watch):1	605(everyday):1	725(update):1	1003(evening):1	1214(acceptable):1	1378(approach):1	1540(server):2	3159(timely):1	3607(riser):1	6207(embarass):1	
+0	
+
+<Author>LROD524
+<Content>The best place on earth I have just returned from a 4 day stay at this magnificent resort. The hotel is well kept. I stayed in the ocean view room and it was nice and spacious. The resort is more of a family resort. I was there with my husband and didnt mind it too much since we didnt spend too much time there, but if you are single or just a couple and are looking for a quiet adult place, this may not be for you. We rented our jeep from Martineau Jeep rental which is a 5 minute walk from the hotel, but if you call them they will pick you up. The people in Vieques were very nice and helpful when we asked for directions or places to eat. My favorite place to eat was Tobasio, Richards cafe and for breakfast I went to the Vieques bakery. I found UVA restaurant to be very pricey, not what i was looking for and for those prices I would rather eat anywhere in NYC. My favorite beach was Red beach, I went with my husband and it seemed like we were the only two people there. Now let me just tell you if you decide not to take the Ferry, please do not take Air Sunshine, they left me at San Juan airport and I had to pay extra to get on the next flight and then my flight back to San Juan was delayed about 3 hours plus I had to be there 1 1/2 before the flight. They kept lying to me and telling me that there was a delay in San Juan, but Air Vieques did not have problems flying in and out of San Juan. Use Air Vieques if you decide to fly there.  
+<Date>Jul 31, 2007
+<Rating>4	3	5	5	5	5	4	-1	
+<Aspects>
+12	4(nice):1	8(day):1	14(helpful):1	26(people):1	39(return):1	47(eat):1	72(resort):3	106(family):1	395(direction):1	1405(magnificent):1	2201(earth):1	3485(vieques):1	
+7	10(restaurant):1	19(price):1	20(look):1	47(eat):1	546(pricey):1	558(nyc):1	8214(uva):1	
+33	4(nice):1	5(time):1	17(view):1	20(look):1	42(pay):1	43(leave):1	58(quiet):1	60(hour):1	64(spend):1	69(tell):2	95(airport):1	99(couple):1	105(husband):1	111(spacious):1	128(extra):1	164(air):3	173(please):1	177(san):4	203(plus):1	205(ocean):1	219(decide):2	233(flight):3	294(mind):1	304(single):1	556(adult):1	614(fly):2	617(juan):4	626(didnt):2	1010(ferry):1	1166(lie):1	1351(delay):2	2856(sunshine):1	3485(vieques):2	
+13	7(walk):1	26(people):1	29(minute):1	30(beach):2	67(call):1	105(husband):1	266(pick):1	376(favourite):1	590(red):1	963(rental):1	1097(rent):1	3840(jeep):2	11342(martineau):1	
+0	
+0	
+6	6(breakfast):1	47(eat):1	275(cafe):1	376(favourite):1	1483(bakery):1	3485(vieques):1	
+0	
+
+<Author>dito
+<Content>Vieques is Paradise! I just came back from spending three memorable days at Vieques and I can't wait to get back.Even though getting to Vieques could be some challenge, specially if you decide to take the Water Ferry Service, we spent a great time throughout the island.We decided to stay at the Martineau Bay Resort because of the positive reviews and reputation of the hotel. We are glad we stayed here rather than the other so called Guesthouses or Inns at Vieques.The staff of the Front Office was great and our housekeeping attendant was a doll. Unfortunately we did not experience the same attitude at the pool bar, were the staff simply didn't seem to care about the guests that were interested in getting a drink. After al they did me a favor because I ended up buying drinks outside of the hotel at a much cheaper price.I rented a Jeep from Martineau Car Rental, right in front of the hotel, and wondered arount the island seeking the perfect beach. After three days of beach hoping I discovered over 14 Perfect Beaches. White powder sand, black sand you name it they have it all.One night we took the Bio Bay tour, WOW! This must be one of the most memorable experiences that my family has ever done.For eateries I recommend Vieques bakery for Breakfast, Bannanas for lunch and drinks overlooking the ocean and El Quenepo or Bili for dinner.  
+<Date>Jul 27, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+18	2(night):1	37(review):1	72(resort):1	181(tour):1	219(decide):1	295(name):1	458(positive):1	466(white):1	522(sand):2	671(bay):2	748(Paradise):1	862(wow):1	1007(black):1	2195(reputation):1	2834(powder):1	3485(vieques):1	6664(bio):1	11342(martineau):1	
+9	19(price):1	44(experience):1	63(drink):1	98(outside):1	106(family):1	143(cheap):1	280(buy):1	1205(memorable):1	1521(favor):1	
+5	67(call):1	324(inn):1	619(glad):1	3485(vieques):1	7703(guesthouse):1	
+14	8(day):1	30(beach):3	31(front):1	74(perfect):2	121(car):1	328(hope):1	342(island):1	869(discover):1	946(wonder):1	963(rental):1	1097(rent):1	1980(seek):1	3840(jeep):1	11342(martineau):1	
+0	
+11	0(staff):1	8(day):1	31(front):1	64(spend):1	85(wait):1	367(housekeeping):1	792(office):1	1205(memorable):1	1446(attendant):1	3485(vieques):1	6554(doll):1	
+30	0(staff):1	5(time):1	6(breakfast):1	9(service):1	15(recommend):1	22(pool):1	27(bar):1	44(experience):1	57(water):1	63(drink):2	64(spend):1	91(guest):1	117(dinner):1	126(especially):1	205(ocean):1	219(decide):1	242(care):1	252(lunch):1	260(overlook):1	342(island):1	445(throughout):1	488(simply):1	524(unfortunately):1	752(el):1	821(attitude):1	1010(ferry):1	1483(bakery):1	1708(challenge):1	1779(eatery):1	3485(vieques):2	
+0	
+
+<Author>KQS
+<Content>Oh-Boy Well.....it is closing..... We went there with an open mind, knowing it was closing and were shocked at how over-crowded with CHILDREN under 10 it was! So much for the quiet-romantic-laid back-stress-less atmosphere we were looking for.There were Good things, they just did not rise above the bad too often! Great Staff - helpful to the ends of the earth! When our taxi did not show up they brought us to our bio-bay tour in the hotel van!Food - ran out - did not have many items on the menu. Said the truck came on Wednesdays from the main island. Elegant preparation and delicious when it was all there - a little pricy though.Room - SPACIOUS!!! Comfy - not a water view as sold though - it over looked the pool. Our room had no refrigerator, our son's room had no working phone, iron and cd player. No luck in getting stuff fixed either - rooms were full, so no place to get stuff from!Pool - Filter not working. Infinity edge not working. At least 75 kids under 10 in the pool each day - not much water left by 2:00, if you know what I mean!?! Pool cloudy and dirty - had to complain to the front desk - they had pool cleaners there every morning. Kids crowded the pool bar eating pizza - dropping it in the water/ families and friends of hotel workers received free drinks right in front of us - delivered to them in the pool by workers! Not a good scene. Pool Level rooms: Rented by one person and used by over 20. We watched the friends drive into the parking lot - unload their coolers and food - leave it all on the terrace and go back to refill their cups with booze and snacks - looked like spring break for adults! I felt horrible for the honeymooners!!!One night there were people hanging from a balcony and screaming and singing - massive birthday party going on. When we called the front desk they told us the pool was open 24/7 and people could come and go as they pleased. We had to turn the TV up and sleep with earplugs - in July - OFF SEASON!!! The front desk said Security would calm the noise - took quite a while!Good luck to the W Hotel people! The buildings are wonderful - the bones of the hotel are great - a nice spot - but they will have to get the hotel staff under control. No one checks Hotel ID at the gate - people come in and out like it is an amusement park. We saw staff in the pool on their day off - hanging out at the bar - etc... with their friends and family - as well as locals that we had met. They come on Friday-Saturday-Sunday to use the pool!!! Unbelievable!!! And I payed for this....We thought we were going to a resort - to a calm, adult hotel. We were told the island was laid back and quiet - where we could de-stress. What we got was a hotel full of locals ushering in the end of the hotel. What we got were babies crying, children running and screaming, jumping and throwing balls, riding on their boogie boards and floaties. What we got was chased into our rooms by 2:00 daily!  
+<Date>Jul 27, 2007
+<Rating>2	2	5	5	5	5	5	4	
+<Aspects>
+40	8(day):1	17(view):1	20(look):1	22(pool):4	26(people):1	43(leave):1	50(bad):1	57(water):2	106(family):1	112(main):1	146(friend):1	149(run):1	195(local):2	196(meet):1	201(kid):1	218(ride):1	246(mean):1	277(child):1	342(island):1	475(comfy):1	600(board):1	606(sell):1	917(throw):1	1055(luck):1	1190(edge):1	1304(baby):1	1404(jump):1	1436(rise):1	1460(unbelievable):1	1507(truck):1	1588(scene):1	1685(ball):1	1757(scream):1	2396(cry):1	2556(boogie):1	2975(filter):1	3676(infinity):1	4909(usher):1	7033(floaty):1	11711(wednesdays):1	
+14	20(look):1	23(little):1	34(feel):1	42(pay):1	72(resort):1	414(atmosphere):1	485(delicious):1	544(horrible):1	556(adult):1	986(elegant):1	1155(calm):1	2781(honeymooner):1	2959(pricy):1	4294(preparation):1	
+33	2(night):1	22(pool):1	26(people):1	58(quiet):1	69(tell):1	104(sleep):1	111(spacious):1	116(tv):1	191(balcony):1	193(person):1	296(phone):1	306(level):1	342(island):1	360(daily):1	363(party):1	478(hang):1	480(stuff):2	494(fix):1	610(season):1	612(son):1	696(lay):1	765(birthday):1	868(iron):1	916(refrigerator):1	1055(luck):1	1076(player):1	1097(rent):1	1329(massive):1	1668(sing):1	1729(cd):1	1757(scream):1	1771(earplugs):1	3003(chase):1	
+16	26(people):1	28(close):2	32(check):1	66(park):1	142(bring):1	181(tour):1	185(taxi):1	277(child):1	294(mind):1	992(gate):1	1206(shock):1	1223(van):1	2584(id):1	3058(overcrowd):1	6182(amusement):1	12872(bio-bay):1	
+8	22(pool):2	31(front):1	36(desk):1	56(morning):1	241(complain):1	323(dirty):1	2487(cleaner):1	3332(cloudy):1	
+23	0(staff):3	4(nice):1	8(day):1	14(helpful):1	22(pool):2	26(people):1	27(bar):1	31(front):2	36(desk):2	48(wonderful):1	67(call):1	69(tell):1	73(etc):1	94(noise):1	173(please):1	317(spot):1	478(hang):1	641(security):1	745(building):1	865(control):1	1155(calm):1	2201(earth):1	3929(bone):1	
+36	16(food):2	20(look):1	22(pool):2	27(bar):1	31(front):1	38(lot):1	43(leave):1	46(free):1	47(eat):1	57(water):1	63(drink):1	66(park):1	106(family):1	146(friend):2	149(run):1	201(kid):1	228(break):1	245(watch):1	298(drive):1	302(receive):1	313(crowd):1	406(snack):1	423(menu):1	519(item):1	556(adult):1	631(deliver):1	662(drop):1	673(terrace):1	678(pizza):1	800(cup):1	1125(worker):2	1162(spring):1	1841(refill):1	2577(booze):1	3143(unload):1	7931(cooler):1	
+0	
+
+<Author>enjoyandre
+<Content>ehh First of all this is a pretty expensive place, but I guess you can expect that with any resort. What I didn't expect is that the place was kinda in shabby condition... cracked walls, clogged sink in our room, fridge that barely worked... It didn't seem like they spent much of their budget on upkeep. I didn't spring for the $150 massage, so I can't comment on that.The staff was friendly and attentive, so thats always good.. Mojitos were expensive, so thats kinda bad...bottom line, I would say is that there are plenty of less expensive places to stay in Vieques, so find one...If you want to stay on Vieques, but can't live without the resort atmosphere, then I guess this is the place for you...  
+<Date>Jul 25, 2007
+<Rating>3	3	4	5	3	5	5	1	
+<Aspects>
+0	
+15	50(bad):1	62(expect):1	72(resort):2	109(pretty):1	124(expensive):3	158(plenty):1	188(line):1	206(live):1	414(atmosphere):1	469(guess):2	850(bottom):1	1198(thats):1	2050(kinda):1	3485(vieques):2	5419(mojitos):1	
+0	
+0	
+0	
+4	0(staff):1	12(friendly):1	537(attentive):1	1198(thats):1	
+13	62(expect):1	64(spend):1	183(wall):1	263(condition):1	318(fridge):1	429(budget):1	509(sink):1	1020(barely):1	1319(shabby):1	1411(crack):1	2050(kinda):1	3685(clog):1	4642(upkeep):1	
+3	356(comment):1	730(massage):1	1162(spring):1	
+
+<Author>kjscap
+<Content>Loved it My husband and I stayed here only one night, but wished we would have stayed longer! We had been staying in Rio Grande at the Wyndham and took the ferry over to Vieques. We rented a jeep from the Martineau car rental which was very convenient to the hotel. The came and picked us up and dropped us off again at the ferry station.The hotel staff was wonderful and helpful. The hotel seemed totally empty. The beach is beautiful and completely uncrowded. The rooms needed a bit of updating, which is coming, but the views were great. We spent only a few minutes at the pool, since we came for the BEACH! We easily found our way to the great beaches. Our favorite was called Garcia Beach. We did the bio-bay with Blue Caribe in Esperanza and loved it. Esperanza was very cute and we enjoyed eating and having drinks after the kayak tour. We brought clothes and changed in the car, but there were definitely people who went in their swimsuits. It was a totally casual place. I would go back to Vieques in a heartbeat. I would fly though, as I can't say I loved the ferry experience. Oh well it was 2$. Definitely visit Vieques!  
+<Date>Jul 4, 2007
+<Rating>5	5	3	5	3	5	5	-1	
+<Aspects>
+25	2(night):1	40(love):2	59(definitely):1	65(visit):1	105(husband):1	121(car):1	186(convenient):1	384(wish):1	611(totally):2	694(blue):1	810(empty):1	963(rental):1	1010(ferry):1	1097(rent):1	1130(caribe):1	1683(heartbeat):1	1981(casual):1	2054(wyndham):1	3109(rio):1	3485(vieques):3	3840(jeep):1	3975(grande):1	8351(esperanza):1	11342(martineau):1	12872(bio-bay):1	
+4	40(love):1	44(experience):1	614(fly):1	1010(ferry):1	
+10	17(view):1	26(people):1	52(bit):1	59(definitely):1	121(car):1	142(bring):1	161(change):1	709(clothe):1	725(update):1	6622(swimsuits):1	
+15	22(pool):1	29(minute):1	30(beach):4	45(beautiful):1	64(spend):1	67(call):1	82(station):1	266(pick):1	376(favourite):1	438(easily):1	542(completely):1	662(drop):1	1010(ferry):1	5794(uncrowded):1	10518(garcia):1	
+0	
+3	0(staff):1	14(helpful):1	48(wonderful):1	
+7	47(eat):1	51(enjoy):1	63(drink):1	181(tour):1	1202(cute):1	2462(kayak):1	8351(esperanza):1	
+0	
+
+<Author>jenwc
+<Content>Beautiful hotel but the service comes with attitude I just returned from seven days at the resort. It is beautiful -- the beach is fabulous and never too crowded, the water is supreme.My only negative comment was the service at the front desk. I had a very poor time checking in and out of the hotel. Upon arrival, I had to wait 45 minutes to even be served only to be taken to a room that did not have a working toilet. I was greeted with an attitude by the front desk clerk to which I was appalled by and after requesting the manager, we were able to switch rooms. The service is s-l-o-w......and yes, it can be relaxing but sometimes a little frustrating. I also found the waitress staff who worked at the pool area to be unfriendly. When we were leaving, we noticed a number of things happening at the hotel that were different -- guests were being greeted with leas, given neck-hangs with their keys and tropical cocktails in martini glasses. We felt cheated --- we definitely didn't get that treatment!The food at the restaurant is very good -- and very expensive. This was frustrating as we did not have a rental car and thus ate all of our meals at the hotel. Some evenings, we had to wait 30 minutes to even get a menu. The resort needs to make updrades to their service -- however, with it turning into a Whotel -- this point is moot. I would highly recommend a massage at the spa -- it was amazing!All in all, it's a wonderful hotel. But you can tell they are in transition.  
+<Date>Jun 25, 2007
+<Rating>4	3	4	4	3	1	3	2	
+<Aspects>
+27	23(little):1	34(feel):1	43(leave):1	47(eat):1	48(wonderful):1	59(definitely):1	69(tell):1	91(guest):1	121(car):1	160(relax):1	213(meal):1	250(yes):1	327(glass):1	335(numb):1	339(key):1	354(notice):1	382(happen):1	415(greet):1	560(sometimes):1	716(cocktail):1	812(tropical):1	963(rental):1	1147(treatment):1	1574(frustrate):2	2606(martini):1	3934(cheat):1	6761(transition):1	
+0	
+5	29(minute):1	85(wait):1	174(serve):1	224(arrival):1	330(toilet):1	
+6	30(beach):1	45(beautiful):1	57(water):1	270(fabulous):1	313(crowd):1	5927(supreme):1	
+0	
+24	0(staff):1	5(time):1	9(service):1	22(pool):1	29(minute):1	31(front):2	32(check):1	36(desk):2	85(wait):1	148(request):1	171(able):1	258(manager):1	282(negative):1	331(poor):1	356(comment):1	415(greet):1	423(menu):1	788(clerk):1	821(attitude):1	888(switch):1	1003(evening):1	1387(waitress):1	1487(unfriendly):1	2752(appal):1	
+9	8(day):1	9(service):3	10(restaurant):1	16(food):1	39(return):1	45(beautiful):1	72(resort):2	124(expensive):1	821(attitude):1	
+5	15(recommend):1	138(highly):1	145(amaze):1	314(spa):1	730(massage):1	
+
+<Author>ccruzr712
+<Content>Loved the resort and the island experience overall We recently spent five nights at the Martineau Bay Resort on the beautiful island of Vieques in Puerto Rico. We found a great deal on Expedia for only $119.00 per night and after reading reviews on Tripadvisor and checking the hotel's website, we went ahead and booked it. We already had our airline tickets to San Juan and had planned to go to Tortola, since we were there in December and loved it, the hotel we wanted to stay at was already booked, we thought we would try Vieques. I am so glad we did. I had forgotten what an island without traffic lights was like, so we made a great choice. The resort was beautiful. It is going to close in August for renovations, and reopen as a W Hotel. This resort is only four years old, but i am glad we got to experience it before it changes. We had a very large gardenview room for the low rate, but i didn't see what garden they were talking about. We were against the bank in the last building. It didn't really bother me, because we were not in the room that much, there were too many beaches to go and many things to see. After we checked into the hotel, we asked for a cooler with ice, and it was quickly delivered. We had a small refrigerator, but it didn't seem to cool as much as it should. I loved the beach here at the hotel, there was always just one other couple there when i was there and umbrellas and chairs were provided free of charge as well as beach towels. The pool area was very nice and the beach bar seemed pretty good. I ordered a Mojito , but there was not mint leaves and therefore, no Mojito... Oh well, i will try somewhere else. (i later found a Mojito at the Inn On The Horizon and the best Mojito i have had anywhere, and a great view to go along with it). I found out later that vegetables were delivered on Tuesdays and soon sold out, so once you are out, no more til the next week. They say nobody grows anything on the island , that it is all brought over from San Juan area. We checked in and went straight to the room via golf cart with our luggage, since we arranged for pickup for our jeep rental for the next day, since we knew we would be too tired to go out after the all day travel getting to San Juan. Our flights originated from Jacksonville through Atlanta on Delta of course. Martineau Jeep rental picked up Mike to go and pick up transportation for the remainder of our stay. We would use them again. They also took us to the airport when we returned the jeep after our brief five night stay. My, time flies when your having fun. Back to the room,,, It was very very large and large bath with and oversized tub, but never used, because i loved the oversized shower they had. The only complaint we had was the handle on the sliding door was barely hanging on and when we opened it, it fell off. We tried to fix it ourselves, but it looked like it may new parts, so i heard the someone out near our breezeway and it was the maid, I asked her to look at our door and she said she would bring someone to fix it and returned with a very young man and he looked at it and picked up the screws in the floor and just stuck them back in the door. He said something (couldn't understand spanish much, so i thought maybe when he left he was going to get parts to fix it, but after one hour , i called the front desk and told them about the young man and told them i didn't want to leave without getting it fixed since we were on the ground floor and all the at the end of the resort. I just wasn't comfortable going to sleep with a faulty door..... They said they would send someone... They sent the cream of the crop. His name was Enrique, very mature man who knew what he was doing. He worked on it and seen it was going to need a new handle all together. He said he would return soon and he was right. He had such a warm personality, i was talking to him about his family and found out he was from the island originally and he was really hot, and i insisted he have some cold bottled water from our ice in the cooler... He was so thankful and asked our names, and we had found a genuinely friendly person. I told him how i loved mangos and was amazed at how they grow all over the islands. The next morning i was up early and headed out to the beach with my IPOD , ready to listen to my island music, hey , it helps you get in the mood , afterall, what is an island vacation without the island music,,,( because i had to escape the tourist town i live in, where traffic is unbearable in the summer), and if you have visited the Gatlinburg area in the Smoky Mtns. , you can understand why i loved the laid back style, Don't get me wrong, I love my beautiful mountains but being born and raised there, i have seen many changes in my 48 yrs. and I live for the trips to the Caribbean. It helps me make it through our busy summer months. Anyway ,back to Enrique, while i was walking to the beach , he was driving his golf cart and seen me, waved at me and called me by name, He had brought me a wonderful smelling pineapple he picked from his house and some mangos from his tree, He had remembered i told him i loved mangos. I was just thinking how there aren't many people left that sincerely care about total strangers. Yes, Martineau Bay , you truly have a treasure working at your resort. I highly recommend this resort.. Now for a few restaurants we found on the island ,,,, all were great. When we arrived , we had taken the ferry from San Juan, and decided we should have booked the air from San Juan, but more about that later..... we took a taxi to the hotel, but was hungry, so we asked for a good place to eat on the way to the resort, and he recommended Richards Cafe. He dropped us off and It was great and reasonable. He said to have the cashier call when we were finished and he would pick us up and take us to the hotel. Sure enough, he was there promptly. We had our luggage with us, but we only had one piece each, so it wasn't a problem. ...Now for the restaurant experiences for the rest of the week...... Tradewinds for Caribbean Lobster, caught fresh that day, out of this world. and what a deal, with salad, vegetables and key lime pie,,,, it was only around 60.00 for two. We found a great pizza place family owned,,,, It was delicious.... Had to stop and have another one one night to take back to the hotel for a snack and saved some for lunch the next day. This and most of the other restaurants are in the Esperanza area. As we were at the airport waiting for our flight, someone said that Belly Buttons , also in Esperanza was great for breakfast. They had the banana pancakes and the owner actually pick those sweet small bananas ,called apple bananas from their yard and fixed the pancakes with those, best they had ever tasted. Darn, another reason we have to go back. We found the Medallia Beer from Puerto Rico was reasonable and good. We found a little beachside bar in Esperanza, (the town with all the beachbars, nightlife, and some of the great restaurants). We ordered two beers and it was just $2.50 for two beers. The lady was so friendly and it was around 9:30PM and I asked how she was doing and she said,,,Good, but i am tired tonight, I have been here since 11 am this morning. I handed her a five dollar tip for our 2.50 tab and she was so appreciative. We were told of a little roadside stand where they make fresh Conch Salad everyday and sell it til they run out. It is just down from the Green Store. Downtown there is Roy's Coffee Shop and they have a limited menu for lunch,, I had the Chicken salad Wrap and Mike had the large soft taco... Both were delicious. As we were leaving, we noticed the building for Vieques Airlink and decided to check on a flight for our return, instead of the ferry. To catch a flight to get there in time for our departure back to Atlanta, they had a flight leaving for Grande Isle Airport, ten minutes to the San Juan International, and it was only $42.00 per person. That was the cab fare we paid just from San Juan to the town of Fijardo to catch the ferry. Besides,, the views from the plane was absolutely breathtaking. It was about 25 minutes to landing. We will know next time to take the Veiques Airlink roundtrip. One of the highlights was the bio tour. It was so beautiful seeing all the different constellations and the Southern Cross brought tears to your eyes.... so beautiful. The guide was great. We didn't do the kayaks, we took the boat, and i got in the water and what a neat experience. It looked like diamonds all over you when you lifted your arms and legs out of the water. Lie on your back and look up at the stars.... you could stay forever. Word of advice, take bug repellent, we had read about that about a month before we went and had forgotten, so Mike's legs had little red bites all over his legs the next day... it was dark and he wrapped the beach towel around his legs, he said something kept biting his legs. He stayed on the boat and didn't get in the water. But i never got bit one time, and i was on the boat the whole time, except just when i was in the water for about 15 minutes. Make sure you explore some of the other beautiful beaches. You will need a jeep to get to some of them because of the dirt roads and potholes, but it is worth it.. I took one photo of a horse on the beach and it was just beautiful. I went to one area and seen the rock glass that i had read about in a book. Someone on the island told me where to find it. That was like a treasure hunt. Gas on the island is by liters and it was about 85 cents a liter. During peak times, i hear that they run out of gas sometimes by the weekend and it is not available til the next week, so keep plenty of gas in your vehicle. We didn't have that problem, but it was off season, so that was nice. There aren't a lot of shopping for souvenirs and t shirts on this island, but that wasn't important to me this time, usually i am always shopping for souvenirs to bring back for everyone, but not this time... This was a pure vacation........No stress,,,,,,,and did i mention , no traffic lights....... and best of all the friendliness of the people. If you happen to stay at this resort , tell Enrique that Tana and Mike said hello and thanks for his kindness..........I miss that place...  
+<Date>Jun 22, 2007
+<Rating>4	5	4	2	5	4	4	5	
+<Aspects>
+150	4(nice):1	5(time):4	8(day):1	12(friendly):2	15(recommend):1	17(view):2	20(look):1	23(little):1	26(people):2	29(minute):2	33(trip):1	39(return):1	40(love):3	43(leave):1	45(beautiful):2	52(bit):1	56(morning):1	57(water):4	67(call):1	69(tell):4	72(resort):4	75(week):2	76(try):1	79(late):2	96(worth):1	106(family):1	114(hot):1	132(hear):1	134(available):1	138(highly):1	140(deal):1	142(bring):1	145(amaze):1	149(run):2	158(plenty):1	161(change):1	170(else):1	172(weekend):1	176(fun):1	177(san):1	189(absolutely):1	193(person):1	197(fresh):2	206(live):1	222(cold):1	230(road):1	236(warm):1	238(bottle):1	242(care):1	250(yes):1	255(store):1	266(pick):1	271(thank):1	272(world):1	273(reasonable):2	276(miss):1	278(cool):1	295(name):2	324(inn):1	326(style):1	337(except):1	339(key):1	342(island):5	371(talk):1	374(reason):1	382(happen):1	391(understand):1	393(pm):1	418(soon):2	427(wrong):1	443(beer):3	444(stand):1	454(tire):1	476(truly):1	521(lady):1	540(catch):1	547(ice):1	560(sometimes):1	591(lift):1	605(everyday):1	606(sell):2	610(season):1	614(fly):1	617(juan):1	619(glad):1	631(deliver):1	662(drop):1	671(bay):1	674(boat):2	696(lay):1	772(finish):1	786(total):1	909(salad):2	915(puerto):1	931(caribbean):2	966(handle):1	968(plane):1	1005(green):1	1113(lobster):1	1131(rico):1	1137(diamond):1	1212(promptly):1	1300(originally):1	1332(besides):1	1346(land):1	1421(leg):1	1444(breathtaking):1	1495(insist):1	1509(mountain):1	1519(hello):1	1593(leaf):1	1659(grow):2	1710(peak):1	1726(arm):1	1754(friendliness):1	1888(cent):1	1950(genuinely):1	1951(vehicle):1	2004(dirt):1	2055(raise):1	2196(til):3	2262(vegetable):2	2449(mike):1	2522(personality):1	2632(gas):3	2980(treasure):2	3365(yrs):1	3421(kindness):1	3588(hunt):1	3619(mango):1	3637(born):1	3784(thankful):1	3840(jeep):1	3856(mint):1	3954(sincerely):1	4319(lime):1	4404(pie):1	4499(darn):1	4538(mature):1	4899(pothole):1	5194(mojito):4	5282(liter):2	5519(tonight):1	5870(stranger):1	5996(horizon):1	6295(cashier):1	6376(roadside):1	8887(tuesdays):1	11342(martineau):1	12617(tradewinds):1	
+44	2(night):1	10(restaurant):1	20(look):1	40(love):1	42(pay):1	44(experience):4	45(beautiful):1	57(water):1	64(spend):1	70(overall):1	72(resort):3	75(week):1	103(star):1	107(choice):1	157(light):1	161(change):1	177(san):1	194(tip):1	239(town):1	288(rest):1	322(recently):1	342(island):3	377(hand):1	380(cab):1	397(forget):1	430(dollar):1	486(traffic):1	540(catch):1	617(juan):1	619(glad):1	671(bay):1	674(boat):1	915(puerto):1	1010(ferry):1	1112(fare):1	1131(rico):1	1166(lie):1	1286(neat):1	1643(forever):1	2462(kayak):1	3485(vieques):1	3711(appreciative):1	4553(tab):1	11342(martineau):1	
+95	2(night):1	5(time):2	6(breakfast):1	8(day):2	18(book):1	20(look):3	24(floor):1	25(comfortable):1	28(close):1	29(minute):1	30(beach):3	32(check):2	39(return):3	40(love):3	43(leave):2	46(free):1	54(door):3	61(shower):1	68(travel):1	76(try):1	78(rate):1	85(wait):1	95(airport):3	99(couple):1	102(near):1	104(sleep):1	125(towel):1	132(hear):1	135(build):1	136(charge):1	142(bring):1	153(provide):1	177(san):3	181(tour):1	193(person):1	198(chair):1	219(decide):1	221(plan):1	226(bath):1	233(flight):5	249(luggage):1	253(tried):1	266(pick):1	293(course):1	300(maid):1	307(bother):1	310(garden):1	311(tub):1	353(instead):1	354(notice):1	371(talk):1	447(send):2	454(tire):1	494(fix):2	512(via):1	513(low):1	540(catch):1	617(juan):3	621(ticket):1	680(arrange):1	687(renovation):1	688(stick):1	767(ourselves):1	827(straight):1	903(international):1	963(rental):1	993(december):1	1010(ferry):1	1012(golf):1	1031(departure):1	1140(umbrella):1	1141(highlight):1	1188(cream):1	1322(cart):1	1336(airline):1	2036(brief):1	2142(button):1	2258(pickup):1	2853(screw):1	3426(oversized):2	3485(vieques):2	3840(jeep):2	3975(grande):1	4333(faulty):1	4692(isle):1	5015(atlanta):2	5148(delta):1	5352(belly):1	5550(reopen):1	6316(roundtrip):1	6664(bio):1	8351(esperanza):1	8886(gardenview):1	10225(originate):1	11251(crop):1	
+119	4(nice):1	5(time):2	7(walk):1	8(day):1	15(recommend):1	18(book):1	22(pool):1	23(little):1	27(bar):1	30(beach):6	38(lot):1	40(love):1	45(beautiful):2	47(eat):1	48(wonderful):1	49(shop):3	53(arrive):1	56(morning):1	65(visit):1	67(call):2	69(tell):1	72(resort):1	79(late):1	88(read):1	90(coffee):1	92(help):2	109(pretty):1	125(towel):1	131(vacation):2	135(build):1	142(bring):2	157(light):1	164(air):1	177(san):2	180(actually):1	185(taxi):1	206(live):1	209(tourist):1	219(decide):1	220(busy):1	231(smell):1	239(town):1	244(mention):1	252(lunch):1	266(pick):4	274(ready):1	275(cafe):1	278(cool):1	281(house):1	295(name):1	298(drive):1	319(head):1	334(downtown):1	342(island):4	375(remember):1	388(month):2	397(forget):1	398(music):2	399(usually):1	417(anyway):1	423(menu):1	439(taste):1	459(dark):1	485(delicious):1	486(traffic):2	494(fix):1	510(limit):1	571(word):1	575(advice):1	589(soft):1	590(red):1	594(explore):1	602(bug):1	617(juan):2	672(owner):1	728(transportation):1	761(photo):1	828(tree):1	836(wave):1	853(summer):2	905(apple):1	909(salad):1	916(refrigerator):1	949(chicken):1	950(sweet):1	963(rental):1	997(listen):1	1010(ferry):1	1012(golf):1	1042(bite):2	1225(bank):1	1307(yard):1	1322(cart):1	1367(hey):1	1381(hungry):1	1388(banana):3	1421(leg):4	1477(pancake):2	1601(escape):1	1753(stress):1	1844(shirt):1	1946(horse):1	2085(wrap):2	2132(mood):1	2242(pure):1	2353(ipod):1	2449(mike):3	2504(souvenirs):2	2785(unbearable):1	2858(repellent):1	2868(pineapple):1	3123(remainder):1	3619(mango):2	3782(smoky):1	3840(jeep):1	4732(afterall):1	4741(taco):1	4987(roy):1	11342(martineau):1	
+0	
+19	24(floor):1	31(front):1	32(check):1	36(desk):1	43(leave):2	60(hour):1	67(call):1	69(tell):2	72(resort):1	278(cool):1	308(maybe):1	369(spanish):1	391(understand):1	471(quickly):1	494(fix):2	547(ice):1	631(deliver):1	706(grind):1	829(guide):1	
+44	2(night):2	8(day):1	10(restaurant):3	18(book):2	23(little):1	27(bar):1	32(check):1	37(review):1	45(beautiful):2	54(door):1	88(read):2	106(family):1	122(stop):1	140(deal):1	142(bring):1	166(own):1	190(complaint):1	239(town):1	249(luggage):1	252(lunch):1	262(website):1	327(glass):1	342(island):1	406(snack):1	425(save):1	478(hang):1	485(delicious):1	587(fall):1	597(tripadvisor):1	678(pizza):1	773(rock):1	941(piece):1	966(handle):1	976(ahead):1	977(eye):1	1020(barely):1	1066(expedia):1	1142(slide):1	1228(cross):1	1305(nightlife):1	1605(tear):1	2502(southern):1	3209(beachside):1	8351(esperanza):2	
+0	
+
+<Author>NewYorkSnorkeler
+<Content>Beautiful Views - Abominable Staff We were in the Martineau Bay Resort for a four-day weekend in June. The good news is that the ocean views and snorkeling are breathtaking. The bad news is that the staff is so bad it will take your breath away. First, our room was booked incorrectly and we were told upon arrival that the original room we reserved would actually cost more money - or we could accept lesser accomodations. Simple requests for things like a do not disturb sign for our room were simply ignored. At one point, we were so frustrated that we called the front desk to complain and when we told the desk clerk we didn't think we'd ever return because the service was so bad she actually laughed at us. Meals in the restaurant were slow to arrive and far overpriced for the low quality of the food. The pool has a swim-up bar that is fun to sit at but be prepared to be ignored by the bartender and to watch her roll her eyes when she finally acknowledges you. Other patrons we met had similar experiences with the staff. We wonder how the place manages to stay open.... by the way, we heard it's closing in August.  
+<Date>Jun 12, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	17(view):1	205(ocean):1	876(snorkel):1	1444(breathtaking):1	1725(news):1	
+25	0(staff):1	10(restaurant):1	16(food):1	18(book):1	44(experience):1	53(arrive):1	69(tell):1	80(money):1	175(cost):1	180(actually):1	187(quality):1	196(meet):1	213(meal):1	224(arrival):1	455(slow):1	506(reserve):1	513(low):1	727(overprice):1	780(accomodation):1	874(similar):1	1247(accept):1	1270(original):1	2512(patron):1	4295(lesser):1	6605(incorrectly):1	
+6	148(request):1	449(sign):1	488(simply):1	613(simple):1	1067(disturb):1	1215(ignore):1	
+4	28(close):1	132(hear):1	645(manage):1	946(wonder):1	
+0	
+23	0(staff):2	9(service):1	17(view):1	31(front):1	36(desk):2	39(return):1	45(beautiful):1	50(bad):3	67(call):1	69(tell):1	72(resort):1	172(weekend):1	180(actually):1	241(complain):1	664(june):1	671(bay):1	788(clerk):1	1245(laugh):1	1574(frustrate):1	1725(news):1	2214(breath):1	9883(four-day):1	11342(martineau):1	
+13	22(pool):1	27(bar):1	169(sit):1	176(fun):1	245(watch):1	341(finally):1	460(prepare):1	676(bartender):1	813(roll):1	977(eye):1	1215(ignore):1	2453(acknowledge):1	2473(swim-up):1	
+0	
+
+<Author>shalprin
+<Content>above expectations We went over Memorial Day weekend - and i have to say I was expecting to feel compromised (sp?) after reading the reviews. I thought the service was terrific, the setting was beautiful, and the peace and quiet was just what we wanted. The restaurant was pretty great - paso fino - it's a sleeper I think. There were alot of families but it seemed low - key what a relief not to have spring break crowds or people feeling hassled!! Vieques is worth seeing before it gets discovered - don't overdevelop it!! Of course that is a decade away anyhow. I got stung also by a jellyfish in the bio bay, and eaten by the tourist mosquitoes, but that is a story to tell one's friends anyhow, not a vacation ruiner. I remember the playa caracas especially as being all one could hope for, and the kind staff at the hotel were what I take back with me. I actually got a little relaxed here!!  
+<Date>Jun 12, 2007
+<Rating>4	4	4	4	5	3	5	-1	
+<Aspects>
+22	23(little):1	26(people):1	34(feel):1	37(review):1	88(read):1	96(worth):1	106(family):1	160(relax):1	180(actually):1	228(break):1	293(course):1	313(crowd):1	339(key):1	513(low):1	647(alot):1	869(discover):1	1162(spring):1	1193(hassle):1	2482(relief):1	3485(vieques):1	3671(anyhow):1	4821(decade):1	
+20	8(day):1	34(feel):1	47(eat):1	62(expect):1	69(tell):1	131(vacation):1	146(friend):1	172(weekend):1	209(tourist):1	431(expectation):1	671(bay):1	906(story):1	1054(mosquito):1	2548(memorial):1	3470(sp):1	3503(sting):1	3671(anyhow):1	3884(compromise):1	6664(bio):1	8187(jellyfish):1	
+10	9(service):1	10(restaurant):1	45(beautiful):1	58(quiet):1	109(pretty):1	234(set):1	699(terrific):1	1299(sleeper):1	1517(peace):1	10410(fino):1	
+0	
+0	
+5	0(staff):1	126(especially):1	328(hope):1	375(remember):1	3212(playa):1	
+0	
+0	
+
+<Author>SnCollins
+<Content>Wonderful Experience       Grounds at Martineau  
+<Date>Jun 12, 2007
+<Rating>5	4	5	5	5	5	5	4	
+<Aspects>
+0	
+4	44(experience):1	48(wonderful):1	285(ground):1	11342(martineau):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>herdie
+<Content>Great Vacation!       Not-So-Fun Skinny Road  
+<Date>Jun 10, 2007
+<Rating>4	4	4	5	4	5	4	-1	
+<Aspects>
+2	230(road):1	5731(skinny):1	
+1	131(vacation):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>petvetcookies
+<Content>Very nive We stayed at the Martineau Bay resort during April. We had a great time in the resort. The rooms have beautiful tile and the bathrooms are big. Our room had a hot tub that we never used. The restaurant has a new chef and we had a meal in the hotel. It was difficult to find restaurants that were opened during week when we went there. The hotel is closing in August for renovations and it is going to be an exclusive W hotel. The beach is small but very nice. There are so many beaches you can go to in Vieques and they are all great. Definitely visit the Bio Bay.  
+<Date>May 22, 2007
+<Rating>4	3	4	4	4	4	4	4	
+<Aspects>
+7	5(time):1	59(definitely):1	65(visit):1	72(resort):2	671(bay):2	6664(bio):1	11342(martineau):1	
+0	
+8	13(bathroom):1	28(close):1	45(beautiful):1	114(hot):1	311(tub):1	687(renovation):1	846(tile):1	2914(exclusive):1	
+3	4(nice):1	30(beach):2	3485(vieques):1	
+0	
+0	
+5	10(restaurant):2	75(week):1	213(meal):1	572(difficult):1	1361(chef):1	
+0	
+
+<Author>5956
+<Content>Lovely To all the negative reviewers,the hotel is closing and being renovated by the W hotel and will reopen in a year, that being said, some of the service was terrible and some was great. I think the're disorganized right now, but will probably be amazing when they reopen. The hotel itself in in a georgeous setting and very private and romantic. The rooms are huge with a huge tub next to the bed. there are huge balconies to look at the awsome ocean. Vieques has the most beautiful beaches I have ever seen friendly people and amazing food, what can I say, if you don't have fun there, you probably won't have fun anywhere!  
+<Date>May 21, 2007
+<Rating>4	4	4	4	4	3	2	-1	
+<Aspects>
+8	145(amaze):1	178(probably):1	234(set):1	492(private):1	707(romantic):1	3603(disorganize):1	5550(reopen):1	6965(georgeous):1	
+0	
+7	11(bed):1	20(look):1	133(huge):3	191(balcony):1	205(ocean):1	311(tub):1	3215(awsome):1	
+18	9(service):1	12(friendly):1	16(food):1	26(people):1	28(close):1	30(beach):1	45(beautiful):1	87(lovely):1	145(amaze):1	176(fun):2	178(probably):1	282(negative):1	432(terrible):1	487(wo):1	533(renovate):1	564(reviewer):1	3485(vieques):1	5550(reopen):1	
+0	
+0	
+0	
+0	
+
+<Author>lsciarra
+<Content>Relaxing My husband and I just returned from a week in Vieques. We were looking for a quiet place with beautiful beaches and this is what we got. We stayed at the Martineau Bay Resort and Spa. Our room was very large. The Resort was somewhat worn but not in any way unacceptable. It was also empty! It felt as if we had the place to ourselves. We ate dinner in the hotel one night. It is called Paso Fino and it was delicious! We ate at Uva, El Quenepo, Bananas, Duffy's and the Trade Winds. Our favorite breakfast spot was Belly Buttons. The banana pancakes were scrumptious. The bananas come from the owners backyard and are known as apple-bananas. YUM! We really enjoyed meeting the owners. Roy's coffee house was also a great spot for breakfast as well as take out lunch food.It is so important to have your own car while on the island. The beaches are beautiful. Blue Beach was our favorite!We booked a tour with Abe's kayaks to go to the Bio Luminescent Bay. It was a wonderful experience that you simply must do if you are going to Vieques. Abe was a great tour guide! One should definitely consider kayaking versus taking a noisy, bay-polluting boat out into the bay. You will not be disappointed!  
+<Date>May 17, 2007
+<Rating>4	4	4	4	3	4	3	3	
+<Aspects>
+35	34(feel):1	39(return):1	47(eat):1	59(definitely):1	67(call):1	72(resort):2	75(week):1	105(husband):1	121(car):1	154(disappoint):1	160(relax):1	166(own):1	217(noisy):1	248(consider):1	314(spa):1	342(island):1	434(wear):1	485(delicious):1	651(somewhat):1	671(bay):2	674(boat):1	752(el):1	767(ourselves):1	810(empty):1	1168(wind):1	1388(banana):1	2044(trade):1	2230(unacceptable):1	3094(kayake):1	3485(vieques):1	3593(yum):1	3924(versus):1	8214(uva):1	10410(fino):1	11342(martineau):1	
+4	44(experience):1	48(wonderful):1	488(simply):1	3485(vieques):1	
+4	20(look):1	30(beach):1	45(beautiful):1	58(quiet):1	
+4	30(beach):2	45(beautiful):1	376(favourite):1	694(blue):1	
+0	
+7	51(enjoy):1	181(tour):1	196(meet):1	672(owner):2	829(guide):1	1388(banana):1	4859(backyard):1	
+21	2(night):1	6(breakfast):2	16(food):1	18(book):1	47(eat):1	90(coffee):1	117(dinner):1	181(tour):1	252(lunch):1	281(house):1	317(spot):2	376(favourite):1	671(bay):1	1388(banana):1	1477(pancake):1	2142(button):1	2462(kayak):1	4987(roy):1	5352(belly):1	6664(bio):1	7342(scrumptious):1	
+0	
+
+<Author>Artstacks
+<Content>Recommended and Comfortable... especially for the price.       Sunset our first night there.  
+<Date>May 10, 2007
+<Rating>4	5	4	4	3	5	4	3	
+<Aspects>
+2	2(night):1	1246(sunset):1	
+4	15(recommend):1	19(price):1	25(comfortable):1	126(especially):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>sapper601
+<Content>In need of a face-lift The Hotel itself is in a rundown condition as is the Island itself. The rooms were in a state of decay. The air in the room kept breakingdown. The shower was pretty nasty although there was plenty of hot water. In fact we were told that by the next month they were closing the hotel for rennovations. It was much needed. The restaurant was fine if a bit overcharged. The menu did not have many choices. The beach was simply ok. There are several beaches on the island to choose from that beat the hotels without a doubt. On the other hand, the staff was exceptional. The manager was great very helpful. The housekeeping  maintenance people kept up after us to make sure that what ever we complained about was resolved to our satisfaction. This fact alone (staff) made the trip fun and pleasant.The island itself needs a face lift. The island has potential with its beaches as well as the Luminecence bay. We rented a jeep and searched the whole island. That was fun. If they really upgrade the hotel (supposedly its supposed to turn into a Weston) it might be fun to go back again. Otherwise, there aremuch better places in the caribbean to go to (St. Johns, British Virgin Isands).  
+<Date>May 10, 2007
+<Rating>2	2	1	4	2	4	5	-1	
+<Aspects>
+14	176(fun):1	263(condition):1	342(island):3	508(otherwise):1	591(lift):1	655(st):1	931(caribbean):1	1097(rent):1	1248(search):1	2323(rundown):1	2407(british):1	3430(virgin):1	3840(jeep):1	9242(johns):1	
+2	107(choice):1	423(menu):1	
+14	26(people):1	57(water):1	61(shower):1	109(pretty):1	114(hot):1	158(plenty):1	164(air):1	241(complain):1	367(housekeeping):1	1149(maintenance):1	1639(nasty):1	1715(resolve):1	2863(satisfaction):1	8157(decay):1	
+13	28(close):1	30(beach):3	69(tell):1	123(ok):1	167(choose):1	342(island):2	388(month):1	442(beat):1	488(simply):1	671(bay):1	952(doubt):1	1995(potential):1	5561(rennovation):1	
+0	
+12	0(staff):2	10(restaurant):1	14(helpful):1	33(trip):1	52(bit):1	113(fine):1	150(pleasant):1	176(fun):1	258(manager):1	377(hand):1	837(exceptional):1	3155(overcharge):1	
+0	
+4	163(upgrade):1	176(fun):1	620(suppose):1	2062(supposedly):1	
+
+<Author>mskudzu
+<Content>Rustic and not for the pampered traveler. I took my teenage son and one of his friends to Vieques for spring break and stayed in the hotel for 5 nights. Our room overlooked the pool and ocean which was beautiful. The room had problems though. The shower did not drain properly due to poor construction, not a clog, and the bathroom and hallway were wet and dirty the whole time. The one working room phone would only dial out, it would not ring. Maid service was shotty, towels were in short supply and the bathroom was musty and the grout was moldy. The bed linens were not great. Pool side food was good, beach was ok. Richards restaurant had great local dishes at great prices and Duffys was good too.If you are ok with rustic this will work for you. I need more.  
+<Date>Apr 30, 2007
+<Rating>2	2	2	4	2	2	2	1	
+<Aspects>
+11	2(night):1	123(ok):1	146(friend):1	228(break):1	267(traveler):1	612(son):1	1162(spring):1	1815(pamper):1	1837(teen-age):1	3485(vieques):1	4645(rustic):2	
+4	10(restaurant):1	19(price):1	195(local):1	816(dish):1	
+21	5(time):1	11(bed):1	13(bathroom):1	22(pool):1	45(beautiful):1	61(shower):1	205(ocean):1	259(due):1	260(overlook):1	296(phone):1	323(dirty):1	331(poor):1	580(hallway):1	583(construction):1	630(linen):1	1032(wet):1	1144(properly):1	1150(ring):1	1489(drain):1	3250(dial):1	3685(clog):1	
+4	16(food):1	22(pool):1	30(beach):1	123(ok):1	
+0	
+0	
+9	9(service):1	13(bathroom):1	125(towel):1	144(short):1	300(maid):1	859(supply):1	1016(musty):1	2046(moldy):1	3922(grout):1	
+0	
+
+<Author>mom929
+<Content>Wonderful, relaxed, and very private       Pool at Martineau Bay  
+<Date>Apr 29, 2007
+<Rating>4	4	5	4	5	5	5	4	
+<Aspects>
+6	22(pool):1	48(wonderful):1	160(relax):1	492(private):1	671(bay):1	11342(martineau):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>taco92
+<Content>It was AMAZING!!!!!!!!!!!!!!!!!!!!!       The private beach - yes it was always that empty  
+<Date>Apr 9, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+1	145(amaze):1	
+0	
+0	
+4	30(beach):1	250(yes):1	492(private):1	810(empty):1	
+0	
+0	
+0	
+0	
+
+<Author>NCEd
+<Content>Happy guests We spent 5 nights in early April at the Martineau Bay. A great place to go with kids, because there is easy access to pool and beach, plus food service by pool and for meals that kids could access on their own and, yes, cable TV and net access.A beautiful property, rooms are spacious and clean with great views, service is nice and friendly, although it moves at a pace that might be described on Jamaica as soon come. The prices for food are too high -- $17 for a cheeseburger -- but the food is good and a nice fallback for occasional dining.That said, make sure you rent a car in advance, and explore the island. Fun places to eat in Esperanza, local breakfast spots and some nice restaurants in Isabel Segundo, both nearby. Call Abe for a bio bay tour...and get to Green Beach, a tropical paradise.  
+<Date>Apr 8, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	2(night):1	64(spend):1	91(guest):1	121(car):1	155(happy):1	342(island):1	594(explore):1	671(bay):1	685(advance):1	1030(rend):1	11342(martineau):1	
+0	
+0	
+8	30(beach):1	67(call):1	181(tour):1	671(bay):1	748(Paradise):1	812(tropical):1	1005(green):1	6664(bio):1	
+0	
+0	
+39	3(clean):1	4(nice):3	6(breakfast):1	9(service):2	10(restaurant):1	12(friendly):1	16(food):3	17(view):1	19(price):1	22(pool):2	30(beach):1	45(beautiful):1	47(eat):1	93(easy):1	111(spacious):1	116(tv):1	159(access):3	166(own):1	176(fun):1	195(local):1	201(kid):2	203(plus):1	207(move):1	213(meal):1	214(property):1	232(nearby):1	250(yes):1	316(dine):1	317(spot):1	418(soon):1	484(cable):1	955(describe):1	2076(net):1	2291(pace):1	2418(occasional):1	2420(jamaica):1	4756(cheeseburger):1	5735(isabel):1	8351(esperanza):1	
+0	
+
+<Author>waverunr
+<Content>march 14th trip just returned from Vieques. Beautiful island; unspoiled. We took the ferry from fajardo to Vieques. ($4 round trip). The navy runs the ferry, but if you are going on a holiday or weekend get there about 1 1/2 hrs before it leaves. It gets very crowded. First come basis. Sat in the back outside, beautiful views. On the way back we took the 6:30 am and had roosters crowing on board. It takes about 1 1/2 hrs, not bad for price. We had a driver take us to the ferry from San Juan and pick us back up on return. I reserved her in advance. Her web site is [--]. She charged 65 each way for our family of 4. She was always there waiting for us-so no hunting for transportation. On Vieques we took a cab to the hotel about $12. We stayed At Martineau Bay Resort. Very nice, large room overlooking the ocean and pool. Huge bathroom, large sunken tub, walk in shower, double bowl sinks. We ate dinner and lunch by the pool grill, pizza $12, hamburgers $12 food was good and it was nice to eat outside.They have 2 beaches, one is a bit rocky and the other has some waves good for boogey boarding. They were never crowded, the most was about 8 people. The resort is beautiful and the views walking around our spectacular. We rented a car from Martineau Rental. They pick you up at the hotel and bring you back. Drove around the island and checked out other beaches. Rented snorkel equipment in town, $15 per person a day. Drove to Green Beach, snorkeling was good, but stay away from the point -current is strong there. we saw schools of fish, sting rays, barracudas, and even an octopus. Had the whole beach to ourselves. The best thing to do is to see the bioluminescent bay. We went on the pontoon boat ($30 person). You have to see it to believe it. When you are in the water and you lift your hand it is like thousands of tiny stars. Only thing with the boat is that they book about 30 people. We lucked out and a tour group didn't show so we had only 9 people. We ate dinner at Duffy's in the town of Esperanza. No frills-great fish tacos- 3 for $10. Many of the restuarants get crowded. Everyone we meet was nice and helpful. we especially liked seeing all the wild horses. We stayed on the island for 3 days, then went back to Fajardo then to san juan.  
+<Date>Mar 27, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+53	4(nice):1	8(day):2	14(helpful):1	26(people):2	33(trip):2	39(return):2	45(beautiful):1	72(resort):1	121(car):1	126(especially):1	142(bring):1	149(run):1	172(weekend):1	177(san):2	181(tour):1	193(person):2	196(meet):1	223(holiday):1	239(town):1	266(pick):2	312(believe):1	313(crowd):3	342(island):2	380(cab):1	563(driver):1	600(board):1	615(march):1	617(juan):2	653(fish):1	671(bay):2	674(boat):1	876(snorkel):1	963(rental):1	1010(ferry):3	1055(luck):1	1097(rent):2	1211(equipment):1	1464(hr):1	1527(basis):1	1593(leaf):1	1946(horse):1	1998(14th):1	2095(restuarants):1	2661(wild):1	3485(vieques):3	3829(fajardo):2	4579(crow):1	5324(rooster):1	5466(tacos):1	6626(bioluminescent):1	6868(navy):1	9683(unspoiled):1	11342(martineau):2	
+9	19(price):1	50(bad):1	57(water):1	103(star):1	338(tiny):1	377(hand):1	591(lift):1	1464(hr):1	3752(thousand):1	
+13	4(nice):1	7(walk):1	13(bathroom):1	22(pool):1	61(shower):1	133(huge):1	179(double):1	205(ocean):1	260(overlook):1	311(tub):1	509(sink):1	1366(bowl):1	4275(sunken):1	
+26	7(walk):1	17(view):2	30(beach):4	32(check):1	45(beautiful):2	52(bit):1	72(resort):1	85(wait):1	98(outside):1	169(sit):1	192(site):1	298(drive):2	342(island):1	600(board):1	656(spectacular):1	728(transportation):1	767(ourselves):1	836(wave):1	876(snorkel):1	893(strong):1	1005(green):1	1019(web):1	2313(current):1	3170(rocky):1	3588(hunt):1	12634(boogey):1	
+0	
+2	106(family):1	136(charge):1	
+23	4(nice):1	16(food):1	18(book):1	22(pool):1	26(people):1	47(eat):3	98(outside):1	117(dinner):2	239(town):1	252(lunch):1	506(reserve):1	629(grill):1	653(fish):1	674(boat):1	678(pizza):1	685(advance):1	1229(school):1	1739(hamburger):1	2527(ray):1	3503(sting):1	5209(octopus):1	8351(esperanza):1	11840(barracuda):1	
+0	
+
+<Author>princess2407
+<Content>awsome honeymoon!!!! This was by far the best vacation ive ever taken and i cant wait to get back!! if your looking for a vacation to just relax and do basically nothing but enjoy the sun and beach, this is the place for you! The resort is beautiful! the staff was very helpful in assisting us with renting a car which i highly recomend cause theres so many sights to see- the beaches, the island life, history, ect.food at the resort like everyone else has stated, isnt cheap and isnt all that great. ($16 for a hamburger, $17 for a chicken sandwich, $7 for cereal). But if you do have a car there are many great places to chose from on the island. We loved Belly buttons for breakfast and also loved Bananas for a cute relaxing meal. The Chet Chac we dont recomend- HORRIBLE food and dirty!We really loved just lounging by the pool at the resort! theres such a gorgous view and it was just really convenient if theres a day u just dont feel like driving anywhere. we found the drinks at the pool bar to be very expensive and very weak. but again convenient and fun. i HIGHLY recomend this resort and vieques as a vacation! cant wait to go back!!  
+<Date>Mar 23, 2007
+<Rating>5	4	4	5	5	5	4	-1	
+<Aspects>
+17	8(day):1	17(view):1	34(feel):1	45(beautiful):1	72(resort):1	121(car):1	167(choose):1	176(fun):1	186(convenient):2	298(drive):1	342(island):1	503(dont):1	529(cereal):1	949(chicken):1	1071(sandwich):1	1739(hamburger):1	9205(gorgous):1	
+20	16(food):1	20(look):1	30(beach):1	51(enjoy):1	72(resort):2	85(wait):1	131(vacation):3	138(highly):1	143(cheap):1	160(relax):1	170(else):1	420(sun):1	502(honeymoon):1	790(basically):1	1145(cant):1	1420(recomend):1	2377(isnt):2	2839(ive):1	3215(awsome):1	3485(vieques):1	
+0	
+14	0(staff):1	14(helpful):1	30(beach):1	121(car):1	138(highly):1	342(island):1	411(sight):1	426(life):1	943(cause):1	1097(rent):1	1265(assist):1	1420(recomend):1	1490(history):1	3474(ect):1	
+5	16(food):1	323(dirty):1	503(dont):1	544(horrible):1	1420(recomend):1	
+2	85(wait):1	1145(cant):1	
+15	6(breakfast):1	22(pool):2	27(bar):1	40(love):3	63(drink):1	72(resort):1	124(expensive):1	160(relax):1	213(meal):1	237(lounge):1	1202(cute):1	1388(banana):1	1770(weak):1	2142(button):1	5352(belly):1	
+0	
+
+<Author>andrea2251
+<Content>Best vacation yet       View from upper deck at the Inn on the Blue Horizon  
+<Date>Mar 19, 2007
+<Rating>5	5	4	5	4	5	5	-1	
+<Aspects>
+0	
+7	17(view):1	131(vacation):1	324(inn):1	694(blue):1	1333(upper):1	1406(deck):1	5996(horizon):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>jandjinboston
+<Content>Great stay at Martineau Bay Martineau Bay deserves a bit more credit on TripAdvisor. If you are heading to Vieques and want some of the amenities of a real resort, Martineau Bay is one of the only true options. The rooms are very nice and clean, and the spa facilities are excellent. Minor glitches in service, but everyone we met was very helpful. They have begun to post plans and drawings for the W hotel that Martineau Bay will become in the hotel lobby. It will include a golf course and pool/lounge/room upgrades... I'd recommend going soon before it is much more expensive.  
+<Date>Mar 18, 2007
+<Rating>4	4	4	4	4	3	3	-1	
+<Aspects>
+8	72(resort):1	240(real):1	291(amenity):1	336(option):1	671(bay):1	1437(heading):1	3485(vieques):1	11342(martineau):1	
+8	15(recommend):1	22(pool):1	71(include):1	124(expensive):1	163(upgrade):1	293(course):1	418(soon):1	1012(golf):1	
+5	3(clean):1	4(nice):1	21(excellent):1	211(facility):1	314(spa):1	
+0	
+0	
+0	
+15	9(service):1	14(helpful):1	52(bit):1	55(lobby):1	196(meet):1	221(plan):1	551(begin):1	597(tripadvisor):1	644(post):1	659(credit):1	671(bay):3	720(minor):1	1072(deserve):1	3121(glitch):1	11342(martineau):3	
+0	
+
+<Author>nbishai
+<Content>Relaxation at it's best If you are looking for nothing to do but enjoy the weather, read a book or three and have some good meals this is your destination. The hotel is in need of some love. It is becoming a W resort and I think they are just maintaining enough until then. We still had a wonderful stay and the rooms are large, bigger than our Manhattan apartment.Make sure to leave the resort for meals, they don't change the menu...at all. The service is good, but really slow. There are some wonderful places to eat off the property. The best restaurant El Quenepo, we had a great dinner.Many people visiting question the Navy being there, it's a non-issue there is nothing to worry about, Be sure to rent a car early so you can venture off the property and visit all the beautiful beaches(green).Enjoy Vieques!!!!!  
+<Date>Mar 11, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	40(love):1	43(leave):1	51(enjoy):1	72(resort):1	161(change):1	213(meal):1	423(menu):1	3485(vieques):1	
+0	
+3	48(wonderful):1	751(apartment):1	1316(manhattan):1	
+13	26(people):1	30(beach):1	45(beautiful):1	65(visit):2	121(car):1	214(property):1	394(question):1	831(worry):1	1005(green):1	1030(rend):1	1440(venture):1	6868(navy):1	8174(non-issue):1	
+2	72(resort):1	562(maintain):1	
+0	
+16	9(service):1	10(restaurant):1	18(book):1	20(look):1	47(eat):1	48(wonderful):1	51(enjoy):1	88(read):1	117(dinner):1	213(meal):1	214(property):1	385(weather):1	455(slow):1	752(el):1	1092(destination):1	1662(relaxation):1	
+0	
+
+<Author>AZSkifamily
+<Content>Enjoyed the Martineau Bay Beautiful Location! Best place on the island to stay. Rooms are spacious (had a spectacular ocean view). Service is very friendly and accommodating. It needs a bit of updating around the pool and grounds. Food was not great and expensive, but the drinks were poured heavy. Fabulous Mojitos! Pool side service was virtually non-existent, but if you went up to the pool bar to get your own drinks they came quickly. It has a wonderful beach just steps away from the pool. Great for families as well as couples.  
+<Date>Mar 4, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	22(pool):1	52(bit):1	99(couple):1	106(family):1	270(fabulous):1	285(ground):1	342(island):1	725(update):1	5419(mojitos):1	
+3	9(service):1	12(friendly):1	624(accommodate):1	
+4	17(view):1	111(spacious):1	205(ocean):1	656(spectacular):1	
+9	1(location):1	22(pool):1	30(beach):1	45(beautiful):1	48(wonderful):1	51(enjoy):1	366(step):1	671(bay):1	11342(martineau):1	
+0	
+0	
+12	9(service):1	16(food):1	22(pool):2	27(bar):1	63(drink):2	124(expensive):1	166(own):1	471(quickly):1	1186(heavy):1	1764(pour):1	1892(virtually):1	2580(nonexistent):1	
+0	
+
+<Author>KBWR
+<Content>Could go again... My husband and I just got back from a great trip to Vieques (will post more info in the forums for vieques...)re: the hotel.we went into this not expecting a whole lot, based on other reviews. There were some things we loved and some we didn't1. Our ocean room, which we upgraded to (for $50/night) when we got there was a great big beautiful room. We could see the ocean, after we looked past the pool.2. all the employees were very very very nice.3. the big pretty tub unfortunately only fills with very brown water... a pipe issue, but I get the sense it's not a new issue.4. there are signs to be sure to chain and deadbolt your room, but the chain and deadbolt had both been broken off. I called the front desk and they said, oh, yeah, but the door locks behind you, so you should be fine . and we were fine. :)5. The little thing we can't figure out: apx. 22 people arrived on Sat morning (starting w/ screaming kids at 7:15 am.) They were still there at 10pm when we returned. They rented a room below us, where they had 8 12-packs of coors light that they would go to retrieve - with very loud chattering/ cheering starting around 9am. If we didn't deal with jackhammers on a daily basis we might have been a tiny bit more tolerant, but we came to Vieques for quiet. Ultimately, we had to change rooms, to a non-ocean view room, for the final night, because we knew we couldn't deal with it (especially in the morning!)Yes - it's a one time event - but what concerned me is that the front desk, when we called in the am and then arond 10 pm (to see if the party was still going on) can we come home?, (it was going on - though they said it wasn't)....they claimed to be completely oblivious to the situation. Perhaps because our room (608) is directly at the pool... and the front desk so so far away from the pool, they never knew it.at various times in the evening, before returning and once we returned - we mentioned things like the beer. They all said, oh you should report that, they aren't allowed to do that...Here's the thing - what about the people working at the swim up bar? What about all those people? Certainly they would be making more money if these folks had their drinks versus the ones they brought... so why did it go on and on? without anyone noticing or stopping it? The whole thing seemed really odd and I just don't understand why they decided to let people continue throwing beer tops in bushes and screaming... We were gone for the day, but if we had been stuck there without a car, it would have been very frustrating. I have no problem with people having a good time, honestly, but I really didn't get the sense that everyone was even staying at the hotel.They offered to send security. We took them up on it once, in the early am, but it wasn't efficient. All at the pool went back to the screaming about 20 minutes later.All that being said, the hotel was fine. The spa facilities were nice enough for a shower on our last day... friendly staff. They charge $50 for a late check out, but we just gave the front desk our things and spent our last day swimming in some amazing waves right at the martineau beach. we actually think we would prefer the inn at the blue horizon if we were to go back, (more peaceful, closer to the beaches) but in the same breath - Martineau is probably better if you have kids, the beach was fun on our last day (though waves were way too strong for kids) - and the only place where you can sip a pina colada while you sit on the beach, as the rest of the beaches are undeveloped (thankfully!)one last thing.. we had a very nice taxi driver that they use at martineau...FYI - he is always significantly earlier than you want him to be...this is nice and a little frustrating - he'll wait, but only if he is in the mood to - otherwise, you are just leaving earlier than you want... no biggie, just an FYI! having a little trouble posting photos, but will try!  
+<Date>Jan 29, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+50	4(nice):1	5(time):2	20(look):1	22(pool):2	23(little):2	26(people):2	29(minute):1	33(trip):1	37(review):1	38(lot):1	39(return):3	40(love):1	57(water):1	62(expect):1	76(try):1	79(late):1	105(husband):1	109(pretty):1	113(fine):2	122(stop):1	205(ocean):1	244(mention):1	265(issue):2	284(base):1	311(tub):1	354(notice):1	401(efficient):1	419(past):1	443(beer):1	491(fill):1	524(unfortunately):1	542(completely):1	569(trouble):1	608(employee):1	644(post):2	761(photo):1	779(figure):1	823(various):1	890(situation):1	1028(honestly):1	1077(claim):1	1102(sense):2	1360(info):1	1667(brown):1	1757(scream):1	2067(pipe):1	3080(forum):1	3485(vieques):2	7119(10pm):1	8474(oblivious):1	
+7	26(people):1	53(arrive):1	56(morning):1	165(start):1	169(sit):1	201(kid):1	1757(scream):1	
+41	0(staff):1	2(night):1	4(nice):1	8(day):1	12(friendly):1	17(view):1	45(beautiful):1	52(bit):1	56(morning):1	58(quiet):1	61(shower):1	89(offer):1	126(especially):1	140(deal):2	157(light):1	161(change):1	163(upgrade):1	165(start):1	205(ocean):1	211(facility):1	228(break):1	314(spa):1	338(tiny):1	360(daily):1	416(loud):1	447(send):1	449(sign):1	585(below):1	627(chain):2	641(security):1	1097(rent):1	1337(final):1	1527(basis):1	2864(retrieve):1	3075(cheer):1	3485(vieques):1	3716(ultimately):1	7042(tolerant):1	7043(deadbolt):2	7200(jackhammer):1	8507(chatter):1	
+47	4(nice):2	8(day):2	23(little):1	26(people):1	28(close):1	30(beach):4	43(leave):1	85(wait):1	118(top):1	121(car):1	169(sit):1	176(fun):1	178(probably):1	180(actually):1	185(taxi):1	201(kid):2	219(decide):1	288(rest):1	324(inn):1	391(understand):1	443(beer):1	508(otherwise):1	536(prefer):1	563(driver):1	688(stick):1	694(blue):1	836(wave):1	893(strong):1	917(throw):1	1036(peaceful):1	1088(odd):1	1096(continue):1	1574(frustrate):2	1757(scream):1	1893(thankfully):1	2038(pina):1	2132(mood):1	2214(breath):1	2714(sip):1	3091(fyi):2	3138(significantly):1	3171(colada):1	3653(bush):1	5372(biggie):1	5996(horizon):1	11342(martineau):2	11662(undeveloped):1	
+0	
+26	5(time):1	8(day):1	22(pool):2	30(beach):1	31(front):4	32(check):1	36(desk):4	54(door):1	64(spend):1	67(call):2	79(late):1	113(fine):1	136(charge):1	141(home):1	145(amaze):1	250(yes):1	261(swim):1	363(party):1	383(directly):1	393(pm):1	496(concern):1	774(lock):1	836(wave):1	1106(event):1	2009(yeah):1	11342(martineau):1	
+10	26(people):1	27(bar):1	63(drink):1	80(money):1	142(bring):1	261(swim):1	359(allow):1	838(report):1	1050(folk):1	3924(versus):1	
+0	
+
+<Author>phillytraveler71
+<Content>Nice Place, but Out of Character for Vieques Our room was absolutely beautiful and comfortable and the meals we ate there were well-prepared. Having said that, though, the best parts of going to Vieques are in getting out of the resort and seeing the beaches, towns, etc., in which case paying the extra $$$ for the resort may not be money well spent. Also, the few times we called the front desk for things (to confirm the check-out times, to order room service), service was slow and/or nonexistant.  
+<Date>Jan 28, 2007
+<Rating>3	2	5	4	4	3	1	-1	
+<Aspects>
+0	
+9	30(beach):1	42(pay):1	64(spend):1	72(resort):2	73(etc):1	80(money):1	128(extra):1	239(town):1	3485(vieques):1	
+9	4(nice):1	25(comfortable):1	45(beautiful):1	47(eat):1	189(absolutely):1	213(meal):1	1049(character):1	3485(vieques):1	12716(well-prepare):1	
+0	
+0	
+8	5(time):2	9(service):2	31(front):1	36(desk):1	67(call):1	455(slow):1	658(checkout):1	982(confirm):1	
+0	
+0	
+
+<Author>mastsrch
+<Content>Good Value This property had such varying reviews and comments, I was very nervous. I think it comes down to your expectations and the price. We've done the high end Caribbean, and were attracted by the very reasonable in-season rates? That's where I take issue with all the complainers. Our experience was positive, and we have stayed at some nice resorts. The property does show signs that it is in transition, you could argue that it is tired in some respects, but I found it to be completely acceptable given the nightly rate. The staff were all friendly, and very helpful. They have some areas closed off for renovation, but this was not obtrusive in any way. We upgraded to an oceanfront room for an extra $50 and felt it was worth it. The view was directly to the ocean and horizon, and the surf sounds made for pleasant sleep. The room itself was nice sized, particularly the bathroom. It is not a $500+ room, of course, but for the price we paid to stay at Martineau, we had no complaints. If you are a perfectionist about your room and need pristine, buffed out amenities, you shouldn't be bargain-hunting. What I particularly liked was that it was very quiet during our stay, and easy to go from the room to the lobby or swimming pool area.The pool is a typical resort pool, we didn't really use it. The pool bar and restaurant is average. The beach is small but came in handy on a day we were short on beach time and just wanted to chill out on a lounge chair. Not crowded and again the surf sounds were pleasant. Also, the general lanscaping between the beach and the resort makes it more private and low key.The restaurant is OK for breakfast. We elected to go into town to Roy's coffee house. We really liked the atmosphere there and the owner is a great guy. We also passed on Paso Fino for dinner. It appeared pricey and the room was usually empty, and lacked the fun ambiance you can find elsewhere. There are much better dining options if you have wheels (bbh was my favorite). A nice bar atmosphere is at Inn at Blue Horizon. In Esparanza, the sunset is nice from the top porch of Bananas.We learned that some of the restaurants have undergone changes as far as chefs, and the ones that were previously very good have suffered somewhat. I think there are some fun dining choices on Vieques overall.If you stay at Martineau, you need a jeep. We rented from the place across the street and had no problem. This gives you the freedom to explore the beaches and get around the island. Watch out for horses and cows!The beaches are undeveloped, except for state park like picnic tables and trash cans. Blue beach was one of the nicer. I think the beaches are somewhat overhyped on Vieques. I liked them, but think they are a bit oversold in most reviews. Snorkelling is better elswhere in the Caribbean. Esparanza is a lively little place with a picturesque waterfront.We did Bio bay and enjoyed it very much. Overall, Vieques was memorable but it is better for a more independent and adventursome traveller. It is much less expensive than the rest of the Caribbean (rooms, taxis, whatever). The people are very friendly and generally welcoming. It is not a clean island, and their is a good amount of litter. The other issue that continually came up from local people was the amount of petty theft on the island. We were continually warned about items being stolen from our Jeep. This was reported a few times and caught us off guard a bit. If you like to explore, and enjoy local Puerto Rican flavor, it's great. If you prefer easy access to the beach, being pampered, and having your cocktail served to you in a lounge chair, you should look elsewhere. I doubt I'd bring my younger kids to Vieques. It's a little rough around the edges and there a just simply better Caribbean options.Some of the boutique hotels looked interesting, bbh (Bravo Beach Hotel) and Inn at Blue Horizon. We didn't get to see Haciendo Tamarindo but that gets excellent reviews. For us, Martineau met expectations that were set somewhat lower to begin with.  
+<Date>Jan 25, 2007
+<Rating>4	4	3	3	3	4	4	5	
+<Aspects>
+67	4(nice):1	5(time):1	12(friendly):1	21(excellent):1	22(pool):2	23(little):1	26(people):2	37(review):2	51(enjoy):2	52(bit):2	70(overall):1	72(resort):1	78(rate):1	118(top):1	142(bring):1	150(pleasant):1	195(local):2	201(kid):1	202(welcome):1	245(watch):1	265(issue):2	267(traveler):1	273(reasonable):1	313(crowd):1	316(dine):1	336(option):2	342(island):1	376(favourite):1	409(sound):1	488(simply):1	540(catch):1	594(explore):1	628(typical):1	666(amount):1	671(bay):1	838(report):1	876(snorkel):1	915(puerto):1	931(caribbean):3	952(doubt):1	1047(rough):1	1190(edge):1	1205(memorable):1	1246(sunset):1	1388(banana):1	1396(surf):1	1762(guard):1	1946(horse):1	2147(flavor):1	2452(attract):1	2495(wheel):1	2859(rican):1	3465(theft):1	3485(vieques):2	3726(porch):1	3831(continually):1	3840(jeep):1	3860(independent):1	4207(cow):1	4613(petty):1	4615(complainer):1	6664(bio):1	9226(oversold):1	10548(elswhere):1	11342(martineau):1	11839(bbh):1	12618(tamarindo):1	
+43	4(nice):2	19(price):2	27(bar):1	37(review):1	42(pay):1	44(experience):1	70(overall):1	72(resort):1	81(value):1	107(choice):1	176(fun):2	190(complaint):1	196(meet):1	214(property):1	234(set):1	291(amenity):1	293(course):1	316(dine):1	324(inn):1	349(lack):1	356(comment):1	368(guy):1	399(usually):1	414(atmosphere):2	431(expectation):2	458(positive):1	541(appear):1	546(pricey):1	551(begin):1	646(elsewhere):1	651(somewhat):1	672(owner):1	694(blue):1	777(lour):1	810(empty):1	957(ambience):1	1408(nervous):1	2018(vary):1	2981(pristine):1	3485(vieques):1	5996(horizon):1	6044(buff):1	11342(martineau):2	
+30	4(nice):1	13(bathroom):1	17(view):1	22(pool):1	28(close):1	34(feel):1	55(lobby):1	58(quiet):1	83(size):1	90(coffee):1	93(easy):1	96(worth):1	104(sleep):1	128(extra):1	150(pleasant):1	163(upgrade):1	205(ocean):1	239(town):1	261(swim):1	281(house):1	383(directly):1	409(sound):1	553(particularly):2	687(renovation):1	1396(surf):1	2686(oceanfront):1	4987(roy):1	5702(elect):1	5996(horizon):1	7385(obtrusive):1	
+39	4(nice):1	5(time):1	8(day):1	20(look):1	30(beach):8	35(street):1	66(park):1	72(resort):1	124(expensive):1	144(short):1	185(taxi):1	198(chair):1	229(table):1	237(lounge):1	288(rest):1	324(inn):1	337(except):1	339(key):1	342(island):1	492(private):1	513(low):1	594(explore):1	623(boutique):1	651(somewhat):1	694(blue):2	755(handy):1	931(caribbean):1	937(whatever):1	1097(rent):1	1397(chill):1	1793(trash):1	3485(vieques):1	3652(freedom):1	3940(bravo):1	4106(picnic):1	5996(horizon):1	11662(undeveloped):1	11839(bbh):1	12486(overhype):1	
+4	3(clean):1	342(island):1	666(amount):1	3404(litter):1	
+7	0(staff):1	12(friendly):1	14(helpful):1	23(little):1	1600(lively):1	1859(waterfront):1	3387(picturesque):1	
+42	6(breakfast):1	10(restaurant):3	20(look):1	22(pool):1	27(bar):1	30(beach):1	78(rate):1	93(easy):1	117(dinner):1	123(ok):1	159(access):1	161(change):1	174(serve):1	198(chair):1	214(property):1	227(average):1	237(lounge):1	400(pass):1	449(sign):1	454(tire):1	519(item):1	536(prefer):1	542(completely):1	646(elsewhere):1	651(somewhat):1	679(warn):1	703(learn):1	716(cocktail):1	1033(nightly):1	1122(previously):1	1187(steal):1	1214(acceptable):1	1361(chef):1	1389(respect):1	1790(suffer):1	1815(pamper):1	1894(argue):1	2086(undergo):1	3831(continually):1	3840(jeep):1	6761(transition):1	10410(fino):1	
+0	
+
+<Author>yourfavwhitegirl
+<Content>For the money, you don't get much. My friend and I had a room at Martineau for 4 nights. The girls at the front desk were very cold and unwelcoming. You get the impression their guarding a fortress or something.We figured since it was such a highly rated facility they'd have a hotel shuttle from the airport, since it's right down the street. NOPE! That's ok - the taxi was only $3. Fine.There were no wash clothes in our room so we asked to have some delivered to our room. It took them about 3 hours.The room we stayed in was lovely, but there was some weird lime or some sort of white substance on the floor... We had a lovely view of the pool and the ocean so that was a definite plus.We ate at the hotel restaurant the first night. There wasn't much selection, but the food we had was SPECTACULAR!!! Dessert - not so good... Their idea of creme brule is a coffee cup of custard with a CHARCOAL top. The taste was ok, but the consistency felt like Cream of Wheat.For the amount of money you pay, you really don't get anything but attitude.ADDED NOTE:DO NOT rent from Acevedo Car Rental. They gave us a dilapidated Suzuki Vitara that had no roof, the windows didn't roll up. There was a nest of mosquitoes in the back seat. And it sounded like the jeep was going to snap in half every time you hit a bump (which, on Vieques streets, is A LOT). We arranged with the owner of the rental service, to leave the jeep at the port, since we had to leave first thing in the morning. He said he'd pick it up - no problem. I called his cell phone to confirm he got the jeep and that everything was ok. He would not answer my calls and tried to charge my credit card a bunch of money with no explanation.Still trying to resolve this.  
+<Date>Jan 20, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+29	34(feel):1	60(hour):1	67(call):1	76(try):1	80(money):1	113(fine):1	121(car):1	123(ok):2	266(pick):1	296(phone):1	297(note):1	351(add):1	439(taste):1	504(seat):1	848(impression):1	963(rental):1	982(confirm):1	1030(rend):1	1054(mosquito):1	1188(cream):1	1583(cell):1	1715(resolve):1	1762(guard):1	3840(jeep):1	5246(nope):1	5590(consistency):1	5748(nest):1	8251(wheat):1	10981(fortress):1	
+11	42(pay):1	80(money):1	90(coffee):1	118(top):1	639(idea):1	666(amount):1	800(cup):1	821(attitude):1	1180(dessert):1	5946(creme):1	12110(custard):1	
+22	2(night):1	17(view):1	22(pool):1	24(floor):1	87(lovely):2	119(window):1	146(friend):1	203(plus):1	205(ocean):1	466(white):1	557(sort):1	631(deliver):1	636(roof):1	709(clothe):1	811(wash):1	813(roll):1	1611(weird):1	2369(definite):1	4309(substance):1	4319(lime):1	8258(dilapidated):1	11342(martineau):1	
+18	5(time):1	35(street):2	38(lot):1	78(rate):1	95(airport):1	123(ok):1	138(highly):1	185(taxi):1	211(facility):1	283(half):1	321(shuttle):1	409(sound):1	775(hit):1	779(figure):1	2162(bump):1	3485(vieques):1	3840(jeep):1	4180(snap):1	
+0	
+22	9(service):1	31(front):1	36(desk):1	43(leave):2	56(morning):1	67(call):1	80(money):1	136(charge):1	222(cold):1	253(tried):1	292(card):1	625(girl):1	659(credit):1	669(answer):1	672(owner):1	680(arrange):1	963(rental):1	1288(port):1	1624(bunch):1	2693(explanation):1	3795(unwelcome):1	3840(jeep):1	
+6	2(night):1	10(restaurant):1	16(food):1	47(eat):1	333(selection):1	656(spectacular):1	
+0	
+
+<Author>MrsTraveler
+<Content>Nice resort but dated/tired-looking       Martineau Beach  
+<Date>Jan 16, 2007
+<Rating>3	3	3	3	4	4	4	-1	
+<Aspects>
+0	
+0	
+0	
+4	4(nice):1	30(beach):1	72(resort):1	11342(martineau):1	
+0	
+0	
+0	
+0	
+

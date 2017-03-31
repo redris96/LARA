@@ -1,0 +1,742 @@
+<Author>onehipdad
+<Content>Great location but be forewarned       The Rocks  
+<Date>Dec 30, 2008
+<Rating>2	2	2	5	3	3	2	1	
+<Aspects>
+0	
+0	
+0	
+3	1(location):1	773(rock):1	4083(forewarn):1	
+0	
+0	
+0	
+0	
+
+<Author>NCTakesOnTheWorld
+<Content>Fabulous Location This hotel is all about location, and we loved it! Good value, especially for being in a place where we could walk to so many points of interest (opera house, bridge, quay, restaurants, bars, and more!). Our patio had a great view, too, of the bridge.The room was very comfortable and clean, and we loved having the kitchen since we were on a 3week vacation. We also used the gym and the Internet access--- very nice amenities to have.Staff was very friendly.  
+<Date>Dec 15, 2008
+<Rating>5	5	4	5	4	5	4	3	
+<Aspects>
+3	17(view):1	740(bridge):1	973(patio):1	
+0	
+5	3(clean):1	25(comfortable):1	40(love):1	131(vacation):1	461(kitchen):1	
+12	1(location):2	7(walk):1	10(restaurant):1	27(bar):1	40(love):1	81(value):1	126(especially):1	270(fabulous):1	281(house):1	740(bridge):1	1374(opera):1	1664(quay):1	
+0	
+2	0(staff):1	12(friendly):1	
+0	
+5	4(nice):1	97(internet):1	159(access):1	291(amenity):1	523(gym):1	
+
+<Author>Dimaro
+<Content>Fabulous! This hotel was located in The Rocks, a fabulous location near the street markets, pubs and oh yes just a walk over to the Syndey Opera house in Circular Quay and steps from the city. It was near all the ferries and the trains making access to all over quite easy. Our room had a perfect view of the Opera house and had a lovely balcony from which to enjoy the summer weather. The hotel is an apartment style living hotel with modern upgrades for the most part. The staff are excellent, friendly and very helpful. Great stay!  
+<Date>Dec 12, 2008
+<Rating>5	5	5	5	5	5	5	2	
+<Aspects>
+1	270(fabulous):1	
+0	
+14	17(view):1	51(enjoy):1	74(perfect):1	87(lovely):1	151(modern):1	163(upgrade):1	191(balcony):1	206(live):1	281(house):1	326(style):1	385(weather):1	751(apartment):1	853(summer):1	1374(opera):1	
+20	1(location):1	7(walk):1	35(street):1	41(city):1	84(locate):1	93(easy):1	102(near):2	159(access):1	182(train):1	250(yes):1	264(market):1	270(fabulous):1	281(house):1	366(step):1	773(rock):1	1010(ferry):1	1374(opera):1	1393(pub):1	1664(quay):1	1912(circular):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	21(excellent):1	
+0	
+0	
+
+<Author>Cardiff2
+<Content>Good location  We chose this hotel as it is in the Rocks area of the city 鈥?where there are quite a few restaurants and bars. It is an attractive hotel which is well-maintained and very clean.Our first room (on a lower floor) was adequate, if a bit gloomy as there wasn鈥檛 much natural light due to surrounding buildings. We moved to the top floor, which was excellent. It was large, with a separate bedroom and lounge area, and the view is great 鈥?with the opera house right in front of you, and the harbour bridge to your left. In fact, it was so nice that we spent most of one sunny day on the terrace, finding it hard to tear ourselves away.The hotel is distinctively and attractively furnished, though it must be said it does look a tiny bit worn here and there in public areas. They鈥檝e squeezed in a pool, which was closed for maintenance when we were there.Staff members were friendly and efficient. Although it鈥檚 in a busy area, the hotel itself is peaceful and quiet. It seemed to be a hotel popular with couples, as we saw no children there.One small irritation is the policy on wi-fi. You have to pay A$13+ per 2 hours. This may be fine if you don鈥檛 need to be online several times a day, otherwise this can add up to a lot during your stay. Frankly, it is a skinflint policy and a Big Black Mark against the hotel. We had received complimentary wi-fi in some other hotels before arriving here. Surely, complimentary wi-fi will be the norm soon. If you aren鈥檛 inclined to pay it go to the Custom House by the nearby train station  log on free on the second floor of the public library. In summary, the Rendezvous is a well-located, good quality hotel with a fantastic view from the top floor. Pay the extra 鈥?it鈥檚 worth it 鈥?but take a short walk rather than pay their silly wi-fi prices.  
+<Date>Nov 11, 2008
+<Rating>4	5	5	5	5	4	5	2	
+<Aspects>
+14	53(arrive):1	99(couple):1	277(child):1	302(receive):1	345(complimentary):2	418(soon):1	882(mark):1	1007(black):1	1277(popular):1	1634(policy):1	1827(wi-fi):2	2033(surely):1	2109(frankly):1	2529(norm):1	
+17	7(walk):1	17(view):1	19(price):1	24(floor):1	42(pay):3	60(hour):1	86(fantastic):1	96(worth):1	118(top):1	128(extra):1	144(short):1	187(quality):1	1716(summary):1	1827(wi-fi):1	2638(silly):1	3858(well-locate):1	7883(rendezvous):1	
+43	17(view):1	20(look):1	21(excellent):1	24(floor):3	31(front):1	42(pay):1	43(leave):1	46(free):1	52(bit):2	58(quiet):1	82(station):1	118(top):1	157(light):1	182(train):1	207(move):1	220(busy):1	232(nearby):1	237(lounge):1	259(due):1	268(bedroom):1	281(house):2	338(tiny):1	379(public):2	390(adequate):1	434(wear):1	474(separate):1	561(harbor):1	667(surround):1	740(bridge):1	745(building):1	777(lour):1	787(furnish):1	1036(peaceful):1	1374(opera):1	1543(natural):1	1648(library):1	1829(wasn):1	1966(custom):1	3437(log):1	3642(incline):1	4374(gloomy):1	4666(aren):1	5571(attractively):1	
+7	22(pool):1	28(close):1	1149(maintenance):1	1634(policy):1	1827(wi-fi):1	1963(squeeze):1	5982(irritation):1	
+3	3(clean):1	1154(attractive):1	2905(well-maintaine):1	
+3	0(staff):1	12(friendly):1	401(efficient):1	
+14	1(location):1	4(nice):1	8(day):1	10(restaurant):1	27(bar):1	41(city):1	64(spend):1	162(hard):1	167(choose):1	673(terrace):1	767(ourselves):1	773(rock):1	1605(tear):1	1700(sunny):1	
+8	5(time):1	8(day):1	38(lot):1	113(fine):1	351(add):1	508(otherwise):1	822(online):1	908(don):1	
+
+<Author>JimmyandHeather
+<Content>Fantastic hotel - Stay Here We stayed here after a three week trip around Australia. When we first arrived in Sydney we stayed at the Marriot Sydney Harbour which we were not overly impressed with other than its prime location on Circular Quay. We felt it was way over priced whereas The Rendevous is also well located in the historic (but actually a bit boring ??) Rocks area and only cost us half as much. (We booked both through British Airways)Our room here was twice as big as the one we had in The Marriot and it had a well equipped Kitchenette and it was just as nice. It's only a 5 minute walk to Circular Quay and if we ever return to the beautiful harbour city of Sydney we would definitely stay here again,We find it hard to believe other guests had a bad experience - still there you go?  
+<Date>Aug 19, 2008
+<Rating>4	4	5	4	5	3	4	3	
+<Aspects>
+4	33(trip):1	75(week):1	86(fantastic):1	1530(australia):1	
+26	7(walk):1	19(price):1	29(minute):1	34(feel):1	39(return):1	41(city):1	44(experience):1	45(beautiful):1	50(bad):1	52(bit):1	59(definitely):1	84(locate):1	91(guest):1	162(hard):1	175(cost):1	180(actually):1	283(half):1	312(believe):1	561(harbor):1	773(rock):1	809(sydney):1	1098(bore):1	1274(historic):1	1664(quay):1	1912(circular):1	3517(whereas):1	
+8	4(nice):1	18(book):1	347(twice):1	884(equip):1	1165(kitchenette):1	2407(british):1	2472(marriot):1	6138(airway):1	
+10	1(location):1	53(arrive):1	343(impress):1	561(harbor):1	809(sydney):2	1345(overly):1	1664(quay):1	1774(prime):1	1912(circular):1	2472(marriot):1	
+0	
+0	
+0	
+0	
+
+<Author>vapourider
+<Content>What a gem! This hotel is a real find. Location was in the rocks area, on a not very busy street. It was half a block away from a convenience store and a coffee shop and lots of local tourist sites and shopping. Also a few minutes walk to Circular Quay and links to the whole city. The modern studio room was more like a spacious studio apartment with a sitting area and a large fully equipped kitchenette. The staff was very polite and helpful, taxis arrived as requested, restaurant recommendations,etc.I could stay day or a month, overall, a great place to stay.  
+<Date>Aug 10, 2008
+<Rating>5	4	5	5	5	5	5	-1	
+<Aspects>
+1	240(real):1	
+0	
+7	111(spacious):1	151(modern):1	169(sit):1	751(apartment):1	884(equip):1	1165(kitchenette):1	1445(studio):2	
+32	0(staff):1	1(location):1	7(walk):1	8(day):1	10(restaurant):1	14(helpful):1	29(minute):1	35(street):1	38(lot):1	41(city):1	49(shop):2	53(arrive):1	70(overall):1	73(etc):1	90(coffee):1	100(bloc):1	148(request):1	185(taxi):1	192(site):1	195(local):1	209(tourist):1	220(busy):1	255(store):1	283(half):1	388(month):1	422(polite):1	577(recommendation):1	773(rock):1	925(convenience):1	1664(quay):1	1727(link):1	1912(circular):1	
+0	
+0	
+1	805(gem):1	
+0	
+
+<Author>bettrnettr
+<Content>The Rocks rock! The Rendezvous was a fantastic hotel. It is in the heart of The Rocks, which is definitely the most interesting part of Sydney. This hotel is also walking distance to The Sydney Harbor Bridge, The Sydney Opera House, Circular Quay (the central ferry station) and a train Station. It is also walking distance to the Bus Stops for the beginning of the Sydney Explorer and Bondi Explorer buses. Our room was a nice size with a big, fully stocked kitchenette. The staff was very attentive and helpful.I would recommend this hotel to anyone who is in Sydney for the first time and wants to be walking distance to a lot of fun sites.  
+<Date>Jul 7, 2008
+<Rating>5	5	3	5	3	5	-1	2	
+<Aspects>
+6	59(definitely):1	86(fantastic):1	450(heart):1	773(rock):3	809(sydney):1	7883(rendezvous):1	
+0	
+4	4(nice):1	83(size):1	599(stock):1	1165(kitchenette):1	
+23	5(time):1	7(walk):3	15(recommend):1	38(lot):1	82(station):2	115(distance):3	120(bus):2	122(stop):1	168(central):1	176(fun):1	182(train):1	192(site):1	281(house):1	551(begin):1	561(harbor):1	740(bridge):1	809(sydney):4	1010(ferry):1	1374(opera):1	1664(quay):1	1912(circular):1	4868(bondi):1	5808(explorer):2	
+0	
+3	0(staff):1	14(helpful):1	537(attentive):1	
+0	
+0	
+
+<Author>laurensailor
+<Content>Best Hotel My fiance and I just loved this hotel! Very friendly front desk that gave us a room that was above our expectations. The room had a lot of space, unlike other hotels we stayed in while visiting Australia. The view was absolutely amazing from our large balcony. The room has a nice style that feels very up to date. The kitchen is more than we thought it would be. We only ate out while in town, but the kitchen has everything you need if you want to eat in. Our favorite part about the hotel was the location. The Rocks is very close to Circular Quay were you have multiple options of a wonderful public transport system. And The Rocks area itself is absolutely adorable! We would definitely return and will be suggesting this hotel to any friends that will be visiting Sydney.  
+<Date>May 28, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+11	39(return):1	40(love):1	59(definitely):1	65(visit):1	146(friend):1	189(absolutely):1	452(suggest):1	773(rock):1	809(sydney):1	2229(fiance):1	4375(adorable):1	
+0	
+16	4(nice):1	17(view):1	34(feel):1	38(lot):1	47(eat):2	65(visit):1	145(amaze):1	189(absolutely):1	191(balcony):1	210(space):1	239(town):1	326(style):1	461(kitchen):2	511(date):1	1163(unlike):1	1530(australia):1	
+12	1(location):1	28(close):1	48(wonderful):1	336(option):1	376(favourite):1	379(public):1	518(system):1	742(transport):1	773(rock):1	1664(quay):1	1732(multiple):1	1912(circular):1	
+0	
+4	12(friendly):1	31(front):1	36(desk):1	431(expectation):1	
+0	
+0	
+
+<Author>sendingaloha
+<Content>Another Unsatisfied Customer I just read another review that was very similar to our BAD experience. So I thought I'd add mine here too.They gave us a hassle at check-in because they couldn't find our reservation so we were put in a sub-standard room.The bed was so lumpy and the sheets were rough and itchy. The pillows stunk! There was visible mold on the walls.The street noise was really loud and since we were only on the 2nd floor even closing the window didn't help.The next day we checked into the Marriott (which has a very nice location) and we were able to get a much better room for $10.00 cheaper. They tried to charge us for a second night because of a two night minimum but I was able to fight ithem with my credit card company and I won.I am writing this review to warn everyone about this hotel. There are so many other options in Sydney in the same price range. I have no idea why anyone would want to stay at this horrible hotel.  
+<Date>May 26, 2008
+<Rating>1	1	1	3	1	1	1	1	
+<Aspects>
+9	37(review):1	303(pillow):1	344(write):1	351(add):1	544(horrible):1	639(idea):1	679(warn):1	1269(mine):1	1796(stink):1	
+18	1(location):1	4(nice):1	8(day):1	19(price):1	32(check):1	37(review):1	44(experience):1	50(bad):1	88(read):1	143(cheap):1	171(able):1	336(option):1	428(customer):1	618(marriott):1	714(range):1	809(sydney):1	874(similar):1	8949(unsatisfied):1	
+13	11(bed):1	24(floor):1	28(close):1	35(street):1	92(help):1	94(noise):1	119(window):1	416(loud):1	479(sheet):1	1047(rough):1	1326(2nd):1	3162(lumpy):1	5129(itchy):1	
+3	183(wall):1	1138(mold):1	2662(visible):1	
+0	
+14	2(night):2	136(charge):1	156(reservation):1	171(able):1	253(tried):1	286(check-in):1	292(card):1	659(credit):1	760(company):1	1193(hassle):1	1273(win):1	1759(fight):1	2124(minimum):1	6899(sub-standard):1	
+0	
+0	
+
+<Author>Jauntie
+<Content>Do not stay at this hotel Two days before we were scheduled to arrive I called to confirm my reservations and was assured that I was confirmed with a room for three nights. Imagine our surprise when after a 12 hour flight and 35 minute cab ride we arrived at the hotel only to be told that we had no reservation.After about 20 minutes they said they could give us a room and by that time we were so tired we accepted. In hind sight I wish we had walked a few blocks to any of the other hotels in town but we were so tired we weren't thinking straight. I think we would have done better sleeping on the cobblestone sidewalk the bed was so uncomfortable. The sheets felt like rough sandpaper and the bed bowed into the center like a hammock with springs digging into our backs. The pillows were lumpy and smelled of mold. In fact the whole room smelled of mold and stale cigarettes. There was visible mildew on the walls around the windows.There was about a 2 inch difference between the bedroom and the bathroom floors which is very unsafe. I stubbed my toe more than once going in and out of the bathroom.We decided to check out the next day but were told there was a 2 day minimum stay. So we ended up having to pay for a night we never used. Even though we hated to waste the money there was absolutely no way we were going to stay in that room another night.My recommendation is to stay at the Intercontinental or the Shangri-La. For just a few more $ you are going to have an immensely more comfortable experience.I will say without a doubt that the Rendezvous Hotel in Sydney is by far the worse hotel I have ever stayed in.You鈥檝e been warned!!!  
+<Date>Apr 29, 2008
+<Rating>1	1	1	4	1	1	1	1	
+<Aspects>
+8	50(bad):1	577(recommendation):1	679(warn):1	809(sydney):1	952(doubt):1	1606(intercontinental):1	3496(shangri-la):1	7883(rendezvous):1	
+5	2(night):1	25(comfortable):1	42(pay):1	44(experience):1	4047(immensely):1	
+53	2(night):2	5(time):1	8(day):1	11(bed):2	13(bathroom):2	24(floor):1	29(minute):2	34(feel):1	53(arrive):2	60(hour):1	67(call):1	69(tell):1	80(money):1	101(center):1	104(sleep):1	119(window):1	156(reservation):2	183(wall):1	189(absolutely):1	199(surprise):1	218(ride):1	231(smell):1	233(flight):1	268(bedroom):1	380(cab):1	454(tire):1	479(sheet):1	733(imagine):1	819(difference):1	856(uncomfortable):1	928(waste):1	982(confirm):2	1047(rough):1	1110(hate):1	1138(mold):1	1162(spring):1	1196(schedule):1	1247(accept):1	1349(assure):1	1365(cigarette):1	1688(inch):1	1876(mildew):1	1890(unsafe):1	2052(stale):1	2329(sidewalk):1	2662(visible):1	2918(hammock):1	3475(toe):1	3609(dig):1	5837(cobblestone):1	6297(bow):1	8582(stub):1	9862(sandpaper):1	
+7	7(walk):1	100(bloc):1	239(town):1	384(wish):1	411(sight):1	454(tire):1	827(straight):1	
+4	231(smell):1	303(pillow):1	1138(mold):1	3162(lumpy):1	
+5	8(day):2	32(check):1	69(tell):1	219(decide):1	2124(minimum):1	
+0	
+0	
+
+<Author>krispa34
+<Content>Excellent for families We stayed here for a week and had booked it at the last minute so got a very good price. We loved it - the location was fantastic - close to public transport (ferries  trains) and nice for a wander around the Rocks and the Harbour. For a family of 5 the room was very spacious and well equipped. We used the kitchen to cook quite a lot which was great for kids. The decor was modern in a brown sort of way. The only negative was that in the bathroom you could hear conversations of people in other rooms through the ventilation duct!Don't miss the excellent Susannah Place Museum just around the corner - a fascinating window into the history of the Rocks (especially when it was a Sydney slum area). The kids really enjoyed it.  
+<Date>Apr 7, 2008
+<Rating>5	5	5	5	5	4	4	-1	
+<Aspects>
+2	51(enjoy):1	201(kid):1	
+6	18(book):1	19(price):1	21(excellent):1	29(minute):1	75(week):1	106(family):1	
+29	13(bathroom):1	21(excellent):1	26(people):1	38(lot):1	106(family):1	111(spacious):1	119(window):1	126(especially):1	132(hear):1	151(modern):1	200(corner):1	201(kid):1	269(decor):1	276(miss):1	282(negative):1	461(kitchen):1	507(museum):1	550(cook):1	557(sort):1	773(rock):1	809(sydney):1	884(equip):1	1281(conversation):1	1490(history):1	1667(brown):1	2667(ventilation):1	3417(fascinate):1	6752(duct):1	7621(slum):1	
+12	1(location):1	4(nice):1	28(close):1	40(love):1	86(fantastic):1	182(train):1	379(public):1	561(harbor):1	742(transport):1	773(rock):1	1010(ferry):1	1562(wander):1	
+0	
+0	
+0	
+0	
+
+<Author>Anne_from_Ohio
+<Content>Could be cleaner; but great to have a kitchen The location of this hotel is difficult to beat--right in The Rocks, a stone's throw from the harbor. And the price was moderate (AU$189 for a twin in April, 2007). While the room and pool could have been cleaner (the blankets definitely needed to be washed, but the sheets were clean), we very much liked having a kitchen. And don't pay rack rate. Check Wotif.com to see what deals are available. This hotel could be very nice with some investment, but then it would probably be expensive.  
+<Date>Apr 5, 2008
+<Rating>3	4	3	5	2	3	3	-1	
+<Aspects>
+0	
+11	4(nice):1	19(price):1	42(pay):1	78(rate):1	124(expensive):1	178(probably):1	690(twin):1	1916(rack):1	2936(moderate):1	4989(investment):1	8563(au$):1	
+14	1(location):1	3(clean):3	22(pool):1	59(definitely):1	442(beat):1	461(kitchen):2	479(sheet):1	561(harbor):1	572(difficult):1	773(rock):1	811(wash):1	917(throw):1	1369(blanket):1	1394(stone):1	
+0	
+0	
+4	32(check):1	134(available):1	140(deal):1	8402(wotif.com):1	
+0	
+0	
+
+<Author>MarcoPolo888
+<Content>Close to The Rocks If you want somewhere really close to The Rocks this is a great choice. We had only one night in Sydney between flights and wanted to see The Sites plus take the Manley Ferry ride. Location of this hotel was great. Inside it is more OK than good but we didn't need any more than a clean and quiet place to rest our heads. Breakfast was fine. Recommended if location is key criteria.  
+<Date>Mar 16, 2008
+<Rating>4	3	2	5	3	3	3	-1	
+<Aspects>
+0	
+3	28(close):2	107(choice):1	773(rock):2	
+13	2(night):1	3(clean):1	58(quiet):1	123(ok):1	192(site):1	203(plus):1	218(ride):1	233(flight):1	288(rest):1	319(head):1	408(inside):1	809(sydney):1	1010(ferry):1	
+4	1(location):2	15(recommend):1	339(key):1	4755(criterion):1	
+0	
+0	
+2	6(breakfast):1	113(fine):1	
+0	
+
+<Author>gakkygreeneyes
+<Content>Tastefully Decorated, Nice Hotel--Mysterious Charges on my Credit Card I stayed in a studio room (complete with kitchen facilities and a balcony) for 7 nights in February 2008. The room was larger than I expected and tastefully decorated. It was very clean as well. The hotel staff were friendly and helpful and my room requests (I requested a balcony) were honored with no hassle.. The location is excellent. I have no complaints about this hotel, except one. Upon arriving home, I noticed an extra $300.00 charge on my credit card. Having kept all of my receipts, I proceeded to go through them as I do not recall having any charges in addition to the fee paid at the end of my stay. Apparently, and for some unknown reason, the hotel made an unauthorized charge AFTER I checked out. I am currently disputing this through proper channels.  
+<Date>Mar 11, 2008
+<Rating>4	3	4	5	4	4	4	-1	
+<Aspects>
+2	190(complaint):1	337(except):1	
+7	42(pay):1	136(charge):1	584(fee):1	918(addition):1	2150(proceed):1	2725(receipt):1	3014(recall):1	
+25	0(staff):1	2(night):1	4(nice):1	12(friendly):1	14(helpful):1	62(expect):1	136(charge):1	148(request):2	191(balcony):2	211(facility):1	292(card):1	305(decorate):2	461(kitchen):1	622(complete):1	659(credit):1	741(channel):1	1193(hassle):1	1230(february):1	1376(honor):1	1445(studio):1	1526(tastefully):2	1719(proper):1	2006(currently):1	4041(dispute):1	6223(mysterious):1	
+2	1(location):1	21(excellent):1	
+1	3(clean):1	
+11	32(check):1	53(arrive):1	128(extra):1	136(charge):2	141(home):1	292(card):1	354(notice):1	374(reason):1	659(credit):1	863(apparently):1	4506(unknown):1	
+0	
+0	
+
+<Author>CaroRich
+<Content>Superb service, excellent staff We arrived in Sydney on a very early flight and emailed ahead to ask if our room could be ready early. They said they would do their best - and their best was excellent because they allowed us into our room at 8.30 am, very much appreciated after a 23 hour flight. The staff could not have been better, more charming and enthusiastic, the room was spotless and the breakfast buffet is all you need. Superbly located, we would recommend this hotel to everyone unreservedly.  
+<Date>Mar 3, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+13	0(staff):1	9(service):1	21(excellent):2	53(arrive):1	60(hour):1	233(flight):2	274(ready):1	359(allow):1	407(superb):1	500(appreciate):1	809(sydney):1	976(ahead):1	1559(e-mail):1	
+4	15(recommend):1	84(locate):1	3820(superbly):1	10602(unreservedly):1	
+0	
+0	
+6	0(staff):1	6(breakfast):1	77(buffet):1	332(charm):1	548(spotless):1	3456(enthusiastic):1	
+0	
+
+<Author>missbridgett
+<Content>Love the area, but don't stay here!! First, I should say that my husband and I liked the location of this hotel. To be fair, the room was nice enough (good size), hotel in general was fine, and location was outstanding. It was fun to stay in The Rocks area and I would suggest that anyone visiting Sydney HAS to stay in this neighborhood.Having said that, we had a HORRIBLE experience with the hotel regarding their breakfast and we do NOT recommend staying here. We are not cheap people or cheap travelers, but when there isn't a price listed for breakfast, we don't expect to be secretly charged for it. In fact, is that even legal?? We've stayed at several hotels where breakfast is included so we had no reason to think otherwise at this hotel. The flier in our hotel room read Please join us for breakfast... no price listed or any indication that it wasn't free. Then while we ate from the continental-style spread (bread, cereal and juice counter) we noted there were no signs posted whatsoever that there was a charge, and the woman checking in guests didn't mention it either. ZERO indication about any sort of fee. Thinking the breakfast was complimentary, we had cereal for breakfast each morning. Needless to say we were shocked and angry to find at check out that we were charged for said breakfasts at $15 per person per day! For cereal??!!!! We explained that we were never told of a charge and were clearly very mislead and confused. We requested some sort of compromise given that we felt so misinformed and we were not met with any sort of make-good or even any sympathy. The staff was rude and told us they were not responsible. Nice. We were furious and it took the rest of the day to mentally move on. Even now, 6 months later, I'm still angry enough to post this - I don't appreciate being tricked. And at the very least, they could have offered to refund a day's worth in an effort to compromise. I'm guessing that since we are Americans they assumed we wouldn't be returning anyway... which makes me even angrier.Definately stay in The Rocks area, but do NOT stay in this hotel. If you do insist upon it, don't eat the breakfast!! For that kind of charge you can get a whole lot more than cereal at one of the MANY area restaurants!  
+<Date>Feb 6, 2008
+<Rating>3	2	3	5	3	2	2	-1	
+<Aspects>
+36	4(nice):1	8(day):2	39(return):1	40(love):1	65(visit):1	79(late):1	89(offer):1	96(worth):1	176(fun):1	207(move):1	288(rest):1	388(month):1	410(definately):1	417(anyway):1	421(neighbourhood):1	452(suggest):1	469(guess):1	500(appreciate):1	529(cereal):1	557(sort):1	584(fee):1	644(post):1	773(rock):2	809(sydney):1	1017(effort):1	1172(americans):1	1407(assume):1	1492(refund):1	2614(trick):1	2700(zero):1	2830(angry):2	3884(compromise):1	4496(legal):1	4626(indication):1	5309(furious):1	8610(mentally):1	
+19	6(breakfast):3	15(recommend):1	19(price):2	26(people):1	44(experience):1	46(free):1	62(expect):1	88(read):1	136(charge):1	143(cheap):2	173(please):1	267(traveler):1	544(horrible):1	650(list):2	930(regard):1	1290(join):1	4626(indication):1	4979(flier):1	12726(secretly):1	
+6	1(location):1	4(nice):1	83(size):1	113(fine):1	534(outstanding):1	739(fair):1	
+2	1(location):1	105(husband):1	
+0	
+37	0(staff):1	6(breakfast):1	8(day):1	10(restaurant):1	32(check):2	34(feel):1	38(lot):1	47(eat):1	69(tell):2	91(guest):1	136(charge):4	148(request):1	193(person):1	196(meet):1	244(mention):1	297(note):1	362(juice):1	392(rude):1	449(sign):1	497(bread):1	529(cereal):2	557(sort):2	566(woman):1	644(post):1	768(explain):1	1001(counter):1	1203(spread):1	1206(shock):1	1356(needless):1	1419(confuse):1	1733(whatsoever):1	2221(mislead):1	2830(angry):1	3277(responsible):1	3884(compromise):1	7906(sympathy):1	10599(misinform):1	
+9	6(breakfast):4	47(eat):1	56(morning):1	71(include):1	345(complimentary):1	374(reason):1	508(otherwise):1	529(cereal):1	1495(insist):1	
+0	
+
+<Author>KazpUk
+<Content>Great Place to stay       view from our room  
+<Date>Jan 13, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+1	17(view):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>yonobes
+<Content>Great Location in The Rocks We stayed 3 nights at the Rendezvous Stafford and were very satisfied with the location and room. We were touring Sydney for only 2 days and at the end of a 2 week trip so, we wanted a hotel near the downtown sites. The location was perfect. The Royal Botanic Gardens, Opera House, and Walsh Bay wharf were within a 1.5 mile radius of the hotel. We found many places to eat near the hotel, including a cafe for coffee and pastry or breakfast egg sandwich just steps from the hotel entrance.We requested a room with 2 twin beds and private bath. A view of the harbor was not important to us. The room was spacious enough for us to leave our suitcases open on the floor. It included a kitchen and dining table, which we used to keep some wine cold and to eat take-away Chinese on our last night.We paid AU$800 for 3 nights double occupancy with a view of the alley behind the hotel. Had read some reviews which complained about street noise; all was quiet during our stay.  
+<Date>Dec 19, 2007
+<Rating>5	3	5	5	5	3	3	-1	
+<Aspects>
+2	17(view):1	561(harbor):1	
+7	2(night):1	17(view):1	42(pay):1	179(double):1	1671(alley):1	3172(occupancy):1	8563(au$):1	
+29	1(location):2	2(night):1	11(bed):1	24(floor):1	35(street):1	37(review):1	43(leave):1	58(quiet):1	88(read):1	94(noise):1	111(spacious):1	148(request):1	226(bath):1	241(complain):1	281(house):1	310(garden):1	492(private):1	671(bay):1	690(twin):1	692(mile):1	753(royal):1	773(rock):1	784(wharf):1	899(satisfy):1	974(suitcase):1	1374(opera):1	4443(radius):1	7155(botanic):1	7883(rendezvous):1	
+10	1(location):1	8(day):1	33(trip):1	74(perfect):1	75(week):1	102(near):1	181(tour):1	192(site):1	334(downtown):1	809(sydney):1	
+0	
+0	
+19	2(night):1	6(breakfast):1	47(eat):2	71(include):2	90(coffee):1	102(near):1	222(cold):1	229(table):1	251(wine):1	275(cafe):1	316(dine):1	366(step):1	412(egg):1	461(kitchen):1	490(entrance):1	652(pastry):1	764(chinese):1	1071(sandwich):1	9803(take-away):1	
+0	
+
+<Author>AOertzen
+<Content>Do not trust pictures! Lovely area in the rocks, reception deceives you, very friendly staff but then you get to the rooms and it looks like it hasn't been refurbished since 1960! Awful itchy sheets, old kitchenette and old old bathroom. It was clean but really should be 2-3* and no more.  
+<Date>Nov 30, 2007
+<Rating>2	1	1	4	3	4	3	2	
+<Aspects>
+2	456(picture):1	1402(trust):1	
+0	
+5	13(bathroom):1	479(sheet):1	736(awful):1	1165(kitchenette):1	5129(itchy):1	
+0	
+1	3(clean):1	
+8	0(staff):1	12(friendly):1	20(look):1	87(lovely):1	129(reception):1	773(rock):1	1253(refurbish):1	3818(deceive):1	
+0	
+0	
+
+<Author>markwarl
+<Content>Much Enjoyed While we didn't pay for the harbour view rooms, my wife and I still really enjoyed our stay at the Rendezvous at the Rocks. Our room was very comfortable, and for only a small hotel it has some great facilities, like the heated pool.It's so central to everthing that we wanted to do in Sydney, especially the bridge climb (do the sunrise session! amazing!).We read trip advisor before going to the hotel, and these issues that some people have had with service seem to have been sorted out, as the service was fantastic. They're very down to earth and friendly. Next time however, I will be paying the extra money for a harbour view and nab one of the balcony rooms!  
+<Date>Nov 7, 2007
+<Rating>5	5	4	5	4	5	5	5	
+<Aspects>
+11	12(friendly):1	126(especially):1	145(amaze):1	168(central):1	740(bridge):1	809(sydney):1	1424(climb):1	2201(earth):1	2528(sunrise):1	3389(session):1	3464(everth):1	
+7	17(view):1	42(pay):1	51(enjoy):2	184(wife):1	561(harbor):1	773(rock):1	7883(rendezvous):1	
+7	5(time):1	17(view):1	42(pay):1	80(money):1	128(extra):1	191(balcony):1	561(harbor):1	
+4	22(pool):1	25(comfortable):1	211(facility):1	539(heat):1	
+0	
+0	
+8	9(service):2	26(people):1	33(trip):1	86(fantastic):1	88(read):1	265(issue):1	557(sort):1	701(advisor):1	
+0	
+
+<Author>rca12340
+<Content>Crap This motel was not as it seemed on their website. As previous reviews have indicated, the girl on reception is a rude and patronising individual. She was trying to teach a younger girl how to use the computer and was showing no joy in doing it and to display this type of displeasure in front of clients is in my opinion not acceptable.I felt really sorry for the younger girl. Also the rooms are nice but for what you pay not really good enough. There are no balconys and there is no rooftop so don't be fooled. You can not see the Opera House or The Rocks from the motel. My fiance took me here for a birthday gift while we were seeing a show at the Opera House and we were both pretty annoyed that it was not what is appears on the website (and having a nasty girl on reception does not help). As also indicated by a previous review, we also had trouble with the parking, we went back and forth from motel to car park to sort out tickets etc. Just really bad management.  
+<Date>Oct 7, 2007
+<Rating>2	1	4	4	3	1	1	3	
+<Aspects>
+3	34(feel):1	625(girl):1	891(sorry):1	
+2	4(nice):1	42(pay):1	
+7	281(house):1	773(rock):1	991(motel):1	1063(rooftop):1	1374(opera):1	2098(fool):1	8603(balconys):1	
+25	37(review):1	66(park):2	73(etc):1	92(help):1	109(pretty):1	121(car):1	129(reception):1	262(website):2	281(house):1	373(previous):1	541(appear):1	557(sort):1	569(trouble):1	621(ticket):1	625(girl):1	695(annoy):1	765(birthday):1	852(gift):1	991(motel):2	1374(opera):1	1639(nasty):1	1776(indicate):1	1999(forth):1	2229(fiance):1	2968(crap):1	
+0	
+10	37(review):1	50(bad):1	129(reception):1	373(previous):1	392(rude):1	525(management):1	625(girl):1	1596(individual):1	1776(indicate):1	5871(patronize):1	
+0	
+12	31(front):1	76(try):1	389(type):1	555(computer):1	625(girl):1	704(opinion):1	1214(acceptable):1	1917(display):1	1952(client):1	2486(joy):1	2735(teach):1	7646(displeasure):1	
+
+<Author>wap13
+<Content>Average hotel, great location The hotel is situated in the Rocks, the old Sydney neighbourhood, vibrant with bars, stores, restaurants and clubs.The hotel in itself has pleasant common areas (restaurant, pool) but very average rooms. The one i stayed in was a small appartment, with a kitchenette, separated bedroom and bath.The carpet were not very fresh and stained throughout.The TV does not provide any pay per view, just regular programming. High speed internet is only by wifi, and you have to pay a supplement.The parking adjacent to the hotel is practical but very expensive (35$ a day).  
+<Date>Sep 12, 2007
+<Rating>3	2	1	5	2	3	2	1	
+<Aspects>
+0	
+11	8(day):1	17(view):1	42(pay):1	66(park):1	116(tv):1	124(expensive):1	153(provide):1	744(regular):1	1061(adjacent):1	1531(program):1	3107(practical):1	
+14	10(restaurant):1	22(pool):1	150(pleasant):1	197(fresh):1	226(bath):1	227(average):1	268(bedroom):1	396(carpet):1	445(throughout):1	474(separate):1	723(stain):1	830(common):1	1165(kitchenette):1	5034(appartment):1	
+0	
+0	
+0	
+11	1(location):1	10(restaurant):1	27(bar):1	212(club):1	227(average):1	255(store):1	421(neighbourhood):1	574(situate):1	773(rock):1	809(sydney):1	3189(vibrant):1	
+5	42(pay):1	97(internet):1	1170(speed):1	1268(wifi):1	5178(supplement):1	
+
+<Author>Zhopa
+<Content>Great location, perfect views Not cheap, but you certainly get what you pay for - clean and functional apartment-style rooms with an absolutely stunning view out over the Opera House, and a perfect location for a tourist stay in Sydney.  
+<Date>Aug 8, 2007
+<Rating>4	3	4	5	4	3	4	3	
+<Aspects>
+0	
+0	
+13	1(location):2	3(clean):1	17(view):2	42(pay):1	74(perfect):2	143(cheap):1	189(absolutely):1	209(tourist):1	281(house):1	809(sydney):1	988(stun):1	1348(functional):1	1374(opera):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>kimmers711
+<Content>Not my favorite My family stayed in one of the townhomes on the main level, and we would not stay there again. The two of us sleeping downstairs froze to death because it was wintertime and there were huge cracks under the doors (which lead directly to the street but don't open), and we couldn't get more blankets when we asked. We were also kept up half the night by people talking outside, in addition to smoke wafting under the door into our apartment. It was quite dirty when we arrived, and very basic! I think the regular hotel rooms must have been much nicer...?? The pool was so dirty when we went that I never saw a soul use it. The reception was fairly nice but I wouldn't stay there again.  
+<Date>Jul 5, 2007
+<Rating>2	2	1	4	2	4	3	1	
+<Aspects>
+4	106(family):1	112(main):1	306(level):1	376(favourite):1	
+0	
+24	2(night):1	4(nice):2	26(people):1	35(street):1	54(door):2	98(outside):1	104(sleep):1	129(reception):1	133(huge):1	283(half):1	371(talk):1	383(directly):1	462(fairly):1	468(smoke):1	691(downstairs):1	744(regular):1	751(apartment):1	918(addition):1	922(lead):1	1321(freeze):1	1369(blanket):1	1411(crack):1	3341(death):1	6715(waft):1	
+0	
+5	22(pool):1	53(arrive):1	323(dirty):2	352(basic):1	3798(soul):1	
+0	
+0	
+0	
+
+<Author>Butteryville
+<Content>Great Stay at Rendezvous Stafford We were very happy with our stay at the Rendezvous Stafford. Front desk staff were very helpful and pleasant. Hotel room was nice and big and very clean. The bed was very comfortable and the water pressure in the shower was great! Good location walking distance to lots of restaurants and bars.Would definately stay here again.  
+<Date>Jun 18, 2007
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+1	410(definately):1	
+0	
+7	3(clean):1	4(nice):1	11(bed):1	25(comfortable):1	57(water):1	61(shower):1	686(pressure):1	
+6	1(location):1	7(walk):1	10(restaurant):1	27(bar):1	38(lot):1	115(distance):1	
+0	
+7	0(staff):1	14(helpful):1	31(front):1	36(desk):1	150(pleasant):1	155(happy):1	7883(rendezvous):2	
+0	
+0	
+
+<Author>Esporta
+<Content>Take care when paying your bill If you are not an Australian Citizen be extra careful when paying your bill at this hotel. Even though their rooms are not cheap they still screwed me for a little bit of extra profit when I stayed there from 14/2/07 to 19/02/07. When I paid the bill I was very dissatisfied with the evening receptionist鈥檚 reply when I told him unequivocally that I wanted to pay the bill in Australian Dollars (AUD). I knew my credit card company always gave the best exchange rate and I asked to pay in AUD, as I had done elsewhere in Sydney. I argued that I did not want a credit card slip showing an exchange rate and a payment in pounds Stirling. He did not seem to know what I was talking about, insisted that this was the way they always did it and the value in pounds was only a guide. I did not see the small print at the bottom of the payment slip stating that I had chosen not to pay in the local currency. On the contrary, I was insisting that I pay in AUD so either he was not fully trained or he purposely misled me. He said he could not accept payment any other way so I could do nothing as I was leaving at 6 a.m. the following morning. Needless to say, their exchange rate resulted in me paying 17 AUD more than what my credit card provider would have charged me. I stayed at 16 Hotels in New Zealand followed by one at Melbourne and Perth. The Rendezvous was the only one that pulled this well-known trick.To add insult to injury, 拢526.65 was deducted from my credit card account on 18/2/07 and for some unknown reason, 拢460.46 was incorrectly credited back the account the following day. I did not know about this because I did not return home to examine the statement for over 6 weeks, due to my holiday in New Zealand and then back to Australia.A later credit card statement showed they debited 拢478.21 from my account, i.e. 拢17.75 more than they incorrectly credited to me. They credited me the money in error and then had the audacity to take an extra 拢17.75 when they debited it back again, i.e. I had to pay for the exchange rate change between the 2 transactions. I emailed the hotel and was pleased when the Hotel Manager, Damien Kelly, apologised for the error and agreed to refund my credit card. After nearly 2 months I have NOT received the refund and I have had no reply to my emails. E-mailing the Mr Alan Featherby, CEO, Rendezvous Hotels was also a waste of time because he has not bothered to reply.I am now waiting to see if Visa will refund the money.PWilliams  
+<Date>May 31, 2007
+<Rating>3	-1	4	4	4	4	3	4	
+<Aspects>
+40	5(time):1	8(day):1	39(return):1	75(week):1	79(late):1	141(home):1	223(holiday):1	259(due):1	292(card):2	302(receive):1	307(bother):1	351(add):1	374(reason):1	388(month):1	482(follow):2	659(credit):4	858(pull):1	896(nearly):1	928(waste):1	1492(refund):1	1530(australia):1	1559(e-mail):1	1730(account):3	1811(reply):2	2614(trick):1	2809(insult):1	3245(statement):2	4397(injury):1	4506(unknown):1	4707(debit):1	4735(zealand):2	5900(deduct):1	6140(melbourne):1	6549(alan):1	6572(well-known):1	6605(incorrectly):2	7458(examine):1	7497(perth):1	7883(rendezvous):2	12130(ceo):1	
+51	23(little):1	42(pay):7	43(leave):1	52(bit):1	56(morning):1	78(rate):4	80(money):1	81(value):1	128(extra):3	136(charge):1	143(cheap):1	161(change):1	167(choose):1	182(train):1	195(local):1	242(care):1	292(card):3	371(talk):1	482(follow):1	495(bill):2	646(elsewhere):1	659(credit):4	760(company):1	809(sydney):1	829(guide):1	850(bottom):1	897(careful):1	1101(print):1	1109(result):1	1247(accept):1	1356(needless):1	1495(insist):2	1514(exchange):4	1842(pound):2	1894(argue):1	2031(slip):2	2221(mislead):1	2419(contrary):1	2628(error):1	2645(payment):3	2853(screw):1	3604(australian):1	3654(currency):1	3944(citizen):1	4707(debit):1	5189(provider):1	5360(aud):3	5407(transaction):1	6331(profit):1	7920(purposely):1	9343(audacity):1	
+0	
+0	
+0	
+22	42(pay):2	69(tell):1	80(money):1	85(wait):1	173(please):1	258(manager):1	292(card):1	430(dollar):1	473(agree):1	495(bill):2	659(credit):1	855(receptionist):1	1485(apologize):1	1492(refund):2	1559(e-mail):1	1811(reply):1	2628(error):1	3476(visa):1	3604(australian):1	5360(aud):1	6008(dissatisfy):1	6629(kelly):1	
+0	
+0	
+
+<Author>BristolTourist
+<Content>Nice hotel, great location Stayed 4 nights over Easter 2007 in one of the terraced cottages. The hotel is in a great location in the heart of the Rocks district which in our opinion is the place to stay in Sydney. It is less than a 5min walk to Circular Quay (from/to where regular airport link trains run to the airport in 20mins). Great restaurants are on the doorstep and a couple of lively pubs and bars including the beer keller are round the corner. Its a 30 min walk to to the heart of the shopping district and monorail to Darling Harbour. Bus stops for Bondi express and ferries to Darling Harbour, Manly and Taronga zoo are all a 5 min walkaway.Our cottage was available when we arrived at 8am (although check in is stated as 2pm). After a long flight that was great. There was no sign of a porter and it was a bit of struggle to get cases up and down the steps on the way to the cottages and the reception staff didn't offer to help. Although we managed you might expect some assistance for the price (A$400 a night).The cottages are right on Harrington St and also by the hotel swimming pool so yes expect some noise. Most of the pubs in the area close early anyway so there's little late night noise and we weren't disturbed although traffic woke us in the morning. You have to display a sign on your door to get your room cleaned on a Sunday. Breakfast available but we didn't take it since the area has many lovely restaurants and a number of patiseries and cafes.One thing about the cottages is that although with the sofa bed you can sleep 3 or 4 adults the cottages are all open plan and the bathrooom adjoins the upstairs bed area. The upstairs feels more like a mezzanine.  
+<Date>Apr 19, 2007
+<Rating>4	-1	4	5	5	3	3	-1	
+<Aspects>
+0	
+5	2(night):1	19(price):1	62(expect):1	645(manage):1	1669(assistance):1	
+17	3(clean):1	11(bed):2	34(feel):1	54(door):1	104(sleep):1	221(plan):1	233(flight):1	449(sign):1	556(adult):1	842(sofa):1	844(sunday):1	1358(upstairs):2	1412(adjoin):1	1917(display):1	4218(cottage):2	5224(mezzanine):1	11585(bathrooom):1	
+43	1(location):2	2(night):2	4(nice):1	7(walk):2	23(little):1	28(close):1	49(shop):1	56(morning):1	79(late):1	94(noise):1	95(airport):2	120(bus):1	122(stop):1	149(run):1	182(train):1	247(min):2	417(anyway):1	433(district):2	450(heart):2	486(traffic):1	554(wake):1	561(harbor):2	673(terrace):1	704(opinion):1	744(regular):1	773(rock):1	809(sydney):1	1010(ferry):1	1067(disturb):1	1124(express):1	1393(pub):1	1511(zoo):1	1664(quay):1	1681(darling):2	1727(link):1	1912(circular):1	2075(easter):1	2343(monorail):1	3577(5min):1	4218(cottage):1	4868(bondi):1	5007(20min):1	7950(manly):1	
+0	
+15	0(staff):1	32(check):1	52(bit):1	53(arrive):1	89(offer):1	92(help):1	129(reception):1	134(available):1	366(step):1	449(sign):1	1653(porter):1	1979(struggle):1	4218(cottage):2	7545(8am):1	7919(2pm):1	
+21	6(breakfast):1	10(restaurant):2	22(pool):1	27(bar):1	62(expect):1	71(include):1	87(lovely):1	94(noise):1	99(couple):1	134(available):1	200(corner):1	250(yes):1	261(swim):1	275(cafe):1	335(numb):1	443(beer):1	940(St):1	1393(pub):1	1600(lively):1	2071(doorstep):1	4218(cottage):1	
+0	
+
+<Author>RAP&FMP
+<Content>Fantastic Location This is a low rise hotel in the historic Rocks District of Sydney, situated 5 minutes on foot from Circular Quay - a hub for all the ferries and bus transport (local and tourist) - and 10 minutes on foot from the Opera House. Excellent views overlooking the Opera House and Sydney Harbour Bridge from floors 5 and 6. There is only a breakfast room available in the hotel , but as there are plenty of good restaurants virtually on your doorstep, this is not a problem. We had a room on the 6th floor with a small balcony, but with views which could not be equalled in Sydney. The room had a comfortable double bed, a small kitchenette and a shower/bathroom. The decor was light and pleasing; everything was clean and tidy. This hotel is not luxurious, but the location and views more than make up for this. There is a laundry on the first floor, for which there is a small charge. There is also a small swimming pool, and a fitness room if you have excess energy. There is also computer/internet access available in the lobby for a small charge. Would (and will) certainly stay there again and would wholeheartedly recommend it. We paid approx 拢114 per night.  
+<Date>Mar 10, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	15(recommend):1	5268(wholeheartedly):1	
+3	2(night):1	42(pay):1	1423(approx):1	
+29	3(clean):1	11(bed):1	17(view):2	21(excellent):1	22(pool):1	24(floor):3	25(comfortable):1	61(shower):1	136(charge):1	157(light):1	173(please):1	179(double):1	191(balcony):1	260(overlook):1	261(swim):1	269(decor):1	281(house):1	561(harbor):1	740(bridge):1	809(sydney):2	983(fitness):1	1075(laundry):1	1100(tidy):1	1165(kitchenette):1	1374(opera):1	1869(6th):1	2139(energy):1	2948(equal):1	4356(excess):1	
+23	1(location):2	17(view):1	29(minute):2	86(fantastic):1	120(bus):1	195(local):1	209(tourist):1	281(house):1	402(foot):2	433(district):1	513(low):1	574(situate):1	708(luxurious):1	742(transport):1	773(rock):1	809(sydney):1	1010(ferry):1	1274(historic):1	1374(opera):1	1436(rise):1	1664(quay):1	1912(circular):1	3027(hub):1	
+0	
+0	
+6	6(breakfast):1	10(restaurant):1	134(available):1	158(plenty):1	1892(virtually):1	2071(doorstep):1	
+5	55(lobby):1	134(available):1	136(charge):1	159(access):1	555(computer):1	
+
+<Author>Perjan
+<Content>Would not stay here again if you paid me!! We booked this hotel thinking that, for the price, it should be a very nice place to stay. The girl at reception was so rude and unhelpful that we almost left, but had paid in full up front. There was no service at all, staff grumbled rather than give us information, our room was not cleaned on the Sunday and it took us 3 trips to the parking station and back as each person gave us different information regarding payment and cost of parking. We booked and requested a twin share in a townhouse (and called prior to arrival to confirm a TWIN room). We got the townhouse, but upon arrival were told that it was not a twin, but a double and that we would have to pay extra to use the sofa bed. This is at over $300 a night anyway!! The townhouses are right on the street and very near a popular pub, so we basically had no sleep all night. I have stayed in many hotels in many cities around the world, and I have never felt so passionate about writing a review, but this hotel is so very, very bad and the staff are SO VERY RUDE, unhelpful, arrogant and dismissive that I had to warn people to BOOK SOMEWHERE ELSE!!!!! THIS PLACE IS THE PITS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+<Date>Feb 26, 2007
+<Rating>1	1	2	2	1	1	1	1	
+<Aspects>
+3	2(night):1	417(anyway):1	3413(pit):1	
+17	0(staff):1	3(clean):1	4(nice):1	9(service):1	18(book):1	19(price):1	33(trip):1	42(pay):1	66(park):2	82(station):1	175(cost):1	193(person):1	649(information):2	844(sunday):1	930(regard):1	2645(payment):1	5243(grumble):1	
+22	2(night):1	11(bed):1	18(book):1	35(street):1	42(pay):1	67(call):1	69(tell):1	102(near):1	104(sleep):1	128(extra):1	148(request):1	179(double):1	224(arrival):2	520(share):1	637(prior):1	690(twin):3	790(basically):1	842(sofa):1	982(confirm):1	1277(popular):1	1393(pub):1	6178(townhouse):3	
+0	
+0	
+21	0(staff):1	18(book):1	26(people):1	31(front):1	34(feel):1	37(review):1	41(city):1	42(pay):1	43(leave):1	50(bad):1	129(reception):1	170(else):1	272(world):1	344(write):1	392(rude):2	625(girl):1	679(warn):1	1618(unhelpful):2	3329(arrogant):1	7461(dismissive):1	10927(passionate):1	
+0	
+0	
+
+<Author>tweedybird
+<Content>Perfect location We stayed at this hotel for 5 days and loved it. It's not a big hotel and it does not have the amenities of a big hotel, but if you are looking for a nice accomodation in a fabulous location, this hotel is great. Our room was ready when we arrived at 11am. We got settled and enjoyed the magnificent view of the Sydney Harbour from our balcony. The room was nicely equipped and was clean. This may not matter to most, the shower was great. After being on a plane for 17 hours, to feel clean mattered to me!The location could not be better. It is 1 block from Circular Quay and in the heart of the Rocks which is a great area in general. We had easy access to all the public transportation which is the best way to get around Sydney. There are restaurants, shops and pubs within a very short walk from the hotel.The staff were very helpful and prompt. We had a smoke detector beeping and our safe would not operate and they were up to repair both within minutes of our call. We had no problems getting a late check-out and they were helpful in telling us how to get places we wanted to go.This hotel would be ideal for anyone staying a week or more as the room has a well-equipped kichenette. We didn't use it much, but had we stayed in Sydney longer, we likely would have.  
+<Date>Feb 23, 2007
+<Rating>5	5	4	5	4	4	4	3	
+<Aspects>
+6	100(bloc):1	450(heart):1	773(rock):1	809(sydney):1	1664(quay):1	1912(circular):1	
+6	1(location):1	4(nice):1	20(look):1	270(fabulous):1	291(amenity):1	780(accomodation):1	
+26	3(clean):1	17(view):1	29(minute):1	51(enjoy):1	53(arrive):1	61(shower):1	67(call):1	75(week):1	137(safe):1	191(balcony):1	274(ready):1	404(nicely):1	468(smoke):1	531(matter):1	545(ideal):1	561(harbor):1	809(sydney):1	884(equip):1	1398(repair):1	1405(magnificent):1	1414(settle):1	1623(operate):1	3542(well-equip):1	6403(detector):1	7133(beepe):1	7969(11am):1	
+14	1(location):2	7(walk):1	8(day):1	10(restaurant):1	40(love):1	49(shop):1	74(perfect):1	93(easy):1	144(short):1	159(access):1	379(public):1	728(transportation):1	809(sydney):1	1393(pub):1	
+5	3(clean):1	34(feel):1	60(hour):1	531(matter):1	968(plane):1	
+6	0(staff):1	14(helpful):2	69(tell):1	79(late):1	658(checkout):1	1208(prompt):1	
+0	
+0	
+
+<Author>KailuaTara
+<Content>Why do people love this hotel? I just don't understand why people love this hotel. My husband and I stayed here for two nights (we were supposed to stay for 5!) in January 2006. When we arrived, our room was supposed to be ready but they made us wait an hour! When we finally got up to the room, they gave us a room that hadn't even been cleaned!! We went back downstairs, they gave us another key and we ended up in a room with cheap, walmart-esque furniture and absolutely no view. We were highly disappointed- we'd booked this hotel based on all these great reviews on tripadvisor.com! After the second night I just couldn't stand it, afterall, this was our honeymoon trip! My husband and I were walking down George St. that night, the main drag in sydney, and stumbled upon the Saville 2 Bond Street hotel. We walked in and asked how much the rooms were and the manager offered to take us up and show us one! She was so nice. When we got up there, it was a studio with a travertine shower, washer and dryer, kitchen with dishwasher, microwave and granite countertops! At the time, the room worked out to be about $200 US a night! We were in heaven! We immediately walked back to the Rendevous, called hotes.como and canceled our resrevation and the next day finally switched hotels. I highly recommend the Saville 2 Bond Street hotel. It's literally a 5 minute walk to Circular Quay and the rocks and a block away from the Wynyard train station. The staff was extremely nice and accomodating and were totally sympathetic with our bad experience at the Rendevous. Don't stay at this hotel, stay at the Saville!!  
+<Date>Jan 30, 2007
+<Rating>1	5	4	5	5	5	4	4	
+<Aspects>
+10	2(night):1	4(nice):1	26(people):2	40(love):2	105(husband):1	391(understand):1	620(suppose):1	1018(january):1	1363(heaven):1	12915(saville):1	
+13	0(staff):1	2(night):1	4(nice):1	33(trip):1	44(experience):1	50(bad):1	110(extremely):1	444(stand):1	502(honeymoon):1	549(accomodate):1	611(totally):1	4732(afterall):1	5090(sympathetic):1	
+27	2(night):1	3(clean):1	5(time):1	7(walk):1	17(view):1	53(arrive):1	60(hour):1	61(shower):1	85(wait):1	89(offer):1	143(cheap):1	189(absolutely):1	258(manager):1	274(ready):1	339(key):1	341(finally):1	440(furniture):1	461(kitchen):1	620(suppose):1	691(downstairs):1	820(microwave):1	1209(dryer):1	1445(studio):1	2602(washer):1	2793(granite):1	3405(dishwasher):1	5440(countertops):1	
+29	2(night):1	7(walk):3	8(day):1	15(recommend):1	29(minute):1	35(street):2	67(call):1	82(station):1	100(bloc):1	105(husband):1	112(main):1	138(highly):1	182(train):1	341(finally):1	489(immediately):1	655(st):1	665(literally):1	773(rock):1	809(sydney):1	888(switch):1	1065(cancel):1	1664(quay):1	1699(drag):1	1912(circular):1	2287(george):1	3012(stumble):1	4205(bond):2	6671(wynyard):1	12915(saville):2	
+0	
+0	
+6	18(book):1	37(review):1	138(highly):1	154(disappoint):1	284(base):1	3903(tripadvisor.com):1	
+0	
+
+<Author>theoldwoman
+<Content>The best kept secret in Sydney We stayed here for three nights at the beginning of our Aussie Odyssey, and the final night before we flew home. I made the booking by emailing directly to the hotel, and they were fantastic, everything I asked for was delivered, a fourth floor room with a balcony giving views of both the Bridge and Opera House. Unfortunately we never met him, but many thanks to Damien Kelly for making our holiday so special. The location is super, smack in the heart of The Rocks. Close enough to the tourist centre, bars, cafes, shops, and restaurants, but just far enough away from the hurly burly for a quiet night鈥檚 sleep. Circular Quay is five minutes walk away so every possible form of transport, including the airport train, is right there.As well as the balcony, our room had a double bed, plus plenty of space for the sitting area, dining area, and fully equipped kitchenette. The room was clean, well fitted, and the bed comfortable, the bathroom had a bath with shower. We didn鈥檛 eat at the hotel, but only because we were out so early and back so late each day.The hotel has two pay-per-use internet machines, and a wireless network that didn鈥檛 work at all when we were there. The Rocks tourist centre also has an internet caf茅, and offers 30 minutes free wireless access for laptop users.We felt the location and standard of the hotel was excellent value. If you join the Rendezvous Hotel鈥檚 eClub programme (free to join), you get a 5% discount on bookings using the group鈥檚 website. You'd be mad to miss it!  
+<Date>Jan 13, 2007
+<Rating>4	5	5	5	5	4	4	2	
+<Aspects>
+20	2(night):2	8(day):1	47(eat):1	79(late):1	141(home):1	196(meet):1	208(special):1	223(holiday):1	271(thank):1	276(miss):1	524(unfortunately):1	551(begin):1	614(fly):1	809(sydney):1	1022(didn):1	1127(secret):1	1337(final):1	2607(mad):1	5256(aussie):1	6629(kelly):1	
+5	1(location):1	21(excellent):1	34(feel):1	81(value):1	130(standard):1	
+27	3(clean):1	11(bed):2	13(bathroom):1	17(view):1	18(book):1	24(floor):1	25(comfortable):1	61(shower):1	86(fantastic):1	158(plenty):1	169(sit):1	179(double):1	191(balcony):2	203(plus):1	210(space):1	226(bath):1	281(house):1	316(dine):1	383(directly):1	631(deliver):1	668(fit):1	740(bridge):1	884(equip):1	1165(kitchenette):1	1374(opera):1	1559(e-mail):1	1579(fourth):1	
+14	1(location):1	7(walk):1	29(minute):1	71(include):1	95(airport):1	182(train):1	450(heart):1	464(super):1	742(transport):1	773(rock):1	1164(form):1	1664(quay):1	1912(circular):1	3069(smack):1	
+0	
+0	
+17	2(night):1	10(restaurant):1	27(bar):1	28(close):1	46(free):1	49(shop):1	58(quiet):1	101(center):1	104(sleep):1	209(tourist):1	262(website):1	275(cafe):1	864(discount):1	1290(join):2	1531(program):1	2531(booking):1	7883(rendezvous):1	
+15	29(minute):1	46(free):1	89(offer):1	97(internet):2	101(center):1	159(access):1	209(tourist):1	493(machine):1	717(wireless):2	773(rock):1	1022(didn):1	1111(laptop):1	2532(caf):1	2756(user):1	2937(network):1	
+
+<Author>allesca
+<Content>Can't fault it Great location, well-equipped room and kitchen, balcony with fabulous view of the Opera House, Harbour and the bridge. Staff were low-key but very helpful. Best value in The Rocks.  
+<Date>Nov 16, 2006
+<Rating>5	5	5	5	4	4	4	4	
+<Aspects>
+0	
+2	81(value):1	773(rock):1	
+11	1(location):1	17(view):1	191(balcony):1	270(fabulous):1	281(house):1	461(kitchen):1	517(fault):1	561(harbor):1	740(bridge):1	1374(opera):1	3542(well-equip):1	
+0	
+0	
+3	0(staff):1	14(helpful):1	6561(low-key):1	
+0	
+0	
+
+<Author>raven40
+<Content>Best Value on The Rocks Not sure what hotel some of the reviewers stayed in but after three stays we think this is best value in Sydney. Location could not be better. A bright sparkling clean room with a kitchenette and a small balcony with a view that includes the bridge AND the Opera House! For many multiples more money you could stay at Four Seasons or Westin and have comparable views and an equal location but why spend the money! Our only disappointment was that during our first 2 stays breakfast was included .. now it is a high priced add on. Try the small bakery a short walk down the stairs to the next lower street.don.brown@brownchild.com  
+<Date>Oct 29, 2006
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+0	
+6	19(price):1	81(value):2	351(add):1	564(reviewer):1	773(rock):1	809(sydney):1	
+10	3(clean):1	17(view):1	71(include):1	191(balcony):1	281(house):1	740(bridge):1	880(bright):1	1165(kitchenette):1	1374(opera):1	1919(sparkle):1	
+15	1(location):2	7(walk):1	17(view):1	64(spend):1	76(try):1	80(money):2	144(short):1	568(stair):1	610(season):1	777(lour):1	889(westin):1	1483(bakery):1	1732(multiple):1	1813(comparable):1	2948(equal):1	
+0	
+0	
+3	6(breakfast):1	71(include):1	866(disappointment):1	
+0	
+
+<Author>Looeboy
+<Content>Boutique style hotel in perfect location Stayed in this hotel for three nights. The studio room was clean and well furnished and the staff helpful at all times. Continental breakfast was perfectly adequate to start the day.The location was perfect, being just a short walk to Circular Quay, the Harbour Bridge and the Opera House. Darling Harbour was also within walking distance but public transport (bus or ferry) was excellent should you rather not walk.We did the Harbour Bridge Climb which was a fantastic experience. The professionalism and safety aspects were second to none and the climb was not as arduous as I first thought.Also visited Taronga Zoo which afforded a different perspective of the harbour, and took the Bondi Explorer bus for a trip around the city which I recommend. The beach at Bondi is okay but the surrounding shops and accommodation made it look like a shanty town and it was frankly very disappointing.Excellent food at the Opera Bar on the lower concourse of the Opera House but in truth there are so many eateries to choose from.We thoroughly enjoyed our short stay in this fantastic city and recommend the Rendezvous Stafford.  
+<Date>Oct 24, 2006
+<Rating>4	4	4	5	4	5	3	5	
+<Aspects>
+6	573(none):1	1255(aspect):1	1424(climb):1	1448(safety):1	3305(professionalism):1	12024(arduous):1	
+11	6(breakfast):1	8(day):1	44(experience):1	86(fantastic):1	165(start):1	372(continental):1	390(adequate):1	561(harbor):1	595(perfectly):1	740(bridge):1	1424(climb):1	
+6	0(staff):1	3(clean):1	5(time):1	14(helpful):1	787(furnish):1	1445(studio):1	
+38	1(location):2	2(night):1	7(walk):3	15(recommend):1	20(look):1	21(excellent):1	30(beach):1	33(trip):1	41(city):1	49(shop):1	65(visit):1	74(perfect):2	115(distance):1	120(bus):2	144(short):1	154(disappoint):1	239(town):1	281(house):1	326(style):1	379(public):1	453(okay):1	561(harbor):3	623(boutique):1	667(surround):1	721(accommodation):1	740(bridge):1	742(transport):1	1010(ferry):1	1374(opera):1	1452(afford):1	1511(zoo):1	1664(quay):1	1681(darling):1	1912(circular):1	2109(frankly):1	2894(perspective):1	4868(bondi):2	5808(explorer):1	
+0	
+7	15(recommend):1	41(city):1	51(enjoy):1	86(fantastic):1	144(short):1	898(thoroughly):1	7883(rendezvous):1	
+10	16(food):1	21(excellent):1	27(bar):1	167(choose):1	281(house):1	777(lour):1	1374(opera):2	1779(eatery):1	2558(truth):1	10438(concourse):1	
+0	
+
+<Author>Warrens_of_Conder
+<Content>Great Location, FANTASTIC View We Stayed at the Rendevous Hotel on the night of the 7th of October 2006 to celebrate our 10th Wedding Anniversary. We purchased a Romantic Package which included amongst other things a 'Room with a View' . The Hotel is on the smaller size about 61 rooms and is in a really great position in the Rocks, with its own security parking below the hotel. The room itself was a reasonable size (we were on the 5th floor), clean and tidy, with its own basic kitchenette, microwave and fridge. Our room had a small balcony acessed by sliding doors with a table and chairs. The view is unbeatable for the price with great views from the Opera House all the way around to the Harbour Bridge, we could even see the bridge climbers. The room overall was comfortable and had everything that we needed (comfortable bed and a shower with heaps of pressure). Complimentary Tea and Coffee are included. Bathrooms are basic. Breakfast is next to the pool and is a basic continental but fine. I would recommend booking a room with a view as without the view its just another hotel room.All in all we had a great time and would recommend this hotel to friends, however it is just across the road from the police station and can be noisy especially on saturday nights.  
+<Date>Oct 10, 2006
+<Rating>5	4	4	5	4	4	5	-1	
+<Aspects>
+0	
+16	1(location):1	2(night):1	17(view):3	19(price):1	86(fantastic):1	281(house):1	561(harbor):1	604(wed):1	740(bridge):2	804(anniversary):1	911(october):1	1014(celebrate):1	1374(opera):1	1592(10th):1	2303(unbeatable):1	2951(7th):1	
+36	3(clean):1	11(bed):1	13(bathroom):1	15(recommend):1	17(view):3	18(book):1	24(floor):1	25(comfortable):2	54(door):1	61(shower):1	66(park):1	70(overall):1	71(include):1	83(size):2	166(own):2	191(balcony):1	198(chair):1	229(table):1	273(reasonable):1	318(fridge):1	352(basic):2	527(package):1	585(below):1	641(security):1	686(pressure):1	707(romantic):1	773(rock):1	820(microwave):1	839(5th):1	887(purchase):1	1093(position):1	1100(tidy):1	1142(slide):1	1165(kitchenette):1	4038(heap):1	6673(acess):1	
+10	2(night):1	5(time):1	15(recommend):1	82(station):1	126(especially):1	146(friend):1	217(noisy):1	230(road):1	818(saturday):1	1409(police):1	
+0	
+0	
+9	6(breakfast):1	22(pool):1	71(include):1	90(coffee):1	113(fine):1	301(tea):1	345(complimentary):1	352(basic):1	372(continental):1	
+0	
+
+<Author>Ynca
+<Content>Good location, but quite shabby and overpriced We wanted a hotel close to the Rocks as we were climbing the bridge on our last night in Sydney, but we didn't want to be in the middle of the noise and nightlife, so we chose this one.It was fine, quiet and convenient, but our room was dark and dingey and somehow prison cell like as a result. We had a little kitchenette and a very utilitarian grey bathroom. It really wasn't a room you were going to spend any time in,which suited us fine but at the price, seemed more than a bit of a rip off. The reception staff spoke very poor English and were not especially helpful. We asked to borrow a plug adaptor, and had to pay a 20 dollar deposit! Please! All in all, fine, and suited our purposes, but nothing great and definitely overpriced.  
+<Date>Sep 30, 2006
+<Rating>2	2	1	4	3	2	1	-1	
+<Aspects>
+1	173(please):1	
+11	42(pay):1	59(definitely):1	113(fine):1	430(dollar):1	727(overprice):1	861(suit):1	1174(plug):1	1428(purpose):1	1603(deposit):1	2666(borrow):1	4970(adaptor):1	
+19	5(time):1	13(bathroom):1	19(price):1	23(little):1	52(bit):1	58(quiet):1	64(spend):1	113(fine):2	186(convenient):1	459(dark):1	861(suit):1	1109(result):1	1165(kitchenette):1	1182(rip):1	1583(cell):1	2017(somehow):1	2335(grey):1	3865(prison):1	8093(utilitarian):1	
+13	1(location):1	2(night):1	28(close):1	94(noise):1	167(choose):1	325(middle):1	727(overprice):1	740(bridge):1	773(rock):1	809(sydney):1	1305(nightlife):1	1319(shabby):1	1424(climb):1	
+0	
+7	0(staff):1	14(helpful):1	126(especially):1	127(speak):1	129(reception):1	152(english):1	331(poor):1	
+0	
+0	
+
+<Author>Wellingtonian
+<Content>Five star location at three star price We stayed for five nights (20-25 August), prepaid through wotif at 165 AUD which included breakfast and a bottle of wine and paid an additional 50 AUD per night for the sofabed -- excellent value for a five star location. This was a repeat visit (after January) and we opted again for this place because of the proximity to Circular Quay -- great for hopping on ferries or trains and wonderful for just hanging out, watching the boats. Excellent place also for our four year old -- we made daily use of the hot tub (the pool was a bit too chilly for a small child -- it is winter after all). On arrival we found out that we also got a huge balcony (about 4 by 3 m) with fantastic views of the Harbour Bridge. The room included a full kitchen and was very spacious indeed. The decor is basic but adequate, the bathroom functional, shower worked really well. Reception is also basic -- not particularly friendly or present, but ok. We would definitely stay here again.  
+<Date>Aug 27, 2006
+<Rating>5	5	4	5	3	3	3	-1	
+<Aspects>
+1	59(definitely):1	
+16	1(location):2	2(night):2	6(breakfast):1	19(price):1	21(excellent):1	42(pay):1	71(include):1	81(value):1	103(star):3	238(bottle):1	251(wine):1	835(additional):1	2559(prepay):1	5086(sofabe):1	5360(aud):2	6905(wotif):1	
+17	13(bathroom):1	17(view):1	61(shower):1	71(include):1	86(fantastic):1	111(spacious):1	133(huge):1	191(balcony):1	224(arrival):1	269(decor):1	352(basic):1	390(adequate):1	461(kitchen):1	561(harbor):1	740(bridge):1	990(indeed):1	1348(functional):1	
+23	21(excellent):1	22(pool):1	48(wonderful):1	52(bit):1	65(visit):1	114(hot):1	182(train):1	245(watch):1	277(child):1	311(tub):1	360(daily):1	478(hang):1	674(boat):1	1010(ferry):1	1018(january):1	1114(proximity):1	1151(hop):1	1184(opt):1	1467(repeat):1	1599(winter):1	1664(quay):1	1912(circular):1	2622(chilly):1	
+0	
+5	12(friendly):1	123(ok):1	129(reception):1	352(basic):1	553(particularly):1	
+0	
+0	
+
+<Author>kanan
+<Content>Wonderful stay! Our plane landed early in Sydney and we arrived at the Rendezvous about 8:30 am. Our room wasn't ready but the previous guest had checked out so the front desk asked that our room be cleaned immediately so it would be ready with in the hour. We dropped off our luggage and went down the street for a wonderful breakfast . Came back in an hour and our room was ready!! We had room 511 which had a great view of the harbour and Opera House. It also had a full kitchen, was spacious and very comfortable.The area was perfect! It reminded me of Europe. Small cafes everywhere, and wonderful shops to browse and shop in . We were only a block away from Circular Quay!We were able to walk or catch the ferry to any where we wanted to go. We didn't rent a car as we were a bit intimidated about driving on the other side of the road. But it really wasn't needed. We were only in Sydney for 3 days, before we headed up north to Cairns, wish we had more time to spend . There were so many more things we could have done. We enjoyed the Zoo, and the Aquarium , like all good tourists! We also walked to the botanical gardens and while we were at the Aquarium we enjoyed Darling Harbour and the Sydney fish market. It's a pleasant walk from the Aquarium to the fish market. It's great fun to go there for lunch, fresh seafood galore!We'd definitely stay here again the next time we head to Sydney. The area can't be beat and the hotel itself was wonderful!!Highly recommended!  
+<Date>Jul 17, 2006
+<Rating>5	4	5	-1	5	-1	4	-1	
+<Aspects>
+28	5(time):1	15(recommend):1	48(wonderful):2	51(enjoy):1	52(bit):1	53(arrive):1	59(definitely):1	74(perfect):1	100(bloc):1	121(car):1	138(highly):1	209(tourist):1	230(road):1	298(drive):1	319(head):1	442(beat):1	700(europe):1	809(sydney):2	968(plane):1	1030(rend):1	1285(remind):1	1346(land):1	1511(zoo):1	1664(quay):1	1912(circular):1	2157(aquarium):1	3300(intimidate):1	7883(rendezvous):1	
+0	
+16	5(time):1	8(day):1	17(view):1	25(comfortable):1	60(hour):1	64(spend):1	111(spacious):1	274(ready):1	281(house):1	319(head):1	384(wish):1	461(kitchen):1	561(harbor):1	684(North):1	809(sydney):1	1374(opera):1	
+18	7(walk):3	48(wonderful):1	49(shop):2	51(enjoy):1	150(pleasant):1	171(able):1	264(market):2	275(cafe):1	310(garden):1	540(catch):1	561(harbor):1	653(fish):2	809(sydney):1	1010(ferry):1	1681(darling):1	2157(aquarium):2	3888(browse):1	4278(botanical):1	
+0	
+9	3(clean):1	31(front):1	32(check):1	36(desk):1	60(hour):1	91(guest):1	274(ready):2	373(previous):1	489(immediately):1	
+10	6(breakfast):1	35(street):1	48(wonderful):1	176(fun):1	197(fresh):1	249(luggage):1	252(lunch):1	662(drop):1	815(seafood):1	4216(galore):1	
+0	
+
+<Author>MaloneyFamily
+<Content>Fantastic Position We have just returned from 4 night stay in Sydney at the Rendezvous. We had put in a request for an early check in as we were to attend a wedding at lunchtime. We didn't hold out much hope but had hoped to be able to dump our luggage and perhaps freshen up. We were very surprised that our room on the 4th floor was ready for us to occupy - some 4 hours early. Good start! Although our balcony was tiny with just enough room to stand, it did offer us glimpses of the Opera House and Sydney Harbour which was a plus. We had a studio apartment with queen size bed which was great and our daughter slept soundly on the sofa bed. The apartment was very spacious with full kitchen facilities. I've seen better bathrooms but it did supply hairdryer. The pool was rather small but there was a spa and sauna too. The staff was fine and the free continental breakfast adequate. If you need a full breakfast, the Lowenbrau Beer Keller is just down the road and serves full breakfast all day. The hotel is positioned so close to everything The Rocks has to offer with Circular Quay just short walk away. Wynyard Station an easy 10 min walk. Other guests attending the wedding also stayed here and we didn't hear any complaints at all, even though the hotel was fully booked for most of our stay. We would definitely stay here again and found the rates to be very reasonable compared to some of the surrounding hotels.  
+<Date>May 10, 2006
+<Rating>4	5	4	-1	4	-1	3	-1	
+<Aspects>
+0	
+1	165(start):1	
+31	11(bed):2	13(bathroom):1	24(floor):1	60(hour):1	83(size):1	89(offer):1	104(sleep):1	111(spacious):1	191(balcony):1	199(surprise):1	203(plus):1	211(facility):1	274(ready):1	281(house):1	338(tiny):1	444(stand):1	461(kitchen):1	467(daughter):1	543(Queen):1	561(harbor):1	751(apartment):2	809(sydney):1	842(sofa):1	845(4th):1	859(supply):1	1374(opera):1	1445(studio):1	1493(hairdryer):1	1678(occupy):1	3762(glimpse):1	5546(soundly):1	
+25	2(night):1	7(walk):2	22(pool):1	28(close):1	39(return):1	59(definitely):1	78(rate):1	82(station):1	86(fantastic):1	89(offer):1	93(easy):1	144(short):1	247(min):1	273(reasonable):1	314(spa):1	381(compare):1	667(surround):1	773(rock):1	809(sydney):1	1093(position):2	1422(sauna):1	1664(quay):1	1912(circular):1	6671(wynyard):1	7883(rendezvous):1	
+0	
+11	0(staff):1	6(breakfast):1	32(check):1	46(free):1	113(fine):1	148(request):1	372(continental):1	390(adequate):1	604(wed):1	826(attend):1	3990(lunchtime):1	
+17	6(breakfast):2	8(day):1	18(book):1	91(guest):1	132(hear):1	171(able):1	174(serve):1	190(complaint):1	230(road):1	249(luggage):1	328(hope):2	443(beer):1	593(hold):1	604(wed):1	826(attend):1	1449(dump):1	2844(freshen):1	
+0	
+
+<Author>everest
+<Content>Good location, but . . . It's hard to beat the location of this hotel, but we found our room pretty spare and average. It's a small hotel and they were pretty full the week we were there, so they weren't able to provide us with something more to our liking. We were on the second floor-avoid these rooms as there is no view or balconies in many of them. If I were to stay there again, I would insist on one of the upper floors with a balcony. Otherwise, the staff was OK, but nothing special. The location is hard to beat. Close to everything in the Rocks, with tons of good places to eat and drink. Recommended for coffee in the morning or afternoon snack is the Bakers Oven, which is just down the nurse's walk stairs right across the street from the hotel entrance. Good coffee and food, friendly folks.  
+<Date>Apr 23, 2006
+<Rating>3	3	3	-1	3	-1	3	-1	
+<Aspects>
+0	
+0	
+11	1(location):2	17(view):1	24(floor):1	109(pretty):1	162(hard):1	191(balcony):2	227(average):1	442(beat):1	1333(upper):1	1495(insist):1	2266(spare):1	
+24	1(location):1	7(walk):1	15(recommend):1	28(close):1	35(street):1	47(eat):1	56(morning):1	63(drink):1	75(week):1	90(coffee):1	109(pretty):1	153(provide):1	162(hard):1	171(able):1	364(afternoon):1	406(snack):1	442(beat):1	490(entrance):1	568(stair):1	773(rock):1	967(ton):1	2916(oven):1	3348(nurse):1	9409(baker):1	
+0	
+4	0(staff):1	123(ok):1	208(special):1	508(otherwise):1	
+4	12(friendly):1	16(food):1	90(coffee):1	1050(folk):1	
+0	
+
+<Author>Bendites
+<Content>Good Hotel, awesome views and location Wonderful location. Walking distance to Circualar Quay, Ferries, Trains. Great restaurants and bars in the area. Walk back up the stairs from the hotel to a pizza bar, wine shop and towards the bridge to a great bar that has rooftop seating and quite reasonable beverages and food for the area. We were lucky and got a 5th floor room. You definately want to request 4th or 5th floor with balcony. View is perfect, however cruise ships come in and swallow up your view of the Opera House. Lucky they leave each day. We did not have a balcony room the first night but requested a room change which was accommodated the next night quite nicely.  
+<Date>Apr 18, 2006
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+3	8(day):1	43(leave):1	797(lucky):1	
+0	
+11	2(night):2	24(floor):2	148(request):2	161(change):1	191(balcony):2	404(nicely):1	410(definately):1	624(accommodate):1	797(lucky):1	839(5th):2	845(4th):1	
+15	1(location):2	7(walk):1	17(view):3	48(wonderful):1	74(perfect):1	115(distance):1	182(train):1	281(house):1	348(awesome):1	603(cruise):1	1010(ferry):1	1374(opera):1	1392(ship):1	1664(quay):1	6603(swallow):1	
+0	
+0	
+14	7(walk):1	10(restaurant):1	16(food):1	27(bar):3	49(shop):1	251(wine):1	273(reasonable):1	504(seat):1	568(stair):1	678(pizza):1	740(bridge):1	959(towards):1	1063(rooftop):1	1334(beverage):1	
+0	
+
+<Author>AimeeInCalifornia
+<Content>Great Location, View and Amenities!       Sunset View from the room  
+<Date>Mar 22, 2006
+<Rating>5	5	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+0	
+2	17(view):1	1246(sunset):1	
+3	1(location):1	17(view):1	291(amenity):1	
+0	
+0	
+0	
+0	
+
+<Author>Frequent travelers
+<Content>Book but Beware!  Great small apartment hotel in best possible location BUT with serious booking/management problems! Our second stay in 15 mos (minor snafu with first visit - we thought it was an anomaly). This time, despite numbered, written, confirmed reservation, staff failed to honor booking, tried, without comment, to place in vastly inferior room, then stonewalled, then tried to overcharge. ONLY due to our insistence and persistence did we reach an adequate compromise (with a bottle of wine) - still left with lack of confidence in competence and/or credibility! IF you can secure penthouse units (2 rooms/huge balconies/Harbor views @ $450 NZ) OR 4-5 floor studios WITH balcony/views ($286 NZ) it's worth it - this is one of the best in the area - a couple of blocks from the pricey Hyatt. Not sure though that we'd risk it or our vacation again.  
+<Date>Mar 22, 2006
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	65(visit):1	720(minor):1	4153(mo):1	8812(snafu):1	12944(anomaly):1	
+2	131(vacation):1	2168(risk):1	
+13	17(view):1	24(floor):1	96(worth):1	99(couple):1	100(bloc):1	191(balcony):1	546(pricey):1	924(hyatt):1	980(unit):1	1034(secure):1	1445(studio):1	3425(penthouse):1	7597(nz):2	
+4	1(location):1	751(apartment):1	1469(serious):1	2531(booking):1	
+0	
+14	0(staff):1	5(time):1	18(book):1	156(reservation):1	253(tried):2	344(write):1	356(comment):1	498(despite):1	982(confirm):1	1376(honor):1	1576(fail):1	3155(overcharge):1	4981(inferior):1	5991(vastly):1	
+13	18(book):1	43(leave):1	238(bottle):1	251(wine):1	259(due):1	349(lack):1	390(adequate):1	737(beware):1	851(reach):1	3884(compromise):1	4681(confidence):1	11356(persistence):1	11834(insistence):1	
+0	
+
+<Author>AussieAnn
+<Content>Disappointed... I've stayed here several times before and have recommended it many times. It used to be very modern and spotless; not now.The lobby is worn looking and so was the room. The picture on the website makes the balcony look beautiful, but in truth it's very plain and very hot.The breakfast was a typical Comfort Inntype - not what I expect from Australia! I'm afraid the new management/owners have let the place deteriorate.  
+<Date>Mar 21, 2006
+<Rating>3	3	2	-1	3	-1	4	-1	
+<Aspects>
+5	5(time):2	15(recommend):1	151(modern):1	154(disappoint):1	548(spotless):1	
+0	
+10	20(look):2	45(beautiful):1	55(lobby):1	114(hot):1	191(balcony):1	262(website):1	434(wear):1	456(picture):1	1546(plain):1	2558(truth):1	
+0	
+0	
+3	525(management):1	1544(afraid):1	6570(deteriorate):1	
+5	6(breakfast):1	62(expect):1	628(typical):1	702(comfort):1	1530(australia):1	
+0	
+
+<Author>TandyWhitebits
+<Content>Great location and brilliant value We stayed here after reading the on-line reviews at Tripadvisor and would defnitely recommend it to anyone else visiting Sydney. If we were being really critical then the hotel room was a little tired looking, but that'a being ultra picky as the room and bathroom were very clean and the view from the balcomy was unbelievable. It's worth paying the extra for an executive studio, or one bedroom room, as they seem to be above the fourth floor and so have bridge and opera house views. At the surrounding hotels a similar view of the harbour would have cost a fortune, so it's very cheap when you take into consideration the amenties (small heated pool and spa)and being so nearby Circular Quay and The Roacks. When we stayed breakfast was included in the price although I think that's changed now. If we go to Sydney again, we would defnitely stay here.  
+<Date>Jan 12, 2006
+<Rating>4	5	3	-1	5	-1	4	-1	
+<Aspects>
+2	809(sydney):1	11803(defnitely):1	
+31	1(location):1	6(breakfast):1	15(recommend):1	17(view):1	19(price):1	22(pool):1	37(review):1	65(visit):1	71(include):1	81(value):1	88(read):1	143(cheap):1	161(change):1	170(else):1	175(cost):1	232(nearby):1	314(spa):1	539(heat):1	561(harbor):1	597(tripadvisor):1	667(surround):1	793(brilliant):1	809(sydney):1	874(similar):1	1664(quay):1	1912(circular):1	2490(fortune):1	2583(consideration):1	3206(on-line):1	4529(amenty):1	11803(defnitely):1	
+21	3(clean):1	13(bathroom):1	17(view):2	20(look):1	23(little):1	24(floor):1	42(pay):1	96(worth):1	128(extra):1	268(bedroom):1	281(house):1	454(tire):1	740(bridge):1	872(executive):1	926(picky):1	1374(opera):1	1445(studio):1	1460(unbelievable):1	1579(fourth):1	2744(ultra):1	3452(critical):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Wilkies
+<Content>Fabulous location Arrived at the Rendezvous Stafford late at night with the plane buzz still in our ears, but just one look out of our room window, our tiredness vanished. There was an uninterrupted view of The Opera House.The location of this hotel is fantastic, just a few minutes walk from Circular Quay. We booked this hotel after reading comments on the website and can wholeheartedly recommend it. We knew it was on The Rocks, but didn't expect such a fantastic location.If we ever visit Sydney again, and I hope we do, it would certainly be our first choice of hotel.  
+<Date>Jan 4, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+4	65(visit):1	107(choice):1	328(hope):1	809(sydney):1	
+16	1(location):1	2(night):1	17(view):1	20(look):1	53(arrive):1	79(late):1	119(window):1	270(fabulous):1	281(house):1	968(plane):1	1374(opera):1	1684(ear):1	2000(buzz):1	7883(rendezvous):1	8099(vanish):1	10473(uninterrupted):1	
+8	1(location):2	7(walk):1	29(minute):1	62(expect):1	86(fantastic):2	773(rock):1	1664(quay):1	1912(circular):1	
+0	
+0	
+6	15(recommend):1	18(book):1	88(read):1	262(website):1	356(comment):1	5268(wholeheartedly):1	
+0	
+
+<Author>kcboy
+<Content>Awesome location       Terrace House Stairs  
+<Date>Dec 17, 2005
+<Rating>4	3	4	-1	4	-1	3	-1	
+<Aspects>
+0	
+0	
+5	1(location):1	281(house):1	348(awesome):1	568(stair):1	673(terrace):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Jockdoc
+<Content>Great location This was a great location in the Rocks. The apartment itself is beginning to show its age but overall, the staff was friendly and the included breakfast perfect to start off the morning. Having a kitchen and refrigerator makes it fun to shop at markets and making occ lunch and dinner. There is internet access with prepaid card next to the breakfast room. You could get wifi access but you need to install a wireless card in your laptop. Easy walk to the Bridgeclimb, Circular Quay and The Opera House makes it a snap to sightsee.  
+<Date>Dec 12, 2005
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+11	0(staff):1	6(breakfast):1	12(friendly):1	56(morning):1	70(overall):1	71(include):1	74(perfect):1	165(start):1	505(age):1	551(begin):1	751(apartment):1	
+0	
+17	1(location):2	7(walk):1	49(shop):1	93(easy):1	117(dinner):1	176(fun):1	252(lunch):1	264(market):1	281(house):1	461(kitchen):1	640(sight-see):1	773(rock):1	916(refrigerator):1	1374(opera):1	1664(quay):1	1912(circular):1	4180(snap):1	
+0	
+0	
+0	
+9	6(breakfast):1	97(internet):1	159(access):2	292(card):2	717(wireless):1	1111(laptop):1	1268(wifi):1	2559(prepay):1	2691(install):1	
+
+<Author>A TripAdvisor Member
+<Content>superb location Stayed here in Nov/Dec 2005. This was a fantastic hotel with much more than we needed (I originally booked the hotel for the outdoor pool which due to the bad weather and not having enough time was never used) and the location which was fantastic. Friendly staff they allowed us to have late check out at no extra charge, there is an internet to use which was handy and the breakfast surpassed expectation.This hotel is a little pricey (approx 拢120 per night in Nov/Dec 05) but you are paying for the location and view - from our room we had a superb view of the Opera house and to our left we had a great view of most of the bridge, well worth the extra money.If I was being really critical I would say that I am sure they mentioned a roof terrace when I booked - something I never actually found which is strange for a small hotel and that the windows could do with double glazing to keep the noise out at night but I suppose that is the kind of thing you should expect from a major city.  
+<Date>Dec 12, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+16	1(location):1	2(night):1	17(view):3	23(little):1	42(pay):1	43(leave):1	80(money):1	96(worth):1	128(extra):1	281(house):1	407(superb):1	546(pricey):1	740(bridge):1	1374(opera):1	1423(approx):1	1763(nov):1	
+16	2(night):1	18(book):1	41(city):1	62(expect):1	94(noise):1	119(window):1	179(double):1	180(actually):1	244(mention):1	315(major):1	620(suppose):1	636(roof):1	673(terrace):1	1058(strange):1	2144(glaze):1	3452(critical):1	
+12	1(location):2	5(time):1	18(book):1	22(pool):1	50(bad):1	86(fantastic):2	259(due):1	385(weather):1	407(superb):1	901(outdoor):1	1300(originally):1	1763(nov):1	
+0	
+12	0(staff):1	6(breakfast):1	12(friendly):1	32(check):1	79(late):1	97(internet):1	128(extra):1	136(charge):1	359(allow):1	431(expectation):1	755(handy):1	3204(surpass):1	
+0	
+0	
+
+<Author>Travelsfar1234
+<Content>Awesome place to stay, what a find!       Bedroom  
+<Date>Dec 6, 2005
+<Rating>4	5	5	-1	5	-1	4	-1	
+<Aspects>
+1	348(awesome):1	
+0	
+1	268(bedroom):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>pmrich74
+<Content>Superb location        Opera House - View from 5th floor room balcony  
+<Date>Sep 30, 2005
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+0	
+8	1(location):1	17(view):1	24(floor):1	191(balcony):1	281(house):1	407(superb):1	839(5th):1	1374(opera):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great value, Great location, Nice hotel Great tourist location in the middle of The Rocks. I arrived on a Sunday and found the outdoor crafts market going on just a block away. The hotel is on a quiet street about four blocks from both the Circular Quay ferry/subway station and the stairs to the Harbour Bridge. My room on the 3rd floor was a very pleasant surprise: it was a big studio with a kitchenette, small dining set, couch and coffee table, desk, and queen bed with side tables. I liked the furnishings: 'clean lines' style, not terribly expensive, but comfortable, tasteful, and in good shape. The most dramatic feature of the room was the 'wall of windows' with sliding glass doors onto a balcony that spanned the length of the room. The view from the room was interesting, over the rooftops of neighboring houses/shops to skyscrapers, but the view from the balcony was terrific: I could see the full span of the Harbour Bridge in one direction and a little bit of the Opera House and water in the other. (Note that I was there in winter: in summer, there are some trees that will partially obscure the 3rd floor view.)I thought this hotel was a great value for US$155 (thru Expedia). I would definitely stay here again.  
+<Date>Sep 1, 2005
+<Rating>4	5	4	-1	5	-1	4	-1	
+<Aspects>
+1	59(definitely):1	
+17	1(location):2	3(clean):1	4(nice):1	25(comfortable):1	81(value):2	124(expensive):1	188(line):1	209(tourist):1	325(middle):1	326(style):1	773(rock):1	870(furnishings):1	1066(expedia):1	1226(shape):1	1231(thru):1	1910(terribly):1	2122(tasteful):1	
+51	11(bed):1	17(view):3	23(little):1	24(floor):2	35(street):1	36(desk):1	52(bit):1	54(door):1	57(water):1	58(quiet):1	82(station):1	90(coffee):1	100(bloc):1	119(window):1	150(pleasant):1	183(wall):1	191(balcony):2	199(surprise):1	229(table):2	234(set):1	281(house):1	297(note):1	316(dine):1	327(glass):1	395(direction):1	543(Queen):1	561(harbor):2	568(stair):1	699(terrific):1	731(feature):1	740(bridge):2	828(tree):1	853(summer):1	934(neighbour):1	1010(ferry):1	1142(slide):1	1165(kitchenette):1	1192(couch):1	1374(opera):1	1445(studio):1	1599(winter):1	1664(quay):1	1879(length):1	1912(circular):1	2097(3rd):2	3500(partially):1	3772(rooftops):1	4476(skyscraper):1	5113(dramatic):1	5127(span):2	5740(obscure):1	
+6	53(arrive):1	100(bloc):1	264(market):1	844(sunday):1	901(outdoor):1	4011(craft):1	
+0	
+0	
+0	
+0	
+

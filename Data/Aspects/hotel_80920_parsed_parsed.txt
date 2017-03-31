@@ -1,0 +1,1540 @@
+<Author>ArikMN
+<Content>Decent hotel in a good location The Hotel Bijou has serviceable, if outdated, rooms. The beds, in particular, are too soft, though not exactly uncomfortable. However, for the price, it is certainly a decent option. The service is good and the location is excellent - very central with great public transportation. Sure, it's noisy, but this is almost always the case for the smaller, older hotels in this part of town. As for safety, this is downtown San Francisco, People! Sure, it's seedy, has street people, etc. - but I wouldn't call it unsafe.  
+<Date>Jan 2, 2009
+<Rating>3	4	3	4	4	4	3	4	
+<Aspects>
+5	26(people):1	177(san):1	334(downtown):1	355(francisco):1	1448(safety):1	
+3	19(price):1	257(decent):1	336(option):1	
+10	1(location):1	11(bed):1	257(decent):1	586(exactly):1	589(soft):1	856(uncomfortable):1	938(particular):1	1549(outdated):1	5334(serviceable):1	7161(bijou):1	
+14	1(location):1	9(service):1	21(excellent):1	26(people):1	35(street):1	67(call):1	73(etc):1	168(central):1	217(noisy):1	239(town):1	379(public):1	728(transportation):1	1890(unsafe):1	2209(seedy):1	
+0	
+0	
+0	
+0	
+
+<Author>aimstr8
+<Content>Don't do it! Super small rooms. Nothing fancy. Noisy all night (Gunshots, Sirens, Garbage Trucks). Did not like constant smell of fried food from the liquor store next door that sells fried chicken. Breakfast was cereal, toast, coffee, etc. Would not stay here again.  
+<Date>Dec 18, 2008
+<Rating>1	2	1	2	2	3	3	-1	
+<Aspects>
+6	2(night):1	217(noisy):1	796(fancy):1	1507(truck):1	1650(garbage):1	2282(siren):1	
+0	
+1	464(super):1	
+0	
+9	16(food):1	54(door):1	231(smell):1	255(store):1	606(sell):1	949(chicken):1	1009(fry):2	1390(liquor):1	1432(constant):1	
+0	
+5	6(breakfast):1	73(etc):1	90(coffee):1	529(cereal):1	875(toast):1	
+0	
+
+<Author>CathandDave
+<Content>Would definitly stay here again. Great location. My husband and I travel frequently for pleasure and do not like having to pay more than about $150 a night. This place was a great bargain and if you check out their rates even without going 'Hotwire', they have some very fair prices. We stayed two years ago at a hotel nearby, it was $115 then, and that same hotel is now over $300 per night! Hotel Bijou was nicer, rooms were plenty big, extra pillows (sheets a little starchy, but clean and new), adequate closet space , extra pillows, and nice clean compact bathroom with quality toiletries and a great pleasant housekeeper to boot. Very accomodating - put us in a quiter room near the center of the building, when I asked for a room away from noise. (You don't want to be near the elevator by the way, it sounds way too noisy). Yes, of course there is street noise, sirens etc. this IS a major city after all and the up-side is that you are close to all the great restaurants, pubs, entertainments and transit to all over San Fran, including BART to the airport. The only suggestions I would make would be to add some fruit to the otherwise adequate breakfast and/or maybe some yoghurt. But it's FREE, and for those who just want juice, muffin, O.J and some flakes or instant oatmeal it's more than enough to hold you until lunchtime. Also, an extra shelf in the bathroom for personal stuff would be nice. We didn't need air conditioning because of the time of year, so outside noise was not much of a factor, besides they supply ear plugs. And yes like several other people suggested, stay away from the side street- the Eddy Street liquor store has some real chatty characters hanging around most of the day and evening, but they seem only interested in talking to each other....we never had a problem, as we always walked on Mason St towards Union Square and avoided that corner and that street in particular. Again, it's a major city and has it's fair share of street people and pan handlers like most others. Don't let it get in your way of having a great time, this is a wonderful city with lots of fun activities. If you like fun pubs, don't miss the piano bar at Lefty O'Douls just a short walk away. Lots of tourists but great fun.  
+<Date>Dec 9, 2008
+<Rating>4	5	4	5	4	5	5	-1	
+<Aspects>
+11	2(night):1	5(time):1	38(lot):2	41(city):1	48(wonderful):1	176(fun):2	209(tourist):1	232(nearby):1	357(activity):1	633(ago):1	2971(definitly):1	
+18	2(night):1	19(price):1	32(check):1	42(pay):1	68(travel):1	78(rate):1	94(noise):1	101(center):1	102(near):1	105(husband):1	135(build):1	549(accomodate):1	739(fair):1	759(bargain):1	907(pleasure):1	1573(frequently):1	1824(hotwire):1	6833(quiter):1	
+39	3(clean):2	4(nice):3	5(time):1	13(bathroom):2	23(little):1	26(people):1	35(street):1	41(city):1	94(noise):1	98(outside):1	128(extra):3	150(pleasant):1	158(plenty):1	164(air):1	187(quality):1	210(space):1	263(condition):1	303(pillow):2	315(major):1	390(adequate):1	479(sheet):1	480(stuff):1	520(share):1	565(closet):1	657(toiletry):1	711(personal):1	739(fair):1	859(supply):1	1174(plug):1	1332(besides):1	1484(shelf):1	1591(housekeeper):1	1655(factor):1	1684(ear):1	2021(compact):1	2125(pan):1	3173(boot):1	5953(handler):1	7161(bijou):1	
+45	1(location):1	7(walk):2	8(day):1	10(restaurant):1	26(people):1	27(bar):1	28(close):1	35(street):4	41(city):1	71(include):1	73(etc):1	94(noise):1	95(airport):1	139(square):1	144(short):1	176(fun):1	177(san):1	200(corner):1	240(real):1	250(yes):2	255(store):1	276(miss):1	293(course):1	315(major):1	340(entertainment):1	371(talk):1	436(avoid):1	451(union):1	452(suggest):1	478(hang):1	938(particular):1	940(St):1	959(towards):1	1049(character):1	1390(liquor):1	1393(pub):2	1505(bart):1	1744(fran):1	2015(transit):1	2016(piano):1	2282(siren):1	5075(mason):1	5368(chatty):1	8408(lefty):1	9696(eddy):1	
+0	
+0	
+20	6(breakfast):1	46(free):1	102(near):1	215(fruit):1	216(elevator):1	217(noisy):1	308(maybe):1	351(add):1	362(juice):1	390(adequate):1	409(sound):1	508(otherwise):1	593(hold):1	921(suggestion):1	927(yogurt):1	1260(muffin):1	2986(instant):1	3073(oatmeal):1	3990(lunchtime):1	6137(flake):1	
+0	
+
+<Author>Draculas_Bride666
+<Content>Great Hotel I had read a lot of reviews about this hotel before booking it and I have to say I don't know what a lot of them were on about. We stayed here for two weeks: it was in a great location, very near union square, breakfasts were great and it was extremley clean.It is on the corner of tenderloin but we never had any problems, we always walked towards union square and we heard no noise in our room at night.It is very close to some great places to eat and the cable car stop which takes you all the way up to Fishermans wharf.The only downside is the price of the phone calles from the hotel. Our final phone bill was $350 and we only made about 8 phone calls. The internet cars are $10 for an hour but there is an internet cafe straight across the street which is $3.50 for 30 mins so is a lot cheaper.I would definately reccommend this hotel to anyone wanting to explore the city!!  
+<Date>Dec 5, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	41(city):1	67(call):1	296(phone):2	410(definately):1	495(bill):1	594(explore):1	1337(final):1	2111(reccommend):1	
+13	19(price):1	35(street):1	38(lot):1	60(hour):1	67(call):1	97(internet):2	121(car):1	143(cheap):1	247(min):1	275(cafe):1	296(phone):1	782(downside):1	827(straight):1	
+15	1(location):1	2(night):1	3(clean):1	6(breakfast):1	7(walk):1	75(week):1	94(noise):1	102(near):1	132(hear):1	139(square):2	200(corner):1	451(union):2	959(towards):1	2579(tenderloin):1	7076(extremley):1	
+7	28(close):1	47(eat):1	121(car):1	122(stop):1	484(cable):1	784(wharf):1	2198(fishermans):1	
+0	
+0	
+4	18(book):1	37(review):1	38(lot):2	88(read):1	
+0	
+
+<Author>DrRobert78
+<Content>Great but expensive stay We stayed at hotel Bijou for three nights when we first arrived in het USA. To our surprise the hotel was, although very centrally located, easy to find by car from the airport. There is no parking place at the hotel it self so you can choose from valet parking to other local parking places. Either way it costs al lot of money (expect 24-29 USD per 24 hours). That was the only downside.The hotel is very centrally located and a perfect start to explore San Francisco. The rooms are small but clean. The staff is very friendly and helpfull. We left very early ( 06:00 am)at the last day and we could make our own breakfast to take with us. Breakfast is good but simple.If you're looking for an average but very central accomodation don't hesitate.  
+<Date>Nov 16, 2008
+<Rating>3	4	3	5	4	4	4	2	
+<Aspects>
+1	782(downside):1	
+23	2(night):1	20(look):1	38(lot):1	53(arrive):1	60(hour):1	62(expect):1	74(perfect):1	80(money):1	84(locate):1	124(expensive):1	165(start):1	168(central):1	175(cost):1	177(san):1	227(average):1	355(francisco):1	594(explore):1	780(accomodation):1	879(centrally):1	902(hesitate):1	1474(usa):1	1807(usd):1	7161(bijou):1	
+1	3(clean):1	
+11	66(park):3	84(locate):1	93(easy):1	95(airport):1	121(car):1	167(choose):1	195(local):1	199(surprise):1	457(valet):1	879(centrally):1	1314(self):1	
+0	
+3	0(staff):1	12(friendly):1	1478(helpfull):1	
+5	6(breakfast):2	8(day):1	43(leave):1	166(own):1	613(simple):1	
+0	
+
+<Author>pavlovaworks
+<Content>Street Noise Very close to Union Square and start of the cable car line, good central location. The cinema theme is a great idea with San Francisco made films showing in their own cinema e.g. Dirty Harry, View to a Kill, although the jet lag meant we couldn't take full advantage. However, there were a significant number of loud street dwellers gathered outside the local liquor stores which meant almost contant noise apart from a short break around 4 - 5 a.m. There was no air conditioning and the windows needed to be permanently closed.To be honest, I expected more for the price we paid.  
+<Date>Nov 8, 2008
+<Rating>2	-1	2	5	3	3	4	3	
+<Aspects>
+0	
+4	19(price):1	42(pay):1	62(expect):1	1108(honest):1	
+0	
+28	1(location):1	28(close):2	35(street):2	94(noise):2	98(outside):1	119(window):1	121(car):1	139(square):1	144(short):1	164(air):1	165(start):1	168(central):1	188(line):1	195(local):1	228(break):1	246(mean):1	255(store):1	263(condition):1	335(numb):1	416(loud):1	451(union):1	484(cable):1	857(apart):1	1390(liquor):1	2362(significant):1	2433(gather):1	5862(permanently):1	11738(dweller):1	
+15	17(view):1	166(own):1	177(san):1	246(mean):1	323(dirty):1	355(francisco):1	639(idea):1	867(advantage):1	1118(theme):1	1589(jet):1	2070(kill):1	2345(film):1	3129(lag):1	3913(cinema):2	4786(harry):1	
+0	
+0	
+0	
+
+<Author>SimonAdam
+<Content>Recommended This is a great choice if you need a cheap, central place to sleep. Very friendly staff and easy to get to. It is 3 minutes from the main shopping district and within walking distance of lots of restaurants and bars. Breakfast is very basic, but there are some great diners very nearby, if you need some eggs or pancakes! My main negative comment would be the lack of air conditioning, as our room was very stuffy. Also, avoid the rooms overlooking Eddy St, as it's pretty noisy at night. Overall, I would recommend this hotel as a cheap base for a great city.  
+<Date>Nov 2, 2008
+<Rating>4	4	3	5	4	5	5	5	
+<Aspects>
+0	
+8	15(recommend):2	41(city):1	70(overall):1	104(sleep):1	107(choice):1	143(cheap):2	168(central):1	284(base):1	
+14	2(night):1	109(pretty):1	112(main):1	164(air):1	217(noisy):1	260(overlook):1	263(condition):1	282(negative):1	349(lack):1	356(comment):1	436(avoid):1	940(St):1	1857(stuffy):1	9696(eddy):1	
+9	7(walk):1	10(restaurant):1	27(bar):1	29(minute):1	38(lot):1	49(shop):1	112(main):1	115(distance):1	433(district):1	
+0	
+3	0(staff):1	12(friendly):1	93(easy):1	
+6	6(breakfast):1	232(nearby):1	352(basic):1	412(egg):1	1324(diner):1	1477(pancake):1	
+0	
+
+<Author>AmyKate
+<Content>All you need for a short stay city break Was pleasantly suprised with Hotel Bijou. It's in a good location, right in the centre of the shopping area and has a Metro stop within walking distance, which was handy as we caught the train from the airport.Breakfast was basic, but if cereal and toast are enough for you, you'll be fine hereI stayed in a double room which was large and well cleaned every day. Bathroom had a bath/shower combination. A few toiletries were provided. Hairdryer was sufficient enough.Internet access in reception. It cost $10 for an hour's use, which you don't have to use up all in one session.Helpful reception staffDeli's/ convienience shops close by.No in room safe or mini bar/fridge in room, which we could of done with. But you do get a complimentary bottle of water.Plenty of space to hang up or put away your clothes. Clothes hangers provided.The hotel shows films free in their petite cinema every eveningI didn't notice any noise from the street as my room wasn't on that side of the hotel. For a low cost hotel in a good location, Hotel Bijou catered for all we needed.  
+<Date>Oct 29, 2008
+<Rating>3	4	4	5	4	5	4	3	
+<Aspects>
+12	41(city):1	57(water):1	144(short):1	153(provide):1	228(break):1	238(bottle):1	345(complimentary):1	709(clothe):1	747(pleasantly):1	1738(suprise):1	2506(hanger):1	7161(bijou):1	
+7	1(location):1	60(hour):1	175(cost):2	513(low):1	1000(cater):1	3389(session):1	7161(bijou):1	
+21	13(bathroom):1	27(bar):1	35(street):1	46(free):1	94(noise):1	137(safe):1	153(provide):1	158(plenty):1	210(space):1	226(bath):1	354(notice):1	448(mini):1	478(hang):1	657(toiletry):1	709(clothe):1	1493(hairdryer):1	1713(sufficient):1	1929(combination):1	2345(film):1	3708(petite):1	3913(cinema):1	
+14	1(location):1	7(walk):1	14(helpful):1	28(close):1	49(shop):2	95(airport):1	101(center):1	115(distance):1	122(stop):1	129(reception):1	182(train):1	235(metro):1	540(catch):1	755(handy):1	
+0	
+0	
+8	3(clean):1	6(breakfast):1	8(day):1	113(fine):1	179(double):1	352(basic):1	529(cereal):1	875(toast):1	
+3	97(internet):1	129(reception):1	159(access):1	
+
+<Author>sanro
+<Content>great hotel great low budget hotel in the center of the city, some street noice but that's what you get in the center.Nice and helpfull staff, great continental breakf, nice rooms en bathroom.  
+<Date>Oct 25, 2008
+<Rating>4	4	4	4	3	3	3	4	
+<Aspects>
+0	
+0	
+6	0(staff):1	4(nice):2	13(bathroom):1	372(continental):1	1478(helpfull):1	2065(en):1	
+6	35(street):1	41(city):1	101(center):2	429(budget):1	513(low):1	5156(noice):1	
+0	
+0	
+0	
+0	
+
+<Author>jaxtrips
+<Content>Horrible experience! Terrible customer service, terrible billing, they lost my reservations and even when I provided a copy of their email with my reservation number, they still could not locate the reservation in the system. Consequently, the billing was totally messed up and they took no responsibility in it. On top of that, the hotel is dirty, loud and hot.  
+<Date>Oct 1, 2008
+<Rating>1	1	1	1	1	1	1	1	
+<Aspects>
+5	495(bill):1	611(totally):1	1644(mess):1	3721(responsibility):1	4416(consequently):1	
+2	44(experience):1	544(horrible):1	
+0	
+11	9(service):1	84(locate):1	153(provide):1	156(reservation):3	335(numb):1	428(customer):1	432(terrible):2	495(bill):1	518(system):1	596(lose):1	2245(copy):1	
+4	114(hot):1	118(top):1	323(dirty):1	416(loud):1	
+0	
+0	
+0	
+
+<Author>bachanelli
+<Content>Not a bad hotel but not the best We stayed at this hotel for a couple of nights, which is probably enough. Yes, it is close to some of the dodgier areas but it is also close to Union Square and other, more accessible areas (you could tell where you should and should not go). We did have some problems: on our arrival at the hotel we were told that they did not have our booking鈥?Fortunately it was soon discovered but we were told that (despite it being 2.45 pm, with check-in at 3.00 pm) the room was not ready and asked to come back in an hour. After a 10 and a half transatlantic flight this is not really what one wants to hear. We returned after an hour and the room was still not ready. They did (eventually) assign us a room (directly next to the elevator shaft). Yes, there was some noise from the street (it being a busy city I expected it) but there was a construction site next door that started work early. It was clean and good as a base to explore the city.  
+<Date>Sep 30, 2008
+<Rating>2	2	3	2	3	2	2	3	
+<Aspects>
+4	2(night):1	50(bad):1	99(couple):1	178(probably):1	
+0	
+13	28(close):2	39(return):1	60(hour):1	69(tell):1	132(hear):1	139(square):1	233(flight):1	250(yes):1	274(ready):1	283(half):1	451(union):1	1342(accessible):1	7585(transatlantic):1	
+10	35(street):1	41(city):1	54(door):1	62(expect):1	94(noise):1	165(start):1	192(site):1	220(busy):1	250(yes):1	583(construction):1	
+4	3(clean):1	41(city):1	284(base):1	594(explore):1	
+11	18(book):1	60(hour):1	69(tell):2	224(arrival):1	274(ready):1	286(check-in):1	393(pm):2	418(soon):1	498(despite):1	869(discover):1	1585(fortunately):1	
+5	216(elevator):1	383(directly):1	1204(eventually):1	1722(assign):1	3630(shaft):1	
+0	
+
+<Author>Beckham126
+<Content>Beware of noise and bad neighborhood. This hotel is located close to Union Square, but also to a neighborhood that isn't very nice for tourists at all.The rooms are small, but okay if you'll only have to stay here for some days. There are no A/C in the rooms, which can be quite annoying since the hotel is heated constantly. The frontdesk staff is really helpfull and gives you good advises for nearly everything in and out of San Francisco.Be aware of the noise in the nighttime, since you have to sleep with the windows open. Dont know if we were unlucky, but we slept in two different rooms, one with windows to the street and the other with windows to the backyard, and both rooms where so noisy that we had to use the ear plugs that the hotel gives to you.The breakfast was nothing special, but it was free.Only two stars from me because of the noise in the nightime, making us sleep some hours in daytime, cause else you wouldt get sleep at all.  
+<Date>Sep 9, 2008
+<Rating>2	2	3	2	4	5	3	4	
+<Aspects>
+4	50(bad):1	94(noise):1	421(neighbourhood):1	737(beware):1	
+8	60(hour):1	94(noise):1	103(star):1	104(sleep):2	170(else):1	943(cause):1	2503(daytime):1	6404(nightime):1	
+17	8(day):1	35(street):1	94(noise):1	104(sleep):2	119(window):3	217(noisy):1	453(okay):1	503(dont):1	539(heat):1	695(annoy):1	832(aware):1	995(constantly):1	1174(plug):1	1684(ear):1	3701(night-time):1	3952(unlucky):1	4859(backyard):1	
+7	4(nice):1	28(close):1	84(locate):1	139(square):1	209(tourist):1	421(neighbourhood):1	451(union):1	
+0	
+7	0(staff):1	177(san):1	355(francisco):1	663(advise):1	896(nearly):1	1478(helpfull):1	5149(frontdesk):1	
+3	6(breakfast):1	46(free):1	208(special):1	
+0	
+
+<Author>Garyddd73
+<Content>Best hotel in San Francisco for tourists       doors  
+<Date>Aug 24, 2008
+<Rating>5	5	5	5	4	5	4	-1	
+<Aspects>
+4	54(door):1	177(san):1	209(tourist):1	355(francisco):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>twodobes-mom
+<Content>Good Bargain, I'd go again We visited San Fran at the end of March 2008 and booked a last minute hotel through Hotwire. I was somewhat concerned about the pick after I read the reviews, but we were pleasantly surprised.No the rooms don't have A/C, yes, even in March it got stuffy and we would open the window. I loved the charm of the fire escape from one of our windows (lots of bird poop though). We were in a corner room which I understand is larger, but probably also noisier - much more so with the windows open. We didn't use the earplugs once... the noise didn't bother me. The rooms were clean and very adequate. There was an incident one afternoon across the street, several police officers had detained a woman that kept yelling Where's my crack pipe!? It was more comical than anything. However that does lead me to the fact that it is in a semi-questionable area of town. But in a group I felt safe. There are homeless people in all areas of SF, it was no different here. The breakfast was meager and carb laden --but free!. The coffee was nasty. They did have hard boiled eggs. The movies at night were OK (VHS TV surrounded by curtains), we watched one for 15 minutes and then got bored, but the night guy was super nice and even popped us microwave popcorn for the movie. In fact I found all of the staff to be very pleasant. Maybe you get what you give?We had a great stay, I loved the location so close to the cable car line and great shopping. For the price, I'd definitely stay again.  
+<Date>Aug 6, 2008
+<Rating>4	4	3	4	4	5	4	3	
+<Aspects>
+19	26(people):1	34(feel):1	37(review):1	88(read):1	94(noise):1	137(safe):1	199(surprise):1	239(town):1	266(pick):1	307(bother):1	308(maybe):1	496(concern):1	651(somewhat):1	747(pleasantly):1	802(sf):1	922(lead):1	1567(homeless):1	1771(earplugs):1	6837(comical):1	
+2	19(price):1	59(definitely):1	
+32	2(night):2	3(clean):1	4(nice):1	29(minute):1	38(lot):1	40(love):1	116(tv):1	119(window):3	123(ok):1	178(probably):1	200(corner):1	217(noisy):1	245(watch):1	250(yes):1	332(charm):1	368(guy):1	390(adequate):1	391(understand):1	464(super):1	615(march):1	667(surround):1	743(curtain):1	820(microwave):1	989(movie):2	1098(bore):1	1262(fire):1	1435(bird):1	1558(pop):1	1601(escape):1	1857(stuffy):1	3060(popcorn):1	9234(poop):1	
+16	1(location):1	28(close):1	35(street):1	40(love):1	49(shop):1	121(car):1	188(line):1	364(afternoon):1	484(cable):1	566(woman):1	1409(police):1	1411(crack):1	1939(yell):1	2013(incident):1	2067(pipe):1	4282(officer):1	
+0	
+2	0(staff):1	150(pleasant):1	
+17	6(breakfast):1	18(book):1	29(minute):1	46(free):1	65(visit):1	90(coffee):1	162(hard):1	177(san):1	412(egg):1	615(march):1	759(bargain):1	1598(boil):1	1639(nasty):1	1744(fran):1	1824(hotwire):1	6375(meager):1	9138(laden):1	
+0	
+
+<Author>jetsetbb
+<Content>Pretty Great Hotel! I stayed at this Hotel a while ago, but I never had the chance to review. The Hotel is located right in Union Square and about a 1 minute walk to the BART. The rooms are very clean and the decor is cool. Very old Hollywood glamour. I really enjoyed my stay there. The staff was friendly and helpful.The only downside is it's a block away from the Tenderloin district which is very sketchy, and can get a bit loud outside. But I'm a city girl, so I'm not too bothered by it. However it might really bother some. So you might want to book a room away from the street.  
+<Date>Jun 29, 2008
+<Rating>4	5	5	4	5	5	5	5	
+<Aspects>
+10	37(review):1	41(city):1	51(enjoy):1	109(pretty):1	307(bother):2	625(girl):1	633(ago):1	689(chance):1	1438(hollywood):1	5854(glamour):1	
+0	
+5	3(clean):1	18(book):1	35(street):1	269(decor):1	278(cool):1	
+14	7(walk):1	29(minute):1	52(bit):1	84(locate):1	98(outside):1	100(bloc):1	139(square):1	416(loud):1	433(district):1	451(union):1	782(downside):1	1505(bart):1	2579(tenderloin):1	3148(sketchy):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>debbied4763
+<Content>Disappointing Pretty much same review as Keduf. I had to drag the guy away from the TV to check us in, he wasn't happy about being disturbed. We had booked 2 double beds but got a room with 1 double bed and no light in the room. I went back and got another room that ended up being 2 single beds. We settled with that for 6 nights. The ear plugs they supply were essential. We had asked for a higher room or a quieter one but eventually thought ourselves lucky to get one with 2 beds. Very very noisy, there are fire, police, and ambulance sirens going all night.Hot water for tea also cold. It wasn't even a cheap hotel, our travel agent must have pocketed a lot compared to the price of it and what we paid. The only positives: it was clean and a good central location.  
+<Date>Jun 18, 2008
+<Rating>2	1	2	5	3	1	-1	-1	
+<Aspects>
+10	2(night):2	37(review):1	109(pretty):1	154(disappoint):1	217(noisy):1	1262(fire):1	1409(police):1	1414(settle):1	2282(siren):1	4240(ambulance):1	
+8	19(price):1	38(lot):1	42(pay):1	68(travel):1	143(cheap):1	381(compare):1	766(agent):1	2199(pocket):1	
+15	11(bed):4	18(book):1	32(check):1	58(quiet):1	116(tv):1	155(happy):1	157(light):1	179(double):2	304(single):1	368(guy):1	767(ourselves):1	797(lucky):1	1067(disturb):1	1204(eventually):1	1699(drag):1	
+4	1(location):1	3(clean):1	168(central):1	458(positive):1	
+0	
+0	
+8	57(water):1	114(hot):1	222(cold):1	301(tea):1	859(supply):1	1174(plug):1	1684(ear):1	2496(essential):1	
+0	
+
+<Author>miaow_girl
+<Content>Book with caution I arrived in this hotel and was at first very happy that the hotel was situated in walking distance of Union Square and the shops.However when I arrived, the hotel was busy and disorganised and we waited a long time to checked in. All the patrons were getting angry because the hotel was over booked and they kept transferring patrons to this other hotel.The hotel overall was ok. The rooms are tiny and the facilities are average. From all the hotels that i have stayed in, I thought this hotel was out dated.The beds were so uncomfortable and not sturdy. The rooms were stuffySome sheets had holes in them!The rooms were also so noisy. The first room we got placed in was horrible. Word of warning do not get a room that faces Eddy Street. Try to get a room facing Mason Street.Our first room was on this street on the 3rd floor and all night to morning we heard loud music, drunks, gunshots, etc. It was horrible! We couldn't sleep. I was told by some locals that Eddy St is part of the dodgy part of town called Tenderloin (however spelt). I would recommend you stay away from this area.After complaints, a staff member Letica was very helpful and moved us to the 6th floor to room 600, which was less noisy and slightly bigger. However it was still noisy!The continental breakfast was boring.. only bagels and hard boiled eggs etc.. nothing great.Overall I would not partically recommend staying at this hotel. The service is not up to proper standard and the rooms itself are average.. The only thing going for it is the fact that it is close to shops..  
+<Date>Jun 15, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+15	15(recommend):2	67(call):1	69(tell):1	70(overall):2	123(ok):1	195(local):1	217(noisy):1	239(town):1	511(date):1	544(horrible):1	940(St):1	2539(dodgy):1	2579(tenderloin):1	2792(spell):1	9696(eddy):1	
+0	
+35	0(staff):1	2(night):1	9(service):1	11(bed):1	14(helpful):1	24(floor):2	35(street):3	56(morning):1	73(etc):1	76(try):1	104(sleep):1	130(standard):1	132(hear):1	190(complaint):1	207(move):1	211(facility):1	217(noisy):2	227(average):2	338(tiny):1	398(music):1	416(loud):1	479(sheet):1	544(horrible):1	571(word):1	598(slightly):1	679(warn):1	856(uncomfortable):1	1218(hole):1	1719(proper):1	1869(6th):1	2097(3rd):1	4127(drunk):1	5075(mason):1	8242(sturdy):1	9696(eddy):1	
+11	7(walk):1	18(book):1	28(close):1	49(shop):2	53(arrive):1	115(distance):1	139(square):1	155(happy):1	451(union):1	574(situate):1	2102(caution):1	
+0	
+6	5(time):1	32(check):1	53(arrive):1	85(wait):1	220(busy):1	3603(disorganize):1	
+12	6(breakfast):1	18(book):1	73(etc):1	162(hard):1	372(continental):1	412(egg):1	1021(transfer):1	1098(bore):1	1370(bagels):1	1598(boil):1	2512(patron):2	2830(angry):1	
+0	
+
+<Author>RumRunner01
+<Content>A jewel of a find This was a last minute idea to stay in San Francisco on a holiday weekend (Memorial Day), searching for a good priced hotel near Union Square the night before we wanted to go. We got lucky with Hotel Bijou and a AAA rate of $117 for a Saturday night. I read the reviews and felt ok about booking it. We were not disappointed! The hotel is very clean and looks like the rooms were painted and updated not too long ago. The bathrooms are very clean and sparkling. The front desk people were very helpful and friendly. We were so close to Union Square, right behind the Hilton, but it's not as noisy as if you are right on Post. We did not hear any street noise from our room (212). They do provide ear plugs if you need them. The room, at first, felt small but really was not. The bed is right there when you open the door but there is plenty of room to move around and get ready. There is a closet inside the bathroom area. The bed was a bit hard for my boyfriend but good for me, I prefer a bit harder bed.The location is very good, just a block up and a block over to the main shopping and Union Square. It's very easy to get a cab from this location. We did drive up and had the car parked with the hotel at an adjacent parking garage (they provide valet for you) and you can leave your car until 6pm the day you check out so you can leave your bags with the hotel and go play in the City and pick your car up by 6 to drive home.I would definitely recommend this to friends and would stay here again.  
+<Date>May 27, 2008
+<Rating>4	4	4	5	5	5	4	4	
+<Aspects>
+12	2(night):1	15(recommend):1	59(definitely):1	78(rate):1	146(friend):1	153(provide):1	154(disappoint):1	797(lucky):1	818(saturday):1	1174(plug):1	1684(ear):1	7161(bijou):1	
+15	2(night):1	8(day):1	19(price):1	29(minute):1	102(near):1	139(square):1	172(weekend):1	177(san):1	223(holiday):1	355(francisco):1	451(union):1	639(idea):1	1248(search):1	2548(memorial):1	2804(jewel):1	
+28	3(clean):2	11(bed):3	13(bathroom):2	20(look):1	28(close):1	34(feel):1	35(street):1	52(bit):2	54(door):1	94(noise):1	132(hear):1	139(square):1	158(plenty):1	162(hard):2	207(move):1	217(noisy):1	274(ready):1	408(inside):1	451(union):1	477(hilton):1	536(prefer):1	565(closet):1	633(ago):1	644(post):1	725(update):1	763(boyfriend):1	806(paint):1	1919(sparkle):1	
+8	1(location):2	49(shop):1	93(easy):1	100(bloc):2	112(main):1	139(square):1	380(cab):1	451(union):1	
+0	
+5	12(friendly):1	14(helpful):1	26(people):1	31(front):1	36(desk):1	
+21	8(day):1	18(book):1	32(check):1	34(feel):1	37(review):1	41(city):1	43(leave):2	66(park):2	88(read):1	121(car):3	123(ok):1	141(home):1	153(provide):1	266(pick):1	290(bag):1	298(drive):2	386(play):1	457(valet):1	936(garage):1	1061(adjacent):1	7686(6pm):1	
+0	
+
+<Author>keduf
+<Content>Very disappointing but hey, you get complimentary earplugs!!! From the moment we first arrived it was pretty much one bad experience after another..Firstly, we arrive at 3pm to be told our room is not ready and to come back in an hour..No drama..Off we go to get something to eat and one hour later arrive back to be checked in by some ditsy airhead who I heard mutter 'I don't have any double beds' (we were 2 females travelling and had booked a room with 2 doubles) but then continued to tap away on her keyboard for at least 5mins before handing us our room keys..I assumed she was finding our double beds..WRONG!! She didn't have the courtesy to advise us, but when we reached our room, it was 2 singles..And when we saw the earplugs on the bedside table, we knew it was going to be rough, but more about that later..We stayed in the room for one night and it was sorted the next day..The next morning at breakfast, I made a cup of tea and it was pretty much stone cold..I take a drop of milk with my tea and when the dining room attendant appeared, I asked if she could bring more hot water as my tea was cold..She looked at it and told me it was because I had added milk! I told her that the water should be boiling so that I can add milk and she proceeded to microwave me a cup of water..Two mornings later, there were no teabags left..I advised her of this, she looked into the empty cannister and just said 'There's no more tea'..not even an attempt to sound apologetic!There are 2 signs in the lobby advising the building contains chemicals that could cause cancer and abnormalities in unborn babies and to ask at reception for more information.We asked the ditz when we checked in and she looked at us puzzled as though she'd never laid eyes on these signs before and proceeded to tell us that alcohol contains chemicals that can be harmful to unborn babies..When we again said the sign is referring to the building, she again told us we shouldn't drink alcohol if we were pregnant!!! Yeah, whatever!!!!And then there's the noise...San Fran had record high temps when we arrived, and there is no air con but we couldn't even leave the window open for some fresh air because of the homeless and people hanging outside the liquor store and pizza place..Sat night was especially bad as the noise level was pretty much intolerable until 4am without our earplugs..The only positive I can say is that it's in a great location...But I wouldn't recommend this hotel to anyone as there are plenty of other hotels in the area that I will be looking at for my next stay..I will certainly never stay there again!!!!  
+<Date>May 24, 2008
+<Rating>2	1	2	5	3	1	1	-1	
+<Aspects>
+29	2(night):1	20(look):1	50(bad):1	57(water):2	69(tell):2	94(noise):1	109(pretty):1	126(especially):1	154(disappoint):1	169(sit):1	306(level):1	345(complimentary):1	351(add):2	409(sound):1	427(wrong):1	800(cup):1	820(microwave):1	937(whatever):1	1116(milk):2	1119(attempt):1	1367(hey):1	1598(boil):1	1771(earplugs):2	2009(yeah):1	2150(proceed):1	2483(apologetic):1	6939(drama):1	7805(intolerable):1	10783(4am):1	
+5	44(experience):1	50(bad):1	53(arrive):1	109(pretty):1	670(moment):1	
+61	2(night):1	8(day):1	11(bed):2	18(book):1	26(people):1	32(check):1	43(leave):1	47(eat):1	53(arrive):3	57(water):1	60(hour):2	68(travel):1	69(tell):1	79(late):2	94(noise):1	98(outside):1	114(hot):1	119(window):1	132(hear):1	142(bring):1	164(air):2	177(san):1	179(double):3	197(fresh):1	222(cold):1	229(table):1	255(store):1	274(ready):1	301(tea):2	304(single):1	316(dine):1	339(key):1	377(hand):1	478(hang):1	541(appear):1	557(sort):1	662(drop):1	663(advise):1	678(pizza):1	840(Con):1	851(reach):1	1047(rough):1	1096(continue):1	1116(milk):1	1390(liquor):1	1407(assume):1	1446(attendant):1	1504(tap):1	1567(homeless):1	1714(female):1	1728(courtesy):1	1744(fran):1	1771(earplugs):1	2140(firstly):1	2173(temp):1	2251(record):1	2298(bedside):1	3577(5min):1	4439(keyboard):1	6855(3pm):1	10787(mutter):1	
+5	1(location):1	15(recommend):1	20(look):1	158(plenty):1	458(positive):1	
+0	
+19	20(look):1	32(check):1	55(lobby):1	69(tell):1	129(reception):1	135(build):1	449(sign):2	649(information):1	663(advise):1	696(lay):1	943(cause):1	977(eye):1	1267(alcohol):1	1304(baby):2	1545(contain):2	2150(proceed):1	4744(chemical):2	4774(puzzle):1	8577(cancer):1	
+20	6(breakfast):1	20(look):1	43(leave):1	56(morning):2	63(drink):1	69(tell):1	79(late):1	109(pretty):1	135(build):1	222(cold):1	301(tea):2	449(sign):1	663(advise):1	800(cup):1	810(empty):1	1267(alcohol):1	1394(stone):1	2297(refer):1	4337(pregnant):1	9313(teabags):1	
+0	
+
+<Author>amandacbrooks
+<Content>Full of personality and comfy! We were in SF for the Nike Women's Marathon, so all I really wanted was some place quite with a bed...but we lucked out with this great find! It was just a few blocks from the main part of downtown San Fransisco, it has this cute theater, the people working there were incredibly sweet and we loved it. The rooms seemed a little small for someone used to the sprawling mid-west, but it was clean and well decorated so we didn't mind. A few blocks over and you can get in to a rougher neighborhood so do a little scouting before heading out.  
+<Date>May 22, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+18	23(little):1	26(people):1	40(love):1	100(bloc):2	112(main):1	177(san):1	334(downtown):1	421(neighbourhood):1	475(comfy):1	635(theater):1	807(incredibly):1	950(sweet):1	1047(rough):1	1202(cute):1	1437(heading):1	2522(personality):1	5841(fransisco):1	9139(scout):1	
+0	
+11	3(clean):1	11(bed):1	23(little):1	294(mind):1	305(decorate):1	566(woman):1	802(sf):1	1055(luck):1	3779(marathon):1	4778(sprawl):1	8824(nike):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Seagull1
+<Content>Great place to stay Great location. Literally two minutes from Union Square and the Cable Car turnaround and as another reviewer put it  you can always stay at the Hilton, one block away in the same neighbourhood for a lot more money  It's just a shame that there are so many down and outs in the area at nightStaff were very helpful and friendly.  
+<Date>May 4, 2008
+<Rating>4	4	4	5	4	5	4	4	
+<Aspects>
+0	
+0	
+16	12(friendly):1	14(helpful):1	29(minute):1	38(lot):1	80(money):1	100(bloc):1	121(car):1	139(square):1	421(neighbourhood):1	451(union):1	477(hilton):1	484(cable):1	564(reviewer):1	665(literally):1	1292(shame):1	4161(turnaround):1	
+1	1(location):1	
+0	
+0	
+0	
+0	
+
+<Author>Tallulahbelle21
+<Content>had a great time in a great little hotel! The staff were so helpful when we tried to locate our luggage(lost by BA). Our room was small but very clean with plenty of hot water.If you headed left out of the hotel you were at the Malls and other great areas for shopping. BART was 100 yards away and the Trolley car station was 2 minutes away.So, it was a bit noisy at night? So is every big city and we had a ball in SF and would stay at Hotel Bijou anytime! Great value for money!!ML Searl:Scotland,UK  
+<Date>Apr 5, 2008
+<Rating>4	5	3	3	4	5	4	3	
+<Aspects>
+12	2(night):1	5(time):1	23(little):1	41(city):1	52(bit):1	217(noisy):1	802(sf):1	1178(uk):1	1677(anytime):1	1685(ball):1	5493(scotland):1	7161(bijou):1	
+2	80(money):1	81(value):1	
+4	3(clean):1	57(water):1	114(hot):1	158(plenty):1	
+17	0(staff):1	14(helpful):1	29(minute):1	43(leave):1	49(shop):1	82(station):1	84(locate):1	121(car):1	249(luggage):1	253(tried):1	319(head):1	596(lose):1	643(mall):1	1079(trolley):1	1307(yard):1	1505(bart):1	5177(baa):1	
+0	
+0	
+0	
+0	
+
+<Author>SaintLooieGreg
+<Content>Great Stay, Price at the Bijou       Bijou Lobby  
+<Date>Apr 4, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+3	19(price):1	55(lobby):1	7161(bijou):2	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>meganjune415
+<Content>Great hotel for a weekend away. I found this hotel as a part of the Joie De Vivre chain website and really liked what I saw. It was so close to convention center, which is why we were in San Francisco for my husbands business. I saw it was on the edge of the Tenderloin district but booked it anyway because union square and amazing shopping was only one block away. The hotel is also one block from the BART station and the trolley, which was a major selling point for me, because I was going to be alone during the day while my husband was working and wanted to see the city. The rooms were clean, and so was the bathroom. I was very impressed with the staff, they were very helpful. Our room was a bit small but it felt comfortable. The internet is not free, but we paid 8 dollars a day which was totally worth it because it was fast and secure through ATT. There was great shopping near by and great restaurants. The only things we didnt like, but were not the fault of the hotel was: Construction noise next door all day and on the weekend. The amount of homeless and panhandlers near the hotel. There was constant yelling and fighting noises at night that woke us up. A fire/police station which cause noise of ambulance/fire trucks and police sirens in the night. I understand that the hotel is in the middle of the city, and there will be noises due to that, but we felt that the noise outside really took away from the ambiance of the hotel inside. This hotel would be okay for a weekend stay or a few days, we were there for 6 nights and it was too long.  
+<Date>Mar 17, 2008
+<Rating>4	3	4	3	3	4	4	2	
+<Aspects>
+17	2(night):2	8(day):2	54(door):1	94(noise):2	102(near):1	172(weekend):3	453(okay):1	517(fault):1	554(wake):1	583(construction):1	626(didnt):1	666(amount):1	1432(constant):1	1567(homeless):1	1759(fight):1	1939(yell):1	5647(panhandler):1	
+10	8(day):1	42(pay):1	46(free):1	96(worth):1	97(internet):1	430(dollar):1	499(fast):1	611(totally):1	1034(secure):1	6573(att):1	
+23	3(clean):1	13(bathroom):1	18(book):1	25(comfortable):1	34(feel):2	41(city):1	49(shop):1	52(bit):1	94(noise):2	98(outside):1	100(bloc):1	139(square):1	145(amaze):1	259(due):1	325(middle):1	391(understand):1	408(inside):1	417(anyway):1	433(district):1	451(union):1	957(ambience):1	1190(edge):1	2579(tenderloin):1	
+30	2(night):1	8(day):1	10(restaurant):1	28(close):1	41(city):1	49(shop):1	82(station):2	94(noise):1	100(bloc):1	101(center):1	102(near):1	105(husband):2	147(business):1	177(san):1	262(website):1	315(major):1	355(francisco):1	606(sell):1	627(chain):1	943(cause):1	1048(convention):1	1079(trolley):1	1262(fire):1	1409(police):1	1505(bart):1	1507(truck):1	2282(siren):1	4240(ambulance):1	7122(vivre):1	7329(joie):1	
+0	
+3	0(staff):1	14(helpful):1	343(impress):1	
+0	
+0	
+
+<Author>ilov3youbui
+<Content>Very Pleasant/GREAT location I stayed at the hotel this past weekend with my boyfriend. We're a young couple and are pretty laid back about things but we know when to be concerned as well. I didn't really know what to expect since I read a lot of mixed reviews about the hotel. When I first arrived, I was warmly welcomed by the staff. I loved the staff, very friendly and very helpful.The room was sort of small but I wasn't really surprised.Hotel was clean. Quaint- A great choice for its price and location.If I was to stay in San Francisco again I would most likely go back to hotel bijou.  
+<Date>Mar 14, 2008
+<Rating>3	4	3	5	5	5	4	3	
+<Aspects>
+12	37(review):1	38(lot):1	62(expect):1	88(read):1	99(couple):1	109(pretty):1	177(san):1	355(francisco):1	496(concern):1	609(mix):1	696(lay):1	7161(bijou):1	
+4	1(location):1	19(price):1	107(choice):1	1295(quaint):1	
+2	199(surprise):1	557(sort):1	
+5	1(location):1	150(pleasant):1	172(weekend):1	419(past):1	763(boyfriend):1	
+1	3(clean):1	
+7	0(staff):2	12(friendly):1	14(helpful):1	40(love):1	53(arrive):1	202(welcome):1	2438(warmly):1	
+0	
+0	
+
+<Author>Ms.Mellie
+<Content>Way to Ruin a Weekend My husband and I booked two nights at the Hotel Bijou for our anniversary weekend. We used Travelocity, which gave us a great deal-- only $89/night, plus tax/fees and valet parking at $25/day. The first thing that wasn't as we'd hoped was the tiny, cramped room on the 5th floor. We're very familiar with SF boutique hotels, so I wasn't expecting a suite, but this was smaller than anything I'd seen before. There was also an overwhelming aroma of dirty shoes and unclean laundry in the hallways, which was less than stellar.However, the size of the room and locker-room scent was nothing compared to the bathroom issues. I washed my face with a towel, then set it on the towel rack, which promptly jerked out of the wall and landed on the toilet tank. I moved it off to the side and then proceeded to use the toilet, which-- of course-- overflowed within seconds. We called down to the front desk for help, and they sent up a plunger. The toilet was essentially nonfunctional, unless we plunged 3-4 times prior to using it and then 3-4 times after using it. When we called down to complain and ask for another room, the front desk said that they couldn't do anything because we'd booked through Travelocity. They did, however, offer to let us use the restroom in the lobby. Really? Thanks.Early the next morning, I called Travelocity. Thirty minutes later, the front desk manager (Jill) called and apologized. She moved us to a larger room on the 2nd floor, with-- ta-da!!-- a functional toilet. However, I don't recommend the 2nd floor, because it is so close to street level that the noise can be godawful on the weekends.On a positive note: The Bijou is extremely close to the shops, BART, museums (SFMOMA and Yerba Buena), restaurants, theaters, and clubs. It was just hard to feel positive after having to plunge my own toilet on my anniversary weekend. We definitely won't be returning. Ever.  
+<Date>Feb 20, 2008
+<Rating>1	1	1	4	3	4	2	-1	
+<Aspects>
+18	5(time):2	39(return):1	56(morning):1	59(definitely):1	67(call):1	207(move):1	271(thank):1	293(course):1	330(toilet):3	405(unless):1	487(wo):1	637(prior):1	1348(functional):1	2150(proceed):1	2977(essentially):1	3132(travelocity):1	3144(plunge):1	3460(overflow):1	
+13	2(night):1	18(book):1	34(feel):1	105(husband):1	162(hard):1	166(own):1	172(weekend):3	330(toilet):1	458(positive):1	804(anniversary):2	1243(ruin):1	3144(plunge):1	7161(bijou):1	
+20	13(bathroom):1	24(floor):2	55(lobby):1	62(expect):1	83(size):1	89(offer):1	108(suite):1	207(move):1	265(issue):1	328(hope):1	338(tiny):1	381(compare):1	623(boutique):1	802(sf):1	839(5th):1	1080(cramp):1	1326(2nd):1	2081(familiar):1	2870(scent):1	3679(restroom):1	
+37	10(restaurant):1	15(recommend):1	24(floor):1	28(close):2	35(street):1	49(shop):1	66(park):1	94(noise):1	110(extremely):1	125(towel):2	140(deal):1	172(weekend):1	183(wall):1	203(plus):1	212(club):1	234(set):1	297(note):1	306(level):1	330(toilet):1	457(valet):1	458(positive):1	507(museum):1	635(theater):1	798(tax):1	811(wash):1	1212(promptly):1	1326(2nd):1	1346(land):1	1505(bart):1	1916(rack):1	3132(travelocity):1	3549(tank):1	4470(buena):1	5897(jerk):1	7161(bijou):1	7382(yerba):1	10409(sfmoma):1	
+8	323(dirty):1	580(hallway):1	1075(laundry):1	1191(shoe):1	1992(overwhelm):1	3660(stellar):1	3914(unclean):1	5356(aroma):1	
+14	18(book):1	29(minute):1	31(front):3	36(desk):3	67(call):3	79(late):1	92(help):1	241(complain):1	258(manager):1	447(send):1	1485(apologize):1	3132(travelocity):1	8472(plunger):1	8678(thirty):1	
+0	
+0	
+
+<Author>charity_moonvan
+<Content>Hard Times Befall The Bijou Perhaps the Bijou was a good place when it opened, but it's fallen on hard times. The upholstery and curtains in the lobby and the rooms are grimy. The location is very dicey, and the rooms facing the street are incredibly noisy all night long鈥攕irens, shouting, etc.鈥攚hich means you cannot open the windows, and the rooms are stuffy鈥攏o A/C or fan.Internet access is available through ATT, and I was horrified to find that when I signed on I had access to other guests' hard drives. Parking is an additional $30/day in an offsite lot, not bad for SF, but I waited 45 minutes for my car to be brought around. There are no security locks on the rooms (just door handle locks), no wall outlets near the desk for your laptop. The wall lamps above the bed are mounted so low you cannot sit up in bed to read. Apparently the Bijou used to be part of the Joie de Vivre group of boutique hotels, but is no longer. It has not kept it up very well. It's cheap, but not a good value for your money.  
+<Date>Feb 20, 2008
+<Rating>2	2	2	1	2	2	2	1	
+<Aspects>
+4	5(time):2	162(hard):2	587(fall):1	7161(bijou):2	
+3	80(money):1	81(value):1	143(cheap):1	
+31	1(location):1	2(night):1	11(bed):2	35(street):1	36(desk):1	54(door):1	55(lobby):1	73(etc):1	88(read):1	102(near):1	119(window):1	169(sit):1	183(wall):2	217(noisy):1	246(mean):1	513(low):1	641(security):1	661(fan):1	743(curtain):1	774(lock):2	807(incredibly):1	966(handle):1	1111(laptop):1	1622(lamp):1	1689(outlet):1	1857(stuffy):1	2146(shout):1	2794(mount):1	6185(grimy):1	6599(upholstery):1	8166(dicey):1	
+15	29(minute):1	38(lot):1	50(bad):1	66(park):1	85(wait):1	121(car):1	142(bring):1	623(boutique):1	802(sf):1	835(additional):1	863(apparently):1	7122(vivre):1	7161(bijou):1	7170(offsite):1	7329(joie):1	
+0	
+0	
+0	
+9	91(guest):1	97(internet):1	134(available):1	159(access):2	162(hard):1	298(drive):1	449(sign):1	4208(horrify):1	6573(att):1	
+
+<Author>zollprra
+<Content>Bijou is great for a low budget! I booked the Hotel Bijou for my boyfriend and I on a trip in October 2007 and we liked it. I had read the mixed reviews and decided to give it a try and lucked out! It's a great value for a low budget and located a block away from the BART station and the Powell Street Car. The hotel staff was great and gave wonderful recommendations of restaurants and attractions. Rooms were clean and exactly like the pictures. The negatives were that it was at the edge of the Tenderloin and the rooms were noisy (to be expected in Downtown San Francisco); however, I never felt unsafe. It was quaint, intimate, and the movie theatre was great! We were able to save money on our hotel and spend more on all the great attractions in San Francisco.  
+<Date>Feb 18, 2008
+<Rating>4	5	4	3	5	5	5	4	
+<Aspects>
+16	37(review):1	64(spend):1	76(try):1	80(money):1	88(read):1	171(able):1	177(san):1	219(decide):1	350(attraction):1	355(francisco):1	425(save):1	429(budget):1	513(low):1	609(mix):1	1055(luck):1	7161(bijou):1	
+0	
+13	3(clean):1	34(feel):1	62(expect):1	177(san):1	217(noisy):1	282(negative):1	334(downtown):1	355(francisco):1	456(picture):1	586(exactly):1	1190(edge):1	1890(unsafe):1	2579(tenderloin):1	
+10	35(street):1	81(value):1	82(station):1	84(locate):1	100(bloc):1	121(car):1	429(budget):1	513(low):1	1505(bart):1	1897(powell):1	
+0	
+5	0(staff):1	10(restaurant):1	48(wonderful):1	350(attraction):1	577(recommendation):1	
+9	18(book):1	33(trip):1	635(theater):1	763(boyfriend):1	911(october):1	989(movie):1	1295(quaint):1	1812(intimate):1	7161(bijou):1	
+0	
+
+<Author>LawDaze
+<Content>Good Value We decided to stay here because the reviews were pretty good, it was a Joie de Vivre property and because I found a rate of $88/night midweek on the Hotel Bijou website. Although the hotel is no longer a Joie de Vivire property, it was a perfectly adequate hotel in the Union Square area. The hotel was easy to find, it is near transportation and there are several parking garages in the vicinity. It is on the edge of a bad area and there is construction going on next door, but we weren't bothered by construction noise or the homeless. We did request a room on a higher floor because the noise from the street and the street people can be very loud. Also, like most homes and older commercial buildings in SF, there is no air conditioning. If you want a breeze, you open the window. On check-in, we were told we could have a larger room on the 2nd floor (apparently all rooms ending in -03 are corner rooms and larger than usual) or a regular room on the 6th floor. We went with the regular room and it was fine for two people. Everything was clean, if not fancy, and well maintained. One problem with the room was that the bed side lights were located on the wall above the headboard. My tall partner kept bumping his head into the lamp shades when he sat up in bed. One other odd thing was that although there was a terrycloth bath mat for our first day in the room, we were never given another one, so we just used a hand towel as a bath mat. We could have called housekeeping and gotten a bath mat. We didn't, so it was clearly not a big deal for us.The employees were friendly and helpful. We didn't try the free breakfast or the movies offered in the evening, so I can't speak to those services. Overall, this was a great hotel for the price. It is a budget hotel and I would have felt disappointed if I had paid over $120 a night. I also would have been disappointed if I was expecting a fancy or romantic ambiance. At $88 per night, for a clean room, I felt like I got a deal (hence 4 stars, rather than 3).  
+<Date>Feb 18, 2008
+<Rating>4	5	3	2	5	4	4	-1	
+<Aspects>
+16	12(friendly):1	14(helpful):1	50(bad):1	54(door):1	62(expect):1	94(noise):1	140(deal):1	154(disappoint):1	307(bother):1	583(construction):2	608(employee):1	707(romantic):1	796(fancy):1	957(ambience):1	1190(edge):1	1567(homeless):1	
+11	2(night):2	3(clean):1	19(price):1	34(feel):2	42(pay):1	70(overall):1	103(star):1	140(deal):1	154(disappoint):1	429(budget):1	2306(hence):1	
+50	8(day):1	11(bed):2	24(floor):3	26(people):2	35(street):2	67(call):1	69(tell):1	84(locate):1	94(noise):1	113(fine):1	119(window):1	125(towel):1	139(square):1	141(home):1	148(request):1	157(light):1	164(air):1	169(sit):1	183(wall):1	200(corner):1	214(property):1	226(bath):3	263(condition):1	286(check-in):1	319(head):1	367(housekeeping):1	377(hand):1	390(adequate):1	416(loud):1	451(union):1	595(perfectly):1	682(usual):1	744(regular):2	745(building):1	795(shade):1	799(breeze):1	802(sf):1	863(apparently):1	1006(partner):1	1088(odd):1	1326(2nd):1	1622(lamp):1	1626(tall):1	1869(6th):1	2162(bump):1	2582(mat):3	2934(commercial):1	3408(headboard):1	7329(joie):1	12678(terrycloth):1	
+6	66(park):1	93(easy):1	102(near):1	728(transportation):1	936(garage):1	2232(vicinity):1	
+3	3(clean):1	562(maintain):1	796(fancy):1	
+0	
+18	6(breakfast):1	9(service):1	37(review):1	46(free):1	76(try):1	78(rate):1	81(value):1	89(offer):1	109(pretty):1	127(speak):1	214(property):1	219(decide):1	262(website):1	989(movie):1	5892(midweek):1	7122(vivre):1	7161(bijou):1	7329(joie):1	
+0	
+
+<Author>KenKinCa
+<Content>Not enough Joie at the Bijou Was in San Francisco consulting for a budget conscious client and had high hopes for the Hotel Bijou. Seems it was a Kimpton Hotel in a prior life that has been taken over by Joie de Vivre - both boutique brands I really like. Pluses - great rate $109 including internet access. Typical Kimpton/JdV style - the rooms have funky furnishings and they play movies in the lobby.What I got was a smallish room with decent furniture and workspace. The bathroom had a full size tub, but it was kind of stuck in behind the sink like it was added later. The linens weren't worthy of a Days Inn circa 1988 - thin, see-through towels and sheets that felt like they were waterproof (must have had a threadcount of about 8 or so). No in-room coffee (a pet peeve), no newspapers available at all.The free breakfast was convenience store special - pre-wrapped bagels and pastries (couldn't they at least throw out some fruit?).The staff was nice, accommodating, friendly, except the night guy who was too busy with his laptop to pay much attention to customers.The topper was coming back on night 3 to find three police officers in the lobby, one holding a shotgun. Never got the scoop on that, but wasn't the best thing to come home to.Probably adequate for real bargain hunters. For a business trip, not so much.  
+<Date>Feb 1, 2008
+<Rating>2	2	2	3	4	2	3	2	
+<Aspects>
+11	141(home):1	177(san):1	328(hope):1	355(francisco):1	429(budget):1	1952(client):1	4612(conscious):1	5182(consult):1	6227(scoop):1	7161(bijou):2	7329(joie):1	
+17	0(staff):1	2(night):1	4(nice):1	12(friendly):1	42(pay):1	178(probably):1	220(busy):1	240(real):1	337(except):1	368(guy):1	390(adequate):1	428(customer):1	624(accommodate):1	726(attention):1	759(bargain):1	1111(laptop):1	8476(hunter):1	
+19	13(bathroom):1	55(lobby):1	79(late):1	83(size):1	257(decent):1	311(tub):1	326(style):1	351(add):1	386(play):1	440(furniture):1	509(sink):1	628(typical):1	688(stick):1	870(furnishings):1	989(movie):1	1516(funky):1	2104(smallish):1	2719(kimpton):1	11923(workspace):1	
+9	33(trip):1	147(business):1	426(life):1	623(boutique):1	637(prior):1	883(brand):1	2719(kimpton):1	7122(vivre):1	7329(joie):1	
+11	8(day):1	34(feel):1	125(towel):1	324(inn):1	479(sheet):1	630(linen):1	754(thin):1	2923(worthy):1	6186(circa):1	8950(waterproof):1	10521(see-through):1	
+6	2(night):1	55(lobby):1	593(hold):1	1409(police):1	4282(officer):1	6713(topper):1	
+15	6(breakfast):1	46(free):1	90(coffee):1	134(available):1	208(special):1	215(fruit):1	255(store):1	652(pastry):1	917(throw):1	925(convenience):1	1301(in-room):1	1370(bagels):1	1372(newspaper):1	2477(pet):1	4818(peeve):1	
+5	71(include):1	78(rate):1	97(internet):1	159(access):1	203(plus):1	
+
+<Author>ACChua
+<Content>Reliable, Reasonably-Priced Hotel in San Francisco The Bijou is the place I always turn to whenever I have relatives visiting San Francisco. Their rooms are reasonably-priced at below $100 when I was there in 2005. The location is admittedly at the edge of the Tenderloin bordering on Union Square. However, it is just a few blocks away from the main shopping district, and is near the Powell MUNI and BART stations. As a boutique hotel, it has a cinematic theme running around the entire property. There's a mini theater adjacent to the lobby which airs movies at scheduled times. Each room is also named after a great classic movie. The room itself is clean and of reasonable size. The staff are also very friendly and polite, greeting me whenever I pass by the lobby.Included in the room rate is a continental breakfast consisting of pastries (bagel and cream cheese, cupcakes in various flavors, etc) and drinks.Given the steep prices of most hotels in this area of San Francisco, I would recommend Bijou for a good hotel (service, cleanliness, location) that gives above-average value. It is probably one of the best hotels in the area at this price point.  
+<Date>Dec 8, 2007
+<Rating>4	4	3	4	4	4	4	4	
+<Aspects>
+0	
+18	1(location):1	9(service):1	15(recommend):1	19(price):2	65(visit):1	81(value):1	177(san):3	178(probably):1	355(francisco):3	585(below):1	854(cleanliness):1	1060(steep):1	1181(whenever):1	2259(relative):1	2416(reliable):1	7161(bijou):2	7235(reasonably-price):2	7724(above-average):1	
+13	1(location):1	3(clean):1	83(size):1	139(square):1	273(reasonable):1	295(name):1	451(union):1	989(movie):1	1190(edge):1	1789(classic):1	2579(tenderloin):1	2701(border):1	3051(admittedly):1	
+14	49(shop):1	82(station):1	100(bloc):1	102(near):1	112(main):1	149(run):1	214(property):1	329(entire):1	433(district):1	623(boutique):1	1118(theme):1	1505(bart):1	1897(powell):1	2181(muni):1	
+0	
+7	0(staff):1	12(friendly):1	55(lobby):1	400(pass):1	415(greet):1	422(polite):1	1181(whenever):1	
+22	5(time):1	6(breakfast):1	55(lobby):1	63(drink):1	71(include):1	73(etc):1	78(rate):1	164(air):1	372(continental):1	441(cheese):1	448(mini):1	635(theater):1	652(pastry):1	823(various):1	989(movie):1	1061(adjacent):1	1185(consist):1	1188(cream):1	1196(schedule):1	2147(flavor):1	3325(bagel):1	11536(cupcake):1	
+0	
+
+<Author>niceguy1966
+<Content>Friendly, good value and great location (for the brave) This hotel is great. While there we were helped by 3 different receptionists, all were very friendly and tried to make our stay as good as they could.For the price, the rooms and location are excellent. Just be aware that San Francisco is full of homeless people, and The Tenderloin seems to be the place many of them hang out. Saying that, there are much more expensive hotels 50 yards down the same street.We didn't try the free cinema on the ground floor, but just knowing it was there was fun. Free Breakfast of muffins and coffee is a nice touch. We walk everywhere, and while in San Fran, it was an easy walk to China Town, Union Square, Market Street, etc.  
+<Date>Nov 30, 2007
+<Rating>5	5	3	5	5	5	5	3	
+<Aspects>
+7	26(people):1	177(san):1	355(francisco):1	478(hang):1	832(aware):1	1567(homeless):1	2579(tenderloin):1	
+9	1(location):2	12(friendly):1	19(price):1	21(excellent):1	35(street):1	81(value):1	124(expensive):1	1307(yard):1	4677(brave):1	
+6	24(floor):1	46(free):1	76(try):1	176(fun):1	706(grind):1	3913(cinema):1	
+11	7(walk):2	35(street):1	73(etc):1	93(easy):1	139(square):1	177(san):1	239(town):1	264(market):1	451(union):1	1159(china):1	1744(fran):1	
+0	
+4	12(friendly):1	92(help):1	253(tried):1	855(receptionist):1	
+6	4(nice):1	6(breakfast):1	46(free):1	90(coffee):1	279(touch):1	1260(muffin):1	
+0	
+
+<Author>tjtraveler
+<Content>I like this place! I've stayed at the Bijou twice and both times have been very pleased. It's on the edge of the dicey part of the tenderloin but as long as you are a little careful about heading west on Eddy at night there are no problems. Very close to BART, right near anything you might want to do in downtown, inexpensive, clean. nice staff.  
+<Date>Nov 17, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	2(night):1	5(time):1	23(little):1	173(please):1	347(twice):1	897(careful):1	953(west):1	1190(edge):1	1437(heading):1	2579(tenderloin):1	7161(bijou):1	8166(dicey):1	9696(eddy):1	
+6	3(clean):1	28(close):1	102(near):1	334(downtown):1	1117(inexpensive):1	1505(bart):1	
+0	
+0	
+0	
+2	0(staff):1	4(nice):1	
+0	
+0	
+
+<Author>christine3Devon
+<Content>great friendly hotel friend recommended this hotel Great location staff very helpful and gave us all the infomation we required on visiting places and gave us printed walking trips'. Very convenient for exploring San fran. we stayed on 3rd floor at front of hotel and had a excellent quiet room . i would thoughly recommend this hotel for the situation and the staff were so friendly a great place to stay  
+<Date>Nov 2, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	177(san):1	186(convenient):1	594(explore):1	1744(fran):1	
+0	
+5	21(excellent):1	24(floor):1	31(front):1	58(quiet):1	2097(3rd):1	
+11	0(staff):1	1(location):1	7(walk):1	12(friendly):1	14(helpful):1	15(recommend):1	33(trip):1	65(visit):1	146(friend):1	722(require):1	1101(print):1	
+0	
+4	0(staff):1	12(friendly):1	15(recommend):1	890(situation):1	
+0	
+0	
+
+<Author>chark23
+<Content>bijou is awesome! I stayed at the bijou for 5 nights for a conference. I thought it was a great hotel - the location was perfect and not nearly as sketchy as people have made it out to be. I am a single woman and felt no concerns about the neighbourhood. Additionally, the staff was super helpful about helping me plan walking routes and giving out advice and generally being supportive. The rooms were roomy and clean and well decorated. The wireless was cheaper than neighbouring hotels (other attendess at the conference were in different locations) at only 7.99/24 hours. The breakfast is not amazing, sure, but it is free and the hotel is half the price of other hotels in the area. I asked for a quiet room and got one - there was some construction noise during the day but it was almost dead quiet at night. Overall, I thought the bijou was a perfect budget location in a great area with wonderful staff. I will definitely stay there again!  
+<Date>Oct 30, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	34(feel):1	59(definitely):1	304(single):1	348(awesome):1	421(neighbourhood):1	496(concern):1	566(woman):1	7161(bijou):1	
+5	6(breakfast):1	19(price):1	46(free):1	145(amaze):1	283(half):1	
+9	2(night):1	3(clean):1	8(day):1	58(quiet):2	94(noise):1	305(decorate):1	583(construction):1	1353(roomy):1	1621(dead):1	
+25	0(staff):2	1(location):3	2(night):1	7(walk):1	14(helpful):1	26(people):1	48(wonderful):1	60(hour):1	70(overall):1	74(perfect):2	92(help):1	143(cheap):1	221(plan):1	429(budget):1	464(super):1	575(advice):1	717(wireless):1	794(conference):2	896(nearly):1	934(neighbour):1	1035(route):1	2649(additionally):1	3148(sketchy):1	7161(bijou):2	7699(supportive):1	
+0	
+0	
+0	
+0	
+
+<Author>Tat8er
+<Content>We loved the Bijou A few reviewers have criticized the location of the Bijou. Granted, it is at the transition zone between the gritty Tenderloin and Union Square. But, so are several 4 and 5 star neighboring hotels. You can't beat the location if you are hoofing it -- the BART Powell Street station is about 1 block away, and you can see the hotel from the station. You are smack dab in a prime shopping 'hood, and surrounded by restaurants of every variety and price range.I stay in many hotels each year -- 3 to 5 star -- and the room we had at the Bijou was the cleanest room I've ever seen. This is an old building, and it was clear that the room had been repainted and had new tiles set down in the recent past. I tried to find a spot of dirt and couldn't.Noise. If you have a thing about city noise you won't like this place. It is on a busy city street. There were sirens and garbage trucks in the wee hours. There were goings-on in the street outside at all hours. The windows are not triple glazed soundproofed and, since the rooms have no AC or ceiling fans, you need to open the windows to get fresh air. We loved it. Opening the bathroom and bedroom windows gave us all the fresh air we craved. The noise entered, as well. As city dwellers we hardly noticed the noise, and what noises we noticed amused us. (You have to like cities to understand.) Ear plugs are provided on the nightstand if you want to block out the noise.There was no coffee maker in the room. There is an ice machine on the 2nd floor of the hotel, and you room has an ice bucket. A wine bottle opener and drinking glasses are provided. There is also a hair dryer. The TV had a good selection of channels and clear reception.The beds were comfortable. We had feather pillows, and noticed that foam pillows were stored in the closet along with extra blankets. There was an iron and small ironing board in the closet, as well. Our room had a desk, and two arm chairs. All rooms offer Wifi. My laptop picked up the wireless connection easily -- $7.99 per 24 hours from ATT. There was no convenient plug at the desk, and the data port was on the bedside phone. The free breakfast is free, and that is the best I can say about it. The Joie de Vivre's nearby hotel, the Phoenix, has a funky and fun free breakfast that provides all sorts of good quality pastries and even Pop-Tarts. Fun! They also had juice. The Bijou during our visit offered plain bagels (and toasters), fruit flavored yogurt, and three varieties of uninspired, grocery- store-quality muffins. Coffee (Joie de Vivre branded, but I think it would be better for them not to advertise it! bleh!) and tea was available. Milk and half-and-half were served, too. No juice. No fruit. No cold or hot cereals. On the tables was strawberry jam (the only flavor!), butter and individual servings of cream cheese.Coffee (is it? or brown water?) and tea are served all day in the little theatre off the lobby.The good news: A nice little coffee shop is almost next door to the hotel. A Starbucks is a block away. A little grocery is across the street. We enjoyed the staff here, which was young, enthusiastic and helpful. The nightly movies are fun if you find yourself with nothing else to do in the evening. Or, if you want the kids to disappear for an hour or so while you claim me time. Other reviewers here have commented on the parking situation. We didn't have a car, but noticed the valet service seemed efficient. With the BART and bus lines a block away a car seems like a handicap in this city.I would stay at the Bijou again, and recommend it. The location is convenient and the room prices are a bargain for this area.  
+<Date>Oct 23, 2007
+<Rating>5	5	3	5	5	3	3	4	
+<Aspects>
+40	5(time):1	15(recommend):1	40(love):1	41(city):3	57(water):1	60(hour):2	94(noise):6	100(bloc):1	114(hot):1	153(provide):1	176(fun):1	201(kid):1	215(fruit):1	222(cold):1	229(table):1	253(tried):1	317(spot):1	354(notice):2	391(understand):1	487(wo):1	529(cereal):1	601(enter):1	985(hardly):1	1077(claim):1	1174(plug):1	1507(truck):1	1614(jam):1	1650(garbage):1	1667(brown):1	1684(ear):1	2004(dirt):1	2147(flavor):1	2276(strawberry):1	2282(siren):1	2310(wee):1	2594(disappear):1	2871(amuse):1	4445(nightstand):1	7161(bijou):1	11738(dweller):1	
+22	1(location):1	3(clean):1	6(breakfast):1	19(price):1	46(free):1	100(bloc):1	103(star):2	153(provide):1	176(fun):1	186(convenient):1	187(quality):1	232(nearby):1	557(sort):1	652(pastry):1	759(bargain):1	934(neighbour):1	939(starbucks):1	1516(funky):1	1765(phoenix):1	7122(vivre):1	7161(bijou):1	7329(joie):1	
+51	11(bed):1	13(bathroom):1	24(floor):1	25(comfortable):1	36(desk):2	89(offer):1	90(coffee):1	116(tv):1	119(window):3	129(reception):1	135(build):1	139(square):1	164(air):2	186(convenient):1	197(fresh):2	198(chair):1	234(set):1	268(bedroom):1	296(phone):1	333(selection):1	419(past):1	451(union):1	493(machine):1	528(ceiling):1	547(ice):2	661(fan):1	729(hair):1	741(channel):1	846(tile):1	956(ac):1	996(maker):1	1064(recent):1	1174(plug):1	1209(dryer):1	1268(wifi):1	1288(port):1	1326(2nd):1	1553(triple):1	1690(grant):1	1726(arm):1	1852(soundproof):1	2144(glaze):1	2227(zone):1	2298(bedside):1	2342(bucket):1	2579(tenderloin):1	4648(crave):1	6657(repaint):1	6761(transition):1	7921(data):1	7968(gritty):1	
+48	1(location):2	4(nice):1	10(restaurant):1	19(price):1	23(little):2	35(street):4	40(love):1	41(city):2	49(shop):2	54(door):1	60(hour):1	66(park):1	82(station):2	90(coffee):1	98(outside):1	100(bloc):2	120(bus):1	121(car):1	128(extra):1	188(line):1	220(busy):1	255(store):1	303(pillow):2	354(notice):1	356(comment):1	413(variety):1	442(beat):1	564(reviewer):2	565(closet):2	600(board):1	667(surround):1	714(range):1	868(iron):2	890(situation):1	1199(grocery):1	1369(blanket):1	1505(bart):2	1725(news):1	1774(prime):1	1897(powell):1	2838(feather):1	3007(handicap):1	3069(smack):1	3467(foam):1	4864(criticize):1	6867(dab):1	7161(bijou):2	9199(hood):1	
+5	9(service):1	121(car):1	354(notice):1	401(efficient):1	457(valet):1	
+4	0(staff):1	14(helpful):1	51(enjoy):1	3456(enthusiastic):1	
+45	6(breakfast):1	8(day):1	23(little):1	46(free):2	55(lobby):1	63(drink):1	65(visit):1	89(offer):1	90(coffee):2	134(available):1	153(provide):1	170(else):1	174(serve):2	176(fun):1	215(fruit):1	238(bottle):1	251(wine):1	301(tea):2	327(glass):1	362(juice):2	413(variety):1	441(cheese):1	576(yourself):1	635(theater):1	883(brand):1	910(advertise):1	927(yogurt):1	989(movie):1	1033(nightly):1	1116(milk):1	1188(cream):1	1199(grocery):1	1260(muffin):1	1370(bagels):1	1546(plain):1	1596(individual):1	2183(butter):1	2849(toaster):1	4241(opener):1	6545(flavored):1	7122(vivre):1	7161(bijou):1	7329(joie):1	7538(serving):1	7786(uninspired):1	
+7	60(hour):1	266(pick):1	438(easily):1	717(wireless):1	932(connection):1	1111(laptop):1	6573(att):1	
+
+<Author>Brettle
+<Content>Great Quirky hotel.. Although it has been some time since I stayed at this hotel, I haven't forgotten it as I really enjoyed my stay there, I stayed for 5 nights, I was travelling on my own and although the area isn't the best, I still felt very safe, as long as you're street wise like you should be in any major city, you shouldn't have any problems,.Of course you're going to get some amount of noise for any city centre hotel, but do ask for a room at the rear. I think for the price and for the proximity to everything in this fascinating city , this hotel hits the spot. :)  
+<Date>Oct 11, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	2464(quirky):1	
+6	19(price):1	41(city):1	317(spot):1	775(hit):1	1114(proximity):1	3417(fascinate):1	
+6	41(city):1	94(noise):1	101(center):1	293(course):1	666(amount):1	2007(rear):1	
+12	2(night):1	5(time):1	34(feel):1	35(street):1	41(city):1	51(enjoy):1	68(travel):1	137(safe):1	166(own):1	315(major):1	397(forget):1	1676(wise):1	
+0	
+0	
+0	
+0	
+
+<Author>Ingepup
+<Content>Not my favourite hotel... We spent 4 nights in the Bijou hotel in San Francisco. The hotel is nicely situated near Union Square, you walk right to Bloomindale's (with a cinema) and so on. The personel was very friendly. However it's not so nice that the hotel is situated at the end of Tenderloin, one of San Francisco's bad neighbourhoods. Outside the hotel you see a lot of homeless people. In the evening there is quite some noise of sirenes, homeless people, etc. We didn't have a problem with this, because we slept in a smaller, but quite room at the back of the hotel. Our room was nice and clean. The breakfast was of a very bad quality (no orange juice??) Don't expect much of the movie room, this is just a small TV. All and all, it wasn't bad, but I would pick an other hotel the next time I visit SF. Also don't forget you have to pay 30 dollars per night to park your car. If you include that money to your roomprice you might be better off at an other hotel that seems more expensive!  
+<Date>Aug 22, 2007
+<Rating>2	2	2	3	3	3	3	2	
+<Aspects>
+21	2(night):1	4(nice):1	5(time):1	12(friendly):1	26(people):1	50(bad):2	64(spend):1	65(visit):1	73(etc):1	94(noise):1	177(san):2	266(pick):1	355(francisco):2	376(favourite):1	421(neighbourhood):1	574(situate):1	802(sf):1	1567(homeless):1	2579(tenderloin):1	5033(personel):1	7161(bijou):1	
+9	2(night):1	42(pay):1	66(park):1	71(include):1	80(money):1	121(car):1	124(expensive):1	397(forget):1	430(dollar):1	
+13	3(clean):1	4(nice):1	7(walk):1	62(expect):1	102(near):1	104(sleep):1	116(tv):1	139(square):1	404(nicely):1	451(union):1	574(situate):1	989(movie):1	3913(cinema):1	
+4	26(people):1	38(lot):1	98(outside):1	1567(homeless):1	
+0	
+0	
+5	6(breakfast):1	50(bad):1	187(quality):1	362(juice):1	1104(orange):1	
+0	
+
+<Author>Karlitos
+<Content>Gem of a hotel, trying for something different.       Movie-themed rooms!  
+<Date>Aug 19, 2007
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+2	76(try):1	805(gem):1	
+0	
+
+<Author>Hinrose
+<Content>NEVER NEVER AGAIN This hotel completely ruined what was a lovely trip up until then. Our agent picked us this hotel and advised that it was a great place. It was a older hotel on the edge of the bad part of town Tenderloin. Our first impression of this was the lovely girl at the desk telling us not to go around the side of the hotel but always walk out the front towards the street. We walked into our room and were surprised by ear plugs. Not a good thing. The room was not airconditioned and really stuffy. We tried to open a window to get fresh air but the noise was absolutely terrible. We were there for three nights and we needed sleep before coming home to NZ. We got none, either with the window open or closed. The homeless people made rackets all night, yelling and yahooing. You didn't feel safe walking around the streets. They were everywhere and were of a concern. The sirens went all night and other noises of people screaming banging etc. As well as that the room noises of a hole in the bathroom wall with a pipe that continually ran water most of the night which you couldn't close out. There was also plenty of noise in the daytime from construction outside our room.There were supposed to be movies showing at 7.30 and 9 p.m. each night. We ventured down to enjoy a movie to find nothing working. A big disappointment.The bed was okay but the bathroom was terrible. The sink was all cracked and looked like it was on its last legs. There was no towel rails to hang up your towels or anywhere to put your toiletries bag. The breakfast was nothing. If you arrived at the table after 9.30 a.m. you could expect nothing as they didn't refill the bagel or muffin container. The bagels were like they had been lying around for at least two days. The muffins (if you got one) were okay. Drink was only water or milk, tea or coffee. There was a drink machine there but was broken for the whole three days and no mention of trying to fix it. They did have a secure lockup room for baggage left before catching your flight home and we were able to use their security safe deposit. The hotel was close to the cable car and that was a bonus.We certainly would not recommend this hotel.  
+<Date>Aug 6, 2007
+<Rating>1	1	1	1	3	3	3	3	
+<Aspects>
+39	2(night):2	8(day):1	15(recommend):1	20(look):1	26(people):2	33(trip):1	50(bad):1	53(arrive):1	62(expect):1	73(etc):1	87(lovely):1	94(noise):1	229(table):1	239(town):1	266(pick):1	453(okay):1	496(concern):1	509(sink):1	542(completely):1	663(advise):1	766(agent):1	866(disappointment):1	1166(lie):1	1190(edge):1	1243(ruin):1	1260(muffin):2	1370(bagels):1	1401(bang):1	1411(crack):1	1421(leg):1	1567(homeless):1	1757(scream):1	1841(refill):1	1939(yell):1	2282(siren):1	2579(tenderloin):1	3325(bagel):1	3379(container):1	4701(racquet):1	
+0	
+46	2(night):2	7(walk):1	11(bed):1	13(bathroom):2	28(close):2	43(leave):1	57(water):1	94(noise):3	98(outside):1	104(sleep):1	119(window):2	125(towel):2	137(safe):1	141(home):2	149(run):1	158(plenty):1	164(air):1	171(able):1	183(wall):1	189(absolutely):1	197(fresh):1	199(surprise):1	233(flight):1	253(tried):1	290(bag):1	432(terrible):2	453(okay):1	478(hang):1	540(catch):1	573(none):1	583(construction):1	641(security):1	657(toiletry):1	1034(secure):1	1174(plug):1	1218(hole):1	1603(deposit):1	1684(ear):1	1755(rail):1	1783(baggage):1	1857(stuffy):1	1903(airconditione):1	2067(pipe):1	2503(daytime):1	3831(continually):1	7597(nz):1	
+15	7(walk):2	28(close):1	31(front):1	34(feel):1	35(street):2	36(desk):1	69(tell):1	87(lovely):1	121(car):1	137(safe):1	484(cable):1	625(girl):1	848(impression):1	849(bonus):1	959(towards):1	
+0	
+0	
+18	2(night):1	6(breakfast):1	8(day):1	51(enjoy):1	57(water):1	63(drink):2	76(try):1	90(coffee):1	228(break):1	244(mention):1	301(tea):1	493(machine):1	494(fix):1	620(suppose):1	989(movie):2	1116(milk):1	1440(venture):1	1466(p.m):1	
+0	
+
+<Author>guymorcado
+<Content>It is what it is It's a fair-priced room in an old building, in a fairly convenient part of town. Only a couple blocks to Union Square and one block to Market Street and many transit options. Perfect for the frugal traveler who just needs a place to sleep. The neighborhood, while convenient, does get loud at night with a few rowdy folks on the street who seemed to be there each night. We never felt unsafe coming back to the hotel at night, but the street noise definitely makes its way up to the room (and we were on the sixth floor.) As such, I wouldn't recommend it for travelers who are bothered by noise or who aren't used to the realities of staying in the city. The same can probably be said of all the hotels in the area.  
+<Date>Jul 20, 2007
+<Rating>3	4	3	4	4	3	4	3	
+<Aspects>
+7	15(recommend):1	41(city):1	94(noise):1	178(probably):1	267(traveler):1	307(bother):1	2260(reality):1	
+0	
+16	2(night):1	24(floor):1	34(feel):1	35(street):1	59(definitely):1	74(perfect):1	94(noise):1	104(sleep):1	135(build):1	186(convenient):1	239(town):1	267(traveler):1	462(fairly):1	1890(unsafe):1	3264(sixth):1	9835(frugal):1	
+14	2(night):2	35(street):2	99(couple):1	100(bloc):2	139(square):1	186(convenient):1	264(market):1	336(option):1	416(loud):1	421(neighbourhood):1	451(union):1	1050(folk):1	2015(transit):1	3631(rowdy):1	
+0	
+0	
+0	
+0	
+
+<Author>DanRandom
+<Content>A Good Location, a Great Price This place is perfect for people who see a vacation hotel room as a place to sleep and wash up. You are along a main street, with a short two block walk to the cable cars, BART subway, Muni street cars and busses. There are plenty of ATMs, coffee shops, and a big mall right across the street. As other reviewers write, the hotel is on the border of a sketchy neighborhood. But you'll realize that direction quickly, and never once did I feel threatened regardless of the hour. I stayed in a queen room, and it was cozy. The room is comfortable and clean, but just barely big enough for two people. However, we barely did more in the room than sleep, so this was a great place at a great price.Good tip - buy a Muni passport at the Information center at Powell station. We bought the $18/3 day pass, which is good for busses, street cars, and the cable cars. With a cable car trip at $5, it was definitely worth it!  
+<Date>Jun 15, 2007
+<Rating>4	5	4	5	4	4	4	-1	
+<Aspects>
+17	33(trip):1	34(feel):1	59(definitely):1	60(hour):1	96(worth):1	121(car):1	344(write):1	395(direction):1	421(neighbourhood):1	471(quickly):1	484(cable):1	564(reviewer):1	607(realize):1	2012(regardless):1	2537(threaten):1	2701(border):1	3148(sketchy):1	
+7	1(location):1	19(price):1	26(people):1	74(perfect):1	104(sleep):1	131(vacation):1	811(wash):1	
+8	3(clean):1	19(price):1	25(comfortable):1	26(people):1	104(sleep):1	543(Queen):1	749(cozy):1	1020(barely):2	
+19	7(walk):1	8(day):1	35(street):4	49(shop):1	90(coffee):1	100(bloc):1	112(main):1	120(bus):2	121(car):4	144(short):1	158(plenty):1	280(buy):1	370(subway):1	400(pass):1	484(cable):2	643(mall):1	1505(bart):1	2181(muni):1	6962(atms):1	
+0	
+0	
+0	
+8	82(station):1	101(center):1	194(tip):1	280(buy):1	649(information):1	1897(powell):1	1975(passport):1	2181(muni):1	
+
+<Author>Pepper3128
+<Content>Cute but Noisy Great bargin, cute hotel. However, the first clue should have been the earplugs provided by the hotel on the bedside table. Noise from a bar across the street kept us up for most of the night. After the bar closed we were kept awake by bottles being dumped in a trash bin. If there is a quiet side to hotel would difinitely request it.  
+<Date>Jun 3, 2007
+<Rating>2	4	2	2	4	3	2	2	
+<Aspects>
+0	
+0	
+7	58(quiet):1	148(request):1	153(provide):1	229(table):1	1771(earplugs):1	2298(bedside):1	3154(clue):1	
+10	2(night):1	27(bar):2	28(close):1	35(street):1	94(noise):1	238(bottle):1	1449(dump):1	1494(awake):1	1793(trash):1	3059(bin):1	
+0	
+0	
+3	217(noisy):1	1202(cute):2	4608(bargin):1	
+0	
+
+<Author>MSPXelaforNow
+<Content>Cute and the Price is Right Hotel Bijou is a a good value in San Francisco. It is a step up from places like the San Remo, but very reasonably priced. The rooms are nice, although they can be a wee bit noisy. The tiny movie theatre is cute. My only complaint is that it takes about 30 minutes for them to get your car from the lot (which must be about 200 miles away).  
+<Date>May 22, 2007
+<Rating>4	4	4	4	4	3	3	-1	
+<Aspects>
+5	29(minute):1	38(lot):1	121(car):1	190(complaint):1	692(mile):1	
+8	19(price):2	81(value):1	177(san):2	355(francisco):1	366(step):1	578(reasonably):1	1202(cute):1	7161(bijou):1	
+4	4(nice):1	52(bit):1	217(noisy):1	2310(wee):1	
+0	
+0	
+0	
+4	338(tiny):1	635(theater):1	989(movie):1	1202(cute):1	
+0	
+
+<Author>Uncene
+<Content>Good Quality Reasonably Priced Centrally Located Felt Very Satisfied with this Hotel. It is located right next to the important transportation links and has loads of really great shops near by. If you want a Hotel where you can sleep in every weekday morning I would say that this is not for you. While were there the site next to the Hotel was having construction work done on it. This is in the early stages and is eventually going to be an apartment block. The work should last through the summer, so if you don't fancy this then I would not think about booking here. Not all bad though as they don't work on the weekends and we tend to get up early as it means you can fit more in on your stay (I am sure Jet Lag had something to do with it as well!). If you do suffer from being woken up easily then you are supplied with earplugs in all the rooms. Take note - as this Hotel is Central you are going to get noise in most of the rooms, so don't let this put you off, as for the price it is good value. The rooms themselves are very tidy and clean and the Bathroom we had was roomy.Breakfast in the morning is supplied in what looks like an old conference room. We were not expecting anything in the morning so this was a bonus. Mind you, don't expect any variety. You get Coffee, water, and milk if you fancy drinking that in the morning. Food wise you get very nice Bagels which you can toast. The only spread for the bagels is Jam or Cream Cheese. You also get muffins - very nice and always good to take a couple so you have one as mid morning snack! If you do get bored of the Breakfast you can always go to one of the many diners within a 2 minute walk from the Hotel. I would recommend Mason's, up the Hill on Mason street opposite the parking lot.My BIG Tip would be if you are planning you get around on the public transport (Cable Cars, Trams, Street Cars etc) then get yourself a MUNI passport when you arrive - you get these from Powell street Station in the tourist information centre which around the corner.The staff here are very Friendly and Helpful - Especially Stacy who is a real character!All in All a Good Place to stay - it's not the Hilton, but you do get to look at Hilton (just up the street) and by all accounts the Hilton isn't all that anyway!  
+<Date>May 4, 2007
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+12	50(bad):1	56(morning):1	62(expect):2	172(weekend):1	246(mean):1	294(mind):1	413(variety):1	668(fit):1	849(bonus):1	1053(tend):1	1589(jet):1	3129(lag):1	
+11	19(price):2	34(feel):1	81(value):1	84(locate):1	94(noise):1	168(central):1	187(quality):1	297(note):1	578(reasonably):1	879(centrally):1	899(satisfy):1	
+17	3(clean):1	13(bathroom):1	56(morning):1	100(bloc):1	104(sleep):1	438(easily):1	554(wake):1	751(apartment):1	859(supply):1	1059(themselves):1	1100(tidy):1	1204(eventually):1	1353(roomy):1	1771(earplugs):1	1790(suffer):1	1866(stage):1	2734(weekday):1	
+42	6(breakfast):1	7(walk):1	15(recommend):1	20(look):1	29(minute):1	35(street):4	38(lot):1	49(shop):1	53(arrive):1	66(park):1	73(etc):1	82(station):1	84(locate):1	101(center):1	102(near):1	121(car):2	192(site):1	194(tip):1	200(corner):1	209(tourist):1	221(plan):1	379(public):1	417(anyway):1	477(hilton):3	484(cable):1	570(tram):1	576(yourself):1	583(construction):1	649(information):1	728(transportation):1	742(transport):1	756(hill):1	783(opposite):1	886(load):1	1098(bore):1	1324(diner):1	1727(link):1	1730(account):1	1897(powell):1	1975(passport):1	2181(muni):1	5075(mason):2	
+0	
+6	0(staff):1	12(friendly):1	14(helpful):1	126(especially):1	240(real):1	1049(character):1	
+25	4(nice):2	6(breakfast):1	16(food):1	18(book):1	20(look):1	56(morning):3	57(water):1	63(drink):1	90(coffee):1	99(couple):1	406(snack):1	441(cheese):1	794(conference):1	796(fancy):2	853(summer):1	859(supply):1	875(toast):1	1116(milk):1	1188(cream):1	1203(spread):1	1260(muffin):1	1313(mid):1	1370(bagels):2	1614(jam):1	1676(wise):1	
+0	
+
+<Author>red10dc
+<Content>Excellent Staff and Great Value My wife and I stayed there for three nights in April 2007. I attended a conference a nearby hotel and she toured the city.It was a great experience. The room was in excellent condition, with nice extras like earplugs, a CD clock radio, and flash light. Everything was clean and the decor was sharp-looking. A hotel like this has small rooms, although we did not felt cramped (and we had 4 bags). A basic breakfast (bagels, muffins, etc.) is available. Or walk up Mason St to any number of diners. The hotel is very close to the BART stop and there are numerous small restaurants nearby. Cable cars, buses, and Westfield Center and Union Square shopping are within 2-4 blocks.The front desk staff were all wonderful. I cannot say enough good things about them. They gave us great recommendations about things to see, places to eat, areas to avoid, how to use BART and MUNI, etc. We traveled without our infant, so my wife had to pump her breastmilk, and they provided her private space even after we checked out (our flight was not until the evening).The hotel is at the edge of the Tenderloin, and the area south and west is seedy. But we felt safe the entire time and my wife was comfortable at night. No noise issues either, BUT it was April so we did not have to leave our window open at night (no A/C), we were on the fifth floor, and we faced Mason St. There is a major construction project next door which makes noise during the day.If you are looking for a larger room or luxury you might want to avoid this. And the rooms would be too small for a family. But I recommend it for most other travellers because it has everything you need and is a great value.  
+<Date>Apr 21, 2007
+<Rating>5	5	4	3	5	5	5	-1	
+<Aspects>
+12	2(night):1	5(time):1	25(comfortable):1	34(feel):1	137(safe):1	184(wife):1	329(entire):1	769(south):1	953(west):1	1190(edge):1	2209(seedy):1	2579(tenderloin):1	
+8	0(staff):1	2(night):1	15(recommend):1	21(excellent):1	44(experience):1	81(value):2	184(wife):1	267(traveler):1	
+42	2(night):1	3(clean):1	4(nice):1	8(day):1	20(look):1	21(excellent):1	24(floor):1	32(check):1	34(feel):1	43(leave):1	54(door):1	68(travel):1	94(noise):2	106(family):1	119(window):1	128(extra):1	153(provide):1	157(light):1	184(wife):1	210(space):1	233(flight):1	263(condition):1	265(issue):1	269(decor):1	290(bag):1	315(major):1	436(avoid):1	437(luxury):1	492(private):1	583(construction):1	655(st):1	1080(cramp):1	1291(clock):1	1729(cd):1	1771(earplugs):1	1816(radio):1	1832(fifth):1	2867(flash):1	3326(project):1	4065(pump):1	4451(infant):1	5075(mason):1	
+24	7(walk):1	10(restaurant):1	28(close):1	41(city):1	49(shop):1	100(bloc):1	101(center):1	120(bus):1	121(car):1	122(stop):1	139(square):1	181(tour):1	232(nearby):2	335(numb):1	451(union):1	484(cable):1	794(conference):1	826(attend):1	940(St):1	971(numerous):1	1324(diner):1	1505(bart):1	5075(mason):1	5881(westfield):1	
+0	
+4	0(staff):1	31(front):1	36(desk):1	48(wonderful):1	
+11	6(breakfast):1	47(eat):1	73(etc):2	134(available):1	352(basic):1	436(avoid):1	577(recommendation):1	1260(muffin):1	1370(bagels):1	1505(bart):1	2181(muni):1	
+0	
+
+<Author>jrswanson
+<Content>Never Again We only stayed here because the Parc 55 did not have our entire reseervation and we needed one more night stay. We had some friends staying there, so we decided it would be ok. I never imagined that in 2007, in a large city that rooms would exist w/out a/c. To get cool air, we needed to open a window, but the crazies that live on the street, made that impossible because they were so loud. Can you say, GHETTO. So we called down, and we were told there weren't any fans. The staff was nice, but it doesn't compensate for the one night bad stay. If you want to save $$ and don't really care where you stay or for your safety, sure this is the place. Well it is considered 2 stars, but I think that is a bit much.  
+<Date>Apr 20, 2007
+<Rating>2	2	1	1	2	3	-1	-1	
+<Aspects>
+13	2(night):1	67(call):1	69(tell):1	123(ok):1	146(friend):1	219(decide):1	242(care):1	329(entire):1	425(save):1	661(fan):1	1448(safety):1	2643(parc):1	5502(ghetto):1	
+3	52(bit):1	103(star):1	248(consider):1	
+11	35(street):1	41(city):1	119(window):1	164(air):1	206(live):1	278(cool):1	416(loud):1	733(imagine):1	1169(impossible):1	1259(crazy):1	2039(exist):1	
+0	
+0	
+5	0(staff):1	2(night):1	4(nice):1	50(bad):1	2243(compensate):1	
+0	
+0	
+
+<Author>fzx9vk
+<Content>Lovely little hotel! Small and charming hotel where service is exceptional. Mini theatre is wonderful, showing 2 movies each night that have a S.F. connection and my 2 kids actually watched their own DVD in there one evening whilst my wife and I used the internet. Each room is named after 1 of the movies. Staff could not be more friendly or helpful. Locationof 1 block to Union Sq was fantasic for shopping and sightseeing, although the high number of homeless immediately outside the hotel came as a surprise and was un-nerving to my family. Room were very clean and comfortable, although beds were too soft for my liking. Booked online with the valet parking option which was cheaper and easier than finding parking in the city. Found a great little sports bar 1 block away for cheap eats and beer during happy hour. I would definitely return to this hotel.  
+<Date>Apr 18, 2007
+<Rating>5	4	5	4	5	5	5	-1	
+<Aspects>
+4	23(little):1	39(return):1	59(definitely):1	87(lovely):1	
+9	23(little):1	27(bar):1	47(eat):1	60(hour):1	100(bloc):1	143(cheap):1	155(happy):1	443(beer):1	919(sport):1	
+6	3(clean):1	11(bed):1	25(comfortable):1	295(name):1	589(soft):1	989(movie):1	
+15	9(service):1	49(shop):1	98(outside):1	100(bloc):1	106(family):1	199(surprise):1	332(charm):1	335(numb):1	451(union):1	489(immediately):1	640(sight-see):1	837(exceptional):1	1567(homeless):1	1959(sq):1	5341(fantasic):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+8	18(book):1	41(city):1	66(park):2	93(easy):1	143(cheap):1	336(option):1	457(valet):1	822(online):1	
+15	2(night):1	48(wonderful):1	97(internet):1	166(own):1	180(actually):1	184(wife):1	201(kid):1	245(watch):1	448(mini):1	635(theater):1	877(whilst):1	932(connection):1	989(movie):1	1364(dvd):1	4159(s.f):1	
+
+<Author>ladnerquartet
+<Content>What a gem! My girlfriend and I stayed at the Hotel Bijou for four nights over the Easter weekend. Although the hotel is located nearer to the seedy tenderloin area than other Union Square hotels, it is a great location with its close proximity to the streetcars, cable cars, subway and BART. In fact, we arrived on Amtrak from Seattle and the shuttle bus from the Amtrak station dropped us off a mere five minute walk to the hotel on Market and Powell. We found the rooms to be clean and the front desk staff to be helpful and friendly. We loved the theatre off the main lobby and managed to squeeze in a film that came complete with microwaveable popcorn! We loved the fact that it is within walking distance to many of the top ethnic restaurants in the city and we took advantage of that fact. I would stay here again - I like the fact that it only has 5 floors with 12 rooms or so per floor - much cozier than a big downtown hotel. For the price, it is great! My only complaint is that if you wanted juice with breakfast, you had to purchase it elsewhere or buy it from a vending machine in the breakfast room. I think it should be provided as part of the breakfast offered.  
+<Date>Apr 15, 2007
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+5	2(night):1	172(weekend):1	994(girlfriend):1	2075(easter):1	7161(bijou):1	
+1	19(price):1	
+3	24(floor):2	334(downtown):1	749(cozy):1	
+33	1(location):1	7(walk):2	10(restaurant):1	28(close):1	29(minute):1	40(love):1	41(city):1	53(arrive):1	82(station):1	84(locate):1	102(near):1	115(distance):1	118(top):1	120(bus):1	121(car):1	139(square):1	264(market):1	321(shuttle):1	370(subway):1	451(union):1	484(cable):1	662(drop):1	762(seattle):1	867(advantage):1	1114(proximity):1	1505(bart):1	1897(powell):1	2209(seedy):1	2391(streetcar):1	2579(tenderloin):1	3317(mere):1	5673(ethnic):1	6937(amtrak):2	
+0	
+6	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	
+20	6(breakfast):3	40(love):1	55(lobby):1	89(offer):1	112(main):1	153(provide):1	190(complaint):1	280(buy):1	362(juice):1	493(machine):1	622(complete):1	635(theater):1	645(manage):1	646(elsewhere):1	805(gem):1	887(purchase):1	1963(squeeze):1	2345(film):1	2454(vend):1	3060(popcorn):1	
+0	
+
+<Author>VickyBurns
+<Content>Wonderful and Friendly Hotel         
+<Date>Mar 27, 2007
+<Rating>5	5	5	5	4	5	5	3	
+<Aspects>
+2	12(friendly):1	48(wonderful):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>EditJess
+<Content>Good deal       Bijou bathroom  
+<Date>Mar 2, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+3	13(bathroom):1	140(deal):1	7161(bijou):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>bookworm78
+<Content>Wonderful spot for great price An eight-night stay here was completely wonderful. Staff was truly helpful and went above and beyond at every opportunity. The room was very quiet and clean (maybe the walls could have used another coat of paint, though) and comfortable. Bathroom had hot water, good soaps, etc. The tv had pretty hideous reception, but we were not there to watch it! The location was super--about 1.5 blocks from a BART station and 2 blocks from a major uptown bus line. The neighborhood immediately to the west was not ideal, with many homeless. However, this seems to be the case at the finest hotels in this town. Overall, I highly recommend it and hope to return myself.  
+<Date>Jan 15, 2007
+<Rating>5	5	4	4	5	5	5	-1	
+<Aspects>
+12	15(recommend):1	39(return):1	70(overall):1	113(fine):1	138(highly):1	239(town):1	328(hope):1	421(neighbourhood):1	489(immediately):1	545(ideal):1	953(west):1	1567(homeless):1	
+4	19(price):1	48(wonderful):2	317(spot):1	542(completely):1	
+17	3(clean):1	13(bathroom):1	25(comfortable):1	57(water):1	58(quiet):1	73(etc):1	109(pretty):1	114(hot):1	116(tv):1	129(reception):1	183(wall):1	245(watch):1	308(maybe):1	806(paint):1	965(soap):1	2636(coat):1	6363(hideous):1	
+9	1(location):1	82(station):1	100(bloc):2	120(bus):1	188(line):1	315(major):1	464(super):1	1505(bart):1	3285(uptown):1	
+0	
+5	0(staff):1	14(helpful):1	476(truly):1	738(beyond):1	1235(opportunity):1	
+0	
+0	
+
+<Author>hastalatravel
+<Content>clean, character,  Loved it and would stay there again. Before booking I had read some reviews that commented on the sketchy location. I'm glad we chose Bijout anyway; here's what we found: The hotel is on the corner, and the front entrance (and parking) is on a relatively quiet street. To the west is the Tenderloin neighborhood, which can be intimidating to those not comfortable with gritty downtown areas. HOWEVER, immediately east and north are more bustling, visitor-oriented, commercial, and theater areas -- which feel busy and safe. Police patrols seemed common, too. The location shouldn't scare you unless you are the very most faint-of-heart who really feels more comfortable in mega-hotels and mall settings. The location also makes a car obsolete! I loved the character of the hotel, the look of the rooms (decor and archtecture and brand-new feel), the cinematic theme (a screening room in the lobby! c'mon, how can you beat that?!), the boutiquey feel, and the professional staff. We had no problems with nighttime street noise or lights. (We were on an upper floor, and had requested [and got] a room off the main street.) My one could-be-better comment is: the lighting in the breakfast room feels institutional (hospital?) and the food fare is processed white-flour bagels/muffins. The teas and coffe are good.  
+<Date>Jan 10, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	25(comfortable):1	334(downtown):1	421(neighbourhood):1	442(beat):1	830(common):1	953(west):1	1409(police):1	2579(tenderloin):1	3300(intimidate):1	5492(patrol):1	7712(c'mon):1	7968(gritty):1	
+0	
+21	6(breakfast):1	20(look):1	24(floor):1	34(feel):2	35(street):2	40(love):1	55(lobby):1	94(noise):1	112(main):1	148(request):1	157(light):2	269(decor):1	356(comment):1	526(screen):1	1049(character):1	1118(theme):1	1333(upper):1	1911(hospital):1	3701(night-time):1	7882(institutional):1	8759(brand-new):1	
+33	0(staff):1	1(location):3	18(book):1	25(comfortable):1	31(front):1	34(feel):3	35(street):1	37(review):1	58(quiet):1	66(park):1	88(read):1	121(car):1	137(safe):1	167(choose):1	200(corner):1	220(busy):1	356(comment):1	405(unless):1	417(anyway):1	489(immediately):1	490(entrance):1	501(professional):1	619(glad):1	635(theater):1	643(mall):1	684(North):1	913(relatively):1	948(east):1	1107(bustle):1	1711(scare):1	2934(commercial):1	3148(sketchy):1	4173(setting):1	
+3	3(clean):1	40(love):1	1049(character):1	
+0	
+6	16(food):1	301(tea):1	1112(fare):1	1222(process):1	1370(bagels):1	3297(coffe):1	
+0	
+
+<Author>hcf1
+<Content>Really different I spent one night here, and a friend I was travelling with stayed for a week. The staff were friendly, and really helpful, they made the trip for us. The rooms were really nice and comfy, and spotless. Breakfast was ok, bagles and muffins, nothing fancy. teh Mini cinema with the free popcorn was a definte plus, as was the area (5 minutes from union square, f line, bart and cable cars). I would definitely go back when I'm next in the city  
+<Date>Jan 9, 2007
+<Rating>5	4	5	5	5	5	5	3	
+<Aspects>
+7	2(night):1	41(city):1	59(definitely):1	64(spend):1	68(travel):1	75(week):1	146(friend):1	
+0	
+16	4(nice):1	29(minute):1	46(free):1	121(car):1	139(square):1	188(line):1	203(plus):1	448(mini):1	451(union):1	475(comfy):1	484(cable):1	548(spotless):1	1505(bart):1	3060(popcorn):1	3655(teh):1	3913(cinema):1	
+0	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	33(trip):1	
+5	6(breakfast):1	123(ok):1	796(fancy):1	1260(muffin):1	12809(bagl):1	
+0	
+
+<Author>Aged_Travellers
+<Content>Great Hotel A boutique hotel a stone's throw from Union Square. Immaculately decorated with a movie theme. Small cinema shows films every evening, usually with a San Francisco connection. Extremely friendly, helpful and knowledgeable staff. Cleanliness throughout the hotel was excellent. Although on the eastern edge of the Tenderloin district we did not encounter any problems, but were never out very late.We were really pleased with our choice of the Hotel Bijou and would definitely stay there again.  
+<Date>Jan 3, 2007
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+6	79(late):1	433(district):1	693(encounter):1	1190(edge):1	2579(tenderloin):1	3004(eastern):1	
+4	59(definitely):1	107(choice):1	173(please):1	7161(bijou):1	
+9	139(square):1	305(decorate):1	451(union):1	623(boutique):1	917(throw):1	989(movie):1	1118(theme):1	1394(stone):1	2084(immaculately):1	
+6	177(san):1	355(francisco):1	399(usually):1	932(connection):1	2345(film):1	3913(cinema):1	
+3	21(excellent):1	445(throughout):1	854(cleanliness):1	
+5	0(staff):1	12(friendly):1	14(helpful):1	110(extremely):1	1160(knowledgeable):1	
+0	
+0	
+
+<Author>B_Pope
+<Content>Great Idea, Somebody A movie theater in the hotel lobby--it sounds like a gimmick. But you know what? It works! My guests and I enjoyed a day of sightseeing, including Alcatraz, and when we got to the hotel in the evening, one of the movies was Birdman of Alcatraz. It was the perfect ending to a great day. The theater is just one of the nice touches at Bijou. Some of the others are good towels, very nice soaps and shampoos, and a good value for lodging in the city. After checkin I noticed a gym-socks smell in the elevator, but one of the staff neutralized it with freshener before I even had a chance to mention it to them--good job! Otherwise the place was very clean. Breakfast is tasty but minimal--bagels and muffins. We did not experience noise problems mentioned in other reviews. Noise level is normal for the city, and less than at other hotels. Occassional sound of elevator, which I first thought was a distant vacuum cleaner, but it too was minimal, and we were right next to the shaft. Housekeeping kept knocking in the morning, but it wasn't their fault. Someone (another guest?) kept turning our do not disturb card around. Housekeepers were friendly and helpful. I am a member of the hotel company's Joy of Life club, and was supposed to get extra goodies in the rooms, which we received in one room, but not in the other. Desk staff didn't know what to do about that. Otherwise, desk staff was very friendly and very helpful--their dining suggestion helped us find a reasonable and uncrowded diner for lunch. Yes, the neighborhood had some homeless, but they weren't threatening, and didn't even approach us; they were actually more agressive at Fisherman's Wharf. I would enjoy staying at Bijou again, except that I want to try other hotels in the Joie de Vivre group.  
+<Date>Jan 2, 2007
+<Rating>4	4	4	4	5	4	4	3	
+<Aspects>
+27	4(nice):1	8(day):1	41(city):1	51(enjoy):1	74(perfect):1	76(try):1	91(guest):1	94(noise):1	180(actually):1	250(yes):1	279(touch):1	292(card):1	306(level):1	337(except):1	421(neighbourhood):1	635(theater):1	784(wharf):1	878(normal):1	1067(disturb):1	1148(fisherman):1	1378(approach):1	1567(homeless):1	2537(threaten):1	6776(agressive):1	7122(vivre):1	7161(bijou):2	7329(joie):1	
+4	37(review):1	44(experience):1	94(noise):1	244(mention):1	
+22	4(nice):1	12(friendly):1	14(helpful):1	41(city):1	56(morning):1	81(value):1	125(towel):1	128(extra):1	212(club):1	302(receive):1	367(housekeeping):1	426(life):1	517(fault):1	620(suppose):1	760(company):1	965(soap):1	1051(shampoo):1	1323(knock):1	1591(housekeeper):1	1878(lodge):1	2486(joy):1	2644(goody):1	
+7	8(day):1	51(enjoy):1	71(include):1	91(guest):1	640(sight-see):1	989(movie):1	2211(alcatraz):2	
+2	3(clean):1	508(otherwise):1	
+12	0(staff):2	12(friendly):1	14(helpful):1	36(desk):2	92(help):1	252(lunch):1	273(reasonable):1	316(dine):1	508(otherwise):1	921(suggestion):1	1324(diner):1	5794(uncrowded):1	
+25	0(staff):1	3(clean):1	6(breakfast):1	55(lobby):1	216(elevator):2	231(smell):1	244(mention):1	354(notice):1	409(sound):2	481(job):1	635(theater):1	639(idea):1	689(chance):1	984(tasty):1	989(movie):1	1260(muffin):1	1370(bagels):1	1615(minimal):2	1818(checkin):1	2680(vacuum):1	3263(distant):1	3630(shaft):1	4101(freshener):1	8462(occassional):1	11769(gimmick):1	
+0	
+
+<Author>srbei1
+<Content>Great little hotel The hotel staff were extremely helpful and friendly. The rooms were clean. The location was very close to union square and market street but at night I did not feel safe going out due to the abudance of homeless people (not like the rest of san francisco). Overall a very nice little hotel.  
+<Date>Dec 25, 2006
+<Rating>4	4	5	2	4	5	5	4	
+<Aspects>
+3	4(nice):1	23(little):1	70(overall):1	
+0	
+1	3(clean):1	
+15	1(location):1	2(night):1	26(people):1	28(close):1	34(feel):1	35(street):1	137(safe):1	139(square):1	177(san):1	259(due):1	264(market):1	288(rest):1	355(francisco):1	451(union):1	1567(homeless):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	23(little):1	110(extremely):1	
+0	
+0	
+
+<Author>AJDADIVA
+<Content>Like a movie theatre only with a bed The Bijou is a movie theme hotel that while small is fun and clean. The rooms are all named for film shot in and around San Francisco and the small theatre just off the lobby shows a San Francisco double feature every night.The deep rich colors in the lobby are carried through to the rooms where the colors are bright and rich. The beds are comfy and the closets large and stocked with an iron and ironing board extra pillows and an extra blanket.I had a room on the 6th floor with a queen bed, much larger than I had expected with a full bath. The one criticism I have of the bath tub was that due to the spigot being at one end and the drain control at the other it is not usable for soaking as you'd either be hitting your head or being poked in the back.Being a city dweller I am used to noise and wasn't kept awake by the busy streets on either side of the hotel. But in any event, the hotel provides ear plugs in the room. The neighborhood is grity but most of the street people are not dangerous and can be quite friendly when treated like human beings. If nothing else think of your interaction with them as an interesting cultural experince. Though the staff warns visitors of walking west from the hotel, the area is safe durning the day and as long as you are aware of your surroundings you can walk the streets at night.The continental breakfast while not lavish is enough to get you going in the morning. The staff is friendly and the little extras offered at all Joie de Vivre hotels [free staff authored city guides, access to a Golden Gate Greeter] along with the special services for movie buffs make this budget hotel a cut above most.  
+<Date>Dec 5, 2006
+<Rating>4	4	4	2	4	4	4	-1	
+<Aspects>
+15	170(else):1	226(bath):1	259(due):1	311(tub):1	319(head):1	775(hit):1	865(control):1	1468(soak):1	1489(drain):1	2049(criticism):1	2633(cultural):1	3428(interaction):1	5536(usable):1	6291(poke):1	6377(experince):1	
+0	
+38	2(night):1	3(clean):1	11(bed):3	24(floor):1	55(lobby):2	62(expect):1	128(extra):2	153(provide):1	176(fun):1	177(san):2	179(double):1	226(bath):1	295(name):1	303(pillow):1	355(francisco):2	475(comfy):1	543(Queen):1	565(closet):1	599(stock):1	600(board):1	635(theater):2	731(feature):1	824(carry):1	868(iron):2	880(bright):1	942(color):2	989(movie):2	1043(deep):1	1106(event):1	1118(theme):1	1174(plug):1	1369(blanket):1	1684(ear):1	1778(shoot):1	1869(6th):1	2345(film):1	2350(rich):2	7161(bijou):1	
+22	0(staff):1	2(night):1	7(walk):2	8(day):1	12(friendly):1	26(people):1	35(street):3	41(city):1	94(noise):1	137(safe):1	220(busy):1	320(treat):1	421(neighbourhood):1	679(warn):1	832(aware):1	951(visitor):1	953(west):1	1494(awake):1	1551(surroundings):1	1971(dangerous):1	3533(human):1	11738(dweller):1	
+0	
+21	0(staff):2	9(service):1	12(friendly):1	23(little):1	41(city):1	46(free):1	89(offer):1	128(extra):1	159(access):1	208(special):1	429(budget):1	829(guide):1	873(cut):1	989(movie):1	992(gate):1	1317(golden):1	6044(buff):1	6492(greeter):1	7122(vivre):1	7329(joie):1	10820(author):1	
+4	6(breakfast):1	56(morning):1	372(continental):1	4199(lavish):1	
+0	
+
+<Author>Travillez
+<Content>Excellent Hotwire ticker to be exact.This hotel was a nice suprise. Very comfortable and as quiet as hotels get in downtown San Francisco. The Parking lot directly adjacnt to the hotel, is safe and cared for 24 hours per day at just $25 per night. This hotel is on the east edge of the Tenderloin but still safe and close to everything that Union Square has to offer (2 blocks to the Powel Street cable car turnaround at Market). The Hotel is European in design, meaning there is enough room to use. I have read some reviews of this hotel that show certian people are concerned about the Tenderloin. The area of San Francisco that made me uncomfortable was when I stayed north of the Tenderloin, near Van Ness. Just food for thought the Tenderloin is not the worst part of San Francisco.I think the Bijou was a comfortable and safe hotel, that included a continental breakfast at the very reasonable price of $79.00, on a special offer. If you are looking for a quiet, isolated and graciously spacious hotel room in San Francisco you need to consider paying upwards of $200 to $400 per night. Even then you are not guarenteed of all those wishes.The Bijou is a great hotel with quality staff.  
+<Date>Nov 8, 2006
+<Rating>5	5	5	5	5	5	4	-1	
+<Aspects>
+19	4(nice):1	21(excellent):1	26(people):1	37(review):1	88(read):1	102(near):1	177(san):1	355(francisco):1	384(wish):1	496(concern):1	684(North):1	856(uncomfortable):1	1223(van):1	1738(suprise):1	1824(hotwire):1	2216(exact):1	2579(tenderloin):2	4211(ness):1	10013(guarenteed):1	
+12	0(staff):1	6(breakfast):1	19(price):1	25(comfortable):1	71(include):1	89(offer):1	137(safe):1	187(quality):1	208(special):1	273(reasonable):1	372(continental):1	7161(bijou):2	
+16	2(night):1	20(look):1	25(comfortable):1	42(pay):1	58(quiet):2	111(spacious):1	177(san):2	246(mean):1	248(consider):1	334(downtown):1	355(francisco):2	516(design):1	582(european):1	2468(isolate):1	3634(graciously):1	6086(upwards):1	
+21	2(night):1	8(day):1	28(close):1	35(street):1	38(lot):1	60(hour):1	66(park):1	89(offer):1	100(bloc):1	121(car):1	137(safe):2	139(square):1	242(care):1	264(market):1	383(directly):1	451(union):1	484(cable):1	948(east):1	1190(edge):1	2579(tenderloin):1	4161(turnaround):1	
+0	
+0	
+5	16(food):1	50(bad):1	177(san):1	355(francisco):1	2579(tenderloin):1	
+0	
+
+<Author>bbbbbbbbbbbbb
+<Content>What a plesant surprise Convenient central location, a few blocks to Union Sq, 1 block to BART. On the edge of the Tenderloin, so after dark the streets are filled w seedy (though nonagressive, non threatening) bums. Each room is themed for a different movie (I had the Dirty Harry room). Room was wonderful, large and spotless, with nice touches such as ear plugs (OK, it's noisy at night, but you ARE in the middle of the city!). Breakfast is not worth bothering for (limp bagel and a glass of concentrate OJ). Daytime desk staff was INCREDIBLY sweet anmd helpful. All in all, a fantastic value!  
+<Date>Nov 3, 2006
+<Rating>5	-1	5	-1	5	5	5	3	
+<Aspects>
+0	
+2	81(value):1	86(fantastic):1	
+11	2(night):1	4(nice):1	41(city):1	48(wonderful):1	123(ok):1	217(noisy):1	279(touch):1	325(middle):1	548(spotless):1	1174(plug):1	1684(ear):1	
+17	1(location):1	35(street):1	100(bloc):2	168(central):1	186(convenient):1	199(surprise):1	451(union):1	459(dark):1	491(fill):1	1190(edge):1	1505(bart):1	1959(sq):1	2209(seedy):1	2537(threaten):1	2579(tenderloin):1	3824(bum):1	5680(plesant):1	
+4	323(dirty):1	989(movie):1	1118(theme):1	4786(harry):1	
+6	0(staff):1	14(helpful):1	36(desk):1	807(incredibly):1	950(sweet):1	2503(daytime):1	
+8	6(breakfast):1	96(worth):1	307(bother):1	327(glass):1	3287(oj):1	3325(bagel):1	6125(concentrate):1	10906(limp):1	
+0	
+
+<Author>aggielamb03
+<Content>It Depends So I did my research and read all the reviews on this website before booking so I knew what I was getting myself into so I can't be too upset. I called when I made the reservation and requested our room be on any side of the hotel other than that one that overlooks the Tenderloin. They of course put us on the six floor overlooking the lovely Tenderloin despite our request. When we got there the man who checked us in was pretty rude. We asked for recommendations for restraunts and he recommended Burger King sarcastically and we when probed more he said he didn't know because he didn't live in the city. Now I can take a joke, but come on! We went up to our room and spend about thirty minutes looking out the window and witnessed two drug deals, one lady screaming at the top of her lungs running up and down the street, and a man/woman who was clearly a lover because she hugged everything in sight... including a pole. We never felt unsafe because we were on the sixth floor however I forsaw frustration at night with the sounds. So I'll sum it up for you, if you want a quiet place with a comfortable bed, and a controlled climate (they don't have air conditioning so you will have to open the window which means you won't get good sleep because you will hear screaming, music, laughing, sirens, more screaming, more lauging, and more sirens) DON'T STAY HERE! If you could care less, you sleep sound, and you want to be close to the action and so don't care about the size of the room STAY HERE! I never felt unsafe, and the price was definitely right. I think next time personally I will shell out the extra bucks for an environment where I feel like I am on vacation though.  
+<Date>Oct 23, 2006
+<Rating>2	4	2	5	2	1	3	1	
+<Aspects>
+8	15(recommend):1	41(city):1	206(live):1	243(king):1	577(recommendation):1	1157(burger):1	1175(joke):1	4062(restraunts):1	
+11	5(time):1	19(price):1	34(feel):2	59(definitely):1	128(extra):1	131(vacation):1	1052(personally):1	1120(buck):1	1712(environment):1	1890(unsafe):1	2424(shell):1	
+51	2(night):1	11(bed):1	20(look):1	24(floor):2	25(comfortable):1	28(close):1	29(minute):1	34(feel):1	35(street):1	58(quiet):1	64(spend):1	71(include):1	83(size):1	87(lovely):1	104(sleep):2	118(top):1	119(window):2	132(hear):1	140(deal):1	148(request):1	149(run):1	164(air):1	242(care):2	246(mean):1	260(overlook):1	263(condition):1	293(course):1	398(music):1	409(sound):2	411(sight):1	487(wo):1	498(despite):1	521(lady):1	865(control):1	958(action):1	1245(laugh):1	1651(sum):1	1757(scream):3	1890(unsafe):1	2256(drug):1	2282(siren):2	2568(lover):1	2579(tenderloin):1	2685(witness):1	2704(climate):1	3264(sixth):1	3573(frustration):1	4835(hug):1	6442(pole):1	7757(lung):1	8678(thirty):1	
+0	
+0	
+8	32(check):1	67(call):1	109(pretty):1	148(request):1	156(reservation):1	260(overlook):1	392(rude):1	2579(tenderloin):1	
+7	18(book):1	37(review):1	88(read):1	262(website):1	969(depend):1	1024(research):1	1220(upset):1	
+0	
+
+<Author>Killie_Mogwai
+<Content>Brilliant!! Fantastic Hotel. We arrived on the 19th September and stayed for a week. Great Central Location - 2 minutes walk from Cable Car, 5 minutes from Union Square. Rooms were fine for all the time we spent in them. Front Desk Staff were incredibly helpful and had no problems moving us to a room on a higher floor due to the street noise (although ear plugs were provided!!) and also arranged our Airport Transfer. They were always on hand to provide directions or recommendations for dinner etc. The complimentary breakfast of bagels and muffins was excellent. Would definitely stay here again.  
+<Date>Sep 27, 2006
+<Rating>4	4	3	5	4	5	4	-1	
+<Aspects>
+7	53(arrive):1	59(definitely):1	75(week):1	86(fantastic):1	793(brilliant):1	972(september):1	2149(19th):1	
+0	
+6	5(time):1	64(spend):1	95(airport):1	113(fine):1	680(arrange):1	1021(transfer):1	
+8	1(location):1	7(walk):1	29(minute):2	121(car):1	139(square):1	168(central):1	451(union):1	484(cable):1	
+0	
+13	0(staff):1	14(helpful):1	24(floor):1	31(front):1	35(street):1	36(desk):1	94(noise):1	153(provide):1	207(move):1	259(due):1	807(incredibly):1	1174(plug):1	1684(ear):1	
+11	6(breakfast):1	21(excellent):1	73(etc):1	117(dinner):1	153(provide):1	345(complimentary):1	377(hand):1	395(direction):1	577(recommendation):1	1260(muffin):1	1370(bagels):1	
+0	
+
+<Author>poisondartfrog1
+<Content>Great Hotel, Fantastic Location       View from the side  
+<Date>Sep 19, 2006
+<Rating>4	5	4	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+3	1(location):1	17(view):1	86(fantastic):1	
+0	
+0	
+0	
+0	
+
+<Author>aorze762
+<Content>Loved it!!! The Bijou was fantastic! It is very colourful, warm, and welcoming. The staff were very nice. We found this place after driving around San Francisco, trying to find a centrally located hotel. It is very close to the shopping district and cable cars. It is about one block off a sketchy district which actually made the experience more entertaining then scary. We found it very safe, even to walk back to the hotel at night. We have stayed at other hotels, but so far this one is our favorite.Definatly recommended!  
+<Date>Sep 18, 2006
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+9	15(recommend):1	40(love):1	86(fantastic):1	202(welcome):1	236(warm):1	376(favourite):1	2489(colorful):1	2993(definatly):1	7161(bijou):1	
+7	44(experience):1	100(bloc):1	180(actually):1	433(district):1	1045(entertain):1	1566(scary):1	3148(sketchy):1	
+0	
+14	2(night):1	7(walk):1	28(close):1	49(shop):1	76(try):1	84(locate):1	121(car):1	137(safe):1	177(san):1	298(drive):1	355(francisco):1	433(district):1	484(cable):1	879(centrally):1	
+0	
+2	0(staff):1	4(nice):1	
+0	
+0	
+
+<Author>JossWhite
+<Content>Absolutely brilliant! Mr  We stayed at the Bijou at the beginning of July having booked it on Travelocity. It's a FANTASTIC hotel and really reasonable. The staff were incredibly helpful and were always there to answer questions and point us in the right direction! Our room was clean and spacious and very comfortable. We were really sad to leave and will definitely book there again when we next go to San Fran. Thanks!  
+<Date>Aug 7, 2006
+<Rating>4	5	4	4	4	5	5	4	
+<Aspects>
+5	86(fantastic):1	189(absolutely):1	271(thank):1	273(reasonable):1	793(brilliant):1	
+0	
+3	3(clean):1	25(comfortable):1	111(spacious):1	
+0	
+0	
+6	0(staff):1	14(helpful):1	394(question):1	395(direction):1	669(answer):1	807(incredibly):1	
+9	18(book):2	43(leave):1	59(definitely):1	177(san):1	551(begin):1	1454(sad):1	1744(fran):1	3132(travelocity):1	7161(bijou):1	
+0	
+
+<Author>living-in-germany
+<Content>A Very Nice Place to Stay! I really can't say enough nice things about the staff of this hotel. They were very friendly, helpful and competent from the beginning and when my passport was stolen they did everything they could for me, including a lot of moral support that helped to keep my spirits up. If you stay there, be sure to ask for advice on where to eat, where to go or how to get to places. They are a gold mine of information. The location of the hotel was great, right down the street from the Hertz offices where we handed in our car, half a block from Market Street where we caught the street car (Line F) to Fisherman's Wharf, also half a block from the cable car end station (where there was always a line) and the BART Station, Powell Street, where we caught the train to take us directly to the airport. Union Square was within easy walking distance, as was the San Francisco Museum of Modern Art and Dotty's True Blue Coffee Shop is right around the corner from the hotel.Our room wasn't very big but was clean and attractive and had everything we needed, including an iron and ironing board, which I thought was a nice touch. The hotel doesn't have air conditioning but we were there in July and even though the days were hot it got very cool at night so that we didn't need it. The noise from the streets is bothersome but no problem if you don't mind using earplugs. There are a lot of homeless people around, but they seem to be everywhere in S.F. and they never really bothered us. The hotel price is really unbeatable for the location and what the hotel offers. It is on the border of the Tenderloin, but there is no reason to go off in that direction.Every evening they show two free movies that have some connection to San Francisco in their little movie theater and you can even have popcorn. There is also a complimentary breakfast of muffins, bagels, coffee, etc. and it's fun to meet and talk to the other guests. They have a very international clientele.We would definitely stay here the next time we travel to San Francisco.  
+<Date>Jul 17, 2006
+<Rating>4	5	4	-1	5	-1	5	-1	
+<Aspects>
+19	4(nice):1	5(time):1	26(people):1	38(lot):1	47(eat):1	59(definitely):1	68(travel):1	177(san):1	307(bother):1	355(francisco):1	374(reason):1	395(direction):1	575(advice):1	903(international):1	1567(homeless):1	2579(tenderloin):1	2701(border):1	2776(clientele):1	4159(s.f):1	
+4	1(location):1	19(price):1	89(offer):1	2303(unbeatable):1	
+13	2(night):1	3(clean):1	4(nice):1	8(day):1	71(include):1	114(hot):1	164(air):1	263(condition):1	278(cool):1	279(touch):1	600(board):1	868(iron):2	1154(attractive):1	
+38	1(location):1	7(walk):1	35(street):5	49(shop):1	82(station):2	90(coffee):1	93(easy):1	94(noise):1	95(airport):1	100(bloc):2	115(distance):1	121(car):3	139(square):1	151(modern):1	177(san):1	182(train):1	188(line):2	200(corner):1	264(market):1	283(half):2	294(mind):1	355(francisco):1	377(hand):1	383(directly):1	451(union):1	484(cable):1	507(museum):1	540(catch):2	694(blue):1	784(wharf):1	789(art):1	792(office):1	1148(fisherman):1	1505(bart):1	1771(earplugs):1	1897(powell):1	4167(bothersome):1	4431(hertz):1	
+0	
+5	0(staff):1	4(nice):1	649(information):1	1269(mine):1	1571(gold):1	
+30	6(breakfast):1	12(friendly):1	14(helpful):1	23(little):1	38(lot):1	46(free):1	71(include):1	73(etc):1	90(coffee):1	91(guest):1	92(help):1	176(fun):1	177(san):1	196(meet):1	345(complimentary):1	355(francisco):1	371(talk):1	551(begin):1	635(theater):1	932(connection):1	989(movie):2	1187(steal):1	1260(muffin):1	1370(bagels):1	1975(passport):1	2182(spirit):1	2448(support):1	2921(competent):1	3060(popcorn):1	7330(moral):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A Surprising Gem To be honest, I only booked a room at the Bijou because I was not able to make a last minute reservation at any of the hotels my company usually books. I was pleasantly surprised and happy with my experience. The hotel has some of that character or charm usually found in older buildings that are well maintained. The 'motion picture' motif is clever and works fairly well (I stayed in 'The Bird Man of Alcatraz' on the 3rd floor). It was very clean and the staff was wonderful. From the lobby staff, to the maintentance man, to the lady cleaning the rooms, each individual I encountered was not just polite but genuinely warm and welcoming toward me as a person. I had no time for the 'free breakfast' and can not comment on it.  My room was on the smaller side, but very manageable. The room had two queen beds, a nightstand, a writing desk, a chest of drawers, and a wing chair by the window for reading. One mattress was very soft, one was of medium firmness. The one closet was amply sized with a good amount of hangers. There were an iron and ironing board in the closet as well. Several books/publications concerning the San Francisco area had been thoughtfully laid out on the desk. There was a bolt lock on the room door. There was a television with a handful of free cable channels available (no movie rentals, etc.) and an alarm clock/radio. The bathroom was small but functional, with the tiled shower (no tub), toilet, and sink each in their own niche (think cruise ship). There was an abundance of clean, fluffy white towels and face cloths. A hairdryer was located next to the sink. Water pressure was excellent - the hot water came up piping hot very quickly and the cold water was actually cold. The room was very quiet except for the usual water nosies one hears in every hotel. An ice bucket was provided, however there is not an ice machine located on each floor. One call out is that there is no air conditioning (there is central heating for the cooler times of the year) which is typical of older/smaller hotels in this area. Once the outside temperature climbs past 80 the room will start becoming uncomfortable during the day. During the evening the temperature typically dropped 10-15 degrees. Ventilation is limited to a fairly large sliding portion of the street window and a half window which can be opened in the bathroom.  Yes, there is noise from the streets below at almost all times - this is the big city, after all, with sirens, delivery trucks, street sweepers, etc.. I personally had no problem sleeping through it but I can see where this may be an issue for a light sleeper, especially when you will need the window open during warm weather. The location is within reasonable walking distance of Market Street, Union Square, etc. and very convenient. I personally never felt threatened or had bad vibes coming and going from the hotel, I just exercised normal caution and common sense called for when in an urban area. Yes, the local real estate seems less affluent than that several blocks away but the immediate area is by no means a slum or a deteriorating neighborhood. I would not feel paranoid having my wife and daughter stay here should we ever have the chance to visit as a family. I encountered several families with children at the hotel during my stay. On the morning of my departure, the Front Desk arranged for my airport shuttle pickup and printed my electronic boarding pass while I completed some last minute business. Check Out was quick and painless. I liked the Bijou so much I will probably attempt to book it again when I next travel to San Francisco.  
+<Date>Jul 17, 2006
+<Rating>4	5	3	-1	5	-1	5	-1	
+<Aspects>
+47	21(excellent):1	34(feel):2	50(bad):1	57(water):3	65(visit):1	67(call):1	100(bloc):1	106(family):2	114(hot):2	180(actually):1	184(wife):1	195(local):1	222(cold):2	240(real):1	246(mean):1	250(yes):1	277(child):1	421(neighbourhood):1	467(daughter):1	471(quickly):1	589(soft):1	662(drop):1	686(pressure):1	689(chance):1	693(encounter):1	830(common):1	847(mattress):1	878(normal):1	944(temperature):1	1052(personally):1	1102(sense):1	1252(degree):1	1459(exercise):1	1761(immediate):1	1994(typically):1	2067(pipe):1	2102(caution):1	2308(vibe):1	2537(threaten):1	2673(urban):1	2762(medium):1	4651(estate):1	6570(deteriorate):1	7237(paranoid):1	7621(slum):1	10323(firmness):1	11258(affluent):1	
+11	8(day):1	44(experience):1	98(outside):1	155(happy):1	165(start):1	199(surprise):1	419(past):1	747(pleasantly):1	856(uncomfortable):1	944(temperature):1	1424(climb):1	
+95	0(staff):1	3(clean):1	5(time):1	11(bed):1	13(bathroom):2	24(floor):2	35(street):1	36(desk):1	46(free):1	54(door):1	55(lobby):1	57(water):1	58(quiet):1	61(shower):1	67(call):1	73(etc):1	83(size):1	84(locate):2	88(read):1	104(sleep):1	119(window):4	126(especially):1	132(hear):1	134(available):1	153(provide):1	157(light):1	164(air):1	166(own):1	168(central):1	193(person):1	198(chair):1	202(welcome):1	236(warm):2	263(condition):1	265(issue):1	278(cool):1	283(half):1	311(tub):1	330(toilet):1	337(except):1	344(write):1	385(weather):1	422(polite):1	456(picture):1	462(fairly):2	484(cable):1	493(machine):1	509(sink):2	510(limit):1	521(lady):1	539(heat):1	543(Queen):1	547(ice):2	565(closet):1	603(cruise):1	628(typical):1	666(amount):1	682(usual):1	693(encounter):1	741(channel):1	774(lock):1	846(tile):1	963(rental):1	989(movie):1	1052(personally):1	1142(slide):1	1158(television):1	1291(clock):1	1299(sleeper):1	1348(functional):1	1380(alarm):1	1392(ship):1	1426(drawer):1	1435(bird):1	1450(portion):1	1493(hairdryer):1	1515(wing):1	1596(individual):1	1950(genuinely):1	2097(3rd):1	2211(alcatraz):1	2342(bucket):1	2506(hanger):1	2667(ventilation):1	3686(chest):1	3966(handful):1	4186(motion):1	4204(manageable):1	4445(nightstand):1	4554(clever):1	5277(bolt):1	6516(motif):1	8750(nosy):1	9503(niche):1	10144(amply):1	
+36	1(location):1	5(time):1	7(walk):1	29(minute):1	31(front):1	35(street):3	36(desk):1	41(city):1	56(morning):1	73(etc):2	94(noise):1	95(airport):1	115(distance):1	139(square):1	147(business):1	186(convenient):1	250(yes):1	264(market):1	273(reasonable):1	321(shuttle):1	400(pass):1	451(union):1	565(closet):1	585(below):1	600(board):2	622(complete):1	680(arrange):1	868(iron):2	1031(departure):1	1101(print):1	1507(truck):1	2152(delivery):1	2258(pickup):1	2282(siren):1	2578(electronic):1	12179(sweeper):1	
+13	0(staff):1	3(clean):2	48(wonderful):1	125(towel):1	332(charm):1	399(usually):1	466(white):1	562(maintain):1	745(building):1	1049(character):1	1792(fluffy):1	1864(cloth):1	2829(abundance):1	
+9	32(check):1	36(desk):1	177(san):1	299(quick):1	355(francisco):1	496(concern):1	696(lay):1	3875(painless):1	6495(thoughtfully):1	
+19	5(time):1	6(breakfast):1	18(book):3	29(minute):1	46(free):1	68(travel):1	156(reservation):1	171(able):1	177(san):1	178(probably):1	199(surprise):1	355(francisco):1	356(comment):1	399(usually):1	760(company):1	805(gem):1	1108(honest):1	1119(attempt):1	7161(bijou):2	
+0	
+
+<Author>Malizia23
+<Content>Nice stay Nice place to stay. Female staff was great. Male staff wasn't that friendly. Rooms are very clean, but very noisy at night. They leave ear plugs on the night stands. Location is ok if you turn left out of the hotel, I wouldn't suggest turning right. Trolley is real close, so is the shopping district. $9.00 cab ride to Fishermans Wharf. I probably would stay there again after checking other options.  
+<Date>Jul 7, 2006
+<Rating>3	4	3	-1	5	-1	4	-1	
+<Aspects>
+10	2(night):1	4(nice):2	43(leave):1	218(ride):1	380(cab):1	444(stand):1	784(wharf):1	1174(plug):1	1684(ear):1	2198(fishermans):1	
+0	
+3	2(night):1	3(clean):1	217(noisy):1	
+9	1(location):1	28(close):1	43(leave):1	49(shop):1	123(ok):1	240(real):1	433(district):1	452(suggest):1	1079(trolley):1	
+0	
+7	0(staff):2	12(friendly):1	32(check):1	178(probably):1	336(option):1	1714(female):1	2295(male):1	
+0	
+0	
+
+<Author>awesome514
+<Content>Cheap and Cozy The Hotel Bijou was a budget choice, and I couldn't have been more surprised by the great location and excellent service from such a poorly rated hotel.The ambience was quaint, the room was very clean, the desk service was friendly and helpful. The hotel is located 1 block from the BART station, and only a few short blocks to the Powell Street Cable Car. There are a few MUNI lines that run nearby, and there are plenty of restaurants for a great breakfast before you head out to explore SF.For the traveler who doesn't want to spend their life savings in San Francisco, this is an EXCELLENT hotel for the money!  
+<Date>Apr 25, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	21(excellent):1	64(spend):1	80(money):1	177(san):1	267(traveler):1	355(francisco):1	426(life):1	3933(savings):1	
+11	1(location):1	9(service):1	21(excellent):1	78(rate):1	107(choice):1	143(cheap):1	199(surprise):1	429(budget):1	749(cozy):1	1635(poorly):1	7161(bijou):1	
+7	3(clean):1	9(service):1	12(friendly):1	14(helpful):1	36(desk):1	957(ambience):1	1295(quaint):1	
+9	35(street):1	82(station):1	84(locate):1	100(bloc):2	121(car):1	144(short):1	484(cable):1	1505(bart):1	1897(powell):1	
+0	
+0	
+10	6(breakfast):1	10(restaurant):1	149(run):1	158(plenty):1	188(line):1	232(nearby):1	319(head):1	594(explore):1	802(sf):1	2181(muni):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Spunky Staff--Sketchy Neighborhood I had a great time at this little place. It wasn't until I spent a night there that I realized the hotel's location adjacent to SF's Tenderloin District made it a not-so-desirable hotel, but I mananged alright as a single young woman traveler. I wouldn't recommend going out late at night around there without knowing your destination. You don't want to pull out a map with types of people that frequent the area during the evening! Despite that one drawback, I thought the hotel was nicely situated for commuting (Muni trains and buses and the Wonderful BART system). Don't pay for a Muni pass unless you are staying longer than a week. I saw ALL the sights of SF for $8.00 transportation total over three days. Oh, and the hotel staff is extremely helpful and welcoming! And I agree with a previous poster--it can get a bit noisy if you aren't used to city noises at night.Enjoy your stay in the city by the bay...  
+<Date>Apr 14, 2006
+<Rating>4	5	3	-1	4	-1	4	-1	
+<Aspects>
+18	2(night):2	15(recommend):1	26(people):1	41(city):2	51(enjoy):1	52(bit):1	79(late):1	94(noise):1	217(noisy):1	373(previous):1	389(type):1	473(agree):1	671(bay):1	724(map):1	858(pull):1	1092(destination):1	1355(frequent):1	2043(poster):1	
+5	42(pay):1	75(week):1	400(pass):1	405(unless):1	2181(muni):1	
+0	
+27	1(location):1	2(night):1	8(day):1	48(wonderful):1	64(spend):1	120(bus):1	182(train):1	267(traveler):1	304(single):1	404(nicely):1	411(sight):1	433(district):1	498(despite):1	518(system):1	566(woman):1	574(situate):1	607(realize):1	728(transportation):1	786(total):1	802(sf):2	1061(adjacent):1	1344(drawback):1	1505(bart):1	2130(all right):1	2181(muni):1	2579(tenderloin):1	4386(commute):1	
+0	
+8	0(staff):2	5(time):1	14(helpful):1	23(little):1	110(extremely):1	202(welcome):1	421(neighbourhood):1	3148(sketchy):1	
+0	
+0	
+
+<Author>kennlise
+<Content>Great little hotel! What a great little hotel this is! The staff is amazingly helpful and friendly. The room was clean and very pretty. I was not expecting so much for the price! Very close to public transport, restaurants, shopping. It is close to the tenderloin so watch out which direction you walk at night if you're not familiar with the area. To save time (and a huge line), don't take the street car on Union Square, catch it a block or 2 up the street. To get to the Ferry building and the piers take the electric street cars from Union Sq heading to the water (cant miss it.) The Amtrak bus stop is also on Union Sq, an easy walk from the hotel even with luggage. Breakfast at the hotel was included in our room rate and consists of bagels and muffins, coffee, cream cheese, butter, jellies and jams. There's a soda machine that also has juices. This hotel is a great value for the money in San Francisco.  
+<Date>Apr 10, 2006
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+1	23(little):2	
+6	19(price):1	62(expect):1	80(money):1	81(value):1	177(san):1	355(francisco):1	
+12	3(clean):1	5(time):1	35(street):2	100(bloc):1	109(pretty):1	121(car):1	133(huge):1	139(square):1	188(line):1	425(save):1	451(union):1	540(catch):1	
+28	2(night):1	7(walk):2	10(restaurant):1	28(close):2	35(street):1	49(shop):1	57(water):1	93(easy):1	120(bus):1	121(car):1	122(stop):1	135(build):1	245(watch):1	249(luggage):1	276(miss):1	379(public):1	395(direction):1	451(union):2	742(transport):1	1010(ferry):1	1145(cant):1	1437(heading):1	1456(pier):1	1959(sq):2	2081(familiar):1	2246(electric):1	2579(tenderloin):1	6937(amtrak):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	1846(amazingly):1	
+15	6(breakfast):1	71(include):1	78(rate):1	90(coffee):1	362(juice):1	441(cheese):1	493(machine):1	1185(consist):1	1188(cream):1	1260(muffin):1	1308(soda):1	1370(bagels):1	1614(jam):1	2183(butter):1	4136(jelly):1	
+0	
+
+<Author>Strangey
+<Content>Great Find This hotel was great - handy location to Union Sq / cable cars / BART etc. As other reviewers have said there is some street noise and there are beggars nearby. However I encountered no problems whatsoever and felt safe walking back by myself from dinner in the evening. Just stick to the non-dodgy areas, look confident and don't flash wads of money around. Just as you would in your own neighbourhood...The staff were very helpful and friendly. I didn't need their help or advice really but overheard them with other guests and they really knew their stuff.This hotel isn't by any means luxurious but it is clean, well-kept and lets face it - you are really only there to sleep and shower - San Francisco has too much going on to want to spend ANY time in a hotel!  
+<Date>Apr 8, 2006
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+11	20(look):1	80(money):1	91(guest):1	92(help):1	480(stuff):1	575(advice):1	688(stick):1	2867(flash):1	3323(overhear):1	4052(confident):1	8982(wad):1	
+0	
+10	3(clean):1	5(time):1	61(shower):1	64(spend):1	104(sleep):1	177(san):1	246(mean):1	355(francisco):1	708(luxurious):1	3682(well-kept):1	
+19	1(location):1	7(walk):1	34(feel):1	35(street):1	73(etc):1	94(noise):1	117(dinner):1	121(car):1	137(safe):1	232(nearby):1	451(union):1	484(cable):1	564(reviewer):1	693(encounter):1	755(handy):1	1505(bart):1	1733(whatsoever):1	1959(sq):1	4682(beggar):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	166(own):1	421(neighbourhood):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Bijou is good central location The staff here are really friendly and the rooms are clean nicely furnished and not too expensive. Try and get a room on one of the higher floors because noise from street is quite considerable. Its really not in that rough a location - there were a few drunk homeless types on the road round the corner but nothing to get scared about. Also really good location for public transport and shopping. Just a decent friendly hotel really.  
+<Date>Apr 4, 2006
+<Rating>4	4	4	-1	5	-1	5	-1	
+<Aspects>
+2	12(friendly):1	257(decent):1	
+0	
+14	0(staff):1	1(location):1	3(clean):1	12(friendly):1	24(floor):1	35(street):1	76(try):1	94(noise):1	124(expensive):1	168(central):1	404(nicely):1	787(furnish):1	3692(considerable):1	7161(bijou):1	
+11	1(location):2	49(shop):1	63(drink):1	200(corner):1	230(road):1	379(public):1	389(type):1	742(transport):1	1047(rough):1	1567(homeless):1	1711(scare):1	
+0	
+0	
+0	
+0	
+
+<Author>Exp_Biz_Traveler
+<Content>No longer on my list of SF hotels The hotel itself is just fine and the staff is polite and helpful. Rooms are noisier than the average SF hotel. Regardless of which street you face, noise loud enough to wake moderately heavy sleepers continues until the wee hours and begins 5-6am. The breakfast is as sparse as others have commented, but that was never a problem for me.The problem is the neighborhood. I travel on business to 8-12 cities a year and always ride public transit at these locations. I am not easily made uncomfortable even though I am something of a target because I'm obviously a visiting businessman with a laptiop slung over my shoulder everywhere I go. When I stayed at the Bijou 1/2004 and had employees stay in 2004 and 4/2005, they commented that the area was rough but manageable. If you walk straight up Mason towards Union Square, then you aren't going to have many problems once you make it a couple of blocks. The walk to/from Powell St. BART is edgy and the walk to Mosconi Center is edgier still. And even the hotel staff warns against walking the other two directions (the front desk clerk scratched it out in red pen on the map when I checked in and I didn't even ask since I travel here all the time). I am not talking about panhandlers, which are everywhere and do not bother me. This is another matter altogether.For an extra 10-15%, stay in another hotel in this boutique chain called the Maxwell Hotel, just a few blocks closer to Union Square.  
+<Date>Apr 3, 2006
+<Rating>2	2	3	-1	4	-1	3	-1	
+<Aspects>
+11	307(bother):1	356(comment):1	371(talk):1	421(neighbourhood):1	531(matter):1	608(employee):1	1047(rough):1	3097(altogether):1	4204(manageable):1	5647(panhandler):1	7161(bijou):1	
+0	
+23	7(walk):1	35(street):1	60(hour):1	94(noise):1	99(couple):1	100(bloc):1	139(square):1	217(noisy):1	227(average):1	416(loud):1	451(union):1	551(begin):1	554(wake):1	802(sf):1	827(straight):1	959(towards):1	1096(continue):1	1186(heavy):1	1299(sleeper):1	2012(regardless):1	2310(wee):1	3195(moderately):1	5075(mason):1	
+30	1(location):1	7(walk):2	28(close):1	41(city):1	65(visit):1	67(call):1	68(travel):1	100(bloc):1	101(center):1	128(extra):1	139(square):1	147(business):1	218(ride):1	379(public):1	438(easily):1	451(union):1	623(boutique):1	627(chain):1	655(st):1	781(obviously):1	856(uncomfortable):1	1505(bart):1	1897(powell):1	2015(transit):1	2832(shoulder):1	3672(target):1	4995(businessman):1	6020(maxwell):1	6283(sling):1	8442(edgy):1	
+0	
+19	0(staff):2	5(time):1	7(walk):1	14(helpful):1	31(front):1	32(check):1	36(desk):1	68(travel):1	113(fine):1	395(direction):1	422(polite):1	590(red):1	650(list):1	679(warn):1	724(map):1	788(clerk):1	802(sf):1	2613(scratch):1	3271(pen):1	
+3	6(breakfast):1	356(comment):1	3459(sparse):1	
+0	
+
+<Author>STLTraveler2006
+<Content>Great Deal for the Price My husband and I just returned from a wonderful trip in California. Our stay at the Hotel Bijou in San Francisco definately exceeded our expectations. The hotel was extremly clean and comfortable. The room was quite cozy with modern decor. The continental breakfast in the morning was simple, nothing over the top. If you want a heartier breakfast, there is a great little diner one block up the street named Cafe Mason. The location of the hotel is great in regards to taking public transportation - just one block away from the cable car line. The staff couldn't have been friendlier and assisted us with directions and recommendations. Our only drawback for the hotel was that during the first two nights of our stay there was a prostitute soliciting outside our window. As there is no air conditioning in the hotel, you are forced to sleep with the window open at night and it was difficult to get a restful night's sleep with the commotion going on outside. The hotel's solution to this problem was to supply their guests with ear plugs.  
+<Date>Apr 1, 2006
+<Rating>4	4	4	-1	4	-1	5	-1	
+<Aspects>
+0	
+13	19(price):1	33(trip):1	39(return):1	48(wonderful):1	105(husband):1	140(deal):1	177(san):1	355(francisco):1	410(definately):1	431(expectation):1	1153(exceed):1	1656(california):1	7161(bijou):1	
+16	2(night):3	98(outside):2	104(sleep):2	119(window):2	151(modern):1	164(air):1	263(condition):1	269(decor):1	572(difficult):1	749(cozy):1	1344(drawback):1	1550(force):1	3076(restful):1	3230(prostitute):1	7753(commotion):1	8160(solicit):1	
+8	1(location):1	100(bloc):1	121(car):1	188(line):1	379(public):1	484(cable):1	728(transportation):1	930(regard):1	
+3	3(clean):1	25(comfortable):1	3675(extremly):1	
+5	0(staff):1	12(friendly):1	395(direction):1	577(recommendation):1	1265(assist):1	
+18	6(breakfast):2	23(little):1	35(street):1	56(morning):1	91(guest):1	100(bloc):1	118(top):1	275(cafe):1	295(name):1	372(continental):1	613(simple):1	859(supply):1	1174(plug):1	1324(diner):1	1684(ear):1	2800(solution):1	4045(hearty):1	5075(mason):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great boutique hotel-great price thoroughly enjoyed a recent last minute trip to San Francisco and our stay at Hotel Bijou. Location was very convenient to public transportation including the BART, cable cars, and street cars. Close to good shopping and great restaurants. Chinatown within walking distance. Hotel Bijou is a charming boutique hotel that features 2 movies(filmed in or about SFO) each nite in their 'cinema' off the lobby, offers a very basic continental breakfast of muffins, bagels, coffee, milk, and juice each morning. Rooms were comfortable and those located street side could hear the 'street' noise but earplugs are provided. Stacey at the front desk was the best!! very accommodating in every way to everyone. . . .making dinner reservations, arranging tours, general info, etc. Not the Savoy but well worth a stay in SFO, especially at a great price.  
+<Date>Mar 19, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+22	19(price):2	29(minute):1	33(trip):1	51(enjoy):1	73(etc):1	96(worth):1	117(dinner):1	126(especially):1	156(reservation):1	177(san):1	181(tour):1	355(francisco):1	623(boutique):1	624(accommodate):1	680(arrange):1	898(thoroughly):1	1064(recent):1	1360(info):1	2991(sfo):1	4503(savoy):1	7161(bijou):1	12945(hotel-great):1	
+0	
+21	1(location):1	7(walk):1	10(restaurant):1	25(comfortable):1	28(close):1	35(street):3	49(shop):1	71(include):1	84(locate):1	94(noise):1	115(distance):1	121(car):2	132(hear):1	153(provide):1	186(convenient):1	379(public):1	484(cable):1	728(transportation):1	1132(chinatown):1	1505(bart):1	1771(earplugs):1	
+0	
+2	31(front):1	36(desk):1	
+20	6(breakfast):1	55(lobby):1	56(morning):1	89(offer):1	90(coffee):1	332(charm):1	352(basic):1	362(juice):1	372(continental):1	623(boutique):1	731(feature):1	989(movie):1	1116(milk):1	1260(muffin):1	1370(bagels):1	1895(nite):1	2345(film):1	2991(sfo):1	3913(cinema):1	7161(bijou):1	
+0	
+
+<Author>KevinSdammit
+<Content>Great little hotel, good price, potentially rough location I stayed here based on the reviews I read on Tripadvisor, plus my knowledge of San Francisco.Everything I read was true, so be aware.For a ridiculously low rate, you will stay in a wonderful little boutique hotel. You can pre-negotiate room costs  parking with them; I got free parking in downtown plus a nice room for $105.Parking at most hotels is $35-$40 in and of itself.The hotel is cute, small, nice.The location will make or break it for you.It is 3blocks from UnionSquare, one of the nicest and most visited parts of SanFrancisco.In 2blocks the other direction, it is some of the roughest parts of Market.So, go one way, you're in super tourist white light land, the other, and it people smoking dope and sleeping in the street.If you're used to living in a big city, won't bother you. If you're not, it will freak you out.For the money, I don't think there's a better hotel in SanFrancisco.  
+<Date>Mar 7, 2006
+<Rating>5	5	4	-1	4	-1	4	-1	
+<Aspects>
+9	41(city):1	80(money):1	88(read):1	206(live):1	307(bother):1	487(wo):1	832(aware):1	3141(freak):1	11618(sanfrancisco):1	
+18	1(location):1	4(nice):1	19(price):1	23(little):1	37(review):1	46(free):1	66(park):2	88(read):1	175(cost):1	177(san):1	203(plus):2	284(base):1	334(downtown):1	355(francisco):1	597(tripadvisor):1	1047(rough):1	2148(knowledge):1	5242(potentially):1	
+12	4(nice):1	26(people):1	35(street):1	65(visit):1	104(sleep):1	157(light):1	209(tourist):1	464(super):1	466(white):1	468(smoke):1	1346(land):1	11618(sanfrancisco):1	
+14	1(location):1	4(nice):1	23(little):1	48(wonderful):1	66(park):1	78(rate):1	228(break):1	264(market):1	395(direction):1	513(low):1	623(boutique):1	1047(rough):1	1202(cute):1	2591(ridiculously):1	
+0	
+0	
+0	
+0	
+
+<Author>ltgates1
+<Content>Great Staff and Fun Place to Stay We came for a convention and found the staff to be the most enthusiastic and friendly staff ever. Even better than the 4 or 5 star as far as friendliness. Best place I have stayed in San Francisco for the location and price.  
+<Date>Feb 9, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+6	1(location):1	19(price):1	103(star):1	177(san):1	355(francisco):1	1754(friendliness):1	
+0	
+0	
+0	
+5	0(staff):3	12(friendly):1	176(fun):1	1048(convention):1	3456(enthusiastic):1	
+0	
+0	
+
+<Author>Torianna
+<Content>Cant complain at all! Basically nothing wrong with this hotel. Its clean, pretty spacious, reasonably priced, good location for Union Square, close to cable car (one block) for other areas. Having read the reviews on here about the bad location I was mildly concerned and then on arrival at the hotel we were given a map and told not to go to the streets behind the hotel so this did raise alarm bells but to be honest you are only a block away from the thick of tourist hustle of Union Square and about a 1 minute walk down the street from the Hilton and the Nikko which is really quite upmarket. We did venture down to the Civic Centre which meant walking through the Tenderloin area which was ok, there are a few oddballs around but there are also a lot of city workers there too. Generally, i felt pretty safe all the time. The breakfast is ok, it is just muffins, bagels, coffee and tea and to be honest there's no one serving so the drinks do run out but you can get someones attention if need be. The staff are ok, not overly polite but to be honest we didn't really require their services during our stay. We were in a room facing the street and it was a bit noisy over Friday and Saturday night but nothing out of the ordinary in a city.I would stay here again if working to the same budget.  
+<Date>Jan 31, 2006
+<Rating>4	4	4	-1	4	-1	3	-1	
+<Aspects>
+9	5(time):1	34(feel):1	109(pretty):1	137(safe):1	241(complain):1	427(wrong):1	429(budget):1	790(basically):1	1145(cant):1	
+0	
+8	2(night):1	35(street):1	41(city):1	52(bit):1	217(noisy):1	818(saturday):1	923(friday):1	2025(ordinary):1	
+42	1(location):2	3(clean):1	7(walk):2	19(price):1	28(close):1	29(minute):1	35(street):2	37(review):1	38(lot):1	41(city):1	50(bad):1	69(tell):1	88(read):1	100(bloc):2	101(center):1	109(pretty):1	111(spacious):1	121(car):1	123(ok):1	139(square):2	209(tourist):1	224(arrival):1	246(mean):1	451(union):2	477(hilton):1	484(cable):1	496(concern):1	578(reasonably):1	724(map):1	801(bell):1	1108(honest):1	1125(worker):1	1380(alarm):1	1440(venture):1	1503(hustle):1	1652(thick):1	2055(raise):1	2579(tenderloin):1	3373(upmarket):1	3669(nikko):1	4950(civic):1	5733(mildly):1	
+0	
+7	0(staff):1	9(service):1	123(ok):1	422(polite):1	722(require):1	1108(honest):1	1345(overly):1	
+11	6(breakfast):1	63(drink):1	90(coffee):1	123(ok):1	149(run):1	174(serve):1	301(tea):1	726(attention):1	1108(honest):1	1260(muffin):1	1370(bagels):1	
+0	
+
+<Author>ChateauCC
+<Content>Great Service, Fun Place...       Street side view.  
+<Date>Jan 22, 2006
+<Rating>4	5	3	-1	4	-1	5	-1	
+<Aspects>
+0	
+0	
+0	
+4	9(service):1	17(view):1	35(street):1	176(fun):1	
+0	
+0	
+0	
+0	
+
+<Author>!_1234
+<Content>Not Quite Up to Standard Hotel Bijou is an attractively priced hotel for San Francisco. But, it's just not quite up to the standard of the other Joie de Vivre hotels. The location of the hotel is on the border of an undisirable area (particularly at night). The rooms are very small, the beds are no larger than a queen size and the bedding materal is the basic thin stuff. Although the staff are friendly and competent, I only stayed there one night and then moved on to the Rex (another Joie de Vive Hotel). Sure, the Rex was more expensive. But, it was everything that the Bijou was not.  
+<Date>Jan 8, 2006
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	130(standard):1	7122(vivre):1	7161(bijou):1	7329(joie):1	
+8	19(price):1	124(expensive):1	130(standard):1	177(san):1	355(francisco):1	3870(rex):1	5571(attractively):1	7161(bijou):1	
+6	11(bed):2	83(size):1	352(basic):1	480(stuff):1	543(Queen):1	754(thin):1	
+4	1(location):1	2(night):1	553(particularly):1	2701(border):1	
+0	
+7	0(staff):1	2(night):1	12(friendly):1	207(move):1	2921(competent):1	3870(rex):1	7329(joie):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Bijou of SF was Screaming 5* Bargain Great, Great Deal. Lovely restored hotel, with great staff, excellent location relative to mass transit, fantastic staff who are all the more willing to help, all were very pleasant with us. The bonuses of free evening movies made it fun, and the modest breakfast to tide one over, was fine. For those looking for a comfortable hotel, with reasonable look, and well situated, this is what you should take. The only drawback was the location is at the very dividing line between upscale neighborhood and much less upscale hood. But we would stay there again, especially if the rates remain low. I am not sure how comfortable it would be in summer, did not see AC units. But plenty of heat for winter stay.  
+<Date>Jan 2, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+14	20(look):2	25(comfortable):2	78(rate):1	126(especially):1	158(plenty):1	273(reasonable):1	513(low):1	539(heat):1	574(situate):1	853(summer):1	956(ac):1	980(unit):1	1391(remain):1	1599(winter):1	
+5	140(deal):1	759(bargain):1	802(sf):1	1757(scream):1	7161(bijou):1	
+0	
+17	0(staff):2	1(location):2	21(excellent):1	86(fantastic):1	87(lovely):1	92(help):1	150(pleasant):1	188(line):1	421(neighbourhood):1	1237(upscale):2	1344(drawback):1	2015(transit):1	2259(relative):1	2653(mass):1	3238(restore):1	3395(divide):1	9199(hood):1	
+0	
+0	
+8	6(breakfast):1	46(free):1	113(fine):1	176(fun):1	849(bonus):1	989(movie):1	2553(modest):1	3529(tide):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Loved the Bijou!!! My boyfriend and I stayed at the Bijou for five nights and were happy with the location. We both thought the hotel was super groovy with the funky furnishings etc.. Our room was great, the staff were really friendly and helpfull. I walked through the Tenderloin every morning to a yoga class and never had a problem with any homeless people. I just smiled and said goodmorning and they smiled back. I don't know how anyone can describe the area as dangerous when the Hilton is a half a block away and hotels like the Monaco are right in the Tenderloin. I would stay there again in a heartbeat!!  
+<Date>Dec 8, 2005
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+11	40(love):1	100(bloc):1	283(half):1	387(smile):2	477(hilton):1	955(describe):1	1683(heartbeat):1	1971(dangerous):1	2579(tenderloin):1	3532(monaco):1	7161(bijou):1	
+0	
+8	0(staff):1	12(friendly):1	73(etc):1	464(super):1	870(furnishings):1	1478(helpfull):1	1516(funky):1	8953(groovy):1	
+12	1(location):1	2(night):1	7(walk):1	26(people):1	56(morning):1	155(happy):1	470(class):1	763(boyfriend):1	1567(homeless):1	2579(tenderloin):1	3362(yoga):1	7161(bijou):1	
+0	
+0	
+0	
+0	
+
+<Author>lass=
+<Content>Nice place, not-nice neighborhood This is a nice little hotel with small, European-style rooms. The staff was super-friendly and helpful. My room was clean, simply furnished and a bit noisy due to the round-the-clock hubbub in the street below. Despite being just a block or two from some big, swank hotels, the Bijou is in a somewhat dangerous neighborhood. I'm a New Yorker, so I'm not faint of heart, but I certainly was upset when I was physically accosted by two men on the street--on a Sunday morning! So, if you stay here be careful... walk up the hill and toward Union Square, but not down the hill or back toward the Tenderloin.  
+<Date>Nov 30, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	100(bloc):1	421(neighbourhood):1	498(despite):1	651(somewhat):1	1971(dangerous):1	7161(bijou):1	9981(swank):1	
+9	35(street):1	56(morning):1	450(heart):1	844(sunday):1	1220(upset):1	3516(yorker):1	3939(faint):1	4181(physically):1	6850(accost):1	
+19	3(clean):1	4(nice):2	7(walk):1	23(little):1	35(street):1	52(bit):1	139(square):1	217(noisy):1	259(due):1	421(neighbourhood):1	451(union):1	488(simply):1	585(below):1	756(hill):2	787(furnish):1	897(careful):1	2579(tenderloin):1	7793(european-style):1	8549(hubbub):1	
+0	
+0	
+3	0(staff):1	14(helpful):1	9505(super-friendly):1	
+0	
+0	
+
+<Author>CatsWhiskars
+<Content>Cute but full of tourists Nicely decorated hotel and the cinema is very cute. The location is very convenient for shopping/BART. Nothing wrong wiht breakfast- a decent range of bagels and muffins. I thikn every single guest there was a tourist (in the bad way) and they were a bit loud, moved a bit slowly, had annoying requests at the front desk... The area was fine- there were a few hmeless people-but you get that everywhere in SF and I didn't find it any scarier than any where we'd stayed before.  
+<Date>Oct 25, 2005
+<Rating>4	3	4	-1	3	-1	3	-1	
+<Aspects>
+0	
+0	
+5	209(tourist):1	305(decorate):1	404(nicely):1	1202(cute):2	3913(cinema):1	
+3	1(location):1	186(convenient):1	5097(shopping):1	
+0	
+15	31(front):1	36(desk):1	50(bad):1	52(bit):2	91(guest):1	113(fine):1	148(request):1	207(move):1	209(tourist):1	304(single):1	416(loud):1	695(annoy):1	802(sf):1	1566(scary):1	3340(slowly):1	
+6	6(breakfast):1	257(decent):1	427(wrong):1	714(range):1	1260(muffin):1	1370(bagels):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>a bad breakfast The Hotel Bijou is a real slice of life experience. It is located on the edge of the Tenderloin area of downtown. The area abounds with homeless, rowdy people and the surrounding noise of the city ( sirens, loud music, yelling ) is incredible. The breakfast consisted of prepackaged muffins, bagels with cream cheeze, and coffee. The rooms were clean but the toilet ran and one of the lights was burned out. Not worth the money.  
+<Date>Oct 18, 2005
+<Rating>1	1	2	-1	2	-1	3	-1	
+<Aspects>
+2	80(money):1	96(worth):1	
+7	6(breakfast):1	44(experience):1	50(bad):1	240(real):1	426(life):1	2024(slice):1	7161(bijou):1	
+5	3(clean):1	149(run):1	157(light):1	330(toilet):1	1289(burn):1	
+16	26(people):1	41(city):1	84(locate):1	94(noise):1	334(downtown):1	398(music):1	416(loud):1	667(surround):1	718(incredible):1	1190(edge):1	1567(homeless):1	1939(yell):1	2282(siren):1	2579(tenderloin):1	3631(rowdy):1	4300(abound):1	
+0	
+0	
+7	6(breakfast):1	90(coffee):1	1185(consist):1	1188(cream):1	1260(muffin):1	1370(bagels):1	11088(prepackage):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>What an off-beat surprise ! We could have stayed anywhere, but the Bijou has a unique style that sets it apart from the familiar and expected. This was our second trip to San Francisco, and we weren't tourists this time! The evening staff gave us directions to a certain Chinatown restaurant, and upon our return, showed The Maltese Falcon in the little theater. The next morning, the day staff printed directions to a fortune cookie factory, and, after a nice breakfast, off we went. The Bijou is a treasure. See you again, hopefully in '06!  
+<Date>Oct 12, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+15	5(time):1	33(trip):1	62(expect):1	177(san):1	199(surprise):1	209(tourist):1	234(set):1	326(style):1	355(francisco):1	857(apart):1	1027(unique):1	1633(hopefully):1	2081(familiar):1	2980(treasure):1	7161(bijou):2	
+0	
+0	
+0	
+0	
+15	0(staff):2	4(nice):1	6(breakfast):1	8(day):1	10(restaurant):1	23(little):1	39(return):1	56(morning):1	395(direction):2	635(theater):1	1101(print):1	1132(chinatown):1	1173(cookie):1	2317(factory):1	2490(fortune):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>OK hotel, dodgy neighbourhood The hotel itself wasn't too bad. Very clean and quite modern. The area is fine for catching the cable cars and transport and being close to the shopping area but is located right on the edge of Tenderloin. There were so many vagrants hanging round the streets adjacent to the hotel it spoilt my stay in San Francisco unfortunately. It put me on edge walking back to the hotel at nights and even in the day sometimes.  
+<Date>Sep 18, 2005
+<Rating>2	3	3	-1	4	-1	3	-1	
+<Aspects>
+4	50(bad):1	123(ok):1	421(neighbourhood):1	2539(dodgy):1	
+0	
+0	
+22	2(night):1	7(walk):1	8(day):1	28(close):1	35(street):1	49(shop):1	84(locate):1	113(fine):1	121(car):1	177(san):1	355(francisco):1	478(hang):1	484(cable):1	524(unfortunately):1	540(catch):1	560(sometimes):1	742(transport):1	1061(adjacent):1	1190(edge):2	1221(spoil):1	2579(tenderloin):1	8172(vagrant):1	
+2	3(clean):1	151(modern):1	
+0	
+0	
+0	
+
+<Author>writur
+<Content>Loved the Bijou!       Small movie theatre in Hotel Bijou's lobby. They show free films at 7 and 9:30 each night!  
+<Date>Jul 3, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	2(night):1	40(love):1	46(free):1	2345(film):1	7161(bijou):1	
+0	
+0	
+0	
+0	
+0	
+4	55(lobby):1	635(theater):1	989(movie):1	7161(bijou):1	
+0	
+
+<Author>Gemma Storey
+<Content>Tight with their muffins! Just stayed at the Bijou which was very pleasant. Good internet access, tidy rooms clean and simple. Main issue with the Bijou was the breakfast - the 'continental breakfast' was basically just toast. Apparently there were also different muffins available but every time we got there there were only blueberry left. The reception staff were helpful, and knew a lot about the area so could offer advice and tips. There were quite a few homeless people about, particularly at night, but this is by no means that bad an area to stay in. If I were returning to San Francisco I would stay here again.  
+<Date>Jun 23, 2005
+<Rating>3	3	4	-1	4	-1	4	-1	
+<Aspects>
+18	2(night):1	5(time):1	26(people):1	39(return):1	43(leave):1	50(bad):1	134(available):1	150(pleasant):1	177(san):1	246(mean):1	355(francisco):1	553(particularly):1	863(apparently):1	1260(muffin):2	1399(tight):1	1567(homeless):1	7161(bijou):1	7453(blueberry):1	
+0	
+0	
+0	
+5	3(clean):1	97(internet):1	159(access):1	613(simple):1	1100(tidy):1	
+7	0(staff):1	14(helpful):1	38(lot):1	89(offer):1	129(reception):1	194(tip):1	575(advice):1	
+7	6(breakfast):2	112(main):1	265(issue):1	372(continental):1	790(basically):1	875(toast):1	7161(bijou):1	
+0	
+
+<Author>callysn
+<Content>loved the hotels unique character stayed for a couple of nights, on a sight seeing trip. staff incredibly friendly and happy to advise on the sights to see. . hotel itself was very clean and decorated in art nouveau/forties cinematic style. It felt so different from the usual impersonal hotels, Each room was named after a film and our room was a large corner room with huge windows over looking the heart of san francisco -excellent for people watching!! free continetal breakfast an added bonus!Would highly recommend hotel to any one who likes staying somewhere out of the ordinary.The hotel was two minutes walk from the cable car station - we felt we were right in the centre of the action.  
+<Date>May 20, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	2(night):1	15(recommend):1	33(trip):1	40(love):1	99(couple):1	138(highly):1	411(sight):1	1027(unique):1	1049(character):1	2025(ordinary):1	
+0	
+20	3(clean):1	20(look):1	21(excellent):1	26(people):1	34(feel):1	119(window):1	133(huge):1	177(san):1	200(corner):1	245(watch):1	295(name):1	305(decorate):1	326(style):1	355(francisco):1	450(heart):1	682(usual):1	789(art):1	2345(film):1	2754(impersonal):1	8745(nouveau):1	
+8	7(walk):1	29(minute):1	34(feel):1	82(station):1	101(center):1	121(car):1	484(cable):1	958(action):1	
+0	
+6	0(staff):1	12(friendly):1	155(happy):1	411(sight):1	663(advise):1	807(incredibly):1	
+5	6(breakfast):1	46(free):1	351(add):1	849(bonus):1	11772(continetal):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>The secret paradise near Union Square I love this place!! As well as the superbly-trained and HAPPY staff...Been returning here for years....because it is retro-classy, close to everything and comfortable. Best-kept secret in San Francisco....  
+<Date>May 10, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+3	177(san):1	355(francisco):1	1127(secret):1	
+0	
+6	40(love):1	102(near):1	139(square):1	451(union):1	748(Paradise):1	1127(secret):1	
+5	0(staff):1	25(comfortable):1	28(close):1	39(return):1	155(happy):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Value Hotel Bijou is great simple hotel. The rooms are a bit small, but extremely clean and neat. The staff is very friendly and knowledgeable. The hotel is on the edge of the questionable neighborhood and can be a bit noisy, but is also quite close to 5 star hotels and Union Square. This hotel is the perfect place to stay in a city like San Francisco. It provide a neat clean place to stay at night while you are out all day enjoying the city. I would definitely stay here again!  
+<Date>Apr 29, 2005
+<Rating>4	5	4	-1	5	-1	4	-1	
+<Aspects>
+5	41(city):1	59(definitely):1	74(perfect):1	177(san):1	355(francisco):1	
+12	28(close):1	52(bit):1	81(value):1	103(star):1	139(square):1	217(noisy):1	421(neighbourhood):1	451(union):1	613(simple):1	1190(edge):1	3391(questionable):1	7161(bijou):1	
+4	3(clean):1	52(bit):1	110(extremely):1	1286(neat):1	
+0	
+7	2(night):1	3(clean):1	8(day):1	41(city):1	51(enjoy):1	153(provide):1	1286(neat):1	
+3	0(staff):1	12(friendly):1	1160(knowledgeable):1	
+0	
+0	
+
+<Author>getdown
+<Content>Not the safest area The Hotel Bijou is fine and has some character compared with a chain place but there are plenty of equally nice residences in better areas of San Francisco. We stayed here for three nights in March 2005. On the plus side the rooms are tidy and beds comfortable; the hotel is reasonably well located for shopping in the downtown area; there's free breakfast and most of the front desk staff were very helpful. However, the rooms and public areas are quite small, and the cinema links are not as deep as the publicity suggests. I would happily stay here again, but the most important thing for any potential traveller to note is the area. The Bijou is a couple of blocks into the Tenderloin, and if you're not comfortable with deterring panhandlers/beggars then do not stay here. When the receptionists advises you not to walk on the street next to the hotel, you know you're in an 'interesting' place. I'm from inner London and am used to the hassle but the location definitely jaundiced by view of SF at first. Maybe the other reviewers took taxis everywhere... you have been warned!  
+<Date>Apr 5, 2005
+<Rating>3	3	3	-1	3	-1	3	-1	
+<Aspects>
+23	2(night):1	4(nice):1	25(comfortable):1	99(couple):1	100(bloc):1	113(fine):1	137(safe):1	158(plenty):1	177(san):1	267(traveler):1	297(note):1	355(francisco):1	381(compare):1	615(march):1	627(chain):1	1049(character):1	1642(happily):1	1782(equally):1	1840(residence):1	1995(potential):1	2579(tenderloin):1	4539(deter):1	7161(bijou):2	
+0	
+6	379(public):1	452(suggest):1	1043(deep):1	1727(link):1	3913(cinema):1	11686(publicity):1	
+11	1(location):1	17(view):1	59(definitely):1	185(taxi):1	308(maybe):1	564(reviewer):1	679(warn):1	697(london):1	802(sf):1	1193(hassle):1	2240(inner):1	
+0	
+18	0(staff):1	6(breakfast):1	7(walk):1	11(bed):1	14(helpful):1	25(comfortable):1	31(front):1	35(street):1	36(desk):1	46(free):1	49(shop):1	84(locate):1	203(plus):1	334(downtown):1	578(reasonably):1	663(advise):1	855(receptionist):1	1100(tidy):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Hotel Bijou: Best by the Bay Its unique atmosphere, wonderful staff, and excellent accommodations, put Hotel Bijou at the top of my list. Located in the heart of downtown San Francisco, Hotel Bijou is the place to be. The first thing that comes to mind is the affordability, and for such a wonderful price you get a complimentary continental breakfast, two free evening movies in le petit Bijou, and access to a beautiful room with its own unique flare. The employees, from the front desk to the housekeepers, are wonderfully pleasant and very helpful. With the hotels location only and few blocks, or a streetcar ride, away from anywhere you want to be, I would not recommend or stay at any other hotel in the city.  
+<Date>Mar 29, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+10	0(staff):1	21(excellent):1	48(wonderful):1	118(top):1	414(atmosphere):1	650(list):1	671(bay):1	721(accommodation):1	1027(unique):1	7161(bijou):2	
+0	
+12	1(location):1	15(recommend):1	41(city):1	84(locate):1	100(bloc):1	177(san):1	218(ride):1	334(downtown):1	355(francisco):1	450(heart):1	2391(streetcar):1	7161(bijou):1	
+0	
+7	14(helpful):1	31(front):1	36(desk):1	150(pleasant):1	608(employee):1	1591(housekeeper):1	1686(wonderfully):1	
+17	6(breakfast):1	19(price):1	45(beautiful):1	46(free):1	48(wonderful):1	159(access):1	166(own):1	294(mind):1	345(complimentary):1	372(continental):1	989(movie):1	1027(unique):1	1133(le):1	4502(petit):1	7161(bijou):1	7973(flare):1	9847(affordability):1	
+0	
+
+<Author>SueMiller
+<Content>Lovely clean hotel We stayed at the Bijou for 4 nights in July 2004. Our room was smaller than expected but it was comfortable and clean and we spent most of our days sightseeing anyway! The staff are wonderful and there is a complimentary breakfast. There were a few drunks that congregated about 50 feet from the hotel each day but they didn't annoy anyone. Our room was on the fourth floor facing the street. There was a bit of traffic noise and occassionally noise from pedestrians but it didn't bother us.Hotel Bijou is a lovely hotel to stay at and I would stay there again.  
+<Date>Mar 25, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	8(day):1	87(lovely):1	402(foot):1	695(annoy):1	4127(drunk):1	5810(congregate):1	7161(bijou):1	
+0	
+3	24(floor):1	35(street):1	1579(fourth):1	
+13	3(clean):1	8(day):1	25(comfortable):1	52(bit):1	62(expect):1	64(spend):1	94(noise):2	307(bother):1	417(anyway):1	486(traffic):1	640(sight-see):1	2403(pedestrian):1	7876(occassionally):1	
+4	2(night):1	3(clean):1	87(lovely):1	7161(bijou):1	
+4	0(staff):1	6(breakfast):1	48(wonderful):1	345(complimentary):1	
+0	
+0	
+
+<Author>LizOhio
+<Content>Nice Hotel I just got back from a conference in San Francisco. My colleagues and I stayed all over the Union Square area, and my experience at the Bijou was the most positive of our group who tried the botique hotels. The hotel was extremely clean and well kept. I am very particular about this kind of thing, and have spent a lot of time at other hotels asking to be moved. Not here. The room was small (which I expected), but nicely appointed and very clean. Even the bathroom sparkled. This might have been the only hotel I've ever stayed at where housekeeping didn't rudely wake me up at 8am. The housekeeping staff was very thoughtful about when they cleaned the rooms and they did a great job. The front desk staff was really friendly and knew a lot about the city. The only downside of the hotel is that our room faced the side stree (Eddy?) which housed both an all night liquor store and an all night all male theatre. In theory that's not a problem, but the reality was the noise from the street was pretty bad. I wore earplugs but still had trouble getting any sleep. I'd suggest staying at this hotel but requesting a room that faces the main street and/or stay on the top floor. Or just buy better earplugs than I had. :)  
+<Date>Mar 21, 2005
+<Rating>3	4	4	-1	5	-1	5	-1	
+<Aspects>
+7	5(time):1	38(lot):1	64(spend):1	207(move):1	280(buy):1	938(particular):1	1771(earplugs):1	
+8	44(experience):1	139(square):1	253(tried):1	451(union):1	458(positive):1	1991(colleague):1	6559(botique):1	7161(bijou):1	
+31	0(staff):1	2(night):2	3(clean):2	13(bathroom):1	24(floor):1	35(street):1	62(expect):1	104(sleep):1	112(main):1	118(top):1	148(request):1	255(store):1	281(house):1	367(housekeeping):2	404(nicely):1	434(wear):1	452(suggest):1	481(job):1	554(wake):1	569(trouble):1	579(appoint):1	635(theater):1	782(downside):1	1390(liquor):1	1771(earplugs):1	1919(sparkle):1	2295(male):1	2837(thoughtful):1	3254(rudely):1	7545(8am):1	9696(eddy):1	
+10	4(nice):1	35(street):1	50(bad):1	94(noise):1	109(pretty):1	177(san):1	355(francisco):1	794(conference):1	2260(reality):1	7210(theory):1	
+2	3(clean):1	110(extremely):1	
+6	0(staff):1	12(friendly):1	31(front):1	36(desk):1	38(lot):1	41(city):1	
+0	
+0	
+
+<Author>Boopsquared
+<Content>We had a great time! My friend and I just got back from San Fran with a three night stay at the Hotel Bijou. Their staff was very friendly and the continental breakfast was fresh each morning. The maid was very efficiant and left our rooms very clean (word of caution though-make sure you don't leave medication out...We'll leave it at that!)The hotel is an old building with very, very little sound proofing. We could hear both our neighbors upstairs and downstairs through the bathroom window. Everything was very clean though. The location is great... but be careful at night. We were warned not to walk down the near by streets after dark. I would recommend this hotel for lesiure tourists who arn't counting on a lot of sleep. The price was right! One block from Union Square! We had a great adventure!!!  
+<Date>Mar 21, 2005
+<Rating>3	5	4	-1	5	-1	5	-1	
+<Aspects>
+11	2(night):1	5(time):1	23(little):1	135(build):1	146(friend):1	177(san):1	409(sound):1	1744(fran):1	1861(adventure):1	1973(proof):1	7161(bijou):1	
+1	19(price):1	
+21	3(clean):1	13(bathroom):1	15(recommend):1	38(lot):1	43(leave):3	100(bloc):1	104(sleep):1	119(window):1	132(hear):1	139(square):1	209(tourist):1	300(maid):1	451(union):1	571(word):1	691(downstairs):1	934(neighbour):1	1358(upstairs):1	2102(caution):1	3202(count):1	3471(medication):1	7550(ar):1	
+8	1(location):1	2(night):1	7(walk):1	35(street):1	102(near):1	459(dark):1	679(warn):1	897(careful):1	
+1	3(clean):1	
+6	0(staff):1	6(breakfast):1	12(friendly):1	56(morning):1	197(fresh):1	372(continental):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good location, good value, friendly service I had one night in San Francisco before a flight, and picked this hotel mainly based on its close proximity to BART Powell St station (30 minutes ride to SFO) and price. The hotel was average. My 3rd floor room was a bit small and dark. I could hear people talking in the next room. But it was spotlessly clean, the 4 or 5 hotel staff I interacted with were all nice and friendly, and the included breakfast was a nice touch (if a bit unnecessary given the excellent breakfast options nearby). Note there is no AC, but not a problem in March. Can't ask for more for this price.  
+<Date>Mar 12, 2005
+<Rating>4	5	3	-1	5	-1	4	-1	
+<Aspects>
+4	227(average):1	297(note):1	615(march):1	956(ac):1	
+1	19(price):1	
+7	24(floor):1	26(people):1	52(bit):1	132(hear):1	371(talk):1	459(dark):1	2097(3rd):1	
+21	1(location):1	2(night):1	9(service):1	12(friendly):1	19(price):1	28(close):1	29(minute):1	81(value):1	82(station):1	177(san):1	218(ride):1	233(flight):1	266(pick):1	284(base):1	355(francisco):1	940(St):1	1114(proximity):1	1177(mainly):1	1505(bart):1	1897(powell):1	2991(sfo):1	
+14	0(staff):1	3(clean):1	4(nice):2	6(breakfast):2	12(friendly):1	21(excellent):1	52(bit):1	71(include):1	232(nearby):1	279(touch):1	336(option):1	1094(spotlessly):1	3354(interact):1	4132(unnecessary):1	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Perfect Location This clean and charming hotel is well located near Union Square for all your shopping and eating. Clean and very charming. The staff is ready to help with directions and help in selecting restaurants. This was our second visit and will continue to select this hotel when visiting San Francisco.  
+<Date>Jan 6, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	65(visit):2	177(san):1	355(francisco):1	1096(continue):1	1294(select):1	
+0	
+0	
+10	1(location):1	3(clean):1	47(eat):1	49(shop):1	74(perfect):1	84(locate):1	102(near):1	139(square):1	332(charm):1	451(union):1	
+2	3(clean):1	332(charm):1	
+6	0(staff):1	10(restaurant):1	92(help):2	274(ready):1	395(direction):1	1294(select):1	
+0	
+0	
+
+<Author>BADallas
+<Content>Good This hotel is a great value. Good location to the public transportation. It is not a full service hotel. However, just about anything that you need is a short walk. I did not realize just how close it was to the cable car, Nordstroms and many other convienences. The staff is very friendly. The rooms are small but, they suited my needs. If it weren't for the noise, I would give this hotel an excellent (for the price).  
+<Date>Jan 5, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+4	19(price):1	21(excellent):1	81(value):1	94(noise):1	
+1	861(suit):1	
+11	1(location):1	7(walk):1	28(close):1	121(car):1	144(short):1	379(public):1	484(cable):1	607(realize):1	728(transportation):1	10598(nordstroms):1	12142(convienence):1	
+0	
+2	0(staff):1	12(friendly):1	
+1	9(service):1	
+0	
+
+<Author>MyBoysRule
+<Content>So fun and different The Hotel Bijou is a treat for anyone who is tired of the traditional hotel atmosphere and the dry service in large chain hotels (and it is in a great Union Square location!). The lobby is a wonderful movie theater theme right down to the plush velvet furniture and the popcorn and candy bars at the front desk.The room was a fair size (we had a queen/queen) but what really made it great was how absolutely clean it was. This room could have passed a white glove test right down to the bathroom floors and shower grout. It looked almost new. There were no scuff marks on the walls, no rust, no dirt anywhere to be found. There were also a couple of nice extras like 3 excellent travel books for San Francisco, nice quality toiletries and a cork screw.The front desk staff is very nice. We came down to catch a few minutes of So I Married and Ax Murderer in their theater and they took care of us with cocoa, hot chocolate and snacks. The two down sides - it is noisy, noisy, noisy and the valet parking is very slow. Although the walls seemed to be pretty thick - we could not hear any noise from inside the hotel, the street noise is really bad. The side of the hotel is on a street that had a lot of noisy homeless people and a very loud nightclub. We were exhausted so we crashed and slept through most of it, but there is certainly no guarantee of a perfectly peaceful night's sleep. I think you have to go to the 20th floor of a newer building for total quiet near Union Square. We thought it was a small price to pay, however, for such a great place. We would certainly be back.  
+<Date>Dec 14, 2004
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+1	20(look):1	
+26	1(location):1	4(nice):2	9(service):1	18(book):1	19(price):1	21(excellent):1	42(pay):1	68(travel):1	99(couple):1	128(extra):1	139(square):1	176(fun):1	177(san):1	187(quality):1	320(treat):1	355(francisco):1	414(atmosphere):1	451(union):1	454(tire):1	627(chain):1	657(toiletry):1	1241(traditional):1	1257(dry):1	2853(screw):1	7161(bijou):1	8814(cork):1	
+27	2(night):1	3(clean):1	13(bathroom):1	24(floor):2	58(quiet):1	61(shower):1	83(size):1	102(near):1	104(sleep):2	135(build):1	139(square):1	189(absolutely):1	400(pass):1	451(union):1	466(white):1	595(perfectly):1	739(fair):1	786(total):1	1036(peaceful):1	1471(guarantee):1	1769(exhaust):1	1977(20th):1	2192(crash):1	2922(test):1	3922(grout):1	5850(glove):1	9003(queen):1	
+21	26(people):1	35(street):2	38(lot):1	50(bad):1	66(park):1	94(noise):2	109(pretty):1	132(hear):1	183(wall):2	217(noisy):4	408(inside):1	416(loud):1	455(slow):1	457(valet):1	882(mark):1	1567(homeless):1	1652(thick):1	2004(dirt):1	2378(nightclub):1	3218(rust):1	4575(scuff):1	
+0	
+4	0(staff):1	4(nice):1	31(front):1	36(desk):1	
+21	27(bar):1	29(minute):1	31(front):1	36(desk):1	48(wonderful):1	55(lobby):1	114(hot):1	242(care):1	406(snack):1	440(furniture):1	540(catch):1	632(chocolate):1	635(theater):2	989(movie):1	1118(theme):1	1743(married):1	1847(plush):1	2138(candy):1	2208(cocoa):1	3060(popcorn):1	5694(velvet):1	
+0	
+
+<Author>NZSailfish
+<Content>Great boutique hotel We stayed at the Bijou twice in July and August 2004. I was cautious after reading some of the reviews. The hotel was great. We were on the 6th floor in a light spacious room and did not notice any undue noise. Yes there were beggars around the area, but they were all over San Francisco and a number of other cities we visited. My husband gave them abit of free kiwi advice if they approached us and they were polite and wandered off. The hotel has free breakfast which we either shared in the dining room or happily took back to our room and enjoyed. Bijou is good value for money and a perfect location and we'll be staying again when we visit San Francisco.  
+<Date>Sep 4, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	37(review):1	46(free):1	88(read):1	105(husband):1	422(polite):1	575(advice):1	1378(approach):1	1562(wander):1	4146(cautious):1	4421(abit):1	9589(kiwi):1	
+8	1(location):1	65(visit):1	74(perfect):1	80(money):1	81(value):1	177(san):1	355(francisco):1	7161(bijou):1	
+12	6(breakfast):1	24(floor):1	46(free):1	51(enjoy):1	94(noise):1	111(spacious):1	157(light):1	316(dine):1	354(notice):1	520(share):1	1642(happily):1	1869(6th):1	
+3	347(twice):1	623(boutique):1	7161(bijou):1	
+0	
+0	
+7	41(city):1	65(visit):1	177(san):1	250(yes):1	335(numb):1	355(francisco):1	4682(beggar):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>What a city ! We recently visited San Francisco and stayed at the Bijou. We were on our honeymoon so we wanted to make it special, first of all the staff were very helpful  friendly. We thought the hotel was situated in a perfect position to visit all the sights. The rooms were comfortable and very clean. The price was very reasonable and we would recommend this hotel to anybody. If you have any questions please feel free to email us.  
+<Date>Jul 25, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	34(feel):1	41(city):1	46(free):1	65(visit):1	173(please):1	177(san):1	322(recently):1	355(francisco):1	394(question):1	7161(bijou):1	
+8	0(staff):1	12(friendly):1	14(helpful):1	15(recommend):1	19(price):1	208(special):1	273(reasonable):1	502(honeymoon):1	
+2	3(clean):1	25(comfortable):1	
+5	65(visit):1	74(perfect):1	411(sight):1	574(situate):1	1093(position):1	
+0	
+0	
+0	
+0	
+
+<Author>L&LAustralia
+<Content>Good value for money My husband and I stayed here for 3 nights in June 2004. Staff were more than helpful, nice breakfast, rooms very clean. Only problem was the noise on the main street downstairs. Would stay here again if ever in San Francisco.  
+<Date>Jul 15, 2004
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+2	177(san):1	355(francisco):1	
+5	2(night):1	80(money):1	81(value):1	105(husband):1	664(june):1	
+9	0(staff):1	3(clean):1	4(nice):1	6(breakfast):1	14(helpful):1	35(street):1	94(noise):1	112(main):1	691(downstairs):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>tittiry
+<Content>ottima scelta       porte a tema  
+<Date>Nov 2, 2008
+<Rating>4	4	4	5	4	5	4	3	
+<Aspects>
+2	9572(porte):1	12654(ottima):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Plaits
+<Content>Buena Estancia       Habitaci贸n  
+<Date>Sep 28, 2008
+<Rating>3	4	3	4	4	5	5	3	
+<Aspects>
+2	4470(buena):1	6135(habitaci):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>bridgesMadrid
+<Content>Recomendable para visitar la ciudad       Nuestra habitacion  
+<Date>Aug 9, 2008
+<Rating>3	4	3	3	4	4	4	3	
+<Aspects>
+4	225(la):1	6139(para):1	7590(habitacion):1	11578(ciudad):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>audrey_a_paris
+<Content>Hotel avec beaucoup de charme       Bijou Hotel  
+<Date>Aug 7, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+3	7161(bijou):1	11182(avec):1	11366(charme):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Mtor
+<Content>Sencillamente estupendo!!       Habitaci贸n  
+<Date>Dec 26, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+1	6135(habitaci):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

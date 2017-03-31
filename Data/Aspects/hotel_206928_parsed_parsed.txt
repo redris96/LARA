@@ -1,0 +1,462 @@
+<Author>What
+<Content>Great location; great accommodation       In the market 1  
+<Date>Oct 9, 2008
+<Rating>4	4	4	5	5	4	5	5	
+<Aspects>
+0	
+0	
+0	
+3	1(location):1	264(market):1	721(accommodation):1	
+0	
+0	
+0	
+0	
+
+<Author>Gurion
+<Content>Family stay with safe problems I booked through a european web site and paid in advance. I went til Barcelona for two warm days with husband and two sons for a short stay before cruise in the Med. Barcelona is certainly one of our favorite cities, and after we tried the Citadines in Paris we would like to try it in Spain as well. I booked one large apartement with a bedroom, and we actually got two adjoined double bed bedrooms, each with a double bed, no sofa or living room here, but two bathrooms and ttwo small kitchenette. Comfortable beds here, not as hard as the ones at the Citadines we stayed at in Paris. But the problem here, no sitting area for the family gatherings. well, not much need for that either, we stayed in between beach and dinner hours. What really would have been useful, was a safe in order to work. Because of the two bedrooms we had two safes, and neither of them ever worked. My husband stayed in several times in order to wait for the maintenance guy, wait for him to finish etc. At the wall by the safe there is a note saying that there is a safe in the reception as well. Before beach the first day we took all our valuables and went down there, and there was a lot of misunderstandings and the lady attending the reception really did'nt understand much. We ended up putting most things in locked suitcases and bringing the rest to the beach. This time Citadines did well in giving us rooms on a quiet side of the building, far from city noise, on the 8th floor. No smoking rooms we got too, but not no-smoking curtains! There were several holes in them, burned from guests leaning out of the window smoking? The roof terasse was long time closed when we were there, some working going on. Too bad, check before booking if outdoor space with nice view is important to you. I booked with the Yeego website, in order to get a good price with breakfast included. The breakfast is very nice, coffee great and the breakfast room have a wonderful Rambla view.The eggs were raw, and when we found out we could put them in the automatic eggboiler ourselves, the mashine made so much noise we had to turn it off again because of complants from other guest.Som new curtains, new eggboiling routines, new safes and a little more helpful and attendig reception staff, this place will shine and be worth all the euros!  
+<Date>Sep 1, 2008
+<Rating>3	3	3	5	4	2	2	4	
+<Aspects>
+5	106(family):1	137(safe):1	169(sit):1	1232(useful):1	12955(gathering):1	
+8	18(book):1	42(pay):1	106(family):1	137(safe):1	192(site):1	582(european):1	685(advance):1	1019(web):1	
+42	4(nice):1	5(time):1	11(bed):3	13(bathroom):1	17(view):1	18(book):2	24(floor):1	25(comfortable):1	30(beach):1	32(check):1	41(city):1	50(bad):1	58(quiet):1	91(guest):1	94(noise):1	119(window):1	135(build):1	137(safe):1	142(bring):1	162(hard):1	179(double):2	180(actually):1	206(live):1	210(space):1	268(bedroom):3	288(rest):1	403(paris):1	468(smoke):2	743(curtain):1	774(lock):1	842(sofa):1	901(outdoor):1	974(suitcase):1	1165(kitchenette):1	1218(hole):1	1275(neither):1	1289(burn):1	1357(8th):1	1412(adjoin):1	3397(lean):1	8259(no-smoke):1	9944(citadine):2	
+16	5(time):1	8(day):1	28(close):1	30(beach):2	38(lot):1	60(hour):1	117(dinner):1	129(reception):2	137(safe):2	183(wall):1	297(note):1	391(understand):1	521(lady):1	636(roof):1	826(attend):1	1935(valuable):1	
+0	
+17	0(staff):1	5(time):1	14(helpful):1	23(little):1	73(etc):1	85(wait):2	96(worth):1	105(husband):1	129(reception):1	137(safe):1	256(euro):1	368(guy):1	743(curtain):1	772(finish):1	1149(maintenance):1	2349(shine):1	3594(routine):1	
+32	4(nice):1	6(breakfast):3	8(day):1	17(view):1	18(book):1	19(price):1	41(city):1	48(wonderful):1	71(include):1	76(try):1	90(coffee):1	91(guest):1	94(noise):1	105(husband):1	144(short):1	236(warm):1	253(tried):1	262(website):1	309(barcelona):2	376(favourite):1	403(paris):1	412(egg):1	603(cruise):1	612(son):1	767(ourselves):1	1377(rambla):1	1636(spain):1	2196(til):1	2893(med):1	3115(raw):1	3444(automatic):1	9944(citadine):1	
+0	
+
+<Author>angli4anin
+<Content>Beware the Apart-Hotel OK, it's my own fault for just assuming that an apart-hotel was like a suite. The last one that I stayed in was like this and so I assumed they all were.Mistake.Upon entering the room, I thought that I had lost a room as I couldn't find a bed. Eventually I realized that it just had a sofabed, which was a bit of a pain to open and close each night and not as comfortable as a normal bed. Maybe I'm just lazy.I thought that the room was showing a bit too much wear and tear as well, although it was clean.On the plus side, it has a great location right on La Ramblas - just about as central as you can get.Also the fact that there was free cable internet inside the room was a major godsend as I had to work a lot during my 'holiday'.In summary, three stars is probably too few for this apart-hotel, but four stars are probably too many. I guess it all depends on how important having a 'real' bed is to you.  
+<Date>Jul 1, 2008
+<Rating>3	3	2	5	3	4	4	5	
+<Aspects>
+4	308(maybe):1	895(mistake):1	1407(assume):1	1786(lazy):1	
+3	103(star):2	178(probably):2	1716(summary):1	
+32	2(night):1	3(clean):1	11(bed):3	25(comfortable):1	28(close):1	38(lot):1	46(free):1	52(bit):2	97(internet):1	108(suite):1	123(ok):1	166(own):1	223(holiday):1	240(real):1	315(major):1	408(inside):1	434(wear):1	469(guess):1	484(cable):1	517(fault):1	596(lose):1	601(enter):1	607(realize):1	737(beware):1	878(normal):1	969(depend):1	1204(eventually):1	1407(assume):1	1481(pain):1	1605(tear):1	5086(sofabe):1	5381(godsend):1	
+5	1(location):1	168(central):1	203(plus):1	225(la):1	634(ramblas):1	
+0	
+0	
+0	
+0	
+
+<Author>BoCyn
+<Content>Great Location       La Ramblas Statues  
+<Date>Jun 14, 2008
+<Rating>5	5	3	5	5	5	4	-1	
+<Aspects>
+0	
+0	
+0	
+4	1(location):1	225(la):1	634(ramblas):1	2356(statue):1	
+0	
+0	
+0	
+0	
+
+<Author>aquarianna
+<Content>Great stay at the Citadines My husband and I chose the Citadines for our first trip to Barcelona because of its central location and the kitchenette to keep restaurant costs down. We were immediately pleased with the cleanliness of the lobby and friendly service from the front desk. Our room was a single, located on the 2nd floor. At first we were disappointed to not have a view of the street - our room was along the side of the hotel and looked out onto an adjacent building's rooftop and a few apartments. However, this turned out to be a bonus because it was the quietest side of the building. Our windows were similar to patio doors and you could step out onto the rooftop if you wanted. There was a maintenance man who came up to the roof occasionally to water the plants. Usually we had our window open when we were in our room with no concerns.The room was spotless and felt like a small apartment. The Citadines does not have daily room service; if you are there at least 7 days, which we were, they come by mid-week to clean and provide fresh sheets, towels and amenities. Otherwise you can either do laundry in the facilities provided or request fresh towels at an extra cost. It was nice that the hotel provided everything you need for at least one day (soap, shampoo, toilet paper, dishwasher detergent) until you can get to the supermercado - which is conveniently directly across the street. The Citadines chain provides a sofa bed, so you have a sitting room during the day and pull-out bed at night. The bed was so-so in terms of comfort, but I've certainly slept on worst. The room also had a mini stereo system and small TV, large mirrored-door closet, shelving unit, pull-out dining table and 2 chairs.The kitchenette was equipped with a small sink, microwave, mini-dishwasher, mini-fridge plus all dishes, pots and utensils you could possibly want.The bathroom was much larger than expected (for Europe) - a full-size bathtub with handheld shower and sink with large granite counter and storage cupboard. We were also impressed with the service - we could not get the climate control to work, and a maintenance person appeared within 5 minutes of us contacting the front desk. You can't beat the location - we walked everywhere from this hotel and the metro is about 2 minutes up the street at Placa Catalunya, where there is also a tourist information office.Although the Rambla is known to have its seedy elements, we never felt unsafe and security people guardia urbana are usually within sight. We walked the Rambla many times day and night with no incidents.All in all I would say that this hotel met North American standards and certainly was one of the best 3-star places we have stayed at.  
+<Date>May 26, 2008
+<Rating>4	4	4	5	4	3	4	-1	
+<Aspects>
+5	57(water):1	636(roof):1	1149(maintenance):1	1906(plant):1	2533(occasionally):1	
+4	130(standard):1	196(meet):1	684(North):1	2814(3-star):1	
+75	2(night):1	4(nice):1	8(day):2	11(bed):3	13(bathroom):1	17(view):1	20(look):1	24(floor):1	26(people):1	34(feel):2	35(street):2	50(bad):1	54(door):1	58(quiet):1	61(shower):1	62(expect):1	84(locate):1	104(sleep):1	116(tv):1	119(window):2	135(build):2	153(provide):2	154(disappoint):1	169(sit):1	198(chair):1	229(table):1	304(single):1	316(dine):1	330(toilet):1	366(step):1	383(directly):1	399(usually):2	411(sight):1	448(mini):1	496(concern):1	509(sink):1	518(system):1	548(spotless):1	565(closet):1	627(chain):1	641(security):1	700(europe):1	702(comfort):1	751(apartment):2	776(paper):1	842(sofa):1	849(bonus):1	874(similar):1	965(soap):1	973(patio):1	980(unit):1	1001(counter):1	1011(term):1	1023(bathtub):1	1051(shampoo):1	1061(adjacent):1	1063(rooftop):2	1070(conveniently):1	1311(storage):1	1326(2nd):1	1377(rambla):1	1883(so-so):1	1890(unsafe):1	2209(seedy):1	2374(cupboard):1	2793(granite):1	3232(element):1	3266(stereo):1	3405(dishwasher):1	4389(full-size):1	4797(pull-out):2	5565(detergent):1	7174(shelve):1	7870(handheld):1	9944(citadine):1	
+16	1(location):1	2(night):1	5(time):1	7(walk):2	8(day):1	29(minute):1	35(street):1	209(tourist):1	235(metro):1	442(beat):1	649(information):1	792(office):1	1278(catalunya):1	1377(rambla):1	1740(placa):1	2013(incident):1	
+0	
+16	9(service):2	12(friendly):1	29(minute):1	31(front):2	36(desk):2	55(lobby):1	173(please):1	193(person):1	343(impress):1	489(immediately):1	541(appear):1	713(contact):1	854(cleanliness):1	865(control):1	1149(maintenance):1	2704(climate):1	
+34	1(location):1	3(clean):1	8(day):1	9(service):1	10(restaurant):1	33(trip):1	105(husband):1	125(towel):2	128(extra):1	148(request):1	153(provide):2	167(choose):1	168(central):1	175(cost):2	197(fresh):2	203(plus):1	211(facility):1	291(amenity):1	309(barcelona):1	360(daily):1	479(sheet):1	508(otherwise):1	509(sink):1	816(dish):1	820(microwave):1	884(equip):1	1075(laundry):1	1165(kitchenette):2	1233(possibly):1	1447(pot):1	2828(mini-fridge):1	2919(utensil):1	5475(mid-week):1	9944(citadine):3	
+0	
+
+<Author>LoLoChicago
+<Content>Great area, but you can do better We stayed at the Citadines apartment hotel in Barcelona in February 2008. I booked this hotel at the last minute as the apartment I rented with VBRO had a fire and was not available. Booking was easy and we rented an apartment for 1-4 persons, at 225.00 euros per day for a 5 night stay. This is more than an regular apartment would cost, but I was booking at the last minute and wanted the ease of a hotel with apartment convenience. The apartment is laid out nicely, with step-out large balcony with large sliding glass door. The bedroom is good size and has a sliding door to the living room/kitchen/dinning area. So when the bedroom area is open it gives you a spacious feeling. The bathroom is spacious but shows stains around the faucets. In fact the room is very worn, cigarette burns on the rug, tired out looking furniture, we could not connect our IPOD to the older TV, so we could not view US movies that we brought. The hotel has free internet in the business center. This hotel is located right on the Ramblas 122, and in the middle of everything. Since it was February I figured that it wouldn鈥檛 be too frantic and noisy on the Ramblas at that time of the year. The Ramblas was busy, but you are in the middle of everything, across from a grocery store and down a few steps from the famous market Sant Joseph market. The Bari Gotic is diretly behind the hotel so we could walk to all the sites, and we were able to walk to the Placa Reial and the restaurant La Fonda late and we did not have to wait in the long line to get a table. Taxis stopped right in front of the hotel, and the Placa de Catalunya is a 10 minute walk, where you can find the Bus Turistic, buses to the airport and the metro. The major problem was the noise from the small square park-like area behind the hotel; this is also a street that is one of the entrances to the Gothic area. There were 2 caf茅鈥檚 that stayed open late and the noise drifted up as well as the cigarette smoke to our room. But the absolute worse was the hippie type homeless people and their barking dogs that hung out in the park all night long. There were a few mentally ill homeless people who would scream randomly at night. Because the buildings were tall the noise traveled up to our 6th floor apartment. The air-conditioning was not on yet, but the room was stuffy so we were opening and closing the window all night long. We almost checked out early, but the convenience of the location and the fact that I had already booked this as my 2nd choice we just stayed. We live in a urban city area so our tolerance for city noise is very high. Plus side: We could walk out see some sites, come back rest, have a bathroom break and go back out again, that is a plus when you are doing all the tourist things. Having the kitchen was very nice for us, as we shopped at the market and could eat snacks and a meal in our apartment. But for the price I can not recommend this apartment-hotel. If you are looking for a hotel you can definitely do better. If you are looking for an apartment you can find better on line and cheaper on line.  
+<Date>Apr 7, 2008
+<Rating>2	2	2	5	3	3	3	4	
+<Aspects>
+21	2(night):1	5(time):1	20(look):1	26(people):1	41(city):2	59(definitely):1	94(noise):1	206(live):1	217(noisy):1	634(ramblas):1	779(figure):1	1230(february):1	1567(homeless):1	1657(ill):1	1757(scream):1	2586(wouldn):1	2673(urban):1	6830(randomly):1	7989(frantic):1	8229(tolerance):1	8610(mentally):1	
+16	1(location):1	15(recommend):1	18(book):2	19(price):1	20(look):1	29(minute):1	32(check):1	107(choice):1	143(cheap):1	175(cost):1	188(line):2	744(regular):1	751(apartment):3	925(convenience):2	1326(2nd):1	2057(ease):1	
+68	2(night):2	4(nice):1	7(walk):1	8(day):1	13(bathroom):2	17(view):1	18(book):2	20(look):1	24(floor):1	28(close):1	29(minute):1	34(feel):1	47(eat):1	49(shop):1	54(door):2	68(travel):1	79(late):1	83(size):1	93(easy):1	94(noise):2	111(spacious):2	116(tv):1	119(window):1	134(available):1	142(bring):1	191(balcony):1	192(site):1	193(person):1	203(plus):2	206(live):1	209(tourist):1	213(meal):1	228(break):1	256(euro):1	264(market):1	268(bedroom):2	288(rest):1	309(barcelona):1	327(glass):1	404(nicely):1	406(snack):1	434(wear):1	440(furniture):1	454(tire):1	461(kitchen):1	468(smoke):1	696(lay):1	723(stain):1	745(building):1	751(apartment):6	841(connect):1	989(movie):1	1097(rent):2	1142(slide):2	1230(february):1	1262(fire):1	1289(burn):1	1365(cigarette):2	1626(tall):1	1857(stuffy):1	1869(6th):1	2284(air conditioning):1	2353(ipod):1	2532(caf):1	2823(faucet):1	3016(rug):1	4338(drift):1	9944(citadine):1	
+40	7(walk):3	10(restaurant):1	29(minute):1	31(front):1	35(street):1	79(late):1	84(locate):1	85(wait):1	94(noise):1	95(airport):1	120(bus):2	122(stop):1	139(square):1	171(able):1	185(taxi):1	188(line):1	192(site):1	220(busy):1	225(la):1	229(table):1	235(metro):1	255(store):1	264(market):2	315(major):1	325(middle):2	366(step):1	490(entrance):1	634(ramblas):2	1199(grocery):1	1278(catalunya):1	1296(famous):1	1740(placa):2	2410(gothic):1	4094(gotic):1	4572(turistic):1	6310(sant):1	7088(reial):1	8263(joseph):1	10721(bari):1	10883(fonda):1	
+0	
+0	
+10	2(night):1	26(people):1	50(bad):1	66(park):1	389(type):1	478(hang):1	1126(dog):1	1250(absolute):1	1567(homeless):1	3336(bark):1	
+4	46(free):1	97(internet):1	101(center):1	147(business):1	
+
+<Author>Barry Lynch
+<Content>Superb - This is not hyberbole Just about the perfect location.. The apartments are spotless, well appointed, spacious and I can't find anything negative to say about the place. The staff are are friendly, helpful and informative. My only reservation is that the breakfast at 鈧?3.00 may be excellent, but why bother when you can cross the Ramblas to the Cafe Guinart, at the market entrance, and have a Cafe Con Leche and Serrana Ham Baguette for 鈧?.00 per person. Also, it's good to see that they have a sense of history and have a picture of George Orwell in the Lobby, opposite his sniper position on the roof of theTeatre Poliorama during the Spanish Civil War. Excellent, try here before anywhere else.  
+<Date>Apr 7, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+3	21(excellent):1	76(try):1	170(else):1	
+0	
+5	111(spacious):1	282(negative):1	548(spotless):1	579(appoint):1	751(apartment):1	
+14	1(location):1	55(lobby):1	74(perfect):1	369(spanish):1	407(superb):1	456(picture):1	636(roof):1	783(opposite):1	1093(position):1	1102(sense):1	1490(history):1	2287(george):1	4624(war):1	8984(civil):1	
+0	
+18	0(staff):1	6(breakfast):1	12(friendly):1	14(helpful):1	21(excellent):1	156(reservation):1	193(person):1	264(market):1	275(cafe):2	307(bother):1	490(entrance):1	634(ramblas):1	840(Con):1	1228(cross):1	1561(ham):1	1976(informative):1	5470(baguette):1	5931(leche):1	
+0	
+0	
+
+<Author>MAC444
+<Content>Great Location The Citadines is on Las Ramblas only a few minutes walk from Placa Catalunya. Great position and areas such as the beach, Gothic Quarter and Las Gracias are all within walking distance. Our room was in the second building so did not look out on Las Ramblas. It was a good size and the kitchen has everything you need if you want to do some cooking. Really we spent very little time in our room as there was so much we wanted to see in Barcelona. The bed was a sofa bed with a pull out bed underneath. Not the most comfortable bed in the world but we were only there for 2 nights so this didn't bother us. Towels are provided and there is a hairdryer in the bathroom. There is a 24 hour reception and the staff were approachable and helpful. If you want breakfast it is 13 euros. Bit pricey but lots of choice and the dining room looks over Las Ramblas so you can spend ages eating and watching other people going to work. Bliss. We were very pleased with our stay. As other people have said Barcelona is an expensive city and The Citadines, for its position, offers a good deal. We wanted to visit all the Gaudi buildings and other attractions and the entrance costs for these places soon mounts up.  
+<Date>Mar 15, 2008
+<Rating>4	4	3	5	3	3	3	-1	
+<Aspects>
+2	173(please):1	2982(bliss):1	
+28	20(look):1	26(people):2	38(lot):1	41(city):1	47(eat):1	52(bit):1	64(spend):1	65(visit):1	89(offer):1	107(choice):1	124(expensive):1	140(deal):1	175(cost):1	245(watch):1	309(barcelona):1	316(dine):1	350(attraction):1	418(soon):1	490(entrance):1	505(age):1	546(pricey):1	634(ramblas):1	745(building):1	834(las):1	1093(position):1	2794(mount):1	2803(gaudi):1	9944(citadine):1	
+23	2(night):1	5(time):1	11(bed):4	13(bathroom):1	20(look):1	23(little):1	25(comfortable):1	64(spend):1	83(size):1	125(towel):1	135(build):1	153(provide):1	272(world):1	307(bother):1	309(barcelona):1	461(kitchen):1	550(cook):1	634(ramblas):1	834(las):1	842(sofa):1	858(pull):1	1493(hairdryer):1	2459(underneath):1	
+14	1(location):1	7(walk):2	29(minute):1	30(beach):1	115(distance):1	463(quarter):1	634(ramblas):1	834(las):2	1093(position):1	1278(catalunya):1	1740(placa):1	2410(gothic):1	3841(gracias):1	9944(citadine):1	
+0	
+5	0(staff):1	14(helpful):1	60(hour):1	129(reception):1	4800(approachable):1	
+2	6(breakfast):1	256(euro):1	
+0	
+
+<Author>BethanCardiff
+<Content>Great place to stay A friend and I stayed here during the last weekend in January, we had a great time and found these apartments to be in a great location with easy access to most of Barcelona, as two girls travelling we were pleased with the 24 hour reception, which was manned by friendly, helpful staff (except one, who seemed to take a dislike to my friend!). The rooms were great, they were clean and tidy with plenty of space. We found the rooms very warm and couldn't work the air conditioning, but this wasn't a problem as we could open the window without worry as we were so high up.  
+<Date>Feb 1, 2008
+<Rating>4	5	4	4	4	4	4	-1	
+<Aspects>
+0	
+0	
+9	3(clean):1	119(window):1	158(plenty):1	164(air):1	210(space):1	236(warm):1	263(condition):1	831(worry):1	1100(tidy):1	
+0	
+0	
+19	0(staff):1	1(location):1	5(time):1	12(friendly):1	14(helpful):1	60(hour):1	68(travel):1	93(easy):1	129(reception):1	146(friend):2	159(access):1	172(weekend):1	173(please):1	309(barcelona):1	337(except):1	625(girl):1	751(apartment):1	1018(january):1	2881(dislike):1	
+0	
+0	
+
+<Author>E.Clements
+<Content>Loved the Citadines We have just returned from a city break to Barcelona. Having been there many times we always wanted to try an apartment.Booking the Citadines was a pleasant surprise. Right in the middle of Las Ramblas (which we knew).Our studio apartment turned out to be a large bedroom, very modern and a dinky little kitchen with all mod cons. Even the bathroom didn't let us down. Plenty of space everywhere.We will definately go back.  
+<Date>Nov 21, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	325(middle):1	410(definately):1	634(ramblas):1	834(las):1	
+0	
+14	5(time):1	13(bathroom):1	23(little):1	76(try):1	151(modern):1	158(plenty):1	210(space):1	268(bedroom):1	461(kitchen):1	751(apartment):2	840(Con):1	1445(studio):1	4320(Mod):1	9620(dinky):1	
+0	
+0	
+0	
+9	18(book):1	39(return):1	40(love):1	41(city):1	150(pleasant):1	199(surprise):1	228(break):1	309(barcelona):1	9944(citadine):2	
+0	
+
+<Author>gmurphyjc
+<Content>Overpriced, but what's an American in Europe to do these days? We just spent 6 nights here and had a perfectly enjoyable stay. The location is perfect; many attractions were in easy walking distance and the totally efficient metro stops just a short distance away. The room was clean and pleasant and the amenities were as promised--nothing more, nothing less. The staff was polite and for the most part helpful. The only downside is that the price that can buy you a true luxury hotel room in many cities buys just a standard, decent room in Barcelona.  
+<Date>Nov 12, 2007
+<Rating>4	4	4	5	4	3	4	4	
+<Aspects>
+4	2(night):1	64(spend):1	567(enjoyable):1	595(perfectly):1	
+11	8(day):1	19(price):1	41(city):1	130(standard):1	257(decent):1	280(buy):2	309(barcelona):1	437(luxury):1	700(europe):1	727(overprice):1	782(downside):1	
+4	3(clean):1	150(pleasant):1	291(amenity):1	975(promise):1	
+11	1(location):1	7(walk):1	74(perfect):1	93(easy):1	115(distance):2	122(stop):1	144(short):1	235(metro):1	350(attraction):1	401(efficient):1	611(totally):1	
+0	
+3	0(staff):1	14(helpful):1	422(polite):1	
+0	
+0	
+
+<Author>JanneSiru
+<Content>In the middle of La Rambla       Kitchenette  
+<Date>Oct 21, 2007
+<Rating>3	3	3	4	3	3	3	-1	
+<Aspects>
+0	
+0	
+4	225(la):1	325(middle):1	1165(kitchenette):1	1377(rambla):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Aliflower
+<Content>Perfect location and great apartments! Stayed here for a long weekend with a group of girls and couldn't have been more pleased with the accommodation. we had a one bedroom apartment which had a double bed and a sofa with a pull out bed beneath it so it was quite a sturdy bed (not the usual rickety camp bed you'd expect). Dining table and chairs, lots of cups and cutlery etc, a mini dishwasher (nice!) fridge, toaster, kettle so if you were mad enough to eat in you could. Bathroom had a good powerful shower (with shower curtain - agree with an earlier reviewer that it's a luxury!) hairdryer was fine although precariously placed above the loo so close the lid first just incase you drop it! ah yes, tv (with a few english language channels) and a cd player and a free safety deposit box. Towels were included.It's my understanding that the apartments aren't cleaned/sheets changed etc during your stay but I guess if you're staying longer they will do this for you. It's quite normal in Spain for hotel sheets to be changed just once a week, and let's face it environmentally it makes sense too. Location wise it's perfect, roughly halfway along the Ramblas, opposite the Boqueria market and the Liceu theatre. Close enough to explore the Barri Gotic, Cathedral, Placa Catalunya etc without taking the metro or a taxi, and about 30 minute walk to Barceloneta beach. I hope to return to Barcelona again very soon and will definitely be booking in here!  
+<Date>Sep 15, 2007
+<Rating>5	5	5	5	4	4	4	3	
+<Aspects>
+7	75(week):1	161(change):1	479(sheet):1	878(normal):1	1102(sense):1	1636(spain):1	8426(environmentally):1	
+4	172(weekend):1	173(please):1	625(girl):1	721(accommodation):1	
+53	1(location):1	4(nice):1	11(bed):4	13(bathroom):1	28(close):1	38(lot):1	46(free):1	61(shower):2	62(expect):1	73(etc):2	74(perfect):1	113(fine):1	116(tv):1	152(english):1	161(change):1	179(double):1	198(chair):1	229(table):1	250(yes):1	268(bedroom):1	316(dine):1	391(understand):1	437(luxury):1	448(mini):1	469(guess):1	473(agree):1	564(reviewer):1	662(drop):1	682(usual):1	698(language):1	741(channel):1	743(curtain):1	751(apartment):3	800(cup):1	842(sofa):1	858(pull):1	945(box):1	1076(player):1	1448(safety):1	1493(hairdryer):1	1603(deposit):1	1729(cd):1	2026(powerful):1	2087(camp):1	3182(cutlery):1	3405(dishwasher):1	3927(loo):1	4032(beneath):1	4919(ah):1	5792(lid):1	6263(rickety):1	7117(incase):1	8242(sturdy):1	
+25	1(location):1	7(walk):1	28(close):1	29(minute):1	30(beach):1	73(etc):1	74(perfect):1	185(taxi):1	235(metro):1	264(market):1	594(explore):1	634(ramblas):1	635(theater):1	783(opposite):1	1278(catalunya):1	1552(cathedral):1	1676(wise):1	1740(placa):1	3196(roughly):1	3589(halfway):1	3775(barri):1	4094(gotic):1	6459(barceloneta):1	6688(boqueria):1	7650(liceu):1	
+0	
+0	
+13	18(book):1	39(return):1	47(eat):1	59(definitely):1	71(include):1	125(towel):1	309(barcelona):1	318(fridge):1	328(hope):1	418(soon):1	1944(kettle):1	2607(mad):1	2849(toaster):1	
+0	
+
+<Author>MAMLOOHAH
+<Content>Dont stay here! we stayed here in july...2007It's terrible!the sheets are very old ...the shower is very old also...even the dryer!!!!and the BIG PROBLEM IS THE A/C!It's very hot we could'nt sleep...we told the front desk about it ...they told us all the a/c's in the hotel are the same ....!they dont have room service...NO body changed our sheets !or cleand the bathroom!i hated this place...DONT STAY HERE!  
+<Date>Jul 30, 2007
+<Rating>1	2	1	5	1	3	1	5	
+<Aspects>
+3	432(terrible):1	503(dont):2	1110(hate):1	
+0	
+8	9(service):1	13(bathroom):1	61(shower):1	161(change):1	479(sheet):2	503(dont):1	1209(dryer):1	1352(body):1	
+0	
+0	
+5	31(front):1	36(desk):1	69(tell):2	104(sleep):1	114(hot):1	
+0	
+0	
+
+<Author>Travelsinger
+<Content>Why Stay Anywhere Else? Because I have stayed in the Citadines properties in Paris, I decided to try the Citadines on the Ramblas. It was fabulous, and I enjoyed my stay there as much as I have in the Paris properties. The location couldn't be better and the studio was roomy and clean with a well-appointed sitting room, kitchen, and plenty of shelf-space in the bathroom. They even have a shower curtain in the shower, which is rare in Europe. Add a small balcony, and what more could you want? It's a nice walk to the waterfront and a short walk in the opposite direction to Placa Catalunya and the El Corte Ingles department store, complete with a wonderful Supermercado (supermarket) in its basement. A truly great experience on all levels.  
+<Date>Jun 3, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+1	170(else):1	
+3	44(experience):1	306(level):1	476(truly):1	
+15	1(location):1	3(clean):1	13(bathroom):1	61(shower):2	158(plenty):1	169(sit):1	191(balcony):1	351(add):1	461(kitchen):1	700(europe):1	743(curtain):1	1353(roomy):1	1445(studio):1	1924(rare):1	2440(well-appoint):1	
+17	4(nice):1	7(walk):2	48(wonderful):1	144(short):1	255(store):1	395(direction):1	622(complete):1	752(el):1	783(opposite):1	1078(supermarket):1	1278(catalunya):1	1568(basement):1	1707(department):1	1740(placa):1	1859(waterfront):1	4448(corte):1	5179(ingle):1	
+0	
+0	
+8	51(enjoy):1	76(try):1	214(property):2	219(decide):1	270(fabulous):1	403(paris):2	634(ramblas):1	9944(citadine):2	
+0	
+
+<Author>gap12
+<Content>Excellent I stayed there with a mate having arrived after 15hrs on planes from New York, Madrid and Barcelona. The staff were friendly and welcoming right from the start, with plenty of charm and good humour (which we found unusual in Spain on the whole)! Rooms were very clean and well maintained. It's in a great location for the night-life (ramblas) and was within easy walking distance of good bars, resturants, and other attractions. I'lld recomend this mainly for younger people, singles or couples as the nightlife in the immediate area is vibrant to say the least. Overall, a great hotel with excellant service, presentation and modern amenities, would stay there again without doubt.  
+<Date>Jan 8, 2007
+<Rating>4	4	4	4	4	5	4	4	
+<Aspects>
+8	26(people):1	99(couple):1	304(single):1	1177(mainly):1	1305(nightlife):1	1420(recomend):1	1761(immediate):1	3189(vibrant):1	
+9	0(staff):1	12(friendly):1	158(plenty):1	165(start):1	202(welcome):1	332(charm):1	1610(unusual):1	1636(spain):1	3169(humor):1	
+0	
+9	1(location):1	7(walk):1	27(bar):1	93(easy):1	115(distance):1	350(attraction):1	634(ramblas):1	1565(resturants):1	11354(night-life):1	
+2	3(clean):1	562(maintain):1	
+0	
+14	9(service):1	21(excellent):1	53(arrive):1	70(overall):1	151(modern):1	291(amenity):1	309(barcelona):1	424(york):1	952(doubt):1	968(plane):1	1280(madrid):1	1932(presentation):1	2786(excellant):1	2953(mate):1	
+0	
+
+<Author>AscotSteve_C
+<Content>Solid 3* in a 5* location We are just back after spending 5 nights at the Citadines over New Years. Finding suitable European accommodations for a family of 4 (18months and 6 year old children) is never easy but the Citadines have been a saviour. We鈥檝e stayed at several and would rank the Barcelona location as a solid 3*. Great location with fabulous market and Starbucks 2min away. Room for the family to unwind and nice to be able to tuck the kids in and have a bottle of wine to wrap up the day. We walked to the zoo, aquarium and beach. Metro connections were also convenient. We found the staff very helpful and although the room was not cleaned daily we expected that. If we wanted the 5 Star treatment we could of squeezed into the Meridian across the road for twice the price (if they took the 4 of us in one room). When we arrived home we realized that we had left our 18month old鈥檚 stuffed teddy bear in the room. You can imagine how traumatic this was. I emailed the hotel immediately and they replied the next day to say that housekeeping had found it next to the trash bin and assumed that it was rubbish so it was thrown out. Mistakes happen but the manager asked us to send a photo and other details. She promptly replied that although the Gund cat was not available in Europe they had ordered one from the US and shipped it directly to us. In my mind this was above and beyond the call of duty and a good indication of their attention to customer satisfaction. We will return!  
+<Date>Jan 5, 2007
+<Rating>4	4	4	5	4	4	4	4	
+<Aspects>
+17	39(return):1	67(call):1	134(available):1	294(mind):1	383(directly):1	428(customer):1	700(europe):1	726(attention):1	733(imagine):1	738(beyond):1	1212(promptly):1	1325(duty):1	1392(ship):1	1811(reply):1	2177(cat):1	2863(satisfaction):1	4626(indication):1	
+14	19(price):1	93(easy):1	103(star):1	106(family):1	230(road):1	277(child):1	347(twice):1	582(european):1	721(accommodation):1	1147(treatment):1	1963(squeeze):1	1967(suitable):1	8978(meridian):1	9944(citadine):1	
+31	0(staff):1	3(clean):1	4(nice):1	8(day):2	14(helpful):1	43(leave):1	53(arrive):1	62(expect):1	106(family):1	141(home):1	171(able):1	201(kid):1	238(bottle):1	251(wine):1	360(daily):1	367(housekeeping):1	480(stuff):1	489(immediately):1	607(realize):1	917(throw):1	1407(assume):1	1559(e-mail):1	1793(trash):1	1811(reply):1	1838(bear):1	2085(wrap):1	2091(tuck):1	2664(rubbish):1	2807(unwind):1	3059(bin):1	6043(teddy):1	
+15	1(location):3	2(night):1	7(walk):1	30(beach):1	64(spend):1	264(market):1	270(fabulous):1	309(barcelona):1	939(starbucks):1	1511(zoo):1	1617(solid):2	1795(rank):1	2157(aquarium):1	6772(2min):1	9944(citadine):1	
+0	
+6	258(manager):1	382(happen):1	447(send):1	592(detail):1	761(photo):1	895(mistake):1	
+0	
+3	186(convenient):1	235(metro):1	932(connection):1	
+
+<Author>norwtrav
+<Content>Good trip to Barcelona       View from our hotel room  
+<Date>Dec 19, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+3	17(view):1	33(trip):1	309(barcelona):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Ragan_Dragon
+<Content>We were robbed here!!! Great place to stay in terms of location!!!Our stay in Barcelona was really fantastic and had to be tainted by the fact that unfortunately no one in the hotel staff took us seriously when we told them we had been robbed from the room on our last day. We had to deal with them via email and phone and we basically were sent on a wild goose chase. We have been back home since Nov 11 and this incident occurred in late October and we only received reference from them a week ago to say that there was no evidence for forced entry. Hmmm.... when you leave without something that you arrived with and it has been kept locked up the whole time you were in Barcelona in the room (and your padlock goes missing)... where else could it go??? Maybe our souvenirs had LEGS!!!!! Who knows??DONT STAY HERE!!!!!  
+<Date>Dec 13, 2006
+<Rating>2	2	4	5	4	4	1	5	
+<Aspects>
+26	75(week):1	79(late):1	140(deal):1	141(home):1	296(phone):1	302(receive):1	308(maybe):1	447(send):1	503(dont):1	512(via):1	633(ago):1	790(basically):1	911(october):1	1421(leg):1	1550(force):1	1649(entry):1	1763(nov):1	2013(incident):1	2283(occur):1	2504(souvenirs):1	2661(wild):1	3003(chase):1	3005(rob):1	3261(evidence):1	3805(reference):1	4576(goose):1	
+0	
+17	0(staff):1	5(time):1	8(day):1	43(leave):1	53(arrive):1	69(tell):1	86(fantastic):1	170(else):1	276(miss):1	309(barcelona):2	524(unfortunately):1	774(lock):1	1441(seriously):1	3005(rob):1	4874(hmmm):1	6680(taint):1	11006(padlock):1	
+2	1(location):1	1011(term):1	
+0	
+0	
+0	
+0	
+
+<Author>nana-on-the-go
+<Content>great location and ammenities This hotel was a real treat. We had just come off a Princess Mediterranean cruise and were ready for a little down time so really appreciated the good kitchen facilities and the spaciousness of this appartment hotel. The accommodations are not deluxe, but everything was immaculate and very comfortable. A fabulous food market is about 1 1/2 blocks away and a supermarket is across the street. We ate out most of the time but really enjoyed being able to make our own breakfasts and late night snacks.Great location - easy access to many areas of the city and it was fun to watch the action on the Ramblas from our large windows - the soundproofing worked very well, so we could see but didn't have to listen. Hotel staff were helpful and courteous.From Regina, Canada  
+<Date>Nov 1, 2006
+<Rating>4	5	4	5	4	4	4	-1	
+<Aspects>
+2	1384(canada):1	6844(regina):1	
+4	25(comfortable):1	648(deluxe):1	721(accommodation):1	894(immaculate):1	
+11	1(location):1	41(city):1	93(easy):1	119(window):1	159(access):1	176(fun):1	245(watch):1	634(ramblas):1	958(action):1	997(listen):1	1852(soundproof):1	
+10	1(location):1	16(food):1	35(street):1	100(bloc):1	240(real):1	264(market):1	270(fabulous):1	320(treat):1	1078(supermarket):1	2231(ammenity):1	
+0	
+3	0(staff):1	14(helpful):1	483(courteous):1	
+19	2(night):1	5(time):2	6(breakfast):1	23(little):1	47(eat):1	51(enjoy):1	79(late):1	166(own):1	171(able):1	211(facility):1	274(ready):1	406(snack):1	461(kitchen):1	500(appreciate):1	603(cruise):1	1239(princess):1	2508(mediterranean):1	5034(appartment):1	6439(spaciousness):1	
+0	
+
+<Author>Stavros77
+<Content>very poor We stayed 3 nights 鈥?our room did not get cleaned once. Bed was very uncomfortable 鈥?it was a fold out, staff average. Do not recommend this hotel to anyone.  
+<Date>Oct 19, 2006
+<Rating>1	3	1	3	1	3	3	3	
+<Aspects>
+1	15(recommend):1	
+0	
+8	0(staff):1	2(night):1	3(clean):1	11(bed):1	227(average):1	331(poor):1	856(uncomfortable):1	2193(fold):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>garyallen
+<Content>not up to their other locations This is the 3rd Citidines property I stayed at. The one in Paris and one in London were fine, this one in Barcellona was awful. The place was run down, the mattress was broken, the tiny tv did not even get cnn, the guy named Albert at the desk was not helpful at all and the bill was 600 euros for 3 nights. I got a lot more for the money in other places in Spain.  
+<Date>Sep 19, 2006
+<Rating>1	2	1	3	2	1	1	-1	
+<Aspects>
+3	38(lot):1	80(money):1	1636(spain):1	
+0	
+14	2(night):1	14(helpful):1	36(desk):1	116(tv):1	149(run):1	228(break):1	256(euro):1	295(name):1	338(tiny):1	368(guy):1	495(bill):1	847(mattress):1	2101(cnn):1	6001(albert):1	
+3	1(location):1	214(property):1	2097(3rd):1	
+0	
+0	
+4	113(fine):1	403(paris):1	697(london):1	736(awful):1	
+0	
+
+<Author>Sooziecats
+<Content>Wonderful location We have recently stayed at the Citadines and found it to be well worth the money. We had two ajoining apartments, which was excellent as the children had their own TV and CD player. The only downside was that the receptionist too a long time to check us in (half and hour). He didn't seem to have much idea about first come first served - but I think that is a Spanish thing. The only other sligh problem was that our loo would not flush, we did report this but it still wasn't fixed when we left. No real problem though as we just used the childrens loo. The hotel is situated right on Les Ramblas and is really close to the tube. The rooms were air conditioned and Les Ramblas wasn't too noisy. All in all well worth a visit.  
+<Date>Jul 28, 2006
+<Rating>4	5	5	5	4	2	3	5	
+<Aspects>
+9	43(leave):1	65(visit):1	96(worth):1	240(real):1	494(fix):1	838(report):1	1619(flush):1	3927(loo):2	4369(childrens):1	
+0	
+13	21(excellent):1	116(tv):1	164(air):1	166(own):1	217(noisy):1	263(condition):1	277(child):1	634(ramblas):1	751(apartment):1	1076(player):1	1729(cd):1	3304(les):1	7417(ajoine):1	
+11	1(location):1	28(close):1	48(wonderful):1	80(money):1	96(worth):1	322(recently):1	574(situate):1	634(ramblas):1	1310(tube):1	3304(les):1	9944(citadine):1	
+0	
+6	5(time):1	32(check):1	60(hour):1	283(half):1	782(downside):1	855(receptionist):1	
+3	174(serve):1	369(spanish):1	639(idea):1	
+0	
+
+<Author>DrStroke
+<Content>Citadine Barcelona - just what we wanted, but perhaps not for everyone Midway through a three and a half week stay in Europe, we wanted an apartment-hotel with some space to stretch out, a place to cook familiar food, and laundry facilities. We paid euros 210 through citadine website for a one-bedroom apartment. We did not use the sofa bed, only the comfortable king bed in the bedroom. We got just what we wanted and were pleasantly surprised by the helpful front desk staff. The washer and dryer cost 9 euros. While the hotel's address is on Ramblas, we requested and received a room that faced onto a quieter square. Just out the front door is a decent supermarket. We liked the location within an easy walk of the cathedral and Barcino. The hotel is somewhat soulless, lacks charm, and was overrun with American college students, but it met our needs.  
+<Date>Jul 24, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	196(meet):1	332(charm):1	349(lack):1	651(somewhat):1	1925(college):1	2020(student):1	5723(overrun):1	6621(soulless):1	
+4	175(cost):1	256(euro):1	1209(dryer):1	2602(washer):1	
+17	11(bed):2	25(comfortable):1	42(pay):1	58(quiet):1	139(square):1	148(request):1	243(king):1	256(euro):1	262(website):1	268(bedroom):1	302(receive):1	634(ramblas):1	751(apartment):1	842(sofa):1	1312(address):1	4802(one-bedroom):1	9944(citadine):1	
+8	1(location):1	7(walk):1	31(front):1	54(door):1	93(easy):1	257(decent):1	1078(supermarket):1	1552(cathedral):1	
+0	
+6	0(staff):1	14(helpful):1	31(front):1	36(desk):1	199(surprise):1	747(pleasantly):1	
+13	16(food):1	75(week):1	210(space):1	211(facility):1	283(half):1	309(barcelona):1	550(cook):1	700(europe):1	1075(laundry):1	1586(stretch):1	2081(familiar):1	6102(midway):1	9944(citadine):1	
+0	
+
+<Author>choward1
+<Content>Great Location Stayed at the Citadines for one night as our prefered hotel was not available. The location was fantastic, right on La Rambla, near the Placa de Catalunya end (nicer and safer feel to it than the Port end) and also where all the Tourist Buses and airport buses depart from. The room was described as an apartment which was a little overrated - it did have everything needed for an apartment - kitchenette (cooker, fridge, utensils, plates etc) but it was a bit small for an apartment but spacious enough as a hotel room!! Even though it was on La Rambla, we were at the back of the hotel so the view was of a wall.The room was clean and functional, a dated feel to it in general but for location it was perfect. Don't expect luxury!  
+<Date>Jun 28, 2006
+<Rating>3	3	3	-1	4	-1	3	-1	
+<Aspects>
+2	62(expect):1	437(luxury):1	
+0	
+18	1(location):1	3(clean):1	23(little):1	34(feel):1	52(bit):1	73(etc):1	74(perfect):1	111(spacious):1	318(fridge):1	511(date):1	751(apartment):3	955(describe):1	1002(plate):1	1165(kitchenette):1	1348(functional):1	2575(overrate):1	2919(utensil):1	6666(cooker):1	
+21	1(location):2	2(night):1	4(nice):1	17(view):1	34(feel):1	86(fantastic):1	95(airport):1	102(near):1	120(bus):2	134(available):1	137(safe):1	183(wall):1	209(tourist):1	225(la):2	1278(catalunya):1	1288(port):1	1377(rambla):2	1740(placa):1	1814(depart):1	3982(prefere):1	9944(citadine):1	
+0	
+0	
+0	
+0	
+
+<Author>garymac1965
+<Content>Superb location       kitchen  
+<Date>Apr 11, 2006
+<Rating>5	4	5	-1	5	-1	4	-1	
+<Aspects>
+0	
+0	
+3	1(location):1	407(superb):1	461(kitchen):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>gottogonow20
+<Content>Awesome Location. Perfect for Families. This hotel was probably the best a family of four could ask for in an apartment in the middle of Barcelona. The location was perfect. You walked out of the front of the hotel and were in the middle of the action of the city. It was quite convenient to walk almost everywhere, although sometimes the walks could add up to more than three miles in a day, but what great walks!The apartment was very user friendly, and adequate although not plush, for a family with two kids. We really enjoyed being in the back of the building overlooking the gravestones and narrow streets. It was much quieter than the front would have been, and we enjoyed having the window open in the evening.Our only complaint was that the maid only came one time in the week, and we ran into problems with trashcans overflowing and having to constantly ask for toilet paper, dishwasher detergent, etc. We eventually bought our own supplies, but had the misfortune of first running out on a Sunday, when most things are closed, so be prepared.Considering all the establishments in Barcelona to stay, we believe this is a larger than average room for a competitive price. We would stay here again in a heartbeat.  
+<Date>Mar 20, 2006
+<Rating>4	3	4	-1	4	-1	3	-1	
+<Aspects>
+15	5(time):1	73(etc):1	74(perfect):1	75(week):1	106(family):1	149(run):1	190(complaint):1	300(maid):1	330(toilet):1	776(paper):1	995(constantly):1	1683(heartbeat):1	3405(dishwasher):1	3460(overflow):1	5565(detergent):1	
+7	19(price):1	227(average):1	248(consider):1	309(barcelona):1	312(believe):1	1473(establishment):1	3279(competitive):1	
+14	12(friendly):1	31(front):1	51(enjoy):1	58(quiet):1	106(family):2	119(window):1	178(probably):1	201(kid):1	309(barcelona):1	325(middle):1	390(adequate):1	751(apartment):2	1847(plush):1	2756(user):1	
+27	1(location):2	7(walk):4	8(day):1	28(close):1	31(front):1	35(street):1	41(city):1	51(enjoy):1	74(perfect):1	135(build):1	149(run):1	166(own):1	186(convenient):1	260(overlook):1	280(buy):1	325(middle):1	348(awesome):1	351(add):1	460(prepare):1	560(sometimes):1	692(mile):1	844(sunday):1	859(supply):1	958(action):1	1204(eventually):1	1207(narrow):1	5238(misfortune):1	
+0	
+0	
+0	
+0	
+
+<Author>ciog52
+<Content>Great Find A friend who had stayed there with her family recommended this. Location is superb and it gives you a chance to relax during the day. On one morning we got fruit and croissants from La Boqueria Market, which is across the road and had a delicious breakfast to start the day. Facilities are great and even the fold out bed is comfortable. The website will show you exactly what the facilities are like. The accommodation was a big factor in making our trip one of the best yet.  
+<Date>Feb 11, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+3	15(recommend):1	106(family):1	146(friend):1	
+3	33(trip):1	721(accommodation):1	1655(factor):1	
+4	11(bed):1	25(comfortable):1	211(facility):1	2193(fold):1	
+8	1(location):1	8(day):1	160(relax):1	211(facility):1	262(website):1	407(superb):1	586(exactly):1	689(chance):1	
+0	
+0	
+11	6(breakfast):1	8(day):1	56(morning):1	165(start):1	215(fruit):1	225(la):1	230(road):1	264(market):1	485(delicious):1	1004(croissant):1	6688(boqueria):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>New Years Eve at Citadines Barcelona We stayed at Citadines Barcelona for 3 nights Dec 05.The location of this hotel is brilliant, on La Ramblas.Rooms were clean and a good size.I would definitely stay here again, sun terrace on the top floor is a must and also the food market across road.  
+<Date>Jan 4, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+10	3(clean):1	16(food):1	24(floor):1	59(definitely):1	83(size):1	118(top):1	230(road):1	264(market):1	420(sun):1	673(terrace):1	
+4	1(location):1	225(la):1	634(ramblas):1	793(brilliant):1	
+0	
+0	
+5	2(night):1	309(barcelona):2	1508(dec):1	1787(eve):1	9944(citadine):2	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Place to stay, but the coin has two sides My wife and myself just returned from a jouney of Barcelona, where we stayed at Citadines Ramblas.There is no necessity to add once more to the positives about the apartment hotel itself and its location, written in previous reviews.However I want to underlines those critics about the performance of the central booking facility of Citadines Barcelona and the attempt to get a confirmed reservation.Phone call plus email plus fax plus another phone call and still no confirmation, but the hotel is worthwhile the efforts.  
+<Date>Nov 6, 2005
+<Rating>4	4	4	-1	4	-1	-1	-1	
+<Aspects>
+7	67(call):2	203(plus):3	296(phone):2	1017(effort):1	1641(confirmation):1	2536(fax):1	2757(worthwhile):1	
+0	
+8	1(location):1	37(review):1	344(write):1	351(add):1	373(previous):1	458(positive):1	751(apartment):1	2984(necessity):1	
+0	
+0	
+0	
+14	18(book):1	39(return):1	156(reservation):1	168(central):1	184(wife):1	211(facility):1	309(barcelona):2	634(ramblas):1	982(confirm):1	1119(attempt):1	2947(performance):1	3424(coin):1	6225(critic):1	9944(citadine):2	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Excellent stay!       View of hotel from Pl de la Vila de Madrid (modern building to the right)  
+<Date>Sep 24, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+7	17(view):1	21(excellent):1	135(build):1	151(modern):1	225(la):1	1280(madrid):1	6819(pl):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>alexcaron59
+<Content>Une bonne adresse 脿 Barcelone ...       Carrefour au pied de l'h么tel  
+<Date>Aug 4, 2007
+<Rating>4	4	4	5	5	4	3	3	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+5	752(el):1	2716(au):1	7987(une):1	9583(carrefour):1	11131(l'h):1	
+0	
+
+<Author>Milie10
+<Content>Super emplacement pour d茅couvrir Barcelone 脿 pied       L'hotel vu depuis les Ramblas  
+<Date>Mar 27, 2007
+<Rating>4	4	4	5	3	5	4	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+6	464(super):1	634(ramblas):1	1764(pour):1	3304(les):1	7877(l'hotel):1	12734(vu):1	
+0	
+

@@ -1,0 +1,560 @@
+<Author>J_on_tourTyneandWear
+<Content>Great hotel It is difficult to find fault with this high standard hotel. The rooms were modern, sleek, clean and tidy while the bathroom with an emphasis on glass and marble were even better. The beds and pillows were one of the most comfortable i have used. The fridge was well stocked with not just drinks and the air conditioning worked fine when we discovered and closed the most marginal of gaps in the window. There was a CD / DVD option that we didnt have time to use and the TV channels included BBC and ITV! The breakfast room was cool and spacious with the hot range of food consisting of scrambled / boiled eggs, thin sliced bacon, some unusual dish of vegetables and a local spicy sausage. The rest of the buffet bar included a good choice of breads, local cheeses, ham, a fish option, cakes and the usual fruit and cereals. We found all the staff friendly and helpful with the breakfast staff being enthusiastic about clearing the small rubbish away from the tables. We did not use the outdoor pool as the opening times were 10am - 8pm and we were never in before 7.30pm. There were two small grocery stores and a useful postbox (its the only one we saw) nearby with Urgell metro station 5 - 6 minutes stroll down the road.  
+<Date>Dec 30, 2008
+<Rating>5	5	5	3	5	5	5	-1	
+<Aspects>
+9	5(time):1	22(pool):1	130(standard):1	393(pm):1	517(fault):1	572(difficult):1	901(outdoor):1	7512(10am):1	9438(8pm):1	
+0	
+31	3(clean):1	5(time):1	11(bed):1	13(bathroom):1	25(comfortable):1	28(close):1	63(drink):1	71(include):1	113(fine):1	116(tv):1	119(window):1	151(modern):1	164(air):1	263(condition):1	303(pillow):1	318(fridge):1	327(glass):1	336(option):1	599(stock):1	626(didnt):1	705(marble):1	741(channel):1	869(discover):1	1100(tidy):1	1364(dvd):1	1729(cd):1	2616(sleek):1	2726(gap):1	2997(bbc):1	4680(marginal):1	5675(emphasis):1	
+17	0(staff):2	6(breakfast):1	12(friendly):1	14(helpful):1	29(minute):1	82(station):1	229(table):1	230(road):1	232(nearby):1	235(metro):1	255(store):1	1056(stroll):1	1199(grocery):1	1232(useful):1	2664(rubbish):1	3456(enthusiastic):1	11884(urgell):1	
+0	
+0	
+33	6(breakfast):1	16(food):1	27(bar):1	71(include):1	77(buffet):1	107(choice):1	111(spacious):1	114(hot):1	195(local):2	215(fruit):1	278(cool):1	288(rest):1	336(option):1	412(egg):1	441(cheese):1	497(bread):1	529(cereal):1	653(fish):1	682(usual):1	714(range):1	754(thin):1	816(dish):1	1029(cake):1	1057(bacon):1	1185(consist):1	1385(sausage):1	1561(ham):1	1598(boil):1	1610(unusual):1	1674(scramble):1	2024(slice):1	2262(vegetable):1	5667(spicy):1	
+0	
+
+<Author>qtverse
+<Content>Nice hotel       Bathroom  
+<Date>Dec 20, 2008
+<Rating>4	4	4	4	5	5	4	3	
+<Aspects>
+0	
+0	
+2	4(nice):1	13(bathroom):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>alanfar
+<Content>Noise next door We spent three nights in the Acevi Villarroel Hotel. Our initial impression of the establishment was positive: the reception staff were friendly and helpful and found us a 'quiet' room at the rear of the hotel on Floor 6. Spotlessly clean bed area and bathroom, serviced daily, with good, albeit standard, fittings and a free safe (some places charge up to 3Euros from reports I've read). There is no bar, which I think is a good thing, and whilst we didn't try the restaurant, both the evening dining and room service menus seemed reasonably priced, unlike the breakfast tariff which at 14Euros sounds outrageously expensive - like many before, we found a decent enough cafe further down the road on the opposite block where we were able to buy a Cafe con leche and croissant for 2Euros per person.The down side: whilst we could barely hear the traffic noise, our neighbouring room unfortunately was occupied by loud (or very deaf) people (who were obviously practising their tap dance routine on the wooden floor) with apparently little appreciation of either accoustics and other guests who might wish to go to sleep before 1.30 am! There was a locked link door to this adjoining unit, presumably intended to open to provide a family room for those with kids, which certainly didn't help, but the walls appeared to be of the standard (I hesitate to use the much-repeated phrase) paper-thin variety!The Urgell metro stop is a handy 2 minutes away and the bus service to the airport is excellent - just two blocks from the hotel and taking 20 minutes (4Euros each), so don't bother arranging a taxi. In summary, though the room noise didn't really spoil our break, it did rather detract from an otherwise good, well located hotel, and I wouldn't stay there again for that reason alone.  
+<Date>Nov 27, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	2(night):1	54(door):1	64(spend):1	94(noise):1	
+0	
+72	0(staff):1	3(clean):1	9(service):1	11(bed):1	12(friendly):1	13(bathroom):1	14(helpful):1	23(little):1	24(floor):2	26(people):1	46(free):1	54(door):1	58(quiet):1	84(locate):1	88(read):1	91(guest):1	92(help):1	94(noise):2	104(sleep):1	106(family):1	129(reception):1	130(standard):2	132(hear):1	136(charge):1	137(safe):1	153(provide):1	183(wall):1	201(kid):1	228(break):1	360(daily):1	374(reason):1	384(wish):1	413(variety):1	416(loud):1	458(positive):1	486(traffic):1	508(otherwise):1	524(unfortunately):1	541(appear):1	757(dance):1	774(lock):1	781(obviously):1	838(report):1	848(impression):1	863(apparently):1	877(whilst):1	902(hesitate):1	934(neighbour):1	980(unit):1	1020(barely):1	1094(spotlessly):1	1221(spoil):1	1412(adjoin):1	1473(establishment):1	1504(tap):1	1678(occupy):1	1716(summary):1	1727(link):1	1756(wooden):1	1862(intend):1	2007(rear):1	2074(initial):1	2083(albeit):1	2203(practice):1	2379(fitting):1	2764(phrase):1	3594(routine):1	3750(detract):1	4424(presumably):1	4964(appreciation):1	6080(paper-thin):1	7026(deaf):1	
+13	9(service):1	21(excellent):1	29(minute):2	95(airport):1	100(bloc):1	120(bus):1	122(stop):1	185(taxi):1	235(metro):1	307(bother):1	680(arrange):1	755(handy):1	11884(urgell):1	
+0	
+0	
+26	6(breakfast):1	9(service):1	10(restaurant):1	19(price):1	27(bar):1	76(try):1	100(bloc):1	124(expensive):1	171(able):1	193(person):1	230(road):1	257(decent):1	275(cafe):2	280(buy):1	316(dine):1	409(sound):1	423(menu):1	578(reasonably):1	783(opposite):1	840(Con):1	877(whilst):1	1004(croissant):1	1163(unlike):1	4403(outrageously):1	5152(tariff):1	5931(leche):1	
+0	
+
+<Author>IrishWedding
+<Content>Excellent Hotel We recently stayed in this hotel where we were planning on exploring Barcelona. It is an excellent value for money hotel, spotlessly clean, facilities are good. We were very impressed with the free internet access on every floor. Most hotels you have to pay locally so this was good. The rooms were above average in my opinion. Bathrooms were particularly nice with v.good air conditioning in our room. The hotel pool was a bit small and they could do with a few more sunbeds at the pool, even if you don't go swimming, it was nice to sit by the pool and enjoy the sun.This hotel is about a 15min walk to the main city centre square/La Rambla, this is fine if you have 'comfy shoes', I didn't so thought the walk was a bit long until I purchased new shoes!!!!! Be prepared for a lot of walking in Barcelona but it was quiet an impressive city and the shopping is fantastic!!!!Overall, I would recommend the hotel and I would stay there again if I was going back.  
+<Date>Sep 3, 2008
+<Rating>4	5	5	3	5	4	5	5	
+<Aspects>
+2	15(recommend):1	70(overall):1	
+8	3(clean):1	21(excellent):1	42(pay):1	80(money):1	81(value):1	211(facility):1	1094(spotlessly):1	3231(locally):1	
+25	4(nice):2	7(walk):2	13(bathroom):1	22(pool):3	41(city):1	51(enjoy):1	52(bit):2	101(center):1	112(main):1	113(fine):1	139(square):1	164(air):1	169(sit):1	227(average):1	261(swim):1	263(condition):1	420(sun):1	475(comfy):1	553(particularly):1	704(opinion):1	887(purchase):1	1191(shoe):2	1377(rambla):1	2826(sunbed):1	5013(15min):1	
+9	7(walk):1	38(lot):1	41(city):1	49(shop):1	58(quiet):1	86(fantastic):1	309(barcelona):1	460(prepare):1	920(impressive):1	
+0	
+0	
+5	21(excellent):1	221(plan):1	309(barcelona):1	322(recently):1	594(explore):1	
+5	24(floor):1	46(free):1	97(internet):1	159(access):1	343(impress):1	
+
+<Author>jpgaudi
+<Content>If you like Minimalism! In some areas this hotel takes minimalism a little too far - a complete lack of drawer storage space in the bedroom and no character to the bedrooms - white blank walls with no pictures or adornments. There is also a shortage of plug sockets and quite what the socket 5 foot up in the middle of a blank wall is for we could not work out!The rooms themselves are clean and very functional although if you take a triple room and have a child with you (as we did) be prepared to fall over yourselves. We were spending a few days in Barcelona after a cruise and there was more storage and hanging space in our smaller cabin on the boat that there was in this hotel room.On the pictures the bathrooms looked fabulous - however what looks like marble is actually plastic tiles and some of the fittings are cheap and falling apart. The hot water regulator in our room didn't work properly and the shower only varied between hot and boiling - and changed of its own accord!!The hotel is however clean and pleasant and the staff friendly and helpful. The restaurant was good (the menu was a little limited) and reasonably priced.In positional terms its a little too far form Catalunya Square and Le Rambles - its an OK walk in the morning when you are fresh and its not too hot - but after a tiring day sightseeing its seems a long way back to the hotel. A bit off the beaten track and not in the most solubrious surroundings - not really positioned where we would expect a 4 star hotel to be.I would not rank this as a four star hotel (more like 3 and a half - we were never offered any help to get cases to and from our room and had to put them into and get them out of the storage cupboard ourselves). Really more a business man's hotel than a family hotel - you will be relatively comfortable here and we have stayed in far worse!  
+<Date>Aug 20, 2008
+<Rating>3	4	2	2	4	3	3	4	
+<Aspects>
+1	11566(minimalism):1	
+14	10(restaurant):1	19(price):1	23(little):1	89(offer):1	92(help):1	103(star):1	283(half):1	423(menu):1	510(limit):1	578(reasonably):1	767(ourselves):1	1311(storage):1	1795(rank):1	2374(cupboard):1	
+47	3(clean):1	8(day):1	13(bathroom):1	20(look):2	23(little):1	57(water):1	61(shower):1	64(spend):1	114(hot):2	143(cheap):1	161(change):1	166(own):1	180(actually):1	183(wall):1	210(space):2	268(bedroom):2	270(fabulous):1	277(child):1	309(barcelona):1	349(lack):1	456(picture):2	460(prepare):1	466(white):1	478(hang):1	587(fall):2	603(cruise):1	622(complete):1	674(boat):1	705(marble):1	846(tile):1	857(apart):1	1049(character):1	1059(themselves):1	1144(properly):1	1311(storage):2	1347(plastic):1	1348(functional):1	1426(drawer):1	1553(triple):1	1578(varied):1	1598(boil):1	2019(accord):1	2379(fitting):1	4152(cabin):1	4425(yourselves):1	4687(blank):1	11566(minimalism):1	
+34	7(walk):1	8(day):1	23(little):1	25(comfortable):1	50(bad):1	52(bit):1	56(morning):1	62(expect):1	103(star):1	106(family):1	114(hot):1	123(ok):1	139(square):1	147(business):1	183(wall):1	197(fresh):1	325(middle):1	402(foot):1	442(beat):1	454(tire):1	640(sight-see):1	913(relatively):1	1011(term):1	1093(position):1	1133(le):1	1164(form):1	1174(plug):1	1278(catalunya):1	1551(surroundings):1	1766(track):1	2930(shortage):1	3925(ramble):1	4040(socket):2	4687(blank):1	
+5	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	150(pleasant):1	
+0	
+0	
+0	
+
+<Author>tapper70
+<Content>loved the acevi villaroel Just returned from a long weekend with a few friends, and had a lovely time. Hotel reception staff were so helpful and the rooms nice and clean. In a quieter area, but does not take long to walk to busier areas, like las ramblas. When it got hot it was really great to have the pool and just relax for a bit. Only negatives, probably not enough sunbeds and the pool is quite small. Overall would definately recommend it and if I go back to barcelona would stay here again.  
+<Date>Aug 18, 2008
+<Rating>5	4	5	4	5	5	5	5	
+<Aspects>
+10	5(time):1	22(pool):1	39(return):1	40(love):1	52(bit):1	87(lovely):1	114(hot):1	146(friend):1	160(relax):1	172(weekend):1	
+0	
+4	22(pool):1	178(probably):1	282(negative):1	2826(sunbed):1	
+5	7(walk):1	58(quiet):1	220(busy):1	634(ramblas):1	834(las):1	
+0	
+5	0(staff):1	3(clean):1	4(nice):1	14(helpful):1	129(reception):1	
+4	15(recommend):1	70(overall):1	309(barcelona):1	410(definately):1	
+0	
+
+<Author>Lara33
+<Content>Not good value for money I have rarely been to a hotel with such unhelpful staff; with a few exceptions, staff hardly spoke any English and were extremely unflexible when faced with requests. We were given a noisy room and were unable to change it; when we were 5 mins late for breakfast one day (upon having been misinformed upon our arrival on the previous day by a receptionist struggling with English), one of the staff denied us entry to the breakfast room. On four (!) occasions, phonecalls from abroad could not be put through to our room because the person on night shift did not know how to do it (this might be due to the hotel catering to Spanish guests primarily who use their own mobile phones). When we asked whether it was possible to keep the room an hour longer on our day of departure, yet again, our request was denied in a very unfriendly way.On the positive side, the rooms are clean and nicely furnished, and there is free wireless internet in the rooms. If you don't mind the bad service and decide to go for this hotel, make sure to ask for a room which does not face the street!  
+<Date>Aug 6, 2008
+<Rating>1	1	3	3	4	1	1	4	
+<Aspects>
+0	
+0	
+32	2(night):1	3(clean):1	8(day):1	9(service):1	35(street):1	46(free):1	50(bad):1	60(hour):1	91(guest):1	97(internet):1	148(request):1	166(own):1	193(person):1	219(decide):1	259(due):1	294(mind):1	296(phone):1	369(spanish):1	404(nicely):1	458(positive):1	717(wireless):1	787(furnish):1	871(occasion):1	1000(cater):1	1031(departure):1	1487(unfriendly):1	2479(shift):1	2519(primarily):1	3067(deny):1	3241(mobile):1	3868(abroad):1	11531(phonecalls):1	
+0	
+0	
+25	0(staff):3	6(breakfast):2	8(day):2	79(late):1	80(money):1	81(value):1	110(extremely):1	127(speak):1	148(request):1	152(english):2	161(change):1	217(noisy):1	224(arrival):1	247(min):1	373(previous):1	855(receptionist):1	985(hardly):1	1128(exception):1	1461(unable):1	1618(unhelpful):1	1649(entry):1	1791(rarely):1	1979(struggle):1	3067(deny):1	10599(misinform):1	
+0	
+0	
+
+<Author>bevjane
+<Content>Clean, friendly hotel We booked this hotel at short notice for a three day break in Barcelona. It is situated in a quieter part of the city, about a 15 minute walk to the central square and the shops, bars and restaurant. This wasn't a problem though, as it was a pleasant enough walk. The hotel staff are very friendly and the rooms are beautifully clean and well furnished. There is free internet access provided with two computers on each floor. The breakfast selection in the dining room was not huge, but there was a varied selection of items available and we certainly had no complaints. I can recommend the chocolate pastries!!I would recommend this hotel. Nothing bad to say about it.  
+<Date>Aug 2, 2008
+<Rating>5	4	5	3	5	5	5	5	
+<Aspects>
+4	15(recommend):2	50(bad):1	632(chocolate):1	652(pastry):1	
+0	
+23	0(staff):1	3(clean):1	6(breakfast):1	7(walk):1	10(restaurant):1	12(friendly):1	27(bar):1	29(minute):1	41(city):1	49(shop):1	58(quiet):1	133(huge):1	134(available):1	139(square):1	168(central):1	190(complaint):1	316(dine):1	333(selection):2	519(item):1	574(situate):1	771(beautifully):1	787(furnish):1	1578(varied):1	
+2	7(walk):1	150(pleasant):1	
+0	
+0	
+8	3(clean):1	8(day):1	12(friendly):1	18(book):1	144(short):1	228(break):1	309(barcelona):1	354(notice):1	
+6	24(floor):1	46(free):1	97(internet):1	153(provide):1	159(access):1	555(computer):1	
+
+<Author>InspirationLondon
+<Content>Good but not really a design hotel I stayed at this hotel 2 years ago and more or less the standard hasn't changed. Good location if you want to be in the Eixample, it's about 10 to 15 mins walk to Paseig de Gracia (for shopping) and Ramblas, but at night you'd want to use taxis to get around. Rooms are nice and comfy, even though they are starting to show the first signs of wear and tear (which is not that stilish to me). This time I tried the breakfast room (breakfast was included in the room rate): there's a good variety of food and nice wholemeal croissants (never seen these before), but not sure the whole lot is worth 鈧?15,00 per person per day (if you have to pay it separately)? Pool is very small and the gym is tiny (more like a small area with free weights and a treadmill rather than gym). Still a good option if you just want to burn the extra calories from an evening out eating tapas :-). Overall a good hotel with good services and a decent standard, but don't expect the Hilton or Mandarin Oriental! :-D  
+<Date>Jul 18, 2008
+<Rating>3	3	3	3	4	3	3	-1	
+<Aspects>
+10	47(eat):1	128(extra):1	130(standard):1	161(change):1	336(option):1	516(design):1	633(ago):1	1289(burn):1	1455(tapa):1	5877(calorie):1	
+6	4(nice):1	165(start):1	434(wear):1	449(sign):1	475(comfy):1	1605(tear):1	
+0	
+15	1(location):1	2(night):1	7(walk):1	22(pool):1	46(free):1	49(shop):1	185(taxi):1	247(min):1	338(tiny):1	523(gym):2	634(ramblas):1	1582(weight):1	2212(treadmill):1	2525(gracia):1	5645(eixample):1	
+0	
+0	
+23	4(nice):1	5(time):1	6(breakfast):2	8(day):1	9(service):1	16(food):1	38(lot):1	42(pay):1	62(expect):1	70(overall):1	71(include):1	78(rate):1	96(worth):1	130(standard):1	193(person):1	253(tried):1	257(decent):1	413(variety):1	477(hilton):1	1004(croissant):1	1616(Oriental):1	1954(mandarin):1	4042(separately):1	
+0	
+
+<Author>ceeceeAmsterdam
+<Content>Disappointing We reserved parking at the hotel and even phoned the hotel to confirm this. Upon arrival the receptionist told us in a very rude and dismissive manner that the parking was full and that we'd have to park elsewhere. The elsewhere turned out to cost 23 euros a day and was quite far from the hotel. My husband then asked to see the manager who was even less accomodating and extremely unpleasant. She had a contradicting story and said that the parking had flooded. She also pointed out that a person should choose a hotel for the room and not the parking!There was also a terrible smell of sewage in the elevator which also filled our room and did not make for a very romantic ambiance (perhaps it was the flooded carpark.)At times there was no hot water and we ended up taking cold showers. We were all in all rather disappointed with the hotel and do not think it is worthy of 4 stars.  
+<Date>Apr 7, 2008
+<Rating>1	2	3	3	5	1	1	5	
+<Aspects>
+0	
+12	8(day):1	103(star):1	105(husband):1	110(extremely):1	154(disappoint):1	175(cost):1	256(euro):1	258(manager):1	549(accomodate):1	646(elsewhere):1	1747(unpleasant):1	2923(worthy):1	
+8	5(time):1	57(water):1	61(shower):1	66(park):1	114(hot):1	167(choose):1	193(person):1	222(cold):1	
+3	66(park):1	906(story):1	1927(flood):1	
+0	
+8	66(park):2	69(tell):1	224(arrival):1	392(rude):1	646(elsewhere):1	855(receptionist):1	1721(manner):1	7461(dismissive):1	
+14	66(park):1	154(disappoint):1	216(elevator):1	231(smell):1	296(phone):1	432(terrible):1	491(fill):1	506(reserve):1	707(romantic):1	957(ambience):1	982(confirm):1	1927(flood):1	3237(sewage):1	4557(carpark):1	
+0	
+
+<Author>Elparaiso
+<Content>Not bad all round Stayed for four nights based on tripadvisor reviews. The hotel is quite well located, a couple of minutes from Urgell metro stop and under 15 minutes walk from Las Ramblas. The room was modern, stylish and clean. It had a bath with shower and separate shower, which is great if you want to avoid a fight over who gets up first. We had a double room which was really a twin with two beds pushed together. Not the best but the beds were comfy enough.Made little use of staff at reception, but they were friendly and efficient and spoke good English. Did not take the breakfast as I found the 14 euro price a little rich. Happy enough to go out and get something elsewhere. Took a taxi to the airport at the end of my stay to avoid metro/train hassle and it came to 20 euros before tip.Overall happy enough with my stay, but it is not the cheapest accommodation for its class and if I return I will probably book elsewhere.  
+<Date>Mar 9, 2008
+<Rating>3	3	4	4	4	4	4	-1	
+<Aspects>
+7	2(night):1	37(review):1	50(bad):1	155(happy):1	284(base):1	597(tripadvisor):1	646(elsewhere):1	
+14	6(breakfast):1	18(book):1	19(price):1	23(little):1	39(return):1	70(overall):1	143(cheap):1	155(happy):1	178(probably):1	256(euro):1	470(class):1	646(elsewhere):1	721(accommodation):1	2350(rich):1	
+13	3(clean):1	11(bed):2	61(shower):2	151(modern):1	179(double):1	226(bath):1	436(avoid):1	474(separate):1	475(comfy):1	690(twin):1	961(stylish):1	1041(push):1	1759(fight):1	
+15	7(walk):1	29(minute):2	84(locate):1	95(airport):1	99(couple):1	122(stop):1	185(taxi):1	194(tip):1	235(metro):2	256(euro):1	436(avoid):1	634(ramblas):1	834(las):1	1193(hassle):1	11884(urgell):1	
+0	
+7	0(staff):1	12(friendly):1	23(little):1	127(speak):1	129(reception):1	152(english):1	401(efficient):1	
+0	
+0	
+
+<Author>rbrys
+<Content>Great hotel ! I spent only few days in Barcelona and needed to stay in a hotel with a close location to the main attractions. I was travelling with my wife and 2 years old daughter so we were looking for some quiet location.The hotel was just exactly what we were looking for. It's really new, with well furnished rooms and wide range of services. The junior suite we took surprised us: it offered a lot of space and comfort. Big plasma in the living room, some smaller LCD in the bedroom, jaccuzzi, shower and a lot of stuff that came out to be really helpful as one of our bag had been lost during the trip.The staff is really friendly and helpful, no problem with english and arranging things.You can find bus stops and subway station close to the hotel and it takes only 15 minutes to get the to the main square of the city.We spent there wonderful time and it acctually convinced us it's possible to go around and visit cities having a lot of fun with a small kid.  
+<Date>Feb 23, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+2	20(look):1	586(exactly):1	
+0	
+28	1(location):1	9(service):1	14(helpful):1	20(look):1	33(trip):1	38(lot):2	58(quiet):1	61(shower):1	68(travel):1	89(offer):1	108(suite):1	184(wife):1	199(surprise):1	206(live):1	210(space):1	268(bedroom):1	290(bag):1	467(daughter):1	480(stuff):1	596(lose):1	702(comfort):1	714(range):1	787(furnish):1	860(wide):1	964(junior):1	1500(plasma):1	1773(lcd):1	8045(jaccuzzi):1	
+21	1(location):1	5(time):1	8(day):1	28(close):2	29(minute):1	38(lot):1	41(city):2	48(wonderful):1	64(spend):2	65(visit):1	82(station):1	112(main):2	120(bus):1	122(stop):1	139(square):1	176(fun):1	201(kid):1	309(barcelona):1	350(attraction):1	370(subway):1	2388(convince):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	152(english):1	680(arrange):1	
+0	
+0	
+
+<Author>Gillym32
+<Content>Nice Hotel Stayed here for 3 nights from 1st - 4th February with a group of 8 girls. The hotel is lovely, modern, clean and the staff were very friendly and helpful.The only thing that upset us was that when we arrived at the hotel around 5.00 p.m. that we were told the kitchens don't open until 8.30 p.m. and we couldn't get anything at the bar or any room service. The kitchens are open from 7.30 a.m. to 10.30 a.m. then from 8.30 p.m. to 11.30 p.m.. In between those times there is no food available. We went out in search of somewhere to eat but there is not many restaurants around the area.The hotel itself is a 10-15 min walk to Las Ramblas when you get your bearings but the hotel ring for taxis for you and they are very cheap.The breakfast was nice with a great variety of foods both hot and cold. Plenty of bread, cakes, fruit, youghurt, cheese, meats, salmon, juices and cooked foods, e.g. omlettes, sausages, rashers, eggs. I tried some of the cooked foods and didn't really like them so I just stuck with toast, cheese  ham.The bar is quite small but the drink is very cheap. We had a few there before heading off to different locations.All in all I would stay there again but would prefer a hotel nearer the sites and within short walks of restaurants and bars etc..We didn't use the spa or pool facilities. We tried to book some treatments before we went but were told there was no facilities. I think maybe the staff didn't understand us but there are lovely treatments available, we just didn't avail!We had to fly to Reus Airport as our flights were cancelled to Barcelona. We used the bus transfer from Reus to Barcelona for 鈧?0 return. The only thing was the bus company only put one coach on and that was full, they did organise a 2nd coach after about 20 minutes. Coming back on it the same thing happened and this was a bit of a mess and there was a delay too. We didn't miss our flight but it just added to the travelling times so I would definitely fly directly into Barcelona the next time I travel there.We went on the open top bus on the Sunday but the heavens opened and we didn't get to see many sites, but these things happen and we'll just have to return to see them again!!  
+<Date>Feb 6, 2008
+<Rating>5	4	5	3	5	5	5	5	
+<Aspects>
+9	2(night):1	4(nice):1	52(bit):1	382(happen):1	625(girl):1	845(4th):1	1230(february):1	1351(delay):1	1644(mess):1	
+0	
+14	5(time):2	59(definitely):1	68(travel):2	95(airport):1	233(flight):2	276(miss):1	309(barcelona):2	351(add):1	383(directly):1	461(kitchen):1	614(fly):2	1065(cancel):1	1466(p.m):2	11891(reus):1	
+34	1(location):1	7(walk):2	10(restaurant):1	22(pool):1	27(bar):1	29(minute):1	39(return):2	73(etc):1	102(near):1	118(top):1	120(bus):3	143(cheap):1	144(short):1	185(taxi):1	192(site):2	211(facility):1	247(min):1	309(barcelona):1	314(spa):1	382(happen):1	536(prefer):1	634(ramblas):1	760(company):1	834(las):1	844(sunday):1	1021(transfer):1	1150(ring):1	1167(organize):1	1326(2nd):1	1363(heaven):1	1437(heading):1	2600(coach):2	4344(bearing):1	11891(reus):1	
+6	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	87(lovely):1	151(modern):1	
+7	0(staff):1	87(lovely):1	134(available):1	308(maybe):1	391(understand):1	1147(treatment):1	3122(avail):1	
+39	4(nice):1	5(time):1	6(breakfast):1	9(service):1	10(restaurant):1	16(food):4	18(book):1	27(bar):2	47(eat):1	53(arrive):1	63(drink):1	69(tell):2	114(hot):1	134(available):1	143(cheap):1	158(plenty):1	211(facility):1	215(fruit):1	222(cold):1	253(tried):2	362(juice):1	412(egg):1	413(variety):1	441(cheese):2	461(kitchen):1	497(bread):1	550(cook):2	677(meat):1	688(stick):1	875(toast):1	1029(cake):1	1147(treatment):1	1220(upset):1	1248(search):1	1385(sausage):1	1466(p.m):2	1561(ham):1	2376(salmon):1	3959(omlett):1	
+0	
+
+<Author>Raymondas
+<Content>Flawless stay We made a booking having relied on previous reviews. It's great that our expectations were neatly matched by reality. Due to flight resheduling we arrived late at night and were warmly and promptly checked in. Despite the late hour the receptionist kindly advised us on places to visit and supplied us with the city map. The room itself proved to be modest but well kept. The bathroom was modern and cosy at the same time. Throughout our stay we were spending most our time exploring the city so we showed up at the hotel at nightime only and were always glad to find the room properly tidied. The hotel is situated a bit away from the main attractions so we had a good chance to have meals at several nearby non-touristy places and get soaked through with the city air. Getting to the center wasn't problem either - a nice 10 minutes by foot or approx. the same time by tube. Recommended.  
+<Date>Jan 28, 2008
+<Rating>4	5	4	4	5	5	4	5	
+<Aspects>
+1	15(recommend):1	
+4	431(expectation):1	1476(match):1	2260(reality):1	5607(neatly):1	
+32	2(night):1	5(time):2	13(bathroom):1	32(check):1	41(city):2	52(bit):1	53(arrive):1	64(spend):1	79(late):1	112(main):1	151(modern):1	164(air):1	213(meal):1	232(nearby):1	233(flight):1	259(due):1	350(attraction):1	445(throughout):1	574(situate):1	594(explore):1	619(glad):1	689(chance):1	749(cozy):1	1100(tidy):1	1144(properly):1	1212(promptly):1	1468(soak):1	1554(prove):1	2438(warmly):1	2553(modest):1	6404(nightime):1	8703(non-touristy):1	
+2	5(time):1	1310(tube):1	
+0	
+10	41(city):1	60(hour):1	65(visit):1	79(late):1	498(despite):1	663(advise):1	724(map):1	855(receptionist):1	859(supply):1	2509(kindly):1	
+5	18(book):1	37(review):1	373(previous):1	2327(rely):1	2873(flawless):1	
+5	4(nice):1	29(minute):1	101(center):1	402(foot):1	1423(approx):1	
+
+<Author>Bluemilky1968
+<Content>Great base for exploring This hotel is situated about 15 minute walk from Las Ramblas but there is a metro station 2 mins away with a direct line to the main tourist area.The hotel was very clean and the staff very helpful, although we did not use the spa or swimming pool there is free internet access on each floor for guests to use. Breakfast was ok but as it was not included in our booking it was expensive at 13 euros each. Our room was ok in size however the walls are very thin and you can hear everthing in the corridor but did not affect our enjoyment.  
+<Date>Jan 26, 2008
+<Rating>4	4	3	4	5	4	4	4	
+<Aspects>
+0	
+0	
+9	83(size):1	123(ok):1	132(hear):1	183(wall):1	754(thin):1	1073(corridor):1	2082(affect):1	3036(enjoyment):1	3464(everth):1	
+14	7(walk):1	29(minute):1	82(station):1	112(main):1	188(line):1	209(tourist):1	235(metro):1	247(min):1	284(base):1	574(situate):1	594(explore):1	634(ramblas):1	803(direct):1	834(las):1	
+0	
+0	
+6	6(breakfast):1	18(book):1	71(include):1	123(ok):1	124(expensive):1	256(euro):1	
+11	0(staff):1	3(clean):1	14(helpful):1	22(pool):1	24(floor):1	46(free):1	91(guest):1	97(internet):1	159(access):1	261(swim):1	314(spa):1	
+
+<Author>DublinSar
+<Content>Very pleasant stay... We have just returned from Acevi Villarroel where we had a very pleasant stay indeed. Certainly a hotel we'd recommend, thats located in a quiet area but within walking distance of Las Ramblas (about 15 mins) and very near a Metro stop called Urgell (5min stroll.) Lovely small bars and bakeries nearby with alot of restaurant choice in the area too (inc. a Vegetarian). Overall interior of the hotel was very positive with a clean, modern decor and friendly staff. The room was again very modern with a really comfortable bed which is a definite plus! On the downside however there was a really odd gap around the bathroom door which meant sharing the room can be an interesting experience (!!) a bad design flaw that sadly let the room down. This combined with the fact that the shower wasnt working (going hot and cold) for the 5 days we were there and even though we did tell the staff (twice) nothing was done to fix it! We would go back however as this was hopefully a once off experience!  
+<Date>Dec 10, 2007
+<Rating>4	4	3	5	5	3	3	5	
+<Aspects>
+3	39(return):1	150(pleasant):2	990(indeed):1	
+2	44(experience):1	1633(hopefully):1	
+33	0(staff):2	3(clean):1	8(day):1	11(bed):1	12(friendly):1	13(bathroom):1	25(comfortable):1	44(experience):1	50(bad):1	54(door):1	61(shower):1	69(tell):1	70(overall):1	114(hot):1	151(modern):2	203(plus):1	222(cold):1	246(mean):1	269(decor):1	347(twice):1	458(positive):1	494(fix):1	516(design):1	520(share):1	782(downside):1	1026(interior):1	1088(odd):1	1339(wasnt):1	2135(sadly):1	2316(combine):1	2369(definite):1	2726(gap):1	2808(flaw):1	
+16	7(walk):1	15(recommend):1	58(quiet):1	67(call):1	84(locate):1	102(near):1	115(distance):1	122(stop):1	235(metro):1	247(min):1	634(ramblas):1	834(las):1	1056(stroll):1	1198(thats):1	3577(5min):1	11884(urgell):1	
+0	
+0	
+9	10(restaurant):1	27(bar):1	87(lovely):1	107(choice):1	232(nearby):1	647(alot):1	1483(bakery):1	2392(vegetarian):1	4043(inc):1	
+0	
+
+<Author>learnlanguagesfast
+<Content>Modern, comfortable, friendly Modern hotel, suites are spacious, restaurant has good food yet very hard seats. Not that many bars and restaurants near the hotel but there is a great deli nearby and a cafe on the end of the street which does nice breakfasts (you can sit outside). Good location for town too with buses outside the hotel and a metro 2 blocks down.  
+<Date>Oct 31, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+9	10(restaurant):1	12(friendly):1	16(food):1	25(comfortable):1	108(suite):1	111(spacious):1	151(modern):2	162(hard):1	504(seat):1	
+6	1(location):1	98(outside):1	100(bloc):1	120(bus):1	235(metro):1	239(town):1	
+0	
+0	
+11	4(nice):1	6(breakfast):1	10(restaurant):1	27(bar):1	35(street):1	98(outside):1	102(near):1	169(sit):1	232(nearby):1	275(cafe):1	1928(deli):1	
+0	
+
+<Author>beccasparkles01
+<Content>so classy! we booked here very last minute and ended up paying a lot to stay here but it was well worth it - a really lovely hotel! we'd come from a trip around older parts of europe and this hotel - although business orientated and on the outskits of the city - was fantastic. very new and clean, superior bathroom decor, beautiful bed, desk, flowers, mini bar etc. quite spacious and cool which was nice as barcelona was hot! it's quite a walk to the main part of the city but is fine if you enjoy walking...maybe 15 minutes to la rambla. we had a really nice time here although i would recommend trying to get a deal where breakfast is included - always a good bonus and we missed out!  
+<Date>Oct 16, 2007
+<Rating>5	5	5	4	5	5	4	5	
+<Aspects>
+1	1488(classy):1	
+6	18(book):1	29(minute):1	38(lot):1	42(pay):1	87(lovely):1	96(worth):1	
+16	3(clean):1	4(nice):1	11(bed):1	13(bathroom):1	27(bar):1	36(desk):1	45(beautiful):1	73(etc):1	111(spacious):1	114(hot):1	269(decor):1	278(cool):1	309(barcelona):1	448(mini):1	778(flower):1	785(superior):1	
+14	7(walk):2	29(minute):1	33(trip):1	41(city):2	51(enjoy):1	86(fantastic):1	112(main):1	113(fine):1	147(business):1	225(la):1	308(maybe):1	700(europe):1	1377(rambla):1	6349(orientate):1	
+0	
+0	
+9	4(nice):1	5(time):1	6(breakfast):1	15(recommend):1	71(include):1	76(try):1	140(deal):1	276(miss):1	849(bonus):1	
+0	
+
+<Author>getzklein
+<Content>Great hotel! This hotel was fantastic! I would have rated it excellent if it weren't for the location being a little out of the way. I wanted to stay up in this area to see how locals live, but there was nothing going on. It wasn't a very long walk to La Rambla, etc, but I wouldn't recommend this location to people who want to walk everywhere.The hotel itself was awesome. The rooms were modern, new and nice. The staff was polite and helpful.I was happy with everything and would recommend this hotel. We had the opportunity to stay in the Born district for our first few nights in Barcelone, but we stayed in L'Eixample district when we got back to town before flying home. I would highly recommend others areas to stay in first, eventhough this was a great hotel.  
+<Date>Oct 8, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	15(recommend):2	86(fantastic):1	138(highly):1	155(happy):1	195(local):1	206(live):1	348(awesome):1	4631(eventhough):1	
+0	
+2	4(nice):1	151(modern):1	
+10	1(location):2	7(walk):2	15(recommend):1	21(excellent):1	23(little):1	26(people):1	73(etc):1	78(rate):1	225(la):1	1377(rambla):1	
+0	
+3	0(staff):1	14(helpful):1	422(polite):1	
+7	2(night):1	141(home):1	239(town):1	433(district):2	614(fly):1	1235(opportunity):1	3637(born):1	
+0	
+
+<Author>Deeliteful
+<Content>We loved this hotel and its location We (a group of 4 women of un certain age!) stayed here for 3 days. We loved the hotel.The rooms are lovely all glass and wood and the bathrooms are fab!The staff are very friendly and speak much better English than we do Spanish.Spa was great and the decking is lovely with really comfortable sun loungers around the pool (but - our only BUT - the pool is really shallow - less than a metre).We got a great rate via booking.com and it was worth every penny - great location - walking distance of Urgell Metro and even to Catalunya Sq (about 15-20 mins).Highly recommended.****  
+<Date>Sep 23, 2007
+<Rating>5	5	5	4	5	5	4	5	
+<Aspects>
+5	8(day):1	15(recommend):1	40(love):1	138(highly):1	5950(\*\*\*\*):1	
+0	
+5	13(bathroom):1	87(lovely):1	327(glass):1	1216(fab):1	1327(wood):1	
+17	1(location):2	7(walk):1	40(love):1	78(rate):1	96(worth):1	115(distance):1	235(metro):1	247(min):1	505(age):1	512(via):1	566(woman):1	1278(catalunya):1	1590(penny):1	1959(sq):1	2292(un):1	8467(booking.com):1	11884(urgell):1	
+0	
+5	0(staff):1	12(friendly):1	127(speak):1	152(english):1	369(spanish):1	
+9	22(pool):2	25(comfortable):1	87(lovely):1	314(spa):1	420(sun):1	1194(metre):1	1406(deck):1	1718(lounger):1	2314(shallow):1	
+0	
+
+<Author>BandJH
+<Content>Loved the Acevi We have just returned from a 5-night stay at the Acevi Villarroel and it was first class. We got a great deal via asiarooms.com.The rooms are ultra-modern, spacious and clean. Even had BBC1 on tv and a cd/dvd player! The staff are friendly and helpful. The restaurant and bar are good and serve food until 11.30pm. Buffet breakfast was more than adequate with plenty of choice which was ideal as I am diabetic.Each floor has two computers with free internet access using fast broadband connections.The hotel is centrally located - just 2 metro stops from La Rambla. Don't forget to buy 10 metro tickets for a good saving. For an excellent and inexpensive meal try CafeMama on Carrer Doctor Dou.Would also recommend a day trip to the mountain top monastery at Montserrat. 19.50 euros for a combination ticket from the station at Pl Espanya which includes metro/train/cable car/funicular - brilliant!!  
+<Date>Sep 16, 2007
+<Rating>5	5	5	5	4	5	5	5	
+<Aspects>
+16	8(day):1	15(recommend):1	33(trip):1	39(return):1	40(love):1	118(top):1	235(metro):1	280(buy):1	397(forget):1	425(save):1	470(class):1	621(ticket):1	1509(mountain):1	7353(5-night):1	8149(monastery):1	9943(montserrat):1	
+6	21(excellent):1	76(try):1	213(meal):1	1117(inexpensive):1	1875(doctor):1	6576(carrer):1	
+8	3(clean):1	111(spacious):1	116(tv):1	140(deal):1	512(via):1	1076(player):1	1729(cd):1	7107(ultra-modern):1	
+15	71(include):1	82(station):1	84(locate):1	121(car):1	122(stop):1	225(la):1	235(metro):2	256(euro):1	621(ticket):1	793(brilliant):1	879(centrally):1	1377(rambla):1	1929(combination):1	5682(espanya):1	6819(pl):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+12	6(breakfast):1	10(restaurant):1	16(food):1	27(bar):1	77(buffet):1	107(choice):1	158(plenty):1	174(serve):1	390(adequate):1	393(pm):1	545(ideal):1	12414(diabetic):1	
+8	24(floor):1	46(free):1	97(internet):1	159(access):1	499(fast):1	555(computer):1	932(connection):1	2825(broadband):1	
+
+<Author>John013
+<Content>My new favourite in Barcelona I booked this hotel on their website and got a great deal ! This hotel is DEFINITELY the place to stay in Barcelona !!! Great location in the heart of Barcelona鈥檚 Eixample.Wonderful lobby area with really comfortable and tasteful seating 鈥?WiFi throughoutOutdoor Swimming pool on 2nd floor which I dod not use, small boutique in lobby selling merchandise including bathing suits 鈥? Onsite SPA treatments and spa鈥?br/>I paid Euros 202 for 2 nights which was a great deal鈥?.my room was a roomy King on 7th floor, bathroom with a walk-in power shower and separate bathtub, twin sinks, laptop sized in room safe 鈥?well stocked mini bar 鈥?TV with English TV channels (ITV, and two-three BBC channels as well as CNN and BBC news) In room CD Player and stereo radio.Very high tech d茅cor and tasteful d茅cor 鈥?good amenities in the bathroom.Excellent Room Serviced Menu good value for money (Three course dinner room service with a full bottle of wine was Euros 32) excellent quality of food.Breakfast buffet is one of the best I have seen in Barcelona at any hotel. (Euros 12) I found it so refreshing to find a hotel in Barcelona with a GOOD product, excellent staff who all really enjoyed their roles and went out of their way to exceed your expectations, the hotel was full when I was there, which offers good value for money. I definitely recommend this hotel 鈥?if you can get a room, both dates I need in future are already sold out !! On 7th floor there were courtesy desktop PC鈥檚 with high speed Internet access available.Food  Beverage service and the Chef were TOP class !!  
+<Date>Sep 7, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+13	0(staff):1	21(excellent):1	51(enjoy):1	80(money):1	81(value):1	89(offer):1	256(euro):1	309(barcelona):1	431(expectation):1	1081(product):1	1153(exceed):1	1271(refresh):1	6195(role):1	
+36	13(bathroom):2	15(recommend):1	24(floor):1	27(bar):1	59(definitely):1	61(shower):1	83(size):1	116(tv):2	137(safe):1	152(english):1	243(king):1	291(amenity):1	448(mini):1	474(separate):1	509(sink):1	511(date):1	599(stock):1	606(sell):1	690(twin):1	732(future):1	741(channel):2	1023(bathtub):1	1076(player):1	1111(laptop):1	1276(power):1	1353(roomy):1	1725(news):1	1729(cd):1	1816(radio):1	2101(cnn):1	2122(tasteful):1	2367(walk-in):1	2951(7th):1	2997(bbc):2	3266(stereo):1	3836(tech):1	
+28	1(location):1	2(night):1	22(pool):1	24(floor):1	25(comfortable):1	42(pay):1	48(wonderful):1	55(lobby):2	71(include):1	140(deal):1	256(euro):1	261(swim):1	309(barcelona):1	314(spa):2	450(heart):1	504(seat):1	606(sell):1	623(boutique):1	861(suit):1	1147(treatment):1	1268(wifi):1	1326(2nd):1	1896(bathe):1	2122(tasteful):1	2629(onsite):1	3082(br):1	5645(eixample):1	6467(merchandise):1	
+0	
+0	
+24	6(breakfast):1	9(service):3	16(food):2	18(book):1	21(excellent):2	59(definitely):1	77(buffet):1	80(money):1	81(value):1	117(dinner):1	118(top):1	140(deal):1	187(quality):1	238(bottle):1	251(wine):1	256(euro):1	262(website):1	293(course):1	309(barcelona):3	376(favourite):1	423(menu):1	470(class):1	1334(beverage):1	1361(chef):1	
+9	24(floor):1	97(internet):1	134(available):1	159(access):1	1170(speed):1	1728(courtesy):1	2184(pc):1	2951(7th):1	9952(desk-top):1	
+
+<Author>trollgutten
+<Content>Very, very good Great hotel in a fairly quiet neighborhood. The reception staff is very helpfull. They recommended a restaurant called L'Olive(5 min walk from the hotel). It was excellent! If i go back to Barcelona i will stay at this hotel again:)  
+<Date>Aug 27, 2007
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+1	21(excellent):1	
+0	
+3	58(quiet):1	421(neighbourhood):1	462(fairly):1	
+5	7(walk):1	10(restaurant):1	15(recommend):1	67(call):1	247(min):1	
+0	
+3	0(staff):1	129(reception):1	1478(helpfull):1	
+1	309(barcelona):1	
+0	
+
+<Author>aquarius_em
+<Content>Reached all expectations Couldn't fault it! This beautiful hotel has everything you could wish for from cleanliness to amenities, service was superb, restaurant was amazing. Having stayed and (previously) worked in hotels I have high expectations and this hotel reached it. If you like class you are in your element.  
+<Date>Jul 29, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+2	470(class):1	3232(element):1	
+4	431(expectation):2	517(fault):1	851(reach):2	1122(previously):1	
+0	
+0	
+0	
+0	
+8	9(service):1	10(restaurant):1	45(beautiful):1	145(amaze):1	291(amenity):1	384(wish):1	407(superb):1	854(cleanliness):1	
+0	
+
+<Author>GiancarloRoma
+<Content>Great ... for the nigthlife lovers! Period: 20jul-23jul(3nigths)Price: 鈧?60,00 (per nigth - dbl)- LOCATION (5pts):just in the heart of the eixample area, few blocks from the nigthlife venues, walking distance from everything;- SERVICE (5pts):simple but efficient;- ROOM (5pts):modern design, pretty large (considering the price I paid);- BATH ROOM (3pts):it's ok ... but ... why do they use glass door for bathroom in Spain?- POOL (4pts):middle size but nice;- BUILDING (3pts):modern building in the eixample.  
+<Date>Jul 27, 2007
+<Rating>5	5	4	5	5	5	5	5	
+<Aspects>
+1	2568(lover):1	
+25	1(location):1	7(walk):1	9(service):1	13(bathroom):1	19(price):2	42(pay):1	54(door):1	100(bloc):1	109(pretty):1	115(distance):1	123(ok):1	151(modern):1	226(bath):1	248(consider):1	327(glass):1	401(efficient):1	450(heart):1	516(design):1	613(simple):1	1331(period):1	1636(spain):1	2190(venue):1	5645(eixample):1	8325(dbl):1	11783(nigth):1	
+7	4(nice):1	22(pool):1	83(size):1	135(build):2	151(modern):1	325(middle):1	5645(eixample):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>eddlemc
+<Content>great city! We stayed in accevi villarroel for five nights in June 2007. As a young couple, we were looking for somewhere relaxing, yet somewhere that was within walking distance of the city, and we were extremely happy with our choice! We found that the hotel lived up to everything that we had expected, and more! The hotel is situated in a lovely area, we felt extremely safe at all times of the day and night. we got the bus from the airport to the hotel, and it was very easy to find- using a great map that we got at tourist information at the airport. the room was fab- we were very impressed by the size of the room and the bathroom. the air conditioning was excellent and the bed was very comfy! We had a tv with a good selection of stations, a cd/ dvd player, and loads of little extras, from bottle openers to sewing kits! we found that the standard of cleanliness in the hotel was excellent. the pool is very small, and is surrounded by other apartments, but the sun deck is lovely, and it was so nice to be able to relax under the sun after a long day sight-seeing! the waiter service to the pool is excellent. we had six full days in barcelona, and we were kept extremely busy everyday as there is so much to do and see. the tourist bus, the bus touristic is excellent, and a two day pass is great value, as it is not possible to see everything in one day. Overall a great hotel,which we would definately recommend!  
+<Date>Jul 10, 2007
+<Rating>5	5	5	5	5	3	5	5	
+<Aspects>
+15	2(night):2	5(time):1	8(day):1	15(recommend):1	34(feel):1	41(city):1	62(expect):1	70(overall):1	87(lovely):1	110(extremely):1	137(safe):1	206(live):1	410(definately):1	574(situate):1	664(june):1	
+16	7(walk):1	8(day):2	20(look):1	21(excellent):1	41(city):1	81(value):1	99(couple):1	107(choice):1	110(extremely):1	115(distance):1	120(bus):2	155(happy):1	160(relax):1	209(tourist):1	400(pass):1	4163(touristic):1	
+22	11(bed):1	13(bathroom):1	21(excellent):1	23(little):1	82(station):1	83(size):1	116(tv):1	128(extra):1	164(air):1	238(bottle):1	263(condition):1	333(selection):1	343(impress):1	475(comfy):1	886(load):1	1076(player):1	1216(fab):1	1364(dvd):1	1729(cd):1	2773(kit):1	4241(opener):1	5888(sew):1	
+21	4(nice):1	8(day):2	22(pool):1	87(lovely):1	93(easy):1	95(airport):2	110(extremely):1	120(bus):1	160(relax):1	171(able):1	209(tourist):1	220(busy):1	309(barcelona):1	420(sun):2	605(everyday):1	640(sight-see):1	649(information):1	667(surround):1	724(map):1	751(apartment):1	1406(deck):1	
+3	21(excellent):1	130(standard):1	854(cleanliness):1	
+0	
+4	9(service):1	21(excellent):1	22(pool):1	735(waiter):1	
+0	
+
+<Author>Degas
+<Content>Good Business Hotel Had a night here in early April - just out of the main tourist area - about a 5 min cab ride, but convenient for the hospital. Good business hotel - wireless access in all rooms and PCs with internet acess on the landing. Pleasantly surprised to be upgraded to a 7th floor small suite on checking in - very roomy with teak floor and decor. Flash bathroom with loo/bidet in one room - large circular jacuzzi bath in another and multi jet shower in yet another!! Varied breakfast buffet next morning. Only criticism was the noise percolating into the street facing room overnight -was convinced that the fire alarm was going off at 6am - it was only an ambulance siren below - but felt like it was in the room!  
+<Date>Apr 13, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+31	13(bathroom):1	24(floor):2	32(check):1	34(feel):1	35(street):1	61(shower):1	94(noise):1	108(suite):1	163(upgrade):1	199(surprise):1	226(bath):1	269(decor):1	585(below):1	747(pleasantly):1	808(jacuzzi):1	1171(overnight):1	1262(fire):1	1353(roomy):1	1380(alarm):1	1589(jet):1	1912(circular):1	2049(criticism):1	2282(siren):1	2388(convince):1	2867(flash):1	2951(7th):1	3927(loo):1	4240(ambulance):1	5171(multi):1	7363(6am):1	10460(teak):1	
+9	2(night):1	112(main):1	147(business):1	186(convenient):1	209(tourist):1	218(ride):1	247(min):1	380(cab):1	1911(hospital):1	
+0	
+0	
+4	6(breakfast):1	56(morning):1	77(buffet):1	1578(varied):1	
+7	97(internet):1	147(business):1	159(access):1	717(wireless):1	1346(land):1	5208(pcs):1	6673(acess):1	
+
+<Author>noonie4
+<Content>4 star hotel without hot water Stayed in this hotel for 4 nights nov.2006. Lovely rooms ,Lovely bathroom but no hot water when we needed it! This was very disappointing as you don't expect this in a 4 star hotel. The hotel have said that we may be entitled to a part refund! Will keep you posted!  
+<Date>Nov 7, 2006
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	644(post):1	1492(refund):1	3524(entitle):1	
+7	2(night):1	57(water):1	62(expect):1	103(star):2	114(hot):1	154(disappoint):1	1763(nov):1	
+4	13(bathroom):1	57(water):1	87(lovely):2	114(hot):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Dave07
+<Content>Perfect for a long weekend city trip We visited Barcelona at the begining of October, for 4 days.The hotel proved to be a wise choice, since we wanted to visit the city as picture snapping tourists.Location: the neighbourhood is quite safe, enough restaurants and breakfast places (Dino Pan rules, just one street away from the hotel, going to Hospital Clinic). Easy access to Metro (2 stations within 10 minutes walk) and bus in front taking you to the harbour, beach, etc. Also, Aerobus (bus to airport) was around than 10min away from the hotel, if you did not feel like paying 20EUR to get there with a taxi (taxis seem quite cheap in Barcelona - compared to a glas of sangria for example).Hotel: the lobby looks bigger in pictures. The breakfast is too expensive considering the alternatives around the hotel. Otherwise, restaurant very nice (not expensive for main courses), staff very helpful (although their English is sometimes a challenge). The spa (sauna, jacuzzi, fitness) located in the basement were adequate, well maintained and not very busy. If you really want to sweat, you have to tell the reception beforehand to heat up the sauna more than 60degr Celsius. The pool from the second floor is tiny and flanked by other apartment blocks which stare at you while you sunbathe or try to swim....Room: Clean, reasonably large, shampoosco. provided daily. Minibar stocked, but with rather high prices. Our room was a standard double and featured bathtub and shower cabin. Our friends room, called the same, got only bathtub. A thing to consider maybe when checking in. Safe was present. Cleaning staff were very careful, nevertheless spoke nothing else but Spanish (bring your dictionary with you if you have no Latin friends, else you will end up ordering randomly in any restaurant).The neighbourhood of the hotel (about 3 blocks in any direction) is a gay paradise we assumed, since in the evenings, besides tourists (easily to spot), all the rest were paired accordingly and walking on the streets, going to the restaurants, etc.. No freaky stuff going on and no red light district feel or image in the area. Just that it looked to be a little different from this point of view, than other reviews pointed out (some might feel uneasy, especially in pubs or restaurants in the proximity of the hotel)....However, the location again of the hotel is VERY good, providing enough separation from the busy tourist center (worming with pocket thieves) and from the harbour-adjacent neighbourhoods, which are NOT suitable for returning late in the evenings, and yet offering easy access (i.e. either by walking 20 min to Gaudis houses or by using the metro for 20 min to get to Tibidabo Amusement Park) to any of the cities attractions.We would definitely go there again if we visit Barcelona in the future.  
+<Date>Oct 6, 2006
+<Rating>4	4	4	5	5	5	4	3	
+<Aspects>
+3	137(safe):1	153(provide):1	360(daily):1	
+25	0(staff):1	4(nice):1	6(breakfast):1	10(restaurant):1	14(helpful):1	19(price):1	41(city):1	65(visit):1	107(choice):1	112(main):1	124(expensive):2	152(english):1	209(tourist):1	248(consider):1	293(course):1	456(picture):1	508(otherwise):1	560(sometimes):1	599(stock):1	1037(minibar):1	1298(alternative):1	1554(prove):1	1676(wise):1	1708(challenge):1	4180(snap):1	
+27	3(clean):1	22(pool):1	24(floor):1	34(feel):1	61(shower):1	67(call):1	76(try):1	100(bloc):1	130(standard):1	146(friend):1	157(light):1	179(double):1	261(swim):1	338(tiny):1	433(district):1	480(stuff):1	578(reasonably):1	590(red):1	731(feature):1	751(apartment):1	1023(bathtub):2	2748(stare):1	2892(sunbathe):1	3371(image):1	4152(cabin):1	9920(flank):1	12127(freaky):1	
+79	1(location):2	6(breakfast):1	7(walk):3	10(restaurant):3	17(view):1	20(look):1	23(little):1	29(minute):1	30(beach):1	31(front):1	34(feel):2	35(street):2	37(review):1	39(return):1	41(city):1	42(pay):1	66(park):1	73(etc):2	79(late):1	82(station):1	84(locate):1	89(offer):1	93(easy):2	95(airport):1	100(bloc):1	101(center):1	120(bus):2	126(especially):1	137(safe):1	143(cheap):1	153(provide):1	159(access):2	185(taxi):2	209(tourist):2	220(busy):2	235(metro):2	247(min):2	281(house):1	288(rest):1	309(barcelona):1	314(spa):1	317(spot):1	350(attraction):1	381(compare):1	390(adequate):1	395(direction):1	421(neighbourhood):3	438(easily):1	561(harbor):1	562(maintain):1	748(Paradise):1	808(jacuzzi):1	954(example):1	983(fitness):1	1003(evening):2	1114(proximity):1	1332(besides):1	1393(pub):1	1407(assume):1	1422(sauna):1	1568(basement):1	1835(rule):1	1911(hospital):1	1967(suitable):1	2125(pan):1	2199(pocket):1	2207(pair):1	2552(gay):1	3508(accordingly):1	3961(aerobus):1	4050(10min):1	4512(thief):1	4556(clinic):1	5120(sangria):1	5288(uneasy):1	6182(amusement):1	8614(worm):1	9190(tibidabo):1	10045(separation):1	
+12	0(staff):1	3(clean):1	10(restaurant):1	127(speak):1	142(bring):1	146(friend):1	170(else):2	369(spanish):1	897(careful):1	2014(latin):1	4847(dictionary):1	6830(randomly):1	
+10	32(check):1	69(tell):1	129(reception):1	248(consider):1	308(maybe):1	539(heat):1	1422(sauna):1	2514(sweat):1	3180(beforehand):1	8936(celsius):1	
+14	8(day):1	20(look):1	33(trip):1	41(city):1	55(lobby):1	59(definitely):1	65(visit):2	74(perfect):1	172(weekend):1	309(barcelona):2	456(picture):1	732(future):1	911(october):1	5883(begine):1	
+0	
+
+<Author>amelda marcus
+<Content>Fantastic Hotel in a quieter area of Barcelona Stayed at the hotel for a week in September 2005. We wanted a hotel with a pool so that we could sightsee all day and then return and relax for a while at the pool side. The pool is small but it did the trick. Also the hotel did not charge for the towels for the sunbeds - that was a first!Staff were first class, both at reception and in the dining area. The breakfast was fantastic, fresh fruit ,coffee, bread, scrambled egg etc.The hotel was very clean and modern. The beds were huge and very comfortable and the bathroom was absolute luxury. We brought a few CDs with us and we found the whole experience very relaxing.The hotel is in a quieter area of Barcelona but only 15 minutes walk to Catalunia square. Strongly recommend eating at the Italian restaurant across the road from the hotel nicest pizzas I have ever tasted in my life.The 2 day tour on the sight seeing bus is worth every penny. I recommended the hotel to 2 other couples, who went at different times and they also had a great holiday.Also the airport bus stops not too far from the hotel and 7 euro for 2 one way it was great value.  
+<Date>Oct 5, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	5(time):1	15(recommend):1	99(couple):1	223(holiday):1	
+4	44(experience):1	142(bring):1	160(relax):1	5230(cds):1	
+18	7(walk):1	11(bed):1	13(bathroom):1	25(comfortable):1	29(minute):1	58(quiet):2	75(week):1	86(fantastic):1	125(towel):1	133(huge):1	136(charge):1	139(square):1	309(barcelona):2	437(luxury):1	972(september):1	1250(absolute):1	2826(sunbed):1	9331(catalunia):1	
+15	8(day):2	22(pool):3	39(return):1	81(value):1	95(airport):1	96(worth):1	120(bus):2	122(stop):1	160(relax):1	181(tour):1	256(euro):1	411(sight):1	640(sight-see):1	1590(penny):1	2614(trick):1	
+0	
+4	0(staff):1	129(reception):1	316(dine):1	470(class):1	
+21	3(clean):1	4(nice):1	6(breakfast):1	10(restaurant):1	15(recommend):1	47(eat):1	73(etc):1	86(fantastic):1	90(coffee):1	151(modern):1	197(fresh):1	215(fruit):1	230(road):1	358(italian):1	412(egg):1	426(life):1	439(taste):1	497(bread):1	678(pizza):1	1386(strongly):1	1674(scramble):1	
+0	
+
+<Author>Nutter08
+<Content>It's Beautiful! I have booked this room through hotelopia website for my sister's hen weekend for a very very resonable price.To be honest at first we all feel bit out of place and far too casual for this hotel, but then we ignored our fear and enjoyed our holiday. Its defo not the place for you to walk around in towel with nothing underneath!! Not that we minded of courseThe rooms.... wow.. its so modern. luxury, massive! couldn't ask for a better room, this is definetely by far the best hotel i have ever stayed in! The bathroom is so clean, i fell in love with that huge mirror and wash basin! The bed itself was sooo comfortable, never had the best night sleep in my life!! the pillows, i have check is hypoallergy, you have got nothing to worry about!it got sauna, jacuzzi, swimming pool, gym etc... what more can you ask for?? They even got an internet access one computer on every floor of the hotel! even better, free of charge!! So i was really pleased with my booking and we were off ready to explore the city itself, the staff could've been bit more informative about the direction especially to find the darn metro!!the first two days trying to find the metro (mind you not the whole day, did explore some other areas) failed miserably even with the hotel staff's drawings of a map on the paper.. at the end i finally found it and it was completely different directions from what the staff have drawn... but other than that they have been really helpful and booked taxi for us quite often.Restuarant was beautiful and the food was really lovely...only little downside of this hotel, they don't provide tea or coffee even in the room our elsewhere apart from breakfast... but there's a cafe that opens until very late just two doors away from the hotel! also resonably priced... that cafe even make lovely crepe would recommend anyone who love them!Think i better stop waffling now,one last question.. would i go back again??YES YES YES!!! without doubt!oh i forgot one little warning, they have a full lenght glass revolving door at the front, just be aware and try not to walk into it!! one of the girls in my group did! The staff wil help you if you did anyway! :)  
+<Date>Jul 19, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+18	34(feel):1	45(beautiful):1	51(enjoy):1	52(bit):1	122(stop):1	151(modern):1	223(holiday):1	250(yes):3	394(question):1	437(luxury):1	625(girl):1	952(doubt):1	1108(honest):1	1215(ignore):1	1329(massive):1	1557(waffle):1	1981(casual):1	2022(fear):1	
+7	15(recommend):1	19(price):1	40(love):1	87(lovely):1	275(cafe):1	2903(crape):1	8139(resonably):1	
+17	2(night):1	3(clean):1	11(bed):1	13(bathroom):1	25(comfortable):1	40(love):1	104(sleep):1	133(huge):1	294(mind):1	426(life):1	587(fall):1	811(wash):1	862(wow):1	1129(mirror):1	2679(sooo):1	2813(basin):1	2820(definetely):1	
+22	0(staff):1	7(walk):2	14(helpful):1	18(book):1	23(little):1	31(front):1	54(door):1	76(try):1	125(towel):1	185(taxi):1	327(glass):1	341(finally):1	395(direction):1	397(forget):1	542(completely):1	679(warn):1	832(aware):1	1620(draw):1	2459(underneath):1	4227(revolve):1	6960(defo):1	12037(lenght):1	
+0	
+27	0(staff):3	8(day):2	18(book):1	32(check):1	41(city):1	46(free):1	52(bit):1	76(try):1	92(help):1	126(especially):1	136(charge):1	173(please):1	235(metro):2	274(ready):1	294(mind):1	303(pillow):1	395(direction):1	417(anyway):1	594(explore):2	724(map):1	776(paper):1	831(worry):1	1576(fail):1	1976(informative):1	4499(darn):1	5860(wil):1	9651(miserably):1	
+28	6(breakfast):1	16(food):1	18(book):1	19(price):1	22(pool):1	23(little):1	45(beautiful):1	54(door):1	73(etc):1	79(late):1	87(lovely):1	90(coffee):1	153(provide):1	172(weekend):1	261(swim):1	262(website):1	275(cafe):1	301(tea):1	523(gym):1	646(elsewhere):1	782(downside):1	808(jacuzzi):1	857(apart):1	892(sister):1	1422(sauna):1	2114(restuarant):1	4570(hen):1	5169(resonable):1	
+4	24(floor):1	97(internet):1	159(access):1	555(computer):1	
+
+<Author>Punchinello
+<Content>Modern, Clean and Quality The Acevi Villarroel is west of the old town and about 15-20 minutes walk from Las Ramblas. As soon as you pull up to this hotel you can see that it is ultra-modern even though it is terraced within the other buildings. The lobby is clean, fresh and bright and gives you the feeling that you have picked a good one.This is a business hotel and so check-in is efficient and easy. There are no racks of tourist information like you get in other hotels but you are given a good map at check-in.Our room was a rare triple but it looked more like a twin with an extra bed slotted in because it was placed across the wardrobe 鈥?but that was no real problem. The wooden floor was smooth and cool. There was a TV and a CD/DVD player ( DVDs could be hired from reception) and a free safe in the wardrobe. The bathroom was splendid with toilet, bidet, shower and separate bath. The only downside was that the wash-hand basin was in the bedroom, admittedly behind the wardrobe, but I have never liked this setup. However, I got used to it after a couple of days. The TV boasted BBC 1 on channel 23 and CNN on channel 24 but I never did find BBC 1. There were a few German channels, 1 French and the rest were either Spanish or Catalan.Just outside our door was a desk with two free internet PCs 鈥?privacy was maintained using translucent glass shields. You had contact with the world on-tap!The breakfast was nothing to write home about 鈥?an average business, continental affair 鈥?but again no big drawback. The staff were very friendly especially the barman who did not know that a scotch is not poured in the same quantity as a glass of wine!! Cheers mi amigo!There are lots of restaurants around the hotel if you do not want to go back into the heart of the city and they should cater for most person鈥檚 tastes 鈥?meat, fish, pasta, pizzas, vegetarian etc. Right next door on the left is the Salvi which is a good choice but not open on Sundays (speciality buckwheat filled pancakes). La Bella Napoli across the street is OK but the language barrier can get you the wrong meal.If you are arriving at Girona Airport by Ryanair, after picking up you luggage, exit the door into the passage way in the main terminal, turn right and you can purchase your bus ticket and timetable for the Barcelona Bus for 19 euros return. Exiting the airport, the bus is across the road towards the right. Make sure you get the one to Barcelona because they also go to Girona city and Barcelona Airport (our tickets were green if that helps). The bus drops you off at Estacio Del Nord in Barcelona and that鈥檚 where you get the return bus. The cost of a taxi from Estacio Del Nord to Acevi (pronounced A-THAY-VEE) Villarroel is less than 12 euros. I would certainly use this hotel again.  
+<Date>Feb 23, 2006
+<Rating>4	4	5	-1	5	-1	5	-1	
+<Aspects>
+10	8(day):1	99(couple):1	418(soon):1	673(terrace):1	745(building):1	858(pull):1	3075(cheer):1	4209(mi):1	7107(ultra-modern):1	9382(amigo):1	
+17	3(clean):1	7(walk):1	29(minute):1	43(leave):1	54(door):1	107(choice):1	151(modern):1	187(quality):1	239(town):1	491(fill):1	634(ramblas):1	834(las):1	953(west):1	1477(pancake):1	3224(speciality):1	4018(sundays):1	11649(buckwheat):1	
+57	6(breakfast):1	11(bed):1	13(bathroom):1	20(look):1	24(floor):1	41(city):1	46(free):1	61(shower):1	92(help):1	95(airport):1	116(tv):2	128(extra):1	129(reception):1	137(safe):1	141(home):1	147(business):1	226(bath):1	227(average):1	240(real):1	254(french):1	268(bedroom):1	278(cool):1	288(rest):1	309(barcelona):2	330(toilet):1	344(write):1	369(spanish):1	372(continental):1	474(separate):1	621(ticket):1	690(twin):1	741(channel):3	782(downside):1	1005(green):1	1076(player):1	1344(drawback):1	1382(german):1	1400(smooth):1	1451(wardrobe):3	1553(triple):1	1556(hire):1	1729(cd):1	1756(wooden):1	1877(slot):1	1924(rare):1	2101(cnn):1	2518(splendid):1	2778(bidet):1	2813(basin):1	2997(bbc):2	3051(admittedly):1	3269(boast):1	3363(setup):1	3546(affair):1	3918(dvds):1	6122(catalan):1	6333(girona):1	
+45	35(street):1	36(desk):1	39(return):2	46(free):1	53(arrive):1	54(door):2	95(airport):2	97(internet):1	98(outside):1	112(main):1	120(bus):5	123(ok):1	175(cost):1	185(taxi):1	213(meal):1	225(la):1	230(road):1	249(luggage):1	256(euro):2	266(pick):1	309(barcelona):2	327(glass):1	427(wrong):1	562(maintain):1	621(ticket):1	662(drop):1	698(language):1	887(purchase):1	959(towards):1	1183(privacy):1	1261(terminal):1	1354(exit):2	1458(barrier):1	1482(del):2	3998(bella):1	4638(nord):2	5208(pcs):1	5863(passage):1	6289(pronounce):1	6333(girona):1	6466(timetable):1	7168(ryanair):1	7568(estacio):2	8279(shield):1	12798(translucent):1	
+6	3(clean):1	34(feel):1	55(lobby):1	197(fresh):1	266(pick):1	880(bright):1	
+10	93(easy):1	147(business):1	209(tourist):1	272(world):1	286(check-in):2	401(efficient):1	649(information):1	713(contact):1	724(map):1	1916(rack):1	
+22	0(staff):1	10(restaurant):1	12(friendly):1	38(lot):1	41(city):1	73(etc):1	126(especially):1	193(person):1	251(wine):1	327(glass):1	439(taste):1	450(heart):1	653(fish):1	677(meat):1	678(pizza):1	1000(cater):1	1143(pasta):1	1764(pour):1	2392(vegetarian):1	3315(barman):1	3560(quantity):1	5788(scotch):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very disappointing We stayed in the Acevi Villarroel from the 1st January for 3 nights  I have to say we were very disappointed. The first room we were given was tiny with a window that looked onto other guest rooms  virtually no natural light. The receptionist was helpful enough to find us another room and though this was slightly bigger it still had a small window  bore very little resemblance to the pictures of a room on the hotel's website. The bathroom was fine but the swinging door  complete lack of privacy was a bit off putting  the light was very dim  made getting ready to go out a bit difficult. The rooms are not soundproof  we were located on the main street above a bottle bank so ear plugs were a must. Barcelona is a beautiful city  we really didnt spend much time in the room but we would have preferred something slightly less minimalist  austere. There is a dvd player  cd player in the room but the surroundings aren't conducive to relaxing  having a glass of wine before you go out. All in all I wouldnt rate this hotel highly  will not be returning.  
+<Date>Jan 9, 2006
+<Rating>2	2	2	-1	4	-1	4	-1	
+<Aspects>
+7	2(night):1	39(return):1	78(rate):1	138(highly):1	154(disappoint):2	1018(january):1	1849(wouldnt):1	
+0	
+42	5(time):1	13(bathroom):1	14(helpful):1	20(look):1	23(little):1	41(city):1	45(beautiful):1	52(bit):2	54(door):1	64(spend):1	91(guest):1	113(fine):1	119(window):2	157(light):2	160(relax):1	251(wine):1	262(website):1	274(ready):1	309(barcelona):1	327(glass):1	338(tiny):1	349(lack):1	456(picture):1	536(prefer):1	572(difficult):1	598(slightly):2	622(complete):1	626(didnt):1	855(receptionist):1	1076(player):2	1183(privacy):1	1364(dvd):1	1543(natural):1	1551(surroundings):1	1729(cd):1	1838(bear):1	1892(virtually):1	2048(dim):1	2609(minimalist):1	2696(swing):1	5858(conducive):1	8741(austere):1	
+8	35(street):1	84(locate):1	112(main):1	238(bottle):1	1174(plug):1	1225(bank):1	1684(ear):1	1852(soundproof):1	
+0	
+0	
+0	
+0	
+
+<Author>devastar
+<Content>Fantastic base in a beautiful city! We stayed in the Acevi Villarroel Hotel Barcelona for a long weekend at the end of October 2005 and found it to be a great place to stay. Area: It is not in the tourist area but is only 15 minutes walk from Las Ramblas. It is quiet at night, it feels like a residential area but quite safe, we never felt threatened or intimidated and it means you get lovely nights sleep. The streets are well lit and a taxi will get you there cheap enough if you don't fancy walking. It cost 鈧?0 from the beachfront to the hotel at night. The metro line is also at the bottom of the street and gets you most places for a few Euro and the buses are quite close too. It鈥檚 a great spot to get wherever you need to be. Hotel: The hotel is quite new and has a bit of a business hotel feel to it, but that is not a complaint. There is lovely original paintings and sculptures around the place which are for sale so it feels a little like a gallery. The rooms are fantastic! We had a massive bathroom with his and her glass sinks, big shower and a large bath with a central tap so two could happily share :) and the whole bathroom was clad in green marble. The beds are comfortable and our room overlooked the outdoor pool. It was a great room for a couple, a few candles and it was very romantic. They even have a mini hifi system in each room so you can listen to the radio or play your cd鈥檚. The d茅cor is very sharp and modern and well thought out, but the bathroom doors are glass and are frameless so you can hear what鈥檚 going on inside a bit and see shadows so it may not be the best of place if you don鈥檛 know the preson you鈥檙e staying with that well. In reception there is a DVD library machine where you can rent DVD鈥檚 and watch them in your room, or you could bring your own to watch. Each floor has 2 computers where you can access the internet for free which is really handy for finding good restaurants and checking emails. The hotel provided a book on the area in the room which had details of restaurants and shopping as well as tourist attractions and maps. The air-conditioning in the room worked fine and was very quiet. The only downside was that although the rooms are advertised as soundproof we were woken early on Sunday morning by builders working on a nearby building. I don't think we heard much from the other people in the hotel, but we defiantly heard noise from outside. The hotel also has a bar and restaurant in it. We decided to treat ourselves that first night, but it turns out that the restaurant in the hotel is actually average price for a nice restaurant in Barcelona. We found the service and the food to be fantastic and the waitress more than happy to help us choose a wine or give some information on the city. The breakfast is fine, nothing spectacular the usual continental breakfast of bread, jam, cheese, ham, yoghurt etc. Fine for setting you up for a day if it's included with your stay but I wouldn't pay any extra for it. We didn't use the spa or swimming pool so I can't comment on them, but we could see the pool from our window and it isn't a huge pool. It's more of a watering hole type one for cooling off, don't think you'd manage many lengths in it but it looks like a nice place to splash about a cool down. The whole area is on the 2nd or 3rd floor and overlooked by apartment blocks a few stories higher so it's not very private. All in all, the service was great, the facilities fantastic and the city amazing. I鈥檇 happily stay there again next time I go to Barcelona providing I can get a good deal on it.  
+<Date>Dec 15, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+23	4(nice):1	20(look):1	23(little):1	34(feel):1	41(city):1	45(beautiful):1	57(water):1	86(fantastic):1	87(lovely):1	278(cool):2	284(base):1	317(spot):1	389(type):1	645(manage):1	1218(hole):1	1270(original):1	1723(sale):1	1794(gallery):1	1879(length):1	2334(wherever):1	2423(splash):1	2994(painting):1	3794(sculpture):1	
+9	2(night):1	8(day):1	42(pay):1	71(include):1	113(fine):1	128(extra):1	175(cost):1	234(set):1	2572(beachfront):1	
+77	2(night):2	11(bed):1	13(bathroom):3	22(pool):4	24(floor):1	25(comfortable):1	34(feel):2	52(bit):1	54(door):1	56(morning):1	58(quiet):2	61(shower):1	86(fantastic):1	87(lovely):1	99(couple):1	100(bloc):1	104(sleep):1	113(fine):1	119(window):1	129(reception):1	132(hear):1	133(huge):1	135(build):1	137(safe):1	142(bring):1	151(modern):1	166(own):1	168(central):1	226(bath):1	232(nearby):1	245(watch):2	246(mean):1	260(overlook):2	261(swim):1	314(spa):1	327(glass):2	356(comment):1	386(play):1	408(inside):1	448(mini):1	492(private):1	493(machine):1	509(sink):1	518(system):1	520(share):1	554(wake):1	705(marble):1	707(romantic):1	751(apartment):1	782(downside):1	844(sunday):1	901(outdoor):1	906(story):1	908(don):1	910(advertise):1	997(listen):1	1005(green):1	1030(rend):1	1326(2nd):1	1329(massive):1	1364(dvd):2	1504(tap):1	1537(residential):1	1642(happily):1	1648(library):1	1729(cd):1	1816(radio):1	1852(soundproof):1	1854(candle):1	2097(3rd):1	2284(air conditioning):1	2537(threaten):1	3300(intimidate):1	3469(sharp):1	5633(shadow):1	6270(builder):1	9333(clad):1	
+25	7(walk):2	26(people):1	28(close):1	29(minute):1	34(feel):1	35(street):2	52(bit):1	94(noise):1	98(outside):1	120(bus):1	132(hear):2	143(cheap):1	147(business):1	157(light):1	185(taxi):1	188(line):1	190(complaint):1	209(tourist):1	235(metro):1	256(euro):1	634(ramblas):1	796(fancy):1	834(las):1	850(bottom):1	6212(defiantly):1	
+0	
+0	
+46	2(night):1	4(nice):1	5(time):1	6(breakfast):2	9(service):2	10(restaurant):4	16(food):1	18(book):1	19(price):1	27(bar):1	41(city):2	49(shop):1	73(etc):1	86(fantastic):2	92(help):1	113(fine):1	140(deal):1	145(amaze):1	153(provide):2	155(happy):1	167(choose):1	172(weekend):1	180(actually):1	209(tourist):1	211(facility):1	219(decide):1	227(average):1	251(wine):1	309(barcelona):3	320(treat):1	350(attraction):1	372(continental):1	441(cheese):1	497(bread):1	592(detail):1	649(information):1	656(spectacular):1	682(usual):1	724(map):1	767(ourselves):1	911(october):1	927(yogurt):1	1387(waitress):1	1561(ham):1	1614(jam):1	1642(happily):1	
+8	10(restaurant):1	24(floor):1	32(check):1	46(free):1	97(internet):1	159(access):1	555(computer):1	755(handy):1	
+
+<Author>A TripAdvisor Member
+<Content>Not Central This is a lovely hotel, rooms were very nicely decorated, the bathroom luxurious. It was nice  quiet by night for sleeping and the beds were very comfortable. Rooms were well cleaned every day. Staff were friendly. I thought the restaurant was a bit pricey. It is wise to arrive earlyish for breakfast if you want hot tea  coffee! I dont think the hotel was tourist orientated though. There is no information regarding public transport or places of interest available in the hotel lobby as you might expect although we were given a street map. The staff at reception were approachable but I found their English difficult to understand. We were directed everywhere on foot. It is a long walk to the main streets like La Rambla. Being very pregnant, this was hard going.We were not informed about the bus service or the Metro. Overall I think this hotel is very reccomendable but do your homework regarding the modes of public transport available to you because if you find walking difficult this hotel is too far from the main attractions.  
+<Date>Nov 22, 2005
+<Rating>4	3	5	-1	5	-1	4	-1	
+<Aspects>
+7	162(hard):1	209(tourist):1	402(foot):1	503(dont):1	803(direct):1	4337(pregnant):1	6349(orientate):1	
+3	10(restaurant):1	52(bit):1	546(pricey):1	
+14	2(night):1	3(clean):1	4(nice):1	8(day):1	11(bed):1	13(bathroom):1	25(comfortable):1	58(quiet):1	87(lovely):1	104(sleep):1	168(central):1	305(decorate):1	404(nicely):1	708(luxurious):1	
+22	7(walk):2	9(service):1	35(street):2	55(lobby):1	62(expect):1	70(overall):1	112(main):2	120(bus):1	134(available):2	225(la):1	235(metro):1	350(attraction):1	379(public):2	572(difficult):1	649(information):1	724(map):1	742(transport):2	817(inform):1	930(regard):2	1377(rambla):1	4290(mode):1	4434(homework):1	
+0	
+7	0(staff):2	12(friendly):1	129(reception):1	152(english):1	391(understand):1	572(difficult):1	4800(approachable):1	
+6	6(breakfast):1	53(arrive):1	90(coffee):1	114(hot):1	301(tea):1	1676(wise):1	
+0	
+
+<Author>llewelynmawr
+<Content>An excellent hotel An excellent hotel. We found the staff very helpful. The only minor criticisms are that there were not enough coat hangers in the waredrobes considering two people were staying there. Extra hangers were supplied however the following day. The only complaint with regard to service is with breakfasts. The staff did not seem to be able to anticipate when there were going to be shortages. The food however was excellent- as was the coffee- not always the case in hotels. I wish that I had read all the reviews as we would have used the bus service instead of walking to the Metro- but the bar at the end by the station was worth the walk. There did not seem much evidence of being close to a gay area but BEWARE PICKPOCKETS particularly on the Metro. Every one seemed to have come in contact with them in one way or another. I would certainly use this hotel again  
+<Date>Oct 9, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+7	21(excellent):2	26(people):1	248(consider):1	720(minor):1	2049(criticism):1	2506(hanger):1	2636(coat):1	
+0	
+0	
+17	7(walk):2	9(service):1	27(bar):1	28(close):1	37(review):1	82(station):1	88(read):1	96(worth):1	120(bus):1	235(metro):2	353(instead):1	384(wish):1	553(particularly):1	737(beware):1	2552(gay):1	3261(evidence):1	4220(pickpocket):1	
+0	
+6	0(staff):2	14(helpful):1	171(able):1	713(contact):1	2305(anticipate):1	2930(shortage):1	
+12	6(breakfast):1	8(day):1	9(service):1	16(food):1	21(excellent):1	90(coffee):1	128(extra):1	190(complaint):1	482(follow):1	859(supply):1	930(regard):1	2506(hanger):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>forget about the staff and the hotel is excellent as i am writing this i am sitting in the internet corner of the hotel, as all barcelona is full of people i was luck to stay at this hotel which is almost perfect. however when you come here you have to take into account the staff who can be a bit terrible. they wont speak english that easily and might be problematic as into questions about there area, but just dont take it to hard as we say take it easy .  
+<Date>Sep 20, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	93(easy):1	127(speak):1	152(english):1	162(hard):1	394(question):1	438(easily):1	503(dont):1	1820(wont):1	5079(problematic):1	
+0	
+0	
+0	
+0	
+14	0(staff):2	21(excellent):1	26(people):1	52(bit):1	74(perfect):1	97(internet):1	169(sit):1	200(corner):1	309(barcelona):1	344(write):1	397(forget):1	432(terrible):1	1055(luck):1	1730(account):1	
+0	
+0	
+
+<Author>lgkinney
+<Content>An Excellent Hotel in Barcelona Acevi Villarroel 4 STARS  . VILLARROEL 106  08011 BARCELONA  ------ I have traveled extensively in Europe over the past several years and I have to say this hotel is by far my favorite. True, it has the feel of a business style hotel, but with class. It is well decorated with modern art. It sits on a typical Barcelona commercial street. I stayed at the Acevi Villarroel in September of 2005 for three nights.I had no problem with any of the staff at the Acevi Villarroel. They were business oriented but were patient with all my questions and took the time to go over locations to visit on maps they supplied. The staff's ability to speak English was adequate to very good. The rooms are large by European standards, all with individual air conditioning. They all have hardwood floors. The bathrooms are luxurious, modern, large, with full glass showers and tubs. The baths are all done in marble. They are by far the best bathrooms I have seen in a hotel in Europe. All rooms have televisions with radio/dvd players and if you wish you can get a movie at the front desk and watch it on your TV. The beds are firm and they have ample extra blankets in the closet if you need them. Outside street noise is almost non-existant. Each floor of the hotel has two modern desks side by side partioned by privacy glass with free high speed internet access on LCD monitors. There is a restaurant off the lobby. There are numerous good restaurants within a ten minute walk from the hotel. The breakfast buffet was good. It included cereals, fresh fruit, bakery items, coffee, tea, various juices, cold cuts, cheeses, and melons. The buffet also has hot scrambled eggs, bacon, and small hot sausages. The hotel is about a ten to fifteen minute walk to the Plaza Catatlunya. It is a short two minute walk to the metro/subway stop called Urgell. The bus stops are in front of the hotel. This hotel gives you an absolute pleasurable lodging experience.  
+<Date>Sep 13, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	2(night):1	226(bath):1	705(marble):1	972(september):1	
+7	21(excellent):1	44(experience):1	103(star):1	309(barcelona):1	1250(absolute):1	1878(lodge):1	4255(pleasurable):1	
+31	11(bed):1	13(bathroom):2	24(floor):1	31(front):1	36(desk):1	61(shower):1	116(tv):1	128(extra):1	130(standard):1	151(modern):2	164(air):1	245(watch):1	263(condition):1	305(decorate):1	311(tub):1	327(glass):1	384(wish):1	565(closet):1	582(european):1	700(europe):1	708(luxurious):1	789(art):1	989(movie):1	1076(player):1	1158(television):1	1341(ample):1	1368(firm):1	1369(blanket):1	1596(individual):1	1816(radio):1	4044(hardwood):1	
+33	1(location):1	5(time):1	7(walk):3	10(restaurant):1	29(minute):3	31(front):1	34(feel):1	35(street):2	65(visit):1	67(call):1	94(noise):1	98(outside):1	120(bus):1	122(stop):2	144(short):1	147(business):2	169(sit):1	235(metro):1	309(barcelona):1	326(style):1	394(question):1	470(class):1	515(plaza):1	628(typical):1	724(map):1	859(supply):1	971(numerous):1	1882(patient):1	2385(orient):1	2934(commercial):1	4856(fifteen):1	5979(non-existant):1	11884(urgell):1	
+0	
+5	0(staff):2	127(speak):1	152(english):1	390(adequate):1	2753(ability):1	
+29	6(breakfast):1	10(restaurant):1	55(lobby):1	68(travel):1	71(include):1	77(buffet):2	90(coffee):1	114(hot):2	197(fresh):1	215(fruit):1	222(cold):1	301(tea):1	309(barcelona):1	362(juice):1	376(favourite):1	412(egg):1	419(past):1	441(cheese):1	519(item):1	529(cereal):1	700(europe):1	823(various):1	873(cut):1	1057(bacon):1	1385(sausage):1	1483(bakery):1	1674(scramble):1	2178(extensively):1	6216(melon):1	
+11	24(floor):1	36(desk):1	46(free):1	97(internet):1	151(modern):1	159(access):1	327(glass):1	1170(speed):1	1183(privacy):1	1773(lcd):1	4111(monitor):1	
+
+<Author>andromaque
+<Content>Beau compromis!       "tout brille"  
+<Date>Sep 20, 2008
+<Rating>4	4	5	4	5	2	2	5	
+<Aspects>
+2	4139(tout):1	9527(beau):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>aeg08
+<Content>Peccato per la posizione!!!       Lavandino del bagno  
+<Date>Sep 10, 2008
+<Rating>3	3	4	4	5	3	3	4	
+<Aspects>
+3	225(la):1	1482(del):1	11688(bagno):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

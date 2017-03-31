@@ -1,0 +1,574 @@
+<Author>Daniel_NL
+<Content>Location: great, hotel: so so       Kitchen with normal size refrigerator  
+<Date>Jan 3, 2009
+<Rating>3	2	3	5	4	2	4	-1	
+<Aspects>
+0	
+0	
+5	1(location):1	83(size):1	461(kitchen):1	878(normal):1	916(refrigerator):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>IceWorthy
+<Content>A poke in the eye for the Best Western Chain Hmmm, where do I start? Well how about the main reception area is staffed, but that is it. The other areas are sparse for staff. Reception staff reminded me of a Monty Python skit about to start. Rooms were OK, fairly clean, but def. not thoroughly. We found someone else's food in our fridge. Yuk . . . . Cleaning staff were not consistent; never knew when they were coming, if at all. Guess you could label them reactive rather than pro-active.They have a coffee shop adjacent to their lobby but it closes way too early. You have to go out and walk a ways to get something to eat or drink. Now, having said the above stuff, it is very close to many attractions, bus stops, and touristy areas. Close to banks and Post Office. Would we stay there again? I doubt it. We found many other alternatives later on that made Stellar, not so stellar. OK in a pinch but shop around.  
+<Date>Dec 23, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	79(late):1	469(guess):1	898(thoroughly):1	952(doubt):1	1298(alternative):1	3128(label):1	3660(stellar):2	
+6	165(start):1	627(chain):1	977(eye):1	1015(western):1	4874(hmmm):1	6291(poke):1	
+4	3(clean):1	123(ok):1	462(fairly):1	2802(def):1	
+18	7(walk):1	28(close):3	47(eat):1	49(shop):2	55(lobby):1	63(drink):1	90(coffee):1	120(bus):1	122(stop):1	123(ok):1	350(attraction):1	480(stuff):1	644(post):1	792(office):1	1061(adjacent):1	1225(bank):1	1470(touristy):1	5003(pinch):1	
+4	0(staff):1	3(clean):1	2574(consistent):1	5491(yuk):1	
+7	0(staff):3	112(main):1	129(reception):2	165(start):1	1285(remind):1	3459(sparse):1	11090(skit):1	
+3	16(food):1	170(else):1	318(fridge):1	
+0	
+
+<Author>GlasgowAnnemarie
+<Content>Great Little Gem We had a wonderful stay at the Hotel Stellar. The hotel is very clean and well furnished. The rooms were large and comfortable and included a small kitchen with microwave, kettle toaster etc great after a day touring the City. The staff were friendly and helpful and the hotel is very centrally located. We couldn't have asked for a better stay.  
+<Date>Dec 11, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+12	3(clean):1	8(day):1	25(comfortable):1	41(city):1	71(include):1	73(etc):1	181(tour):1	461(kitchen):1	787(furnish):1	820(microwave):1	1944(kettle):1	2849(toaster):1	
+5	0(staff):1	12(friendly):1	14(helpful):1	84(locate):1	879(centrally):1	
+0	
+0	
+4	23(little):1	48(wonderful):1	805(gem):1	3660(stellar):1	
+0	
+
+<Author>VioMd
+<Content>Beware of elevator noise in some rooms ... and thin walls We've actually stayed in this hotel twice this year, it has a great location, is very clean, and all round could be such a great place...if it wasn't for that elevator! This time we spent a sleepless first night on the 6th floor, and the noise from the elevator was unbelievable. Due to the hotel's location, guests obviously come and go a lot, and late at night, which shouldn't be a problem - but if the elevator makes this whooshing sound every time it moves, believe me, it can drive you insane. The next morning, the staff was very helpful to give us another room on the third floor (where we still heard the elevator) but it was better. I noticed another reviewer mentioned the lift noise before me, and the hotel management replied that the problem of intermittent noise from the elevator would be fixed by September '08. As of end of November, this obviously was not the case.Generally, the walls in this hotel are thin, and you will hear your neighbors' conversations and every time the (heavy) bathroom doors slam shut. Due to the noise problems we will not stay in this hotel again - a shame, really, because otherwise it has all the ingredients to be a nice little hotel.  
+<Date>Nov 25, 2008
+<Rating>2	2	2	4	4	3	3	3	
+<Aspects>
+9	4(nice):1	23(little):1	94(noise):1	259(due):1	508(otherwise):1	781(obviously):1	999(november):1	1292(shame):1	3691(ingredient):1	
+0	
+23	0(staff):1	2(night):1	5(time):2	13(bathroom):1	14(helpful):1	24(floor):2	54(door):1	56(morning):1	64(spend):1	94(noise):1	132(hear):2	183(wall):1	216(elevator):2	532(third):1	754(thin):1	934(neighbour):1	1086(shut):1	1186(heavy):1	1281(conversation):1	1460(unbelievable):1	1869(6th):1	2008(slam):1	4250(sleepless):1	
+9	1(location):1	3(clean):1	94(noise):1	180(actually):1	183(wall):1	216(elevator):2	347(twice):1	737(beware):1	754(thin):1	
+0	
+0	
+24	1(location):1	2(night):1	5(time):1	38(lot):1	79(late):1	91(guest):1	94(noise):2	207(move):1	216(elevator):2	244(mention):1	259(due):1	298(drive):1	312(believe):1	354(notice):1	409(sound):1	494(fix):1	525(management):1	564(reviewer):1	591(lift):1	781(obviously):1	972(september):1	1811(reply):1	4573(insane):1	8294(intermittent):1	
+0	
+
+<Author>HelsbelsPerth
+<Content>This was a exceptional hotel. We had a wonderful stay at the Hotel Stellar. The hotel is very clean and well furnished. The rooms were large and comfortable and we were upgraded on arrival. The staff were friendly and helpful and the hotel is very centrally located. We couldn't have aksed for a better stay.  
+<Date>Nov 13, 2008
+<Rating>5	5	5	5	5	4	4	4	
+<Aspects>
+3	48(wonderful):1	837(exceptional):1	3660(stellar):1	
+0	
+5	3(clean):1	25(comfortable):1	163(upgrade):1	224(arrival):1	787(furnish):1	
+5	0(staff):1	12(friendly):1	14(helpful):1	84(locate):1	879(centrally):1	
+0	
+0	
+0	
+0	
+
+<Author>YorkFoodie
+<Content>Would stay here again in a heartbeat We decided on Hotel Stellar as the place to stay while celebrating our 25th wedding anniversary and were very pleased.Arriving at about 7.30am off the night flight from Perth, the receptionist directed us to a small bathroom where we could freshen up before storing our bags prior to check-in. Check-in went smoothly, we had booked through an online site and there were no hassles.The room was large and very well maintained. There was a small kitchenette with refrigerator, microwave, tea and coffee making facilities (with bonus coffee plunger and real coffee), plates, cutlery etc. The bathroom was spotless. No views, but we weren't there for the views. In the lobby area was a number of internet PCs available for a small daily fee, as well as a sitting area with couches, TV, books and magazines etc.The staff were fantastic and quick to assist with any request. On our anniversary night it was pouring with rain and the taxi we had called for to take us to the theatre had not arrived. Without hestitaiton the receptionist grabbed an umbrella and went out into the rain to the main cross road and brought back a taxi. Unknown to us, our daughter had contacted the hotel and asked for champagne and Swiss chocolates to be delivered to our room on our anniversary, which they arranged for a delightful surprise.We found the hotel was a reasonable walk from many of the places we wanted to visit in the central part of Sydney, and close to the train for everywhere else. In fact, we arrived and left on the train from the nearby Museum station. We didn't have any qualms walking around at night, admittedly this was mid-week so perhaps the clubbers were at home.Again perhaps due to being mid-week, the night club in the hotel posed no problems for us. One of us is a VERY light sleeper, and had no issues with noise.The only thing that did disappoint was the paucity of room service meals. Due to the rain we decided to stay in for dinner one evening and could not get a meal delivered so we tried room service. Unfortunately they did not have an in-house kitchen so our choices were a lavash wrap sandwich or a microwaved lasagne. The evening receptionist was very apologetic and said this situation was being reviewed so it may have changed by now.We felt the Stellar was indeed stellar and would have no hesitation in staying there should we visit Sydney again.  
+<Date>Nov 4, 2008
+<Rating>4	4	4	4	5	5	5	3	
+<Aspects>
+7	17(view):2	34(feel):1	65(visit):1	809(sydney):1	990(indeed):1	1373(hesitation):1	3660(stellar):2	
+8	173(please):1	219(decide):1	604(wed):1	804(anniversary):1	1014(celebrate):1	1683(heartbeat):1	1943(25th):1	3660(stellar):1	
+29	9(service):1	13(bathroom):1	94(noise):1	107(choice):1	154(disappoint):1	157(light):1	199(surprise):1	213(meal):1	265(issue):1	461(kitchen):1	467(daughter):1	524(unfortunately):1	548(spotless):1	562(maintain):1	631(deliver):1	632(chocolate):1	680(arrange):1	713(contact):1	770(champagne):1	804(anniversary):1	820(microwave):1	1071(sandwich):1	1176(delightful):1	1299(sleeper):1	2085(wrap):1	4016(in-house):1	4506(unknown):1	4873(swiss):1	10517(lasagne):1	
+24	2(night):2	7(walk):2	28(close):1	43(leave):1	53(arrive):2	65(visit):1	67(call):1	82(station):1	141(home):1	168(central):1	170(else):1	182(train):2	185(taxi):1	232(nearby):1	273(reasonable):1	507(museum):1	581(rain):1	635(theater):1	804(anniversary):1	809(sydney):1	1764(pour):1	3051(admittedly):1	5475(mid-week):1	5899(qualm):1	
+0	
+46	0(staff):1	2(night):1	13(bathroom):1	18(book):2	37(review):1	53(arrive):1	55(lobby):1	73(etc):1	86(fantastic):1	97(internet):1	112(main):1	116(tv):1	134(available):1	142(bring):1	148(request):1	161(change):1	169(sit):1	185(taxi):1	192(site):1	230(road):1	233(flight):1	255(store):1	286(check-in):2	290(bag):1	299(quick):1	335(numb):1	360(daily):1	581(rain):1	584(fee):1	637(prior):1	803(direct):1	822(online):1	855(receptionist):3	890(situation):1	1139(grab):1	1140(umbrella):1	1192(couch):1	1193(hassle):1	1228(cross):1	1265(assist):1	2202(magazine):1	2267(smoothly):1	2483(apologetic):1	2844(freshen):1	5208(pcs):1	7497(perth):1	
+24	2(night):1	9(service):1	73(etc):1	90(coffee):3	117(dinner):1	211(facility):1	212(club):1	213(meal):1	219(decide):1	240(real):1	253(tried):1	259(due):2	301(tea):1	581(rain):1	631(deliver):1	820(microwave):1	849(bonus):1	916(refrigerator):1	1002(plate):1	1165(kitchenette):1	3182(cutlery):1	3904(pose):1	5475(mid-week):1	8472(plunger):1	
+0	
+
+<Author>FcdVancouver
+<Content>Noisy Hotel, Sketchy Area Very disappointed with my stay here. Read the reviews and thought this was a safe bet. I must have missed the review which mentioned the night club below reception. Paper thin walls and floor/ceilings. I have been listening to the 4(?) guys in the next room getting ready to go out for 1 hour now. I thought the rate was okay for Sydney, but I would pay more to stay in a more upscale hotel. Location is good if you want easy access to the dodgy party district. Not great if you are simply a tourist who wants to feel safe walking around the streets and have easy access to the Opera House Harbour/Rocks etc.  
+<Date>Oct 25, 2008
+<Rating>2	2	2	2	3	4	3	1	
+<Aspects>
+8	37(review):1	88(read):1	137(safe):1	154(disappoint):1	217(noisy):1	997(listen):1	1821(bet):1	3148(sketchy):1	
+5	42(pay):1	78(rate):1	453(okay):1	809(sydney):1	1237(upscale):1	
+7	24(floor):1	60(hour):1	183(wall):1	274(ready):1	368(guy):1	754(thin):1	776(paper):1	
+15	1(location):1	7(walk):1	34(feel):1	35(street):1	73(etc):1	93(easy):2	137(safe):1	159(access):2	209(tourist):1	281(house):1	363(party):1	433(district):1	488(simply):1	1374(opera):1	2539(dodgy):1	
+0	
+7	2(night):1	37(review):1	129(reception):1	212(club):1	244(mention):1	276(miss):1	585(below):1	
+0	
+0	
+
+<Author>marshymellow
+<Content>Great deal Fantastic rooms, great location, very helpful staff and overall a great deal for rooms in the Sydney CBD.  
+<Date>Sep 12, 2008
+<Rating>4	5	4	5	4	4	5	4	
+<Aspects>
+0	
+0	
+8	0(staff):1	1(location):1	14(helpful):1	70(overall):1	86(fantastic):1	140(deal):2	809(sydney):1	2731(cbd):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>oldpuggler
+<Content>Not too bad We booked a two night stay over the weekend at Hotel Stellar. We stayed on the 5th floor overlooking the Liverpool and Wentworth St junctions, thank god for the double glazed windows that kept the majority of the traffic noise out, however we found most of the noise came from inside the hotel, with a noisy elevator and paper thin walls making it pretty hard to get a good nights sleep. The room we stayed in was great, it was big, nicely renovated and clean.Pros: Great location, very close to Spice I Am (Great little thai place down the bottom of Wentworth st), trains and Oxford st shopping/partying strip. Clean rooms with great facilities (foxtel, microwave, kettle, toaster etc)Cons: noise from elevator and other guests  
+<Date>Aug 31, 2008
+<Rating>3	3	4	5	4	3	3	4	
+<Aspects>
+0	
+0	
+28	2(night):1	3(clean):1	24(floor):1	94(noise):2	104(sleep):1	109(pretty):1	119(window):1	162(hard):1	179(double):1	183(wall):1	216(elevator):1	217(noisy):1	260(overlook):1	271(thank):1	404(nicely):1	408(inside):1	486(traffic):1	533(renovate):1	754(thin):1	776(paper):1	839(5th):1	940(St):1	1522(god):1	1584(majority):1	2144(glaze):1	4768(junction):1	5999(liverpool):1	9537(wentworth):1	
+13	1(location):1	23(little):1	28(close):1	182(train):1	850(bottom):1	940(St):2	1249(pro):1	1379(strip):1	2393(thai):1	3089(spice):1	3801(oxford):1	5097(shopping):1	9537(wentworth):1	
+0	
+0	
+15	2(night):1	3(clean):1	18(book):1	50(bad):1	73(etc):1	91(guest):1	94(noise):1	172(weekend):1	211(facility):1	216(elevator):1	820(microwave):1	840(Con):1	1944(kettle):1	2849(toaster):1	3660(stellar):1	
+0	
+
+<Author>Embradon
+<Content>All good Friendly, clean, well serviced, good sized rooms. Good facilities in room. Our room was quiet despite overlooking the city centre junction. Wireless internet in room ( though it was rather expensive for mediocre speed).Convenient for Museum station on the central loop. (beware this station has no elevator or escalator - so if you have heavy bags access is a chore).Within pleasant strolling distance or two train stops from Circular Quay ferries, and Opera House, closer to Darling Harbour.  
+<Date>Aug 7, 2008
+<Rating>5	4	5	4	5	4	4	3	
+<Aspects>
+0	
+0	
+11	3(clean):1	9(service):1	12(friendly):1	41(city):1	58(quiet):1	83(size):1	101(center):1	211(facility):1	260(overlook):1	498(despite):1	4768(junction):1	
+18	28(close):1	82(station):1	115(distance):1	122(stop):1	150(pleasant):1	168(central):1	182(train):1	186(convenient):1	281(house):1	507(museum):1	561(harbor):1	1010(ferry):1	1056(stroll):1	1374(opera):1	1664(quay):1	1681(darling):1	1912(circular):1	4408(loop):1	
+0	
+0	
+8	82(station):1	159(access):1	216(elevator):1	290(bag):1	737(beware):1	1186(heavy):1	3478(escalator):1	6071(chore):1	
+5	97(internet):1	124(expensive):1	717(wireless):1	1170(speed):1	1340(mediocre):1	
+
+<Author>Annata
+<Content>Simple Luxury We rented a standard room with an additional rollaway bed for three people altogether. pros:- clean, spacious rooms - great toilets - comfortable beds - good price! - 7 minute walk from Museum station cons: - hotel did not look very 4-star from the outside- no swimming pool or gym - 7 minute walk from Museum station (i mean, there were hotels that were closer to the train station for those of us that are very lazy!) general comments: an affordable, well maintained building in a central location. would recommend it to anyone else looking for simple luxury at an affordable price!  
+<Date>Jun 22, 2008
+<Rating>4	4	5	4	5	4	4	4	
+<Aspects>
+0	
+7	15(recommend):1	19(price):1	20(look):1	170(else):1	437(luxury):1	613(simple):1	1062(affordable):1	
+15	3(clean):1	11(bed):2	19(price):1	25(comfortable):1	26(people):1	111(spacious):1	130(standard):1	330(toilet):1	437(luxury):1	613(simple):1	835(additional):1	1097(rent):1	1249(pro):1	2952(rollaway):1	3097(altogether):1	
+21	1(location):1	7(walk):2	20(look):1	22(pool):1	28(close):1	29(minute):2	82(station):3	98(outside):1	135(build):1	168(central):1	182(train):1	246(mean):1	261(swim):1	356(comment):1	507(museum):2	523(gym):1	562(maintain):1	840(Con):1	1062(affordable):1	1786(lazy):1	2254(4-star):1	
+0	
+0	
+0	
+0	
+
+<Author>CarolCordeiro
+<Content>Nice Hotel We chose this hotel based on Tripadvisor reviews and we loved it. Actually it was better than we expected. Our room and bathroom were really big and clean. The location is great and it is a short walk to the main attractions. Also it is less than 5 minutes walk to the subway. There is a cafe inside the same building where you can have your breakfast and you get easy internet access.  
+<Date>Jun 9, 2008
+<Rating>4	5	5	4	5	4	4	4	
+<Aspects>
+8	4(nice):1	37(review):1	40(love):1	62(expect):1	167(choose):1	180(actually):1	284(base):1	597(tripadvisor):1	
+0	
+2	3(clean):1	13(bathroom):1	
+7	1(location):1	7(walk):2	29(minute):1	112(main):1	144(short):1	350(attraction):1	370(subway):1	
+0	
+0	
+7	6(breakfast):1	93(easy):1	97(internet):1	135(build):1	159(access):1	275(cafe):1	408(inside):1	
+0	
+
+<Author>babmadsa
+<Content>Will Stay Again For Sure! Arrived home yesterday after a few days at Hotel Stellar. The Hotel is a must for its location, value for money and character.We were suprised at how large the room was and it was great being fully equipped with a large ensuite, great kitchen facilities and ample room to move around and relax.We were located on the first floor and i was worried we would get a heap of traffic noise, but we didnt as our room was at the back of the hotel. The other thing i like was the fact we could open our windows for air.Staff were friendly and we took use of the car park they offer for $16.50 a night, undercover and secure.I dont want to complain as i really enjoyed my stay, but it did frustrate me that the room had tried to be opened at 8.30, 3 times by cleaners as my fellow traveller had checked out earlier that morning and paid, and told staff that there was stil someone in the room till checkout time to not disturb. I even had the Do Not Disturb sign on the door. Staff were apologetic, but lucky i had the latch on the door otherwise they would of just enetered with me inside by myself.I will stay again and you must try it!  
+<Date>Jun 6, 2008
+<Rating>4	5	5	5	5	5	4	-1	
+<Aspects>
+9	8(day):1	53(arrive):1	54(door):1	76(try):1	141(home):1	449(sign):1	1067(disturb):1	2447(yesterday):1	3660(stellar):1	
+4	1(location):1	80(money):1	81(value):1	1049(character):1	
+24	0(staff):1	24(floor):1	54(door):1	84(locate):1	94(noise):1	119(window):1	160(relax):1	164(air):1	207(move):1	211(facility):1	408(inside):1	461(kitchen):1	486(traffic):1	508(otherwise):1	626(didnt):1	797(lucky):1	884(equip):1	885(worried):1	1341(ample):1	1738(suprise):1	2483(apologetic):1	2601(ensuite):1	4038(heap):1	6639(latch):1	
+8	0(staff):1	2(night):1	12(friendly):1	66(park):1	89(offer):1	121(car):1	1034(secure):1	9853(undercover):1	
+0	
+18	0(staff):1	5(time):2	32(check):1	42(pay):1	51(enjoy):1	56(morning):1	69(tell):1	241(complain):1	253(tried):1	267(traveler):1	503(dont):1	658(checkout):1	979(till):1	1067(disturb):1	1574(frustrate):1	1742(fellow):1	2487(cleaner):1	11007(stil):1	
+0	
+0	
+
+<Author>aussieinSF
+<Content>Good stuff This hotel surpassed my expectations. Perhaps it was the fact that they upgraded us for free, but the room we got was the largest hotel room I've ever been in. Also, we'd requested to be put on a high floor, so they put us on the top floor, with a view of the park. Sweet!The bed was king-sized and comfy, there was a kitchen and mini-bar, and the bathroom was huge. Nice complimentary toiletries in the bathroom, although unfortunately there was no free moisturiser. Can't have everything, I guess, especially when it's so reasonably priced.Also nice was the hotel happy hour. They have two for one drinks every day from 5-7pm. The location of the hotel was really convenient, so we could have a couple of drinks, and then head out to dinner somewhere.I'd highly recommend this hotel.  
+<Date>Jun 5, 2008
+<Rating>5	5	5	4	5	4	-1	-1	
+<Aspects>
+6	4(nice):1	15(recommend):1	60(hour):1	138(highly):1	155(happy):1	950(sweet):1	
+7	19(price):1	126(especially):1	431(expectation):1	469(guess):1	480(stuff):1	578(reasonably):1	3204(surpass):1	
+19	4(nice):1	11(bed):1	13(bathroom):2	17(view):1	24(floor):2	46(free):2	66(park):1	118(top):1	133(huge):1	148(request):1	163(upgrade):1	345(complimentary):1	461(kitchen):1	475(comfy):1	524(unfortunately):1	657(toiletry):1	1338(mini-bar):1	2417(king-size):1	9923(moisturizer):1	
+0	
+0	
+0	
+8	1(location):1	8(day):1	63(drink):2	99(couple):1	117(dinner):1	186(convenient):1	319(head):1	10393(5-7pm):1	
+0	
+
+<Author>STRACJ
+<Content>Good Value and Location Nicely done boutique hotel in easy walking distance from main central attractions. Direct route through Hyde Park and or Botanical Gardens all the way to Circular Quay (20-30 min walk). Cafe on ground floor next door serves good breakfasts etc, did not take up the inclusive breakfast option with room as do not eat enough to justify cost.Room was very clean and well decorated with kitchenette and mini bar, tv and nice en suite with walk in shower. We were at the back of the hotel so definately no street noise, rooms are double glazed in any case so not likely to be a problem anywhere. Only very minor issue was slight lift (elevator) noise (swoosh), this was not excessive and became infrequent in the evening, this in no way spoilt our stay, other rooms across landing may not suffer.Happy hour around 6pm, 2 for 1 beers, good internet access, washing machines and lugage store available.Staff helpful and security seemed good (card access control on lobby after 7pm). Bottle shop (booze) and minimarket around the corner in Oxford Street.  
+<Date>Jun 3, 2008
+<Rating>4	4	5	4	5	4	4	4	
+<Aspects>
+0	
+0	
+26	3(clean):1	4(nice):1	7(walk):1	27(bar):1	35(street):1	61(shower):1	94(noise):2	108(suite):1	116(tv):1	179(double):1	216(elevator):1	265(issue):1	305(decorate):1	410(definately):1	448(mini):1	591(lift):1	720(minor):1	1165(kitchenette):1	1221(spoil):1	1297(slight):1	1346(land):1	1790(suffer):1	2065(en):1	2144(glaze):1	3088(excessive):1	11304(infrequent):1	
+25	1(location):1	7(walk):2	35(street):1	49(shop):1	66(park):1	81(value):1	93(easy):1	112(main):1	115(distance):1	168(central):1	200(corner):1	238(bottle):1	247(min):1	310(garden):1	350(attraction):1	404(nicely):1	623(boutique):1	803(direct):1	1035(route):1	1664(quay):1	1912(circular):1	2577(booze):1	2816(hyde):1	3801(oxford):1	4278(botanical):1	
+0	
+0	
+20	0(staff):1	6(breakfast):2	14(helpful):1	24(floor):1	47(eat):1	54(door):1	55(lobby):1	73(etc):1	159(access):1	174(serve):1	175(cost):1	275(cafe):1	292(card):1	336(option):1	641(security):1	706(grind):1	833(inclusive):1	865(control):1	3895(justify):1	7996(7pm):1	
+11	60(hour):1	97(internet):1	134(available):1	155(happy):1	159(access):1	255(store):1	443(beer):1	493(machine):1	811(wash):1	7686(6pm):1	11724(lugage):1	
+
+<Author>helenWellingtonNz
+<Content>noisy lift We booked the Hotel Stellar after reading good reviews. When we arrived we had been put right next to the lift which makes a terrible noise and can be heard through the walls. i had requested a quiet room in my email when booking. It would be obvious to anyone that this was not a quiet room. As they were fully booked we had to find another Hotel to stay at. We booked weeks in advance and so were disappointed that they had not taken into account my request for a quiet room. on the plus side the staff were helpful and polite when we cancelled our stay.  
+<Date>Jun 3, 2008
+<Rating>2	-1	2	3	4	4	4	4	
+<Aspects>
+0	
+0	
+8	18(book):2	58(quiet):3	75(week):1	148(request):2	154(disappoint):1	685(advance):1	1698(obvious):1	1730(account):1	
+6	53(arrive):1	94(noise):1	132(hear):1	183(wall):1	432(terrible):1	591(lift):1	
+0	
+5	0(staff):1	14(helpful):1	203(plus):1	422(polite):1	1065(cancel):1	
+6	18(book):2	37(review):1	88(read):1	217(noisy):1	591(lift):1	3660(stellar):1	
+0	
+
+<Author>MarknNana
+<Content>Great stay in Sydney centre We were so happy we chose this hotel after reading the reviews here on Tripadvisor. The first impression from the outside and the reception was a little bit disappointing but when we walked into the room we were so surprised as it was very spacious, modern, immaculately clean, with a very comfortable and huge bed and a light and big bathroom. It was a great place to get back to after a long day of sightseeing. Tip: The breakfast in the caf茅 adjoining the hotel is fantastic and great value for money!  
+<Date>May 27, 2008
+<Rating>5	5	5	4	5	4	5	5	
+<Aspects>
+0	
+7	6(breakfast):1	80(money):1	81(value):1	86(fantastic):1	194(tip):1	1412(adjoin):1	2532(caf):1	
+17	3(clean):1	7(walk):1	11(bed):1	13(bathroom):1	23(little):1	25(comfortable):1	52(bit):1	98(outside):1	111(spacious):1	129(reception):1	133(huge):1	151(modern):1	154(disappoint):1	157(light):1	199(surprise):1	848(impression):1	2084(immaculately):1	
+2	8(day):1	640(sight-see):1	
+0	
+0	
+0	
+7	37(review):1	88(read):1	101(center):1	155(happy):1	167(choose):1	597(tripadvisor):1	809(sydney):1	
+
+<Author>margheritaBologna
+<Content>excellent Clean, big, with all the confort. There was the kitchen in the bedroom. They have a laudry with coin ( confortable when you have to wash clothes spending few money), and at the reception they were very nice. Our room was busy thus they gave us a bigger room for the same prize. It is in the centre but at the night time it is quite. They have a garage ( unfortunable few place). It is close to Oxford street ( full of pub, restaurant but also a lot of gay, trans, but it isn't dangerous).The person at the reception are very nice.  
+<Date>May 19, 2008
+<Rating>4	5	5	5	5	5	5	4	
+<Aspects>
+0	
+0	
+4	220(busy):1	268(bedroom):1	461(kitchen):1	4283(prise):1	
+9	10(restaurant):1	28(close):1	35(street):1	38(lot):1	1393(pub):1	1971(dangerous):1	2552(gay):1	3801(oxford):1	11301(trans):1	
+3	3(clean):1	21(excellent):1	8278(confort):1	
+9	4(nice):2	64(spend):1	80(money):1	129(reception):2	193(person):1	709(clothe):1	811(wash):1	2435(confortable):1	3424(coin):1	
+1	936(garage):1	
+3	2(night):1	5(time):1	101(center):1	
+
+<Author>sailsherm
+<Content>Lots of Character A great location to visit Sydney from... A somewhat reno'd hotel that had all the comforts of home; a small kitchen, a great shower and three twin beds. We stayed in a triple on the top (6th) floor; near the elevator. This way the only complaint we could make during our stay. The noise from the elevator was enough to wake us in the morning; we didn't go to bed early enough for it to be a problem in the evening. Even with our room facing the street, there was very little street noise. The lift seemed to be really the only issue. I think that being at the top floor may have been the reason. (??)The staff were great. They looked after our bags when we arrived early before check-in, they helped contact tour companies and taxis. and they locked up our bags when we had a late flight out. They were great bartenders at happy hour. Just all-round; more than eager to please.  The internet was very reasonably priced and lots of terminals. There is a coffee shop next door so during the week, the customers of the coffee shop use the internet as well. Still seems to be enough for all. Coffee Shop is closed on Sunday!!We enjoyed the fact that it was a little bit older and seemed to have a bit of character to it. Its a small, personable place where the staff make you feel appreciated!  
+<Date>Apr 30, 2008
+<Rating>3	3	3	4	3	4	4	3	
+<Aspects>
+9	23(little):1	51(enjoy):1	52(bit):2	173(please):1	190(complaint):1	265(issue):1	591(lift):1	1049(character):1	1604(eager):1	
+5	19(price):1	38(lot):1	97(internet):1	578(reasonably):1	1261(terminal):1	
+23	1(location):1	11(bed):1	23(little):1	24(floor):1	35(street):2	38(lot):1	61(shower):1	65(visit):1	79(late):1	94(noise):1	118(top):1	141(home):1	233(flight):1	290(bag):1	374(reason):1	461(kitchen):1	651(somewhat):1	690(twin):1	702(comfort):1	774(lock):1	809(sydney):1	1049(character):1	8664(reno):1	
+12	0(staff):1	28(close):1	34(feel):1	49(shop):3	54(door):1	75(week):1	90(coffee):3	97(internet):1	428(customer):1	500(appreciate):1	844(sunday):1	2551(personable):1	
+0	
+10	0(staff):1	20(look):1	53(arrive):1	92(help):1	181(tour):1	185(taxi):1	286(check-in):1	290(bag):1	713(contact):1	760(company):1	
+13	11(bed):1	24(floor):1	56(morning):1	60(hour):1	94(noise):1	102(near):1	118(top):1	155(happy):1	216(elevator):2	554(wake):1	676(bartender):1	1553(triple):1	1869(6th):1	
+0	
+
+<Author>Coopers4
+<Content>Good location I spent 3 nights here at the end of March in a twin room on the 6th [top] floor. The beds were comfortable, the room a very good size, although a tad gloomy, and the bathroom large and modern. Unfortunately the hotel is an older building and our room was next to the lift well which was very noisy until late at night and again early each morning. We were also bothered by noise from the room next door, caused by a woman endlessly walking in hard heeled shoes on a tiled floor. On the good side there was very little street noise as our room faced the back of the building.The front desk staff were always courteous and helpful and were happy to store our luggage for the day when we checked out. Wireless internet access is reasonably priced and there are computers available for use in an area off the lobby. The location is good if you don't mind walking; the city centre, Oxford Street, King's Cross, Woollomooloo, and Surry Hills are easily accessible. One of my favourite Sydney restaurants, Longrain, is a very short walk away.  
+<Date>Apr 11, 2008
+<Rating>3	3	3	4	3	4	3	4	
+<Aspects>
+0	
+0	
+34	1(location):1	2(night):2	7(walk):1	11(bed):1	13(bathroom):1	23(little):1	24(floor):2	25(comfortable):1	35(street):1	54(door):1	56(morning):1	64(spend):1	79(late):1	83(size):1	94(noise):2	118(top):1	135(build):2	151(modern):1	162(hard):1	217(noisy):1	307(bother):1	524(unfortunately):1	566(woman):1	591(lift):1	615(march):1	690(twin):1	846(tile):1	943(cause):1	1191(shoe):1	1869(6th):1	2429(tad):1	4019(heel):1	4374(gloomy):1	9180(endlessly):1	
+16	1(location):1	7(walk):2	10(restaurant):1	35(street):1	41(city):1	101(center):1	144(short):1	243(king):1	294(mind):1	376(favourite):1	438(easily):1	756(hill):1	809(sydney):1	1228(cross):1	1342(accessible):1	3801(oxford):1	
+0	
+10	0(staff):1	8(day):1	14(helpful):1	31(front):1	32(check):1	36(desk):1	155(happy):1	249(luggage):1	255(store):1	483(courteous):1	
+0	
+8	19(price):1	55(lobby):1	97(internet):1	134(available):1	159(access):1	555(computer):1	578(reasonably):1	717(wireless):1	
+
+<Author>familyof4Melbourne
+<Content>Great value for money! Recently organised 3 nights accomodation in 2 rooms for my parents  my aunt  uncle at Stellar Hotel in Sydney after reading the reviews on Tripadvisor. Booked through Wotif as unable to get 2 rooms direct through the hotel as they were fully booked. My parents were after accomodation within their budget  were very impressed with the quality of accomodation  hotel location for the price they paid.(Worked out at approx $150 per night per room,great for Sydney unless you want to stay in a dive!)They had no complaints what so ever with their rooms which were very clean  spacious. Close to the city centre  all the tourist spots as well as transport. Plenty of places to eat close by.Would definately book there again!  
+<Date>Mar 27, 2008
+<Rating>5	5	4	5	4	4	4	-1	
+<Aspects>
+0	
+20	1(location):1	2(night):1	19(price):1	37(review):1	42(pay):1	80(money):1	81(value):1	88(read):1	187(quality):1	322(recently):1	343(impress):1	429(budget):1	597(tripadvisor):1	780(accomodation):3	809(sydney):1	1167(organize):1	1197(parent):2	3660(stellar):1	4407(aunt):1	5656(uncle):1	
+12	2(night):1	3(clean):1	18(book):2	111(spacious):1	190(complaint):1	405(unless):1	803(direct):1	809(sydney):1	1423(approx):1	1461(unable):1	1627(dive):1	6905(wotif):1	
+8	28(close):2	41(city):1	47(eat):1	101(center):1	158(plenty):1	209(tourist):1	317(spot):1	742(transport):1	
+0	
+0	
+2	18(book):1	410(definately):1	
+0	
+
+<Author>steveormesher
+<Content>A great value city centre hotel       Hotel and coffee bar  
+<Date>Mar 9, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+5	27(bar):1	41(city):1	81(value):1	90(coffee):1	101(center):1	
+0	
+
+<Author>orph
+<Content>Great hotel in a good location. We stayed in the 3 bedroom 'penthouse' apartment and were very impressed with the size of it. Huge living area and master bedroom, much bigger than any other apartment I'd stayed in, especially for the price. 2nd and 3rd bedrooms were average size but still generous. Large kitchen with lots of bench space if you like to cook. Hotel staff were very friendly and helpful and were more than willing to help us find restaurants and hire taxis. You can walk to the CBD, Darling Harbour, Circular Quay and Central Train station from the hotel, and it is around the corner from the Oxford St shopping/clubbing district. One thing to note is that the 3 bedroom apartment is slightly separate from the rest of the hotel, tacked on the side in a separate building, so you need to go down some stairs to get to it. Also, this apartment seems to have missed out on the renovation, as it the decor was a little dated and not up to the standard of the other guest rooms. For the price though, I still think it is a great value hotel and a good place to stay in Sydney.  
+<Date>Feb 6, 2008
+<Rating>4	4	3	4	4	5	4	3	
+<Aspects>
+0	
+3	19(price):1	81(value):1	809(sydney):1	
+33	19(price):1	23(little):1	38(lot):1	83(size):2	91(guest):1	126(especially):1	130(standard):1	133(huge):1	135(build):1	206(live):1	210(space):1	227(average):1	268(bedroom):4	269(decor):1	276(miss):1	288(rest):1	297(note):1	343(impress):1	461(kitchen):1	474(separate):2	511(date):1	550(cook):1	568(stair):1	598(slightly):1	687(renovation):1	751(apartment):4	1326(2nd):1	1523(generous):1	2097(3rd):1	2337(master):1	3270(bench):1	3425(penthouse):1	6184(tack):1	
+22	0(staff):1	1(location):1	7(walk):1	10(restaurant):1	12(friendly):1	14(helpful):1	82(station):1	92(help):1	168(central):1	182(train):1	185(taxi):1	200(corner):1	433(district):1	561(harbor):1	940(St):1	1556(hire):1	1664(quay):1	1681(darling):1	1912(circular):1	2731(cbd):1	3801(oxford):1	5097(shopping):1	
+0	
+0	
+0	
+0	
+
+<Author>gurlrca
+<Content>Absolutely sensational       Bathroom  
+<Date>Feb 5, 2008
+<Rating>5	4	5	4	5	4	5	5	
+<Aspects>
+0	
+0	
+3	13(bathroom):1	189(absolutely):1	4641(sensational):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>smrlb66
+<Content>Loved this small hotel We travelled to Australia in November 2007 from Canada and stayed 4 nights at the Best Western Hotel Stellar in Sydney prior to taking the 28-day Around Australia cruise. We had read the reviews on Trip Advisor and can only add that they were accurate. The Stellar is a very well appointed small boutique hotel. Centrally located - we could walk downtown Sydney in 20 minutes. Near bus stops, walking distance to railway station (train to airport) and restaurants. The rooms are spacious with kitchenette which we didn't need, but it would be a good feature for someone staying longer. The bathroom were all marble and tiles and quite large. The room and bathroom were very clean and new looking. The staff was very helpful and courteous. There is a locker room off the Lobby for storing luggage, if needed and reasonably priced internet access in the Lobby. A small cafeteria adjacent to the Lobby (not own by the hotel) was excellent for a light breakfast. Lovely, very reasonably priced, small hotel that we would recommend highly. A winner in a city that is rather expensive otherwise.  
+<Date>Jan 1, 2008
+<Rating>4	4	5	5	5	5	5	3	
+<Aspects>
+6	33(trip):1	37(review):1	88(read):1	351(add):1	701(advisor):1	1785(accurate):1	
+9	15(recommend):1	19(price):1	41(city):1	87(lovely):1	124(expensive):1	138(highly):1	508(otherwise):1	578(reasonably):1	3146(winner):1	
+8	3(clean):1	13(bathroom):2	20(look):1	111(spacious):1	705(marble):1	731(feature):1	846(tile):1	1165(kitchenette):1	
+27	2(night):1	7(walk):2	10(restaurant):1	29(minute):1	40(love):1	68(travel):1	82(station):1	84(locate):1	95(airport):1	102(near):1	115(distance):1	120(bus):1	122(stop):1	182(train):1	334(downtown):1	579(appoint):1	603(cruise):1	623(boutique):1	637(prior):1	809(sydney):2	879(centrally):1	999(november):1	1015(western):1	1384(canada):1	1530(australia):2	2002(railway):1	3660(stellar):2	
+0	
+3	0(staff):1	14(helpful):1	483(courteous):1	
+14	6(breakfast):1	19(price):1	21(excellent):1	55(lobby):3	97(internet):1	157(light):1	159(access):1	166(own):1	249(luggage):1	255(store):1	578(reasonably):1	1061(adjacent):1	3446(locker):1	3995(cafeteria):1	
+0	
+
+<Author>GermantownMD
+<Content>Just OK. Very average hotel. The room was a good size, but a bit dark. The kitchen area was spacious, but not well furnished. The lobby area and hallways were a bit seedy. The best part of the hotel was a fairly good location and the cafe attached to the lobby. Great coffee and good breakfast. It was oK for the money, but I wouldn't go back.  
+<Date>Nov 28, 2007
+<Rating>3	3	2	4	2	3	-1	-1	
+<Aspects>
+3	80(money):1	123(ok):2	227(average):1	
+0	
+6	52(bit):1	83(size):1	111(spacious):1	459(dark):1	461(kitchen):1	787(furnish):1	
+0	
+0	
+0	
+10	1(location):1	6(breakfast):1	52(bit):1	55(lobby):2	90(coffee):1	275(cafe):1	462(fairly):1	580(hallway):1	1224(attach):1	2209(seedy):1	
+0	
+
+<Author>Larson-7
+<Content>Excellent Facility and Location We recently spent 6 nights in 2 separate stays at this hotel in Sydney and quite enjoyed our room and the service provided.The outside photos do not do justice to the quality of room and fixtures.The suite we had was appointed with new fixtures,bedding,A/C,TV ,DVD and furniture and very spacious with high ceilings. The room came with a kitchenette area including a fridge,microwave,kettle and toaster .....perfect for quick ,inexpensive breakfasts and beverages before and after exploring this beautiful city. The washrooms are also completely renovated with quality fixtures and a spacious shower. The desk staff was helpful at all times ,lending umbrella,providing directions,baggage storage etc. The hotel aslo has internet availability ,a small lounge and an independent cafe in the building. Located south centrally ,near Oxford and Liverpool Streets it was an easy walk to most key places of interest like Darling Harbour,Circular Quay,Opera House,Chinatown,Botanical Gardens, Anzac War Memorial and if transportation is required the Central train station,Museum Subway stop,buses and monorail are within 5 - 10 min walks. Conveniently close also to an IGA food store,Priceline Drug store,pubs and a variety of restaurants and cafes featuring all food varieties. Our decision to rebook our last 2 nights there is proof of our recommendation.  
+<Date>Nov 22, 2007
+<Rating>4	4	5	4	5	4	4	3	
+<Aspects>
+0	
+5	98(outside):1	187(quality):1	761(photo):1	1541(fixture):1	2878(justice):1	
+14	11(bed):1	61(shower):1	108(suite):1	111(spacious):2	116(tv):1	187(quality):1	440(furniture):1	528(ceiling):1	533(renovate):1	542(completely):1	579(appoint):1	1364(dvd):1	1541(fixture):2	4603(washrooms):1	
+43	1(location):1	2(night):1	7(walk):2	9(service):1	21(excellent):1	35(street):1	51(enjoy):1	64(spend):1	82(station):1	84(locate):1	93(easy):1	102(near):1	120(bus):1	122(stop):1	153(provide):1	168(central):1	182(train):1	211(facility):1	247(min):1	281(house):1	310(garden):1	322(recently):1	339(key):1	370(subway):1	474(separate):1	507(museum):1	561(harbor):1	722(require):1	728(transportation):1	769(south):1	809(sydney):1	879(centrally):1	1132(chinatown):1	1374(opera):1	1664(quay):1	1681(darling):1	1912(circular):1	2343(monorail):1	2548(memorial):1	3801(oxford):1	4278(botanical):1	4624(war):1	5999(liverpool):1	
+0	
+11	0(staff):1	5(time):1	14(helpful):1	36(desk):1	73(etc):1	153(provide):1	395(direction):1	1140(umbrella):1	1311(storage):1	1783(baggage):1	3293(lend):1	
+36	2(night):1	6(breakfast):1	10(restaurant):1	16(food):2	28(close):1	41(city):1	45(beautiful):1	71(include):1	74(perfect):1	97(internet):1	135(build):1	237(lounge):1	255(store):2	275(cafe):2	299(quick):1	318(fridge):1	413(variety):2	577(recommendation):1	594(explore):1	731(feature):1	820(microwave):1	1069(priceline):1	1070(conveniently):1	1117(inexpensive):1	1165(kitchenette):1	1334(beverage):1	1393(pub):1	1539(decision):1	1944(kettle):1	1973(proof):1	2073(availability):1	2256(drug):1	2849(toaster):1	3860(independent):1	7260(rebook):1	12341(aslo):1	
+0	
+
+<Author>eveski97
+<Content>Great Location! Nice Hotel! Didnt really have any expectations for this city hotel but it was great! Excellent location - dont do what we did and take a taxi from the central station to the hotel - your quicker walking it (get the map out!) due to one way streets and all that jazz! Right at the bottom of hyde park so instant and easy access to the city centre! Room was a fair size - nice and comfortable - cooking facilities consisted of a hob, kettle, microwave and toaster so made sure we were fed and watered coz to be honest we found it pretty hard to get anything decent to eat in the city as one of us is vegetarian (could not find the hard rock cafe for luv nor money!).... bathroom was very clean and nice - even had a wee heater which was good coz it was pretty cold when we were there! We were on the top floor...no views as such unless you look sideways up to hyde park but to be honest - who cares! Reception were nice and friendly - one gentleman in particular (he was either scandanavian or european) seemed to be there all the time (think he had a bed in the back! But he tried so hard to help with any queries! Cheers! So yes - recommended!  
+<Date>Oct 24, 2007
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+8	4(nice):1	15(recommend):1	92(help):1	162(hard):1	250(yes):1	253(tried):1	3041(query):1	3075(cheer):1	
+3	41(city):1	431(expectation):1	626(didnt):1	
+46	3(clean):1	4(nice):3	5(time):1	11(bed):1	12(friendly):1	13(bathroom):1	17(view):1	20(look):1	24(floor):1	25(comfortable):1	41(city):1	47(eat):1	57(water):1	66(park):1	80(money):1	83(size):1	109(pretty):2	118(top):1	129(reception):1	162(hard):2	211(facility):1	222(cold):1	242(care):1	257(decent):1	275(cafe):1	405(unless):1	550(cook):1	582(european):1	739(fair):1	773(rock):1	820(microwave):1	938(particular):1	970(nor):1	1108(honest):2	1185(consist):1	1506(gentleman):1	1944(kettle):1	2310(wee):1	2361(heater):1	2373(feed):1	2392(vegetarian):1	2816(hyde):1	2849(toaster):1	5332(sideways):1	7048(coz):2	8189(hob):1	
+12	1(location):2	7(walk):1	21(excellent):1	35(street):1	82(station):1	168(central):1	185(taxi):1	259(due):1	299(quick):1	503(dont):1	724(map):1	1563(jazz):1	
+0	
+0	
+0	
+8	41(city):1	66(park):1	93(easy):1	101(center):1	159(access):1	850(bottom):1	2816(hyde):1	2986(instant):1	
+
+<Author>runfrodo
+<Content>Great location  Clean rooms and convenient location. Close to shopping and city centre attractions. Good restaurants nearby (down stanley st.) and friendly staff. Stayed there for 5 days. I would stay there again.  
+<Date>Oct 1, 2007
+<Rating>4	5	5	5	5	5	4	3	
+<Aspects>
+1	8(day):1	
+0	
+3	1(location):2	3(clean):1	186(convenient):1	
+5	28(close):1	41(city):1	49(shop):1	101(center):1	350(attraction):1	
+0	
+6	0(staff):1	10(restaurant):1	12(friendly):1	232(nearby):1	655(st):1	7507(stanley):1	
+0	
+0	
+
+<Author>grater1
+<Content>Great Location We have stayed here 3 times now and this time appreciated the newly renovated rooms. The rooms are all now double glazed which makes for a very peacful sleep in the middle of Sydney. Each time we have found the staff to be friendly and rooms always clean. Nice large king beds and showers with good pressureThe location is great - a 10 min walk to the heart of Pitt STreet Mall or the the entertainment district, china town, art gallery, and the clubs and cafes of Oxford Street .  
+<Date>Sep 24, 2007
+<Rating>4	4	4	5	4	4	4	-1	
+<Aspects>
+0	
+0	
+13	0(staff):1	1(location):1	3(clean):1	5(time):3	12(friendly):1	104(sleep):1	179(double):1	325(middle):1	500(appreciate):1	533(renovate):1	809(sydney):1	1189(newly):1	2144(glaze):1	
+20	1(location):1	4(nice):1	7(walk):1	11(bed):1	35(street):2	61(shower):1	212(club):1	239(town):1	243(king):1	247(min):1	275(cafe):1	340(entertainment):1	433(district):1	450(heart):1	643(mall):1	789(art):1	1159(china):1	1794(gallery):1	3801(oxford):1	5468(pitt):1	
+0	
+0	
+0	
+0	
+
+<Author>Teecha
+<Content>Great location We stayed three nights at the Stellar recently. We arrived early and were pleased to be able to check into our room straight away. The female receptionist was very nice and very accommodating. The room was facing Wentworth Ave, but had double windows, so we didnt hear as much traffic noise as we thought we would. The room itself was nicely done out in modern colours and spacious and clean. (The bed was super comfortable too) . The bathroom was fantastic and large and the water pressure was great. (Could have done with more than one bar of soap though). It was nice to have the kitchen facilities to make a cup of tea or whatever. The hotel itself was within walking distance of the city (about 10-15 minutes). We also walked to the Paddington Market one morning and that took about half an hour. We ate most nights on Oxford Street as there are heaps of cheap eateries along there. The only complaint I would have about our room (and it is minor) would be the poor television reception, but we werent there to watch t.v! We had breakfast once in the Green Light lounge and at $9 a head it was reasonably cheap and you could eat all you wanted. All in all, I would recommend Stellar.  
+<Date>Jul 13, 2007
+<Rating>4	4	4	4	4	4	4	3	
+<Aspects>
+2	15(recommend):1	3660(stellar):1	
+7	2(night):1	35(street):1	47(eat):1	143(cheap):1	1779(eatery):1	3801(oxford):1	4038(heap):1	
+34	3(clean):1	11(bed):1	13(bathroom):1	25(comfortable):1	27(bar):1	32(check):1	53(arrive):1	57(water):1	86(fantastic):1	94(noise):1	111(spacious):1	119(window):1	129(reception):1	132(hear):1	151(modern):1	171(able):1	173(please):1	179(double):1	190(complaint):1	245(watch):1	331(poor):1	404(nicely):1	464(super):1	486(traffic):1	626(didnt):1	686(pressure):1	720(minor):1	827(straight):1	942(color):1	965(soap):1	1158(television):1	1433(ave):1	3037(werent):1	9537(wentworth):1	
+13	1(location):1	2(night):1	7(walk):2	29(minute):1	41(city):1	56(morning):1	60(hour):1	115(distance):1	264(market):1	283(half):1	322(recently):1	3660(stellar):1	9192(paddington):1	
+0	
+4	4(nice):1	624(accommodate):1	855(receptionist):1	1714(female):1	
+14	4(nice):1	6(breakfast):1	47(eat):1	143(cheap):1	157(light):1	211(facility):1	237(lounge):1	301(tea):1	319(head):1	461(kitchen):1	578(reasonably):1	800(cup):1	937(whatever):1	1005(green):1	
+0	
+
+<Author>Sethie
+<Content>Great hotel       Toilet view  
+<Date>Jun 11, 2007
+<Rating>5	5	4	3	5	5	-1	5	
+<Aspects>
+2	17(view):1	330(toilet):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>KeithnVic
+<Content>Nice hotel My husband and I spent two nights at the Hotel Stellar in Sydney. The location was in between the airport and the main attractions of Sydney. The harbor/opera house were within walking distance for those who are able to walk. I would say the walk is about 6 miles to the main attractions of Sydney. The hotel was clean, nice and the staff was friendly. We experienced rain while we were there and the hotel offered us free umbrellas for our use. There was no restaurant at the hotel but there was a cafe attached to the hotel and the food was good. I would recommend the hotel and would stay at the hotel again. Vic  
+<Date>May 10, 2007
+<Rating>4	3	4	3	4	4	4	4	
+<Aspects>
+8	2(night):1	4(nice):1	15(recommend):1	64(spend):1	105(husband):1	809(sydney):1	3660(stellar):1	10464(vic):1	
+5	44(experience):1	46(free):1	89(offer):1	581(rain):1	1140(umbrella):1	
+5	7(walk):2	115(distance):1	171(able):1	281(house):1	561(harbor):1	
+7	1(location):1	7(walk):1	95(airport):1	112(main):2	350(attraction):2	692(mile):1	809(sydney):2	
+4	0(staff):1	3(clean):1	4(nice):1	12(friendly):1	
+0	
+4	10(restaurant):1	16(food):1	275(cafe):1	1224(attach):1	
+0	
+
+<Author>Hitchiker_bear
+<Content>Great Little Hotel Spent three pleasant nights at the Stellar.Ours was a pleasant, very clean, (newly furnished in todays trendy beige/stone colours) studio room which faced east , and between the high rise apartments, managed to get the morning sun, so was not dark or gloomy with ample windows. Windows were double glazed but could be left ajar, if air conditioning was not preferred.Not too noisy given a large city situation, we are from a country town, and really only the occasional emergency vehicle sirens disturbed us with the windows ajar. The Stellars location was perfect. From the domestic airport to the Museum Station, (15 to 20 minutes) then a short ,slightly uphill walk and you are there. We visited Sydney to watch the QM2 and QE2's grand entrance into Sydney Harbour, so it was a pleasant walk from the hotel to Mrs Macquaries Chair, the Gardens, China Town or city shopping.The general concierge gentleman and ladies who attended the reception desk were relaxed, and professional and their smiles came easily and naturally whenever we passed through reception  
+<Date>Feb 23, 2007
+<Rating>4	4	4	4	5	4	4	4	
+<Aspects>
+5	2(night):1	23(little):1	64(spend):1	150(pleasant):1	3660(stellar):1	
+0	
+36	3(clean):1	41(city):1	43(leave):1	56(morning):1	119(window):3	150(pleasant):1	164(air):1	179(double):1	217(noisy):1	239(town):1	263(condition):1	420(sun):1	459(dark):1	530(country):1	536(prefer):1	645(manage):1	751(apartment):1	787(furnish):1	843(ours):1	890(situation):1	942(color):1	948(east):1	1067(disturb):1	1189(newly):1	1341(ample):1	1413(trendy):1	1436(rise):1	1445(studio):1	1951(vehicle):1	2144(glaze):1	2282(siren):1	2418(occasional):1	2561(emergency):1	4374(gloomy):1	5537(beige):1	9324(ajar):2	
+24	1(location):1	7(walk):2	29(minute):1	41(city):1	49(shop):1	65(visit):1	74(perfect):1	82(station):1	95(airport):1	144(short):1	150(pleasant):1	198(chair):1	239(town):1	245(watch):1	310(garden):1	365(grand):1	490(entrance):1	507(museum):1	561(harbor):1	598(slightly):1	809(sydney):2	1159(china):1	3597(uphill):1	4357(domestic):1	
+0	
+13	36(desk):1	129(reception):2	160(relax):1	204(concierge):1	387(smile):1	400(pass):1	438(easily):1	501(professional):1	521(lady):1	826(attend):1	1181(whenever):1	1506(gentleman):1	3710(naturally):1	
+0	
+0	
+
+<Author>Anthonyson
+<Content>Unbelievably insulting concierge!!! Hotel was conveniently located, We stayed for 8 days.Hall way constantly smelt of urine.Rooms were newly refurbished and hence,excellent.Showers were however far too weak. The whole stay was ruined by a remarkable incident on the last day when we had returned to pick up our luggage ( we checked out a.m.). The receptionist Pavol,when I requested to have our luggage back,held up a miniture bottle of whiskey and asked me to explain it (it had been emptied and clear liquid put in its place). I understood the implication and told him that it was,nt us and that we had,nt used the mini bar at all during our stay. To my astonishment he repeated the accusation.At this point I took exception and again repeated that we didnt touch the mini bar and that his insistance was rude and offensive. At this point I thought he would back down but amazingly,in very sarcastic tones,he repeated the accusation!!!  Well,at 45 years old ,and having travelled extensivley with business and pleasure, and also being in the customer service business I was astounded at the audacity of Pavol. I confess that I got very angry and shouted at him that ,having paid over $2800 to settle my bill would I really want to cheat them out of $5! Also,surely I would of done a better job and put tea colour liquid in the bottle? My taxi came and I left shaking with anger,we had spent three weeks in Sydney and ,up to that point ,had had an excellent experience. What a great shame. I have written twice to the hotel but I suspect that my letters are being intercepted as I have still not received a reply from hte General Manager. A reply has come back,and they say that Pavol has been a long standing and good employee.I leave you to draw your own conclusions. I think this hotel relies on its location for its business.I certainly dont think its due to its Customer Care!Thankyou.  
+<Date>Jan 26, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+17	43(leave):1	166(own):1	242(care):1	259(due):1	428(customer):1	444(stand):1	503(dont):1	608(employee):1	1292(shame):1	1467(repeat):2	1620(draw):1	1811(reply):1	1846(amazingly):1	2089(conclusion):1	2596(tone):1	5488(thankyou):1	9953(sarcastic):1	
+7	42(pay):1	495(bill):1	1414(settle):1	2146(shout):1	2830(angry):1	3934(cheat):1	7028(confess):1	
+6	21(excellent):1	61(shower):1	1189(newly):1	1253(refurbish):1	1770(weak):1	2306(hence):1	
+21	1(location):1	8(day):1	9(service):1	21(excellent):1	43(leave):1	44(experience):1	64(spend):1	68(travel):1	75(week):1	84(locate):1	147(business):3	185(taxi):1	428(customer):1	809(sydney):1	907(pleasure):1	1070(conveniently):1	2327(rely):1	2517(shake):1	5066(astound):1	7768(anger):1	9343(audacity):1	
+4	231(smell):1	616(hall):1	995(constantly):1	3191(urine):1	
+27	8(day):1	32(check):1	39(return):1	148(request):1	204(concierge):1	238(bottle):1	249(luggage):2	258(manager):1	266(pick):1	302(receive):1	344(write):1	347(twice):1	593(hold):1	768(explain):1	810(empty):1	855(receptionist):1	1243(ruin):1	1811(reply):1	1972(letter):1	1983(suspect):1	2013(incident):1	2590(unbelievably):1	2809(insult):1	3163(remarkable):1	3838(liquid):1	5226(whiskey):1	8066(hte):1	
+17	27(bar):2	69(tell):1	238(bottle):1	279(touch):1	301(tea):1	391(understand):1	392(rude):1	448(mini):2	481(job):1	626(didnt):1	942(color):1	1128(exception):1	1467(repeat):1	2033(surely):1	3838(liquid):1	4350(offensive):1	7784(nt):2	
+0	
+
+<Author>DonMo
+<Content>Sydney Star Comfortable room, welcoming staff, short walk to shopping. What more do you need.  
+<Date>Dec 1, 2006
+<Rating>4	4	4	4	4	4	4	4	
+<Aspects>
+0	
+0	
+0	
+8	0(staff):1	7(walk):1	25(comfortable):1	49(shop):1	103(star):1	144(short):1	202(welcome):1	809(sydney):1	
+0	
+0	
+0	
+0	
+
+<Author>muckymacca
+<Content>Excellent city location As part of the honeymoon, we stayed at the Hotel Stellar (but as a lover of the lager we had no hesitation in taking the travel agents recommendation - seriously!) for 4 nights.Ideally located for the CBD - shopping and a 20 min walk to the harbour and opera house.Extremely clean rooms even if the reception isnt the most appealling - however, how much time do you spend in the reception???The staff however were extremely helpful, helping us to get medication that had been left in the UK and making plenty of recommendations for restaurants etc.Whilst there, you have to do the Hunter Valley trip for all wine lovers - however, you have to splash out and go for the 4WD upgrades where available - so much more personal and if you are lucky - you get to do twice as many vinyards as the coach trips!!! We did! Bleurgh but great fun! Just watch out if you are getting a taxi from the airport to the hotel - they know what they are doing and find a longer way to the destination than the taxi back to the airport! But if that is all I can complain about Sydney, you have no worries...dont be moaning POME's as Max would say!  
+<Date>Nov 3, 2006
+<Rating>4	4	4	4	4	5	-1	-1	
+<Aspects>
+8	2(night):1	176(fun):1	241(complain):1	503(dont):1	809(sydney):1	831(worry):1	2169(max):1	3644(moan):1	
+12	1(location):1	21(excellent):1	41(city):1	68(travel):1	502(honeymoon):1	577(recommendation):1	766(agent):1	1373(hesitation):1	1441(seriously):1	2568(lover):1	3660(stellar):1	8252(lager):1	
+6	3(clean):1	5(time):1	64(spend):1	110(extremely):1	129(reception):2	2377(isnt):1	
+13	7(walk):1	49(shop):1	84(locate):1	95(airport):2	185(taxi):2	245(watch):1	247(min):1	281(house):1	561(harbor):1	1092(destination):1	1374(opera):1	1800(ideally):1	2731(cbd):1	
+0	
+0	
+24	0(staff):1	10(restaurant):1	14(helpful):1	33(trip):2	43(leave):1	73(etc):1	92(help):1	110(extremely):1	134(available):1	158(plenty):1	163(upgrade):1	251(wine):1	347(twice):1	577(recommendation):1	711(personal):1	797(lucky):1	877(whilst):1	1178(uk):1	2423(splash):1	2568(lover):1	2569(valley):1	2600(coach):1	3471(medication):1	8476(hunter):1	
+0	
+
+<Author>MaggieP6789
+<Content>Well, it was just okay The hotel itself is nice, and okay for the price. Got an okay deal through centralr (okay deal--not a great deal.) Rooms are nice with microwave, fridge, stove. But they are not particularly cleaned well everyday--not vacummed as far as I can tell. Soap, shampoo not repalced daily. (Actually we had one little pitiful bar of soap throughout our stay.) So housekeeping is not exactly assiduous. Also, they require a $50 key deposit, which I have not experience elsewhere. Front desk staff is overall not very good or helpful. Their was one girl who seemed pretty on the ball, so we waited until she was on duty to have a taxi booked, ask questions, etc. The website says they hae a concierge, but other than the one person manning the front desk, I saw no concierge. Location is about a 20 minute walk to the harbour/operahouse/Rocks. We stayed ther 5 nights, and the one helpful girl finally gave us a map of Sydney and told us where the nearest train staion was after we were there a couple of days. I went across the street to the Y Hotel to ask their staff for information, use the internet, etc. Would have stayed there instead had they not been booked. Still, the Hotel Stellar rooms are nice.  
+<Date>Sep 21, 2006
+<Rating>2	2	4	2	2	1	1	2	
+<Aspects>
+2	140(deal):3	453(okay):2	
+8	4(nice):1	19(price):1	44(experience):1	339(key):1	453(okay):2	646(elsewhere):1	722(require):1	1603(deposit):1	
+15	4(nice):2	23(little):1	27(bar):1	180(actually):1	318(fridge):1	360(daily):1	367(housekeeping):1	445(throughout):1	586(exactly):1	820(microwave):1	965(soap):2	1051(shampoo):1	2848(stave):1	3660(stellar):1	7623(pitiful):1	
+24	1(location):1	2(night):1	7(walk):1	8(day):1	14(helpful):1	18(book):1	29(minute):1	69(tell):1	73(etc):1	85(wait):1	99(couple):1	102(near):1	109(pretty):1	182(train):1	185(taxi):1	341(finally):1	394(question):1	625(girl):2	724(map):1	809(sydney):1	1325(duty):1	1685(ball):1	3946(ther):1	10720(staion):1	
+4	3(clean):1	69(tell):1	553(particularly):1	605(everyday):1	
+12	0(staff):2	14(helpful):1	31(front):2	35(street):1	36(desk):2	70(overall):1	73(etc):1	97(internet):1	193(person):1	204(concierge):2	262(website):1	649(information):1	
+2	18(book):1	353(instead):1	
+0	
+
+<Author>JeffreyChicago
+<Content>Excellent value, good design My partner and I stayed at the Hotel Stellar for a week in late July, visiting from Chicago. It has great value (we booked on the web and had a rate half the price of similar hotels in Sydney), features large spacious rooms with minimalist, modern design and lighting, is exceptionally clearn, and a good location. (You might do better location-wise as a tourist staying nearer Circular Quay, which is nevertheless an easy subway, bus, or 20-25-minute walk through beatiful Hyde Park. Location would be excellent for business travellers on a budget, and perfect for gay and lesbian Mardi Gras, right at the beginning of Oxford Street. Museum subway stop is 1.5 blocks away; Central a quick cab ride.) The hotel staff is competent and friendly. There's no concierge and they don't have a terrific amount of info on Sydney; the lobby is basically ambience-free, but it's tremendous value for the price anyway. Our room had a kitchenette, and there's a coin laundry. Looks like the hotel caters mostly to tourists -- all ages, lots of nationalities (Germans, Americans, Canadians, Brits, Australians, New Zealanders...), gay and straight, families, groups of friends.Two very minor surprises: little flexibility on check-out time (but they happily stow luggage) and the in-room safes are a small, added daily fee.Well above average, and highly recommended if you're not looking for high-end frills.  
+<Date>Aug 16, 2006
+<Rating>4	5	5	4	5	4	4	4	
+<Aspects>
+20	15(recommend):1	20(look):2	38(lot):1	106(family):1	138(highly):1	146(friend):1	209(tourist):1	227(average):1	505(age):1	827(straight):1	1000(cater):1	1172(americans):1	2210(frill):1	2552(gay):1	2634(canadians):1	3092(high-end):1	3746(germans):1	3857(nationality):1	4314(brits):1	8006(australians):1	
+31	1(location):1	18(book):1	19(price):2	21(excellent):1	55(lobby):1	65(visit):1	75(week):1	78(rate):1	79(late):1	81(value):3	111(spacious):1	151(modern):1	157(light):1	204(concierge):1	283(half):1	417(anyway):1	516(design):2	666(amount):1	699(terrific):1	731(feature):1	790(basically):1	809(sydney):2	874(similar):1	1006(partner):1	1019(web):1	1242(exceptionally):1	1360(info):1	2609(minimalist):1	2671(tremendous):1	2706(chicago):1	3660(stellar):1	
+3	1075(laundry):1	1165(kitchenette):1	3424(coin):1	
+32	1(location):1	7(walk):1	21(excellent):1	35(street):1	66(park):1	74(perfect):1	93(easy):1	100(bloc):1	102(near):1	120(bus):1	122(stop):1	147(business):1	168(central):1	209(tourist):1	218(ride):1	267(traveler):1	299(quick):1	370(subway):2	380(cab):1	429(budget):1	507(museum):1	551(begin):1	1664(quay):1	1912(circular):1	2552(gay):1	2816(hyde):1	2925(gras):1	3106(mardi):1	3801(oxford):1	4068(beatiful):1	6992(location-wise):1	12126(lesbian):1	
+0	
+17	0(staff):1	5(time):1	12(friendly):1	23(little):1	137(safe):1	199(surprise):1	249(luggage):1	351(add):1	360(daily):1	584(fee):1	658(checkout):1	720(minor):1	1301(in-room):1	1642(happily):1	2921(competent):1	5963(flexibility):1	6512(stow):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great All-rounder! Reasonably quiet, close to everything especially transport, very friendly staff; especially the cleaners and the maintenance man (ask him for directions, he's awesome!).Facilities were good except the tv fuzzed from time to time but the staff compensated us for this nicely. We would recommend people stay here as it is well worth the price and the location is excellent.  
+<Date>Feb 15, 2006
+<Rating>4	5	5	-1	4	-1	4	-1	
+<Aspects>
+0	
+6	1(location):1	15(recommend):1	19(price):1	21(excellent):1	26(people):1	96(worth):1	
+7	0(staff):1	5(time):2	116(tv):1	211(facility):1	337(except):1	404(nicely):1	2243(compensate):1	
+11	0(staff):1	12(friendly):1	28(close):1	58(quiet):1	126(especially):2	348(awesome):1	395(direction):1	578(reasonably):1	742(transport):1	1149(maintenance):1	2487(cleaner):1	
+0	
+0	
+0	
+0	
+
+<Author>KANGA54
+<Content>VERY GOOD just spent 2 nights at the steller hotel,wentworth avenue ,sydney.very clean,smart rooms with all mod cons.would recommend .just be careful of the weather ,we were just sightseeing and managed to get sunburnt,so remember the sun tan cream even if you are just walking about.  
+<Date>Jan 10, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	15(recommend):1	
+0	
+4	3(clean):1	840(Con):1	1687(smart):1	4320(Mod):1	
+15	2(night):1	7(walk):1	64(spend):1	375(remember):1	385(weather):1	420(sun):1	640(sight-see):1	645(manage):1	809(sydney):1	897(careful):1	1090(avenue):1	1188(cream):1	2274(tan):1	8349(sunburnt):1	9537(wentworth):1	
+0	
+0	
+0	
+0	
+

@@ -1,0 +1,518 @@
+<Author>amidgett
+<Content>Good Hotel The hotel itself is ok. The building is faily old but the room is big and clean. The bed is comfortable and what suprise us was there is a jacuzzi inside the room. It's not that big, but it's good enough for one person. Refrigerator and microwave are available inside the room. Free internet. Shuttle service is availble at no charge to go to restaurants within 1 mile radius from hotel (they don't have any restaurants inside the hotel). Free shuttle to go to airport.  
+<Date>Dec 28, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	123(ok):1	193(person):1	
+0	
+10	3(clean):1	11(bed):1	25(comfortable):1	134(available):1	135(build):1	408(inside):2	808(jacuzzi):1	820(microwave):1	916(refrigerator):1	1738(suprise):1	
+3	46(free):1	95(airport):1	321(shuttle):1	
+0	
+0	
+8	9(service):1	10(restaurant):2	136(charge):1	321(shuttle):1	408(inside):1	692(mile):1	4443(radius):1	9265(availble):1	
+2	46(free):1	97(internet):1	
+
+<Author>maxanddrew
+<Content>I've stayed at better Fairfield's...       king bed  
+<Date>Sep 25, 2008
+<Rating>3	3	3	4	4	2	5	-1	
+<Aspects>
+0	
+0	
+3	11(bed):1	243(king):1	6802(fairfield):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>TRSanDiego
+<Content>Nice hotel for the price We were in town for a wedding and needed to stay near the airport. We paid $119 per night and stayed 2 nights. We were surprised at how clean and nice the room was. The hotel Lobby is simple but nice. The gym is small but served it's purpose for a quick run on the treadmill. The staff was very courteous and helpful. Breakfast was simple - there were options such as fruit, hard-boiled egss, oatmeal in addition to waffles, breakast sandwiches and other typical breakfast items. I would stay here again.Two Problems - 1. The room door. It is too close to the closet. Each time you open the door you have to move the hangers.2. The sink is outside of the bathroom - no privacy for getting ready if you are sharing a room.  
+<Date>Sep 17, 2008
+<Rating>4	4	4	5	5	5	5	5	
+<Aspects>
+4	5(time):1	54(door):1	207(move):1	2506(hanger):1	
+8	2(night):2	4(nice):1	19(price):1	42(pay):1	95(airport):1	102(near):1	239(town):1	604(wed):1	
+10	3(clean):1	4(nice):1	13(bathroom):1	54(door):1	98(outside):1	199(surprise):1	274(ready):1	509(sink):1	520(share):1	1183(privacy):1	
+2	28(close):1	565(closet):1	
+0	
+3	0(staff):1	14(helpful):1	483(courteous):1	
+20	4(nice):1	6(breakfast):2	55(lobby):1	149(run):1	174(serve):1	215(fruit):1	299(quick):1	336(option):1	519(item):1	523(gym):1	613(simple):2	628(typical):1	918(addition):1	1071(sandwich):1	1428(purpose):1	1557(waffle):1	2212(treadmill):1	3073(oatmeal):1	6273(hard-boil):1	7347(breakast):1	
+0	
+
+<Author>Tartan-Sailor
+<Content>OK if sleep unimportent The good...clean, well-equipped room. The bad...room was on first floor...could not sleep past 4 AM. The problem...constant, loud noise from floor above due to travelers wheeling luggage down hallway. If you must stay here, insist on a room on an upper level floor.  
+<Date>Sep 8, 2008
+<Rating>2	2	2	3	5	3	2	-1	
+<Aspects>
+0	
+0	
+18	3(clean):1	24(floor):3	50(bad):1	94(noise):1	104(sleep):2	123(ok):1	249(luggage):1	259(due):1	267(traveler):1	306(level):1	416(loud):1	419(past):1	580(hallway):1	1333(upper):1	1432(constant):1	1495(insist):1	2495(wheel):1	3542(well-equip):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>sweetnesspalace
+<Content>Most Comfortable Beds! I have stayed at this hotel a few years ago and had good success so I figured I'd give it another try. Again, the Fairfield Inn did not disappoint me. The hotel itself is located very close to the airport which makes getting to/from very convenient. The staff has also always been very friendly each time I checked in. The beds were the most comfortable of all 5 hotels that we stayed at throughout our time in the Washington area. We even stayed at some fancier hotels, and still agreed that the Fairfield was the most comfortable. The sink/mirror was located on the outside of the shower/toilet part which was nice when getting ready with more than one person in the room. I feel that the free breakfast is above average for a hotel of similar ratings. There was hard boiled eggs, yogurt, bread/bagels/doughnuts, waffle makers, cereal, juice/milk/coffee/tea, instant oatmeal, fresh fruit and even Jimmy Dean breakfast sandwiches. We just grabbed a quick meal as the breakfast area was very crowded and I was happy to just leave the area. One complaint would be, that they should really expand the breakfast area so that there are more tables/chairs and more room for people to walk around while grabbing their breakfast. Plus there was the staff who was restocking the items (which weren't even low) which added to some of the frustration of trying to move around. But that wasn't too big of a deal. Because of the wonderful Famtastic program, I am able to experience different Marriott hotels and recommend them to my clients. Overall I would say that I am quite pleased with this hotel and will continue to recommend this place to others.  
+<Date>Aug 23, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	15(recommend):1	70(overall):1	76(try):1	140(deal):1	173(please):1	633(ago):1	779(figure):1	1096(continue):1	3528(success):1	
+7	15(recommend):1	44(experience):1	48(wonderful):1	171(able):1	618(marriott):1	1531(program):1	1952(client):1	
+23	4(nice):1	5(time):1	6(breakfast):2	7(walk):1	11(bed):2	25(comfortable):3	26(people):1	61(shower):1	84(locate):1	98(outside):1	154(disappoint):1	190(complaint):1	193(person):1	274(ready):1	324(inn):1	445(throughout):1	473(agree):1	509(sink):1	796(fancy):1	1139(grab):1	2721(washington):1	4508(expand):1	6802(fairfield):2	
+4	28(close):1	84(locate):1	95(airport):1	186(convenient):1	
+0	
+12	0(staff):2	5(time):1	12(friendly):1	32(check):1	76(try):1	203(plus):1	207(move):1	351(add):1	513(low):1	519(item):1	2118(restock):1	3573(frustration):1	
+29	6(breakfast):3	34(feel):1	43(leave):1	46(free):1	155(happy):1	162(hard):1	197(fresh):1	213(meal):1	215(fruit):1	227(average):1	299(quick):1	301(tea):1	313(crowd):1	362(juice):1	412(egg):1	497(bread):1	529(cereal):1	874(similar):1	927(yogurt):1	996(maker):1	1071(sandwich):1	1139(grab):1	1557(waffle):1	1598(boil):1	2608(rating):1	2986(instant):1	3073(oatmeal):1	5420(jimmy):1	6060(dean):1	
+0	
+
+<Author>Solochicky
+<Content>Served its purpose We checked into this hotel at 11pm the night before a 7am flight. It was selected for it's price, proximity to the airport, and airport shuttle. It was clean, the front desk was very friendly, and there was less noise than I would have expected being that close to the airport. Oh, and the wake-up call we requested and received ended up being a song - which was odd but ok even at 4:30am. We were able to grab a quick bite to eat before attempting to take the shuttle to the airport. That was the most disapointing part - they only had one shuttle going and it was full three times before we could get on. That and the driver was a bit of a double-talker (when we asked why there hadn't been a shuttle at 5am, he replied that there was even though we had been down there and saw no shuttle. Only after we talked to the desk did we come to find out that the 5am shuttle actually left before 5am). Overall, this hotel served our purpose well.  
+<Date>Aug 20, 2008
+<Rating>3	3	3	5	3	5	2	-1	
+<Aspects>
+0	
+0	
+7	2(night):1	32(check):1	174(serve):1	233(flight):1	1428(purpose):1	6302(7am):1	6840(11pm):1	
+27	3(clean):1	5(time):1	12(friendly):1	19(price):1	28(close):1	31(front):1	36(desk):2	43(leave):1	47(eat):1	52(bit):1	62(expect):1	94(noise):1	95(airport):4	171(able):1	180(actually):1	299(quick):1	321(shuttle):6	371(talk):1	563(driver):1	1042(bite):1	1114(proximity):1	1119(attempt):1	1139(grab):1	1294(select):1	1811(reply):1	2513(disapoint):1	9113(5am):3	
+0	
+7	67(call):1	123(ok):1	148(request):1	302(receive):1	1088(odd):1	2474(song):1	3394(wake-up):1	
+3	70(overall):1	174(serve):1	1428(purpose):1	
+0	
+
+<Author>Love2TravelVA
+<Content>Decent airport hotel We stayed here for one night before an early morning flight. The room and bathroom were small but clean. The staff was very pleasant. Since there is no restaurant, they run the shuttle for free to restaurants within a few miles radius. This was convenient for dinner. Of course, the shuttle is also free for airport pickups. There's continental breakfast, but we had to leave before it started. We paid with points; so, it was definitely worth a quick stay.  
+<Date>Jul 27, 2008
+<Rating>3	3	3	3	3	4	3	-1	
+<Aspects>
+0	
+8	6(breakfast):1	42(pay):1	43(leave):1	59(definitely):1	96(worth):1	165(start):1	299(quick):1	372(continental):1	
+7	2(night):1	3(clean):1	13(bathroom):1	56(morning):1	95(airport):1	233(flight):1	257(decent):1	
+9	10(restaurant):2	46(free):2	95(airport):1	149(run):1	293(course):1	321(shuttle):2	692(mile):1	2258(pickup):1	4443(radius):1	
+0	
+2	0(staff):1	150(pleasant):1	
+2	117(dinner):1	186(convenient):1	
+0	
+
+<Author>PHXTrainer
+<Content>Basic and clean Stayed here one night for a meeting nearby. The hotel is clean and basic. Definitely nothing to wrote home about but not bad for the price. Seattle hotels are ALL very expensive. About $115 night is the lowest you want to go.  The room was smaller, bed was only decent, and the bathroom was small. The area around the airport is rough, but its an area around an airport, what are you really expecting?  I felt like I got my moneys worth as the room was clean, the staff was friendly and I felt safe in the hotel. There was also complimentary internet.  If I needed to stay near the airport I would stay here again. I do however prefer not to stay near the airport.  
+<Date>Jun 4, 2008
+<Rating>3	3	3	3	4	4	4	4	
+<Aspects>
+2	2(night):1	513(low):1	
+7	19(price):1	50(bad):1	59(definitely):1	124(expensive):1	141(home):1	344(write):1	762(seattle):1	
+15	0(staff):1	3(clean):1	11(bed):1	12(friendly):1	13(bathroom):1	34(feel):2	62(expect):1	80(money):1	95(airport):4	96(worth):1	102(near):2	137(safe):1	257(decent):1	536(prefer):1	1047(rough):1	
+0	
+5	2(night):1	3(clean):2	196(meet):1	232(nearby):1	352(basic):2	
+0	
+0	
+2	97(internet):1	345(complimentary):1	
+
+<Author>Ariel28
+<Content>Wonderful clean hotel We just returned from a 4 night stay at the Fairfield Seattle Seatac. I found the hotel and rooms to be very clean and in great condition. The sink is outside the bathroom but this was not a problem for us as one could shower while the other finished getting ready at the sink/mirrors. The bathroom is a little tight but for a hotel it is fine. We always had hot water and the pressure on the shower was fine. The bed was comfortable and they use all white linens/duvet with just a removable runner that is a pattern at the bottom of the bed (this was the main reason I picked the Fairfield, no nasty dark comforters that are hardly ever washed). You can hear the jets taking off but it stops around midnight. The noise did not bother me as I grew up hearing planes take off from Philly Inter'l. The hotel itself was very quiet at night. In the morning you could hear the neighbors water go on but not obnoxiously loud, but that is par for the course at most hotels.The room looks exactly like the picture on the website. I requested a top floor king room based on prior reviews. We had a beautiful view of Mt. Rainer (we stayed in room 432). The breakfast was good and they kept it stocked and fresh. They had waffles, hard boiled eggs, Jimmy Dean breakfast sandwiches, toast, bagels, muffins, yogurt, cereal and oatmeal. There is also a 24 coffee/tea/hot chocolate/hot cider available in the lobby.The front desk staff was very friendly and sad hello to you each time you passed through the lobby. Upon check in they asked if we needed an internet wire, which we did. They have wired internet in the rooms and also a computer in the lobby available for use and printing needs. The only problem there was people not obeying the 10 minute limit. We wanted to print directions and a man was there for 20 minutes typing an email. We finally gave up and left. They do have a sign posted to restrict time to 10 minutes but obviously some people can not be considerate of others. Also, as a side note to the reviewer who talked about barbed wire outside the first floor rooms. When I was looking out the window at Mt Rainer I glanced down and noticed a fence separating the Fairfield from what looked like a car facility (possibly rental cars) next door. The barbed wire was on the top of the fence. My guess is the barbed wire is there to stop people from scaling the fence to try to steal cars from the place next door. It has nothing to do with the safety of the Fairfield. We felt very safe and comfortable at the Fairfield and would definitely stay there in the future.  
+<Date>Mar 6, 2008
+<Rating>5	4	5	4	5	5	4	4	
+<Aspects>
+24	5(time):1	26(people):2	29(minute):3	43(leave):1	56(morning):1	57(water):1	122(stop):1	132(hear):2	293(course):1	341(finally):1	389(type):1	395(direction):1	416(loud):1	449(sign):1	510(limit):1	644(post):1	781(obviously):1	934(neighbour):1	1044(midnight):1	1101(print):1	1589(jet):1	1666(par):1	3834(considerate):1	4113(restrict):1	
+0	
+76	2(night):2	3(clean):2	11(bed):2	13(bathroom):2	17(view):1	20(look):3	23(little):1	24(floor):2	25(comfortable):2	34(feel):1	37(review):1	39(return):1	45(beautiful):1	48(wonderful):1	54(door):1	57(water):1	58(quiet):1	59(definitely):1	61(shower):2	94(noise):1	98(outside):2	112(main):1	113(fine):2	114(hot):1	118(top):2	119(window):1	121(car):2	132(hear):1	137(safe):1	148(request):1	211(facility):1	243(king):1	262(website):1	263(condition):1	266(pick):1	274(ready):1	284(base):1	297(note):1	307(bother):1	354(notice):1	371(talk):1	374(reason):1	456(picture):1	459(dark):1	466(white):1	474(separate):1	509(sink):2	564(reviewer):1	586(exactly):1	637(prior):1	686(pressure):1	732(future):1	762(seattle):1	772(finish):1	811(wash):1	850(bottom):1	963(rental):1	968(plane):1	985(hardly):1	1233(possibly):1	1399(tight):1	1448(safety):1	1639(nasty):1	1659(grow):1	1694(comforter):1	1904(wire):2	2841(runner):1	3666(glance):1	3694(fence):2	4291(mt):2	4483(pattern):1	5134(seatac):1	6802(fairfield):5	7495(philly):1	10050(inter):1	11786(removable):1	
+0	
+0	
+12	0(staff):1	5(time):1	12(friendly):1	31(front):1	32(check):1	36(desk):1	55(lobby):1	97(internet):1	400(pass):1	1454(sad):1	1519(hello):1	1904(wire):1	
+31	6(breakfast):2	26(people):1	54(door):1	55(lobby):1	76(try):1	90(coffee):1	121(car):1	122(stop):1	134(available):1	162(hard):1	197(fresh):1	412(egg):1	469(guess):1	529(cereal):1	599(stock):1	632(chocolate):1	875(toast):1	927(yogurt):1	1071(sandwich):1	1187(steal):1	1260(muffin):1	1370(bagels):1	1557(waffle):1	1598(boil):1	1904(wire):1	2428(scale):1	3073(oatmeal):1	3694(fence):1	5420(jimmy):1	6060(dean):1	7957(cider):1	
+6	55(lobby):1	97(internet):1	134(available):1	555(computer):1	1101(print):1	1904(wire):1	
+
+<Author>WSmile5
+<Content>Busy Airport Hotel Busy airport hotel with nice view of Rainier, if your room faces south and is 2d or 3d floor like mine. Standard Fairfield otherwise. Room  beds clean  comfy. Parking a bit tight late nights. Stayed 1 night Oct 2007.  
+<Date>Oct 16, 2007
+<Rating>3	3	3	4	3	3	3	-1	
+<Aspects>
+2	2(night):1	1851(oct):1	
+0	
+14	3(clean):1	4(nice):1	11(bed):1	17(view):1	24(floor):1	95(airport):2	130(standard):1	220(busy):2	475(comfy):1	508(otherwise):1	769(south):1	1269(mine):1	2300(rainy):1	6802(fairfield):1	
+5	2(night):1	52(bit):1	66(park):1	79(late):1	1399(tight):1	
+0	
+0	
+0	
+0	
+
+<Author>disneyfan75
+<Content>Average hotel with a nice breakfast. We stayed here during our trip to Seattle. After reading some fo the reviews on this website, we requested a top floor room to avoid the noise from a room above. The room was clean. Just your average hotel room but for about 1/2 the cost of a room in Downtown Seattle it was well worth it for us. The continental breakfast was great. My only complaint was that it only went to 9 a.m during the week which caused those of us who were traveling for pleasure to wake up earlier then normal to make sure that we were able to get breakfast. The room was supplied with a mini fridge and a microwave. The hotel is very close to the airport so you will hear the planes taking off and landing but with the windows closed and the air conditioner on you can barely hear them. However, being close to the airport is a big plus when you have an early morning flight as it takes less then 10 minutes to get to the airport.Overall, it is your average hotel. If you are looking for a high class room with a view, this is definitely not the hotel for you. However, if you are looking for a cheaper alternative with a place to rest your head, this is difinitely the place for you but I would recommend getting a top floor room, if possible.  
+<Date>Sep 16, 2007
+<Rating>3	-1	3	3	3	3	3	-1	
+<Aspects>
+4	33(trip):1	70(overall):1	227(average):1	762(seattle):1	
+5	96(worth):1	175(cost):1	227(average):1	334(downtown):1	762(seattle):1	
+32	3(clean):1	15(recommend):1	17(view):1	20(look):2	24(floor):2	28(close):3	29(minute):1	37(review):1	56(morning):1	59(definitely):1	88(read):1	94(noise):1	95(airport):3	118(top):2	119(window):1	132(hear):2	143(cheap):1	148(request):1	164(air):1	203(plus):1	233(flight):1	262(website):1	288(rest):1	319(head):1	436(avoid):1	470(class):1	968(plane):1	1020(barely):1	1083(conditioner):1	1298(alternative):1	1346(land):1	4923(fo):1	
+0	
+0	
+0	
+16	4(nice):1	6(breakfast):3	68(travel):1	75(week):1	171(able):1	190(complaint):1	227(average):1	318(fridge):1	372(continental):1	448(mini):1	554(wake):1	820(microwave):1	859(supply):1	878(normal):1	907(pleasure):1	943(cause):1	
+0	
+
+<Author>lhs1
+<Content>Typical airport hotel Rooms are clean and one can faintly hear the planes with the fan/air on. Convenient shuttle takes you to the airport.  
+<Date>Aug 25, 2007
+<Rating>3	3	3	4	3	3	3	3	
+<Aspects>
+0	
+0	
+7	3(clean):1	95(airport):1	132(hear):1	628(typical):1	661(fan):1	968(plane):1	9903(faintly):1	
+3	95(airport):1	186(convenient):1	321(shuttle):1	
+0	
+0	
+0	
+0	
+
+<Author>qualitydoor
+<Content>no service There is NO service in this hotel. I paid $129 per night and I had to bring my laundry downstairs and when it came back dry cleaned they did not bring it to my room. I had to go to the counter to bring it up. When I asked why they did not bring it upstairs to my room, they made no effort to bring it upstairs but they were giving me silly excuses. When the employee went to the back to get my dry cleaned laundry, she was telling another employee how it was a hassle to handle the dry cleaning part of the job.Also, there is no wireless in the room. For a Marriot, it's a very very poor grade hotel and would NOT recommend. In a hotel like this I would NOT pay a cent more then $75 per night. That's what it's proper grade is.  
+<Date>Jul 26, 2007
+<Rating>1	1	2	2	2	-1	-1	2	
+<Aspects>
+7	15(recommend):1	142(bring):1	331(poor):1	1001(counter):1	1719(proper):1	2472(marriot):1	2827(grade):2	
+3	2(night):1	42(pay):1	1888(cent):1	
+12	2(night):1	3(clean):1	42(pay):1	142(bring):4	691(downstairs):1	717(wireless):1	1017(effort):1	1075(laundry):1	1257(dry):1	1358(upstairs):2	1965(excuse):1	2638(silly):1	
+0	
+8	3(clean):2	69(tell):1	481(job):1	608(employee):2	966(handle):1	1075(laundry):1	1193(hassle):1	1257(dry):2	
+0	
+1	9(service):2	
+0	
+
+<Author>asb165
+<Content>Unacceptable Shuttle Service My wife and I stayed at the Fairfield Inn on a Saturday night before an early Sunday flight out of Seatac.I dropped off my wife and luggage off at the hotel and then let the front desk know that I was going to return my rental car. They informed me that they would not send a shuttle until I called from the courtesy phone at the airport.I returned the car at 10:10 PM and placed the call from the courtesy phone less than 5 minutes later. I was not picked up until 3 calls from myself, more than that from my wife in the hotel room, and I walked into the hotel, about a 5-7 minute ride from the airport at 11:45 PM.We never really received an explanation for what took them so long, but the excuses ranged from the rain (in Seattle), to the fact that other groups were eating dinner at local restaurants and so they were prioritized.After speaking to a manager upon our return home, we ultimately received 50% off the room cost.The room itself was pretty noisy, the walls were thin, hallways loud, and the sink is not located in the bathroom itself, but in the room.On the plus side, the make-your-own waffles at the free breakfast were tasty.If I had to stay at a Seatac airport again, I would not stay at the Fairfield.  
+<Date>Jul 24, 2007
+<Rating>1	1	2	3	3	2	1	-1	
+<Aspects>
+8	29(minute):1	39(return):1	67(call):1	79(late):1	121(car):1	296(phone):1	393(pm):1	1728(courtesy):1	
+7	39(return):1	127(speak):1	141(home):1	175(cost):1	258(manager):1	302(receive):1	3716(ultimately):1	
+27	2(night):1	7(walk):1	9(service):1	13(bathroom):1	29(minute):1	67(call):1	84(locate):1	95(airport):2	109(pretty):1	183(wall):1	184(wife):2	217(noisy):1	218(ride):1	233(flight):1	266(pick):1	321(shuttle):1	324(inn):1	393(pm):1	416(loud):1	509(sink):1	580(hallway):1	754(thin):1	818(saturday):1	844(sunday):1	2230(unacceptable):1	5134(seatac):2	6802(fairfield):2	
+7	67(call):1	95(airport):1	296(phone):1	321(shuttle):1	447(send):1	817(inform):1	1728(courtesy):1	
+0	
+8	31(front):1	36(desk):1	39(return):1	121(car):1	184(wife):1	249(luggage):1	662(drop):1	963(rental):1	
+16	6(breakfast):1	10(restaurant):1	46(free):1	47(eat):1	117(dinner):1	195(local):1	203(plus):1	302(receive):1	581(rain):1	714(range):1	762(seattle):1	984(tasty):1	1557(waffle):1	1965(excuse):1	2693(explanation):1	11112(make-your-own):1	
+0	
+
+<Author>thecheaptraveler
+<Content>Not recommended... We stayed here last Labor Day weekend. We paid a $114 + tax rate. It felt like a very low level motel we stayed in. The rooms were dark and not updated. The carpet was dirty and the beds were not comfortable. The location in Seatac didn't seem very safe (at least it seemed like that to us since it was dark when we arrived). Parking lot was full so we had to park far away. There were a few other hotels that were nearby and they looked (from the outside) bit more updated. Don't be fooled by the picture of the Pool on Marriott's website. It is extremely tiny and if you have a few kids in there, it is already cramped.Their free continental breakfast was actually very good. They had a lot more stuff than I was expecting. So I give it two thumbs up for that... just it could get crowded at peak times so plan ahead to go get breakfast early.  
+<Date>Jul 5, 2007
+<Rating>2	2	1	3	2	4	3	-1	
+<Aspects>
+15	8(day):1	15(recommend):1	34(feel):1	38(lot):1	62(expect):1	110(extremely):1	172(weekend):1	201(kid):1	306(level):1	338(tiny):1	480(stuff):1	513(low):1	991(motel):1	1080(cramp):1	3131(labor):1	
+3	42(pay):1	78(rate):1	798(tax):1	
+6	11(bed):1	25(comfortable):1	323(dirty):1	396(carpet):1	459(dark):1	725(update):1	
+17	1(location):1	20(look):1	22(pool):1	38(lot):1	52(bit):1	53(arrive):1	66(park):2	98(outside):1	137(safe):1	232(nearby):1	262(website):1	456(picture):1	459(dark):1	618(marriott):1	725(update):1	2098(fool):1	5134(seatac):1	
+0	
+0	
+10	5(time):1	6(breakfast):2	46(free):1	180(actually):1	221(plan):1	313(crowd):1	372(continental):1	976(ahead):1	1710(peak):1	2165(thumb):1	
+0	
+
+<Author>GoodDoggie
+<Content>Never again       A Room with no View  
+<Date>Jun 17, 2007
+<Rating>2	1	1	3	2	3	2	2	
+<Aspects>
+0	
+0	
+1	17(view):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Leightnite
+<Content>Wonderful Stay Was here for one night before flying out from a long, cold, wet trip. Comfortable, clean rooms. a decent location and was close to the airport. Would definately stay again.  
+<Date>May 30, 2007
+<Rating>5	4	4	4	4	5	4	4	
+<Aspects>
+7	2(night):1	33(trip):1	48(wonderful):1	222(cold):1	410(definately):1	614(fly):1	1032(wet):1	
+0	
+2	3(clean):1	25(comfortable):1	
+4	1(location):1	28(close):1	95(airport):1	257(decent):1	
+0	
+0	
+0	
+0	
+
+<Author>cruisermeg
+<Content>Nice staff, very noisy I recently spent 2 nights at this property after 2 nights at the Full-Service Marriott down the road.The Good: The rate for a 2 night midweek stay wasn't bad..103 per night which was substantially lower than other places around.*(The Marriott wanted 200 a night for mon and Tue after I spent 2 wekend nights tehre at a lwer rate....they wouldn't budge and the place was only 50% occupied).The staff is very nice at the FFI and for the most part the shuttle to SeaTac was quick. Only once did I wait LONG...30 minutes. Apparently one of the van drivers is a bit of a pest and he made the person from the adjacent HI Express come get me. He told her his pickup was cancelled but she had one. Whatever....long story short, she was mad at him, he seems to do this often and I complained to the manager.The hotel will also drive you to restaurants and shopping within a one-mile radius which is great. They drove me to Safeway. I walked a few blocks to a couple restaurants. Dave's Diner was decent. The portions could have been a little bigger but it is very well priced so I can't complain. Service was not so great./..the lady never came back to check on me til I was done. Also never got an Iced Tea refill. But if you want cheap eats...most things are less than 10 dollars and sandwiches are around 7 ucks, then this is a god spot.And, all rooms have a little fridge and microwave. Rooms are average size, but the bathrooms are TINY. The sink is outside the bathroom and the closet is a little alcove with no door or curtain.Beds are standard comfy Marriott beds....not as ig and fluffy as full service Marriotts, but the standard Marriott select-service variety.Also, the FFI has a LOT of cable channels if this is important to you. I like a large array of stuff to watch and this was good.Now the bad...the place is NOISY. Get a room on the 4th floor. Otherwise, it sounds like an audition for Dancing with the Stars. I swear, there are on walls or ceilings, just carpet and wallpaper suspended in med air. If someone's phone rings, or there is a knock on the door, you will think it is YOURS. I will most likey not return here because it is sooo noisy, unless I just need a place to lay my head for a night while flying into or out of SeaTac.  
+<Date>Apr 20, 2007
+<Rating>3	4	3	4	3	5	3	4	
+<Aspects>
+43	2(night):5	39(return):1	50(bad):2	52(bit):1	54(door):1	64(spend):1	69(tell):1	78(rate):2	193(person):1	217(noisy):2	245(watch):1	257(decent):1	296(phone):1	298(drive):1	319(head):1	405(unless):1	480(stuff):1	563(driver):1	614(fly):1	618(marriott):1	696(lay):1	777(lour):1	863(apparently):1	1061(adjacent):1	1065(cancel):1	1124(express):1	1150(ring):1	1223(van):1	1323(knock):1	1324(diner):1	1678(occupy):1	1863(hi):1	2258(pickup):1	2679(sooo):1	2810(array):1	4877(mon):1	5134(seatac):1	5477(dave):1	5653(safeway):1	5892(midweek):1	6110(budge):1	6144(substantially):1	7416(pest):1	
+14	19(price):1	23(little):1	47(eat):1	103(star):1	143(cheap):1	241(complain):1	317(spot):1	409(sound):1	430(dollar):1	508(otherwise):1	757(dance):1	1071(sandwich):1	1450(portion):1	1522(god):1	
+34	9(service):1	11(bed):2	13(bathroom):2	23(little):2	24(floor):1	38(lot):1	54(door):1	83(size):1	98(outside):1	130(standard):2	164(air):1	183(wall):1	227(average):1	318(fridge):1	338(tiny):1	396(carpet):1	413(variety):1	475(comfy):1	484(cable):1	509(sink):1	528(ceiling):1	565(closet):1	618(marriott):2	741(channel):1	743(curtain):1	820(microwave):1	845(4th):1	1792(fluffy):1	2093(wallpaper):1	2893(med):1	3333(swear):1	4858(marriotts):1	5026(alcove):1	10510(suspend):1	
+12	0(staff):1	4(nice):1	7(walk):1	10(restaurant):2	49(shop):1	99(couple):1	100(bloc):1	298(drive):1	299(quick):1	321(shuttle):1	4443(radius):1	5134(seatac):1	
+0	
+11	29(minute):1	32(check):1	85(wait):1	144(short):1	241(complain):1	258(manager):1	521(lady):1	906(story):1	937(whatever):1	2196(til):1	2607(mad):1	
+14	0(staff):1	2(night):2	4(nice):1	9(service):1	64(spend):1	214(property):1	217(noisy):1	230(road):1	301(tea):1	322(recently):1	547(ice):1	618(marriott):1	1841(refill):1	6477(full-service):1	
+0	
+
+<Author>BethanyandEmilysMom
+<Content>Great place to stay.... especially if you are flying out of Seatac, which is literally just a couple of minutes away. The rooms were clean, the beds were comfy, the front desk staff was super nice and even remembered us on our second visit a month later. They had a nice free breakfast in the morning (kids loved the waffles that they made themselves) and I though the coffee was really exceptional. The kids really enjoyed the pool and the other guests we encountered were very nice.  
+<Date>Apr 14, 2007
+<Rating>4	4	4	5	4	5	4	-1	
+<Aspects>
+12	4(nice):1	22(pool):1	29(minute):1	51(enjoy):1	91(guest):1	99(couple):1	126(especially):1	201(kid):1	614(fly):1	665(literally):1	693(encounter):1	5134(seatac):1	
+0	
+0	
+0	
+0	
+12	0(staff):1	3(clean):1	4(nice):1	11(bed):1	31(front):1	36(desk):1	65(visit):1	79(late):1	375(remember):1	388(month):1	464(super):1	475(comfy):1	
+10	4(nice):1	6(breakfast):1	40(love):1	46(free):1	56(morning):1	90(coffee):1	201(kid):1	837(exceptional):1	1059(themselves):1	1557(waffle):1	
+0	
+
+<Author>tlandis
+<Content>Good stopover spot No complaints whatsover. From front desk staff to room to beds to bathrooms to continental breakfast to complimentary shuttle to indoor pool to hot tub...everything was really enjoyable at a very reasonable week-end senior rate (thanks to my mom being with us). Would definitely stay there again. One of the better Fairfields we have stayed in.  
+<Date>Apr 9, 2007
+<Rating>5	4	5	4	5	5	5	-1	
+<Aspects>
+4	59(definitely):1	190(complaint):1	317(spot):1	2364(stopover):1	
+0	
+20	0(staff):1	6(breakfast):1	11(bed):1	13(bathroom):1	22(pool):1	31(front):1	36(desk):1	78(rate):1	114(hot):1	271(thank):1	273(reasonable):1	311(tub):1	321(shuttle):1	345(complimentary):1	372(continental):1	567(enjoyable):1	1680(indoor):1	1855(mom):1	2990(senior):1	4679(week-end):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>patio53
+<Content>Great staff, good hotel The best thing about the hotel is the level of service offered. All staff members were friendly and anticipated needs. The shuttle driver checked the breakfast room to make sure no one needed the shuttle before departing.This hotel maximizes their space. We've stayed in more spacious hotel rooms, but this hotel had everything you need. The room contains a T.V.,hair dryer, iron and ironing board, microwave, coffee maker, refrig., data port and full-length mirror. There is abundance of light fixtures. The room was clean and the beds were comfortable. The beds were true queens and there were plenty of pillows. The breakfast room was spacious and the choices were pretty standard. They offered made-to-order waffles and microwave breakast sandwiches, along with cereal, fruit, juice, yogurt, etc..Good value for the buisness traveler .  
+<Date>Feb 16, 2007
+<Rating>4	4	4	4	4	5	4	4	
+<Aspects>
+0	
+8	6(breakfast):1	81(value):1	107(choice):1	109(pretty):1	111(spacious):1	130(standard):1	267(traveler):1	6292(buisness):1	
+31	3(clean):1	6(breakfast):1	11(bed):2	25(comfortable):1	32(check):1	90(coffee):1	111(spacious):1	157(light):1	158(plenty):1	210(space):1	303(pillow):1	321(shuttle):2	543(Queen):1	563(driver):1	600(board):1	729(hair):1	820(microwave):1	868(iron):2	996(maker):1	1129(mirror):1	1209(dryer):1	1288(port):1	1541(fixture):1	1545(contain):1	1814(depart):1	2366(t.v):1	2829(abundance):1	5354(refrig):1	6318(maximize):1	7921(data):1	9108(full-length):1	
+0	
+0	
+6	0(staff):2	9(service):1	12(friendly):1	89(offer):1	306(level):1	2305(anticipate):1	
+11	73(etc):1	89(offer):1	215(fruit):1	362(juice):1	529(cereal):1	820(microwave):1	927(yogurt):1	1071(sandwich):1	1557(waffle):1	6156(made-to-order):1	7347(breakast):1	
+0	
+
+<Author>worldtraveler65
+<Content>Family Friendly, Great Staff, Internet Access, Great Breakfast Whether you are traveling with family or staying for business or a romantic vacation, this is the place....Weekend rates are usually great and weekday rates are also pretty reasonable...The shuttle goes back and forth to airport which then allows you the freedom to catch bus at airport and for 2.00 go downtown or anywhere else in seattle..The staff is super friendly and knowledgable about cruises and what to do around town...There is a great park near the water across the street that would be great for a picnic. The breakfast provided is very extensive and free and for families you can take a lot from breakfast for snacks throughout the day..great pool and close to a lot of restaurants...if going for relaxation or romantic getaway book through marriott and upgrade to a jaccuzzi suite for just a little extra...it is wonderful!!!  
+<Date>Sep 1, 2006
+<Rating>5	4	5	4	5	4	4	5	
+<Aspects>
+0	
+0	
+15	10(restaurant):1	18(book):1	22(pool):1	23(little):1	28(close):1	38(lot):1	48(wonderful):1	108(suite):1	128(extra):1	163(upgrade):1	618(marriott):1	707(romantic):1	1089(getaway):1	1662(relaxation):1	8045(jaccuzzi):1	
+35	0(staff):2	6(breakfast):1	12(friendly):2	35(street):1	57(water):1	66(park):1	68(travel):1	78(rate):2	95(airport):2	97(internet):1	102(near):1	106(family):2	109(pretty):1	120(bus):1	131(vacation):1	147(business):1	159(access):1	170(else):1	172(weekend):1	239(town):1	273(reasonable):1	321(shuttle):1	334(downtown):1	359(allow):1	399(usually):1	464(super):1	540(catch):1	603(cruise):1	707(romantic):1	762(seattle):1	1160(knowledgeable):1	1999(forth):1	2734(weekday):1	3652(freedom):1	4106(picnic):1	
+0	
+0	
+9	6(breakfast):2	8(day):1	38(lot):1	46(free):1	106(family):1	153(provide):1	406(snack):1	445(throughout):1	1703(extensive):1	
+0	
+
+<Author>chinkastronaut
+<Content>typical fairfield very close to the airport, the room was very clean, and the beds very comfy, typical of what you would expect from a fairfield or hampton  
+<Date>Aug 16, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+9	3(clean):1	11(bed):1	28(close):1	62(expect):1	95(airport):1	475(comfy):1	628(typical):2	2236(hampton):1	6802(fairfield):2	
+0	
+0	
+0	
+0	
+0	
+
+<Author>T. Advisor King
+<Content>Good room, cheap extended parking We have stayed at the Fairfield Inn (Marriott) Seatac Airport because of its proximity to the SeaTac airport and because of its deals on extended parking (we live about a 2-3 hour drive away). For a three week trip flying out of Seattle, we paid $132 for the night before we left for our vacation and $134 on the night we returned from vacation. These rates included parking for 23 days during the intervening period. Even if you assign only a $10 per day value to the parking, that makes the price of the room a ridiculously low $18 per night.They have a shuttle that runs regularly to the airport -- about a 10 minute drive. We鈥檝e never had to wait more than 10 minutes, either to be picked up at the airport or to be driven there for our flight.The hotel appears to be relatively new. It is very clean with large beds and even a small pool (which seemed almost unnecessary for a hotel that must cater almost solely to travelers using SeaTac). The complimentary continental breakfast contains an ample selection.The room is very clean and at that price with the parking, it basically is like paying $11.50 a night to park and getting the room both nights for free. I will stay there every time I fly out of SeaTac, although one clerk implied that they might be discontinuing their 鈥減ark and fly鈥?rates in the near future.  
+<Date>May 19, 2006
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+13	5(time):1	78(rate):1	102(near):1	541(appear):1	614(fly):2	732(future):1	788(clerk):1	913(relatively):1	4594(imply):1	4628(nd):1	5134(seatac):1	12532(discontinue):1	12575(ark):1	
+19	2(night):5	3(clean):1	8(day):1	19(price):2	33(trip):1	39(return):1	42(pay):2	43(leave):1	46(free):1	66(park):3	75(week):1	81(value):1	131(vacation):2	513(low):1	614(fly):1	762(seattle):1	790(basically):1	1722(assign):1	2591(ridiculously):1	
+24	3(clean):1	11(bed):1	22(pool):1	29(minute):1	60(hour):1	66(park):2	85(wait):1	95(airport):3	140(deal):1	143(cheap):1	206(live):1	233(flight):1	266(pick):1	267(traveler):1	298(drive):2	324(inn):1	618(marriott):1	1000(cater):1	1114(proximity):1	1303(extend):2	4132(unnecessary):1	4543(solely):1	5134(seatac):3	6802(fairfield):1	
+12	8(day):1	29(minute):1	66(park):1	71(include):1	78(rate):1	95(airport):1	149(run):1	298(drive):1	321(shuttle):1	1331(period):1	1881(regularly):1	10405(intervene):1	
+0	
+0	
+6	6(breakfast):1	333(selection):1	345(complimentary):1	372(continental):1	1341(ample):1	1545(contain):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Less impressed with each stay I travel to this area at least 3 x per year for business. Althought I am not looking for tons of amenities (I am only here to sleep) I find this hotel less and less desirable. The noise level is high. Right now, in real time, I can hear the TV's in the adjoining rooms and they're not really loud. The walls are so thin. Internet access at this hotel is free, as it should be. I would never stay at a hotel where there was a charge for access....that's just wrong! However, it's not wireless and I find that interesting in this competitive day and age. The front desk will provide you with the proper cables to connect but I can never send email when I'm hooked to their ethernet connection. If this hotel is trying to attract the business traveler then they need to get with the program. To some this may not be important but it is to me and i'll bet other business travelers as well.Another thing that really annoys me about this place is the lack of restaurants or take-outs. I take the same drive up and down International Blvd each time I come here hoping to find something new. This trip I found a Safeway. That helped.The breakfast is fine. Cereal, fruit, eggs, waffles, juice , coffee. Lot's of pastry, toast, bagles if you're into that. And it's free (or built into the cost of the room) so who am I to (--)!It's not a bad place. I just think for $100 a night it could be a little better or a little cheaper. This room that I'm in right now should be around $80.00 per night. When I travel to Portland I stay at the Fairfield Inn in Lake Oswego....very nice! I don't know if I'll stay here on my next trip. I'm a creature of habit. That just might keep me here. And the staff seems very nice as well.  
+<Date>May 10, 2006
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	5(time):1	33(trip):2	50(bad):1	92(help):1	94(noise):1	298(drive):1	306(level):1	328(hope):1	903(international):1	2767(blvd):1	4177(habit):1	4486(creature):1	5653(safeway):1	
+6	2(night):1	23(little):2	46(free):1	135(build):1	143(cheap):1	175(cost):1	
+19	2(night):1	4(nice):1	5(time):1	20(look):1	68(travel):1	104(sleep):1	116(tv):1	132(hear):1	240(real):1	291(amenity):1	324(inn):1	416(loud):1	967(ton):1	1412(adjoin):1	2443(lake):1	4037(desirable):1	5429(althought):1	6802(fairfield):1	8293(portland):1	
+10	68(travel):1	76(try):1	147(business):3	183(wall):1	267(traveler):2	343(impress):1	754(thin):1	1531(program):1	1821(bet):1	2452(attract):1	
+0	
+15	0(staff):1	4(nice):1	31(front):1	36(desk):1	136(charge):1	153(provide):1	159(access):1	427(wrong):1	447(send):1	484(cable):1	841(connect):1	932(connection):1	1719(proper):1	2145(hook):1	3697(ethernet):1	
+15	6(breakfast):1	10(restaurant):1	38(lot):1	90(coffee):1	113(fine):1	215(fruit):1	349(lack):1	362(juice):1	412(egg):1	529(cereal):1	652(pastry):1	695(annoy):1	875(toast):1	1557(waffle):1	12809(bagl):1	
+7	8(day):1	46(free):1	97(internet):1	159(access):1	505(age):1	717(wireless):1	3279(competitive):1	
+
+<Author>madeinhawaii
+<Content>Okay but some less than average amenities I was on a college tour with my wife and high school son. We had just stayed in a Hampton Inn Hotel at the Portland Airport before arriving at the Fairfield Inn so we were able to compare both brands easily. We found the Fairfield Inn deficient in a number of areas. The bed was not as comfortable. The vanity area was separate which can be a good thing when everyone is rushing to get ready, but the counter area was undersized. The towels were old and frayed at the edges (Hampton Inn's towels were thick and new). The toilet was a little scary with it's airplane like suction and roar. We couldn't find the remote after we had left in on the tv. We found it curiously under the bed after searching for awhile (actually my son was in a panic trying to find it.) The breakfast was good with the do it yourself Belgian waffle and the cold hard boiled egg was nice to have but you couldn't beat the Hampton Inn's breakfast with it's hot scrambled eggs and meats along with the usual bagels, pastry, fresh fruit, etc. The computer printer in the lobby was broken while we were there so we weren't able to print our boarding passes. We asked to be dropped off to a Dollar Rentacar location a few blocks from the hotel on the same street but was told we had to return the car to the airport and catch the hotel shuttle back which was o.k. For 75.00 though, it was a good value compared to what was available at the time.  
+<Date>Apr 2, 2006
+<Rating>3	4	3	-1	3	-1	3	-1	
+<Aspects>
+8	181(tour):1	184(wife):1	227(average):1	291(amenity):1	453(okay):1	612(son):1	1229(school):1	1925(college):1	
+0	
+34	11(bed):2	23(little):1	25(comfortable):1	43(leave):1	53(arrive):1	76(try):1	95(airport):1	116(tv):1	171(able):1	180(actually):1	274(ready):1	324(inn):3	330(toilet):1	335(numb):1	381(compare):1	438(easily):1	474(separate):1	612(son):1	883(brand):1	1001(counter):1	1244(rush):1	1248(search):1	1272(remote):1	1566(scary):1	2127(vanity):1	2236(hampton):1	2755(awhile):1	2847(airplane):1	4485(panic):1	5135(roar):1	6802(fairfield):2	8293(portland):1	10694(curiously):1	12730(undersize):1	
+16	1(location):1	5(time):1	35(street):1	39(return):1	69(tell):1	81(value):1	95(airport):1	100(bloc):1	121(car):1	134(available):1	321(shuttle):1	381(compare):1	430(dollar):1	540(catch):1	662(drop):1	2540(o.k):1	
+0	
+0	
+25	4(nice):1	6(breakfast):2	73(etc):1	114(hot):1	125(towel):2	162(hard):1	197(fresh):1	215(fruit):1	222(cold):1	324(inn):2	412(egg):2	442(beat):1	576(yourself):1	652(pastry):1	677(meat):1	682(usual):1	1190(edge):1	1370(bagels):1	1557(waffle):1	1598(boil):1	1652(thick):1	1674(scramble):1	2236(hampton):2	4894(fray):1	6250(belgian):1	
+8	55(lobby):1	171(able):1	228(break):1	400(pass):1	555(computer):1	600(board):1	1101(print):1	2328(printer):1	
+
+<Author>MetsFanMegan
+<Content>Average area hotel, only if you get top floor This hotel itself is ok. My only complaint is the noise level. The walls are paper thin. We stayed on the 3rd floor and the walking/noise level from the room above was HORRIBLE. I could hear the man walking, talking  showering. It was terrible. I heard a knock from our door, or so I thought. The knock was so clear and loud I thought it was at ours, but was from a room 3 doors down. Aside from this, the hotel is safe, has a good pool and really close to the airport. I would stay here again, ONLY if I was guarenteed a 4th (top) floor room.  
+<Date>Nov 28, 2005
+<Rating>2	4	2	-1	4	-1	4	-1	
+<Aspects>
+7	54(door):1	94(noise):1	132(hear):1	190(complaint):1	306(level):1	432(terrible):1	1323(knock):1	
+0	
+18	7(walk):1	24(floor):3	54(door):1	61(shower):1	118(top):2	123(ok):1	132(hear):1	227(average):1	306(level):1	371(talk):1	416(loud):1	544(horrible):1	843(ours):1	845(4th):1	1323(knock):1	2097(3rd):1	9232(walking):1	10013(guarenteed):1	
+8	22(pool):1	28(close):1	95(airport):1	137(safe):1	183(wall):1	754(thin):1	776(paper):1	1502(aside):1	
+0	
+0	
+0	
+0	
+
+<Author>Gentlemanhiker
+<Content>Room was fine, breakfast was better This place was what you'd expect from an airport hotel. Our room was clean and quiet. The bed was very soft, too soft for us. The continental breakfast had all the usual items, but did include make-your-own belgian waffles which was a nice addition. The one thing I did not like was the fact that there was no restaurants close by, not even chain restaurants. But, all in all, it was a decent value for $69/night.  
+<Date>Nov 2, 2005
+<Rating>4	3	3	-1	3	-1	3	-1	
+<Aspects>
+0	
+2	81(value):1	257(decent):1	
+8	3(clean):1	6(breakfast):1	11(bed):1	58(quiet):1	62(expect):1	95(airport):1	113(fine):1	589(soft):2	
+3	10(restaurant):2	28(close):1	627(chain):1	
+0	
+0	
+10	4(nice):1	6(breakfast):1	71(include):1	372(continental):1	519(item):1	682(usual):1	918(addition):1	1557(waffle):1	6250(belgian):1	11112(make-your-own):1	
+0	
+
+<Author>yankeejones
+<Content>Friendly Staff Stayed at the Fairfield one night and I was quite pleased as far as an airport hotel goes. The rooms are clean, the beds comfortable, and the staff was very friendly. They offer free computer access which I thought was a real plus.  
+<Date>Oct 18, 2005
+<Rating>4	3	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+0	
+9	0(staff):2	2(night):1	3(clean):1	11(bed):1	12(friendly):2	25(comfortable):1	95(airport):1	173(please):1	6802(fairfield):1	
+0	
+0	
+0	
+0	
+6	46(free):1	89(offer):1	159(access):1	203(plus):1	240(real):1	555(computer):1	
+
+<Author>EaganTraveler
+<Content>Average Airport Motel Needed a hotel close to the airport for a one night business trip to SEA. Selected the hotel based on past reviews and price. The shuttle was quick to pick-me up and drop me at the Fairfield. Hotel is close to the airport and other airport hotels. My room (#110) was just off the lobby on the first floor. Little did I realize that the room is located next to the elevator mechanical room. Every time the elevator was used, I heard the hum of the mechanism. Second, being off the lobby, the sounds of the roller bags going across the tile as well as voices interupted my sleep. Lastly, the take-off and landings outside the window made this a noisy place to sleep. I later turned on the fan to high to muffle the noise. In the morning I looked out the window to see razor wire 5 feet from my room to stop people from entering the business next door. Breakfast was average and people were having a difficult time getting the waffle irons to work. Room itself is bland with o.k. beds. If you do stay at this property I would ask for a room away from the elevator and on a higher floor. I will definitely try another hotel to avoid being sleepless in Seattle.  
+<Date>Oct 17, 2005
+<Rating>3	3	3	-1	3	-1	4	-1	
+<Aspects>
+4	79(late):1	94(noise):1	661(fan):1	6294(muffle):1	
+5	19(price):1	37(review):1	284(base):1	419(past):1	1294(select):1	
+36	11(bed):1	20(look):1	24(floor):1	26(people):1	54(door):1	55(lobby):2	56(morning):1	59(definitely):1	76(try):1	98(outside):1	104(sleep):2	119(window):2	122(stop):1	147(business):1	217(noisy):1	290(bag):1	299(quick):1	321(shuttle):1	402(foot):1	409(sound):1	436(avoid):1	601(enter):1	662(drop):1	762(seattle):1	846(tile):1	1819(bland):1	1904(wire):1	2264(voice):1	2322(lastly):1	2540(o.k):1	3731(razor):1	4250(sleepless):1	6045(roller):1	6802(fairfield):1	9850(interupt):1	11569(landing):1	
+8	2(night):1	28(close):2	33(trip):1	95(airport):4	147(business):1	227(average):1	758(sea):1	991(motel):1	
+0	
+0	
+17	5(time):2	6(breakfast):1	23(little):1	24(floor):1	26(people):1	84(locate):1	132(hear):1	214(property):1	216(elevator):3	227(average):1	572(difficult):1	607(realize):1	868(iron):1	1557(waffle):1	4292(hum):1	5566(mechanical):1	7676(mechanism):1	
+0	
+
+<Author>ANKER50
+<Content>Marriott reliability Comfortable, clean, quiet rooms, free use of computer, free breakfast and coffee bar. Great shuttle service to airport on the half hour. All for a very reasonable price below 85$ a night.  
+<Date>Oct 4, 2005
+<Rating>4	4	4	-1	4	-1	3	-1	
+<Aspects>
+0	
+4	2(night):1	19(price):1	273(reasonable):1	585(below):1	
+0	
+5	9(service):1	60(hour):1	95(airport):1	283(half):1	321(shuttle):1	
+0	
+0	
+9	3(clean):1	6(breakfast):1	25(comfortable):1	27(bar):1	46(free):2	58(quiet):1	90(coffee):1	555(computer):1	618(marriott):1	
+0	
+
+<Author>Akoperagirl
+<Content>Nice place to stay This hotel is not as close to the airport as others I have stayed in, but it wasn't that far away to make it too far out. Shuttle service was quick, the staff polite and helpful, the room was clean and the bed comfortable. Best of all, they started serving breakfast at 5am rather than the usual 6. This meant we got to eat before our early morning flight (very much appreciated since the airlines have stopped serving much food). All in all, I'd stay here again.  
+<Date>Sep 22, 2005
+<Rating>3	3	3	-1	3	-1	4	-1	
+<Aspects>
+0	
+0	
+18	0(staff):1	3(clean):1	9(service):1	11(bed):1	14(helpful):1	16(food):1	25(comfortable):1	47(eat):1	56(morning):1	122(stop):1	174(serve):1	233(flight):1	246(mean):1	299(quick):1	321(shuttle):1	422(polite):1	500(appreciate):1	1336(airline):1	
+3	4(nice):1	28(close):1	95(airport):1	
+0	
+0	
+5	6(breakfast):1	165(start):1	174(serve):1	682(usual):1	9113(5am):1	
+0	
+
+<Author>tequilatamm
+<Content>Normal to the point of boring Don't get me wrong, there was absolutely nothing wrong with this hotel.It was clean, comfortable, and the rooms were on the large side, if anything, but as I've found with most hotels in the Marriott chain, it was normal to the point of boring.I know, it's a hotel at the airport for people looking to catch a little shuteye between flights, which was pretty much the case with me. However, I'm used to staying in business class hotels, and this was more a family style hotel, and reasonably unexciting. What can I say, though, the value matched the price, because it was 3 star accommodation for 3 star price.I had 24 hours in Seattle, and so my plan was to go into town on the bus. This was reasonably easy, as the bus stop was located within one or two blocks of the hotel. It took more than one hour to get into town from there, however, but at least it was easy to get to the airport in the morning.Coming back from town, also on the bus, there was a pizza shop and a convenience store also located only a block or two from the hotel, and since I was travelling alone, it was convenient to pick up some pizza and drinks to eat in the hotel for dinner.The shuttle to and from the hotel was easy to pick up and the driver very pleasant, and they stuck to their schedule, thus leaving when they said they would in the morning, which was good.I had heard several reports that the included continental breakfast was one of the most outstanding many people had ever had, so I was intrigued. However, people who were saying this must not stay at very good hotels... the breakfast consisted of a few danishes and donuts and some cereal choices, along with filter coffee. Again, nothing wrong with it, but normal to the point of boring... I didn't even bother, and picked up some espresso at the airport on the way out of town instead.If you are just looking for a place to lay your head, or want good value for a very normal, boring accommodation, then there is absolutely nothing wrong with this hotel. However, I personally would try to choose something a bit more interesting next time, like the Radisson down the road.  
+<Date>Sep 3, 2005
+<Rating>3	3	3	-1	3	-1	3	-1	
+<Aspects>
+11	5(time):1	52(bit):1	76(try):1	167(choose):1	189(absolutely):1	230(road):1	427(wrong):2	878(normal):1	1052(personally):1	1098(bore):1	1958(radisson):1	
+12	19(price):2	20(look):1	81(value):2	103(star):2	189(absolutely):1	319(head):1	427(wrong):1	696(lay):1	721(accommodation):2	878(normal):1	1098(bore):1	1476(match):1	
+19	3(clean):1	20(look):1	23(little):1	25(comfortable):1	26(people):1	95(airport):2	109(pretty):1	233(flight):1	239(town):1	266(pick):1	307(bother):1	353(instead):1	427(wrong):1	540(catch):1	618(marriott):1	627(chain):1	878(normal):2	1098(bore):2	2324(espresso):1	
+34	43(leave):1	47(eat):1	49(shop):1	56(morning):1	60(hour):2	63(drink):1	68(travel):1	84(locate):2	93(easy):3	95(airport):1	100(bloc):2	106(family):1	117(dinner):1	120(bus):3	122(stop):1	147(business):1	150(pleasant):1	186(convenient):1	221(plan):1	239(town):3	255(store):1	266(pick):2	321(shuttle):1	326(style):1	470(class):1	563(driver):1	578(reasonably):2	678(pizza):2	688(stick):1	762(seattle):1	925(convenience):1	1196(schedule):1	7528(ing):1	9846(unexcite):1	
+0	
+0	
+15	6(breakfast):2	26(people):2	71(include):1	90(coffee):1	107(choice):1	132(hear):1	372(continental):1	529(cereal):1	534(outstanding):1	838(report):1	1185(consist):1	2222(doughnut):1	2675(danish):1	2975(filter):1	6048(intrigue):1	
+0	
+
+<Author>EmanneercsAllowed
+<Content>Not bad...for an airport hotel If you're reading this review, you're probably looking for an inexpensive hotel where you can catch a quick rest if you've got a flight that's leaving from or arriving at SeaTac at a ridiculous hour. You probably don't expect a lot of amenities. If so, the Fairfield may be the perfect place for you. Despite the heavily stained hall carpeting and the fact that excessive hallway noise (thin walls, poor insulation) caused us to jump a few times, our room was clean and the facilities perfectly adequate. We were not bothered by airport noise at all. My kids always head for the swimming pool as soon as we check in, and the hotel's indoor pool was clean and empty, albeit with a rough bottom that scraped their feet. Because there's not a whole lot to do in the neighborhood and we had a 6 a.m. flight, we spent most of our time swimming and watching movies. The breakfast, which we glimpsed on our way out the door, appeared ample; the kids grabbed bagels and we hopped the shuttle for the 5-minute ride to the airport. All in all, not a bad experience, but next time I'll try to book the redeye instead.  
+<Date>Aug 6, 2005
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+4	38(lot):1	62(expect):1	178(probably):1	291(amenity):1	
+0	
+38	3(clean):1	5(time):1	20(look):1	37(review):1	43(leave):1	50(bad):1	53(arrive):1	60(hour):1	74(perfect):1	88(read):1	94(noise):2	95(airport):2	178(probably):1	183(wall):1	211(facility):1	233(flight):1	288(rest):1	299(quick):1	307(bother):1	331(poor):1	390(adequate):1	396(carpet):1	498(despite):1	540(catch):1	580(hallway):1	595(perfectly):1	616(hall):1	723(stain):1	754(thin):1	943(cause):1	1117(inexpensive):1	1404(jump):1	1533(ridiculous):1	2836(heavily):1	3088(excessive):1	3438(insulation):1	5134(seatac):1	6802(fairfield):1	
+13	6(breakfast):1	54(door):1	95(airport):1	201(kid):1	218(ride):1	321(shuttle):1	541(appear):1	1139(grab):1	1151(hop):1	1341(ample):1	1370(bagels):1	3762(glimpse):1	4828(5-minute):1	
+14	3(clean):1	22(pool):2	32(check):1	201(kid):1	261(swim):1	319(head):1	402(foot):1	418(soon):1	810(empty):1	850(bottom):1	1047(rough):1	1680(indoor):1	2083(albeit):1	5153(scrape):1	
+0	
+13	5(time):2	18(book):1	38(lot):1	44(experience):1	50(bad):1	64(spend):1	76(try):1	233(flight):1	245(watch):1	261(swim):1	353(instead):1	421(neighbourhood):1	989(movie):1	
+0	
+
+<Author>agentaustin
+<Content>comfortable stay The room was comfortable and clean. The breakfast was ample with Belgian waffles to be make. The breakfast room was small so the tables were very close together. Also, there was a lack of parking space  
+<Date>Jul 29, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+5	3(clean):1	25(comfortable):2	66(park):1	210(space):1	349(lack):1	
+3	6(breakfast):1	28(close):1	229(table):1	
+0	
+0	
+4	6(breakfast):1	1341(ample):1	1557(waffle):1	6250(belgian):1	
+0	
+
+<Author>wheland
+<Content>A Decent Place To Stay We stayed here for 4 nights spread over a week and a half. We were very pleased with our stays.The rooms were not large and not small. the biggest problem was the fact that the closet was right by the door and anything hanging there got caught in the door as it closed- including the ironing board if you didn't position it just right.The Airport shuttle is very convenient- you just call and they come get you. It usually doesn't take very long. the hotel is not that far from the airport- but far enough that you won't be bothered much by the sounds of the planes. The shuttle can also be used to go to restaurants within a mile of the hotel. You again just call when you are done eating and they come get you.The only drawback to the Airport shuttle is in the morning- they run every half hour. They have a second shuttle if need be- they actually share the Shuttle with the Holiday Inn Express right next door.The Continental Breakfast was very good as these things go- nothing spectacular but not the little donuts on the plate type either.The rooms were comfortable and clean. the service was very good. They have a computer in the lobby that anybody can use- it comes in handy to print out your boarding passes.It's not the Ritz but it's a nice place to spend the night- or nights. It's not right in Seatlle but it's only a short 20 minute drive to downtown as long as it's not rush hour. The price is right.  
+<Date>Jun 28, 2005
+<Rating>4	4	3	-1	4	-1	4	-1	
+<Aspects>
+18	2(night):3	4(nice):1	29(minute):1	47(eat):1	60(hour):1	64(spend):1	67(call):1	75(week):1	144(short):1	173(please):1	257(decent):1	283(half):1	298(drive):1	334(downtown):1	399(usually):1	825(ritz):1	1203(spread):1	1244(rush):1	
+1	19(price):1	
+7	3(clean):1	25(comfortable):1	95(airport):1	307(bother):1	409(sound):1	487(wo):1	968(plane):1	
+25	10(restaurant):1	28(close):1	54(door):3	56(morning):1	60(hour):1	67(call):1	71(include):1	95(airport):2	149(run):1	180(actually):1	186(convenient):1	223(holiday):1	283(half):1	321(shuttle):5	324(inn):1	478(hang):1	520(share):1	540(catch):1	565(closet):1	600(board):1	692(mile):1	868(iron):1	1093(position):1	1124(express):1	1344(drawback):1	
+0	
+0	
+8	6(breakfast):1	9(service):1	23(little):1	372(continental):1	389(type):1	656(spectacular):1	1002(plate):1	2222(doughnut):1	
+6	55(lobby):1	400(pass):1	555(computer):1	600(board):1	755(handy):1	1101(print):1	
+
+<Author>sml779
+<Content>Stay Here!!! We stayed one night coming in to SEATAC at 1am and the service was excellent. The airport shuttle was great (this hotel is a bit further up the road that others, but well worth the extra 3 minutre drive). We checked in exhausted and starving and with nothing withing walking distance open, they offered to drive us down the road to the Denny's! The room was perfect and the continental breakfast was the best I've seen. The room was so cheap, it was a shame we weren't in the area longer!  
+<Date>May 30, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+11	7(walk):1	32(check):1	89(offer):1	115(distance):1	143(cheap):1	230(road):1	298(drive):1	1292(shame):1	1769(exhaust):1	2949(denny):1	3074(starve):1	
+3	6(breakfast):1	74(perfect):1	372(continental):1	
+7	52(bit):1	95(airport):1	96(worth):1	128(extra):1	230(road):1	298(drive):1	321(shuttle):1	
+0	
+0	
+5	2(night):1	9(service):1	21(excellent):1	5134(seatac):1	8726(1am):1	
+0	
+

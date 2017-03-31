@@ -1,0 +1,1218 @@
+<Author>BarryBarnstable
+<Content>Great Location and Value       Hotel  
+<Date>Dec 4, 2008
+<Rating>4	5	4	5	3	4	3	4	
+<Aspects>
+0	
+2	1(location):1	81(value):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>JojoLeto
+<Content>A reasonable Hotel and reasonable Offer! The Grant is a decent place to stay in SF and also have the people with customer services knowledge. I was driving up to SD to SF last month for a urgent family reunion. Grant was the only place I can get a room with reasonable price and a hurry! Moreover, with packing space across the street and location near the Union Square are both bonus to my visit. Overall, I was glad after 8 hours driving, I can find a decent place to wash and sleep.  
+<Date>Nov 29, 2008
+<Rating>5	5	4	5	4	5	5	4	
+<Aspects>
+8	89(offer):1	106(family):1	273(reasonable):2	298(drive):1	388(month):1	802(sf):1	4228(reunion):1	6839(urgent):1	
+4	19(price):1	273(reasonable):1	1690(grant):1	2265(hurry):1	
+17	1(location):1	35(street):1	60(hour):1	65(visit):1	70(overall):1	102(near):1	104(sleep):1	139(square):1	210(space):1	257(decent):1	298(drive):1	451(union):1	619(glad):1	715(pack):1	811(wash):1	849(bonus):1	4006(moreover):1	
+0	
+0	
+0	
+7	9(service):1	26(people):1	257(decent):1	428(customer):1	802(sf):1	1690(grant):1	2148(knowledge):1	
+0	
+
+<Author>ZDGZC
+<Content>Good location,Quite, Clean, and Great price We spent 4 night at Grant hotel, a very good choice for us for the first time visit San Francisco. The hotel is located just right in down, Union Square, Cable car are just in a block away. China town only 2 blocks distance. Our 4 nights stay at Grant hotel based on all our expected. Quite, Clean. comfortable.  
+<Date>Nov 21, 2008
+<Rating>4	5	5	-1	5	4	4	4	
+<Aspects>
+9	2(night):1	25(comfortable):1	62(expect):1	100(bloc):1	115(distance):1	239(town):1	284(base):1	1159(china):1	1690(grant):1	
+11	1(location):1	2(night):1	3(clean):1	5(time):1	19(price):1	64(spend):1	65(visit):1	107(choice):1	177(san):1	355(francisco):1	1690(grant):1	
+6	84(locate):1	100(bloc):1	121(car):1	139(square):1	451(union):1	484(cable):1	
+0	
+1	3(clean):1	
+0	
+0	
+0	
+
+<Author>YellowFellows
+<Content>BED BUGS and more BED BUGS After a couple nights stay I noticed a few itchy, reddish bumps all over my arms and legs. A bit of research on the web revealed that they might be bed bugs. This was confirmed that very night with a bed bug happily walking across our pillow!We complained and the manager casually offered us another room. This casual attitude gave us the impression that we were probably not the first to experience this. We were offered a free night but to be honest, the pain and discomfort, and the effort in having to wash all our clothes of any possible infestation when we still had another 2 weeks of travelling to do, didn't seem to make up for any of it.This budget hotel is in a great location, but so too are many others. I still have scars on my arms 3 weeks after we left. You get what you pay for.  
+<Date>Nov 18, 2008
+<Rating>2	2	1	4	1	2	2	1	
+<Aspects>
+4	43(leave):1	75(week):1	1726(arm):1	9020(scar):1	
+6	42(pay):1	44(experience):1	178(probably):1	821(attitude):1	848(impression):1	1981(casual):1	
+21	2(night):2	7(walk):1	11(bed):4	52(bit):1	89(offer):1	99(couple):1	241(complain):1	258(manager):1	303(pillow):1	354(notice):1	602(bug):4	982(confirm):1	1019(web):1	1024(research):1	1421(leg):1	1642(happily):1	1726(arm):1	2162(bump):1	4381(reveal):1	5129(itchy):1	7402(casually):1	
+14	1(location):1	2(night):1	46(free):1	68(travel):1	75(week):1	89(offer):1	429(budget):1	709(clothe):1	811(wash):1	1017(effort):1	1108(honest):1	1481(pain):1	5766(discomfort):1	6706(infestation):1	
+0	
+0	
+0	
+0	
+
+<Author>pasmo84
+<Content>great stay I stayed in a single room at the grant hotel for four nights.LOCATIONat corner Bush and Powell St (cable car stop), near union square, walking distance to Powell St BART-stop (to/from airport). pretty much everything at the doorstep.ROOMthe room was big enough, a big bed, TV (althou not the best reception but who bothers on a city trip), walk-in closet, safe, bathroom very big and clean. the building is not new at all but has its charm. sometimes there was a funny smell on the corridor but it did not bother me since the room itself was fine.OTHERthere are two working stations in the lobby with internet. Wi-Fi is accessible in the lobby for free. in the morning there is complimentary coffe/tea and pastry in the lobby. there is also a microwave in the lobby which is quite handy.STAFFnothing to complain about.CONCLUSIONI had a great time at the Grant Hotel and would go back anytime. the price at 82+tax is good. the location is great to explore SF. can only recommend.  
+<Date>Nov 10, 2008
+<Rating>5	5	3	5	4	5	3	4	
+<Aspects>
+8	5(time):1	15(recommend):1	109(pretty):1	135(build):1	332(charm):1	1677(anytime):1	1690(grant):1	2071(doorstep):1	
+2	19(price):1	798(tax):1	
+20	2(night):1	3(clean):1	11(bed):1	13(bathroom):1	33(trip):1	41(city):1	113(fine):1	116(tv):1	129(reception):1	137(safe):1	231(smell):1	304(single):1	307(bother):2	560(sometimes):1	565(closet):1	1073(corridor):1	1156(funny):1	1690(grant):1	2367(walk-in):1	8655(roomthe):1	
+19	1(location):1	7(walk):1	55(lobby):1	82(station):1	95(airport):1	97(internet):1	102(near):1	115(distance):1	121(car):1	122(stop):1	139(square):1	200(corner):1	451(union):1	484(cable):1	594(explore):1	802(sf):1	940(St):2	1897(powell):2	3653(bush):1	
+0	
+1	241(complain):1	
+10	46(free):1	55(lobby):3	56(morning):1	345(complimentary):1	652(pastry):1	755(handy):1	820(microwave):1	1342(accessible):1	1827(wi-fi):1	3297(coffe):1	
+0	
+
+<Author>lucamic2
+<Content>European Average The Grant definitely has a great location and for San Francisco, the price is pretty good too. I tend to think of an average hotel (by American standards) as a typical Holiday Inn. The Grant was more like an average hotel from what I'm used to in my travels to Europe... which is not a bad thing, just something to consider. The building and its amenities are old... which can be considered charming. The rooms aren't spacious and have stark fluorescent lighting. The beds seem tired... as do the small towels. Everything worked though and it was quiet. The breakfast pastries were average too. There was nothing special about this hotel, but based on the great location and above average value I would certainly consider staying there again.  
+<Date>Oct 14, 2008
+<Rating>3	4	3	5	4	3	3	-1	
+<Aspects>
+14	50(bad):1	68(travel):1	130(standard):1	135(build):1	223(holiday):1	227(average):2	248(consider):2	291(amenity):1	324(inn):1	332(charm):1	628(typical):1	700(europe):1	1053(tend):1	1690(grant):1	
+13	1(location):2	19(price):1	59(definitely):1	81(value):1	109(pretty):1	177(san):1	208(special):1	227(average):2	248(consider):1	284(base):1	355(francisco):1	582(european):1	1690(grant):1	
+8	11(bed):1	58(quiet):1	111(spacious):1	125(towel):1	157(light):1	454(tire):1	4380(stark):1	8044(fluorescent):1	
+0	
+0	
+0	
+3	6(breakfast):1	227(average):1	652(pastry):1	
+0	
+
+<Author>patp26
+<Content>solid calue, good location Just returned from 9 days in California, spent about 3 nights at the Grant based on the reviews I read. It was pretty much as I expected. quite clean, though the rugs in the rooms could stand to be replaced, the room, while bare bones, was comfy and worked for a few days, (can't beat the price of 88.00 per night) all the peple at the front desk very nice. Most of the people were young, one lady, who I asume is the 'crabby' lady, wasn't very crabby at all. There were 2 computers in the lobby for internet access, occasionally, people would monopolize the computers. The hotel was a little nicer inside than out. There were complimentary doughnuts and muffins and coffee, and green tea, and for a small charge a few other beverages. The location was great, just down the street from the famed cablecars, close to Union square and close to chinatown, Very hilly, the walking can be tough.  
+<Date>Oct 13, 2008
+<Rating>3	5	3	4	3	5	3	3	
+<Aspects>
+5	26(people):1	62(expect):1	109(pretty):1	521(lady):2	12746(crabby):2	
+0	
+3	4(nice):1	23(little):1	408(inside):1	
+20	1(location):2	2(night):1	7(walk):1	8(day):1	28(close):2	35(street):1	37(review):1	39(return):1	64(spend):1	88(read):1	139(square):1	284(base):1	451(union):1	1132(chinatown):1	1617(solid):1	1656(california):1	1665(tough):1	1690(grant):1	3137(fame):1	6285(hilly):1	
+0	
+14	2(night):1	3(clean):1	4(nice):1	8(day):1	19(price):1	31(front):1	36(desk):1	442(beat):1	444(stand):1	475(comfy):1	912(replace):1	2235(bare):1	3016(rug):1	3929(bone):1	
+8	90(coffee):1	136(charge):1	301(tea):1	345(complimentary):1	1005(green):1	1260(muffin):1	1334(beverage):1	2222(doughnut):1	
+6	26(people):1	55(lobby):1	97(internet):1	159(access):1	555(computer):2	2533(occasionally):1	
+
+<Author>TacoSmith
+<Content>Great Location + Low Price = Graet Trip       3rd Floor Guestroom  
+<Date>Oct 13, 2008
+<Rating>5	5	3	5	4	5	4	3	
+<Aspects>
+0	
+0	
+8	1(location):1	19(price):1	24(floor):1	33(trip):1	513(low):1	2097(3rd):1	7625(guestroom):1	10816(graet):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>BostonTogether
+<Content>Grant is great My wife and I stayed at the Grant this past Labor day weekend.We booked it through Expedia and got a great rate. The Hotel exceded all our expectations. After reading some of the reviews and seeing the prices of other hotels in the area, I didn't know what to expect. The hotel is located near Chinatown and Union square.The area is good enough to have other hotels that cost $400.00 a night. The grant cost us $90.00 a night including taxes.They also have parking across the street for $20.00 a day which is great for The city.The room and the bathroom were large and clean. The service was excellent, every request was granted. The continental breakfast consisted of good quality muffins and croissants.The coffee machine offered free coffee throughout the day.The cable car stop was right beside the hotel. However even though the city is hilly it is a great walking city.I would stay here every time I visited. It was a wonderful experience.ThanksLocation, Location, Location  
+<Date>Sep 10, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+12	5(time):1	8(day):1	65(visit):1	121(car):1	122(stop):1	172(weekend):1	184(wife):1	419(past):1	484(cable):1	1350(beside):1	1690(grant):2	3131(labor):1	
+13	2(night):2	19(price):1	37(review):1	44(experience):1	48(wonderful):1	62(expect):1	71(include):1	88(read):1	175(cost):2	431(expectation):1	798(tax):1	1690(grant):1	10914(excede):1	
+7	3(clean):1	13(bathroom):1	84(locate):1	102(near):1	139(square):1	451(union):1	1132(chinatown):1	
+7	1(location):2	7(walk):1	8(day):1	35(street):1	41(city):3	66(park):1	6285(hilly):1	
+0	
+4	9(service):1	21(excellent):1	148(request):1	1690(grant):1	
+15	6(breakfast):1	8(day):1	18(book):1	46(free):1	78(rate):1	89(offer):1	90(coffee):2	187(quality):1	372(continental):1	445(throughout):1	493(machine):1	1004(croissant):1	1066(expedia):1	1185(consist):1	1260(muffin):1	
+0	
+
+<Author>smp333
+<Content>Clean and Good Location I stayed here for a weekend by myself (single female) and was happy with the service and the rooms. It is a budget hotel but was clean and comfortable and would happily stay here again. It was close to trams and trains. Had a safe in the room which was good to keep valuables in.  
+<Date>Aug 17, 2008
+<Rating>5	5	4	4	5	5	5	5	
+<Aspects>
+0	
+0	
+9	1(location):1	3(clean):1	9(service):1	137(safe):1	155(happy):1	172(weekend):1	304(single):1	1714(female):1	1935(valuable):1	
+3	28(close):1	182(train):1	570(tram):1	
+4	3(clean):1	25(comfortable):1	429(budget):1	1642(happily):1	
+0	
+0	
+0	
+
+<Author>Casur
+<Content>Good location       Room  
+<Date>Aug 3, 2008
+<Rating>4	3	4	5	4	3	3	4	
+<Aspects>
+0	
+0	
+1	1(location):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>KH68
+<Content>Great Location, Great Price We only spent one night at the Grant Hotel. We were on a very quick tour of San Francisco. The hotel's location was very convenient to China Town, Cable Cars, shopping. Located across the street from a secure valet parking place (good rate through the hotel, $ 20 per 24-hour period).Lobby nicely decorated, internet access (2 computers), nice furniture, piano. Seems like they're renovating hotel because first floor looked new but our 4th floor wasn't new. Our bathroom was newly remodeled and clean with a large counter. Room was dated and small-ish but had big walk-in closet, TV, desk and chair. Bed was so-so and they only gave us one pillow each. I was going to ask for more, but never got to it.For a basic, clean, comfortable night's sleep, this place was great. There was a small continental breakfast, basically muffins and coffee only, more of a grab and go but it is something. If you're looking for any amenities, there aren't any! But if you want a great location and basic accommodations, this place will definitely do.Ask for a room on the side or back of hotel as there are no AC's and you need to keep window open for ventilation. Street rooms might be noisy. Would stay again.  
+<Date>Aug 1, 2008
+<Rating>3	5	4	5	4	4	4	3	
+<Aspects>
+6	20(look):1	177(san):1	181(tour):1	291(amenity):1	299(quick):1	355(francisco):1	
+8	1(location):2	2(night):1	19(price):1	59(definitely):1	64(spend):1	352(basic):1	721(accommodation):1	1690(grant):1	
+28	2(night):1	3(clean):2	11(bed):1	13(bathroom):1	20(look):1	24(floor):2	25(comfortable):1	35(street):1	36(desk):1	104(sleep):1	116(tv):1	119(window):1	198(chair):1	217(noisy):1	303(pillow):1	352(basic):1	511(date):1	533(renovate):1	565(closet):1	845(4th):1	956(ac):1	1001(counter):1	1189(newly):1	1238(remodel):1	1883(so-so):1	2367(walk-in):1	2667(ventilation):1	8779(small-ish):1	
+15	1(location):1	35(street):1	49(shop):1	66(park):1	78(rate):1	84(locate):1	121(car):1	186(convenient):1	239(town):1	457(valet):1	484(cable):1	1034(secure):1	1159(china):1	1331(period):1	3743(24-hour):1	
+0	
+0	
+6	6(breakfast):1	90(coffee):1	372(continental):1	790(basically):1	1139(grab):1	1260(muffin):1	
+9	4(nice):1	55(lobby):1	97(internet):1	159(access):1	305(decorate):1	404(nicely):1	440(furniture):1	555(computer):1	2016(piano):1	
+
+<Author>ALAIN74
+<Content>Good Hotel Great location, walking distance to shopping area, prefect for catching cable car  walking distance to China Town.Clean room, no air conditioning (we had cool weather, so no big deal), hotel with lift  free internet, good to grab a muffin on-the-go (don't expect breakfast)Staff at reception were very friendly  helpful.I'd immediately stay again, if I come back to San Fran!  
+<Date>Jul 5, 2008
+<Rating>4	4	3	5	3	5	3	4	
+<Aspects>
+3	177(san):1	489(immediately):1	1744(fran):1	
+0	
+17	0(staff):1	3(clean):1	6(breakfast):1	12(friendly):1	14(helpful):1	46(free):1	62(expect):1	97(internet):1	129(reception):1	140(deal):1	164(air):1	263(condition):1	278(cool):1	385(weather):1	591(lift):1	1139(grab):1	1260(muffin):1	
+10	1(location):1	7(walk):2	49(shop):1	115(distance):2	121(car):1	239(town):1	484(cable):1	540(catch):1	1159(china):1	8398(prefect):1	
+0	
+0	
+0	
+0	
+
+<Author>B0S0XGirl
+<Content>Great Place for a Great Price This hotel was great for us. The room was great and they provided pastries in the morning in the lobby. They also have free internet access for guests! The staff was pretty friendly but they were very confused when our friend that stayed with us only a couple of nights tried to pay for his parking before my husband and I checked out. This came up again when we checked out 2 days later. Everything worked out in the end but it was a bit stressful. The location is great - right near Union Square. The only downside is that it is located at the top of a hill and so you need to walk up it each time you want to go back there. Plan accordingly!Overall we had a great experience and would go back in a heartbeat.  
+<Date>Jun 6, 2008
+<Rating>4	5	4	5	4	3	3	-1	
+<Aspects>
+4	52(bit):1	221(plan):1	3508(accordingly):1	3916(stressful):1	
+4	19(price):1	44(experience):1	70(overall):1	1683(heartbeat):1	
+8	1(location):1	55(lobby):1	56(morning):1	102(near):1	139(square):1	153(provide):1	451(union):1	652(pastry):1	
+6	5(time):1	7(walk):1	84(locate):1	118(top):1	756(hill):1	782(downside):1	
+0	
+14	0(staff):1	2(night):1	8(day):1	12(friendly):1	32(check):2	42(pay):1	66(park):1	79(late):1	99(couple):1	105(husband):1	109(pretty):1	146(friend):1	253(tried):1	1419(confuse):1	
+0	
+4	46(free):1	91(guest):1	97(internet):1	159(access):1	
+
+<Author>angela1968
+<Content>Okay hotel The hotel is perfectly located (at Bush and Powell Street) with the cable car, Union Square and China Town close by. Price is good for a low budget hotel in this area.The plus is free internet and breakfast.We were quite surprised to get into our room one night and saw that they had put another bed in our room...  
+<Date>Jun 1, 2008
+<Rating>3	3	3	5	3	3	3	4	
+<Aspects>
+0	
+3	19(price):1	429(budget):1	513(low):1	
+3	2(night):1	11(bed):1	199(surprise):1	
+13	28(close):1	35(street):1	84(locate):1	121(car):1	139(square):1	239(town):1	451(union):1	453(okay):1	484(cable):1	595(perfectly):1	1159(china):1	1897(powell):1	3653(bush):1	
+0	
+0	
+4	6(breakfast):1	46(free):1	97(internet):1	203(plus):1	
+0	
+
+<Author>bonefish2
+<Content>Run Down Mrs and I would be in SF for a whole week so we wanted a hotel that was affordable. I searched the web and through hotels.com I booked the 7 days at the Grant (after reading most of the reviews from various websites). I really didn't expect it to be that old and rundown, but it was clean. Mrs was very disappointed but she never complained... not much anyway. The carpet was old, the whole place needed painting, doors to the bathroom and closet couldn't close; there was a string to turn the light on/off in the closet; the free continental breakfast which included day old pastries and instant coffee was ok; and there was an unusual odor reeking from the hall way (I guess from one of the other room??). On the plus note the location was great: close to Union Square, China Town, Cable Car/Powell near by, lots of bars and restaurants within walking distance, two computers with internet service for free, and a Walgreens 2 blocks away.  
+<Date>May 21, 2008
+<Rating>2	2	2	5	2	2	-1	4	
+<Aspects>
+7	75(week):1	149(run):1	154(disappoint):1	241(complain):1	417(anyway):1	802(sf):1	1062(affordable):1	
+0	
+22	6(breakfast):1	8(day):1	13(bathroom):1	28(close):1	46(free):1	54(door):1	71(include):1	90(coffee):1	123(ok):1	157(light):1	372(continental):1	396(carpet):1	469(guess):1	565(closet):2	616(hall):1	652(pastry):1	806(paint):1	1610(unusual):1	1628(odor):1	2986(instant):1	3372(reek):1	5122(string):1	
+22	1(location):1	7(walk):1	9(service):1	10(restaurant):1	27(bar):1	28(close):1	38(lot):1	46(free):1	97(internet):1	100(bloc):1	102(near):1	115(distance):1	121(car):1	139(square):1	203(plus):1	239(town):1	297(note):1	451(union):1	484(cable):1	555(computer):1	1159(china):1	2549(walgreens):1	
+3	3(clean):1	62(expect):1	2323(rundown):1	
+0	
+10	8(day):1	18(book):1	37(review):1	88(read):1	262(website):1	823(various):1	1019(web):1	1248(search):1	1690(grant):1	3056(hotels.com):1	
+0	
+
+<Author>MichelleNSam
+<Content>Wonderful Budget Hotel This hotel was great - exactly as expected! We stayed four nights in late April/early May, after two nights at a more expensive hotel, and liked the Grant better.The room had a very comfortable bed, good tv with clear reception, and we found the staff very friendly and enthusiastic to talk about San Francisco and make recomendations. We had muffins from the continental breakfast every morning, and pizza from Uncle Vito's across the street three times. We used the Internet on the lobby computers several times and the wait was never long. We were back in the room before 8pm every night, just chilling out. It was always clean and warm and comfortable.The location was absolutly perfect - great restaurants nearby (other than Uncle Vitos, we also went to the sushi place on that street and Lori's Diner down Powell), easy walk to the cable car, the street car and the BART - we bought a CityPass and only used transit throughout the trip, no cabs whatsoever. There was also a WalGreens down the street where we bought Cherry Coke (unavailable in Canada), trail mix, and discount Ghirardelli chocolate bars, which we kept in the room fridge. The Grant was a little farther from the sketchy part of town than expected - we were asked for money a lot less staying at the Grant then down the road at Parc55.Yes, the window looked out at a wall, but on the upside there was absolutly no noise. The smell people talked about was barely noticible - if I hadn't been looking for it, I wouldn't have noticed. The only other problem we had was that our bathroom door did not fully shut, and the staff didn't seem too bothered about it when we reported it. We didn't care, but others might. ON the supbjet of the bathroom, the bathtub was roomy and there was plenty of hot water.We got the room through Expedia and got a rate of $58 per night. Having stayed there once, I'd go as high as $90 before I paid for a more expensive hotel again. This was our first vacation in two years and thanks to the Grant, everything was perfect.  
+<Date>May 19, 2008
+<Rating>4	5	4	5	5	5	4	3	
+<Aspects>
+12	23(little):1	38(lot):1	48(wonderful):1	62(expect):2	80(money):1	230(road):1	239(town):1	242(care):1	429(budget):1	586(exactly):1	1690(grant):2	3148(sketchy):1	
+8	2(night):2	42(pay):1	74(perfect):1	79(late):1	124(expensive):2	131(vacation):1	271(thank):1	1690(grant):2	
+33	0(staff):2	2(night):2	11(bed):1	12(friendly):1	13(bathroom):2	20(look):1	25(comfortable):1	54(door):1	57(water):1	78(rate):1	94(noise):1	114(hot):1	116(tv):1	119(window):1	129(reception):1	158(plenty):1	177(san):1	183(wall):1	250(yes):1	307(bother):1	355(francisco):1	371(talk):1	838(report):1	1023(bathtub):1	1066(expedia):1	1086(shut):1	1353(roomy):1	1397(chill):1	3448(absolutly):1	3456(enthusiastic):1	3613(upside):1	5539(recomendation):1	9438(8pm):1	
+29	1(location):1	5(time):1	6(breakfast):1	7(walk):1	10(restaurant):1	33(trip):1	35(street):3	56(morning):1	74(perfect):1	93(easy):1	121(car):2	232(nearby):1	280(buy):1	372(continental):1	380(cab):1	445(throughout):1	484(cable):1	678(pizza):1	1260(muffin):1	1324(diner):1	1505(bart):1	1632(sushi):1	1733(whatsoever):1	1897(powell):1	2015(transit):1	3448(absolutly):1	5656(uncle):2	6732(lori):1	12563(citypass):1	
+9	3(clean):1	20(look):1	25(comfortable):1	26(people):1	231(smell):1	236(warm):1	354(notice):1	371(talk):1	1020(barely):1	
+0	
+14	27(bar):1	35(street):1	280(buy):1	318(fridge):1	609(mix):1	632(chocolate):1	864(discount):1	1384(canada):1	1672(coke):1	2507(trail):1	2549(walgreens):1	3703(unavailable):1	4840(cherry):1	6391(ghirardelli):1	
+5	5(time):1	55(lobby):1	85(wait):1	97(internet):1	555(computer):1	
+
+<Author>jennifer_tighe
+<Content>Bed Bugs! The pictures referenced in this listing are not for the address mapped for this listing. I stayed here in early May 2008. It was a dingy, poorly lit room with rough sheets, an uncomfortable bed, mold in the shower, nothing on the walls and BED BUGS!!! I think there is another hotel with the nameGrant that is getting confused with the one on Bush between Mason and Powell which is where I stayed. The elevator is shaky. The wireless is only in a small section of the lobby with one table, a dirty couch and two dirty arm chairs for seating. The continental breakfast is only limited pastries and if you want orange juice it's $1.50 extra. We were able to check-in an hour early, it's close to public transport and it is a low rate but none of this makes it worth it. The bed bug bites still haven't gone away and I've been home for a week!  
+<Date>May 15, 2008
+<Rating>1	1	1	3	1	2	2	2	
+<Aspects>
+5	456(picture):1	650(list):2	724(map):1	1312(address):1	3805(reference):1	
+0	
+14	11(bed):4	61(shower):1	75(week):1	141(home):1	157(light):1	183(wall):1	479(sheet):1	602(bug):3	856(uncomfortable):1	1042(bite):1	1047(rough):1	1138(mold):1	1635(poorly):1	1749(dingy):1	
+14	28(close):1	60(hour):1	78(rate):1	96(worth):1	171(able):1	286(check-in):1	379(public):1	513(low):1	573(none):1	742(transport):1	1419(confuse):1	1897(powell):1	3653(bush):1	5075(mason):1	
+9	55(lobby):1	198(chair):1	229(table):1	323(dirty):2	504(seat):1	717(wireless):1	947(section):1	1192(couch):1	1726(arm):1	
+0	
+9	6(breakfast):1	128(extra):1	216(elevator):1	362(juice):1	372(continental):1	510(limit):1	652(pastry):1	1104(orange):1	8033(shaky):1	
+0	
+
+<Author>kimtinsy
+<Content>Not Bad For The Price and Location We booked this hotel early Feb for our March 31, 4 night stay and we got the room at $76/night + tax.Check in with the crabby old lady was fast, she just asked for my name, id and credit card (don't know what for...room was prepaid-but was returned eventually w/o swiping). No one to help with your luggage also but that's just fine with me. We got the room in less than 15 minutes. Was given room 301 which faces Bush St., which can get quite noisy because of traffic on the street and at all hours. Room size is ok, so was bathroom w/c has bathtub/shower combo, hot water and some toiletries and also 4 sets of bath towels. The hallway also has some weird/funny smell as mentioned before.Location is great, just a few steps to the cable car, 2 blocks down to Union Square, 2 blocks to Chinatown and across Alamo/National car rental (w/c I would use going to LA). I suggest you get the Muni Passport or Citypass (w/c includes Muni Passport) so you'd have no problems with public transport. Although it's only 2 blocks to Union Square, coming from Union Square is a steep and very tiring climb up...we're not used to SF up and down streets. Breakfast was as stated, pastries and free coffee, that's it. You can try going to Chinatown for congee or down to Union Square for some American breakfast. Internet on hotel's 2 computer is free as is wifi in the lobby. We didn't have any problems with computer usage in the mornings we were there. Regarding the crabby old lady, she reminds me of my grandmother so I didn't have any problems with her. Some people just aren't people persons but they're the ones that take care of the business. She was there mostly mornings until afternoons. She's Thai/Chinese, so if you can, speak to her in her language - that's the way to get on her good side.  
+<Date>Apr 6, 2008
+<Rating>4	4	3	5	4	3	3	4	
+<Aspects>
+10	56(morning):1	127(speak):1	364(afternoon):1	521(lady):1	698(language):1	930(regard):1	1285(remind):1	2393(thai):1	5685(grandmother):1	12746(crabby):1	
+8	1(location):1	2(night):1	18(book):1	19(price):1	50(bad):1	615(march):1	798(tax):1	1258(feb):1	
+42	1(location):1	6(breakfast):1	13(bathroom):1	29(minute):1	32(check):1	35(street):1	39(return):1	57(water):1	76(try):1	83(size):1	100(bloc):3	114(hot):1	121(car):2	123(ok):1	125(towel):1	139(square):4	225(la):1	226(bath):1	234(set):1	292(card):1	295(name):1	366(step):1	451(union):4	454(tire):1	484(cable):1	499(fast):1	521(lady):1	657(toiletry):1	659(credit):1	802(sf):1	963(rental):1	1023(bathtub):1	1060(steep):1	1132(chinatown):2	1204(eventually):1	1424(climb):1	2584(id):1	3355(combo):1	4077(swipe):1	9622(alamo):1	10034(congee):1	12746(crabby):1	
+17	26(people):2	35(street):1	60(hour):1	71(include):1	147(business):1	193(person):1	217(noisy):1	242(care):1	379(public):1	452(suggest):1	486(traffic):1	655(st):1	742(transport):1	1975(passport):2	2181(muni):2	3653(bush):1	12563(citypass):1	
+4	231(smell):1	244(mention):1	580(hallway):1	1611(weird):1	
+0	
+7	6(breakfast):1	46(free):1	90(coffee):1	92(help):1	113(fine):1	249(luggage):1	652(pastry):1	
+7	46(free):1	55(lobby):1	56(morning):1	97(internet):1	555(computer):2	1268(wifi):1	3876(usage):1	
+
+<Author>CanuckTraveller07
+<Content>Lukewarm On The Grant Hotel       Room at the Grant Hotel  
+<Date>Mar 6, 2008
+<Rating>2	2	4	5	5	1	1	-1	
+<Aspects>
+0	
+0	
+2	1690(grant):2	3498(lukewarm):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Kousubh
+<Content>Small Budget...good hotel I was on a business visit to San Francisco, i was looking for a good budget hotel. I found this hotel while surfing on Internet. I called to the Hotel and they offered me a good deal i was staying for a longer period. The hotel is very close to the Chinatown, Union Square and yes, special mention, Cable Cars.The rooms are decent with all the basic amenities like Refrigerator, Iron Board, TV, Locker.Good points :  Free Internet access at lobby. Free Breakfast in morning. Helpful staff Some of the downsides are: No Oven in room You need to contact external Internet Service Provider for Internet as Hotel provides only in Lobby.Overall: A good hotel if you want more in less moneyBest,Koustubh  
+<Date>Feb 24, 2008
+<Rating>3	3	3	4	4	3	4	4	
+<Aspects>
+5	67(call):1	70(overall):1	89(offer):1	140(deal):1	1331(period):1	
+0	
+17	28(close):1	116(tv):1	121(car):1	139(square):1	208(special):1	244(mention):1	250(yes):1	257(decent):1	291(amenity):1	352(basic):1	451(union):1	484(cable):1	600(board):1	868(iron):1	916(refrigerator):1	1132(chinatown):1	3446(locker):1	
+6	20(look):1	65(visit):1	147(business):1	177(san):1	355(francisco):1	429(budget):2	
+0	
+11	0(staff):1	9(service):1	14(helpful):1	55(lobby):1	97(internet):2	153(provide):1	713(contact):1	782(downside):1	2916(oven):1	4299(external):1	5189(provider):1	
+3	6(breakfast):1	46(free):1	56(morning):1	
+5	46(free):1	55(lobby):1	97(internet):2	159(access):1	1396(surf):1	
+
+<Author>Dazoli
+<Content>Great, Location, Value Our room was $85 a night and it met our needs perfectly. The gentlemen at check in was very helpful with maps, things to do and a great tip with the 3 day ($18) or 1 day ($11) public transport ticket - including cable car which is on the first corner down at Powell St. he also recommended a back room which was one of the quitest rooms we have stayed in on our trip so far. Our room was perfect - clean, comfy bed, nice hot showers and wireless internet. They also have a computer in reception area with fresh pastry and tea / coffee for breakfast.  
+<Date>Jan 16, 2008
+<Rating>4	5	4	5	4	5	4	4	
+<Aspects>
+0	
+5	1(location):1	2(night):1	81(value):1	196(meet):1	595(perfectly):1	
+9	3(clean):1	4(nice):1	11(bed):1	61(shower):1	74(perfect):1	97(internet):1	114(hot):1	475(comfy):1	717(wireless):1	
+17	8(day):2	14(helpful):1	15(recommend):1	32(check):1	33(trip):1	71(include):1	121(car):1	194(tip):1	200(corner):1	379(public):1	484(cable):1	621(ticket):1	655(st):1	724(map):1	742(transport):1	1506(gentleman):1	1897(powell):1	
+0	
+0	
+7	6(breakfast):1	90(coffee):1	129(reception):1	197(fresh):1	301(tea):1	555(computer):1	652(pastry):1	
+0	
+
+<Author>bowes2006
+<Content>Wonderful Location, Great Price       View Out of Our Window  
+<Date>Nov 23, 2007
+<Rating>4	5	4	5	5	4	5	3	
+<Aspects>
+0	
+5	1(location):1	17(view):1	19(price):1	48(wonderful):1	119(window):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>SUGAS
+<Content>A wonderful place to stay The Grant Hotel is ideally located only a block away from Union Square, 3 blocks away from China Town gate. Very convenient for travelers who uses public transportation. There is a car rental office across the street. Also very convenient for guests who need to return cars or rent a car. The room I stayed was not big, but good size for one or two. The bathroom was newly renovated, with marble counter top. I found the sink being outside was strange at first but eventually found it making sense, for one can use the toilet while other can use the sink. The room was very clean and tastefully furnished. There was no smell in my room. I guess I was quite lucky, because my room was exactly like the photo posted online.I did notice some smell during the noon time in the lobby one day. The smell was not offensive to me since it was some kind of aroma of oriental food. I noticed there was guests using the microwave oven at the front desk counter. When I return in the afternoon, the smell was gone. So I assumed the smell was from the guests' food. Frankly speaking, I don't think the hotel can have control over that.The front desk staff, especially the evening shift staff, were very friendly. The maids were helpful as well. With the price we paid, I found this place one of the best valued hotel in downtown San Francisco. My experience at Grant Hotel was very pleasant. Will definitely recommend this place to all my family and friends.  
+<Date>Nov 21, 2007
+<Rating>5	-1	4	5	5	4	5	4	
+<Aspects>
+14	14(helpful):1	15(recommend):1	39(return):1	59(definitely):1	91(guest):1	106(family):1	121(car):2	127(speak):1	146(friend):1	186(convenient):1	300(maid):1	865(control):1	1030(rend):1	2109(frankly):1	
+9	19(price):1	42(pay):1	44(experience):1	81(value):1	150(pleasant):1	177(san):1	334(downtown):1	355(francisco):1	1690(grant):1	
+27	3(clean):1	13(bathroom):1	48(wonderful):1	83(size):1	84(locate):1	100(bloc):2	118(top):1	139(square):1	231(smell):1	239(town):1	451(union):1	469(guess):1	533(renovate):1	586(exactly):1	644(post):1	705(marble):1	761(photo):1	787(furnish):1	797(lucky):1	822(online):1	992(gate):1	1001(counter):1	1159(china):1	1189(newly):1	1526(tastefully):1	1690(grant):1	1800(ideally):1	
+14	35(street):1	98(outside):1	121(car):1	186(convenient):1	267(traveler):1	330(toilet):1	379(public):1	509(sink):2	728(transportation):1	792(office):1	963(rental):1	1058(strange):1	1102(sense):1	1204(eventually):1	
+14	5(time):1	8(day):1	16(food):2	39(return):1	55(lobby):1	91(guest):1	231(smell):4	354(notice):1	364(afternoon):1	1309(noon):1	1407(assume):1	1616(Oriental):1	4350(offensive):1	5356(aroma):1	
+11	0(staff):2	12(friendly):1	31(front):2	36(desk):2	91(guest):1	126(especially):1	354(notice):1	820(microwave):1	1001(counter):1	2479(shift):1	2916(oven):1	
+0	
+0	
+
+<Author>StealthySteven
+<Content>Good Find In San Francisco       Building Exterior  
+<Date>Nov 19, 2007
+<Rating>4	4	3	4	4	4	4	3	
+<Aspects>
+4	135(build):1	177(san):1	355(francisco):1	1828(exterior):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Winter_Log_Fires
+<Content>Good location and value though the photos were misleading.... Great location - right near the cable cars and Union Square. Also opposite a car hire place - we booked a car for a day. Booked on computer in hotel reception. Wandered over and waited over an hour to sign the papers. There was a massive queue. Wouldn't recommend it. We drove down I-1 to Monterary. We weren't very excited by the trip. Back to the hotel... room was quite small. Some wires were exposed and there was no view of anything - just a wall. Small bed. We had bought in our own breakfast (breakfast is provided - coffee and a pastry though not very exciting). We were convinced that our cereal had been thrown out one day which was bloody irritating (I'm sure in error). No kettle though you can get free hot water from a machine on the reception desk.Reception booked us a shuttle bus for the airport. The reception staff were very friendly and helpful which was the impression I'd got as I arranged the booking. Toilet was blocked on last morning.... these things happen.Would recommend though would slightly adjust your expectations from the photos on their website.  
+<Date>Nov 14, 2007
+<Rating>3	3	3	4	3	4	3	-1	
+<Aspects>
+17	8(day):1	15(recommend):1	33(trip):1	56(morning):1	298(drive):1	330(toilet):1	382(happen):1	529(cereal):1	917(throw):1	1136(excite):1	1329(massive):1	1463(queue):1	1898(block):1	2388(convince):1	2467(irritate):1	2628(error):1	3938(bloody):1	
+14	1(location):2	15(recommend):1	81(value):1	102(near):1	121(car):1	139(square):1	262(website):1	431(expectation):1	451(union):1	484(cable):1	598(slightly):1	761(photo):2	2040(adjust):1	2221(mislead):1	
+1	11(bed):1	
+13	8(day):1	17(view):1	18(book):2	95(airport):1	120(bus):1	121(car):2	129(reception):1	183(wall):1	321(shuttle):1	783(opposite):1	1556(hire):1	1904(wire):1	2637(expose):1	
+0	
+18	0(staff):1	12(friendly):1	14(helpful):1	18(book):1	36(desk):1	46(free):1	57(water):1	60(hour):1	85(wait):1	114(hot):1	129(reception):2	449(sign):1	493(machine):1	680(arrange):1	776(paper):1	848(impression):1	1562(wander):1	1944(kettle):1	
+7	6(breakfast):2	90(coffee):1	153(provide):1	166(own):1	280(buy):1	652(pastry):1	1136(excite):1	
+3	18(book):1	129(reception):1	555(computer):1	
+
+<Author>hijinkx
+<Content>Nice Place to Stay I only stayed here for 1 night but the room was very clean and the room rate was very reasonable. Thanks a lot. Could have had better soaps/shampoos.  
+<Date>Oct 28, 2007
+<Rating>4	4	4	3	5	4	4	-1	
+<Aspects>
+2	38(lot):1	271(thank):1	
+0	
+5	2(night):1	3(clean):1	4(nice):1	78(rate):1	273(reasonable):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>fordaleDubai
+<Content>Mixed Reactions I researched the San Francisco Hotels extensively and this hotel had generally nothing but good reviews. The bad ones have appeared since I booked and departed :(.However, the smell hits you first as you enter the lobby, it is all pervading and seems to be some sort of cleaning material. It is not a foul smell but a chemical odour. After the first day we did not notice it too much. The second thing that hits you is the really 鈥榮habby鈥?condition of the lobby and lounge. The upholstery on the chairs is tatty, stained and un-welcoming, this really needs to be addressed. The room was fine, nicely appointed and has clearly been recently refurbished albeit on the cheap. The bathroom likewise has been 鈥榬e-done鈥?but cheaply. Things like the inside of the wardrobe have been neglected and are just awful. Our shower was a demon and burnt us regularly with a flow of hot and cold water which unfortunately never came at the same time. So we were either scalded or hit with icy water. The hotel seems to be run by an Oriental family and while the younger members are friendly and charming the two elder members were sour and unfriendly. However, the hotel is wonderfully located and 鈥淪POTLESSLY鈥?clean鈥︹€︹€? and for the rate of USD95.00 per night per room a BARGAIN in San Francisco. I would rate this as more 鈥榖ack-packers鈥?accommodation.  
+<Date>Oct 28, 2007
+<Rating>2	5	4	5	5	3	4	2	
+<Aspects>
+21	8(day):1	12(friendly):1	37(review):1	57(water):1	106(family):1	149(run):1	177(san):1	332(charm):1	354(notice):1	355(francisco):1	609(mix):1	775(hit):1	1024(research):1	1487(unfriendly):1	1616(Oriental):1	2178(extensively):1	3066(sour):1	3648(reaction):1	4825(scald):1	6792(icy):1	12696(elder):1	
+16	2(night):1	3(clean):1	78(rate):2	84(locate):1	113(fine):1	143(cheap):1	177(san):1	322(recently):1	355(francisco):1	404(nicely):1	579(appoint):1	721(accommodation):1	759(bargain):1	1253(refurbish):1	1686(wonderfully):1	2083(albeit):1	
+21	5(time):1	13(bathroom):1	57(water):1	61(shower):1	114(hot):1	198(chair):1	222(cold):1	408(inside):1	524(unfortunately):1	723(stain):1	736(awful):1	1289(burn):1	1312(address):1	1451(wardrobe):1	1881(regularly):1	1942(flow):1	3543(neglect):1	4353(cheaply):1	4461(tatty):1	4702(likewise):1	6599(upholstery):1	
+0	
+11	3(clean):1	55(lobby):1	231(smell):2	557(sort):1	601(enter):1	775(hit):1	1628(odor):1	2681(material):1	4058(foul):1	4744(chemical):1	11149(pervade):1	
+0	
+8	18(book):1	50(bad):1	55(lobby):1	237(lounge):1	263(condition):1	541(appear):1	775(hit):1	1814(depart):1	
+0	
+
+<Author>jewelzz111
+<Content>Terrible smell - but great location       Take a close look at the window - nice view, huh?  
+<Date>Oct 25, 2007
+<Rating>2	2	1	5	2	2	2	1	
+<Aspects>
+0	
+0	
+0	
+9	1(location):1	4(nice):1	17(view):1	20(look):1	28(close):1	119(window):1	231(smell):1	432(terrible):1	5523(huh):1	
+0	
+0	
+0	
+0	
+
+<Author>ILeftMyHeartInSF31
+<Content>Great Hotel for the price I stayed here twice during the month of August. The first time I stayed the experience was really great and much better than expected.The second stay was great except for check in. We had requested a specific room (same room as the time before since we loved the size of the room and noticed it was larger than most of the other rooms) and were promised it, but when it came time to check in the room wasn't available even though we had just called the night before checking in and had been told it was still confirmed for that room.The woman at the front desk was very rude during this whole ordeal and not very helpful at all. They had us inspect 2 rooms and were told we would have to settle since nothing that we were pleased with would be available. Finally another woman came in and was much more courteous and was able to accommodate us.They are apparently doing remodeling of some of the rooms and be warned, each room is very different!! Our first room was very large and had a great bathroom! It also had a full length mirror. Our second room was a decent size at best and the bathroom was okay, but the water pressure was terrible and also had very bad water temperature control. There wasn't a full length mirror and the sink was located outside of the bathroom. The sink wasn't terrible since it had counter space the first didn't have but just a difference I noticed. The corner rooms that have an actual view are much larger than the rooms located in the middle rooms that look out onto a wall.Overall though, both of the rooms were very clean and well kept. The location was great since we were only a couple of blocks from Union square and for the price it was worth it. Also the breakfast muffins were very good! They disappeared quickly though and if you didn't make it down before 9 am they were all gone!They did have complimentary wireless internet in the lobby of the hotel and a computer for guest use also.Overall I would definitely recommend this hotel and would stay here again. The price for the location and service can't be beat!  
+<Date>Oct 18, 2007
+<Rating>4	4	4	5	4	2	3	2	
+<Aspects>
+5	15(recommend):1	59(definitely):1	70(overall):1	471(quickly):1	2594(disappear):1	
+19	1(location):2	5(time):1	9(service):1	19(price):3	44(experience):1	62(expect):1	96(worth):1	99(couple):1	100(bloc):1	139(square):1	171(able):1	341(finally):1	347(twice):1	388(month):1	442(beat):1	451(union):1	483(courteous):1	566(woman):1	624(accommodate):1	
+38	2(night):1	3(clean):1	5(time):2	13(bathroom):3	32(check):2	40(love):1	50(bad):1	57(water):2	67(call):1	69(tell):2	70(overall):1	83(size):2	84(locate):1	98(outside):1	134(available):2	148(request):1	173(please):1	210(space):1	257(decent):1	354(notice):2	432(terrible):2	453(okay):1	509(sink):2	679(warn):1	686(pressure):1	819(difference):1	863(apparently):1	865(control):1	944(temperature):1	975(promise):1	982(confirm):1	1001(counter):1	1129(mirror):2	1238(remodel):1	1414(settle):1	1848(specific):1	1879(length):2	4492(inspect):1	
+7	17(view):1	20(look):1	84(locate):1	183(wall):1	200(corner):1	325(middle):1	1536(actual):1	
+0	
+8	14(helpful):1	31(front):1	32(check):1	36(desk):1	337(except):1	392(rude):1	566(woman):1	5151(ordeal):1	
+2	6(breakfast):1	1260(muffin):1	
+6	55(lobby):1	91(guest):1	97(internet):1	345(complimentary):1	555(computer):1	717(wireless):1	
+
+<Author>NYAdventureCat
+<Content>Excellent for a Two Star No one would deny the Grant Hotel is a two star, so don't bother to compare it with the Ritz, or Kempinski, or Marriott, ...etc. It is quite interesting to read the previous review. Obviously the people who wrote it were so upset that they didn't even recognize the fact of how good location Grant Hotel has. I just LOVE the Grant Hotel. It has all I need, for business or for pleasure.- Very clean room, basic furnitures, en suite bath room, comfortable bed- great location, very safe to walk at night, next to Union Square, China Town, Financial District, cable car stop, easy walk to Monscone Center, convenient discount parking, car rental office across the street- friendly , accommodating staffs- a little extra: free coffee and tea around the clock, free pastries in the morning, cable TV with Show Time, ESPN, free high speed wireless internet access in the lobby, free use of desk top computer (with skype!) in the lobbyMost of all, Grant Hotel is very reasonably priced, so we get to spend money on enjoying the rest of San Francisco offers. I applause to the effort they have made to keep this place with excellent value for money.I will bring my kids to stay there and show them the great sample of cost effectiveness. I am sure they will enjoy their stay and the city.  
+<Date>Oct 13, 2007
+<Rating>5	5	4	5	5	4	5	5	
+<Aspects>
+7	37(review):1	40(love):1	41(city):1	51(enjoy):1	88(read):1	373(previous):1	1690(grant):1	
+26	19(price):1	21(excellent):2	51(enjoy):1	64(spend):1	73(etc):1	80(money):2	81(value):1	89(offer):1	103(star):2	142(bring):1	175(cost):1	177(san):1	201(kid):1	288(rest):1	307(bother):1	355(francisco):1	381(compare):1	578(reasonably):1	618(marriott):1	825(ritz):1	1017(effort):1	1690(grant):2	1960(sample):1	3067(deny):1	7369(kempinski):1	10876(applause):1	
+52	0(staff):1	1(location):1	2(night):1	3(clean):1	5(time):1	7(walk):2	11(bed):1	12(friendly):1	23(little):1	25(comfortable):1	35(street):1	36(desk):1	46(free):4	55(lobby):1	56(morning):1	66(park):1	90(coffee):1	93(easy):1	97(internet):1	101(center):1	108(suite):1	116(tv):1	118(top):1	121(car):2	122(stop):1	128(extra):1	137(safe):1	139(square):1	159(access):1	186(convenient):1	226(bath):1	239(town):1	301(tea):1	352(basic):1	433(district):1	440(furniture):1	451(union):1	484(cable):2	555(computer):1	624(accommodate):1	652(pastry):1	717(wireless):1	792(office):1	864(discount):1	963(rental):1	1159(china):1	1170(speed):1	1291(clock):1	1746(financial):1	2065(en):1	6172(espn):1	11957(skype):1	
+9	1(location):1	26(people):1	147(business):1	344(write):1	781(obviously):1	907(pleasure):1	1220(upset):1	1690(grant):1	2442(recognize):1	
+0	
+0	
+0	
+0	
+
+<Author>fluffybundles
+<Content>Dreadful. The worst hotel in the world. What are you raters thinking??? This hotel is the worst hotel I have ever been in. I don't know how anyone rates it as a 5 and for all of you who did, you owe me money as I took you at your word. We were booked to stay three nights. As soon as we opened the door to the hotel we were hit with a very bad smell. It was like someone had sprayed about 20 cans of air freshner trying to cover something up and it didn't work. The smell in the hotel room was just as bad. I had the window fully open trying to air it out and it didn't improve. I had to close the window because it got cold and the smell just got worse, I thought I would be sick.The bed only had two pillows and there were no spares in the cupboard. I asked for two more and it took a long time for them to find some and they were so thin I shouldn't have bothered. Apparently everyone in the hotel had asked for extra pillows.The noise from the street, the people upstairs and the people next door kept us up all night. My first job was to find a new hotel the next morning and we did. The window in our room had a broken lock. Not very secure at all. We knew this was a budget hotel and we weren't expecting the Ritz. Still, they need to make an effort. The towels in the bathroom were small, old, worn and off white. They didn't look clean and we refused to use them. The smell has gotten into our clean clothes in the suitcase in less than 24 hours and will need to be washed. This was the worst experience ever. They didn't even question us why we were leaving two days early. They obviously know how bad they are.  
+<Date>Oct 8, 2007
+<Rating>1	1	-1	2	-1	2	-1	-1	
+<Aspects>
+24	5(time):1	8(day):1	43(leave):1	50(bad):3	56(morning):1	62(expect):1	78(rate):1	80(money):1	128(extra):1	272(world):1	303(pillow):1	307(bother):1	394(question):1	429(budget):1	481(job):1	571(word):1	754(thin):1	781(obviously):1	825(ritz):1	863(apparently):1	1017(effort):1	1034(secure):1	2895(dreadful):1	4197(owe):1	
+2	44(experience):1	50(bad):1	
+28	2(night):1	11(bed):1	13(bathroom):1	26(people):2	28(close):1	35(street):1	50(bad):2	54(door):1	76(try):2	94(noise):1	119(window):3	125(towel):1	164(air):2	222(cold):1	228(break):1	231(smell):2	303(pillow):1	434(wear):1	466(white):1	552(cover):1	654(sick):1	774(lock):1	1099(spray):1	1217(improve):1	1358(upstairs):1	2266(spare):1	2374(cupboard):1	7690(freshner):1	
+0	
+12	3(clean):2	20(look):1	50(bad):1	54(door):1	60(hour):1	231(smell):2	418(soon):1	709(clothe):1	775(hit):1	811(wash):1	974(suitcase):1	1103(refuse):1	
+0	
+2	2(night):1	18(book):1	
+0	
+
+<Author>oztrane
+<Content>Loved The Grant Hotel Stayed for 3 nights from September 30. The Grant Hotel is ideally located. The rooms were of good size and easily accomodated my family of 2 adults and 2 teenage children. The Hotel is near the Cable car stop on Powell Street and easy walk to food and shops. Fishermans Wharf is an easy ride on the cable car. The Hotel breakfast is basic but filling if you like muffins and pastries in the morning. Added bonus is the free internet access. Staff are very friendly and helpful with suggestions re where to eat etc. Highly recommend this hotel for price and location.  
+<Date>Oct 2, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+10	2(night):1	40(love):1	93(easy):1	121(car):1	218(ride):1	484(cable):1	784(wharf):1	972(september):1	1690(grant):1	2198(fishermans):1	
+4	1(location):1	15(recommend):1	19(price):1	138(highly):1	
+7	83(size):1	106(family):1	277(child):1	438(easily):1	549(accomodate):1	556(adult):1	1837(teen-age):1	
+13	7(walk):1	16(food):1	35(street):1	49(shop):1	84(locate):1	93(easy):1	102(near):1	121(car):1	122(stop):1	484(cable):1	1690(grant):1	1800(ideally):1	1897(powell):1	
+0	
+6	0(staff):1	12(friendly):1	14(helpful):1	47(eat):1	73(etc):1	921(suggestion):1	
+6	6(breakfast):1	56(morning):1	352(basic):1	491(fill):1	652(pastry):1	1260(muffin):1	
+5	46(free):1	97(internet):1	159(access):1	351(add):1	849(bonus):1	
+
+<Author>heavybuddy
+<Content>One of the best budget options in Union Square When I travel on business I just want a small clean quiet room with a decent bed, appliances that work, and a hot shower in the morning. The Grant provides all this and more at a fraction of the price you would pay at a chain or boutique property in Union Square. I scored a rate of $70 on Expedia, which was about $15 lower than the other websites including the hotel's own. For that bargain rate I got a nice room on the 3rd floor at the back, with a very comfortable bed, and a better than average bathroom with a shower with decent water pressure, a rarity in these old buildings. It was so quiet I had the window wide open all night. Check in was fast and friendly, no complaints there. I was out of there early the next morning, with coffee and a bran muffin for breakfast. This is an excellent budget choice in this neighborhood, and appropriate for any traveller, although families with kids should probably look for larger quarters. I will gladly stay here again!  
+<Date>Sep 18, 2007
+<Rating>5	5	4	5	3	5	4	3	
+<Aspects>
+1	2176(gladly):1	
+21	19(price):1	20(look):1	21(excellent):1	42(pay):1	106(family):1	107(choice):1	139(square):1	153(provide):1	178(probably):1	201(kid):1	214(property):1	267(traveler):1	421(neighbourhood):1	429(budget):1	451(union):1	463(quarter):1	623(boutique):1	627(chain):1	1690(grant):1	2421(appropriate):1	3719(fraction):1	
+29	2(night):1	3(clean):1	4(nice):1	11(bed):2	13(bathroom):1	24(floor):1	25(comfortable):1	56(morning):1	57(water):1	58(quiet):2	61(shower):2	68(travel):1	78(rate):1	114(hot):1	119(window):1	139(square):1	147(business):1	227(average):1	257(decent):2	336(option):1	429(budget):1	451(union):1	686(pressure):1	745(building):1	759(bargain):1	860(wide):1	2097(3rd):1	3434(appliance):1	4973(rarity):1	
+7	71(include):1	78(rate):1	166(own):1	262(website):1	777(lour):1	1066(expedia):1	3030(score):1	
+0	
+4	12(friendly):1	32(check):1	190(complaint):1	499(fast):1	
+5	6(breakfast):1	56(morning):1	90(coffee):1	1260(muffin):1	12025(bran):1	
+0	
+
+<Author>Travillez
+<Content>A good place to stay This is a very good hotel for the price. A two star that tries very hard. The Grant offers you exactly what you need, a reasonably priced room in an expensive city. the bed was was perfect and yes the room was small, but clean and comfortable. the walk up hill from Union Square is perfect exercise for those of us who need it, and it really isn't that much walking. I have read some reviews of this hotel, by people who really should spend the money for a 4-5 star hotel because a 2 star just doesn't offer the things you are looking for.  
+<Date>Sep 14, 2007
+<Rating>3	4	3	4	4	3	3	-1	
+<Aspects>
+0	
+16	19(price):2	20(look):1	26(people):1	37(review):1	41(city):1	64(spend):1	76(try):1	80(money):1	88(read):1	89(offer):2	103(star):3	124(expensive):1	162(hard):1	578(reasonably):1	586(exactly):1	1690(grant):1	
+10	3(clean):1	7(walk):2	11(bed):1	25(comfortable):1	74(perfect):2	139(square):1	250(yes):1	451(union):1	756(hill):1	1459(exercise):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>mindyhobart
+<Content>Great location While a little shaby, a coat of paint wouldn't go astray, this hotel was very good value and well located. There is a steep uphill walk to get there. No hairdyer in the room. One computer with internet access in the lobby. We logged in the city's wireless network, only $19US for 7 days. Breakfast coffee and pastries were a bonus.  
+<Date>Sep 4, 2007
+<Rating>4	4	3	4	4	3	3	3	
+<Aspects>
+0	
+0	
+0	
+9	1(location):1	7(walk):1	23(little):1	81(value):1	84(locate):1	806(paint):1	1060(steep):1	2636(coat):1	3597(uphill):1	
+0	
+0	
+4	6(breakfast):1	90(coffee):1	652(pastry):1	849(bonus):1	
+9	8(day):1	41(city):1	55(lobby):1	97(internet):1	159(access):1	555(computer):1	717(wireless):1	2937(network):1	3437(log):1	
+
+<Author>bald0ne
+<Content>Excellent value for money This is a great hotel only 5 or so minutes walk from Union Square. The only problem is that you have to walk up a very steep hill to get there.The room was very clean, the staff always very friendly, the free muffins and coffee for breakfast was always appreciated. For the price you pay, this is an excellent deal, even if the lift is occassionally out of order.I'm going back to SF later this year and will be staying with them again.  
+<Date>Aug 2, 2007
+<Rating>4	4	3	4	3	3	3	3	
+<Aspects>
+2	79(late):1	802(sf):1	
+12	7(walk):1	19(price):1	21(excellent):2	29(minute):1	42(pay):1	80(money):1	81(value):1	139(square):1	140(deal):1	451(union):1	591(lift):1	7876(occassionally):1	
+0	
+3	7(walk):1	756(hill):1	1060(steep):1	
+0	
+0	
+8	0(staff):1	3(clean):1	6(breakfast):1	12(friendly):1	46(free):1	90(coffee):1	500(appreciate):1	1260(muffin):1	
+0	
+
+<Author>Pookiegirl14
+<Content>Great location and price. Stay here..you won't be sorry.My husband and I stayed at the Grant Hotel for 5days/4 nights. We had a great package deal that included free parking which is right across the street-secured parking and open 24/7. The attendents at the parking garage are very accomodating too. Hotel room was more than adequate in size and very clean. Our room was on the first floor, towards the back of the hotel..pretty quiet actually. No a/c,but then you don't need it in San Francisco..just open the window- perfect. Bed was quite comfortable. Small fridge in room/hair dryer in bathroom. Walk in type closet.Breakfast in lobby is pastries,coffee and tea. Location of hotel- 1/2 block from cable car stop, can't get better than that. Suggestion: buy the passport pass..we did and it was the best money spent..Cable car is 5.00 per person one way...Muni is 1.50 per person..but with passport...ride as much as you want-bus to Coit,Muni to Giants baseball games,Cable cars to Fisherman's Wharf.Numerous great places to eat in neighborhood from Italian, Japanese to French and beyond...all within short walking distances.China town just two blocks down Bush then turn left. You can't miss it.We will be back to San Francisco and we will stay at the Grant Hotel..check in was easy/ staff helpfulWhat more could you ask for.This is a gem.  
+<Date>Jul 30, 2007
+<Rating>4	4	4	4	4	4	4	4	
+<Aspects>
+18	2(night):1	64(spend):1	80(money):1	105(husband):1	121(car):1	177(san):2	193(person):2	276(miss):1	280(buy):1	355(francisco):2	400(pass):1	484(cable):1	487(wo):1	891(sorry):1	921(suggestion):1	1690(grant):2	1975(passport):1	2181(muni):1	
+2	1(location):1	19(price):1	
+15	3(clean):1	11(bed):1	13(bathroom):1	24(floor):1	25(comfortable):1	58(quiet):1	74(perfect):1	83(size):1	109(pretty):1	119(window):1	180(actually):1	318(fridge):1	390(adequate):1	959(towards):1	1209(dryer):1	
+35	1(location):1	7(walk):2	43(leave):1	46(free):1	47(eat):1	66(park):2	71(include):1	100(bloc):2	115(distance):1	121(car):2	122(stop):1	140(deal):1	144(short):1	218(ride):1	239(town):1	254(french):1	358(italian):1	389(type):1	421(neighbourhood):1	484(cable):2	527(package):1	559(japanese):1	565(closet):1	683(game):1	738(beyond):1	784(wharf):1	971(numerous):1	1148(fisherman):1	1159(china):1	1975(passport):1	2158(giant):1	2181(muni):1	3120(baseball):1	3653(bush):1	4393(coit):1	
+0	
+3	0(staff):1	32(check):1	93(easy):1	
+10	6(breakfast):1	55(lobby):1	66(park):1	90(coffee):1	301(tea):1	549(accomodate):1	652(pastry):1	805(gem):1	936(garage):1	9828(attendents):1	
+0	
+
+<Author>toni.lister
+<Content>Good Location - Shame about the Smell!       Bedroom  
+<Date>Jul 23, 2007
+<Rating>3	3	3	4	3	2	1	1	
+<Aspects>
+0	
+0	
+1	268(bedroom):1	
+3	1(location):1	231(smell):1	1292(shame):1	
+0	
+0	
+0	
+0	
+
+<Author>nat_naiz
+<Content>Good place to stay I love the hotel with easy walking to Union square and Chinatown. Something that I din't please is I and 3 of my friends booked the hotel with the same room rate, but I got a very smaller room than my friends' included bathroom, a small room where use to keep clothes.However, the staffs are nice and friendly.  
+<Date>Jul 7, 2007
+<Rating>4	4	3	4	4	4	4	2	
+<Aspects>
+0	
+0	
+14	7(walk):1	13(bathroom):1	18(book):1	40(love):1	71(include):1	78(rate):1	93(easy):1	139(square):1	146(friend):2	173(please):1	451(union):1	709(clothe):1	1132(chinatown):1	3881(di):1	
+0	
+0	
+3	0(staff):1	4(nice):1	12(friendly):1	
+0	
+0	
+
+<Author>mangoman7
+<Content>Good but could be better I stayed with my partner for 7 nights, and during all that time we came and went as if nothing mattered. Our arrival was greeted quite curtly, and my Spanish-speaking partner could not understand a single word of the [Thai?] registration and questions. Except for a friendly receptionist that worked on the weekend, we never were greeted - or greeted back - by reception after checkin. Doesn''t make a very favorable impression for tourists.Fortunately I have been to the city before and dind't need to ask for assistance; when in the lobby I did answer a few questions and guided a few foreign tourists who weren't getting help from the desk. (sigh) Besides that, the hotel was an incredible bargain, a package that we found online at [--]. More than the room rates, the package included the San Francisco CityPass - don't overlook that this Passport includes a 7-day, all-you-can-eat bus  cable car transportation. At $5/ride on the cable cars at the corner, this would have been prohibitive without this book - and a lot less fun, too.Our room was clean and orderly - well-made bed with fresh linens, renovated bathroom, modern conveniences of courtesy soaps  such - yet a musty smell lingers - just a normal aspect of most old hotels in the city, and no less hygienic than elsewhere. Consider it old-world, seaside charm if you must. Since we weren't in the room very much, this wasn't a problem but it is notable.I'll definitely return to San Francisco and check the rates of this hotel!  
+<Date>Jul 3, 2007
+<Rating>4	5	4	5	5	1	2	3	
+<Aspects>
+22	2(night):1	5(time):1	209(tourist):1	224(arrival):1	248(consider):1	304(single):1	332(charm):1	391(understand):1	394(question):1	415(greet):1	531(matter):1	571(word):1	848(impression):1	1006(partner):2	2393(thai):1	2924(doesn):1	3251(favorable):1	3567(registration):1	4084(seaside):1	7435(old-world):1	8350(spanish-speake):1	10663(curtly):1	
+6	527(package):1	718(incredible):1	759(bargain):1	822(online):1	1332(besides):1	5457(sigh):1	
+20	3(clean):1	11(bed):1	13(bathroom):1	41(city):1	151(modern):1	197(fresh):1	231(smell):1	533(renovate):1	630(linen):1	646(elsewhere):1	878(normal):1	925(convenience):1	965(soap):1	1016(musty):1	1255(aspect):1	1728(courtesy):1	4124(linger):1	5497(notable):1	8686(orderly):1	11968(hygienic):1	
+14	71(include):2	78(rate):1	120(bus):1	121(car):1	177(san):1	260(overlook):1	355(francisco):1	484(cable):1	527(package):1	728(transportation):1	1975(passport):1	7186(7-day):1	9182(all-you-can-eat):1	12563(citypass):1	
+0	
+24	12(friendly):1	32(check):1	36(desk):1	39(return):1	41(city):1	55(lobby):1	59(definitely):1	78(rate):1	92(help):1	129(reception):1	172(weekend):1	177(san):1	209(tourist):1	337(except):1	355(francisco):1	394(question):1	415(greet):2	669(answer):1	829(guide):1	855(receptionist):1	1585(fortunately):1	1669(assistance):1	1818(checkin):1	2375(foreign):1	
+7	18(book):1	38(lot):1	121(car):1	176(fun):1	200(corner):1	484(cable):1	12512(prohibitive):1	
+0	
+
+<Author>europeangirl
+<Content>Fantastic location, excellent price - great budget hotel in city centre We stayed in the Grant hotel in san francisco for 5 days in June. What agem!! We paid $370 including taxes and were so impressed with the place iam recommending everyone to stay there!!!It is the perfect location, located a block from union square on powell andbush st. Right beside the cable cars, shopping, pubs,restaurants andwalking distance to northbeach...just perfect.Because of the price, we werent expecting muc from the room but a basicclean place to rest our heads at night. We were impressed with what we gothowever! The room was a good size with a queen bed, TV,table and chair,walk in wardrobe and loads of space, the private bathroom was also veryspacious with a powerful shower which always had hot water, marble topspace for storage and large mirror. The place was immaculately kept, freshtowels every day and the common areas and lift was well kept also.Obviously not the ritz but the place was very clean, central and quiet.Receptionists were pleasant if a little unhelpful. Breakfast basic but weate out so we didnt mind. Also free wireless internet access available inthe room!To sum up - i would highly recommend this place if your looking for acentral affordable hotel to tour san francisco. Perfect location foreverything and SF is very easy to get around on foot and with the cablecars! Book this place, I promise you wont be disappointed!  
+<Date>Jul 2, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	15(recommend):1	20(look):1	138(highly):1	177(san):1	181(tour):1	343(impress):1	355(francisco):1	1062(affordable):1	1651(sum):1	
+23	1(location):1	2(night):1	8(day):1	15(recommend):1	19(price):2	21(excellent):1	41(city):1	42(pay):1	62(expect):1	71(include):1	86(fantastic):1	101(center):1	177(san):1	288(rest):1	319(head):1	343(impress):1	355(francisco):1	429(budget):1	664(june):1	798(tax):1	1690(grant):1	3037(werent):1	11151(iam):1	
+24	3(clean):1	7(walk):1	11(bed):1	13(bathroom):1	57(water):1	58(quiet):1	61(shower):1	83(size):1	114(hot):1	116(tv):1	168(central):1	198(chair):1	210(space):1	229(table):1	492(private):1	543(Queen):1	705(marble):1	781(obviously):1	825(ritz):1	886(load):1	1129(mirror):1	1311(storage):1	1451(wardrobe):1	2026(powerful):1	
+18	1(location):2	10(restaurant):1	49(shop):1	74(perfect):3	84(locate):1	93(easy):1	100(bloc):1	115(distance):1	121(car):1	139(square):1	402(foot):1	451(union):1	484(cable):1	655(st):1	802(sf):1	1350(beside):1	1393(pub):1	1897(powell):1	
+0	
+4	23(little):1	150(pleasant):1	855(receptionist):1	1618(unhelpful):1	
+12	6(breakfast):1	8(day):1	18(book):1	154(disappoint):1	294(mind):1	352(basic):1	591(lift):1	626(didnt):1	830(common):1	975(promise):1	1820(wont):1	2084(immaculately):1	
+5	46(free):1	97(internet):1	134(available):1	159(access):1	717(wireless):1	
+
+<Author>CorinneV
+<Content>Very decent but bring your own hairdryer. We stayed at this hotel in May 2007. We booked it through Hotels.com,which was a mistake: if you book through the Grant hotel's website the prices are the same, but the selection of rooms is better, and you don't have to pay all sum ahead a time (non-refundable). The guy at the reception was super friendly and professional, we were given a choice of rooms, and selected a room with the window facing backyard.The room was very spacious, the bathroom was also big and looked recently renovated. We had problem with the toilet only once, which was fixed within 5 minutes.The room was cleaned and the towels were changed daily. There was a small fridge and a TV in the room. The only problems I encounted wereabsence of hair dryer (even at the reception they had only 1 or 2, which were usually already taken by some guest) and there was only shampoo and body lotion ((in small sample-like packages) in the bathroom (no hair conditioner). The last was not really a problem because you can buy it at the nearest Greenwall's one block down from the hotel. I would definitely stay at this hotel again, but would bring my own blowdryer.  
+<Date>Jun 16, 2007
+<Rating>4	5	4	5	5	5	5	5	
+<Aspects>
+7	29(minute):1	59(definitely):1	142(bring):1	166(own):1	330(toilet):1	494(fix):1	10336(blowdryer):1	
+12	5(time):1	18(book):2	19(price):1	42(pay):1	262(website):1	333(selection):1	895(mistake):1	976(ahead):1	1651(sum):1	1690(grant):1	3056(hotels.com):1	7250(non-refundable):1	
+33	3(clean):1	12(friendly):1	13(bathroom):2	20(look):1	91(guest):1	107(choice):1	111(spacious):1	116(tv):1	119(window):1	125(towel):1	129(reception):2	142(bring):1	161(change):1	166(own):1	257(decent):1	318(fridge):1	322(recently):1	360(daily):1	368(guy):1	399(usually):1	464(super):1	501(professional):1	527(package):1	533(renovate):1	729(hair):2	1051(shampoo):1	1083(conditioner):1	1209(dryer):1	1294(select):1	1352(body):1	1493(hairdryer):1	1873(lotion):1	4859(backyard):1	
+3	100(bloc):1	102(near):1	280(buy):1	
+0	
+0	
+0	
+0	
+
+<Author>theMaineMaxwells
+<Content>Loved the location, hospitality The rooms were clean, we could easily walk all over the city from here, parking was convenient, the hotel staff was very friendly. This was an economical gem for our family vacation. We will stay there again in this wonderful city.  
+<Date>Jun 4, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	41(city):1	48(wonderful):1	
+4	106(family):1	131(vacation):1	805(gem):1	3423(economical):1	
+0	
+11	0(staff):1	1(location):1	3(clean):1	7(walk):1	12(friendly):1	40(love):1	41(city):1	66(park):1	186(convenient):1	438(easily):1	1115(hospitality):1	
+0	
+0	
+0	
+0	
+
+<Author>Moirae
+<Content>Wonderful time at The Grant We had a wonderful stay in this hotel. The location was great, the room was very comfortable and clean (we stayed at the top floor).The charming Thai lady at the reception was very accomodating and helpful. Will definitely stay here again on my next visit.  
+<Date>Jun 1, 2007
+<Rating>4	4	4	5	4	4	3	3	
+<Aspects>
+5	5(time):1	48(wonderful):2	59(definitely):1	65(visit):1	1690(grant):1	
+6	14(helpful):1	129(reception):1	332(charm):1	521(lady):1	549(accomodate):1	2393(thai):1	
+5	1(location):1	3(clean):1	24(floor):1	25(comfortable):1	118(top):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>ziona
+<Content>Charming and Convenient The staff were helpful and friendly. Our room, at the back of the hotel, was quiet and clean. The room had high ceilings, making the somewhat small room feel airy and not cramped. Our only complaint was that the bed was the softest on our entire trip.The location was great, with lots of bus routes accessible nearby for the things that were not within walking distance. Parking was in a garage across the street. For my small town standards, the (hotel validated) price of $20/24 hrs was a lot, but leaving the car parked and using the Muni bus system sure beat trying to deal with the traffic. We got the 3 day bus pass from the Powell and Market cable car ticket booth.  
+<Date>May 25, 2007
+<Rating>4	5	4	4	4	5	5	3	
+<Aspects>
+0	
+0	
+12	3(clean):1	11(bed):1	33(trip):1	34(feel):1	58(quiet):1	190(complaint):1	329(entire):1	528(ceiling):1	589(soft):1	651(somewhat):1	1080(cramp):1	1947(airy):1	
+31	1(location):1	7(walk):1	8(day):1	19(price):1	35(street):1	38(lot):2	43(leave):1	66(park):2	76(try):1	115(distance):1	120(bus):3	121(car):2	130(standard):1	140(deal):1	232(nearby):1	239(town):1	264(market):1	400(pass):1	442(beat):1	484(cable):1	486(traffic):1	518(system):1	621(ticket):1	936(garage):1	1035(route):1	1342(accessible):1	1464(hr):1	1897(powell):1	2181(muni):1	2747(booth):1	5275(validate):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	186(convenient):1	332(charm):1	
+0	
+0	
+
+<Author>A1derbean
+<Content>Great       We felt weird using the elevator so we used the stairs every morning.  
+<Date>May 20, 2007
+<Rating>5	5	5	5	5	5	-1	3	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+5	34(feel):1	56(morning):1	216(elevator):1	568(stair):1	1611(weird):1	
+0	
+
+<Author>ruemonge
+<Content>Great and safe location. We stayed at the Grant Hotel recently when we were in San Francisco and felt that the location is just excellent. It is next to Union Square which is close to the major shopping scene and it is safe as there aren't many homeless roaming outside the hotel area at night. The only downside is that you have to climb a steep road to get to the hotel if you are coming from Powell Street and will be tough if you are dragging your luggage along with you. The Thai family running the hotel is nice and free internet service is available. Simple breakfast is provided and the rooms are spacious enough.We would highly recommend this hotel to anyone who is travelling on budget and who seek great convenience in terms of location.  
+<Date>May 10, 2007
+<Rating>4	5	4	5	4	3	3	4	
+<Aspects>
+0	
+0	
+4	6(breakfast):1	111(spacious):1	153(provide):1	613(simple):1	
+34	1(location):3	2(night):1	15(recommend):1	21(excellent):1	28(close):1	34(feel):1	35(street):1	49(shop):1	68(travel):1	98(outside):1	137(safe):2	138(highly):1	139(square):1	177(san):1	230(road):1	249(luggage):1	315(major):1	322(recently):1	355(francisco):1	429(budget):1	451(union):1	782(downside):1	925(convenience):1	1011(term):1	1060(steep):1	1424(climb):1	1567(homeless):1	1588(scene):1	1665(tough):1	1690(grant):1	1699(drag):1	1897(powell):1	1980(seek):1	2958(roam):1	
+0	
+0	
+8	4(nice):1	9(service):1	46(free):1	97(internet):1	106(family):1	134(available):1	149(run):1	2393(thai):1	
+0	
+
+<Author>gsal
+<Content>Great Value - Spoilt by attitude of Receptionist We Stayed at the Grant hotel in March 2007.The room we had over looked the street, and was very clean, the bathroom was especially good.Location wise, for the price this hotel cannot be beaten, it is located close to Union Square, China town, Little Italy - all within walking distance. On arrival the guy at check in was very polite and helpful, the room was a good size, and very clean, we experienced some noise from the traffic outside, but this was not too bad.Free Coffee and tea at reception was vey good, as there were not any in room facilities for making drinks.Our only complaint is the attitude of a young female receptionist who was very off hand and arrogant, she also made a very rude and personal comment to a member of our party, which spoilt our overall enjoyment of our stay here.I would recommend this hotel if you are on a budget, and want to be centrally located in San Francisco  
+<Date>Apr 20, 2007
+<Rating>4	4	4	5	4	1	3	4	
+<Aspects>
+0	
+0	
+16	3(clean):2	13(bathroom):1	14(helpful):1	20(look):1	32(check):1	35(street):1	44(experience):1	50(bad):1	83(size):1	94(noise):1	98(outside):1	126(especially):1	224(arrival):1	368(guy):1	422(polite):1	486(traffic):1	
+19	1(location):1	7(walk):1	15(recommend):1	19(price):1	23(little):1	28(close):1	84(locate):2	115(distance):1	139(square):1	177(san):1	239(town):1	355(francisco):1	429(budget):1	442(beat):1	451(union):1	879(centrally):1	900(italy):1	1159(china):1	1676(wise):1	
+0	
+16	70(overall):1	81(value):1	190(complaint):1	356(comment):1	363(party):1	377(hand):1	392(rude):1	615(march):1	711(personal):1	821(attitude):2	855(receptionist):2	1221(spoil):2	1690(grant):1	1714(female):1	3036(enjoyment):1	3329(arrogant):1	
+7	46(free):1	63(drink):1	90(coffee):1	129(reception):1	211(facility):1	301(tea):1	5521(vey):1	
+0	
+
+<Author>dead27
+<Content>Not bad at all I stayed at the Grant in 1998 and was fairly impressed enough to come back again in 2007. The rooms near the street were refurbished a couple of years ago, so I requested a room there. It's not as noisy as I thought. The room is pretty clean, especially the bathroom. It's a great no-frills place to stay that is central to many of the sights in S.F. Don't expect luxury here, but it's a great bargain nonetheless.  
+<Date>Mar 17, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	217(noisy):1	
+8	62(expect):1	168(central):1	411(sight):1	437(luxury):1	759(bargain):1	2652(nonetheless):1	4159(s.f):1	5540(no-frills):1	
+14	3(clean):1	13(bathroom):1	35(street):1	50(bad):1	99(couple):1	102(near):1	109(pretty):1	126(especially):1	148(request):1	343(impress):1	462(fairly):1	633(ago):1	1253(refurbish):1	1690(grant):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>shaolinlady
+<Content>Great Place to Stay I enjoyed my stay at Grant Hotel. It is close to almost all attractions, especially to Union Square, China Town and financial district, yet on a relatively quiet street. Moscone Center is also within easy walking distance. Enjoy the shops along the way.The room was not fancy but very clean, the staffs were helpful and polite. The lobby computer with free internet access made my exploring of the city a lot easier. I highly recommend this hotel for travelers who appreciate affordability and reasonable service.  
+<Date>Jan 21, 2007
+<Rating>5	5	4	5	5	4	4	5	
+<Aspects>
+2	51(enjoy):1	1690(grant):1	
+0	
+17	0(staff):1	3(clean):1	14(helpful):1	28(close):1	35(street):1	58(quiet):1	126(especially):1	139(square):1	239(town):1	350(attraction):1	422(polite):1	433(district):1	451(union):1	796(fancy):1	913(relatively):1	1159(china):1	1746(financial):1	
+7	7(walk):1	49(shop):1	51(enjoy):1	93(easy):1	101(center):1	115(distance):1	4028(moscone):1	
+0	
+0	
+7	9(service):1	15(recommend):1	138(highly):1	267(traveler):1	273(reasonable):1	500(appreciate):1	9847(affordability):1	
+9	38(lot):1	41(city):1	46(free):1	55(lobby):1	93(easy):1	97(internet):1	159(access):1	555(computer):1	594(explore):1	
+
+<Author>appledog
+<Content>Not what we expected       Mold in the corner of the room  
+<Date>Dec 26, 2006
+<Rating>1	1	1	3	1	5	3	-1	
+<Aspects>
+0	
+0	
+3	62(expect):1	200(corner):1	1138(mold):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Al&Tarn
+<Content>A great place to stay Sydney, AustraliaMy wife and I stayed at the Grant for six nights. We chose it based on the reviews in tripadviser. We found it an excellent place to stay. We had a room on the fifth floor at the rear. It was very clean and tidy, quiet, and seemed large enough for us. It also had an excellent bathroom/toilet. The staff were friendly and helpful, although a couple of them seemed a bit blunt at first. Over time though they were just fine and we liked them. It would be a mistake to judge them on first impressions. We didn't mind the pastries and coffee for breakfast. We weren't that strapped for cash that we couldn't afford to go to a diner for a change of menu, and breakfast wasn't one of our main concerns when booking.For location, you can't beat it! In 3 minutes you are in Union sqaure, five minutes and you are in China town. You can even walk down to the pier to catch the ferry to Alcatraz, although it's a much longer (but managable) walk. Many of the main spots are within a couple of kms radius from the hotel.I would recommend the Grant to anyone wanting low cost quality accommodation, in a fantastic location. If people are concerned about things like room size or noise, they could discuss this when booking to avoid disappointment later.We miss San Francisco. And when we return we'll definitely try and get a room at the Grant hotel again.Thanks Grant hotel for a great place to stay. Allan and Tanya  
+<Date>Nov 10, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+27	2(night):1	5(time):1	21(excellent):1	29(minute):2	37(review):1	99(couple):1	112(main):1	113(fine):1	167(choose):1	177(san):1	184(wife):1	239(town):1	271(thank):1	276(miss):1	284(base):1	317(spot):1	355(francisco):1	451(union):1	809(sydney):1	848(impression):1	895(mistake):1	1159(china):1	1690(grant):2	2389(judge):1	4443(radius):1	5846(sqaure):1	8403(tripadviser):1	
+8	1(location):1	15(recommend):1	86(fantastic):1	175(cost):1	187(quality):1	513(low):1	721(accommodation):1	1690(grant):1	
+18	13(bathroom):1	18(book):1	21(excellent):1	24(floor):1	26(people):1	39(return):1	59(definitely):1	76(try):1	79(late):1	83(size):1	94(noise):1	436(avoid):1	496(concern):1	866(disappointment):1	1690(grant):1	1832(fifth):1	2007(rear):1	2690(discuss):1	
+8	1(location):1	7(walk):2	442(beat):1	540(catch):1	1010(ferry):1	1456(pier):1	2211(alcatraz):1	12426(managable):1	
+3	3(clean):1	58(quiet):1	1100(tidy):1	
+6	0(staff):1	12(friendly):1	14(helpful):1	52(bit):1	99(couple):1	10641(blunt):1	
+13	6(breakfast):2	18(book):1	90(coffee):1	112(main):1	161(change):1	294(mind):1	423(menu):1	496(concern):1	652(pastry):1	1082(cash):1	1324(diner):1	1452(afford):1	7742(strap):1	
+0	
+
+<Author>Turfite
+<Content>Good location My wife and I stayed here 5 nights in September. When we walked in we wondered where we had booked. The room was very basic with a cupboard for a wardrobe and very few hangers - none for trousers. However we settled ourselves in and began to explore San Francisco. We found it a very good base and even though there was cofffee and pastries at the hotel we went to Union Square every morning for our coffee and just sat watching th people go by.The bathroom was large, about 3/4 size of our room. The room was kept very clean by the staff and we had clean towels and bed linen daily. The carpet in the room needed changing but hey you get what you pay for and we would certainly return again to the Grant, but would hope next time for the mini safe and refrigerator mentioned by other guests.  
+<Date>Oct 22, 2006
+<Rating>3	4	3	4	4	3	3	-1	
+<Aspects>
+6	177(san):1	355(francisco):1	551(begin):1	594(explore):1	767(ourselves):1	1414(settle):1	
+0	
+37	0(staff):1	3(clean):2	5(time):1	11(bed):1	13(bathroom):1	26(people):1	39(return):1	42(pay):1	56(morning):1	83(size):1	90(coffee):1	91(guest):1	125(towel):1	137(safe):1	139(square):1	161(change):1	169(sit):1	244(mention):1	245(watch):1	284(base):1	328(hope):1	352(basic):1	360(daily):1	396(carpet):1	448(mini):1	451(union):1	573(none):1	630(linen):1	652(pastry):1	916(refrigerator):1	1367(hey):1	1451(wardrobe):1	1690(grant):1	2374(cupboard):1	2505(th):1	2506(hanger):1	7123(trousers):1	
+7	1(location):1	2(night):1	7(walk):1	18(book):1	184(wife):1	946(wonder):1	972(september):1	
+0	
+0	
+0	
+0	
+
+<Author>MargieP
+<Content>Not a bad place for the price! We got in on Saturday and found we had to park in the garage across the street, while they validated, it still cost us almost $20 a day to park! The elevator wasn't working but they said they had called someone and they should have it fixed by in a couple of hours so we carried our luggage up to the second floor. They offered to keep it behind the desk until the elevator got fixed, but we didn't mind. They did get the elevator fixed like they said they would. Our hotel room was tastefully furnished, a little on the small size but the bathroom was huge. In San Francisco the buildings are all right next to each other and this was no exception we looked at a brick wall. It has radiator heat which worked well as it was chilly while we were here. The staff was very nice and personable and while we needed extra pillows we did have to call twice on them, but we did get them. The maid cleaned our room well and the place did not have a musty smell. It is located a couple of blocks from China town and a couple of blocks to Union Square which are not a problem to walk to. 2 doors down is live nude male dancing for males, but we didn't hear or see anything and we walked past it at different hours of the day. We did have a little toilet back up that my husband had to get the plunger but after that it was okay. The shower water pressure is great and they provide shampoo and shower gel incase you forget. They do sell soda and water here at the desk, but no ice. In the morning they provide donuts, muffins and black coffee. All in all the place was very quiet, we didn't hear anyone. We would stay here again!!  
+<Date>Oct 16, 2006
+<Rating>4	4	4	4	5	4	4	5	
+<Aspects>
+8	23(little):1	105(husband):1	330(toilet):1	453(okay):1	539(heat):1	2622(chilly):1	3830(radiator):1	8472(plunger):1	
+2	19(price):1	50(bad):1	
+16	13(bathroom):1	23(little):1	57(water):1	58(quiet):1	61(shower):2	83(size):1	132(hear):1	133(huge):1	153(provide):1	397(forget):1	686(pressure):1	787(furnish):1	1051(shampoo):1	1526(tastefully):1	2415(gel):1	7117(incase):1	
+30	7(walk):2	8(day):2	20(look):1	35(street):1	54(door):1	60(hour):1	66(park):2	84(locate):1	99(couple):2	100(bloc):2	132(hear):1	139(square):1	175(cost):1	177(san):1	183(wall):1	206(live):1	239(town):1	355(francisco):1	419(past):1	451(union):1	745(building):1	757(dance):1	818(saturday):1	936(garage):1	1128(exception):1	1159(china):1	2003(brick):1	2295(male):2	5275(validate):1	7644(nude):1	
+4	3(clean):1	231(smell):1	300(maid):1	1016(musty):1	
+12	0(staff):1	4(nice):1	36(desk):1	57(water):1	67(call):1	128(extra):1	303(pillow):1	347(twice):1	547(ice):1	606(sell):1	1308(soda):1	2551(personable):1	
+17	24(floor):1	36(desk):1	56(morning):1	60(hour):1	67(call):1	89(offer):1	90(coffee):1	99(couple):1	153(provide):1	216(elevator):3	249(luggage):1	294(mind):1	494(fix):3	824(carry):1	1007(black):1	1260(muffin):1	2222(doughnut):1	
+0	
+
+<Author>guy_snarly
+<Content>Grant is Great This place was just fine. Everything was as advertised or promised - clean, large bathroom, large room, closet, in room safe, fridge, easy check in, maid service, linens, desk, alarm clock, good location (near Union Square and Moscone Centre), phone, soaps, free wifi in the lobby (which I could occassionally pick up in my room on the second floor), helpful staff . . . The breakfast ain't much but it's something. It's got to be the best deal in SF. Much better than a hostel, the Grant is a great budget hotel. I'd certainly go back. (Try the vegetarian lasagna at Uncle Vito's restaurant across the street.)  
+<Date>Oct 9, 2006
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+6	113(fine):1	140(deal):1	429(budget):1	802(sf):1	1560(hostel):1	1690(grant):2	
+0	
+33	0(staff):1	1(location):1	3(clean):1	6(breakfast):1	9(service):1	13(bathroom):1	14(helpful):1	24(floor):1	32(check):1	36(desk):1	46(free):1	55(lobby):1	93(easy):1	101(center):1	102(near):1	137(safe):1	139(square):1	266(pick):1	296(phone):1	300(maid):1	318(fridge):1	451(union):1	565(closet):1	630(linen):1	910(advertise):1	965(soap):1	975(promise):1	1268(wifi):1	1291(clock):1	1380(alarm):1	3302(ai):1	4028(moscone):1	7876(occassionally):1	
+6	10(restaurant):1	35(street):1	76(try):1	2392(vegetarian):1	5656(uncle):1	5749(lasagna):1	
+0	
+0	
+0	
+0	
+
+<Author>mildbill
+<Content>Nice budget hotel for the price I stayed at the Grant Hotel over Labor Day weekend with my partner. Based on some of the reviews, I requested a room away from Bush Street to avoid traffic noise and my request was accomodated. The room (queen sized bed) was neat, clean and recently renovated. Keep in mind that this is an older building (I'm guessing built around the 1920's). The room we stayed in was in the center of the building and the windows opened onto an air shaft/light well (I think this must be what some reviewers refer to as 'the brick wall'). This is typical for construction of that era, so this was not a suprise. There was some miscellaneous mechanical noise at night and, if your neighbors were inconsiderate, some noise from the hallway. If you require modern acoustic isolation standards, stay and pay at the Hyatt et al, or maybe bring ear plugs.The 'breakfast' is merely a courtesy. Consider it just coffee and a light snack to tide you over until you can consider where you want to eat breakfast (or dim sum brunch).I consider the Grant Hotel a good value for the money and will stay there again.  
+<Date>Sep 20, 2006
+<Rating>4	5	3	4	4	3	4	4	
+<Aspects>
+14	2(night):1	94(noise):2	135(build):2	294(mind):1	469(guess):1	580(hallway):1	583(construction):1	628(typical):1	934(neighbour):1	1738(suprise):1	4081(era):1	5143(inconsiderate):1	5566(mechanical):1	8694(miscellaneous):1	
+22	4(nice):1	8(day):1	19(price):1	42(pay):1	80(money):1	81(value):1	130(standard):1	142(bring):1	151(modern):1	172(weekend):1	248(consider):1	308(maybe):1	429(budget):1	722(require):1	924(hyatt):1	1006(partner):1	1174(plug):1	1684(ear):1	1690(grant):2	3131(labor):1	7593(isolation):1	12943(acoustic):1	
+16	3(clean):1	11(bed):1	83(size):1	101(center):1	119(window):1	135(build):1	164(air):1	183(wall):1	322(recently):1	533(renovate):1	543(Queen):1	564(reviewer):1	1286(neat):1	2003(brick):1	2297(refer):1	3630(shaft):1	
+9	35(street):1	37(review):1	94(noise):1	148(request):2	284(base):1	436(avoid):1	486(traffic):1	549(accomodate):1	3653(bush):1	
+0	
+0	
+12	6(breakfast):2	47(eat):1	90(coffee):1	157(light):1	248(consider):2	406(snack):1	1651(sum):1	1728(courtesy):1	2048(dim):1	2384(brunch):1	3378(merely):1	3529(tide):1	
+0	
+
+<Author>soycrisps
+<Content>Affordable and clean I was very skeptical of this hotel due to some of the reviews I read here on TripAdvisor. However, I was very pleased with my experience. I went there knowing it was not a five star hotel and I would only get the basics. I brought my own alarm clock. They do have hair dryers at the hotel and an iron that you check out from the front desk for free. The hotel staff were courteous, friendly and helpful. This hotel is perfect for the budget traveller. The bathroom was large and clean and the room featured a HUGE walk in closet. The bedsheets did smell of the laundry detergent, so if you are sensitive to this smell, you may reconsider staying here. The windows are large and screenless, so if you have a child you might not want to stay here. It is generally cool in San Fran with no bugs at all, so having the windows open is no problem. I got more than I had expected from this hotel and would highly recommend it to anyone. I had a friend stay at another hotel two blocks away for $150/night and her hotel lobby was nicer, but her room wasn't.  
+<Date>Aug 15, 2006
+<Rating>4	5	3	5	4	4	4	-1	
+<Aspects>
+10	15(recommend):1	62(expect):1	74(perfect):1	138(highly):1	142(bring):1	166(own):1	267(traveler):1	429(budget):1	1291(clock):1	1380(alarm):1	
+4	44(experience):1	103(star):1	173(please):1	2469(basics):1	
+22	3(clean):1	4(nice):1	7(walk):1	13(bathroom):1	55(lobby):1	100(bloc):1	119(window):2	133(huge):1	146(friend):1	177(san):1	231(smell):2	277(child):1	278(cool):1	565(closet):1	602(bug):1	731(feature):1	1075(laundry):1	1744(fran):1	2658(sensitive):1	5338(bedsheets):1	5565(detergent):1	5681(reconsider):1	
+0	
+7	3(clean):1	37(review):1	88(read):1	259(due):1	597(tripadvisor):1	1062(affordable):1	3070(skeptical):1	
+11	0(staff):1	12(friendly):1	14(helpful):1	31(front):1	32(check):1	36(desk):1	46(free):1	483(courteous):1	729(hair):1	868(iron):1	1209(dryer):1	
+0	
+0	
+
+<Author>LDN333
+<Content>Clean, cheap, friendly, good value - would recommend it       Bedroom  
+<Date>Jul 12, 2006
+<Rating>4	4	3	-1	4	-1	3	-1	
+<Aspects>
+0	
+0	
+6	3(clean):1	12(friendly):1	15(recommend):1	81(value):1	143(cheap):1	268(bedroom):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good Choice I stayed only a few days in S.F. for sightseeing in May 2006. I would rate this hotel as average, but due to it's excellent location - only two blocks to Union Sq and to Chinatown - and the low rates I strongly recommend the Grant Hotel. It depends on what you expect: I only wanted a clean and quite bed to sleep and that's what you get here. The chinese personell is very friendly. The view from my room was the worst I ever had, I was almost able to touch the wall of the next building and there was only few daylight in the room, but as I said before: I only wanted to sleep there and didn't want to look out of the window ;-) For great views, go to Coit Tower or Nob Hill ... There is a TV, a hair-dryer and a charge-free safe in the room. Free wireless broadband is available in the lobby. They also serve breakfast, but I didn't have one, because I don't eat breakfast at all.  
+<Date>Jun 7, 2006
+<Rating>4	5	3	-1	4	-1	3	-1	
+<Aspects>
+3	12(friendly):1	764(chinese):1	9035(personell):1	
+4	8(day):1	107(choice):1	640(sight-see):1	4159(s.f):1	
+21	3(clean):1	11(bed):1	17(view):2	20(look):1	50(bad):1	62(expect):1	104(sleep):2	116(tv):1	119(window):1	135(build):1	137(safe):1	171(able):1	183(wall):1	279(touch):1	378(tower):1	756(hill):1	969(depend):1	2304(nob):1	3579(daylight):1	4393(coit):1	9155(hair-dryer):1	
+13	1(location):1	15(recommend):1	21(excellent):1	78(rate):2	100(bloc):1	227(average):1	259(due):1	451(union):1	513(low):1	1132(chinatown):1	1386(strongly):1	1690(grant):1	1959(sq):1	
+0	
+0	
+8	6(breakfast):2	46(free):1	47(eat):1	55(lobby):1	134(available):1	174(serve):1	717(wireless):1	2825(broadband):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Don't Do It! This was the worst hotel I think I've ever stayed in. Guess that's what I get for being cheap, but never again! The smell when you walk in the door will make you think you've accidently stepped into the local nursing home. The owners do not even pretend to care that they can barely speak English, and they are terribly rude, with the exception of a nice you lady in the evening. The continental breakfast is very limited, and the coffee is out of a gas station machine -like vendor. One of our first rooms was very dirty, and we had to ask for another one. THere was no air conditioning. The sad thing is that the building had huge potential to be very grande. A bad experience over all.  
+<Date>Jun 5, 2006
+<Rating>1	3	1	-1	2	-1	1	-1	
+<Aspects>
+6	50(bad):1	133(huge):1	135(build):1	1454(sad):1	1995(potential):1	3975(grande):1	
+4	44(experience):1	50(bad):1	143(cheap):1	469(guess):1	
+2	164(air):1	263(condition):1	
+8	7(walk):1	54(door):1	141(home):1	195(local):1	231(smell):1	366(step):1	3348(nurse):1	6319(accidently):1	
+1	323(dirty):1	
+11	4(nice):1	127(speak):1	152(english):1	242(care):1	392(rude):1	521(lady):1	672(owner):1	1020(barely):1	1128(exception):1	1910(terribly):1	3207(pretend):1	
+8	6(breakfast):1	82(station):1	90(coffee):1	372(continental):1	493(machine):1	510(limit):1	1251(vendor):1	2632(gas):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Excellent Economical Choice I was a little doubtful when I booked the hotel as English is not the first language of the owners, but I was given a confirmation number and check-in went smoothly. I had requested a room at the back as I had heard that the street noise could make sleeping difficult. I was offered the keys to two rooms so that I could check them out before commiting. The one at the rear smelled a little musty/maybe cigarettes and the furniture was a bit retro and ill-fitted, so we opted for room at the front that was spacious and appeared newly renovated. The street noise was not too bad as we were on the fifth floor (yes, there is an elevator!). The maid service was excellent, cleaned up our travel havoc and changed sheets and towels daily. I never tip maids but this one broke the mold. The bathroom had no ventilation except that they had shaved the bottom off the door and there was an overpainted window that scared me when I opened it. Showering with the door open is recommended. My mom panicked at the lack of hairdryer but the front desk loaned us one for our stay. Room also had a refrigerator, which I had not remembered being offered (I think maybe not all rooms had this).Breakfast was just a pastries and tea or coffee, but the tea and coffee was available at anytime (no facilities in room). Sears with its famous silver dollar pancakes for $8.95 a plate is just around the corner and down a block on Powell. The staff were not overly effusive but very polite and helpful, offering to look up BART times for us. There is also a computer in the lobby with free internet access, though they request that you only spend 15 minutes at a time on it. It was really helpful to have that access. Great location at Bush and Powell, just jump on the cable car at the bottom of Powell after coming into the BART station there. No luggage though on the cable car so it is a steep climb up (six blocks), easier going down. Overall it is excellent choice of hotel. I would stay again. Word of warning around Powell though, watch out for scammers trying to 'fine' you or offer you travel tickets. Panhandling and petty scammers are rampant.  
+<Date>May 24, 2006
+<Rating>4	4	3	-1	5	-1	4	-1	
+<Aspects>
+16	68(travel):1	76(try):1	89(offer):1	113(fine):1	194(tip):1	228(break):1	245(watch):1	300(maid):1	571(word):1	621(ticket):1	679(warn):1	1138(mold):1	1897(powell):1	4613(petty):1	9930(rampant):1	10335(panhandle):1	
+12	21(excellent):1	70(overall):1	100(bloc):1	107(choice):1	200(corner):1	430(dollar):1	1002(plate):1	1296(famous):1	1477(pancake):1	1897(powell):1	2400(silver):1	4372(sear):1	
+42	13(bathroom):1	15(recommend):1	23(little):1	31(front):2	32(check):1	35(street):1	36(desk):1	52(bit):1	54(door):2	61(shower):1	89(offer):2	94(noise):1	104(sleep):1	111(spacious):1	119(window):1	132(hear):1	148(request):1	231(smell):1	308(maybe):1	337(except):1	339(key):1	349(lack):1	375(remember):1	440(furniture):1	533(renovate):1	541(appear):1	572(difficult):1	850(bottom):1	916(refrigerator):1	1016(musty):1	1184(opt):1	1189(newly):1	1365(cigarette):1	1493(hairdryer):1	1711(scare):1	1855(mom):1	2007(rear):1	2667(ventilation):1	3065(shave):1	4079(retro):1	4485(panic):1	4623(loan):1	
+9	1(location):1	82(station):1	121(car):1	484(cable):1	850(bottom):1	1404(jump):1	1505(bart):1	1897(powell):2	3653(bush):1	
+0	
+21	0(staff):1	5(time):1	14(helpful):1	18(book):1	20(look):1	21(excellent):1	23(little):1	89(offer):1	107(choice):1	152(english):1	286(check-in):1	335(numb):1	422(polite):1	672(owner):1	698(language):1	1345(overly):1	1505(bart):1	1641(confirmation):1	2267(smoothly):1	3423(economical):1	8380(doubtful):1	
+30	3(clean):1	6(breakfast):1	9(service):1	21(excellent):1	24(floor):1	35(street):1	50(bad):1	68(travel):1	90(coffee):2	93(easy):1	94(noise):1	100(bloc):1	121(car):1	125(towel):1	134(available):1	161(change):1	211(facility):1	216(elevator):1	249(luggage):1	250(yes):1	300(maid):1	301(tea):2	360(daily):1	479(sheet):1	484(cable):1	652(pastry):1	1060(steep):1	1424(climb):1	1677(anytime):1	1832(fifth):1	
+10	5(time):1	14(helpful):1	29(minute):1	46(free):1	55(lobby):1	64(spend):1	97(internet):1	148(request):1	159(access):2	555(computer):1	
+
+<Author>Daisy5115
+<Content>Very nice!! This hotel has a great location next to historic cable car sites. I was surprised when I asked if they knew how to get to the Top of the Mark that we were only two blocks away! (uphill, of course). We took the advice from this site and asked for 5th floor near the back and had no street noise. We were in 509 and bathtub and bath not small at all. There was no air conditioning, but that was OK. We faced a brick wall but OK since we had the window open all night. Elevator a bit shaky so we walked down a few times, but overall a great value. Oh, no tops for the coffee cups, so bring your own if you are on the go. Parking across the street in garage is $18 per day, but no problem at all. We were able to get in our room several hours early and there was clear cable and refrigerator. I would stay here again! (didn't get a pink room though....)  
+<Date>May 23, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	4(nice):1	100(bloc):1	118(top):1	199(surprise):1	293(course):1	882(mark):1	3597(uphill):1	
+0	
+14	2(night):1	60(hour):1	119(window):1	123(ok):2	164(air):1	171(able):1	183(wall):1	226(bath):1	263(condition):1	484(cable):1	916(refrigerator):1	1023(bathtub):1	2003(brick):1	2121(pink):1	
+14	1(location):1	8(day):1	24(floor):1	35(street):2	66(park):1	94(noise):1	102(near):1	121(car):1	192(site):2	484(cable):1	575(advice):1	839(5th):1	936(garage):1	1274(historic):1	
+0	
+0	
+12	5(time):1	7(walk):1	52(bit):1	70(overall):1	81(value):1	90(coffee):1	118(top):1	142(bring):1	166(own):1	216(elevator):1	800(cup):1	8033(shaky):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Value The candid photos previously posted are a very fair reflection of what I got. Its not a resort. But its got: - clean bathrooms - Safe and secure rooms - predictable staff - great/ safe location - free internet - No bugs, pimps, or thugsI'll stay there again. The price is great.  
+<Date>May 22, 2006
+<Rating>4	5	4	-1	4	-1	3	-1	
+<Aspects>
+1	72(resort):1	
+8	19(price):1	81(value):1	644(post):1	739(fair):1	761(photo):1	1122(previously):1	4324(reflection):1	7146(candid):1	
+11	0(staff):1	1(location):1	3(clean):1	13(bathroom):1	46(free):1	97(internet):1	137(safe):2	602(bug):1	1034(secure):1	7354(predictable):1	8945(pimp):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good value for money I stayed at the Grant form the 3rd to the 6th May. A very clean Hotel not the Ritz, but very good value for money in a very good and location. My room had a very comfy bed and good bathroom. I arrived about 3 hours early but my room was ready and I was allowed to check in. If you looking for a good clean hotel, nothing fancy but at a good price and well located, you can't go wrong  
+<Date>May 12, 2006
+<Rating>3	5	3	-1	4	-1	3	-1	
+<Aspects>
+0	
+14	1(location):1	3(clean):2	19(price):1	20(look):1	80(money):2	81(value):2	84(locate):1	427(wrong):1	796(fancy):1	825(ritz):1	1164(form):1	1690(grant):1	1869(6th):1	2097(3rd):1	
+8	11(bed):1	13(bathroom):1	32(check):1	53(arrive):1	60(hour):1	274(ready):1	359(allow):1	475(comfy):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>jennybeansMN
+<Content>good hotel, great price My husband and I just returned from a 5 night stay at the Grant Hotel. We picked this hotel based on the reviews on this website, and were pleased with the Grant. We travel quite a bit, so room size is never an issue with us. The room was a decent size, and so was the bathroom. As far as the bathtub being so small, I am 5'9 and took a long, hot bath one night after coming in from the wind with no problem. The location is excellent, except for the fact that I am 6 1/2 months pregnant and the final hill was a bit steep for me, but this is San Francisco after all, and I expected that. The staff was very friendly, although their English isnt very good. We asked for 2 extra pillows, and they happily gave them to us. I accidentally left my wedding ring in my room, and I panicked thinking that they wouldnt understand how to ship it back to us. But, they took care of it, informed the enitre staff, and it is now on its way back to me, thank goodness!The breakfast was fine for me, as I am a pastry lover. My husband grabbed food elsewhere, but to be able to have as much as you want for free at a good hotel is a plus. As a previous reviewer wrote, Loris Diner is a good place for dinner, or dessert! There is also a small Italian place right across the street called Uncle Vitos that serves good food.Transportation is excellent, you can grab a trolley car at the corner or take a bus or BART when needed. Chinatown and Union Square are within walking distance.I recommend this hotel, and would not hesitate to stay here again on a future visit to San Francisco. Enjoy!  
+<Date>May 11, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	15(recommend):1	51(enjoy):1	65(visit):1	128(extra):1	177(san):1	303(pillow):1	355(francisco):1	732(future):1	902(hesitate):1	1642(happily):1	
+5	2(night):1	19(price):1	39(return):1	105(husband):1	1690(grant):1	
+24	2(night):1	7(walk):1	13(bathroom):1	43(leave):1	52(bit):1	68(travel):1	83(size):2	114(hot):1	115(distance):1	139(square):1	226(bath):1	257(decent):1	265(issue):1	391(understand):1	451(union):1	604(wed):1	1023(bathtub):1	1132(chinatown):1	1150(ring):1	1168(wind):1	1392(ship):1	1849(wouldnt):1	3972(accidentally):1	4485(panic):1	
+31	1(location):1	16(food):1	21(excellent):2	35(street):1	37(review):1	52(bit):1	62(expect):1	67(call):1	120(bus):1	121(car):1	173(please):1	174(serve):1	177(san):1	200(corner):1	262(website):1	266(pick):1	284(base):1	337(except):1	355(francisco):1	358(italian):1	388(month):1	728(transportation):1	756(hill):1	1060(steep):1	1079(trolley):1	1139(grab):1	1337(final):1	1505(bart):1	1690(grant):1	4337(pregnant):1	5656(uncle):1	
+0	
+8	0(staff):2	12(friendly):1	152(english):1	242(care):1	271(thank):1	817(inform):1	2302(goodness):1	2377(isnt):1	
+17	6(breakfast):1	16(food):1	46(free):1	105(husband):1	113(fine):1	117(dinner):1	171(able):1	203(plus):1	344(write):1	373(previous):1	564(reviewer):1	646(elsewhere):1	652(pastry):1	1139(grab):1	1180(dessert):1	1324(diner):1	2568(lover):1	
+0	
+
+<Author>aazaleaa
+<Content>vintage but updated! we stayed at the Grant for 3 nights recently  were pleasantly surprised! i didn't want to stay in a chain hotel while in SF, wanted something more unique  characteristic. centrally located, it is a great spot to stay. i thought the staff was friendly, not bothersome  the cleaning staff always had our room tidied  made up by the time we got back from our day. Towels were new  smelled nice. The room was pretty much spotless. i loved the pink walls! every time i woke up i thought it was 1978 and that i was staying in my great aunt's house! the area seemed safe enough, no homeless hanging around outside like i witnessed in other areas. not much of a view (brick wall) but very quiet as far as traffic goes, but the walls did seem a little thin. windows opened to let in fresh air and the heater worked fine for us, if not too good! our bathroom was huge, so not sure where the other people who reviewed stayed! i really appreciated that they let us check in 3 hours early when we arrived too! don't let the old smell fool you when you walk in, most places i went into in SF had the same smell, i mean there are alot of OLD buildings there with the same vibe. my husband  i totally appreciated the simplicity of this place  would recommend this hotel to anyone traveling on a budget who can dig on a quaint little place!  
+<Date>Apr 28, 2006
+<Rating>4	5	4	-1	5	-1	4	-1	
+<Aspects>
+21	2(night):1	15(recommend):1	23(little):1	68(travel):1	105(husband):1	199(surprise):1	322(recently):1	429(budget):1	500(appreciate):1	611(totally):1	627(chain):1	725(update):1	747(pleasantly):1	802(sf):1	1027(unique):1	1295(quaint):1	1690(grant):1	3454(vintage):1	3609(dig):1	7425(characteristic):1	8918(simplicity):1	
+0	
+15	5(time):1	13(bathroom):1	26(people):1	37(review):1	109(pretty):1	113(fine):1	119(window):1	133(huge):1	164(air):1	197(fresh):1	281(house):1	548(spotless):1	554(wake):1	2361(heater):1	4407(aunt):1	
+25	7(walk):1	17(view):1	23(little):1	40(love):1	58(quiet):1	84(locate):1	98(outside):1	137(safe):1	183(wall):3	231(smell):2	246(mean):1	317(spot):1	478(hang):1	486(traffic):1	647(alot):1	745(building):1	754(thin):1	802(sf):1	879(centrally):1	1567(homeless):1	2003(brick):1	2098(fool):1	2121(pink):1	2308(vibe):1	2685(witness):1	
+10	0(staff):2	3(clean):1	4(nice):1	5(time):1	8(day):1	12(friendly):1	125(towel):1	231(smell):1	1100(tidy):1	4167(bothersome):1	
+4	32(check):1	53(arrive):1	60(hour):1	500(appreciate):1	
+0	
+0	
+
+<Author>Numptyheid
+<Content>Not bad but not sure we'd go back My husband and I spent 9 nights at the Grant last month and overall were pleased, especially for the price we got ($720 incl tax).Pros: you cannot fault the location of this hotel, only a block or so from Union Sq, Chinatown, close to all the major shopping and a cable car practically outside the door to take you to Fisherman's Wharf.We asked for a room at the back (based on other reviewers comments) and got one so no street noise. The bed was VERY comfortable too so we got a great night's sleep (until 6am anyway, see below).Breakfast was decent enough (muffins, croissants, homemade walnut cake, coffee) and there was always plenty of it. We had a fridge in our room so had real milk for our coffee (there is only coffee mate provided by the hotel)and cereal so the pastries were just an extra. May not be enough if you like a big breakfast but there are plenty of nice little places nearby for that.Cleaning service is excellent, fresh sheets everyday and room tidied with as little disturbance to our belongings as possible.The plumbing in our room also made strange noises but there was always plenty of hot water.The hotel generally was clean and quiet, we were able to leave our luggage on our last day after check out and before we got the shuttle to the airport. We were given tags to hold so they could check them when we came back to collect it which was good.Cons: staff can be difficult and hard to understand as they barely speak English (most of them) and were annoyed when I asked for the fridge we had reserved and why I was unable to turn the heat on. I was ill when we arrived and was told the heat came on when it got cold enough outside! I was freezing but was informed that having too much heat would give me a headache anyway so I didn't really need it...We booked a Queen Deluxe but judging by the pics on this website, I'm not sure we got that. However the room was spotless and more than spacious so we didn't say anything.A family of elephants checked into the room directly above ours and woke us every morning at 6am with the kids running about and jumping off the furniture. Not the hotels fault granted but be aware that you can hear the noise of other guests if they have kids!The bath was the smallest I have ever seen. No-one bigger than a child could actually have a bath in it. It was more like a large shower tray. Loo was also smaller than usual and I banged my elbow off the wall every time i reached for loo paper!!Overall we were happy with the hotel, it's the kind of place that will be great if nothing goes wrong but if you have any issues at all, don't expect the staff to be gracious in helping! If we have a slightly bigger budget next time we return we'll go back to the Andrews which also a great hotel but with the nicest staff I've ever met!Some tips: the internet in the hotel is the slowest in the WORLD, go to an internet cafe instead if you don't want to spend an hour checking 4 mails.Lori's Diner just down the hill serves great diner style food until late, just a nice walk from the hotel and casual so no need to dress up. Try the malted milkshakes!Go to Sears Fine Foods for a lovely breakfast or lunch.Take the Blue  Gold fleet cruise around the Bay, slightly cheesy but the audio tour is fun and informative and it's a great way to see the parts of Alcatraz you can't normally see.If you don't have too much luggage and you decide to stay at the Grant, get the BART from the airport as far as Powell St and then walk to the hotel, it's only a few blocks and the BART if far cheaper. Save the shuttle for the way back when you're laden down with purchases!Get yourself a MUNI pass (only $24 for a seven day pass!) and a map for $3 (essential, we bought one in Walgreens instead and it was a nightmre to follow, the MUNI's own map is much much better). The pass covers buses, cable cars and MUNI trains.  
+<Date>Apr 19, 2006
+<Rating>4	4	3	-1	4	-1	2	-1	
+<Aspects>
+18	8(day):1	76(try):1	91(guest):1	94(noise):1	132(hear):1	180(actually):1	201(kid):1	226(bath):1	277(child):1	400(pass):2	517(fault):1	576(yourself):1	832(aware):1	1690(grant):1	2181(muni):1	3693(no-one):1	8778(milkshake):1	12589(malt):1	
+12	2(night):1	19(price):1	50(bad):1	64(spend):1	70(overall):1	105(husband):1	126(especially):1	173(please):1	388(month):1	798(tax):1	1690(grant):1	3537(incl):1	
+60	0(staff):1	2(night):1	3(clean):1	4(nice):1	5(time):1	8(day):1	11(bed):1	25(comfortable):1	32(check):2	35(street):1	39(return):1	43(leave):1	56(morning):1	57(water):1	58(quiet):1	61(shower):1	94(noise):2	95(airport):1	104(sleep):1	106(family):1	111(spacious):1	114(hot):1	149(run):1	158(plenty):1	171(able):1	176(fun):1	181(tour):1	196(meet):1	201(kid):1	249(luggage):1	284(base):1	321(shuttle):1	356(comment):1	383(directly):1	417(anyway):1	429(budget):1	440(furniture):1	548(spotless):1	554(wake):1	564(reviewer):1	585(below):1	598(slightly):2	603(cruise):1	671(bay):1	694(blue):1	843(ours):1	1058(strange):1	1091(normally):1	1404(jump):1	1571(gold):1	1767(tray):1	1976(informative):1	2107(plumb):1	2211(alcatraz):1	2902(cheesy):1	5063(elephant):1	6049(audio):1	6661(andrews):1	6858(fleet):1	7363(6am):2	
+49	1(location):1	5(time):1	7(walk):1	28(close):1	49(shop):1	53(arrive):1	54(door):1	69(tell):1	95(airport):1	98(outside):2	100(bloc):2	120(bus):1	121(car):2	143(cheap):1	182(train):1	183(wall):1	219(decide):1	222(cold):1	226(bath):1	249(luggage):1	315(major):1	321(shuttle):1	400(pass):1	425(save):1	451(union):1	484(cable):2	517(fault):1	539(heat):1	552(cover):1	682(usual):1	776(paper):1	784(wharf):1	851(reach):1	887(purchase):1	940(St):1	1132(chinatown):1	1148(fisherman):1	1249(pro):1	1401(bang):1	1505(bart):2	1657(ill):1	1690(grant):1	1850(practically):1	1897(powell):1	1959(sq):1	2181(muni):1	3927(loo):2	6187(elbow):1	9138(laden):1	
+10	3(clean):1	9(service):1	21(excellent):1	23(little):1	197(fresh):1	479(sheet):1	605(everyday):1	1100(tidy):1	2426(belongings):1	4602(disturbance):1	
+12	0(staff):1	32(check):1	62(expect):1	70(overall):1	92(help):1	155(happy):1	265(issue):1	427(wrong):1	593(hold):1	1501(gracious):1	1889(collect):1	2395(tag):1	
+72	0(staff):1	4(nice):2	6(breakfast):3	7(walk):1	16(food):2	18(book):1	23(little):1	32(check):1	60(hour):1	64(spend):1	79(late):1	87(lovely):1	90(coffee):3	97(internet):2	113(fine):1	127(speak):1	128(extra):1	152(english):1	153(provide):1	158(plenty):2	162(hard):1	166(own):1	174(serve):1	194(tip):1	232(nearby):1	240(real):1	252(lunch):1	257(decent):1	262(website):1	272(world):1	275(cafe):1	280(buy):1	318(fridge):2	326(style):1	353(instead):2	391(understand):1	417(anyway):1	455(slow):1	482(follow):1	506(reserve):1	529(cereal):1	539(heat):2	543(Queen):1	572(difficult):1	648(deluxe):1	652(pastry):1	695(annoy):1	724(map):2	756(hill):1	817(inform):1	840(Con):1	935(dress):1	1004(croissant):1	1020(barely):1	1029(cake):1	1116(milk):1	1260(muffin):1	1321(freeze):1	1324(diner):2	1461(unable):1	1981(casual):1	2181(muni):1	2389(judge):1	2446(mail):1	2496(essential):1	2549(walgreens):1	2692(pic):1	2953(mate):1	3729(homemade):1	3886(headache):1	4372(sear):1	6732(lori):1	
+0	
+
+<Author>Lorena17
+<Content>Good location, not fancy hotel This is a budget hotel, nothing fancy at all, if you are going to be out and need a hotel just for sleep and a place to have your luggage, this will work perfect plus is centraly located near union square, chinatown and bus stop. It is safe to walk at nite. They have an included pastry breakfast, coffee and tea every morning. There was something going on with the plumbing because it made a weird noise everytime water was used in the bathroom. And the first room they gave us had a problem with the lock so was open, since it was near an outside stair we requested to be change and they gave us another room facing a wall inside, but it was more quite. If we go back someday on a budget again, I sure will go back to the Grant  
+<Date>Apr 16, 2006
+<Rating>3	3	2	-1	3	-1	3	-1	
+<Aspects>
+3	429(budget):1	1690(grant):1	4086(someday):1	
+0	
+14	13(bathroom):1	57(water):1	94(noise):1	98(outside):1	102(near):1	148(request):1	161(change):1	183(wall):1	408(inside):1	568(stair):1	774(lock):1	1607(everytime):1	1611(weird):1	2107(plumb):1	
+17	1(location):1	7(walk):1	74(perfect):1	84(locate):1	102(near):1	104(sleep):1	120(bus):1	122(stop):1	137(safe):1	139(square):1	203(plus):1	249(luggage):1	429(budget):1	451(union):1	796(fancy):2	1132(chinatown):1	1895(nite):1	
+0	
+0	
+6	6(breakfast):1	56(morning):1	71(include):1	90(coffee):1	301(tea):1	652(pastry):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Little Gem in the City By the Bay Whoever wrote the previous review must have very good imagination or must went to a wrong place. Here I am sitting in the lovely lobby of Grant Hotel, cozy and quiet, enjoying the free internet access. I noticed the lobby entrance is wheelchair accessable. I have to admit that the service is basic, there is no doorman or fancy decoration as some big hotel would have, but the room is very clean and the staffs are nice and helpful. We are here for the city, not the hotel anyway. I would rather stay in such a reasonable priced hotel right in downtown than paying higher room rate for the doorman, decoration and some room amenities that I don't even bother to use.I am really enjoying my stay here.  
+<Date>Apr 7, 2006
+<Rating>5	5	4	-1	5	-1	4	-1	
+<Aspects>
+3	41(city):1	51(enjoy):1	417(anyway):1	
+9	19(price):1	42(pay):1	78(rate):1	273(reasonable):1	291(amenity):1	307(bother):1	334(downtown):1	998(doorman):1	1580(decoration):1	
+15	0(staff):1	3(clean):1	4(nice):1	9(service):1	14(helpful):1	55(lobby):1	352(basic):1	354(notice):1	490(entrance):1	796(fancy):1	998(doorman):1	1282(admit):1	1580(decoration):1	3327(wheelchair):1	5787(accessable):1	
+0	
+0	
+0	
+10	23(little):1	37(review):1	41(city):1	344(write):1	373(previous):1	427(wrong):1	671(bay):1	805(gem):1	3388(whoever):1	4734(imagination):1	
+10	46(free):1	51(enjoy):1	55(lobby):1	58(quiet):1	87(lovely):1	97(internet):1	159(access):1	169(sit):1	749(cozy):1	1690(grant):1	
+
+<Author>A TripAdvisor Member
+<Content>don't be decieved by the photo this place is a dump centrally located...the staff was cold, indifferent and always using the microwave...the chronic smell of chinese food will have you gagging...there was an old guy in a wheelchair camped out in the lobby like some creepy maschot...the decor was dated...think circa 1959 boarding house...nightmarish...dingy carpet...smoke stains as if there had been a fire and no one bothered to clean up afterwards....i kept expecting a pimp with platform shoes, a long fur coat and a bowl of noodles to kick in my door...  
+<Date>Mar 26, 2006
+<Rating>1	3	2	-1	1	-1	1	-1	
+<Aspects>
+0	
+0	
+42	0(staff):1	3(clean):1	16(food):1	54(door):1	55(lobby):1	62(expect):1	84(locate):1	222(cold):1	231(smell):1	269(decor):1	281(house):1	307(bother):1	368(guy):1	396(carpet):1	468(smoke):1	511(date):1	600(board):1	723(stain):1	761(photo):1	764(chinese):1	820(microwave):1	879(centrally):1	1191(shoe):1	1262(fire):1	1366(bowl):1	1449(dump):1	1749(dingy):1	1926(kick):1	2087(camp):1	2481(indifferent):1	2598(afterwards):1	2636(coat):1	2865(noodle):1	3327(wheelchair):1	3499(creepy):1	3509(platform):1	6186(circa):1	8175(gag):1	8945(pimp):1	11220(fur):1	11384(chronic):1	11561(decieve):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nice hotel great location Stayed at the grant hotel in mid january for 3 nights. the rooms were comfortable and adequate for the cost. great location on bush street half a block uphill from powell st. breakfast of tea\coffee and pastries were taken in reception. very nice.  
+<Date>Mar 22, 2006
+<Rating>3	4	3	-1	3	-1	3	-1	
+<Aspects>
+1	4(nice):1	
+3	25(comfortable):1	175(cost):1	390(adequate):1	
+0	
+18	1(location):2	2(night):1	4(nice):1	6(breakfast):1	35(street):1	90(coffee):1	100(bloc):1	129(reception):1	283(half):1	301(tea):1	652(pastry):1	655(st):1	1018(january):1	1313(mid):1	1690(grant):1	1897(powell):1	3597(uphill):1	3653(bush):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Comfortable and friendly My husband and I booked ourselves into this hotel last year as a last minute choice (based on TripAdvisor reviews!)and thoroughly enjoyed the stay. In fact we are just about to book ourselves another stay for this year. It is perfectly located, very pleasant and helpful staff and adequate rooms (this is from a Brit and US point of view too - I'm English and my husband is American). Only downsides are that the bathrooms are tired - nasty experience with blocked toilet! - but which was quickly and efficiently sorted out. Also, if you are thinking of staying with young children - the back room windows have low windowsills and NO safety bars!  
+<Date>Mar 22, 2006
+<Rating>4	4	3	-1	3	-1	4	-1	
+<Aspects>
+5	51(enjoy):1	471(quickly):1	557(sort):1	898(thoroughly):1	2461(efficiently):1	
+10	12(friendly):1	18(book):1	25(comfortable):1	29(minute):1	37(review):1	105(husband):1	107(choice):1	284(base):1	597(tripadvisor):1	767(ourselves):1	
+22	0(staff):1	13(bathroom):1	14(helpful):1	17(view):1	27(bar):1	44(experience):1	84(locate):1	105(husband):1	119(window):1	150(pleasant):1	152(english):1	277(child):1	330(toilet):1	390(adequate):1	454(tire):1	513(low):1	595(perfectly):1	782(downside):1	1448(safety):1	1639(nasty):1	1898(block):1	7975(brit):1	
+0	
+0	
+0	
+2	18(book):1	767(ourselves):1	
+0	
+
+<Author>kateoz
+<Content>Grant Hotel was great! We really liked this hotel. A friend and I stayed for 5 nights from 16-21 January.Check in was easy and the desk clerk was wonderful - he got us a map and gave us recommendations of things to see and do, and also places to eat. We had booked a room with a queen bed to save $10 a night, but he upgraded us to a room with 2 doubles, which was great ($70 per night).The rooms are older but very clean. Perhaps a bit small, but we certainly managed. A room with one queen bed would be better, just to have a bit more room to move.Included breakfast was fine, just pastries and coffee. If you want juice it's $1.It's a wonderful location, just minutes walk from the cable car to Fisherman's Wharf and the shopping area (Nordstrom, Macys, Tiffany  Co, Gap, Louis Vuitton - you name it). Would stay again. Great value for money.  
+<Date>Jan 24, 2006
+<Rating>4	5	3	-1	5	-1	4	-1	
+<Aspects>
+4	2(night):1	146(friend):1	1018(january):1	1690(grant):1	
+2	80(money):1	81(value):1	
+10	2(night):2	3(clean):1	11(bed):2	18(book):1	52(bit):1	163(upgrade):1	179(double):1	207(move):1	425(save):1	543(Queen):2	
+19	1(location):1	7(walk):1	29(minute):1	48(wonderful):1	49(shop):1	52(bit):1	121(car):1	295(name):1	484(cable):1	645(manage):1	784(wharf):1	1148(fisherman):1	2726(gap):1	2896(louis):1	4141(macys):1	4312(co):1	6679(tiffany):1	6865(nordstrom):1	6953(vuitton):1	
+0	
+8	32(check):1	36(desk):1	47(eat):1	48(wonderful):1	93(easy):1	577(recommendation):1	724(map):1	788(clerk):1	
+6	6(breakfast):1	71(include):1	90(coffee):1	113(fine):1	362(juice):1	652(pastry):1	
+0	
+
+<Author>GrantB
+<Content>Cannot beat the price... seriously My wife and I are just finishing up our week long San Francisco trip. Last year we stayed at the Cartwright for MacWorld 2005. This year it was the Grant Hotel for MacWorld 2006. We paid about $120/night at the Cartwright. We only paid about $72 a night at the Grant. I had to give this 4 stars because overall, it was better than the Cartwright which I gave 3 stars.The Pros:1) Location: Bordering Union Square and Nob Hill. You're close to China Town, North Beach, and a nice walk will get you to the BART station and Moscone. NOTE: steep climb North from Sutter to Bush when walking along Powell. Bring good shoes!2) Room size: It was a pretty good size. Bigger than the Cartwright, which was a closet. I didn't mind the Cartwright, but the Grant has a bit of a hallway from the door to the sleeping/living area. I like that buffer zone that you normally find in chain hotels, but rarely see in budget-minded boutique hotels.3) View: Well, for our room anyway. We had a back room (5th floor) that looked Southward, and it was a neat sight... could see the Marriott shining bright near the Moscone, the outside elevators at the Westin, etc.4) Price: almost $50 cheaper per night than the Cartwright, which in itself if a pretty good deal. Yes, the Cartwright had free wireless net access, but I had to pay just $20 for the entire week to get wireless access in our room. Think of all the money you save!The Cons:1) Staff friendliness: OK, so they weren't mean or rude, but they were definitely not as outgoing as the staff at the Cartwright. No biggie for us, as we didn't have to go up to them much, and we knew the city pretty well from our previous trip. Realize that the Grant is most likely run by an asian family and you'll understand the lack of outgoingness.2) Free continental breakfast. Slim pickings, that's for sure. Coffee with powdered milk, a few pastries and some small muffins. Juice is extra. If you are big on breakfast, use the money you saved by staying here and go to Sear's or Dotties.Bottom line: clean, good-sized room in a great location for a price that is pretty remarkable. 4 stars.Some tips I thought I would pass along on where to eat and what to do:- Sushi fan? Sanraku on Sutter is fantastic!- Chinese food? House of Nanking. I heard that the owner will actually order part of your meal... its true! I had ordered two sesame-seasoned entrees, and she came along and said that she'll choose a different sauce for us. How about that. The food was great.- Dinner at Myth. Semi-upscale restaurant in Jackson Square (very chic area). Food was great. I had the Kobe beef burger, and the fries were amazing (had the people in the booth next to us drooling and asking how it was). NOTE: while there is no dress code, dress up a bit or you'll feel a little uncomfortable in your jeans like we did. Also, make reservations as this place fills up fast.- Breakfast at Dotties: A breakfast that needs to be experienced. I had the cornmeal blueberry pancakes, and my wife had french toast. Yummy! In a not-so-good part of town, but just keep walking. NOTE: Get there early as well (around 7:30am, when they open).- Lori's Diner: Save some money and go here once or twice. And remember to print the coupon on their website, 20% off: -------.- Bike trip to over the GG Bridge: Very nice ride, but just keep in mind that there is a few up-hill climbs (keep it in low gear and don't stop!) Going over the bridge can be a bit windy and cool. In Sausalito you'll fly downhill.- Shopping? Hit Union Square and Emeryville.- Getting to and from the airport: If you are staying within walking distance of a BART stop, use it for commuting between your hotel and SFO. Save money and use it for other things.Have Fun!  
+<Date>Jan 13, 2006
+<Rating>4	5	4	-1	4	-1	3	-1	
+<Aspects>
+57	4(nice):1	23(little):1	26(people):1	33(trip):2	34(feel):1	41(city):1	47(eat):1	52(bit):2	80(money):3	86(fantastic):1	109(pretty):1	122(stop):1	142(bring):1	145(amaze):1	167(choose):1	176(fun):1	194(tip):1	218(ride):1	278(cool):1	294(mind):1	297(note):2	347(twice):1	373(previous):1	400(pass):1	425(save):3	513(low):1	614(fly):1	661(fan):1	740(bridge):2	856(uncomfortable):1	935(dress):2	1009(fry):1	1157(burger):1	1191(shoe):1	1324(diner):1	1424(climb):1	1479(bike):1	1572(beef):1	1632(sushi):1	1690(grant):1	1798(yummy):1	1982(windy):1	1997(gear):1	2133(sauce):1	2161(code):1	2451(entree):1	2747(booth):1	2983(downhill):1	3936(jeans):1	5372(biggie):1	5703(sutter):1	5772(slim):1	6280(sausalito):1	6546(cartwright):1	6732(lori):1	9449(gg):1	11109(kobe):1	
+34	2(night):2	6(breakfast):2	19(price):2	20(look):1	24(floor):1	33(trip):1	42(pay):2	44(experience):1	70(overall):1	73(etc):1	75(week):1	98(outside):1	102(near):1	103(star):3	109(pretty):1	140(deal):1	143(cheap):1	177(san):1	184(wife):1	216(elevator):1	355(francisco):1	411(sight):1	442(beat):1	618(marriott):1	772(finish):1	839(5th):1	880(bright):1	889(westin):1	1286(neat):1	1441(seriously):1	1690(grant):1	2349(shine):1	4028(moscone):1	6546(cartwright):3	
+26	1(location):2	3(clean):1	10(restaurant):1	19(price):1	52(bit):1	54(door):1	83(size):2	109(pretty):2	139(square):3	188(line):1	281(house):1	294(mind):1	451(union):2	580(hallway):1	756(hill):1	775(hit):1	850(bottom):1	1249(pro):1	1472(chic):1	1690(grant):1	1693(jackson):1	2304(nob):1	2701(border):1	3163(remarkable):1	4551(good-size):1	6546(cartwright):1	
+43	4(nice):1	7(walk):4	17(view):1	28(close):1	30(beach):1	49(shop):1	82(station):1	90(coffee):1	95(airport):1	115(distance):1	122(stop):1	239(town):2	262(website):1	297(note):1	375(remember):1	417(anyway):1	565(closet):1	623(boutique):1	627(chain):1	652(pastry):1	684(North):2	1060(steep):1	1091(normally):1	1101(print):1	1116(milk):1	1159(china):1	1260(muffin):1	1424(climb):1	1505(bart):2	1791(rarely):1	1897(powell):1	2106(coupon):1	2227(zone):1	2834(powder):1	2991(sfo):1	3653(bush):1	4028(moscone):1	4386(commute):1	5703(sutter):1	6546(cartwright):1	8480(buffer):1	8746(not-so-good):1	9406(budget-mind):1	
+0	
+16	0(staff):2	59(definitely):1	123(ok):1	132(hear):1	156(reservation):1	180(actually):1	213(meal):1	246(mean):1	392(rude):1	491(fill):1	499(fast):1	672(owner):1	840(Con):1	1754(friendliness):1	4440(outgo):1	6546(cartwright):1	
+24	6(breakfast):2	16(food):3	46(free):1	80(money):1	106(family):1	117(dinner):1	128(extra):1	149(run):1	184(wife):1	254(french):1	349(lack):1	362(juice):1	372(continental):1	391(understand):1	425(save):1	607(realize):1	764(chinese):1	875(toast):1	1328(asian):1	1477(pancake):1	1690(grant):1	4372(sear):1	7453(blueberry):1	11922(myth):1	
+9	42(pay):1	46(free):1	75(week):1	159(access):2	250(yes):1	329(entire):1	717(wireless):2	2076(net):1	6546(cartwright):1	
+
+<Author>dslart
+<Content>PERFRCT LOCATION       part of the sign Grant HOTEL  
+<Date>Nov 20, 2005
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+0	
+3	1(location):1	449(sign):1	1690(grant):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Enjoyed My Stay I came to San Francisco to attend the ACS Congress in October. The Grant Hotel was the perfect place for me to stay. It is very close to the Union Square, China Town, financial district. And to Moscone Center is also within a comfortable walking distance. I stayed in a room in the middle section of the building, no view, but very quiet. Have to admit it, this is not a fancy hotel, but it is very clean, with just right level of basic service which matches the price, even a little more (The free internet access in the lobby, wired and wireless, is a plus to me.) The breakfast is also very basic, with various pastries, tea and coffee. But to people who come for conference or touring San Francisco, with budget in mind, this is the right place to stay.  
+<Date>Nov 3, 2005
+<Rating>5	5	4	-1	5	-1	3	-1	
+<Aspects>
+8	51(enjoy):1	74(perfect):1	177(san):1	355(francisco):1	826(attend):1	911(october):1	1690(grant):1	8111(congress):1	
+0	
+12	17(view):1	28(close):1	58(quiet):1	135(build):1	139(square):1	239(town):1	325(middle):1	433(district):1	451(union):1	947(section):1	1159(china):1	1746(financial):1	
+12	7(walk):1	25(comfortable):1	26(people):1	101(center):1	115(distance):1	177(san):1	181(tour):1	294(mind):1	355(francisco):1	429(budget):1	794(conference):1	4028(moscone):1	
+0	
+0	
+6	6(breakfast):1	90(coffee):1	301(tea):1	352(basic):1	652(pastry):1	823(various):1	
+16	3(clean):1	9(service):1	19(price):1	23(little):1	46(free):1	55(lobby):1	97(internet):1	159(access):1	203(plus):1	306(level):1	352(basic):1	717(wireless):1	796(fancy):1	1282(admit):1	1476(match):1	1904(wire):1	
+
+<Author>A TripAdvisor Member
+<Content>Good Budget Hotel Just returned from a 7 night stay at this hotel. Great location! Close to Union Square, Chinatown, Cable Car, BART, and other options for transportation. Could hear the cable car bells any time we were in our room and what could be better to remember?A negative was that our room faced Bush St., a busy corridor, with cars zipping by most of the night and garbage haulers arriving at 4:10 each morning and again around 5 AM parking just below our window as they operated their whirring equipment. We were awakened frequently each night. The window had to remain opened because it was very difficult to maintain a cool temperature even though we turned the radiator off. No A/C.Room was very clean and the bathroom was BIG and comfortable. Staff at reception was pleasant and helpful. Continental breakfast was so-so. Croissants and kind of a tasteless pastry of some kind. Ate it only once. Would liked to have had fruit or juice included. No ice machine was available which was a real negative for us since we like cold water, juice and wine. A microwave is available in the lobby for guest use and hot water is steaming and available any time we looked for it. Free internet is in the lobby too.We rented a car for two days and discounted parking (because we were staying at the Grant) was available directly across the street and was also the garage to which we were able to return our rental car. Both were a definite plus.Would we stay here again? Absolutely, but we would ask for a room that did not face the street and bring one of those little electric 6 pack coolers with us.  
+<Date>Oct 29, 2005
+<Rating>3	5	3	-1	5	-1	3	-1	
+<Aspects>
+8	2(night):2	39(return):1	47(eat):1	203(plus):1	429(budget):1	1573(frequently):1	2369(definite):1	2939(awaken):1	
+0	
+23	3(clean):1	5(time):1	13(bathroom):1	23(little):1	25(comfortable):1	35(street):1	119(window):1	121(car):1	132(hear):1	142(bring):1	189(absolutely):1	278(cool):1	375(remember):1	484(cable):1	562(maintain):1	572(difficult):1	715(pack):1	801(bell):1	944(temperature):1	1391(remain):1	2246(electric):1	3830(radiator):1	7931(cooler):1	
+36	1(location):1	2(night):1	8(day):1	28(close):1	35(street):1	39(return):1	53(arrive):1	56(morning):1	66(park):2	119(window):1	121(car):4	134(available):1	139(square):1	171(able):1	220(busy):1	282(negative):1	336(option):1	383(directly):1	451(union):1	484(cable):1	585(below):1	655(st):1	728(transportation):1	864(discount):1	936(garage):1	963(rental):1	1073(corridor):1	1097(rent):1	1132(chinatown):1	1211(equipment):1	1505(bart):1	1623(operate):1	1650(garbage):1	1690(grant):1	3653(bush):1	4490(zip):1	
+0	
+4	0(staff):1	14(helpful):1	129(reception):1	150(pleasant):1	
+26	5(time):1	6(breakfast):1	20(look):1	46(free):1	55(lobby):2	57(water):2	71(include):1	91(guest):1	97(internet):1	114(hot):1	134(available):3	215(fruit):1	222(cold):1	240(real):1	251(wine):1	282(negative):1	362(juice):2	372(continental):1	493(machine):1	547(ice):1	652(pastry):1	820(microwave):1	1004(croissant):1	1760(steam):1	1883(so-so):1	3817(tasteless):1	
+0	
+
+<Author>berthapivo
+<Content>For the Budget Conscious       bathroom  
+<Date>Oct 17, 2005
+<Rating>3	3	3	-1	4	-1	2	-1	
+<Aspects>
+0	
+0	
+3	13(bathroom):1	429(budget):1	4612(conscious):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Foxpd
+<Content>We Thought Better! Good location to visit S.F. near Chinatown and Market Street. Room clean but not so renovated. Little breakfast. The staff was not so friendly like we thought when we booked (by mail).  
+<Date>Oct 15, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+2	3(clean):1	533(renovate):1	
+7	1(location):1	35(street):1	65(visit):1	102(near):1	264(market):1	1132(chinatown):1	4159(s.f):1	
+0	
+4	0(staff):1	12(friendly):1	18(book):1	2446(mail):1	
+2	6(breakfast):1	23(little):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Couldn't get out quick enough. I booked out the same day I arrived. It cost me $100. No fridge or cofeemaker in room. Beverages in the reception must be paid for. Hotel all no smoking. When my partner asked if there was a rear outside smoking area the desk clerk screamed Outside Outside and pointed to the front door. Problem is, there is a male strip club almost next door.  
+<Date>Oct 11, 2005
+<Rating>2	3	2	-1	3	-1	1	-1	
+<Aspects>
+1	299(quick):1	
+4	42(pay):1	129(reception):1	175(cost):1	1334(beverage):1	
+1	318(fridge):1	
+0	
+1	468(smoke):1	
+9	31(front):1	36(desk):1	54(door):1	98(outside):3	468(smoke):1	788(clerk):1	1006(partner):1	1757(scream):1	2007(rear):1	
+7	8(day):1	18(book):1	53(arrive):1	54(door):1	212(club):1	1379(strip):1	2295(male):1	
+0	
+
+<Author>Surf-Chick
+<Content>A great base to explore SF Stayed here for 3 days while exploring SF for the first time - what a great place! Very central to Union Square and transport links, I was very pleased with my find as we were so central!Good bed in average sized room, very large bathroom, breakfast supplied in lobby in the morning is the average American continental danish and coffee. Can really recommend this place if you are keen to be central and want to spend your time looking at the sites rather than trecking back to a hotel on the other side of the city  
+<Date>Oct 3, 2005
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+5	5(time):1	8(day):1	284(base):1	594(explore):2	802(sf):2	
+0	
+11	6(breakfast):1	11(bed):1	13(bathroom):1	55(lobby):1	56(morning):1	83(size):1	90(coffee):1	227(average):2	372(continental):1	859(supply):1	2675(danish):1	
+14	5(time):1	15(recommend):1	20(look):1	41(city):1	64(spend):1	139(square):1	168(central):3	173(please):1	192(site):1	451(union):1	742(transport):1	1727(link):1	2641(keen):1	12121(treck):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Ok for San Fran Older hotel well situated just off the cable car line. As with most of San Fran you pay well above what the Hotel is worth, but in context this hotel is comfortable without been spectacular. Great bathroom and shower and security seemed ok. Staff were friendly but did not go out of their way to assist. Close to plenty of good dining out places and shopping, free internet at the hotel is a bonus.  
+<Date>Sep 29, 2005
+<Rating>3	3	3	-1	3	-1	3	-1	
+<Aspects>
+7	121(car):1	123(ok):1	177(san):1	188(line):1	484(cable):1	574(situate):1	1744(fran):1	
+7	25(comfortable):1	42(pay):1	96(worth):1	177(san):1	656(spectacular):1	1744(fran):1	7072(context):1	
+4	13(bathroom):1	61(shower):1	123(ok):1	641(security):1	
+7	28(close):1	46(free):1	49(shop):1	97(internet):1	158(plenty):1	316(dine):1	849(bonus):1	
+0	
+3	0(staff):1	12(friendly):1	1265(assist):1	
+0	
+0	
+
+<Author>PB69
+<Content>great place for the price This was a great find based on all the other reviews about this hotel on tripadvisor.com. The Grant Hotel is located right in the heart of where you want to be in San Francisco. It was in a quiet and safe location, only a few steps from the Powell Street streetcar that takes you all the way to Fisherman's Warf.If you're trying to be more budget conscious in San Francisco, you can feel good saving by staying here. The hotel is old, granted, but clean. The rooms are not the Hilton, but then again you're only paying $65US a night for a full bed. Private bathroom was very clean, bed was comfortable. Our view was the brick building about 2 metres away from us, but again, $65.The hotel is family run by an oriental family which were all very nice. Continental breakfast is served daily 7-10 a.m. which consists of small muffins or danishes and tea or coffee, so don't plan on this being your breakfast!Easy to get to via public transit, just take the BART from the airport to Powell Street station, walk uphill about 10 minutes (it's quite uphill, but good exercise) and save the taxi fare (it's busy on the streets anyhow), turn left at Bush and about 20 metres away is the hotel.Do yourself a favor and stay here if you're budget conscious. It's affordable, clean, safe, in a killer location, and it's easy to get to.  
+<Date>Sep 14, 2005
+<Rating>4	5	3	-1	3	-1	3	-1	
+<Aspects>
+17	4(nice):1	17(view):1	34(feel):1	76(try):1	106(family):2	135(build):1	149(run):1	177(san):1	355(francisco):1	425(save):1	429(budget):2	576(yourself):1	1194(metre):1	1521(favor):1	1616(Oriental):1	2003(brick):1	4612(conscious):2	
+4	19(price):1	37(review):1	284(base):1	3903(tripadvisor.com):1	
+8	2(night):1	3(clean):1	11(bed):2	13(bathroom):1	25(comfortable):1	42(pay):1	477(hilton):1	492(private):1	
+36	1(location):2	3(clean):1	7(walk):1	29(minute):1	35(street):3	43(leave):1	58(quiet):1	82(station):1	84(locate):1	93(easy):2	95(airport):1	137(safe):2	177(san):1	185(taxi):1	220(busy):1	355(francisco):1	366(step):1	379(public):1	425(save):1	450(heart):1	512(via):1	1062(affordable):1	1112(fare):1	1148(fisherman):1	1194(metre):1	1459(exercise):1	1505(bart):1	1690(grant):1	1897(powell):2	2015(transit):1	2391(streetcar):1	3597(uphill):2	3653(bush):1	3671(anyhow):1	4035(killer):1	4453(warf):1	
+2	3(clean):1	1690(grant):1	
+0	
+10	6(breakfast):2	90(coffee):1	174(serve):1	221(plan):1	301(tea):1	360(daily):1	372(continental):1	1185(consist):1	1260(muffin):1	2675(danish):1	
+0	
+
+<Author>globetrotter091
+<Content>Grande location ma niente altro       Facciata del Grant Hotel  
+<Date>Oct 9, 2008
+<Rating>2	3	2	4	2	3	-1	3	
+<Aspects>
+0	
+0	
+0	
+5	1(location):1	1482(del):1	1690(grant):1	3975(grande):1	3999(ma):1	
+0	
+0	
+0	
+0	
+
+<Author>magus1304
+<Content>Agreable       facade  
+<Date>Jul 15, 2008
+<Rating>4	5	4	5	4	4	4	4	
+<Aspects>
+1	3980(facade):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>PatPar
+<Content>Bon rapport qualit茅/prix/situation       Ma chambre (111)  
+<Date>Jun 6, 2007
+<Rating>4	-1	4	5	5	4	4	4	
+<Aspects>
+6	3576(bon):1	3867(chambre):1	3999(ma):1	5722(prix):1	9372(qualit):1	10058(rapport):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

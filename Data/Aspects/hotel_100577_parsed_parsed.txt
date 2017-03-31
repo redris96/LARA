@@ -1,0 +1,266 @@
+<Author>ClaireBurton
+<Content>Loved the Travelodge Very friendly and helpful staff. Good location with fancy shopping center across the street  good eateries close by. We enjoyed our talks with staff  felt they went the extra mile when necessary.  
+<Date>Sep 22, 2008
+<Rating>4	4	4	5	4	5	5	4	
+<Aspects>
+0	
+0	
+0	
+7	1(location):1	28(close):1	35(street):1	49(shop):1	101(center):1	796(fancy):1	1779(eatery):1	
+0	
+10	0(staff):2	12(friendly):1	14(helpful):1	34(feel):1	40(love):1	51(enjoy):1	128(extra):1	371(talk):1	692(mile):1	3479(travelodge):1	
+0	
+0	
+
+<Author>gcanizal
+<Content>Not a very special place I've been there for 4 days in August in order to visit Seattle. It is far from Seattle downtown and parkings are expensive there, so that I recomend to choose another hotel to visit the city. The swimmingpool of the motel is very big and the spa is also perfect to relax after a long day walking around Seattle. Rooms are big and clean, however it is a little bit old and breakfast is not too good... In my opinion the motel is a little bit expensive for what the offer.  
+<Date>Aug 21, 2008
+<Rating>3	3	3	2	3	3	3	1	
+<Aspects>
+4	8(day):1	65(visit):1	208(special):1	762(seattle):1	
+15	3(clean):1	6(breakfast):1	23(little):2	41(city):1	52(bit):2	65(visit):1	89(offer):1	124(expensive):2	167(choose):1	334(downtown):1	704(opinion):1	762(seattle):1	991(motel):1	1420(recomend):1	12958(parking):1	
+0	
+8	7(walk):1	8(day):1	74(perfect):1	160(relax):1	314(spa):1	762(seattle):1	991(motel):1	10362(swimmingpool):1	
+0	
+0	
+0	
+0	
+
+<Author>ConstantVisitor
+<Content>Bad Experience The building smelled like cigarettes despite being a non-smoking hotel. Our room smelled pungently like bleach. I had to take my comforter down to get a replacement because it had large stains on it. The mattress was exposed, old, and filthy. The shower alternated between very hot and very cold water. We could hear everything going on in the halls. I did not feel comfortable at all in this hotel and was glad to get out.  
+<Date>Jul 6, 2008
+<Rating>1	1	1	4	1	1	2	2	
+<Aspects>
+11	25(comfortable):1	34(feel):1	132(hear):1	616(hall):1	619(glad):1	723(stain):1	847(mattress):1	1320(filthy):1	1694(comforter):1	2593(replacement):1	2637(expose):1	
+0	
+7	57(water):1	61(shower):1	114(hot):1	222(cold):1	231(smell):1	3622(alternate):1	4943(bleach):1	
+0	
+7	44(experience):1	50(bad):1	135(build):1	231(smell):1	498(despite):1	978(nonsmoking):1	1365(cigarette):1	
+0	
+0	
+0	
+
+<Author>restandrelax84
+<Content>Not so great We picked all hotels via TA reviews. We're used to budget travel as we prefer spending more on food and entertainment. Stayed at Travelodges before and at Super 8 on this same trip. This one was nowhere near what it should be. Rooms are really dated, not very clean and the bed was horrible. The breakfast they advertise is from 6 - 8 am so be an early riser or else. When we got to the Thriftlodge in Portland (same chain) the next night we mentioned it to the manager - he was surprised since his place is technically one notch below. Needless to say it was way better. Seattle hotels can be pricey but if this is budget then I recommend splurging a bit for something else. Never been to hotel I couldn't recommend before.  
+<Date>May 25, 2008
+<Rating>1	1	1	3	1	2	2	2	
+<Aspects>
+9	15(recommend):1	33(trip):1	37(review):1	102(near):1	266(pick):1	464(super):1	512(via):1	1356(needless):1	2740(ta):1	
+7	15(recommend):1	52(bit):1	170(else):1	429(budget):1	546(pricey):1	762(seattle):1	2358(splurge):1	
+4	3(clean):1	11(bed):1	511(date):1	544(horrible):1	
+0	
+0	
+9	2(night):1	199(surprise):1	244(mention):1	258(manager):1	585(below):1	627(chain):1	1227(notch):1	5187(technically):1	8293(portland):1	
+10	6(breakfast):1	16(food):1	64(spend):1	68(travel):1	170(else):1	340(entertainment):1	429(budget):1	536(prefer):1	910(advertise):1	3607(riser):1	
+0	
+
+<Author>tsanah
+<Content>junk hotel --- hiden charge AC is very loud -- worse then sleeping on an airplane. hiden charge on Safe Warranty --- trick you during check in to sign an agreement --- take advantage of people who are tired to check for a rest... staff very rude ---- worst hotel i have ever stayed in my life time.  
+<Date>Feb 8, 2008
+<Rating>1	1	1	5	1	1	1	3	
+<Aspects>
+0	
+0	
+7	50(bad):1	104(sleep):1	136(charge):1	416(loud):1	956(ac):1	2847(airplane):1	4293(junk):1	
+0	
+0	
+15	0(staff):1	5(time):1	26(people):1	32(check):2	50(bad):1	136(charge):1	137(safe):1	288(rest):1	392(rude):1	426(life):1	449(sign):1	454(tire):1	867(advantage):1	2614(trick):1	4988(agreement):1	
+0	
+0	
+
+<Author>35000ft
+<Content>Single Traveler 1. Cheap- you get what you pay for.2. Easy and convenient for a single individual traveling alone.3. Internet service. 4. Close proximity to University of Washington. Village Shopping Center.5. Clean bathroom, room.  
+<Date>Jan 7, 2008
+<Rating>3	3	3	3	3	3	3	3	
+<Aspects>
+6	68(travel):1	93(easy):1	186(convenient):1	267(traveler):1	304(single):2	1596(individual):1	
+2	42(pay):1	143(cheap):1	
+2	3(clean):1	13(bathroom):1	
+7	28(close):1	49(shop):1	101(center):1	1087(village):1	1114(proximity):1	2381(university):1	2721(washington):1	
+0	
+0	
+2	9(service):1	97(internet):1	
+0	
+
+<Author>fern12345
+<Content>Avoid this place This was the worse hotel I have ever stayed in, and prompted me not only to check out early, but also to write my first hotel review. For $80 a night, I stayed in a room that:- had warm, but not hot water, so I could never take shower without getting cold, and I had to wait about 2-3 minutes before any warm water came out of the faucet in the first place. - was non-smoking but directly across the hall from the smoking rooms, so that the smell travelled into my room at 6 am when my neighbors decided to light up.- was darkly lit, smelled strongly of cleaning detergent and had stains bed cover- was cleaned by very polite housekeepers, but a remarkably rude and unfriendly staff.Today, I checked out of the hotel and for $20 less a night am staying in a friendly, clean chain with warm water, a sauna, and a room that reminds me that my Travelodge experience was rare and not to be tolerated.  
+<Date>Jan 1, 2008
+<Rating>1	1	1	3	2	2	1	1	
+<Aspects>
+0	
+13	2(night):1	3(clean):1	12(friendly):1	32(check):1	44(experience):1	57(water):1	236(warm):1	627(chain):1	1285(remind):1	1422(sauna):1	1924(rare):1	3479(travelodge):1	4239(tolerate):1	
+23	0(staff):1	2(night):1	3(clean):2	11(bed):1	29(minute):1	57(water):2	61(shower):1	85(wait):1	114(hot):1	157(light):1	222(cold):1	231(smell):1	236(warm):2	392(rude):1	422(polite):1	552(cover):1	723(stain):1	1386(strongly):1	1487(unfriendly):1	1591(housekeeper):1	2823(faucet):1	4395(remarkably):1	5565(detergent):1	
+0	
+9	68(travel):1	157(light):1	219(decide):1	231(smell):1	383(directly):1	468(smoke):1	616(hall):1	934(neighbour):1	978(nonsmoking):1	
+6	32(check):1	37(review):1	50(bad):1	344(write):1	436(avoid):1	1208(prompt):1	
+0	
+0	
+
+<Author>ozufan
+<Content>Utterly disgusting Without a doubt one of the worst hotel experiences I have ever had. A friend and I mistakenly chose to stay here for a conference at the University, and from the moment we arrived, the stay was completely revolting. Upon trying to check in, there were problems with both of our reservations, about which the clerk only laughed. His attitude was that this is what we deserved for daring to stay in this dump. After waiting a good 30 minutes to get our room keys, we entered the wing where our rooms were. We were first greeted by an atrocious and overpowering smell - something along the lines of a mixture of mildew, urine, and some toxic chemical probably used to attempt to clean. The hallways were barely lit. Then we entered our rooms to a slightly less strong stink - no toxic flavor, just mildew and urine. On turning on the light, one of the (at most) 25 watt bulbs was burnt out. Turning on the others gave only slightly more light - a nice dim, dank look complimented the smell nicely. The carpeting was slightly damp - I tried not to think about what I was walking in. The room was a bit chilly when we arrived, so I turned on the heater/air conditioner, but no matter what knobs I turned where, no heat came out - only cold air - no matter how long I waited. At least I was able to turn mine off; when my friend tried the same with his, he found that it just kept going - so the thing was blowing cold air into his room all night. The bathroom was crap, but ok. It took a good 5 minutes for the shower water to become remotely hot. The walls were dirty, had various stains and marks, and rusty outlines told us where some racks used to hang. I had a good bathroom, it seems, as my friends' toilet didn't flush, he was unable to get more than a tiny stream of water to flow from his faucet, and his bathtub had numerous brown stains throughout. Oh, and he had one less lamp in his room than I did.The bed was uncomfortable at best and there were numerous holes in the sheets/blankets. The pillows were comically thin - I had to stack two to get a reasonable pillow. And on top of everything, when I figured to myself I could at least do a little work to take my mind off the decrepit surroundings, I found that the wireless signal was too weak to get internet access. I proceeded to walk around the floor, open laptop in hand checking to see if the signal ever improved, but no such luck.The complimentary breakfast: disgusting. I took one bite of the soggy, plastic-wrapped muffin and instantly threw the rest away. There was cereal, but no milk for it. I couldn't make this stuff up if I tried - heed this and all the other awful reviews of this complete embarrassment of an establishment and simply stay away. This heap should be a tourist attraction in and of itself - visit to see the squalor and to laugh at those who stupidly paid money to stay here, but don't spend a cent to stay yourself.  
+<Date>Oct 15, 2007
+<Rating>1	1	1	2	1	1	1	1	
+<Aspects>
+12	273(reasonable):1	288(rest):1	303(pillow):2	529(cereal):1	754(thin):1	917(throw):1	1042(bite):1	1116(milk):1	1260(muffin):1	3181(instantly):1	3445(stack):1	5596(soggy):1	
+16	42(pay):1	44(experience):1	50(bad):1	64(spend):1	65(visit):1	80(money):1	209(tourist):1	350(attraction):1	576(yourself):1	952(doubt):1	1152(disgust):1	1245(laugh):1	1888(cent):1	3935(utterly):1	4038(heap):1	8921(stupidly):1	
+76	2(night):1	4(nice):1	7(walk):2	11(bed):1	13(bathroom):2	20(look):1	24(floor):1	29(minute):2	32(check):1	52(bit):1	53(arrive):1	57(water):2	61(shower):1	85(wait):2	114(hot):1	123(ok):1	146(friend):2	157(light):3	164(air):2	171(able):1	222(cold):2	231(smell):1	253(tried):2	330(toilet):1	338(tiny):1	339(key):1	377(hand):1	396(carpet):1	404(nicely):1	445(throughout):1	531(matter):2	539(heat):1	580(hallway):1	598(slightly):3	601(enter):2	723(stain):1	856(uncomfortable):1	893(strong):1	971(numerous):2	1020(barely):1	1023(bathtub):1	1055(luck):1	1083(conditioner):1	1111(laptop):1	1146(blow):1	1217(improve):1	1218(hole):1	1269(mine):1	1289(burn):1	1461(unable):1	1515(wing):1	1619(flush):1	1622(lamp):1	1640(damp):1	1667(brown):1	1796(stink):1	1876(mildew):1	1942(flow):1	2048(dim):1	2147(flavor):1	2150(proceed):1	2361(heater):1	2458(bulb):1	2571(compliment):1	2622(chilly):1	2823(faucet):1	2968(crap):1	2974(signal):1	3191(urine):1	3714(stream):1	4128(knob):1	5027(remotely):1	5405(dank):1	7631(watt):1	10622(sheets):1	10627(toxic):1	
+9	53(arrive):1	146(friend):1	167(choose):1	542(completely):1	670(moment):1	794(conference):1	2381(university):1	6019(mistakenly):1	8305(revolt):1	
+23	3(clean):1	69(tell):1	178(probably):1	183(wall):1	188(line):1	231(smell):1	323(dirty):1	415(greet):1	478(hang):1	723(stain):1	823(various):1	882(mark):1	1119(attempt):1	1876(mildew):1	1916(rack):1	3191(urine):1	3649(mixture):1	3797(rusty):1	4744(chemical):1	5267(overpower):1	5676(atrocious):1	7296(outline):1	10627(toxic):1	
+5	32(check):1	76(try):1	156(reservation):1	788(clerk):1	1245(laugh):1	
+16	6(breakfast):1	37(review):1	253(tried):1	345(complimentary):1	480(stuff):1	488(simply):1	622(complete):1	736(awful):1	821(attitude):1	1072(deserve):1	1152(disgust):1	1449(dump):1	1473(establishment):1	3275(dare):1	5046(heed):1	9858(embarrassment):1	
+11	23(little):1	97(internet):1	118(top):1	159(access):1	294(mind):1	717(wireless):1	779(figure):1	1551(surroundings):1	1770(weak):1	2974(signal):1	8820(decrepit):1	
+
+<Author>Dana5002
+<Content>worse hotel for the money I ever stayed in We stayed in this hotel from Aug 13 thru Aug 21st. If another hotel had been available we would have left, but there was not one within the area. The motel was $115 a night and on the weekends it was $145. My son was getting ready to go to the University and we wanted to be close by. This is a hard hotel to get to from the University. They say its only 2 blocks but that is deceptive. You have to go thru a mall parking lot and then get onto the road that leads up via a HUGE hill to get to the edge of the campus. He's not walking distance and driving is difficult fo rthen you have to find parking at the University and that is not cheap! $11 a day to park there. That was the first bad thing. When we checked in all they were worried about was how busy they were and how many housekeepers they are short. You know what? I dont care what kind of day you are having, you had better greet me like I'm a guest and not an inconvenience. I was put out by that, but made the best of it. Then to the room. The rooms were AWFUL! To spend that much money I except a bit more. Where do I start? First thing was the clock that didnt work. We went and asked the front desk where Ben was working. They did not have one but he would get the maintenance man in the morning to get one. That never happened. The tv's sound went in and out. No consistency. The interenet rarely worked and we could not go online. Had to go over to the barnes and noble and pay to use our laptops. The sheets were old and the blankets were ragged. Of course the mattresses were old too. The walls were dirty ( a bit of paint goes along ways) The curtains were old and drabby and dirty. The coffee maker didnt work either and the coffee they gave out was so bad anyways. No coffee in the filters. The bathroom was gross. There was rust on the toilet paper holder, the door was all chipped up (again, a little paint goes a long ways), the sink and faucet old, tears on the wallpaper, the caulking was dirty around the tub. We didnt even attempt the hot tub or the swimming pool, because they looked dirty and un kept as well. I think the owner/manager should be ashamed on how bad their hotel looks. We looked into a couple of other rooms there and they were just as bad. To think people pay alot of money for such a bad room. And we were one of those. This room would'va been worth $50 bucks a night, not 145. That is ridiculous. The people at the front desk were okay, just too concerned with how busy they were and not if we were taken care of as a guest. This hotel has alot to learn about customer service. I was not pleased at all and I doubt if they will do anything anyways about it, but at least people will be forewarned not to use this hotel.  
+<Date>Sep 2, 2007
+<Rating>1	1	1	1	1	1	1	1	
+<Aspects>
+40	2(night):1	8(day):1	26(people):1	43(leave):1	50(bad):2	52(bit):1	56(morning):1	64(spend):1	80(money):2	91(guest):1	100(bloc):1	134(available):1	162(hard):1	172(weekend):1	173(please):1	242(care):1	293(course):1	337(except):1	382(happen):1	415(greet):1	479(sheet):1	503(dont):1	626(didnt):1	847(mattress):1	952(doubt):1	991(motel):1	1149(maintenance):1	1231(thru):1	1291(clock):1	1369(blanket):1	1431(inconvenience):1	1533(ridiculous):1	2348(anyways):1	2381(university):1	2404(aug):2	4083(forewarn):1	4913(21st):1	5575(rag):1	5590(consistency):1	6524(deceptive):1	
+9	26(people):1	42(pay):2	50(bad):1	80(money):1	165(start):1	647(alot):1	1111(laptop):1	7615(barn):1	9415(noble):1	
+17	2(night):1	13(bathroom):1	20(look):1	32(check):1	50(bad):1	96(worth):1	99(couple):1	116(tv):1	144(short):1	220(busy):1	409(sound):1	736(awful):1	885(worried):1	1120(buck):1	1591(housekeeper):1	1797(gross):1	9099(va):1	
+22	7(walk):1	8(day):1	28(close):1	38(lot):1	66(park):3	115(distance):1	133(huge):1	143(cheap):1	230(road):1	274(ready):1	298(drive):1	512(via):1	572(difficult):1	612(son):1	643(mall):1	756(hill):1	922(lead):1	1190(edge):1	1231(thru):1	2381(university):2	4923(fo):1	5059(campus):1	
+25	20(look):1	22(pool):1	23(little):1	52(bit):1	54(door):1	114(hot):1	183(wall):1	261(swim):1	311(tub):2	323(dirty):4	330(toilet):1	509(sink):1	626(didnt):1	743(curtain):1	776(paper):1	806(paint):2	1119(attempt):1	1302(chip):1	1605(tear):1	2093(wallpaper):1	2292(un):1	2823(faucet):1	3218(rust):1	3253(holder):1	5947(caulk):1	
+13	20(look):1	26(people):1	31(front):2	36(desk):2	50(bad):1	91(guest):1	220(busy):1	242(care):1	453(okay):1	496(concern):1	672(owner):1	5227(ashamed):1	5391(ben):1	
+10	9(service):1	50(bad):1	90(coffee):3	428(customer):1	626(didnt):1	647(alot):1	703(learn):1	996(maker):1	2348(anyways):1	2975(filter):1	
+3	822(online):1	1791(rarely):1	11557(interenet):1	
+
+<Author>ningoIllinois
+<Content>University Travelodge, Seattle This lodging was obtained through priceline.com. While the room was clean it was cramped for 2 adult women. We had to share a double bed, request extra linens, and no luggage cart or elevator was available. There was some sort of event and was told to make sure we had a lodging indicator in the car windshield because the also cramped parking lot was going to be full. It is too far for downtown sightseeing, especially with heavily announced I-5 changes due to putting in light rail from downtown to airport. This may have been better for a single person having business at UW, or someone accompanying some one to the UW hospitals which are close. There was a nice mall across the street with shops, Starbucks and grocery. No microwave or minifridge in room.  
+<Date>Aug 22, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+6	762(seattle):1	1878(lodge):1	2381(university):1	2411(obtain):1	3479(travelodge):1	6945(priceline.com):1	
+17	3(clean):1	95(airport):1	126(especially):1	157(light):1	161(change):1	259(due):1	334(downtown):2	556(adult):1	566(woman):1	640(sight-see):1	820(microwave):1	1080(cramp):1	1755(rail):1	2836(heavily):1	4610(announce):1	7021(minifridge):1	7044(i-5):1	
+22	4(nice):1	28(close):1	35(street):1	38(lot):1	49(shop):1	66(park):1	69(tell):1	121(car):1	147(business):1	193(person):1	304(single):1	557(sort):1	643(mall):1	939(starbucks):1	1080(cramp):1	1106(event):1	1199(grocery):1	1878(lodge):1	1911(hospital):1	2660(accompany):1	8800(uw):2	9736(indicator):1	
+0	
+0	
+10	11(bed):1	128(extra):1	134(available):1	148(request):1	179(double):1	216(elevator):1	249(luggage):1	520(share):1	630(linen):1	1322(cart):1	
+0	
+
+<Author>Sadeb
+<Content>Terrible Very bad experience. Dirty, poor maintenance, poor service, poor security. Pool and spa are dirty. Rooms are dirty. No check in until 4 p.m. no matter what your situation. There were several families here for a wedding with us and we all hated it. Nothing else available in the area because of UW. We would never, ever stay here again!  
+<Date>Aug 21, 2007
+<Rating>1	1	1	5	1	2	1	-1	
+<Aspects>
+6	106(family):1	134(available):1	170(else):1	604(wed):1	1110(hate):1	8800(uw):1	
+3	44(experience):1	50(bad):1	432(terrible):1	
+0	
+0	
+7	9(service):1	22(pool):1	314(spa):1	323(dirty):3	331(poor):3	641(security):1	1149(maintenance):1	
+4	32(check):1	531(matter):1	890(situation):1	1466(p.m):1	
+0	
+0	
+
+<Author>daeg
+<Content>Not for Familys My family needed a place to stay while our son was to have surgery, travelodge offered a reasonable price. We requested a Ground level room and a crib, when we arrived we were told that our room was upstairs. After inspecting the room there was no crib, the bathroom had rust stains on the walls, the light was burned out, cobwebs in the corners, peeling wallpaper, and broken locks. We asked about getting a crib, after a long wait we called the front desk and were told that 2 of the 3 cribs were in use the third was missing. Our son slept in his stroller for a few hours. after a long wait we went to the front desk to complain we were blown off since we had got a discounted price we got discounted service. the manager had eventually arrived after buying a new crib. We were pleased that they had gone through the effort however our pleasure was gone once we asked the manager about the crib she said I just bought one, now don't you feel stupid?. It took a while to set the crib up and the mattress was thin and our son slept poorly. We will never stay there again.  
+<Date>Aug 14, 2007
+<Rating>1	3	1	4	1	4	1	3	
+<Aspects>
+0	
+8	19(price):1	89(offer):1	106(family):1	273(reasonable):1	612(son):1	3479(travelodge):1	5984(surgery):1	8383(familys):1	
+28	13(bathroom):1	53(arrive):1	60(hour):1	69(tell):1	104(sleep):2	148(request):1	157(light):1	183(wall):1	200(corner):1	228(break):1	234(set):1	306(level):1	612(son):2	706(grind):1	723(stain):1	754(thin):1	774(lock):1	847(mattress):1	1289(burn):1	1358(upstairs):1	1635(poorly):1	1887(peel):1	2093(wallpaper):1	2771(crib):3	3218(rust):1	3871(stroller):1	4492(inspect):1	8306(cobweb):1	
+0	
+0	
+22	9(service):1	19(price):1	31(front):2	34(feel):1	36(desk):2	53(arrive):1	67(call):1	69(tell):1	85(wait):2	173(please):1	241(complain):1	258(manager):2	276(miss):1	280(buy):2	532(third):1	864(discount):2	907(pleasure):1	1017(effort):1	1146(blow):1	1204(eventually):1	2708(stupid):1	2771(crib):4	
+0	
+0	
+
+<Author>i4travel
+<Content>Great location but worn Second time I've stayed here. The pluses have been location - safe, nice area, free parking and good sized rooms. The minuses, both stays - sheets and towels are rough and very thin, below Motel 6, the worst I've ever experienced, bathrooms are very worn looking and a little dirty, ie faucet handle center had not been cleaned. Pillows were wimpy, bed didn't stay made. Room size good, carpet  fixtures looked much newer than towels  sheets. I like a bargin and don't mind some trade offs for price, but the AAA rate for the room with all taxes  charges (1 queen, 2 people) was $112.87. I'm looking for other places for future stays, but the location is definitely the draw for me.  
+<Date>Jul 16, 2007
+<Rating>2	-1	2	4	2	3	3	-1	
+<Aspects>
+0	
+10	19(price):1	26(people):1	78(rate):1	136(charge):1	294(mind):1	543(Queen):1	798(tax):1	2044(trade):1	4608(bargin):1	8928(offs):1	
+14	1(location):1	4(nice):1	11(bed):1	20(look):1	46(free):1	66(park):1	83(size):2	125(towel):1	137(safe):1	203(plus):1	303(pillow):1	396(carpet):1	479(sheet):1	1541(fixture):1	
+7	1(location):2	5(time):1	20(look):1	59(definitely):1	434(wear):1	732(future):1	1620(draw):1	
+18	3(clean):1	13(bathroom):1	20(look):1	23(little):1	44(experience):1	50(bad):1	101(center):1	125(towel):1	323(dirty):1	434(wear):1	479(sheet):1	585(below):1	754(thin):1	966(handle):1	991(motel):1	1047(rough):1	2064(minus):1	2823(faucet):1	
+0	
+0	
+0	
+
+<Author>civilclarinet
+<Content>Good for an inexpensive place to stay I was in Seattle for a weekend and knew that I wouldn't be spending much time in the room, so booked a room at the University Travelodge since it was one of the less-expensive hotels in the area. I don't understand why a lot of the travelers had such negative experiences.The staff during check in and check out were very kind and considerate. The room was definitely on the more worn side, but cleanand comfortable. It's within easy walking distance to the UW campus, and there is a great shopping area across the street.If I am in the Seattle area, I would definitely stay there again.  
+<Date>Jul 14, 2007
+<Rating>3	3	3	4	4	3	3	3	
+<Aspects>
+2	59(definitely):1	762(seattle):1	
+13	5(time):1	18(book):1	38(lot):1	44(experience):1	64(spend):1	172(weekend):1	267(traveler):1	282(negative):1	391(understand):1	762(seattle):1	1117(inexpensive):1	2381(university):1	3479(travelodge):1	
+3	25(comfortable):1	59(definitely):1	434(wear):1	
+7	7(walk):1	35(street):1	49(shop):1	93(easy):1	115(distance):1	5059(campus):1	8800(uw):1	
+0	
+3	0(staff):1	32(check):2	3834(considerate):1	
+0	
+0	
+
+<Author>Racerhead2
+<Content>Totally unacceptable! I reserved 2 rooms for my parents and relatives first time visit to Seattle. I was very excited to show them a good time. I noticed the Travel Lodge next to the University Village and thought it might be a great idea for them to stay there since they can go and shop across the street. So convenient, I thought! I read some of the reviews on this site but I made the mistake of not taking it more seriously.I had the same experience with some of the other reviewers. The room wasn't ready for check in until 4 in the afternoon. When we enter the room it stunk badly. The exterior had a fresh coat of paint but it didn't hide the decaying interior. The beds were dirty and the pillows stunk of oily dirty hair. The lights on the bed side table were out. They didn't refill the tissue paper in the bathroom. Worst of all we found that they didn't even clean the room. Just made the bed and that's it! Can't believe they are charging people for staying in this dump!  
+<Date>May 20, 2007
+<Rating>1	1	1	4	1	2	1	1	
+<Aspects>
+12	5(time):1	186(convenient):1	197(fresh):1	611(totally):1	806(paint):1	1026(interior):1	1136(excite):1	1195(hide):1	1828(exterior):1	2230(unacceptable):1	2636(coat):1	8157(decay):1	
+2	44(experience):1	564(reviewer):1	
+25	3(clean):1	5(time):1	11(bed):3	13(bathroom):1	32(check):1	50(bad):1	65(visit):1	157(light):1	229(table):1	274(ready):1	303(pillow):1	323(dirty):2	364(afternoon):1	506(reserve):1	601(enter):1	729(hair):1	762(seattle):1	776(paper):1	1197(parent):1	1663(badly):1	1796(stink):2	1841(refill):1	2259(relative):1	3211(tissue):1	8180(oily):1	
+13	35(street):1	37(review):1	49(shop):1	68(travel):1	88(read):1	192(site):1	354(notice):1	639(idea):1	895(mistake):1	1087(village):1	1441(seriously):1	1878(lodge):1	2381(university):1	
+0	
+4	26(people):1	136(charge):1	312(believe):1	1449(dump):1	
+0	
+0	
+
+<Author>travelnightmare
+<Content>the worst hotel experience ever Our son was getting married, and we needed 4 bedrooms for our family, so we booked this hotel, thinking that it would be great to have a living room, dining room and kitchen for our 3 night stay. We had two 2 bedroom units. It was the worst hotel we have ever stayed in, and we tried desperately to find anything else to get out of this dump. On the first night, returning from the rehearsal, my daughter found that her room key would not work, and that another couple was standing at our other door, attempting to use their key to open the room. The clerk had given them our room number as their room. The clerk sneered at my daugher when she went to the desk to sort out the problem. No apology, just ridicule. He then totally berated our other daughter when she paid for a parking pass for a third car - he even threatened that our cars might be damaged or that he might have them towed away by morning. Understand that we weren't unpleasant to him, we just seemed to catch him in the middle of a nervous breakdown. To top it off, when my husband went to the desk (we were afraid to send our adult daughters back under any circumstances) to ask for pillows and blankets for the bed chesterfield, the clerk handed my husband 6 towels and said he had no more pillows or blankets. Our bedding was stained, my mom's blanket was dirty, the bathroom was shabby and the floor was cracked. Some walls had pictures, some had bare hooks where pictures had once been. The wallpaper was dirty and marked. Our dining room table had 4 chairs (2 of them broken), while the other room had only 1 chair to go with the table. That room also had no dishes at all. Ours had 1 cup, 1 glass and an assortment of broken, unmatched dishes and cutlery. We gave our other room 2 of our 3 spoons. The pots were beat-up teflon that had rust on the bottom. I wouldn't boil water in them. Neither two-bedroom unit was clean and the furniture and rugs were noticeably stained. The door to the deck had no handle, and in my sister's room the vertical blinds were falling off when she tried to open her door (which also was broken). The beds had a flat mattress protector and thin, flat sheets - so when we slept we ended up on the bare mattress. It was enough to send chills down all our spines. This was the worst dump we have ever experienced, and we would gladly have packed and moved on the first night, despite it being almost 11:00 P.M by the time the clerk finished with us. I was so embarassed to have my mom with us, and my sister also renting a room. How can Travel Lodge allow this dive to carry its name? We expected a basic room, but we expected it to be clean and reasonably furnished with dishes, cutlery and pots, and bedding. I have never heard of a hotel not providing extra pillows and blankets (we only had 4 pillows in each room, and were not being unreasonable requesting pillows for the bed chesterfield). To top it off, there is major construction next door and it starts before 7:00 A.M. Don't call this a Travel Lodge, call this a Travel Nightmare.  
+<Date>Jul 31, 2006
+<Rating>1	1	1	4	1	1	1	2	
+<Aspects>
+33	50(bad):1	57(water):1	68(travel):1	170(else):1	228(break):1	253(tried):1	295(name):1	325(middle):1	327(glass):1	359(allow):1	391(understand):1	447(send):1	540(catch):1	800(cup):1	816(dish):1	824(carry):1	843(ours):1	850(bottom):1	1397(chill):1	1408(nervous):1	1447(pot):1	1449(dump):1	1547(apology):1	1598(boil):1	1627(dive):1	1747(unpleasant):1	1878(lodge):1	2761(assortment):1	3182(cutlery):1	3218(rust):1	4066(desperately):1	6489(breakdown):1	8748(unmatched):1	
+33	2(night):1	5(time):1	42(pay):1	44(experience):1	50(bad):1	54(door):1	56(morning):1	66(park):1	67(call):2	68(travel):2	118(top):1	121(car):2	165(start):1	207(move):1	315(major):1	400(pass):1	467(daughter):1	498(despite):1	532(third):1	583(construction):1	611(totally):1	715(pack):1	772(finish):1	788(clerk):1	1449(dump):1	1466(p.m):1	1534(nightmare):1	1878(lodge):1	2030(damage):1	2176(gladly):1	2537(threaten):1	3574(tow):1	12721(berate):1	
+79	2(night):2	3(clean):2	11(bed):5	13(bathroom):1	18(book):1	24(floor):1	36(desk):1	39(return):1	44(experience):1	50(bad):1	54(door):3	62(expect):2	99(couple):1	104(sleep):1	105(husband):2	106(family):1	118(top):1	125(towel):1	128(extra):1	132(hear):1	148(request):1	153(provide):1	198(chair):2	206(live):1	228(break):2	229(table):2	253(tried):1	268(bedroom):2	303(pillow):5	316(dine):2	323(dirty):1	335(numb):1	339(key):2	352(basic):1	377(hand):1	440(furniture):1	444(stand):1	447(send):1	461(kitchen):1	467(daughter):2	479(sheet):1	535(flat):2	556(adult):1	578(reasonably):1	587(fall):1	612(son):1	723(stain):2	754(thin):1	787(furnish):1	788(clerk):2	816(dish):2	847(mattress):2	892(sister):2	966(handle):1	980(unit):2	1097(rent):1	1119(attempt):1	1275(neither):1	1319(shabby):1	1369(blanket):4	1406(deck):1	1411(crack):1	1447(pot):1	1544(afraid):1	1743(married):1	1839(blind):1	1855(mom):2	2235(bare):1	3016(rug):1	3043(circumstance):1	3182(cutlery):1	4029(spoon):1	4034(chesterfield):2	4437(unreasonable):1	6207(embarass):1	6874(noticeably):1	7191(vertical):1	7747(two-bedroom):1	9203(rehearsal):1	
+4	183(wall):1	456(picture):2	2145(hook):1	2235(bare):1	
+3	323(dirty):1	882(mark):1	2093(wallpaper):1	
+4	36(desk):1	557(sort):1	788(clerk):1	9859(daugher):1	
+0	
+0	
+
+<Author>vau604
+<Content>Unclean and terrible service I stayed here to save money on a 3 day campus visit at the University of Washington. When I arrived, I was told I was too early to check in so I asked if they could check my bags while I went for a walk to the UW. They agreed and just put them behind the front desk without taking my name or giving me a check tag, which might've been okay if there was a person there too, but when you walk into the office, there's just an empty front desk area while the staff hide away in a back room. In other words, it would take about 5 seconds for someone to reach over and steal my bags. I asked them to store my luggage which contained a camcorder and my laptop in the backroom like any normal hotel would but they refused. When it came time to check into my room I was horrified. Both of my chairs were badly stained as was the bedskirt. I had to lay towels down on the chairs to feel comfortable sitting on them. My lampshade was also stained with what was either coffee or blood. I'm not sure which and didn't care to find out. At night you could either choose to freeze your butt off or turn on the ridiculously loud heater. The pipes and shower head had a lot of visible rust and the bathroom just didn't seem clean. This was one of the worst motel/hotels I've ever stayed in. I know you have to lower your standards when you go budget but this was just intolerable.  
+<Date>Jun 5, 2006
+<Rating>1	2	1	-1	1	-1	1	-1	
+<Aspects>
+14	2(night):1	50(bad):1	130(standard):1	167(choose):1	242(care):1	416(loud):1	429(budget):1	777(lour):1	991(motel):1	1321(freeze):1	2361(heater):1	2511(butt):1	2591(ridiculously):1	7805(intolerable):1	
+0	
+25	3(clean):1	5(time):1	13(bathroom):1	25(comfortable):1	32(check):1	34(feel):1	38(lot):1	61(shower):1	125(towel):1	169(sit):1	198(chair):2	249(luggage):1	255(store):1	319(head):1	696(lay):1	723(stain):1	878(normal):1	1103(refuse):1	1111(laptop):1	1545(contain):1	1663(badly):1	2067(pipe):1	2662(visible):1	3218(rust):1	4208(horrify):1	
+6	7(walk):1	32(check):2	53(arrive):1	69(tell):1	290(bag):1	8800(uw):1	
+10	8(day):1	9(service):1	65(visit):1	80(money):1	425(save):1	432(terrible):1	2381(university):1	2721(washington):1	3914(unclean):1	5059(campus):1	
+13	0(staff):1	7(walk):1	31(front):2	32(check):1	36(desk):2	193(person):1	295(name):1	453(okay):1	473(agree):1	792(office):1	810(empty):1	1195(hide):1	2395(tag):1	
+8	90(coffee):1	290(bag):1	571(word):1	723(stain):1	851(reach):1	1187(steal):1	2718(blood):1	8101(lampshade):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Don't Bother What a dump! The door to the room was warped and the room and hallway stunk big time. The bedding was stained as was the pillows and the box springs. Dirty room. The other one they offered was not any better. Was supposed to be a non-smoking room but couldn't tell it by me. We had reservations for 2 nights but could only tolerate one and that was only because we couldn't get our money back. Will never go back!  
+<Date>Jun 25, 2005
+<Rating>1	1	1	-1	1	-1	-1	-1	
+<Aspects>
+3	89(offer):1	307(bother):1	1449(dump):1	
+0	
+13	5(time):1	11(bed):1	54(door):1	69(tell):1	303(pillow):1	580(hallway):1	620(suppose):1	723(stain):1	945(box):1	978(nonsmoking):1	1162(spring):1	1796(stink):1	7470(warp):1	
+0	
+1	323(dirty):1	
+4	2(night):1	80(money):1	156(reservation):1	4239(tolerate):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Sub standard customer service The location of this Travelodge is right across the street from a great outdoor village mall. Also just a few mins. drive is a cool restaurant  shopping area near the university. The room itself is the usual standard motel amenities and furnishings. One thing that gave me a bad impression is that this particular branch does not honor those hotel discount coupons even when they have available rooms. The coupon indicates that the discount rate is avalable when there's vacancy. When I asked the bitter front desk person why they can't honor the coupon even when there's vacancy, he said that they have the discretion to decline the coupon (even thou it's valid),  if I'm interested in the room, it's $130++ per night. As if they're Hyatt.  
+<Date>Mar 3, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	247(min):1	924(hyatt):1	
+11	50(bad):1	78(rate):1	134(available):1	848(impression):1	864(discount):2	938(particular):1	1376(honor):1	1776(indicate):1	2106(coupon):2	5316(branch):1	5498(vacancy):1	
+5	130(standard):1	291(amenity):1	682(usual):1	870(furnishings):1	991(motel):1	
+16	1(location):1	9(service):1	10(restaurant):1	35(street):1	49(shop):1	102(near):1	130(standard):1	278(cool):1	298(drive):1	428(customer):1	643(mall):1	901(outdoor):1	1087(village):1	2381(university):1	3479(travelodge):1	4020(sub):1	
+0	
+12	2(night):1	31(front):1	36(desk):1	193(person):1	1376(honor):1	2106(coupon):2	2394(decline):1	4438(valid):1	5498(vacancy):1	5826(bitter):1	9037(discretion):1	9729(thou):1	
+0	
+0	
+

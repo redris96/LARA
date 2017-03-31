@@ -1,0 +1,616 @@
+<Author>FrequentPayer
+<Content>Solid 4 star quality We stayed at this hotel for a weekend in early June 2008. We booked 2 rooms at the hotel's website and were positively surprised to receive adjoining rooms, which was very handy when traveling exceptionally with two teenagers. The rooms are not large but adequate, bathrooms clean and tidy. 4*Front desk staff was very friendly and multilingual (at least French, English and German were covered at that time). The breakfast room is small, but so is the hotel, so there was no rush in the mornings. 4*The location is great with a short walk to the metro (Opera). We arrived at Gare de l'Est and took a taxi, which was obviously a mistake: the metro would have been quicker. Nice restaurants and bars in the vicinity (we ate once at the Asian across the street, very good). In short, a perfect choice for a weekend in Paris, maybe a bit pricey when compared to some other 4 star hotels, but the quiet location is well worth the extra money.  
+<Date>Nov 6, 2008
+<Rating>4	5	4	4	5	5	4	-1	
+<Aspects>
+0	
+18	1(location):1	52(bit):1	58(quiet):1	74(perfect):1	80(money):1	96(worth):1	103(star):2	107(choice):1	128(extra):1	144(short):1	172(weekend):2	187(quality):1	308(maybe):1	381(compare):1	403(paris):1	546(pricey):1	664(june):1	1617(solid):1	
+7	3(clean):1	6(breakfast):1	13(bathroom):1	56(morning):1	390(adequate):1	1100(tidy):1	1244(rush):1	
+11	1(location):1	7(walk):1	53(arrive):1	144(short):1	185(taxi):1	235(metro):2	299(quick):1	781(obviously):1	895(mistake):1	1374(opera):1	4794(gare):1	
+0	
+10	0(staff):1	5(time):1	12(friendly):1	31(front):1	36(desk):1	152(english):1	254(french):1	552(cover):1	1382(german):1	7394(multilingual):1	
+17	4(nice):1	10(restaurant):1	18(book):1	27(bar):1	35(street):1	47(eat):1	68(travel):1	199(surprise):1	262(website):1	302(receive):1	755(handy):1	1242(exceptionally):1	1328(asian):1	1412(adjoin):1	1594(teenager):1	2232(vicinity):1	4876(positively):1	
+0	
+
+<Author>thesean365
+<Content>Very Impressed. Good little hotel, we stayed for two nights and did not find any faults. Staff were helpful and friendly (plus spoke very good English). Our room was of reasonable size although the bathroom was a little on the small side, but was clean and fresh. Noise levels were low at night as well. We had to ask for tea and coffee making facilities in the room and the staff gladly provided them. Location wise, the hotel is a 10 minute walk from the Louvre, with plenty of cafe's around the hotel. We will definitely stay again.  
+<Date>Sep 16, 2008
+<Rating>5	5	4	4	5	5	5	-1	
+<Aspects>
+8	2(night):2	23(little):1	59(definitely):1	94(noise):1	306(level):1	343(impress):1	513(low):1	517(fault):1	
+0	
+6	3(clean):1	13(bathroom):1	23(little):1	83(size):1	197(fresh):1	273(reasonable):1	
+7	1(location):1	7(walk):1	29(minute):1	158(plenty):1	275(cafe):1	1676(wise):1	2137(louver):1	
+0	
+6	0(staff):1	12(friendly):1	14(helpful):1	127(speak):1	152(english):1	203(plus):1	
+6	0(staff):1	90(coffee):1	153(provide):1	211(facility):1	301(tea):1	2176(gladly):1	
+0	
+
+<Author>ck2001uk
+<Content>A nice, quiet little hotel This hotel is located just off the Avenue de l'Opera. Its location is very handy with the Rue de Rivoli (for the Louvre) at one end of Avenue de l'Opera and Boulevard Haussmann (for shopping) at the other end. We tended to catch a bus to the Louvre end as it is a steady 15 minute walk. The metro is also close by.The hotel itself is lovely - small with everything in excellent order. The room was compact but this is par for the course in Paris. We overlooked the street which was very quiet and peaceful. As to the mod cons in the room, the air conditioning was working perfectly and the internet access was problem free.I would definitely stay here again.Fun things we did during this trip included:- a Segway tour around Paris hotspots- lunch at Le Caf茅 Marly which is in the Richelieu wing of the Louvre Palace (its terrace is on the Cour Napol茅on and overlooks the Pyramid). Walk in like you own the place and you will be sure to get a table - however busy it looks- caf茅-cr猫me at the Mus茅e d'Orsay...head to the top of the Museum, near the Impressionist galleries and there you will find the Caf茅 des Hauteurs. There is a huge clock which faces out onto the Seine and on a clear day you have a great panoramic view- we lunched out at the Obelisque which is situated inside the Crillon Hotel on Place de la Concorde. Yes it is at a price but worth every lip smackingly delicious morsel. It is worth a visit just for the ambience alone. I felt like a pampered princess and I am still dreaming of my meal!  
+<Date>Sep 8, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	34(feel):1	59(definitely):1	65(visit):1	96(worth):1	213(meal):1	957(ambience):1	1239(princess):1	1256(dream):1	1815(pamper):1	
+5	19(price):1	96(worth):1	250(yes):1	485(delicious):1	5000(lip):1	
+41	8(day):1	17(view):1	33(trip):1	35(street):1	46(free):1	58(quiet):1	71(include):1	97(internet):1	133(huge):1	159(access):1	164(air):1	176(fun):1	181(tour):1	225(la):1	252(lunch):2	260(overlook):2	263(condition):1	293(course):1	403(paris):2	408(inside):1	574(situate):1	595(perfectly):1	642(palace):1	673(terrace):1	840(Con):1	1036(peaceful):1	1133(le):1	1291(clock):1	1515(wing):1	1666(par):1	2021(compact):1	2137(louver):1	2532(caf):1	3142(seine):1	3402(panoramic):1	4320(Mod):1	5563(concorde):1	5853(hotspot):1	6557(pyramid):1	7127(richelieu):1	11302(segway):1	
+37	1(location):1	4(nice):1	7(walk):2	20(look):1	21(excellent):1	23(little):1	28(close):1	29(minute):1	49(shop):1	58(quiet):1	84(locate):1	87(lovely):1	102(near):1	118(top):1	120(bus):1	166(own):1	220(busy):1	229(table):1	235(metro):1	319(head):1	507(museum):1	540(catch):1	755(handy):1	1053(tend):1	1090(avenue):2	1374(opera):1	1794(gallery):1	1945(rue):1	2137(louver):2	2532(caf):2	2631(des):1	2931(boulevard):1	5510(steady):1	5560(rivoli):1	8219(orsay):1	10297(mu):1	10909(cr):1	
+0	
+0	
+0	
+0	
+
+<Author>Co.DownBill
+<Content>Good sight seeing break to Paris       The bedroom  
+<Date>Jul 17, 2008
+<Rating>5	5	4	5	5	5	5	4	
+<Aspects>
+0	
+0	
+4	228(break):1	268(bedroom):1	403(paris):1	411(sight):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>JeanetteM
+<Content>2nd Stay This is our second visit, our first only a few months ago and we were impressed enough to go back. This time our allocated room was on the 6th floor (attic) and was very light quite different from the dark room we had in November. Bathroom layout also much better. Lots of good places to eat nearby. All in all another good experience.  
+<Date>May 18, 2008
+<Rating>5	4	4	4	5	4	4	-1	
+<Aspects>
+8	38(lot):1	47(eat):1	65(visit):1	232(nearby):1	343(impress):1	388(month):1	633(ago):1	1326(2nd):1	
+1	44(experience):1	
+10	5(time):1	13(bathroom):1	24(floor):1	157(light):1	459(dark):1	999(november):1	1453(layout):1	1869(6th):1	1974(allocate):1	4172(attic):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>KariMetzger
+<Content>Good Hotel, not fantastic We stayed at this hotel for 2 nights, in mid march of 08. The hotel is clean, and looks nice in the lobby, and we were happy enough with our room, which featured a HUGE king bed and enormous bathroom. I do agree with the woman who said the decor was dark, but we did think it interesting, as it was in a bit of the 'old style' tapestry - you could envision yourself in bed under the old style of curtains and canopies, if you were inclined. The breakfast was good - we've enjoyed better at the Mercure, with more options, but it was satisfying enough. The 'snacks' you can get in the lobby dining area are outrageously expensive, so go walking to find food if you can. Similarly, room service is no deal, with the tip adding onto every bill. The maids were very kind and gracious - rarely do I compliment the maid service, but they were truly very nice, even though we chose not to make use of their services (save the environment and all). The internet access fee was expensive - we didn't like that too much, and location wise, it was a little farther from the 'hub' than we would have liked, but the metro is so good, it doesn't matter. The staff seemed less than eager to help us poor non-French speakers (although we do limp by in French adequately). Other than that, it is Paris, and it is a clean room. I wouldn't steer you away from it!  
+<Date>Mar 20, 2008
+<Rating>4	3	5	4	5	4	4	3	
+<Aspects>
+5	2(night):1	86(fantastic):1	615(march):1	1313(mid):1	3591(steer):1	
+0	
+30	3(clean):2	4(nice):1	9(service):1	11(bed):2	13(bathroom):1	20(look):1	52(bit):1	55(lobby):1	133(huge):1	140(deal):1	155(happy):1	194(tip):1	243(king):1	269(decor):1	326(style):2	351(add):1	403(paris):1	459(dark):1	473(agree):1	495(bill):1	566(woman):1	576(yourself):1	731(feature):1	743(curtain):1	1625(enormous):1	3299(similarly):1	3642(incline):1	3790(canopy):1	9606(envision):1	10814(tapestry):1	
+0	
+0	
+8	0(staff):1	92(help):1	254(french):1	331(poor):1	1604(eager):1	2398(speaker):1	3239(adequately):1	10906(limp):1	
+22	4(nice):1	6(breakfast):1	7(walk):1	9(service):2	16(food):1	51(enjoy):1	55(lobby):1	124(expensive):1	167(choose):1	300(maid):2	316(dine):1	336(option):1	406(snack):1	425(save):1	476(truly):1	899(satisfy):1	1501(gracious):1	1712(environment):1	1791(rarely):1	2571(compliment):1	4403(outrageously):1	4518(mercure):1	
+10	1(location):1	23(little):1	97(internet):1	124(expensive):1	159(access):1	235(metro):1	531(matter):1	584(fee):1	1676(wise):1	3027(hub):1	
+
+<Author>BurstYourBubble
+<Content>Beautiful very clean hotel Just got back from Rome this evening. We stayed at the Best Western. It was a beautiful hotel, very handy for the metro (between Opera and Quatre Septembre). It is down a nice quiet road called Rue D'Antin a few hundred yards from the magnificent Opera house. There wasn't a sound at night. We were on the fifth floor. Staff were courteous and polite. The breakfast was nice. It was continental style - not what Irish people normally like but still very good for what it was. Lovely bread, cakes, ham and fresh fruit as well. I have only one minor complaint. When I got the bill, there was about 鈧?5 worth of mini bar items on the bill that we never even used. This was rectified however. I would have no hesitation in recommending this hotel. It is lovely. The rooms are gorgeous and so is the lobby and bar area.  
+<Date>Mar 13, 2008
+<Rating>4	4	5	5	5	4	5	-1	
+<Aspects>
+9	2(night):1	15(recommend):1	87(lovely):1	190(complaint):1	409(sound):1	720(minor):1	1015(western):1	1373(hesitation):1	2943(rectify):1	
+0	
+12	4(nice):1	24(floor):1	58(quiet):1	67(call):1	230(road):1	281(house):1	1307(yard):1	1374(opera):1	1405(magnificent):1	1832(fifth):1	1945(rue):1	2206(hundred):1	
+9	26(people):1	45(beautiful):1	235(metro):1	326(style):1	372(continental):1	755(handy):1	1091(normally):1	1374(opera):1	2347(irish):1	
+3	3(clean):1	45(beautiful):1	2185(rome):1	
+3	0(staff):1	422(polite):1	483(courteous):1	
+15	4(nice):1	6(breakfast):1	27(bar):2	55(lobby):1	87(lovely):1	96(worth):1	197(fresh):1	215(fruit):1	446(gorgeous):1	448(mini):1	495(bill):2	497(bread):1	519(item):1	1029(cake):1	1561(ham):1	
+0	
+
+<Author>ClareandChris
+<Content>Wonderful, quiet location in the heart of Paris The hotel is located just off the Avenue d'Opera very conveniently for the metro, taxis and buses. It is within easy walking distance of the Louvre and other central sights.The hotel was amazingly quiet - we had a fifth floor room and slept with the window open (it was very hot with the window closed). The room was clean, with a huge six foot bed; bathroom tiled and spotless, good power shower and all the usual freebies. Welcome addition was a bathrobe and a free safe (credit card used as a swipe card).Breakfast was continental but all very fresh products, restocked regularly. Staff were very helpful indeed both in the breakfast area and on reception. Reception staff speak excellent English.Lifts are very slow - but hey, you are on holiday, who cares about the speed of the lifts! Lots of places to eat on the Avenues which spin out from the Opera (within five minutes) but ask at reception if you want a small and intimate restaurant - they will call ahead and book for you.We really enjoy Paris and can recommend the Seine Dinner Cruise - Bateaux Parisians - the food was outstanding, the price included two bottles of wine and an apperitif, excellent waiter service and live music. The perfect place to propose if you have that in mind! We also took in a show and can recommend the Lido for spectacular fun. This year we travelled out to La Defense which was fascinating with innovative buildings and eirily quiet, you just have to experience it as a contrast to the city centre.Don't bother with the Paris Visite card unless you want to cram in every museum in a very short time - buy a set of 10 metro tickets (which you can use on buses), you can get these at metro stations and at the Gare de Nord (if you are sensibly arriving on Eurostar - which we cannot recommend highly enough).Have fun and enjoy.  
+<Date>Feb 21, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+16	15(recommend):1	46(free):1	51(enjoy):1	74(perfect):1	137(safe):1	176(fun):2	202(welcome):1	292(card):2	294(mind):1	656(spectacular):1	659(credit):1	918(addition):1	1529(bathrobe):1	4077(swipe):1	4738(propose):1	7083(lido):1	
+11	41(city):1	44(experience):1	58(quiet):1	68(travel):1	101(center):1	225(la):1	745(building):1	2835(contrast):1	3417(fascinate):1	6543(defence):1	7432(innovative):1	
+25	3(clean):1	7(walk):1	11(bed):1	13(bathroom):1	24(floor):1	28(close):1	58(quiet):1	61(shower):1	93(easy):1	104(sleep):1	114(hot):1	115(distance):1	119(window):2	133(huge):1	168(central):1	402(foot):1	411(sight):1	548(spotless):1	682(usual):1	846(tile):1	1276(power):1	1832(fifth):1	1846(amazingly):1	2137(louver):1	5190(freeby):1	
+40	1(location):1	5(time):1	10(restaurant):1	15(recommend):1	18(book):1	29(minute):1	38(lot):1	47(eat):1	48(wonderful):1	53(arrive):1	58(quiet):1	67(call):1	82(station):1	84(locate):1	120(bus):2	129(reception):1	138(highly):1	144(short):1	185(taxi):1	234(set):1	235(metro):3	280(buy):1	292(card):1	307(bother):1	403(paris):2	405(unless):1	450(heart):1	507(museum):1	621(ticket):1	976(ahead):1	1070(conveniently):1	1090(avenue):2	1374(opera):1	1812(intimate):1	3152(cram):1	4638(nord):1	4794(gare):1	4967(eurostar):1	5591(spin):1	12844(visite):1	
+0	
+8	0(staff):2	6(breakfast):1	14(helpful):1	21(excellent):1	127(speak):1	129(reception):2	152(english):1	990(indeed):1	
+25	6(breakfast):1	9(service):1	15(recommend):1	16(food):1	19(price):1	21(excellent):1	51(enjoy):1	71(include):1	117(dinner):1	197(fresh):1	206(live):1	238(bottle):1	251(wine):1	372(continental):1	398(music):1	403(paris):1	534(outstanding):1	603(cruise):1	735(waiter):1	1081(product):1	1881(regularly):1	2118(restock):1	3142(seine):1	7396(parisians):1	12650(bateau):1	
+6	223(holiday):1	242(care):1	455(slow):1	591(lift):2	1170(speed):1	1367(hey):1	
+
+<Author>guajaan
+<Content>Loved our stay here! We really enjoyed our stay at this hotel. We arrived before check in and the staff let us check in early. They were very helpful during our visit and their English was very good. The hotel and rooms were very clean, whole hotel was renovated recently, and it was in a good neighborhood. Rooms are small compared to US standards, but perfect for a week long trip. Breakfast was very good, if you didn鈥檛 want to go downstairs, they did offer free room delivery for just beverages and pastries. Dinner room service was very tasty and the service was very quick. We really enjoyed our stay here and we鈥檇 recommend it to anyone. We鈥檒l definitely be back to stay here again.  
+<Date>Feb 19, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+7	14(helpful):1	15(recommend):1	40(love):1	51(enjoy):2	59(definitely):1	65(visit):1	152(english):1	
+0	
+17	3(clean):1	6(breakfast):1	33(trip):1	46(free):1	74(perfect):1	75(week):1	89(offer):1	130(standard):1	322(recently):1	381(compare):1	421(neighbourhood):1	533(renovate):1	652(pastry):1	691(downstairs):1	1022(didn):1	1334(beverage):1	2152(delivery):1	
+0	
+0	
+3	0(staff):1	32(check):2	53(arrive):1	
+4	9(service):2	117(dinner):1	299(quick):1	984(tasty):1	
+0	
+
+<Author>xleo68
+<Content>Great choice! Excelent choice in Paris, as part of owr honeymoon. Great location, as a base center for Paris: in the middle of Paris, close to the metro and bus stops, restaurants, shopping... Rooms really small but confortable, clean, quiet, nicely decorated. Definitively recommendable.  
+<Date>Jan 18, 2008
+<Rating>4	4	4	5	4	5	4	-1	
+<Aspects>
+2	6371(recommendable):1	7253(definitively):1	
+4	107(choice):2	403(paris):1	502(honeymoon):1	3835(excelent):1	
+0	
+16	1(location):1	3(clean):1	10(restaurant):1	28(close):1	49(shop):1	58(quiet):1	101(center):1	120(bus):1	122(stop):1	235(metro):1	284(base):1	305(decorate):1	325(middle):1	403(paris):2	404(nicely):1	2435(confortable):1	
+0	
+0	
+0	
+0	
+
+<Author>nimanos
+<Content>Really nice hotel at a really nice location!       Us outside the Opera  
+<Date>Jan 15, 2008
+<Rating>4	4	4	5	5	5	5	4	
+<Aspects>
+0	
+0	
+0	
+4	1(location):1	4(nice):2	98(outside):1	1374(opera):1	
+0	
+0	
+0	
+0	
+
+<Author>Lisa_and_Mike
+<Content>A Little Gem in a Great Location! My husband and I stayed at the L'Horset Opera for 5 nights during Christmas (23rd to 28th December 2007) and had a fabulous time.The hotel room was on the small side but we had a large kingsize bed with clean crisp white sheets and it was very comfortable. The room was very clean and the air conditioning/temperature control worked very well. The room was also very quiet. We stayed on the 6th floor which was a none smoking floor. My only complaint would be the lack of drawer space as I prefer to unpack everything rather than live out of the suitcase. Also the bath was on the small side but had an over bath shower and also a hand held shower with constant hot water. The room was perfect after a days sightseeing.As mentioned by other reviewers, the location was excellent, very close to the Galleries Lafayette and of course the Opera. We travelled around on foot (Concorde and Place Vendome were within easy walking distance) and also used the Metro - we purchased a 5 day ticket from the Tourist Information and we got some good maps from them too.The facilities in the hotel were fine, breakfast as expected, continental with freshly squeezed orange juice. The staff were very friendly and helpful and were able to deal with all our requests (kingsized bed, extra coathangers, toast with breakfast and booking taxis) and I am sure they would have been able to assist with other things had we required them.This hotel does not have any additional facilities such as a pool or a gym, but has a relaxed atmosphere and a more personal touch than some of the larger hotels.We took a taxi from Chales de Gaulle and it cost around 40 euros (50 euros on the way back due to traffic). We had originally planned to use the train but a lot of people were stood up and we had a lot of bags and just thought a taxi would be the easiest option.I would recommend this hotel and would stay there again.  
+<Date>Jan 2, 2008
+<Rating>4	4	4	5	5	5	5	4	
+<Aspects>
+1	15(recommend):1	
+0	
+32	3(clean):2	8(day):1	11(bed):1	24(floor):2	25(comfortable):1	57(water):1	58(quiet):1	61(shower):2	74(perfect):1	114(hot):1	164(air):1	190(complaint):1	206(live):1	210(space):1	226(bath):2	349(lack):1	377(hand):1	466(white):1	468(smoke):1	479(sheet):1	536(prefer):1	573(none):1	593(hold):1	640(sight-see):1	865(control):1	974(suitcase):1	1426(drawer):1	1432(constant):1	1869(6th):1	2179(unpack):1	2293(crisp):1	3778(kingsize):1	
+47	1(location):2	2(night):1	5(time):1	7(walk):1	8(day):1	21(excellent):1	23(little):1	26(people):1	28(close):1	38(lot):2	68(travel):1	93(easy):2	105(husband):1	115(distance):1	175(cost):1	182(train):1	185(taxi):2	209(tourist):1	221(plan):1	235(metro):1	244(mention):1	256(euro):2	259(due):1	270(fabulous):1	290(bag):1	293(course):1	336(option):1	402(foot):1	444(stand):1	486(traffic):1	564(reviewer):1	621(ticket):1	649(information):1	724(map):1	805(gem):1	887(purchase):1	962(christmas):1	993(december):1	1300(originally):1	1374(opera):2	1794(gallery):1	2668(28th):1	4092(lafayette):1	5123(23rd):1	5563(concorde):1	5915(gaulle):1	7284(vendome):1	
+0	
+0	
+30	0(staff):1	6(breakfast):2	11(bed):1	12(friendly):1	14(helpful):1	18(book):1	22(pool):1	62(expect):1	113(fine):1	128(extra):1	140(deal):1	148(request):1	160(relax):1	171(able):2	185(taxi):1	211(facility):2	279(touch):1	362(juice):1	372(continental):1	414(atmosphere):1	523(gym):1	711(personal):1	722(require):1	835(additional):1	875(toast):1	1104(orange):1	1265(assist):1	1775(freshly):1	1963(squeeze):1	3778(kingsize):1	
+0	
+
+<Author>Jayare14
+<Content>Very nice hotel Stayed for three nights 鈥?Dec 14-17th. Booked on package with Eurostar 鈥?Damn their move to St Pancras. For anyone coming up from the South of England it's a pain. Beautiful building, but not a patch on Waterloo for ease of use. A most user unfriendly place with lousy sign-age. Thank goodness the staff are obliging.Anyway, back to the hotel. Excellent location in the centre of the Opera district of Paris. However, taxi driver didn't know where it was. After many about turns, and reversing after going down a one way street the wrong way, he found it. (Not in the same league as London cabbies).Very welcoming and helpful English speaking staff. Size of room was average with fair sized wardrobe with built-in safe. Good sized dressing table with drawers for storage. Very comfortable bed, but only one armchair. Good range of international programmes on TV with speaker in bathroom.Very clean and well appointed bathroom, with bath, with fixed and hand held shower overhead. Good range of toiletries. Towels and sheets changed daily.Heating only by air conditioning unit. Very quiet, but if fan turned off, no heating. But with outdoor temperatures at around 0潞 c, rooms held heat well, except for our friends on the top (6th) floor. No kettle or welcome tray, but 24hr room service for light meals and snacks. The included continental breakfast arrangement was very nice, with a good range of food to choose from.The only problem, was a horrible smell on entering our room on the fifth floor. It was either the drains or the air-con. Not bad enough to spoil our stay, but would have asked for a change of room had we stayed any longer. To be fair, Paris can be a pretty smelly place anyway. I often wondered why Parisians are so keen on smoking fowl smelling cigarettes and eating so much garlic. It covers a multitude of sins.  
+<Date>Dec 19, 2007
+<Rating>4	4	3	3	5	2	4	4	
+<Aspects>
+21	2(night):1	4(nice):1	45(beautiful):1	135(build):1	417(anyway):1	552(cover):1	697(london):1	769(south):1	1481(pain):1	1487(unfriendly):1	1508(dec):1	1970(england):1	2057(ease):1	2409(lousy):1	2756(user):1	3518(patch):1	4697(league):1	5627(multitude):1	7632(sin):1	8424(cabby):1	11519(waterloo):1	
+6	18(book):1	207(move):1	527(package):1	940(St):1	4176(damn):1	4967(eurostar):1	
+62	3(clean):1	9(service):1	11(bed):1	13(bathroom):2	24(floor):2	25(comfortable):1	50(bad):1	58(quiet):1	61(shower):1	83(size):3	109(pretty):1	116(tv):1	118(top):1	137(safe):1	146(friend):1	157(light):1	161(change):1	164(air):1	202(welcome):1	213(meal):1	226(bath):1	227(average):1	229(table):1	231(smell):1	263(condition):1	337(except):1	377(hand):1	403(paris):1	406(snack):1	417(anyway):1	494(fix):1	539(heat):3	544(horrible):1	579(appoint):1	593(hold):2	601(enter):1	657(toiletry):1	661(fan):1	714(range):2	739(fair):2	901(outdoor):1	903(international):1	935(dress):1	944(temperature):1	980(unit):1	1221(spoil):1	1311(storage):1	1426(drawer):1	1451(wardrobe):1	1489(drain):1	1531(program):1	1697(smelly):1	1767(tray):1	1832(fifth):1	1869(6th):1	1944(kettle):1	2398(speaker):1	3176(overhead):1	3349(air-con):1	3897(24hr):1	4772(armchair):1	5438(built-in):1	
+11	1(location):1	21(excellent):1	35(street):1	101(center):1	185(taxi):1	403(paris):1	427(wrong):1	433(district):1	563(driver):1	1374(opera):1	4590(reverse):1	
+8	47(eat):1	231(smell):1	468(smoke):1	946(wonder):1	1365(cigarette):1	2641(keen):1	4596(garlic):1	7396(parisians):1	
+8	0(staff):2	14(helpful):1	127(speak):1	152(english):1	202(welcome):1	271(thank):1	2302(goodness):1	2709(oblige):1	
+12	4(nice):1	6(breakfast):1	16(food):1	71(include):1	125(towel):1	161(change):1	167(choose):1	360(daily):1	372(continental):1	479(sheet):1	714(range):1	1415(arrangement):1	
+0	
+
+<Author>Nidgehammer
+<Content>Just can't understand the fuss I really can't. This is a very average hotel with probably the tiniest room I've ever stayed in, why are people rating it at 5.? Agreed, the location is decent - very central if you think of Opera as central and it is just off the main road but the prices are extortionate.! I got a deal through Octopus but it was still too expensive, must be the 4* rating which in my view is a joke.I've stayed in Paris more than 100 times in the past 15 years, both on business and with my wife so I know most areas, prices and many hotels and believe me, this one isn't in the top 20 I've stayed at. It's clean and it's er, central (did I mention that.?), other than that I can think of no other plusses. Oh, and a vodka tonic and a brandy cost over 拢15 in the bar.Would never return (why do I always burn my bridges.??).  
+<Date>Nov 18, 2007
+<Rating>2	1	2	4	4	3	3	3	
+<Aspects>
+6	39(return):1	203(plus):1	391(understand):1	740(bridge):1	1289(burn):1	2205(fuss):1	
+19	5(time):1	17(view):1	19(price):1	27(bar):1	78(rate):1	118(top):1	124(expensive):1	140(deal):1	147(business):1	175(cost):1	184(wife):1	312(believe):1	403(paris):1	419(past):1	1175(joke):1	2798(vodka):1	4561(tonic):1	5209(octopus):1	6369(brandy):1	
+5	26(people):1	78(rate):1	178(probably):1	227(average):1	338(tiny):1	
+9	1(location):1	19(price):1	112(main):1	168(central):2	230(road):1	257(decent):1	473(agree):1	1374(opera):1	5932(extortionate):1	
+4	3(clean):1	168(central):1	244(mention):1	5661(er):1	
+0	
+0	
+0	
+
+<Author>JeanettefromGlasgow
+<Content>Great Location Stayed three nights 3rd - 6 November 2007. Hotel is in a really good and quiet position. Breakfast was adequate usual continental fare although the breakfast room was pretty tiny. Room was nice although a little dark for my taste. Bathroom okay with separate toilet area which was fine if you were small but if you were slightly larger it would be a tight squeeze. The staff are very good, extremely polite and accommodating. All in all a good hotel and we would have no hesitation in returning.  
+<Date>Nov 9, 2007
+<Rating>4	4	4	5	4	5	4	-1	
+<Aspects>
+2	39(return):1	1373(hesitation):1	
+4	0(staff):1	110(extremely):1	422(polite):1	624(accommodate):1	
+21	4(nice):1	6(breakfast):2	13(bathroom):1	23(little):1	58(quiet):1	109(pretty):1	113(fine):1	330(toilet):1	338(tiny):1	372(continental):1	390(adequate):1	439(taste):1	453(okay):1	459(dark):1	474(separate):1	598(slightly):1	682(usual):1	1093(position):1	1112(fare):1	1399(tight):1	1963(squeeze):1	
+4	1(location):1	2(night):1	999(november):1	2097(3rd):1	
+0	
+0	
+0	
+0	
+
+<Author>Karenthelibrarian
+<Content>Great Hotel! It was a great hotel. It had everything. Breakfast was good, with cereal, yogurt, pastries, etc. The staff were nice. The room was good. The twin beds were kind of close, but we were in Paris. (And the hotel rooms are small in Paris.) The bathroom was ok. The tub was hard to get out of. (I am disabled and my Mom is older, if that makes a difference.) We had an ok time in Paris, but won't be going back soon. It was raining when we were there, as well as a taxi strike.  
+<Date>Oct 21, 2007
+<Rating>5	4	4	4	5	4	4	-1	
+<Aspects>
+10	5(time):1	123(ok):1	162(hard):1	311(tub):1	403(paris):1	418(soon):1	487(wo):1	819(difference):1	1855(mom):1	3535(disable):1	
+0	
+6	11(bed):1	13(bathroom):1	28(close):1	123(ok):1	403(paris):2	690(twin):1	
+3	185(taxi):1	581(rain):1	1957(strike):1	
+0	
+2	0(staff):1	4(nice):1	
+5	6(breakfast):1	73(etc):1	529(cereal):1	652(pastry):1	927(yogurt):1	
+0	
+
+<Author>JamesRye
+<Content>Great Weekend in Paris We selected this hotel on the basis of the rave reviews on Trip Advisor and were not disappointed. We will definitely be going there again. The hotel itself was excellent. It was clean, luxurious for its class, comfortable, and very friendly. The rooms have air-conditioning. The staff spoke English fluently and were very helpful. We really gained the impression that we were important guests rather than an inconvenient annoyance interrupting the staff's day.The location was just what we wanted. The hotel is located in a quiet street near one of the main boulevards. The art galleries, Tuilleries, and the river were within easy walking distance. There is good shopping near by, and if you want it, the Opera House is just round the corner.There were plenty of French cafes in the area and a full range of Japonese, Korean, and Italian restaurants.If you only have time for one museum, the Musee d'Orsee is a must. Entrance to the Musee d'Orsee is free on the first Sunday of every month, but make sure you get there early. Admire the Louvre buildings from the outside, but don't bother fighting the crowds inside unless there is something specific that you want to see. The Picasso Museum is a hidden gem, and well worth the walk.  
+<Date>Sep 4, 2007
+<Rating>5	5	4	5	5	5	5	-1	
+<Aspects>
+11	21(excellent):1	33(trip):1	37(review):1	59(definitely):1	154(disappoint):1	172(weekend):1	403(paris):1	701(advisor):1	1294(select):1	1527(basis):1	1581(rave):1	
+0	
+11	98(outside):1	307(bother):1	313(crowd):1	405(unless):1	408(inside):1	745(building):1	1759(fight):1	1848(specific):1	2137(louver):1	2284(air conditioning):1	4731(admire):1	
+25	1(location):1	5(time):1	7(walk):2	35(street):1	49(shop):1	58(quiet):1	84(locate):1	93(easy):1	96(worth):1	102(near):2	112(main):1	115(distance):1	200(corner):1	281(house):1	507(museum):2	710(river):1	789(art):1	805(gem):1	1195(hide):1	1374(opera):1	1794(gallery):1	2931(boulevard):1	5022(musee):1	5283(picasso):1	10725(tuillery):1	
+5	3(clean):1	12(friendly):1	25(comfortable):1	470(class):1	708(luxurious):1	
+17	0(staff):2	8(day):1	14(helpful):1	46(free):1	91(guest):1	127(speak):1	152(english):1	388(month):1	490(entrance):1	844(sunday):1	848(impression):1	2301(inconvenient):1	2722(gain):1	2966(annoyance):1	4130(interrupt):1	5022(musee):1	5068(fluently):1	
+7	10(restaurant):1	158(plenty):1	254(french):1	275(cafe):1	358(italian):1	714(range):1	5436(korean):1	
+0	
+
+<Author>OxfordshireMuse
+<Content>A great hotel I booked this hotel on the strength of the TripAdvisor reviews and was not disappointed. As already described by many, the hotel staff are wonderful and extremely helpful. Our room, although small, was very comfortable and quiet - we had enormous difficulty getting out of bed in the morning! Breakfast was very good - although Continental, you can ask for toast and also, for a supplement, omelettes, etc. The location was brilliant in the respect of easy walking distance to the Louvre, Mus茅e de l鈥橭rangerie and even the Mus茅e d'Orsay. There were also a huge choice of restaurants in close proximity and we were truly spoilt for choice.A real gem of a hotel and one I would highly recommend.  
+<Date>Aug 30, 2007
+<Rating>5	5	4	5	5	5	5	-1	
+<Aspects>
+0	
+7	10(restaurant):1	28(close):1	107(choice):2	133(huge):1	476(truly):1	1114(proximity):1	1221(spoil):1	
+6	11(bed):1	25(comfortable):1	56(morning):1	58(quiet):1	1625(enormous):1	1777(difficulty):1	
+9	1(location):1	7(walk):1	93(easy):1	115(distance):1	793(brilliant):1	1389(respect):1	2137(louver):1	8219(orsay):1	10297(mu):2	
+0	
+5	0(staff):1	14(helpful):1	48(wonderful):1	110(extremely):1	955(describe):1	
+15	6(breakfast):1	15(recommend):1	18(book):1	37(review):1	73(etc):1	138(highly):1	154(disappoint):1	240(real):1	372(continental):1	597(tripadvisor):1	805(gem):1	875(toast):1	2172(omelette):1	3283(strength):1	5178(supplement):1	
+0	
+
+<Author>paddyoBirmingham
+<Content>5 Nights At The Opera Stayed there after looking at TripAdvisor reviews for my partners 50th birthday. Can only endorse previous reviews - excellent hotel in quiet street in central location.Staff very helpful and friendly and rooms small as expected but very comfortable. Breakfast - a bonus in Paris - very good.Would definitely stay there again - don`t bother with Harrys Bar nearby - our only experience of arrogance and rudeness in this wonderful city!  
+<Date>Aug 25, 2007
+<Rating>5	5	4	5	5	5	5	4	
+<Aspects>
+0	
+10	27(bar):1	41(city):1	44(experience):1	48(wonderful):1	59(definitely):1	232(nearby):1	307(bother):1	908(don):1	3647(rudeness):1	7193(arrogance):1	
+5	0(staff):1	12(friendly):1	14(helpful):1	25(comfortable):1	62(expect):1	
+15	1(location):1	2(night):1	20(look):1	21(excellent):1	35(street):1	37(review):2	58(quiet):1	168(central):1	373(previous):1	597(tripadvisor):1	765(birthday):1	1006(partner):1	1374(opera):1	3025(50th):1	7531(endorse):1	
+0	
+0	
+3	6(breakfast):1	403(paris):1	849(bonus):1	
+0	
+
+<Author>Avenger999
+<Content>A jewel of a hotel If you can't decide whether to stay on the left or right bank, and you want a peaceful night's sleep with breakfast included in the room rate, choose this hotel. Situated in a quiet side street off Avenue de l'Opera, It's just ten minutes walk to Galeries Lafayette in one direction and about 15 minutes to the Left Bank in the other. The hotel itself is charming. Unlike many hotels where the lobby is an impersonal space, L'horset has a softly-lit seating area to your right with two large comfy sofas, potted plants and even a collection of books where you can sit and relax after a day's hard sight-seeing. The barman will bring coffee or other drinks here, or - if you can manage without a sofa - you can sit in the bar which is just as cosy and even serves light meals if you are too tired to go out. It's not great cuisine but it's a lot better than the burgers and chips served up by many a bar in British hotels. Again, unlike many hotels where all the expense has gone on decorating the public areas, this hotel's charm doesn't stop at the elevator doors. The upstairs corridors have fabric-lined walls above wood panelling and this continues into the bedrooms, all of which have their own fabric style. Ours was Willow Pattern in red and ochre. The bathroom was completely tiled in marble, both walls and floor. The overbath showerhad both a fixed head and a handset, very handy for hairwashing. I do have a few quibbles. The bedrooms are small - some might say poky - and there is little closet space. This may not matter if you are staying just a couple of nights, but 4 double coat-hangers seems a little stingy for a hotel claiming to be 4-star. The face cloths were thin, disposable mitts - rather like the ones for polishing shoes. Terry ones would have been more approprate. We asked for tea-making facilities (as offered) and while these were provided, the supplies of milk, etc were never replenished. Nor were there any biscuits. The room had a slight smell to it as though someone had been smoking, despite the fact that it was a non-smoking floor. We felt that maybe the bedcover and curtains were in need of a clean.However, these are small complaints in what was otherwise a very pleasant experience. Other reviewers have mentioned the friendly staff and I can only add to that. We were impressed by the calm efficiency and the way everything was done with the minimum of fuss and dispruption. We would cerrtainly stay there again.  
+<Date>Aug 23, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+18	332(charm):1	343(impress):1	590(red):1	754(thin):1	843(ours):1	970(nor):1	1155(calm):1	1191(shoe):1	1864(cloth):1	2124(minimum):1	2205(fuss):1	2699(polish):1	2889(biscuit):1	3547(efficiency):1	3638(quibble):1	4472(terry):1	4483(pattern):1	5057(disposable):1	
+12	2(night):1	23(little):1	44(experience):1	99(couple):1	150(pleasant):1	179(double):1	190(complaint):1	508(otherwise):1	531(matter):1	1077(claim):1	2254(4-star):1	5206(stingy):1	
+51	2(night):1	3(clean):1	6(breakfast):1	13(bathroom):1	23(little):1	24(floor):2	34(feel):1	43(leave):1	54(door):1	71(include):1	78(rate):1	104(sleep):1	122(stop):1	166(own):1	167(choose):1	183(wall):2	210(space):1	216(elevator):1	219(decide):1	231(smell):1	268(bedroom):2	305(decorate):1	308(maybe):1	319(head):1	326(style):1	332(charm):1	379(public):1	468(smoke):1	494(fix):1	498(despite):1	542(completely):1	565(closet):1	705(marble):1	743(curtain):1	755(handy):1	846(tile):1	978(nonsmoking):1	1036(peaceful):1	1073(corridor):1	1096(continue):1	1163(unlike):1	1225(bank):1	1297(slight):1	1327(wood):1	1358(upstairs):1	2058(expense):1	2134(panel):1	2804(jewel):1	3381(fabric):1	8481(poky):1	9754(bedcover):1	
+11	7(walk):1	29(minute):2	35(street):1	43(leave):1	58(quiet):1	395(direction):1	574(situate):1	1090(avenue):1	1225(bank):1	4092(lafayette):1	11869(galery):1	
+0	
+5	0(staff):1	12(friendly):1	244(mention):1	351(add):1	564(reviewer):1	
+39	8(day):1	18(book):1	27(bar):2	38(lot):1	55(lobby):1	63(drink):1	73(etc):1	89(offer):1	90(coffee):1	142(bring):1	153(provide):1	157(light):1	160(relax):1	162(hard):1	169(sit):2	174(serve):2	210(space):1	211(facility):1	213(meal):1	454(tire):1	475(comfy):1	504(seat):1	640(sight-see):1	645(manage):1	749(cozy):1	842(sofa):2	859(supply):1	1116(milk):1	1157(burger):1	1163(unlike):1	1302(chip):1	1447(pot):1	1717(cuisine):1	1808(replenish):1	1906(plant):1	2407(british):1	2694(collection):1	2754(impersonal):1	3315(barman):1	
+0	
+
+<Author>Tukas
+<Content>Excellent Service - can't go wrong with this one With a 6 month old baby in tow we stayed for 4 nights and cannot speak highly enough of the effort the hotel made to make us comfortable. From the basics of providing a cot for the little one to taking the trouble to see if we needed a kettle or warmed milk etc. Otherwise the room was clean, comfortably furnished, TV had 20 odd channels with news in various languages including CNN, BBC News 24. The continental buffet breakfast was varied and more than adequate to see you through to lunchtime!! Most importantly for us, we were on the 5th floor and there was virtually no street noise in the room at night (unlike many hotels in Paris). The staff were very helpful (we had both the porter and the housekeeping supervisor ask if we needed any thing for the baby) and our questions were dealt with in a friendly manner.The location is also good - 10 mins walk from the Louvre and 2 mins from the Opera, 10 mins max to Galarie Layfayette. Many restaurants nearby offering French, Italian, Lebanese cuisine and beyond.  
+<Date>Aug 15, 2007
+<Rating>5	5	4	5	4	5	5	-1	
+<Aspects>
+9	23(little):1	73(etc):1	153(provide):1	236(warm):1	569(trouble):1	1116(milk):1	1944(kettle):1	2469(basics):1	2491(cot):1	
+0	
+32	0(staff):1	2(night):1	3(clean):1	12(friendly):1	14(helpful):1	24(floor):1	35(street):1	71(include):1	94(noise):1	116(tv):1	140(deal):1	367(housekeeping):1	394(question):1	403(paris):1	508(otherwise):1	698(language):1	741(channel):1	787(furnish):1	823(various):1	839(5th):1	1088(odd):1	1163(unlike):1	1304(baby):1	1653(porter):1	1721(manner):1	1725(news):2	1892(virtually):1	1996(importantly):1	2101(cnn):1	2155(comfortably):1	2997(bbc):1	3201(supervisor):1	
+6	1(location):1	7(walk):1	247(min):3	1374(opera):1	2137(louver):1	2169(max):1	
+0	
+0	
+24	2(night):1	6(breakfast):1	9(service):1	10(restaurant):1	21(excellent):1	25(comfortable):1	77(buffet):1	89(offer):1	127(speak):1	138(highly):1	232(nearby):1	254(french):1	358(italian):1	372(continental):1	388(month):1	390(adequate):1	427(wrong):1	738(beyond):1	1017(effort):1	1304(baby):1	1578(varied):1	1717(cuisine):1	3574(tow):1	3990(lunchtime):1	
+0	
+
+<Author>Tinkerbell_23_Fife
+<Content>Perfect Base, Perfect Place       Enterance  
+<Date>Aug 4, 2007
+<Rating>5	3	5	5	5	5	4	-1	
+<Aspects>
+3	74(perfect):2	284(base):1	7865(enterance):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>poodah329
+<Content>A Great Parisian Experience!!! The Best Western L'Horset Opera was a great place with the best location! I thoroughly researched this hotel before I selected it for a trip to Paris in which I took my mom. This was a very important trip for me as I wanted my mom to have the best time ever. The staff understood my concerns and were great and very friendly. The tourist help was great. There was one person in particular, Catherine, who was so very nice. Even though her English was limited, she would say Hi to my mom and I and personally bring little treats to our room.Our room was nice. The bathrooms, though luxurious, are small so be prepared. However, the room was kept spotless and was in very, very good condition -- truly the caliber of a 4 star hotel.The location was excellent! It was about a ten minute walk from the Louvre (no joke!) and close to the metro and RER lines. The Paris metro system is so very easy to learn so don't be intimidated to try it because you really get a chance to experience Paris in a less touristy way and most of the people there do speak a bit of English. One tip I have for travelers is to try and learn a little bit of French instead of just speaking English. Say Bonjour and Au revoir instead of just saying Hello and go off into your questions. It is really appreciated by native Parisians and enhances your experience.Once again, this trip with my mom was unforgettable and the Best Western L'Horset Opera had a great deal to do with that. Thank you L'Horset!  
+<Date>Jul 10, 2007
+<Rating>4	4	4	4	5	4	5	-1	
+<Aspects>
+13	4(nice):1	5(time):1	33(trip):2	92(help):1	193(person):1	209(tourist):1	271(thank):1	403(paris):1	898(thoroughly):1	938(particular):1	1024(research):1	1294(select):1	1855(mom):2	
+24	26(people):1	44(experience):3	52(bit):1	76(try):1	93(easy):1	103(star):1	127(speak):1	152(english):1	235(metro):1	263(condition):1	403(paris):2	476(truly):1	500(appreciate):1	518(system):1	548(spotless):1	689(chance):1	703(learn):1	1470(touristy):1	2390(native):1	2687(parisian):1	3126(caliber):1	3300(intimidate):1	3489(enhance):1	7396(parisians):1	
+16	4(nice):1	7(walk):1	13(bathroom):1	23(little):1	29(minute):1	142(bring):1	152(english):1	320(treat):1	460(prepare):1	510(limit):1	708(luxurious):1	1052(personally):1	1175(joke):1	1855(mom):1	1863(hi):1	2137(louver):1	
+12	1(location):2	21(excellent):1	28(close):1	33(trip):1	140(deal):1	188(line):1	235(metro):1	1015(western):2	1374(opera):2	1855(mom):1	3350(rer):1	3377(unforgettable):1	
+0	
+4	0(staff):1	12(friendly):1	391(understand):1	496(concern):1	
+13	23(little):1	52(bit):1	76(try):1	127(speak):1	152(english):1	194(tip):1	254(french):1	267(traveler):1	353(instead):2	394(question):1	703(learn):1	1519(hello):1	2716(au):1	
+0	
+
+<Author>johnnymick
+<Content>Marvellous hotel Having been advised to stay in Arrondissements 2,3 or 4, we booked Hotel Horset Opera. The Roissybus from Charles De Gaulle left us two blocks away, at the side of L'Opera. The hotel was easy to find, my French was adequate to converse with staff. All of the staff were friendly, helpful and obliging. The breakfasts were marvellous. Our room was very good. Location of the hotel is excellent. During our stay we did not use the Metro or transport at all. Paris is to be seen on foot, bring comfortable shoes. On previous stays we were close to the Opera building but never found it. We intend to return and will stay again  
+<Date>Jul 2, 2007
+<Rating>5	4	4	5	5	5	5	-1	
+<Aspects>
+7	25(comfortable):1	39(return):1	142(bring):1	402(foot):1	403(paris):1	1191(shoe):1	1862(intend):1	
+0	
+0	
+16	1(location):1	18(book):1	21(excellent):1	28(close):1	43(leave):1	100(bloc):1	135(build):1	235(metro):1	373(previous):1	663(advise):1	742(transport):1	1374(opera):3	2096(charl):1	2187(marvelous):1	5915(gaulle):1	9085(arrondissement):1	
+0	
+8	0(staff):2	12(friendly):1	14(helpful):1	93(easy):1	254(french):1	390(adequate):1	2709(oblige):1	5092(converse):1	
+2	6(breakfast):1	2187(marvelous):1	
+0	
+
+<Author>forensa
+<Content>Wonderful Experience at L'Horset Opera We really enjoyed our stay at this fine hotel. The staff was accommodating, the breakfast wonderful (and included) and the rooms were spotless, well decorated and appointed. My brother and I each stayed in a single room and although they were small, they were also marvels of efficient use of space. We never felt cramped and loved the updated classic decor. This hotel has recently been refurbished and they have done a great job. It was super clean and sumptuous. We had a helpful bartender in the evening who served us generous nightcaps and offered suggestions and information about the city. Whoever runs this hotel takes the job seriously! The location is wonderful, in the first arrondisement near everything including interesting side streets, and fine restaurants as well as inexpensive bistros. A testimonial to their helpfulness happened at the end of our trip. I forgot a package in my room, emailed them when I returned home and they sent it to me. Overall I am very impressed and will definitely stay there again.  
+<Date>Jun 27, 2007
+<Rating>5	5	4	5	5	5	5	4	
+<Aspects>
+12	33(trip):1	59(definitely):1	70(overall):1	149(run):1	322(recently):1	343(impress):1	382(happen):1	481(job):2	1253(refurbish):1	1441(seriously):1	3388(whoever):1	3872(helpfulness):1	
+5	44(experience):1	48(wonderful):1	51(enjoy):1	113(fine):1	1374(opera):1	
+25	0(staff):1	6(breakfast):1	34(feel):1	39(return):1	40(love):1	48(wonderful):1	71(include):1	141(home):1	210(space):1	269(decor):1	304(single):1	305(decorate):1	397(forget):1	401(efficient):1	447(send):1	527(package):1	548(spotless):1	579(appoint):1	624(accommodate):1	725(update):1	1080(cramp):1	1559(e-mail):1	1789(classic):1	2010(brother):1	7273(marvel):1	
+10	1(location):1	10(restaurant):1	35(street):1	48(wonderful):1	71(include):1	102(near):1	113(fine):1	1117(inexpensive):1	5400(bistros):1	12910(arrondisement):1	
+3	3(clean):1	464(super):1	4321(sumptuous):1	
+0	
+8	14(helpful):1	41(city):1	89(offer):1	174(serve):1	649(information):1	676(bartender):1	921(suggestion):1	1523(generous):1	
+0	
+
+<Author>kaitken
+<Content>Stay here!!! Don't stay anywhere else!!! We stayed for a week in April. The weather was amazing and so was the hotel!! The rooms were quiet and clean. The shower was GREAT!! Never ran out of hot water!! The air condtioning was on constantly and was always set at the temperature we left it at. We had a lovely room with a balcony that looked over Rue de Antin. Call them before you arrive to request a street facing room with a balcony and they will do their best to accomodate you. Great restaurants around every corner and walking distance to every thing!! Never had any problems with pick pockets but watch for the Gypsy's...they are everywhere and all you hear is do you speak English?? When you hear this and they hand you a note..hand it back to them and walk away!!Book your stay here and you won't be disappointed....when we go back to Paris......we will be going back to the L'Horset  
+<Date>May 14, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+15	57(water):1	75(week):1	114(hot):1	127(speak):1	132(hear):2	145(amaze):1	149(run):1	152(english):1	170(else):1	245(watch):1	266(pick):1	297(note):1	377(hand):1	385(weather):1	2199(pocket):1	
+0	
+17	3(clean):1	20(look):1	35(street):1	43(leave):1	53(arrive):1	58(quiet):1	61(shower):1	67(call):1	87(lovely):1	148(request):1	164(air):1	191(balcony):2	234(set):1	549(accomodate):1	944(temperature):1	995(constantly):1	1945(rue):1	
+5	7(walk):2	10(restaurant):1	115(distance):1	200(corner):1	377(hand):1	
+0	
+0	
+4	18(book):1	154(disappoint):1	403(paris):1	487(wo):1	
+0	
+
+<Author>peppermintLondon
+<Content>Great find! L'horset Opera is a real find. We stayed for 2 nights on a short break in January. The location is ideal for sight-seeing, situated between Opera and the Louvre. The staff were very friendly and helpful. The room was lovely - not the biggest room ever but you tend to get smallish rooms in Paris and it wasn't problematic at all - it was spotlessly clean and the breakfasts were fantastic! Finding a reasonably priced, well-located room of a high standard has proved tricky in the past but from now on we will always use L'horset for our Paris breaks.  
+<Date>Apr 18, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+4	2(night):1	144(short):1	228(break):1	1018(january):1	
+9	19(price):1	130(standard):1	228(break):1	403(paris):1	419(past):1	578(reasonably):1	1554(prove):1	3071(tricky):1	3858(well-locate):1	
+9	3(clean):1	6(breakfast):1	86(fantastic):1	87(lovely):1	403(paris):1	1053(tend):1	1094(spotlessly):1	2104(smallish):1	5079(problematic):1	
+7	1(location):1	240(real):1	545(ideal):1	574(situate):1	640(sight-see):1	1374(opera):2	2137(louver):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>Linklater
+<Content>Loved the L'Horset It was esthetically fine, small, personal service, friendly, breakfast w/egg, ham cheese and muesli in a small room. Good coffee. The staff are mostly from Sri Lanka, and anyone who has been there, will know the excellent level of service in SRi Lanka hotels. This staff has taken that service level with them to Rue d'Antin. Especiall Fernando was so nice to us. Nice rooms and friendly receptionists. Could have wished for a sitting group - I'm asking too much... The bar was also nice, and Location, Location, Location... Within walking distance to Louvre, Latin Quarter (longish..) Beauborg (Centre Pompidou), Marais (pl. des Vosges), Galleries Lafayette, rue Royal w/many posh shops + le salon de th茅 Ladur茅e (an experience), the pl. Vend么me... The internet cost 45 EUR for 3 days (72 hrs) - not cheap. The hotel is not cheap cheap, but value for money. Also must agree to what they said abt. good Japanese restos around -we went to the one just across the street twice. And the Monoprix if one wants sth to eat/drink in the room, or need books, cosmetics, etc. very good assortment of everything. It'll be our hotel from now on.  
+<Date>Mar 20, 2007
+<Rating>4	4	4	5	4	4	4	3	
+<Aspects>
+5	4(nice):1	473(agree):1	2454(vend):1	7992(fernando):1	8672(abt):1	
+20	8(day):1	44(experience):1	49(shop):1	80(money):1	81(value):1	97(internet):1	143(cheap):3	175(cost):1	753(royal):1	1133(le):1	1464(hr):1	1794(gallery):1	1945(rue):1	2505(th):1	2530(posh):1	2631(des):1	3084(eur):1	3418(salon):1	4092(lafayette):1	6819(pl):1	
+6	18(book):1	47(eat):1	73(etc):1	2761(assortment):1	4494(cosmetic):1	10205(monoprix):1	
+15	1(location):3	4(nice):1	7(walk):1	27(bar):1	35(street):1	115(distance):1	169(sit):1	347(twice):1	384(wish):1	463(quarter):1	559(japanese):1	2014(latin):1	2137(louver):1	10445(restos):1	11214(longish):1	
+0	
+8	0(staff):2	4(nice):1	9(service):2	12(friendly):1	21(excellent):1	306(level):2	855(receptionist):1	1945(rue):1	
+11	6(breakfast):1	9(service):1	12(friendly):1	40(love):1	90(coffee):1	113(fine):1	441(cheese):1	711(personal):1	1561(ham):1	6330(muesli):1	6571(esthetically):1	
+4	101(center):1	5453(marais):1	6819(pl):1	12914(pompidou):1	
+
+<Author>ShallotScotland
+<Content>Great Hotel in Central Yet Quiet Location We stayed at this Hotel start of March 2007, as soon as we arrived we were delighted with the location, 5 minutes from Opera House and about the same to The Louvre. The Staff were excellent and nothing we required was too much trouble for them, they made us very welcome. The rooms were very clean and beds very comfortable. The light breakfast in the breakfast room is a lovely way to start the day but do look out for the cooked egg options at about 4 Euro extra as we missed the little sign on the buffet table. This Hotel is a little Oasis in the midst of bustling Paris and we would highly recommend it. Also highly recommend the welcoming Brazilia Bar just around the corner for lunch/light snack. The soup with cheese and croutons is the best I have tasted in a long time.  
+<Date>Mar 15, 2007
+<Rating>5	5	4	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+15	1(location):2	3(clean):1	11(bed):1	25(comfortable):1	29(minute):1	53(arrive):1	58(quiet):1	165(start):1	168(central):1	281(house):1	418(soon):1	615(march):1	1025(delight):1	1374(opera):1	2137(louver):1	
+7	15(recommend):1	23(little):1	138(highly):1	403(paris):1	1107(bustle):1	1383(oasis):1	3338(midst):1	
+0	
+5	0(staff):1	21(excellent):1	202(welcome):1	569(trouble):1	722(require):1	
+27	5(time):1	6(breakfast):2	8(day):1	15(recommend):1	20(look):1	23(little):1	27(bar):1	77(buffet):1	87(lovely):1	128(extra):1	138(highly):1	157(light):1	165(start):1	200(corner):1	202(welcome):1	229(table):1	252(lunch):1	256(euro):1	276(miss):1	336(option):1	406(snack):1	412(egg):1	439(taste):1	441(cheese):1	449(sign):1	550(cook):1	1772(soup):1	
+0	
+
+<Author>beaglefiend
+<Content>LOVED this hotel and location       Bed and Bath  
+<Date>Dec 28, 2006
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+4	1(location):1	11(bed):1	40(love):1	226(bath):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>gandwer
+<Content>A Great Choice This was an excellent choice for a three night stay in the centre of Paris. It's close to the Opera, Boulevard Haussmann and only a short walk to the Louvre, Place Vendome etc. Very friendly staff; Isabelle on reception was charming and very efficient. The buffet breakfast has plenty of choice; cheeses, meats, yoghurts and a range of breads. We will certainly stay here again.  
+<Date>Dec 10, 2006
+<Rating>4	4	4	4	5	5	4	4	
+<Aspects>
+0	
+5	2(night):1	21(excellent):1	101(center):1	107(choice):2	403(paris):1	
+0	
+8	7(walk):1	28(close):1	73(etc):1	144(short):1	1374(opera):1	2137(louver):1	2931(boulevard):1	7284(vendome):1	
+0	
+6	0(staff):1	12(friendly):1	129(reception):1	332(charm):1	401(efficient):1	4986(isabelle):1	
+9	6(breakfast):1	77(buffet):1	107(choice):1	158(plenty):1	441(cheese):1	497(bread):1	677(meat):1	714(range):1	927(yogurt):1	
+0	
+
+<Author>kdp
+<Content>very good hotel I have stayed at this Hotel for the last 6 years or so on business and the service has always been first class. I have also taken my family at Christmas time and the children have always been well looked after. I have just booked again for a break with the wife and children in December. The staff particulary the bellboy/doorman I have got to know well over the years and the Hotel comes highly recommended by me. Keith Pooley  
+<Date>Oct 18, 2006
+<Rating>5	5	4	5	4	4	5	4	
+<Aspects>
+6	5(time):1	20(look):1	106(family):1	277(child):1	962(christmas):1	6990(keith):1	
+0	
+0	
+3	9(service):1	147(business):1	470(class):1	
+0	
+5	0(staff):1	15(recommend):1	138(highly):1	3273(bellboy):1	5462(particulary):1	
+5	18(book):1	184(wife):1	228(break):1	277(child):1	993(december):1	
+0	
+
+<Author>kathinoz
+<Content>Loved the place My travel agent recommended this hotel and what a treasure it turned out to be. We stayed from 6-12 October in room 404.The room is of moderate size, smaller than an american style room and larger than european style rooms. Our 4 suticases fitted in the room with no problem. The bathrooms are granite and new with good strong water pressure from the shower and a huge tub for soaking your weary bones in.The staff all speak very good english and are ever so helpful. The subway is a 2 minute walk in front of the opera and a 5 minute walk to the huge department stores Galleries Lafayette.There are many restaurants in the area, Japanese, Chinese, Korean, Italian and around the corner is a great litte Lebanese restaurant called Tyrz and the owner is charming and speaks great english.Over the main road on Avenue L'Opera on DuMarche is a little town square with several restaurants that are fantastic.On Rue Monsigny there is a coin operated laundry for those who need to do laundry and the girl there also speaks english.This is a great hotel, great staff, European breakfast was included in the rate with an option for scrambled eggs at $4.00Euros extra for those who wish.I became very ill and the staff called in the doctor and I was in bed for last 2 days and the staff could not do enough to make my stay better. On the last day they allowed me to stay in the room til 4pm until my flight left to help me recover.I would highly recommend this hotel and will stay again next year when I return.  
+<Date>Oct 17, 2006
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+7	15(recommend):2	39(return):1	40(love):1	68(travel):1	138(highly):1	766(agent):1	2980(treasure):1	
+0	
+30	0(staff):2	8(day):2	11(bed):1	13(bathroom):1	43(leave):1	57(water):1	61(shower):1	67(call):1	83(size):1	92(help):1	133(huge):1	233(flight):1	311(tub):1	326(style):2	359(allow):1	582(european):1	668(fit):1	686(pressure):1	893(strong):1	911(october):1	1468(soak):1	1657(ill):1	1875(doctor):1	2196(til):1	2793(granite):1	2936(moderate):1	3020(recover):1	3186(weary):1	3929(bone):1	7881(4pm):1	
+25	7(walk):2	10(restaurant):1	23(little):1	29(minute):2	31(front):1	86(fantastic):1	112(main):1	127(speak):1	133(huge):1	139(square):1	152(english):1	230(road):1	239(town):1	255(store):1	370(subway):1	625(girl):1	1075(laundry):2	1090(avenue):1	1374(opera):1	1623(operate):1	1707(department):1	1794(gallery):1	1945(rue):1	3424(coin):1	4092(lafayette):1	
+0	
+14	0(staff):1	10(restaurant):2	14(helpful):1	67(call):1	127(speak):2	152(english):2	200(corner):1	332(charm):1	358(italian):1	559(japanese):1	672(owner):1	764(chinese):1	5436(korean):1	7831(litte):1	
+11	0(staff):1	6(breakfast):1	71(include):1	78(rate):1	128(extra):1	256(euro):1	336(option):1	384(wish):1	412(egg):1	582(european):1	1674(scramble):1	
+0	
+
+<Author>pradvasw
+<Content>A Sad 2 star hotel We stayed at the hotel from Aug 23-27. We checked in at 11:00 pm and after a long day, we were told that our rate would be 23$ more since we had a baby with us. We told them that the policy as stated on bestwestern.com was that a child under 12 was free. But they refused to budge. The next day, we spoke to the manager who told us, it was not for the child but since we were 2 adults, there was a extra charge of 23 Euros. Basically they wanted another 23 euros no matter what. After a lot of arguing, we agreed to pay 13 euros more for the extra breakfast. (although breakfast was included in the rate).In the morning, we also decided to check with the concierge. This being a 4 star hotel (highest rating in France), we assumed there would be one. But, only the front desk guy knows some trains and routes etc. So, no real concierge is there. There is no doorman, restaurant, fitness center in the hotel. I dont know how it got a 4 star. The rooms are so tiny, you will struggle to move around. Getting the 2 bags in was a challenge.When leaving, I entered my opinion in the first page of the new Customer Review book kept in the lobby. When I was waiting for a cab, the manager came and asked me What was the purpose behind those comments?. I told him thats what I felt. He didnt understand why I would do that.....Last I checked, thats a opinion book, not a book only to heap praise.I strongly recommend that one consider other options. This is definitely not worth it.Happy travels.  
+<Date>Aug 28, 2006
+<Rating>1	1	1	1	3	1	1	1	
+<Aspects>
+21	15(recommend):1	34(feel):1	46(free):1	59(definitely):1	68(travel):1	69(tell):2	96(worth):1	155(happy):1	248(consider):1	256(euro):1	277(child):1	290(bag):1	336(option):1	531(matter):1	790(basically):1	1103(refuse):1	1198(thats):1	1386(strongly):1	1634(policy):1	1708(challenge):1	6110(budge):1	
+14	6(breakfast):1	38(lot):1	42(pay):1	78(rate):1	103(star):3	128(extra):1	256(euro):1	473(agree):1	503(dont):1	1407(assume):1	1454(sad):1	1784(france):1	1894(argue):1	2404(aug):1	
+3	207(move):1	338(tiny):1	1979(struggle):1	
+0	
+0	
+34	8(day):2	18(book):2	31(front):1	32(check):3	36(desk):1	56(morning):1	69(tell):2	73(etc):1	78(rate):1	85(wait):1	127(speak):1	128(extra):1	136(charge):1	182(train):1	204(concierge):2	219(decide):1	240(real):1	256(euro):1	258(manager):2	277(child):1	356(comment):1	368(guy):1	380(cab):1	391(understand):1	393(pm):1	556(adult):1	626(didnt):1	704(opinion):1	1035(route):1	1198(thats):1	1304(baby):1	1428(purpose):1	2053(praise):1	4038(heap):1	
+15	6(breakfast):1	10(restaurant):1	18(book):1	37(review):1	43(leave):1	55(lobby):1	71(include):1	78(rate):1	101(center):1	428(customer):1	601(enter):1	704(opinion):1	983(fitness):1	998(doorman):1	2414(page):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Excellent Stay       Main Road  
+<Date>May 22, 2006
+<Rating>4	5	4	-1	5	-1	5	-1	
+<Aspects>
+3	21(excellent):1	112(main):1	230(road):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>covers
+<Content>Great location  Just spent two very pleasant nights at this small hotel. Staff were very helpfull and rooms were very clean, they were not the largest of rooms and our bathroom was tiny but well equiped. The bedrooms lacked drawers for clothes, although the wardrobe was a good size, there is also a free safe deposit box in the room. We had a room at the back which does not have a view but we like to sleep with the window open and there was no noise, unlike some other Parissiene hotels we have stayed in.Beds were very comfortable and linen changed daily.There is a bar with a fair range of snacks available and all the drinks you could want.The attractions nearby include the Opera (2 mins walk) and the Louvre (8 mins max) On a direct bus route to Gare de Nord for Eurostar.Fair selection of restaurants nearby, some with live music.Would definately stay there again.  
+<Date>Apr 2, 2006
+<Rating>4	4	3	-1	5	-1	4	-1	
+<Aspects>
+1	410(definately):1	
+0	
+32	0(staff):1	3(clean):1	10(restaurant):1	11(bed):1	13(bathroom):1	17(view):1	25(comfortable):1	46(free):1	83(size):1	94(noise):1	104(sleep):1	119(window):1	137(safe):1	161(change):1	206(live):1	232(nearby):1	268(bedroom):1	333(selection):1	338(tiny):1	349(lack):1	360(daily):1	398(music):1	630(linen):1	709(clothe):1	739(fair):1	945(box):1	1163(unlike):1	1426(drawer):1	1451(wardrobe):1	1478(helpfull):1	1603(deposit):1	2976(equipe):1	
+18	1(location):1	2(night):1	7(walk):1	64(spend):1	71(include):1	120(bus):1	150(pleasant):1	232(nearby):1	247(min):2	350(attraction):1	803(direct):1	1035(route):1	1374(opera):1	2137(louver):1	2169(max):1	4638(nord):1	4794(gare):1	4967(eurostar):1	
+0	
+0	
+6	27(bar):1	63(drink):1	134(available):1	406(snack):1	714(range):1	739(fair):1	
+0	
+
+<Author>ianmac
+<Content>LHorset was a good choice My companion and I spent three very pleasant nights at L'Horset Opera. I was initially wary of booking at a Best Western establishment as we are not keen on Hotel Chains. I need not have worried. It has the ambience of a privately run hotel.L'Horset Opera is ideally placed for shopping and visiting the many attractions which Paris has to offer. The rooms were a good size by Paris standards but there was very little wardrobe and no drawer space, which was very irritating.Housekeeping was excellent however, with bed linen and towels changed daily.There was a good supply of toiletries, a hairdryer and mini bar in all rooms.Breakfast was excellent if your wish is to breakfast as Parisians do. There was a more than adequate selection of fare for le petit dejeuner.I would recommend L'Horset Opera and may even stay there again later this year.  
+<Date>Mar 16, 2006
+<Rating>4	4	4	-1	5	-1	5	-1	
+<Aspects>
+9	149(run):1	333(selection):1	390(adequate):1	885(worried):1	957(ambience):1	1112(fare):1	1133(le):1	4502(petit):1	6249(privately):1	
+6	2(night):1	64(spend):1	107(choice):1	150(pleasant):1	1374(opera):1	2998(companion):1	
+20	11(bed):1	21(excellent):1	23(little):1	27(bar):1	83(size):1	125(towel):1	130(standard):1	161(change):1	210(space):1	360(daily):1	367(housekeeping):1	403(paris):1	448(mini):1	630(linen):1	657(toiletry):1	859(supply):1	1426(drawer):1	1451(wardrobe):1	1493(hairdryer):1	2467(irritate):1	
+9	15(recommend):1	49(shop):1	65(visit):1	79(late):1	89(offer):1	350(attraction):1	403(paris):1	1374(opera):2	1800(ideally):1	
+0	
+0	
+11	6(breakfast):2	18(book):1	21(excellent):1	384(wish):1	627(chain):1	1015(western):1	1439(initially):1	1473(establishment):1	2641(keen):1	3099(wary):1	7396(parisians):1	
+0	
+
+<Author>CatherineIreland
+<Content>A Little gem Myself and my partner stayed here for a long weekend from Dublin, the staff wee very helpful and friendly hotel itself is in a lovely location and extremely quiet. Would absolutely recommend for a business or pleasure trip. The only one small drawback was no restaurant, however lots of good cafes in the area.  
+<Date>Mar 15, 2006
+<Rating>4	3	3	-1	3	-1	4	-1	
+<Aspects>
+0	
+0	
+13	0(staff):1	1(location):1	12(friendly):1	14(helpful):1	23(little):1	58(quiet):1	87(lovely):1	110(extremely):1	172(weekend):1	805(gem):1	1006(partner):1	2310(wee):1	6075(dublin):1	
+5	15(recommend):1	33(trip):1	147(business):1	189(absolutely):1	907(pleasure):1	
+0	
+0	
+4	10(restaurant):1	38(lot):1	275(cafe):1	1344(drawback):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A clever choice The best of Horset Opera is the very good location. First of all if you arrive to CDG airport you can get on the ROISSY BUS ( without going by train to Paris and then by tube to your hotel, which is very uncomfortable if you have luggage) and you will get off at the Opera House, just about 200 meters from the hotel. At the Opera there is also the underground station, and it is so convenient to be so near to it!Staying at the Opera means also that you ca reach just in a few minutes foot walk many tourist attractions.Rooms at Horset Opera are large enough for Paris standards, breakfast is included (in hotels of the same category it is about 20 euros each people), and personnel are friendly and always ask you if you need any assistance.I鈥檝e been to Paris many times, but this was the first al Horset Opera, and I think I鈥檒l stay there again.Susanna  
+<Date>Feb 22, 2006
+<Rating>4	4	3	-1	4	-1	3	-1	
+<Aspects>
+1	11643(susanna):1	
+0	
+11	6(breakfast):1	12(friendly):1	26(people):1	71(include):1	130(standard):1	256(euro):1	403(paris):1	1374(opera):1	1457(personnel):1	1669(assistance):1	2011(category):1	
+27	1(location):1	5(time):1	7(walk):1	29(minute):1	53(arrive):1	82(station):1	95(airport):1	102(near):1	107(choice):1	120(bus):1	182(train):1	186(convenient):1	209(tourist):1	246(mean):1	249(luggage):1	281(house):1	350(attraction):1	402(foot):1	403(paris):2	851(reach):1	856(uncomfortable):1	1085(underground):1	1194(metre):1	1310(tube):1	1374(opera):5	4069(cdg):1	4554(clever):1	
+0	
+0	
+0	
+0	
+
+<Author>jah123
+<Content>Good for a business trip I stayed here on a business trip. Staff was extremely helpful. Near many good restaurants and shopping. For Paris room was good size and the bed was comfortable. Extremely quiet location--just off Avenue Opera but on a quite side street. WiFi worked well and and was a bargain for Europe. Very good value. I would stay here again.  
+<Date>Feb 12, 2006
+<Rating>4	4	4	-1	4	-1	5	-1	
+<Aspects>
+0	
+4	81(value):1	700(europe):1	759(bargain):1	1268(wifi):1	
+4	11(bed):1	25(comfortable):1	83(size):1	403(paris):1	
+11	1(location):1	10(restaurant):1	33(trip):2	35(street):1	49(shop):1	58(quiet):1	102(near):1	110(extremely):1	147(business):2	1090(avenue):1	1374(opera):1	
+0	
+3	0(staff):1	14(helpful):1	110(extremely):1	
+0	
+0	
+
+<Author>joally01
+<Content>Lovely Little Gem We have just returned from a 3 day break in paris and I cannot rate this hotel highly enough. We were a bit worried as we had heard that staff in Paris can be unfriendly and that the rooms were tiny but this was not the case at this hotel. The staff were fantastic really nice and helpful from the reception staff to the porters and chambermaids. The rooms we thought were a good size for a short break and the beds are so comfortable. Breakfast was included and a good selection of croissants and pastries, cereals, yoghurts, cold meat, cheese and lots of fresh fruit was provided to set you up for the day. The location was excellent too, just a few minutes walk from the Opera metro station and the Louvre also lots of bars cafes and restaurants close by. We are looking forward to returning to Paris soon and would definately stay at this hotel again.  
+<Date>Dec 2, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	20(look):1	39(return):1	403(paris):1	410(definately):1	418(soon):1	750(forward):1	
+0	
+12	0(staff):1	11(bed):1	25(comfortable):1	52(bit):1	83(size):1	132(hear):1	144(short):1	228(break):1	338(tiny):1	403(paris):1	885(worried):1	1487(unfriendly):1	
+13	1(location):1	7(walk):1	10(restaurant):1	21(excellent):1	27(bar):1	28(close):1	29(minute):1	38(lot):1	82(station):1	235(metro):1	275(cafe):1	1374(opera):1	2137(louver):1	
+0	
+7	0(staff):2	4(nice):1	14(helpful):1	86(fantastic):1	129(reception):1	1653(porter):1	4749(chambermaid):1	
+24	6(breakfast):1	8(day):2	23(little):1	38(lot):1	39(return):1	71(include):1	78(rate):1	87(lovely):1	138(highly):1	153(provide):1	197(fresh):1	215(fruit):1	222(cold):1	228(break):1	234(set):1	333(selection):1	403(paris):1	441(cheese):1	529(cereal):1	652(pastry):1	677(meat):1	805(gem):1	927(yogurt):1	1004(croissant):1	
+0	
+
+<Author>Pigli
+<Content>Advertises itself as a four star, but clearly only a three star This hotel advertises itself as a four star, but is very definitely only a three star. As such, despite being in a very good location, it was not nearly the bargain I thought it was going to be. The rooms are very small, and the bathrooms hardly have enough room to turn around in them. And, once you've unpacked your sponge bag, there is nowhere to put anything else. The towels are precariously sited on a rail right over the toilet, and one night one of ours, predictably, fell in. The hotel - whose decor is rather tired - has only a tiny bar, and no restaurant. How it gets to be a four star is beyond me. I have stayed at other four stars that clearly deserve the rating, and have facilities and service to match, but this one definitely doesn't.  
+<Date>Nov 14, 2005
+<Rating>2	2	2	-1	3	-1	3	-1	
+<Aspects>
+4	170(else):1	290(bag):1	2179(unpack):1	6256(sponge):1	
+8	1(location):1	59(definitely):1	103(star):5	498(despite):1	738(beyond):1	759(bargain):1	896(nearly):1	910(advertise):2	
+2	13(bathroom):1	985(hardly):1	
+7	2(night):1	125(towel):1	192(site):1	330(toilet):1	587(fall):1	843(ours):1	1755(rail):1	
+0	
+0	
+12	9(service):1	10(restaurant):1	27(bar):1	59(definitely):1	78(rate):1	103(star):1	211(facility):1	269(decor):1	338(tiny):1	454(tire):1	1072(deserve):1	1476(match):1	
+0	
+
+<Author>Davetherave2005
+<Content>Excellent for first timers The staff at this hotel must be some of the friendliest around! From we arrived untill we left they were very helpfull and nothing was to much trouble.This was our first visit to Paris, so as always when visiting a new city for the first time is a learning curve.If you fly into CDG the best way to get to the hotel is take the Rossibus this travels from outside all three terminals direct to the rear of the opera building without stopping. A short walk around the front of the opera building and straight down the avenue for about 300 metres and the hotel is in a side street on the left.We had a room on the fourth floor at the front, and with two lifts we had no problems there. The street has very little traffic, so overlooking it was no problem with regard to noise.The room was more than adequate a large firm bed a wardrobe containing free safe, that opens and locks using one of your credit cards, only one slight drawback you can't put all your cards in the safe.A large dressing table with drawers and a not over expensive mini bar.The television receives BBC World so at least some hope for Brits on holiday missing home.The bathroom large enough and the hot water always was.Maid service excellent, and our particular maid was exceptionally friendly.Breakfast was of the usual standard for continental. I will say that even though breakfast finished at 10:30am, the staff helped anybody that arrived at the last second, bringing more coffee, juice and the rest.Breakfast in bed at no extra charge, and up to 11am.The bar was wel stocked and again nothing was a problem for the staff.The hotel is well placed to walk to most attractions if you have a phobia using the Metro or buses. On departure our cases were safely stored by the hotel until we were ready to depart, then a short walk back to the Rossibus and onward.I hope anybody that reads this review finds it helpful. The other reviews about this hotel helped make our decision to stay there.David and Alison, Belfast, Northern Ireland  
+<Date>Aug 30, 2005
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+21	5(time):1	14(helpful):1	37(review):2	41(city):1	43(leave):1	53(arrive):1	65(visit):2	88(read):1	92(help):1	328(hope):1	403(paris):1	569(trouble):1	703(learn):1	1478(helpfull):1	1539(decision):1	1956(david):1	3335(Northern):1	3748(ireland):1	4396(untill):1	4533(curve):1	10037(belfast):1	
+6	27(bar):1	124(expensive):1	229(table):1	448(mini):1	935(dress):1	1426(drawer):1	
+32	6(breakfast):1	11(bed):2	13(bathroom):1	24(floor):1	31(front):1	46(free):1	57(water):1	114(hot):1	128(extra):1	136(charge):1	137(safe):2	141(home):1	223(holiday):1	272(world):1	276(miss):1	292(card):2	302(receive):1	328(hope):1	390(adequate):1	591(lift):1	659(credit):1	774(lock):1	1158(television):1	1297(slight):1	1344(drawback):1	1368(firm):1	1451(wardrobe):1	1545(contain):1	1579(fourth):1	2997(bbc):1	4314(brits):1	7969(11am):1	
+32	7(walk):3	23(little):1	31(front):1	35(street):2	43(leave):1	68(travel):1	94(noise):1	98(outside):1	120(bus):1	122(stop):1	135(build):2	144(short):2	235(metro):1	255(store):1	260(overlook):1	274(ready):1	350(attraction):1	486(traffic):1	614(fly):1	803(direct):1	827(straight):1	930(regard):1	1031(departure):1	1090(avenue):1	1194(metre):1	1261(terminal):1	1374(opera):2	1814(depart):1	2007(rear):1	3347(safely):1	4069(cdg):1	7984(onward):1	
+0	
+6	0(staff):2	12(friendly):1	21(excellent):1	27(bar):1	599(stock):1	4108(timer):1	
+18	0(staff):1	6(breakfast):2	9(service):1	12(friendly):1	21(excellent):1	53(arrive):1	90(coffee):1	92(help):1	130(standard):1	142(bring):1	288(rest):1	300(maid):2	362(juice):1	372(continental):1	682(usual):1	772(finish):1	938(particular):1	1242(exceptionally):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great We stayed at the L'Horset for 3 nights in July 2005. We were extremely happy. Upon arrival the reception staff were friendly and efficient and all spoke english well. The room was great. Newly renovated in tasteful decor with excellent bathroom facilities, comfortable bed and was a good size for a parisian hotel. The breakfast was also good with a large selection available to start the day. The hotel staff were very accommodating and eager to assist with any of our enquiries. The location is perfect surrounded by shops, restaurants and theatres and close to public transport systems. Would not hesitate to stay here again, infact wouldn't even bother looking for anything else!  
+<Date>Aug 24, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	2(night):1	20(look):1	110(extremely):1	155(happy):1	170(else):1	307(bother):1	902(hesitate):1	4096(infact):1	
+10	0(staff):1	6(breakfast):1	8(day):1	134(available):1	165(start):1	333(selection):1	624(accommodate):1	1265(assist):1	1604(eager):1	3773(inquiry):1	
+11	11(bed):1	13(bathroom):1	21(excellent):1	25(comfortable):1	83(size):1	211(facility):1	269(decor):1	533(renovate):1	1189(newly):1	2122(tasteful):1	2687(parisian):1	
+10	1(location):1	10(restaurant):1	28(close):1	49(shop):1	74(perfect):1	379(public):1	518(system):1	635(theater):1	667(surround):1	742(transport):1	
+0	
+7	0(staff):1	12(friendly):1	127(speak):1	129(reception):1	152(english):1	224(arrival):1	401(efficient):1	
+0	
+0	
+

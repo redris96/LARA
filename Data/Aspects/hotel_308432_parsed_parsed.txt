@@ -1,0 +1,364 @@
+<Author>amigaparatu
+<Content>Happy, great, happy, great!       the room  
+<Date>Dec 20, 2008
+<Rating>5	5	4	3	5	5	5	2	
+<Aspects>
+1	155(happy):2	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>martyd
+<Content>very nice buffet was amazing! and what a hotel, pretty far out though, old ghurka camp location but travel in hk is nimps  
+<Date>Nov 17, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+5	1(location):1	68(travel):1	109(pretty):1	1907(hk):1	2087(camp):1	
+0	
+0	
+3	4(nice):1	77(buffet):1	145(amaze):1	
+0	
+
+<Author>JLInternational
+<Content>A hidden treasure I was first attracted by the hotel website and had made follow up phone calls to inquire the possibility of hosting a thanksgiving reception on the property on the final phase of our trip to Asia. Much impressed by my initial contacts with the restaurant manager and staff, Perry and Betty, we have decided to relocate to the HK Gold Coast on our final three nights of stay in Hong Kong from the JW Marriott to host the event.If one is planning for a unique unforgettable event, this is the place. The pictures on the WebPages did not do justice for the real experience.The hotel is a resort and is a departure from the business hotels in the Central district from its hustles and bustles and jammed with traffic and people, strategically we picked this location in hope for an relaxing retreat and an unforgettable evening with friends at the conclusion of our trip. We were delighted that we have made that choice. The hotel room charge is obviously shy from the Central area. While the location may be a concern to some, the availability of complimentary shuttle services and choice of public transportation are making that a non-issue. We managed to get to most destinations in 30-45 minutes from the hotel. We hired a taxi from to take us from the JW Marriott to the Gold Coast and the fare was $250HKD. We paid the similar fare to go from the Gold Coast to the airport. For the overseas tourists, this is more like a fraction of what we would pay for a similar commute. Riding in a taxi afforded the opportunity to experience the beauty of the city.Upon check in, we were rather disappointed with our room assignment, as we were greeted by parking lot noises as well as a poorly cleansed room. Over the concern of the hotel reputation and our first impression at a breakfast conversation with the Cafe Lagoon Restaurant Manager, Perry had taken the initiative to make alternate arrangement to correct the situation. This recovery itself speaks volume; the hotel management had more than made up the inferior first impression. All other services were professional, courteous and expedient.  The highlight came at the dinner reception on Nov 2 as our guests arrived, many from overseas. The environment, the services, the food and an going the extra mile attitude by the restaurant management and staff had turned this event to an unforgettable memory.  We had the reception at the Cafe Lagoon Terrace, an outdoor setting surrounded by tropical vegetations by a pool overlooking the ocean, a picture perfect opportunity for lasting memories. Live music was provided. Our guests were most delighted with the BBQ and freshly prepared buffet. The icing on the cake was the care of the restaurant management to fulfill a last minutes request for transportation to Tsim Sha Tsui with a 50 passenger tour bus. As we bid farewell, most of our guests were enjoying a care free ride on a private bus taking in the night scene of a romantic city along the coast line.This property is about an decade old and may be in time for a renovation to keep up with an upscale resort status. Proper attention to the house keeping will definitely made it a superior choice for a get away retreat and we are looking forward to return to see the improvements. All said, credit must to the hotel management and specifically Perry who has gone out of their way to make our dream come true, an unforgettable evening with friends and laughter.  
+<Date>Nov 5, 2008
+<Rating>5	5	3	4	2	3	5	4	
+<Aspects>
+10	29(minute):1	153(provide):1	206(live):1	221(plan):1	398(music):1	645(manage):1	1027(unique):1	1092(destination):1	1106(event):1	3377(unforgettable):1	
+27	20(look):1	39(return):1	42(pay):2	44(experience):1	59(definitely):1	95(airport):1	107(choice):2	209(tourist):1	240(real):1	281(house):1	456(picture):1	726(attention):1	750(forward):1	785(superior):1	874(similar):2	1025(delight):1	1112(fare):1	1486(improvement):1	1571(gold):1	1682(coast):1	1719(proper):1	2244(re-treat):1	2878(justice):1	3719(fraction):1	4191(overseas):1	4386(commute):1	8108(webpage):1	
+26	5(time):1	32(check):1	38(lot):1	53(arrive):1	66(park):1	72(resort):1	91(guest):1	94(noise):1	117(dinner):1	129(reception):1	136(charge):1	154(disappoint):1	168(central):1	214(property):1	415(greet):1	687(renovation):1	781(obviously):1	1141(highlight):1	1237(upscale):1	1635(poorly):1	1763(nov):1	2444(status):1	4021(shy):1	4191(overseas):1	4821(decade):1	6368(assignment):1	
+81	1(location):2	2(night):1	9(service):1	10(restaurant):1	22(pool):1	26(people):1	29(minute):1	33(trip):1	41(city):2	44(experience):1	46(free):1	51(enjoy):1	72(resort):1	74(perfect):1	91(guest):1	107(choice):1	120(bus):2	129(reception):1	146(friend):1	147(business):1	148(request):1	160(relax):1	168(central):1	181(tour):1	185(taxi):2	188(line):1	205(ocean):1	218(ride):2	234(set):1	242(care):2	260(overlook):1	266(pick):1	275(cafe):1	321(shuttle):1	328(hope):1	345(complimentary):1	379(public):1	433(district):1	456(picture):1	486(traffic):1	492(private):1	496(concern):1	525(management):1	547(ice):1	618(marriott):1	667(surround):1	673(terrace):1	707(romantic):1	728(transportation):2	812(tropical):1	901(outdoor):1	1029(cake):1	1031(departure):1	1107(bustle):1	1112(fare):1	1235(opportunity):2	1452(afford):1	1503(hustle):1	1556(hire):1	1571(gold):1	1588(scene):1	1595(beauty):1	1614(jam):1	1631(memory):1	1682(coast):2	2045(lagoon):1	2073(availability):1	2089(conclusion):1	2244(re-treat):1	2684(passenger):1	3048(jw):1	3377(unforgettable):1	3383(bid):1	3601(fulfil):1	4456(vegetation):1	4895(tsim):1	5231(sha):1	5250(tsui):1	7024(strategically):1	8174(non-issue):1	10406(farewell):1	
+0	
+33	0(staff):1	2(night):1	10(restaurant):1	127(speak):1	146(friend):1	219(decide):1	258(manager):1	343(impress):1	525(management):2	618(marriott):1	659(credit):1	713(contact):1	848(impression):1	1106(event):1	1121(kong):1	1123(hong):1	1256(dream):1	1283(host):1	1337(final):1	1571(gold):1	1682(coast):1	1810(specifically):1	1907(hk):1	2074(initial):1	2946(volume):1	3048(jw):1	3377(unforgettable):1	3812(relocate):1	4981(inferior):1	6710(recovery):1	6789(laughter):1	11016(perry):2	11272(betty):1	
+51	0(staff):1	6(breakfast):1	9(service):2	10(restaurant):2	16(food):1	33(trip):1	67(call):1	77(buffet):1	91(guest):1	128(extra):1	129(reception):1	214(property):1	258(manager):1	262(website):1	275(cafe):1	296(phone):1	460(prepare):1	482(follow):1	483(courteous):1	496(concern):1	501(professional):1	525(management):1	692(mile):1	821(attitude):1	848(impression):1	890(situation):1	1025(delight):1	1106(event):1	1195(hide):1	1263(correct):1	1281(conversation):1	1283(host):1	1337(final):1	1415(arrangement):1	1631(memory):1	1704(inquire):1	1712(environment):1	1775(freshly):1	2045(lagoon):1	2072(bbq):1	2108(asia):1	2195(reputation):1	2309(thanks-giving):1	2452(attract):1	2980(treasure):1	3377(unforgettable):1	3507(possibility):1	3622(alternate):1	7144(phase):1	9254(initiative):1	11016(perry):1	
+0	
+
+<Author>JSFULHAM
+<Content>Excellent value The hotel was the venue for my company sales conference.Arriving at the airport I made for the Sino Hotels desk where I was escorted to the hotel shuttle. It is about 45 mins drive to the hotel. Very freindly welcome and great service.The hotel is very nice. There are moans on this site telling you this is not a 5 star property but then did they pay for 5 star price? My rate was 995 HK$ a night which was exceptional value. The hotel has all the things you would expect of a 5 star hotel, a huge outdoor pool, several dining options, an impressive lobby and nice rooms. True I have stayed at more luxurious places but this was great value.The location wasabout 30 mins by bus or taxi to downtown Kowloon. I met the unhelpful Concierge and the service in the bar was slow, but overall the service was very good and I would recommend this place for people who want to stay outside the hustle and bustle of the city or for anyone just wishing to chill out between flights. It also made a great venue for a conference!  
+<Date>Oct 4, 2008
+<Rating>4	4	4	4	5	4	4	5	
+<Aspects>
+3	4(nice):1	247(min):1	298(drive):1	
+26	2(night):1	4(nice):1	19(price):1	21(excellent):1	22(pool):1	42(pay):1	55(lobby):1	62(expect):1	69(tell):1	78(rate):1	81(value):3	103(star):3	133(huge):1	192(site):1	214(property):1	316(dine):1	336(option):1	708(luxurious):1	760(company):1	794(conference):1	837(exceptional):1	901(outdoor):1	920(impressive):1	1723(sale):1	2190(venue):1	3644(moan):1	
+0	
+29	1(location):1	9(service):2	15(recommend):1	26(people):1	27(bar):1	36(desk):1	41(city):1	53(arrive):1	70(overall):1	95(airport):1	98(outside):1	120(bus):1	185(taxi):1	196(meet):1	204(concierge):1	233(flight):1	247(min):1	321(shuttle):1	334(downtown):1	384(wish):1	455(slow):1	794(conference):1	1107(bustle):1	1397(chill):1	1503(hustle):1	1618(unhelpful):1	2005(escort):1	2078(kowloon):1	2190(venue):1	
+0	
+0	
+3	9(service):1	202(welcome):1	2779(freindly):1	
+0	
+
+<Author>auroralouise
+<Content>Not recommended We stayed at this hotel during a stopover in Hong Kong thinking it would be a nice comfortable place to spend the night. In my opinion, this is definitely not a four star hotel. The rooms were worn and I had to ask for new sheets because there was hair on our clean ones. The bed was horrible (the worst part of this hotel) - a very cheap mattress - I could feel all the springs and some felt like they were about to burst out of the mattress at any time. The only thing we really liked about this hotel was the free shuttle into downtown Kowloon. There is a large pool but, as we didn't swim, I can't speak to that. I will say that after our disappointing and uncomfortable stay during our first HK stopover we canceled our stay at the Gold Coast for our second HK stopover and picked a different hotel.  
+<Date>Sep 28, 2008
+<Rating>1	1	1	2	2	2	2	3	
+<Aspects>
+15	2(night):1	4(nice):1	15(recommend):1	25(comfortable):1	64(spend):1	154(disappoint):1	266(pick):1	856(uncomfortable):1	1065(cancel):1	1121(kong):1	1123(hong):1	1571(gold):1	1682(coast):1	1907(hk):2	2364(stopover):3	
+12	5(time):1	11(bed):1	34(feel):2	50(bad):1	59(definitely):1	103(star):1	143(cheap):1	544(horrible):1	704(opinion):1	847(mattress):2	1162(spring):1	5404(burst):1	
+4	3(clean):1	434(wear):1	479(sheet):1	729(hair):1	
+4	46(free):1	321(shuttle):1	334(downtown):1	2078(kowloon):1	
+0	
+0	
+3	22(pool):1	127(speak):1	261(swim):1	
+0	
+
+<Author>ysouk
+<Content>Nothing much to do The Gold Coast hotel is defintely not a 5 star hotel and it is quite far from Kowloon and HK island. If you stay in HK and is in need of a short get away, you may consider this hotel. However, for tourists, the beach in HK is not worth a trip there.The Bad- The bell boy took a long time to bring the luggage to the room. Had to call the bell boy and describe our luggage before they bring it up.- The eateries at the hotel are quite expensive. The breakfasts are quite average too.- The room looks old and there are limited channels available on the TV.- Nothing much to do at the hotel. Can be quite boring. The 'shopping mall' near the hotel only has a few restaurants, eateries and a supermarket. Nothing much to shop. - Followed the instructions on the website but had some difficulties finding the bus stop. Remember to cross the road to find the bus-stop. The sign is too small for us to notice it.The Good:- The gardens are lovely and well maintained.- The room is quite spacious.- The bespectacled driver for the mini-coach was very good. Friendly and helpful. Did not manage to know his name. He is probably the best service staff I met in HK.  
+<Date>Aug 11, 2008
+<Rating>3	3	3	2	4	4	3	-1	
+<Aspects>
+9	12(friendly):1	14(helpful):1	144(short):1	248(consider):1	295(name):1	563(driver):1	645(manage):1	1098(bore):1	1907(hk):1	
+9	103(star):1	124(expensive):1	342(island):1	1571(gold):1	1682(coast):1	1779(eatery):1	1907(hk):1	2078(kowloon):1	3308(defintely):1	
+12	5(time):1	20(look):1	50(bad):1	111(spacious):1	116(tv):1	134(available):1	142(bring):1	249(luggage):1	510(limit):1	741(channel):1	801(bell):1	881(boy):1	
+22	10(restaurant):1	30(beach):1	33(trip):1	49(shop):2	96(worth):1	102(near):1	120(bus):1	122(stop):1	209(tourist):1	230(road):1	262(website):1	354(notice):1	375(remember):1	449(sign):1	482(follow):1	643(mall):1	1078(supermarket):1	1228(cross):1	1777(difficulty):1	1779(eatery):1	1907(hk):1	2386(instruction):1	
+3	87(lovely):1	310(garden):1	562(maintain):1	
+5	0(staff):1	9(service):1	178(probably):1	196(meet):1	1907(hk):1	
+8	6(breakfast):1	67(call):1	142(bring):1	227(average):1	249(luggage):1	801(bell):1	881(boy):1	955(describe):1	
+0	
+
+<Author>Brocko25
+<Content>Nice Hotel, if you want to relax This hotel is a bit out of the way, but perfect for a relaxing break. The bed is great, the rooms very large by HK standards. The Lobby and atrium are beautiful, and the glass elevator is great! The common areas of the hotel were stunning, with beautiful gardens. Unfortunately, the Pool Area was roped off and out of bounds during our entire 2 night stay, because of forecast thunderstorms. Unusual, because in Queensland this practice is not followed, nor at the Hotel we stayed at on Hong Kong Island. Very disappointing, bad form by the hotel I say. Breakfast was great, and plentiful, while the A La Carte restaurant served fantastic food, at reasonable prices. My only criticism of the hotel (apart from closing the pool!) was the Concierge. They were entirely unhelpful, and it seemed like a sport to them, to try and hinder my enjoyment of my stay. I tried to book 1 day ahead for the shuttle, and was told its not possible, but I could awaken at 7am in the morning, and come down to book it with them. So I did this, but it certainly didnt assist in my having a relaxing time at the hotel. I asked the concierge a handful of questions in 2 days, and each time was treated with less than friendly attitudes  
+<Date>Jul 9, 2008
+<Rating>4	3	4	4	4	4	3	4	
+<Aspects>
+36	2(night):1	4(nice):1	5(time):1	22(pool):1	45(beautiful):1	50(bad):1	52(bit):1	74(perfect):1	76(try):1	154(disappoint):1	160(relax):3	228(break):1	310(garden):1	329(entire):1	342(island):1	482(follow):1	524(unfortunately):1	626(didnt):1	830(common):1	919(sport):1	970(nor):1	988(stun):1	1121(kong):1	1123(hong):1	1164(form):1	1265(assist):1	1610(unusual):1	1618(unhelpful):1	2069(entirely):1	2203(practice):1	3036(enjoyment):1	3832(rope):1	4110(forecast):1	6255(thunderstorm):1	10188(hinder):1	11437(bound):1	
+0	
+3	11(bed):1	130(standard):1	1907(hk):1	
+13	8(day):1	18(book):2	22(pool):1	28(close):1	56(morning):1	69(tell):1	253(tried):1	321(shuttle):1	857(apart):1	976(ahead):1	2049(criticism):1	2939(awaken):1	6302(7am):1	
+0	
+8	5(time):1	8(day):1	12(friendly):1	204(concierge):2	320(treat):1	394(question):1	821(attitude):1	3966(handful):1	
+15	6(breakfast):1	10(restaurant):1	16(food):1	19(price):1	45(beautiful):1	55(lobby):1	86(fantastic):1	174(serve):1	216(elevator):1	225(la):1	273(reasonable):1	327(glass):1	681(carte):1	1039(plentiful):1	1968(atrium):1	
+0	
+
+<Author>TLMTRAVELLER
+<Content>Fabulous! Maybe not 5 star, but excellent 4 star, Great Value. We really enjoyed our stay here. The rooms were lovely, good facilties, beautiful gardens. Need to heat the pool. It was too cold to use! Our children really enjoyed it. Not much choice of restaurants nearby, but the hotel restaurants is ok. Nice breakfast. Would definitely return.Reception needs to get it's act toghetr check in took about an hour on both visits here. After a 13 hour flight, 3 children and 2 OAPs in the group, we expected a much swifter check in.  
+<Date>Jun 18, 2008
+<Rating>5	5	4	4	4	2	3	2	
+<Aspects>
+8	22(pool):1	39(return):1	51(enjoy):2	59(definitely):1	222(cold):1	270(fabulous):1	277(child):1	539(heat):1	
+8	10(restaurant):2	21(excellent):1	81(value):1	103(star):2	107(choice):1	123(ok):1	232(nearby):1	308(maybe):1	
+10	32(check):1	45(beautiful):1	60(hour):1	62(expect):1	87(lovely):1	233(flight):1	277(child):1	310(garden):1	4245(swift):1	6708(facilty):1	
+0	
+0	
+5	32(check):1	60(hour):1	65(visit):1	129(reception):1	1920(Act):1	
+2	4(nice):1	6(breakfast):1	
+0	
+
+<Author>KirstineDenmark
+<Content>Great hotel compared to the low price       The lovely pool  
+<Date>Mar 14, 2008
+<Rating>5	5	4	4	3	5	5	-1	
+<Aspects>
+0	
+5	19(price):1	22(pool):1	87(lovely):1	381(compare):1	513(low):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>dianeretsoc
+<Content>Happy Chinese New Year! Had a very happy stay! and being New Year definitly added something special to the visit.No not really 5 star but a good 4 and a half, with helpfull staff, and a very large room provided. The choice of pillows from the pillow menu was excellent as was room service!. Food in the resturant was a little slow, and language difficulties were had but hey what do you expect for the bargin price.Initially we were disappointed to be so far out of Kowloon or the Island but after a few hectic days we were glad of the beach, and pool! and a bit of peace and quiet!We would definitly go again and hope to spend some more time in the hotel as it was very relaxing!  
+<Date>Mar 4, 2008
+<Rating>4	4	4	4	3	4	4	4	
+<Aspects>
+10	5(time):1	64(spend):1	65(visit):1	155(happy):2	160(relax):1	208(special):1	328(hope):1	351(add):1	764(chinese):1	2971(definitly):2	
+10	0(staff):1	9(service):1	21(excellent):1	103(star):1	107(choice):1	153(provide):1	283(half):1	303(pillow):2	423(menu):1	1478(helpfull):1	
+3	52(bit):1	58(quiet):1	1517(peace):1	
+9	8(day):1	22(pool):1	30(beach):1	154(disappoint):1	342(island):1	619(glad):1	1439(initially):1	2078(kowloon):1	2732(hectic):1	
+0	
+0	
+10	16(food):1	19(price):1	23(little):1	62(expect):1	455(slow):1	698(language):1	1367(hey):1	1661(resturant):1	1777(difficulty):1	4608(bargin):1	
+0	
+
+<Author>MadamMuck
+<Content>A lovely hotel but not 5*       Our view (and what a view!)  
+<Date>Jan 10, 2008
+<Rating>4	5	3	4	4	4	4	3	
+<Aspects>
+2	17(view):2	87(lovely):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>MelbAust
+<Content>The Sum equals more than the parts       Lobby  
+<Date>Nov 14, 2007
+<Rating>4	4	3	3	-1	4	4	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+3	55(lobby):1	1651(sum):1	2948(equal):1	
+0	
+
+<Author>virtual_tourist_uk
+<Content>Pleasantly surprised My family and I have just returned from 6 nights at the Gold Coast Hotel Hong Kong. It was planned as an extended stop over to break up the long journey from Heathrow to Sydney.We had pre-booked (500HK$) a Mercedes Limo from Hong Kong Airport to the hotel, on arriving at the arrivals hall a smartly dressed man was waiting for us clearly displaying a board with our name. He promptly showed us to the Limo and we were taken directly to the hotel. The hotel is a 25 minute journey from Hong Kong Airport.The lobby of the hotel is very impressive, polished marble everywhere and very clean. We checked in, and our luggage was taken to our room. The room was clean and bright and had a lovely balcony over looking the sea and marina. There were 2 double beds, however were not the standard size and were a bit small. The most comfortable way of sleeping was if my wife and I slept with one of our children rather than together.The hotel has a beautiful lagoon style pool area and very well established fauna. There are cabana鈥檚 available if you need to get out of the heat of the sun, however there is plenty of palm trees for natural shade. Lying by the pool you could be in any tropical country it鈥檚 absolutely gorgeous. There are two water slides, that can keep children occupied.The hotel has direct access to the beach; however the beach is used more by the locals than hotel residents. The beach was clean, had a shark net and life guard, however the sea did not look too appetising.Logistically the hotel does seem to be a little way out of Hong Kong; however there is a hotel bus that leaves either end [Hotel to HK 鈥?HK to Hotel] on the hour, the last bus back from HK is at 11pm; the journey time is about 30 鈥?40 minutes depending on time of travel. The hotel offers an extensive buffet breakfast and dinner. Or you can opt for the short walk the Gold Coast Mall, sounds rather grand however is made up of a number of restaurants, 7even11, and a MacDonald鈥檚 all reasonably priced.  
+<Date>Nov 7, 2007
+<Rating>4	5	3	3	4	4	3	3	
+<Aspects>
+43	2(night):1	22(pool):2	39(return):1	45(beautiful):1	57(water):1	106(family):1	122(stop):1	134(available):1	158(plenty):1	189(absolutely):1	199(surprise):1	221(plan):1	228(break):1	277(child):1	326(style):1	383(directly):1	420(sun):1	446(gorgeous):1	530(country):1	539(heat):1	747(pleasantly):1	795(shade):1	809(sydney):1	812(tropical):1	828(tree):1	987(palm):1	1121(kong):1	1123(hong):1	1142(slide):1	1166(lie):1	1212(promptly):1	1303(extend):1	1362(journey):1	1543(natural):1	1571(gold):1	1678(occupy):1	1682(coast):1	2045(lagoon):1	2567(limo):1	2963(cabana):1	4619(establish):1	5811(heathrow):1	11094(fauna):1	
+0	
+35	3(clean):1	11(bed):1	20(look):1	25(comfortable):1	29(minute):1	32(check):1	52(bit):1	53(arrive):1	83(size):1	85(wait):1	87(lovely):1	95(airport):2	104(sleep):2	130(standard):1	179(double):1	184(wife):1	191(balcony):1	224(arrival):1	249(luggage):1	277(child):1	295(name):1	600(board):1	616(hall):1	758(sea):1	880(bright):1	935(dress):1	1121(kong):2	1123(hong):2	1362(journey):1	1427(marina):1	1917(display):1	2567(limo):1	4507(pre-booke):1	5004(mercede):1	6690(smartly):1	
+38	3(clean):1	5(time):2	7(walk):1	10(restaurant):1	19(price):1	20(look):1	23(little):1	29(minute):1	30(beach):3	60(hour):1	68(travel):1	120(bus):2	144(short):1	159(access):1	195(local):1	335(numb):1	365(grand):1	409(sound):1	426(life):1	578(reasonably):1	643(mall):1	758(sea):1	803(direct):1	969(depend):1	1121(kong):1	1123(hong):1	1184(opt):1	1362(journey):1	1571(gold):1	1593(leaf):1	1682(coast):1	1762(guard):1	1907(hk):3	1962(shark):1	1988(resident):1	2076(net):1	6840(11pm):1	10624(appetise):1	
+5	3(clean):1	55(lobby):1	705(marble):1	920(impressive):1	2699(polish):1	
+0	
+5	6(breakfast):1	77(buffet):1	89(offer):1	117(dinner):1	1703(extensive):1	
+0	
+
+<Author>Hongkongfirsttimer
+<Content>A little bit of paradise Stayed here for 12 nights from 13th October. Fantastic hotel and would thoroughly recommend for a bit of relaxation from the bustle of Kowloon and HK island. Staff were friendly and although the breakfast was quite expensive, the meals in breakers bar were excellent value. 4 course meal for roughly 拢10.00 each. Staff in bar were very friendly giving us advise on what to see and where to go.Room was beautiful. Fantastic view from our Grande deluxe room. South China sea on one side and marina on the other. What more could you ask for. We never had a problem with noise. All in all a very relaxing place to stay  
+<Date>Oct 31, 2007
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+15	2(night):1	23(little):1	52(bit):1	94(noise):1	160(relax):1	213(meal):1	293(course):1	748(Paradise):1	758(sea):1	769(south):1	911(october):1	1159(china):1	1427(marina):1	2710(13th):1	3196(roughly):1	
+9	0(staff):1	6(breakfast):1	12(friendly):1	21(excellent):1	27(bar):1	81(value):1	124(expensive):1	213(meal):1	3744(breaker):1	
+5	17(view):1	45(beautiful):1	86(fantastic):1	648(deluxe):1	3975(grande):1	
+9	15(recommend):1	52(bit):1	86(fantastic):1	342(island):1	898(thoroughly):1	1107(bustle):1	1662(relaxation):1	1907(hk):1	2078(kowloon):1	
+0	
+4	0(staff):1	12(friendly):1	27(bar):1	663(advise):1	
+0	
+0	
+
+<Author>h1st0ry
+<Content>Very Disappointing       Another view from the balcony  
+<Date>Oct 10, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+3	17(view):1	154(disappoint):1	191(balcony):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Kripp11
+<Content>good value offering comfortable and well equipped facilities Spacious lobby area impressive, we stayed in a deluxe double bedded room which was a decent size and fairly well equipped. Food in the Atrium was good value, Cafe Lagoon offers a great choice of buffet breakfast breakfast and dinner, fantastic choice. Room service also excellent. Reasonable prices and periodic special offers makes this hotel a decent choice offering value for money and would rate this hotel to be a good 4 star resort hotel. Thoroughly agree with previous posting on this resort. Don't expect pool area to be open from morning till night when there is a potential threat of thunderstorms during monsoon season. Some pool staff were also fussy , told my wife off for using the water slides when playing with our ten year old , must be under 16 to use, even though the pool area was empty ! There is also a health club offering massage treatments at reasonable prices , gym with sauna and steam room. Last weekend of August was very busy, hotel well suited for families with kids, facilities included indoor playroom with table tennis, snooker, amusements, , indoor war game area, tennis courts, outside kids play area, pool and 2 water slides. The complimentary shuttle bus to Tsim Tsai Tsui was a welcome bonus and included in our stay, departs on the hour until 11pm. A little too far out of town but not really a problem, depending on traffic conditions, takes 30-40 minutes each way to Tsim Tsai Tsui, drop off at the side of the Peninsula Hotel. Concierge was very informative and friendly.Tuen Mun is a fairly large town with a shopping mall, easy to get to costing approximately $25 by taxi. If you wish to go sigtseeing, head for Lantau Island to see Big Buddha, take the hotel free shutte to Tsing Ye, then MTR to Tung Chung. From there, either take bus or taxi, costing around $170 HKD each way, well worth the visit. Although the hotel offered good service and accomondation, having stayed once here, I don't think I would stay this far out of Hong Kong again, and would probably try out Shatin on my next visit which also offers decent hotels at reasonable prices with easy access to China and Hong Kong being closer to the KCR and MTR Rail network.  
+<Date>Sep 8, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+23	2(night):1	22(pool):1	46(free):1	56(morning):1	62(expect):1	72(resort):1	319(head):1	342(island):1	373(previous):1	384(wish):1	473(agree):1	610(season):1	644(post):1	898(thoroughly):1	979(till):1	1923(mtr):1	1995(potential):1	6255(thunderstorm):1	6463(threat):1	8137(buddha):1	9000(lantau):1	10880(monsoon):1	12867(chung):1	
+25	9(service):1	19(price):2	28(close):1	65(visit):1	72(resort):1	76(try):1	78(rate):1	80(money):1	81(value):1	89(offer):4	93(easy):1	103(star):1	107(choice):1	159(access):1	178(probably):1	208(special):1	257(decent):2	273(reasonable):2	1121(kong):2	1123(hong):2	1159(china):1	1755(rail):1	1923(mtr):1	2937(network):1	11377(kcr):1	
+16	9(service):1	11(bed):1	21(excellent):1	25(comfortable):1	55(lobby):1	81(value):1	83(size):1	89(offer):1	111(spacious):1	179(double):1	211(facility):1	257(decent):1	462(fairly):1	648(deluxe):1	884(equip):2	920(impressive):1	
+47	22(pool):1	23(little):1	29(minute):1	49(shop):1	57(water):1	60(hour):1	65(visit):1	71(include):2	93(easy):1	96(worth):1	98(outside):1	106(family):1	120(bus):2	172(weekend):1	175(cost):2	185(taxi):2	201(kid):2	202(welcome):1	211(facility):1	220(busy):1	229(table):1	239(town):2	263(condition):1	321(shuttle):1	345(complimentary):1	386(play):1	462(fairly):1	486(traffic):1	643(mall):1	662(drop):1	683(game):1	849(bonus):1	861(suit):1	969(depend):1	1068(court):1	1142(slide):1	1680(indoor):2	1734(tennis):2	1814(depart):1	1961(approximately):1	2738(peninsula):1	4624(war):1	4895(tsim):2	5250(tsui):2	6134(hkd):1	6182(amusement):1	6840(11pm):1	
+0	
+12	0(staff):1	12(friendly):1	22(pool):2	57(water):1	69(tell):1	184(wife):1	204(concierge):1	386(play):1	810(empty):1	1142(slide):1	1867(fussy):1	1976(informative):1	
+20	6(breakfast):2	16(food):1	19(price):1	77(buffet):1	81(value):1	86(fantastic):1	89(offer):2	107(choice):2	117(dinner):1	212(club):1	273(reasonable):1	275(cafe):1	523(gym):1	730(massage):1	1147(treatment):1	1422(sauna):1	1736(health):1	1760(steam):1	1968(atrium):1	2045(lagoon):1	
+0	
+
+<Author>andytheboy69
+<Content>Gold Coast Resort The Hotel was quite nice and well located. The free shuttle service to Hong Kong was exellent. However, our stay was ruined by their readiness to close to the pool when they had a thunderstorm warning. Everyday, we were asked to leave the pool for 4 hours between 12-4.00 when the sky was blue. Not .once was there a storm and they did not tell you the pooll was open again!Apparently, this happens between May  Spetember so if you are coming to this hotel for a rest by a nice swimming pool, dont bother.  
+<Date>Aug 31, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	22(pool):1	43(leave):1	60(hour):1	69(tell):1	605(everyday):1	694(blue):1	1884(storm):1	1909(sky):1	
+0	
+0	
+16	4(nice):1	9(service):1	22(pool):1	28(close):1	46(free):1	72(resort):1	84(locate):1	321(shuttle):1	679(warn):1	1121(kong):1	1123(hong):1	1243(ruin):1	1571(gold):1	1682(coast):1	4630(exellent):1	6255(thunderstorm):1	
+0	
+0	
+8	4(nice):1	22(pool):1	261(swim):1	288(rest):1	307(bother):1	382(happen):1	503(dont):1	863(apparently):1	
+0	
+
+<Author>Kaye_S
+<Content>Picturesque, but service could be better We live in Hong Kong, so the considerable distance of this resort hotel from the city didn't bother us. We just wanted a night to ourselves and have, in fact, stayed here before. I booked a special online via the hotel's website, which gave us a better deal than any discount hotel deals I could find. We stayed in a Deluxe Balcony room, but it was definitely smaller and less luxurious than the last time, so I can only assume we had a different deal before. The room was still fairly large by Hong Kong standards, with a king size bed and good sized balcony. Worst thing was the room not being ready when we arrived, 25 mins before official check-in. Ok, fair enough. However, we were advised it would not be ready for nearly an hour. Would we like to upgrade (extra cost) to a room that was ready now? We thought this was just a ploy to extract more money, so declined. However, the room really wasn't ready for 55 mins, and we weren't the only ones waiting in the lobby. Amazingly, we weren't offered a free coffee, half-price dinner, or any other practical apology as compensation. We ate in their Cafe Lagoon restaurant, which offers a buffet dinner or a-la-carte. Delicious, as was the buffet breakfast, although the line for freshly-cooked eggs was too long to bother with. Fantastic resort-style pool that was almost too warm, but sadly no hot-tub.  
+<Date>Aug 5, 2007
+<Rating>3	4	3	3	4	1	2	-1	
+<Aspects>
+14	2(night):1	22(pool):1	60(hour):1	80(money):1	86(fantastic):1	236(warm):1	274(ready):1	663(advise):1	767(ourselves):1	896(nearly):1	2135(sadly):1	2394(decline):1	9700(extract):1	10593(hot-tub):1	
+4	128(extra):1	163(upgrade):1	175(cost):1	274(ready):1	
+20	5(time):1	11(bed):1	55(lobby):1	59(definitely):1	83(size):2	85(wait):1	123(ok):1	130(standard):1	140(deal):1	191(balcony):2	243(king):1	247(min):1	274(ready):1	462(fairly):1	648(deluxe):1	708(luxurious):1	739(fair):1	1121(kong):1	1123(hong):1	1407(assume):1	
+0	
+0	
+6	50(bad):1	53(arrive):1	247(min):1	274(ready):1	286(check-in):1	2995(official):1	
+36	6(breakfast):1	9(service):1	10(restaurant):1	18(book):1	41(city):1	46(free):1	47(eat):1	72(resort):1	77(buffet):2	89(offer):2	90(coffee):1	115(distance):1	117(dinner):2	140(deal):2	188(line):1	206(live):1	208(special):1	262(website):1	275(cafe):1	307(bother):2	412(egg):1	485(delicious):1	512(via):1	822(online):1	864(discount):1	1121(kong):1	1123(hong):1	1547(apology):1	1846(amazingly):1	2045(lagoon):1	2885(compensation):1	3107(practical):1	3387(picturesque):1	3692(considerable):1	5422(a-la-carte):1	11969(half-price):1	
+0	
+
+<Author>Calcof
+<Content>Fantastic Hotel for Families  We went for a short stay of 7 days and wished we had been there longer. The staff as expected from the orient were fantastic and sooo helpful. The concierge desk spoke amazing English and seemed to know everything about everything, shocking!The food was not cheap in the hotel but not expensive either. Room service was value for money, fast and tasty. The food from the restaurant was great and really really tasty, you just have to eat there. The pools were amazing with 2 life guards on duty all the time watching over you. We felt at ease to let our son play in the pools and on the water slides knowing he was safe. The pool area is stunning and clean, in fact the whole hotel was immaculate. The hotel cocktails are divine, but not cheap by HK standards and really nice, try them!!!!!You just have to take a short walk to the shops and few restaurants around the corner....The MASSIVE prawns and lobster were so low priced and tasted out of this world, everything so fresh and tasty....This hotel is great for families who want to relax and chill out while the kids play safe in the amazing pools. Or those that want a base to operate from in luxury surroundings but within easy reach of the main shopping and business areas.....As for shopping go to the markets as they are CHEAP!!!!!!!!!!!!!! Barter hard as the prices offered crumble. We got toys, electronics, handbags and all sorts of items for next to nothing and even had to buy a massive suit case at the market to bring it all home in (Case was 拢10) back home we paid 拢50 for the small hand luggage in the same design and when we checked the big one was over 拢90 in the UK shops......Would we recommend this to anyone.........YES! We are going back again but not in June as it was pretty wet with high humidity and very hot.........Our cases will be empty when we get there but full on way back that's for sure!  
+<Date>Aug 1, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+27	5(time):1	8(day):1	15(recommend):1	22(pool):2	34(feel):1	57(water):1	86(fantastic):1	106(family):1	109(pretty):1	114(hot):1	137(safe):1	144(short):1	145(amaze):1	245(watch):1	250(yes):1	384(wish):1	386(play):1	426(life):1	612(son):1	664(june):1	810(empty):1	1032(wet):1	1142(slide):1	1325(duty):1	1762(guard):1	2057(ease):1	2115(humidity):1	
+19	4(nice):1	9(service):1	16(food):1	19(price):1	76(try):1	80(money):1	81(value):1	89(offer):1	124(expensive):1	130(standard):1	143(cheap):2	162(hard):1	499(fast):1	716(cocktail):1	984(tasty):1	1907(hk):1	2932(barter):1	3481(divine):1	8094(crumble):1	
+0	
+47	7(walk):1	10(restaurant):1	19(price):1	22(pool):1	32(check):1	42(pay):1	49(shop):4	93(easy):1	106(family):1	112(main):1	137(safe):1	141(home):2	142(bring):1	143(cheap):1	144(short):1	145(amaze):1	147(business):1	160(relax):1	197(fresh):1	200(corner):1	201(kid):1	249(luggage):1	264(market):2	272(world):1	280(buy):1	284(base):1	377(hand):1	386(play):1	437(luxury):1	439(taste):1	513(low):1	516(design):1	519(item):1	557(sort):1	851(reach):1	861(suit):1	984(tasty):1	1113(lobster):1	1178(uk):1	1329(massive):2	1397(chill):1	1551(surroundings):1	1623(operate):1	2589(toy):1	5258(prawn):1	5486(electronics):1	9762(handbags):1	
+4	3(clean):1	22(pool):1	894(immaculate):1	988(stun):1	
+12	0(staff):1	14(helpful):1	36(desk):1	62(expect):1	86(fantastic):1	127(speak):1	145(amaze):1	152(english):1	204(concierge):1	1206(shock):1	2385(orient):1	2679(sooo):1	
+4	10(restaurant):1	16(food):1	47(eat):1	984(tasty):1	
+0	
+
+<Author>km_77
+<Content>Excellent value for money!!!Recommended+++ Stayed with my wife at the Gold Coast Hotel for 5 nights in mid June,2007. Extremely impressed with the attention to detail, helpfulness of staff, good sized room, excellent facilities(better than many 5* facilities in other parts of the world)including 2X massive swimming pools  nice beach..overall great value for money. The only downside is the distance into HK but it is not a big issue, with bus no 962  962b running every 20 mins or so to Admiralty/Causeway Bay in HK island ( 拢 1.20, around 40 mins)  a regular mini buses to Tsim Sha Tsui  Mong Kok in Kowloon (拢 1, around 35 mins) round the clock. There is also a hotel shuttle to TST every hour but its slightly more expensive. The hotel also operates a shuttle to HK airport every hour ( 拢 6, 40 mins).HK is brilliant for shopping with clothes/accesories around 1/5th of UK prices. Electronics are also cheap but beware of shops in Tsim Sha Tsui, which operate various scams on tourists.  
+<Date>Jun 23, 2007
+<Rating>5	-1	5	3	5	5	5	3	
+<Aspects>
+7	2(night):1	15(recommend):1	184(wife):1	664(june):1	1313(mid):1	1571(gold):1	1682(coast):1	
+14	19(price):1	21(excellent):1	49(shop):1	60(hour):1	70(overall):1	80(money):2	81(value):2	124(expensive):1	321(shuttle):1	598(slightly):1	793(brilliant):1	1178(uk):1	1907(hk):1	6729(tst):1	
+17	0(staff):1	4(nice):1	21(excellent):1	22(pool):1	30(beach):1	71(include):1	83(size):1	110(extremely):1	211(facility):2	261(swim):1	272(world):1	343(impress):1	592(detail):1	726(attention):1	1329(massive):1	3872(helpfulness):1	9797(2x):1	
+30	49(shop):1	60(hour):1	95(airport):1	115(distance):1	120(bus):2	143(cheap):1	149(run):1	209(tourist):1	247(min):4	265(issue):1	321(shuttle):1	342(island):1	448(mini):1	671(bay):1	737(beware):1	744(regular):1	782(downside):1	823(various):1	1291(clock):1	1623(operate):2	1907(hk):3	2078(kowloon):1	3032(scam):1	4895(tsim):2	5231(sha):2	5250(tsui):2	5486(electronics):1	6090(mong):1	6117(kok):1	10590(admiralty):1	
+0	
+0	
+0	
+0	
+
+<Author>danicasey
+<Content>Excellent Standard of Accommodation Spent six night there with husband and daughters (early twenties). Everything from ambience, service, cleanliness and standard of presentation was excellent. The distance from Kowloon and Hong Kong Island etc was easily overcome by using the extremely traveller friendly KTR rail system. My advice to anyone is to take a cab to Tuen Mun station $3AUS and get the train from there or catch a bus opposite the Gold Coast Shopping Centre. Would highly recommend the hotel to all.  
+<Date>May 7, 2007
+<Rating>5	5	5	4	5	4	5	4	
+<Aspects>
+2	15(recommend):1	138(highly):1	
+8	2(night):1	21(excellent):1	64(spend):1	105(husband):1	130(standard):1	467(daughter):1	721(accommodation):1	5460(twenty):1	
+0	
+11	49(shop):1	82(station):1	101(center):1	120(bus):1	182(train):1	380(cab):1	540(catch):1	575(advice):1	783(opposite):1	1571(gold):1	1682(coast):1	
+6	9(service):1	21(excellent):1	130(standard):1	854(cleanliness):1	957(ambience):1	1932(presentation):1	
+0	
+0	
+13	12(friendly):1	73(etc):1	110(extremely):1	115(distance):1	267(traveler):1	342(island):1	438(easily):1	518(system):1	1121(kong):1	1123(hong):1	1755(rail):1	2078(kowloon):1	4898(overcome):1	
+
+<Author>Mickytraveller
+<Content>Fantastic Hotel thats a bargain       The room with a view  
+<Date>May 6, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+4	17(view):1	86(fantastic):1	759(bargain):1	1198(thats):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>aroundtheworldticket
+<Content>What an amazing place I loved this hotel from the moment we got there to the moment we left. I stayed at the hotel for 2 weeks while on a holiday to hong kong. The hotel recration facilites were great, the hotel offered tennis, tabble tennis, basketball, snooker, golf, archery a gym and many more. The hotel has a freeform lagoon style pool; which is massive, and also a childrens pool with two slides; both pools protected by trained life gaurds. Just across the complex is the beach which has beautiful gold sand and is also protected by life gaurds. There are plenty of nice places to eat in the hotel; the hotel has four restraunts,bars and cafes, all to a high standard with cheap prices, if you wanted to venture out of the hotel, you can take a short walk (dont even have to leave hotel grounds) to the golden palace shopping centre which offers great places to eat such as ' chilli and spice.' Our hotel room was perfect, 1 double bed and a huge king sized bed. The room contained a large widscreen tv a safe we had 2 sinks a standing shower and a beautiful deep bath. The house keeping were great they made the beds and cleaned the room every day to a very high standard making it spotlessly clean. The hotel it self is very grand, there is marbel every where but it is just the right touch; not to over powering. The Lobby was beautifull, there were fresh flowers, a water feature a lobby shop and many more. As you walked into the hotel a smartly dressed hotel bell boy opened the door and greated you with a smile. The hotel staff were brilliant there was not one grumpyface, they were all so helpfull friendly and looked after your every need. All in all this hotel is an EXELLENT place to stay wheather its for two day or to weeks; this is the place to stay ; yes it may not be situated bang in the heart of the city centre but who wants to be on top of the hussle and bussle of millions of people on Nathon road and any how the hotel offers a free bus servise to the guests back a forward to the city every hour on the hour, so its no hassle at all.  
+<Date>Apr 15, 2007
+<Rating>5	4	5	5	5	5	5	4	
+<Aspects>
+12	40(love):1	43(leave):1	75(week):1	145(amaze):1	223(holiday):1	279(touch):1	365(grand):1	670(moment):2	1121(kong):1	1123(hong):1	1276(power):1	1314(self):1	
+22	4(nice):1	7(walk):1	19(price):1	27(bar):1	43(leave):1	47(eat):2	49(shop):1	89(offer):1	101(center):1	130(standard):1	143(cheap):1	144(short):1	158(plenty):1	275(cafe):1	285(ground):1	503(dont):1	642(palace):1	1317(golden):1	1440(venture):1	3089(spice):1	4062(restraunts):1	4363(chilli):1	
+20	3(clean):2	8(day):1	11(bed):3	45(beautiful):1	61(shower):1	74(perfect):1	83(size):1	116(tv):1	130(standard):1	133(huge):1	137(safe):1	179(double):1	226(bath):1	243(king):1	281(house):1	444(stand):1	509(sink):1	1043(deep):1	1094(spotlessly):1	1545(contain):1	
+51	7(walk):1	8(day):1	22(pool):3	26(people):1	30(beach):1	41(city):2	45(beautiful):1	46(free):1	49(shop):1	54(door):1	55(lobby):2	57(water):1	60(hour):2	75(week):1	89(offer):1	91(guest):1	101(center):1	118(top):1	120(bus):1	182(train):1	197(fresh):1	230(road):1	250(yes):1	326(style):1	387(smile):1	426(life):2	450(heart):1	522(sand):1	574(situate):1	731(feature):1	750(forward):1	778(flower):1	801(bell):1	881(boy):1	935(dress):1	1074(complex):1	1142(slide):1	1193(hassle):1	1329(massive):1	1401(bang):1	1571(gold):1	2045(lagoon):1	3157(protect):2	3572(greate):1	3896(beautifull):1	4369(childrens):1	4630(exellent):1	5909(hussle):1	6388(million):1	6690(smartly):1	6805(bussle):1	
+0	
+5	0(staff):1	12(friendly):1	20(look):1	793(brilliant):1	1478(helpfull):1	
+7	89(offer):1	523(gym):1	1012(golf):1	1734(tennis):2	3584(basketball):1	3948(facilite):1	4008(archery):1	
+0	
+
+<Author>BlueRusso
+<Content>Spent a night due to a diverted flight       The hotel is behind the yacht  
+<Date>Feb 14, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+6	2(night):1	64(spend):1	233(flight):1	259(due):1	8003(yacht):1	11846(divert):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>RickPorgera
+<Content>Great spot for family stays...yet quiet and picturesque.       Boardwalk out front - on the beach.  
+<Date>Dec 24, 2006
+<Rating>4	4	4	4	4	4	4	3	
+<Aspects>
+0	
+0	
+4	58(quiet):1	106(family):1	317(spot):1	3387(picturesque):1	
+3	30(beach):1	31(front):1	5357(boardwalk):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Loved the Gold Coast Hotel       The lobby looking out onto the back deck area  
+<Date>Jan 29, 2006
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+6	20(look):1	40(love):1	55(lobby):1	1406(deck):1	1571(gold):1	1682(coast):1	
+0	
+

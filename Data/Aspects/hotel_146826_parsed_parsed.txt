@@ -1,0 +1,588 @@
+<Author>Chancellor483
+<Content>Don't let the whitewash fool you The lobby looks spectacular with marble and lights. However, on the floors, the decore is old, falling apart and cheap. The interior of the room is old used furniture and a king size bed is simply two double beds pushed together. Water presure is awful, and shower height is built for very short persons. Parking is non-existent, unless you want to pay $18 a day valet. Pool is tiny and spa area is a joke. Be prepared to pay for everything from parking to overpriced breakfast (go to IHOP down the block) to coffee in the room. Cable TV has 7 channels on a small TV set.No view of the ocean.Go elsewhere for your money  
+<Date>Aug 20, 2008
+<Rating>2	1	1	3	2	3	2	1	
+<Aspects>
+8	17(view):1	22(pool):1	80(money):1	205(ocean):1	314(spa):1	338(tiny):1	646(elsewhere):1	1175(joke):1	
+6	8(day):1	42(pay):1	66(park):1	405(unless):1	457(valet):1	2580(nonexistent):1	
+30	11(bed):2	20(look):1	24(floor):1	55(lobby):1	57(water):1	61(shower):1	83(size):1	116(tv):2	135(build):1	143(cheap):1	144(short):1	157(light):1	179(double):1	193(person):1	234(set):1	243(king):1	440(furniture):1	484(cable):1	488(simply):1	587(fall):1	656(spectacular):1	705(marble):1	736(awful):1	741(channel):1	857(apart):1	1026(interior):1	1041(push):1	2098(fool):1	2279(height):1	8382(decore):1	
+0	
+0	
+0	
+8	6(breakfast):1	42(pay):1	66(park):1	90(coffee):1	100(bloc):1	460(prepare):1	727(overprice):1	5191(ihop):1	
+0	
+
+<Author>John_in_central_CA
+<Content>Decent for the price I was traveling to Oahu for business, and decided to save some money on the hotel in order to stay a couple of extra days instead. This hotel was one of the lower priced hotels I could find that still had some decent reviews and was in the waikiki area.The location is a little difficult to get to, but many in the area are - with all of the one-way streets in the area, it's a little tricky to get to. It is just a block and a half (very small blocks) from Kalakaua street, which is kind of the main drag in waikiki and where most of the stores and restaurants are at. There are a lot of stores, convenience stores, and restaurants within walking distance.The room itself was just average. It could use a little remodeling and was a little aged in places, but overall it was kept reasonably clean for what it was. Some of the things like the shower/bathtub, and air conditioner were showing their age. The beds were on the stiff side, and the sheets and bedspread were cheap, but they seemed clean. I did get a good sized balcony that had chairs on it, but the view faces other buildings and you can't see the water (if that matters to you) The air conditioning seemed to have two settings - room temp, and freeze. It's best to just leave the sliding window open if you don't mind the traffic noise. It may sound like I'm a little down on the room, but that's not the case. I didn't expect much for the price, and it was much better than I expected. If you're picky, you may not like it, but if you want inexpensive and decent, then the room was perfectly fine.If you park your car here, it is valet parking only, and $18 per day with unlimited in/out priveleges.The elevators were on the slow side, and showing a little wear and tear, and some of the carpets in the hallways needed to be replaced and were either wet in spots of had stains on them. I didn't care, as I didn't spend much time in the halls. This may be by design, as the heat and condition of the hallways makes the room look even better by comparison.Overall, the staff I dealt with were all friendly and nice, but I really didn't ask much of them. My room was neatly made each day. If you're looking for a bargain and are willing to sacrifice the upscale feeling of the high-dollar hotels, then this hotel would be a good choice. If you want something close to the beach, or are looking for a romantic luxurious place to stay, or something with a tropical Hawaiian atmosphere, then you'll need to spend more to get it somewhere else.  
+<Date>Apr 15, 2008
+<Rating>3	4	2	3	3	4	4	-1	
+<Aspects>
+4	5(time):1	64(spend):1	242(care):1	616(hall):1	
+32	3(clean):1	8(day):1	11(bed):1	19(price):3	20(look):1	34(feel):1	37(review):1	62(expect):2	68(travel):1	80(money):1	99(couple):1	107(choice):1	113(fine):1	128(extra):1	143(cheap):1	147(business):1	219(decide):1	257(decent):3	353(instead):1	425(save):1	472(waikiki):1	479(sheet):1	595(perfectly):1	759(bargain):1	777(lour):1	926(picky):1	1117(inexpensive):1	1237(upscale):1	1673(oahu):1	2278(bedspread):1	3587(stiff):1	4962(sacrifice):1	
+31	8(day):1	17(view):1	20(look):1	23(little):1	43(leave):1	57(water):1	61(shower):1	83(size):1	94(noise):1	119(window):1	164(air):2	191(balcony):1	198(chair):1	227(average):1	263(condition):2	294(mind):1	409(sound):1	486(traffic):1	505(age):1	516(design):1	531(matter):1	539(heat):1	580(hallway):1	745(building):1	1083(conditioner):1	1142(slide):1	1321(freeze):1	1525(comparison):1	2173(temp):1	4173(setting):1	5607(neatly):1	
+34	1(location):1	7(walk):1	8(day):1	10(restaurant):2	20(look):1	23(little):2	28(close):1	30(beach):1	35(street):2	38(lot):1	64(spend):1	66(park):2	100(bloc):2	112(main):1	115(distance):1	121(car):1	170(else):1	255(store):3	283(half):1	414(atmosphere):1	457(valet):1	472(waikiki):1	572(difficult):1	707(romantic):1	708(luxurious):1	812(tropical):1	925(convenience):1	1434(hawaiian):1	1699(drag):1	2077(unlimited):1	3071(tricky):1	4722(one-way):1	4882(kalakaua):1	8348(privelege):1	
+6	3(clean):1	23(little):2	70(overall):1	505(age):1	578(reasonably):1	1238(remodel):1	
+5	0(staff):1	4(nice):1	12(friendly):1	70(overall):1	140(deal):1	
+11	23(little):1	216(elevator):1	317(spot):1	396(carpet):1	434(wear):1	455(slow):1	580(hallway):1	723(stain):1	912(replace):1	1032(wet):1	1605(tear):1	
+0	
+
+<Author>cheaptrippin
+<Content>Royal Garden great for Convention Center travelers Don't expect more than 2-star accommodations and you will be happy with a no-frills room with a balcony. The bell desk and front desk staff were very nice and accommodating. The location was perfect for us because it was not right next to all the crowds on Kalakaua Street, yet still in walking distance if you want to do some high end shopping. It is a 12 minute walk to the Hawaii Convention Center (I'm a fast walker), otherwise you can take the #2 bus for $2 and get off on the 2nd stop in front of the Hard Rock Cafe and cross the street. Don't bother with the cabs, they're overpriced and if you enjoy eating the local fare like we do, then you too can stand the 12 minute walk. My husband is in a wheelchair so they automatically put us in a room with a wheelchair accessible shower. If you make reservations here, specify that you do not want a wheelchair accessible room because the water will get everywhere and drive you mad. They graciously moved us to a regular room and it worked out great. I have family in the area and my husband had to go to the convention center for a conference so we did not spend a lot of time in the room. The staff informed us that Wyndham bought the property and will be turning it into a timeshare once they add amenities within the year. The current management still manages the property until they take over, so that would explain why there is no more restaurant or bar in the hotel. They do have breakfast if you wake up early enough, it was offered from 6am-9am, however it was around $9 per person. We did not eat their breakfast because you pass coffee stands that sell bagels/muffins and there are also restaurants that sell cheaper breakfast on the way to the convention center. The pool is very small. Expect a wading pool. The bell man can sign out a beach towel for you. Side note: Go to the beach. There is no internet, but there is an internet cafe on the way to the convention center. This is a fine place to stay if you are on a budget and if you are not expecting a 4 star experience.  
+<Date>Apr 3, 2008
+<Rating>3	3	3	3	3	4	4	-1	
+<Aspects>
+3	22(pool):1	62(expect):1	4632(wade):1	
+25	7(walk):1	29(minute):1	44(experience):1	47(eat):1	51(enjoy):1	62(expect):2	101(center):1	103(star):1	113(fine):1	155(happy):1	191(balcony):1	195(local):1	267(traveler):1	307(bother):1	310(garden):1	380(cab):1	429(budget):1	444(stand):1	721(accommodation):1	727(overprice):1	753(royal):1	1048(convention):1	1112(fare):1	5239(2-star):1	5540(no-frills):1	
+20	5(time):1	38(lot):1	57(water):1	61(shower):1	64(spend):1	101(center):1	105(husband):2	106(family):1	156(reservation):1	207(move):1	298(drive):1	744(regular):1	794(conference):1	1048(convention):1	1342(accessible):2	2573(automatically):1	2607(mad):1	3327(wheelchair):3	3449(specify):1	3634(graciously):1	
+29	1(location):1	7(walk):2	22(pool):1	29(minute):1	30(beach):2	31(front):1	35(street):2	49(shop):1	74(perfect):1	101(center):1	115(distance):1	120(bus):1	122(stop):1	125(towel):1	162(hard):1	275(cafe):1	297(note):1	313(crowd):1	449(sign):1	499(fast):1	508(otherwise):1	773(rock):1	801(bell):1	904(hawaii):1	1048(convention):1	1228(cross):1	1326(2nd):1	3309(walker):1	4882(kalakaua):1	
+0	
+13	0(staff):2	4(nice):1	31(front):1	36(desk):2	214(property):1	280(buy):1	291(amenity):1	351(add):1	624(accommodate):1	801(bell):1	817(inform):1	2054(wyndham):1	2331(timeshare):1	
+20	6(breakfast):3	10(restaurant):2	27(bar):1	47(eat):1	89(offer):1	90(coffee):1	101(center):1	143(cheap):1	193(person):1	214(property):1	400(pass):1	444(stand):1	525(management):1	554(wake):1	606(sell):2	645(manage):1	768(explain):1	1048(convention):1	1370(bagels):1	2313(current):1	
+4	97(internet):2	101(center):1	275(cafe):1	1048(convention):1	
+
+<Author>Tikilyn
+<Content>It was just ok.....       sink and front door  
+<Date>Mar 19, 2008
+<Rating>2	2	2	3	1	5	2	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+4	31(front):1	54(door):1	123(ok):1	509(sink):1	
+0	
+0	
+
+<Author>CalgaryCharley
+<Content>Nice Hotel, Good Location, Great Price This hotel was a great bargain.The hotel does look much nicer than it actually is, but it's not bad at all. We found our room to be very clean and the staff to be very courteous and helpful.This hotel is a very short walk from the beach, a five minute stroll through Fort DeRussy Park gets you to resort central and hotels that are twice the price (at least). The location is great - you can walk anywhere in Waikiki from here. Since the price you pay is so much less than comparable hotels a block closer to the beach, you don't mind shelling out the extra $18/ day for valet parking.I have only two minor complaints about this place. 1 - There is no on site restaurant. Do not be foold into thinking the breakfast buffet offered here is worth trying. We did - and it was terrible! On the upside, less than a block south is a great restaurant serving great food all day (Vit's), and many more great restaurants are also close. It is still worth staying here - we just would have preferred to have breakfast and a dinner or two without having to leave the hotel.2 - The bathroom door is a plantation-style louvre door. Now the designer may have thought this looks nice but it's not great for sound attenuation if you know what I mean. My husband and I thought it was kind of an odd choice for a bathroom door. To further this design error, the bathroom door is three feet from th side of the bed; so if you stay here make sure it is with someone you are very comfortable with because it is impossible to have any privacy without someone leaving the hotel room.Those two minor issues aside, we were very happy with this hotel and would definitely stay here again due to the price, comfort, and location in comparison to the rest of Waikiki.  
+<Date>Mar 14, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	4(nice):2	20(look):2	50(bad):1	180(actually):1	190(complaint):1	246(mean):1	409(sound):1	432(terrible):1	720(minor):1	2131(designer):1	
+14	1(location):2	4(nice):1	19(price):2	59(definitely):1	155(happy):1	259(due):1	265(issue):1	288(rest):1	472(waikiki):1	702(comfort):1	720(minor):1	759(bargain):1	1502(aside):1	1525(comparison):1	
+23	0(staff):1	3(clean):1	6(breakfast):1	11(bed):1	13(bathroom):3	14(helpful):1	25(comfortable):1	43(leave):2	54(door):4	96(worth):1	105(husband):1	107(choice):1	117(dinner):1	402(foot):1	483(courteous):1	516(design):1	536(prefer):1	1088(odd):1	1169(impossible):1	1183(privacy):1	2137(louver):1	2505(th):1	2628(error):1	
+25	1(location):1	7(walk):2	8(day):1	10(restaurant):1	19(price):2	28(close):1	29(minute):1	30(beach):2	42(pay):1	66(park):2	72(resort):1	100(bloc):1	128(extra):1	144(short):1	168(central):1	192(site):1	294(mind):1	347(twice):1	457(valet):1	472(waikiki):1	1056(stroll):1	1813(comparable):1	2424(shell):1	3047(fort):1	11168(derussy):1	
+0	
+0	
+13	6(breakfast):1	8(day):1	10(restaurant):2	16(food):1	28(close):1	76(try):1	77(buffet):1	89(offer):1	96(worth):1	100(bloc):1	174(serve):1	769(south):1	3613(upside):1	
+0	
+
+<Author>bordeg19
+<Content>If you're that uptight then stay at the Hilton If you're planning on reserving the $100.00 standard room be warned.. you are going to get what you pay for. All but gone are the cheapo value hotel rooms in Waikiki so before you consider what these previous reviewers are saying please understand that the average $100 hotel room will include one or all of the following:1. Musty smell2. Dirty Carpets3. Old Mattresses and sheets/blankets (possibly with bedbugs)4. Old Furniture5. 24 inch sanyo cathode ray tube television6. noise, noise, noiseNow as a veteran visitor of Waikiki let me set the record straight on behalf of the hard working hotel staffers across the island who depend on your hard earned bucks to get by. Of course your room is going to be musty and dirty, 9 out of 10 tourists do not use the public showers after they go to the beach.. instead they take the beach back to the room with them including towels soaked in seawater and god knows what else if they went to Waikiki beach. Sadly the budget hotels simply aren't making enough money to update that often and normally they will do the same thing that Royal Garden does which is maintain their suites and penthouses before refurbishing the cheaper rooms. The solution is simple: Go down to the downtown Honolulu Wal-Mart and get yourself some disenfectant sprays, fabreeze, and bleach and give the room a quick cleaning the first day you get there. The go out and play for awhile because.. you're on vacation.. Everything will be fine after you get back. If the noise is really getting to you then you may want to consider staying at one of the $300.00 a night resorts like Turtle Bay or the Ko Olina because thanks to a major population boom Oahu is PACKED with people who live there now which suprisingly has had it's effect on the Waikiki traffic.Me, my Wife and my 8mo. old Daughter were fortunately upgraded to a Superior room upon arrival since the standard rooms were overbooked. The room was alot cleaner than mentioned in previous comments and it appears that the Superior rooms are now refurbished as the furniture and marble floors in the bathroom/bar area were brand new. Carpet has maybe a few more years left and the beds albeit very comfy were probably the oldest things in the room. Room was typical Waikiki musty so we just left the window open for an hour and that did the trick. All in all we were very happy with the room and fantastic service from the staff who were more than happy to help us out with our needs. We didn't wait more than 3 minutes for the Valet and found the hotel in reasonable walking distance from the beach via the Hilton Hawaiian Resort.  
+<Date>Mar 12, 2008
+<Rating>4	4	4	4	3	5	5	2	
+<Aspects>
+4	113(fine):1	184(wife):1	386(play):1	2755(awhile):1	
+13	42(pay):1	71(include):1	81(value):1	131(vacation):1	173(please):1	227(average):1	248(consider):1	373(previous):1	391(understand):1	472(waikiki):1	482(follow):1	564(reviewer):1	10925(cheapo):1	
+77	0(staff):1	3(clean):2	8(day):1	9(service):1	11(bed):1	13(bathroom):1	24(floor):1	30(beach):1	43(leave):2	60(hour):1	61(shower):1	80(money):1	86(fantastic):1	92(help):1	108(suite):1	119(window):1	130(standard):2	143(cheap):1	155(happy):2	163(upgrade):1	178(probably):1	209(tourist):1	221(plan):1	224(arrival):1	244(mention):1	293(course):1	299(quick):1	308(maybe):1	310(garden):1	323(dirty):1	334(downtown):1	356(comment):1	373(previous):1	379(public):1	396(carpet):1	429(budget):1	440(furniture):1	467(daughter):1	472(waikiki):1	475(comfy):1	477(hilton):1	488(simply):1	506(reserve):1	541(appear):1	562(maintain):1	576(yourself):1	613(simple):1	628(typical):1	647(alot):1	679(warn):1	705(marble):1	725(update):1	753(royal):1	785(superior):2	847(mattress):1	883(brand):1	1016(musty):2	1091(normally):1	1099(spray):1	1233(possibly):1	1253(refurbish):2	1310(tube):1	1395(honolulu):1	1585(fortunately):1	1688(inch):1	2068(overbooke):1	2083(albeit):1	2135(sadly):1	2527(ray):1	2614(trick):1	2800(solution):1	3425(penthouse):1	4462(bedbug):1	4943(bleach):1	6745(wal-mart):1	7216(uptight):1	10622(sheets):1	
+30	2(night):1	7(walk):1	26(people):1	29(minute):1	30(beach):1	72(resort):2	85(wait):1	94(noise):1	115(distance):1	206(live):1	248(consider):1	271(thank):1	273(reasonable):1	315(major):1	457(valet):1	472(waikiki):1	477(hilton):1	486(traffic):1	512(via):1	671(bay):1	715(pack):1	1434(hawaiian):1	1673(oahu):1	2191(effect):1	2989(turtle):1	4432(suprisingly):1	5207(boom):1	5821(population):1	9801(ko):1	12388(olina):1	
+2	323(dirty):1	1016(musty):1	
+14	94(noise):2	162(hard):2	234(set):1	342(island):1	472(waikiki):1	827(straight):1	951(visitor):1	969(depend):1	1120(buck):1	2251(record):1	2737(earn):1	4495(behalf):1	5313(staffer):1	7702(veteran):1	
+8	30(beach):2	71(include):1	125(towel):1	170(else):1	353(instead):1	472(waikiki):1	1468(soak):1	1522(god):1	
+0	
+
+<Author>wandering_wahine
+<Content>A place to sleep, little more. Walk into the lobby and you'll wonder how you found such a luxurious hotel at a discount price. Then, take the elevator to your floor and note the unpleasant odor as you step off. Insert the keycard in your door, swing it open and reveal the reason you're paying $100/night. Our room was so pitifully small, the bed was literally four inches from the bathroom door. The air conditioner was not running and did not work through the first evening. Front desk staff was hit or miss - some kind staff and others who were almost rude. Though their website advertises a hot tub and two pools, one small pool with limited lounge chairs were all that exist. Desk attendant declared that it wasn't their fault the website had not been updated in the six years since the other amenities were closed. Parking was advertised at $9/night, but the actual price is $18/night. Valet attendants were spectacular, especially the manager (I believe his name was Ted.)BAD: room, desk attendant, pool, deceptive advertisingGOOD: valet service, priceOverall, the only way I would recommend the Royal Garden is if you are set on staying in Waikiki and won't be spending ANY time in the room, except to sleep.  
+<Date>Mar 5, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+16	7(walk):1	19(price):2	42(pay):1	54(door):1	55(lobby):1	66(park):1	374(reason):1	708(luxurious):1	864(discount):1	910(advertise):1	946(wonder):1	1536(actual):1	2696(swing):1	4381(reveal):1	4664(insert):1	5044(keycard):1	
+26	5(time):1	9(service):1	11(bed):1	13(bathroom):1	15(recommend):1	22(pool):1	23(little):1	36(desk):1	50(bad):1	54(door):1	64(spend):1	104(sleep):2	149(run):1	164(air):1	234(set):1	310(garden):1	337(except):1	457(valet):1	472(waikiki):1	487(wo):1	665(literally):1	753(royal):1	1083(conditioner):1	1446(attendant):1	1688(inch):1	6524(deceptive):1	
+16	22(pool):2	28(close):1	36(desk):1	114(hot):1	198(chair):1	237(lounge):1	262(website):2	291(amenity):1	311(tub):1	510(limit):1	517(fault):1	725(update):1	910(advertise):1	1446(attendant):1	2039(exist):1	10115(declare):1	
+7	126(especially):1	258(manager):1	295(name):1	312(believe):1	457(valet):1	656(spectacular):1	1446(attendant):1	
+6	0(staff):2	31(front):1	36(desk):1	276(miss):1	392(rude):1	775(hit):1	
+6	24(floor):1	216(elevator):1	297(note):1	366(step):1	1628(odor):1	1747(unpleasant):1	
+0	
+
+<Author>traveldoc42
+<Content>Surprisingly nice Staying in Waikiki on a budget can be a really challenge, but if you're looking for a good option, I'd recommend checking out the Royal Gardens Waikiki. On a whim, we booked rooms on Priceline for about $90/night and were rewarded with a nice room on the 15th floor with a king bed. The rooms have great bathrooms, a microwave, cable television, and a comfortable decor. The staff is quite friendly and helpful - we had the concierge call a taxi to the airport for us, and the next morning, we woke up to find a limousine taxi waiting for us (for no extra charge over a normal taxi!). I think the key to staying here is to have reasonable expectations. This isn't the Hilton Hawaii Village. It doesn't have wi-fi, fancy restaurants, included breakfast, and other three-star and up amenities. What it does offer is a nice, quiet, and comfortable room at a reasonable price. You'll be located a short ten minute walk from the heart of Waikiki, and since TheBus system is so good, it's really easy to get around. Give this place a shot if you're looking for value in Waikiki.  
+<Date>Feb 23, 2008
+<Rating>4	5	4	4	5	5	4	1	
+<Aspects>
+3	477(hilton):1	904(hawaii):1	1087(village):1	
+7	20(look):1	81(value):1	273(reasonable):1	339(key):1	431(expectation):1	472(waikiki):1	1778(shoot):1	
+19	4(nice):2	11(bed):1	13(bathroom):1	18(book):1	19(price):1	24(floor):1	25(comfortable):2	58(quiet):1	89(offer):1	243(king):1	269(decor):1	273(reasonable):1	484(cable):1	820(microwave):1	1069(priceline):1	1158(television):1	2186(reward):1	4273(15th):1	5349(whim):1	
+8	7(walk):1	29(minute):1	84(locate):1	93(easy):1	144(short):1	450(heart):1	472(waikiki):1	518(system):1	
+0	
+25	0(staff):1	4(nice):1	12(friendly):1	14(helpful):1	15(recommend):1	20(look):1	32(check):1	56(morning):1	67(call):1	85(wait):1	95(airport):1	128(extra):1	136(charge):1	185(taxi):3	204(concierge):1	310(garden):1	336(option):1	429(budget):1	472(waikiki):2	554(wake):1	753(royal):1	878(normal):1	1375(surprisingly):1	1708(challenge):1	4165(limousine):1	
+7	6(breakfast):1	10(restaurant):1	71(include):1	291(amenity):1	796(fancy):1	1827(wi-fi):1	6215(three-star):1	
+0	
+
+<Author>Canadianstravelling
+<Content>very sad - managemnt gave up a long time ago I will not say that it is the worst hotel in Waikiki. After all we didn't have problems like cockroaches in the room. I will not even complain that it is old. Many hotels in Waikiki are old - meaning the structures themselves - but when properly maintained it does not necessarily matter. Here's the deal with this hotel: it is not well-maintained and it is dirty and dreary and very neglected. I have no grudge against the place but nonetheless I have to say do not believe what you see on the web site. Here's a good example of what I mean about management having given up. According to the web site as of today:The Cascada Bar is currently Under Construction. Please check back to find out when the renovations will be complete and the bar is open. It has said that for YEARS. That's right - since three years ago at least (and the Cascada Bar remains untouched). I've kept an eye on this hotel for quite some time. That example pretty much sums up the whole package. The Royal Garden functions (and I suppose that the staff does its best with what is has) but it is obvious that no energy, time, or money goes into improvements or even to living up to what it promises on the web site. Honestly you cannot help but think words like dreary and sad. It's not even the kind of place at which you feel comfortable to walk around without shoes in your own room. That would be fine IF both the rates were lower and it didn't make itself sound like an upscale hotel with great amenities on its web site. Look at the photo of 'pool/sauna'. The photograph does not make the pool area look very appealing but it's as if they didn't even make an effort. See the van parked behind the pool? Obviously they just don't care. The location is great and - like I said - for the right rate it would be okay BUT all things considered it is absolutely not good value for money. Some of the Ohana hotels are far superior (and they don't pretend to be something that they are not) for the same money. I mention that only because I've read too many reviews on this site in which people say there are much better options and they always leave me thinking okay ... but what ARE those better options?.The only way that the place will sit up and take notice of its many many shortcomings is if people stop wasting their good money there. I hope that that happens because the hotel is really a disgrace (and what a shame considering the great location).  
+<Date>Jan 3, 2008
+<Rating>1	1	1	4	2	2	2	2	
+<Aspects>
+30	5(time):1	20(look):2	22(pool):2	26(people):1	80(money):2	92(help):1	109(pretty):1	122(stop):1	169(sit):1	241(complain):1	242(care):1	354(notice):1	527(package):1	571(word):1	761(photo):1	781(obviously):1	785(superior):1	928(waste):1	954(example):1	977(eye):1	1017(effort):1	1028(honestly):1	1454(sad):1	1651(sum):1	1679(appeal):1	3207(pretend):1	3442(ohana):1	3673(photograph):1	4133(dreary):1	4259(shortcoming):1	
+7	1(location):1	78(rate):1	80(money):1	81(value):1	189(absolutely):1	248(consider):1	453(okay):1	
+11	7(walk):1	25(comfortable):1	27(bar):1	32(check):1	34(feel):1	166(own):1	173(please):1	622(complete):1	687(renovation):1	1191(shoe):1	2110(cockroach):1	
+42	0(staff):1	1(location):1	5(time):1	22(pool):1	26(people):1	27(bar):1	37(review):1	43(leave):1	66(park):1	78(rate):1	80(money):1	88(read):1	113(fine):1	192(site):5	206(live):1	244(mention):1	248(consider):1	291(amenity):1	310(garden):1	312(believe):1	328(hope):1	336(option):2	382(happen):1	409(sound):1	453(okay):1	583(construction):1	620(suppose):1	753(royal):1	777(lour):1	975(promise):1	1019(web):4	1223(van):1	1237(upscale):1	1292(shame):1	1486(improvement):1	1698(obvious):1	1780(function):1	2006(currently):1	2019(accord):1	2139(energy):1	2652(nonetheless):1	4524(disgrace):1	
+13	140(deal):1	246(mean):1	323(dirty):1	472(waikiki):1	531(matter):1	562(maintain):1	1059(themselves):1	1144(properly):1	2817(necessarily):1	2905(well-maintaine):1	2933(structure):1	3543(neglect):1	4133(dreary):1	
+3	246(mean):1	525(management):1	954(example):1	
+8	5(time):1	27(bar):1	50(bad):1	472(waikiki):1	633(ago):2	1391(remain):1	1454(sad):1	7520(untouched):1	
+0	
+
+<Author>bugss
+<Content>Wouldn't stay there again.. It certainly wasn't the worst place, but it was very dirty and very old. No updating in our room. However, we booked our room off of Priceline.com for about $70 a night so we didn't expect much. The service was great and the pool/gardens were pleasant.  
+<Date>Oct 9, 2007
+<Rating>2	2	1	3	1	3	4	-1	
+<Aspects>
+0	
+4	2(night):1	18(book):1	62(expect):1	6945(priceline.com):1	
+1	725(update):1	
+0	
+2	50(bad):1	323(dirty):1	
+0	
+3	9(service):1	22(pool):1	150(pleasant):1	
+0	
+
+<Author>RileyAccounting.Net
+<Content>SOME Rooms Better Than Others The hotel is being remodeled. Some of the rooms on the lower end of the price scale have yet to be referbished. I think the negative reviews come from people who booked the cheaper rooms. This hotel is simply stunning. I really like the fact that it is quiet, and super safe with 24/7 security. Thank you  
+<Date>Jul 1, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+3	271(thank):1	488(simply):1	988(stun):1	
+8	18(book):1	19(price):1	26(people):1	37(review):1	143(cheap):1	282(negative):1	777(lour):1	2428(scale):1	
+5	58(quiet):1	137(safe):1	464(super):1	641(security):1	1238(remodel):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>DTW251
+<Content>A Dream Come True This was our first trip to Hawaii, and wanted it to be the best. Even after reading the past reviews of the Hotel, we were very impressed with the service and hospitality of the staff. Our room was very nice, and had a great view of the city, and yes... The ocean (23rd Floor). The hotel is within walking distance from the beach and all the local shopping areas (Don't forget to checkout the ABC Store's). There is a TGI Fridays at the end of the corner (GREAT FOOD). We are coming back next year, and planning on staying here again. My advice to you... DON'T listen to past reviews, come check it out for yourself.  
+<Date>May 3, 2007
+<Rating>5	5	4	3	4	5	5	3	
+<Aspects>
+4	33(trip):1	221(plan):1	904(hawaii):1	1256(dream):1	
+0	
+7	4(nice):1	17(view):1	24(floor):1	41(city):1	205(ocean):1	250(yes):1	5123(23rd):1	
+9	7(walk):1	30(beach):1	49(shop):1	115(distance):1	195(local):1	255(store):1	397(forget):1	658(checkout):1	2051(abc):1	
+0	
+11	0(staff):1	9(service):1	32(check):1	37(review):2	88(read):1	343(impress):1	419(past):2	575(advice):1	576(yourself):1	997(listen):1	1115(hospitality):1	
+4	16(food):1	200(corner):1	4999(fridays):1	6988(tgi):1	
+0	
+
+<Author>chunsa
+<Content>Love the Hotel Excellent location, great prices, fancy decor, spacious rooms, friendly staff. Will definitely be back!  
+<Date>Mar 30, 2007
+<Rating>5	-1	5	5	5	5	5	5	
+<Aspects>
+1	59(definitely):1	
+0	
+9	0(staff):1	1(location):1	12(friendly):1	19(price):1	21(excellent):1	40(love):1	111(spacious):1	269(decor):1	796(fancy):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>johnkim411
+<Content>Great Hotel and Bargain, Near Everything This hotel is very well priced, clean and comfortable. It's centrally located (although not on the beach) which is why the prices are so great. Having said that, the gorgeous beaches are only about 2 1/2 blocks away. The staff (and bartender) was courteous and very friendly. There's a TGIF's and an upscale seafood joint, Nick's Fish Market within a block. Highly recommended.  
+<Date>Mar 30, 2007
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+2	15(recommend):1	138(highly):1	
+5	3(clean):1	19(price):1	25(comfortable):1	102(near):1	759(bargain):1	
+0	
+13	19(price):1	30(beach):2	84(locate):1	100(bloc):2	264(market):1	446(gorgeous):1	653(fish):1	815(seafood):1	879(centrally):1	1237(upscale):1	3087(joint):1	4450(nick):1	12733(tgif):1	
+0	
+4	0(staff):1	12(friendly):1	483(courteous):1	676(bartender):1	
+0	
+0	
+
+<Author>RDG23
+<Content>Great value My wife and I stayed at the Royal Garden during our Christmas holiday. We found the hotel staff incredily helpful and friendly. The room was clean and comfortable and had a great view. The hotel's location was convenient - two blocks within the major shopping area - and a short walk to the beach. Overall, comparing the hotel rate with the experience provided, we felt that the Royal Garden was a great value.  
+<Date>Mar 30, 2007
+<Rating>5	5	4	5	4	5	5	5	
+<Aspects>
+0	
+12	34(feel):1	44(experience):1	70(overall):1	78(rate):1	81(value):2	153(provide):1	184(wife):1	223(holiday):1	310(garden):2	381(compare):1	753(royal):2	962(christmas):1	
+3	3(clean):1	17(view):1	25(comfortable):1	
+8	1(location):1	7(walk):1	30(beach):1	49(shop):1	100(bloc):1	144(short):1	186(convenient):1	315(major):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>NycBigal
+<Content>Great Place for the Price Located not too far from the beach (timed it... took me a little under 8 min. by foot). Located far enough from all the tourist traffic. Staff was extremely courteous (especially the valet and front desk). Lobby was magnificent (there was marble everywhere). My one bedroom suite on the 23rd floor was one of the largest ones I've stayed in and had a great view of both the ocean and mountains. Would be nice if the bar was open (heard it will be opening up in May... apparently there are new owners). Would definitely stay here on my return trip to Hawaii.  
+<Date>Mar 30, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	33(trip):1	39(return):1	59(definitely):1	402(foot):1	904(hawaii):1	
+0	
+7	17(view):1	24(floor):1	108(suite):1	205(ocean):1	268(bedroom):1	1509(mountain):1	5123(23rd):1	
+8	5(time):1	19(price):1	23(little):1	30(beach):1	84(locate):2	209(tourist):1	247(min):1	486(traffic):1	
+0	
+12	0(staff):1	4(nice):1	27(bar):1	31(front):1	36(desk):1	110(extremely):1	126(especially):1	132(hear):1	457(valet):1	483(courteous):1	672(owner):1	863(apparently):1	
+3	55(lobby):1	705(marble):1	1405(magnificent):1	
+0	
+
+<Author>Allovergal
+<Content>UGH! Nasty, filthy, smelly, jaded and faded. But a great location! We did a week here, and I've been in better federal prisons.  
+<Date>Mar 23, 2007
+<Rating>1	1	1	4	1	3	3	2	
+<Aspects>
+4	75(week):1	3865(prison):1	4730(ugh):1	8362(federal):1	
+0	
+0	
+1	1(location):1	
+5	1320(filthy):1	1639(nasty):1	1697(smelly):1	3013(fade):1	6204(jaded):1	
+0	
+0	
+0	
+
+<Author>vickyinsy
+<Content>What's that smell? The first thing I noticed upon walking into the hotel room was the smell of mildew. It was so overwhelming that I immediately called the front desk. The solution? Sending up a maintenance man with a can of air freshener... After a long flight on the plane, we wanted to take a shower- too bad this was out of the question since the water in the tub wouldn't drain. Also, the bathroom smelled as if it needed to be hosed down with bleach. And the room was dirty. This was all within 30 minutes of walking into the room. I complained to the front desk and the manager upgraded us to a premium room (free). Although the view was better and there was a microwave- this room wasn't any better than the last. Still dirty, dank, mildewy- gross.  I will say, however, that the bell/front desk guys were very courteous and helpful. They gave great,prompt service (answered questions regarding transportation and sights). The bar never opened and (judging from the poor conditions of the rooms) I wouldn't dare eat in the restaraunt. The parking was $18 a day but if youre lucky, Ala Wai is 2 seconds away and parking is free. The positive reviews for the hotel seem to be for the upper floors only, I stayed on the 15th floor. Perhaps the renovations are starting from the top down? I'm not sure ,but what I do know is that I won't be staying there again.  
+<Date>Mar 21, 2007
+<Rating>2	1	1	3	1	3	4	1	
+<Aspects>
+2	487(wo):1	2800(solution):1	
+10	27(bar):1	47(eat):1	118(top):1	165(start):1	263(condition):1	331(poor):1	687(renovation):1	2389(judge):1	2888(restaraunt):1	3275(dare):1	
+27	7(walk):2	13(bathroom):1	17(view):1	24(floor):2	29(minute):1	37(review):1	50(bad):1	57(water):1	61(shower):1	164(air):1	231(smell):2	233(flight):1	311(tub):1	354(notice):1	394(question):1	447(send):1	458(positive):1	820(microwave):1	968(plane):1	1149(maintenance):1	1333(upper):1	1489(drain):1	1876(mildew):1	4101(freshener):1	4273(15th):1	4773(hose):1	4943(bleach):1	
+14	8(day):1	9(service):1	46(free):1	66(park):2	394(question):1	411(sight):1	669(answer):1	728(transportation):1	797(lucky):1	930(regard):1	1208(prompt):1	1480(ala):1	5506(youre):1	6589(wai):1	
+5	231(smell):1	323(dirty):2	1797(gross):1	5405(dank):1	7403(mildewy):1	
+14	14(helpful):1	31(front):2	36(desk):3	46(free):1	67(call):1	163(upgrade):1	241(complain):1	258(manager):1	368(guy):1	483(courteous):1	489(immediately):1	801(bell):1	1465(premium):1	1992(overwhelm):1	
+0	
+0	
+
+<Author>orimary
+<Content>Not bad for a couple of nights, but no more It's a nice looking hotel on the outside and the lobby, but I would not stay again if I needed more than 2 nights. The furniture and carpet in the rooms are old and the pool was not working. It's really close to the beach and shopping, and the staff goes out of their way to help, but they charge for everything. The bar did not have a regular schedule, so the staff did not know when it should be open. This hotel is ok if you will only sleep in the hotel, but not for business travelers.  
+<Date>Jan 4, 2007
+<Rating>3	2	2	4	2	4	4	1	
+<Aspects>
+0	
+0	
+7	22(pool):1	104(sleep):1	123(ok):1	147(business):1	267(traveler):1	396(carpet):1	440(furniture):1	
+13	0(staff):1	2(night):2	4(nice):1	20(look):1	28(close):1	30(beach):1	49(shop):1	50(bad):1	55(lobby):1	92(help):1	98(outside):1	99(couple):1	136(charge):1	
+0	
+4	0(staff):1	27(bar):1	744(regular):1	1196(schedule):1	
+0	
+0	
+
+<Author>vic513
+<Content>Big Disappointment We found this hotel on the internet. We were attracted by the amenities and close proximity to shopping...and to the beach.  The large pool with cascading waterfall was a big attraction and looked beautiful in the on-line hotel adds, however, was not operational once we arrived and was out or service during our entire 10 day stay. The hotel restaurant was also closed.  Our room was outfitted with a King size bed. NOT REALLY!!! The king size bed was two full size beds pushed together. The seam in the middle of the bed, a result of the two mattresses being push together, was most unfomfortable. Also, the mattresses were very worn and in need of immediate replacement.  Also we were mislead to believe that parking was free. Prior to making a reservation we were told that parking is free for hotel residents. Well thinking that we were staying at the hotel that this included us. At checkout we were hit with a large parking fee. We are planning and currently shopping for a hotel in the Honolulu area for this upcomming summer of 2007!! We won't be staying here!!  
+<Date>Dec 3, 2006
+<Rating>2	2	1	4	2	3	3	1	
+<Aspects>
+6	71(include):1	434(wear):1	487(wo):1	847(mattress):1	1761(immediate):1	2593(replacement):1	
+0	
+9	11(bed):4	83(size):3	243(king):2	325(middle):1	847(mattress):1	1041(push):2	1109(result):1	4082(outfit):1	7050(seam):1	
+32	8(day):1	9(service):1	10(restaurant):1	20(look):1	22(pool):1	28(close):2	30(beach):1	45(beautiful):1	46(free):2	49(shop):2	53(arrive):1	66(park):2	69(tell):1	156(reservation):1	221(plan):1	291(amenity):1	312(believe):1	329(entire):1	350(attraction):1	351(add):1	637(prior):1	853(summer):1	1114(proximity):1	1395(honolulu):1	1988(resident):1	2006(currently):1	2221(mislead):1	2280(waterfall):1	2452(attract):1	3206(on-line):1	4339(cascade):1	5893(operational):1	
+0	
+4	66(park):1	584(fee):1	658(checkout):1	775(hit):1	
+0	
+2	97(internet):1	866(disappointment):1	
+
+<Author>hughb21
+<Content>"Royal Dump" This hotel is extremely misleading with their advertisement. The amenties describe on their website are not even remotely close to what we encountered. The lobby may look grand but once you enter you room...its a DUMP! This pertains to room 1007. The furniture was probably taken from the garbage. It was old, chipped, and moldy. The bathroom shower head was not properly installed as was the door. We could not even lock the bathroom door. The bathroom door was not even a door. It was similiar to wooden blinds. The balcony was never maintained. Water drips from the balcony pipes overhead into the balcony. Throughout the room, there were paints peeling, carpet tears, and stratched walls. The beds were old and smelly. We could not even sleep because there was a dip in the center of the bed. We had to sleep in long clothing because we didn't want to contract any bed bugs from the hotel.Beware...DO NOT STAY HERE or you will definitely regret it!!!! If you do not believe me then good luck once you see you room.  
+<Date>Sep 20, 2006
+<Rating>1	1	1	1	1	1	1	1	
+<Aspects>
+12	59(definitely):1	110(extremely):1	737(beware):1	753(royal):1	1302(chip):1	1410(regret):1	1449(dump):1	1756(wooden):1	1839(blind):1	2046(moldy):1	2221(mislead):1	7153(similiar):1	
+0	
+38	11(bed):3	13(bathroom):3	20(look):1	54(door):4	55(lobby):1	57(water):1	61(shower):1	101(center):1	104(sleep):2	178(probably):1	183(wall):1	191(balcony):3	312(believe):1	319(head):1	365(grand):1	396(carpet):1	440(furniture):1	445(throughout):1	562(maintain):1	601(enter):1	602(bug):1	709(clothe):1	774(lock):1	806(paint):1	1055(luck):1	1144(properly):1	1449(dump):1	1605(tear):1	1650(garbage):1	1697(smelly):1	1887(peel):1	2067(pipe):1	2272(dip):1	2682(drip):1	2691(install):1	3176(overhead):1	3555(contract):1	11658(pertain):1	
+6	28(close):1	262(website):1	693(encounter):1	955(describe):1	4529(amenty):1	5027(remotely):1	
+0	
+0	
+0	
+0	
+
+<Author>dalphine
+<Content>The Royal Yard I stayed at this hotel from July 27-August 1, 2006. I was very disappointed with the pictues on the Internet. The hotel is eaisly a 2 star hotel. I rented a studio apartment inside the hotel that was truly a studio, but clean and nice. Although I was not a tenant of the hotel, but of the apartment inside the hotel the hotel staff was all extremely cordial. If you need a nice place to lay your head, take a shower and at a good rate. I would recommend this place. It is not a garden or palace as potrayed on the website, but it's not a dump either. I visited some dump hotels in Waikiki and the Royal Garden's is far from the list.Just beware of the amount you pay. You get what you pay for. Possibly a 3-star hotel. No jucuzzi or hot tub. Small pool by a shaded garden and that's the extent of your amenties. No restaurant, no travel counter. Ok no nothing except a hotel room.  
+<Date>Sep 13, 2006
+<Rating>2	4	4	4	3	4	4	-1	
+<Aspects>
+11	15(recommend):1	65(visit):1	114(hot):1	310(garden):1	311(tub):1	472(waikiki):1	650(list):1	753(royal):2	1307(yard):1	1449(dump):1	10743(jucuzzi):1	
+6	42(pay):2	103(star):1	666(amount):1	737(beware):1	1233(possibly):1	2814(3-star):1	
+17	0(staff):1	3(clean):1	4(nice):2	61(shower):1	78(rate):1	110(extremely):1	123(ok):1	319(head):1	337(except):1	408(inside):2	476(truly):1	696(lay):1	751(apartment):2	1097(rent):1	1445(studio):2	3164(cordial):1	7815(tenant):1	
+8	22(pool):1	262(website):1	310(garden):2	642(palace):1	795(shade):1	1449(dump):1	3945(extent):1	4529(amenty):1	
+0	
+0	
+3	10(restaurant):1	68(travel):1	1001(counter):1	
+2	97(internet):1	154(disappoint):1	
+
+<Author>MrSnarkyPants
+<Content>Very Disappointing I made the mistake of booking this hotel based on the glowing reviews (including the Highly Recommended banner of a well known travel guide) on a certain hotel booking site that starts with O and ends with z. I will never make the mistake again of believing any review on that site.The Royal Garden at Waikiki has a problem with integrity. They submit listings to travel sites saying they have High Speed Internet in the rooms, two pools (including one with a cascading waterfall), a French restaurant, and a Japanese restaurant. You get the feeling from their advertising that this hotel is very luxurious, just off the beaten path.When you get there, you find out that not all rooms have internet access. You're first told that well, the server crashed last week and we're waiting on parts from the mainland. Then the story changes to there is a room with high speed internet access, but it's a room with two twin beds. That French restaurant? It's been closed for awhile, and the room turned into a sad looking breakfast buffet. The hotel gift shop now consists of three vending machines. The pool with cascading waterfall was sold over a year ago and is sitting fenced off with no treaspassing signs. There is a second pool next to the driveway that's about the size of a backyard pool with no shade and no services. The rooms have furnishings that are scratched up, and it appears the last time this property got a coat of paint was sometime during the Regan presidency.It's not the biggest dump I've ever stayed in - there's no roaches. But I felt cheated the moment I stepped inside the room. I wish they would have been more honest in their advertising. I probably would have given them a good review if they would have been up front about what this hotel really is.  
+<Date>Jun 20, 2006
+<Rating>1	2	2	-1	2	-1	1	-1	
+<Aspects>
+21	22(pool):1	34(feel):1	169(sit):1	310(garden):1	384(wish):1	442(beat):1	449(sign):1	472(waikiki):1	606(sell):1	633(ago):1	708(luxurious):1	753(royal):1	910(advertise):2	1108(honest):1	1449(dump):1	1612(path):1	2280(waterfall):1	2357(roach):1	3694(fence):1	4339(cascade):1	10218(integrity):1	
+15	15(recommend):1	18(book):2	37(review):2	68(travel):1	71(include):1	138(highly):1	154(disappoint):1	165(start):1	192(site):2	284(base):1	312(believe):1	829(guide):1	895(mistake):2	2846(glow):1	7994(banner):1	
+19	5(time):1	9(service):1	22(pool):2	34(feel):1	83(size):1	214(property):1	366(step):1	408(inside):1	541(appear):1	670(moment):1	795(shade):1	806(paint):1	870(furnishings):1	2613(scratch):1	2636(coat):1	2938(sometime):1	3767(driveway):1	3934(cheat):1	4859(backyard):1	
+5	49(shop):1	493(machine):1	852(gift):1	1185(consist):1	2454(vend):1	
+0	
+9	31(front):1	37(review):1	69(tell):1	75(week):1	85(wait):1	178(probably):1	1540(server):1	2192(crash):1	3552(mainland):1	
+8	6(breakfast):1	10(restaurant):1	20(look):1	28(close):1	77(buffet):1	254(french):1	1454(sad):1	2755(awhile):1	
+17	10(restaurant):2	11(bed):1	22(pool):1	68(travel):1	71(include):1	97(internet):3	159(access):2	161(change):1	192(site):1	254(french):1	559(japanese):1	690(twin):1	906(story):1	1170(speed):2	2280(waterfall):1	4339(cascade):1	5245(submit):1	
+
+<Author>Tundra74
+<Content>Don't be fooled by pictures My friend and I stayed at the Royal Garden from 4/19-4/29/06. The pictures on the Hotel's website paint a different picture of what you will actually get. The lobby is decked out in marble and fancy furnishings, and it is clear that this is where the hotel chose to spend it's money. There is no internet access on the premises or coffee in the morning.First I will address the rooms. We had their basic room, on the eighth floor. The balcony offered a good view of the city, the Ala Wai canal, and the mountains in central Oahu. The carpet was dirty, so dirty I wouldn't even lay down on it. The bathroom tub's drain didn't hold water properly, and the bathroom door was slated wood that you could see through. The beds are small single beds and the two lamps in the room had problems working. We had to unsrew the bulb to turn it off. The furniture is all very cheap-deco, probably early 80's and very worn out.There is a female manager at the front desk who is very unpleasant, but the remainder of the staff, to include the maids, bell staff, and security officers were all extremely friendly. Unfortunately, most of the maids have trouble speaking English, so don't bother. The bellmen and security officers were very helpful in giving driving directions, and pointing out places of interest. We found their service superior. You will have to pay full price for a newspaper though, nothing is complimentary here.The exercise room leaves a lot to be desired. Only one electrical outlet worked in the room for equipment and the bathroom-whoa-I was not prepared for this. I opened the door, and the toilet was cracked open, there was black mold everywhere, and a huge hole in the ceiling above the toilet that had been caved in from water damage. The exercise room is actually a defunct guest room, and I cannot figure out why the hotel didn't lock this bathroom door shut. It was frightening an dprobably representative of bigger problems.You can walk from the hotel about 15 blocks to the beach. There is a TGI Friday's one block away, just don't do breakfast there, it was gross. This hotel is also very close to upper-end shops like Gucci, Prada, and Chanel, and an easy walk to the beach and the Waikiki strip. All in all, this is your basic, run down hotel. The room safe was free and parking was $12 a day. You really don't need a car if you stay in Oahu, the bus transportation is great. If you are planning on spending most of your time outside of the hotel, like we did, and are looking for a cheap and safe place to stay, this is it. Just don't expect much.  
+<Date>May 6, 2006
+<Rating>2	3	1	-1	1	-1	3	-1	
+<Aspects>
+28	54(door):1	57(water):1	62(expect):1	127(speak):1	133(huge):1	146(friend):1	149(run):1	152(english):1	300(maid):1	307(bother):1	310(garden):1	330(toilet):2	352(basic):1	456(picture):1	524(unfortunately):1	528(ceiling):1	569(trouble):1	753(royal):1	1007(black):1	1138(mold):1	1218(hole):1	1411(crack):1	2030(damage):1	2098(fool):1	2160(representative):1	2458(bulb):1	3127(cave):1	4629(frighten):1	
+14	5(time):1	19(price):1	20(look):1	42(pay):1	64(spend):1	98(outside):1	137(safe):1	143(cheap):1	178(probably):1	221(plan):1	345(complimentary):1	434(wear):1	440(furniture):1	1372(newspaper):1	
+51	8(day):1	11(bed):2	13(bathroom):3	17(view):1	24(floor):1	38(lot):1	41(city):1	46(free):1	54(door):2	55(lobby):1	57(water):1	64(spend):1	66(park):1	80(money):1	89(offer):1	91(guest):1	137(safe):1	167(choose):1	168(central):1	180(actually):1	191(balcony):1	304(single):1	311(tub):1	352(basic):1	460(prepare):1	593(hold):1	638(canal):1	705(marble):1	774(lock):1	779(figure):1	796(fancy):1	870(furnishings):1	1086(shut):1	1144(properly):1	1211(equipment):1	1219(desire):1	1312(address):1	1327(wood):1	1406(deck):1	1459(exercise):2	1480(ala):1	1489(drain):1	1509(mountain):1	1593(leaf):1	1622(lamp):1	1673(oahu):1	1689(outlet):1	2555(electrical):1	5796(slate):1	6201(eighth):1	6589(wai):1	
+19	7(walk):2	28(close):1	30(beach):2	49(shop):1	93(easy):1	100(bloc):1	120(bus):1	121(car):1	180(actually):1	262(website):1	456(picture):2	472(waikiki):1	728(transportation):1	806(paint):1	1379(strip):1	1673(oahu):1	5724(gucci):1	6884(chanel):1	7480(prada):1	
+3	323(dirty):2	396(carpet):1	696(lay):1	
+18	0(staff):2	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	71(include):1	110(extremely):1	258(manager):1	298(drive):1	300(maid):1	395(direction):1	641(security):2	801(bell):1	1105(bellman):1	1714(female):1	1747(unpleasant):1	3123(remainder):1	4282(officer):2	
+7	6(breakfast):1	9(service):1	100(bloc):1	785(superior):1	923(friday):1	1797(gross):1	6988(tgi):1	
+5	56(morning):1	90(coffee):1	97(internet):1	159(access):1	1989(premiss):1	
+
+<Author>A TripAdvisor Member
+<Content>Loved the atmosphere at the Royal Garden Hotel I stayed in one of the privately-owned condos on the upper floors of the hotel. So, I can't speak for the hotel rooms but this one is really nicely decorated and had a big bathroom with a tub (which I really like!). Didn't need the A/C much as nice big lanai with good view--but, it did seem to work fine. I didn't have to wait on line to check in or out at the hotel desk because the private property manger met me there with the key and I could go right up to my room. I stayed for the month and really enjoyed the location. My room was spotless--but, I understand that it is only rented out long-term--a month or more and I was responsible to keep it clean myself. When I had questions, the guys in the lobby--security and hotel clerks were really nice and helpful even though I was not a hotel guest. I paid $1600 for the month--thought it was a good deal. Plan to go back next year if I can.  
+<Date>Apr 28, 2006
+<Rating>5	4	5	-1	5	-1	-1	-1	
+<Aspects>
+5	4(nice):1	17(view):1	113(fine):1	221(plan):1	1741(lanai):1	
+10	24(floor):1	40(love):1	42(pay):1	140(deal):1	310(garden):1	388(month):1	414(atmosphere):1	753(royal):1	1333(upper):1	4074(condos):1	
+12	3(clean):1	13(bathroom):1	127(speak):1	305(decorate):1	311(tub):1	388(month):1	391(understand):1	404(nicely):1	548(spotless):1	1097(rent):1	3277(responsible):1	7997(long-term):1	
+3	1(location):1	51(enjoy):1	388(month):1	
+0	
+9	32(check):1	36(desk):1	85(wait):1	188(line):1	196(meet):1	214(property):1	339(key):1	492(private):1	5124(manger):1	
+8	4(nice):1	14(helpful):1	55(lobby):1	91(guest):1	368(guy):1	394(question):1	641(security):1	788(clerk):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Disgusting I recommended this hotel to friends on their second honeymoon. Having stayed there years ago, I thought it would suit their budget and still give them a nice room. I was not prepared for the disgusting dump they encountered. Having given them the flight as a gift I accompanied them to the hotel, it is dirty, the hallways look like they belong in a bordello, the rooms have not been updated in years. Buyer beware, for every person who lucks out into getting an upgrade to a suite or a reasonably clean room there will be hundreds who will find nothing but a complete dump. While most of the staff was pleasant and cannot be blamed for the state of the hotel, owners responsibility, the front desk was not much help. The manager did offer another room which had slightly less dirty walls but had no balcony. All in all my friends had a horrible stay for their second honeymoon. I travel to Hawaii monthly on business and do not have to make hotel arrangements as it is taken care of by my employer, I have since checked a few hotels and found many reasonable options far superior to this one. Do your homework folks I wish I had.  
+<Date>Apr 1, 2006
+<Rating>1	1	1	-1	1	-1	2	-1	
+<Aspects>
+7	384(wish):1	460(prepare):1	693(encounter):1	1050(folk):1	1152(disgust):1	1449(dump):1	4434(homework):1	
+5	15(recommend):1	146(friend):2	502(honeymoon):2	544(horrible):1	1152(disgust):1	
+28	3(clean):1	4(nice):1	20(look):1	89(offer):1	108(suite):1	163(upgrade):1	183(wall):1	191(balcony):1	193(person):1	233(flight):1	258(manager):1	323(dirty):2	429(budget):1	578(reasonably):1	580(hallway):1	598(slightly):1	622(complete):1	633(ago):1	725(update):1	737(beware):1	852(gift):1	861(suit):1	1055(luck):1	1449(dump):1	2206(hundred):1	2660(accompany):1	2927(belong):1	5371(buyer):1	
+11	32(check):1	68(travel):1	147(business):1	242(care):1	273(reasonable):1	336(option):1	785(superior):1	904(hawaii):1	1415(arrangement):1	7208(employer):1	8120(monthly):1	
+0	
+8	0(staff):1	31(front):1	36(desk):1	92(help):1	150(pleasant):1	672(owner):1	2219(blame):1	3721(responsibility):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>This place is a dump This might have been a luxury hotel 20 years ago, but it is pretty much a dump. I am not real picky, but I like my rooms to be clean and the hotel to reasonably well maintained. The bathroom was moldy, the carpet stained, counters were chipped, the lanai was a tiny balcony with water from the air condtioner dripping on it. The waterfall pool on the website is closed, trashed and full of algae. Overall, just a worn out hotel, desperately in need of renovation. Ya get what you pay for! Then again, it it wasn't a business trip, I wouldn't go to Waikiki at all. Crowded, dirty and over done. Go to Kauai, you will like it better.  
+<Date>Mar 2, 2006
+<Rating>1	2	1	-1	1	-1	2	-1	
+<Aspects>
+5	109(pretty):1	437(luxury):1	633(ago):1	1449(dump):2	5639(kauai):1	
+2	42(pay):1	3768(ya):1	
+16	13(bathroom):1	57(water):1	70(overall):1	164(air):1	191(balcony):1	338(tiny):1	396(carpet):1	434(wear):1	687(renovation):1	723(stain):1	1001(counter):1	1302(chip):1	1741(lanai):1	2046(moldy):1	2682(drip):1	4066(desperately):1	
+9	22(pool):1	28(close):1	33(trip):1	147(business):1	262(website):1	472(waikiki):1	1793(trash):1	2280(waterfall):1	8785(alga):1	
+7	3(clean):1	240(real):1	313(crowd):1	323(dirty):1	562(maintain):1	578(reasonably):1	926(picky):1	
+0	
+0	
+0	
+
+<Author>BeulahsGal
+<Content>Dirty, Unaccommodating Hotel, Misleading Website Although the lobby can be considered lovely, the rest of the place is a veritable dump. Our stay was two nights, Feb 12 and 13, 2006. Our daily rate, with tax, was $155.98 for a superior queen, and non-refundable, we found out after check-in. We arrived early (11:15 a.m.) and were refused early check in, which was no surprise, since it was busy in the city that day due to the Pro-Bowl. That's okay, I have worked in the hospitality business for a dozen years, so it wasn't a problem as far as I was concerned. We asked if the hotel could secure our luggage until we could check in and were told no problem. We asked for suggestions on how we should spend our time for the four hour wait for check in, and were basically brushed off and told to walk to the beach. The beach is ABSOLUTELY NOT close by. If you look at their grossly misleading website, the photos show lovely rooms and views of the mountains, Diamondhead, Waikiki Beach and a golf course that are implied to be nearby. They are NOT. It takes a good fifteen minutes to walk to the rocky end of the beach with all of the busy streets that need to be crossed. There is a public restroom at this end of Waikiki beach, but I wouldn't recommend it. We changed at the Army Museum. (I can't imagine where the golf course might be located.) We spent a couple of hours on the beach, got some lunch, and headed back to the hotel to wait in the lounge for check in time. When we arrived, we found our secured luggage on a luggage cart outside the drive-up entry to the hotel. I needed to find a couple of things and went through two of the bags and one suitcase before I found what I was looking for - and I was NEVER approached by anyone from the hotel bell staff or the security staff. There was absolutely NO ONE nearby. Anyone could have driven up, taken the luggage off the unattended cart, and driven off with it. Security is non existent, although they claim there is staff. We sat in what USED TO BE the lounge until we could check in. Despite on-line reviews from a year or more ago complaining about the closed waterfall pool, the hotel still advertises that it is open, and they promote it as a great feature of this hotel. So I figured it had to be opened by now - those reviews were a year old!! It is NOT OPEN. It is filled with slimy green water, attracting rats and breeding various bugs (we saw them!!!) that are having a field day out there, and surrounded by dead vegetation. The pool that IS located at the hotel is shallow, very tiny and was, at the time we were visiting, filled with droppings from the trees. I did not see anyone attempting to clean the pool. The sauna and bath house were not very clean. We did not use them. We also were never told by any hotel staff of any amenities at the hotel. We did discover that the lounge is closed, as is the gift shop. When we checked in to our room, we asked about the luggage and were told that it had already been taken up for us. When we got to our room, there was no luggage there. We tried to call the front desk with the hotel phone, but it didn't work. I ended up using my cell phone to call and ask about the luggage. It arrived about a half hour later. This was mid-afternoon, and they were not busy. As for the room. Pathetic. Dirty. Smelly. Moldy. Mismatched furniture - nothing was even from the same era. Certainly not the superior queen as pictured in the website. There were shreds of the bottom of the bed lying on the floor, hanging down from the bottom of the box spring. The blanket and bedspread were riddled with burn holes. The sheets appeared to be clean and unused, however. The shutter door (yes, a shutter - hardly private!) for the bathroom was covered with dust and dirt, as were the cabinet doors in the bathroom. There were no towel racks other than the one for a hand towel by the bathroom sink. The wallpaper was peeling up from the bottom and covered with mold and mildew. Huge chunks of paint were peeling from the ceiling, which was also covered with mildew. The shower curtain was hung from a track, and there were no bars or hooks to hang up wet towels or bathing suits. There was no bathroom fan, but there was a hairdryer. The bottom of the tub was very slick and extremely dangerous, and there was no mat for it, nor was there a bathmat to cover the slick tile floor to step onto once you had showered. The corners where the tub met the wall and the edges of the fixtures were covered with slimy black mold. The bottom of the cabinet under the sink was moldy, and there was dirt around the bottom of the toilet. Whenever anyone in a nearby room (I assume they were nearby) used their water, we could hear the glugging in our drain, and could see the water level go up and down in our toilet. The door to the balcony/lanai did not lock. It was a huge sliding glass door, and it was basically a fenced-in ledge. We could not face each other when standing on the balcony, we could only stand side-by-side. There was no view other than tall city buildings and the swamp below our room (the waterfall pool I mentioned). The ledge was wet with drippings from the air conditioners on upper floors. The neighborhood was very noisy with a great deal of traffic, as one of the main streets in that end of town runs between the hotel and the canal. Another busy street is about half a block away in the opposite direction, so you are sandwiched between two of the busiest access and egress streets in that area of Honolulu, both are used constantly by emergency vehicles. However, as is reported on their website, the hotel DOES FACE a tiny quiet one-way street (big deal). There were also barking dogs out back and beside the hotel, as this is located in an area where there are some older residential rental housing units. Our carpeting was stained in great big splashes of I-don't-know-what. It did not look to me that there had ever been an attempt to clean it. Our refrigerator was barely cool and apparently had a warped door or floor, as we had to tip it back to open it. Our closet lost half of its space due to a large circuit breaker panel that was located in it. This panel was fully accessible to us - we could have flipped breakers off and on all night. The in-room safe was on the floor at the back of the closet, so we had to get into a prone position on the floor in order to use it. The 19 inch tv was located on a desk, approximately 18 feet away from the bed. Placed in front of the desk (blocking the tv) was a high-backed restaurant chair that reminded me of the ones you see at a chinese buffet. There was a round table and a dusty ancient half-round stuffed velour chair that you couldn't sit in. The other chair was a left-over 1970's style doctor's waiting room chair. Nothing matched. One of the bedside lamps was covered with a dried white splattered substance of unknown origin - we did not touch it or use it. All of the lampshades on the three lamps were stained and dusty. A dust-covered extension cord was hung behind the mattress on the bed, below the bolted headboard, and it had two plugs in it. The wet bar was dirty, and there was a note indicating charges would be incurred if we used the coffee, tea, etc, that was on the tray. We left the hotel in the morning at 8:15 and spoke to the housekeeping staff in the hallway as we left. We returned to the hotel at 5:30 p.m. and our room had not been touched. We chased down a housekeeper and got fresh towels, but never had any service in our room. The door to our room did not lock unless you pushed your fingers into the latch to pull it out - a discovery we (luckily?!?) made after we returned to our room to retrieve a forgotten item. Parking is $12 per night per their in-room brochure. We could not find any local shuttle service as advertised on their website. We did not use either of the restaurants, as the room we had was so dirty we didn't dare venture into the restaurants. The lounge is closed, and apparently has been for quite some time. All of this was reported. Our expressions of concern and dissatisfaction were met with blank stares and completely ignored by the desk staff. One man just laughed and said they were busy. Upon check-out, I asked for the general manager. I handed my comment card directly to the her, told her I was extremely disappointed with our accommodations and wanted to be sure she got the card, but she said absolutely nothing to me, nor did she even look at me. She just took the card, opened it, and then placed it on the desk. We had tried to call the bellman from our room for assistance taking down our luggage (7 bags), but our phone was still not operating. At check-out, we asked at the front desk for the bellman to be sent up to help with the luggage and were told to call them ourselves. When we again told them our phone did not work, they said they would contact the bellman for us. I went back to the room and waited, but no one ever appeared. We ended up making two trips down with our luggage. (We were not allowed to use their luggage carts, by the way - we were told they are strictly for the bellman's use.) We stood out front and waited for our shuttle bus for about 20 minutes. At no time did anyone from the hotel ever approach us to discuss our dissatisfaction or to apologize. Additionally, as we waited for the shuttle, we noticed thousands of tiny white bugs crawling all around the front door by the ash-can - yet another neglected area. We had to move our luggage away from the front door and onto the sidewalk to get away from the swarms. I don't know what they were, I'd never seen anything like those tiny little white bugs. In case you are wondering why we chose not to change hotels for the two nights, it is because the hotel would have charged us fully for the entire reservation, as they said there is a 72-hour cancellation policy. All we needed was a couple of nights, so we stayed - we wanted to enjoy our last two days and moving luggage and hotels just didn't fit in to the agenda. It just wasn't worth the additional $20 -$30 cab fare and another two or three hundred dollars for another room (if we even had been able to find one - this was Pro-Bowl, remember). I bought sanitizer and sprayed down the room and the sheets, we opened the sliding door and let the breeze blow in to freshen things up until we went to sleep. We were in Hawaii for two weeks, a few nights on the other end of Waikiki at the Queen Kapiolani, which I would HIGHLY RECOMMEND to anyone. It was spotlessly clean and staffed by friendly people who know what customer service is. It also was less expensive than this place and in a fabulous location for tourists.We are not fussy people, but we DID expect a very nice room and attentive hotel staff, and CLEANLINESS, along with a nice pool and a quiet night or two. We did not get anything that the hotel says that it offers. Apparently there is no control over what lies they can tell about their property on their website. I understand advertising, but their website is WAY off the mark! I am under the impression that this place is run by off-island owners who are only interested in the bottom line. From what I overheard in the hallway, it appears they are trying to sell off rooms as condos and that is how they are making their money these days. This is definitely NOT the place to stay in Honolulu. If you want to see the lobby, drop by and look at it. Either that, or paste a poster of angels, clouds and doves on your ceiling and look up. The only good thing about our stay at this hotel is that it made it much easier to leave beautiful Hawaii and come home.  
+<Date>Feb 28, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+75	2(night):2	5(time):1	15(recommend):1	20(look):1	23(little):1	37(review):1	43(leave):1	45(beautiful):1	53(arrive):1	54(door):2	57(water):1	59(definitely):1	60(hour):1	75(week):1	79(late):1	89(offer):1	93(easy):1	133(huge):2	138(highly):1	141(home):1	189(absolutely):1	232(nearby):1	250(yes):1	283(half):1	327(glass):1	330(toilet):1	338(tiny):1	466(white):1	472(waikiki):1	491(fill):1	492(private):1	509(sink):1	528(ceiling):2	543(Queen):1	552(cover):1	602(bug):2	723(stain):1	779(figure):1	790(basically):1	806(paint):1	823(various):1	838(report):1	850(bottom):2	904(hawaii):2	985(hardly):1	1005(green):1	1142(slide):1	1258(feb):1	1378(approach):1	1395(honolulu):1	1476(match):1	1485(apologize):1	1622(lamp):1	1876(mildew):1	1887(peel):1	2004(dirt):1	2043(poster):1	2046(moldy):2	2288(cloud):1	2452(attract):1	2500(shutter):2	2563(cabinet):1	2690(discuss):1	2796(dusty):1	3220(rat):1	3667(angel):1	3704(pathetic):1	4886(ledge):1	5558(kapiolani):1	5631(chunk):1	6166(paste):1	7404(dissatisfaction):1	7902(slimy):1	8101(lampshade):1	9249(breed):1	
+23	1(location):1	20(look):1	69(tell):1	96(worth):1	110(extremely):1	124(expensive):1	154(disappoint):1	171(able):1	189(absolutely):1	209(tourist):1	270(fabulous):1	292(card):2	356(comment):1	375(remember):1	377(hand):1	380(cab):1	383(directly):1	430(dollar):1	721(accommodation):1	835(additional):1	970(nor):1	1112(fare):1	2206(hundred):1	
+195	0(staff):5	2(night):2	3(clean):1	4(nice):2	8(day):1	9(service):1	11(bed):3	13(bathroom):4	15(recommend):1	17(view):1	20(look):1	22(pool):2	24(floor):6	26(people):1	27(bar):1	30(beach):1	32(check):1	36(desk):1	39(return):2	41(city):1	43(leave):2	54(door):5	56(morning):1	57(water):2	58(quiet):1	61(shower):2	62(expect):1	66(park):1	67(call):1	69(tell):1	76(try):1	80(money):1	84(locate):2	85(wait):2	99(couple):1	104(sleep):1	110(extremely):1	116(tv):1	125(towel):4	127(speak):1	132(hear):1	137(safe):1	164(air):1	169(sit):1	191(balcony):2	194(tip):1	197(fresh):1	198(chair):3	226(bath):1	229(table):1	232(nearby):2	244(mention):1	249(luggage):3	253(tried):1	278(cool):1	279(touch):2	280(buy):1	281(house):2	290(bag):2	296(phone):1	306(level):1	311(tub):1	326(style):1	330(toilet):1	366(step):1	367(housekeeping):1	377(hand):1	379(public):1	396(carpet):1	397(forget):1	402(foot):1	405(unless):1	440(furniture):1	444(stand):2	466(white):1	472(waikiki):1	478(hang):4	479(sheet):1	480(stuff):1	509(sink):1	519(item):1	537(attentive):1	541(appear):2	552(cover):3	565(closet):1	580(hallway):2	585(below):2	606(sell):1	641(security):2	661(fan):1	723(stain):1	743(curtain):1	745(building):1	774(lock):2	799(breeze):1	801(bell):1	846(tile):1	847(mattress):1	850(bottom):3	854(cleanliness):1	858(pull):1	861(suit):1	863(apparently):1	916(refrigerator):1	945(box):1	963(rental):1	970(nor):1	974(suitcase):1	980(unit):1	1020(barely):1	1032(wet):2	1041(push):1	1077(claim):1	1083(conditioner):1	1093(position):1	1099(spray):1	1105(bellman):1	1126(dog):1	1142(slide):1	1146(blow):1	1162(spring):1	1166(lie):1	1174(plug):1	1181(whenever):1	1200(luckily):1	1218(hole):1	1289(burn):1	1301(in-room):2	1333(upper):1	1350(beside):1	1369(blanket):1	1378(approach):1	1407(assume):1	1422(sauna):1	1466(p.m):1	1489(drain):1	1493(hairdryer):1	1537(residential):1	1591(housekeeper):1	1622(lamp):1	1623(operate):1	1626(tall):1	1669(assistance):1	1688(inch):1	1766(track):1	1845(dust):1	1867(fussy):1	1875(doctor):1	1896(bathe):1	1916(rack):1	1961(approximately):1	1971(dangerous):1	2001(brochure):1	2004(dirt):1	2145(hook):1	2278(bedspread):1	2280(waterfall):1	2298(bedside):1	2423(splash):1	2492(finger):1	2563(cabinet):1	2582(mat):1	2796(dusty):1	2844(freshen):1	2864(retrieve):1	3003(chase):1	3045(dried):1	3227(leftover):1	3323(overhear):1	3336(bark):1	3356(ancient):1	3408(headboard):1	3679(restroom):1	3951(discovery):1	4074(condos):1	4081(era):1	4115(cord):1	4214(extension):1	4309(substance):1	4335(swamp):1	4366(slick):2	4475(existent):1	4506(unknown):1	4886(ledge):1	5277(bolt):1	6598(prone):1	6639(latch):1	7470(warp):1	7503(origin):1	8453(shred):1	8512(bathmat):1	8803(mismatch):1	11383(sanitizer):1	11495(riddle):1	11572(splattere):1	
+137	5(time):3	7(walk):2	8(day):2	9(service):1	17(view):1	20(look):1	22(pool):2	28(close):4	29(minute):2	30(beach):4	31(front):2	32(check):2	35(street):5	37(review):1	41(city):1	49(shop):1	53(arrive):2	54(door):1	58(quiet):1	60(hour):1	64(spend):1	65(visit):1	69(tell):1	84(locate):3	85(wait):2	87(lovely):1	98(outside):1	100(bloc):1	112(main):1	120(bus):1	140(deal):2	147(business):1	149(run):1	159(access):1	161(change):1	183(wall):1	189(absolutely):1	195(local):1	196(meet):1	199(surprise):1	200(corner):1	207(move):1	210(space):1	217(noisy):1	220(busy):6	232(nearby):1	237(lounge):2	239(town):1	241(complain):1	249(luggage):3	259(due):2	262(website):5	283(half):2	293(course):2	311(tub):1	321(shuttle):2	338(tiny):2	391(understand):1	395(direction):1	421(neighbourhood):1	444(stand):1	453(okay):1	456(picture):1	472(waikiki):1	486(traffic):1	491(fill):1	496(concern):1	498(despite):1	507(museum):1	543(Queen):1	552(cover):2	565(closet):1	596(lose):1	633(ago):1	638(canal):1	667(surround):1	731(feature):1	733(imagine):1	761(photo):1	783(opposite):1	785(superior):1	790(basically):1	828(tree):1	838(report):1	850(bottom):1	852(gift):1	863(apparently):1	869(discover):1	882(mark):1	910(advertise):3	921(suggestion):1	995(constantly):1	1007(black):1	1012(golf):2	1034(secure):1	1071(sandwich):1	1103(refuse):1	1115(hospitality):1	1138(mold):2	1190(edge):1	1228(cross):1	1245(laugh):1	1322(cart):1	1395(honolulu):1	1509(mountain):1	1541(fixture):1	1564(brush):1	1621(dead):1	1649(entry):1	1874(dozen):1	1876(mildew):1	1887(peel):1	1951(vehicle):1	2093(wallpaper):1	2134(panel):1	2174(field):1	2221(mislead):1	2280(waterfall):1	2314(shallow):1	2329(sidewalk):1	2561(emergency):1	3170(rocky):1	3206(on-line):1	3744(breaker):1	4302(promote):1	4456(vegetation):1	4545(swarm):1	4594(imply):1	4722(one-way):1	4856(fifteen):1	4872(army):1	5943(mid-afternoon):1	6171(diamondhead):1	6390(circuit):1	7694(droppings):1	7736(grossly):1	7902(slimy):1	
+27	0(staff):1	3(clean):4	9(service):1	10(restaurant):2	12(friendly):1	20(look):1	22(pool):1	26(people):1	55(lobby):1	87(lovely):1	248(consider):1	262(website):1	288(rest):1	323(dirty):3	428(customer):1	479(sheet):1	541(appear):1	1094(spotlessly):1	1119(attempt):2	1440(venture):1	1449(dump):1	1697(smelly):1	2221(mislead):1	3275(dare):1	5636(unused):1	10301(unaccommodate):1	12119(veritable):1	
+71	0(staff):2	2(night):1	5(time):1	30(beach):1	31(front):3	32(check):3	36(desk):4	54(door):1	60(hour):1	64(spend):1	67(call):2	69(tell):5	78(rate):1	85(wait):2	92(help):1	99(couple):1	136(charge):1	149(run):1	156(reservation):1	161(change):1	167(choose):1	169(sit):1	188(line):1	196(meet):1	237(lounge):2	249(luggage):3	252(lunch):1	253(tried):1	258(manager):1	286(check-in):1	291(amenity):1	292(card):1	296(phone):2	319(head):1	321(shuttle):1	329(entire):1	338(tiny):1	354(notice):1	359(allow):1	360(daily):1	447(send):1	466(white):1	496(concern):1	542(completely):1	543(Queen):1	602(bug):1	658(checkout):2	672(owner):1	713(contact):1	767(ourselves):1	785(superior):1	798(tax):1	848(impression):1	850(bottom):1	946(wonder):1	1034(secure):1	1105(bellman):3	1215(ignore):1	1322(cart):1	1634(policy):1	2371(crawl):1	2621(cancellation):1	2649(additionally):1	2748(stare):1	3543(neglect):1	3752(thousand):1	4285(strictly):1	4687(blank):1	7250(non-refundable):1	7272(expression):1	7404(dissatisfaction):1	
+44	2(night):1	8(day):1	10(restaurant):1	20(look):1	27(bar):1	31(front):1	33(trip):1	36(desk):1	51(enjoy):1	55(lobby):1	67(call):1	69(tell):1	73(etc):1	77(buffet):1	90(coffee):1	99(couple):1	116(tv):1	136(charge):1	198(chair):1	207(move):1	214(property):1	249(luggage):4	262(website):1	296(phone):1	297(note):1	298(drive):2	301(tea):1	323(dirty):1	662(drop):1	668(fit):1	764(chinese):1	863(apparently):1	865(control):1	1032(wet):1	1166(lie):1	1285(remind):1	1322(cart):1	1583(cell):1	1767(tray):1	1776(indicate):1	1898(block):1	4616(unattended):1	5933(incur):1	7201(agenda):1	
+5	2(night):1	1342(accessible):1	2134(panel):1	2765(flip):1	3744(breaker):1	
+
+<Author>Travel_Lover025
+<Content>It's fine...... For the price - this hotel is fine. My husband and I stayed 2 nights at Royal Garden Waikiki and found it to be very clean and serviceable - we used the room to sleep. Who needs a pool if they have Waikiki beach in walking distance? We also found the employees very helpful and nice.  
+<Date>Nov 9, 2005
+<Rating>3	4	3	-1	4	-1	3	-1	
+<Aspects>
+4	4(nice):1	14(helpful):1	113(fine):1	608(employee):1	
+2	19(price):1	113(fine):1	
+8	2(night):1	3(clean):1	104(sleep):1	105(husband):1	310(garden):1	472(waikiki):1	753(royal):1	5334(serviceable):1	
+5	7(walk):1	22(pool):1	30(beach):1	115(distance):1	472(waikiki):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>No Worries I stayed at this hotel from 10/31/05 through 11/6/05 which I booked from an internet special on a standard room. Upon check-in, I was upgraded to a superior room due to no standard rooms being available. This hotel is fine. Yes, it's true that there is no pool, no bar, no gift shop, no room service. However, the hotel room is clean, quite, decent and within walking distance to the major downtown attractions, i.e., international market, beach, restaurants etc.My room was on the 12th floor and overlooked the city. There was a refrigerator, microwave, wetbar and coffee maker in the room. Once you use your complimentary pre-filled coffee filters, you will have to pay for any additional packets at $1.50 each. Remote controlled air conditioning and television worked fine. Towels are provided by the hotel for a day at the beach if you choose. I was also given a loungue chair and mat to use as well.If you want a clean place to stay and don't have $300.00 per night to spend on lodging, I would go with the Royal Garden. I agree with the gentleman who wrote, this is where the pros stay, as I noticed a number of pilots checking in and out the hotel during my stay. They probably were booked in the executive suites on the 20th through the 25th floors, which is also available to the average traveler also at a discounted internet rate as well.Overall the place is OK - yes it could use some refurbishing, but even with that, this is a decent place to lay your head and enjoy the island.  
+<Date>Nov 7, 2005
+<Rating>3	4	3	-1	4	-1	3	-1	
+<Aspects>
+10	51(enjoy):1	70(overall):1	113(fine):1	123(ok):1	250(yes):1	257(decent):1	319(head):1	342(island):1	696(lay):1	1253(refurbish):1	
+6	42(pay):1	90(coffee):1	345(complimentary):1	835(additional):1	2975(filter):1	3101(packet):1	
+24	18(book):2	24(floor):1	78(rate):1	97(internet):2	108(suite):1	113(fine):1	130(standard):1	134(available):1	164(air):1	178(probably):1	198(chair):1	208(special):1	227(average):1	263(condition):1	267(traveler):1	831(worry):1	864(discount):1	865(control):1	872(executive):1	1158(television):1	1272(remote):1	1943(25th):1	1977(20th):1	2582(mat):1	
+20	3(clean):1	7(walk):1	8(day):1	10(restaurant):1	24(floor):1	30(beach):2	41(city):1	73(etc):1	115(distance):1	125(towel):1	153(provide):1	167(choose):1	257(decent):1	260(overlook):1	264(market):1	315(major):1	334(downtown):1	350(attraction):1	903(international):1	1955(12th):1	
+6	2(night):1	3(clean):1	64(spend):1	310(garden):1	753(royal):1	1878(lodge):1	
+14	32(check):1	130(standard):1	134(available):1	163(upgrade):1	259(due):1	286(check-in):1	335(numb):1	344(write):1	354(notice):1	473(agree):1	785(superior):1	1249(pro):1	1506(gentleman):1	6527(pilot):1	
+11	9(service):1	22(pool):1	27(bar):1	49(shop):1	90(coffee):1	250(yes):1	820(microwave):1	852(gift):1	916(refrigerator):1	996(maker):1	12496(wetbar):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>NOT where you want to stay in heavenly Hawaii !!! I must address the comments made by the TripAdvisor member from San Francisco ( post of September 14th, 2005 ). He claims to be a travel savvy Executive with  very discerning tastes  . While I have no quarrel with the individual himself ( How could I ? I do not know him. ), I think that it is unfair and misleading for him to write that  the reviews posted here are wrong  . His assumption that the negative reviews of this hotel have been written only by travellers who are looking for a  jumping, big party scene  is not fair. We, too, prefer peace and quiet when it comes to hotels. The hotel is not fancy - the lobby appears fancy at first glance, but it could arguably be considered tacky. The gold and marble are not  everywhere  . The only decent views are from the upper-floor rooms. Sadly, we found the staff to be polite at best - certainly not friendly. Many of them seemed strangely unknowledgeable, both about the hotel and Waikiki. Do not be confused : the Royal Garden is NOT a  very high class place  . It is mediocre at best. Facilities and services are almost non-existent. You will not be able to enjoy a gift shop, a lobby bar / lounge ( they are there, but they are not operational ), or an appealing swimming pool and pool deck, among other things. It is simply a place for sleeping. Rooms are very lacklustre. By the way : if you choose to spend $500.00 per night at, say, the Halekulani or the Mandarin Oriental, you are NOT a  fool  . I have stayed at both resorts, and they are in a completely different league compared to the Royal Garden. A stay at the Royal Garden will not make you feel like a King or a Queen - a stay at the aforementioned luxury resorts WILL ! Finally, I wish to point out that, seven years ago, I would have agreed with the San Francisco TripAdvisor's comments. Unfortunately, the difference between then and now is like night and day. For similar rates, there are MUCH better hotels in Waikiki.  
+<Date>Oct 27, 2005
+<Rating>1	1	2	-1	2	-1	2	-1	
+<Aspects>
+51	2(night):2	8(day):1	34(feel):1	64(spend):1	68(travel):1	72(resort):2	78(rate):1	167(choose):1	177(san):2	243(king):1	310(garden):3	341(finally):1	355(francisco):2	356(comment):2	381(compare):1	384(wish):1	437(luxury):1	439(taste):1	470(class):1	472(waikiki):2	473(agree):1	524(unfortunately):1	542(completely):1	543(Queen):1	597(tripadvisor):2	633(ago):1	644(post):1	705(marble):1	753(royal):3	819(difference):1	872(executive):1	874(similar):1	904(hawaii):1	972(september):1	1077(claim):1	1312(address):1	1340(mediocre):1	1419(confuse):1	1571(gold):1	1596(individual):1	1609(heavenly):1	1616(Oriental):1	1954(mandarin):1	1998(14th):1	2098(fool):1	3495(halekulani):1	4089(strangely):1	4697(league):1	5447(discern):1	5985(afore-mentioned):1	8733(savvy):1	
+0	
+22	17(view):1	20(look):1	37(review):2	58(quiet):1	104(sleep):1	257(decent):1	267(traveler):1	282(negative):1	344(write):2	363(party):1	427(wrong):1	488(simply):1	536(prefer):1	644(post):1	739(fair):1	1404(jump):1	1517(peace):1	1588(scene):1	2221(mislead):1	4435(unfair):1	6101(lackluster):1	9046(assumption):1	
+0	
+0	
+4	0(staff):1	12(friendly):1	422(polite):1	2135(sadly):1	
+21	9(service):1	22(pool):2	27(bar):1	49(shop):1	51(enjoy):1	55(lobby):2	171(able):1	211(facility):1	237(lounge):1	248(consider):1	261(swim):1	541(appear):1	796(fancy):2	852(gift):1	1406(deck):1	1679(appeal):1	2406(tacky):1	2580(nonexistent):1	3666(glance):1	5893(operational):1	9241(arguably):1	
+0	
+
+<Author>tsboy69
+<Content>Royal Garden Waikiki After reading such mixed reviews for this hotel, I must admit I was scared upon my arrival. I won this property for a 13-night stay on Priceline (8/29-9/11).The lobby area is very nice and though the bar and gift shop is not open at this time, it is a great area to RELAX. Valet parking is only $9 per day (compared to parking fees up to $16 per in town, it ain't free anywhere in Waikiki).The main pool is off limits due to a dispute regarding the property. The before mentioned talk regarding the smaller pool are wrong. Although the pool is not that large (15 x 40), it is very clean with chaise lounges and tables with umbrellas nearby. There is a shower and saunas right next to the pool. Adjacent to the pool is a garden area with lots of grass and foiliage that is VERY WELL maintained. Since it is on the ground, the surrounding buildings can block the sun a little early in the afternoon, but Waikiki Beach is only about a 10 minute walk away.THe rooms are very good sized for this class of hotel with desk, chairs, table, 20 tv with 30+ channels. The air conditioning unit is up in the corner of the room and is quiet enough. High speed internet is available for $8 per day. The bathroom is big enough with lotions, shampoos, blow dryer and two sets of towels.There is a fine-dining Japanese restaurant for dinner and the restaurant downstairs is open only for breakfast, but so what? There are dozens of places to eat within a few blocks on Kuhio or Kalakaua.This is not the Halekulani or the Manderin, this IMHO is a solid 2.5 hotel. I have been to the Island Colony, Maile Sky Court, Beachcomer, Honolulu Prince, Holiday Inn, Coral Reef and more in my day and would suggest this hotel before any of them.It is quiet, clean, with pleasant staff. What do you want for less than $75 per night? I think may of the previous reviews are over the top, this property is not so bad.Happy Travels  
+<Date>Sep 9, 2005
+<Rating>3	4	3	-1	4	-1	4	-1	
+<Aspects>
+20	2(night):1	37(review):1	47(eat):1	68(travel):1	88(read):1	100(bloc):1	155(happy):1	224(arrival):1	310(garden):1	472(waikiki):1	609(mix):1	753(royal):1	1282(admit):1	1617(solid):1	1711(scare):1	1874(dozen):1	2879(kuhio):1	3495(halekulani):1	4882(kalakaua):1	7899(imho):1	
+3	214(property):1	1069(priceline):1	1273(win):1	
+25	0(staff):1	3(clean):1	13(bathroom):1	22(pool):1	36(desk):1	58(quiet):2	61(shower):1	83(size):1	116(tv):1	125(towel):1	150(pleasant):1	164(air):1	198(chair):1	200(corner):1	229(table):1	234(set):1	263(condition):1	470(class):1	741(channel):1	980(unit):1	1051(shampoo):1	1146(blow):1	1209(dryer):1	1422(sauna):1	1873(lotion):1	
+36	7(walk):1	8(day):2	22(pool):1	23(little):1	29(minute):1	30(beach):1	46(free):1	66(park):2	100(bloc):1	223(holiday):1	239(town):1	244(mention):1	324(inn):1	342(island):1	364(afternoon):1	371(talk):1	381(compare):1	420(sun):1	427(wrong):1	452(suggest):1	457(valet):1	472(waikiki):2	584(fee):1	667(surround):1	706(grind):1	745(building):1	930(regard):1	1068(court):1	1395(honolulu):1	1709(reef):1	1909(sky):1	1930(coral):1	2041(prince):1	3302(ai):1	6323(colony):1	8560(maile):1	
+12	3(clean):1	22(pool):2	38(lot):1	229(table):1	232(nearby):1	237(lounge):1	310(garden):1	562(maintain):1	1061(adjacent):1	1140(umbrella):1	2603(grass):1	3274(chaise):1	
+0	
+23	4(nice):1	5(time):1	6(breakfast):1	10(restaurant):2	22(pool):1	27(bar):1	37(review):1	49(shop):1	50(bad):1	55(lobby):1	112(main):1	117(dinner):1	118(top):1	160(relax):1	214(property):2	259(due):1	373(previous):1	510(limit):1	559(japanese):1	691(downstairs):1	852(gift):1	930(regard):1	4041(dispute):1	
+4	8(day):1	97(internet):1	134(available):1	1170(speed):1	
+
+<Author>A TripAdvisor Member
+<Content>AVOID LIKE THE PLAGUE We just returned from a visit to the Royal Gardens Hotel. I was in Honolulu for a Conference and did not choose the hotel but I would never stay there again and would not recommend it! The rooms were filthy. The entire room smelled like the filthy shower curtain. Not only are the rooms dirty, the hallways, elevators, and carpets are dirty. The chairs and bedspreads were stained. Don't be deceived by the front lobby! I called before we checked in to see if they had washers/dryers available. I was told that there were 3 on 3 different floors. That is true, but I discovered on arrival that only one set works on the 18th floor. When we checked in, while we had reserved a room with 2 double beds, we received a room with one full bed (for our family of four, 2 adults 2 small children). When I went downstairs to ask for a different room we were told there were no other available rooms. I persisted and was given another room that had 1 full bed and 1 twin bed. The room was crowded and very unclean. We had to request enough towels for our family everyday. The main swimming pool was also closed as well as both restaurants on the property. We had looked on the Royal Garden Hotel website before our visit and were very disapointed by the reality of this hotel.  
+<Date>Aug 12, 2005
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+6	39(return):1	65(visit):1	310(garden):1	436(avoid):1	753(royal):1	4558(plague):1	
+0	
+32	11(bed):4	24(floor):2	32(check):1	61(shower):1	69(tell):2	106(family):1	134(available):1	179(double):1	198(chair):1	216(elevator):1	224(arrival):1	231(smell):1	234(set):1	277(child):1	302(receive):1	313(crowd):1	323(dirty):2	329(entire):1	396(carpet):1	506(reserve):1	556(adult):1	580(hallway):1	690(twin):1	691(downstairs):1	723(stain):1	743(curtain):1	869(discover):1	1320(filthy):2	2213(18th):1	2278(bedspread):1	3914(unclean):1	6951(persist):1	
+11	15(recommend):1	20(look):1	65(visit):1	167(choose):1	262(website):1	310(garden):1	753(royal):1	794(conference):1	1395(honolulu):1	2260(reality):1	2513(disapoint):1	
+0	
+10	31(front):1	32(check):1	55(lobby):1	67(call):1	106(family):1	125(towel):1	134(available):1	148(request):1	605(everyday):1	3818(deceive):1	
+6	10(restaurant):1	22(pool):1	28(close):1	112(main):1	214(property):1	261(swim):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Completely let down ! We chose to stay at the Royal Garden Waikiki because we enjoyed a pleasant holiday there several years ago. At that time, we found the hotel to be rather upscale, with reasonable rates. In our opinion, describing the location as  out of the way  is an exaggeration --- we find it to be close to the centre of Waikiki, and we like the fact that it is located on a quiet side street. After staying at the hotel in April, 2005, we have nothing but negative things to say about it. Things have changed dramatically, for the worse. The once elegant-looking lobby now appears slightly shabby --- worn furniture is scattered about, and the former lobby lounge is not operational. Instead, the lobby lounge area is simply filled with various pieces of furniture which sit haphazardly about the room. The gift shop is empty and always closed --- padlocked, and all. The main swimming pool ( the one with the  cascading waterfall  ) was cordoned off. If we had known about that, then we would not have made a reservation ( for 04 / 05 ) in the first place. Neither the Internet site nor the front desk and reservations staff ( with whom we spoke several times prior to arrival ) advised us of the closure of the main pool. The other swimming pool is a disgrace. It is in no way an acceptable substitute. It is small, filthy, obviously neglected, and it is located in what can almost be described as a dark corner off of an alley. The hotel should be embarrassed to advertise that it features two pools. Even for a free night's stay, I wouldn't have dipped my toes in the small one --- it was disgusting. Only a very small sign posted between elevator doors indicated that the main pool was closed temporarily. I asked about this at the front desk --- the gentleman had no idea for how much longer that it would remain closed, and he could not tell me why it was closed ( renovation ? repair ? ). Front-desk staff were not friendly. They were not knowledgeable. Our room was simply OK, in terms of amenities and cleanliness. Housekeeping was satisfactory, but nothing more. The Royal Garden was once a little gem in Waikiki --- now, it is more of a dump than a ' nice ' hotel. For $45.00 / night ( $35.00 / night if the only decent pool is STILL closed ), I might not complain. BUT ... for what they charge, it is a very big disappointment. When staying in Waikiki, one typically wants either a beach-front setting ( which is very expensive ), OR a nice on-site swimming pool. This hotel has neither. Stay away!  
+<Date>Aug 12, 2005
+<Rating>1	1	2	-1	3	-1	1	-1	
+<Aspects>
+21	5(time):1	50(bad):1	51(enjoy):1	78(rate):1	150(pleasant):1	161(change):1	167(choose):1	223(holiday):1	273(reasonable):1	282(negative):1	310(garden):1	472(waikiki):1	542(completely):1	633(ago):1	753(royal):1	1160(knowledgeable):1	1214(acceptable):1	1237(upscale):1	1275(neither):1	6293(substitute):1	6335(dramatically):1	
+0	
+18	55(lobby):2	123(ok):1	237(lounge):1	291(amenity):1	367(housekeeping):1	434(wear):1	440(furniture):1	488(simply):1	541(appear):1	598(slightly):1	854(cleanliness):1	1011(term):1	1319(shabby):1	1398(repair):1	2059(satisfactory):1	2285(former):1	3827(scatter):1	5893(operational):1	
+41	1(location):1	2(night):3	4(nice):1	22(pool):3	28(close):4	35(street):1	46(free):1	49(shop):1	54(door):1	58(quiet):1	84(locate):2	101(center):1	112(main):1	124(expensive):1	200(corner):1	216(elevator):1	234(set):1	241(complain):1	257(decent):1	261(swim):1	449(sign):1	459(dark):1	472(waikiki):2	644(post):1	704(opinion):1	781(obviously):1	810(empty):1	852(gift):1	955(describe):2	1152(disgust):1	1320(filthy):1	1671(alley):1	1776(indicate):1	1994(typically):1	2272(dip):1	2484(on-site):1	3475(toe):1	3543(neglect):1	5917(temporarily):1	6076(exaggeration):1	11006(padlock):1	
+0	
+26	0(staff):2	5(time):1	12(friendly):1	22(pool):1	28(close):2	31(front):2	36(desk):2	69(tell):1	97(internet):1	112(main):1	127(speak):1	136(charge):1	156(reservation):2	192(site):1	224(arrival):1	637(prior):1	639(idea):1	663(advise):1	687(renovation):1	866(disappointment):1	970(nor):1	1275(neither):1	1391(remain):1	1506(gentleman):1	4633(front-desk):1	8363(closure):1	
+26	4(nice):1	22(pool):3	23(little):1	55(lobby):1	112(main):1	169(sit):1	237(lounge):1	261(swim):2	310(garden):1	353(instead):1	440(furniture):1	472(waikiki):1	488(simply):1	491(fill):1	731(feature):1	753(royal):1	805(gem):1	823(various):1	910(advertise):1	941(piece):1	1449(dump):1	2280(waterfall):1	3183(embarrass):1	4339(cascade):1	4524(disgrace):1	10490(cordon):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Not bad for a night or two We stayed 1 night at this hotel (a Friday) - we booked a superior room (on Priceline) and got a suite with a king size bed, full living room, kitchenette, and fancy marble bathroom. Air conditioner was quiet and functional. Though the place is a bit dated and heavy with Oriental decor, our room was large, comfortable and quiet. The room carpeting was plush, but had a large stain. For the size of the hotel (over 20 floors), the pool was tiny and a disappointment to our 11 yr old son, so we walked the few blocks to Waikiki Beach. Also, we were allowed to use the pool at the Hale Koa Hotel (on Waikiki) a few blocks away since we are retired military. The one restaurant had very limited hours and we did not eat there. No problem since there are numerous places to eat within walking distance, including a TGI Fridays very close by. The concierge was very helpful in calling for prompt taxi service to the airport (a limosine). Not a bad place for a night or two.  
+<Date>Aug 6, 2005
+<Rating>3	3	2	-1	3	-1	3	-1	
+<Aspects>
+10	2(night):1	22(pool):1	50(bad):1	100(bloc):1	359(allow):1	472(waikiki):1	3522(retire):1	5014(military):1	8633(hale):1	8977(koa):1	
+0	
+38	2(night):2	7(walk):1	11(bed):1	13(bathroom):1	18(book):1	22(pool):1	24(floor):1	25(comfortable):1	30(beach):1	50(bad):1	52(bit):1	58(quiet):2	83(size):2	100(bloc):1	108(suite):1	164(air):1	206(live):1	243(king):1	269(decor):1	338(tiny):1	396(carpet):1	472(waikiki):1	511(date):1	612(son):1	705(marble):1	723(stain):1	785(superior):1	796(fancy):1	866(disappointment):1	923(friday):1	1069(priceline):1	1083(conditioner):1	1165(kitchenette):1	1186(heavy):1	1348(functional):1	1616(Oriental):1	1847(plush):1	2570(yr):1	
+16	7(walk):1	9(service):1	14(helpful):1	28(close):1	47(eat):1	67(call):1	71(include):1	95(airport):1	115(distance):1	185(taxi):1	204(concierge):1	971(numerous):1	1208(prompt):1	4999(fridays):1	6988(tgi):1	11027(limosine):1	
+0	
+0	
+4	10(restaurant):1	47(eat):1	60(hour):1	510(limit):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Will not stay again When I arrived I was suprised to find that there was only valet parking. This is a nice touch if they didn't charge you an additional $9 to park at their hotel and tip the valet on top of it. ATM machine is located on the first floor....didn't work. The folks at the front counter seemed a bit snobby and didn't have the capability to speak english very well. Obviously they cater to clientele from out of town which is not a problem, but at least be able to communicate with me too! Moving on to the room...what a supirse. I stayed on the 22nd floor in an executive suite. This room was approx. $285 a night and I was EXTREMELY disappointed. The carpet was stained, the furniture was broken and the bed was like sleeping on a board. Not to mention the fact that in the middle of the night I painfully realized there were springs poking through the mattress. Also adding to an uncomfortable sleeping night was the fact the air conditioner in the bedroom area did not work. All in all I say this hotel is crap and needs to get new management and definitely do some renovations. Their website looks fabulous, but anything looks great when you take a picture at the right angle. I can tell you as a resident of Honolulu there are much better hotels out there for that price, you just gotta search.  
+<Date>Jun 20, 2005
+<Rating>2	3	2	-1	3	-1	2	-1	
+<Aspects>
+16	2(night):2	110(extremely):1	154(disappoint):1	171(able):1	239(town):1	244(mention):1	325(middle):1	607(realize):1	781(obviously):1	847(mattress):1	1000(cater):1	1162(spring):1	1520(communicate):1	2776(clientele):1	5520(painfully):1	6291(poke):1	
+6	19(price):1	69(tell):1	1248(search):1	1395(honolulu):1	1988(resident):1	3985(gotta):1	
+26	2(night):1	11(bed):1	24(floor):2	59(definitely):1	84(locate):1	104(sleep):2	108(suite):1	164(air):1	207(move):1	228(break):1	268(bedroom):1	351(add):1	396(carpet):1	440(furniture):1	493(machine):1	525(management):1	600(board):1	687(renovation):1	723(stain):1	856(uncomfortable):1	872(executive):1	1083(conditioner):1	1423(approx):1	2405(atm):1	2968(crap):1	6381(22nd):1	
+15	4(nice):1	20(look):2	53(arrive):1	66(park):2	118(top):1	136(charge):1	194(tip):1	262(website):1	270(fabulous):1	279(touch):1	456(picture):1	457(valet):2	835(additional):1	1738(suprise):1	3635(angle):1	
+0	
+8	31(front):1	52(bit):1	127(speak):1	152(english):1	1001(counter):1	1050(folk):1	4669(snobby):1	8579(capability):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>It's good value for under US$90 per night It's certainly a 3 star place (or at least the room we had was anyway). It looks like this hotel was once a 4 star and I would venture a guess that some rooms in the 25 floors have been refurbished and are still closer to 4 star quality, but the one we had on the 9th floor, certainly has not been re-furbished for a long time.Having said that, we got a very cheap internet deal for 8 nights and we were not expecting a 4 star room. It was a clean, good sized room, not real close to the beach, but still walking distance to a number of restaurants and shops. We hired a car from dollar rent a car (a couple of blocks walk) and used the $9 per day (plus tax) valet parking. Worked out well for us.If you want your holiday to be just about the beach, this is not the hotel for you, but if you plan to do other things, and get a good rate, we found this hotel perfectly acceptable for a 3 star.Certainly not as bad as some of the reviews we read before staying in it.  
+<Date>Jun 14, 2005
+<Rating>3	4	3	-1	3	-1	3	-1	
+<Aspects>
+3	37(review):1	50(bad):1	88(read):1	
+23	2(night):2	5(time):1	20(look):1	24(floor):2	28(close):1	30(beach):1	62(expect):1	78(rate):1	81(value):1	97(internet):1	103(star):5	140(deal):1	143(cheap):1	187(quality):1	221(plan):1	223(holiday):1	417(anyway):1	469(guess):1	595(perfectly):1	1214(acceptable):1	1253(refurbish):1	1440(venture):1	5180(9th):1	
+0	
+21	3(clean):1	7(walk):2	8(day):1	10(restaurant):1	28(close):1	30(beach):1	49(shop):1	66(park):1	83(size):1	99(couple):1	100(bloc):1	115(distance):1	121(car):2	203(plus):1	240(real):1	335(numb):1	430(dollar):1	457(valet):1	798(tax):1	1030(rend):1	1556(hire):1	
+0	
+0	
+0	
+0	
+
+<Author>BlueandGoldhawaii
+<Content>A local's opinion I have been living near Waikiki for 45 years and know it very well. My relatives will be visiting and I've been checking into hotels on the net. I think this will be the hotel I'll put them up in. Some of the shortcomings of the Royal Gardens are not so obvious on the hotel's website. It's at the far end of Waikiki making it a fair 15 minute walk to the center of Waikiki Beach (although some may prefer being away from the center of the noisy hubbub), but less than five minutes from the Hilton Hawaiian's beautiful beach.The Royal's lobby is very beautiful but the rooms are not really 4 stars. But remember the prices are nowhere near what you would pay if you were on the beach. And if you did find the same price the hotel on the beach it would be a very low end hotel. Maybe it would be better to say this hotel is a great find for a 3 star instead so people don't get unrealistic. I saw a price of $99 a night on the internet. In comparison, I paid $79 for a single room at Hampton Suites in WheretheheckamI, Alabama overlooking a parking lot, a dirt lot, and a Waffle House this January...as a frequent business traveler my opinon is that the Royal Gardens may not be the Four Season's but it's a fair deal.  
+<Date>Jun 9, 2005
+<Rating>3	4	3	-1	3	-1	4	-1	
+<Aspects>
+5	102(near):1	195(local):1	206(live):1	472(waikiki):1	704(opinion):1	
+16	2(night):1	19(price):3	26(people):1	30(beach):2	42(pay):1	45(beautiful):1	55(lobby):1	97(internet):1	102(near):1	103(star):2	308(maybe):1	353(instead):1	375(remember):1	513(low):1	753(royal):1	9014(unrealistic):1	
+20	38(lot):2	42(pay):1	66(park):1	108(suite):1	140(deal):1	147(business):1	260(overlook):1	267(traveler):1	281(house):1	304(single):1	310(garden):1	610(season):1	739(fair):1	753(royal):1	1018(january):1	1355(frequent):1	1525(comparison):1	1557(waffle):1	2004(dirt):1	2236(hampton):1	
+17	7(walk):1	29(minute):2	30(beach):2	45(beautiful):1	101(center):2	217(noisy):1	262(website):1	310(garden):1	472(waikiki):2	477(hilton):1	536(prefer):1	739(fair):1	753(royal):1	1434(hawaiian):1	1698(obvious):1	4259(shortcoming):1	8549(hubbub):1	
+0	
+4	32(check):1	65(visit):1	2076(net):1	2259(relative):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>It's not that bad Don't be put off by the bad reviews of Royal Garden. We found the service extremely friendly and helpful - perhaps it's how you treat them that determines the service you get back. The rooms were serviced every day, clean, fresh towels provided.As for the location, we found it quite relaxing to be a 10 minute walk away from the centre of Waikiki. The canal is a great place to walk along watching the outrigger crews. Where do the locals jog? - along the canal - not down Waikiki High Street. The Royal Garden is handily placed to walk to Fort DeRussy beach - again where the locals go to the beach - much more relaxing than Waikiki.Sure the place could do with a lick of paint but if you want 5 star accommodation, pay the prices!!!!!!!!  
+<Date>May 13, 2005
+<Rating>3	4	3	-1	4	-1	4	-1	
+<Aspects>
+6	37(review):1	50(bad):2	195(local):1	310(garden):1	753(royal):1	3958(jog):1	
+6	19(price):1	42(pay):1	103(star):1	721(accommodation):1	806(paint):1	4980(lick):1	
+0	
+18	1(location):1	7(walk):3	29(minute):1	30(beach):2	35(street):1	101(center):1	160(relax):2	195(local):1	245(watch):1	310(garden):1	472(waikiki):3	638(canal):2	753(royal):1	1654(crew):1	2170(outrigger):1	3047(fort):1	11168(derussy):1	12611(handily):1	
+0	
+0	
+11	3(clean):1	8(day):1	9(service):3	12(friendly):1	14(helpful):1	110(extremely):1	125(towel):1	153(provide):1	197(fresh):1	320(treat):1	3247(determine):1	
+0	
+
+<Author>Utilitywood
+<Content>More like a two-star hotel We stayed in this hotel few years ago. After the trip I thought that it is a waste of time to write anything about this hotel. At that moment of time there was only the first Tripadvisor review available, which was negative. After some hesitation we decided to book the RG anyway, which we did regret afterwards. We should have believed the writer of the first review, we agree now with every word he says. I was surprised to find that this hotel is still marketed as a 4-star property. Yes, RG has a quite fancy lobby, but otherwise there is not much else positive to say. Staff is not extremely friendly or helpful by any means. The pools are in the shady side of the hotel. The location is very inconvenient when thinking Waikiki or greater Honolulu area. Lanais (balconies) are not comfortable and you do not want to spend time in them. Rooms cannot be said to be anything but basic. We stayed only two nights (78$/night+tax) and moved for the rest of our 10-day stay to a 2-star hotel few blocks away, closer to beach with a cheaper price (50$+tax). That hotel was actually much nicer than RG. For example Priceline offers this hotel in a 2-star category which is closer to the truth, since RG is definetely not a Hilton or even anything close to it. We are planning to visit Waikiki again this September, and will reserve a hotel with honest rating.  
+<Date>Apr 17, 2005
+<Rating>1	1	2	-1	1	-1	3	-1	
+<Aspects>
+17	4(nice):1	5(time):2	22(pool):1	33(trip):1	37(review):2	134(available):1	180(actually):1	282(negative):1	312(believe):1	344(write):1	473(agree):1	571(word):1	597(tripadvisor):1	670(moment):1	928(waste):1	2543(shady):1	4704(writer):1	
+24	2(night):2	19(price):1	28(close):3	30(beach):1	89(offer):1	100(bloc):1	143(cheap):1	199(surprise):1	207(move):1	214(property):1	264(market):1	288(rest):1	477(hilton):1	633(ago):1	798(tax):2	954(example):1	1069(priceline):1	2011(category):1	2254(4-star):1	2558(truth):1	2820(definetely):1	5239(2-star):2	7967(two-star):1	8530(10-day):1	
+6	5(time):1	25(comfortable):1	64(spend):1	191(balcony):1	352(basic):1	1741(lanai):1	
+4	1(location):1	472(waikiki):1	1395(honolulu):1	2301(inconvenient):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	110(extremely):1	246(mean):1	
+19	18(book):1	55(lobby):1	65(visit):1	78(rate):1	170(else):1	219(decide):1	221(plan):1	250(yes):1	417(anyway):1	458(positive):1	472(waikiki):1	506(reserve):1	508(otherwise):1	796(fancy):1	972(september):1	1108(honest):1	1373(hesitation):1	1410(regret):1	2598(afterwards):1	
+0	
+
+<Author>lass=
+<Content>Useless staff I arrived at the hotel, and the door was locked. I had to go around to the other side. The guard was sitting there looking at me trying to get in, but didn't want to move from his comfortable position. I went to to the front desk to inquire about rates. The man behind the counter knew nothing. He gave me a flyer and told me to call the phone number on the flyer. He knew absolutely nothing about the hotel. He didn't know the name of the person in sales, he didn't know rates, he knew nothing. He didn't know if the hotel was part of a chain like Holiday Inn so I could get points on loyalty programs. I can't believe they hired him to stand there and be totally ignorant about everything. The shops in the hotel were padlocked and closed down apparently. The cascading fountain wasn't. Serious problems going on here... apparently they are owned by a Japanese company that never checks on them.   
+<Date>Feb 12, 2005
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+23	67(call):1	69(tell):1	78(rate):1	189(absolutely):1	193(person):1	223(holiday):1	295(name):1	296(phone):1	312(believe):1	324(inn):1	335(numb):1	444(stand):1	611(totally):1	627(chain):1	1001(counter):1	1531(program):1	1556(hire):1	1702(fountain):1	1723(sale):1	4171(ignorant):1	4339(cascade):1	4979(flier):2	5538(loyalty):1	
+0	
+0	
+11	20(look):1	25(comfortable):1	28(close):1	49(shop):1	76(try):1	169(sit):1	207(move):1	863(apparently):1	1093(position):1	1762(guard):1	11006(padlock):1	
+0	
+15	0(staff):1	31(front):1	32(check):1	36(desk):1	53(arrive):1	54(door):1	78(rate):1	166(own):1	559(japanese):1	760(company):1	774(lock):1	863(apparently):1	1469(serious):1	1704(inquire):1	2488(useless):1	
+0	
+0	
+
+<Author>prattrichard
+<Content>Great for the price 5 Oct 2004, stayed 8 nights at the Royal Garden.Obtained a terrific rate ($78) through the internet. Couldn't have been more pleased. They are slowly renovating and we got one of the newly done rooms. Non smoking, the only way to go.New, very quiet and efficient air conditioners, 14th floor, away from all the street noise,small refrigerator in every room, washer and dryer on almost every floor. Fitness room just re-opened. The overworked staff tried very hard to please, even when faced with large groups. We'll return. So, if your a fussbudget, go over to the Halekulani ($400 per night). I'll take the Royal Garden, thank you.  
+<Date>Oct 15, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	2(night):1	39(return):1	173(please):1	271(thank):1	310(garden):1	753(royal):1	3495(halekulani):1	
+5	2(night):1	19(price):1	310(garden):1	753(royal):1	1851(oct):1	
+16	24(floor):2	35(street):1	58(quiet):1	94(noise):1	164(air):1	401(efficient):1	533(renovate):1	916(refrigerator):1	983(fitness):1	1083(conditioner):1	1189(newly):1	1209(dryer):1	1998(14th):1	2602(washer):1	3340(slowly):1	9435(re-opene):1	
+0	
+1	468(smoke):1	
+5	0(staff):1	162(hard):1	173(please):1	253(tried):1	5083(overwork):1	
+0	
+4	78(rate):1	97(internet):1	699(terrific):1	2411(obtain):1	
+

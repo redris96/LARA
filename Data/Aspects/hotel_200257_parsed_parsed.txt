@@ -1,0 +1,350 @@
+<Author>sp_hols
+<Content>Great location but that's all       View from room  
+<Date>Jan 3, 2009
+<Rating>2	3	2	5	1	3	1	-1	
+<Aspects>
+0	
+0	
+2	1(location):1	17(view):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>JaspersTravels
+<Content>Perfect location for Berlin long weekend We've just returned from a long weekend in Berlin. The Sofitel was a great choice - fabulous location on Gendarmenmarkt, and within easy walking distance to the Brandenberg Gate, Reichstag, Museum Insel  Alexanderplatz. Two U-bahn stations close by, 5 minutes walk to the Airport bus and a Christmas market right opposite.Our room overlooked an inner courtyard - very quiet. Quality, well appointed room, very comfortable bed  bathroom (although no bath). Breakfast is highly recommended. Staff very polite and helpful. We would definitely go back.Top tips: We booked an official 1 hour tour of the Reichstag  would highly recommend it. Interesting tour  no queues to visit the dome. Also to be recommended is KaDeWe - especially 6th Floor food hall - fabulous!  
+<Date>Dec 15, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+5	59(definitely):1	65(visit):1	181(tour):1	1463(queue):1	3720(dome):1	
+0	
+18	11(bed):1	13(bathroom):1	15(recommend):1	16(food):1	24(floor):1	25(comfortable):1	58(quiet):1	126(especially):1	187(quality):1	226(bath):1	260(overlook):1	270(fabulous):1	435(courtyard):1	579(appoint):1	616(hall):1	1869(6th):1	2240(inner):1	6143(kadewe):1	
+26	1(location):2	7(walk):2	28(close):1	29(minute):1	39(return):1	74(perfect):1	82(station):1	93(easy):1	95(airport):1	107(choice):1	115(distance):1	120(bus):1	172(weekend):2	264(market):1	270(fabulous):1	507(museum):1	746(berlin):2	783(opposite):1	962(christmas):1	992(gate):1	1417(sofitel):1	2164(u-bahn):1	3674(alexanderplatz):1	4598(reichstag):1	8649(gendarmenmarkt):1	9713(brandenberg):1	
+0	
+3	0(staff):1	14(helpful):1	422(polite):1	
+10	6(breakfast):1	15(recommend):2	18(book):1	60(hour):1	118(top):1	138(highly):2	181(tour):1	194(tip):1	2995(official):1	4598(reichstag):1	
+0	
+
+<Author>hi3655
+<Content>Good Location, Bring your own Soap       bath  
+<Date>Oct 29, 2008
+<Rating>3	2	2	3	4	4	4	-1	
+<Aspects>
+0	
+0	
+5	1(location):1	142(bring):1	166(own):1	226(bath):1	965(soap):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>holly_gl
+<Content>Fab hotel Great hotel, really good location close to the upmarket shopping district. Had a lovely room overlooking the cathedral. Every luxury you could ask for - Hermes toiletiries in the bathroom, Bose stereo in the bedroom. Wonderful wellness area on the top floor, which has a small sauna and steam room and lovely relaxation areas and showers. A great fitness area as well (not that I used it!). Massages can booked also. Good choice at breakfast. Only downsides - room was very small and the staff were very slightly snooty. Small lobby area - no places to hang around the hotel other than in your room or the wellness area. But these are only minor issues, overall it is a wonderful hotel.  
+<Date>Sep 24, 2008
+<Rating>5	3	4	5	5	-1	4	-1	
+<Aspects>
+5	48(wonderful):1	70(overall):1	265(issue):1	720(minor):1	983(fitness):1	
+2	6(breakfast):1	107(choice):1	
+23	0(staff):1	13(bathroom):1	24(floor):1	48(wonderful):1	55(lobby):1	61(shower):1	87(lovely):2	118(top):1	260(overlook):1	268(bedroom):1	437(luxury):1	478(hang):1	598(slightly):1	782(downside):1	1422(sauna):1	1552(cathedral):1	1662(relaxation):1	1760(steam):1	3266(stereo):1	3979(snooty):1	4031(bose):1	6198(herm):1	6418(wellness):2	
+6	1(location):1	28(close):1	49(shop):1	433(district):1	1216(fab):1	3373(upmarket):1	
+0	
+0	
+2	18(book):1	730(massage):1	
+0	
+
+<Author>Malino
+<Content>Best location Stayed in the Sofitel Gendarmenmarkt for 2 nights with my partner in May 08.Lovely hotel situated in former East Berlin on a very green and beautiful square. Couldn't have wished for a better location. Hotel is very funky and modern but the rooms are rather small. Nicely furnished with some cute little twists like a sliding shutter in the bathroom for more privacy and little string you pull on the side of the bed for a lullaby to be played. Also got some chocolates and fruit on arrival which was a nice touch. Didn't have breakfast in the hotel so can't comment on that but the restaurant did look very nice. Went to Solar for dinner one night which had a great view of Berlin. Also a lot of wonderful bars around the hotel so you have plenty do do. I would definately recommend this hotel and i would happily stay there again.  
+<Date>Jun 14, 2008
+<Rating>4	4	4	5	4	4	4	-1	
+<Aspects>
+8	4(nice):1	15(recommend):1	215(fruit):1	224(arrival):1	279(touch):1	410(definately):1	632(chocolate):1	1642(happily):1	
+0	
+23	11(bed):1	13(bathroom):1	23(little):2	45(beautiful):1	87(lovely):1	139(square):1	151(modern):1	386(play):1	404(nicely):1	574(situate):1	746(berlin):1	787(furnish):1	858(pull):1	948(east):1	1005(green):1	1142(slide):1	1183(privacy):1	1202(cute):1	1516(funky):1	2285(former):1	2500(shutter):1	3932(twist):1	5122(string):1	
+6	1(location):2	2(night):1	384(wish):1	1006(partner):1	1417(sofitel):1	8649(gendarmenmarkt):1	
+0	
+0	
+13	2(night):1	4(nice):1	6(breakfast):1	10(restaurant):1	17(view):1	20(look):1	27(bar):1	38(lot):1	48(wonderful):1	117(dinner):1	158(plenty):1	356(comment):1	746(berlin):1	
+0	
+
+<Author>nico_ch
+<Content>Modern and stylish Sofitel in a nice location The location is just fantastic (and probably the reason for the price tag).The rooms are nice, clean and stylish but small. The bed was very comfortable.The only surprise was to find such a small TV and not even plasma/LCD (not that I watched it). The fruits I got as a preferred guest looked in quite bad shape and they went directly into the trash bin. The bathroom (shower only) and its huge doors isn't very practical.There's a small wellness section on the 7th floor with a sauna (not sure it worked properly that day) and a steam bath (very nice). The hot tub was either broken (or not open yet - a saturday at 10am). The view over the roofs is quite nice and so is the small fitness center.I haven't tested any of the restaurants nor breakfast as we spent most of the time in the city and clubbing, and just used the hotel as a place to crash.What I really didn't understand is why they have only one Internet over WiFi provider (with no alternative) who wants to charge 30EUR for 24h! This is unacceptable these days especially as you couldn't use any roaming partner and they seem to filter protocols like VoIP...  
+<Date>May 25, 2008
+<Rating>4	4	4	5	5	4	3	1	
+<Aspects>
+20	8(day):1	20(look):1	50(bad):1	91(guest):1	114(hot):1	126(especially):1	215(fruit):1	228(break):1	311(tub):1	383(directly):1	536(prefer):1	818(saturday):1	1006(partner):1	1226(shape):1	1793(trash):1	2230(unacceptable):1	2958(roam):1	2975(filter):1	3059(bin):1	7512(10am):1	
+10	1(location):2	4(nice):1	19(price):1	86(fantastic):1	151(modern):1	178(probably):1	374(reason):1	961(stylish):1	1417(sofitel):1	2395(tag):1	
+23	3(clean):1	4(nice):2	8(day):1	11(bed):1	13(bathroom):1	24(floor):1	25(comfortable):1	54(door):1	61(shower):1	116(tv):1	133(huge):1	199(surprise):1	226(bath):1	245(watch):1	947(section):1	961(stylish):1	1144(properly):1	1422(sauna):1	1500(plasma):1	1760(steam):1	2951(7th):1	3107(practical):1	6418(wellness):1	
+5	4(nice):1	17(view):1	101(center):1	636(roof):1	983(fitness):1	
+0	
+0	
+9	5(time):1	6(breakfast):1	10(restaurant):1	41(city):1	64(spend):1	212(club):1	970(nor):1	2192(crash):1	2922(test):1	
+7	97(internet):1	136(charge):1	391(understand):1	1268(wifi):1	1298(alternative):1	5189(provider):1	10131(24h):1	
+
+<Author>jtlancsuk
+<Content>Fabulous modern hotel Brilliant location Stayed for 3 nights 9-12 December 2007 for sightseeing and xmas markets.It was fantastic.Lucky enough to stay in a deluxe suite which had a seperate sitting area fabulous modern bathroom and really contemporary decor.Fab location overlooking the gendarmenmarkt square which had the biggest and best xmas market, lovely stalls ,eating areas and mulled wine!!!The square also has the opera house and 2 churches which is very picturesque.The area around the hotel is very upmarket and is a stonesthrow away from beautiful shops and shopping malls/department stalls.Brandenburg gate a 10 min walk , Checkpoint Charlie 15 mins away.Also the city-tour bus stops on the square.To the right of the hotel at the end of the street is a beautiful chocolate shop which is an experience not to be missed.Would definately stay here again as its pure luxury.Although breakfast isnt cheap its well worth it so try and get a BB rate if you can.Also no tea/coffee making facilities in room if you like a cuppa when you wake up.  
+<Date>Jan 16, 2008
+<Rating>5	5	5	5	5	4	5	-1	
+<Aspects>
+4	86(fantastic):1	410(definately):1	437(luxury):1	2242(pure):1	
+7	6(breakfast):1	76(try):1	78(rate):1	96(worth):1	143(cheap):1	2377(isnt):1	2380(bb):1	
+17	13(bathroom):1	108(suite):1	120(bus):1	122(stop):1	139(square):2	151(modern):1	169(sit):1	269(decor):1	270(fabulous):1	281(house):1	648(deluxe):1	797(lucky):1	1374(opera):1	1416(seperate):1	1475(contemporary):1	1731(church):1	3387(picturesque):1	
+30	1(location):2	2(night):1	7(walk):1	35(street):1	44(experience):1	45(beautiful):2	47(eat):1	49(shop):3	87(lovely):1	139(square):1	151(modern):1	247(min):2	251(wine):1	260(overlook):1	264(market):2	270(fabulous):1	276(miss):1	632(chocolate):1	640(sight-see):1	793(brilliant):1	992(gate):1	993(december):1	1216(fab):1	1701(stall):2	2876(charlie):1	3208(xmas):2	3373(upmarket):1	3550(brandenburg):1	3596(checkpoint):1	8649(gendarmenmarkt):1	
+0	
+0	
+4	211(facility):1	301(tea):1	554(wake):1	7733(cuppa):1	
+0	
+
+<Author>trixibelle7
+<Content>Wonderful Christmas Break My partner and I stayed in the Sofitel as part of a Birthday weekend.... We had booked a junior suite but upon arrival we were upgraded to a luxury suite...It was amazing.... huge comfortable bed with a lounge area partitioned off with sliding doors... we had one massive bathroom with a bath and one seperate toilet in the lounge area. The bathroom had a plentiful supply of Roger and Gallet toiletries and a cute rubber ducky!!! We had a lovely view of the Gendarmarkt and went to the Christmas Market... I would really recommend going in the evening as the square is beautifully lit up and feels really Christmassy! We drank cocktails in the Newton bar which were delicious and the service is the best I have ever seen!We also went to Watergate nightclub which was fantastic and a great example of how brilliant german clubbing can be!All in all I would definately recommend this hotel and Berlin as a city for a mini break... Especially at Christmas!!!  
+<Date>Dec 4, 2007
+<Rating>5	4	5	5	5	5	4	-1	
+<Aspects>
+8	15(recommend):1	41(city):1	126(especially):1	228(break):1	410(definately):1	448(mini):1	746(berlin):1	962(christmas):1	
+0	
+42	11(bed):1	13(bathroom):2	15(recommend):1	17(view):1	18(book):1	25(comfortable):1	34(feel):1	48(wonderful):1	54(door):1	87(lovely):1	108(suite):2	133(huge):1	139(square):1	145(amaze):1	157(light):1	163(upgrade):1	172(weekend):1	224(arrival):1	226(bath):1	228(break):1	237(lounge):2	264(market):1	330(toilet):1	437(luxury):1	657(toiletry):1	765(birthday):1	771(beautifully):1	859(supply):1	962(christmas):2	964(junior):1	1006(partner):1	1039(plentiful):1	1142(slide):1	1202(cute):1	1329(massive):1	1416(seperate):1	1417(sofitel):1	3554(rubber):1	5264(partition):1	6355(roger):1	8709(ducky):1	12652(gallet):1	
+0	
+0	
+0	
+12	9(service):1	27(bar):1	63(drink):1	86(fantastic):1	212(club):1	485(delicious):1	716(cocktail):1	793(brilliant):1	954(example):1	1382(german):1	2378(nightclub):1	8320(newton):1	
+0	
+
+<Author>dublintraveller100
+<Content>Superb location, friendly staff Culture vultures, gourmets and serial shoppers will delight in the location of this elegant four star hotel, on the edge of the Gendarmenmarkt and in the centre of historic Berlin (but not the best place to stay if your plans focus on the west of the city). Many of the city's world class museums, music and opera venues, art galleries and restaurants are in walking distance, as is the high end shopping of the nearby Friedrichstrasse. Some rooms have a view over the Gendarmenmarkt. We stayed for six nights in a 'junior suite', which was really more a comfortably sized room, well furnished in 'designer' style, apart from a rather ancient TV. The main irritant was an awkwardly designed bathroom and its tiny dysfunctional toilet. The staff are exceptionally friendly and the buffet breakfast must be one of the best in the city (although there are many simpler and less expensive alternatives nearby). There is a well equipped gym and a comfortable 'spa' and the Aigner restuarant is efficient and pleasant. There is no business centre and internet access is expensive and limited. Recommended for a tourist visit, with qualifications on the bathroom. Tip - take your passport with you if you want to rent the excellent audio guides offered in the museums and art galleries.  
+<Date>Oct 30, 2007
+<Rating>4	4	3	5	5	5	5	2	
+<Aspects>
+0	
+0	
+23	2(night):1	13(bathroom):2	15(recommend):1	17(view):1	65(visit):1	83(size):1	108(suite):1	112(main):1	116(tv):1	209(tourist):1	326(style):1	330(toilet):1	338(tiny):1	516(design):1	787(furnish):1	857(apart):1	964(junior):1	2131(designer):1	2155(comfortably):1	3356(ancient):1	8649(gendarmenmarkt):1	9495(awkwardly):1	10364(irritant):1	
+41	0(staff):1	1(location):2	7(walk):1	10(restaurant):1	12(friendly):1	21(excellent):1	41(city):2	49(shop):1	89(offer):1	101(center):1	103(star):1	115(distance):1	194(tip):1	221(plan):1	232(nearby):1	272(world):1	398(music):1	407(superb):1	470(class):1	507(museum):2	746(berlin):1	789(art):2	829(guide):1	953(west):1	986(elegant):1	1025(delight):1	1030(rend):1	1190(edge):1	1234(gourmet):1	1274(historic):1	1374(opera):1	1497(culture):1	1794(gallery):2	1975(passport):1	2190(venue):1	2480(focus):1	3844(shopper):1	5646(friedrichstrasse):1	6049(audio):1	8649(gendarmenmarkt):1	9470(vulture):1	
+0	
+0	
+17	0(staff):1	6(breakfast):1	12(friendly):1	25(comfortable):1	41(city):1	77(buffet):1	124(expensive):1	150(pleasant):1	232(nearby):1	314(spa):1	401(efficient):1	523(gym):1	613(simple):1	884(equip):1	1242(exceptionally):1	1298(alternative):1	2114(restuarant):1	
+6	97(internet):1	101(center):1	124(expensive):1	147(business):1	159(access):1	510(limit):1	
+
+<Author>Bob86
+<Content>Great location for a weekend break Wonderful location, and just a couple of minutes for the U-Bahn. Rooms small but stylish. OK for short stays, but lack of space would be a problem for longer stays. Also for the price I would have expected a bath as well as a shower.Reception staff friendly and welcoming (I was personally shown to my room by the receptionist, which is unusual these days) but did not seem partiularly well-informed about what's on etc.Breakfast, at EUR 24 is expensive, but great if you like a slow leisurely breakfast with all the trimmings.  
+<Date>Sep 2, 2007
+<Rating>4	4	4	5	4	4	3	-1	
+<Aspects>
+0	
+0	
+9	19(price):1	61(shower):1	62(expect):1	123(ok):1	144(short):1	210(space):1	226(bath):1	349(lack):1	961(stylish):1	
+7	1(location):2	29(minute):1	48(wonderful):1	99(couple):1	172(weekend):1	228(break):1	2164(u-bahn):1	
+0	
+16	0(staff):1	6(breakfast):2	8(day):1	12(friendly):1	73(etc):1	124(expensive):1	129(reception):1	202(welcome):1	455(slow):1	855(receptionist):1	1052(personally):1	1610(unusual):1	3084(eur):1	3646(leisurely):1	7052(trimmings):1	11449(well-inform):1	
+0	
+0	
+
+<Author>enofile1
+<Content>Sofitel provides trendy elegance Our stay at the Dorint Sofitel Am Gendarmenmarkt in Berlin had a schizophrenic nature. Our first three days we were in a standard room, but for the last two days of our stay, we were upgraded to a suite. What a difference a suite makes! Our first room was elegantly designed, but was a bit small and lacked sufficient storage space. However, we enjoyed its style and the location of this Sofitel is simply superb as the other reviewers mentioned. The Newton Bar, one block away, is fantastic! The major problem of our room, which was on the top floor, was the heat. It was oppressive! Although it was late winter in Berlin, and the wind was howling and the rain pouring, we felt as if we were in Equitorial Africa. I guess heat rises.We mentioned our problem to the management, and voila, next thing you know we are in a suite. Sofitels always come through. The suite was simply magnificent, with two bathrooms, great storage, and a hip ambiance. I must applaud the service at this hotel. I would not hesitate staying at this Sofitel again as long as I am not posted to the highest floor.  
+<Date>Jul 31, 2007
+<Rating>5	4	5	5	5	5	5	-1	
+<Aspects>
+20	34(feel):1	79(late):1	153(provide):1	469(guess):1	539(heat):1	581(rain):1	746(berlin):2	1168(wind):1	1413(trendy):1	1417(sofitel):2	1436(rise):1	1599(winter):1	1764(pour):1	1986(nature):1	2255(elegance):1	6160(africa):1	8649(gendarmenmarkt):1	10507(oppressive):1	10726(sofitels):1	10798(howl):1	
+0	
+27	8(day):2	13(bathroom):1	24(floor):2	52(bit):1	108(suite):4	118(top):1	130(standard):1	163(upgrade):1	210(space):1	244(mention):1	315(major):1	349(lack):1	488(simply):1	516(design):1	525(management):1	539(heat):1	644(post):1	819(difference):1	902(hesitate):1	957(ambience):1	1311(storage):2	1405(magnificent):1	1417(sofitel):1	1491(hip):1	1713(sufficient):1	4493(elegantly):1	9153(voila):1	
+8	1(location):1	51(enjoy):1	244(mention):1	326(style):1	407(superb):1	488(simply):1	564(reviewer):1	1417(sofitel):1	
+0	
+0	
+6	9(service):1	27(bar):1	86(fantastic):1	100(bloc):1	8264(applaud):1	8320(newton):1	
+0	
+
+<Author>pmouse3
+<Content>Nice hip hotel - a little overpriced?       The room has a nice view of Gendarmenmarkt  
+<Date>Jul 30, 2007
+<Rating>4	3	3	4	4	3	3	3	
+<Aspects>
+0	
+4	4(nice):1	23(little):1	727(overprice):1	1491(hip):1	
+3	4(nice):1	17(view):1	8649(gendarmenmarkt):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>hartss
+<Content>Wow what a breakfast! Stayed here for three nights in early February 2007. Quite small, clean room on a high floor with a nice view of the Gendarmenmarkt square. The bathroom was nicely designed but the shower door design was kind of awkward. The room, though very clean, was overheated and I had to open a window to cool the room off. Good central location within walking distance of the Unter den Linden.The bed was very comfortable, with a fluffy, fresh, white duvet. The lighting scheme was very strange, and I found it difficult to read in the room at night. They also need to replace the TVs with flat screens in this price range.The internet setup was awful and I wound up having to buy minutes on the lobby PC, which was really not efficient. Go to an internet cafe instead if you must. The front desk staff were nice enough, but did not know the city very well and were for the most part clueless with regard to tourist type questions.The high point was the AMAZING breakfast buffet, which was included in my winter weekend rate. Wow was it good - the breads were chewy and wonderful, the seafood was plentiful and fresh and I was a happy guy each morning. Lutter and Wegner, which others have mentioned here, was quite good for dinner. There is also a terrific cafe and pastry shop in that direction, as well, steps from the hotel.  
+<Date>May 28, 2007
+<Rating>3	3	2	5	5	5	3	2	
+<Aspects>
+2	2(night):1	1230(february):1	
+6	19(price):1	526(screen):1	535(flat):1	714(range):1	912(replace):1	1569(tvs):1	
+27	2(night):1	3(clean):2	4(nice):1	11(bed):1	13(bathroom):1	17(view):1	24(floor):1	25(comfortable):1	54(door):1	61(shower):1	88(read):1	119(window):1	139(square):1	157(light):1	197(fresh):1	278(cool):1	404(nicely):1	466(white):1	516(design):2	572(difficult):1	1058(strange):1	1792(fluffy):1	2439(duvet):1	2906(awkward):1	3359(scheme):1	7628(over-heat):1	8649(gendarmenmarkt):1	
+13	1(location):1	7(walk):1	49(shop):1	115(distance):1	168(central):1	275(cafe):1	366(step):1	395(direction):1	652(pastry):1	699(terrific):1	4143(den):1	4599(linden):1	4742(unter):1	
+0	
+10	0(staff):1	4(nice):1	31(front):1	36(desk):1	41(city):1	209(tourist):1	389(type):1	394(question):1	930(regard):1	4422(clueless):1	
+30	6(breakfast):2	29(minute):1	48(wonderful):1	55(lobby):1	56(morning):1	71(include):1	77(buffet):1	78(rate):1	97(internet):2	117(dinner):1	145(amaze):1	155(happy):1	172(weekend):1	197(fresh):1	244(mention):1	275(cafe):1	280(buy):1	353(instead):1	368(guy):1	401(efficient):1	497(bread):1	736(awful):1	815(seafood):1	862(wow):2	1039(plentiful):1	1168(wind):1	1599(winter):1	2184(pc):1	3363(setup):1	8690(chewy):1	
+0	
+
+<Author>WheatStacker
+<Content>Excellent Excellent hotel in a great location. The staff is young but very willing. My room, a junior suite, was decent size. Realize that it's a hip hotel, and there is little shelf space and no chest of drawers. This may not be a good choice for an older customer who wants a more formal setting, but it's a great boutique hotel.  
+<Date>May 18, 2007
+<Rating>5	5	4	5	5	5	4	3	
+<Aspects>
+0	
+5	107(choice):1	234(set):1	428(customer):1	623(boutique):1	2669(formal):1	
+11	23(little):1	83(size):1	108(suite):1	210(space):1	257(decent):1	607(realize):1	964(junior):1	1426(drawer):1	1484(shelf):1	1491(hip):1	3686(chest):1	
+2	1(location):1	21(excellent):2	
+0	
+1	0(staff):1	
+0	
+0	
+
+<Author>Robin-Towns
+<Content>Superb location This hotel may provide the best breakfast in Berlin but it is over-priced for what any normal person can (or would want to) eat. You are simply paying (over the top) for a choice you do not need or want. Go instead for the more focused breakfast in your room. Having said that, the hotel is otherwise superb - esp. its location, being close to all main sights  Newton's Bar  the best Italian restaurant outside Italy (Maletesta). Steer clear of Lutter  Wegner if the weather is good  the tables outside are busy - the serivce is appallingly slow though the quality of the food may be worth waiting for,  
+<Date>May 6, 2007
+<Rating>4	4	4	5	4	4	4	-1	
+<Aspects>
+3	407(superb):1	508(otherwise):1	2624(esp):1	
+13	1(location):1	6(breakfast):1	42(pay):1	47(eat):1	107(choice):1	118(top):1	153(provide):1	193(person):1	407(superb):1	488(simply):1	746(berlin):1	878(normal):1	3386(over-price):1	
+0	
+20	1(location):1	10(restaurant):1	16(food):1	27(bar):1	28(close):1	85(wait):1	96(worth):1	98(outside):2	112(main):1	187(quality):1	220(busy):1	229(table):1	358(italian):1	385(weather):1	411(sight):1	455(slow):1	900(italy):1	3591(steer):1	7483(serivce):1	8320(newton):1	
+0	
+0	
+3	6(breakfast):1	353(instead):1	2480(focus):1	
+0	
+
+<Author>feyenoordtopboy
+<Content>Great week at the Sofitel I stayed at the Sofitel for a week during ITB and thoroughly enjoyed my stay. I lunched at Aigner, the restaurant on site, and the food was absolutely superb, as was the service, and give the locale, reasonably priced.When I arrived in my room, it was bright, had a small balcony and had a neat design style decoration. The blue spotlight that shines on the bed is`kind of cool, the whole lighting design is pretty neat.Bathroom is nice, all marble and glass and very functional.The breakfast is excellent, and the service is very attentive, and the choices are excellent.There is always drum and bass music playing lightly in in the background in all the public areas.The gym is good, the steam room was fantastic, I did like the selection of different scents you could choose.All in all, great experience.  
+<Date>Apr 20, 2007
+<Rating>5	4	4	5	4	3	3	3	
+<Aspects>
+4	51(enjoy):1	75(week):2	898(thoroughly):1	1417(sofitel):2	
+1	44(experience):1	
+26	4(nice):1	11(bed):1	13(bathroom):1	53(arrive):1	109(pretty):1	157(light):1	191(balcony):1	278(cool):1	326(style):1	327(glass):1	379(public):1	386(play):1	398(music):1	516(design):2	694(blue):1	705(marble):1	880(bright):1	1286(neat):2	1348(functional):1	1580(decoration):1	2349(shine):1	2445(background):1	4993(bass):1	5421(drum):1	5562(lightly):1	10216(spotlight):1	
+0	
+0	
+0	
+20	6(breakfast):1	9(service):2	10(restaurant):1	16(food):1	19(price):1	21(excellent):2	86(fantastic):1	107(choice):1	167(choose):1	189(absolutely):1	192(site):1	252(lunch):1	333(selection):1	407(superb):1	523(gym):1	537(attentive):1	578(reasonably):1	1760(steam):1	2870(scent):1	4349(locale):1	
+0	
+
+<Author>bckrSTHLM
+<Content>Nice, but a bit boring...... As the Ritz Carlton was fully booked one of the 3 nights in Berlin, we decided to try the Dorint. Well, we actually found ourselves hanging out having a drink and smoking a cigar, at the Cutain Club at the Ritz anyhow :-)The Dorint has a great location, right at the historic Gendarmenmarkt in Old and historic Berlin. Houses may be reconstructed, but the feel is great. Our Favorite spot for meals and great wine (Lutter  Wegner) is just two steps away.The service at the Dorint however is invisible The staff invisible. Not that we did not get the service we needed, but a true great hotel has alway warm and attentive staff placed here and there.Your lucky if you spot any other staff than in the reception. There is no place to hang out, no real lobby to lounge in, or to enjoy a drink. The public spaces at the hotel are simply so boring, that you will fall asleep after five minutes of hanging out in the reception-area or walking around.zzzzzzzzzzzzzzzz......... boring. The rooms are rather small though very well designed. The design is modern, clever and boring. The TV-set should however be replaced. It was a great laugh.On a positive note,The place is clean and well run. Staff friendly when you actually meet them. THE SPA AND GYM IS MAGNIFICENT. TRULY GREAT! I must say, the spa and gym is one of the best i have ever visited. Really nice. But beware, its mixed and naked. (Just like all other german spas.)The restaurant next door (Aigner) is great. Breakfast at the hotel is rich to say the least , a buffet that beats everything i have seen in any hotel. The room in wich its served is also very cool, but we ended up having breakfast on town anyway, it was simply too boring as we were just a few guests and the atmosphere too sterile.All in all its a OK place to stay in, if you get yourself a good rate. We did, and slept well, in a great location. Nothing else. Eating, drinking, laughing and hving a great time, we did on town and at Lutter  Wegner.  
+<Date>Mar 12, 2007
+<Rating>3	3	3	5	5	3	3	3	
+<Aspects>
+17	4(nice):2	52(bit):1	78(rate):1	123(ok):1	151(modern):1	170(else):1	314(spa):1	476(truly):1	516(design):1	576(yourself):1	609(mix):1	737(beware):1	1098(bore):3	1245(laugh):1	1382(german):1	4541(naked):1	4554(clever):1	
+0	
+15	1(location):1	7(walk):1	29(minute):1	34(feel):1	104(sleep):1	210(space):1	281(house):1	379(public):1	478(hang):1	488(simply):1	516(design):1	587(fall):1	912(replace):1	1098(bore):1	2123(asleep):1	
+0	
+4	3(clean):1	149(run):1	297(note):1	458(positive):1	
+12	0(staff):4	9(service):2	12(friendly):1	129(reception):1	180(actually):1	196(meet):1	236(warm):1	317(spot):1	537(attentive):1	797(lucky):1	5579(alway):1	6378(invisible):2	
+50	1(location):1	2(night):1	5(time):1	6(breakfast):2	10(restaurant):1	18(book):1	47(eat):1	51(enjoy):1	54(door):1	55(lobby):1	63(drink):3	65(visit):1	76(try):1	77(buffet):1	91(guest):1	174(serve):1	180(actually):1	212(club):1	213(meal):1	219(decide):1	237(lounge):1	239(town):2	240(real):1	251(wine):1	278(cool):1	314(spa):2	317(spot):1	366(step):1	376(favourite):1	414(atmosphere):1	417(anyway):1	442(beat):1	468(smoke):1	478(hang):2	488(simply):1	523(gym):2	746(berlin):2	767(ourselves):1	825(ritz):2	1098(bore):1	1245(laugh):1	1274(historic):2	1405(magnificent):1	1518(carlton):1	1834(cigar):1	2350(rich):1	3671(anyhow):1	3811(sterile):1	4301(wich):1	8649(gendarmenmarkt):1	
+0	
+
+<Author>McKaye
+<Content>Great!       Room on 1st floor  
+<Date>Feb 19, 2007
+<Rating>4	4	4	5	2	2	3	3	
+<Aspects>
+0	
+0	
+1	24(floor):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>pootleperkin
+<Content>Superb Room was newly decorated and impecable. Good size, slightly soft bed but otherwise just brilliant. Breakfast was amazing, with as much as you like of almost anything you could imagine. I didn't know so many varieties of bread roll existed! I am sure you could stay somewhere else in berlin that is very nice and much cheaper, but if you want to lavish yourself..........stay here.  
+<Date>Jan 2, 2007
+<Rating>5	3	5	3	5	5	5	5	
+<Aspects>
+0	
+6	4(nice):1	143(cheap):1	170(else):1	576(yourself):1	746(berlin):1	4199(lavish):1	
+10	11(bed):1	83(size):1	305(decorate):1	407(superb):1	508(otherwise):1	589(soft):1	598(slightly):1	793(brilliant):1	1189(newly):1	5618(impecable):1	
+0	
+0	
+0	
+7	6(breakfast):1	145(amaze):1	413(variety):1	497(bread):1	733(imagine):1	813(roll):1	2039(exist):1	
+0	
+
+<Author>scotmad
+<Content>Perfect Location This is a hotel with a difference, and all good.The basic rooms tend to be small by Berlin standards, however they have everything you will require and a standard of detail that is rarely found.The location could not be better, both for business and pleasure, with a taxi rank opposite the front door.The restaurant is stylish without being over the top, and prices are fair. The perfect place to relax after a day at the office.Staff are courteous and helpful and happy to spend time explaining how to get about the city.Definitely on my list of places to stay.  
+<Date>Nov 27, 2006
+<Rating>5	5	4	5	5	5	5	4	
+<Aspects>
+2	59(definitely):1	650(list):1	
+5	10(restaurant):1	19(price):1	118(top):1	739(fair):1	961(stylish):1	
+7	130(standard):2	352(basic):1	592(detail):1	722(require):1	746(berlin):1	1053(tend):1	1791(rarely):1	
+10	1(location):2	31(front):1	54(door):1	74(perfect):1	147(business):1	185(taxi):1	783(opposite):1	819(difference):1	907(pleasure):1	1795(rank):1	
+0	
+12	0(staff):1	5(time):1	8(day):1	14(helpful):1	41(city):1	64(spend):1	74(perfect):1	155(happy):1	160(relax):1	483(courteous):1	768(explain):1	792(office):1	
+0	
+0	
+
+<Author>Otsi
+<Content>Superb We stayed at the Dorint for 3 nights in August.What a fantastic experience.The hotel is stylish, quiet (even though our room was directly over the entrance) and totally professional.The staff were a delight...so helpful with good dining suggestions and booking help.The room is attractive and well laid out and the bathroom has the best lighting for make-up in any hotel I've ever stayed in.Great closet space.Only question would be the rather shiny surfaced mattress protector used on the bed.Breakfast is expensive....23 Euros, but extremely good and the breakfast staff and really helpful with Berlin tips when you chat to them.The location is fabulous, near the most elegant square in Berlin, and around the corner from one of the best shopping streets in the city.Museums and the Reichstag are all within walking distance.Very highly recommended.Have a meal at Lutter and Wegner, one block away...it's superb.  
+<Date>Sep 9, 2006
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+6	2(night):1	15(recommend):1	100(bloc):1	138(highly):1	213(meal):1	407(superb):2	
+11	0(staff):1	6(breakfast):2	14(helpful):1	44(experience):1	86(fantastic):1	110(extremely):1	124(expensive):1	194(tip):1	256(euro):1	746(berlin):1	1629(chat):1	
+25	0(staff):1	11(bed):1	13(bathroom):1	14(helpful):1	18(book):1	58(quiet):1	92(help):1	157(light):1	210(space):1	316(dine):1	383(directly):1	394(question):1	490(entrance):1	501(professional):1	565(closet):1	611(totally):1	696(lay):1	847(mattress):1	921(suggestion):1	961(stylish):1	1025(delight):1	1154(attractive):1	2534(surface):1	2597(makeup):1	4826(shiny):1	
+14	1(location):1	7(walk):1	35(street):1	41(city):1	49(shop):1	102(near):1	115(distance):1	139(square):1	200(corner):1	270(fabulous):1	507(museum):1	746(berlin):1	986(elegant):1	4598(reichstag):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Hidden gem Our family stayed here the end of May, 2006. The staff was very friendly and eager to help us in any way. The rooms were a good size, spotless, and they were able to give us the adjoining rooms we requested. The rooms were very modern and the beds were very comfortable. This hotel is on a quiet street but centrally located. It was an easy walk to Check Point Charlies and the Brandenberg Gates and only a block to the U-Bahn. Several nice restaurants in the area. An engergy efficient system requires your room key to be inserted in a slot inside the door for turning on the lights and when you leave and take your key, the lights automatically turn off in a few minutes. We highly recommend this hotel to anyone visiting Berlin.  
+<Date>Jun 16, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	15(recommend):1	65(visit):1	138(highly):1	746(berlin):1	
+0	
+20	11(bed):1	25(comfortable):1	29(minute):1	43(leave):1	54(door):1	83(size):1	148(request):1	151(modern):1	157(light):2	171(able):1	339(key):2	401(efficient):1	408(inside):1	518(system):1	548(spotless):1	722(require):1	1412(adjoin):1	1877(slot):1	2573(automatically):1	4664(insert):1	
+11	7(walk):1	32(check):1	35(street):1	58(quiet):1	84(locate):1	93(easy):1	100(bloc):1	879(centrally):1	992(gate):1	2164(u-bahn):1	9713(brandenberg):1	
+0	
+4	0(staff):1	12(friendly):1	92(help):1	1604(eager):1	
+5	4(nice):1	10(restaurant):1	106(family):1	805(gem):1	1195(hide):1	
+0	
+
+<Author>boston76
+<Content>Absolutely Fantastic Hotel in Heart of Berlin's Mitte We stayed here for 5 nights in mid-May and could not say enough fantastic things about this hotel. We had a deluxe room on the top floor [6th floor] with a breathtaking view of the French Cathedral right out our window! The room was spacious, even by American standards. The staff was great! They were more than eager to help with any questions/requests that we had.The hotel is located within walking distance to almost every major site in Berlin and multiple U-Bahn and S-bahn stations within a moments walk. The Gendarmenmarkt is beautiful and a quiet corner of an otherwise busy city.I would not even consider staying at another hotel in Berlin.  
+<Date>Jun 10, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+10	2(night):1	86(fantastic):2	92(help):1	189(absolutely):1	248(consider):1	450(heart):1	746(berlin):2	1604(eager):1	4198(mitte):1	9064(mid-may):1	
+0	
+18	17(view):1	24(floor):2	41(city):1	45(beautiful):1	58(quiet):1	111(spacious):1	118(top):1	119(window):1	130(standard):1	200(corner):1	220(busy):1	254(french):1	508(otherwise):1	648(deluxe):1	1444(breathtaking):1	1552(cathedral):1	1869(6th):1	8649(gendarmenmarkt):1	
+11	7(walk):2	82(station):1	84(locate):1	115(distance):1	192(site):1	315(major):1	670(moment):1	746(berlin):1	1732(multiple):1	2164(u-bahn):1	2821(s-bahn):1	
+0	
+1	0(staff):1	
+0	
+0	
+
+<Author>skidleone
+<Content>Absolutely Wonderful No question, this is a major hotel find in Berlin. Pay for a Deluxe room that includes the best breakfast buffet we saw in our three weeks in Europe, and you are tempted to spend your entire vacation in Berlin. We stayed five nights and walked to all the important sites. Many fine dinner options all within an easy walk from the hotel. Also concerts, opera, and ballet are close by. Fabulous staff, management, atmosphere, and accomodations...very hard to beat!  
+<Date>Jun 2, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+5	48(wonderful):1	189(absolutely):1	315(major):1	394(question):1	746(berlin):1	
+7	0(staff):1	162(hard):1	270(fabulous):1	414(atmosphere):1	442(beat):1	525(management):1	780(accomodation):1	
+0	
+11	2(night):1	7(walk):2	28(close):1	93(easy):1	113(fine):1	117(dinner):1	192(site):1	336(option):1	1374(opera):1	2296(concert):1	7767(ballet):1	
+0	
+0	
+12	6(breakfast):1	42(pay):1	64(spend):1	71(include):1	75(week):1	77(buffet):1	131(vacation):1	329(entire):1	648(deluxe):1	700(europe):1	746(berlin):1	3086(tempt):1	
+0	
+
+<Author>sschmid1
+<Content>Sch枚nes Boutique-Hotel       Zimmer  
+<Date>Aug 18, 2008
+<Rating>4	4	3	5	5	5	5	4	
+<Aspects>
+0	
+0	
+0	
+2	9279(zimmer):1	9898(sch):1	
+0	
+0	
+0	
+0	
+

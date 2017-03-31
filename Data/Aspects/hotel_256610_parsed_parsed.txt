@@ -1,0 +1,952 @@
+<Author>Springstreet77
+<Content>Restaurant is terrible! The restaurant here, imaginatively titled, Dish. A restaurant, has appalling service. The food was average (steak ordered MR came out well done) but the service was terrible. Not recommended.  
+<Date>Dec 28, 2008
+<Rating>1	1	3	5	3	3	1	3	
+<Aspects>
+1	15(recommend):1	
+0	
+0	
+0	
+0	
+0	
+9	9(service):2	10(restaurant):3	16(food):1	227(average):1	432(terrible):2	660(steak):1	816(dish):1	2752(appal):1	12333(titled):1	
+0	
+
+<Author>ElvisPriscilla87
+<Content>Noisy Parties All Night - A Disgrace Very noisy with parties in surrounding rooms. Drunks staggering the halls all night. Staff don't care. This hotel is an absolute disgrace. Stay at your own peril.  
+<Date>Oct 10, 2008
+<Rating>1	1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	2(night):1	166(own):1	616(hall):1	1250(absolute):1	4127(drunk):1	4524(disgrace):1	5588(stagger):1	10639(peril):1	
+0	
+5	2(night):1	217(noisy):2	363(party):2	667(surround):1	4524(disgrace):1	
+0	
+0	
+2	0(staff):1	242(care):1	
+0	
+0	
+
+<Author>Amunce
+<Content>Great Location, Clean, Ok Hotel, Job Done The Good:Great location, near to everything - 5 min taxi to harbour bridge/opera house or city center/ sydney tower. CleanHelpfull staffnice restaurantSpacious RoomsThe Not so Good (not neccisarily bad though!):Facilities lacking (although comparing to UK hotels more then other Syndey hotels so please compare carefully)...I.e swimming pool, small gym, thats about it no spa, no steam room/sauna none of that.. Internet costs another $30 per day (although for 3 min walk to harbourside shops there is a cafe for $3 for an hour!)and breakfast wasn't included in my package- another $30 each.summary:good location and can be got for a good price of lastminute (is a secret hotel!) has everything you need, but if you want the little extras you have to pay. clean and friendly staff so overall not a bad experiance!  
+<Date>Sep 29, 2008
+<Rating>3	3	5	5	5	4	5	3	
+<Aspects>
+0	
+8	1(location):1	19(price):1	23(little):1	42(pay):1	128(extra):1	1127(secret):1	1716(summary):1	6433(lastminute):1	
+2	50(bad):1	9644(roomsthe):1	
+22	1(location):2	3(clean):1	7(walk):1	8(day):1	41(city):1	49(shop):1	60(hour):1	97(internet):1	101(center):1	102(near):1	123(ok):1	175(cost):1	185(taxi):1	247(min):2	275(cafe):1	281(house):1	378(tower):1	481(job):1	561(harbor):1	740(bridge):1	809(sydney):1	9196(harbourside):1	
+6	0(staff):1	3(clean):1	12(friendly):1	50(bad):1	70(overall):1	5339(experiance):1	
+0	
+16	6(breakfast):1	22(pool):1	71(include):1	173(please):1	211(facility):1	261(swim):1	314(spa):1	349(lack):1	381(compare):2	523(gym):1	527(package):1	573(none):1	1178(uk):1	1198(thats):1	1760(steam):1	2523(carefully):1	
+0	
+
+<Author>jjjler
+<Content>We loved the location, pool was free***zin'. Used the food court for dining - mu Friends in Aus booked this for us. We were not disappointed!!But you have to have the harbour view!!!!Would love to revisit, and would do it the same way again!!!  
+<Date>Sep 25, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	17(view):1	40(love):1	154(disappoint):1	561(harbor):1	4215(revisit):1	
+0	
+0	
+5	1(location):1	22(pool):1	40(love):1	46(free):1	4757(\*\*\*):1	
+0	
+0	
+7	16(food):1	18(book):1	146(friend):1	316(dine):1	1068(court):1	2716(au):1	10297(mu):1	
+0	
+
+<Author>JodieTravel01
+<Content>Great location; nice view We chose the Novotel because my husband is an Accor Adv member and the price was cheaper than a lot of other Sydney options. We may have got an even better rate on one of the last minute accommodation sites? It was a fairly easy 20 min drive from the domestic airport - a few wrong turns along the way and one way streets but we got there in the end. If you want to five star service when you arrive this IS NOT the place for you. Our experience was self service - which was fine by us. Park your car (we should have dropped our luggage off first), walk back to the entrance etc. Check in was efficient - a brief wait but nothing major. We paid to have a harbour and city view - highly recommended. Room was OK, this IS NOT a new hotel. There was a stain on the carpet, a bit of wear and tear around the bath/shower (combined). The room was small but clean and quiet, beds were comfortable, pillow menu was a nice touch. No robes and very basic toiletries. Small TV. Loved the easy access to the monorail, a few steps from the ground floor level. Runs every few minutes gave us quick and easy access to the CBD and Chinatown (highly recommended for dinner) etc. Pool was small but nice. Fitness centre looked good. In summary Darling Harbour is a nice area with good restaurants. We would probably stay here again for the location and the views.  
+<Date>Sep 22, 2008
+<Rating>2	4	2	5	5	4	-1	5	
+<Aspects>
+0	
+27	1(location):1	4(nice):1	9(service):2	15(recommend):1	17(view):2	19(price):1	29(minute):1	38(lot):1	41(city):1	42(pay):1	44(experience):1	53(arrive):1	78(rate):1	103(star):1	105(husband):1	113(fine):1	138(highly):1	143(cheap):1	167(choose):1	192(site):1	336(option):1	561(harbor):1	721(accommodation):1	809(sydney):1	1314(self):1	3002(novotel):1	6275(accor):1	
+28	3(clean):1	4(nice):1	11(bed):1	24(floor):1	25(comfortable):1	40(love):1	52(bit):1	58(quiet):1	93(easy):1	116(tv):1	123(ok):1	159(access):1	226(bath):1	279(touch):1	303(pillow):1	306(level):1	352(basic):1	366(step):1	396(carpet):1	423(menu):1	434(wear):1	657(toiletry):1	706(grind):1	723(stain):1	1046(robe):1	1605(tear):1	2316(combine):1	2343(monorail):1	
+20	1(location):1	4(nice):1	7(walk):1	17(view):1	22(pool):1	35(street):1	66(park):1	73(etc):1	93(easy):1	95(airport):1	121(car):1	178(probably):1	247(min):1	249(luggage):1	298(drive):1	427(wrong):1	462(fairly):1	490(entrance):1	662(drop):1	4357(domestic):1	
+0	
+5	32(check):1	85(wait):1	315(major):1	401(efficient):1	2036(brief):1	
+16	4(nice):1	10(restaurant):1	15(recommend):1	29(minute):1	73(etc):1	93(easy):1	117(dinner):1	138(highly):1	149(run):1	159(access):1	299(quick):1	561(harbor):1	1132(chinatown):1	1681(darling):1	1716(summary):1	2731(cbd):1	
+3	20(look):1	101(center):1	983(fitness):1	
+
+<Author>BillLondon_UK
+<Content>Tired Hotel in a great location, poor/average service I went to Sydney on business for a week and booked this hotel through Lastminute.com. Knowing that I was going to arriving from the UK at 6:15am, I emailed the hotel to see if I could check in early (and pay a supplement). I got an indifferent 'no promises, we'll see what we can do' reply. When I did turn up, I was told that I should have booked a room the day before I arrived to secure it. In other words, pay for a day, use 6 hours. Housekeeping did nothing to help and I eventually got in to the room just before lunchtime despite the previous occupants checking out at 9:30am. Make more of an effort for your international flyers guys!!The executive room had a great view but was very tired - mouldy bath sealant etc. This hotel is well located right on the harbour so go to the food halls opposite for breakfast and save the $30AUS pp charge for breakfast. For some reason I was checked out at 5:15am on the last day so was woken up (twice) by housekeeping at 7:00am and 20 minutes later. I rang reception to ask them not to disturb me again and received a very abrupt OK. No apology or reason given. All in all, C+, could do better.  
+<Date>Aug 9, 2008
+<Rating>3	2	3	5	4	2	2	3	
+<Aspects>
+9	368(guy):1	374(reason):1	903(international):1	975(promise):1	1017(effort):1	1547(apology):1	1811(reply):1	2481(indifferent):1	4979(flier):1	
+9	8(day):1	32(check):1	42(pay):2	53(arrive):1	60(hour):1	571(word):1	1178(uk):1	1559(e-mail):1	5178(supplement):1	
+24	8(day):2	17(view):1	18(book):1	29(minute):1	32(check):2	53(arrive):1	69(tell):1	73(etc):1	79(late):1	92(help):1	226(bath):1	347(twice):1	367(housekeeping):2	373(previous):1	374(reason):1	454(tire):1	498(despite):1	554(wake):1	872(executive):1	1034(secure):1	1204(eventually):1	2046(moldy):1	3265(occupant):1	3990(lunchtime):1	
+18	1(location):1	6(breakfast):2	9(service):1	16(food):1	18(book):1	75(week):1	84(locate):1	136(charge):1	147(business):1	331(poor):1	425(save):1	454(tire):1	561(harbor):1	616(hall):1	783(opposite):1	809(sydney):1	3156(pp):1	5403(lastminute.com):1	
+0	
+6	123(ok):1	129(reception):1	302(receive):1	1067(disturb):1	1150(ring):1	4726(abrupt):1	
+0	
+0	
+
+<Author>NswTravelbug
+<Content>Loved the Style I went there during april and it was a fantastic two day city get-away. I do live in Sydney however the Novotel Darling harbour is a great place to enjoy a weekend in the cityThe breakfast buffet was fantastic and it was great to see a healthy option being offered. the gym was great to work out in, however i did not get a chance to use the pool but it did look inviting. The rooms were quite spacious in comparison to other hotels stayed in, but unfortunately we did not get a Harbour view room but the pyrmont view was still fantasticGenerally the staff service was great and most were fairly attentive, however there were a few mishaps that could have been avoidedYes I would recommend this hotel to anyone after a weekend get away.  
+<Date>Jul 29, 2008
+<Rating>5	5	5	5	5	5	4	5	
+<Aspects>
+6	8(day):1	40(love):1	41(city):1	86(fantastic):1	326(style):1	5199(get-away):1	
+0	
+12	0(staff):1	9(service):1	15(recommend):1	17(view):2	111(spacious):1	172(weekend):1	462(fairly):1	524(unfortunately):1	537(attentive):1	561(harbor):1	1525(comparison):1	5650(mishap):1	
+0	
+0	
+0	
+18	6(breakfast):1	20(look):1	22(pool):1	51(enjoy):1	77(buffet):1	86(fantastic):1	89(offer):1	172(weekend):1	206(live):1	336(option):1	523(gym):1	561(harbor):1	689(chance):1	809(sydney):1	1210(invite):1	1681(darling):1	2294(healthy):1	3002(novotel):1	
+0	
+
+<Author>SydneyTraveller86
+<Content>A wonderful stay Booked the hotel through lastminute.com , and upgraded the suite from a standard room to a harbor view.I personally requested a high room with a good view, and was pleasantly surprised when they gave us the 9th floor (there are 10 altogether) with a FANTASTIC view. I had reservations about the standards based on reviews from this site, but I was quite impressed with the service. They catered to our requests, we're very friendly and helpful. However the room service was quite tragic.Upon ordering breakfast, we ordered 2 breakfasts and were served by someone who appears to be slightly retarded (im not joking) , and who only bought us 1 breakfast, not the two we ordered, although the bill said we were charged for two. After chasing him down, we got the 2nd, only to find that the hot breakfast was hardly cooked, i mean AT ALL. It was cold and undercooked and would've made me quite ill if i ate it.On request however they removed the breakfast from our bill, which was nice, although its a given.If you do stay and have comments or problems, I suggest seeing Jason, who we spoke with and cleared up our bill. I would stay here again, however I dont plan on ordering breakfast.  
+<Date>Jul 28, 2008
+<Rating>5	5	5	5	4	5	3	-1	
+<Aspects>
+9	47(eat):1	127(speak):1	222(cold):1	356(comment):1	452(suggest):1	495(bill):1	1657(ill):1	4605(undercooked):1	7379(jason):1	
+0	
+18	9(service):1	17(view):3	18(book):1	24(floor):1	48(wonderful):1	86(fantastic):1	108(suite):1	130(standard):1	148(request):1	163(upgrade):1	199(surprise):1	561(harbor):1	747(pleasantly):1	1052(personally):1	3097(altogether):1	5180(9th):1	5403(lastminute.com):1	12803(tragic):1	
+7	9(service):1	37(review):1	130(standard):1	156(reservation):1	192(site):1	284(base):1	343(impress):1	
+0	
+8	4(nice):1	6(breakfast):1	12(friendly):1	14(helpful):1	148(request):2	495(bill):1	1000(cater):1	1135(remove):1	
+16	6(breakfast):5	114(hot):1	136(charge):1	174(serve):1	221(plan):1	246(mean):1	280(buy):1	495(bill):1	503(dont):1	541(appear):1	550(cook):1	598(slightly):1	985(hardly):1	1175(joke):1	1326(2nd):1	3003(chase):1	
+0	
+
+<Author>mischabarton
+<Content>Great hotel in a fab location! Stayed here over New Year's with my boyfriend. Great location overlooking Darling Harbour, although we had to change rooms as we had paid for a Harbour View room which at first we were not given. Very big rooms, and nice. 2 minute stroll over the bridge to the centre, and perfect location for the water taxis going round to Sydney Harbour. Perfect location. No problems whatsoever. We did not eat in the hotel, but in Darling Harbour there are loads of restaurants and bars. The Aquarium and Zoo is 2 mins away over the bridge, which was great.  
+<Date>Jul 6, 2008
+<Rating>4	5	5	5	5	4	4	5	
+<Aspects>
+6	247(min):1	740(bridge):1	763(boyfriend):1	1511(zoo):1	1733(whatsoever):1	2157(aquarium):1	
+7	1(location):1	17(view):1	42(pay):1	161(change):1	260(overlook):1	561(harbor):2	1681(darling):1	
+1	4(nice):1	
+11	1(location):3	29(minute):1	57(water):1	74(perfect):2	101(center):1	185(taxi):1	561(harbor):1	740(bridge):1	809(sydney):1	1056(stroll):1	1216(fab):1	
+0	
+0	
+6	10(restaurant):1	27(bar):1	47(eat):1	561(harbor):1	886(load):1	1681(darling):1	
+0	
+
+<Author>Y2L
+<Content>Great Location, Worst Service The worst hotel reception I've encountered. Was given a wrong/faulty set of keys, and made to travel up and down three times between the room and the reception as they kept insisting that the keys were working fine - spent more than half an hour being locked out of our room. What makes the one-night stay worse is the most terrible reception, even when I tried to be friendly with one of the lady staff - she yawned while listening/speaking to my sister and I. So much for great hospitality. It's either a discrimination case against Asians or people who uses card memberships to earn a free night stay at the hotel.  
+<Date>Jun 29, 2008
+<Rating>1	1	4	5	4	1	3	2	
+<Aspects>
+7	2(night):1	26(people):1	46(free):1	292(card):1	2737(earn):1	10904(discrimination):1	11812(asians):1	
+0	
+12	5(time):1	60(hour):1	64(spend):1	68(travel):1	113(fine):1	129(reception):1	234(set):1	283(half):1	339(key):2	427(wrong):1	774(lock):1	1495(insist):1	
+5	1(location):1	9(service):1	50(bad):2	129(reception):1	693(encounter):1	
+0	
+11	0(staff):1	12(friendly):1	50(bad):1	129(reception):1	253(tried):1	432(terrible):1	521(lady):1	892(sister):1	1115(hospitality):1	4991(one-night):1	12950(yawn):1	
+0	
+0	
+
+<Author>welltravelled10
+<Content>like a bad dream booked two interconecting rooms over xmas and new year ,confirmed a day before was told the exact room numbers all secure arrived and waited 1 hour at check in finally saw the consultant was told rooms ready at 3 pm it was now 1 pm returned with our 2 children at 3.30 only one room ready !!!!!at 6 pm was told we can be shifted to another hotel as the 2nd rooms occupants cant be located .after much discussion we were offered other rooms so i slept with one son and my wife with the other in seperate rooms we got nmoved the next day to one larger room with a roll away .poor service and attitude never to even walk past a bad xmas experience !!!!!!!!  
+<Date>Jun 11, 2008
+<Rating>1	3	2	3	3	1	2	3	
+<Aspects>
+0	
+8	7(walk):1	9(service):1	44(experience):1	50(bad):1	331(poor):1	419(past):1	821(attitude):1	3208(xmas):1	
+15	8(day):1	69(tell):1	84(locate):1	89(offer):1	104(sleep):1	184(wife):1	393(pm):1	612(son):1	813(roll):1	1145(cant):1	1326(2nd):1	1416(seperate):1	2479(shift):1	3265(occupant):1	3282(discussion):1	
+0	
+0	
+19	8(day):1	18(book):1	32(check):1	39(return):1	50(bad):1	53(arrive):1	60(hour):1	69(tell):2	85(wait):1	274(ready):2	277(child):1	341(finally):1	393(pm):2	982(confirm):1	1034(secure):1	1256(dream):1	2216(exact):1	3208(xmas):1	12200(consultant):1	
+0	
+0	
+
+<Author>cosmicelk
+<Content>Excellent location The Novotel Darling Harbour is part of the landscape at Darling Harbour. The view from my harbour facing room was reminicent of Hong Kong Harbour with the well lit bank offices as a back-drop. Within short walking distance are a huge shopping mall, which includes a craft shop of original ethnic work run by an Aborigine organisation, as well as the usual cafes, food and clothing stores etc. and next to this the Maritime Museum. With the Endeavour copy, and a battleship and submarine. A choice of two monorail stations - the mono rail goes round in a circle and links with the city centre and city rail, and also the Power House museum - You can walk across the bridge to the Wild Life Centre, and the Aquarium to see the indigenous wild life conveniently, and to dine at restaurants overlooking the harbour - the Italian one was very good - huge portions too. It was not difficult to get to other attractions in Sydney from here with a choice of boat or rail. We also went to the Observatory on a clear night were we were shown the Southern Cross and other things in the sky which you cannot see from England.  
+<Date>May 12, 2008
+<Rating>4	4	3	5	3	5	5	3	
+<Aspects>
+9	2(night):1	1228(cross):1	1909(sky):1	1970(england):1	2245(copy):1	2502(southern):1	5816(observatory):1	9348(submarine):1	12727(endeavor):1	
+6	107(choice):1	350(attraction):1	572(difficult):1	674(boat):1	809(sydney):1	1755(rail):1	
+7	17(view):1	157(light):1	561(harbor):2	792(office):1	1121(kong):1	1123(hong):1	1225(bank):1	
+46	1(location):1	7(walk):2	10(restaurant):1	16(food):1	21(excellent):1	41(city):2	49(shop):2	71(include):1	73(etc):1	82(station):1	101(center):2	107(choice):1	115(distance):1	133(huge):2	144(short):1	149(run):1	255(store):1	260(overlook):1	275(cafe):1	281(house):1	316(dine):1	358(italian):1	426(life):2	507(museum):2	561(harbor):3	643(mall):1	682(usual):1	709(clothe):1	740(bridge):1	1070(conveniently):1	1270(original):1	1276(power):1	1450(portion):1	1496(landscape):1	1681(darling):2	1727(link):1	1755(rail):2	2126(circle):1	2157(aquarium):1	2343(monorail):1	2661(wild):2	3002(novotel):1	4011(craft):1	4327(organization):1	5673(ethnic):1	6927(maritime):1	
+0	
+0	
+0	
+0	
+
+<Author>itchyfeetSouthEast
+<Content>Amazing view shame about the staff We booked this a bit late (the morning we arrived at Sydney airport!) and stayed in a darling harbour view room. The view was fantastic especially at night, the beds (2 doubles and a couch) were really comfortable and the room itself was spacious and very nice. Did not eat here so cannot comment on that, the reception staff were slightly snotty towards us probably because having just flown across the world we were slightly brain dead and could not find our voucher, however they could have been a bit more welcoming! We found time to use the pool but not until it was dark! Pool was nice enough but for a 4 star pretty small but then why sit around the hotel when you are in Sydney! The location is brilliant and the view definitely worth paying for but if you are not bothered about fab views you may aswell stay in a travelodge.  
+<Date>Apr 29, 2008
+<Rating>4	3	5	5	5	2	3	5	
+<Aspects>
+3	5(time):1	22(pool):1	459(dark):1	
+16	1(location):1	4(nice):1	17(view):2	22(pool):1	42(pay):1	59(definitely):1	96(worth):1	103(star):1	109(pretty):1	169(sit):1	307(bother):1	793(brilliant):1	809(sydney):1	1216(fab):1	3479(travelodge):1	4281(aswell):1	
+22	0(staff):1	2(night):1	4(nice):1	11(bed):1	17(view):3	18(book):1	25(comfortable):1	52(bit):1	53(arrive):1	56(morning):1	79(late):1	86(fantastic):1	95(airport):1	111(spacious):1	126(especially):1	145(amaze):1	179(double):1	561(harbor):1	809(sydney):1	1192(couch):1	1292(shame):1	1681(darling):1	
+0	
+0	
+15	0(staff):1	47(eat):1	52(bit):1	129(reception):1	178(probably):1	202(welcome):1	272(world):1	356(comment):1	598(slightly):2	614(fly):1	959(towards):1	1621(dead):1	1750(voucher):1	5287(snotty):1	7138(brain):1	
+0	
+0	
+
+<Author>MegaPearls
+<Content>Mixed feelings about this hotel... We booked this hotel on lastminute.com.au. They offer secret hotels at good prices, you don't find out which hotel you've got until you book it. Anyway we decided to be adventurous and used this option. The location was good. Unfortunately we did not get a room with a view, we had a noisy street beside our window instead. My advice: if you are booking this hotel for the splendid views, make sure you get a harbourside room BEFORE you get to the hotel. We asked if there were rooms available on the other side, were told yes, but were also informed that it would cost 60 extra Aussie dollars per night. We decided not to pay any more for the room as we had the views during a previous visit to another hotel on the other side of the harbour (Four Points by Sheraton - definitely recommended :-)). The staff were not over friendly, which is unusual for Australian hotels. The internet is definitely over-priced. We didn't eat in the hotel at all, we decided to eat in the Harbourside mall across the bridge. You can get all kinds of food in the foodhall in the basement. It's well priced and a 5 minute walk from the hotel room. Access to the harbour is great from this hotel. I would recommend eating at JORDAN'S seafood restaurant if you want to enjoy some good food. Definitely book in advance, it's always busy. The food there is not cheap, but it's worth it. You can also have breakfast in and around the harbour. There is a Morrocan/ Australia retaurant which I would also recommend for dinner in the evenings close to the hotel, it's called SUMAC. The staff are really lovely and the food is great (try the chocolate cupcakes for desert, if you love food like me you will love these). Get one to share though if you have had a main course!Back to the hotel... I would stay here again if I got good rates, but I would not pay big money for this hotel!  
+<Date>Apr 26, 2008
+<Rating>3	3	3	4	3	3	3	1	
+<Aspects>
+8	112(main):1	219(decide):1	293(course):1	336(option):1	417(anyway):1	520(share):1	2716(au):1	3392(adventurous):1	
+31	2(night):1	7(walk):1	15(recommend):1	16(food):1	17(view):1	18(book):1	19(price):2	29(minute):1	42(pay):2	59(definitely):2	65(visit):1	69(tell):1	78(rate):1	80(money):1	89(offer):1	96(worth):1	97(internet):1	128(extra):1	134(available):1	143(cheap):1	175(cost):1	219(decide):1	250(yes):1	373(previous):1	430(dollar):1	561(harbor):1	817(inform):1	1013(sheraton):1	1127(secret):1	3386(over-price):1	5256(aussie):1	
+11	17(view):2	18(book):1	35(street):1	119(window):1	217(noisy):1	353(instead):1	524(unfortunately):1	575(advice):1	1350(beside):1	2518(splendid):1	9196(harbourside):1	
+17	1(location):1	15(recommend):1	18(book):1	28(close):1	47(eat):2	59(definitely):1	67(call):1	117(dinner):1	219(decide):1	220(busy):1	643(mall):1	685(advance):1	740(bridge):1	1003(evening):1	1530(australia):1	7959(retaurant):1	9196(harbourside):1	
+0	
+4	0(staff):1	12(friendly):1	1610(unusual):1	3604(australian):1	
+21	0(staff):1	6(breakfast):1	10(restaurant):1	15(recommend):1	16(food):4	18(book):1	40(love):2	47(eat):1	51(enjoy):1	76(try):1	87(lovely):1	561(harbor):1	609(mix):1	632(chocolate):1	815(seafood):1	1568(basement):1	1706(desert):1	2657(feelings):1	5403(lastminute.com):1	8141(jordan):1	11536(cupcake):1	
+2	159(access):1	561(harbor):1	
+
+<Author>ICANGOCALIFORNIA
+<Content>Darling Harbour View Fantastic       View of hotel from across harbor  
+<Date>Apr 21, 2008
+<Rating>4	4	4	5	3	2	4	1	
+<Aspects>
+4	17(view):2	86(fantastic):1	561(harbor):2	1681(darling):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>dagobert
+<Content>good location Me and my wife stayed 3 nights in this hotel in march 2008. We choose it because of the ratings we read in tripadvisor. Overall i must say, that it is was a good choice.The hotel is located in darling harbour, so you are just in a few minutes in the center of sydney.The furniture in the hotel is o.k..Breakfast in the hotel is a litlle overpriced, so we eat outside in the restaurants in the nearby mall.i want to thank the both concierges, who helped us very intensiv to get back our baggage, which was lost.  
+<Date>Apr 11, 2008
+<Rating>4	4	4	5	4	4	4	4	
+<Aspects>
+4	88(read):1	167(choose):1	597(tripadvisor):1	2608(rating):1	
+2	70(overall):1	107(choice):1	
+2	440(furniture):1	2540(o.k):1	
+18	1(location):1	2(night):1	6(breakfast):1	10(restaurant):1	29(minute):1	47(eat):1	84(locate):1	98(outside):1	101(center):1	184(wife):1	232(nearby):1	561(harbor):1	615(march):1	643(mall):1	727(overprice):1	809(sydney):1	1681(darling):1	10724(litlle):1	
+0	
+5	92(help):1	204(concierge):1	271(thank):1	596(lose):1	1783(baggage):1	
+0	
+0	
+
+<Author>zoomer-7
+<Content>Nova-hell: thats what the locals call it... ...and I agree.Where do I start? oh - the Internet...3rd world speeds at sky high prices. If the hotel contracts this service, they need to cancel it - it is tragically unusable.We stayed in a double room street side (not harbour side) and the hotel room is more bland than boiled old beans.Back in 1992, this may have been cool but PEOPLE! its 2008! THis place has been thrashed - stains and knocks everywhere. I shudder to think how old the mattress is. Funny thing though - the 20 inch flat screen TV in the room looks so out of place on the stork its on - its small, looks pathetic and does not go with the decor. Sadly it has an Internet keyboard nearby - I was too scared to use it in case I racked up many more $.The cleanliness of the room is below average, the exterior old and the lobby is in sad need of a wake up call.The staff are average (the only fun was had with the Eurocar rental dude) and the breakfast is shoddy.If you are not paying for it, stay here. If you are - AVOID AT ALL COSTS - see my Travelodge review (which I think is a 100x better place than this sad property).Pros : LocationCons: Everything.  
+<Date>Apr 2, 2008
+<Rating>1	1	2	5	1	3	2	1	
+<Aspects>
+10	26(people):1	67(call):1	195(local):1	278(cool):1	473(agree):1	723(stain):1	847(mattress):1	1198(thats):1	1323(knock):1	9508(shudder):1	
+8	37(review):1	42(pay):1	165(start):1	175(cost):1	214(property):1	436(avoid):1	1454(sad):1	3479(travelodge):1	
+22	20(look):2	35(street):1	55(lobby):1	67(call):1	116(tv):1	179(double):1	227(average):1	269(decor):1	526(screen):1	535(flat):1	554(wake):1	561(harbor):1	585(below):1	854(cleanliness):1	1156(funny):1	1454(sad):1	1598(boil):1	1688(inch):1	1819(bland):1	1828(exterior):1	2550(bean):1	3704(pathetic):1	
+1	1249(pro):1	
+0	
+7	0(staff):1	6(breakfast):1	176(fun):1	227(average):1	963(rental):1	5695(shoddy):1	7101(dude):1	
+4	9(service):1	1065(cancel):1	3555(contract):1	6312(unusable):1	
+11	19(price):1	97(internet):2	232(nearby):1	272(world):1	1170(speed):1	1711(scare):1	1909(sky):1	2097(3rd):1	2135(sadly):1	4439(keyboard):1	8747(wrack):1	
+
+<Author>shania_wu
+<Content>High standards for a Novotel Stayed here for one night over easter weekend. Hotel was pretty busy, but staff were very attentive. Room was massive and renovated with huge daybed. Bed itself wasnt that comfortable with felt like a double and not queen like they said. It was a bit odd the hotel had a pokie room next to reception with no bar, just pokies.  
+<Date>Mar 27, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	2(night):1	130(standard):1	172(weekend):1	2075(easter):1	3002(novotel):1	
+0	
+15	11(bed):1	25(comfortable):1	27(bar):1	34(feel):1	52(bit):1	129(reception):1	133(huge):1	179(double):1	533(renovate):1	543(Queen):1	1088(odd):1	1329(massive):1	1339(wasnt):1	8481(poky):1	9209(daybe):1	
+4	0(staff):1	109(pretty):1	220(busy):1	537(attentive):1	
+0	
+0	
+0	
+0	
+
+<Author>cornish007
+<Content>Not Good A poor hotel. Rude staff. No facilities to speak of. I left a package to be delivered to a colleague's room and it was never seen again.Rock hard bed, lurid coloured room.Great location though. So forget about the hotel and wander down the quay for a beer or two.  
+<Date>Feb 28, 2008
+<Rating>2	3	3	5	3	3	2	3	
+<Aspects>
+5	331(poor):1	397(forget):1	443(beer):1	1562(wander):1	1664(quay):1	
+0	
+8	11(bed):1	43(leave):1	162(hard):1	527(package):1	631(deliver):1	773(rock):1	942(color):1	1991(colleague):1	
+3	1(location):1	127(speak):1	211(facility):1	
+0	
+2	0(staff):1	392(rude):1	
+0	
+0	
+
+<Author>roseuy
+<Content>Uncomfortable Beds! The hotel has a convenient location but it ends there. Concierge were not too helpful getting us a taxi...which was took ages to arrive even if you book in advance. The room was nice but the beds were too soft it was so uncomfortable. You will not get a good night's sleep here.  
+<Date>Feb 12, 2008
+<Rating>2	2	1	4	3	3	2	3	
+<Aspects>
+0	
+0	
+6	2(night):1	4(nice):1	11(bed):2	104(sleep):1	589(soft):1	856(uncomfortable):2	
+9	1(location):1	14(helpful):1	18(book):1	53(arrive):1	185(taxi):1	186(convenient):1	204(concierge):1	505(age):1	685(advance):1	
+0	
+0	
+0	
+0	
+
+<Author>kevinl31
+<Content>Great location       View of Cockle Bay from hotel room  
+<Date>Feb 10, 2008
+<Rating>3	3	3	5	3	5	5	-1	
+<Aspects>
+0	
+0	
+3	1(location):1	17(view):1	671(bay):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Silvertimtim
+<Content>Superb Location We stayed at this hotel for 6 nights and it was a great start to our holiday. The hotel is located directly on Darling Harbour. We had a harbour view room, and it鈥檚 so worth paying the extra to have this, the view is stunning. We arrived at 7am in the morning, and our room was ready for us... that was an absolute bonus! The room was huge with a nice lounge area. The bathroom was a great size and furnishings were of a good standard. They also have one of those blackout blinds, which not many hotels have these days, but it鈥檚 great so no access light can creep through the curtains. The staff at the hotel were nice and smiley, and always on hand to help. We ate in the restaurant one night, its open plan, not cozy or warm, I think they cranked up the AC, but the food was very good. An added bonus is that the hotel has a walkway straight through to the harbour shopping centre where you can access all the bars and restaurants. Also there are plenty of taxis on hand to take you where you want to go at the hotel. Just one point the Hotel transfer bus to the airport is not free, its about $12 each, in a taxi it will cost you $25 or the hotel can arrange a private car to take you for $30.  
+<Date>Jan 15, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+11	1(location):1	2(night):1	17(view):2	42(pay):1	96(worth):1	128(extra):1	165(start):1	223(holiday):1	407(superb):1	561(harbor):1	988(stun):1	
+20	4(nice):1	8(day):1	13(bathroom):1	53(arrive):1	56(morning):1	83(size):1	130(standard):1	133(huge):1	157(light):1	159(access):1	237(lounge):1	274(ready):1	743(curtain):1	849(bonus):1	870(furnishings):1	1250(absolute):1	1839(blind):1	3943(blackout):1	6302(7am):1	6853(creep):1	
+24	10(restaurant):1	27(bar):1	46(free):1	49(shop):1	84(locate):1	95(airport):1	101(center):1	120(bus):1	121(car):1	158(plenty):1	159(access):1	175(cost):1	185(taxi):2	351(add):1	377(hand):1	383(directly):1	492(private):1	561(harbor):2	680(arrange):1	827(straight):1	849(bonus):1	1021(transfer):1	1681(darling):1	1748(walkway):1	
+0	
+5	0(staff):1	4(nice):1	92(help):1	377(hand):1	6244(smiley):1	
+9	2(night):1	10(restaurant):1	16(food):1	47(eat):1	221(plan):1	236(warm):1	749(cozy):1	956(ac):1	6243(crank):1	
+0	
+
+<Author>Davidjones123
+<Content>Fantastic Location, Excellant Facilities, Quiet Rooms,       Hotel Room 4 of 4, Main window to left main entrance now to right as are both beds  
+<Date>Jan 10, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+10	1(location):1	11(bed):1	43(leave):1	58(quiet):1	86(fantastic):1	112(main):2	119(window):1	211(facility):1	490(entrance):1	2786(excellant):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>TubbyDuck
+<Content>Location, Location, Location If location and convenience were the sole criteria for choosing a Sydney hotel, then the Novotel would do well given Darling Harbour's proximity to the CBD, shops, Circular Quay and other main attractions (the monorail passes in front of the hotel and the ferry service is a short walk away). Otherwise, without anything being truly awful, the public areas seem a little tired, the staff less than enthusiastic (messages left at reception were not passed on) and the leisure facilities (especially the swimming pool) inadequate for the size of hotel. The high cost of internet access from rooms is a disappointment. Rooms and bathrooms are kept satisfyingly clean though and are adequately comfortable. Harbour view rooms are the better option. Easy access to quayside bars, restaurants and caf茅s makes the need to rely upon the same facilities at the hotel redundant. A special deal might make booking the hotel worthwhile (especially for families).  
+<Date>Jan 3, 2008
+<Rating>3	2	3	4	4	3	2	2	
+<Aspects>
+0	
+0	
+7	3(clean):1	13(bathroom):1	17(view):1	25(comfortable):1	336(option):1	561(harbor):1	3239(adequately):1	
+23	1(location):4	7(walk):1	9(service):1	31(front):1	49(shop):1	112(main):1	144(short):1	167(choose):1	350(attraction):1	400(pass):1	561(harbor):1	809(sydney):1	925(convenience):1	1010(ferry):1	1114(proximity):1	1664(quay):1	1681(darling):1	1912(circular):1	2343(monorail):1	2731(cbd):1	3002(novotel):1	4755(criterion):1	4823(sole):1	
+0	
+19	0(staff):1	22(pool):1	23(little):1	43(leave):1	83(size):1	126(especially):1	129(reception):1	211(facility):1	261(swim):1	379(public):1	400(pass):1	454(tire):1	476(truly):1	508(otherwise):1	736(awful):1	1809(message):1	2032(leisure):1	3456(enthusiastic):1	3610(inadequate):1	
+14	10(restaurant):1	18(book):1	27(bar):1	93(easy):1	106(family):1	126(especially):1	140(deal):1	159(access):1	208(special):1	211(facility):1	2327(rely):1	2532(caf):1	2757(worthwhile):1	10516(redundant):1	
+4	97(internet):1	159(access):1	175(cost):1	866(disappointment):1	
+
+<Author>Merseydiver
+<Content>Excellent location       View from our room  
+<Date>Dec 17, 2007
+<Rating>4	4	4	4	4	3	3	3	
+<Aspects>
+0	
+0	
+3	1(location):1	17(view):1	21(excellent):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Weneedatan
+<Content>Don't expect anything special, standard Novotel Reasonable price for location.Rooms nice (views at back of hotel poor)Bed good.Clean.Pool area a waste of timeGood location on doorstep of Darling Harbour.Food places around Harbour not great food and expensive (world city).Nothing special but no problems.Trip to Manly on ferry lovely.Manly beach nice.Opera House a good trek from hotel.  
+<Date>Dec 13, 2007
+<Rating>3	3	4	4	4	3	3	-1	
+<Aspects>
+5	33(trip):1	87(lovely):1	208(special):1	1010(ferry):1	7950(manly):1	
+12	1(location):1	16(food):2	19(price):1	41(city):1	62(expect):1	124(expensive):1	130(standard):1	208(special):1	272(world):1	273(reasonable):1	561(harbor):1	3002(novotel):1	
+7	4(nice):1	11(bed):1	17(view):1	281(house):1	331(poor):1	1374(opera):1	2910(trek):1	
+9	1(location):1	4(nice):1	22(pool):1	30(beach):1	561(harbor):1	928(waste):1	1681(darling):1	2071(doorstep):1	7950(manly):1	
+1	3(clean):1	
+0	
+0	
+0	
+
+<Author>JohnandLisa
+<Content>Very convenient Stayed at the Hotel last week, as attending a conference at the Convention centre. Fantastic location for the convention centre, undercover 5 minute walk away. Also excellent if wanting to go to the City via Monorail or Central train station via light rail, both directly outside the hotel.Rooms were expensive but well appointed, and as per a previous review the blockout shutters were the best I have ever experienced and guaranteed a good night's sleep.Didn't eat at the hotel - breakfast was pricey, but the bar was reasonable value and nice.  
+<Date>Nov 14, 2007
+<Rating>4	3	5	5	5	4	4	-1	
+<Aspects>
+0	
+16	2(night):1	4(nice):1	6(breakfast):1	27(bar):1	37(review):1	44(experience):1	47(eat):1	81(value):1	104(sleep):1	124(expensive):1	273(reasonable):1	373(previous):1	546(pricey):1	579(appoint):1	1471(guarantee):1	2500(shutter):1	
+0	
+22	1(location):1	7(walk):1	21(excellent):1	29(minute):1	41(city):1	75(week):1	82(station):1	86(fantastic):1	98(outside):1	101(center):2	157(light):1	168(central):1	182(train):1	186(convenient):1	383(directly):1	512(via):2	794(conference):1	826(attend):1	1048(convention):2	1755(rail):1	2343(monorail):1	9853(undercover):1	
+0	
+0	
+0	
+0	
+
+<Author>kazkap
+<Content>Great Location, A little Pricey! We've just returned from an overnight stay at The Novotel Darling Harbour. We stayed with our 2 young children in a deluxe harbour view room. Rooms have been refurbished and are very light and comfortable. The room was clean and well appointed with fantastic views. You are truly paying for the excellent location and outlook. The room was a semi 'L' shape so a sitting/workspace area was into the corner. There were 2 LCD TV's (one adjacent to the beds and the other in the lounge area) which turned out to be handy as we were able to put the boys to bed undisturbed and enjoy staying up, catching the views and watching some TV, relaxing! Staff were pleasant and helpful. Breakfast was nice, a great start for a busy day. A definite plus was the block out shutter, no noise and total darkness. This little beauty helped us keep our young children asleep till gone 8.30am. A sleep in, What a bonus! Overall we really enjoyed our stay, but it was expensive. However, it is nice to treat and pamper yourself every now and then!  
+<Date>Nov 10, 2007
+<Rating>4	4	4	5	4	3	4	-1	
+<Aspects>
+16	4(nice):1	39(return):1	94(noise):1	100(bloc):1	203(plus):1	320(treat):1	561(harbor):1	576(yourself):1	786(total):1	1171(overnight):1	1681(darling):1	1815(pamper):1	2369(definite):1	2500(shutter):1	3002(novotel):1	5376(darkness):1	
+15	1(location):2	4(nice):1	6(breakfast):1	8(day):1	21(excellent):1	23(little):1	42(pay):1	51(enjoy):1	70(overall):1	124(expensive):1	165(start):1	220(busy):1	476(truly):1	546(pricey):1	4959(outlook):1	
+34	3(clean):1	11(bed):2	17(view):3	23(little):1	25(comfortable):1	51(enjoy):1	86(fantastic):1	92(help):1	104(sleep):1	116(tv):2	157(light):1	160(relax):1	171(able):1	200(corner):1	237(lounge):1	245(watch):1	277(child):2	540(catch):1	561(harbor):1	579(appoint):1	648(deluxe):1	755(handy):1	849(bonus):1	881(boy):1	979(till):1	1061(adjacent):1	1226(shape):1	1253(refurbish):1	1595(beauty):1	1773(lcd):1	2123(asleep):1	5499(semi):1	8338(sitting):1	8938(undisturbed):1	
+0	
+0	
+3	0(staff):1	14(helpful):1	150(pleasant):1	
+0	
+0	
+
+<Author>David_Susie
+<Content>Great location, welcoming staff, comfortable and clean I stay at this hotel on a regular basis. It is well appointed, large rooms, clean and very comfortable and has its own parking area. It is located in Darling Harbour with direct undercover access to a range of restaurants and bars. If you have booked the cheaper Pyrmont view room you might want to ask for an upgrade to a harbour view room (they might just oblige) it is much nicer. Don't bother with the restaurant in the hotel. You will find much better value with one of the restaurants lining the harbour (although they do not stay open very late during the middle of the week - if that's the case go for the room service).  
+<Date>Nov 1, 2007
+<Rating>5	5	5	5	5	4	5	4	
+<Aspects>
+0	
+7	4(nice):1	17(view):2	18(book):1	143(cheap):1	163(upgrade):1	561(harbor):1	2709(oblige):1	
+5	3(clean):1	25(comfortable):1	66(park):1	166(own):1	579(appoint):1	
+7	0(staff):1	1(location):1	3(clean):1	25(comfortable):1	202(welcome):1	744(regular):1	1527(basis):1	
+0	
+0	
+16	9(service):1	10(restaurant):3	27(bar):1	75(week):1	79(late):1	81(value):1	84(locate):1	159(access):1	188(line):1	307(bother):1	325(middle):1	561(harbor):2	714(range):1	803(direct):1	1681(darling):1	9853(undercover):1	
+0	
+
+<Author>janwilson
+<Content>Pricey but good location This is a huge hotel, dont expect any special treament as there are so many quest's. The rooms are adequite and clean, I recommend you push the boat out and have a harbour view room, the view at night is awsome. Don't waste your money on the breakfast, the restaurants on Darling Harbour will provide anything you want at half the price and great atmosphere. Same again for diner, if you want a change from DH then China Town is only a short walk accross the harbour where you can sit outside and soak in the atmosphere. Directly behind the Novotel there is a 24 hour mini market with cheap internet access. A short walk down the road from there is the casino and Lyric Theatre (we saw Miss Saigon), where there is more shops and reastuarants. After staying in Sydney for 6 days and exploring all areas I doubt this hotel can't be beaten for location.  
+<Date>Nov 1, 2007
+<Rating>4	3	3	5	3	3	3	-1	
+<Aspects>
+0	
+17	1(location):1	6(breakfast):1	10(restaurant):1	19(price):1	62(expect):1	80(money):1	133(huge):1	153(provide):1	208(special):1	283(half):1	414(atmosphere):1	503(dont):1	546(pricey):1	561(harbor):1	928(waste):1	1681(darling):1	4528(quest):1	
+8	2(night):1	3(clean):1	15(recommend):1	17(view):2	561(harbor):1	674(boat):1	1041(push):1	3215(awsome):1	
+24	1(location):1	7(walk):2	8(day):1	49(shop):1	98(outside):1	144(short):2	161(change):1	169(sit):1	230(road):1	239(town):1	276(miss):1	414(atmosphere):1	442(beat):1	538(casino):1	561(harbor):1	594(explore):1	635(theater):1	809(sydney):1	952(doubt):1	1159(china):1	1324(diner):1	1468(soak):1	2650(accross):1	10042(dh):1	
+0	
+0	
+0	
+8	60(hour):1	97(internet):1	143(cheap):1	159(access):1	264(market):1	383(directly):1	448(mini):1	3002(novotel):1	
+
+<Author>ka7i3
+<Content>Lovely Hotel Stayed in a deluxe harbour view room. It was very modern and had a beautiful room of darling harbour and the city. Great location for people who have a short amount of time to see a lot of sydney. It is conveniently located in Darling Harbour and a short walk from the Casino. It is also located on the monorail which makes getting into town even easier than walking. If your wanting to keep the price down this might not be the place for you, but thats the same with most upmarket accommodation in Sydney.Concerge and reception were great and very helpful.  
+<Date>Oct 31, 2007
+<Rating>4	4	5	5	5	5	4	-1	
+<Aspects>
+0	
+5	19(price):1	721(accommodation):1	809(sydney):1	1198(thats):1	3373(upmarket):1	
+8	17(view):1	41(city):1	45(beautiful):1	87(lovely):1	151(modern):1	561(harbor):2	648(deluxe):1	1681(darling):1	
+16	1(location):1	5(time):1	7(walk):2	26(people):1	38(lot):1	84(locate):2	93(easy):1	144(short):2	239(town):1	538(casino):1	561(harbor):1	666(amount):1	809(sydney):1	1070(conveniently):1	1681(darling):1	2343(monorail):1	
+0	
+2	14(helpful):1	129(reception):1	
+0	
+0	
+
+<Author>colin-leeds
+<Content>Great view       A room with a view  
+<Date>Oct 28, 2007
+<Rating>4	3	4	5	4	5	4	4	
+<Aspects>
+0	
+0	
+1	17(view):2	
+0	
+0	
+0	
+0	
+0	
+
+<Author>firebucket
+<Content>Great Location for Darling Harbour I stayed at the Novotel Darling Harbour for work reasons in October 2007. I wanted to stay somewhere close to Wentworth Park in Glebe and this fitted the bill excellently as it was a less than 10 minute walk. This hotel is large and conveniently located in Darling Harbour directly behind the large shopping Centre on the western side. A short walk will take you to a small supermarket, food court, specialty shops and Star City Casino.I stayed in a Harbour View Room which was modern, well lit and had a lovely view to the east looking at city lights. The bathroom was OK, nothing special, with toiletries provided. No balcony.Flat Screen TV, internet connection and good black out curtains completed the package. Recreational Facilities were pretty basic. Small unheated outside pool (cold), tennis court and small gym facility.Breakfast Buffet was the usual fare with nothing to write home about. I think it was about $30 pp and overpriced as usual. In hindsight I would walk the 100 metres down to the food court and get something better for less. All in all a good hotel, doing most things right. Not worth over $200 a night though, but good if you can get it for less. Very Similar in standard to the Novotel Rockford Darling Harbour and that is generally cheaper and in the same area.  
+<Date>Oct 24, 2007
+<Rating>4	3	4	5	3	3	3	4	
+<Aspects>
+2	2(night):1	96(worth):1	
+9	130(standard):1	143(cheap):1	561(harbor):1	682(usual):1	727(overprice):1	874(similar):1	1681(darling):1	3002(novotel):1	3156(pp):1	
+14	13(bathroom):1	17(view):2	20(look):1	41(city):1	87(lovely):1	123(ok):1	151(modern):1	153(provide):1	157(light):2	191(balcony):1	208(special):1	561(harbor):1	657(toiletry):1	948(east):1	
+40	1(location):1	7(walk):3	16(food):2	22(pool):1	28(close):1	29(minute):1	41(city):1	49(shop):2	66(park):1	84(locate):1	98(outside):1	101(center):1	103(star):1	109(pretty):1	144(short):1	211(facility):2	222(cold):1	352(basic):1	374(reason):1	383(directly):1	495(bill):1	523(gym):1	538(casino):1	561(harbor):3	668(fit):1	911(october):1	1015(western):1	1068(court):3	1070(conveniently):1	1078(supermarket):1	1194(metre):1	1681(darling):3	1734(tennis):1	1751(specialty):1	3002(novotel):1	4100(excellently):1	4609(hindsight):1	8782(recreational):1	9537(wentworth):1	10858(unheated):1	
+0	
+0	
+6	6(breakfast):1	77(buffet):1	141(home):1	344(write):1	682(usual):1	1112(fare):1	
+9	97(internet):1	116(tv):1	526(screen):1	527(package):1	535(flat):1	622(complete):1	743(curtain):1	932(connection):1	1007(black):1	
+
+<Author>PhTravelling_Guy
+<Content>Great Location Incredibly good location right by Darling Harbour and easy access to the monorail.Rooms were very nice. Spectacularly clean and well furnished. The room decor was pretty nice. I remember having taken a picture of one of the black and white photographs hanging on the wall. The photo just stuck me and it was different from your average hotel painting or print.I didn't notice any real restaurant on the premises. Just a small cafe. (My room did not come with breakfast, so I didn't really look very hard.) In any case, one doesn't really need a hotel restaurant when you're right in Darling Harbour.  
+<Date>Oct 23, 2007
+<Rating>3	3	4	5	4	3	3	-1	
+<Aspects>
+5	227(average):1	688(stick):1	761(photo):1	806(paint):1	1101(print):1	
+0	
+9	3(clean):1	4(nice):2	6(breakfast):1	20(look):1	109(pretty):1	162(hard):1	269(decor):1	787(furnish):1	9747(spectacularly):1	
+15	1(location):2	93(easy):1	159(access):1	183(wall):1	275(cafe):1	375(remember):1	456(picture):1	466(white):1	478(hang):1	561(harbor):1	807(incredibly):1	1007(black):1	1681(darling):1	2343(monorail):1	3673(photograph):1	
+0	
+0	
+6	10(restaurant):2	240(real):1	354(notice):1	561(harbor):1	1681(darling):1	1989(premiss):1	
+0	
+
+<Author>AEKBS
+<Content>Great location; average hotel This hotel's location is FABULOUS, with amazing views of Darling Harbor, and the hotel is convenient to many restaurants and museums. The front desk staff is wonderful. However, the actual hotel itself is average, at best. I had to have my bed sheets changed when I checked in, as I found hair in the sheets that was not mine! (Suggesting the bedding had not been changed.) Also, my bathroom regularly had conditioner, but no shampoo. The walls in the bathroom were stained, as well. On the plus side, when I complained, the sheets were immediately changed, and I got shampoo, but the fact that I HAD to complain is troublesome. The concierge staff....needs some classes in customer service. Other reviewers have noted that the concierge did not seem to want to bother to help them; that was my experience, as well. Overall, I might give them one more chance if I had to, but on the other hand, there are so many other wonderful hotels in the area that I would probably skip this one and stay at another.  
+<Date>Oct 18, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	48(wonderful):1	70(overall):1	178(probably):1	227(average):1	377(hand):1	689(chance):1	1429(skip):1	1536(actual):1	
+6	44(experience):1	92(help):1	204(concierge):1	297(note):1	307(bother):1	564(reviewer):1	
+17	11(bed):2	13(bathroom):2	32(check):1	161(change):3	183(wall):1	203(plus):1	241(complain):2	452(suggest):1	479(sheet):3	489(immediately):1	723(stain):1	729(hair):1	1051(shampoo):2	1083(conditioner):1	1269(mine):1	1881(regularly):1	8449(troublesome):1	
+10	1(location):2	10(restaurant):1	17(view):1	145(amaze):1	186(convenient):1	227(average):1	270(fabulous):1	507(museum):1	561(harbor):1	1681(darling):1	
+0	
+8	0(staff):2	9(service):1	31(front):1	36(desk):1	48(wonderful):1	204(concierge):1	428(customer):1	470(class):1	
+0	
+0	
+
+<Author>iamsiam
+<Content>Nice hotel I was staying at the Novotel when I went to Sydney for a conference. I spent most of my time at the conference for four days so I can't really comment much on the facilities. The hotel and room were in good condition and location was convenient if you had to go to the exhibition and convention centre. Monorail is in walking distance. The hotel is close to many restaurants, arcades, iMAX, and aquarium. Not sure about the price and its value as it was paid by my employer. Breakfast was good with lots to choose from. You can get free newspaper delivered to your room as in other 5 star hotels.  
+<Date>Sep 22, 2007
+<Rating>4	3	4	3	4	3	3	3	
+<Aspects>
+0	
+8	19(price):1	42(pay):1	46(free):1	81(value):1	103(star):1	631(deliver):1	1372(newspaper):1	7208(employer):1	
+6	1(location):1	101(center):1	186(convenient):1	263(condition):1	1048(convention):1	4808(exhibition):1	
+17	4(nice):1	5(time):1	7(walk):1	8(day):1	10(restaurant):1	28(close):1	64(spend):1	115(distance):1	211(facility):1	356(comment):1	794(conference):2	809(sydney):1	2157(aquarium):1	2343(monorail):1	3002(novotel):1	4574(arcade):1	8445(imax):1	
+0	
+0	
+3	6(breakfast):1	38(lot):1	167(choose):1	
+0	
+
+<Author>duderator
+<Content>Great Location Spot On! The room was wonderful with a view of Darling Harbour. It connected with the mall the warf, Mono rail, Chinese Garden, water taxi, trains too. Could walk to the Aquirium  I Max, lots of night life. Walked to the casino. Very helpful staff and friendly service. Breakfast was over pricedSo glad they had a smoking room!!!!Very nice outside pool. I would highly recommend this place.We were able to get tour bus pick-up at the hotel, BIG Plus.  
+<Date>Aug 26, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	15(recommend):1	138(highly):1	
+3	6(breakfast):1	468(smoke):1	619(glad):1	
+4	17(view):1	48(wonderful):1	561(harbor):1	1681(darling):1	
+25	1(location):1	2(night):1	4(nice):1	7(walk):2	22(pool):1	38(lot):1	57(water):1	98(outside):1	120(bus):1	171(able):1	181(tour):1	182(train):1	185(taxi):1	203(plus):1	310(garden):1	317(spot):1	426(life):1	538(casino):1	643(mall):1	764(chinese):1	841(connect):1	1755(rail):1	2169(max):1	2258(pickup):1	4453(warf):1	
+0	
+4	0(staff):1	9(service):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>misstaryn08
+<Content>Very Modern Beautiful location-probably the best. My room overlooked the Darling Hrbour and the city view at night from my huge hotel window caused me to sit and stare. The room was very modern, comfortable, clean, and trendy. I wanted to take the furniture home with me! My bed was a very trendy style with solid colored decorative pillows. The sheets were amazing and the comforter was white and comfortable. The bathroom was very modern with a wonderful lighting, comfy shower, and amazing showerhead. The flat screen TV was an excellent touch-but there were very few channels. Broadband connection was not free but was affordable. I loved this room and the location.  
+<Date>Aug 14, 2007
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+5	25(comfortable):1	145(amaze):1	466(white):1	479(sheet):1	1694(comforter):1	
+0	
+36	1(location):1	2(night):1	3(clean):1	11(bed):1	13(bathroom):1	17(view):1	21(excellent):1	25(comfortable):1	40(love):1	41(city):1	48(wonderful):1	61(shower):1	116(tv):1	119(window):1	133(huge):1	141(home):1	145(amaze):1	151(modern):2	157(light):1	169(sit):1	260(overlook):1	303(pillow):1	326(style):1	440(furniture):1	475(comfy):1	526(screen):1	535(flat):1	741(channel):1	942(color):1	943(cause):1	1413(trendy):2	1617(solid):1	1681(darling):1	2748(stare):1	3571(showerhead):1	5016(decorative):1	
+2	45(beautiful):1	151(modern):1	
+0	
+0	
+0	
+4	46(free):1	932(connection):1	1062(affordable):1	2825(broadband):1	
+
+<Author>Coolangatta_Kid
+<Content>Dish Restaurant? Don't wast your money...... Booked our five nights at the Novotel Sydney on Darling Harbour through wotif. Only chose this option as Saturday night seemed to have no rooms available when booking direct with Novotel. Found the Fall in love again in Sydney package to be the best value as it included both dinner for two and breakfast. Well it turned out not to be the best choice. The dinner for two only offered a choice of either a entre  main or main  desert from the set menu.. which only had three choices... steak, fish  chicken being the mains. Had the steak the first night which was full of gristle and as tough as a slice of rubber. My partner had the chicken fillet which came with a bone and was rare. Mentioned the lack of choices to the waiter who suggest I will have to eat something twice, when I declined the wine menu we were then ignored all night. Very poor service indeed. Tried the fish the next night which was ok, my partner had the steak which was the other half of the piece of rubber I had the night before.... the next three nights we dinned elswhere. Darling Harbour has many great restaurants which are all superior and less expensive than the Dish. Whilst we had a great room with a nice view of the harbour, room servicing was a joke. Having been out all day we were very surprised to come back to an unserviced room. Had to leave the room until around 4.30pm before it was serviced. So much for a relaxing nap before dinner. Whilst some of the staff were more than hospitable, the hotel needs a lesson from the Gold Coast with regards to looking after their guests.. Will never go back to the Novotel.. This is not a 4 star hotel by my standards.  
+<Date>Jul 13, 2007
+<Rating>1	1	3	4	3	3	1	2	
+<Aspects>
+7	80(money):1	949(chicken):1	1006(partner):1	1924(rare):1	3002(novotel):1	3929(bone):1	5617(fillet):1	
+18	10(restaurant):1	89(offer):1	103(star):1	107(choice):3	112(main):3	117(dinner):1	124(expensive):1	130(standard):1	234(set):1	423(menu):1	561(harbor):1	653(fish):1	660(steak):1	785(superior):1	816(dish):1	949(chicken):1	1681(darling):1	1706(desert):1	
+18	2(night):1	4(nice):1	8(day):1	9(service):2	17(view):1	18(book):1	43(leave):1	134(available):1	167(choose):1	199(surprise):1	336(option):1	393(pm):1	561(harbor):1	803(direct):1	818(saturday):1	877(whilst):1	1175(joke):1	3002(novotel):1	
+0	
+0	
+9	0(staff):1	20(look):1	91(guest):1	877(whilst):1	930(regard):1	1343(lesson):1	1571(gold):1	1682(coast):1	2743(hospitable):1	
+44	2(night):6	6(breakfast):1	9(service):1	10(restaurant):1	18(book):1	40(love):1	47(eat):1	71(include):1	81(value):1	107(choice):1	117(dinner):2	123(ok):1	160(relax):1	244(mention):1	251(wine):1	253(tried):1	283(half):1	331(poor):1	347(twice):1	349(lack):1	423(menu):1	452(suggest):1	527(package):1	561(harbor):1	587(fall):1	653(fish):1	660(steak):2	735(waiter):1	809(sydney):2	816(dish):1	941(piece):1	990(indeed):1	1006(partner):1	1215(ignore):1	1665(tough):1	1681(darling):1	2024(slice):1	2092(nap):1	2394(decline):1	3002(novotel):1	3090(din):1	3554(rubber):2	6905(wotif):1	10548(elswhere):1	
+0	
+
+<Author>DownunderSugarglider
+<Content>Sparkly Views! I stayed here for 2 nights for business. The location is great - easy to walk around Darling Harbour and right at the light rail and monorail stations. The room was well appointed, good quality, everything worked properly. Decent sized. Fantastic views over Darling Harbour - looks great at night. Ordered room service and it came quickly and was really good quality food. The bed was comfy, the towels were average. All the things in the room you need - iron and board, mini bar, tea/coffee, internet, TV, very basic toiletries - in fact I didn't bother with them. the staff and the service were very good. My main complaint is the price - VERY expensive - you are paying for the view but go to the city side of the harbour and you can knock heaps off the price.  
+<Date>Jun 20, 2007
+<Rating>4	4	4	5	5	4	5	4	
+<Aspects>
+6	2(night):1	17(view):1	20(look):1	86(fantastic):1	561(harbor):1	1681(darling):1	
+13	17(view):1	19(price):2	41(city):1	42(pay):1	112(main):1	124(expensive):1	187(quality):1	190(complaint):1	561(harbor):1	579(appoint):1	1144(properly):1	1323(knock):1	4038(heap):1	
+16	11(bed):1	27(bar):1	83(size):1	97(internet):1	116(tv):1	125(towel):1	227(average):1	257(decent):1	301(tea):1	307(bother):1	352(basic):1	448(mini):1	475(comfy):1	600(board):1	657(toiletry):1	868(iron):1	
+13	1(location):1	2(night):1	7(walk):1	17(view):1	82(station):1	93(easy):1	147(business):1	157(light):1	561(harbor):1	1681(darling):1	1755(rail):1	2343(monorail):1	12410(sparkly):1	
+0	
+2	0(staff):1	9(service):1	
+4	9(service):1	16(food):1	187(quality):1	471(quickly):1	
+0	
+
+<Author>KG-7
+<Content>Good location Good location very close to Darling Harbour shops and restaurants.Bedrooms very well appointed; beds comfortable but fairly small.Restaurant and lounge areas were cold and unappealing and service of tea/coffee at breakfast almost non-existant.  
+<Date>Jun 15, 2007
+<Rating>3	3	4	4	4	3	2	-1	
+<Aspects>
+0	
+0	
+5	11(bed):1	25(comfortable):1	268(bedroom):1	462(fairly):1	579(appoint):1	
+6	1(location):2	10(restaurant):1	28(close):1	49(shop):1	561(harbor):1	1681(darling):1	
+0	
+0	
+8	6(breakfast):1	9(service):1	10(restaurant):1	222(cold):1	237(lounge):1	301(tea):1	5979(non-existant):1	6574(unappealing):1	
+0	
+
+<Author>vosl
+<Content>Stunning Views We arrived in Sydney fo a girls weekend and needed to be able to get around without a car. The location was stunning.We had a room with a view of Darling Harbour and at night it was magnificent. A mass of lights. I left the curtains open to just soak up the view!As for getting around. There were 2 monorail stops within an easy walk, A tram stop was nearby and the taxis were a cheap option for us as there were 4 of us.One day we opted for the ferry / train/ bus pass and ferried out of Darling Harbour to Circular Quay and across to Manly. all very accessible from the Hotel.Nearby was a seven 11 and a superette and internet cafe.Harbourside was easily accessible as well and there are so many restaurants and fast food places, eating was easy and could be cheap. $10- $12 for breakfast.The rooms were well appointed and staff were helpful.  
+<Date>May 30, 2007
+<Rating>5	4	5	5	4	5	5	-1	
+<Aspects>
+12	17(view):2	43(leave):1	53(arrive):1	121(car):1	171(able):1	172(weekend):1	625(girl):1	743(curtain):1	809(sydney):1	988(stun):1	1468(soak):1	4923(fo):1	
+0	
+10	0(staff):1	2(night):1	14(helpful):1	17(view):1	157(light):1	561(harbor):1	579(appoint):1	1405(magnificent):1	1681(darling):1	2653(mass):1	
+22	1(location):1	7(walk):1	8(day):1	93(easy):1	120(bus):1	122(stop):2	143(cheap):1	182(train):1	185(taxi):1	232(nearby):1	336(option):1	400(pass):1	561(harbor):1	570(tram):1	988(stun):1	1010(ferry):2	1184(opt):1	1664(quay):1	1681(darling):1	1912(circular):1	2343(monorail):1	7950(manly):1	
+0	
+0	
+13	6(breakfast):1	10(restaurant):1	16(food):1	47(eat):1	93(easy):1	97(internet):1	143(cheap):1	232(nearby):1	275(cafe):1	438(easily):1	499(fast):1	1342(accessible):1	9196(harbourside):1	
+1	1342(accessible):1	
+
+<Author>May-Tong
+<Content>Great Place! Great Spot! The single beds look more like doubles to me. So comfortable! As mentioned by most reviews, the location is superb and the hotel is great. Most lamented the price but I got the room for a steal! With the Accord card for S$ 240, not only did I get 50% off at the restaurants but also 2 Complimentary nights for free. Even if I don'tuse the other privileges, per night work out to be only about A$100. Try not to drive if you're just staying in the town cos' the parking isn't free, not even if you're guest at the hotel. In the city, I don't think any of the hotel provide free parking. We regretted renting the car and had to search around for the best price parking. In the end, we found free overnight parking in one of the neighbourhood estate and park in the hotel early in morning when the special rate starts (Can't remember the timing cos' its been 7 months). But have to catch the timing for the special car park rates.  
+<Date>May 29, 2007
+<Rating>4	5	4	5	4	4	4	4	
+<Aspects>
+4	2(night):1	25(comfortable):1	317(spot):1	2615(privilege):1	
+19	5(time):1	19(price):2	46(free):1	56(morning):1	66(park):3	78(rate):1	121(car):1	165(start):1	208(special):1	375(remember):1	388(month):1	421(neighbourhood):1	1097(rent):1	1171(overnight):1	1187(steal):1	1248(search):1	1410(regret):1	4651(estate):1	4897(cos):1	
+4	11(bed):1	20(look):1	179(double):1	304(single):1	
+18	1(location):1	5(time):1	37(review):1	41(city):1	46(free):2	66(park):3	76(try):1	78(rate):1	91(guest):1	121(car):1	153(provide):1	208(special):1	239(town):1	244(mention):1	298(drive):1	407(superb):1	540(catch):1	4897(cos):1	
+0	
+0	
+6	2(night):1	10(restaurant):1	46(free):1	292(card):1	345(complimentary):1	2019(accord):1	
+0	
+
+<Author>po
+<Content>Great Location, But Poor Service My husband took me to the Novotel at Darling Harbour for the weekend in January for my birthday. The hotel itself is really nice and modern but we found the service to be very ordinary. My husband had called them prior to the weekend to organise for a cake, chocolates and champagne to be made available for my birthday night as a suprise and it was ruined when it was set up the minute we arrived which was not my b'day. We also had an issue with a fire door that wasnt closing properly at the end of our hallway that was making a really loud whistling noise. We had to call four times for someone to come and fix it. We also were dissapointed with the room service. When we returned from our day out, we noticed a strong cigarette smoke smell. We thought it may be coming from the air conditioning and thought, oh well. However, when we went to throw something in the bin we noticed all this cigarette ash on the floor. We had requested a non smoking room but obviously that means only the guests dont smoke but the cleaners can. Check out took forever as they only had one staff memeber on the desk and lots of people waiting to check in/out. The restaurant is way way over priced, your better off walking to the harbour and eating by the water. Overall, i have to say it is in a great great location close to the casino and monorail, etc. but the service needs to be improved in a big way.  
+<Date>May 22, 2007
+<Rating>3	3	3	5	2	2	2	-1	
+<Aspects>
+3	5(time):1	67(call):1	494(fix):1	
+6	7(walk):1	10(restaurant):1	19(price):1	47(eat):1	57(water):1	561(harbor):1	
+10	9(service):1	24(floor):1	164(air):1	263(condition):1	354(notice):1	917(throw):1	1365(cigarette):1	1371(dissapoint):1	3059(bin):1	5471(ash):1	
+25	1(location):2	9(service):2	28(close):2	54(door):1	70(overall):1	73(etc):1	94(noise):1	105(husband):1	172(weekend):1	265(issue):1	331(poor):1	416(loud):1	538(casino):1	561(harbor):1	580(hallway):1	765(birthday):1	1018(january):1	1144(properly):1	1217(improve):1	1262(fire):1	1339(wasnt):1	1681(darling):1	2343(monorail):1	3002(novotel):1	3334(whistle):1	
+13	8(day):1	39(return):1	91(guest):1	148(request):1	231(smell):1	246(mean):1	354(notice):1	468(smoke):3	503(dont):1	781(obviously):1	893(strong):1	1365(cigarette):1	2487(cleaner):1	
+8	0(staff):1	26(people):1	32(check):2	36(desk):1	38(lot):1	85(wait):1	1643(forever):1	8388(memeber):1	
+21	2(night):1	4(nice):1	8(day):1	9(service):1	29(minute):1	53(arrive):1	67(call):1	105(husband):1	134(available):1	151(modern):1	172(weekend):1	234(set):1	632(chocolate):1	637(prior):1	765(birthday):1	770(champagne):1	1029(cake):1	1167(organize):1	1243(ruin):1	1738(suprise):1	2025(ordinary):1	
+0	
+
+<Author>Pihau
+<Content>Good Facilities, Great Location I stayed at the Novotel Darling Harbour in a Deluxe Harbour View room on a recent weekend away. The location is fantastic - the Darling Harbour waterfront has lots to see and do, and the monorail stops just outside so travel to the city is easy. The facilities were excellent. The rooms are modern and tidy with great views, LCD TV, fridge, etc. There is a small but well equipped gym, small swimming pool, tennis court, etc. The breakfasts are excellent.My only negative comment is that the hotel and services are a bit overpriced, eg: the room was AU$289 p/n, continental breakfast was AU$45 for 2 people (more to have the cooked selection).Overall a nice hotel, but I think there is better value for money to be found elsewhere.  
+<Date>May 8, 2007
+<Rating>4	3	4	5	4	3	3	-1	
+<Aspects>
+0	
+5	4(nice):1	70(overall):1	80(money):1	81(value):1	646(elsewhere):1	
+7	17(view):1	73(etc):1	116(tv):1	151(modern):1	318(fridge):1	1100(tidy):1	1773(lcd):1	
+19	1(location):2	17(view):1	21(excellent):1	38(lot):1	41(city):1	68(travel):1	86(fantastic):1	93(easy):1	98(outside):1	122(stop):1	172(weekend):1	211(facility):2	561(harbor):3	648(deluxe):1	1064(recent):1	1681(darling):2	1859(waterfront):1	2343(monorail):1	3002(novotel):1	
+0	
+0	
+19	6(breakfast):2	9(service):1	21(excellent):1	22(pool):1	26(people):1	52(bit):1	73(etc):1	261(swim):1	282(negative):1	333(selection):1	356(comment):1	372(continental):1	523(gym):1	550(cook):1	727(overprice):1	884(equip):1	1068(court):1	1734(tennis):1	8563(au$):2	
+0	
+
+<Author>Dutto
+<Content>Location, Location       Harbour View  
+<Date>Apr 22, 2007
+<Rating>4	2	4	5	5	3	3	-1	
+<Aspects>
+0	
+0	
+0	
+3	1(location):2	17(view):1	561(harbor):1	
+0	
+0	
+0	
+0	
+
+<Author>pixiepurls
+<Content>A wonedrful hotel       View from our room, 9th floor  
+<Date>Apr 3, 2007
+<Rating>5	4	5	4	5	4	5	5	
+<Aspects>
+0	
+0	
+3	17(view):1	24(floor):1	5180(9th):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>LondonAlex
+<Content>Don't bother paying for Deluxe!! I've visited Sydney a number of times on business and chose this hotel because of its location and outlook over the city and Darling Harbour. A Deluxe Harbour View room was booked to ensure we got the best possible room/location.On check in we were allocated a room with a small window, a wall where the harbour view should have been and a view over a conference centre and motorway flyover. When we complained we were allocated a 'standard' harbour view room. The first room allocated was certainly not 'Deluxe', only a little larger than the standard room we changed to due to the way the hotel was built. A receptionist said she would get the room manager or front office manager to get in touch with us before we left. This did not happen.I'm not sure if the hotel think that as we were 'leisure' customers we would accept the situation but I can assure you the room they tried to allocate us as 'Deluxe Harbour View' and the service provided was not up to scratch.I believe the hotel acts dishonestly in the way they sell this type of upgraded room. The fact that the staff did not even bother to get a manager to talk to us says volumes about the attitude of staff and the type of establishment this hotel really is. I would not recommend it to anyone.Additionally I also have some concerns about the hygiene in the restaurant. The blue/beige carpet has obviously been designed to be as practical as possible for a large hotel. Unfortunately as a result, from a distance it looks acceptable but as soon as you sit at a table and look down you realise how many stains there are. Not very appetising.  
+<Date>Mar 14, 2007
+<Rating>2	2	3	2	1	1	1	-1	
+<Aspects>
+13	15(recommend):1	20(look):2	115(distance):1	169(sit):1	229(table):1	382(happen):1	418(soon):1	524(unfortunately):1	607(realize):1	723(stain):1	1109(result):1	1214(acceptable):1	10624(appetise):1	
+3	42(pay):1	307(bother):1	648(deluxe):1	
+31	9(service):1	17(view):3	18(book):1	23(little):1	130(standard):2	135(build):1	153(provide):1	161(change):1	163(upgrade):1	241(complain):1	253(tried):1	259(due):1	312(believe):1	389(type):1	396(carpet):1	428(customer):1	516(design):1	561(harbor):3	606(sell):1	648(deluxe):3	694(blue):1	781(obviously):1	890(situation):1	1247(accept):1	1293(ensure):1	1349(assure):1	1920(Act):1	1974(allocate):3	2032(leisure):1	2613(scratch):1	3107(practical):1	
+19	1(location):1	5(time):1	17(view):2	32(check):1	41(city):1	65(visit):1	101(center):1	119(window):1	147(business):1	167(choose):1	183(wall):1	335(numb):1	561(harbor):2	794(conference):1	809(sydney):1	1681(darling):1	1974(allocate):1	4959(outlook):1	6918(motorway):1	
+0	
+13	0(staff):2	31(front):1	43(leave):1	258(manager):3	279(touch):1	307(bother):1	371(talk):1	389(type):1	792(office):1	821(attitude):1	855(receptionist):1	1473(establishment):1	2946(volume):1	
+4	10(restaurant):1	496(concern):1	2649(additionally):1	5025(hygiene):1	
+0	
+
+<Author>Cariesp
+<Content>Fantastic Time       The Hotel  
+<Date>Mar 13, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	5(time):1	86(fantastic):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>CheltenhamLady
+<Content>Great location Excellent location, there is lots happening on Darling Harbour, lots of bars and restaurants etc. The monorail is right outside which takes you around Sydney and you can also get around on foot from here aswell. The queue for breakfast was quite long but the food was good. Rooms were basic but modern and clean. There is also a nice bar area which has a view over the harbour. Definately reccomend.  
+<Date>Mar 8, 2007
+<Rating>5	4	4	5	4	4	4	-1	
+<Aspects>
+2	410(definately):1	1513(reccomend):1	
+0	
+3	3(clean):1	151(modern):1	352(basic):1	
+5	98(outside):1	402(foot):1	809(sydney):1	2343(monorail):1	4281(aswell):1	
+0	
+0	
+14	1(location):2	4(nice):1	6(breakfast):1	10(restaurant):1	16(food):1	17(view):1	21(excellent):1	27(bar):2	38(lot):2	73(etc):1	382(happen):1	561(harbor):2	1463(queue):1	1681(darling):1	
+0	
+
+<Author>zanetti
+<Content>Customer Service Not All It Should Be Stayed here for a few nights in between Christmas and New Year. Rooms were lovely, had a great view over Darling Harbour, and the location was great. However, there was always a queue at reception any time I had to speak to someone there and the bar closed early in the evening. On one occasion, we returned from dinner around 10:40 and asked for a drink to be told the bar was closing as it had been very quiet all evening. I pointed out there were nearly 30 people in the bar. The bar manager said most had only recently arrived. When I said that surely that was all the more reason the bar should remain open for a while he blanked me and closed the bar anyway.So, great hotel to stay in from the point of view of location, cleanliness and price but do your eating and drinking somewhere your custom will be appreciated.  
+<Date>Feb 25, 2007
+<Rating>3	3	4	5	4	2	1	3	
+<Aspects>
+0	
+8	1(location):1	17(view):1	19(price):1	47(eat):1	63(drink):1	500(appreciate):1	854(cleanliness):1	1966(custom):1	
+5	1(location):1	17(view):1	87(lovely):1	561(harbor):1	1681(darling):1	
+11	5(time):1	27(bar):3	28(close):2	127(speak):1	129(reception):1	374(reason):1	417(anyway):1	1391(remain):1	1463(queue):1	2033(surely):1	4687(blank):1	
+0	
+4	27(bar):1	53(arrive):1	258(manager):1	322(recently):1	
+14	2(night):1	9(service):1	26(people):1	27(bar):2	28(close):1	39(return):1	58(quiet):1	63(drink):1	69(tell):1	117(dinner):1	428(customer):1	871(occasion):1	896(nearly):1	962(christmas):1	
+0	
+
+<Author>brinny
+<Content>Liked Novotel Darling Harbour a lot We stayed at the Novotel Darling Harbour on 2 separate occasions during our OZ trip and liked it a lot.We booked online the first time and could only get a 10th floor Pyrmont view room which is at the back of the hotel with a view over rooftops.On our second stay at the end of our holiday we booked a harbour view room--although the first room we were given had a view it wasnt so good but when we returned to Reception to enquire if there was a room with a better view we were given a huge room with a terrific view so its worth asking.This is a big bright tourist hotel in a great position right on Darling Harbour just behind the restaurant/shopping complex.We thought it had a really buzzy atmosphere, good rooms and excellent breakfast. What we will remember though as well as the great harbour view room is the service we got from Reception re changing rooms and more especially from the Concierge (called Sodif )who was amazingly helpful via email about our plans for New Years Eve even though at the time of helping us we were not staying at the hotel and werent due to stay until Jan 4th.Highly recommended for travellers who are happy to be a little further from Circular Quay ,We also thought Darling Harbour had better restaurants than Circular quay although admittedly we didnt go to the expensive ones there.  
+<Date>Jan 25, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+8	33(trip):1	38(lot):2	474(separate):1	561(harbor):2	871(occasion):1	1681(darling):2	3002(novotel):2	3994(oz):1	
+17	6(breakfast):1	10(restaurant):1	15(recommend):1	21(excellent):1	23(little):1	124(expensive):1	138(highly):1	155(happy):1	267(traveler):1	414(atmosphere):1	561(harbor):1	626(didnt):1	1664(quay):2	1681(darling):1	1912(circular):2	3051(admittedly):1	9354(buzzy):1	
+16	5(time):1	17(view):6	18(book):2	24(floor):1	39(return):1	96(worth):1	129(reception):1	133(huge):1	223(holiday):1	561(harbor):1	699(terrific):1	822(online):1	1339(wasnt):1	1592(10th):1	1704(inquire):1	3772(rooftops):1	
+7	10(restaurant):1	209(tourist):1	561(harbor):1	880(bright):1	1074(complex):1	1093(position):1	1681(darling):1	
+0	
+20	5(time):1	9(service):1	14(helpful):1	17(view):1	67(call):1	92(help):1	126(especially):1	129(reception):1	161(change):1	204(concierge):1	221(plan):1	259(due):1	375(remember):1	512(via):1	561(harbor):1	845(4th):1	1462(jan):1	1787(eve):1	1846(amazingly):1	3037(werent):1	
+0	
+0	
+
+<Author>AinemcIreland
+<Content>Fab location Stayed here for New years eve and few nights in January. Location is fantastic and the rooms were well equipped and comfortable. We didnt have a view but the rooms were nice and quiet. Would definately recommend this for anyone visiting Sydney for short staay. Will be back.  
+<Date>Jan 17, 2007
+<Rating>5	4	4	5	4	5	4	1	
+<Aspects>
+5	15(recommend):1	65(visit):1	144(short):1	410(definately):1	809(sydney):1	
+0	
+8	1(location):1	4(nice):1	17(view):1	25(comfortable):1	58(quiet):1	86(fantastic):1	626(didnt):1	884(equip):1	
+5	1(location):1	2(night):1	1018(january):1	1216(fab):1	1787(eve):1	
+0	
+0	
+0	
+0	
+
+<Author>Elainedavies
+<Content>Fabulous location. Just got back from a month touring of Oz and wanted to review the Novotel.I would certainly recommend anyone staying there to ask for a harbour view because the view is spectacular from the room. We didnt pay for a harbour view, but just asked for an upgrade when we arrived and got one without any problems.Staff here were very helpful and rooms very clean and tidy. Above average.The pool was small and a little dirty to be honest.The cooked breakfast a little cold but continental breakfast wasa good choice and reasonably priced.Great location though and really didnt have any complaints.  
+<Date>Jan 5, 2007
+<Rating>4	3	4	5	3	4	4	4	
+<Aspects>
+6	37(review):1	181(tour):1	227(average):1	388(month):1	3002(novotel):1	3994(oz):1	
+15	6(breakfast):2	17(view):1	19(price):1	23(little):1	42(pay):1	53(arrive):1	107(choice):1	163(upgrade):1	222(cold):1	372(continental):1	550(cook):1	561(harbor):1	578(reasonably):1	626(didnt):1	11641(wasa):1	
+4	15(recommend):1	17(view):2	561(harbor):1	656(spectacular):1	
+4	1(location):2	190(complaint):1	270(fabulous):1	626(didnt):1	
+8	0(staff):1	3(clean):1	14(helpful):1	22(pool):1	23(little):1	323(dirty):1	1100(tidy):1	1108(honest):1	
+0	
+0	
+0	
+
+<Author>physioT
+<Content>Terrible water pressure We stayed here for one night and won't be coming back for more. The water pressure in our first floor room was terrible. It was slightly better than a dribble. A garden hose would have done a better job! I also stood in the shower for about 2-3 minutes before I had decent hot water.On a more positive note, this hotel had great block-out blinds, so that my husband and I slept in till 9:30am. Pure bliss!  
+<Date>Nov 28, 2006
+<Rating>2	2	2	5	4	3	4	-1	
+<Aspects>
+10	2(night):1	57(water):1	310(garden):1	432(terrible):1	481(job):1	487(wo):1	686(pressure):1	2242(pure):1	2982(bliss):1	4773(hose):1	
+0	
+17	24(floor):1	29(minute):1	57(water):2	61(shower):1	104(sleep):1	105(husband):1	114(hot):1	257(decent):1	297(note):1	432(terrible):1	444(stand):1	458(positive):1	598(slightly):1	686(pressure):1	979(till):1	1839(blind):1	8873(dribble):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>johnn
+<Content>something special.. came here after 3 nights in the rocks district, had a beautiful harbor view room, reception staff was very welcoming and effective at getting us through the business end to our room on the 8th floor, room was very clean and ready for us. would definitely recommend this location and hotel to everybody, right across a walkbridge is the harborside mall, with a great variety of restaurants and bars located right outside, really enjoyed the waterfront grill..  
+<Date>Nov 18, 2006
+<Rating>5	4	4	5	4	5	5	4	
+<Aspects>
+1	208(special):1	
+0	
+15	0(staff):1	2(night):1	3(clean):1	17(view):1	24(floor):1	45(beautiful):1	129(reception):1	147(business):1	202(welcome):1	274(ready):1	433(district):1	561(harbor):1	773(rock):1	1357(8th):1	2774(effective):1	
+13	1(location):1	10(restaurant):1	15(recommend):1	27(bar):1	51(enjoy):1	59(definitely):1	84(locate):1	98(outside):1	413(variety):1	629(grill):1	643(mall):1	1859(waterfront):1	10855(harborside):1	
+0	
+0	
+0	
+0	
+
+<Author>expectant customer
+<Content>Location! I walked into my room for the first time, to see the night lights of Darling Harbour opposite. A really great view that I remember this hotel for. You can get the overhead railway from nearby, and so get around Sydney very easily from here.Drink in the bar was fine, looked at the great view while sipping a cold beer.The room itself was comfortable, a good bed so a good nights sleep. Laundry service efficient and good. Reception generally OK, good internet access with about 5 PC's in an Internet room. Breakfast was a busy affair, a busy hotel. I could not really fault it, maybe just avoid peak times.Did not try: Gym facilities, dinner in the hotel.  
+<Date>Oct 27, 2006
+<Rating>4	4	4	5	4	4	4	4	
+<Aspects>
+12	5(time):1	17(view):1	232(nearby):1	308(maybe):1	375(remember):1	436(avoid):1	438(easily):1	517(fault):1	809(sydney):1	1710(peak):1	2002(railway):1	3176(overhead):1	
+0	
+13	2(night):2	5(time):1	6(breakfast):1	7(walk):1	11(bed):1	25(comfortable):1	104(sleep):1	157(light):1	220(busy):2	561(harbor):1	783(opposite):1	1681(darling):1	3546(affair):1	
+1	1(location):1	
+0	
+0	
+15	9(service):1	17(view):1	20(look):1	27(bar):1	63(drink):1	76(try):1	113(fine):1	117(dinner):1	211(facility):1	222(cold):1	401(efficient):1	443(beer):1	523(gym):1	1075(laundry):1	2714(sip):1	
+5	97(internet):2	123(ok):1	129(reception):1	159(access):1	2184(pc):1	
+
+<Author>Smith_P&L
+<Content>Excellent value We stayed here for two nights (25th and 26th September 2006) in a room with a Harbour View and we were not disappointed. The view from our window was nothing short of spectacular during the hours of darkness.The monorail stops just outside for easy access to the shopping centres of Darling Harbour and the hotel is close (within walking distance) to many other attractions and good restaurants.We only had one meal in the hotel (breakfast on our second morning) but my husband maintains that it was better than other Novatel Hotels he has stayed in in Europe.The entrance to the hotel gives the appearance of being in the centre of a large car park and is not very picturesque but can be forgiven for the views afforded over the water at higher levels.The staff were friendly and helpful and the room was clean, of adequate size and comfortable.We were moving on to stay with relatives so our stay here was short but I would not hesitate to recommend this hotel as a base camp for Sydney.One thing to remember is that there is a second Novatel Hotel near to Darling Harbour which is set back slightly from the harbour - make sure you choose the one with the views!  
+<Date>Oct 12, 2006
+<Rating>4	5	5	5	5	5	5	4	
+<Aspects>
+8	15(recommend):1	144(short):1	207(move):1	284(base):1	809(sydney):1	902(hesitate):1	2087(camp):1	2259(relative):1	
+9	2(night):1	17(view):1	21(excellent):1	81(value):1	154(disappoint):1	561(harbor):1	972(september):1	1943(25th):1	2639(26th):1	
+20	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	17(view):2	25(comfortable):1	60(hour):1	83(size):1	102(near):1	119(window):1	144(short):1	167(choose):1	234(set):1	375(remember):1	390(adequate):1	561(harbor):2	598(slightly):1	656(spectacular):1	1681(darling):1	5376(darkness):1	
+24	7(walk):1	10(restaurant):1	17(view):1	28(close):1	49(shop):1	57(water):1	66(park):1	93(easy):1	98(outside):1	101(center):2	115(distance):1	121(car):1	122(stop):1	159(access):1	306(level):1	350(attraction):1	490(entrance):1	561(harbor):1	1452(afford):1	1681(darling):1	2312(appearance):1	2343(monorail):1	3387(picturesque):1	4745(forgive):1	
+6	6(breakfast):1	56(morning):1	105(husband):1	213(meal):1	562(maintain):1	700(europe):1	
+0	
+0	
+0	
+
+<Author>Ynca
+<Content>Great place to stay but eat elsewhere We enjoyed our stay in the Novotel, with helpful reception and housekeeping staff, clean and comfortable rooms with lovely modern decor, and a very convenient location.There is supposed to be internet access via the TV, but at a ridiculous price, so we didn't bother. We complained to the hotel and to be fair, they wrote to us and said they were addressing the cost issue.We only ate breakfast there and it wasn't great - standard sloppy buffet fare, terrible tea and coffee, and serving staff who seemed half asleep (long waits for extra cutlery, etc., slow table assignment despite there being lots of free tables, etc.)The location is fantastic though, and since there are plenty of places to eat nearby, it isn't a huge factor, especially if you book a room without breakfast and don't need the expensive internet facilities.  
+<Date>Sep 30, 2006
+<Rating>4	3	5	5	5	3	3	1	
+<Aspects>
+0	
+6	175(cost):1	241(complain):1	265(issue):1	344(write):1	739(fair):1	1312(address):1	
+15	0(staff):1	1(location):1	3(clean):1	14(helpful):1	25(comfortable):1	47(eat):1	51(enjoy):1	87(lovely):1	129(reception):1	151(modern):1	186(convenient):1	269(decor):1	367(housekeeping):1	646(elsewhere):1	3002(novotel):1	
+0	
+0	
+0	
+34	0(staff):1	1(location):1	6(breakfast):2	18(book):1	38(lot):1	46(free):1	47(eat):2	73(etc):2	77(buffet):1	85(wait):1	86(fantastic):1	90(coffee):1	97(internet):1	124(expensive):1	126(especially):1	128(extra):1	130(standard):1	133(huge):1	158(plenty):1	174(serve):1	211(facility):1	229(table):2	232(nearby):1	283(half):1	301(tea):1	432(terrible):1	455(slow):1	498(despite):1	1112(fare):1	1655(factor):1	2123(asleep):1	3182(cutlery):1	5791(sloppy):1	6368(assignment):1	
+8	19(price):1	97(internet):1	116(tv):1	159(access):1	307(bother):1	512(via):1	620(suppose):1	1533(ridiculous):1	
+
+<Author>Bu64
+<Content>Average hotel We didn't manage to check into our room until 11am having arrived from Europe with a one night's stopover in Singapore at 5.10am. From 7 - 10am we walked around Darling Harbour feeling pretty tired and cold as it was only 8 degrees. The room was comfortable, clean and modern, if rather small by the time we had an extra bed for my daughter. We only had a room at the back of the hotel which wasn't very exciting. The downside, I thought, was the reception, which was rather dull and dark. The breakfast room reminded me of a cafe with no table cloths. The tea was often cold but the breakfast otherwise was good.The hotel is well situated in Darling Harbour but I would have preferred to be on the other side of the Bridge nearer town.  
+<Date>Sep 6, 2006
+<Rating>3	3	3	3	4	3	3	4	
+<Aspects>
+7	102(near):1	239(town):1	536(prefer):1	561(harbor):1	574(situate):1	740(bridge):1	1681(darling):1	
+0	
+17	2(night):1	3(clean):1	5(time):1	11(bed):1	25(comfortable):1	32(check):1	53(arrive):1	128(extra):1	151(modern):1	227(average):1	467(daughter):1	645(manage):1	700(europe):1	960(singapore):1	1136(excite):1	2364(stopover):1	7969(11am):1	
+9	7(walk):1	34(feel):1	109(pretty):1	222(cold):1	454(tire):1	561(harbor):1	1252(degree):1	1681(darling):1	7512(10am):1	
+0	
+4	129(reception):1	459(dark):1	782(downside):1	2689(dull):1	
+8	6(breakfast):2	222(cold):1	229(table):1	275(cafe):1	301(tea):1	508(otherwise):1	1285(remind):1	1864(cloth):1	
+0	
+
+<Author>1K
+<Content>Great Stayed here in June whilst visiting family in the city. I thought it was great - very nice rooms - small but really well appointed - the staff were excellent and even found a jacket for my husband to borrow whilst we were there. Great buffet breakfast with a discount for guests and their guests of $15. Perfect location - couldn't fault this great hotel.  
+<Date>Aug 11, 2006
+<Rating>4	4	5	5	5	5	5	-1	
+<Aspects>
+5	41(city):1	65(visit):1	106(family):1	664(june):1	877(whilst):1	
+0	
+8	0(staff):1	4(nice):1	21(excellent):1	105(husband):1	579(appoint):1	877(whilst):1	2666(borrow):1	3375(jacket):1	
+3	1(location):1	74(perfect):1	517(fault):1	
+0	
+0	
+4	6(breakfast):1	77(buffet):1	91(guest):2	864(discount):1	
+0	
+
+<Author>travellerJack
+<Content>Too expensive Location is very good for Darling Harbour and the conference center, although I would prefer to be closer to the city. Darling Harbour is a small area and everything is within walking distance.The hotel is very non-descript, feels like a cruise ship. Way too big to be personal.Room (Darling view queen) was spacious and clean. Large towels, but water pressure not sufficient. TV had 6-7 channels, mostly sports, no CNN.Everything here is overpriced. Breakfast at 26 AUD not worth the money; internet 27.50 per day; bottle of minibar water 7. Concierge service friendly and knowledgable.  
+<Date>Jul 23, 2006
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	34(feel):1	603(cruise):1	711(personal):1	1392(ship):1	9621(non-descript):1	
+1	727(overprice):1	
+9	3(clean):1	17(view):1	111(spacious):1	116(tv):1	543(Queen):1	741(channel):1	919(sport):1	1681(darling):1	2101(cnn):1	
+11	1(location):1	7(walk):1	28(close):1	41(city):1	101(center):1	115(distance):1	124(expensive):1	536(prefer):1	561(harbor):2	794(conference):1	1681(darling):2	
+0	
+4	9(service):1	12(friendly):1	204(concierge):1	1160(knowledgeable):1	
+12	6(breakfast):1	8(day):1	57(water):2	80(money):1	96(worth):1	97(internet):1	125(towel):1	238(bottle):1	686(pressure):1	1037(minibar):1	1713(sufficient):1	5360(aud):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Popular with Locals As a local (five years in Sydney) it is still fun to be a tourist in your own city. Therefore my friend and i set off for one of our weekend experiences, to where else but Darling Harbour. We found a great rate on the net after a bit of searching. There are a whole range of hotels in this area but the Novotel at $199 looked great compared to the averages in Trip Advisor, and we had read that it had been done up recentlyWe checked in on a Friday after work, the bar was buzzing so we stopped for a quick cosmopolitan and dropped the bags in the room, the concierge was very helpful when asking where to go for dinner reccommended three different resstaurants Nicks, Jordans and a new one Icecube (as we were looking for seafood). We tired Icecube, five minute walk great views of the harbour. Fairly quiet but it started filling up after our meal. We shared a seafood platter $100 aprox and a nice sauvingnon blanc and the service and food was terrific.We checked out another bar Cargo which was fun and then headed back to the hotel, the rooms are lovely, brand new spacious and ours had been upgraded to a view rooms Bargain. Waking up to the darlign harbour view in the morning is spectacular. we had chosen a sleep in and room serivce, which was delivered on time, hot and with a smiling staff member.We visited the Gym after brekkie, then explored Darling Harbour from the Monorail stopping in China Town, checking out the markets and then a harbour cruise for afternoone tea (cheaper than doing the lunch one) it was fun.We opted for an early dinner in the hotel (seafood buffet oops) but it was really lovely and cant fault the service, a big restaurant and a big hotel but all staff we came across were great. Taking advantage of the room we enjoyed movies on the plasma and all in all a very relaxing night. Sunday morning we asked for late check out, and slept in til 10 then did the breakfast buffet which at $26 with espresso coffee was a great deal. For two nights, driink from both basr and min bar, room service brekafast and buffet breakfast, dinner out one night and in the other and movies the whole weekend splurge cost us $750 money well spent to escape the stresses of daily life.1s  
+<Date>May 22, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+16	17(view):1	41(city):1	52(bit):1	56(morning):1	78(rate):1	166(own):1	176(fun):1	195(local):2	209(tourist):1	554(wake):1	561(harbor):1	656(spectacular):1	809(sydney):1	1248(search):1	1277(popular):1	2076(net):1	
+19	17(view):1	27(bar):1	32(check):1	44(experience):1	87(lovely):1	111(spacious):1	146(friend):1	163(upgrade):1	170(else):1	172(weekend):1	176(fun):1	234(set):1	319(head):1	561(harbor):1	759(bargain):1	843(ours):1	883(brand):1	1681(darling):1	10111(cargo):1	
+13	0(staff):1	5(time):1	58(quiet):1	104(sleep):1	114(hot):1	165(start):1	167(choose):1	213(meal):1	387(smile):1	462(fairly):1	491(fill):1	631(deliver):1	7483(serivce):1	
+5	7(walk):1	17(view):1	29(minute):1	454(tire):1	561(harbor):1	
+0	
+0	
+79	0(staff):1	2(night):3	4(nice):1	6(breakfast):2	9(service):3	10(restaurant):1	14(helpful):1	16(food):1	20(look):2	27(bar):2	32(check):3	33(trip):1	51(enjoy):1	56(morning):1	64(spend):1	65(visit):1	77(buffet):3	79(late):1	80(money):1	87(lovely):1	88(read):1	90(coffee):1	104(sleep):1	117(dinner):3	122(stop):2	140(deal):1	143(cheap):1	160(relax):1	172(weekend):1	175(cost):1	176(fun):1	204(concierge):1	227(average):1	239(town):1	247(min):1	252(lunch):1	264(market):1	290(bag):1	299(quick):1	301(tea):1	360(daily):1	381(compare):1	426(life):1	517(fault):1	520(share):1	523(gym):1	561(harbor):2	594(explore):1	603(cruise):1	662(drop):1	699(terrific):1	701(advisor):1	714(range):1	815(seafood):3	844(sunday):1	867(advantage):1	923(friday):1	989(movie):2	1145(cant):1	1159(china):1	1184(opt):1	1500(plasma):1	1601(escape):1	1681(darling):1	1753(stress):1	2000(buzz):1	2111(reccommend):1	2196(til):1	2324(espresso):1	2343(monorail):1	2358(splurge):1	3002(novotel):1	3462(platter):1	4450(nick):1	4652(cosmopolitan):1	6440(oops):1	6617(brekkie):1	8716(aprox):1	9161(blanc):1	
+0	
+
+<Author>AnneB32
+<Content>Better than your average tourist hotel I had mixed feelings about staying here after reading the reviews so was presently surprised when I opened the door to the hotel room.The room was reasonably big, clean and well furnished with 2 beds, a sofa, a nice modern desk and chair and plasma tv. The bathroom was also reasonably big but spotlessly clean and modern.The other advantage of the hotel is the location - you are right next to Darling Harbour so getting around Sydney is easy. On the downside it's about as impersonal a hotel experience as you can get. The hotel is massive and it feels very much like a production line at check-in and checkout and is generally quite a dark hotel at reception and in the corridors. For a few days stay however it was great.  
+<Date>Apr 14, 2006
+<Rating>4	3	4	-1	4	-1	3	-1	
+<Aspects>
+1	8(day):1	
+3	44(experience):1	782(downside):1	2754(impersonal):1	
+22	3(clean):2	4(nice):1	11(bed):1	13(bathroom):1	36(desk):1	37(review):1	54(door):1	88(read):1	116(tv):1	151(modern):2	198(chair):1	199(surprise):1	209(tourist):1	227(average):1	578(reasonably):2	609(mix):1	787(furnish):1	842(sofa):1	1094(spotlessly):1	1500(plasma):1	2657(feelings):1	9756(presently):1	
+6	1(location):1	93(easy):1	561(harbor):1	809(sydney):1	867(advantage):1	1681(darling):1	
+0	
+9	34(feel):1	129(reception):1	188(line):1	286(check-in):1	459(dark):1	658(checkout):1	1073(corridor):1	1329(massive):1	5998(production):1	
+0	
+0	
+
+<Author>secondtimelucky
+<Content>Didn't love it The Novotel has a great location and the rooms are spacious, with flat screen TV, internet connection and lovely bathroom.HOWEVER, the walls are paper-thin and we were constantly awoken by people coming in from nights out or children running in the hallway.Attention to detail also was not great. We stayed on the weekend and were awoken by the previous guest's alarm clock setting. This should be automatically turned off by cleaning staff. No personal care kit (cotton buds, nail file, etc). No instructions on how to use TV and limited video range.Staff were lovely and very willing to help/answer any questions. View was lovely (we booked a harbourside view) and hotel is very close to the action but we would not stay again due to noise.  
+<Date>Nov 21, 2005
+<Rating>2	2	4	-1	3	-1	4	-1	
+<Aspects>
+17	73(etc):1	91(guest):1	172(weekend):1	234(set):1	242(care):1	373(previous):1	592(detail):1	711(personal):1	726(attention):1	1291(clock):1	1380(alarm):1	1494(awake):1	2773(kit):1	2842(cotton):1	3110(file):1	3281(nail):1	3785(bud):1	
+0	
+15	1(location):1	13(bathroom):1	40(love):1	87(lovely):1	97(internet):1	111(spacious):1	116(tv):2	510(limit):1	526(screen):1	535(flat):1	714(range):1	932(connection):1	2386(instruction):1	2463(video):1	3002(novotel):1	
+17	2(night):1	17(view):2	18(book):1	26(people):1	28(close):1	87(lovely):1	94(noise):1	149(run):1	183(wall):1	259(due):1	277(child):1	580(hallway):1	958(action):1	995(constantly):1	1494(awake):1	6080(paper-thin):1	9196(harbourside):1	
+3	0(staff):1	3(clean):1	2573(automatically):1	
+4	0(staff):1	87(lovely):1	92(help):1	394(question):1	
+0	
+0	
+
+<Author>jenadd
+<Content>Lovely hotel with a great location We stayed here from 16th July 05 to 20th July 05 as part of our round the world honeymoon.What a great hotel with a fantastic location. It was only a 5-10 min walk to the harbour, where you can catch a ferry to the Opera House etc.There are some great restaurants located in and around Darling Harbour. The monorail also stops just outside the hotel which is handy if you want to go into the city.We stayed on a bed  breakfast basis and I would definately recommend the buffet style breakfast it was great value for money and really set you up for a hard days sightseeing.One thing I would say you must do when in Sydney, is climb the Harbour bridge, its amazing and the views out of this world.If we are ever fortunate enough to be back in Sydney, we would definately stay in the novotel Darling Harbour again.  
+<Date>Sep 13, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	17(view):1	145(amaze):1	272(world):1	410(definately):1	561(harbor):2	740(bridge):1	809(sydney):2	1424(climb):1	1681(darling):1	2228(fortunate):1	3002(novotel):1	
+6	1(location):1	87(lovely):1	272(world):1	502(honeymoon):1	1977(20th):1	2029(16th):1	
+0	
+18	1(location):1	7(walk):1	10(restaurant):1	41(city):1	73(etc):1	84(locate):1	86(fantastic):1	98(outside):1	122(stop):1	247(min):1	281(house):1	540(catch):1	561(harbor):2	755(handy):1	1010(ferry):1	1374(opera):1	1681(darling):1	2343(monorail):1	
+0	
+0	
+13	6(breakfast):2	8(day):1	11(bed):1	15(recommend):1	77(buffet):1	80(money):1	81(value):1	162(hard):1	234(set):1	326(style):1	410(definately):1	640(sight-see):1	1527(basis):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great views Stayed at the Novotel for a couple of days in August. It is a very big hotel and consequently is a little impersonal. We arrived early at 8 am from our flight from the UK but were able to check, although they could not give us the room we wanted - we had originally booked a double but were given a twin queen room. Room was fine, beds were very confortable although we did hear a bit of the noise experienced by another poster but not enough to warrant a complaint. Darling harbour is very scenic especially at night but I found the shops around it quite tacky. It is a tourist area so this is to be expected, I suppose. Overall it was a positive experience but I probably would not stay there again as it was quite expensive.  
+<Date>Aug 22, 2005
+<Rating>4	3	4	-1	4	-1	3	-1	
+<Aspects>
+10	8(day):1	17(view):1	23(little):1	62(expect):1	99(couple):1	209(tourist):1	620(suppose):1	2754(impersonal):1	3002(novotel):1	4416(consequently):1	
+5	44(experience):1	70(overall):1	124(expensive):1	178(probably):1	458(positive):1	
+20	11(bed):1	18(book):1	32(check):1	44(experience):1	52(bit):1	53(arrive):1	94(noise):1	113(fine):1	132(hear):1	171(able):1	179(double):1	190(complaint):1	233(flight):1	543(Queen):1	690(twin):1	1178(uk):1	1300(originally):1	2043(poster):1	2435(confortable):1	4674(warrant):1	
+7	2(night):1	49(shop):1	126(especially):1	561(harbor):1	1681(darling):1	2406(tacky):1	3103(scenic):1	
+0	
+0	
+0	
+0	
+
+<Author>AlanDHonkers
+<Content>What a great spot, everything at your doorstep Back in Sydney over the weekend before flying back to HK so decided to stay in Darling Harbour rather than be stuck in the city centre. DH is where all the al fresco waterfront restaurants and bars are and there is always lots of events or entertainment happening. Indulged us a bit and opted for a Harbour View room for $295 but well worth it to wake up to the sun and a beautiful outlook. A big hotel (500+) rooms but very helpful staff (was surprised at the comments of other TA's) and terrific little business centre; high speed internet and wireless too which is a real plus. The seafood buffet on the Saturday night was great value and we hoed into a ton of smoked salmon, oysters and crab 鈥?all you could eat. Finished off with coffee in the lounge bar (called Liquid鈥ne day hotels will get a bit more creative with their outlet names!) which had a terrace overlooking the harbour and city. Sunday spent pottering around the shops in DH and there was live jazz on all day. All in all a very pleasant way to weekend in Sydney.  
+<Date>Aug 19, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+7	41(city):1	150(pleasant):1	172(weekend):1	260(overlook):1	561(harbor):1	673(terrace):1	809(sydney):1	
+0	
+10	17(view):1	45(beautiful):1	52(bit):1	96(worth):1	420(sun):1	554(wake):1	561(harbor):1	1184(opt):1	3892(indulge):1	4959(outlook):1	
+7	8(day):1	49(shop):1	64(spend):1	206(live):1	844(sunday):1	1563(jazz):1	10042(dh):1	
+0	
+0	
+31	2(night):1	8(day):1	10(restaurant):1	27(bar):2	38(lot):1	47(eat):1	52(bit):1	67(call):1	77(buffet):1	81(value):1	90(coffee):1	237(lounge):1	295(name):1	340(entertainment):1	382(happen):1	468(smoke):1	772(finish):1	815(seafood):1	818(saturday):1	967(ton):1	1106(event):1	1689(outlet):1	1859(waterfront):1	2376(salmon):1	3193(crab):1	3838(liquid):1	3987(oyster):1	4002(fresco):1	4003(creative):1	7192(ne):1	10042(dh):1	
+25	0(staff):1	14(helpful):1	23(little):1	41(city):1	97(internet):1	101(center):2	147(business):1	172(weekend):1	199(surprise):1	203(plus):1	219(decide):1	240(real):1	317(spot):1	356(comment):1	561(harbor):1	614(fly):1	688(stick):1	699(terrific):1	717(wireless):1	809(sydney):1	1170(speed):1	1681(darling):1	1907(hk):1	2071(doorstep):1	2740(ta):1	
+

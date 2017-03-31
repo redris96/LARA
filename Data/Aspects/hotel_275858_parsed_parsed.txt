@@ -1,0 +1,1316 @@
+<Author>Stealth_8
+<Content>Don't stay at the UNA Florence       Typical 'Superior' Room  
+<Date>Nov 5, 2008
+<Rating>1	1	1	1	-1	2	-1	-1	
+<Aspects>
+0	
+0	
+4	346(florence):1	628(typical):1	785(superior):1	6494(una):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Nadie_Importante
+<Content>Horrible!!!!! I had booked on the web page a superior room and the last day of my stay I realized that they had delivered me a standard room鈥bviously at the same price not a lower one. I鈥檓 completely sure that it wasn鈥檛 a mistake.Back in my home I realized that I had on my bill including a mini bar consumption that did not exist. The hotel is very far from the city center ( more than 20 minutes walking) and the timetable of the shuttle bus was very poor and completely useless.It鈥檚 a shame that a four-stars rated hotel charged for the use of internet with wifi system with your own laptop.All of this makes me feel completely disappointed for having chosen this hotel for my stay in Florence.The only positive thing could be the breakfast.  
+<Date>Oct 18, 2008
+<Rating>1	1	1	1	3	2	2	1	
+<Aspects>
+8	34(feel):1	154(disappoint):1	167(choose):1	346(florence):1	542(completely):2	544(horrible):1	895(mistake):1	1829(wasn):1	
+10	8(day):1	18(book):1	19(price):1	130(standard):1	607(realize):1	631(deliver):1	777(lour):1	785(superior):1	1019(web):1	2414(page):1	
+0	
+10	7(walk):1	29(minute):1	41(city):1	101(center):1	120(bus):1	321(shuttle):1	331(poor):1	542(completely):1	2488(useless):1	6466(timetable):1	
+0	
+0	
+10	6(breakfast):1	27(bar):1	71(include):1	141(home):1	448(mini):1	458(positive):1	495(bill):1	607(realize):1	2039(exist):1	7879(consumption):1	
+8	78(rate):1	97(internet):1	136(charge):1	166(own):1	518(system):1	1111(laptop):1	1268(wifi):1	1292(shame):1	
+
+<Author>ce2-batson
+<Content>Modern funky hotel with excellent service This hotel is a little outside of the main centre of Florence, but in our opinion that was perfect - better value for money, away from the noise and more space. There is a free hotel shuttle to the centre (5-10 mins) or you can jump on the number 6 bus for 1.20 euro, comes every 5 minutes. The hotel is in the Oltrarno district which has a cool vibe and is popular with locals rather than tourists. There are some great restaurants (we would recommend 4Leoni). However the best thing about this place is the funky rooms - uber modern. Ours had a shower the length of the room with a glass panel, a bit like being in a goldfish bowl. Very unique. The breakfast was excellent too. The only thing I would say is that they make you pay 3.50 euro for a bottle of water (small) which i thought was a rip off. Go to the local shop and buy your own for 20 cents! Staff were very helpful and provided us with maps and recommendations for bars in the area. They also hire out bikes for the day which is a great way to see Florence as your feet will hurt from all the walking.  
+<Date>Oct 10, 2008
+<Rating>5	5	5	4	5	5	4	3	
+<Aspects>
+8	195(local):1	209(tourist):1	278(cool):1	433(district):1	1027(unique):1	1277(popular):1	2308(vibe):1	9818(oltrarno):1	
+20	9(service):1	21(excellent):1	23(little):1	42(pay):1	57(water):1	74(perfect):1	80(money):1	81(value):1	94(noise):1	98(outside):1	101(center):1	112(main):1	151(modern):1	210(space):1	238(bottle):1	256(euro):1	346(florence):1	704(opinion):1	1182(rip):1	1516(funky):1	
+11	52(bit):1	61(shower):1	151(modern):1	327(glass):1	843(ours):1	1366(bowl):1	1516(funky):1	1879(length):1	2134(panel):1	6035(goldfish):1	8607(uber):1	
+21	7(walk):1	8(day):1	29(minute):1	46(free):1	49(shop):1	101(center):1	120(bus):1	166(own):1	195(local):1	247(min):1	256(euro):1	280(buy):1	321(shuttle):1	335(numb):1	346(florence):1	402(foot):1	1404(jump):1	1479(bike):1	1556(hire):1	1888(cent):1	2320(hurt):1	
+0	
+6	0(staff):1	14(helpful):1	27(bar):1	153(provide):1	577(recommendation):1	724(map):1	
+4	6(breakfast):1	10(restaurant):1	15(recommend):1	21(excellent):1	
+0	
+
+<Author>LikeitNice
+<Content>Funky, Fun, Service and Good Value What a groovy hotel. So different to the norm but definitely not lacking in services or service. Our room was compact but the space needed for luggage was in the right spots, the bathroom large and well stocked (not great ventilation). Friendly staff and really comfortable. Great breakfasts (you can order more American style if you want, but plenty of other options) including a juicer with fruit and veggies to make your own combos, bowl of fresh fruit and a local champagne if you want!It is a bit of a walk to the central sites but only a 15 minute amble by the river or down the main road and really nice to be out of the tourist mess of the main areas. Also access to real and affordable food in the Frediano district (see my restaurant reviews) instead of tourist fare.  
+<Date>Oct 6, 2008
+<Rating>4	5	5	3	5	4	4	3	
+<Aspects>
+0	
+5	9(service):1	81(value):1	176(fun):1	1516(funky):1	8953(groovy):1	
+7	13(bathroom):1	210(space):1	249(luggage):1	317(spot):1	599(stock):1	2021(compact):1	2667(ventilation):1	
+12	4(nice):1	7(walk):1	29(minute):1	52(bit):1	112(main):2	168(central):1	192(site):1	209(tourist):1	230(road):1	710(river):1	1644(mess):1	9876(amble):1	
+0	
+3	0(staff):1	12(friendly):1	25(comfortable):1	
+27	6(breakfast):1	9(service):2	10(restaurant):1	16(food):1	37(review):1	59(definitely):1	71(include):1	158(plenty):1	159(access):1	166(own):1	195(local):1	197(fresh):1	209(tourist):1	215(fruit):2	240(real):1	326(style):1	336(option):1	349(lack):1	353(instead):1	433(district):1	770(champagne):1	1062(affordable):1	1112(fare):1	1366(bowl):1	2529(norm):1	3355(combo):1	3796(veggy):1	
+0	
+
+<Author>SCOTTF7045
+<Content>You cant beat a modern hotel in an old town You must try this hotel to believe it,it is fab!off street parking and soooo clean.The staff are falling over for you!An OASIS in the middle of Florence.Watch petrol stations on Saturdays and sundays as they are unmaned and only take cash in machines to pay for petrol no debt or credit cards especially PIZA! Have a great stay your gonna love it at this hotel!  
+<Date>Oct 2, 2008
+<Rating>5	5	5	-1	5	5	5	5	
+<Aspects>
+12	40(love):1	76(try):1	151(modern):1	239(town):1	312(believe):1	325(middle):1	346(florence):1	442(beat):1	1145(cant):1	1216(fab):1	1383(oasis):1	3996(gonna):1	
+11	42(pay):1	82(station):1	126(especially):1	245(watch):1	292(card):1	493(machine):1	659(credit):1	1082(cash):1	4018(sundays):1	5701(saturdays):1	10254(petrol):2	
+0	
+4	3(clean):1	35(street):1	66(park):1	2862(soooo):1	
+0	
+2	0(staff):1	587(fall):1	
+0	
+0	
+
+<Author>caseybecks
+<Content>Funky funky       Wardrobe  
+<Date>Sep 15, 2008
+<Rating>4	4	4	3	5	4	4	-1	
+<Aspects>
+2	1451(wardrobe):1	1516(funky):2	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>brightonsummer
+<Content>Modern and Fun       superior room  
+<Date>Sep 2, 2008
+<Rating>5	4	5	3	5	4	5	5	
+<Aspects>
+0	
+0	
+3	151(modern):1	176(fun):1	785(superior):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Berry12123
+<Content>Funky Hotel Loved this hotel. The reception and communal areas are really modern and funky just as the photos suggest. We booked a superior room which was very spacious. The room is just as it is on the photos with tiny lights in the celing and flat screen TV. The bathroom is tiled from floor to ceiling with tiny mosaics and again was very spacious. Breakfast was superb in my opinion, sparkling wine, freshy squeezed orange juice and an array of cakes, 6 types of croissant, hot foods and cold a real treat! I would definately stay at this hotel again if in Florence and would recommend to anyone.You are however at least 20 mins walk to the main part of Florence (and I am a fast walker) you can however get the no 6 or 1B bus from just outside the hotel which runs every 20 mins and takes you direct into town. Buy your tickets from Kiosks or newsagent stands at 1.2 euro or you will pay 2.00 euro if you buy on the bus.  
+<Date>Aug 28, 2008
+<Rating>5	5	5	4	5	4	4	4	
+<Aspects>
+5	15(recommend):1	40(love):1	346(florence):1	410(definately):1	1516(funky):1	
+7	42(pay):1	120(bus):1	256(euro):2	280(buy):2	444(stand):1	621(ticket):1	3330(kiosk):1	
+15	13(bathroom):1	18(book):1	24(floor):1	111(spacious):2	116(tv):1	157(light):1	338(tiny):2	526(screen):1	528(ceiling):1	535(flat):1	761(photo):1	785(superior):1	846(tile):1	7436(mosaic):1	10605(cele):1	
+11	7(walk):1	98(outside):1	112(main):1	120(bus):1	149(run):1	239(town):1	247(min):2	346(florence):1	499(fast):1	803(direct):1	3309(walker):1	
+0	
+6	129(reception):1	151(modern):1	452(suggest):1	761(photo):1	1516(funky):1	3249(communal):1	
+17	6(breakfast):1	16(food):1	114(hot):1	222(cold):1	240(real):1	251(wine):1	320(treat):1	362(juice):1	389(type):1	407(superb):1	704(opinion):1	1004(croissant):1	1029(cake):1	1104(orange):1	1919(sparkle):1	1963(squeeze):1	2810(array):1	
+0	
+
+<Author>ffcb
+<Content>trendy but welcoming hotel good location, very modern and stylish room, made the most of the tiny space, really cool features like LEDs in the wall and see thru wall to shower room.i loved the room, it was so different - a real experience!! walking distance to centre of florence. we ate dinner in local restaurants recommended by hotel - all very good. breakfast was delicious with great selection of health foods as well as the usual pastries etc. our young son shared a room with us and his cot did take up most of the free floor space but hotel rooms in italian cities are always small. staff were friendly and no one minded our son climbing all over the fancy furniture!!  
+<Date>Aug 1, 2008
+<Rating>4	4	5	4	5	5	4	-1	
+<Aspects>
+0	
+3	40(love):1	44(experience):1	240(real):1	
+33	0(staff):1	1(location):1	6(breakfast):1	12(friendly):1	16(food):1	24(floor):1	41(city):1	46(free):1	61(shower):1	73(etc):1	151(modern):1	183(wall):2	202(welcome):1	210(space):2	278(cool):1	294(mind):1	333(selection):1	338(tiny):1	358(italian):1	440(furniture):1	485(delicious):1	520(share):1	612(son):2	652(pastry):1	682(usual):1	731(feature):1	796(fancy):1	961(stylish):1	1231(thru):1	1413(trendy):1	1424(climb):1	1736(health):1	2491(cot):1	
+4	7(walk):1	101(center):1	115(distance):1	346(florence):1	
+0	
+0	
+5	10(restaurant):1	15(recommend):1	47(eat):1	117(dinner):1	195(local):1	
+0	
+
+<Author>MalmesburyMumbler
+<Content>Excellent hotel off the beaten track This is an excellent hotel set in quiet location off the busy Via Pisana. The rooms are decorated imaginatively and are very comfortable. All staff were very helpful and service-minded. The hotel is a short distance from some excellent restaurants - the Via Vai and Fluor D'Acqua. Both are in Via Pisana and like all good secrets are kept behind closed doors.The fresh seafood dinner in Fluor D'Acqua was one of the best that my wife and I have experienced.There are other lower priced good restaurants near by. If you are looking for an excellent hotel in an area not flooded by tourists - the menus in the two restaurants were only available in Italian - this hotel is for you.  
+<Date>Jun 27, 2008
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+0	
+4	10(restaurant):1	19(price):1	102(near):1	777(lour):1	
+2	25(comfortable):1	305(decorate):1	
+11	1(location):1	21(excellent):2	28(close):1	54(door):1	58(quiet):1	220(busy):1	234(set):1	442(beat):1	512(via):2	1127(secret):1	1766(track):1	
+0	
+2	0(staff):1	14(helpful):1	
+17	10(restaurant):2	20(look):1	21(excellent):2	44(experience):1	115(distance):1	117(dinner):1	134(available):1	144(short):1	184(wife):1	197(fresh):1	209(tourist):1	358(italian):1	423(menu):1	512(via):1	815(seafood):1	1927(flood):1	10704(acqua):1	
+0	
+
+<Author>CTodd
+<Content>Are you getting bitten? My husband and I stayed at the UNA Hotel in Florence while on our honeymoon in October 07. The hotel was very modern and funky...very clean as well. The service was very helpful and friendly. It was a little further out from where all the main attractions were, but an easy 5-7 min. bus ride.So, you're probably wondering what the problem was then...so far not too bad. Well, you should be aware that in Italy, they are very conservative when it comes to energy and take several measures to ensure you aren't wasteful...including an air conditioner that turns off after only 3 seconds. It was pretty stuffy in the room, so we decided to just open the windows. There aren't screens on the windows, but we were on a top floor, so we figured no worries...until at about 4am my husband nudged me and asked Are you getting bitten? After turning on the lights we discovered that we were being overtaken by huge mosquitoes! My husband had enormous welts all over from getting eaten and by the time we killed them all it looked like a massacre took place in our room.Although this wasn't really the hotels fault, we felt that it would have been nice to have some sort of warning since when we mentioned what had happened, the hotel said that October was mosquito season.  
+<Date>Jun 12, 2008
+<Rating>2	4	3	3	5	4	4	-1	
+<Aspects>
+19	4(nice):1	23(little):1	34(feel):1	50(bad):1	93(easy):1	112(main):1	178(probably):1	244(mention):1	247(min):1	350(attraction):1	382(happen):1	517(fault):1	557(sort):1	610(season):1	679(warn):1	911(october):1	946(wonder):1	1042(bite):1	1054(mosquito):1	
+5	105(husband):1	346(florence):1	502(honeymoon):1	911(october):1	6494(una):1	
+31	5(time):1	20(look):1	24(floor):1	47(eat):1	71(include):1	105(husband):2	109(pretty):1	118(top):1	119(window):2	133(huge):1	157(light):1	164(air):1	219(decide):1	526(screen):1	779(figure):1	831(worry):1	832(aware):1	869(discover):1	900(italy):1	1042(bite):1	1054(mosquito):1	1083(conditioner):1	1293(ensure):1	1625(enormous):1	1857(stuffy):1	2070(kill):1	2139(energy):1	2911(measure):1	7341(conservative):1	8890(welt):1	10783(4am):1	
+2	120(bus):1	218(ride):1	
+3	3(clean):1	151(modern):1	1516(funky):1	
+0	
+3	9(service):1	12(friendly):1	14(helpful):1	
+0	
+
+<Author>EWS94105
+<Content>Excellent Choice Booked via tablethotels.com for EUR 164/night. Stayed 1 night. 5 minutes over the Arno River from city centre. About a 20 minute walk from Ponte Vecchio. Chic, modern design. Wild colors. Modern room with integrated furniture, bathroom/WC similarly integrated. Parking on site. Friendly, hip staff. Were not able to rectify a/c malfunction. Quiet. Excellent value for overall offering.  
+<Date>Jun 9, 2008
+<Rating>4	4	4	3	4	4	4	-1	
+<Aspects>
+9	2(night):1	151(modern):1	171(able):1	516(design):1	942(color):1	1472(chic):1	2661(wild):1	2943(rectify):1	5262(malfunction):1	
+8	18(book):1	21(excellent):2	70(overall):1	81(value):1	89(offer):1	107(choice):1	512(via):1	3084(eur):1	
+6	13(bathroom):1	58(quiet):1	151(modern):1	440(furniture):1	3299(similarly):1	7047(integrate):2	
+6	7(walk):1	29(minute):1	66(park):1	192(site):1	1645(ponte):1	1836(vecchio):1	
+0	
+3	0(staff):1	12(friendly):1	1491(hip):1	
+0	
+5	29(minute):1	41(city):1	101(center):1	710(river):1	2117(arno):1	
+
+<Author>zhivago22
+<Content>Great Beautiful Hotel, extremely updated and clean. Service is Great. Location is beautiful but a bit out of the way. Close to some off beaten attractions that would be regularly missed.  
+<Date>May 30, 2008
+<Rating>5	5	5	4	5	5	4	4	
+<Aspects>
+0	
+0	
+0	
+8	1(location):1	28(close):1	45(beautiful):1	52(bit):1	276(miss):1	350(attraction):1	442(beat):1	1881(regularly):1	
+4	3(clean):1	45(beautiful):1	110(extremely):1	725(update):1	
+0	
+1	9(service):1	
+0	
+
+<Author>ASCMMC
+<Content>Not Centrally Located - Prepare for a Walk The hotel was about a 40 minute walk from many Florence sites including the Duomo and the museum with the Statue of David. About 25 minute walk to Ponto Vecchio so expect to walk to see almost everything. There is a big supermarket close to the hotel which was nice but very few restuarants or cafes so you had to walk a lot to get to dinner. If you're limited on time might be better off picking a closer hotel. Our room was unique with a large king size bed but the floor space was quite tight (not enough room for our suitcases anywhere). There is a free shuttle to the train station which was very helpful if arriving by train.  
+<Date>Jan 8, 2008
+<Rating>3	3	3	2	3	3	3	3	
+<Aspects>
+0	
+0	
+8	11(bed):1	24(floor):1	83(size):1	210(space):1	243(king):1	974(suitcase):1	1027(unique):1	1399(tight):1	
+30	4(nice):1	5(time):1	7(walk):5	14(helpful):1	28(close):2	29(minute):2	38(lot):1	46(free):1	53(arrive):1	62(expect):1	71(include):1	82(station):1	84(locate):1	117(dinner):1	182(train):2	192(site):1	266(pick):1	275(cafe):1	321(shuttle):1	346(florence):1	460(prepare):1	507(museum):1	510(limit):1	879(centrally):1	981(duomo):1	1078(supermarket):1	1836(vecchio):1	1956(david):1	2095(restuarants):1	2356(statue):1	
+0	
+0	
+0	
+0	
+
+<Author>leopinky
+<Content>Really nice break. Me and my partner stayed here for 3 nights from the 28th December 2007. The hotel was great, very modern, friendly staff, good food and lovely rooms. The breakfast selection is ok, very basic but nice buffet laid out, we ate an evening meal at the hotel once which was really nice. Rooms very modern, with leather walls with led lights and plasma tv. Our room was a superior room which was an ok size, previous reveiws have said these are bigger than standard so Id recommend an upgrade to superior. We had a gorgeous modern bathroom (no clear wall for shower as previous reveiws said- so if travelling with friend best to request room without transparant walls to bathroom as they are availible as we had one - room 417) The centre of florence and Ponte Vecchio is a good 15-20 mins walk away, but its such a lovely walk it'd be a shame to get taxi's or the bus. Plenty of restaurants in the centre and station only 15min walk away if you fancy day trip to pisa - which is brilliant!!We used the pillow menu and the hotel and I have to reccommend the goose down pillow - amazing for good nights sleep!!The bar is ultra modern, but expensive for drinks, free snacks throughout the evening though which is nice touch. Overall brillant break away, cheap deal off expedia well worth it. Hotel excellent - very pleased with our break.  
+<Date>Dec 31, 2007
+<Rating>4	4	4	3	4	4	4	-1	
+<Aspects>
+8	2(night):1	4(nice):1	21(excellent):1	173(please):1	228(break):2	993(december):1	1006(partner):1	2668(28th):1	
+7	70(overall):1	96(worth):1	140(deal):1	143(cheap):1	228(break):1	1066(expedia):1	7324(brillant):1	
+27	0(staff):1	2(night):1	12(friendly):1	15(recommend):1	16(food):1	83(size):1	87(lovely):1	104(sleep):1	116(tv):1	123(ok):1	130(standard):1	145(amaze):1	151(modern):2	157(light):1	163(upgrade):1	183(wall):1	303(pillow):2	373(previous):1	423(menu):1	785(superior):2	922(lead):1	1500(plasma):1	2111(reccommend):1	2584(id):1	2729(leather):1	4576(goose):1	5082(reveiws):1	
+30	7(walk):3	8(day):1	10(restaurant):1	13(bathroom):2	33(trip):1	61(shower):1	68(travel):1	82(station):1	87(lovely):1	101(center):2	120(bus):1	146(friend):1	148(request):1	151(modern):1	158(plenty):1	183(wall):2	185(taxi):1	247(min):1	346(florence):1	373(previous):1	446(gorgeous):1	793(brilliant):1	796(fancy):1	1292(shame):1	1645(ponte):1	1836(vecchio):1	3810(pisa):1	5013(15min):1	5082(reveiws):1	12854(availible):1	
+0	
+0	
+18	4(nice):3	6(breakfast):1	27(bar):1	46(free):1	47(eat):1	63(drink):1	77(buffet):1	123(ok):1	124(expensive):1	151(modern):1	213(meal):1	279(touch):1	333(selection):1	352(basic):1	406(snack):1	445(throughout):1	696(lay):1	2744(ultra):1	
+0	
+
+<Author>BAJZK
+<Content>Modern Fun In Florence Visited Florence for 4 days in December with my girlfriend and the Una Vittoria was lots of fun. Super modern decor, friendly staff, spacious and comfortable room. Only drawback is that its a bit far from the center, especially in the cold of winter so we spent quite a bit on cabs each day. Also there is no wi-fi, just a cable connection which was a bit expensive. Another quip would be that the room service seemed to be pretty poor. On a Sunday we decided to stay in for awhile but the kitchen was closed so we ordered tea and orange juice before heading out. The juice was far from fresh and basically undrinkable and the lipton tea was uninspiring. After this experience we never tried to order anything else from room service. Other than that it was a great bargain and I would definitely stay there again. I would certainly recommend splurging on the executive room. We took a peek at a standard room and they're pretty small. The executive room has twice the space, and an awesome bathroom/shower/tub and you can usually get it at a great rate. You can control all the lights in the room from remote controls on either side of the bed and there is a handy do not disturb button that's great for sleeping in late. A great little hotel in a great little town.  
+<Date>Dec 21, 2007
+<Rating>5	5	5	2	5	4	5	3	
+<Aspects>
+11	8(day):1	23(little):2	38(lot):1	65(visit):1	151(modern):1	176(fun):2	239(town):1	346(florence):2	993(december):1	994(girlfriend):1	6494(una):1	
+11	9(service):1	44(experience):1	52(bit):1	59(definitely):1	124(expensive):1	170(else):1	253(tried):1	484(cable):1	759(bargain):1	932(connection):1	1827(wi-fi):1	
+30	0(staff):1	9(service):1	11(bed):1	12(friendly):1	13(bathroom):1	15(recommend):1	25(comfortable):1	78(rate):1	79(late):1	104(sleep):1	109(pretty):2	111(spacious):1	130(standard):1	151(modern):1	157(light):1	210(space):1	269(decor):1	331(poor):1	347(twice):1	348(awesome):1	399(usually):1	464(super):1	755(handy):1	865(control):2	872(executive):2	1067(disturb):1	1272(remote):1	2142(button):1	2358(splurge):1	3908(peek):1	
+0	
+0	
+0	
+13	28(close):1	197(fresh):1	219(decide):1	301(tea):2	362(juice):2	461(kitchen):1	790(basically):1	844(sunday):1	1104(orange):1	1437(heading):1	2755(awhile):1	5274(uninspire):1	7248(undrinkable):1	
+9	8(day):1	52(bit):2	64(spend):1	101(center):1	126(especially):1	222(cold):1	380(cab):1	1344(drawback):1	1599(winter):1	
+
+<Author>J927
+<Content>Fantastic Hotel! I loved this hotel. I had sourced it through tripadvisor.com and tablethotels.com and found a fantastic rate on expedia. The hotel is across the river from most of the sights and tourists spots but it is a very short walk - along the river and a chance to see the real Florence. The hotel itself is very modern (but comfortable), clean and professional. If you like design hotels you will appreciate all of the touches including the beautiful lobby and the doors to each hotel room (framed portraits). The buffet breakfast (included in my rate) is fantastic and was the best I've had in Europe - eggs, sausage, fresh pastries, fruit, juice etc. I was traveling alone (I'm a woman in my thirties) and was not disuaded by the walk into town - I usually ventured back and forth a couple times a day and felt comfortable walking at night. I stayed here on two occasions during my trip - the first for four nights, and the second for two nights - and found my experience consistent. I will absolutely stay here at this hotel when I (hopefully) return to the lovely city of Firenze.One tip: You MUST, MUST, MUST eat at Aqua All 2 and order the filleto all'aceto balsamico. Delicious.  
+<Date>Nov 12, 2007
+<Rating>5	5	4	4	4	5	4	3	
+<Aspects>
+15	39(return):1	40(love):1	41(city):1	47(eat):1	78(rate):1	86(fantastic):2	87(lovely):1	189(absolutely):1	194(tip):1	485(delicious):1	1066(expedia):1	1633(hopefully):1	1735(aqua):1	3062(firenze):1	3903(tripadvisor.com):1	
+5	2(night):2	33(trip):1	44(experience):1	871(occasion):1	2574(consistent):1	
+9	45(beautiful):1	54(door):1	55(lobby):1	71(include):1	279(touch):1	500(appreciate):1	516(design):1	2339(frame):1	10020(portrait):1	
+22	2(night):1	5(time):1	7(walk):3	8(day):1	25(comfortable):1	34(feel):1	68(travel):1	99(couple):1	144(short):1	209(tourist):1	239(town):1	240(real):1	317(spot):1	346(florence):1	399(usually):1	411(sight):1	566(woman):1	689(chance):1	710(river):2	1440(venture):1	1999(forth):1	8678(thirty):1	
+4	3(clean):1	25(comfortable):1	151(modern):1	501(professional):1	
+0	
+13	6(breakfast):1	71(include):1	73(etc):1	77(buffet):1	78(rate):1	86(fantastic):1	197(fresh):1	215(fruit):1	362(juice):1	412(egg):1	652(pastry):1	700(europe):1	1385(sausage):1	
+0	
+
+<Author>farfar
+<Content>Great!Great! I`ve been stayed in this hotel with my boyfriend for 4 nights and it was great! I loved the location, not in the bustling center, in a very nice, i would say typical Florence area, with good restaurants, nice antique shops etc..Stuff is very polite and helpful.Hotel looks exactly like on the website, so who likes such a design, will like this hotel, i liked it a lot, and atmosphere is convivial, good sense for detail, small appetizers in the evening in the bar, free bus shuttle to the center, rental bike..great design, with bisazza mosaics.Room not too big, but very comfortable beds, and red lights (!) if you want. Modern room with great door, looks like a painting (portrait from one of Florence gallery).Good value for the money.I would recommand this hotel to every one.  
+<Date>Nov 12, 2007
+<Rating>5	5	4	4	5	5	5	4	
+<Aspects>
+9	2(night):1	14(helpful):1	422(polite):1	480(stuff):1	516(design):1	763(boyfriend):1	5548(ve):1	5778(recommand):1	7436(mosaic):1	
+2	80(money):1	81(value):1	
+11	11(bed):1	20(look):1	25(comfortable):1	54(door):1	151(modern):1	157(light):1	346(florence):1	590(red):1	806(paint):1	1794(gallery):1	10020(portrait):1	
+26	1(location):1	4(nice):2	10(restaurant):1	20(look):1	27(bar):1	38(lot):1	40(love):1	46(free):1	49(shop):1	73(etc):1	101(center):2	120(bus):1	262(website):1	321(shuttle):1	346(florence):1	414(atmosphere):1	516(design):1	586(exactly):1	592(detail):1	628(typical):1	963(rental):1	1102(sense):1	1107(bustle):1	1479(bike):1	1597(appetizer):1	1936(antique):1	
+0	
+0	
+0	
+0	
+
+<Author>Joao_Amorim
+<Content>Good experience, but a bit overrated The hotel is located in a very nice area, a bit far from all the center mess. The room was ok, could be more clean and this is the point where I cannot categorize it as a 4 start hotel. The staff was friendly despite of the terrible english. In the overall, a nice experience.  
+<Date>Nov 7, 2007
+<Rating>4	3	2	3	2	4	4	3	
+<Aspects>
+0	
+12	3(clean):1	4(nice):2	44(experience):2	52(bit):2	70(overall):1	84(locate):1	101(center):1	123(ok):1	165(start):1	1644(mess):1	2575(overrate):1	9639(categorize):1	
+0	
+0	
+0	
+5	0(staff):1	12(friendly):1	152(english):1	432(terrible):1	498(despite):1	
+0	
+0	
+
+<Author>CyberAynne
+<Content>Sybaris of Florence with Bad Food Although this was a memorable hotel, i.e. fiber optic blue lights in bedroom, purple bathroom, etc. I am giving it low marks for a dinner which included canned green beans and canned fruit cocktail--two huge mistakes! Its location is fair, about a 15-20 minute walk from the Ponte Vecchio but that didn't make up for the small rooms and low level of comfort. I was travelling with a fellow woman and did not like the shower which was clear glass on all four walls including the wall by the entrance door. While showering, you could be seen from the bedroom, the front door (visitors  room service) and just in case your voyeur was at the wrong angle, there was a wall of mirror across from the shower for good measure. Unless you want to be seen naked showering, do not stay at this hotel...Or at least confiscate all cameras before showering!!!  
+<Date>Oct 15, 2007
+<Rating>2	2	1	2	3	3	3	3	
+<Aspects>
+0	
+0	
+31	9(service):1	13(bathroom):1	16(food):1	31(front):1	50(bad):1	54(door):2	61(shower):5	68(travel):1	71(include):1	73(etc):1	157(light):1	183(wall):3	268(bedroom):2	327(glass):1	346(florence):1	405(unless):1	427(wrong):1	490(entrance):1	566(woman):1	694(blue):1	951(visitor):1	1129(mirror):1	1205(memorable):1	1646(camera):1	1742(fellow):1	2911(measure):1	3635(angle):1	4541(naked):1	5286(purple):1	10628(confiscate):1	11853(optic):1	
+9	1(location):1	7(walk):1	29(minute):1	306(level):1	513(low):1	702(comfort):1	739(fair):1	1645(ponte):1	1836(vecchio):1	
+0	
+0	
+10	71(include):1	117(dinner):1	133(huge):1	215(fruit):1	513(low):1	716(cocktail):1	882(mark):1	895(mistake):1	1005(green):1	2550(bean):1	
+0	
+
+<Author>Lainee_L
+<Content>Excellent hotel and experience We got a very good deal for this 4 star hotel, much cheaper than some of the other hotels in Florence. Although it's south of the River Arno and the main part of Florence, it's only about a 15 minute work into the centre. The hotel also run a shuttle bus service to Santa Maria Novella train station.The staff were friendly and helpful - they helped up book a walking tour, and also a tour around the Uffizi as all the reserved tickets were booked up for a week. All the staff spoke English.There was a good breakfast selection and there was also a bar in the hotel. The hotel is slightly offset from the main road but it is much quieter.The design and style of the hotel and the rooms are completely different to anywhere I've previously stayed but it made it a unique experience.  
+<Date>Oct 7, 2007
+<Rating>5	5	5	3	4	5	5	-1	
+<Aspects>
+0	
+11	21(excellent):1	44(experience):2	103(star):1	140(deal):1	143(cheap):1	326(style):1	346(florence):1	516(design):1	542(completely):1	1027(unique):1	1122(previously):1	
+5	58(quiet):1	112(main):1	230(road):1	598(slightly):1	5828(offset):1	
+9	9(service):1	82(station):1	120(bus):1	149(run):1	182(train):1	321(shuttle):1	1510(santa):1	1833(mare):1	3407(novella):1	
+0	
+3	0(staff):1	127(speak):1	152(english):1	
+14	0(staff):1	6(breakfast):1	7(walk):1	12(friendly):1	14(helpful):1	18(book):2	27(bar):1	75(week):1	92(help):1	181(tour):2	333(selection):1	506(reserve):1	621(ticket):1	1940(uffizi):1	
+7	29(minute):1	101(center):1	112(main):1	346(florence):1	710(river):1	769(south):1	2117(arno):1	
+
+<Author>snowolf
+<Content>Exceptional Having read the reviews of this hotel, we checked in with great expectations.We were not disappointed.To cover old ground, a 15-20 min walk into town, however when you've foot-slogged it around town all day, the walk back seems much longer. There is a free shuttle that runs between the hotel and the train station.The little cafe/bar directly opposite the hotel is very nice indeed, and the place at the end of the street by the old gate house that brews its own beer is excellent, the quality of the beer certainly merits a visit.Breakfast was fine. Not stellar, but a cut above most buffet breakfasts, didn't eat in the hotel restaurant or use the bar, so can't comment on them. I thought 鈧? for a half hour stint on the internet was a little steep.The bed was wonderfully comfortable and the decor was great. The shower with the glass wall facing into the room is entertaining, but you'd better be sure that you're quite comfortable with the person you're sharing a room with.The only reason I've not given the hotel a maximum rating is because that in a couple of places in the room there were some cosmetic knocks that hadn't been repainted or retiled, and on a couple of occasions the reception staff weren't as eager to talk to guests as perhaps they should have been.However these are very minor gripes and overall I would not hesitate to stay here again or reccomend it to others.  
+<Date>Sep 27, 2007
+<Rating>4	4	5	4	5	3	4	3	
+<Aspects>
+6	70(overall):1	154(disappoint):1	720(minor):1	902(hesitate):1	1513(reccomend):1	1788(gripe):1	
+5	32(check):1	37(review):1	88(read):1	431(expectation):1	837(exceptional):1	
+10	11(bed):1	25(comfortable):2	61(shower):1	183(wall):1	193(person):1	269(decor):1	327(glass):1	520(share):1	1045(entertain):1	1686(wonderfully):1	
+27	4(nice):1	7(walk):2	8(day):1	21(excellent):1	23(little):1	35(street):1	46(free):1	65(visit):1	82(station):1	149(run):1	166(own):1	182(train):1	187(quality):1	239(town):2	247(min):1	275(cafe):1	281(house):1	321(shuttle):1	383(directly):1	443(beer):2	552(cover):1	706(grind):1	783(opposite):1	990(indeed):1	992(gate):1	4317(brew):1	5769(merit):1	
+0	
+13	0(staff):1	78(rate):1	91(guest):1	99(couple):2	129(reception):1	371(talk):1	374(reason):1	871(occasion):1	1323(knock):1	1604(eager):1	3523(maximum):1	4494(cosmetic):1	6657(repaint):1	
+9	6(breakfast):2	10(restaurant):1	27(bar):1	47(eat):1	77(buffet):1	113(fine):1	356(comment):1	873(cut):1	3660(stellar):1	
+6	23(little):1	60(hour):1	97(internet):1	283(half):1	1060(steep):1	11471(stint):1	
+
+<Author>Mikeeboss
+<Content>Funky hotel Una Hotel Vittoria Clean (other than room carpet)Funky bedrooms 鈥?excellent lights to play with!Great breakfastQuiet, off street location but 20mins walk to city centreNice outside area for coffee / drinks from barSome good local barsNice restaurants just across riverHotel bar prices expensive but that鈥檚 normal  
+<Date>Sep 6, 2007
+<Rating>4	3	3	3	3	4	4	-1	
+<Aspects>
+0	
+0	
+8	3(clean):1	21(excellent):1	157(light):1	268(bedroom):1	386(play):1	396(carpet):1	1516(funky):2	6494(una):1	
+0	
+0	
+0	
+14	1(location):1	7(walk):1	10(restaurant):1	19(price):1	27(bar):1	35(street):1	41(city):1	63(drink):1	90(coffee):1	98(outside):1	124(expensive):1	195(local):1	878(normal):1	5007(20min):1	
+0	
+
+<Author>julieanddavid
+<Content>Fantastic Hotel and Experience in a word.... FANTASTIC....journey from train station - easycheck in - greatambience - briliantrooms - small but had everythng... more hanging space needed, but not a problem.shower and bathroom - lovelybed - outstanding...location - perfect...the location allowed us to either turn left, cross the road and walk along the river, or turn right and follw the back streets which were amazing.... seeing the real Italia....staff - great - Said the Barman was a pleasure to sit and talk to (learn some arabic - he'll like it).Breakfast - great - more than epxpected..didn't have an evening meal there, but would if we went back.good points: ambience, location, quirkinessbad points: having to leave  
+<Date>Aug 28, 2007
+<Rating>5	5	4	4	4	5	4	3	
+<Aspects>
+1	213(meal):1	
+0	
+21	0(staff):1	1(location):2	7(walk):1	13(bathroom):1	35(street):1	43(leave):1	61(shower):1	74(perfect):1	145(amaze):1	169(sit):1	230(road):1	240(real):1	359(allow):1	371(talk):1	534(outstanding):1	703(learn):1	710(river):1	907(pleasure):1	1228(cross):1	3315(barman):1	10479(italia):1	
+11	1(location):1	43(leave):1	44(experience):1	82(station):1	86(fantastic):2	182(train):1	210(space):1	478(hang):1	571(word):1	957(ambience):1	1362(journey):1	
+0	
+0	
+1	6(breakfast):1	
+0	
+
+<Author>Jeeves27
+<Content>Good price, fair service. I found UNA to be a great price for the amenities. It was very modern, if you are interested in the kind of layout. The outside of the rooms are very decorative. As I walked into my room, a full-length shower window was there on the right. The decor was very unique...there are switches for lights in normal and odd places. Swank is a good word to describe it. The breakfast buffet is execptional. It is only a 10-minute walk from the Arno, from which point you can enter the more historical and tourist-trapping areas of Florence. I was slightly disappointed with the service at the hotel. One of the front desk receptionists was repeatedly rude when asking for help with a taxi or for cashing traveler's cheques. In addition, housekeeping entered the room without knocking, while I was in the shower (remember the full-length shower window I mentioned? That was close). I had the Do Not Disturb sign on the door as well, and I was upset that at least no one knockedor rang the bell. I contacted the UNA website to make a complaint, but never received a response.  
+<Date>Aug 27, 2007
+<Rating>3	4	4	4	5	2	2	4	
+<Aspects>
+11	54(door):1	151(modern):1	449(sign):1	571(word):1	801(bell):1	955(describe):1	1067(disturb):1	1150(ring):1	1220(upset):1	1453(layout):1	9981(swank):1	
+5	9(service):1	19(price):2	291(amenity):1	739(fair):1	6494(una):1	
+21	7(walk):1	9(service):1	61(shower):3	98(outside):1	119(window):2	154(disappoint):1	157(light):1	244(mention):1	269(decor):1	367(housekeeping):1	375(remember):1	598(slightly):1	601(enter):1	878(normal):1	888(switch):1	918(addition):1	1027(unique):1	1088(odd):1	1323(knock):1	5016(decorative):1	9108(full-length):2	
+13	7(walk):1	28(close):1	190(complaint):1	262(website):1	302(receive):1	346(florence):1	601(enter):1	713(contact):1	1330(response):1	2117(arno):1	2311(historical):1	4271(10-minute):1	6494(una):1	
+0	
+10	31(front):1	36(desk):1	92(help):1	185(taxi):1	267(traveler):1	392(rude):1	855(receptionist):1	1082(cash):1	3029(repeatedly):1	5730(cheque):1	
+2	6(breakfast):1	77(buffet):1	
+0	
+
+<Author>valjo
+<Content>wonderful modern hotel only stayed at the vittoria for 2 days ,we found it really great.staff all helpful and pleasant,breakfast everything you could wish for,room overlooking the courtyard.free bus into the twn centre.a lovely peaceful retreat after a hard days sightseeing we would recommend highly  
+<Date>Aug 21, 2007
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+3	8(day):1	48(wonderful):1	151(modern):1	
+0	
+7	0(staff):1	6(breakfast):1	14(helpful):1	150(pleasant):1	260(overlook):1	384(wish):1	435(courtyard):1	
+11	8(day):1	15(recommend):1	46(free):1	87(lovely):1	101(center):1	120(bus):1	138(highly):1	162(hard):1	640(sight-see):1	1036(peaceful):1	2244(re-treat):1	
+0	
+0	
+0	
+0	
+
+<Author>Emmafx
+<Content>A very pleasant stay I have no complaints about this hotel. We throughly enjoyed our 3 nightstay there. On checking in they gave us a third floor room with a roof terrace, as well as a TV room off to the side. The LED lights were not working, but I told reception and they were fixed the next day. Even though the check out was at 12.00 we were not feeling the best and they let us stay in the room until 2. The reception staff were very friendly and the breakfast was a good continental one. We enjoyed eating at the restaurants and the bar down the street, and in a very busy Florence it was good to be off the beaten track. I'm not sure I like the black halls, but this hotel was certainly different. The beds were very comfortable, the water pressure was good in the shower. I would have liked to have stayed there a bit longer. We did not use the pillow menu though!  
+<Date>Aug 16, 2007
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+9	51(enjoy):1	52(bit):1	150(pleasant):1	190(complaint):1	303(pillow):1	423(menu):1	616(hall):1	1007(black):1	5367(throughly):1	
+0	
+18	8(day):1	11(bed):1	24(floor):1	25(comfortable):1	32(check):2	34(feel):1	57(water):1	61(shower):1	69(tell):1	116(tv):1	129(reception):1	157(light):1	494(fix):1	532(third):1	636(roof):1	673(terrace):1	686(pressure):1	922(lead):1	
+9	10(restaurant):1	27(bar):1	35(street):1	47(eat):1	51(enjoy):1	220(busy):1	346(florence):1	442(beat):1	1766(track):1	
+0	
+5	0(staff):1	6(breakfast):1	12(friendly):1	129(reception):1	372(continental):1	
+0	
+0	
+
+<Author>BobbiSydney
+<Content>A very unique hotel The UNA Vittoria is definitely not what you expect to find in Florence, from the moment you walk into the arty foyer it's an unforgettable, ultra modern experience in an old beautiful city. The rooms are very cool with beautiful blue optic lights and every modern convenience. The portraits on the doors were another cool arty touch. The breakfasts were outstanding and the room service dinner as very good. It's a little bit further out of the main part of the city than we would have liked but its a nice walk along the river and they have a free shuttle bus when you're not up for it.  
+<Date>Aug 16, 2007
+<Rating>4	5	5	3	4	4	5	-1	
+<Aspects>
+5	54(door):1	278(cool):1	279(touch):1	8184(arty):1	10020(portrait):1	
+15	7(walk):1	41(city):1	44(experience):1	45(beautiful):1	59(definitely):1	62(expect):1	151(modern):1	346(florence):1	670(moment):1	1027(unique):1	1931(foyer):1	2744(ultra):1	3377(unforgettable):1	6494(una):1	8184(arty):1	
+7	45(beautiful):1	151(modern):1	157(light):1	278(cool):1	694(blue):1	925(convenience):1	11853(optic):1	
+10	4(nice):1	7(walk):1	23(little):1	41(city):1	46(free):1	52(bit):1	112(main):1	120(bus):1	321(shuttle):1	710(river):1	
+0	
+0	
+4	6(breakfast):1	9(service):1	117(dinner):1	534(outstanding):1	
+0	
+
+<Author>Almozza
+<Content>Smart Hotel, Small Room, Long Walk This hotel was quite a walk from the centre - we're not afraid of lots of walking but in the heat we did find it a bit further than we would have liked, plus there is not an awful lot around the hotel. However on the plus side we ate in some nice local restaurants i.e. full of Italians and no English menu in sight! THe hotel itself is pretty modern, although starting to look like it could be freshened up. The room was really small, it was difficult to find somewhere to put my case and I found the bathroom a bit strange - it felt like an aeroplane / ship bathroom and smelt a bit of damp. I took advantage of the pillow menu, but they didn't deliver the one I chose, which kind of misses the point of a pillow menu. Free unlimited internet access was a bonus, the bar was great with lots of free nibbles of an evening (if you bought a drink). Breakfast - quite a large selection, a great range of things but the restaurant was slightly canteen like and they weren't clearing the tables fast enough to cope when we were there. Overall the hotel was fine, but I think maybe it and the staff have lapsed somewhat.  
+<Date>Aug 13, 2007
+<Rating>3	3	2	2	3	3	3	5	
+<Aspects>
+6	167(choose):1	276(miss):1	303(pillow):2	423(menu):2	631(deliver):1	867(advantage):1	
+5	20(look):1	109(pretty):1	151(modern):1	165(start):1	2844(freshen):1	
+9	13(bathroom):2	34(feel):1	52(bit):2	231(smell):1	572(difficult):1	1058(strange):1	1392(ship):1	1640(damp):1	2847(airplane):1	
+9	7(walk):3	38(lot):2	52(bit):1	101(center):1	203(plus):1	539(heat):1	736(awful):1	1544(afraid):1	1687(smart):1	
+0	
+6	0(staff):1	70(overall):1	113(fine):1	308(maybe):1	651(somewhat):1	9302(lapse):1	
+27	4(nice):1	6(breakfast):1	10(restaurant):2	27(bar):1	38(lot):1	46(free):2	47(eat):1	63(drink):1	97(internet):1	152(english):1	159(access):1	195(local):1	203(plus):1	229(table):1	280(buy):1	333(selection):1	411(sight):1	423(menu):1	499(fast):1	598(slightly):1	714(range):1	849(bonus):1	2077(unlimited):1	3520(nibble):1	3942(cope):1	4753(italians):1	8328(canteen):1	
+0	
+
+<Author>Happyscots
+<Content>A very cool hotel! We stayed for 3 nights in the Una Vittoria and had a wondeful experience. We booked a superior double as previous reviews had said it was a bigger room. The optic lights were beautiful and the bed was so comfortable! The welcome plate of fresh fruit was a welcome addition and it was the first hotel room we have been in that had a television in the toilet! The shower was fun but we can see how it could be difficult if you weren't there with your husband/partner as you are very exposed! All the hotel staff were extremely helpful. The buffet breakfast had everything you could want to start the day. The decor was colourful and very pretty and the seats at the bar were very cool! The location was a 20 minute walk to the main centre of Florence, however, this was something we particularly liked about the hotel. It was on the other side of the river Arno and it was a pleasant walk back and in a quiet neighbourhood. The hotel did run a free shuttle bus that ran every hour taking you into the centre (railway station) and home again if you wished. Florence was beautiful and we would definitely return again one day and would have no hesitation booking back into this hotel!  
+<Date>Jul 29, 2007
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+1	278(cool):1	
+4	2(night):1	44(experience):1	5552(wondeful):1	6494(una):1	
+34	7(walk):1	11(bed):1	18(book):1	25(comfortable):1	27(bar):1	37(review):1	45(beautiful):1	58(quiet):1	61(shower):1	105(husband):1	109(pretty):1	150(pleasant):1	157(light):1	176(fun):1	179(double):1	197(fresh):1	202(welcome):2	215(fruit):1	269(decor):1	278(cool):1	330(toilet):1	373(previous):1	421(neighbourhood):1	504(seat):1	572(difficult):1	710(river):1	785(superior):1	918(addition):1	1002(plate):1	1158(television):1	2117(arno):1	2489(colorful):1	2637(expose):1	11853(optic):1	
+16	1(location):1	7(walk):1	29(minute):1	46(free):1	60(hour):1	82(station):1	101(center):2	112(main):1	120(bus):1	141(home):1	149(run):2	321(shuttle):1	346(florence):1	384(wish):1	553(particularly):1	2002(railway):1	
+0	
+3	0(staff):1	14(helpful):1	110(extremely):1	
+10	6(breakfast):1	8(day):2	18(book):1	39(return):1	45(beautiful):1	59(definitely):1	77(buffet):1	165(start):1	346(florence):1	1373(hesitation):1	
+0	
+
+<Author>Travelbugsgotme
+<Content>Hotel on the edge (of fashion and the city). Hope the a/c works... I stayed here in June 2007. Having driven there, I found it quite easy to find (GPS), although you could drive straight past it without knowing there's a hotel there, as the entrance is a driveway between other buildings. The outside of the hotel strikes a grand impression and is completely incongruent with the interior, which is ultramodern. The floor I stayed on reminded me of what gothic teenagers would probably think of as heaven - black-painted winding passageways. The room was comfortable enough. There's a control by the bed which handles everything from the tv, the fairy lights embedded in the walls and the air-conditioning. Speaking of a/c, ours did not work at all. We asked for it to be looked at but needed to forcibly remind them again when they had not looked at it while we were out. The maintenance guy fiddled around with it for a while to no avail. We were promptly given a new room with functioning a/c (n.b. it won't work if the door to the balcony is ajar). The new room was twice as good as the first. It was much roomier and obviously the a/c worked. The showers were indeed bizarre. A previous reviewer had a problem with transparent glass. It was translucent , but hey, it's Europe, and without the glass I reckon some people might get claustrophobia in there. This was only present in one out of the two rooms we stayed in.  I found the staff to be variable. Some were very friendly and respectful, others were languid and almost derogatory. There was a parking garage at a fee. The breakfast was excellent.There are two internet terminals available at a cost.There's a bar with funky chairs.It takes about 10 minutes walk to get anywhere of note, and probably about 15 to 20 minutes to reach the Ponte Vecchio.  
+<Date>Jul 22, 2007
+<Rating>3	3	2	3	3	3	2	3	
+<Aspects>
+25	12(friendly):1	20(look):2	26(people):1	41(city):1	127(speak):1	327(glass):2	328(hope):1	368(guy):1	373(previous):1	564(reviewer):1	664(june):1	700(europe):1	843(ours):1	1149(maintenance):1	1190(edge):1	1285(remind):1	1367(hey):1	1745(fashion):1	3122(avail):1	3879(respectful):1	6054(reckon):1	7966(fiddle):1	9523(transparent):1	11308(claustrophobia):1	12798(translucent):1	
+4	97(internet):1	134(available):1	175(cost):1	1261(terminal):1	
+33	11(bed):1	24(floor):1	25(comfortable):1	27(bar):1	54(door):1	61(shower):1	116(tv):1	157(light):1	178(probably):1	183(wall):1	191(balcony):1	198(chair):1	347(twice):1	487(wo):1	781(obviously):1	865(control):1	966(handle):1	990(indeed):1	1168(wind):1	1212(promptly):1	1285(remind):1	1363(heaven):1	1516(funky):1	1594(teenager):1	1780(function):1	2284(air conditioning):1	2410(gothic):1	3957(bizarre):1	8783(fairy):1	8840(roomier):1	9056(passageway):1	9324(ajar):1	11162(embed):1	
+13	7(walk):1	29(minute):2	98(outside):1	178(probably):1	297(note):1	365(grand):1	542(completely):1	848(impression):1	851(reach):1	1026(interior):1	1645(ponte):1	1836(vecchio):1	1957(strike):1	
+0	
+10	0(staff):1	93(easy):1	298(drive):2	419(past):1	490(entrance):1	745(building):1	827(straight):1	3767(driveway):1	5444(gps):1	5713(variable):1	
+5	6(breakfast):1	21(excellent):1	66(park):1	584(fee):1	936(garage):1	
+0	
+
+<Author>Kanada01
+<Content>Wonderful Stay We had a wonderful stay at this very neat hotel. The breakfast every morning was amazing and just what was needed to get ready for a day of sight seeing. The room was very clean and the decor was funky and fabulous. Although some reviews commented on the 'long walk into town', we found it interesting to see another less touristy part of the city, and 15 minutes is really not all that long of a walk. Plus, we pretty much only used the hotel for a place to sleep and were more interested in seeing as much of Florence as we could. Being a little outside of the city centre also meant less noise. What a wonderful city! Would definitely stay at the UNA Hotel Vittoria again!  
+<Date>Jul 20, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	41(city):1	48(wonderful):3	59(definitely):1	1286(neat):1	6494(una):1	
+0	
+8	3(clean):1	104(sleep):1	109(pretty):1	203(plus):1	269(decor):1	270(fabulous):1	346(florence):1	1516(funky):1	
+12	7(walk):2	23(little):1	29(minute):1	37(review):1	41(city):2	94(noise):1	98(outside):1	101(center):1	239(town):1	246(mean):1	356(comment):1	1470(touristy):1	
+0	
+0	
+6	6(breakfast):1	8(day):1	56(morning):1	145(amaze):1	274(ready):1	411(sight):1	
+0	
+
+<Author>BellaRialto
+<Content>Cool Hotel and Fabulous Breakfast Stayed at UNA for two nights because I wanted to try something different and on the other side of the river. I enjoyed the location,nice and quiet, the room was very clean, the beds were comfortable, the breakfast buffet was outstanding, the food in the restaurant was also outstanding and the decor was really, really different. If you are in Florence and want to get away from all the tourists, then this is the area to go to - San Frediano or Oltrarno.The only downside was that some of the front desk staff could have been more helpful or at least friendlier and they had the wierdest bathroom shower setup I have ever seen. I had read the reviews about the showers and the clear glass, but I didn't understand it until I got there. The showers have clear glass on the outside of the showernext to the room's entrance way and on the other side of the entranceway is a mirrored wall. So, you can't stay in bed while someone else is taking a shower without seeing them and the only place you can go and not see the person in the shower is in the dressing area. It's a nice comfortable area and you can sit and watch TV, but it's just a wierd setup.  
+<Date>Jun 28, 2007
+<Rating>4	4	4	4	5	3	3	-1	
+<Aspects>
+4	177(san):1	209(tourist):1	346(florence):1	9818(oltrarno):1	
+0	
+27	0(staff):1	4(nice):1	11(bed):1	12(friendly):1	13(bathroom):1	14(helpful):1	25(comfortable):1	31(front):1	36(desk):1	37(review):1	61(shower):5	88(read):1	98(outside):1	116(tv):1	169(sit):1	170(else):1	183(wall):1	193(person):1	245(watch):1	327(glass):2	391(understand):1	490(entrance):1	782(downside):1	935(dress):1	1129(mirror):1	3363(setup):2	5503(wierd):1	
+0	
+0	
+0	
+19	1(location):1	2(night):1	3(clean):1	4(nice):1	6(breakfast):2	10(restaurant):1	11(bed):1	16(food):1	25(comfortable):1	51(enjoy):1	58(quiet):1	76(try):1	77(buffet):1	269(decor):1	270(fabulous):1	278(cool):1	534(outstanding):2	710(river):1	6494(una):1	
+0	
+
+<Author>chocolatespot
+<Content>Funky, Unique and a great experience Stayed for 2 nights in the Una in Sept 06 and have recommended this hotel to our friends and will definitely go back as soon as we get the opportunity.This is a really unique, modern hotel, rooms are well equiped with plasma telly, amazing lighting system for a hotel and uses space well - unique shower and was a great showering experience! Rooms are bit on the small side, but this didn't bother us.Breakfast - good breakfast for what you get in Italy (Italian's don't do luxurious breakfasts) and a lovely restaurant setting!The service is the hotel was great from what we saw and you can even choose what type of pillows you like.Good location as it's just a short walk from the city, so you have better access to cheaper restaurant that serve truly authentic Italian meals - instead of the rip of pizzerias in the centre! If you go out of the hotel and turn right, there is a great restaurant that serves fab food a great prices - has a sign outside saying Osteria! They don't have an English menu and they don't speak much English, but they speak enough to get you a fab meal at a reasonable price!Would highly recommend this hotel if you like modern, unique hotels. If you want a traditional hotel, then this isn't really one, but I'd still highly recommend it!  
+<Date>May 30, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+5	15(recommend):2	138(highly):2	151(modern):1	1027(unique):1	1241(traditional):1	
+18	2(night):1	15(recommend):1	19(price):1	44(experience):1	59(definitely):1	127(speak):2	146(friend):1	152(english):2	213(meal):1	273(reasonable):1	418(soon):1	423(menu):1	1027(unique):1	1216(fab):1	1235(opportunity):1	1516(funky):1	1804(sept):1	6494(una):1	
+13	44(experience):1	52(bit):1	61(shower):2	145(amaze):1	151(modern):1	157(light):1	210(space):1	307(bother):1	518(system):1	1027(unique):2	1500(plasma):1	2976(equipe):1	6534(telly):1	
+0	
+0	
+0	
+30	1(location):1	6(breakfast):3	7(walk):1	9(service):1	10(restaurant):3	16(food):1	19(price):1	41(city):1	87(lovely):1	98(outside):1	101(center):1	143(cheap):1	144(short):1	159(access):1	167(choose):1	174(serve):2	213(meal):1	234(set):1	303(pillow):1	353(instead):1	358(italian):2	389(type):1	449(sign):1	476(truly):1	708(luxurious):1	900(italy):1	1182(rip):1	1216(fab):1	1886(authentic):1	9270(osteria):1	
+0	
+
+<Author>audies
+<Content>Better than expected While reviews on tripadvisor were good, i wasn't expecting this hotel to be as good as it was. The design is quite interesting - the unusual lobby/bar area, the portraits on the room doors, the firbre-optics in the bedroom, the lilac bathroom with watering can heads. The hotel was very well maintained. Air conditioning almost soundless and worked perfectly - unusual for Italy!Food excellent - very good breakfast buffet - dinner a little pricey (like food in Florence generally) but quite good. Staff friendly and helpful.1 negative - area not fantastically interesting - that said bus outside gate takes 4-5mins to Duomo, and a short (5) mins walk brings you down to Oltarno and great selection of good restraunts.  
+<Date>May 23, 2007
+<Rating>5	4	5	3	5	5	5	4	
+<Aspects>
+3	37(review):1	62(expect):2	597(tripadvisor):1	
+0	
+13	13(bathroom):1	54(door):1	55(lobby):1	57(water):1	164(air):1	263(condition):1	268(bedroom):1	319(head):1	516(design):1	595(perfectly):1	900(italy):1	1610(unusual):2	10020(portrait):1	
+15	0(staff):1	7(walk):1	12(friendly):1	14(helpful):1	98(outside):1	120(bus):1	142(bring):1	144(short):1	247(min):1	282(negative):1	333(selection):1	981(duomo):1	992(gate):1	4062(restraunts):1	4953(fantastically):1	
+1	562(maintain):1	
+0	
+8	6(breakfast):1	16(food):2	21(excellent):1	23(little):1	77(buffet):1	117(dinner):1	346(florence):1	546(pricey):1	
+0	
+
+<Author>BB in PHX
+<Content>Wonderful Experience, if only for a few nights...       cool lobby!  
+<Date>May 20, 2007
+<Rating>5	4	4	4	4	4	4	1	
+<Aspects>
+0	
+5	2(night):1	44(experience):1	48(wonderful):1	55(lobby):1	278(cool):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>HamFaye
+<Content>Excellent Great hotel, very groovy and different. Service and food great. Not too far out of center and on the walk in you pass some great bars and restaurants - keep to the Trattorias for best food and value on approach to Ponte Vecchio.James  Faye  
+<Date>May 3, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	21(excellent):1	2866(jame):1	8953(groovy):1	
+0	
+0	
+0	
+0	
+0	
+12	7(walk):1	9(service):1	10(restaurant):1	16(food):2	27(bar):1	81(value):1	101(center):1	400(pass):1	1378(approach):1	1645(ponte):1	1836(vecchio):1	10277(trattorias):1	
+0	
+
+<Author>Travelling_Swede
+<Content>Great hotel in fantastic town My husband and I have just returned from a well deserved holiday to magical Florence. We are both interested in design which really was the main reason for choosing this hotel. We also got a really nice deal from the hotel's own website, 140 euros per night including welcome drink, a two course dinner including wine and tickets to a Cezanne exhibition. The design of the hotel is fun but perhaps not as spectacular as it was when the hotel was new. I also think that the restaurant is a little noisy and impersonal.The hotel courtyard was very nice however and we spent a lot of time sunbathing there. We also had a very tasty complimentary dinner here. Actually, we both set high standards when it comes to food but I must say that it was really good. The members of the staff were really friendly, especially the gentleman who worked in the bar.The hotel is a little out of the centre but we enjoyed the walk. All in all, a very good experience.  
+<Date>May 3, 2007
+<Rating>5	5	5	3	5	3	5	4	
+<Aspects>
+6	112(main):1	167(choose):1	176(fun):1	374(reason):1	516(design):2	656(spectacular):1	
+1	44(experience):1	
+6	4(nice):1	5(time):1	38(lot):1	64(spend):1	435(courtyard):1	2892(sunbathe):1	
+4	7(walk):1	23(little):1	51(enjoy):1	101(center):1	
+0	
+5	0(staff):1	12(friendly):1	27(bar):1	126(especially):1	1506(gentleman):1	
+32	2(night):1	4(nice):1	10(restaurant):1	16(food):1	23(little):1	39(return):1	63(drink):1	71(include):2	86(fantastic):1	105(husband):1	117(dinner):2	130(standard):1	140(deal):1	166(own):1	180(actually):1	202(welcome):1	217(noisy):1	223(holiday):1	234(set):1	239(town):1	251(wine):1	256(euro):1	262(website):1	293(course):1	345(complimentary):1	346(florence):1	621(ticket):1	984(tasty):1	1072(deserve):1	2592(magical):1	2754(impersonal):1	4808(exhibition):1	
+0	
+
+<Author>StewParis
+<Content>Modern and pleasant hotel ! Memorable stay ! I've stayed here in march 07 for my birthday with my boyfriend and IT WAS A REALLY GOOD CHOICE! The rooms are not very big as you can find in the US but it's not as bad as I've read before. The decoration is very modern and really nice. The staff was very friendly and helpfull. They arange for me a bottle of champagne in the room with rose petals on the bed on the day of my bithday at a cost of 50euros (not to bad). The hotel is not in the center of florence but quite close just a few minuts walking. They also book us a very nice restaurant wich is at just 5 minuts walking NANAMUTA trendy decor and typical Toscane's food ! Very good value for price and very nice staff. For Shure I will be back to this Hotel. And also a very important think : the price if you book directly on their website is cheaper than on other sites like expedia ! less than 100 euros per night with breakfast included for a 4 star ! You will not find an other hotel in the city with a better value for price.  
+<Date>Mar 22, 2007
+<Rating>5	5	5	4	4	4	5	5	
+<Aspects>
+3	150(pleasant):1	151(modern):1	1205(memorable):1	
+20	0(staff):1	2(night):1	4(nice):1	6(breakfast):1	18(book):1	19(price):3	41(city):1	71(include):1	81(value):2	103(star):1	107(choice):1	143(cheap):1	192(site):1	256(euro):1	262(website):1	383(directly):1	615(march):1	763(boyfriend):1	765(birthday):1	1066(expedia):1	
+12	4(nice):1	8(day):1	11(bed):1	50(bad):2	88(read):1	151(modern):1	175(cost):1	238(bottle):1	770(champagne):1	1436(rise):1	1580(decoration):1	3130(petal):1	
+4	7(walk):1	28(close):1	101(center):1	346(florence):1	
+0	
+3	0(staff):1	12(friendly):1	1478(helpfull):1	
+9	4(nice):1	7(walk):1	10(restaurant):1	16(food):1	18(book):1	269(decor):1	628(typical):1	1413(trendy):1	4301(wich):1	
+0	
+
+<Author>VINEYBOY
+<Content>great ultra modern hotel The hotel design is excellent. The room lighting is brilliant, all controlled by a touch panel by the side of your bed. There was a range of lighting options, from just having the red fibre optic lights on that created a relaxing experience, to full lighting or night lighting.Only weird thing was that the shower room had a frosted glass door from the interior of the bathroom, but a clear glass wall out into the room!!!Staff were friendly.Hotel is 20 minutes walk into town.  
+<Date>Mar 20, 2007
+<Rating>5	4	5	3	5	3	3	4	
+<Aspects>
+4	21(excellent):1	151(modern):1	516(design):1	2744(ultra):1	
+9	2(night):1	44(experience):1	157(light):4	160(relax):1	336(option):1	590(red):1	714(range):1	1696(create):1	11853(optic):1	
+14	11(bed):1	13(bathroom):1	54(door):1	61(shower):1	157(light):1	183(wall):1	279(touch):1	327(glass):2	793(brilliant):1	865(control):1	1026(interior):1	1611(weird):1	2134(panel):1	3419(frost):1	
+3	7(walk):1	29(minute):1	239(town):1	
+0	
+2	0(staff):1	12(friendly):1	
+0	
+0	
+
+<Author>turtle22
+<Content>Beautiful City... Wonderful hotel       sunset in florence  
+<Date>Feb 9, 2007
+<Rating>5	5	5	5	5	5	4	5	
+<Aspects>
+5	41(city):1	45(beautiful):1	48(wonderful):1	346(florence):1	1246(sunset):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>snowyshome
+<Content>Good Value in Florence       the cock-pit, or should I say room...!  
+<Date>Jan 1, 2007
+<Rating>4	4	3	3	4	3	3	-1	
+<Aspects>
+0	
+2	81(value):1	346(florence):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Iero
+<Content>No security at all.. Good design but no security at all! it was the worst experience ever. they stole our bag with all our money and staff in the breakfast room, on the first day of our stay! somebody from outside the hotel got in the breakfast room without anybody asking him if he is staying at the hotel (who of course didn't stay...) and easily stole our bag. there were no security mesures at the hotel. of course we called the police and testified the fact.  
+<Date>Dec 10, 2006
+<Rating>1	1	4	3	-1	1	-1	-1	
+<Aspects>
+3	67(call):1	293(course):1	1409(police):1	
+2	44(experience):1	50(bad):1	
+2	516(design):1	641(security):3	
+0	
+0	
+0	
+9	0(staff):1	6(breakfast):2	8(day):1	80(money):1	98(outside):1	290(bag):2	293(course):1	438(easily):1	1187(steal):2	
+0	
+
+<Author>mezzanottech
+<Content>Very good design For whom likes (italian) design, this hotel is a must, although you have to like to walk a little bit to go to the center. As there are a few bus stops in the neighbourhood, I used them quite often and everything was OK. In fact, the nights were very quiet which is not normal for an italian city.Do not expect friendlyness like in austrian hotels, Italians are not like that, specially in very touristic areas. But the service was good: the broken lamp was repaired quickly. The taxi service was also very good.Breakfast was excellent - buffet with large choice (Italians do not eat breakfast, they prefer to go to the bar and drink a small coffee and eat some industrial pastry).Only bad point: the shower courtain should have been replaced and I never was sure what products were available in the bathroom (one day I had no soap at all...)  
+<Date>Nov 19, 2006
+<Rating>3	3	4	3	3	4	3	-1	
+<Aspects>
+5	62(expect):1	126(especially):1	4163(touristic):1	4753(italians):1	12385(friendlyness):1	
+0	
+18	2(night):1	8(day):1	9(service):1	13(bathroom):1	41(city):1	50(bad):1	58(quiet):1	61(shower):1	134(available):1	228(break):1	358(italian):1	471(quickly):1	878(normal):1	912(replace):1	965(soap):1	1081(product):1	1398(repair):1	1622(lamp):1	
+12	7(walk):1	9(service):1	23(little):1	52(bit):1	101(center):1	120(bus):1	122(stop):1	123(ok):1	185(taxi):1	358(italian):1	421(neighbourhood):1	516(design):2	
+0	
+0	
+12	6(breakfast):2	21(excellent):1	27(bar):1	47(eat):2	63(drink):1	77(buffet):1	90(coffee):1	107(choice):1	536(prefer):1	652(pastry):1	3256(industrial):1	4753(italians):1	
+0	
+
+<Author>yorks_nameless
+<Content>Soulless We were looking forward to staying here based on the hotel website and pictures displayed there. We booked a superior room and would recommend doing so based on some of the previous reviews. Our room was fairly large and came with stylish lighting and decorated with a modern theme. Breakfast was good with a large selection although the layout of the table can mean that this can be an impersonal affair. The location of the hotel is ok and a easy walk along the river takes you to the Ponte Vecchio and all of the Florence sites.The staff were not great and one day we arrived back at 3.30pm to find the room had not been serviced, however a quick call to reception fixed this. Overall a nicely decorated hotle but let down by the staff and lack of character to the place.  
+<Date>Oct 31, 2006
+<Rating>3	3	4	3	3	2	3	-1	
+<Aspects>
+0	
+0	
+25	0(staff):1	6(breakfast):1	15(recommend):1	18(book):1	37(review):1	70(overall):1	151(modern):1	157(light):1	229(table):1	246(mean):1	284(base):1	305(decorate):2	333(selection):1	349(lack):1	373(previous):1	404(nicely):1	462(fairly):1	785(superior):1	961(stylish):1	1049(character):1	1118(theme):1	1453(layout):1	2754(impersonal):1	3546(affair):1	7447(hotle):1	
+16	1(location):1	7(walk):1	20(look):1	93(easy):1	123(ok):1	192(site):1	262(website):1	284(base):1	346(florence):1	456(picture):1	710(river):1	750(forward):1	1645(ponte):1	1836(vecchio):1	1917(display):1	6621(soulless):1	
+0	
+9	0(staff):1	8(day):1	9(service):1	53(arrive):1	67(call):1	129(reception):1	299(quick):1	393(pm):1	494(fix):1	
+0	
+0	
+
+<Author>nuyawwka
+<Content>Horrible This is not a 4-star hotel!Shower curtain was covered in mold. Bathroom floor still had hair from previous guests. Finished toiletries (shampoo, soap, tissue, etc) were not replaced for second night stay. Toilet paper was of 1-star quality. Cold room. Colder reception.The hotel looks great in photos, but in reality is not well maintained. It was a very sad (and very expensive) experience.  
+<Date>Oct 16, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+9	44(experience):1	124(expensive):1	187(quality):1	330(toilet):1	544(horrible):1	776(paper):1	1454(sad):1	2254(4-star):1	11505(1-star):1	
+18	2(night):1	13(bathroom):1	24(floor):1	61(shower):1	73(etc):1	91(guest):1	222(cold):1	373(previous):1	552(cover):1	657(toiletry):1	729(hair):1	743(curtain):1	772(finish):1	912(replace):1	965(soap):1	1051(shampoo):1	1138(mold):1	3211(tissue):1	
+0	
+4	20(look):1	562(maintain):1	761(photo):1	2260(reality):1	
+2	129(reception):1	222(cold):1	
+0	
+0	
+
+<Author>JDSX
+<Content>Decent Hotel, Poor Location The price was good and so was the room but it's so far from everything I'd never stay there again. Some of the staff at the front desk were rude/condescending as well.  
+<Date>Oct 10, 2006
+<Rating>3	3	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+4	1(location):1	19(price):1	257(decent):1	331(poor):1	
+0	
+0	
+0	
+4	0(staff):1	31(front):1	36(desk):1	392(rude):1	
+0	
+0	
+
+<Author>Fluften
+<Content>WOW I was nervous that my boyfriend would not like such a modern place as we were in Florence for his 40th. I needn't have worried, as we ended up staying in on our Saturday night, with the champagne and stawberries they had left in the room, a great meal from room service and the wonderful ambience of the lighting, it was fabulous. We couldnt bear to not use the space to the full.The staff were friendly and helpful, the room was great and well thought out, we were even given a tour of how to use the room features (lighting, safe etc) which was a nice touch.The location was great because we were away from the noise of the central city but only 20minutes leisurely walk from it all.Parking was easy on site and not too pricey.I think it's an eye catching but restful place to stay and to get a good, quiet night for sleep was a bonus.I will definately be returning.  
+<Date>Oct 10, 2006
+<Rating>5	4	5	4	5	4	5	5	
+<Aspects>
+8	39(return):1	151(modern):1	346(florence):1	410(definately):1	763(boyfriend):1	862(wow):1	1408(nervous):1	2554(40th):1	
+0	
+29	0(staff):1	2(night):2	4(nice):1	9(service):1	12(friendly):1	14(helpful):1	43(leave):1	48(wonderful):1	58(quiet):1	73(etc):1	104(sleep):1	137(safe):1	157(light):2	181(tour):1	210(space):1	213(meal):1	270(fabulous):1	279(touch):1	540(catch):1	731(feature):1	770(champagne):1	818(saturday):1	849(bonus):1	885(worried):1	957(ambience):1	977(eye):1	1528(couldnt):1	1838(bear):1	3076(restful):1	
+10	1(location):1	7(walk):1	41(city):1	66(park):1	93(easy):1	94(noise):1	168(central):1	192(site):1	546(pricey):1	3646(leisurely):1	
+0	
+0	
+0	
+0	
+
+<Author>BBeauty
+<Content>room for improvement We stayed at the Una Vittoria for 3 nights in September, 2006 and can say that the hotel standards have changed since being there 2 years ago. On our arrival we were met by an unwelcoming woman (reddish hair young woman) who checked us in. She did not give us the warm welcome I remember receiving on my first visit to the Una Vittoria. It is unfortunate that the management has employed someone like this to greet guests. On a positive note, the rest of the staff were very friendly and helpful.I had booked a standard room online (not directly through the hotel) and received a considerable discounted rate. The room was very small. The first time we stayed there our room was significantly larger. I think we originally booked a deluxe room. Something to keep in mind.The room definitely had some maintenance issues. The walls were dirty and scratched and the paint was chipping in the shower. The bedside wall light was streched and not easy to manuever. To top it off, when I went to write in the comment card, someone had already left their comments. Obviously the hotel does not find them important to read.Positive: Breakfast buffet was great. To sum it up...if you are looking for a 4 star hotel, I would recommend another one in the area. I think the Una Vittoria is lacking in service and maintenance to be considered a 4 star hotel. There is definitely room for improvement.  
+<Date>Oct 8, 2006
+<Rating>3	3	2	4	4	1	3	4	
+<Aspects>
+14	43(leave):1	65(visit):1	88(read):1	118(top):1	202(welcome):1	236(warm):1	292(card):1	294(mind):1	302(receive):1	344(write):1	356(comment):2	375(remember):1	781(obviously):1	6494(una):1	
+17	9(service):1	15(recommend):1	18(book):1	20(look):1	78(rate):1	103(star):2	130(standard):1	248(consider):1	302(receive):1	349(lack):1	383(directly):1	822(online):1	864(discount):1	1149(maintenance):1	1651(sum):1	3692(considerable):1	6494(una):1	
+32	2(night):1	5(time):1	18(book):1	32(check):1	59(definitely):2	61(shower):1	93(easy):1	130(standard):1	157(light):1	161(change):1	183(wall):2	196(meet):1	224(arrival):1	265(issue):1	323(dirty):1	566(woman):2	633(ago):1	648(deluxe):1	729(hair):1	806(paint):1	972(september):1	1149(maintenance):1	1300(originally):1	1302(chip):1	1486(improvement):2	2298(bedside):1	2613(scratch):1	3138(significantly):1	3795(unwelcome):1	6494(una):1	12286(manuever):1	12875(strech):1	
+0	
+0	
+11	0(staff):1	12(friendly):1	14(helpful):1	91(guest):1	288(rest):1	297(note):1	415(greet):1	458(positive):1	525(management):1	2663(unfortunate):1	4364(employ):1	
+3	6(breakfast):1	77(buffet):1	458(positive):1	
+0	
+
+<Author>caggs
+<Content>Hi tech and comfy       Enjoy the TV  
+<Date>Oct 3, 2006
+<Rating>4	5	5	3	4	4	3	4	
+<Aspects>
+0	
+0	
+5	51(enjoy):1	116(tv):1	475(comfy):1	1863(hi):1	3836(tech):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Marge Simpson
+<Content>Great hotel Had a lovely 3 nights at this hotel and am glad i chose it. Was a bit apprehensive about the distance fro the centre but it was definately within walking distance.Its much quieter than the centre and has some really nice restaurants nearby plus a supermarket over the road. The buses are really frequent and cheap so save your feet and jump on the D circular route bus that goes every 10 mins from the city gates ( a 5 min walk away ).I would certainly stay here again - and will.The staff were helpful and pleasant, the room was great and in a good location. The bar was expensive but they usually are.  
+<Date>Sep 19, 2006
+<Rating>4	5	4	4	5	4	4	4	
+<Aspects>
+4	2(night):1	87(lovely):1	167(choose):1	619(glad):1	
+3	27(bar):1	124(expensive):1	399(usually):1	
+4	0(staff):1	1(location):1	14(helpful):1	150(pleasant):1	
+25	4(nice):1	7(walk):2	10(restaurant):1	41(city):1	52(bit):1	58(quiet):1	101(center):2	115(distance):2	120(bus):2	143(cheap):1	203(plus):1	230(road):1	232(nearby):1	247(min):2	402(foot):1	410(definately):1	425(save):1	992(gate):1	1035(route):1	1078(supermarket):1	1355(frequent):1	1404(jump):1	1912(circular):1	2129(apprehensive):1	5042(fro):1	
+0	
+0	
+0	
+0	
+
+<Author>AMOUR-F
+<Content>Beautiful modern design- perfect for romantic couples-Excellent value for money.               More photos  
+<Date>Sep 16, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	761(photo):1	
+7	45(beautiful):1	74(perfect):1	80(money):1	81(value):1	151(modern):1	516(design):1	707(romantic):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>William&Christine
+<Content>the best hotel I have ever stayed I took my girlfriend away for a few days to Florence as it is the most beautiful place I have ever been ( my brother did his Uni placement here). The hotel lived up to everything I had hoped for. The rooms were out of this world and the shower room was awesome. The staff were very friendly, helpful and spoke very good English. It is a very pleasant 10/15 min stroll to the heart of Florence but there is a bus stop only 100 yards away. Opposite a great bakers/patisserie which we popped into more than once. You'll not be disappointed with this hotel. We are booking up another trip to one of their other hotels in the chain.  
+<Date>Sep 4, 2006
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+9	8(day):1	45(beautiful):1	154(disappoint):1	206(live):1	328(hope):1	346(florence):1	994(girlfriend):1	2010(brother):1	7401(placement):1	
+0	
+3	61(shower):1	272(world):1	348(awesome):1	
+10	120(bus):1	122(stop):1	150(pleasant):1	247(min):1	346(florence):1	450(heart):1	783(opposite):1	1056(stroll):1	1307(yard):1	1558(pop):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	127(speak):1	152(english):1	
+3	18(book):1	33(trip):1	627(chain):1	
+0	
+
+<Author>robbie1876
+<Content>Fantastic hotel, enjoyble stay We stayed for two nights in one of the smaller rooms. The room looked exactly like it did in the photos on the hotel's website (usually you never get a room like the website photos) - the designer rooms were the main reason we booked the hotel.Staff were friendly, but not in your face. Breakfast was excellent, the best I've had in Italy so far. The prices of drinks in the bar and minibar were extremely expensive, so we avoided the facilites.The room itself was very comfortable, with great innovative lighting effects. The bathroom was fantastic, although the two times we had a bath there was not enough hot water, so the bath was only luke warm. The shower is excellent though, with superb pressure. The room was soundproofed, we heard no sounds from any other rooms or from the corridor at any stage, creating a feeling of privacy.The location in our opinion was great. It was a very pleasant 15 minute walk to the main attractions. If you stay on the hotel side of the river you pass the most amazing little ice cream shop by the river - the meringue ice-cream is a must!!Alternatively, cross over the river and walk down the street parallel to the river to get to the attractions via a very chic shopping street with some stunning antique shops.Overall, we would definitely stay here again, although I would not pay more than what we paid (about 鈧?20 per night for the room).  
+<Date>Aug 25, 2006
+<Rating>5	4	5	4	5	3	4	-1	
+<Aspects>
+0	
+12	2(night):1	19(price):1	27(bar):1	42(pay):2	59(definitely):1	63(drink):1	70(overall):1	110(extremely):1	124(expensive):1	436(avoid):1	1037(minibar):1	3948(facilite):1	
+25	2(night):1	5(time):1	13(bathroom):1	21(excellent):1	25(comfortable):1	34(feel):1	57(water):1	61(shower):1	86(fantastic):2	114(hot):1	132(hear):1	157(light):1	226(bath):2	236(warm):1	407(superb):1	409(sound):1	686(pressure):1	1073(corridor):1	1183(privacy):1	1696(create):1	1852(soundproof):1	1866(stage):1	2191(effect):1	4155(luke):1	7432(innovative):1	
+24	1(location):1	7(walk):2	23(little):1	29(minute):1	35(street):2	49(shop):3	112(main):1	145(amaze):1	150(pleasant):1	350(attraction):2	400(pass):1	512(via):1	547(ice):1	704(opinion):1	710(river):4	988(stun):1	1188(cream):1	1228(cross):1	1472(chic):1	1936(antique):1	4912(parallel):1	5318(alternatively):1	7388(ice cream):1	8217(meringue):1	
+0	
+2	0(staff):1	12(friendly):1	
+12	6(breakfast):1	18(book):1	20(look):1	21(excellent):1	112(main):1	262(website):2	374(reason):1	399(usually):1	586(exactly):1	761(photo):2	900(italy):1	2131(designer):1	
+0	
+
+<Author>hl29
+<Content>Highly Recommended Really unusual hotel in Florence- a little bit hard to find especially when you forgot to print out the map!! Nicely located off the street with underground parking. Rooms are unsual but very interesting. Bed very comfortable and the room was so dark once the shutters were shut you could quite easily sleep until lunchtime if you wanted. The bathroom/wet room was wonderful- great shower- did not get around to trying the very deep bath though.Breakfast in room well worth the extra 6 euro. Would have given it a tip rating if it had a pool.  
+<Date>Aug 17, 2006
+<Rating>4	4	5	4	5	4	4	-1	
+<Aspects>
+14	15(recommend):1	22(pool):1	23(little):1	52(bit):1	78(rate):1	126(especially):1	138(highly):1	162(hard):1	194(tip):1	346(florence):1	397(forget):1	724(map):1	1101(print):1	1610(unusual):1	
+0	
+18	6(breakfast):1	11(bed):1	13(bathroom):1	25(comfortable):1	48(wonderful):1	61(shower):1	76(try):1	96(worth):1	104(sleep):1	128(extra):1	226(bath):1	256(euro):1	438(easily):1	459(dark):1	1043(deep):1	1086(shut):1	2500(shutter):1	3990(lunchtime):1	
+5	35(street):1	66(park):1	84(locate):1	404(nicely):1	1085(underground):1	
+0	
+0	
+0	
+0	
+
+<Author>789Snow
+<Content>Nice Hotel I stay there with our friends for 2 rooms, 2 nights last week. We all like the hotel. This is the forth hotel that I stay in Florence and it's the nicer hotel compare the other 3 with almost the same price range. The hotel is pretty both inside and out. The rooms are very clean, fresh, new and it's a kind of trendy, only the hallway to the room is pretty dark which we don't think it's necessary. Their funitures are very special too. The location is a bit out of the city centre. However, you can still walk for about 15 to 20 mins. For a taxi ride will be less than 5 mins, only couple Euro dollars, $5 to $7 which it's not bad at all. Breakfast is very good, in buffet style. Overall, we are very happy with the hotel, good experience, specially we got the summer advance offer at only $119 Euro from their official web-site.  
+<Date>Jul 13, 2006
+<Rating>4	4	4	-1	4	-1	3	-1	
+<Aspects>
+1	208(special):1	
+16	4(nice):1	19(price):1	44(experience):1	70(overall):1	89(offer):1	126(especially):1	155(happy):1	256(euro):1	346(florence):1	381(compare):1	685(advance):1	714(range):1	853(summer):1	1999(forth):1	2995(official):1	5758(web-site):1	
+11	2(night):1	3(clean):1	4(nice):1	75(week):1	109(pretty):2	146(friend):1	197(fresh):1	408(inside):1	459(dark):1	580(hallway):1	1413(trendy):1	
+12	1(location):1	7(walk):1	41(city):1	50(bad):1	52(bit):1	99(couple):1	101(center):1	185(taxi):1	218(ride):1	247(min):2	256(euro):1	430(dollar):1	
+0	
+0	
+3	6(breakfast):1	77(buffet):1	326(style):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Give it a miss       Room view from bed  
+<Date>Jun 24, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+3	11(bed):1	17(view):1	276(miss):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Dazz83
+<Content>Great!       Room view from bed  
+<Date>Jun 16, 2006
+<Rating>5	5	5	-1	5	-1	4	-1	
+<Aspects>
+0	
+0	
+2	11(bed):1	17(view):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>KWhols
+<Content>Not what we were expecting! I stayed here with my partner for 2 nights and we were a bit disappointed! We had a superior room which was pretty amazing with all the lights and massive shower. The seats in the bar were a bit of fun, but that was about it. We found the hotel staff were not that friendly. Our first night we had problems getting a drink after dinner as there was no barman so had to ask reception, and when our drinks finally arrived we were handed the bill and that was the last we saw of the waiter, so were unable to order anymore. We did have more luck on our second night and had a nice barman working.We found the area the hotel is situated in was not very nice, and quite a walk from the centre which isn't really what we wanted.The dinner we had in the restaurant the first night was not very good, however the breakfast was excellent. If we stay in Florence again we will stay at a hotel in the centre.  
+<Date>Jun 13, 2006
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	2(night):1	52(bit):1	62(expect):1	154(disappoint):1	1006(partner):1	
+0	
+6	61(shower):1	109(pretty):1	145(amaze):1	157(light):1	785(superior):1	1329(massive):1	
+4	4(nice):1	7(walk):1	101(center):1	574(situate):1	
+0	
+2	0(staff):1	12(friendly):1	
+21	2(night):3	4(nice):1	6(breakfast):1	10(restaurant):1	21(excellent):1	27(bar):1	52(bit):1	53(arrive):1	63(drink):2	117(dinner):2	129(reception):1	176(fun):1	341(finally):1	377(hand):1	495(bill):1	504(seat):1	735(waiter):1	1055(luck):1	1461(unable):1	1853(anymore):1	3315(barman):2	
+2	101(center):1	346(florence):1	
+
+<Author>sgallup
+<Content>Excellent Hotel in Pretty Good Location Excellent Hotel in a pretty good location (probably more like 15/20 mins from ponte vecchio), Rooms are spacious, breakfast is good and deskstaff were helpful. Only minor gripe was the cleaning staff never replenished the shampoo/shower gel etc during our 3 night stay.  
+<Date>May 15, 2006
+<Rating>5	3	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+9	0(staff):1	2(night):1	3(clean):1	73(etc):1	720(minor):1	1051(shampoo):1	1788(gripe):1	1808(replenish):1	2415(gel):1	
+0	
+0	
+10	1(location):2	6(breakfast):1	14(helpful):1	21(excellent):2	109(pretty):2	111(spacious):1	178(probably):1	247(min):1	1645(ponte):1	1836(vecchio):1	
+0	
+0	
+
+<Author>senka82
+<Content>Funky Hotel               
+<Date>May 7, 2006
+<Rating>5	5	5	-1	4	-1	3	-1	
+<Aspects>
+1	1516(funky):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Marla7
+<Content>Ab Fab Right after the room factory where we stayed in Rome, the Hotel Vittoria looked far above excellet to us! First, it's absolutely COOL. It has to be seen. The staff is very professional and helpful, it's clean and, well... top of the range! The location too, is ideal. Nice and quiet neighbourhood, only 10 minutes from Ponte Vecchio. A nice stroll along the Arno river and there you are, in the very heart of beautiful Firenze.  
+<Date>Apr 20, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	4(nice):1	45(beautiful):1	189(absolutely):1	278(cool):1	450(heart):1	710(river):1	1056(stroll):1	2117(arno):1	3062(firenze):1	
+0	
+11	4(nice):1	20(look):1	29(minute):1	58(quiet):1	421(neighbourhood):1	1216(fab):1	1645(ponte):1	1836(vecchio):1	2185(rome):1	2317(factory):1	6251(ab):1	
+2	1(location):1	545(ideal):1	
+6	0(staff):1	3(clean):1	14(helpful):1	118(top):1	501(professional):1	714(range):1	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Wow!! this hotel is one of the best i have ever stayed in and was a real suprise. everyone was helpful and pleasent and the hotel itself was fantastic and really liked the fibre optic lights in the bedroom a touch of class without being tacky. a real hoteliers hotel.  
+<Date>Apr 18, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+4	240(real):2	862(wow):1	1738(suprise):1	7195(hotelier):1	
+0	
+9	14(helpful):1	86(fantastic):1	157(light):1	268(bedroom):1	279(touch):1	470(class):1	2406(tacky):1	3057(pleasent):1	11853(optic):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>lass=
+<Content>EXCELLENT!! Stayed on a two night break and it was excellent!Staff very helpful and fluent in English - bar staff also brilliant (thoroughly enjoyed the snacks put out to enjoy with your drinks in the bar downstairs).Rooms were amazing and definately have a 'wow' factor.Staff recommended excellent local restaurants to eat in and found walking to them and the touristy places very easy. I would really recommend this, and have done, to everyone.  
+<Date>Apr 13, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+4	2(night):1	15(recommend):1	21(excellent):2	228(break):1	
+0	
+4	145(amaze):1	410(definately):1	862(wow):1	1655(factor):1	
+9	0(staff):1	7(walk):1	10(restaurant):1	15(recommend):1	21(excellent):1	47(eat):1	93(easy):1	195(local):1	1470(touristy):1	
+0	
+0	
+11	0(staff):2	14(helpful):1	27(bar):2	51(enjoy):2	63(drink):1	152(english):1	406(snack):1	691(downstairs):1	793(brilliant):1	898(thoroughly):1	2037(fluent):1	
+0	
+
+<Author>HPTSW19
+<Content>Amazing hotel!!!! Myself and a friend have recently returned from a two night break at the fabulous Una Hotel Vittoria, in Florence, I can honestly say it was the most amazing hotel I have ever stayed in!!!I have stayed in a number of five star hotels around the world, and this one beats them all hands down! From the approach up the driveway, to the stunning entrance hall, it is even better than the photos on the web-site suggest.We had paid a little extra for a Superior Room, and were so glad we did, as there is a floor plan in the hallway which showed that our room was easily twice the size if the others on our floor!The room was really funky with bright pink carpet  walls, with the fibre optic lights. We had a separate dressing area and lounge area with bar  huge plasma screen tv.The bathroom was v.cool, although the glass wall between the shower and bedroom made for a little embarassment! The bathroom itself was covered in tiny lilac mosaic tiles, with a plasma tv on the wall!!!The mini-bar was very expensive, which you would expect at 3.50 Euros for a can of Coke! But they have to make their money somehow, as the cost of our two nights was very reasonable.As we were in a city filled with loved up couples, it was a bit of an odd choice for a girls weekend away, but we had a terrific time and found all of the locals very pleasant, with (thankfully) no bad experiences to report.The only down sides are that it is quite a walk to the tourist centre  train station, and the dog poo, but this was not just around the hotel, it was everywhere in Florence, it seemed like there was atleast one dog for every two people we saw there!However we did not see the location as a down side, as all the shops, bars  restaurants around us seemed much more reasonable in value  of a superior quality, both in wine  food, of which we sampled maybe a little too much of both! Florence itself is a beautiful city, with lots to see and do, it is rare that I would seek to return to a city, however Florence is to be the exception, only next time i will bring my boyfiend, and do the loved up couple thing! I will definatley book to stay at the Una Hotel Vittoria!  
+<Date>Mar 5, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+20	2(night):1	5(time):1	38(lot):1	39(return):2	40(love):1	41(city):2	45(beautiful):1	99(couple):1	142(bring):1	145(amaze):2	146(friend):1	228(break):1	270(fabulous):1	322(recently):1	346(florence):3	1028(honestly):1	1128(exception):1	1924(rare):1	1980(seek):1	6494(una):1	
+32	2(night):1	5(time):1	40(love):1	41(city):1	44(experience):1	50(bad):1	52(bit):1	62(expect):1	80(money):1	99(couple):1	103(star):1	107(choice):1	124(expensive):1	150(pleasant):1	172(weekend):1	175(cost):1	195(local):1	256(euro):1	272(world):1	273(reasonable):1	335(numb):1	377(hand):1	442(beat):1	491(fill):1	625(girl):1	699(terrific):1	838(report):1	1088(odd):1	1338(mini-bar):1	1672(coke):1	1893(thankfully):1	2017(somehow):1	
+29	13(bathroom):2	23(little):2	24(floor):2	42(pay):1	61(shower):1	83(size):1	116(tv):1	128(extra):1	157(light):1	183(wall):3	221(plan):1	268(bedroom):1	278(cool):1	327(glass):1	338(tiny):1	347(twice):1	396(carpet):1	438(easily):1	552(cover):1	580(hallway):1	619(glad):1	785(superior):1	846(tile):1	880(bright):1	1500(plasma):1	1516(funky):1	2121(pink):1	7436(mosaic):1	11853(optic):1	
+18	7(walk):1	26(people):1	82(station):1	101(center):1	182(train):1	209(tourist):1	346(florence):1	452(suggest):1	490(entrance):1	616(hall):1	761(photo):1	988(stun):1	1126(dog):2	1378(approach):1	3767(driveway):1	4711(atleast):1	5758(web-site):1	9596(poo):1	
+0	
+0	
+23	1(location):1	10(restaurant):1	16(food):1	18(book):1	23(little):1	27(bar):2	49(shop):1	81(value):1	116(tv):1	133(huge):1	187(quality):1	237(lounge):1	251(wine):1	273(reasonable):1	308(maybe):1	474(separate):1	526(screen):1	785(superior):1	935(dress):1	1500(plasma):1	1960(sample):1	3658(definatley):1	6494(una):1	
+0	
+
+<Author>Glaws
+<Content>Modern hotel with a difference I stayed there with my wife and daughter for three nights in October 2005The hotel is modern but has tried to counter this with interesting design features. The dining room table is serpentine in shape and the rooms have fibre optic lighting in one wall. The bar also has a looped seating arrangement - definitely different!The hotel was spotlessly clean, well decorated and together. Breakfast was plentiful and good quality.Found the hotel staff helpful and friendly and would definitely stay there again.On the downside 20 mins walk into town - but found that OK. Couple of good local restaurants.  
+<Date>Oct 25, 2005
+<Rating>4	3	5	-1	5	-1	4	-1	
+<Aspects>
+10	2(night):1	151(modern):2	184(wife):1	253(tried):1	467(daughter):1	516(design):1	731(feature):1	819(difference):1	911(october):1	1001(counter):1	
+3	6(breakfast):1	187(quality):1	1039(plentiful):1	
+9	3(clean):1	157(light):1	183(wall):1	229(table):1	305(decorate):1	316(dine):1	1094(spotlessly):1	1226(shape):1	11853(optic):1	
+5	7(walk):1	123(ok):1	239(town):1	247(min):1	782(downside):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	59(definitely):1	
+8	10(restaurant):1	27(bar):1	59(definitely):1	99(couple):1	195(local):1	504(seat):1	1415(arrangement):1	4408(loop):1	
+0	
+
+<Author>wintercoat
+<Content>Modern looking in the heart of Italy This hotel is very stylish with original decoration. If you are getting tired of traditional Italian places, come here for a breath of fresh air. The rooms were not large, but looked great! The reception was also great, but the drinks were *very* expensive for this part of town.  
+<Date>Oct 15, 2005
+<Rating>4	4	5	-1	5	-1	2	-1	
+<Aspects>
+0	
+4	63(drink):1	124(expensive):1	129(reception):1	239(town):1	
+13	20(look):2	151(modern):1	164(air):1	197(fresh):1	358(italian):1	450(heart):1	454(tire):1	900(italy):1	961(stylish):1	1241(traditional):1	1270(original):1	1580(decoration):1	2214(breath):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>4 stars for the room; 2 for the desk staff. The rooms and the restaurant (and restaurant staff) are excellent. But the noise of the cleaners 鈥?due to the uncarpeted passageways- and the rudeness of many of the desk staff (especially those on in the evening) was very off putting and we won鈥檛 go back. Walking to and from the hotel the first couple of days was okay but then it became tiresome. (BTW we are fit; frequent walkers). Although the restaurant was fantastic it would have been nice to be able to dine at another restaurant, but this option is hampered by the location. (Someone has said the staff recommended restruants in the areas, but we were obviously unlucky with the staff during our stay).If you have the money for taxis (which you can鈥檛 always trust) or are using private transport the location won鈥檛 bother you. And if you have ear plugs handy - nor will the noise. And if you can put up with the rude staff - by all means stay here. The restaurant and rooms won鈥檛 disappoint.  
+<Date>Oct 7, 2005
+<Rating>4	4	5	-1	4	-1	2	-1	
+<Aspects>
+5	94(noise):1	755(handy):1	970(nor):1	1174(plug):1	1684(ear):1	
+0	
+5	0(staff):1	10(restaurant):3	21(excellent):1	154(disappoint):1	1273(win):1	
+24	1(location):2	4(nice):1	7(walk):1	8(day):1	10(restaurant):2	80(money):1	86(fantastic):1	99(couple):1	171(able):1	185(taxi):1	307(bother):1	316(dine):1	336(option):1	453(okay):1	492(private):1	668(fit):1	742(transport):1	1273(win):1	1355(frequent):1	1402(trust):1	2713(btw):1	3309(walker):1	5875(tiresome):1	8866(hamper):1	
+0	
+16	0(staff):5	15(recommend):1	36(desk):2	94(noise):1	103(star):1	126(especially):1	246(mean):1	259(due):1	392(rude):1	781(obviously):1	1273(win):1	2487(cleaner):1	3647(rudeness):1	3952(unlucky):1	9056(passageway):1	11405(restruants):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Surprising but too Far from the center and unhelpfull staff       ponte vechio  
+<Date>Oct 2, 2005
+<Rating>3	3	5	-1	4	-1	2	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+6	0(staff):1	101(center):1	199(surprise):1	1645(ponte):1	8651(vechio):1	12640(unhelpfull):1	
+0	
+0	
+
+<Author>Carol23Maryland
+<Content>What a unique hotel and experience..... Just returned from a 2 week vacation in Italy and spent 4 nights at this unusual and very special hotel. We thoroughly enjoyed our experience and particularly loved the comtemporary decor. The rooms were spacious and the bathroom was to die for! Could have lived in the bathroom.... just gorgeous with high end bath, beauty and vanity products...they thought of everything. Some might think the rooms a bit dark but we love that style - very chic and creative. The hotel is situated about a 20 minute walk from the attactions, museums and shopping but we found that a plus as it allowed us an invigorating walk each morning and evening. Very ample breakfast served in a gorgeous room. A couple of suggestions we have are; hotel needs to figure out a way to prop bathroom door open so that this large room doesn't completely steam up and, it would have been nice to have 2 luggage racks - rather than just one - to spread out our suitcases.... other than that - just great. Fabulous flat screen TV and Internet access though you have to pay for it... would definitely recommend this unique hotel.  
+<Date>Sep 30, 2005
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+15	2(night):1	39(return):1	40(love):1	44(experience):2	51(enjoy):1	64(spend):1	75(week):1	131(vacation):1	208(special):1	269(decor):1	553(particularly):1	898(thoroughly):1	900(italy):1	1027(unique):1	1610(unusual):1	
+27	4(nice):1	13(bathroom):3	40(love):1	52(bit):1	54(door):1	99(couple):1	111(spacious):1	206(live):1	226(bath):1	249(luggage):1	326(style):1	446(gorgeous):1	459(dark):1	542(completely):1	779(figure):1	921(suggestion):1	974(suitcase):1	1081(product):1	1203(spread):1	1264(die):1	1472(chic):1	1595(beauty):1	1760(steam):1	1916(rack):1	2127(vanity):1	4003(creative):1	4531(prop):1	
+10	7(walk):2	29(minute):1	49(shop):1	56(morning):1	203(plus):1	359(allow):1	507(museum):1	574(situate):1	10647(invigorate):1	11082(attaction):1	
+0	
+0	
+4	6(breakfast):1	174(serve):1	446(gorgeous):1	1341(ample):1	
+10	15(recommend):1	42(pay):1	59(definitely):1	97(internet):1	116(tv):1	159(access):1	270(fabulous):1	526(screen):1	535(flat):1	1027(unique):1	
+
+<Author>interpol81
+<Content>Amazing experience!!! Just returned from a night in Florence at the Una Hotel Vittoria and i definitely loved this hip boutique hotel. I found a very convenient price at Una website (just 170 Euros for an Executive room which regular price is 490, better than any other website) and immediately booked a room for me and my boyfriend. Una Vittoria is a trendy and modern hotel located in San Frediano, a typical florentine neighborhood, at just 15 min walk from Ponte Vecchio. Our room (number 109) was large, clean and really comfortable, and the bathroom was huge (loved the deepest thub i've ever seen!!).. plasma screen in front of the bed and a little flat tv in the bathroom give a stylish touch to this incredible room! Frette lines are awesome and you'll love the little lights in the leather-covered walls all around you, it makes you feel like sorrounded by the stars! The staff is very friendly and useful, the decor of the hotel is hip and funny. Restaurant and bar are very trendy and the food really good. Interior parking. Great breakfast included. Highly recommended, but avoid it if you're looking for a more typical and classical hotel (and you're not into those design hotels), and if you want to be closer to the major attractions of Florence.  
+<Date>Sep 18, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+11	23(little):1	34(feel):1	40(love):1	44(experience):1	103(star):1	145(amaze):1	157(light):1	183(wall):1	188(line):1	348(awesome):1	6488(frette):1	
+23	0(staff):1	3(clean):1	11(bed):1	12(friendly):1	13(bathroom):2	23(little):1	25(comfortable):1	31(front):1	40(love):1	116(tv):1	133(huge):1	269(decor):1	279(touch):1	335(numb):1	526(screen):1	535(flat):1	718(incredible):1	961(stylish):1	1043(deep):1	1156(funny):1	1232(useful):1	1491(hip):1	1500(plasma):1	
+30	2(night):1	7(walk):1	15(recommend):1	20(look):1	28(close):1	39(return):1	40(love):1	59(definitely):1	66(park):1	84(locate):1	138(highly):1	151(modern):1	177(san):1	247(min):1	315(major):1	346(florence):2	350(attraction):1	421(neighbourhood):1	436(avoid):1	516(design):1	623(boutique):1	628(typical):2	1026(interior):1	1413(trendy):1	1491(hip):1	1645(ponte):1	1836(vecchio):1	4157(classical):1	4249(florentine):1	6494(una):2	
+0	
+0	
+16	6(breakfast):1	10(restaurant):1	16(food):1	18(book):1	19(price):2	27(bar):1	71(include):1	186(convenient):1	256(euro):1	262(website):2	489(immediately):1	744(regular):1	763(boyfriend):1	872(executive):1	1413(trendy):1	6494(una):1	
+0	
+
+<Author>smudge73
+<Content>Fantastic comfortable hotel A truly comfortable and stylish modern hotel. The rooms are large and have all the mod cons you need from an hotel. The restaurant is good, perhaps more expensive than some other good restaurants in town, but that is what happens at 4* hotels, so no surprise there. The food is actually perfectly good anyway and the choice of local wines acceptable. Do not be put off by comments that the hotel is far out of town. For the average fit young person, a 15 minute stroll takes you to Ponte Vecchio - but even better you can get there in about 5 minutes on the bus for only one euro (about 66 pence sterling). The bus stop is 50 yards from the hotel front door - buy tickets from the Tabac about 15 yards before that. Taxis cost about nine or ten euros from the train station (so even less to the centre of town!) - by Edinburgh and London standards fairly cheap! The staff could not be more helpful and recommended some excellent restaurants nearby. I intend to recommend this hotel to all of my friends travelling to Florence.  
+<Date>Sep 17, 2005
+<Rating>5	4	4	-1	5	-1	5	-1	
+<Aspects>
+12	15(recommend):1	25(comfortable):2	68(travel):1	86(fantastic):1	146(friend):1	151(modern):1	239(town):1	346(florence):1	356(comment):1	476(truly):1	961(stylish):1	1862(intend):1	
+10	10(restaurant):2	124(expensive):1	130(standard):1	143(cheap):1	199(surprise):1	239(town):1	382(happen):1	462(fairly):1	697(london):1	9163(edinburgh):1	
+2	840(Con):1	4320(Mod):1	
+23	29(minute):2	31(front):1	54(door):1	82(station):1	101(center):1	120(bus):2	122(stop):1	175(cost):1	182(train):1	185(taxi):1	193(person):1	227(average):1	239(town):1	256(euro):2	280(buy):1	621(ticket):1	668(fit):1	1056(stroll):1	1307(yard):2	1590(penny):1	1645(ponte):1	1836(vecchio):1	6556(sterling):1	
+0	
+6	0(staff):1	10(restaurant):1	14(helpful):1	15(recommend):1	21(excellent):1	232(nearby):1	
+8	16(food):1	107(choice):1	180(actually):1	195(local):1	251(wine):1	417(anyway):1	595(perfectly):1	1214(acceptable):1	
+0	
+
+<Author>CiaoMilano
+<Content>A change from traditional...... Every time I think about this hotel I smile. It made a great change from the traditional hotels that my husband and I tend to gravitate towards when on holidays in Italy. The hotel lies some distance from the main tourist areas of Firenze but we found the walk pleasant and it was such a relief to be staying somewhere quiet away from the crowds. From the outside the hotel looks traditional and welcoming but inside lurks the most amazing d茅cor 鈥?like something out of a 1960鈥檚 James Bond movie. The whole place was fascinating - from the long snake-like table in the restaurant to the huge red circle-like chairs in the bar. Then there were the licorice coloured hallways leading to the bedrooms and the larger than life portraits of historic people which lined every bedroom door. Our bedroom was coloured a bright magenta with pale green and black accents. It was also crammed full of technology including a myriad of tiny lights which lined the walls and ceiling. The room was indeed small but for relief we opened the frosted windows to let the real Firenze peek in. Our tiny black tiled bathroom only added to the overall effect with a large clear glass wall between the shower and our room鈥檚 hallway which proved unnerving and somewhat exposing when it came to shower time.I say 鈥?if you are only staying a short time in Firenze and would like to try something different or whacky which you can smile about later 鈥?then stay at this hotel. It is well presented, extremely clean, with nice staff and good food. We really did enjoy our stay鈥︹€︹€?  
+<Date>Aug 24, 2005
+<Rating>4	3	3	-1	4	-1	4	-1	
+<Aspects>
+14	5(time):2	51(enjoy):1	76(try):1	79(late):1	105(husband):1	144(short):1	161(change):2	223(holiday):1	387(smile):2	900(italy):1	959(towards):1	1053(tend):1	1241(traditional):2	3062(firenze):1	
+0	
+60	5(time):1	7(walk):1	13(bathroom):1	20(look):1	26(people):1	54(door):1	58(quiet):1	61(shower):2	70(overall):1	71(include):1	98(outside):1	112(main):1	115(distance):1	119(window):1	145(amaze):1	150(pleasant):1	157(light):1	183(wall):2	188(line):2	202(welcome):1	209(tourist):1	240(real):1	268(bedroom):3	313(crowd):1	327(glass):1	338(tiny):2	351(add):1	408(inside):1	426(life):1	528(ceiling):1	580(hallway):2	651(somewhat):1	846(tile):1	880(bright):1	922(lead):1	942(color):2	989(movie):1	990(indeed):1	1005(green):1	1007(black):2	1166(lie):1	1241(traditional):1	1274(historic):1	1554(prove):1	2191(effect):1	2482(relief):2	2637(expose):1	2866(jame):1	3062(firenze):2	3152(cram):1	3419(frost):1	3563(accent):1	3908(peek):1	4205(bond):1	4640(technology):1	5378(pale):1	6797(myriad):1	6807(unnerve):1	7534(lurk):1	10020(portrait):1	
+0	
+5	0(staff):1	3(clean):1	4(nice):1	16(food):1	110(extremely):1	
+0	
+7	10(restaurant):1	27(bar):1	133(huge):1	198(chair):1	229(table):1	590(red):1	3417(fascinate):1	
+0	
+
+<Author>zaza2006
+<Content>Wow - futuristic design in mediaeval Florence Incredible place, in an incredible city...Booked thru the internet, and got far better rates than the Una website. The reception was swift and friendly, and the staff spoke very good English.The bar/lounge is cutting edge of design, and the rooms, though smaller, are decorated with a very futuristic fashion in mind. The showers and bathrooms are far beyond anything in Europe in size, and in amenities. The showerheads are incredible, and the TV is a flat screen set in the wall.The breakfast is terrific, with home made preserves, plenty of fresh and healthy baked goods and hot items. This is unusual in Italy, where most places give you some cold pastries with tepid coffee.The location is out of the historic centre, though a brisk 10 minute walk should get you to the Duomo. The hotel is also near a park that at night in the summer comes alive!Beautiful place in a beautiful location!  
+<Date>Aug 19, 2005
+<Rating>5	4	4	-1	5	-1	4	-1	
+<Aspects>
+0	
+0	
+21	13(bathroom):1	27(bar):1	61(shower):1	83(size):1	116(tv):1	183(wall):1	234(set):1	291(amenity):1	294(mind):1	305(decorate):1	516(design):1	526(screen):1	535(flat):1	700(europe):1	718(incredible):1	738(beyond):1	873(cut):1	1190(edge):1	1745(fashion):1	7691(showerheads):1	10146(futuristic):1	
+13	1(location):2	2(night):1	7(walk):1	29(minute):1	45(beautiful):2	66(park):1	101(center):1	102(near):1	853(summer):1	981(duomo):1	1274(historic):1	2899(alive):1	4542(brisk):1	
+0	
+6	0(staff):1	12(friendly):1	127(speak):1	129(reception):1	152(english):1	4245(swift):1	
+29	6(breakfast):1	18(book):1	41(city):1	78(rate):1	90(coffee):1	97(internet):1	114(hot):1	141(home):1	158(plenty):1	197(fresh):1	222(cold):1	262(website):1	346(florence):1	516(design):1	519(item):1	652(pastry):1	699(terrific):1	718(incredible):2	862(wow):1	900(italy):1	1231(thru):1	1610(unusual):1	2100(bake):1	2294(healthy):1	4352(preserve):1	6494(una):1	7236(tepid):1	8687(mediaeval):1	10146(futuristic):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A great find in the heart of the real Florence. I stayed at the Hotel Una Vittoria with some friends from 5th to 7th August 2005. We had a great stay. The decor was modern, clean and refreshing. The breakfast was excellent and the hotel staff spoke good English and were keen to help (refreshing for Italy)! We had a superior room which had a very comfortable bed, mini-bar, deep bath and shower in a wet room, plasma screen TV (English speaking channels were CCN, BBC World and MTV) and air conditioning. All this for 拢87 per room per night was excellent value. A couple of things to note about the room though, the wet room seemed to collect puddles so you ended up wading through the water after a shower until the maid had been. Also, there seemed to be no extractor fan and everyone who stayed had to call someone to sort out the safe. We asked for Room service one day and seemed to through them into a bit of confusion but they did bring us up a couple of sandwiches which were fine.The area itself is about 20mins walk from the Ponte Vecchio and probably 25mins from the Duomo. I found it refreshing to have a distance between me and the heaving crowds near the centre. Also there are a few excellent local bars and restaurants around the hotel which are much more fun to explore than the more traditional hangouts. Fantastic people watching potential.In summary, I thoroughly enjoyed my stay at the Una Hotel Vittoria. The modern decor and the local surroundings made for a different view of Florence that you may not get at an expensive hotel in the touristy centre.  
+<Date>Aug 9, 2005
+<Rating>4	5	5	-1	4	-1	3	-1	
+<Aspects>
+19	26(people):1	51(enjoy):1	67(call):1	86(fantastic):1	137(safe):1	146(friend):1	240(real):1	245(watch):1	346(florence):1	450(heart):1	557(sort):1	661(fan):1	839(5th):1	898(thoroughly):1	1716(summary):1	1995(potential):1	2951(7th):1	6494(una):2	7376(extractor):1	
+3	2(night):1	21(excellent):1	81(value):1	
+37	3(clean):1	8(day):1	9(service):1	11(bed):1	25(comfortable):1	52(bit):1	57(water):1	61(shower):2	99(couple):2	113(fine):1	116(tv):1	127(speak):1	142(bring):1	151(modern):1	152(english):1	164(air):1	226(bath):1	263(condition):1	269(decor):1	272(world):1	297(note):1	300(maid):1	526(screen):1	741(channel):1	785(superior):1	1032(wet):2	1043(deep):1	1071(sandwich):1	1271(refresh):1	1338(mini-bar):1	1500(plasma):1	1889(collect):1	2831(confusion):1	2997(bbc):1	4632(wade):1	4888(puddle):1	6224(mtv):1	
+16	7(walk):1	17(view):1	101(center):1	124(expensive):1	151(modern):1	178(probably):1	195(local):1	269(decor):1	346(florence):1	981(duomo):1	1470(touristy):1	1551(surroundings):1	1645(ponte):1	1836(vecchio):1	5007(20min):1	12386(25min):1	
+0	
+9	0(staff):1	6(breakfast):1	21(excellent):1	92(help):1	127(speak):1	152(english):1	900(italy):1	1271(refresh):1	2641(keen):1	
+7	10(restaurant):1	21(excellent):1	27(bar):1	176(fun):1	195(local):1	594(explore):1	1241(traditional):1	
+6	101(center):1	102(near):1	115(distance):1	313(crowd):1	1271(refresh):1	9253(heave):1	
+
+<Author>A TripAdvisor Member
+<Content>Decent Stay for Reasonable Price Would definitely stay here again. It's a nice 15 a walk to city center  Boboli Gardens. Generally a quiet hotel, but view from room was nothing to write home about. Enjoyed walking across the multiple bridges to city center. Liked the funky decor throughout the building, bathroom was pretty cool. Nice touch to have the robes and slippers--which we took and use throughout the rest of our Eurpopean trip. The breakfast was decent. The staff was helpful and friendly. The in-room Ineternet access was awful--12 hours (not from when you first sign in but rather midnight til noon or vice-verse). This was not explained well. It was dreadfully slow and you had to sign in 7 times to finally log into Yahoo mail. Also, it's by keyboard access only, no mouse. Just go to an internet cafe or use the one in the bar.  
+<Date>Jul 25, 2005
+<Rating>4	5	4	-1	5	-1	4	-1	
+<Aspects>
+16	4(nice):1	5(time):1	33(trip):1	279(touch):1	288(rest):1	341(finally):1	445(throughout):1	449(sign):1	455(slow):1	768(explain):1	1046(robe):1	1306(slipper):1	2446(mail):1	3437(log):1	8429(yahoo):1	12808(dreadfully):1	
+4	19(price):1	59(definitely):1	257(decent):1	273(reasonable):1	
+19	13(bathroom):1	17(view):1	58(quiet):1	60(hour):1	109(pretty):1	135(build):1	141(home):1	159(access):1	269(decor):1	278(cool):1	344(write):1	445(throughout):1	449(sign):1	736(awful):1	1044(midnight):1	1301(in-room):1	1309(noon):1	1516(funky):1	2196(til):1	
+9	4(nice):1	7(walk):2	41(city):2	51(enjoy):1	101(center):2	310(garden):1	740(bridge):1	1732(multiple):1	7566(boboli):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+5	6(breakfast):1	27(bar):1	97(internet):1	257(decent):1	275(cafe):1	
+3	159(access):1	2766(mouse):1	4439(keyboard):1	
+
+<Author>chickenfriedhummus
+<Content>fantastic!       shower and tub. look at the coll shower head  
+<Date>Jul 24, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	86(fantastic):1	
+0	
+4	20(look):1	61(shower):2	311(tub):1	319(head):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>MMM...depends. Depends what you want. Hotel is wacky and trendy...rooms excellent...bathrooms cool...doors to rooms done up as old Masters paintings...breakfast buffet great...mad red seats in bar...love 'em or hate 'em...10/15 minutes walk from Ponte Vecchio...ideal if you're coming in from Pisa/Siena direction. But we had a slight problem with the booking through the internet and staff were useless at helping. Very friendly but useless. Glad I stayed there once but wouldn't go back.  
+<Date>Jul 18, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	12(friendly):1	619(glad):1	969(depend):2	2488(useless):1	8275(mmm):1	
+0	
+6	0(staff):1	18(book):1	92(help):1	97(internet):1	1297(slight):1	2488(useless):1	
+0	
+0	
+0	
+24	6(breakfast):1	7(walk):1	13(bathroom):1	21(excellent):1	27(bar):1	29(minute):1	40(love):1	54(door):1	77(buffet):1	278(cool):1	395(direction):1	504(seat):1	545(ideal):1	590(red):1	1110(hate):1	1413(trendy):1	1645(ponte):1	1836(vecchio):1	2337(master):1	2607(mad):1	2994(painting):1	3810(pisa):1	4947(em):2	12122(wacky):1	
+0	
+
+<Author>lass=
+<Content>Room with no view I stayed here during my honeymoon last month after finding this hotel on the internet  I was really disappointed. We had an awful room in the attic with no view at all: there was a window leading onto a sort of 'terrace' but as it was in the roof it was all walled around  all you could see was sky. It was slightly reminiscent of a prison,  this impression was reinforced by the dark blue  grey plastic decor in the (dark  window-less bathroom). Outside the room was a (window-less) corridor with black-painted clapboard for walls: why?? The reception staff were arrogant  disinterested: we called them late one night from the end of the Cascine Park to ask them to call us a taxi as we were stuck down there with no transport after the horse-racing. Their response: no. This left us having to walk through a lonely park in the dark (lonely, that is, apart from the hookers plying their trade amongst the trees). Regarding the hotel's location - one of the other reviewers really put her finger on what a downer it is to the whole Florence experience to have to walk for ages along narrow, dog-dirt encrusted streets to get anywhere decent. The hotel is way overpriced too: we payed EUR200 a night, and the rack rate quoted in the room's minibar was actually EUR490 a night - daylight robbery!  
+<Date>Jul 1, 2005
+<Rating>3	1	3	-1	3	-1	2	-1	
+<Aspects>
+1	1330(response):1	
+15	2(night):2	17(view):1	42(pay):1	78(rate):1	97(internet):1	154(disappoint):1	180(actually):1	388(month):1	502(honeymoon):1	727(overprice):1	1037(minibar):1	1856(quote):1	1916(rack):1	3579(daylight):1	6210(robbery):1	
+23	13(bathroom):1	17(view):1	98(outside):1	119(window):1	183(wall):2	269(decor):1	459(dark):2	557(sort):1	598(slightly):1	636(roof):1	673(terrace):1	694(blue):1	736(awful):1	848(impression):1	922(lead):1	1073(corridor):1	1347(plastic):1	1909(sky):1	2335(grey):1	3865(prison):1	4172(attic):1	5060(reminiscent):1	8534(reinforce):1	
+31	0(staff):1	1(location):1	2(night):1	7(walk):2	35(street):1	43(leave):1	44(experience):1	66(park):2	67(call):2	79(late):1	129(reception):1	185(taxi):1	257(decent):1	346(florence):1	459(dark):1	505(age):1	564(reviewer):1	688(stick):1	742(transport):1	828(tree):1	857(apart):1	930(regard):1	1207(narrow):1	2044(trade):1	2492(finger):1	3329(arrogant):1	4279(lonely):2	4625(disinterested):1	4905(hooker):1	5019(downer):1	10052(ply):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>We Loved the Hotel. Very quirky decor. Stayed for two nights while on our Honeymoon in May 2005.The hotel was very clean and the staff were friendly and helpfull. When we arrived our aircon unit was not working properly, we told the staff and went out for a walk. When we got back a couple of hours later the unit was repaired.The rooms are a bit on the small side, but the decor and appearnce makes up for this. The bathrooms were of very good standard and we loved the little night lights around the bed all over the wall.The breakfast was of a very good standard with the eating area very pleasing to the eye, if a little unusual.The hotel is about a 15 min walk from the Pointe vecioe bridge, but it is a walk along the river and is not too bad at all. But you can get taxies if you prefer.We booked with expedia and got a very good price for this hotel, it was fully booked when we stayed. It was good value for money and we would use it again if it was the right price.overall our stay there was excellent.  
+<Date>Jun 21, 2005
+<Rating>5	5	4	-1	3	-1	4	-1	
+<Aspects>
+3	21(excellent):1	40(love):1	70(overall):1	
+7	2(night):1	18(book):2	19(price):2	80(money):1	81(value):1	502(honeymoon):1	1066(expedia):1	
+22	0(staff):1	2(night):1	7(walk):1	11(bed):1	13(bathroom):1	23(little):1	40(love):1	52(bit):1	53(arrive):1	60(hour):1	69(tell):1	79(late):1	99(couple):1	130(standard):1	157(light):1	183(wall):1	269(decor):2	980(unit):2	1144(properly):1	1398(repair):1	2257(aircon):1	2464(quirky):1	
+8	7(walk):2	50(bad):1	185(taxi):1	247(min):1	536(prefer):1	710(river):1	740(bridge):1	4790(pointe):1	
+4	0(staff):1	3(clean):1	12(friendly):1	1478(helpfull):1	
+0	
+7	6(breakfast):1	23(little):1	47(eat):1	130(standard):1	173(please):1	977(eye):1	1610(unusual):1	
+0	
+
+<Author>peachy
+<Content>one to miss my 14 year old liked this one when it popped up during our online hotel search. the reviews were good so we spent 4 days and far too much money here. we also spent hours each day just getting around because it is, even for us perpetual walkers, a long way from everything. there is something deflating about long walks in poorly lit areas on pavements covered with dog mess when you've spent the day in central florentine loveliness - it sure didn't feel like we were in florence. we spent more time in room than norrmal because getting out was such a palaver at the end of a busy, tiring day. this is an 'anywhere hotel' in that you could be absolutely anywhere. the rooms are tiny and hotel was empty - possibly because it is overpriced and poor value for money. there are few facilities/ services etc in close proximity so alas the dread walk is mandetory. bought daughter modest antipasti type snacks from local deli to stave off imminent starvation and was charged 40 euro for the privilege. there must be something about 40 euro because when daughter left her very small smalls in a hotel drawer and we asked for them to be posted they demanded - you guessed it - 40 euros! i pointed out to the hotel that flights were cheaper between florence and london but 5 months later we have yet to hear back and she has replaced the missing items. hotel service was disinterested at best. i just didnt like this hotel - 9 of 10 florentine providers ripped us off (magically doubled taxi fares etc) and this hotel didn't manage to escape that 'negative glow' - no 'home away from home'. our time in florence cost more than same in london - figure that out. regrettable. and thanks to this pompous, over-rated hotel we had no lovely views, no hanging around the hotel eating ice creams and simply falling into bed at midnight after a relaxing and inspiring day. this 'fun' mother-daughter weekend away was an endurence test and the hotel bears much responsibility for that.  
+<Date>Jun 7, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	8(day):1	37(review):1	64(spend):1	80(money):1	172(weekend):1	176(fun):1	189(absolutely):1	1838(bear):1	2922(test):1	3721(responsibility):1	
+31	5(time):1	79(late):1	80(money):1	81(value):1	132(hear):1	136(charge):1	143(cheap):1	175(cost):1	195(local):1	233(flight):1	256(euro):1	276(miss):1	280(buy):1	331(poor):1	338(tiny):1	346(florence):2	388(month):1	389(type):1	406(snack):1	467(daughter):1	519(item):1	697(london):2	727(overprice):1	779(figure):1	810(empty):1	912(replace):1	1233(possibly):1	1928(deli):1	2553(modest):1	2615(privilege):1	2848(stave):1	
+31	5(time):1	7(walk):1	8(day):3	11(bed):1	17(view):1	34(feel):1	47(eat):1	64(spend):2	87(lovely):1	157(light):1	160(relax):1	168(central):1	220(busy):1	271(thank):1	346(florence):1	454(tire):1	478(hang):1	488(simply):1	547(ice):1	552(cover):1	587(fall):1	1044(midnight):1	1126(dog):1	1188(cream):1	1635(poorly):1	1644(mess):1	3625(inspire):1	4249(florentine):1	4479(pavement):1	5389(over-rate):1	12112(pompous):1	
+32	7(walk):1	8(day):1	9(service):1	28(close):1	43(leave):1	60(hour):1	64(spend):1	73(etc):2	141(home):2	179(double):1	185(taxi):1	211(facility):1	256(euro):2	467(daughter):1	469(guess):1	626(didnt):1	644(post):1	645(manage):1	1112(fare):1	1114(proximity):1	1182(rip):1	1426(drawer):1	1601(escape):1	1613(demand):1	2846(glow):1	3309(walker):1	3864(dread):1	4078(alas):1	4249(florentine):1	5189(provider):1	6315(magically):1	12860(perpetual):1	
+0	
+0	
+2	9(service):1	4625(disinterested):1	
+4	276(miss):1	822(online):1	1248(search):1	1558(pop):1	
+
+<Author>amybatt
+<Content>Nice, but too remote The Una Vittoria is nice. It is very trendy in decor, super modern and a bit funky (grids of twinkle lights on one side of the bed, a wall of mirror on the other, flat panel tv). It was perfectly clean and comfortable and I'm young enough not be freaked out by the decor, but it was just way too far away for me from anything that mattered. 20 minutes on foot to Pitti Palace, 25 to Ponte Vecchio, 30 to Piazza della Signoria. I am young and walk quickly and was quite frustrated at how long it took to get to the hotel and to the sites. I'd prefer to be closer, and you can do better in that respect.  
+<Date>May 20, 2005
+<Rating>4	3	4	-1	5	-1	3	-1	
+<Aspects>
+12	4(nice):2	29(minute):1	402(foot):1	642(palace):1	1272(remote):1	1645(ponte):1	1836(vecchio):1	2116(piazza):1	4266(della):1	5107(signoria):1	5941(pitti):1	6494(una):1	
+0	
+20	3(clean):1	11(bed):1	25(comfortable):1	52(bit):1	116(tv):1	151(modern):1	157(light):1	183(wall):1	269(decor):2	464(super):1	531(matter):1	535(flat):1	595(perfectly):1	1129(mirror):1	1413(trendy):1	1516(funky):1	2134(panel):1	3141(freak):1	8207(twinkle):1	12340(grid):1	
+7	7(walk):1	28(close):1	192(site):1	471(quickly):1	536(prefer):1	1389(respect):1	1574(frustrate):1	
+0	
+0	
+0	
+0	
+
+<Author>dave7814
+<Content>Simply the best Stayed for two nights. The hotel is a bit off the central tourist attractions, but its nonetheless close to them (only 20 mins walk, 5-7 mins drive). Most of the staff are very friendly, and the restaurant is very decent. The room I stayed in was huge and clean. Did I mention the hotel is very stylish and modern? You can't go wrong choosing this hotel. Would definitely stay there again next time.  
+<Date>Apr 8, 2005
+<Rating>5	5	5	-1	5	-1	4	-1	
+<Aspects>
+9	2(night):1	5(time):1	59(definitely):1	151(modern):1	167(choose):1	244(mention):1	427(wrong):1	488(simply):1	961(stylish):1	
+0	
+2	3(clean):1	133(huge):1	
+9	7(walk):1	28(close):1	52(bit):1	168(central):1	209(tourist):1	247(min):2	298(drive):1	350(attraction):1	2652(nonetheless):1	
+0	
+4	0(staff):1	10(restaurant):1	12(friendly):1	257(decent):1	
+0	
+0	
+
+<Author>EgyptTravelers
+<Content>Great Wonderfull lobby and bar. Extremely creative room decor. Great Breakfast.I loved the hotel and enjoyed my stay. Only problem was it was too far from the local attractions, and the walk was too much after a long day of sightseeing.  
+<Date>Apr 4, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	40(love):1	51(enjoy):1	
+0	
+3	110(extremely):1	269(decor):1	4003(creative):1	
+5	7(walk):1	8(day):1	195(local):1	350(attraction):1	640(sight-see):1	
+0	
+0	
+4	6(breakfast):1	27(bar):1	55(lobby):1	2901(wonderfull):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Loved Una Hotel Vittoria Florence was the last stop on our Italy tour in June, 2004, and, without knowing it, this was the nicest hotel we booked. A small boutique hotel, it was very fashionable. The rooms were very modern and had excellent electronic accomodations. The bathrooms were tight, but luxurious. The hotel was located nearby the train station, and within walking distance of the River. A short bus-ride got us to the main attractions which were always packed. We took a day trip in a cheap rental car (get full insurance!) and went to Montevarchi (the shopping outlets), the Chianti area (wine tasting  lunch) finishing in Sienna (no crowd, beautiful Doumo  great gelato). Don't be affraid to get out of Florence to avoid the crowds. Even though this place is a chain -- I will definitely stay at this place, or it's siblings, again.  
+<Date>Nov 19, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	59(definitely):1	313(crowd):1	346(florence):1	436(avoid):1	627(chain):1	12031(sibling):1	
+10	8(day):1	21(excellent):1	33(trip):1	121(car):1	143(cheap):1	151(modern):1	780(accomodation):1	963(rental):1	2578(electronic):1	3166(insurance):1	
+3	13(bathroom):1	708(luxurious):1	1399(tight):1	
+25	7(walk):1	45(beautiful):1	49(shop):1	82(station):1	84(locate):1	112(main):1	115(distance):1	144(short):1	182(train):1	232(nearby):1	251(wine):1	252(lunch):1	313(crowd):1	350(attraction):1	439(taste):1	623(boutique):1	710(river):1	715(pack):1	772(finish):1	1689(outlet):1	5093(gelato):1	5105(fashionable):1	5891(chianti):1	8720(sienna):1	12440(doumo):1	
+0	
+0	
+9	4(nice):1	18(book):1	40(love):1	122(stop):1	181(tour):1	346(florence):1	664(june):1	900(italy):1	6494(una):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Spot Outside of the Tourist Zone My husband and I recently spent one week at the Una Vitorria for our honeymoon. The hotel was one of the best and most pleasant experiences we have ever had traveling abroad. It is very funky and the rooms are small compared to US stardards for a luxury hotel. Our room was great with it's funkified look and gadgets. Very comfortable bed. The staff was extemely helpful and well informed, not only of the usual tourist destinations, but also of the less traveled tourist spots that made the trip more exciting. The hotel is off the beaten path, near La Porta Frediano, in a residental area about a 15 minute walk from the Ponte Vecchio and the bustling tourist area. Along the several paths one could take walking into town, there are many interesting shops, restaurants, markets and local merchants that cater to the surrounding neighborhood. Even though it is removed from the main hotel locations, it is easy to find. The continental breakfast was good and had a variety of food to meet the tastes of European travelers as well as Americans. The bar is nice for an evening night cap after a long day discovering Florence. The bartenders are well versed in english are are good for some humor or finding out your next restaurant desitnation. If you are the adventuresome kind of traveller and want something different out of your next visit to Europe, you will not be disappointed with the Una Vitorria.  
+<Date>Oct 17, 2004
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+5	65(visit):1	154(disappoint):1	267(traveler):1	700(europe):1	6494(una):1	
+17	44(experience):1	64(spend):1	68(travel):1	75(week):1	98(outside):1	105(husband):1	150(pleasant):1	209(tourist):1	317(spot):1	322(recently):1	381(compare):1	437(luxury):1	502(honeymoon):1	1516(funky):1	2227(zone):1	3868(abroad):1	6494(una):1	
+4	11(bed):1	20(look):1	25(comfortable):1	5660(gadget):1	
+24	1(location):1	7(walk):2	10(restaurant):1	29(minute):1	49(shop):1	93(easy):1	102(near):1	112(main):1	195(local):1	209(tourist):1	225(la):1	239(town):1	264(market):1	421(neighbourhood):1	442(beat):1	667(surround):1	1000(cater):1	1107(bustle):1	1135(remove):1	1612(path):2	1645(ponte):1	1836(vecchio):1	4168(merchant):1	5834(porta):1	
+0	
+11	0(staff):1	14(helpful):1	33(trip):1	68(travel):1	209(tourist):2	317(spot):1	682(usual):1	817(inform):1	1092(destination):1	1136(excite):1	6755(extemely):1	
+21	2(night):1	4(nice):1	6(breakfast):1	8(day):1	10(restaurant):1	16(food):1	27(bar):1	152(english):1	196(meet):1	267(traveler):1	346(florence):1	372(continental):1	413(variety):1	439(taste):1	582(european):1	676(bartender):1	869(discover):1	1172(americans):1	2270(cap):1	3169(humor):1	9610(versed):1	
+0	
+
+<Author>scheng
+<Content>highly recommend this hotel This hotel is an excellent deal. It is clean, stylish, and efficient. In fact, it was featured in the September 04 issue of Travel  Leisure for the decor. This was the best hotel we stayed at during our 9 day trip to Italy. While the bedroom itself is quite small, we did not feel claustrophobic. The bathroom is comparatively large. No peep show experience with the shower stall - ours was frosted glass, in constrast to the doors of other reviewers. Also in contrast to other reviews, we found the carpet to be clean, and the hotel not seedy in the least. We enjoyed staying at a peaceful corner of the city - fewer tourists, lower prices, and near a cheap supermarket.  
+<Date>Sep 30, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	8(day):1	15(recommend):1	21(excellent):1	33(trip):1	138(highly):1	140(deal):1	900(italy):1	
+11	19(price):1	41(city):1	51(enjoy):1	102(near):1	143(cheap):1	200(corner):1	209(tourist):1	777(lour):1	1036(peaceful):1	1078(supermarket):1	4478(fewer):1	
+25	3(clean):1	13(bathroom):1	34(feel):1	37(review):1	44(experience):1	54(door):1	61(shower):1	68(travel):1	265(issue):1	268(bedroom):1	269(decor):1	327(glass):1	396(carpet):1	564(reviewer):1	731(feature):1	843(ours):1	972(september):1	1701(stall):1	2032(leisure):1	2209(seedy):1	2835(contrast):1	3112(claustrophobic):1	3419(frost):1	4816(peep):1	7238(comparatively):1	
+0	
+3	3(clean):1	401(efficient):1	961(stylish):1	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Unique, special and great We were there only 1 night, but it ws special, very close to the Ponte Vecchio, 10 min walk, breakfast a little bit expensive, but just in front there is a delicious coffe shop and very cheap. The roon was very different to anothers hotels I was. Furniture was very modern, a huge TV and in the bathroom all stuff perfect.  
+<Date>Sep 29, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	9955(roon):1	
+0	
+7	13(bathroom):1	74(perfect):1	116(tv):1	133(huge):1	151(modern):1	440(furniture):1	480(stuff):1	
+17	2(night):1	6(breakfast):1	7(walk):1	23(little):1	28(close):1	31(front):1	49(shop):1	52(bit):1	124(expensive):1	143(cheap):1	208(special):2	247(min):1	485(delicious):1	1027(unique):1	1645(ponte):1	1836(vecchio):1	3297(coffe):1	
+0	
+0	
+0	
+0	
+
+<Author>mykel67
+<Content>Alice in Wonderland Meets Bladerunner We stayed here for two nights in August, and checked out with mixed feelings about this property. My partner HATED it. He felt it tried too hard to be edgy and different, and in the process sacrificed comfort and ambience. I, however, thought it was interesting, although it seemed much more Las Vegas than Florence. Don't let the plain white stucco exterior fool you. Inside lurks a psychedelic mosaic entrance, a surreal seating arrangement in the bar, a Michael Jackson Billie Jean elevator, and pitch black hallways. The rooms are small, almost claustrophobic, but what they lack in space, they make up for in technology and special touches: plasma television, pin lights, mirrors, clever storage, robes and slippers, and a well equipped bathroom (although we had a good laugh over the fact that the shower's glass wall provides a great show for the person waiting). The decor, however, is beginning to turn from edgy to seedy. Our white carpet was covered in black and grey splotches, and the padded walls around our bed had unsettling stains that made our room feel like a no-tell Motel. This is definitely a hotel for young adults and not families or the elderly. Our cab ride from the train station made it seem like the hotel was extremely far from all of the sights, but it was actually only a 20 minute walk to the Ponte Vecchio, so we were pleasantly surprised. I'm still not sure how I feel about this place... I think it was a decent value (about 100 Euro) compared to the inflated prices at the downtown properties, and the staff was very friendly, helpful and professional, but someone needs to improve the upkeep of the rooms and common areas to keep the hotel feeling fresh and modern instead of dark and seedy.  
+<Date>Sep 8, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+21	34(feel):1	59(definitely):1	106(family):1	162(hard):1	253(tried):1	346(florence):1	466(white):1	556(adult):1	702(comfort):1	834(las):1	957(ambience):1	1006(partner):1	1110(hate):1	1222(process):1	1546(plain):1	1828(exterior):1	1860(vegas):1	2098(fool):1	2784(elderly):1	4962(sacrifice):1	8442(edgy):1	
+21	0(staff):1	12(friendly):1	14(helpful):1	19(price):1	34(feel):2	81(value):1	151(modern):1	197(fresh):1	214(property):1	256(euro):1	257(decent):1	334(downtown):1	353(instead):1	381(compare):1	459(dark):1	501(professional):1	830(common):1	1217(improve):1	2209(seedy):1	4642(upkeep):1	4942(inflate):1	
+39	11(bed):1	13(bathroom):1	34(feel):1	61(shower):1	85(wait):1	153(provide):1	157(light):1	183(wall):2	193(person):1	208(special):1	210(space):1	269(decor):1	279(touch):1	327(glass):1	349(lack):1	396(carpet):1	466(white):1	551(begin):1	552(cover):1	723(stain):1	884(equip):1	991(motel):1	1007(black):1	1046(robe):1	1129(mirror):1	1158(television):1	1245(laugh):1	1306(slipper):1	1311(storage):1	1500(plasma):1	2209(seedy):1	2335(grey):1	2427(pad):1	3112(claustrophobic):1	4367(pin):1	4554(clever):1	4640(technology):1	8442(edgy):1	8618(unsettle):1	
+13	7(walk):1	29(minute):1	82(station):1	110(extremely):1	180(actually):1	182(train):1	199(surprise):1	218(ride):1	380(cab):1	411(sight):1	747(pleasantly):1	1645(ponte):1	1836(vecchio):1	
+0	
+8	2(night):1	32(check):1	196(meet):1	214(property):1	609(mix):1	2657(feelings):1	11379(wonderland):1	11889(alice):1	
+15	27(bar):1	216(elevator):1	408(inside):1	490(entrance):1	504(seat):1	580(hallway):1	1007(black):1	1415(arrangement):1	1693(jackson):1	1908(michael):1	3242(pitch):1	6247(jean):1	6763(surreal):1	7436(mosaic):1	7534(lurk):1	
+0	
+
+<Author>RosieLeeM
+<Content>Una BELLA Hotel! Excellent hotel!!! This hotel was by far the best we stayed in while in Italy. A 4 star hotel at 3 star price! A little bit of a walk to centro, but not too far. I stayed with my family of 5, and while I didn't see any other kids there except mine, we all had a great time. The kids were especially impressed with the unique design of the rooms. True, though, there is a glass wall to the shower, so not much privacy. My 14-year-old son showered in his bathing suit! However, the executive suite did have a door closing off the bathroom from the rest of the room.Breakfast was more than I expected for a contintental breakfast.Overall, a wonderful stay!  
+<Date>Aug 19, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	5(time):1	21(excellent):1	48(wonderful):1	70(overall):1	106(family):1	201(kid):1	337(except):1	900(italy):1	1269(mine):1	3998(bella):1	6494(una):1	
+2	19(price):1	103(star):2	
+18	13(bathroom):1	28(close):1	54(door):1	61(shower):2	108(suite):1	126(especially):1	183(wall):1	201(kid):1	288(rest):1	327(glass):1	343(impress):1	516(design):1	612(son):1	861(suit):1	872(executive):1	1027(unique):1	1183(privacy):1	1896(bathe):1	
+4	7(walk):1	23(little):1	52(bit):1	4879(centro):1	
+0	
+0	
+3	6(breakfast):2	62(expect):1	12792(contintental):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Best deal in Florence 3.5 to 4 stars is not enough. We were in an executive suite and it was great. It is a little psychadelic, but you never loose interest. Design and function in the room are great. Probably not a family and kids hotel, but perfect for lovers. Mirrors and fiber optic lights on the walls are great. Remote controls for everything. Glass wall to the shower allow a great view from the foyer. The staff was very friendly and helpful. We had some poor service at the bar, but Laura at the desk was marvelous with everything. it is not directly at the heart of Florence, but it is a quick walk of cab to everything. I'll be staying again.  
+<Date>Aug 16, 2004
+<Rating>5	4	5	-1	4	-1	5	-1	
+<Aspects>
+9	23(little):1	74(perfect):1	106(family):1	178(probably):1	201(kid):1	865(control):1	1272(remote):1	2234(loose):1	2568(lover):1	
+3	103(star):1	140(deal):1	346(florence):1	
+13	17(view):1	61(shower):1	108(suite):1	157(light):1	183(wall):2	327(glass):1	359(allow):1	516(design):1	872(executive):1	1129(mirror):1	1780(function):1	1931(foyer):1	11853(optic):1	
+6	7(walk):1	299(quick):1	346(florence):1	380(cab):1	383(directly):1	450(heart):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+6	9(service):1	27(bar):1	36(desk):1	331(poor):1	2187(marvelous):1	4547(laura):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Cool and modern, stay here!!! This hotel is great!!! We stayed here for two nights of our six week European vacation in mid July 2004, and it is one of my favorite hotels of the trip. It is clean, comfy, has cool decor and is cheaply priced. It is only a 20 minute walk to downtown and all the sights. The staff was very helpful with maps, etc. Make sure to go to the outdoor markets and buy lots of pashminas, they are so expensive in the US. Also,if you are in to designer, go to the Gucci, Prada, and Fendi outlets about a 30 minute train ride outside of the city. It is so cheap!! I will be back to Florence, and will be staying here!!!!  
+<Date>Aug 1, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	151(modern):1	278(cool):1	346(florence):1	
+19	2(night):1	3(clean):1	19(price):1	33(trip):1	38(lot):1	75(week):1	124(expensive):1	131(vacation):1	143(cheap):1	264(market):1	269(decor):1	278(cool):1	280(buy):1	376(favourite):1	475(comfy):1	582(european):1	901(outdoor):1	1313(mid):1	4353(cheaply):1	
+0	
+12	7(walk):1	29(minute):2	41(city):1	98(outside):1	182(train):1	218(ride):1	334(downtown):1	411(sight):1	1689(outlet):1	2131(designer):1	5724(gucci):1	7480(prada):1	
+0	
+4	0(staff):1	14(helpful):1	73(etc):1	724(map):1	
+0	
+0	
+
+<Author>Italie2008
+<Content>Excellent h么tel mais loin du centre !       Ext茅rieur  
+<Date>Aug 21, 2008
+<Rating>4	5	5	4	5	5	5	5	
+<Aspects>
+1	11232(ext):1	
+0	
+0	
+0	
+0	
+0	
+0	
+4	21(excellent):1	101(center):1	752(el):1	7443(mais):1	
+
+<Author>Chimouel
+<Content>Eccellente Hotel       Camera doppia superior in cui ho alloggiato  
+<Date>Jul 21, 2007
+<Rating>4	3	5	4	5	4	4	4	
+<Aspects>
+3	785(superior):1	1646(camera):1	6879(ho):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

@@ -1,0 +1,756 @@
+<Author>mhollo1
+<Content>Decent, but not great. Nice room with no noise installation Booked through Priceline for New Year's Eve. Location worked well to take train to West End / Victory Plaza / Stars game. Check in was uneventful, valet parked the car. Valet was backed up, but no big trouble. He did give us a heads up that it would probably be 20 - 30 minutes the next morning, so that helped. Room was nice. Large flat screen TV, starbucks coffee in room. Wrapped plastic cups, which I prefer, but some might not consider 4 star. Had some trouble with the phone handset in the room and had to use speaker (not a huge issue, or I'm just not that smart). Bathroom was set up nice, and seemed clean. Bed was comfortable. Biggest complaint was the amount of noise we could hear through the walls. It was NYE and I expected some late night noise, but this was disturbing since it seemed like the noise was so clear. Heard several conversations, some high qualitly snoring and other activities you would expect during NYE in a hotel. The other issue I had was the price to park ($22 + tax + valet tip) and breakfast at the restaurant ($17 for pretty average buffet). Service at the restaurant was good.  
+<Date>Jan 1, 2009
+<Rating>3	4	3	3	4	3	4	-1	
+<Aspects>
+16	2(night):1	29(minute):1	56(morning):1	62(expect):2	79(late):1	92(help):1	94(noise):2	132(hear):1	178(probably):1	257(decent):1	319(head):1	357(activity):1	1067(disturb):1	1281(conversation):1	5785(snore):1	8162(nye):2	
+12	4(nice):1	18(book):1	94(noise):1	103(star):1	248(consider):1	536(prefer):1	800(cup):1	1069(priceline):1	1347(plastic):1	1787(eve):1	2085(wrap):1	9102(installation):1	
+17	3(clean):1	4(nice):2	11(bed):1	13(bathroom):1	25(comfortable):1	90(coffee):1	116(tv):1	133(huge):1	234(set):1	265(issue):1	296(phone):1	526(screen):1	535(flat):1	569(trouble):1	939(starbucks):1	1687(smart):1	2398(speaker):1	
+17	1(location):1	32(check):1	66(park):1	94(noise):1	103(star):1	121(car):1	132(hear):1	182(train):1	183(wall):1	190(complaint):1	457(valet):1	515(plaza):1	666(amount):1	683(game):1	953(west):1	4922(uneventful):1	11226(victory):1	
+2	457(valet):1	569(trouble):1	
+0	
+12	6(breakfast):1	9(service):1	10(restaurant):2	19(price):1	66(park):1	77(buffet):1	109(pretty):1	194(tip):1	227(average):1	265(issue):1	457(valet):1	798(tax):1	
+0	
+
+<Author>jirrupin
+<Content>Nice hotel, but not nice downtown Our hotel room in the Westin was very nice, and probably worthy of four stars. However, the hotel is attached to the very tacky and dated Plaza of the Americas in the dead and boring downtown area of Dallas. Probably this is a great choice if you're staying for business, but we were just having two nights in Dallas while touring the US and it was not the best place to stay.If you are staying in Dallas for leisure, stay Uptown somewhere like the Hotel Zaza or the W. Despite the fact the area around the hotel was dead (and a little scary) at night, it is an easy 15 minute walk into Uptown, and we also walked from the hotel to the Farmers Market (20 minutes) and to the Sixth Floor Museum at Dealey Plaza (25 minutes). Our room faced the street and you should recommend getting one of these rooms, otherwise you will be looking into the dated Plaza of the Americas.I can't say i'd recommend the Westin, but there was certainly nothing terrible about it. It deserves its current rating of 3.5.  
+<Date>Dec 9, 2008
+<Rating>3	4	4	2	4	4	3	2	
+<Aspects>
+3	15(recommend):1	432(terrible):1	889(westin):1	
+11	2(night):1	4(nice):3	103(star):1	107(choice):1	147(business):1	178(probably):2	181(tour):1	334(downtown):1	889(westin):1	1602(dallas):1	2923(worthy):1	
+0	
+28	2(night):1	7(walk):2	15(recommend):1	20(look):1	23(little):1	24(floor):1	29(minute):3	35(street):1	93(easy):1	264(market):1	334(downtown):1	498(despite):1	507(museum):1	508(otherwise):1	511(date):2	515(plaza):3	1098(bore):1	1224(attach):1	1566(scary):1	1602(dallas):2	1621(dead):2	2032(leisure):1	2406(tacky):1	3264(sixth):1	3285(uptown):2	3853(farmer):1	6164(americas):2	7130(zaza):1	
+0	
+0	
+3	78(rate):1	1072(deserve):1	2313(current):1	
+0	
+
+<Author>TDog47
+<Content>Very Average Booked this hotel through Priceline. Paid $93 with taxes. Got to the hotel around 11 p.m. and it seemed like no one was staying there. The hotel is connected to a shopping area. I think maybe 10 years ago it was really nice, but you could tell things had been pretty slow around there for a while. The shopping area now thrives off of business people during the day and I think everything shuts down at night. Our room was located on the 10th floor and the room was very big with a 37 inch lcd. The bathroom was nice as well. The bed was comfortable for the most part. Would I stay here again? Probably not. We paid $23 to park the car which made the night a little more expensive. I live in Houston and was only in Dallas for a night. So I didn't mind staying in an average hotel. If I was a real tourist, I would NOT stay at this hotel. There are a lot of other nice hotels in Dallas to check out. For $100 a night, this hotel is okay. Any more than that, stay away.  
+<Date>Oct 28, 2008
+<Rating>3	3	3	3	3	3	3	-1	
+<Aspects>
+17	2(night):2	4(nice):1	69(tell):1	109(pretty):1	178(probably):1	206(live):1	209(tourist):1	227(average):1	240(real):1	294(mind):1	308(maybe):1	453(okay):1	455(slow):1	633(ago):1	1466(p.m):1	1602(dallas):1	6760(houston):1	
+10	2(night):1	18(book):1	23(little):1	42(pay):2	66(park):1	121(car):1	124(expensive):1	227(average):1	798(tax):1	1069(priceline):1	
+9	4(nice):1	11(bed):1	13(bathroom):1	24(floor):1	25(comfortable):1	84(locate):1	1592(10th):1	1688(inch):1	1773(lcd):1	
+8	2(night):1	8(day):1	26(people):1	49(shop):2	147(business):1	841(connect):1	1086(shut):1	8955(thrive):1	
+0	
+4	4(nice):1	32(check):1	38(lot):1	1602(dallas):1	
+0	
+0	
+
+<Author>Devious88
+<Content>It was just OK I booked this 4 star listed hotel on priceline.com. For the price I paid, it wasn't bad at all. The list rate was 269 dollars. For that price, this hotel is not worth it at all. There was little to no decorations on the wall. The toilet was dirty upon arrival and it certainly was not a heavenly bed. The mirror was dirty as well and the wireless internet prices were listed in Canadian dollars only. They did give us an outward facing room on the 14th floor which was nice. The other side of the hotel faces in to a shopping area, ice skating rink, and other office buildings. Beware as the restaurants and shops close before sundown as they cater to business people. It's right next to the train. If you are looking to stay in downtown Dallas, I would shop around before booking here. Do not pay more than $100 per night for this hotel. The W near American Airlines Center is a good bet.  
+<Date>Oct 25, 2008
+<Rating>3	3	2	4	2	4	-1	2	
+<Aspects>
+0	
+17	2(night):1	18(book):1	19(price):3	42(pay):2	50(bad):1	78(rate):1	96(worth):1	97(internet):1	103(star):1	123(ok):1	323(dirty):1	430(dollar):2	650(list):3	717(wireless):1	1129(mirror):1	2194(canadian):1	6945(priceline.com):1	
+11	4(nice):1	23(little):1	24(floor):1	101(center):1	102(near):1	183(wall):1	1336(airline):1	1580(decoration):1	1821(bet):1	1998(14th):1	7838(outward):1	
+17	10(restaurant):1	18(book):1	20(look):1	26(people):1	28(close):1	49(shop):3	147(business):1	182(train):1	334(downtown):1	547(ice):1	737(beware):1	745(building):1	792(office):1	1000(cater):1	1602(dallas):1	5609(skate):1	6779(rink):1	
+5	11(bed):1	224(arrival):1	323(dirty):1	330(toilet):1	1609(heavenly):1	
+0	
+0	
+0	
+
+<Author>Dallastraveler61
+<Content>Watch out for overcharging I stayed at this hotel for two days in August of 2008. Upon checking in I was asked if I wanted the key for the refrigerator. I specifically told the clerk no. I used only the internet access. One week after my trip, I found a charge for over $130 on my card.When I called back, I was told it was for use of the refrigerator that I couldn't access even if I wanted! There are too many other hotels in the area to go through this aggravation in the future. Be warned.  
+<Date>Sep 3, 2008
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	69(tell):1	679(warn):1	732(future):1	788(clerk):1	1810(specifically):1	7064(aggravation):1	
+0	
+0	
+0	
+0	
+10	8(day):1	32(check):1	33(trip):1	75(week):1	136(charge):1	245(watch):1	292(card):1	339(key):1	916(refrigerator):1	3155(overcharge):1	
+0	
+5	67(call):1	69(tell):1	97(internet):1	159(access):2	916(refrigerator):1	
+
+<Author>saracarrara
+<Content>Staff needs a complete overhaul! Totally unprofessional. I am a recruiter so I travel a LOT. I typically stay at Hilton's but this time we needed a hotel restaurant in the heart of Dallas for a business dinner. From start to finish the staff at the Westin was surprisingly unprofessional. Here are the things I observed and found to be disappointing and impacting the business I was trying to conduct in the city and at the hotel:1. Front desk was annoyed to have to deal with customers. Did not give me any information about the hotel upon check in and certainly did not have a welcoming smile---instead they had a monotone and quick response to everything asked of them. They looked like their clothing was not ironed and the girl pulled her hair into a half-pulled through pony tail with no make up. 2. I arrived at the valet, confused about parking, b/c my business was going to pay for the parking of my vehicle. They pointed to the parking ramp. I self-parked only to find out that I had to then go get my car back out of the lot and take it back to the valet so they could then return it directly back to the lot. I got stuck with paying the $6 and they refused to validate nor apologize for the confusion with the valets. The valets could have taken the time to explain the parking process to me for its guests. Just like the front desk staff, they did not care to inform. There was one Italian good looking younger gentleman with gelled hair who was very kind and helpful later in my stay, but that's it.3. After check-in, I had an hour before my business dinner in the restaurant downstairs. The internet in my room would not connect properly with the purchasing site and I was told by the front desk that they would not automatically credit my room with internet despite the problems with their site. I was left high and dry. They said I could come back downstairs and use their lobby internet---this was after the parking run around and while trying to get ready for dinner I was about to conduct in their hotel.4. I arrived at the hotel restaurant to find there was no host/ess to seat me. I stood there for 10 mins until I finally flagged someone down. They had no record of my reservation I made a month prior and that I called to confirm just hours before. They sat me and I waited......and waited.....and waited.....finally, I flagged someone down and said, NO I had not been served yet! It turned out they sat my guest for dinner at another table on the other side of the restaurant who waited there for 15 mins while I was at my table--this was after I informed them twice to direct guests of ____to come to my table. Thank GOD they did not walk out. I would have lost a $60K sale. The service throughout the whole dinner was spotty and I had to get up to get a server, leaving my prospect at their seat, THREE TIMES. I was so embarassed. I stood around by the bar waiting for someone to get my check so I could pay it....they eventually had to comp my dessert and wrap it up to go b/c they were taking so long. My guest had long left by the time I was able to cash out. I was so embarassed and angered by their lack of consideration for this dinner I had arranged with them a month prior.5. The carpet in the room was stained and looked disgusting. Room 907.6. On my way to another business function, they took 30 minutes to get my car. After 20 minutes of waiting, I inquired about my vehicle. The valet told me they forgot and were just not going to get it. I was late for my function because of this.7. I was standing at the hotel lobby computer and heard an employee in the back room yell [--] and then there was a Shhhh.8. Dishes and left over food were strewn throughout the hallway from 6pm until 6:30am the next day when I woke up. Disgusting.Overall, my experience with the staff at the Westin was extremely disappointing. I travel 27 weeks out of the year and am able to request the hotel I stay in and decide where I will conduct our business socials---which is usually in the hotel restaurant b/c of convenience. I will not be staying at a Westin again. I'm going back to the Hilton. It's too bad, b/c the hotel itself was beautiful (minus the carpet in the room).  
+<Date>Aug 19, 2008
+<Rating>3	4	4	4	4	1	1	1	
+<Aspects>
+21	5(time):1	38(lot):1	43(leave):2	68(travel):1	79(late):1	91(guest):1	171(able):1	247(min):1	341(finally):1	444(stand):1	477(hilton):1	596(lose):1	611(totally):1	889(westin):1	1082(cash):1	1152(disgust):1	1257(dry):1	1723(sale):1	1780(function):1	2290(flag):1	3134(unprofessional):1	
+18	0(staff):2	42(pay):1	44(experience):1	70(overall):1	110(extremely):1	154(disappoint):1	165(start):1	457(valet):1	688(stick):1	772(finish):1	889(westin):2	970(nor):1	1103(refuse):1	1375(surprisingly):1	1485(apologize):1	2831(confusion):1	3134(unprofessional):1	5275(validate):1	
+19	14(helpful):1	20(look):3	45(beautiful):1	50(bad):1	79(late):1	358(italian):1	396(carpet):2	625(girl):1	709(clothe):1	723(stain):1	729(hair):2	858(pull):1	868(iron):1	1152(disgust):1	1506(gentleman):1	2064(minus):1	2415(gel):1	3786(tail):1	10021(pony):1	
+37	5(time):1	7(walk):1	10(restaurant):1	29(minute):1	38(lot):2	39(return):1	41(city):1	42(pay):1	53(arrive):1	66(park):4	68(travel):1	75(week):1	76(try):1	91(guest):1	121(car):2	147(business):4	148(request):1	154(disappoint):1	171(able):1	219(decide):1	271(thank):1	383(directly):1	399(usually):1	457(valet):3	768(explain):1	925(convenience):1	1222(process):1	1419(confuse):1	1522(god):1	1780(function):1	1951(vehicle):1	3147(observe):1	3822(social):1	3825(self-park):1	3852(ramp):1	4236(impact):1	4505(conduct):2	
+3	69(tell):1	397(forget):1	457(valet):1	
+58	0(staff):2	10(restaurant):2	27(bar):1	29(minute):1	31(front):3	32(check):2	36(desk):3	42(pay):1	60(hour):2	67(call):1	69(tell):1	85(wait):6	91(guest):2	97(internet):2	117(dinner):2	140(deal):1	147(business):1	156(reservation):1	169(sit):2	174(serve):1	192(site):2	202(welcome):1	229(table):3	242(care):1	247(min):1	286(check-in):1	299(quick):1	341(finally):1	347(twice):1	353(instead):1	387(smile):1	388(month):1	428(customer):1	444(stand):1	498(despite):1	622(complete):1	637(prior):1	649(information):1	659(credit):1	691(downstairs):1	695(annoy):1	803(direct):1	817(inform):2	841(connect):1	887(purchase):1	982(confirm):1	1144(properly):1	1180(dessert):1	1204(eventually):1	1330(response):1	1704(inquire):1	1951(vehicle):1	2085(wrap):1	2251(record):1	2290(flag):1	2573(automatically):1	2942(comp):1	4053(overhaul):1	
+39	5(time):2	8(day):1	9(service):1	10(restaurant):2	16(food):1	43(leave):2	53(arrive):1	55(lobby):1	66(park):1	76(try):1	97(internet):1	117(dinner):4	147(business):1	149(run):1	274(ready):1	349(lack):1	388(month):1	445(throughout):2	450(heart):1	477(hilton):1	504(seat):2	554(wake):1	580(hallway):1	637(prior):1	680(arrange):1	691(downstairs):1	816(dish):1	1283(host):1	1540(server):1	1602(dallas):1	1994(typically):1	2583(consideration):1	3513(spotty):1	4505(conduct):1	6207(embarass):2	7098(strew):1	7686(6pm):1	7768(anger):1	8729(prospect):1	
+6	55(lobby):1	132(hear):1	444(stand):1	555(computer):1	608(employee):1	1939(yell):1	
+
+<Author>jimleylandfan
+<Content>Gone Downhill a Bit The hotel, while still nice, has declined since my last stay in May 2006. The most obvious example was the plastic-wrapped plastic cups in the bathrooms, compared with the glasses they had before. Service was still very good and it's a very convenient location, so still a good choice for downtown.  
+<Date>Jun 6, 2008
+<Rating>3	3	3	4	4	3	4	-1	
+<Aspects>
+4	4(nice):1	52(bit):1	2394(decline):1	2983(downhill):1	
+5	1(location):1	9(service):1	107(choice):1	186(convenient):1	334(downtown):1	
+7	13(bathroom):1	327(glass):1	381(compare):1	800(cup):1	954(example):1	1347(plastic):1	1698(obvious):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>monunn
+<Content>Great Stay This was a great stay. Only stayed one night. Family of four (2 children - 6 year old and 2 month old). Room was 2 queens size beds and was very spacious. Very Clean and I am a clean fanatic. We stayed in room 311.  
+<Date>May 26, 2008
+<Rating>5	4	5	5	5	4	4	4	
+<Aspects>
+4	2(night):1	106(family):1	277(child):1	388(month):1	
+0	
+4	11(bed):1	83(size):1	111(spacious):1	543(Queen):1	
+0	
+2	3(clean):2	11066(fanatic):1	
+0	
+0	
+0	
+
+<Author>Bliss_Blister
+<Content>If you have to be in Downtown Dallas, a good place to stay I stayed here 10 years ago when it was the Le Meridian and it was a classy place. The age shows a bit in places now that it is the Westin. It is still a good hotel for downtown dallas but parts of the hotel were worn and looked old. Rooms were nice. Very comfortable beds and widescreen tvs. Spacious and quiet so having a comfortable rest was easy. Resturant was good but expensive. There were plenty of low cost options in the plaza area next door for lunch and breakfast. Drinks in the lounge in the evening were a costly but it was popular with the hotel patrons as it was crowded every night. Wireless was costly, $15 a day. Business center was hard to access. Would not stay here again for business. Trolley stop was right outside of hotel. Easy to get to from Love Field.  
+<Date>May 26, 2008
+<Rating>3	3	4	4	3	4	3	1	
+<Aspects>
+14	20(look):1	40(love):1	52(bit):1	93(easy):1	334(downtown):2	434(wear):1	505(age):1	633(ago):1	889(westin):1	1133(le):1	1488(classy):1	1602(dallas):2	2174(field):1	8978(meridian):1	
+13	6(breakfast):1	8(day):1	54(door):1	124(expensive):1	158(plenty):1	175(cost):1	252(lunch):1	336(option):1	513(low):1	515(plaza):1	717(wireless):1	1661(resturant):1	3457(costly):1	
+9	4(nice):1	11(bed):1	25(comfortable):2	58(quiet):1	93(easy):1	111(spacious):1	288(rest):1	1569(tvs):1	8451(widescreen):1	
+4	98(outside):1	122(stop):1	147(business):1	1079(trolley):1	
+0	
+0	
+7	2(night):1	63(drink):1	237(lounge):1	313(crowd):1	1277(popular):1	2512(patron):1	3457(costly):1	
+4	101(center):1	147(business):1	159(access):1	162(hard):1	
+
+<Author>jpbarkan
+<Content>Been in nicer Westins before Located downtown but not to far from the uptown area where there are some decent restaurants. I stayed in a King bed size room and it was just ok. Westin is know for their Heavenly beds and thats all this hotel had to offer. The room was quite small and looked dated. I have stayed at Fairfield Inns that look much nicer inside. The room had a small TV and for business users, the wireless internet is extra and not thru the hotel. The Westin at the Galleria about 20 mins north is much better for the same price usually.  
+<Date>May 1, 2008
+<Rating>3	3	2	3	3	3	4	2	
+<Aspects>
+0	
+6	19(price):1	247(min):1	399(usually):1	684(North):1	889(westin):1	3415(galleria):1	
+14	4(nice):1	11(bed):2	20(look):2	83(size):1	89(offer):1	123(ok):1	243(king):1	324(inn):1	408(inside):1	511(date):1	889(westin):1	1198(thats):1	1609(heavenly):1	6802(fairfield):1	
+7	4(nice):1	10(restaurant):1	84(locate):1	257(decent):1	334(downtown):1	889(westin):1	3285(uptown):1	
+0	
+0	
+0	
+7	97(internet):1	116(tv):1	128(extra):1	147(business):1	717(wireless):1	1231(thru):1	2756(user):1	
+
+<Author>tonyraisins
+<Content>Nice Westin, Near Arts District       Side View  
+<Date>Mar 28, 2008
+<Rating>4	4	5	3	5	5	5	4	
+<Aspects>
+6	4(nice):1	17(view):1	102(near):1	433(district):1	789(art):1	889(westin):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Robyn80
+<Content>Westin is nice I had a junior suite which is very spacious and was on a starwood preferred floor. THe hotel was easy to get to from the airport and is connected to a mall area with lots of breakfast and lunch places. I was there Easter weekend so nothing was open. I went to the gym and enjoyed the tv's connected to each cardio machine. In general, it is a nice hotel, nothing spectacular. The staff I spoke with were pleasant as well. I am not too sure there are many dinner places within walking distance but there is a train that I did not take that is right next door. The concierge said it cost 50 cents and would take me to a stop with 20 plus restaurants-maybe next time.  
+<Date>Mar 27, 2008
+<Rating>4	5	5	3	5	4	4	3	
+<Aspects>
+4	4(nice):1	172(weekend):1	656(spectacular):1	2075(easter):1	
+6	5(time):1	122(stop):1	175(cost):1	203(plus):1	204(concierge):1	1888(cent):1	
+14	4(nice):1	24(floor):1	51(enjoy):1	108(suite):1	111(spacious):1	116(tv):1	493(machine):1	523(gym):1	536(prefer):1	841(connect):1	889(westin):1	964(junior):1	1915(starwood):1	3621(cardio):1	
+12	6(breakfast):1	7(walk):1	38(lot):1	54(door):1	93(easy):1	95(airport):1	115(distance):1	117(dinner):1	182(train):1	252(lunch):1	643(mall):1	841(connect):1	
+0	
+3	0(staff):1	127(speak):1	150(pleasant):1	
+0	
+0	
+
+<Author>Rengrrl
+<Content>Satisfactory downtown hotel I stayed here for a conference. Room was clean and looked recently renovated. Great shower/tub with a nice dual shower head. Room was very clean. Lobby area is quite small. Service in the hotel restaurant was slow and unresponsive. No pool.  
+<Date>Mar 12, 2008
+<Rating>4	3	4	4	4	3	3	-1	
+<Aspects>
+1	22(pool):1	
+0	
+8	3(clean):2	4(nice):1	20(look):1	61(shower):2	319(head):1	322(recently):1	533(renovate):1	5210(dual):1	
+4	55(lobby):1	334(downtown):1	794(conference):1	2059(satisfactory):1	
+0	
+0	
+4	9(service):1	10(restaurant):1	455(slow):1	6770(unresponsive):1	
+0	
+
+<Author>Studiofa
+<Content>Enjoyable but Expensive To save wear  tear on your eyes, I鈥檒l try to offer this review information as concisely as possible. After my 3-day stay at this Westin, here鈥檚 what I think... The Pros- Acceptably clean room (there was some garbage in the closet left behind by a previous occupant, and some small stains on the chairs, but everything else was fine).- Good size room (didn鈥檛 feel cramped at all with two queen beds, a nightstand, a desk, an easy chair with footstool, and the combination TV cabinet  chest of drawers).- Had a 鈥渟uper shower鈥?with two heads that provided an excellent drenching (plenty of hot water too...and I do mean hot).- It was very quiet; didn鈥檛 hear the other guests at all.- Very comfortable bedding (lots of pillows and a down comforter).- The 鈥渃limate control鈥?was adjustable and worked perfectly.- The Starbucks coffee maker was a nice perk.- Received a 鈥渇ree鈥?paper every morning.- Good view (one whole side of the room was a window looking onto downtown Dallas).- Wonderful light-blocking curtains (a real plus if you want to sleep late).- Concierge was knowledgeable and helpful when making dinner/sightseeing arrangements.The Cons- Not much of a bargain (paid $228 w/tax per night). I鈥檝e paid much less in other cities for a comparable room.- No internet access included in room price (must pay either $16/day for a hard wired connection, or $10/day for wireless). The Adam鈥檚 Mark hotel across the street at least provided free wireless internet in its lobby.- Hotel restaurant has a limited and somewhat pricey selection (plan on $30+ per person). However, there is a food court beside the hotel with more affordable selections (and there鈥檚 a pretty ice rink there too).The Bottom LineThe pros definitely outweigh the cons in this hotel, which is within walking distance of several notable attractions (such as three museums and a symphony hall). You鈥檒l most likely have a pleasant visit, but your wallet/purse surrender about $700 for a 3-day stay, and there aren鈥檛 many amenities included in that price beyond the basics (like a coffee maker).  
+<Date>Feb 24, 2008
+<Rating>4	3	4	4	4	5	5	3	
+<Aspects>
+6	56(morning):1	302(receive):1	595(perfectly):1	776(paper):1	865(control):1	4377(adjustable):1	
+38	2(night):1	4(nice):1	10(restaurant):1	19(price):1	37(review):1	41(city):1	42(pay):2	65(visit):1	71(include):1	76(try):1	89(offer):1	90(coffee):2	124(expensive):1	150(pleasant):1	193(person):1	221(plan):1	291(amenity):1	333(selection):1	425(save):1	434(wear):1	510(limit):1	546(pricey):1	567(enjoyable):1	649(information):1	651(somewhat):1	738(beyond):1	759(bargain):1	840(Con):1	939(starbucks):1	977(eye):1	996(maker):2	1605(tear):1	1813(comparable):1	1914(perk):1	2460(wallet):1	2469(basics):1	4666(aren):1	5311(3-day):1	
+55	3(clean):1	11(bed):2	17(view):1	20(look):1	21(excellent):1	25(comfortable):1	34(feel):1	36(desk):1	38(lot):1	43(leave):1	48(wonderful):1	57(water):1	58(quiet):1	61(shower):1	79(late):1	83(size):1	91(guest):1	93(easy):1	104(sleep):1	113(fine):1	114(hot):2	116(tv):1	119(window):1	132(hear):1	153(provide):1	158(plenty):1	170(else):1	198(chair):2	203(plus):1	240(real):1	246(mean):1	303(pillow):1	319(head):1	334(downtown):1	373(previous):1	543(Queen):1	565(closet):1	723(stain):1	743(curtain):1	889(westin):1	1022(didn):2	1080(cramp):1	1249(pro):1	1426(drawer):1	1602(dallas):1	1650(garbage):1	1694(comforter):1	1929(combination):1	2563(cabinet):1	3265(occupant):1	3686(chest):1	4445(nightstand):1	5311(3-day):1	6817(drench):1	12788(acceptably):1	
+12	7(walk):1	59(definitely):1	115(distance):1	350(attraction):1	507(museum):1	616(hall):1	840(Con):1	850(bottom):1	1249(pro):1	3187(outweigh):1	5497(notable):1	7729(symphony):1	
+0	
+0	
+13	14(helpful):1	16(food):1	109(pretty):1	117(dinner):1	204(concierge):1	333(selection):1	547(ice):1	1062(affordable):1	1068(court):1	1160(knowledgeable):1	1350(beside):1	1415(arrangement):1	6779(rink):1	
+15	19(price):1	35(street):1	42(pay):1	46(free):1	55(lobby):1	71(include):1	97(internet):2	153(provide):1	159(access):1	162(hard):1	717(wireless):2	882(mark):1	932(connection):1	1904(wire):1	6976(adam):1	
+
+<Author>eam214
+<Content>water leaks and cheerleaders on the loose My fiance and I stayed at the hotel for two nights. The [first] room, #221, seemed very nice - tasteful decor, Starbucks coffee for the coffeemaker, etc. - until we discovered pieces of wet plaster falling from the ceiling onto the bed. Unfortunately this discovery occurred AFTER we had unpacked, showered, and gotten into that same bed. ICK. We reported the problem to the front desk. The pleasant but not terribly apologetic clerk got us another room - although to our surprise she didn't seem to share our concern over what appeared to be a water leak. We packed our things and moved to the new room. This second room, #423, turned out to be wheelchair accessible, which would not have been a problem except that the shower floor (which was open to the rest of the bathroom) was not built properly slanted, so that upon using the shower, water ran out into the bathroom and pooled in the opposite corner instead of running down the shower drain. (We wondered if the room above our original room was wheelchair accessible - we thought that might explain the leak over the bed!)In addition to these problems with our room - correction, rooms - the hotel was full of energetic (read: loud) young cheerleaders and their families during our stay.Overall, our experience wasn't awful, but it was not what we expected from a Westin. We would have said such to the front desk clerk upon checkout if he had asked us how our stay was, but he didn't.  
+<Date>Feb 21, 2008
+<Rating>2	2	2	3	3	4	2	3	
+<Aspects>
+6	2(night):1	57(water):1	1287(leak):1	2229(fiance):1	2234(loose):1	8231(ick):1	
+5	44(experience):1	62(expect):1	70(overall):1	736(awful):1	889(westin):1	
+54	4(nice):1	11(bed):3	13(bathroom):2	22(pool):1	24(floor):1	57(water):2	61(shower):4	73(etc):1	88(read):1	90(coffee):1	106(family):1	135(build):1	149(run):2	150(pleasant):1	199(surprise):1	200(corner):1	207(move):1	269(decor):1	288(rest):1	337(except):1	353(instead):1	416(loud):1	496(concern):1	520(share):1	524(unfortunately):1	528(ceiling):1	541(appear):1	587(fall):1	715(pack):1	768(explain):1	783(opposite):1	788(clerk):1	869(discover):1	918(addition):1	939(starbucks):1	941(piece):1	946(wonder):1	1032(wet):1	1144(properly):1	1270(original):1	1287(leak):2	1342(accessible):2	1489(drain):1	1910(terribly):1	2122(tasteful):1	2179(unpack):1	2283(occur):1	2483(apologetic):1	3327(wheelchair):2	3763(coffeemaker):1	3809(energetic):1	3951(discovery):1	4473(plaster):1	5823(slant):1	
+0	
+0	
+5	31(front):2	36(desk):2	658(checkout):1	788(clerk):1	838(report):1	
+0	
+0	
+
+<Author>katespade
+<Content>Nice place in downtown Dallas       Bathroom  
+<Date>Feb 10, 2008
+<Rating>4	3	4	5	4	5	5	3	
+<Aspects>
+0	
+0	
+4	4(nice):1	13(bathroom):1	334(downtown):1	1602(dallas):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>dkrodgers
+<Content>AWFUL!!!! DId not have a good time at the hotel. Worst part is looking out of your Hotel Room window at an indoor mall. Not much to do around the hotel. Horrible room service. They even ran out of food one time. Never staying here again. EVER!!  
+<Date>Jan 26, 2008
+<Rating>1	2	1	1	3	1	-1	1	
+<Aspects>
+2	5(time):1	736(awful):1	
+0	
+7	9(service):1	20(look):1	50(bad):1	119(window):1	544(horrible):1	643(mall):1	1680(indoor):1	
+0	
+0	
+0	
+3	5(time):1	16(food):1	149(run):1	
+0	
+
+<Author>ashleytravels
+<Content>Good Business Hotel For what we paid, I can't complain. We stayed here for 3 nights in January 2008 for a friend's wedding. I can't say that our stay was perfect or flawless; I certainly would expect far more if I was on vacation. For example, upon arrival, I discovered that they had mistakenly booked one room under my name and one room under my husband's name, as opposed to one reservation with both of our names. Minor mistake, and they canceled the other room, but how did they get that confused? We had also requested a rollaway bed, which wasn't in our room upon arrival, nor did it come the first night as requested. Thankfully we didn't need it until the 2nd night. The bar was okay, although the service wasn't the friendliest.Now for the positive aspects of Westin City Center. This hotel is very centrally located to downtown Dallas. We could access a lot of useful things very quickly. It was freezing, so we took cabs everywhere, and there were always plenty of cabs waiting, which was much appreciated. The concierge was most helpful; he suggested a great cheap nail place for me, and he gave us the address to both the nail place and Jos A Banks (my husband needed a new suit). That was really helpful of them. The rooms were clean, although the rooms facing the atrium are awkward because they get very little natural light, and there is some weird music/sound that comes from the atrium all day long. The beds were comfortable, and the bathroom was spacious, clean and well-equipped.For a quick weekend in Dallas in which we spent very little time in the room, this was a perfect spot. It was about $170/night all in, which wasn't bad for what we got (a full service hotel with bar, room service, etc). I also spent a lot of time in the Presidential Suite, as the bride's family had it rented out, and that was very nice. I wouldn't suggest this hotel for a romantic or leisurely vacation, but for business or a quick shopping trip, it does the trick.  
+<Date>Jan 21, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	2(night):2	14(helpful):1	146(friend):1	604(wed):1	1018(january):1	1326(2nd):1	1893(thankfully):1	
+13	14(helpful):1	42(pay):1	62(expect):1	74(perfect):1	131(vacation):1	143(cheap):1	147(business):1	204(concierge):1	241(complain):1	452(suggest):1	1312(address):1	2873(flawless):1	3281(nail):2	
+47	2(night):1	3(clean):2	4(nice):1	5(time):2	8(day):1	11(bed):2	13(bathroom):1	18(book):1	23(little):2	25(comfortable):1	38(lot):1	64(spend):2	74(perfect):1	105(husband):2	106(family):1	108(suite):1	111(spacious):1	148(request):2	156(reservation):1	157(light):1	172(weekend):1	224(arrival):2	295(name):3	299(quick):1	317(spot):1	398(music):1	720(minor):1	861(suit):1	869(discover):1	895(mistake):1	954(example):1	970(nor):1	1065(cancel):1	1097(rent):1	1225(bank):1	1419(confuse):1	1543(natural):1	1602(dallas):1	1611(weird):1	1968(atrium):2	2401(oppose):1	2906(awkward):1	2952(rollaway):1	3542(well-equip):1	4142(bride):1	5569(presidential):1	6019(mistakenly):1	
+13	33(trip):1	49(shop):1	84(locate):1	131(vacation):1	147(business):1	299(quick):1	334(downtown):1	452(suggest):1	707(romantic):1	879(centrally):1	1602(dallas):1	2614(trick):1	3646(leisurely):1	
+0	
+5	85(wait):1	158(plenty):1	380(cab):2	500(appreciate):1	1321(freeze):1	
+6	9(service):3	12(friendly):1	27(bar):2	50(bad):1	73(etc):1	453(okay):1	
+9	38(lot):1	41(city):1	101(center):1	159(access):1	458(positive):1	471(quickly):1	889(westin):1	1232(useful):1	1255(aspect):1	
+
+<Author>faithfullymb
+<Content>WEAKend Experience Where to start? My husband  I reserved a room on Hotwire  oh how I'm glad we did. Of course the cost/night was lower than normal  I can thank God for that. At first glance, it was a beautiful hotel - not from the outside but once you entered the center it was very cool. Iceskating rink adjacent plus multiple shops  eateries. The bar was very nice - Blue Moon beer on tap - and the desk staff was very helpful. We were given a corner room on the 14th floor - very spacious. The view left a lot to be desired but it appears most of the rooms glance out over the ice rink. We returned from dinner to relax but couldn't get over the roaring noise from the rink. That did subside after 10pm. We rented a movie  settled in for the night when half-way through it, a loud knock came on our door. A security officer proceeded to state they received several complaints that our tv was too loud. We've never been a crazy couple to blare a television. I was very upset by how they handled the matter - it would have been better in my opinion to receive a call from the front desk instead of some random, ominous officer knocking on our door. To boot, the next morning we were awoken by the cleaning lady attempting to open our door - at 8am. We called the front desk  thankfully they were as upset as we were. We stayed only one night for a personal break away from home. I would have rather stayed at home. I will say the breakfast room service was very good. Came ontime as well. Overall, I might stay here again but thankfully I only live 30 miles away - I'm sure I can find a better place than the Westin City Center.  
+<Date>Jan 14, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	2(night):1	141(home):2	228(break):1	711(personal):1	7119(10pm):1	9502(subside):1	
+8	44(experience):1	165(start):1	175(cost):1	271(thank):1	293(course):1	777(lour):1	878(normal):1	1522(god):1	
+27	17(view):1	24(floor):1	38(lot):1	43(leave):1	99(couple):1	105(husband):1	111(spacious):1	116(tv):1	190(complaint):1	200(corner):1	302(receive):1	416(loud):1	506(reserve):1	541(appear):1	547(ice):1	619(glad):1	641(security):1	1158(television):1	1219(desire):1	1259(crazy):1	1824(hotwire):1	1998(14th):1	2150(proceed):1	3666(glance):1	4282(officer):1	4306(blare):1	6779(rink):1	
+12	45(beautiful):1	49(shop):1	98(outside):1	101(center):1	203(plus):1	278(cool):1	601(enter):1	1061(adjacent):1	1732(multiple):1	1779(eatery):1	3666(glance):1	6779(rink):1	
+8	3(clean):1	54(door):1	56(morning):1	521(lady):1	1119(attempt):1	1494(awake):1	3173(boot):1	7545(8am):1	
+22	0(staff):1	4(nice):1	14(helpful):1	27(bar):1	31(front):2	36(desk):3	54(door):1	67(call):2	302(receive):1	353(instead):1	443(beer):1	531(matter):1	694(blue):1	704(opinion):1	966(handle):1	1220(upset):2	1323(knock):1	1504(tap):1	1893(thankfully):1	2996(moon):1	3255(random):1	4282(officer):1	
+16	2(night):1	6(breakfast):1	9(service):1	39(return):1	54(door):1	94(noise):1	117(dinner):1	160(relax):1	416(loud):1	989(movie):1	1097(rent):1	1323(knock):1	1414(settle):1	5135(roar):1	6779(rink):1	9114(half-way):1	
+7	41(city):1	70(overall):1	101(center):1	206(live):1	692(mile):1	889(westin):1	1893(thankfully):1	
+
+<Author>Johnthemule
+<Content>Not worth the 280.00 a night When I arrived on Sunday afternoon , The hotel seemed to be clean. When I got off the elevator to go to my room, I almost got sick. The smell up and down the hallway was putrid. It smelled as if the sewerline was running into the hallway. I figured that someone might have left the door open to the bathroom or something of that nature and I thought it would be gone by morning. The smell was still there Monday morning. I informed the front desk and they said they would try and firnd the source. Also , I could not get any hot water to come out of the spicket for a shower , and on top off that the Air in the room was blowing hot air. I let the front desk know of the problem and nothing was done when I checked out on Friday. FYI!!!! If you plan to stay in Downtown Dallas I would suggest the Adams Mark across the street. Its cheaper , the food is better,it doesnt stink and the service is better. I have stayed in better Days INN. Thank You ,John White  
+<Date>Jan 11, 2008
+<Rating>1	1	1	3	1	2	1	3	
+<Aspects>
+6	8(day):1	271(thank):1	324(inn):1	466(white):1	2359(john):1	3091(fyi):1	
+0	
+12	13(bathroom):1	43(leave):1	54(door):1	56(morning):1	57(water):1	61(shower):1	114(hot):2	118(top):1	164(air):2	779(figure):1	1146(blow):1	1986(nature):1	
+7	35(street):1	221(plan):1	334(downtown):1	452(suggest):1	882(mark):1	1602(dallas):1	9252(adams):1	
+11	2(night):1	3(clean):1	53(arrive):1	56(morning):1	96(worth):1	149(run):1	231(smell):3	364(afternoon):1	580(hallway):2	844(sunday):1	1577(monday):1	
+7	31(front):2	32(check):1	36(desk):2	76(try):1	817(inform):1	923(friday):1	3197(source):1	
+7	9(service):1	16(food):1	143(cheap):1	216(elevator):1	654(sick):1	1796(stink):1	2588(doesnt):1	
+0	
+
+<Author>saber45
+<Content>Great Stay Excellent Location Stayed at The Westin City Center, Dallas from 12-29-07 to 12-31-07. Late for a concert, I arrived at the Westin City Center in BIG rush. The bellmen quickly grabbed my bag, took it inside gave and came back with baggage claim ticket. All this took place in less than a minute. Later on, my late check-in went smoothly. The Westin City Center lobby area is small compared to other Westins I've stayed in. No problem with the lobby size just pointing it out. My room was nice and clean. Exactly what you expect from a Westin. The hotel bar (650 North Bar) was fine and the bartender Tiana (makes a great Martini), was one the best I've ever seen. Sunday night the bar was full of Cotton Bowl fans and she handled everything with ease. The hotel is in a great location. I was able to walk to everywhere except to the Museum of Nature  Science. I'm an avid walker so others may want to take a cab to which that's no problem. There was always two or three cabs right outside the hotel. I had an excellent experience at the hotel and if my travels bring my back to Dallas, the Westin City Center is where I'll stay again.  
+<Date>Jan 1, 2008
+<Rating>5	5	5	5	4	5	5	-1	
+<Aspects>
+4	29(minute):1	62(expect):1	586(exactly):1	889(westin):1	
+8	21(excellent):1	41(city):1	44(experience):1	68(travel):1	101(center):1	142(bring):1	889(westin):1	1602(dallas):1	
+12	3(clean):1	4(nice):1	55(lobby):1	83(size):1	290(bag):1	408(inside):1	471(quickly):1	621(ticket):1	1077(claim):1	1105(bellman):1	1139(grab):1	1783(baggage):1	
+18	1(location):2	7(walk):1	21(excellent):1	41(city):2	55(lobby):1	98(outside):1	101(center):2	171(able):1	337(except):1	380(cab):2	381(compare):1	507(museum):1	889(westin):3	1602(dallas):1	1986(nature):1	3309(walker):1	5163(science):1	5417(avid):1	
+0	
+3	79(late):2	286(check-in):1	2267(smoothly):1	
+12	2(night):1	27(bar):3	113(fine):1	661(fan):1	676(bartender):1	684(North):1	844(sunday):1	966(handle):1	1366(bowl):1	2057(ease):1	2606(martini):1	2842(cotton):1	
+7	41(city):1	53(arrive):1	79(late):1	101(center):1	889(westin):1	1244(rush):1	2296(concert):1	
+
+<Author>chamae01
+<Content>Very Nice!       The comfortable bed.  
+<Date>Dec 30, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	4(nice):1	
+0	
+2	11(bed):1	25(comfortable):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Shmohan
+<Content>Great rooms, normal amount of nickel  I stayed at this Westin every week for about six months, so I've time to develop (in my opinion) a fair and balanced opinion.Good: Rooms: Nice, updated rooms on Starwoods floors. If you can, ask for a room on the starwood guest floors. I've stayed on other floors and noticed many differences right away (size, furniture, etc.). Luckily, I snagged rooms (with a city view) on SW floors for the majority of my stays.Location (Business): Great for most business travelers- located right downtown on Pearl St, next to the Chase tower. Oh, and the attached ice skating rink (in the city center) is always a good time.OK: Staff: Staff is generally very polite, but over the months I stayed there, I had witnessed encounters between colleges and rude and/or disinterested front desk staff. Concierge is usually very nice and fairly knowledgeable about the city.Gym: The gym has a number of treadmills as well as an eliptical, bike, stair climber, and weight machine. This a reebok branded gym, and is fairly solid compared to other SW hotels I've stayed at. As usual, be aware at it gets packed between 6 and 8am, so you may not get a machine anywhere near that time.Bad:Parking: $20/night valet fee with no real alternatives. The queue can get quite backed up in the morning (15+ min with call ahead)This fee seems abnormally high for the city.Internet: $10/day. For the nightly rate they charge, I feel that this should be included.Location (social): Not many restaurants in the near vicinity (walking distance). The city center itself closes around 4pm, so there are no food options there. Need to hop in a cab for a quick ride to the west village or deep ellum for large choice of restaurants and bars. If you're hungry, room service is the same as most hotels- average at best. A few places will deliver (ask the concierge for menus)Overall, this hotel does a fine job with comfort and hospitality. I've stayed in other hotels in the area and ended up picking this one for long term stays. Definitely recommended if you're a business traveler working in the downtown Dallas area.  
+<Date>Oct 20, 2007
+<Rating>4	4	4	3	4	3	4	3	
+<Aspects>
+2	266(pick):1	1011(term):1	
+0	
+46	4(nice):2	5(time):1	9(service):1	17(view):1	24(floor):4	41(city):2	73(etc):1	75(week):1	83(size):1	91(guest):1	204(concierge):1	227(average):1	335(numb):1	354(notice):1	381(compare):1	388(month):1	399(usually):1	440(furniture):1	462(fairly):2	493(machine):1	523(gym):3	568(stair):1	666(amount):1	704(opinion):2	725(update):1	739(fair):1	819(difference):1	878(normal):1	883(brand):1	889(westin):1	1160(knowledgeable):1	1200(luckily):1	1381(hungry):1	1479(bike):1	1582(weight):1	1584(majority):1	1617(solid):1	1915(starwood):1	2212(treadmill):1	2425(balance):1	2880(develop):1	3681(nickel):1	5080(snag):1	9607(eliptical):1	11159(sw):2	12706(starwoods):1	
+35	1(location):2	7(walk):1	10(restaurant):1	15(recommend):1	16(food):1	28(close):1	41(city):2	50(bad):1	56(morning):1	59(definitely):1	66(park):1	67(call):1	84(locate):1	101(center):1	102(near):1	115(distance):1	147(business):3	240(real):1	247(min):1	267(traveler):2	334(downtown):2	336(option):1	378(tower):1	457(valet):1	584(fee):2	940(St):1	976(ahead):1	1298(alternative):1	1463(queue):1	1602(dallas):1	2232(vicinity):1	2854(pearl):1	3003(chase):1	3822(social):1	7881(4pm):1	
+0	
+24	0(staff):3	31(front):1	34(feel):1	36(desk):1	70(overall):1	71(include):1	78(rate):1	113(fine):1	123(ok):1	136(charge):1	204(concierge):1	388(month):1	392(rude):1	422(polite):1	423(menu):1	481(job):1	631(deliver):1	693(encounter):1	702(comfort):1	1033(nightly):1	1115(hospitality):1	1925(college):1	2685(witness):1	4625(disinterested):1	
+10	10(restaurant):1	27(bar):1	107(choice):1	218(ride):1	299(quick):1	380(cab):1	953(west):1	1043(deep):1	1087(village):1	1151(hop):1	
+14	5(time):2	41(city):1	97(internet):1	101(center):1	102(near):1	493(machine):1	547(ice):1	682(usual):1	715(pack):1	832(aware):1	1224(attach):1	5609(skate):1	6779(rink):1	7545(8am):1	
+
+<Author>avillebud
+<Content>Nice Hotel I recently stayed at the Westin City Center over the TX OU weekend. The hotel was nice; however, the front desk staff was far below average. I made my reservation on-line and I was given two doubles rather than a King. The hotel also did not have my starwood number despite the fact that I had booked it on SPG.com. I had to find the incorrect double beds, by walking into the room... the front desk staff never reviewed the reservation with me upon check-in. At check-out, I was charged for a no-show. The hotel took the charge off my bill, but it is a reminder to always look at your bill!If you park in the parking garage at the hotel, take note that you will be charged for every exit. Parking Valet is $20.... we still came out ahead with self-parking, but were not given the warning by the valet that if we parked in self service, we would be charged per exit. The room was nice and clean. Typical Westin... great bed... nice towels... large room. My only complaint with the room was that it was very humid.The lobby is not very big or exciting... so if you want a grand hotel, this is not it. It is in a business plaza.  
+<Date>Oct 9, 2007
+<Rating>4	3	4	5	5	1	-1	-1	
+<Aspects>
+0	
+4	18(book):1	335(numb):1	498(despite):1	1915(starwood):1	
+8	3(clean):1	4(nice):2	11(bed):1	125(towel):1	190(complaint):1	628(typical):1	889(westin):1	1825(humid):1	
+2	147(business):1	515(plaza):1	
+0	
+21	0(staff):2	4(nice):1	7(walk):1	11(bed):1	20(look):1	31(front):2	36(desk):2	37(review):1	136(charge):2	156(reservation):2	179(double):2	227(average):1	243(king):1	286(check-in):1	495(bill):2	585(below):1	658(checkout):1	3206(on-line):1	3760(incorrect):1	4634(reminder):1	11782(no-show):1	
+14	9(service):1	55(lobby):1	66(park):4	136(charge):2	297(note):1	365(grand):1	457(valet):2	679(warn):1	936(garage):1	976(ahead):1	1136(excite):1	1314(self):1	1354(exit):2	3825(self-park):1	
+8	4(nice):1	41(city):1	101(center):1	172(weekend):1	322(recently):1	889(westin):1	4893(ou):1	6711(tx):1	
+
+<Author>texasdan21
+<Content>weekend at the westin this is a very nice hotel in a very good location in downtown dallas.the beds were soft.the shower was a heavenly shower with very good water pressure.the towels were very thick and soft.no pool.the only bad thing about this hotel is that it is connected to the plaza of the americas office complex which is closed on the weekends.so all of the shops are not open.there is an ice skating rink that is open for limited skating.pay the $20 for valet parking unless you plan to drive to other parts of dallas.the dart train is only about 2 blocks from the front door.  
+<Date>Sep 5, 2007
+<Rating>4	5	4	5	4	4	4	4	
+<Aspects>
+5	22(pool):1	510(limit):1	547(ice):1	5609(skate):2	6779(rink):1	
+7	42(pay):1	66(park):1	221(plan):1	298(drive):1	405(unless):1	457(valet):1	1602(dallas):1	
+6	11(bed):1	57(water):1	61(shower):2	589(soft):1	686(pressure):1	1609(heavenly):1	
+19	1(location):1	4(nice):1	28(close):1	31(front):1	49(shop):1	50(bad):1	54(door):1	100(bloc):1	172(weekend):2	182(train):1	334(downtown):1	515(plaza):1	792(office):1	841(connect):1	889(westin):1	1074(complex):1	1602(dallas):1	4865(dart):1	6164(americas):1	
+0	
+0	
+3	125(towel):1	589(soft):1	1652(thick):1	
+0	
+
+<Author>CaryAllison
+<Content>Excellent choice for downtown Dallas My wife and I stayed here for two nights in mid-June and found everything outstanding. Our room was huge, had a wonderful bath and king bed with very nice linens and furnishings. My wife also loved the Heavenly shower--a two nozzle Speakman that the Westin makes a big deal about. The location is neat--the City Center is a huge indoor atrium with a skating rink and small shops (including, crucially, coffee and donut shops) on the ground floor. A nice relaxing space that the hotel faces onto. Location in terms of the city is excellent--walk out the front door, take a right, walk a few blocks up Pearl and you're on McKinney where very good restaurants like Truluck's abound. Also within a few blocks are the Dallas Museum of Art, the truly special Nasher Sculpture Center, etc. I would take a taxi to Dealy Plaza unless you're a runner, in which case it's in running distance. Deep Elem, where all the neat clubs and music scene are located, is about 5 minutes away by car. A must do if you're the bohemian type (and we are). Have lunch at the All Good Cafe; The Local is also maybe the best restaurant in town. Back to the hotel: the bar is very nice too, with various martinis and nice pick up food. Did not eat there. Staff was first rate--very nice and my impression was they would fix anything at the drop of a hat. They seem to do lots of big events--a big Price Waterhouse confab there when we stayed. But we really didn't even notice, and had a wonderful stay. We'll be back--like the next time we're in Dallas! A can't miss choice--very relaxing, everything spot on, would stay there again in a New York minute.  
+<Date>Jul 10, 2007
+<Rating>5	4	5	5	5	5	5	-1	
+<Aspects>
+7	5(time):1	47(eat):1	48(wonderful):1	354(notice):1	389(type):1	1602(dallas):1	8605(bohemian):1	
+16	2(night):1	19(price):1	21(excellent):1	29(minute):1	38(lot):1	107(choice):2	160(relax):1	184(wife):1	276(miss):1	317(spot):1	334(downtown):1	424(york):1	534(outstanding):1	1106(event):1	1602(dallas):1	9695(mid-june):1	
+17	4(nice):2	11(bed):1	40(love):1	48(wonderful):1	61(shower):1	133(huge):1	140(deal):1	160(relax):1	184(wife):1	210(space):1	226(bath):1	243(king):1	630(linen):1	870(furnishings):1	889(westin):1	1609(heavenly):1	7756(nozzle):1	
+44	1(location):2	7(walk):2	10(restaurant):1	21(excellent):1	24(floor):1	29(minute):1	31(front):1	41(city):2	49(shop):2	54(door):1	71(include):1	73(etc):1	84(locate):1	90(coffee):1	100(bloc):2	101(center):2	115(distance):1	121(car):1	133(huge):1	149(run):1	185(taxi):1	208(special):1	212(club):1	398(music):1	405(unless):1	476(truly):1	507(museum):1	515(plaza):1	706(grind):1	789(art):1	1011(term):1	1043(deep):1	1286(neat):2	1588(scene):1	1602(dallas):1	1680(indoor):1	1968(atrium):1	2222(doughnut):1	2841(runner):1	2854(pearl):1	3794(sculpture):1	4300(abound):1	5609(skate):1	6779(rink):1	
+0	
+7	0(staff):1	4(nice):1	78(rate):1	494(fix):1	662(drop):1	848(impression):1	2175(hat):1	
+12	4(nice):2	10(restaurant):1	16(food):1	27(bar):1	195(local):1	239(town):1	252(lunch):1	266(pick):1	275(cafe):1	308(maybe):1	823(various):1	2606(martini):1	
+0	
+
+<Author>bigbaldjohnny
+<Content>Strictly Business I was all ready to capitalize on my SPG dot com preferred guest platinum card and found out they have NO amenities for preferred guests other than floors with a strategically located placard announcing that fact. In fact, they don't have a pool or jacuzzi, only some of the upscale rooms have those.The downtown garage parking was very inconvenient as well. Never the less, self-parking was between 10 and 20 smackers if you could find your way thru the reserved spaces without getting towed. Then, you had to navigate on foot around the skating rink and mall area to find hotel lobby. It's a very round-a-bout adventure.The front desk help (if you call it that) wasn't very helpful either. When checking-in they seemed to be more interested in the monopoly game in the back room than handling my check-in and questions regarding the hotel and surrounding area.When I was finally settled into my room. I found it comfortable with an updated design. The bath was large with double shower heads and marble vanities and floor. The only complaint here was the blower on the AC was LOUD and woke me several times each night when it kicked on. I'd already given up on the staff and decided it would be futile to request a room change. What a pain in the you know what.Finally, housekeeping!! First, some workers didn't habla ingles (speaky english). They did not refresh my stock of towels and other bath supplies without prodding. My room was never made before 4pm and on my last night they knocked while I was freshing up for dinner about 6PM! the last night, my bed was never made.To sum up: This place meets the bare minimum I expect for Westin and the staff while I was there was terrible. I was glad to leave. Hope this helps with your research. There are many better choices in this price range.  
+<Date>Jul 8, 2007
+<Rating>3	2	4	2	3	1	1	-1	
+<Aspects>
+21	2(night):1	5(time):1	25(comfortable):1	43(leave):1	92(help):1	152(english):1	190(complaint):1	328(hope):1	416(loud):1	516(design):1	554(wake):1	619(glad):1	725(update):1	956(ac):1	1024(research):1	1125(worker):1	1481(pain):1	1861(adventure):1	1926(kick):1	5179(ingle):1	9576(blower):1	
+3	19(price):1	107(choice):1	714(range):1	
+20	2(night):2	11(bed):1	22(pool):1	24(floor):1	61(shower):1	117(dinner):1	179(double):1	197(fresh):1	226(bath):1	319(head):1	341(finally):2	367(housekeeping):1	705(marble):1	808(jacuzzi):1	1237(upscale):1	1323(knock):1	1414(settle):1	2127(vanity):1	7686(6pm):1	7881(4pm):1	
+21	24(floor):1	55(lobby):1	84(locate):1	91(guest):2	147(business):1	274(ready):1	291(amenity):1	292(card):1	402(foot):1	536(prefer):2	643(mall):1	2252(navigate):1	2542(platinum):1	4004(dot):1	4097(spg):1	4285(strictly):1	4610(announce):1	5609(skate):1	5958(com):1	6779(rink):1	7024(strategically):1	
+0	
+23	0(staff):2	14(helpful):1	31(front):1	36(desk):1	62(expect):1	67(call):1	92(help):1	148(request):1	161(change):1	196(meet):1	219(decide):1	286(check-in):1	394(question):1	432(terrible):1	667(surround):1	683(game):1	889(westin):1	930(regard):1	966(handle):1	1651(sum):1	2124(minimum):1	2235(bare):1	6582(checking-in):1	
+14	66(park):1	125(towel):1	210(space):1	226(bath):1	334(downtown):1	506(reserve):1	599(stock):1	859(supply):1	936(garage):1	1231(thru):1	1271(refresh):1	2301(inconvenient):1	3574(tow):1	3825(self-park):1	
+0	
+
+<Author>sfogary
+<Content>Nice Hotel The hotel and rooms are very nice; especially like the comfortable beds that the Westin hotels provide. The hotel is connected to a plaza that has an ice skating rink and several shops; however, the majority of these shops are closed on the weekend and the plaza is very dead (which is great if you want to ice skate, as you can practically have the whole rink to yourself).There is not much else to see within walking distance of the hotel, however there are many entertainment districts within a short drive of the hotel.Self parking is only $5 a day on the weekends.  
+<Date>May 31, 2007
+<Rating>4	4	5	3	5	5	5	-1	
+<Aspects>
+0	
+0	
+6	4(nice):2	11(bed):1	25(comfortable):1	126(especially):1	153(provide):1	889(westin):1	
+22	7(walk):1	8(day):1	28(close):1	49(shop):2	66(park):1	115(distance):1	144(short):1	170(else):1	172(weekend):2	298(drive):1	340(entertainment):1	433(district):1	515(plaza):2	547(ice):2	576(yourself):1	841(connect):1	1314(self):1	1584(majority):1	1621(dead):1	1850(practically):1	5609(skate):2	6779(rink):2	
+0	
+0	
+0	
+0	
+
+<Author>jsmOklahomaCity
+<Content>Got a Great Deal Nice hotel with good location - close to McKinney and restaurants. Great bed and shower. Down side - parking is a nightmare. If you self-park, you have to walk from the garage to an elevator and then through the connected building and around an indoor ice rink just to get to the hote lobby. Valet parking is overpriced. Also, concierge' was less than helpful. Ask for assistance on two differnt occasions and got wrong answer both times.Overall, not bad, but don't pay full price. Bid for $79 on priceline.  
+<Date>Apr 19, 2007
+<Rating>4	3	4	4	4	3	2	1	
+<Aspects>
+6	5(time):1	427(wrong):1	669(answer):1	871(occasion):1	1669(assistance):1	9592(differnt):1	
+9	19(price):1	42(pay):1	50(bad):1	66(park):1	70(overall):1	457(valet):1	727(overprice):1	1069(priceline):1	3383(bid):1	
+2	11(bed):1	61(shower):1	
+7	1(location):1	4(nice):1	10(restaurant):1	28(close):1	66(park):1	140(deal):1	1534(nightmare):1	
+0	
+2	14(helpful):1	204(concierge):1	
+11	7(walk):1	55(lobby):1	135(build):1	216(elevator):1	547(ice):1	841(connect):1	936(garage):1	1680(indoor):1	3825(self-park):1	5878(hote):1	6779(rink):1	
+0	
+
+<Author>queenpaigo
+<Content>Wonderful Anniversary We stayed at the hotel for a long weekend, it is right in the middle of Dallas and close to great resturaunts, museums, and outdoor concerts. The concierge at the hotel was the very best. They were very helpful and recommended great places to eat and things to do, going out of the way to provide driving directions. The valet parking was wonderful, they were fast and friendly. The hotel was clean and I felt very safe.  
+<Date>Mar 22, 2007
+<Rating>4	3	5	5	5	5	5	5	
+<Aspects>
+6	14(helpful):1	15(recommend):1	47(eat):1	153(provide):1	298(drive):1	395(direction):1	
+0	
+0	
+14	12(friendly):1	28(close):1	48(wonderful):2	66(park):1	172(weekend):1	325(middle):1	457(valet):1	499(fast):1	507(museum):1	804(anniversary):1	901(outdoor):1	1602(dallas):1	2296(concert):1	6507(resturaunts):1	
+3	3(clean):1	34(feel):1	137(safe):1	
+1	204(concierge):1	
+0	
+0	
+
+<Author>kimlane
+<Content>Staff was superb! Just spent a long weekend at the Westin City Center, Dallas - wonderful stay! We liked the location - one block from 3 art museums  from the free streetcar that runs from the funky West End district (which is near the Kennedy Museum) up trendy McKinney Street which is packed with cafes, shops, clubs,  is definitely uptown. We were there for a wedding  the location had great access to Hwy 75, Woodall Rogers Fwy,  I35E so we could easily get to where we needed to be for the wedding activities.The rooms are spacious  super clean. Loved the Heavenly Beds  dual shower heads. There is a restaurant in the hotel but we did not eat there so can't comment on that.The City Center has an ice rink on the atrium floor with 3 (small) levels of shops  a food court. Most of these were only open Mon-Fri but several food court vendors were open on the weekend  it was nice to sit, relax,  watch the skaters after we tired of the city streets.However, the staff is what elevated our stay from good to superlative! From the valet attendant  bell service when we arrived, to the concierge and housekeeping staff, we felt welcome  pampered. They were consistently attentive  helpful. For instance, when we asked about good breakfast places, both the concierge  bell captain had excellent suggestions  gave us detailed directions on how to get there ( they were both spot on in their recommendations!) - on our next trip through the lobby, the concierge called to us  had printed out website information for the restaurants discussed. He later followed up, asking how we enjoyed the restaurants. All the staff made us feel that they knew who we were  what we were about for the weekend -like we were regulars instead of brief weekend guests. What a nice feeling!  
+<Date>Mar 5, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+5	4(nice):1	14(helpful):1	34(feel):1	537(attentive):1	2249(consistently):1	
+0	
+9	3(clean):1	11(bed):1	40(love):1	61(shower):1	111(spacious):1	319(head):1	464(super):1	1609(heavenly):1	5210(dual):1	
+42	1(location):2	4(nice):1	16(food):2	24(floor):1	35(street):2	41(city):2	46(free):1	49(shop):2	59(definitely):1	100(bloc):1	101(center):1	102(near):1	149(run):1	159(access):1	160(relax):1	169(sit):1	172(weekend):1	212(club):1	245(watch):1	275(cafe):1	306(level):1	357(activity):1	433(district):1	438(easily):1	454(tire):1	507(museum):2	547(ice):1	604(wed):2	715(pack):1	789(art):1	953(west):1	1068(court):2	1251(vendor):1	1413(trendy):1	1516(funky):1	1968(atrium):1	2391(streetcar):1	3285(uptown):1	6355(roger):1	6779(rink):1	7827(kennedy):1	8730(hwy):1	
+11	0(staff):1	9(service):1	34(feel):1	53(arrive):1	202(welcome):1	204(concierge):1	367(housekeeping):1	457(valet):1	801(bell):1	1446(attendant):1	1815(pamper):1	
+21	0(staff):3	6(breakfast):1	21(excellent):1	34(feel):1	91(guest):1	172(weekend):2	204(concierge):1	317(spot):1	353(instead):1	395(direction):1	407(superb):1	577(recommendation):1	592(detail):1	744(regular):1	801(bell):1	921(suggestion):1	2036(brief):1	2516(instance):1	3017(captain):1	5185(elevate):1	6258(superlative):1	
+14	10(restaurant):3	33(trip):1	47(eat):1	51(enjoy):1	55(lobby):1	67(call):1	79(late):1	204(concierge):1	262(website):1	356(comment):1	482(follow):1	649(information):1	1101(print):1	2690(discuss):1	
+7	41(city):1	48(wonderful):1	64(spend):1	101(center):1	172(weekend):1	889(westin):1	1602(dallas):1	
+
+<Author>bathjunkieaddict
+<Content>Worst yet... DO NOT WASTE YOUR MONEY!Unless you're driving a big, fancy car, you won't get much notice from the valet. They threw a ticket in our window and helped the people in the Escalade behind us. They also helped the people in the Cadillac ahead of us.There were barking dogs across the hall from us. We called the front desk more than once. All we got was so sorry.Housekeeping WAS kind enough to leave us an extra towel when I left a note.THEN, there was the Tejano band playing until all hours of the night in the atrium. The hotel couldn't do anything, because they weren't in the hotel. We even called the police. No hlep. We checked out close to midnight.All we got from the hotel was I'm sorry, but there's nothing we can do.We were offered NOTHING for our trouble, absolutely NOTHING.I do not consider this to be the correct attitude and atmosphere for a 4 star hotel.We were not charged for the second night of valet when we checked out.  
+<Date>Feb 12, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+17	2(night):1	26(people):1	50(bad):1	60(hour):1	67(call):1	80(money):1	89(offer):1	92(help):1	189(absolutely):1	386(play):1	569(trouble):1	891(sorry):2	928(waste):1	976(ahead):1	1335(band):1	1409(police):1	1968(atrium):1	
+5	103(star):1	248(consider):1	414(atmosphere):1	821(attitude):1	1263(correct):1	
+10	26(people):1	43(leave):2	92(help):1	119(window):1	125(towel):1	128(extra):1	297(note):1	367(housekeeping):1	621(ticket):1	917(throw):1	
+3	28(close):1	32(check):1	1044(midnight):1	
+7	121(car):1	298(drive):1	354(notice):1	405(unless):1	457(valet):1	487(wo):1	796(fancy):1	
+7	2(night):1	31(front):1	32(check):1	36(desk):1	67(call):1	136(charge):1	457(valet):1	
+3	616(hall):1	1126(dog):1	3336(bark):1	
+0	
+
+<Author>Travelvagabond
+<Content>Don't Bother As an SPG member who has stayed in Westin's everywhere, don't bother. It's not worth the over $300 you'll pay to get out the door. (in an average room) The heavenly beds were not. The room had signs it hadn't really been serviced since the person left before. Service Express didn't pick up, so after a few visits down to the main desk, I got what I needed (towels, mini-bar key, etc) again only to be grilled as to why I needed them and didn't I see any in the room. (Why no..otherwise why would I be visiting you?) I assumed it was that the desk clerk looked frazzled, however the morning I left I found the same tone and attitude.I too had a funky room with the office building next door. They do alot of internet surfing while working there...I could read their screens from my room window. However, I had to pay for internet, adding insult to injury.Seriously, don't bother.  
+<Date>Jan 13, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	65(visit):1	307(bother):3	508(otherwise):1	889(westin):1	1441(seriously):1	4097(spg):1	
+7	42(pay):2	54(door):1	96(worth):1	97(internet):1	351(add):1	2809(insult):1	4397(injury):1	
+17	9(service):1	11(bed):1	43(leave):1	54(door):1	88(read):1	97(internet):1	119(window):1	135(build):1	193(person):1	227(average):1	449(sign):1	526(screen):1	647(alot):1	792(office):1	1396(surf):1	1516(funky):1	1609(heavenly):1	
+0	
+0	
+9	20(look):1	36(desk):1	43(leave):1	56(morning):1	788(clerk):1	821(attitude):1	1407(assume):1	2596(tone):1	10125(frazzle):1	
+11	9(service):1	36(desk):1	65(visit):1	73(etc):1	112(main):1	125(towel):1	266(pick):1	339(key):1	629(grill):1	1124(express):1	1338(mini-bar):1	
+0	
+
+<Author>joenbrenda
+<Content>Great dog friendly hotel This is a great centrally located hotel in Dallas. It tends to be a bit pricey but if you can catch it on special, its worth it. The rooms are nicely appointed. The lobby is a bit cold and has a concrete modernistic feel to it. The service is exceptional however and that makes up for the coldness of the lobby and common areas.  
+<Date>Dec 8, 2006
+<Rating>4	3	5	5	5	4	5	2	
+<Aspects>
+0	
+6	52(bit):1	96(worth):1	208(special):1	540(catch):1	546(pricey):1	1053(tend):1	
+2	404(nicely):1	579(appoint):1	
+5	12(friendly):1	84(locate):1	879(centrally):1	1126(dog):1	1602(dallas):1	
+0	
+0	
+8	9(service):1	34(feel):1	52(bit):1	55(lobby):2	222(cold):1	830(common):1	837(exceptional):1	2321(concrete):1	
+0	
+
+<Author>friscocat
+<Content>Nice Business Hotel We decided to spend a night in downtown Dallas, and we won this hotel on Priceline. Overall, it was a very good deal.This hotel is definitely a business hotel -- kind of bland and not a lot of character. I prefer the historic architecture of hotels like the Adolphus and the Magnolia, but from what I've seen, the Westin does offer more modern and luxurious rooms.The Heavenly Bed was indeed heavenly. However, we had an atrium room, and we could hear music for most of the night. Nevertheless, the location at Plaza of the Americas was nice. We were right in the Arts District and were able to walk down to Urban Market. We took the trolley to Uptown the next morning and walked back.The shower was great, and it was nice to have Starbucks coffee in the room.We loved the gym -- several machines with individual TV's and headphones provided, as well as towels and water.Overall, downtown Dallas is still not too exciting, but the Westin is a good hotel for business or special events.  
+<Date>Dec 3, 2006
+<Rating>4	4	5	4	5	5	5	5	
+<Aspects>
+2	70(overall):1	140(deal):1	
+9	2(night):1	4(nice):1	64(spend):1	147(business):1	219(decide):1	334(downtown):1	1069(priceline):1	1273(win):1	1602(dallas):1	
+20	2(night):1	4(nice):1	11(bed):1	61(shower):1	89(offer):1	90(coffee):1	132(hear):1	151(modern):1	398(music):1	536(prefer):1	708(luxurious):1	889(westin):1	939(starbucks):1	990(indeed):1	1274(historic):1	1609(heavenly):2	1803(architecture):1	1968(atrium):1	6163(magnolia):1	8760(adolphus):1	
+25	1(location):1	4(nice):1	7(walk):2	38(lot):1	56(morning):1	59(definitely):1	70(overall):1	147(business):2	171(able):1	208(special):1	264(market):1	334(downtown):1	433(district):1	515(plaza):1	789(art):1	889(westin):1	1049(character):1	1079(trolley):1	1106(event):1	1136(excite):1	1602(dallas):1	1819(bland):1	2673(urban):1	3285(uptown):1	6164(americas):1	
+0	
+0	
+9	40(love):1	57(water):1	116(tv):1	125(towel):1	153(provide):1	493(machine):1	523(gym):1	1596(individual):1	5786(headphone):1	
+0	
+
+<Author>Wan_With_A_Hat
+<Content>Avoid this Hotel I recommend avoiding this hotel. It is about an over-priced, second rate, nickle and dime, still in the 1990's insult to todays business traveler. I will sleep in my rental car in the burbs before I would ever book there again. It would cost less, the bed would be as accomodating and I'd have Internet access.We reqeusted a king. Got a double. My feet hung over all night. It might be 'heavenly' if you are 5'8 or less. Over 6' the floor is more comfortable. In-room Internet access cost more for two days than a month of DSL, it was hard wired , fixed locataion, slow and you had to pay additional to have wireless in the bar or resturant which didn't roam and didn't always work.. No hot tub and a $18 breakfast you could get for 4 bucks at Dennys. I'd have settled for the $5 bowl of Total cereal, (3x the price of a full box) however they do serve non dairy alternatives to milk. (soy or rice). Outragous local call / 800# charges. Clearly if they could have charged a fee for each entry and exit into the room they would. The best thing about it is there are three other hotels within walking distance where you can get todays traditional free high speed Internet access while you buy your food / drink and curse the convention booking agent for booking you at Weston. Clearly over for this 20th century relic.  
+<Date>Nov 9, 2006
+<Rating>1	1	2	2	3	2	3	1	
+<Aspects>
+12	2(night):1	15(recommend):1	179(double):1	243(king):1	402(foot):1	436(avoid):2	478(hang):1	1499(rice):1	1609(heavenly):1	1977(20th):1	2171(century):1	7622(soy):1	
+23	11(bed):1	19(price):1	78(rate):1	97(internet):1	147(business):1	159(access):1	174(serve):1	175(cost):1	267(traveler):1	529(cereal):1	549(accomodate):1	786(total):1	945(box):1	1116(milk):1	1298(alternative):1	1366(bowl):1	1414(settle):1	2809(insult):1	2872(dime):1	3386(over-price):1	6700(nickle):1	7479(dairy):1	11778(3x):1	
+10	18(book):1	24(floor):1	25(comfortable):1	104(sleep):1	121(car):1	136(charge):1	584(fee):1	963(rental):1	1354(exit):1	1649(entry):1	
+0	
+0	
+3	67(call):1	136(charge):1	195(local):1	
+19	6(breakfast):1	7(walk):1	16(food):1	18(book):2	46(free):1	63(drink):1	97(internet):1	114(hot):1	115(distance):1	159(access):1	280(buy):1	311(tub):1	766(agent):1	1048(convention):1	1120(buck):1	1170(speed):1	1241(traditional):1	7111(dennys):1	7981(curse):1	
+17	8(day):1	27(bar):1	42(pay):1	97(internet):1	159(access):1	162(hard):1	175(cost):1	388(month):1	455(slow):1	494(fix):1	717(wireless):1	835(additional):1	1301(in-room):1	1661(resturant):1	1904(wire):1	2958(roam):1	7463(dsl):1	
+
+<Author>thelivingjuj
+<Content>Super hotel, but bring earplugs The Westin City Center is, overall, a great hotel. The newly renovated rooms are beautifully appointed and stocked, the staff are helpful and eager to please, and room service is reasonable and very good. The Westin is in easy walking distance to the arts district (if you are one of the 6 visitors to Dallas who chooses to walk to anything). However: if you are a light sleeper, this is not the hotel for you. Someone forgot the soundproofing, and the rooms that overlook the atrium - while a lot of fun - are the worst. With a function in full swing on a Saturday night, there was an echo chamber effect to the noise that was truly amazing. Not even a heavenly bed can overcome that ruckus. Also, for these rates...internet shouldn't be $9.95 a day!! It's the one flaw in their amenities.  
+<Date>Nov 6, 2006
+<Rating>4	4	5	4	5	5	5	2	
+<Aspects>
+12	2(night):1	94(noise):1	145(amaze):1	291(amenity):1	476(truly):1	818(saturday):1	1780(function):1	2191(effect):1	2696(swing):1	2745(echo):1	2808(flaw):1	5355(chamber):1	
+0	
+23	0(staff):1	9(service):1	11(bed):1	14(helpful):1	38(lot):1	50(bad):1	157(light):1	173(please):1	176(fun):1	260(overlook):1	273(reasonable):1	397(forget):1	533(renovate):1	579(appoint):1	599(stock):1	771(beautifully):1	1189(newly):1	1299(sleeper):1	1604(eager):1	1609(heavenly):1	1852(soundproof):1	1968(atrium):1	4898(overcome):1	
+9	7(walk):2	93(easy):1	115(distance):1	167(choose):1	433(district):1	789(art):1	889(westin):1	951(visitor):1	1602(dallas):1	
+0	
+0	
+0	
+10	8(day):1	41(city):1	70(overall):1	78(rate):1	97(internet):1	101(center):1	142(bring):1	464(super):1	889(westin):1	1771(earplugs):1	
+
+<Author>TheDuskes
+<Content>Great Hotel, Nice people- perfect stay I read some of the reviews and was a bit nervous about what I'd see....but I was pleasantly surprised.I stayed there for 2 days....(1418 faces the city)My room was beautiful, facing the city. large and very comfortable, clean heavenly bed with a dual head shower.The TV is at an akwward place but if you pull it out of the armoire your good to go, the only thing was that since I use my laptop on the desk , My back was facing the TV which I did not like.The People there from the front desk to the Valet were super nice and very helpful. The bar was OK....but the bartender was a grimacing little man who could not smile if you gave him the winning powerball numbers.Workout room was nice, with brand new treadmills, free weights, and other new peices of equipment.I recommend that if you stay there, you rent a vehicle because the hotel is more then just a few minutes from the west end and uptown. Besure to check Vino100 in uptown if your into wines...Good for Business people and honey mooners....kids will not be as happy because there is no pool, there is however a skating rink in the plaza that connects directly to the hotel.  
+<Date>Oct 19, 2006
+<Rating>5	4	5	3	5	5	5	4	
+<Aspects>
+15	4(nice):1	15(recommend):1	26(people):1	29(minute):1	37(review):1	52(bit):1	74(perfect):1	88(read):1	199(surprise):1	747(pleasantly):1	953(west):1	1030(rend):1	1408(nervous):1	1951(vehicle):1	3285(uptown):1	
+0	
+23	3(clean):1	4(nice):1	8(day):1	11(bed):1	25(comfortable):1	36(desk):1	41(city):2	45(beautiful):1	46(free):1	61(shower):1	116(tv):2	319(head):1	858(pull):1	883(brand):1	1111(laptop):1	1211(equipment):1	1582(weight):1	1609(heavenly):1	1801(workout):1	2212(treadmill):1	3225(armoire):1	5210(dual):1	7792(peice):1	
+14	22(pool):1	26(people):1	32(check):1	147(business):1	155(happy):1	201(kid):1	251(wine):1	383(directly):1	515(plaza):1	841(connect):1	3285(uptown):1	3659(honey):1	5609(skate):1	6779(rink):1	
+0	
+7	4(nice):1	14(helpful):1	26(people):1	31(front):1	36(desk):1	457(valet):1	464(super):1	
+6	23(little):1	27(bar):1	123(ok):1	387(smile):1	676(bartender):1	1273(win):1	
+0	
+
+<Author>20inchmo
+<Content>Westin Spectacular!!!       living area  
+<Date>Oct 18, 2006
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+3	206(live):1	656(spectacular):1	889(westin):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>beev
+<Content>Very Disappointing for a Westin I stayed here for 3 days on business. Let me start with the good :1. Staff very nice and helpful.2. Good Restaurant and Bar.3. Heavenly bed, furnishings, etc. generally good.The Bad :1. Very noisy. You could see arounf all four edges of the door and you could hear noises from the hall like they were in the room with you. The noises from the room next door were also crystal clear.2. The window was in a wierd corner and faced an office building 20ft away. I could read the memos on peoples desks and had no option to get any light if I wanted any privacy.3. I was paying $270 a night for the room and paying an extra $9.95 a day for wired internet connectivity was somewhat insulting when I can get it free at a motel 6.4. It's a small thing, but several knobs and other pieces of hardware were missing from the desk. Overall I expect better from a Westin.  
+<Date>Sep 29, 2006
+<Rating>2	2	1	4	4	4	4	1	
+<Aspects>
+5	50(bad):1	62(expect):1	70(overall):1	217(noisy):1	889(westin):1	
+12	2(night):1	8(day):1	42(pay):2	46(free):1	97(internet):1	128(extra):1	165(start):1	651(somewhat):1	991(motel):1	1904(wire):1	2809(insult):1	6261(connectivity):1	
+21	11(bed):1	26(people):1	36(desk):1	54(door):2	73(etc):1	88(read):1	94(noise):2	119(window):1	132(hear):1	135(build):1	157(light):1	200(corner):1	336(option):1	616(hall):1	792(office):1	870(furnishings):1	1183(privacy):1	1190(edge):1	1609(heavenly):1	2430(crystal):1	5503(wierd):1	
+9	8(day):1	36(desk):1	147(business):1	154(disappoint):1	276(miss):1	889(westin):1	941(piece):1	4128(knob):1	7241(hardware):1	
+0	
+3	0(staff):1	4(nice):1	14(helpful):1	
+2	10(restaurant):1	27(bar):1	
+0	
+
+<Author>juliebob07
+<Content>i'd rather stay at galleria westin just returned from a two night stay at the westin dallas city center. the good... it's heavenly beds! extremely comfortable. bedsheets, spread, super comfortable. the rooms are clean. the valet service is $18 nightly and works like a dream. the atrium area is fantastic. the bad...the ice rink located in the atrium was covered up for a rather large wedding reception. so much for the kids ice skating (we went to the galleria). the boutique style shops located on the premises aren't really places you would go shopping (we went to the galleria). we stayed in room 713, and i have no idea what the construction crew was building in or very near room 813 beginning at 8 a.m. saturday morning, but i hope they did a good job up there. we called the front desk around 10 a.m. after we just couldn't take it anymore. we were told that they could move us to another room, but the construction was going on all over the hotel, and that the construction would not begin until 9 a.m. on sunday morning. we were leaving around 10 a.m. anyway, so we just stayed put. i honestly would not stay here again, but i would stay at a westin at a different location...like the galleria.  
+<Date>Sep 4, 2006
+<Rating>3	3	3	3	3	4	4	3	
+<Aspects>
+10	25(comfortable):1	43(leave):1	86(fantastic):1	110(extremely):1	201(kid):1	417(anyway):1	547(ice):1	1968(atrium):1	3415(galleria):1	5609(skate):1	
+0	
+20	3(clean):1	11(bed):1	25(comfortable):1	56(morning):2	69(tell):1	102(near):1	135(build):1	207(move):1	328(hope):1	464(super):1	481(job):1	551(begin):2	583(construction):3	639(idea):1	818(saturday):1	844(sunday):1	1203(spread):1	1609(heavenly):1	1654(crew):1	5338(bedsheets):1	
+16	1(location):1	49(shop):2	50(bad):1	84(locate):2	129(reception):1	326(style):1	547(ice):1	552(cover):1	604(wed):1	623(boutique):1	889(westin):1	1028(honestly):1	1968(atrium):1	1989(premiss):1	3415(galleria):2	6779(rink):1	
+4	9(service):1	457(valet):1	1033(nightly):1	1256(dream):1	
+4	31(front):1	36(desk):1	67(call):1	1853(anymore):1	
+0	
+7	2(night):1	39(return):1	41(city):1	101(center):1	889(westin):2	1602(dallas):1	3415(galleria):1	
+
+<Author>mmpierce
+<Content>Great location- friendly staff We stayed at the Westin City Center for the Dave Matthews concert Aug. 18-20. Check in was easy and quick. The valets were great and very helpful with directions (and a recommendation for Zini's Pizza- amazing!). The front desk staff were sometimes hard to find, though. We waited for 10 minutes to turn in our keys while the valets were on break. Our room was wonderful- the beds were very comfortable, and bath sundries were wonderful. Love coffee? Try Starbucks coffee in the room, with cups and sleeves. Very thoughtful. We didn't have any cream, and the concierge never delivered it after we called. We let the front desk know about it again on our way out, and they assured that it would be there when we returned. It was. We didn't get our coffee that first morning, but that's ok.All in all, the room was way above average for the $90 incl. taxes that we paid on Priceline. Had we paid $200+ though Starwood Hotels, I would have been much less satisfied. If you get a good price- this hotel will not disappoint.  
+<Date>Aug 21, 2006
+<Rating>4	4	5	5	5	2	-1	5	
+<Aspects>
+1	2837(thoughtful):1	
+12	19(price):1	42(pay):2	76(try):1	90(coffee):1	154(disappoint):1	798(tax):1	800(cup):1	899(satisfy):1	939(starbucks):1	1069(priceline):1	1915(starwood):1	7383(sleeve):1	
+7	11(bed):1	25(comfortable):1	48(wonderful):2	226(bath):1	227(average):1	3537(incl):1	7345(sundries):1	
+9	0(staff):1	1(location):1	12(friendly):1	41(city):1	101(center):1	889(westin):1	2296(concert):1	2404(aug):1	5477(dave):1	
+10	14(helpful):1	29(minute):1	85(wait):1	145(amaze):1	228(break):1	339(key):1	395(direction):1	457(valet):2	577(recommendation):1	678(pizza):1	
+14	0(staff):1	31(front):2	32(check):1	36(desk):2	39(return):1	67(call):1	93(easy):1	162(hard):1	204(concierge):1	299(quick):1	560(sometimes):1	631(deliver):1	1188(cream):1	1349(assure):1	
+4	40(love):1	56(morning):1	90(coffee):2	123(ok):1	
+0	
+
+<Author>nurseparker
+<Content>Nicest Staff EVER!!! We attended a Nurse's conference in Dallas and stayed at the Westin City Center. It was great! They were so nice and accomodating. Every time you were in the lobby someone asked you if everything was okay.. the valet parking attendants were polite and helpful, and speedy with the service. Our bed was great, so comfy and, I was excited to see that there were pets allowed in the hotel! That is great! The ones that we saw were so happy that they were included and had their own Heavenly Doggy Bed! The air conditioner was a little overworked, but it was 104 !! Would highly recommend this hotel to anyone traveling to Dallas!  
+<Date>Jul 16, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+4	15(recommend):1	68(travel):1	138(highly):1	1602(dallas):1	
+2	4(nice):1	549(accomodate):1	
+14	11(bed):2	23(little):1	71(include):1	155(happy):1	164(air):1	166(own):1	359(allow):1	475(comfy):1	1083(conditioner):1	1136(excite):1	1609(heavenly):1	2477(pet):1	5083(overwork):1	10619(doggy):1	
+7	41(city):1	101(center):1	794(conference):1	826(attend):1	889(westin):1	1602(dallas):1	3348(nurse):1	
+0	
+2	0(staff):1	4(nice):1	
+10	5(time):1	9(service):1	14(helpful):1	55(lobby):1	66(park):1	422(polite):1	453(okay):1	457(valet):1	1446(attendant):1	3632(speedy):1	
+0	
+
+<Author>bookcollector
+<Content>Room NEVER Dark enough to sleep The heavenly beds were about a 5 of a 1-10 comfort scale. The pillows were puny, but they did have 4 on the bed. The beds don't have spreads, just the white duvet, which is exactly like the under duvet only a bit thicker. Neither were very thick, especially in comparison to the bed linens at the Peabody in Little Rock. I was really expecting something on that order of luxury. They were very stingy with their heavenly towels, only leaving 2 for a double room. Upon ordering more towels, they wanted to know exactly how many I wanted and why. Why is it their business, I wanted 4 more towels, each of whom needs one for hair and one for body. That started the series of irritating events. Due to an injury we got the handicap accessible room. The bath was completely IN-accessible. The only accomodation was the larger door. I wasn't even able to use the shower or tub. The city view rooms are about 20% more expensive than the standard rooms. (I didn't get a choice because I wanted a handicap room) What they don't tell you is - the standard rooms have windows that look out into the city center ice rink and mall - which is a huge completely enclosed shopping complex that stays well lighted ALL night long. It made me feel extremely claustrophobic during the day when the curtains were open and at night even with the curtains closed the room was too bright to sleep. The lobby was very, very small and had dirty worn carpet. I ordered room service twice and it was terrible both times. The food was average and the presentation was poor. They didn't even send up the correct number of setups. The bar/restaurant service was poor and the food was terrible. The menu choices were sparse and the preparation was just bad. They brought my daughter a well done hamburger that was nearly raw and it was 15 minutes before we saw a waiter again to get it fixed. We finally just gave up. I left this hotel 1 day early because it was not a good experience. Also the nearest self parking (not free - and is not owned or run by the hotel) is on the other side of the ice rink mall which is quite a hike with a suitcase. I stayed at the Adam's Mark in March and the experience was much better.  
+<Date>Jun 19, 2006
+<Rating>2	1	3	-1	3	-1	1	-1	
+<Aspects>
+7	62(expect):1	335(numb):1	341(finally):1	437(luxury):1	447(send):1	1263(correct):1	3363(setup):1	
+21	8(day):1	17(view):1	41(city):1	43(leave):1	44(experience):2	50(bad):1	54(door):1	107(choice):1	124(expensive):1	130(standard):1	165(start):1	423(menu):1	615(march):1	780(accomodation):1	882(mark):1	1106(event):1	2467(irritate):1	3459(sparse):1	3874(series):1	4294(preparation):1	6976(adam):1	
+61	2(night):2	5(time):1	8(day):1	9(service):1	11(bed):4	20(look):1	23(little):1	28(close):1	34(feel):1	41(city):1	43(leave):1	49(shop):1	52(bit):1	61(shower):1	69(tell):1	101(center):1	104(sleep):2	107(choice):1	110(extremely):1	119(window):1	125(towel):2	126(especially):1	130(standard):1	133(huge):1	147(business):1	157(light):1	171(able):1	179(double):1	259(due):1	303(pillow):1	311(tub):1	347(twice):1	432(terrible):1	459(dark):1	466(white):1	542(completely):1	547(ice):1	586(exactly):1	630(linen):1	643(mall):1	702(comfort):1	729(hair):1	743(curtain):2	773(rock):1	880(bright):1	1074(complex):1	1203(spread):1	1275(neither):1	1342(accessible):1	1352(body):1	1525(comparison):1	1609(heavenly):2	1652(thick):2	2428(scale):1	2439(duvet):2	2758(enclose):1	3007(handicap):2	3112(claustrophobic):1	4397(injury):1	5206(stingy):1	6779(rink):1	
+11	46(free):1	66(park):1	102(near):1	149(run):1	166(own):1	547(ice):1	643(mall):1	974(suitcase):1	1314(self):1	1705(hike):1	6779(rink):1	
+4	55(lobby):1	323(dirty):1	396(carpet):1	434(wear):1	
+8	29(minute):1	142(bring):1	467(daughter):1	494(fix):1	735(waiter):1	896(nearly):1	1739(hamburger):1	3115(raw):1	
+9	9(service):1	16(food):2	27(bar):1	125(towel):1	227(average):1	331(poor):2	432(terrible):1	586(exactly):1	1932(presentation):1	
+2	226(bath):1	542(completely):1	
+
+<Author>Katy1, TX
+<Content>Wonderful hotel with easy access to City Wonderful, clean and comfortable rooms. The beds are super comfy. The shower was incredible...wanted to take it home! Location to the DART is great. Breakfast buffet was good though not as outstanding as the rooms.  
+<Date>Apr 28, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+12	3(clean):1	11(bed):1	25(comfortable):1	41(city):1	48(wonderful):2	61(shower):1	93(easy):1	141(home):1	159(access):1	464(super):1	475(comfy):1	718(incredible):1	
+2	1(location):1	4865(dart):1	
+0	
+0	
+3	6(breakfast):1	77(buffet):1	534(outstanding):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very impressed with service, amenities, and cleanliness Checked in using an associate discount and were treated like we were paying the full price instead of the $49 we were charged per day. Desk clerk was very courteous and friendly. This place has all the comforts we expected. Rooms were large, well lit, but the best part of the stay were the beds. They are indeed heavenly like advertised. And all those pillows; I didn't know what to do with all of them! The two shower heads were also heavenly. I had read about the very expensive mini bar, so I didn't even ask for the key. Our stay was a delight.  
+<Date>Mar 17, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+6	62(expect):1	303(pillow):1	702(comfort):1	910(advertise):1	990(indeed):1	1609(heavenly):1	
+18	8(day):1	9(service):1	19(price):1	27(bar):1	32(check):1	42(pay):1	88(read):1	124(expensive):1	136(charge):1	291(amenity):1	320(treat):1	339(key):1	343(impress):1	353(instead):1	448(mini):1	854(cleanliness):1	864(discount):1	2648(associate):1	
+6	11(bed):1	61(shower):1	157(light):1	319(head):1	1025(delight):1	1609(heavenly):1	
+0	
+0	
+4	12(friendly):1	36(desk):1	483(courteous):1	788(clerk):1	
+0	
+0	
+
+<Author>theisedj
+<Content>Excellent Hotel! I stayed several nights in this hotel for business, and the accommodations were absolutely some of the best I have ever encountered! Upon arrival, I was warmly greeted with a smile, and the front desk personnel were exceptionally nice and friendly! The concierge was also very helpful with my questions, and the rooms were extremely clean! When I checked in, I received a corner room (without requesting it). This room was practically as large as a suite, but was the price of a regular room! The bathrooms are very large, and Westin-specific items like their awesome Heavenly beds, dual showerheads and plush bath robes make this hotel top-notch. Being downtown, its close to the West End and other fun areas! Its also only a 5-7 minute walk to the free trolley which travels up and down McKinney Avenue (area lined with great restaurants, galleries, and other shopping.) All in all, my experience was A++!! I have stayed at such hotels as the Ritz Carlton and the Four Seasons, and the Dallas Westin's staff was much friendlier and more accommodating than those hotels!  
+<Date>Mar 6, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	21(excellent):1	
+14	0(staff):1	2(night):1	12(friendly):1	44(experience):1	147(business):1	189(absolutely):1	610(season):1	624(accommodate):1	693(encounter):1	721(accommodation):1	825(ritz):1	889(westin):1	1518(carlton):1	1602(dallas):1	
+20	3(clean):1	11(bed):1	13(bathroom):1	14(helpful):1	19(price):1	108(suite):1	110(extremely):1	204(concierge):1	226(bath):1	348(awesome):1	394(question):1	519(item):1	744(regular):1	1046(robe):1	1609(heavenly):1	1847(plush):1	1850(practically):1	3011(top-notch):1	5210(dual):1	7691(showerheads):1	
+14	7(walk):1	10(restaurant):1	28(close):1	29(minute):1	46(free):1	49(shop):1	68(travel):1	176(fun):1	188(line):1	334(downtown):1	953(west):1	1079(trolley):1	1090(avenue):1	1794(gallery):1	
+0	
+14	4(nice):1	12(friendly):1	31(front):1	32(check):1	36(desk):1	148(request):1	200(corner):1	224(arrival):1	302(receive):1	387(smile):1	415(greet):1	1242(exceptionally):1	1457(personnel):1	2438(warmly):1	
+0	
+0	
+
+<Author>Collieguy4
+<Content>Best of the Best This is absolutely the best hotel find in Dallas. The staff is wonderful. The concierges and bell staff are simply the best. Our room was on the atrium side with a balcony over the skating rink. The beds were truly heavenly ... could have spent the whole weekend in bed. The bath items were to die for ... esp the heavenly shower gel and the bath robes. The gift shop was closed one night and the concierge offered to go to the store for me to get eye-drops ... this is how seriously they take customer service.There were some bad reviews of this hotel when someone else owned it... let me tell you that since Westin has taken over, this hotel is simply wonderful.I can't say enough about the staff ... they are SO helpful and friendly. We were there for our anniversary and the front desk staff sent us a bottle of very fine wine with a hand signed card welcoming us and congratulating us on our anniversary.Stay at this Westin on your next trip. You WON't be needing for anything.  
+<Date>Dec 17, 2005
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+12	33(trip):1	37(review):1	48(wonderful):1	50(bad):1	69(tell):1	166(own):1	170(else):1	189(absolutely):1	487(wo):1	488(simply):1	889(westin):2	1602(dallas):1	
+0	
+16	11(bed):2	61(shower):1	64(spend):1	172(weekend):1	191(balcony):1	226(bath):2	476(truly):1	519(item):1	1046(robe):1	1264(die):1	1609(heavenly):2	1968(atrium):1	2415(gel):1	2624(esp):1	5609(skate):1	6779(rink):1	
+10	2(night):1	9(service):1	28(close):1	49(shop):1	89(offer):1	204(concierge):1	255(store):1	428(customer):1	852(gift):1	1441(seriously):1	
+0	
+19	0(staff):4	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	48(wonderful):1	113(fine):1	202(welcome):1	204(concierge):1	238(bottle):1	251(wine):1	292(card):1	377(hand):1	447(send):1	449(sign):1	488(simply):1	801(bell):1	804(anniversary):2	5131(congratulate):1	
+0	
+0	
+
+<Author>Dale46
+<Content>Disappointing The foyer and rooms are in dire need of renovation.  
+<Date>Oct 21, 2005
+<Rating>2	1	2	-1	2	-1	3	-1	
+<Aspects>
+0	
+0	
+4	154(disappoint):1	687(renovation):1	1931(foyer):1	4063(dire):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>GoRavens32
+<Content>Prime location - great service I was in Dallas on business and stayed at the Westin City Center. Hotel is close to several downtown attractions including American Airlines center and West End shops/restaurants. Friendly service upon arrival, bellmen and front desk clerk were especially nice. Would stay again.  
+<Date>May 23, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+15	1(location):1	9(service):1	28(close):1	41(city):1	71(include):1	101(center):2	147(business):1	334(downtown):1	350(attraction):1	889(westin):1	953(west):1	1336(airline):1	1602(dallas):1	1774(prime):1	6681(shops):1	
+0	
+9	4(nice):1	9(service):1	12(friendly):1	31(front):1	36(desk):1	126(especially):1	224(arrival):1	788(clerk):1	1105(bellman):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great hotel This hotel cannot do enough to make your stay special. From the moment we stepped into the hotel, we were greeted pleasantly and professionally by the valet and bell staff. Our bellman, Scott, went out of his way during the entire stay to make us feel extra special and welcome. We had a junior suite and the room as well as the bathroom shower were beautiful. If there are any complaints it would be that the prices of the minibar were outrageous, not unlike most large hotels. Another asset is the food court that is attached to the hotel, great when you want breakfast or lunch and not pay a fortune. Only downfall, most of the stores are closed on the weekend.  
+<Date>Apr 30, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	208(special):1	
+5	19(price):1	190(complaint):1	1037(minibar):1	1163(unlike):1	2277(outrageous):1	
+5	13(bathroom):1	45(beautiful):1	61(shower):1	108(suite):1	964(junior):1	
+4	28(close):1	172(weekend):1	255(store):1	3136(downfall):1	
+8	0(staff):1	366(step):1	415(greet):1	457(valet):1	670(moment):1	747(pleasantly):1	801(bell):1	3880(professionally):1	
+7	34(feel):1	128(extra):1	202(welcome):1	208(special):1	329(entire):1	1105(bellman):1	7709(scott):1	
+8	6(breakfast):1	16(food):1	42(pay):1	252(lunch):1	1068(court):1	1224(attach):1	2490(fortune):1	3023(asset):1	
+0	
+
+<Author>Tennreb
+<Content>Westin is near perfect This Westin hotel offered everything nearly anyone could want in a hotel. Checkin was quick and friendly. Although I purchased the hotel on Hotwire, they treated me like a VIP. Some elements of the room were a little dated, but the bed was wonderful. The TV was great. The minibar, although expensive, came in handy. The bathroom ranks up there with the finest hotels. Everything was marble, the shower was truly heavenly, and the terry robes were a nice touch. Service was excellent at this hotel, and I will remain loyal to the Westin brand. I'll never stay at another Hyatt again.  
+<Date>Mar 18, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	74(perfect):1	89(offer):1	102(near):1	320(treat):1	887(purchase):1	889(westin):2	896(nearly):1	924(hyatt):1	1555(vip):1	1824(hotwire):1	
+3	124(expensive):1	755(handy):1	1037(minibar):1	
+17	4(nice):1	11(bed):1	13(bathroom):1	23(little):1	48(wonderful):1	61(shower):1	113(fine):1	116(tv):1	279(touch):1	476(truly):1	511(date):1	705(marble):1	1046(robe):1	1609(heavenly):1	1795(rank):1	3232(element):1	4472(terry):1	
+0	
+0	
+3	12(friendly):1	299(quick):1	1818(checkin):1	
+6	9(service):1	21(excellent):1	883(brand):1	889(westin):1	1391(remain):1	5587(loyal):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>wonderful stay This hotel has it together! The overall stay was great. It was formerly Le Meridian and has come along way since Westin took over. The doorman was wonderful and personally escorted us to the front desk. From there the front desk checked us in to a great room with a view of downtown. The lady that checked us in explained the hotel features and the hours of operation. The bathrooms in this hotel are wonderful!!! Dual headed showers with plush towels and bathrobes. The decor is very modern contemporary. I would stay at this hotel again for sure.  
+<Date>Mar 16, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+6	48(wonderful):1	70(overall):1	889(westin):1	1133(le):1	4846(formerly):1	8978(meridian):1	
+0	
+11	13(bathroom):1	48(wonderful):1	61(shower):1	125(towel):1	151(modern):1	269(decor):1	319(head):1	1475(contemporary):1	1529(bathrobe):1	1847(plush):1	5210(dual):1	
+6	32(check):1	60(hour):1	521(lady):1	731(feature):1	768(explain):1	2874(operation):1	
+0	
+9	17(view):1	31(front):2	32(check):1	36(desk):2	48(wonderful):1	334(downtown):1	998(doorman):1	1052(personally):1	2005(escort):1	
+0	
+0	
+
+<Author>rascal299
+<Content>great hotel! The hotel overall is great. They are under renovation however the rooms were nice. The check in was fast and efficent along with a friendly staff. It was our anniversary and the front desk staff took it upon themselves to send up a wonderful plate of chocolate strawberries. The fitness center is very updated and open 24hrs. I would stay there again next time i am in Dallas.  
+<Date>Mar 14, 2005
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+3	5(time):1	70(overall):1	1602(dallas):1	
+0	
+2	4(nice):1	687(renovation):1	
+0	
+0	
+14	0(staff):2	12(friendly):1	31(front):1	32(check):1	36(desk):1	48(wonderful):1	447(send):1	499(fast):1	632(chocolate):1	804(anniversary):1	1002(plate):1	1059(themselves):1	2276(strawberry):1	5874(efficent):1	
+0	
+4	101(center):1	725(update):1	983(fitness):1	4170(24hrs):1	
+

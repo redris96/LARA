@@ -1,0 +1,392 @@
+<Author>seabreze3
+<Content>Efficient Hotel has pretty lobby and efficient restaurant. Rooms are simplistic but clean. Staff was extremely friendly and very accomodating. Business center was equipped with all necessary ammenities and wireless internet in hotel was fast.  
+<Date>Dec 29, 2008
+<Rating>4	4	4	5	5	5	5	5	
+<Aspects>
+0	
+4	0(staff):1	12(friendly):1	110(extremely):1	549(accomodate):1	
+2	3(clean):1	11930(simplistic):1	
+0	
+0	
+0	
+4	10(restaurant):1	55(lobby):1	109(pretty):1	401(efficient):2	
+7	97(internet):1	101(center):1	147(business):1	499(fast):1	717(wireless):1	884(equip):1	2231(ammenity):1	
+
+<Author>beatricepugzilla
+<Content>Not What I Expected From Reviews After reading the reviews, I was expecting this Hotel to be in a terrible area and was actually thinking of checking in at the Hilton across the street if needed- Once I got to the Hotel this was not the case at all. It was a typical Hilton Garden Inn in a typical outside of Downtown - off the highway area. Was it dark at night and the back parking lot could have used more lights - sure and probably so - but this by no means should this keep you from staying at this hotel. The rooms were clean and the staff was more than helpful. Would I stay here again? Sure.  
+<Date>Sep 28, 2008
+<Rating>3	3	4	3	4	3	4	3	
+<Aspects>
+0	
+0	
+10	0(staff):1	2(night):1	3(clean):1	14(helpful):1	38(lot):1	66(park):1	157(light):1	178(probably):1	246(mean):1	459(dark):1	
+14	32(check):1	35(street):1	37(review):2	62(expect):2	88(read):1	98(outside):1	180(actually):1	310(garden):1	324(inn):1	334(downtown):1	432(terrible):1	477(hilton):2	628(typical):2	1870(highway):1	
+0	
+0	
+0	
+0	
+
+<Author>LasVegasMike
+<Content>Good Experience, Convenient Location, Some Concerns       Front  
+<Date>May 31, 2008
+<Rating>3	3	4	2	4	3	4	4	
+<Aspects>
+0	
+5	1(location):1	31(front):1	44(experience):1	186(convenient):1	496(concern):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>BCSMom
+<Content>Not a Good Experience Had I read the previous review before I left home, (car broken into), I probably would have cancelled my reservation. Although my car was not broken into, I could see how easily this could have happened being that the surroundings behind the hotel are a little on the seedy side. I stayed here based mainly on the good reviews here on Tripadvisor, but after I checked in, I realized it was not for me. I booked this room in Oct. or Nov. in need of a hotel close to downtown convention center. Upon arrival the front desk clerk was very cheerful and I was taken care of right away. When we got to the room, it was a king bed with a sofa bed. I reserved a room with 2 queens. I called down to the clerk and he said oh they upgraded you because you're a Hilton Honors member - you're in a suite. I almost felt insulted - I know the difference in a suite and a queen - why not just tell me at check-in that you don't have my room because you overbooked? I told him I wanted the room I reserved because nobody in my family would want to sleep on a sofa bed. He said ok come on down and we'll downgrade you (jokingly). He gave us a queen room, but it was a handicap room which would be ok other than the shower was a walk-in, which meant a wet floor after every use. It was also a nasty shower (I took pics). The overall feel of this hotel was dirty for me. Starting in the lobby, the tile floors were dirty the whole time we were there (3 nights). The mattresses were not comfortable and the bedding only had a thin sheet and a thick comforter. What happened to putting a blanket in between? I did speak to the clerk at the desk the next day and asked if he could let me know if a Non-smoking queen room became available, but of course, it did not. I took pictures of the decaying ceiling around the vent in the shower, the nasty Hilton guest services book that had food or something smeared on the pages, and the delapidated drapes. I'll try to get those up soon. I will not stay at this hotel again.  
+<Date>Apr 21, 2008
+<Rating>1	2	1	4	1	4	3	-1	
+<Aspects>
+7	76(try):1	123(ok):1	382(happen):1	418(soon):1	1369(blanket):1	4347(downgrade):1	11993(jokingly):1	
+11	37(review):1	43(leave):1	44(experience):1	88(read):1	121(car):1	141(home):1	156(reservation):1	178(probably):1	228(break):1	373(previous):1	1065(cancel):1	
+47	8(day):1	11(bed):4	18(book):1	24(floor):1	25(comfortable):1	28(close):1	34(feel):1	36(desk):1	61(shower):2	67(call):1	69(tell):2	101(center):1	104(sleep):1	106(family):1	108(suite):2	123(ok):1	127(speak):1	134(available):1	163(upgrade):1	243(king):1	246(mean):1	286(check-in):1	293(course):1	334(downtown):1	477(hilton):1	479(sheet):1	506(reserve):2	543(Queen):4	754(thin):1	788(clerk):2	819(difference):1	842(sofa):2	847(mattress):1	978(nonsmoking):1	1032(wet):1	1048(convention):1	1376(honor):1	1639(nasty):1	1652(thick):1	1694(comforter):1	1763(nov):1	1851(oct):1	2068(overbooke):1	2367(walk-in):1	2692(pic):1	2809(insult):1	3007(handicap):1	
+7	23(little):1	121(car):1	228(break):1	382(happen):1	438(easily):1	1551(surroundings):1	2209(seedy):1	
+9	2(night):1	5(time):1	24(floor):1	34(feel):1	55(lobby):1	70(overall):1	165(start):1	323(dirty):2	846(tile):1	
+12	31(front):1	32(check):1	36(desk):1	37(review):1	224(arrival):1	242(care):1	284(base):1	597(tripadvisor):1	607(realize):1	788(clerk):1	1177(mainly):1	1720(cheerful):1	
+14	9(service):1	16(food):1	18(book):1	61(shower):1	91(guest):1	456(picture):1	477(hilton):1	528(ceiling):1	1639(nasty):1	2344(vent):1	2414(page):1	2501(drape):1	7809(smear):1	8157(decay):1	
+0	
+
+<Author>radius480
+<Content>Car was broken into.... The hotel is nice and pretty. The rooms are a bit old and have rust in the shower, I guess you should expect that in old hotels now. I always stay at Hilton since I am a Hilton Honors member and I like gaining points. I stayed here for a convention. I drove my personal car since Dallas is 4 hours from my house. This area to the naked eye looks like a nice area with the hilton anatole right next door and a nice marriott a block away. The third night into our stay at around 5 pm while I was getting ready for a dinner party, my vehicle was broken into. The drivers side window was broken and they broke my console trying to steal my CD player. Keep in mind this happened in bright day light. I went inside to tell the front desk. The on duty manager was there and he acted like he wasn't surprised. He told me that this happens frequently and it is hard to prevent it. I never recieved an apology or anything from the manager. All he said was all I can do is call the police. I wasn't expecting a free room, but after spending 200 dollars on a new window and filing an insurance claim to fix my dash, I think I deserve more then all I can do is call the police.I filed a police report with the Dallas police. The officer that came out, told me this area is hot right now for auto burglarys. He reccommended the next time I come to Dallas I stay in a suburb city (Plano, Duncanville, Los Colinas, Rowlett, etc). He said since all these hotels butt up next to i-35 it is easy for criminals to get away quick and far within minutes. The hotel does have security, but they dont start work until 7 pm every night. I asked the security guard since most of the cars get broken into in the afternoon why they dont have someone that works afternoons. The security guard told me the manager didnt think it was neccessary. He also told me 6 cars in the last 2 months have been broken into and seriously damaged. I will never stay at this Hilton again. I told our company travel agent as well as my friends and colleagues. Like I said, I wasn't expecting a free night or a bottle of wine. All I was asking for was a little more respect from the manager, you think that would be easy since he is in the hospitality business.  
+<Date>Apr 15, 2008
+<Rating>1	1	2	3	3	2	1	4	
+<Aspects>
+39	4(nice):3	5(time):1	20(look):1	29(minute):1	41(city):1	54(door):1	67(call):1	69(tell):2	73(etc):1	93(easy):1	100(bloc):1	109(pretty):1	121(car):2	162(hard):1	228(break):2	299(quick):1	382(happen):1	388(month):1	477(hilton):4	618(marriott):1	838(report):1	977(eye):1	1048(convention):1	1376(honor):1	1409(police):3	1441(seriously):1	1573(frequently):1	1602(dallas):2	1969(lo):1	2030(damage):1	2111(reccommend):1	2352(prevent):1	2511(butt):1	2722(gain):1	3110(file):1	3739(suburb):1	4541(naked):1	6219(criminal):1	7486(anatole):1	
+5	2(night):1	165(start):1	393(pm):1	503(dont):1	641(security):1	
+42	8(day):1	46(free):1	52(bit):1	60(hour):1	61(shower):1	62(expect):2	64(spend):1	67(call):1	69(tell):1	76(try):1	119(window):2	121(car):2	157(light):1	228(break):3	258(manager):1	281(house):1	294(mind):1	298(drive):1	364(afternoon):2	382(happen):1	430(dollar):1	469(guess):1	494(fix):1	503(dont):1	563(driver):1	626(didnt):1	641(security):2	711(personal):1	880(bright):1	1072(deserve):1	1076(player):1	1077(claim):1	1187(steal):1	1409(police):1	1602(dallas):1	1729(cd):1	1762(guard):2	3110(file):1	3166(insurance):1	3218(rust):1	5944(dash):1	6387(console):1	
+6	23(little):1	93(easy):1	147(business):1	258(manager):1	1115(hospitality):1	1389(respect):1	
+0	
+13	31(front):1	36(desk):1	69(tell):2	114(hot):1	199(surprise):1	258(manager):2	408(inside):1	1325(duty):1	1547(apology):1	2060(recieve):1	2237(act):1	4282(officer):1	5923(auto):1	
+12	2(night):2	46(free):1	62(expect):1	117(dinner):1	228(break):1	238(bottle):1	251(wine):1	274(ready):1	363(party):1	393(pm):1	532(third):1	1951(vehicle):1	
+6	68(travel):1	69(tell):1	146(friend):1	760(company):1	766(agent):1	1991(colleague):1	
+
+<Author>SopranosFan
+<Content>Nice place to stay in Market Center I booked through Hilton and got a great rate for this hotel. The service was outstanding, food was good, and the rooms were fresh and comfortable. For being in an area that is surrounded by older hotels, this place was quite a find. This hotel is also a bit older, but very well maintained. The bed was one of the most comfortable I have ever slept in. I was a bit concerned about my vehicle since this area isn't the safest, but it went through the night okay. I couldn't find anything wrong with the hotel and I did try. I got some laundry done there - the machines work great.I would definitely stay here again. For being one of the Hilton's lower end hotels, it is heads above the rest in the area - even the expensive and old Anatole next door.  
+<Date>Jan 20, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+9	2(night):1	52(bit):1	59(definitely):1	76(try):1	137(safe):1	427(wrong):1	453(okay):1	496(concern):1	1951(vehicle):1	
+7	54(door):1	124(expensive):1	288(rest):1	319(head):1	477(hilton):1	777(lour):1	7486(anatole):1	
+3	11(bed):1	25(comfortable):1	104(sleep):1	
+7	4(nice):1	18(book):1	78(rate):1	101(center):1	264(market):1	477(hilton):1	667(surround):1	
+2	52(bit):1	562(maintain):1	
+0	
+7	9(service):1	16(food):1	25(comfortable):1	197(fresh):1	493(machine):1	534(outstanding):1	1075(laundry):1	
+0	
+
+<Author>caneshockey31
+<Content>Good Stay at This Hotel Okay, this hotel was kinda of interesting, a check-in the front desk was excellent with setting up early check-in, schedule early morning sedan service.The staff were all very friendly, the van driver was very good and gave me a ride to/from American Airlines Arena.However, this was the bad part, my flight the next morning was delayed so i went to the front desk to let them know to call and change my pick up for the airport from 5:15 a.m to 6:30 a.m.In the middle of the night, the phone rings and it is the sedan service saying they will be there around 5AM. I was like huh the hotel was supposed to contact you and change it to 6:30 a.m.They were like Well they never called and let us know, so i told them i need it at 630 and they said they weren't available then, so i said i would take care of it myself.Beware: Taxi to/from Dallas Fort Worth Airport upwards of $40.00 depending on taxi driver.The Hilton Garden Inn is next door to the Hilton Anatole.  
+<Date>Oct 14, 2007
+<Rating>3	4	4	4	4	4	2	4	
+<Aspects>
+5	54(door):1	310(garden):1	324(inn):1	477(hilton):2	7486(anatole):1	
+0	
+24	0(staff):1	2(night):1	9(service):1	12(friendly):1	31(front):1	36(desk):1	50(bad):1	56(morning):1	67(call):1	95(airport):1	161(change):1	218(ride):1	233(flight):1	266(pick):1	296(phone):1	325(middle):1	563(driver):1	1150(ring):1	1223(van):1	1336(airline):1	1351(delay):1	3153(arena):1	9113(5am):1	9398(sedan):1	
+9	95(airport):1	96(worth):1	185(taxi):2	563(driver):1	737(beware):1	969(depend):1	1602(dallas):1	3047(fort):1	6086(upwards):1	
+0	
+19	9(service):1	21(excellent):1	31(front):1	36(desk):1	56(morning):1	67(call):1	69(tell):1	134(available):1	161(change):1	234(set):1	242(care):1	286(check-in):2	453(okay):1	620(suppose):1	713(contact):1	1196(schedule):1	2050(kinda):1	5523(huh):1	9398(sedan):1	
+0	
+0	
+
+<Author>platinum1
+<Content>Comfortable Hotel with good service I stayed at the Hilton Garden Inn with my husband who was on business in Dallas for 5 nights while I was in Dallas for training and attending the TX/OU game over the weekend. The hotel is just off of I-35 and has free parking. There is a small gym on the property but because I am a HH Diamond member I was able to use the Veranda Club at the Hilton Anatole across the street. It has an indoor and outdoor pool, tennis court, weights and machines as well as a variety of classes that you can sign up for. The Garden Inn serves a full buffet breakfast each morning and you can order eggs or an omelet to order if you have extra time. The hotel staff is very friendly and goes out of their way to get things done. Benito one of the breakfast servers was very nice and made sure my husband I got our coffee as soon as we sat down and made sure we had everything we needed. Our room was large and comfortable and had a mini-frig and microwave.  
+<Date>Oct 11, 2007
+<Rating>3	4	4	3	4	-1	4	-1	
+<Aspects>
+0	
+0	
+2	25(comfortable):1	820(microwave):1	
+16	2(night):1	9(service):1	25(comfortable):1	46(free):1	66(park):1	105(husband):1	147(business):1	172(weekend):1	182(train):1	310(garden):1	324(inn):1	477(hilton):1	683(game):1	826(attend):1	1602(dallas):2	6711(tx):1	
+0	
+2	0(staff):1	12(friendly):1	
+26	4(nice):1	5(time):1	6(breakfast):2	35(street):1	56(morning):1	77(buffet):1	90(coffee):1	105(husband):1	128(extra):1	169(sit):1	171(able):1	174(serve):1	212(club):1	214(property):1	310(garden):1	324(inn):1	412(egg):1	418(soon):1	477(hilton):1	523(gym):1	1137(diamond):1	1540(server):1	3257(omelet):1	4091(veranda):1	7486(anatole):1	7524(hh):1	
+10	22(pool):1	413(variety):1	449(sign):1	470(class):1	493(machine):1	901(outdoor):1	1068(court):1	1582(weight):1	1680(indoor):1	1734(tennis):1	
+
+<Author>bbade514
+<Content>Great Stay in Dallas I stayed at this property for 13 nights on a business trip. Upon arrival, I was greeted by LaShawn at the front desk. She was extremely helpful and knowledgeable of the property and the surrounding area. During my stay, she would always go out of her way to find out how I was doing and even remembered my name throughout the stay.I was in an oversized room which overlooked the Market Center. The room was clean, bathroom was adequate, and there was a desk with complementary internet connection. (There is also a small business center next to the lobby) There was always plenty of room to move around even when I had everything spread out.There is a pool and spa towards the rear of the property. It was never very crowded. The hotel supplied beach towels.This property also had a restaurant on the main floor off of the lobby in the large atrium. The food was good and reasonably priced, but the service at night was very slow. It seems that they were always short handed during the evening dinner hours and could not handle the restaurant being only 1/2 full. I had the buffet breakfast in the morning which included omelets and never experienced a problem with the service.Finally this hotel also had a free shuttle service within a 5 mile radius and to Dallas Love Field. I used the service a number of occasions and the drivers were always very courteous and willing to accommodate.All in all, this is a very nice property. I would stay here next time I was in the Dallas area, but would probably skip dinner at the hotel.  
+<Date>Sep 11, 2007
+<Rating>4	5	5	4	5	5	4	5	
+<Aspects>
+4	295(name):1	313(crowd):1	375(remember):1	445(throughout):1	
+6	9(service):1	335(numb):1	483(courteous):1	563(driver):1	624(accommodate):1	871(occasion):1	
+11	3(clean):1	13(bathroom):1	36(desk):1	97(internet):1	101(center):1	260(overlook):1	264(market):1	390(adequate):1	932(connection):1	1978(complementary):1	3426(oversized):1	
+22	2(night):1	9(service):1	14(helpful):1	33(trip):1	40(love):1	46(free):1	55(lobby):1	101(center):1	110(extremely):1	147(business):2	158(plenty):1	207(move):1	214(property):2	321(shuttle):1	341(finally):1	667(surround):1	692(mile):1	1160(knowledgeable):1	1203(spread):1	1602(dallas):2	2174(field):1	4443(radius):1	
+0	
+4	31(front):1	36(desk):1	224(arrival):1	415(greet):1	
+35	2(night):1	4(nice):1	5(time):1	6(breakfast):1	9(service):2	10(restaurant):2	16(food):1	19(price):1	22(pool):1	24(floor):1	30(beach):1	44(experience):1	55(lobby):1	56(morning):1	60(hour):1	71(include):1	77(buffet):1	112(main):1	117(dinner):2	125(towel):1	144(short):1	178(probably):1	214(property):3	314(spa):1	377(hand):1	455(slow):1	578(reasonably):1	859(supply):1	959(towards):1	966(handle):1	1429(skip):1	1602(dallas):1	1968(atrium):1	2007(rear):1	2711(omelets):1	
+0	
+
+<Author>Brian_NVA
+<Content>Good Price, Decent Place I arrived at the Hilton Garden Inn around 7:00 PM on a Tuesday night for one night's stay. My first exposure to the hotel was an exceptionally nice, helpful desk clerk (LaShanna?) who went out of her way to ask how I was doing and direct me and others to restaurants in the area. I even called the manager the next morning to provide her with positive feedback about the desk clerk (unusual for me).The hotel had a big, airy lobby, and my room was quite large - maybe more suited for two double beds than one kingsize bed. The bed and shower were fine. I didn't use it, but was pleasantly surprised to find a restaurant available for dinner in the lobby area. They also served breakfast, but I don't believe it was complimentary. I found this hotel to be fine... kind of typical of the moderately priced chains springing up all over everywhere. Not great, but OK for me.I paid the Government rate of $100 per night.  
+<Date>Jul 28, 2007
+<Rating>4	4	4	3	4	5	3	-1	
+<Aspects>
+1	123(ok):1	
+17	2(night):3	19(price):2	42(pay):1	53(arrive):1	78(rate):1	113(fine):1	257(decent):1	310(garden):1	324(inn):1	393(pm):1	477(hilton):1	627(chain):1	628(typical):1	1162(spring):1	2485(tuesday):1	3195(moderately):1	3284(government):1	
+9	11(bed):3	55(lobby):1	61(shower):1	113(fine):1	179(double):1	308(maybe):1	861(suit):1	1947(airy):1	3778(kingsize):1	
+0	
+0	
+13	4(nice):1	14(helpful):1	36(desk):2	56(morning):1	67(call):1	153(provide):1	258(manager):1	458(positive):1	788(clerk):2	1242(exceptionally):1	1610(unusual):1	2824(feedback):1	8444(exposure):1	
+11	6(breakfast):1	10(restaurant):2	55(lobby):1	117(dinner):1	134(available):1	174(serve):1	199(surprise):1	312(believe):1	345(complimentary):1	747(pleasantly):1	803(direct):1	
+0	
+
+<Author>NATEB48
+<Content>It was great I liked this hotel, it was clean, easy to locate and the staff was great. The location was near everything in dallas. Easy access to and from the freeway, and downtown. They even have free WiFi. I would stay again. They had a pool, jacuzzi, exercise room and a resturant/bar.  
+<Date>Jul 27, 2007
+<Rating>5	3	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+4	22(pool):1	808(jacuzzi):1	1459(exercise):1	1661(resturant):1	
+7	0(staff):1	1(location):1	3(clean):1	84(locate):1	93(easy):1	102(near):1	1602(dallas):1	
+0	
+0	
+0	
+6	46(free):1	93(easy):1	159(access):1	334(downtown):1	1268(wifi):1	2318(freeway):1	
+
+<Author>bigbaldjohnny
+<Content>Not bad considering the graveyard shift construction noise This place offers the average for what I expect in a hotel room. They are currently constructing a new ballroom and escavation and trash hauling noise kept me awake 2 nights. I also noticed allot of new construction on adjacent property.The room was the standard issue sort with institutional furnishings. Well used but in good repair. The bath was nice sized as well.When I spoke to the supervisor of housekeeping about the night time noise, she immediately comp'd me 2 nights making my stay a very sweet deal.They made me happy and I'll return.  
+<Date>Jun 28, 2007
+<Rating>3	4	3	4	-1	3	5	3	
+<Aspects>
+2	39(return):1	155(happy):1	
+0	
+32	2(night):3	4(nice):1	5(time):1	50(bad):1	62(expect):1	83(size):1	89(offer):1	94(noise):3	127(speak):1	130(standard):1	140(deal):1	226(bath):1	227(average):1	248(consider):1	265(issue):1	367(housekeeping):1	489(immediately):1	557(sort):1	583(construction):1	870(furnishings):1	950(sweet):1	1398(repair):1	1494(awake):1	1793(trash):1	2006(currently):1	2479(shift):1	2942(comp):1	3201(supervisor):1	3339(haul):1	4627(construct):1	5543(ballroom):1	7882(institutional):1	
+0	
+0	
+0	
+5	214(property):1	354(notice):1	583(construction):1	1061(adjacent):1	6061(allot):1	
+0	
+
+<Author>SDminer
+<Content>Had a Great time! We stayed at the Hilton Garden Inn the week of June 2, 2007. Overall we had a great time. I booked the room through Hotwire for $49 a night, I couldn't beat the price. The room was a little cramped, with two full size beds but with the price I cannot complain too much. The jacuzzi needs to be heated a little higher but the pool isn't as small as described in other reviews. The hotel is in a perfect location but you need a car. There are no hotels within walking distance. They advertise free cookies at night but we only saw them out one night and checkout took over 10 minutes.  
+<Date>Jun 11, 2007
+<Rating>4	5	2	4	4	3	4	2	
+<Aspects>
+7	5(time):2	70(overall):1	75(week):1	310(garden):1	324(inn):1	477(hilton):1	664(june):1	
+5	2(night):1	18(book):1	19(price):1	442(beat):1	1824(hotwire):1	
+6	11(bed):1	19(price):1	23(little):1	83(size):1	241(complain):1	1080(cramp):1	
+11	1(location):1	7(walk):1	22(pool):1	23(little):1	37(review):1	74(perfect):1	115(distance):1	121(car):1	539(heat):1	808(jacuzzi):1	955(describe):1	
+0	
+6	2(night):2	29(minute):1	46(free):1	658(checkout):1	910(advertise):1	1173(cookie):1	
+0	
+0	
+
+<Author>fkaway
+<Content>Close to downtown, good breakfast This hotel is situated just next to the Hilton Anatole and other business hotels. Our room on the 7th floor was very spacious with twin beds, Iron board, no Inroom safe, free WIFI, semi-large bathroom and wardrobe. The breakfast buffet for $9.95 was good and plenty considering this hotel/Inn type. The fitness room has some running bands, crosstrainer, a weight machine but no dumbbells. You鈥檇 walk through this room to the outdoor pool. There鈥檚 a business center incl. printer available. This hotel is ideally situated approx. 7 driving mins. from 鈥淭he Sixth Floor Museum (JFK museum)鈥?and West End Historical District. Helpful service staff. Suitable for 1 night in Dallas.  
+<Date>May 28, 2007
+<Rating>3	3	4	3	3	3	4	4	
+<Aspects>
+7	134(available):1	247(min):1	298(drive):1	574(situate):1	1423(approx):1	1800(ideally):1	2328(printer):1	
+0	
+31	2(night):1	7(walk):1	11(bed):1	13(bathroom):1	22(pool):1	24(floor):2	46(free):1	111(spacious):1	137(safe):1	149(run):1	433(district):1	493(machine):1	507(museum):2	600(board):1	690(twin):1	868(iron):1	901(outdoor):1	953(west):1	983(fitness):1	1268(wifi):1	1335(band):1	1451(wardrobe):1	1582(weight):1	1602(dallas):1	1967(suitable):1	2311(historical):1	2951(7th):1	3199(jfk):1	3264(sixth):1	6768(inroom):1	11380(dumbbell):1	
+7	6(breakfast):1	28(close):1	147(business):1	334(downtown):1	477(hilton):1	574(situate):1	7486(anatole):1	
+0	
+3	0(staff):1	9(service):1	14(helpful):1	
+5	6(breakfast):1	77(buffet):1	158(plenty):1	248(consider):1	389(type):1	
+3	101(center):1	147(business):1	3537(incl):1	
+
+<Author>simpaticotexas
+<Content>very nice stay :) my stay although for one night was great...the staff was exceptionally friendly and helpful....the room was clean, a very nice environment for the price....would stay there again...the only negative was that it was too far from downtown...not within walking distance...but their shuttle service was available till 9 p.m....with no delays....I was very happy with what they had to offer from their hotel. crystal...central texas  
+<Date>Mar 15, 2007
+<Rating>4	4	4	3	4	5	5	4	
+<Aspects>
+3	168(central):1	2430(crystal):1	3135(texas):1	
+0	
+0	
+21	0(staff):1	2(night):1	3(clean):1	4(nice):2	7(walk):1	9(service):1	12(friendly):1	14(helpful):1	19(price):1	89(offer):1	115(distance):1	134(available):1	155(happy):1	282(negative):1	321(shuttle):1	334(downtown):1	979(till):1	1242(exceptionally):1	1351(delay):1	1466(p.m):1	1712(environment):1	
+0	
+0	
+0	
+0	
+
+<Author>Andrea in Texas
+<Content>Must have a car to stay here! If you are attending any events at the Dallas Trade Mart, this hotel's location cannot be beat. They have a complimentary shuttle to the Trade Mart and from Love Field so we thought a car would be unnecessary. We were wrong. There are NO nearby restaurants, so unless you enjoy overpriced hotel food for every meal, rent a car. To be fair, there is a little store in the hotel where you may purchase microwave meals to cook in your room, but that gets old very quickly. The hotel has free high speed internet, but they charge for local phone calls. The room was a typical room, smaller than some and larger than others. It was clean and the a/c was ice cold.  
+<Date>Dec 20, 2006
+<Rating>3	3	3	2	3	3	3	3	
+<Aspects>
+2	121(car):1	427(wrong):1	
+0	
+9	23(little):1	213(meal):1	255(store):1	471(quickly):1	550(cook):1	628(typical):1	739(fair):1	820(microwave):1	887(purchase):1	
+13	1(location):1	40(love):1	121(car):1	321(shuttle):1	345(complimentary):1	442(beat):1	826(attend):1	1106(event):1	1602(dallas):1	2044(trade):2	2174(field):1	4132(unnecessary):1	5314(mart):2	
+3	3(clean):1	222(cold):1	547(ice):1	
+0	
+9	10(restaurant):1	16(food):1	51(enjoy):1	121(car):1	213(meal):1	232(nearby):1	405(unless):1	727(overprice):1	1030(rend):1	
+7	46(free):1	67(call):1	97(internet):1	136(charge):1	195(local):1	296(phone):1	1170(speed):1	
+
+<Author>marc1976
+<Content>Very Good Value and Comfortable Beds My father and I stayed at the Hilton Garden Inn/Market Center from December 13, 2006 through December 15, 2006 in room 621. We were only in Dallas a couple of nights to see a hockey game and paid $69.00 a night. Overall I was pleased with the accommodations though I did encounter some minor inconveniences.The room was very clean and spacious. Both my father and I commented that the beds were probably the most comfortable we ever slept in. The room had everything we needed (desk, refrigerator, coffee maker, hair dryer, microwave, free USA Today, etc.). The bathroom was of average size and had plenty of towels and amenities. The television had a suitable number of channel selections. Unlike other reviewers, I did not notice any noises from the air conditioner units. Elevator service was very quick as there are only 8 floors in the hotel. The lobby area was large and had several comfortable chairs.The breakfast buffet was great. It only cost $9.95 and was open from 6-10 am. I enjoyed the free chocolate chip cookies that were served during the evening hours.The staff was very friendly, helpful, and attentive. I used the free shuttle service twice to downtown Dallas and American Airlines Center and barely had to wait at all. There are not any nearby shopping centers or restaurants within walking distance, just some major hotels, but that鈥檚 why they have the free shuttle. I did have some minor complaints. The hot tub was ice cold both days I was there. After touring Dallas all day I looked forward to relaxing in the hot tub, which was a factor in choosing this hotel. Even after the staff was informed that the hot tub water was cold, it was still cold the next day. The Pavilion Pantry was an insulting rip-off. I wanted to purchase a 12 ounce can of soda and was told that it would cost me $1.50! Even though I was thirsty and had plenty of money, I refused to purchase the can of soda out of principle. I find it odd that six 12 ounce cans of soda will cost pretty much the same as a full breakfast buffet at the HGI. I understand that hotel pantries have a larger mark-up than most retail stores, but $1.50 for a tiny can of soda was unbelievable. Even charging just 75 cents would still be a huge profit for the hotel. It was the little things like that which demonstrate some needed improvement in customer respect and reevaluation of pricing policies by management.In summation, I think I got a good deal for the price I paid and the free shuttle service was a big plus. If I return to Dallas in the future, I will stay here again.Marc T. Hardekopf  
+<Date>Dec 16, 2006
+<Rating>4	4	5	2	5	5	5	-1	
+<Aspects>
+33	8(day):2	20(look):1	39(return):1	80(money):1	114(hot):2	158(plenty):1	160(relax):1	167(choose):1	181(tour):1	190(complaint):1	222(cold):1	255(store):1	311(tub):2	338(tiny):1	391(understand):1	547(ice):1	720(minor):1	732(future):1	750(forward):1	887(purchase):1	1103(refuse):1	1308(soda):2	1460(unbelievable):1	1602(dallas):2	1655(factor):1	2809(insult):1	3780(rip-off):1	4459(retail):1	4929(pantry):2	5221(thirsty):1	6511(principle):1	7159(pavilion):1	8268(marc):1	
+30	2(night):2	9(service):1	19(price):2	23(little):1	42(pay):2	46(free):1	69(tell):1	70(overall):1	99(couple):1	140(deal):1	173(please):1	175(cost):2	203(plus):1	321(shuttle):1	428(customer):1	525(management):1	683(game):1	693(encounter):1	720(minor):1	721(accommodation):1	887(purchase):1	1308(soda):1	1389(respect):1	1431(inconvenience):1	1486(improvement):1	1602(dallas):1	1634(policy):1	5433(hockey):1	6245(demonstrate):1	6650(ounce):1	
+44	3(clean):1	11(bed):2	13(bathroom):1	25(comfortable):3	36(desk):1	46(free):1	55(lobby):1	73(etc):1	81(value):1	83(size):1	90(coffee):1	94(noise):1	101(center):1	104(sleep):1	111(spacious):1	125(towel):1	158(plenty):1	164(air):1	178(probably):1	198(chair):1	227(average):1	291(amenity):1	310(garden):1	324(inn):1	333(selection):1	335(numb):1	354(notice):1	356(comment):1	477(hilton):1	564(reviewer):1	729(hair):1	741(channel):1	820(microwave):1	916(refrigerator):1	980(unit):1	993(december):2	996(maker):1	1083(conditioner):1	1158(television):1	1163(unlike):1	1209(dryer):1	1474(usa):1	1967(suitable):1	2915(father):2	
+9	7(walk):1	10(restaurant):1	46(free):1	49(shop):1	101(center):1	115(distance):1	232(nearby):1	315(major):1	321(shuttle):1	
+0	
+14	0(staff):2	8(day):1	12(friendly):1	14(helpful):1	57(water):1	114(hot):1	133(huge):1	136(charge):1	222(cold):2	311(tub):1	537(attentive):1	817(inform):1	1888(cent):1	6331(profit):1	
+26	6(breakfast):2	9(service):2	24(floor):1	46(free):2	51(enjoy):1	60(hour):1	77(buffet):2	85(wait):1	101(center):1	109(pretty):1	174(serve):1	175(cost):1	216(elevator):1	299(quick):1	321(shuttle):1	334(downtown):1	347(twice):1	632(chocolate):1	1020(barely):1	1088(odd):1	1173(cookie):1	1302(chip):1	1308(soda):1	1336(airline):1	1602(dallas):1	6650(ounce):1	
+0	
+
+<Author>TravelerChriss
+<Content>Good alternative to other hotels in the area I attended a convention at the Hilton Anatole Hotel, and wanted to watch my budget for the three-night stay. Rooms at the Garden Inn were about $25/night cheaper than the Hilton Anatole, and the Garden Inn is across the street, so I figured that it would be a good compromise. I have stayed at other Garden Inn hotels, so I had an idea what to expect.The Garden Inn is like other Garden Inns. The lobby is spacious, the room was large and clean. It's near the freeway, but outside noise was not a problem. My room did not face the highway. The room was also secure.Walking across the street is not a major problem, but I had to cross the entire Hilton Anatole parking lot in a suit on a hot September day. I did not have to make trips to and from the Anatole and the Garden Inn, so it was not a problem for me, but plan accordingly if you are making the budget-minded move.The staff was about the best I have ever experienced. They were all friendly, courteous, and ready to help; even with offering me a ride in the hotel van to the Post Office about a mile away.Decent business value and top-notch staff make this a good hotel to return to. (CS)  
+<Date>Oct 2, 2006
+<Rating>4	4	5	4	5	5	5	5	
+<Aspects>
+17	33(trip):1	62(expect):1	207(move):1	221(plan):1	245(watch):1	310(garden):4	324(inn):4	429(budget):1	477(hilton):1	639(idea):1	826(attend):1	1048(convention):1	1298(alternative):1	3508(accordingly):1	7022(three-night):1	7486(anatole):2	9406(budget-mind):1	
+15	0(staff):2	35(street):1	39(return):1	44(experience):1	81(value):1	143(cheap):1	147(business):1	257(decent):1	310(garden):2	324(inn):2	477(hilton):1	779(figure):1	3011(top-notch):1	3884(compromise):1	7486(anatole):1	
+5	3(clean):1	55(lobby):1	111(spacious):1	1034(secure):1	1870(highway):1	
+17	7(walk):1	8(day):1	35(street):1	38(lot):1	66(park):1	94(noise):1	98(outside):1	102(near):1	114(hot):1	315(major):1	329(entire):1	477(hilton):1	861(suit):1	972(september):1	1228(cross):1	2318(freeway):1	7486(anatole):1	
+0	
+10	12(friendly):1	89(offer):1	92(help):1	218(ride):1	274(ready):1	483(courteous):1	644(post):1	692(mile):1	792(office):1	1223(van):1	
+0	
+0	
+
+<Author>ladydne
+<Content>Don't expect to have your confirmation numbers kept! I had reservations with this property since May for a September event. Days before arrival they call me to explain they have oversold their hotel and they are moving my reservation to a property 8 miles from the event I am attending!So don't think just because you have a reservation with them you will get a room.  
+<Date>Sep 13, 2006
+<Rating>1	1	-1	-1	-1	-1	1	-1	
+<Aspects>
+2	62(expect):1	1641(confirmation):1	
+0	
+1	156(reservation):1	
+0	
+0	
+12	8(day):1	67(call):1	156(reservation):2	207(move):1	214(property):2	224(arrival):1	692(mile):1	768(explain):1	826(attend):1	972(september):1	1106(event):2	9226(oversold):1	
+0	
+0	
+
+<Author>DanaZ
+<Content>OK, but could be a lot better We stayed here because it was close to the downtown area. In fact there is not much around it, certainly nothing within walking distance. The first night we hoped to get something to eat but found the restaurant was closing at 9 though it was a Friday night. The woman at the front desk said she would ask the staff to keep it open a couple of minutes so we could order. We brought our stuff to the room and then went to the restaurant where the manager curtly told us that they were no longer serving food, that it did not matter what the woman at the front desk said, and then turned his back on us and left. The woman at the desk could provide little other information on restaurants in the area so we ended up driving around for an hour till we found something. The hotel itself was bland and looked a little soiled. Temperatures inside seemed to be in the 60's. The room was adequate but not more. There is an athletic center and business center and the tiniest outdoor pool you will probably ever see. There is plenty of parking and the highway is easy to reach. It is an ok place to stay. It is not nightmarish. But neither is it a place that is pleasant to stay.  
+<Date>Sep 13, 2006
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	20(look):1	23(little):1	123(ok):1	150(pleasant):1	1275(neither):1	1819(bland):1	4936(soil):1	
+0	
+3	390(adequate):1	408(inside):1	944(temperature):1	
+16	2(night):2	7(walk):1	10(restaurant):1	28(close):2	38(lot):1	47(eat):1	66(park):1	93(easy):1	115(distance):1	123(ok):1	158(plenty):1	328(hope):1	334(downtown):1	851(reach):1	923(friday):1	1870(highway):1	
+0	
+22	0(staff):1	10(restaurant):2	16(food):1	23(little):1	29(minute):1	31(front):2	36(desk):3	43(leave):1	60(hour):1	69(tell):1	99(couple):1	142(bring):1	153(provide):1	174(serve):1	258(manager):1	298(drive):1	480(stuff):1	531(matter):1	566(woman):3	649(information):1	979(till):1	10663(curtly):1	
+0	
+7	22(pool):1	101(center):2	147(business):1	178(probably):1	338(tiny):1	901(outdoor):1	8659(athletic):1	
+
+<Author>ingleberg
+<Content>Good hotel, so-so location I was pleased with this hotel, but am not sure I would stay here again because of the location. It only took me about 5 minutes to get to downtown, which was great, but there are NO restaurants near this hotel. Next time, I'd probably stay a little further from downtown to be closer to restaurants. Plus, were this hotel not right next to the Hilton Anatole, I might say it's not in such a great looking neighborhood (unlike a previous reviewer, I did not see any vagrants in the area).My room was large, quiet, very clean and very comfortable. The bed and shower were both great. I did have to switch rooms during my stay due to a dead air conditioner (not too surprised... Dallas in August). Very few TV channels compared to most hotels nowadays. No problems with the wired internet service.Breakfast was excellent. I ordered room service one night, and it was OK. Service overall was very good.  
+<Date>Aug 24, 2006
+<Rating>4	4	5	2	5	4	5	5	
+<Aspects>
+9	20(look):1	203(plus):1	373(previous):1	421(neighbourhood):1	477(hilton):1	564(reviewer):1	1163(unlike):1	7486(anatole):1	8172(vagrant):1	
+0	
+19	2(night):1	3(clean):1	9(service):1	11(bed):1	25(comfortable):1	58(quiet):1	61(shower):1	116(tv):1	123(ok):1	164(air):1	199(surprise):1	259(due):1	381(compare):1	741(channel):1	888(switch):1	1083(conditioner):1	1602(dallas):1	1621(dead):1	6684(nowadays):1	
+9	1(location):2	5(time):1	10(restaurant):1	23(little):1	28(close):1	173(please):1	178(probably):1	334(downtown):1	1883(so-so):1	
+0	
+0	
+10	6(breakfast):1	9(service):2	10(restaurant):1	21(excellent):1	29(minute):1	70(overall):1	97(internet):1	102(near):1	334(downtown):1	1904(wire):1	
+0	
+
+<Author>sayuri72
+<Content>Satisfied with this hotel I can say that my overall experience at this hotel was above average. The room was always very clean and the staff was very polite. The business center is free for hotel guests and open 24 hs, which was very convenient since I needed to print several documents and use the Internet for urgent matters. There is also a complimentary shuttle service every 30 minutes (although it only goes to downtown Dallas... if you need to go to the airport, you have to take a cab).The only negative aspect was that some of the staff members were not competent enough. For instance, when asking for information about the city or tours, the lady at the front desk had to check the Internet in her computer! It seems she didn't find much in there, so she suggested me to search in the pamphlet shelf by myself.Another example: one night I went to the business center and the browser was requesting a password to get connected. I called a woman at the front desk to help me; then she came to check the computer however did not know the password, or the way to get it. I asked her to call someone, but she said that it was too late to call for IT services.  
+<Date>May 16, 2006
+<Rating>4	4	5	-1	4	-1	2	-1	
+<Aspects>
+4	452(suggest):1	1248(search):1	1484(shelf):1	9013(pamphlet):1	
+4	44(experience):1	70(overall):1	227(average):1	899(satisfy):1	
+3	0(staff):1	3(clean):1	422(polite):1	
+8	9(service):1	29(minute):1	95(airport):1	321(shuttle):1	334(downtown):1	345(complimentary):1	380(cab):1	1602(dallas):1	
+0	
+18	0(staff):1	31(front):2	32(check):2	36(desk):2	41(city):1	67(call):1	92(help):1	97(internet):1	181(tour):1	282(negative):1	521(lady):1	555(computer):2	566(woman):1	649(information):1	1255(aspect):1	2516(instance):1	2921(competent):1	5829(password):1	
+3	9(service):1	67(call):2	79(late):1	
+15	2(night):1	46(free):1	91(guest):1	97(internet):1	101(center):2	147(business):2	148(request):1	186(convenient):1	531(matter):1	841(connect):1	954(example):1	1101(print):1	3699(document):1	5829(password):1	6839(urgent):1	
+
+<Author>theWimp
+<Content>Pleasantly surprised I had a last minute trip to Dallas and was interested in finding the cheapest Hilton property near the Market I could; this place had a weekend AAA rate of $ 72.10. I don't normally stay at the HGI as they are overpriced to me considering the cheap construction and the ones I have been in had those noisy free standing a/c units ( vs central ). You get the same thing at the HI but of course the rate is usually much less. Anyway, this turned out to be really nice, with extremely large rooms and a semi-atrium lobby. When I checked in the clerk didn't have an room upgrade ( Honors member ) so she gave me a $ 5 voucher for the well stocked pantry plus a continental breakfast coupon. This brought the price down to around $ 50 assuming you use those things which I did ! Granted the rate is higher weekdays and for Market events but still.....The high speed access was free and the room was very clean and comfortable. Parking is of course free and accessible, and the hotel is across the street from the Anatole, so if you are attending a convention there and don't want to pay their price, this place is a good alternative. Certainly not the typical HGI.  
+<Date>Jan 9, 2006
+<Rating>4	4	4	-1	3	-1	3	-1	
+<Aspects>
+5	78(rate):1	293(course):1	399(usually):1	628(typical):1	1863(hi):1	
+34	19(price):2	29(minute):1	33(trip):1	35(street):1	42(pay):1	46(free):2	66(park):1	78(rate):1	102(near):1	142(bring):1	143(cheap):2	168(central):1	172(weekend):1	199(surprise):1	214(property):1	217(noisy):1	248(consider):1	264(market):1	293(course):1	444(stand):1	477(hilton):1	583(construction):1	727(overprice):1	747(pleasantly):1	826(attend):1	980(unit):1	1048(convention):1	1091(normally):1	1298(alternative):1	1342(accessible):1	1407(assume):1	1602(dallas):1	2655(vs):1	7486(anatole):1	
+15	4(nice):1	6(breakfast):1	32(check):1	55(lobby):1	110(extremely):1	163(upgrade):1	203(plus):1	372(continental):1	417(anyway):1	599(stock):1	788(clerk):1	1376(honor):1	1750(voucher):1	2106(coupon):1	4929(pantry):1	
+0	
+0	
+0	
+0	
+10	3(clean):1	25(comfortable):1	46(free):1	78(rate):1	159(access):1	264(market):1	1106(event):1	1170(speed):1	1690(grant):1	2734(weekday):1	
+
+<Author>Easy180
+<Content>Above average hotel Stayed there two nights in November and found it to be a good value factoring in free parking. The room we checked into had a bad smell coming from the restroom. We informed the front desk as we left for dinner and they had a new room ready for us when we returned. Since they quickly solved the problem we didn't think twice about it. The location isn't exactly ideal for restaurants or nightlife, but is only a couple of miles out of downtown. We highly recommend eating mexican at Pappasito's and beers at Humperdink's. Both of these places are just a few miles north of the hotel on Stemmons Freeway. Overall the hotel looked pretty new and the rooms were nice. We would consider staying here again if the price was right compared to downtown hotels.  
+<Date>Nov 19, 2005
+<Rating>4	4	3	-1	4	-1	4	-1	
+<Aspects>
+11	15(recommend):1	47(eat):1	138(highly):1	347(twice):1	443(beer):1	471(quickly):1	675(mexican):1	684(North):1	692(mile):1	2094(solve):1	2318(freeway):1	
+11	2(night):1	19(price):1	46(free):1	66(park):1	81(value):1	227(average):1	248(consider):1	334(downtown):1	381(compare):1	999(november):1	1655(factor):1	
+8	4(nice):1	20(look):1	32(check):1	50(bad):1	70(overall):1	109(pretty):1	231(smell):1	3679(restroom):1	
+8	1(location):1	10(restaurant):1	99(couple):1	334(downtown):1	545(ideal):1	586(exactly):1	692(mile):1	1305(nightlife):1	
+0	
+7	31(front):1	36(desk):1	39(return):1	43(leave):1	117(dinner):1	274(ready):1	817(inform):1	
+0	
+0	
+
+<Author>Belasaria
+<Content>Better than expected After reading the reviews, I was notably wary as a female business guest travelling alone. However, I felt safe at the hotel and the front desk staff was very courteous. I stayed here as part of the American Heart Association convention, so there were plenty of travellers here. Maybe that was the difference.The room was very spacious and clean. The free internet service worked without a problem. The room smelled fresh, the fridge worked great, and I didn't have a problem with the TV reception at all. The continental breakfast was good with a wide selection of food, about $8, and $2 extra for the hot items.The one reviewer was right -- there really are no close restaurants within walking distance and it is a little confusing getting on and off the highway. If I'm in Dallas again for a convention, I would definitely consider staying here again.  
+<Date>Nov 16, 2005
+<Rating>4	4	5	-1	4	-1	4	-1	
+<Aspects>
+10	59(definitely):1	158(plenty):1	248(consider):1	267(traveler):1	308(maybe):1	450(heart):1	819(difference):1	1048(convention):2	1602(dallas):1	7679(association):1	
+0	
+7	3(clean):1	111(spacious):1	116(tv):1	129(reception):1	197(fresh):1	231(smell):1	318(fridge):1	
+17	7(walk):1	10(restaurant):1	23(little):1	28(close):1	37(review):1	62(expect):1	68(travel):1	88(read):1	91(guest):1	115(distance):1	147(business):1	564(reviewer):1	1419(confuse):1	1714(female):1	1870(highway):1	3099(wary):1	7312(notably):1	
+0	
+6	0(staff):1	31(front):1	34(feel):1	36(desk):1	137(safe):1	483(courteous):1	
+11	6(breakfast):1	9(service):1	16(food):1	46(free):1	97(internet):1	114(hot):1	128(extra):1	333(selection):1	372(continental):1	519(item):1	860(wide):1	
+0	
+
+<Author>mlasser
+<Content>Very bad staff I wound up changing hotels after expereince two major problems here. First, HGI is a very inconsistent brand with Hilton. Some are great (Houston, Mountain View, Las Colinas) others are a real mess (Montebello, Dallas/Market Center).Frtont desk here had two women who were much more interested in cracking each other up than in checking in the LINE of people waiting. One woman had such bad command of the english language that I had no idea what she was saying. Note to Hilton: Most of your business guests need someone who speaks proper English. I don't understand hip hop and don't feel I need to Schnizzel my nizzel to cjeck in to your hotel.Front desk was actibely unhelpful. Ignoring requests and generally dismissive. They were treating guests like thyey were an inconveneince to their personal conversations.Internet didn't work in the room. After 20 minutes on the line (a paid call) with tech support. no resolustion was eminent. BTW, most HGIs use Wavport which seems to work concsistenyl but this hotel does not.After telling the desk I needed a room with working Internet and would have to change hotels, they agreed to cancel the room, and then proceeded not to. Big surprise! Billing issues was finally resolved my the GM after a note to Hilton Gold Customer service.  
+<Date>May 30, 2005
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+19	34(feel):1	50(bad):1	91(guest):1	152(english):1	199(surprise):1	320(treat):1	391(understand):1	477(hilton):1	566(woman):1	639(idea):1	698(language):1	711(personal):1	883(brand):1	1151(hop):1	1281(conversation):1	1491(hip):1	2713(btw):1	3063(inconsistent):1	4806(command):1	
+6	29(minute):1	42(pay):1	67(call):1	188(line):1	2448(support):1	3836(tech):1	
+7	36(desk):1	69(tell):1	97(internet):2	161(change):1	473(agree):1	1065(cancel):1	2150(proceed):1	
+7	91(guest):1	127(speak):1	147(business):1	152(english):1	297(note):1	477(hilton):1	1719(proper):1	
+0	
+18	0(staff):1	26(people):1	31(front):1	32(check):1	36(desk):2	50(bad):1	85(wait):1	148(request):1	161(change):1	188(line):1	315(major):1	566(woman):1	1168(wind):1	1215(ignore):1	1411(crack):1	1618(unhelpful):1	7430(expereince):1	7461(dismissive):1	
+10	9(service):1	265(issue):1	297(note):1	341(finally):1	428(customer):1	477(hilton):1	495(bill):1	1571(gold):1	1715(resolve):1	4012(gm):1	
+9	17(view):1	101(center):1	240(real):1	834(las):1	1509(mountain):1	1602(dallas):1	1644(mess):1	6760(houston):1	9941(montebello):1	
+
+<Author>julesqueen
+<Content>Overall good experience We stayed at this hotel May 1-5, 2004. First I will say that this area, in general, is not very safe. While we were there we were approached twice in the parking lot by people asking for money and a truck was vandalized in the hotel parking lot. There were people begging on the street corners. I would not have gone out alone after dark but there were 3 of us so we felt a bit safer. There were no restaurants within walking distance but the hotel had a restaurant that we didn't try. For a woman traveling alone this is not the place to stay unless you are willing to eat hotel food. The room was large with a king-size bed and sofa-sleeper. The room and bathroom were very clean. The TV was not the greatest with a fuzzy screen and static in the sound. The air conditioner did not work at all but we didn't complain since it wasn't that hot during our stay. It's a bit unfair to complain about these things since we didn't tell anyone and give them a chance to fix it but it does imply that the hotel isn't real new. I was told it had opened 4 months ago but I think it must have just converted from another hotel brand. The outdoor pool was very small but there was a nice size exercise room. The greatest amenity was the *free* high-speed internet access. We had a lot of business to get done and it was fast, fast, fast -- much faster than I have at home so I was spoiled when I was there. Overall, other than the exception I made above regarding safety, I would recommend this hotel for the Market Center area.  
+<Date>May 7, 2004
+<Rating>4	4	3	-1	3	-1	4	-1	
+<Aspects>
+9	34(feel):1	52(bit):1	69(tell):1	137(safe):2	388(month):1	459(dark):1	633(ago):1	883(brand):1	2079(convert):1	
+2	44(experience):1	70(overall):1	
+25	3(clean):1	4(nice):1	11(bed):1	13(bathroom):1	22(pool):1	52(bit):1	69(tell):1	83(size):1	114(hot):1	116(tv):1	164(air):1	240(real):1	241(complain):2	409(sound):1	494(fix):1	526(screen):1	689(chance):1	901(outdoor):1	1083(conditioner):1	1459(exercise):1	2417(king-size):1	4435(unfair):1	4594(imply):1	5606(fuzzy):1	10303(static):1	
+25	7(walk):1	10(restaurant):2	15(recommend):1	26(people):2	35(street):1	38(lot):3	66(park):2	70(overall):1	76(try):1	80(money):1	101(center):1	115(distance):1	141(home):1	147(business):1	200(corner):1	264(market):1	347(twice):1	499(fast):4	930(regard):1	1128(exception):1	1221(spoil):1	1378(approach):1	1448(safety):1	1507(truck):1	2587(beg):1	
+0	
+0	
+5	16(food):1	47(eat):1	68(travel):1	405(unless):1	566(woman):1	
+5	46(free):1	97(internet):1	159(access):1	291(amenity):1	3436(high-speed):1	
+
+<Author>A TripAdvisor Member
+<Content>Football, Beer, and more Wilson World is most excellent! Party on Wayne. Party on Garth. At WW, you will feel like you are staying in a big football. One whiff of the shag carpet and you will be taken back to the days of Joe Namath in tight pants and airline stews in short shorts. I especially enjoyed the complimentary bible. Conveniently located next to all of Dallas' gentlemen's clubs, Wilson World packs a pigskin punch!  
+<Date>Jun 9, 2003
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	21(excellent):1	34(feel):1	51(enjoy):1	126(especially):1	272(world):1	345(complimentary):1	363(party):2	443(beer):1	2363(football):2	7927(wilson):1	10668(wayne):1	11085(bible):1	
+0	
+9	8(day):1	144(short):2	396(carpet):1	1336(airline):1	1399(tight):1	2103(pant):1	3919(joe):1	5972(stew):1	9636(whiff):1	
+9	84(locate):1	212(club):1	272(world):1	715(pack):1	1070(conveniently):1	1506(gentleman):1	1602(dallas):1	3184(punch):1	7927(wilson):1	
+0	
+0	
+0	
+0	
+

@@ -1,0 +1,700 @@
+<Author>gdilieto
+<Content>A Two-star Guesthouse with a Great Location and Setting       My Standard Room - 1 of 4  
+<Date>Dec 14, 2008
+<Rating>3	3	2	4	3	2	2	-1	
+<Aspects>
+0	
+0	
+5	1(location):1	130(standard):1	234(set):1	7703(guesthouse):1	7967(two-star):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>welovetravel0
+<Content>Poor communication We tried to book a reservation twice at this hotel. We tried through their Web site and through gotopuertorico.com. We did not receive any confirmation that they got our inquiry and they didn't respond to e-mails, so we made arrangements elsewhere, but they charged us for not canceling the reservation. We eventually got our money back, but it was after a long hassle.  
+<Date>Nov 23, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	1	
+<Aspects>
+3	80(money):1	1193(hassle):1	1204(eventually):1	
+0	
+0	
+3	192(site):1	253(tried):1	1019(web):1	
+0	
+14	18(book):1	136(charge):1	156(reservation):2	253(tried):1	302(receive):1	331(poor):1	347(twice):1	646(elsewhere):1	1065(cancel):1	1415(arrangement):1	1587(respond):1	1641(confirmation):1	2153(communication):1	3773(inquiry):1	
+0	
+0	
+
+<Author>indytee
+<Content>Disappointed I went directly to the website to book this hotel. I should have thought twice when the site traveler's review page was under constuction. The hotel room was horrible. The showere head sqirted water all over the bathroom. The bedspread and rug was dirty and dingy. The bed had bed bugs. I left with lumps all over my legs. The food was too expensive but very good. Animals are allowed at this hotel. They dogs and other neighbors dogs used the beach as their toliet. I did not once step foot on that dirty beach. Overall i would never recommend this hotel to anyone. Spend the extra cash and get a room you'll enjoy even if it's for one night.  
+<Date>Sep 10, 2008
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	15(recommend):1	43(leave):1	70(overall):1	359(allow):1	1421(leg):1	1990(animal):1	7738(lump):1	
+2	16(food):1	124(expensive):1	
+11	2(night):1	11(bed):2	13(bathroom):1	51(enjoy):1	57(water):1	64(spend):1	128(extra):1	319(head):1	544(horrible):1	602(bug):1	1082(cash):1	
+10	30(beach):1	37(review):1	192(site):1	267(traveler):1	347(twice):1	934(neighbour):1	1126(dog):2	2414(page):1	5098(toliet):1	10376(constuction):1	
+7	30(beach):1	323(dirty):2	366(step):1	402(foot):1	1749(dingy):1	2278(bedspread):1	3016(rug):1	
+0	
+4	18(book):1	154(disappoint):1	262(website):1	383(directly):1	
+0	
+
+<Author>Pennylane78
+<Content>Bed Bugs Nice price, great location but this hotel has bed bugs.  
+<Date>Jun 29, 2008
+<Rating>1	1	1	4	1	3	2	-1	
+<Aspects>
+0	
+5	1(location):1	4(nice):1	11(bed):2	19(price):1	602(bug):2	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>mthomas14
+<Content>Spectacular Hotel Stay All in all, the location was excellent with the ocean no more than 10 yards from the hotel itself. The water was amazing allowing for swimming, and bogey boarding. The waves varied in size, and at times they were pretty big. The beach was great. Kids were building sand castles, while others were laying in the sun.The hotel itself was very nice. Of course there was sand throughout the hotel being right on the beach, but the staff did a great job keeping the building looking nice and tidy. Rooms that we stayed in were your standard hotel rooms complete with fridge. We also had a small porch overlooking the ocean and the restaurant patio.The bar in the Hosteria was a little pricey, but they made excellent pina coladas and other drinks. Also, the deserts were to good not to order them all (I recommend the sorbet).The hotel was located in an area called Ocean Park (Kind of a gated community from the rest of San Juan) which is about a 10 minute taxi ride from the cafes, shops, attractions  fort in Old San Juan.Be careful, though, I heard a story about a girl who was staying at the Hosteria while we were there: She decided to take a late night swim, and left her purse on the beach which was picked up by a passer-by. Ocean Park has its own security, but I wouldn't recommend leaving valuables on the beach at night ANYTIME.I had a great experience at the Hosteria Del Mar in San Juan, and I would recommend it to anyone. Great water, great location, great beach = Great Time!  
+<Date>May 28, 2008
+<Rating>4	3	3	5	4	3	4	4	
+<Aspects>
+9	4(nice):1	15(recommend):1	135(build):1	201(kid):1	420(sun):1	522(sand):1	696(lay):1	1706(desert):1	1987(castle):1	
+7	15(recommend):1	44(experience):1	177(san):1	617(juan):1	1482(del):1	1647(mar):1	11845(hosteria):1	
+8	5(time):1	83(size):1	109(pretty):1	130(standard):1	318(fridge):1	622(complete):1	836(wave):1	1578(varied):1	
+53	0(staff):1	1(location):2	2(night):2	4(nice):1	5(time):1	10(restaurant):1	15(recommend):1	20(look):1	21(excellent):1	29(minute):1	30(beach):5	43(leave):2	49(shop):1	57(water):1	66(park):2	67(call):1	79(late):1	84(locate):1	132(hear):1	135(build):1	166(own):1	177(san):2	185(taxi):1	205(ocean):4	218(ride):1	219(decide):1	260(overlook):1	261(swim):1	266(pick):1	275(cafe):1	288(rest):1	293(course):1	350(attraction):1	445(throughout):1	481(job):1	522(sand):1	617(juan):2	625(girl):1	641(security):1	656(spectacular):1	897(careful):1	906(story):1	973(patio):1	992(gate):1	1100(tidy):1	1307(yard):1	1677(anytime):1	1935(valuable):1	3047(fort):1	3502(community):1	3519(purse):1	3726(porch):1	11845(hosteria):1	
+0	
+0	
+13	21(excellent):1	23(little):1	27(bar):1	57(water):1	63(drink):1	145(amaze):1	261(swim):1	359(allow):1	546(pricey):1	600(board):1	2038(pina):1	3188(coladas):1	11845(hosteria):1	
+0	
+
+<Author>jmz0529
+<Content>Not what it seems We stayed at the Inn from April 30th to May 3rd 2008. It took forever to find the place. Once inside looked old and was greeted by a dirty carpet leading to our rooms, 106  103. Was told we had a ocean front room #106 and the door would open right on to the beach, however what they didn't say was the restaurant and bar had there tables right in front of those doors so everyone who stopped by the restaurant was sitting right outside our door until way past 11pm. We had no privacy at all !! The window in the bathroom did not close so you could hear all the talking and laughing in our room. We were interrupted by workmen who were repairing the phone in our room. Our free breakfast cost us $20.00 for coffee because we asked for seconds and were told they had to make it in the back? The free coffee ran out on the table in the restaurant as well as cups. The restaurant is very expensive to the point of being ridiculous for a Inn that has the appearance of looking old and worn. The service was so slow it took forever to get a cup of coffee in the morning. No electrical outlet in the bathroom, we had to unplug either the lamp by the bed or the lamp across the room to use the outlet for hairdryers or curling irons. Had to ask for the sheets to be changed on arrival because they had sand on them. While on the beach, several people came with their dogs who used the beach as a toilet for their dogs and then would kick sand over the mess their dog just made instead of picking it up. It seems like this is a everyday occurrence on the beach. Overall, way to expensive for what you got. Would not return.  
+<Date>May 5, 2008
+<Rating>2	1	2	1	1	3	2	-1	
+<Aspects>
+10	39(return):1	161(change):1	224(arrival):1	324(inn):1	479(sheet):1	522(sand):1	1183(privacy):1	1643(forever):1	2035(30th):1	2097(3rd):1	
+8	10(restaurant):1	20(look):1	70(overall):1	124(expensive):2	324(inn):1	434(wear):1	1533(ridiculous):1	2312(appearance):1	
+24	11(bed):1	13(bathroom):2	20(look):1	28(close):1	119(window):1	132(hear):1	296(phone):1	323(dirty):1	371(talk):1	396(carpet):1	408(inside):1	415(greet):1	868(iron):1	922(lead):1	1245(laugh):1	1398(repair):1	1493(hairdryer):1	1622(lamp):2	1689(outlet):2	2555(electrical):1	4130(interrupt):1	5126(workman):1	5345(unplug):1	5777(curl):1	
+23	10(restaurant):2	26(people):1	27(bar):1	30(beach):4	31(front):2	54(door):3	69(tell):1	98(outside):1	122(stop):1	169(sit):1	205(ocean):1	229(table):1	266(pick):1	330(toilet):1	353(instead):1	419(past):1	522(sand):1	605(everyday):1	1126(dog):3	1644(mess):1	1926(kick):1	6840(11pm):1	7141(occurrence):1	
+0	
+0	
+13	6(breakfast):1	9(service):1	10(restaurant):1	46(free):2	56(morning):1	69(tell):1	90(coffee):3	149(run):1	175(cost):1	229(table):1	455(slow):1	800(cup):2	1643(forever):1	
+0	
+
+<Author>Dolenksy
+<Content>Great location, but that's all Hosteria del Mar is beautifully situated on the beach and features a surf side indoor/outdoor restaurant that gets you about as close to the water as possible.However, if you're at all discriminating, beware that the apartments will disappoint you. Old, tired, dirtyish and without any views. Perhaps the regular rooms are better, I don't know. Also, beware the rollaway beds -- my son slept on the floor rather than on the old rollaway which was worn out but for which we still were charged.Lastly, cost is huge here. One night in our apartment plus one lunch and one dinner for five ran us $750 US. The continental breakfast is free, but is a joke. I had four rock hard green pear slices, dried out toast pieces and a small cake. My wife refused to eat her cake as there were clearly teeth marks in it. Ugh.Bottom line -- unless you really value a beach location be careful about this one.  
+<Date>Mar 30, 2008
+<Rating>2	1	1	5	2	3	-1	-1	
+<Aspects>
+1	4730(ugh):1	
+3	133(huge):1	175(cost):1	2322(lastly):1	
+17	2(night):1	11(bed):1	24(floor):1	104(sleep):1	117(dinner):1	136(charge):1	149(run):1	154(disappoint):1	203(plus):1	252(lunch):1	434(wear):1	612(son):1	737(beware):2	744(regular):1	751(apartment):2	2952(rollaway):2	7012(discriminate):1	
+18	1(location):2	10(restaurant):1	28(close):1	30(beach):2	57(water):1	81(value):1	188(line):1	405(unless):1	574(situate):1	731(feature):1	771(beautifully):1	850(bottom):1	897(careful):1	1396(surf):1	1482(del):1	1647(mar):1	1680(indoor):1	11845(hosteria):1	
+2	17(view):1	454(tire):1	
+0	
+18	6(breakfast):1	46(free):1	47(eat):1	162(hard):1	184(wife):1	372(continental):1	773(rock):1	875(toast):1	882(mark):1	941(piece):1	1005(green):1	1029(cake):2	1103(refuse):1	1175(joke):1	1737(tooth):1	2024(slice):1	3045(dried):1	7307(pear):1	
+0	
+
+<Author>Mellon_54
+<Content>wonderful       one of the rooms (Appartment)  
+<Date>Feb 29, 2008
+<Rating>3	3	3	4	3	3	3	3	
+<Aspects>
+0	
+0	
+2	48(wonderful):1	5034(appartment):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>sand2snowice
+<Content>awful .. beach, lobby, restaurant, location.. you've read the reviews, so if your room means nothing to you stay here.You're greeted by a dirty hallway carpet on the way to Room 105. Open the door and wow!.. awful sea bass blue - ceiling to floor, trim, shabby closet and all! No pictures on the wall, window view of a wall, exposed wiring (also in blue), no fire alarm, small bathroom, No hot water!, And barely no water pressure... like 2 metal hangers in the homemade plywood shanty of a closet. The room had all the charm of a motel room but smaller. Elevator was broke .. fortunately I was on 1st floor, but I did feel bad for the couple sleeping in the Lobby. They had been upgraded to a suite after complaining but said the suite wasn't much better. OK but the mattress was great .. no kidding .. so drink a bunch of high priced rum and pass out on the mattress till checkout time and you'll be fine .. till you see the bill. But hey its just credit right?  
+<Date>Feb 20, 2008
+<Rating>1	1	1	4	2	3	2	1	
+<Aspects>
+10	54(door):1	123(ok):1	201(kid):1	495(bill):1	659(credit):1	736(awful):1	847(mattress):1	862(wow):1	979(till):1	1367(hey):1	
+0	
+38	13(bathroom):1	17(view):1	24(floor):2	34(feel):1	37(review):1	50(bad):1	55(lobby):1	57(water):1	88(read):1	99(couple):1	104(sleep):1	108(suite):2	114(hot):1	119(window):1	163(upgrade):1	183(wall):2	241(complain):1	246(mean):1	323(dirty):1	332(charm):1	396(carpet):1	415(greet):1	456(picture):1	528(ceiling):1	565(closet):1	580(hallway):1	694(blue):2	736(awful):1	758(sea):1	991(motel):1	1262(fire):1	1319(shabby):1	1380(alarm):1	1585(fortunately):1	1904(wire):1	2637(expose):1	4257(trim):1	4993(bass):1	
+12	1(location):1	10(restaurant):1	30(beach):1	55(lobby):1	57(water):1	565(closet):1	686(pressure):1	1020(barely):1	2506(hanger):1	2720(metal):1	3729(homemade):1	8163(plywood):1	
+0	
+10	5(time):1	19(price):1	63(drink):1	113(fine):1	400(pass):1	658(checkout):1	847(mattress):1	979(till):1	1084(rum):1	1624(bunch):1	
+2	216(elevator):1	228(break):1	
+0	
+
+<Author>kilayeomi
+<Content>I had a great time at the Hosteria del Mar I just stayed in Hosteria del Mar for nine days and it was a very pleasant experience. I did not get a beach front room but one in the second floor which was quiet and very clean and everything worked just perfectly. The room was recently painted and was quite spacious. For $80 per night and a comp breakfast it was the best deal I could get. Even some of the locals were amazed at the deal.The staff was very friendly and the lunch at the restaurant was fantastic, dinner prices were high.The hotel is located in a gated community and it is very safe and the beach is a local hangout for the local middle class young people during the weekends. There are free Bomba drum performances at the beach nearby on sunday afternoons, which is something not to be missed if you are interested in Puerto Rican Culture. You will need a car to move around and local transportation and shops are a few blocks away from the hotel, but the safety and location makes up for it. I strongly recommend it.  
+<Date>Dec 3, 2007
+<Rating>5	5	5	4	5	4	5	3	
+<Aspects>
+5	15(recommend):1	140(deal):1	145(amaze):1	195(local):1	1386(strongly):1	
+7	5(time):1	8(day):1	44(experience):1	150(pleasant):1	1482(del):2	1647(mar):2	11845(hosteria):2	
+9	3(clean):1	24(floor):1	30(beach):1	31(front):1	58(quiet):1	111(spacious):1	322(recently):1	595(perfectly):1	806(paint):1	
+28	1(location):1	26(people):1	30(beach):2	46(free):1	49(shop):1	84(locate):1	100(bloc):1	121(car):1	137(safe):1	172(weekend):1	195(local):3	207(move):1	232(nearby):1	276(miss):1	325(middle):1	364(afternoon):1	470(class):1	728(transportation):1	844(sunday):1	915(puerto):1	992(gate):1	1448(safety):1	1497(culture):1	2859(rican):1	2947(performance):1	3502(community):1	5421(drum):1	6633(hangout):1	
+0	
+0	
+11	0(staff):1	2(night):1	6(breakfast):1	10(restaurant):1	12(friendly):1	19(price):1	86(fantastic):1	117(dinner):1	140(deal):1	252(lunch):1	2942(comp):1	
+0	
+
+<Author>qb20
+<Content>Will not return! When we were looking for a hotel in San Juan, the main thing we wanted was a beachfront location. That is what we got here at the Hosteria del Mar, but not much else. Yes, the lobby is nice, the restaurant is one of the best in the neighborhood (coincidentally, the most expensive), and the beachfront patio is awesome. However, if you are not in a room on the beach, it is not as great. Our rooms were very shabby. I say rooms because we had to change rooms after we checked in, due to a bookkeeping error, which was very annoying. Each of the bathrooms had problems - the first one wouldn't drain, and in the second one, the shower did not work. period. But by that time we were so exhausted and sick of the change we didn't feel like moving again. Also, the A/C isn't great, the rooms were very humid, and oh man! What mosquitos! I have never been so eaten up by bugs. Finally, the free wireless internet wasn't working. This hotel's only redeeming qualities were: 1) the free breakfast was a good start (fruit, toast, coffee cake, hot drinks, etc)2) the people at the front desk, though incompetent most of the time, were very nice Needless to say, we will not be returning, and we will not recommend this to friends.  
+<Date>Sep 9, 2007
+<Rating>2	1	1	5	1	5	1	1	
+<Aspects>
+15	5(time):1	34(feel):1	39(return):1	47(eat):1	161(change):1	170(else):1	207(move):1	602(bug):1	654(sick):1	1054(mosquito):1	1331(period):1	1482(del):1	1647(mar):1	1769(exhaust):1	11845(hosteria):1	
+0	
+11	13(bathroom):1	30(beach):1	32(check):1	61(shower):1	161(change):1	259(due):1	695(annoy):1	1319(shabby):1	1489(drain):1	1825(humid):1	2628(error):1	
+6	1(location):1	20(look):1	112(main):1	177(san):1	617(juan):1	2572(beachfront):1	
+0	
+0	
+31	4(nice):2	5(time):1	6(breakfast):1	10(restaurant):1	15(recommend):1	26(people):1	31(front):1	36(desk):1	39(return):1	46(free):1	55(lobby):1	63(drink):1	73(etc):1	90(coffee):1	114(hot):1	124(expensive):1	146(friend):1	165(start):1	187(quality):1	215(fruit):1	250(yes):1	348(awesome):1	421(neighbourhood):1	875(toast):1	973(patio):1	1029(cake):1	1356(needless):1	2572(beachfront):1	4109(incompetent):1	4213(redeem):1	11401(coincidentally):1	
+4	46(free):1	97(internet):1	341(finally):1	717(wireless):1	
+
+<Author>divan69
+<Content>Worst experience Made reservations three weeks in advance at the front desk for a weekend stay. The same day we arrived we were told our room was unavailable and they had relocated us at a private residence back patio apartment. The residence was about three blocks away from the hotel and a street over the beach front. Paying for a hotel room at a beachfront hotel is not the same as paying for a 鈥渟ervice鈥?apartment, it was unacceptable. They should have called us as soon as they knew our reserved room was unavailable. No call, no decent accommodations, not even an offer for a rain-check. We were rudely dismissed without any concern.  
+<Date>Jul 5, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	496(concern):1	3254(rudely):1	6727(dismiss):1	
+4	67(call):1	89(offer):1	257(decent):1	721(accommodation):1	
+15	8(day):1	42(pay):2	53(arrive):1	67(call):1	69(tell):1	418(soon):1	492(private):1	506(reserve):1	751(apartment):2	973(patio):1	1840(residence):1	2230(unacceptable):1	2572(beachfront):1	3703(unavailable):2	3812(relocate):1	
+5	30(beach):1	31(front):1	35(street):1	100(bloc):1	1840(residence):1	
+0	
+8	31(front):1	36(desk):1	44(experience):1	50(bad):1	75(week):1	156(reservation):1	172(weekend):1	685(advance):1	
+0	
+0	
+
+<Author>niederberger16
+<Content>Very nice location, beach access, lovely restaurant!       very nice reception area  
+<Date>Jun 22, 2007
+<Rating>4	4	3	5	4	4	4	5	
+<Aspects>
+0	
+0	
+0	
+6	1(location):1	4(nice):1	10(restaurant):1	30(beach):1	87(lovely):1	159(access):1	
+0	
+2	4(nice):1	129(reception):1	
+0	
+0	
+
+<Author>LadyNitrate
+<Content>Spectacular View, a Few Concerns The idea of staying at a quaint guest house right on the beach versus a big box hotel sold us to the idea of Hosteria del Mar. We fell in love with the place when we had dinner there in December. We were aware that Hosteria del Mar is rated as a two star hotel. We also read the reviews with the same issues/complaints coming up frequently. It was hard to determine if the management was addressing the problems since they do not reply on Trip Advisor. That being said, here is a synopsis of our 5 day stay there.I arrived at the hotel in the middle of a torrential downpour, about 1:30 in the afternoon. I approached the reservation desk and I believe that a woman by the name of Nivia greeted me. She smiled and then told me that check in was not until 4:00. I explained that the taxi had dropped me, it was pouring rain, and i had all this luggage;what could I do? She smiled again and said that she didn't know what to tell me, but check in was not until 4:00. I would get very used to this smile. For the next 5 days, this smile was usually followed by a subtle insult, a snide remark, or NOTHING at all. This woman is not who i would use as the first face my customers see!! She remained totally unhelpful for our entire stay. She finally allowed me to put my luggage in an area of the lobby so that I could go to the bar and have a drink. She said that she would check to see when my room would be ready. NINETY minutes later she again told me that she would check on my room. Around 3:30 she gave me a key which signified the room was upstairs. I told her that we had reserved a beach front room on the first floor. She said that room was no longer available and that I had to go to the room upstairs. Another staff member helped me get my luggage to the second floor. The room was decent, but the air conditioning had not been turned on and so the temperature of the room was stifling. Plus there was a musty, chemical type smell. I turned on the air and opened the doors to remove the humidity and the other peculiar smells. I stood out on the balcony and the view was spectacular. I went back downstairs and asked why the room on the first floor was no longer available. I was told the air conditioning was broken. I was told that if the air was fixed the following day, we could trade rooms for the rest of our stay. I asked to see the room on the first floor. The room was not as spacious as the room upstairs and it opened right up onto the deck of the restaurant!! I told the receptionist that we would keep the room we had upstairs. As I was unpacking, the receptionist called and said that she had two very nice rooms downstairs that I could stay in, but then she remembered that we were staying through Tuesday so she had to check and see if the rooms were available until then. She would call me right back. Forty minutes later I walked downstairs to find out if the rooms were available. Oh yes, they were. Same smile, You mean no one called you? I looked at both rooms. Again, they weren't as spacious and they opened right on to the restaurant. Not much privacy or view!! But they did have larger bathrooms with a tub. I again told her that we would keep the room on the second floor. But I was puzzled. When I arrived at the hotel, there were no rooms on the firat floor and now there were two??When I reported that my room had small bugs in it (which i can more than understand, this is the tropics) I was left a can of Raid--which explains the smell in the room. The room has no alarm clock, so we needed to count on wake up calls. Two of the 3 we requested never came, making us late for both our scuba dive trip and our plane out of Puerto Rico. The customer service was just lacking at many times, in my opinion. We were given small, hotel size soaps for the shower and a slotted soap dish that would only accomodate a full size bar of soap without it falling out the bottom. Consequently, we spent a lot of time chasing the soap around the shower floor. Just another small annoyance that added up with the others to be a big annoyance. Our shower only had a small lip as a threshold and so if the shower curtain wasn't completely pulled into the shower, which gave me about 2 feet of room to shower, the whole bathroom was flooded. The size of the air conditioner was not ample for the size of the room. Consequently, it ran constantly making a whole lot of racket but never really cooling down the room.Beach towels are $2 a day, but the chairs are free. the use of the in room safe was $3 a day. Why are the customers being nicked and dimed like this??The restaurant is fabulous for lunch and dinner. Skip breakfast though. Charlie and Johanna were great servers and went the extra mile with a smile. A few others again shouldn't be in customer service. Expect there to be a substantial wait for meals. But they are well worht the wait. The tuna, lamb, filet and red snapper were simply delicious as were the carpaccios and conch salad. The portions are certainly American sized. Try a sangria as well, yuumy and packed with a punch. Even if you choose not to stay at Hosteria del Mar, you must come to eat. Be prepared, it is a bit pricey.The room was spacious and clean, but a little worn. The towels and curtains had holes and the bed clothes were definitely past there prime, but the room was cleaned daily. There was a refridgerator in the room which was very nice. The closet space was ample with plenty of hangers. There is also a desk with drawers and a chest of drawers. There is a TV and stand with more drawers. We relaxed frequently on the balcony, enjoying the view and the sea spray. The shower had plenty of pressure and hot water. The second floor allows for a lot more privacy. Some of the rooms are right above the deck of the restaurant but there still seems to be privacy. I would stay here again, but would hope that some of the problems would be addressed. Especially the lack of customer service by some of the individuals on staff--the reception area and the servers in the restaurant. With just a little effort and some minor updates Hosteria del Mar would be our first choice very time.Please feel free to contact me with any further questions or thoughts.  
+<Date>May 2, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+48	8(day):2	17(view):1	37(review):1	47(eat):1	53(arrive):1	67(call):2	76(try):1	88(read):1	167(choose):1	246(mean):1	250(yes):1	325(middle):1	328(hope):1	329(entire):1	364(afternoon):1	387(smile):3	399(usually):1	428(customer):2	482(follow):1	485(delicious):1	488(simply):1	566(woman):1	590(red):1	611(totally):1	715(pack):1	909(salad):1	1183(privacy):1	1312(address):1	1391(remain):1	1482(del):1	1573(frequently):1	1618(unhelpful):1	1647(mar):1	2809(insult):1	2872(dime):1	3178(filet):1	3184(punch):1	3429(remark):1	3486(lamb):1	4450(nick):1	4514(tuna):1	4774(puzzle):1	5120(sangria):1	5456(subtle):1	6625(snapper):1	7542(torrential):1	7750(downpor):1	11845(hosteria):1	
+15	5(time):1	23(little):1	52(bit):1	78(rate):1	103(star):1	107(choice):1	460(prepare):1	546(pricey):1	720(minor):1	725(update):1	832(aware):1	1017(effort):1	1482(del):2	1647(mar):2	11845(hosteria):2	
+128	0(staff):1	3(clean):2	4(nice):1	5(time):1	7(walk):1	8(day):3	10(restaurant):2	11(bed):1	13(bathroom):2	17(view):3	20(look):1	23(little):1	24(floor):8	27(bar):1	29(minute):2	30(beach):3	31(front):1	32(check):2	38(lot):3	43(leave):1	46(free):1	51(enjoy):1	53(arrive):1	54(door):1	57(water):1	59(definitely):1	61(shower):7	64(spend):1	67(call):1	69(tell):5	79(late):2	83(size):5	91(guest):1	92(help):1	111(spacious):2	114(hot):1	116(tv):1	125(towel):2	134(available):3	137(safe):1	149(run):1	158(plenty):2	160(relax):1	164(air):5	191(balcony):2	198(chair):1	210(space):1	228(break):1	231(smell):2	249(luggage):1	257(decent):1	263(condition):2	274(ready):1	278(cool):1	281(house):1	288(rest):1	311(tub):1	339(key):1	359(allow):1	360(daily):1	391(understand):1	402(foot):1	419(past):1	434(wear):1	444(stand):2	482(follow):1	494(fix):1	496(concern):1	506(reserve):1	542(completely):1	549(accomodate):1	554(wake):1	565(closet):1	587(fall):1	602(bug):1	606(sell):1	639(idea):2	656(spectacular):2	686(pressure):1	691(downstairs):2	709(clothe):1	743(curtain):2	758(sea):1	768(explain):1	816(dish):1	838(report):1	850(bottom):1	858(pull):1	944(temperature):1	945(box):1	965(soap):4	995(constantly):1	1083(conditioner):1	1099(spray):1	1135(remove):1	1183(privacy):2	1218(hole):1	1291(clock):1	1295(quaint):1	1341(ample):2	1358(upstairs):3	1380(alarm):1	1406(deck):2	1426(drawer):1	1450(portion):1	1482(del):1	1573(frequently):1	1647(mar):1	1774(prime):1	1781(Count):1	1877(slot):1	1927(flood):1	2044(trade):1	2115(humidity):1	2506(hanger):1	3003(chase):1	3754(tropic):1	3851(refridgerator):1	3924(versus):1	4416(consequently):2	4701(racquet):1	5000(lip):1	7041(forty):1	7057(raid):1	7066(peculiar):1	7177(stifle):1	11845(hosteria):1	11973(threshold):1	
+8	185(taxi):1	249(luggage):1	351(add):1	581(rain):1	662(drop):1	768(explain):1	1764(pour):1	2966(annoyance):2	
+5	203(plus):1	231(smell):1	389(type):1	1016(musty):1	4744(chemical):1	
+44	4(nice):1	32(check):3	33(trip):2	34(feel):1	36(desk):2	46(free):1	62(expect):1	67(call):1	69(tell):3	79(late):1	85(wait):2	134(available):1	148(request):1	156(reservation):1	162(hard):1	173(please):1	213(meal):1	295(name):1	312(believe):1	375(remember):1	387(smile):2	394(question):1	415(greet):1	525(management):1	566(woman):1	691(downstairs):1	701(advisor):1	713(contact):1	855(receptionist):2	915(puerto):1	968(plane):1	1131(rico):1	1312(address):1	1358(upstairs):1	1378(approach):1	1426(drawer):2	1627(dive):1	1811(reply):1	2179(unpack):1	2275(scuba):1	2485(tuesday):1	2970(substantial):1	3247(determine):1	3686(chest):1	
+30	0(staff):1	5(time):1	6(breakfast):1	9(service):3	10(restaurant):3	27(bar):1	40(love):1	55(lobby):1	63(drink):1	111(spacious):1	117(dinner):2	126(especially):1	128(extra):1	129(reception):1	249(luggage):1	252(lunch):1	270(fabulous):1	341(finally):1	349(lack):2	359(allow):1	387(smile):1	428(customer):3	587(fall):1	692(mile):1	704(opinion):1	993(december):1	1429(skip):1	1540(server):2	1596(individual):1	2876(charlie):1	
+0	
+
+<Author>veggie4
+<Content>LOVED Hosteria Del Mar  I was going to stay at Hosteria Del mar but was scared off by bad reviews on Trip Advisor. The wonderful owner, Elsie, was sorry I cancelled and invited me to lunch, on the house, to see the place. I loved the beautiful and peaceful setting on the beach, as well as the large assortment of Puerto Rican vegetarian dishes. The place was so nice I switched my hotel and stayed there, even though it cost me a night's stay at the At Wind Chimes Inn (cute but small, claustrophobic courtyard hotel on a busy road) which wouldn't let me out of my reservation. I had a large room w/ an ocean view balcony and the staff was super friendly. I stayed there alone and was never bored since the staff really took me in. Very tranquil place and the restaurant is a favorite with locals who want good food in a quiet and romantic place overlooking the water. Clean rooms w/ plenty of hot water and the AC worked well. It's even dog-friendly! No complaints by me other thanTrip Advisor raters almost made me miss out! I'm supposed to be in San Juan on a cruise in March and will be sure to go have lunch, again, and say hi to my new friends at Hosteria Del Mar.  
+<Date>Jan 16, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+19	33(trip):1	37(review):1	40(love):1	50(bad):1	146(friend):1	177(san):1	190(complaint):1	252(lunch):1	276(miss):1	603(cruise):1	615(march):1	617(juan):1	620(suppose):1	701(advisor):2	1482(del):3	1647(mar):3	1711(scare):1	1863(hi):1	11845(hosteria):3	
+0	
+18	0(staff):1	3(clean):1	12(friendly):1	17(view):1	48(wonderful):1	57(water):1	114(hot):1	158(plenty):1	191(balcony):1	205(ocean):1	252(lunch):1	281(house):1	464(super):1	672(owner):1	891(sorry):1	956(ac):1	1065(cancel):1	1210(invite):1	
+23	2(night):1	4(nice):1	30(beach):1	40(love):1	45(beautiful):1	156(reservation):1	175(cost):1	220(busy):1	230(road):1	234(set):1	324(inn):1	435(courtyard):1	816(dish):1	888(switch):1	915(puerto):1	1036(peaceful):1	1168(wind):1	1202(cute):1	2392(vegetarian):1	2761(assortment):1	2859(rican):1	3112(claustrophobic):1	4343(chime):1	
+0	
+2	0(staff):1	1098(bore):1	
+9	10(restaurant):1	16(food):1	57(water):1	58(quiet):1	195(local):1	260(overlook):1	376(favourite):1	707(romantic):1	3038(tranquil):1	
+0	
+
+<Author>gasper
+<Content>Water problems are over... The water problems are over for this hotel my people! I believe they are making some renovations on the hotel. They have umbrellas on the beach, walls are painted I guest they are taking care of the complaints that were made before by many of us. I really love this hotel, is romantic, enchanting , quiet and only 10 minutes from the airport and San Juan. Also 5 minutes from night life at el condado. You must also eat at their restaurant called Uvva . The restaurant is delicious, especially the Grilled Filet Mignon and maybe add an apetizer like Hummus and Babaganous is also delicious. You will love to stay at this hotel! Especially for those looking for a private place to stay. The staff is welcoming and friendly. Well I hope you love it, I know I did!  
+<Date>Dec 19, 2006
+<Rating>5	3	5	5	5	5	5	5	
+<Aspects>
+12	2(night):1	20(look):1	26(people):1	29(minute):1	40(love):2	57(water):2	126(especially):1	328(hope):1	426(life):1	492(private):1	752(el):1	1934(condado):1	
+0	
+10	29(minute):1	40(love):1	58(quiet):1	95(airport):1	177(san):1	312(believe):1	617(juan):1	687(renovation):1	707(romantic):1	5030(enchant):1	
+7	30(beach):1	91(guest):1	183(wall):1	190(complaint):1	242(care):1	806(paint):1	1140(umbrella):1	
+0	
+3	0(staff):1	12(friendly):1	202(welcome):1	
+10	10(restaurant):2	47(eat):1	67(call):1	126(especially):1	308(maybe):1	351(add):1	485(delicious):2	629(grill):1	3178(filet):1	3989(mignon):1	
+0	
+
+<Author>SemesterAtSea1997
+<Content>Modest Room at Reasonable Rate; Excellent Food, Staff, Location My boyfriend and I stayed at Hosteria Del Mar in early December of 2006. We were on a budget, and the price ($140/night) was lower than that of nearby hotels, so we booked a room for 3 nights. The hotel is located right on the beach in a quiet upscale residential neighborhood which is gated off from the rest of the city. I find that a little weird, but it did contribute to my general sense of safety in walking back from dinner in Condado, the metropolitan area. Hosteria del Mar is nowhere near Old San Juan, but you can take the A5 bus, or a cab. A few blocks from the hotel is a restaurant called Pinky's with a yoga studio upstairs, amazing smoothies and a good sense of humor. All very comfortable, safe and fun for alternative and/or gay travelers. Back to the hotel. The entrance, lobby and restaurant at Hosteria Del Mar are beautiful - just take a look at their website. You can sit at a table on the beach, on the deck, or in the restaurant for breakfast, lunch, dinner, or anytime in between, and no one will hurry you along. The room was modest, but perhaps what you'd expect for that price in that area-? We have no way to know, since this was our first visit to Puerto Rico. The room was on the street side, not the ocean side, because we were told that would be quieter, and it was. To get to it, we had to cross an open, roofless area between the ocean side building and the street side building, and that area, floored in cement, seemed a little grotty to me. Not dirty, but as if much less attention had been paid to how it looked than the other common areas of the hotel. The room itself was relatively small, very clean, painted light pink, with large cool white tiles on the floor, two windows right next to each other - about the size of a picture window - and somewhat bare walls. It had a queen-sized bed, one night table, a TV, a decent sized closet with a tall, skinny wicker bureau, and a small bathroom with a shower (no tub). My biggest complaint has to do with the fact that there was only one night table - I had to keep asking to have things passed to me, or just leave them on the floor on my side. And there was one evening where the water slowed down to a trickle, so that we had to put off our showers a few hours, until it returned. Oh - and the string for raising the large shade covering both windows wasn't there...we held it up with a coathanger so we could look out onto the beautiful tree right outside our window.At night, we fell asleep to the sound of tree frogs and birds - very peaceful. The food at the restaurant was delicious, and the staff was extremely friendly and helpful.If you are very picky and have the money to spend on a ritzy place, come here for lunch or dinner, not to stay. Or get one of the more expensive rooms - perhaps the staff has lavished more care on them, in terms of night tables, window shades, etc. If you aren't that particular, or you're on a budget, and the combination of perfection and small annoyances I've described sounds like it will suit you, definitely make a reservation. We had a wonderful time here.  
+<Date>Dec 12, 2006
+<Rating>4	4	3	5	5	3	5	-1	
+<Aspects>
+11	5(time):1	25(comfortable):1	48(wonderful):1	65(visit):1	137(safe):1	176(fun):1	267(traveler):1	915(puerto):1	1131(rico):1	1298(alternative):1	2552(gay):1	
+8	2(night):1	18(book):1	19(price):2	62(expect):1	232(nearby):1	429(budget):1	777(lour):1	2553(modest):1	
+97	0(staff):2	1(location):1	2(night):4	3(clean):1	10(restaurant):1	11(bed):1	13(bathroom):1	16(food):1	20(look):1	21(excellent):1	23(little):1	24(floor):3	35(street):2	39(return):1	43(leave):1	45(beautiful):1	57(water):1	58(quiet):1	59(definitely):1	60(hour):1	61(shower):2	67(call):1	69(tell):1	73(etc):1	78(rate):1	83(size):2	98(outside):1	100(bloc):1	116(tv):1	119(window):5	124(expensive):1	135(build):2	145(amaze):1	156(reservation):1	157(light):1	183(wall):1	190(complaint):1	205(ocean):2	229(table):3	242(care):1	257(decent):1	273(reasonable):1	278(cool):1	311(tub):1	400(pass):1	409(sound):2	429(budget):1	455(slow):1	456(picture):1	466(white):1	552(cover):1	565(closet):1	587(fall):1	593(hold):1	651(somewhat):1	763(boyfriend):1	795(shade):2	806(paint):1	828(tree):2	846(tile):1	861(suit):1	913(relatively):1	938(particular):1	955(describe):1	993(december):1	1011(term):1	1036(peaceful):1	1102(sense):1	1228(cross):1	1358(upstairs):1	1435(bird):1	1445(studio):1	1482(del):1	1626(tall):1	1647(mar):1	1929(combination):1	2055(raise):1	2121(pink):1	2123(asleep):1	2235(bare):1	2269(perfection):1	2553(modest):1	2966(annoyance):1	3169(humor):1	3362(yoga):1	3651(smoothy):1	4199(lavish):1	4482(frog):1	4647(cement):1	5122(string):1	5186(bureau):1	5266(trickle):1	5385(queen-size):1	5409(grotty):1	5731(skinny):1	6566(wicker):1	11845(hosteria):1	
+26	7(walk):1	23(little):1	30(beach):1	41(city):1	58(quiet):1	84(locate):1	102(near):1	117(dinner):1	120(bus):1	177(san):1	288(rest):1	380(cab):1	421(neighbourhood):1	617(juan):1	992(gate):1	1102(sense):1	1237(upscale):1	1448(safety):1	1482(del):1	1537(residential):1	1611(weird):1	1647(mar):1	1934(condado):1	3398(contribute):1	4243(metropolitan):1	11845(hosteria):1	
+5	20(look):1	42(pay):1	323(dirty):1	726(attention):1	830(common):1	
+0	
+28	0(staff):1	6(breakfast):1	10(restaurant):3	12(friendly):1	14(helpful):1	16(food):1	20(look):1	30(beach):1	45(beautiful):1	55(lobby):1	64(spend):1	80(money):1	110(extremely):1	117(dinner):2	169(sit):1	229(table):1	252(lunch):2	262(website):1	485(delicious):1	490(entrance):1	926(picky):1	1406(deck):1	1482(del):1	1647(mar):1	1677(anytime):1	2265(hurry):1	7457(ritzy):1	11845(hosteria):1	
+0	
+
+<Author>HaneyGIS
+<Content>Beautiful beach inn with no water! The hotel has a nice patio, location, and staff. However, please beware that this hotel has a water problem. In our first room, there was only drops of water out of the shower. In our second room, we had none. They sent us to another room to shower and it was told to us and obvious that other hotel guest had been using the same room to shower. The managment didn't even offer to compensate us in any way. I was very disappointed!  
+<Date>Dec 2, 2006
+<Rating>2	2	2	3	3	3	3	2	
+<Aspects>
+7	57(water):1	89(offer):1	154(disappoint):1	173(please):1	737(beware):1	2243(compensate):1	5141(managment):1	
+0	
+8	57(water):1	61(shower):3	69(tell):1	91(guest):1	447(send):1	573(none):1	662(drop):1	1698(obvious):1	
+8	0(staff):1	1(location):1	4(nice):1	30(beach):1	45(beautiful):1	57(water):1	324(inn):1	973(patio):1	
+0	
+0	
+0	
+0	
+
+<Author>Rukumani
+<Content>Not worth the price We booked here because the wedding party was booked into this hotel, and so were forced to stay for 4 days. The rooms were small, there was a MAJOR problem with water (most of us could not shower every day, and when we could the water trickled down), the AC was temperamental, and the front desk lady was rude and crude! The good part about our stay was that the food was good and our family was able to enjoy the beach. However, we soon discovered that others staying elsewhere were getting much more for their money and were able to shower every day! murfindra@yahoo.com  
+<Date>Sep 7, 2006
+<Rating>2	2	2	3	2	1	2	-1	
+<Aspects>
+0	
+7	8(day):1	18(book):2	19(price):1	96(worth):1	363(party):1	604(wed):1	1550(force):1	
+16	8(day):2	31(front):1	36(desk):1	57(water):2	61(shower):2	80(money):1	171(able):1	315(major):1	392(rude):1	418(soon):1	521(lady):1	646(elsewhere):1	869(discover):1	956(ac):1	5266(trickle):1	10824(temperamental):1	
+5	16(food):1	30(beach):1	51(enjoy):1	106(family):1	171(able):1	
+0	
+0	
+0	
+0	
+
+<Author>EmilieV7
+<Content>Stay away. Read the review of this place. Don't stay here! My wife and I were obliged to stay here for three nights because we were travelling with friends and they had made the reservations for us and for themselves. They have stayed here several times in the past and acknowledged that this hotel has seriously declined. Our room was actually filthy and smelled of mold. There is NO service to speak of from the front desk unless chilly grumpiness qualifies as service. We had to lug our bags up to our nasty tired room which they somehow called a suite. Though suite way over dignifies what this room is. Some sort of gritty gunk all over the bathroom, sandpapery sheets on the bed, hideous studenty furniture, barely a trickle of water in the bathroom and virtually no hot water. Then there was the food. Ick. And drinks at the bar. Ick again. Yuck. And the cost of this hotel is hideously overpriced. We had to pay around $240 a night for this dump. On a bright note: we love San Juan and look forward to returning.  
+<Date>Sep 2, 2006
+<Rating>1	1	1	2	1	1	1	-1	
+<Aspects>
+17	5(time):1	20(look):1	37(review):1	39(return):1	40(love):1	88(read):1	177(san):1	297(note):1	419(past):1	617(juan):1	750(forward):1	880(bright):1	1441(seriously):1	2394(decline):1	2453(acknowledge):1	3151(yuck):1	8231(ick):2	
+6	2(night):1	42(pay):1	175(cost):1	727(overprice):1	1449(dump):1	12931(hideously):1	
+23	11(bed):1	13(bathroom):2	57(water):2	67(call):1	108(suite):2	114(hot):1	180(actually):1	231(smell):1	290(bag):1	440(furniture):1	454(tire):1	479(sheet):1	557(sort):1	1020(barely):1	1138(mold):1	1320(filthy):1	1639(nasty):1	1892(virtually):1	2017(somehow):1	2929(lug):1	5266(trickle):1	6363(hideous):1	7968(gritty):1	
+0	
+0	
+14	2(night):1	9(service):2	31(front):1	36(desk):1	68(travel):1	127(speak):1	146(friend):1	156(reservation):1	184(wife):1	405(unless):1	1059(themselves):1	2622(chilly):1	2709(oblige):1	5315(qualify):1	
+3	16(food):1	27(bar):1	63(drink):1	
+0	
+
+<Author>mgnasty
+<Content>Welcome to the Hotel Hosteria, you can check in but you can never check out! We spent four days at this Hotel, and that's only because we were with a wedding party. We were ready to leave after the first night, but couldn't since when you book the room, you are obligated to PAY for the days booked, with no alternative to cancel. (This doesn't even sound LEGAL!) We had a VERY SMALL room overlooking the Caribbean Sea, but COULDN'T OPEN THE BLINDS/SHADES to enjoy the sunshine or the view! When we complained about this we were ignored. The staff does it's best to clean the rooms and the beach is maintained quite well, but we experienced power outages and the showers were barely a trickle of tepid water. I would NOT recommend this place to my worst enemy. Avoid this hotel at all costs! Pay the extra $$ and enjoy your stay in San Juan, which is actually quite an accommodating city in P.R. I wish I had viewed this site before booking this room. BEWARE!  
+<Date>Aug 21, 2006
+<Rating>1	1	1	5	3	2	3	-1	
+<Aspects>
+12	8(day):1	15(recommend):1	50(bad):1	64(spend):1	241(complain):1	363(party):1	409(sound):1	604(wed):1	737(beware):1	1215(ignore):1	4496(legal):1	5608(enemy):1	
+22	2(night):1	8(day):1	17(view):1	18(book):3	41(city):1	42(pay):2	43(leave):1	51(enjoy):1	128(extra):1	175(cost):1	177(san):1	180(actually):1	192(site):1	274(ready):1	384(wish):1	436(avoid):1	617(juan):1	624(accommodate):1	1065(cancel):1	1298(alternative):1	6929(obligate):1	7393(p.r):1	
+18	0(staff):1	3(clean):1	17(view):1	30(beach):1	44(experience):1	51(enjoy):1	57(water):1	61(shower):1	260(overlook):1	562(maintain):1	758(sea):1	931(caribbean):1	1020(barely):1	1276(power):1	2856(sunshine):1	5266(trickle):1	5505(outage):1	7236(tepid):1	
+0	
+0	
+3	32(check):2	202(welcome):1	11845(hosteria):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Disappointed with Hosteria This Time Arounnd I've been a world traveller on a budget for many years, so I've sampled more than a few bed and breakfasts, etc. In addition I've been staying in the Ocean Park area of San Juan for close to thrity years. I recently chose Hosteria on the basis of a one night stop-over five years ago, and was charmed by the warm wood and rattan interior and the delightful late-night staff. I must say that this particular stay was a disappointing one. The rooms (we stayed there on two different occasions as stop-overs to and from Culebra) were greatly in need of painting. They were not really clean--gritty-floor syndrome. The Ocean Park beach has declined in cleanliness to the point of un-usability! Not the fault of Hosteria, to be sure, but a problem nonetheless. The night staff were delightful, but the day staff tended to be on the grumpy side. The breakfasts were terrible! No fruit, over-cooked coffee, tough eating out on their wooden deck is still a joy. Go to Kasalta on McLeary for somne edible morning fare. Finally, the rooms are greatly over-priced for what they are. $250. per night can almost get you a roomn at the Normandie, if that's your cup of tea (...and why not?) Numero Uno down the beach a few blocks is a much better deal, believe me!One big compliment: I left some clothes in the closet en route to Culebra and they had them for me when I returned. That counts for a lot!  
+<Date>Apr 22, 2006
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	38(lot):1	56(morning):1	154(disappoint):1	517(fault):1	938(particular):1	1112(fare):1	1781(Count):1	2652(nonetheless):1	2890(edible):1	11845(hosteria):1	
+3	341(finally):1	1905(greatly):1	3386(over-price):1	
+36	0(staff):3	2(night):3	3(clean):1	5(time):1	6(breakfast):1	8(day):1	11(bed):1	73(etc):1	154(disappoint):1	167(choose):1	236(warm):1	267(traveler):1	272(world):1	301(tea):1	322(recently):1	332(charm):1	429(budget):1	633(ago):1	800(cup):1	806(paint):1	871(occasion):1	1026(interior):1	1053(tend):1	1176(delightful):2	1327(wood):1	1527(basis):1	1905(greatly):1	1960(sample):1	4351(grumpy):1	4413(culebra):1	5291(late-night):1	5711(normandie):1	6955(stop-over):2	9807(rattan):1	11845(hosteria):2	12885(syndrome):1	
+21	28(close):1	30(beach):2	39(return):1	43(leave):1	66(park):2	100(bloc):1	140(deal):1	177(san):1	205(ocean):2	312(believe):1	565(closet):1	617(juan):1	709(clothe):1	854(cleanliness):1	918(addition):1	1035(route):1	2065(en):1	2394(decline):1	2571(compliment):1	4413(culebra):1	8053(uno):1	
+0	
+0	
+10	6(breakfast):1	47(eat):1	90(coffee):1	215(fruit):1	432(terrible):1	1406(deck):1	1665(tough):1	1756(wooden):1	2486(joy):1	3506(over-cook):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Don't Stay Here It's sad - this was obviously a terrific hotel... once. The carved wood of the entrance and dining room is beautiful, the sand just outside the door is soft and inviting, the expensive restaurant serves still-excellent food. Past the lobby and dining rooms, however, buyer beware. The hotel is dying fast from a complete lack of adult supervision. The staff is made up of pretty 20-somethings, more intent on comparing tongue studs and tattoos than actually serving hotel guests. After we arrived, the indifferent teenager at the front desk gave us the key to our room and let us haul our own bags upstairs. When we opened the door, we found... other peoples' clothes and things strewn about. Oops! Back to the front desk, where the hapless clerk scratched his head for awhile before drifting upstairs to see what he could do about the situation. Twenty minutes and one very hasty clean-up job later we were again given the keys to the same room. This time it was empty, although we found a pair of sneakers under one bed and the pillows on the other bed still smelled of someone else's cologne. Oh well, too late to fuss over details -- our two small children and we settled down to sleep, after setting the alarm for the 6am wake-up we'd need to make our plane the next day. We were all sprawled half-naked and deep asleep on our beds when the locks on the door started rattling at about 1am. My husband just had time to spring up and grab the door before the couple who thought they were still staying in the room opened it with their key. Seems the front desk had forgotten to tell them about the change. Confusion ensued.But don't get the impression that this one incident has prompted me to write a disgruntled review. We were in the hotel for a couple of nights one week before this incident, and the problem was the same: clueless staff, absent management. The first impression is great, but the longer you stay the more you notice how bad things are. That lovely soft sand outside the door? Full of cigarette butts and people's discarded napkins and lemon rinds, cause the hotel staff can't be bothered to give it a quick rake every morning. The delicious though expensive restaurant? In the morning, guests are treated to a continental breakfast of coffee in styrofoam cups, individual boxes of Frosted Flakes, and red delicious apples. And yes, the carved wood downstairs is beautiful -- but those shiny poly bed covers and foam pillows upstairs are kinda hard to square with the hotel's upscale rates.I don't recommend.  
+<Date>Mar 27, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+25	15(recommend):1	26(people):1	37(review):1	50(bad):1	54(door):1	344(write):1	349(lack):1	354(notice):1	499(fast):1	556(adult):1	622(complete):1	699(terrific):1	709(clothe):1	781(obviously):1	848(impression):2	1208(prompt):1	1264(die):1	1454(sad):1	2013(incident):1	2831(confusion):1	6440(oops):1	6765(disgruntled):1	7091(supervision):1	7098(strew):1	8926(ensue):1	
+3	10(restaurant):1	124(expensive):1	485(delicious):1	
+65	5(time):2	8(day):1	11(bed):4	29(minute):1	31(front):1	36(desk):1	45(beautiful):1	53(arrive):1	54(door):2	55(lobby):1	78(rate):1	79(late):2	99(couple):1	104(sleep):1	105(husband):1	139(square):1	162(hard):1	165(start):1	166(own):1	170(else):1	231(smell):1	234(set):1	250(yes):1	277(child):1	290(bag):1	303(pillow):2	316(dine):1	339(key):3	419(past):1	481(job):1	552(cover):1	592(detail):1	691(downstairs):1	737(beware):1	774(lock):1	810(empty):1	968(plane):1	1043(deep):1	1139(grab):1	1162(spring):1	1237(upscale):1	1327(wood):1	1358(upstairs):2	1380(alarm):1	1414(settle):1	1594(teenager):1	2050(kinda):1	2123(asleep):1	2205(fuss):1	2207(pair):1	2481(indifferent):1	3339(haul):1	3394(wake-up):1	3467(foam):1	3799(carve):1	4511(rattle):1	4778(sprawl):1	4826(shiny):1	5371(buyer):1	5460(twenty):1	7325(sneaker):1	7363(6am):1	8726(1am):1	10191(cologne):1	12273(clean-up):1	
+5	54(door):1	87(lovely):1	98(outside):1	522(sand):1	589(soft):1	
+0	
+40	0(staff):3	2(night):1	26(people):1	31(front):2	36(desk):2	56(morning):1	69(tell):1	75(week):1	91(guest):1	99(couple):1	109(pretty):1	161(change):1	174(serve):1	180(actually):1	299(quick):1	307(bother):1	319(head):1	381(compare):1	397(forget):1	525(management):1	788(clerk):1	890(situation):1	943(cause):1	1358(upstairs):1	1365(cigarette):1	2013(incident):1	2511(butt):1	2613(scratch):1	2755(awhile):1	3382(rake):1	3891(lemon):1	4166(napkin):1	4338(drift):1	4422(clueless):1	6460(intent):1	6856(absent):1	7338(tongue):1	7411(tattoo):1	8042(discard):1	10692(stud):1	
+29	6(breakfast):1	10(restaurant):1	16(food):1	45(beautiful):1	54(door):1	56(morning):1	90(coffee):1	91(guest):1	98(outside):1	124(expensive):1	174(serve):1	316(dine):1	320(treat):1	372(continental):1	485(delicious):1	490(entrance):1	522(sand):1	589(soft):1	590(red):1	800(cup):1	905(apple):1	945(box):1	1210(invite):1	1327(wood):1	1596(individual):1	3419(frost):1	3799(carve):1	6137(flake):1	8521(styrofoam):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Dilapidated Bad Rooms We had a reservation for 1 night. When we arrived they could not tell us if our room was available. We went for a walk on the beach for 45 minutes and when we returned they still did not know. The desk clerk finally went and checked and said the room was clean and ready. We went to the room. It was in a hidden corner of the hotel with multiple locks on the door that were incredibly difficult to open. The outside area smelled of mold and bleach. Finally, we got in the room and it smelled no better. The bedspread had obvious stains. The room was one of their more inexpensive rooms, but for $110 a night I still expect basic cleanliness. We went back to the clerk and explained the situation and asked what else was available. He had another room that regularly goes for $189, he would give it to us for $150. We looked, we said ok. then he rented it to someone else. He then offered another room that he said when we saw it we would want to move in and not leave, it went for $239. After much discussion, he said we could have it for $150. We got to the room, it did not smell of bleach, there were not obvious stains, but the floor felt dirty, the bathroom smelled. We did not want to move in! The saving grace of the place is it is directly on a beautiful beach, but don't go there expecting a nice room regardless of how much you pay.  
+<Date>Mar 8, 2006
+<Rating>1	1	1	-1	1	-1	2	-1	
+<Aspects>
+17	20(look):1	54(door):1	123(ok):1	134(available):1	170(else):2	200(corner):1	207(move):1	572(difficult):1	768(explain):1	774(lock):1	788(clerk):1	807(incredibly):1	890(situation):1	1097(rent):1	1195(hide):1	1732(multiple):1	3282(discussion):1	
+13	2(night):1	4(nice):1	30(beach):1	42(pay):1	45(beautiful):1	62(expect):2	352(basic):1	383(directly):1	425(save):1	854(cleanliness):1	1117(inexpensive):1	2012(regardless):1	2620(grace):1	
+21	2(night):1	13(bathroom):1	24(floor):1	34(feel):1	43(leave):1	50(bad):1	53(arrive):1	69(tell):1	89(offer):1	134(available):1	156(reservation):1	207(move):1	231(smell):3	323(dirty):1	341(finally):1	723(stain):2	1698(obvious):2	1881(regularly):1	2278(bedspread):1	4943(bleach):1	8258(dilapidated):1	
+8	7(walk):1	29(minute):1	30(beach):1	39(return):1	98(outside):1	231(smell):1	1138(mold):1	4943(bleach):1	
+0	
+6	3(clean):1	32(check):1	36(desk):1	274(ready):1	341(finally):1	788(clerk):1	
+0	
+0	
+
+<Author>cpworsham
+<Content>Clean, comfortable, compromise... This place reminds me of going to visit poor relatives in a 3rd world country. You really get the feeling they are trying their best but with limited means. It's not a bad place to stay: The facilities and rooms were immaculately clean, the staff was very welcoming, friendly, attentive, and courteous. The hotel definately has its merits. A nice waterfall feature greets arriving visitors. For me and others used to traveling in 4-star and above hotels, however there might be some disappointments. There was no alarm clock in the room, but the staff was able to program an early morning wake up call. The rooms do not come with coffee makers (a trip down stairs staff gave me a cup), hair dryers, face(wash) cloths (available upon request), refrigerators (some units have kitchenettes), the floors are terra cotta tile with only one small rug, the towels were worn and a little threadbare.I really wasn't all that thrilled about the so-called complimentary continetal breakfast. I got there half way through it at 9am (the hours are 8 to 10) there was nothing to eat but bread, cereal (with no milk or bowls!), and bananas. They also ran out of coffee. The reason might have been that the morning I was having breakfast they seemed short-staffed so service was a bit sluggish. I returned later to try to dinner menu and was not disappointed. The prices seem reasonable for a fine meal ($25-30pp) in a major metropolitan area. No problems with the service or the presentation, the tip is included in the price. This is one of the finer restaurants in the area that seems to be frequented by the locals and tourist from this (and other hotels) hotel alike. The area was safe, gated community. I parked the rental car close and on the street.A plus for me was that they have wireless internet access in the lobby. Having it in the rooms with a desk of some sort would have been better but all things considered it seems they at least are trying (3rd world country) so one wouldn't want to complain because it is lucky to have access at all. Finally, as affordabilty goes, during high season, the rate that I was quoted ($209 plus tax) is probably in the lower third of prices for places that I shopped (lowest was $180 and highest was $400+).I also want to mention as an aside that there is a great bakery/restaurant right outside the main gate but to the left where many locals go for typical dishes and great food at reasonable prices. I always go there to get their ensalada de pulpo (Octopus salad) when I am in San Juan.  
+<Date>Mar 8, 2006
+<Rating>3	3	3	-1	4	-1	3	-1	
+<Aspects>
+20	4(nice):1	34(feel):1	53(arrive):1	76(try):1	137(safe):1	177(san):1	246(mean):1	410(definately):1	415(greet):1	510(limit):1	617(juan):1	731(feature):1	909(salad):1	951(visitor):1	992(gate):1	1388(banana):1	2280(waterfall):1	3502(community):1	5209(octopus):1	5769(merit):1	
+35	9(service):1	16(food):1	19(price):4	43(leave):1	49(shop):1	68(travel):1	71(include):1	78(rate):1	98(outside):1	112(main):1	113(fine):1	178(probably):1	194(tip):1	195(local):1	203(plus):1	213(meal):1	244(mention):1	273(reasonable):2	315(major):1	341(finally):1	513(low):1	532(third):1	610(season):1	628(typical):1	777(lour):1	798(tax):1	816(dish):1	866(disappointment):1	992(gate):1	1483(bakery):1	1502(aside):1	1856(quote):1	1932(presentation):1	2254(4-star):1	4243(metropolitan):1	
+48	0(staff):3	3(clean):1	12(friendly):1	23(little):1	24(floor):1	33(trip):1	36(desk):1	50(bad):1	56(morning):1	67(call):1	76(try):1	90(coffee):1	125(towel):1	134(available):1	148(request):1	159(access):1	171(able):1	202(welcome):1	211(facility):1	241(complain):1	248(consider):1	272(world):1	434(wear):1	483(courteous):1	530(country):1	537(attentive):1	554(wake):1	557(sort):1	568(stair):1	729(hair):1	797(lucky):1	800(cup):1	811(wash):1	846(tile):1	916(refrigerator):1	980(unit):1	996(maker):1	1209(dryer):1	1291(clock):1	1380(alarm):1	1531(program):1	1864(cloth):1	2084(immaculately):1	2097(3rd):1	3016(rug):1	3977(threadbare):1	6478(kitchenett):1	12760(terra):1	
+5	28(close):1	35(street):1	66(park):1	121(car):1	963(rental):1	
+10	3(clean):1	25(comfortable):1	65(visit):1	272(world):1	331(poor):1	530(country):1	1285(remind):1	2097(3rd):1	2259(relative):1	3884(compromise):1	
+0	
+30	6(breakfast):2	9(service):1	10(restaurant):1	39(return):1	47(eat):1	52(bit):1	56(morning):1	60(hour):1	76(try):1	79(late):1	90(coffee):1	113(fine):1	117(dinner):1	149(run):1	154(disappoint):1	195(local):1	209(tourist):1	283(half):1	345(complimentary):1	374(reason):1	423(menu):1	497(bread):1	529(cereal):1	1116(milk):1	1355(frequent):1	1366(bowl):1	1822(thrill):1	3737(so-called):1	3764(alike):1	11772(continetal):1	
+5	55(lobby):1	97(internet):1	159(access):1	203(plus):1	717(wireless):1	
+
+<Author>A TripAdvisor Member
+<Content>Very Poor Service  We stayed here over New Year's and paid a highly inflated price for a so-called ocean view room with patio. In fact, the tiny cramped room had a view of the ocean but overlooked a 'patio' at which diners (smoking) were served meals. Avoid these rooms at all costs. We were then moved at a higher price to an apartment in the back. The air conditioning did not work, lights did not work, neither tv contol worked and while the management tried to address at least some of the issues, they did not succeed. Worst of all was the restaurant. The prices were way too high for decent but not great food and the worst service we've ever experienced. We were kept waiting a half hour after the reservation and served everything, if at all, horribly slowly. At one point, the so-called server came out to tell us that she had now had her dinner and let's see did you get your entrees (we had not). She asked for our dessert orders early to reserve what we wanted. Later, much later, when she brought them out they were all that was left and nothing that we had ordered. The 15% fixed price tip was ultimately settled downward but we can't recommend this restaurant or for that matter the hotel even though the location on a nice if somewhat windy beach was ideal.  
+<Date>Jan 16, 2006
+<Rating>2	1	1	-1	2	-1	2	-1	
+<Aspects>
+3	43(leave):1	79(late):2	142(bring):1	
+18	9(service):2	16(food):1	17(view):1	19(price):3	42(pay):1	44(experience):1	50(bad):1	138(highly):1	175(cost):1	205(ocean):1	207(move):1	257(decent):1	331(poor):1	436(avoid):1	751(apartment):1	973(patio):1	3737(so-called):1	4942(inflate):1	
+20	17(view):1	116(tv):1	157(light):1	164(air):1	174(serve):1	205(ocean):1	213(meal):1	253(tried):1	260(overlook):1	263(condition):1	265(issue):1	338(tiny):1	468(smoke):1	525(management):1	973(patio):1	1080(cramp):1	1275(neither):1	1312(address):1	1324(diner):1	5717(succeed):1	
+14	1(location):1	4(nice):1	10(restaurant):1	15(recommend):1	19(price):1	30(beach):1	194(tip):1	494(fix):1	531(matter):1	545(ideal):1	651(somewhat):1	1414(settle):1	1982(windy):1	3716(ultimately):1	
+0	
+7	60(hour):1	85(wait):1	156(reservation):1	174(serve):1	283(half):1	3340(slowly):1	3606(horribly):1	
+9	10(restaurant):1	50(bad):1	69(tell):1	117(dinner):1	506(reserve):1	1180(dessert):1	1540(server):1	2451(entree):1	3737(so-called):1	
+0	
+
+<Author>kiwi400
+<Content>Bad value...at inflated holiday rates Stayed here for 7 nights during the New Year's Holiday. Staff could be friendly but not consistantly..... food good in restaurant but breakfast was skimpy and awful- as if they were holding back so they could save on costs. At Christmas we were paying over $300 a night for two rooms. Street was VERY LOUD - YOU MUST ASK TO SAY AWAY FROM THE STREET (over the entrance). A car alarm went off all night and they refused to call the police to do somethign about it. They refused to accept that the car was owned by a guest. It turns out the car was owned by a guest, who the next day heard about the problem was very non-chalant. The rooms were tired but clean - but not that comfortable. Beach was right there but wasn't that nice. It is a long drive to Old Town. This is how disappointed I was...I was there 11 months ago...I'm writing today.  
+<Date>Nov 7, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+17	2(night):1	8(day):1	67(call):1	91(guest):2	121(car):3	132(hear):1	154(disappoint):1	166(own):2	239(town):1	298(drive):1	344(write):1	388(month):1	633(ago):1	1103(refuse):2	1247(accept):1	1380(alarm):1	1409(police):1	
+8	2(night):2	42(pay):1	50(bad):1	78(rate):1	81(value):1	223(holiday):2	962(christmas):1	4942(inflate):1	
+3	3(clean):1	25(comfortable):1	454(tire):1	
+5	4(nice):1	30(beach):1	35(street):2	416(loud):1	490(entrance):1	
+0	
+0	
+11	0(staff):1	6(breakfast):1	10(restaurant):1	12(friendly):1	16(food):1	175(cost):1	425(save):1	593(hold):1	736(awful):1	6149(skimpy):1	9040(consistantly):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very Nice This was my first stay there. Very nice place to stay...VERY CLEAN and friendly staff.....excellent location..!!!!!!!!Go and try it....you won't regreat it...  
+<Date>Sep 11, 2005
+<Rating>4	4	3	-1	5	-1	4	-1	
+<Aspects>
+3	4(nice):1	76(try):1	487(wo):1	
+0	
+0	
+6	0(staff):1	1(location):1	3(clean):1	4(nice):1	12(friendly):1	21(excellent):1	
+0	
+0	
+0	
+0	
+
+<Author>valg31798
+<Content>HOSTeria del Mar knows how to HOST guests! There are no words to explain how in love we are with this place. We did a last minute booking and they offered us a wonderful 1 bedroom condo for a great price. The place was sold out for the weekend with only that one room remaining - yet they attended us as if we were the only guests in the place. The place - charming with a Bed  Breakfast feel. Gorgeous main house with a relaxed atmosphere. It was the Melrose Place of San Juan. The ocean (Ocean Park) was just steps away, literally. Tropical Breakfasts (their own version of continental) were served in their restaurant or on the outside tables right on the beach. The sunrises were incredible. I was with just a friend but I will def. come back with someone special ;). The place was romantic yet family friendly. The staff was nothing but helpful, even when our hot water ran out and quickly fixed it. The restaurant on it's premises UVVA offered the same type of service with great food at reasonable prices for a boutique type setting. Ocean Park is probably one of the most beautiful beaches in the San Juan area. You can def. spot the beautiful people of San Juan bathing there and yet not feel like a tourist. The private beach offered tranquility and a sense of I OWN THIS PLACE! - even if it was for just two days. Plenty of lounge chairs were available for use in the beach. I have stayed at 4 and 5 star resorts all my life. And the service and the cleanliness and the ambiance of this quaint place takes all by storm. Forget the Conquistador and the El San Juan Hotel - Hosteria del Mar is my new place to stay!  
+<Date>Aug 23, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+29	8(day):1	12(friendly):1	26(people):1	34(feel):1	40(love):1	45(beautiful):1	91(guest):1	106(family):1	146(friend):1	177(san):3	208(special):1	209(tourist):1	317(spot):1	397(forget):1	571(word):1	617(juan):3	707(romantic):1	718(incredible):1	752(el):1	768(explain):1	1283(host):1	1482(del):2	1647(mar):2	1896(bathe):1	2528(sunrise):1	2802(def):2	3432(conquistador):1	7764(melrose):1	11845(hosteria):2	
+8	72(resort):1	103(star):1	112(main):1	160(relax):1	281(house):1	414(atmosphere):1	426(life):1	446(gorgeous):1	
+21	6(breakfast):1	11(bed):1	18(book):1	19(price):1	29(minute):1	30(beach):1	34(feel):1	48(wonderful):1	89(offer):1	91(guest):1	134(available):1	158(plenty):1	172(weekend):1	198(chair):1	237(lounge):1	268(bedroom):1	332(charm):1	606(sell):1	826(attend):1	1391(remain):1	2811(condo):1	
+14	30(beach):2	45(beautiful):1	66(park):2	89(offer):1	166(own):1	177(san):1	178(probably):1	205(ocean):3	366(step):1	492(private):1	617(juan):1	665(literally):1	1102(sense):1	3458(tranquility):1	
+5	9(service):1	854(cleanliness):1	957(ambience):1	1295(quaint):1	1884(storm):1	
+7	0(staff):1	14(helpful):1	57(water):1	114(hot):1	149(run):1	471(quickly):1	494(fix):1	
+19	6(breakfast):1	9(service):1	10(restaurant):2	16(food):1	19(price):1	30(beach):1	89(offer):1	98(outside):1	166(own):1	174(serve):1	229(table):1	234(set):1	273(reasonable):1	372(continental):1	389(type):2	623(boutique):1	812(tropical):1	1989(premiss):1	2723(version):1	
+0	
+
+<Author>erodz9260
+<Content>Awesome best birthday ever A+++ beach house in PR. owner Elsie she's the best                More photos  
+<Date>Aug 21, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+4	30(beach):1	281(house):1	348(awesome):1	765(birthday):1	
+0	
+0	
+2	672(owner):1	761(photo):1	
+0	
+0	
+
+<Author>AngelKL2
+<Content>Memorial Day at Hosteria       Into the bar area.  
+<Date>Jun 2, 2005
+<Rating>4	5	3	-1	4	-1	4	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+4	8(day):1	27(bar):1	2548(memorial):1	11845(hosteria):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>my little secret hideaway in San Juan Been going to this little hosteria for years. It's out of the way in a gated community in Ocean Park. It is located right in front of the beach. Years ago, it was a better looking beach but the tide and water have changed it drastically. I am hoping that they will have it redone. It has a small number of rooms ranging from a small single room for one person to a suite with kitchenette for a whole family. I have stayed in about every room they have and each has its own style and character. Some rooms need an updated decor and new mattresses. The restaurant is a small, open area with open windows and doors to allow the breeze from the ocean to relieve you from the heat. The menu is quite pricey for my taste. A breakfast of coffee, toast, with a small plate of fruit, yogurt and honey already cost me over $10. I prefer just walking over to the local bakery just outside the gates to drink a good cup of Puerto Rican Java and a warm typical Puerto Rican sweet bread for only a few dollars. If you stay during the weekend and rent a car to get you around the island, keep in mind that parking in the neighborhood is horrendous since all of San Juan likes to spend the days during the weekend at this particular beach. Remember, this beach is free to the public...while others are not. At nights, the front door is locked but your key opens the door and there is a night watchman on duty at the front desk. Despite all the negative comments that I have made here, this is a place that I keep coming back to it for its quaint island charm, with warm and friendly staff. The price is right and I do use the restaurant only if I choose to stay in. Otherwise, I drive out to one of the nicer restaurants out in the Condado or Isla Verde, which is easily reachable by car or taxi. I come to this place because I feel like home here whenever I am in Puerto Rico. I don't come here for the glitz, or for the cheap food and white sand beaches (there is none). I come here because it's a home away from home and it truly is a hideaway with alot of privacy. If I need anything else, I have the option to drive out or take a taxi elsewhere.  
+<Date>Mar 21, 2005
+<Rating>3	2	2	-1	3	-1	3	-1	
+<Aspects>
+16	23(little):2	34(feel):1	141(home):3	177(san):1	328(hope):1	476(truly):1	617(juan):1	647(alot):1	915(puerto):1	1127(secret):1	1131(rico):1	1181(whenever):1	1183(privacy):1	2795(redo):1	5802(hideaway):2	11845(hosteria):1	
+13	10(restaurant):1	16(food):1	19(price):1	30(beach):1	143(cheap):1	167(choose):1	423(menu):1	439(taste):1	466(white):1	522(sand):1	546(pricey):1	573(none):1	6889(glitz):1	
+21	10(restaurant):1	54(door):1	106(family):1	108(suite):1	119(window):1	166(own):1	193(person):1	205(ocean):1	269(decor):1	304(single):1	326(style):1	335(numb):1	359(allow):1	539(heat):1	714(range):1	725(update):1	799(breeze):1	847(mattress):1	1049(character):1	1165(kitchenette):1	3351(relieve):1	
+56	4(nice):1	7(walk):1	8(day):1	10(restaurant):1	20(look):1	30(beach):4	31(front):1	46(free):1	57(water):1	63(drink):1	64(spend):1	66(park):2	84(locate):1	98(outside):1	121(car):2	161(change):1	170(else):1	172(weekend):2	177(san):1	185(taxi):2	195(local):1	205(ocean):1	236(warm):1	294(mind):1	298(drive):2	336(option):1	342(island):1	375(remember):1	379(public):1	421(neighbourhood):1	430(dollar):1	438(easily):1	497(bread):1	508(otherwise):1	536(prefer):1	617(juan):1	628(typical):1	633(ago):1	646(elsewhere):1	800(cup):1	915(puerto):2	938(particular):1	950(sweet):1	992(gate):2	1030(rend):1	1483(bakery):1	1934(condado):1	2546(isla):1	2595(verde):1	2859(rican):2	3140(horrendous):1	3502(community):1	3529(tide):1	7605(reachable):1	9095(drastically):1	11106(java):1	
+0	
+16	0(staff):1	2(night):2	12(friendly):1	31(front):2	36(desk):1	54(door):2	236(warm):1	282(negative):1	332(charm):1	339(key):1	342(island):1	356(comment):1	498(despite):1	774(lock):1	1295(quaint):1	1325(duty):1	
+8	6(breakfast):1	90(coffee):1	175(cost):1	215(fruit):1	875(toast):1	927(yogurt):1	1002(plate):1	3659(honey):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>It's worth it for the location! The place is RIGHT ON the beach has a great common area, terrace, entrance, dining room etc. Very tropical open, airy and laid back. It's 15 minutes from the airport. The beach is uncrowded, wide and long. The sea is clean and warm but can be a little rough at times. The rooms are not great and could be cleaner but everything else makes up for it and makes it worth while. Also, the restaurant Uvva is fantastic! Much better then the highly raterd Pamela's. One more tip is Pinkey's which is a small local sandwich and breakfast place about 4 easy walking blocks away. Alex Garcia and his staff are so welcoming and friendly. The food is fresh, delicious and reasonable. It's a great find.  
+<Date>Feb 28, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	138(highly):1	10436(pamela):1	
+0	
+14	3(clean):1	29(minute):1	30(beach):1	73(etc):1	95(airport):1	96(worth):1	170(else):1	316(dine):1	490(entrance):1	673(terrace):1	696(lay):1	812(tropical):1	830(common):1	1947(airy):1	
+12	1(location):1	6(breakfast):1	7(walk):1	30(beach):1	93(easy):1	96(worth):1	100(bloc):1	194(tip):1	195(local):1	860(wide):1	1071(sandwich):1	5794(uncrowded):1	
+6	3(clean):1	5(time):1	23(little):1	236(warm):1	758(sea):1	1047(rough):1	
+5	0(staff):1	12(friendly):1	202(welcome):1	4196(alex):1	10518(garcia):1	
+6	10(restaurant):1	16(food):1	86(fantastic):1	197(fresh):1	273(reasonable):1	485(delicious):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>We always go back       Front entrance.  
+<Date>Feb 26, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+2	31(front):1	490(entrance):1	
+0	
+0	
+
+<Author>lass=
+<Content>Best on the Beach We had a wonderful stay at this little beachfront hotel during the MLK holiday week in January. The room was big and made up promply every day. We had arrived early, no problem the room was ready, they cheerfully checked us in. Had no problem with water or any other issues. My only complaint was that we had drinks at the bar one afternoon and they were small  expensive (and it was cheap booze too!)  
+<Date>Feb 26, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	57(water):1	265(issue):1	
+7	27(bar):1	63(drink):1	124(expensive):1	143(cheap):1	190(complaint):1	364(afternoon):1	2577(booze):1	
+5	8(day):1	32(check):1	53(arrive):1	274(ready):1	5029(cheerfully):1	
+7	23(little):1	30(beach):1	48(wonderful):1	75(week):1	223(holiday):1	1018(january):1	2572(beachfront):1	
+0	
+0	
+0	
+0	
+
+<Author>Voudre
+<Content>Okay Place Stayed here for 3 nights during the New Year's Holiday. Friendly  accomodating staff. Interesting entrance  ambience in the waiting area  in its restaurant/patios, very Pacific Asian atmosphere. Their restaurant is tiny facing the beach w/huge open air windows. The food is really good, nouvelle cuisine. The free continental breakfast is OK. I found it pricey for the level of lodging as my room was pretty ordinary and only fairly clean. The bed was not very comfortable. The fixtures were a bit aged  rusty. What's good about this place was the staff  the quiet residential location. The beach in front is OK-what we Puerto Ricans like to refer to as a town beach-not the cleanest sand or water. Parking was terrible-on the street - I found that the staff's vehicles occupied most of the spots in front of the lodging. Management needs to address this.  
+<Date>Feb 5, 2005
+<Rating>3	3	3	-1	3	-1	4	-1	
+<Aspects>
+7	2(night):1	52(bit):1	223(holiday):1	453(okay):1	505(age):1	1541(fixture):1	3797(rusty):1	
+3	0(staff):1	12(friendly):1	549(accomodate):1	
+18	0(staff):1	1(location):1	3(clean):1	10(restaurant):1	11(bed):1	25(comfortable):1	30(beach):1	58(quiet):1	109(pretty):1	119(window):1	164(air):1	306(level):1	338(tiny):1	462(fairly):1	546(pricey):1	1537(residential):1	1878(lodge):1	2025(ordinary):1	
+16	0(staff):1	3(clean):1	30(beach):1	31(front):2	35(street):1	57(water):1	66(park):1	239(town):1	317(spot):1	522(sand):1	915(puerto):1	1678(occupy):1	1878(lodge):1	1951(vehicle):1	2297(refer):1	8787(ricans):1	
+0	
+9	10(restaurant):1	85(wait):1	414(atmosphere):1	490(entrance):1	525(management):1	957(ambience):1	1312(address):1	1328(asian):1	1575(pacific):1	
+6	6(breakfast):1	16(food):1	46(free):1	123(ok):1	372(continental):1	1717(cuisine):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>More of a hostel with charm, but a little pricey! Like many of you, I read the reviews before heading out on vacation. A few negative reviews do not discourage me from staying at a particular hotel, rather, the consistency of complaints. I stayed at this hotel this past week with 2 friends of mine and here is an account of our experience. Wednesday night stay was $145. Yes, the air conditioner was loud, but not intolerable. The place has charm, but reminded me of an upscale hostel (except for the $$$$).The rooms are clean and ocean view from the 2nd floor is nice. The people working there are courteous and accomodating, the food is good, but pricey. Cold beer is cheap. Saturday night cost $165 + a $7/person service charge (which started that week). Despite the price, the hotel was full. The proximity to the beach is nice and the tables in the sand are a great touch when enjoying your morning coffee and breakfast.Take it in stride folks. Puerto Rico is very congested and a popular tourist destination. That's why so many hotels are being built. Definitely visit Old San Juan and keep an open mind. You know...when in Rome...ENJOY!!  
+<Date>Nov 17, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+29	2(night):1	37(review):1	51(enjoy):1	59(definitely):1	65(visit):1	135(build):1	177(san):1	190(complaint):1	209(tourist):1	282(negative):1	294(mind):1	332(charm):1	337(except):1	617(juan):1	915(puerto):1	938(particular):1	1050(folk):1	1092(destination):1	1131(rico):1	1237(upscale):1	1277(popular):1	1285(remind):1	1560(hostel):1	2185(rome):1	2665(wednesday):1	3816(discourage):1	4703(congest):1	5590(consistency):1	7546(stride):1	
+29	2(night):1	9(service):1	16(food):1	19(price):1	23(little):1	26(people):1	37(review):1	44(experience):1	75(week):2	88(read):1	131(vacation):1	136(charge):1	143(cheap):1	146(friend):1	165(start):1	175(cost):1	222(cold):1	332(charm):1	419(past):1	443(beer):1	483(courteous):1	498(despite):1	546(pricey):2	549(accomodate):1	818(saturday):1	1269(mine):1	1437(heading):1	1560(hostel):1	1730(account):1	
+11	3(clean):1	4(nice):1	17(view):1	24(floor):1	164(air):1	205(ocean):1	250(yes):1	416(loud):1	1083(conditioner):1	1326(2nd):1	7805(intolerable):1	
+0	
+0	
+0	
+10	4(nice):1	6(breakfast):1	30(beach):1	51(enjoy):1	56(morning):1	90(coffee):1	229(table):1	279(touch):1	522(sand):1	1114(proximity):1	
+0	
+
+<Author>canthony
+<Content>Fantastic place for the right kind of traveler.. Do not stay at the Hosteria del Mar if you are a hotel snob (and you all know who you are). If your vacation is about having a bellhop take your bags to a plush room, complete with stationary, an ice bucket and room service, you should stay somewhere else.If, however, you're looking for a clean room (we had no problems with dirt or mold other people describe) in a hotel with tons of local character, smack dab on the beach for a very reasonable price, consider the Hosteria del Mar.My husband and I stayed for five nights in February of 2004. The hotel was difficult to find as we arrived after dark and driving in PR is an adventure, with lots of one-way streets and missing signage. When we did find the hotel, we were no longer speaking to each other, but the very, very friendly staff got us settled quickly, made a huge fuss over our dog (yes, you can bring them!) and had us seated at their fantastic beach-front restaurant, drinks in hand, within 15 minutes. The food is fantastic, but not cheap.Our room was on the bottom floor, off the courtyard. It was sparse, but clean. We had plenty of hot water and water pressure (and I am a total shower snob). The night we arrived there was a party in the nearby restaurant so it was quite loud until about 11. That was the only night that was an issue and it wasn't even a big issue - the music was pretty good. The hotel is right on the beach - literally. Not across the street or even set back on a berm. Step over the low wall of the restaurant's patio and into sand. And it's a nice beach - not overcrowded, even on weekends. Leashed dogs are allowed on all of the beaches of PR and lots of people bring them. If that skeeves you out, don't go to PR.We didn't find the neighborhood scary at all - we drove a lot that week (once we got our bearings) and never once felt like we were in a bad part of town. The neighborhood is gated, but we ventured beyond the gates several times on foot to go to a local cafeteria/bakery and never felt unsafe. None of the staff at the cafeteria spoke English, but each visit we found a local patron who did and asked what we should order. Each meal was different, mysterious and terrific. We were high-maintenence guests in that we needed the room cleaned when our dog was with us, but the staff cheerfully accomodated us. I was six months pregnant at the time as well, and everyone who worked there was constantly pulling out a beach chair for me or asking me if I needed a glass of water. I felt like we were taking a risk when booking the Hosteria del Mar, based on some of these reviews. But it turned out to be the perfect place for the type of travelers we are. We'd love to return to PR with the whole family soon and we'll be staying at the Hosteria del Mar when we do.  
+<Date>Sep 29, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+28	2(night):1	34(feel):1	38(lot):1	39(return):1	40(love):1	50(bad):1	74(perfect):1	75(week):1	86(fantastic):1	106(family):1	109(pretty):1	213(meal):1	239(town):1	265(issue):2	267(traveler):2	298(drive):1	389(type):1	398(music):1	418(soon):1	421(neighbourhood):1	699(terrific):1	1482(del):2	1566(scary):1	1647(mar):2	3730(snob):1	4344(bearing):1	6223(mysterious):1	11845(hosteria):2	
+39	0(staff):1	2(night):1	3(clean):2	9(service):1	16(food):1	19(price):1	20(look):1	26(people):1	30(beach):1	86(fantastic):1	91(guest):1	105(husband):1	131(vacation):1	143(cheap):1	170(else):1	195(local):1	248(consider):1	273(reasonable):1	290(bag):1	547(ice):1	549(accomodate):1	622(complete):1	955(describe):1	967(ton):1	1049(character):1	1126(dog):1	1138(mold):1	1230(february):1	1482(del):1	1647(mar):1	1847(plush):1	2004(dirt):1	2342(bucket):1	2909(bellhop):1	3069(smack):1	5029(cheerfully):1	6145(stationary):1	6867(dab):1	11845(hosteria):1	
+18	5(time):1	24(floor):1	30(beach):1	57(water):3	61(shower):1	114(hot):1	158(plenty):1	198(chair):1	327(glass):1	388(month):1	435(courtyard):1	686(pressure):1	786(total):1	850(bottom):1	858(pull):1	995(constantly):1	3730(snob):1	4337(pregnant):1	
+26	4(nice):1	10(restaurant):1	26(people):1	30(beach):3	35(street):2	38(lot):2	53(arrive):1	142(bring):1	172(weekend):1	183(wall):1	234(set):1	276(miss):1	298(drive):1	359(allow):1	366(step):1	459(dark):1	513(low):1	522(sand):1	572(difficult):1	665(literally):1	973(patio):1	1126(dog):1	1861(adventure):1	3058(overcrowd):1	4722(one-way):1	5295(signage):1	
+2	3(clean):1	3459(sparse):1	
+16	0(staff):2	12(friendly):1	65(visit):1	127(speak):2	133(huge):1	142(bring):1	152(english):1	195(local):1	250(yes):1	471(quickly):1	573(none):1	1126(dog):1	1414(settle):1	2205(fuss):1	2512(patron):1	3995(cafeteria):1	
+28	2(night):1	5(time):1	10(restaurant):2	18(book):1	29(minute):1	34(feel):2	37(review):1	53(arrive):1	63(drink):1	86(fantastic):1	195(local):1	232(nearby):1	284(base):1	363(party):1	377(hand):1	402(foot):1	416(loud):1	421(neighbourhood):1	504(seat):1	738(beyond):1	992(gate):2	1440(venture):1	1482(del):1	1647(mar):1	1890(unsafe):1	2168(risk):1	3995(cafeteria):1	11845(hosteria):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Wouldn't Stay Anywhere Else After reading all the reviews on this lovely BB, I was a little apprehensive about staying here, but it was just right for my budget. It was off-season and I was staying in a fairly small room, but it was only $55 a night. At first the phone charges seemed a bit excessive, though. It took me awhile to figure out my bill as only the first seven digits of the phone number are printed out, and since you have to dial all ten, all numbers appear to have a 787 prefix. Once I figured that out, I didn't have a dispute with any of the charges, and I DID make a lot of phone calls.Contrary to other reviews, I found it to be exceptionally clean, with daily maid service. There was a bit of mildew on the shower curtain, but nothing like the doctor from Johannesberg described. I did notice a couple of times that the clean washclothes had hair in them, so I merely didn't use them. I never saw any of the barbed wire that was supposedly around this gated community, and I went through two or three different gates while there. I liked the idea that there was a guard at night.I found the staff to be exceptionally friendly and happy to accommodate me. Of course, it helps if you are also friendly and realize that it is now time to relax. Island time is in effect. You're not in New York anymore. The food at their restaurant, Uvva, is absolutely incredible and the prices are about average for San Juan, ranging from either 12 or 16 dollars for most items up to 32 for a couple of the fancier dishes. The drinks are what I found exorbiant, but since I don't drink that much I didn't really worry about it. Besides, they put a LOT more alcohol in them than one is used to getting on the mainland.The only real problem I encountered was noise. Since my room was on the corner, I got to hear both terraces. There was one of their rare, private parties on the back terrace the first Friday I was there. The music was turned off by midnight, though, due to local noise ordinances. However, chatter kept me awake for another hour-and-a-half. A couple days later there was chatter from other guests on the beachside terrace and this time I actually called the front desk (again about 1:30 am) and they immediately took care of the situation. When I go back next year I plan on spending a bit more money to see if I can get a second floor room away from the terraces. The other reason for this is that the blinds on the beachside terrace window didn't really give me enough privacy to feel comfortable changing clothes anywhere but in the bathroom with the door closed. The other, larger rooms on that terrace have solid curtains across the French doors.In conclusion, I can only say that you will get out of an experience what you put into it. A couple of days before I left I encountered a lawyer from NY who was paying 3.5 times as much for his room as I was for mine, and he wasn't happy with his suite because there wasn't a bottle opener in it, even though there were two bars in the restaurant right downstairs. I watched him be what I considered a little abrupt, almost bordering on rude, to the extremely busy staff, and STILL one of the bartenders ran home and got a small boombox for him to borrow during his stay. I hope he learned to relax and enjoy the hospitality that in my mind, far exceeds what The South is so famous for.  
+<Date>Aug 24, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+56	2(night):1	5(time):2	12(friendly):1	23(little):1	37(review):1	38(lot):1	51(enjoy):1	87(lovely):1	88(read):1	92(help):1	94(noise):2	160(relax):2	170(else):1	195(local):1	240(real):1	259(due):1	293(course):1	294(mind):1	296(phone):1	328(hope):1	335(numb):1	342(island):1	363(party):1	398(music):1	424(york):1	429(budget):1	492(private):1	495(bill):1	541(appear):1	607(realize):1	639(idea):1	673(terrace):1	693(encounter):1	703(learn):1	769(south):1	779(figure):1	923(friday):1	1044(midnight):1	1101(print):1	1115(hospitality):1	1153(exceed):1	1267(alcohol):1	1296(famous):1	1332(besides):1	1494(awake):1	1762(guard):1	1853(anymore):1	1924(rare):1	2129(apprehensive):1	2191(effect):1	2380(bb):1	2755(awhile):1	3250(dial):1	3552(mainland):1	8507(chatter):1	10614(digit):1	
+21	0(staff):1	10(restaurant):1	12(friendly):1	16(food):1	19(price):1	44(experience):1	99(couple):1	155(happy):1	177(san):1	189(absolutely):1	227(average):1	430(dollar):1	519(item):1	617(juan):1	624(accommodate):1	714(range):1	718(incredible):1	796(fancy):1	816(dish):1	1242(exceptionally):1	2089(conclusion):1	
+55	2(night):1	3(clean):1	5(time):2	8(day):1	10(restaurant):1	13(bathroom):1	24(floor):1	25(comfortable):1	27(bar):1	28(close):1	34(feel):1	42(pay):1	43(leave):1	52(bit):2	54(door):2	61(shower):1	64(spend):1	80(money):1	99(couple):2	108(suite):1	119(window):1	132(hear):1	155(happy):1	161(change):1	200(corner):1	221(plan):1	238(bottle):1	254(french):1	354(notice):1	374(reason):1	462(fairly):1	673(terrace):4	691(downstairs):1	693(encounter):1	709(clothe):1	729(hair):1	743(curtain):2	933(ny):1	955(describe):1	992(gate):2	1183(privacy):1	1269(mine):1	1617(solid):1	1839(blind):1	1875(doctor):1	1876(mildew):1	1904(wire):1	2062(supposedly):1	2466(washcloth):1	3209(beachside):1	3378(merely):1	3502(community):1	4241(opener):1	5716(off-season):1	10916(lawyer):1	
+13	0(staff):1	23(little):1	110(extremely):1	141(home):1	149(run):1	220(busy):1	245(watch):1	248(consider):1	392(rude):1	676(bartender):1	2666(borrow):1	2701(border):1	4726(abrupt):1	
+7	3(clean):1	9(service):1	37(review):1	300(maid):1	360(daily):1	1242(exceptionally):1	2419(contrary):1	
+22	5(time):1	8(day):1	31(front):1	36(desk):1	38(lot):1	52(bit):1	67(call):2	79(late):1	91(guest):1	99(couple):1	136(charge):2	180(actually):1	242(care):1	296(phone):2	489(immediately):1	673(terrace):1	779(figure):1	890(situation):1	3088(excessive):1	3209(beachside):1	4041(dispute):1	8507(chatter):1	
+2	63(drink):2	831(worry):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A great bargain, We'll definitely be back I'll get the not-so-great out of the way first: Yes, the rooms are no frills. And if you're in one of the two rooms by the outdoor bar, it can be a bit loud between 9 and midnight.Now the great: the location is fantastic, about a $13 cab to Old San Juan, and not far from the airport either. You're right on the beach, and it's a really nice spot. The staff is super-friendly and helpful, from the front desk, to the bartenders and waiters, and the other people working there. The food was great at the restaurant, and they'll bring drinks to you right on the beach. And I can't believe how good the price was.I've recommended this place to a number of my friends already, and would go back in a heartbeat. If you want to be pampered or sit around your room, then you should go to a more expensive hotel. If you're going to San Juan just to relax on the beach all day, eat well, and just head into the city at night, then this is a great place to stay.  
+<Date>Apr 28, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	15(recommend):1	146(friend):1	335(numb):1	1683(heartbeat):1	
+10	19(price):1	59(definitely):1	124(expensive):1	169(sit):1	250(yes):1	312(believe):1	759(bargain):1	1815(pamper):1	2210(frill):1	11217(not-so-great):1	
+5	27(bar):1	52(bit):1	416(loud):1	901(outdoor):1	1044(midnight):1	
+15	1(location):1	2(night):1	4(nice):1	8(day):1	30(beach):2	41(city):1	47(eat):1	86(fantastic):1	95(airport):1	160(relax):1	177(san):2	317(spot):1	319(head):1	380(cab):1	617(juan):2	
+0	
+8	0(staff):1	14(helpful):1	26(people):1	31(front):1	36(desk):1	676(bartender):1	735(waiter):1	9505(super-friendly):1	
+5	10(restaurant):1	16(food):1	30(beach):1	63(drink):1	142(bring):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A wonderful stop We stopped at the Hosteria for a day and a night at the end of a cruise. The location, right on the beach, is unbeatable. The Hosteria is in a nice residential neighborhood, though usual caution would seem in order after dark. Check-in time of 4 p.m. was a bit inconvenient, but we had no trouble soaking up a few hours lounging on the sand. The room itself was a bit worn but nonetheless a picture, on the second floor overlooking the ocean, through palm fronds. The restaurant, opening onto the beach, serves excellent Caribbean dishes. At the bar, a wonderful concoction called an Uvatini is served. The staff was all very friendly. We see that others experienced some room problems. We didn't, although the room at $185 we considered high, especially in view of the late check-in time. For our brief stay, we will remember our experience fondly. We hope to return.  
+<Date>Mar 30, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+14	2(night):1	4(nice):1	8(day):1	39(return):1	48(wonderful):1	122(stop):2	328(hope):1	421(neighbourhood):1	459(dark):1	603(cruise):1	682(usual):1	1537(residential):1	2102(caution):1	11845(hosteria):2	
+4	44(experience):2	375(remember):1	2036(brief):1	11898(fondly):1	
+8	24(floor):1	52(bit):1	205(ocean):1	260(overlook):1	434(wear):1	456(picture):1	987(palm):1	2652(nonetheless):1	
+3	1(location):1	30(beach):1	2303(unbeatable):1	
+0	
+16	0(staff):1	5(time):2	12(friendly):1	17(view):1	52(bit):1	60(hour):1	79(late):1	126(especially):1	237(lounge):1	248(consider):1	286(check-in):2	522(sand):1	569(trouble):1	1466(p.m):1	1468(soak):1	2301(inconvenient):1	
+10	10(restaurant):1	21(excellent):1	27(bar):1	30(beach):1	48(wonderful):1	67(call):1	174(serve):2	816(dish):1	931(caribbean):1	7946(concoction):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>On the beach ...sort of The hotel is a small place in the Ocean Park section of San Juan, which is a gated community with a maze of one-way streets. The hotel sits on the beach in a residential area. There is only on street parking that can make it a little tough to get a spot nearby on a weekend with the locals hitting the beach or evening when the restaurant gets filled. I've read other posts about the safety and security of the area. We felt pretty safe, as there is a constant police presence in the area. However, the hotel is only blocks away from Santurce, which is not a place you want to be caught in at night.Our room was equipped with a kitchenette on the first floor facing the ocean, nice view and beach access鈥? when the restaurant was not open. However, the door opens right into the restaurant's dining area. We happened to be there one night while restaurant patrons were celebrating someone's birthday and were really having a great time, unfortunately we were tired from a day of traveling and could not sleep through the revelry on the deck just inches from our beds. Even though we had an ocean view, we never really got to see it much since we kept the curtains drawn so as not be on display to those eating out on the deck. The good news is they close the kitchen @ 11pm so it doesn't go on all night.As others have stated the water in the shower was luke warm at best with no water pressure. The kitchenette came in handy, as the breakfast is truly continental with only bread and coffee. We never ate at the restaurant, as the prices were pretty steep and not much that our 9 year old would eat.All in all it was Ok, but not sure I would go out of my way to stay there again. On this trip we had the opportunity to stay at many hotels on the island and this was one of the most expensive and least favorite.If you go, get a room on the second floor and be prepared to drop $$$ if you choose to eat there.  
+<Date>Mar 30, 2004
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+17	2(night):1	17(view):1	34(feel):1	47(eat):1	100(bloc):1	109(pretty):1	123(ok):1	137(safe):1	205(ocean):1	540(catch):1	743(curtain):1	1406(deck):1	1409(police):1	1432(constant):1	1620(draw):1	1917(display):1	3096(presence):1	
+10	10(restaurant):1	19(price):1	33(trip):1	47(eat):2	109(pretty):1	124(expensive):1	342(island):1	376(favourite):1	1060(steep):1	1235(opportunity):1	
+41	2(night):2	4(nice):1	5(time):1	8(day):1	10(restaurant):2	11(bed):1	17(view):1	24(floor):2	28(close):1	30(beach):1	47(eat):1	57(water):2	61(shower):1	68(travel):1	88(read):1	104(sleep):1	159(access):1	167(choose):1	205(ocean):1	236(warm):1	382(happen):1	454(tire):1	460(prepare):1	461(kitchen):1	524(unfortunately):1	641(security):1	644(post):1	662(drop):1	686(pressure):1	765(birthday):1	884(equip):1	1014(celebrate):1	1165(kitchenette):1	1406(deck):1	1448(safety):1	1688(inch):1	1725(news):1	2512(patron):1	4155(luke):1	6840(11pm):1	12322(revelry):1	
+23	10(restaurant):1	23(little):1	30(beach):3	35(street):2	66(park):2	169(sit):1	172(weekend):1	177(san):1	195(local):1	205(ocean):1	232(nearby):1	317(spot):1	491(fill):1	557(sort):1	617(juan):1	775(hit):1	947(section):1	992(gate):1	1537(residential):1	1665(tough):1	3502(community):1	4046(maze):1	4722(one-way):1	
+0	
+0	
+10	6(breakfast):1	10(restaurant):1	54(door):1	90(coffee):1	316(dine):1	372(continental):1	476(truly):1	497(bread):1	755(handy):1	1165(kitchenette):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>poor quality, great location Fabulous location right on the beach but the rooms need some work. Sheets were threadbare, no hot water or water pressure, noisy. Room seemed clean enough but I wouldn't sit on the bedspread.  
+<Date>Mar 23, 2004
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+3	3(clean):1	169(sit):1	2278(bedspread):1	
+5	1(location):2	30(beach):1	187(quality):1	270(fabulous):1	331(poor):1	
+0	
+0	
+6	57(water):2	114(hot):1	217(noisy):1	479(sheet):1	686(pressure):1	3977(threadbare):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A Good Bargain If you 'must' be on the beach, this is the place to be for the price you pay. Almost all hotels on the beach near San Juan go for almost $200. I paid $125 a night. It may not have a 4 or 5 star atmosphere, but you can relax at this quite hotel with a stretch of beach that seems almost deserted (except weekends). The sea is safe for kids to swim as well. You can't beat having breakfast lunch or diner (very very good food) while watching the ocean almost 50 yards from you. It takes 10 mintues to catch the A-5 bus (.25 cents) for a short ride to Old San Juan. You are located in walking distance to other major hotels for their casinos and find restaurants nearby. As long as you don't plan to spend your entire time in your room stay here for a few days. They forgot to make our room one day and housekeeping is almost nonexistent. Remember you are in the Carribean, people have a different pace........relax.  
+<Date>Mar 15, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	26(people):1	160(relax):1	375(remember):1	1548(carribean):1	2291(pace):1	
+12	2(night):1	19(price):1	30(beach):2	42(pay):2	103(star):1	160(relax):1	172(weekend):1	337(except):1	414(atmosphere):1	759(bargain):1	1586(stretch):1	1706(desert):1	
+8	5(time):1	8(day):2	64(spend):1	221(plan):1	329(entire):1	367(housekeeping):1	397(forget):1	2580(nonexistent):1	
+17	7(walk):1	10(restaurant):1	30(beach):1	84(locate):1	102(near):1	115(distance):1	120(bus):1	144(short):1	177(san):2	218(ride):1	232(nearby):1	315(major):1	538(casino):1	540(catch):1	617(juan):2	1888(cent):1	6455(mintues):1	
+0	
+0	
+12	6(breakfast):1	16(food):1	137(safe):1	201(kid):1	205(ocean):1	245(watch):1	252(lunch):1	261(swim):1	442(beat):1	758(sea):1	1307(yard):1	1324(diner):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>NOT A PLACE TO STAY IN SAN JUAN As a USA registered Family Physician, my thoughts on the accommodation are as follows:-The grey duvet on the bed was stained and unwashed. The bed linen had been used and I requested it to be changed. The room (209) had an awful smell of musty mould, despite the aircon being switched on full and the airslats being opened full as well. As a matter of fact there was direct evidence of rising damp in the following areas:- the corners of the bathroom; the closet and the corner of the bathroom underneath the basin on the left side. I think that the room should be declared unfit and condemned for human habitation and I intend writing to the Puerto Rico Health Authorities, who I would request to visit this room and take swabs/specimens for culture in the areas specified. I am positive they would culture and identify a toxic mould present in that room, which is allergenic and disadvantageous to the respiratory system of any human.I think that it is an insult to ask even for $165 to sleep in a room of this poor quality.  
+<Date>Mar 3, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+13	11(bed):1	106(family):1	177(san):1	482(follow):1	617(juan):1	721(accommodation):1	723(stain):1	1474(usa):1	2335(grey):1	2439(duvet):1	2833(register):1	9424(physician):1	12098(unwashed):1	
+44	11(bed):1	13(bathroom):2	43(leave):1	65(visit):1	104(sleep):1	148(request):2	161(change):1	187(quality):1	200(corner):2	231(smell):1	331(poor):1	344(write):1	458(positive):1	482(follow):1	498(despite):1	518(system):1	531(matter):1	565(closet):1	630(linen):1	736(awful):1	803(direct):1	888(switch):1	915(puerto):1	1016(musty):1	1131(rico):1	1138(mold):2	1436(rise):1	1497(culture):2	1640(damp):1	1736(health):1	1862(intend):1	2257(aircon):1	2459(underneath):1	2809(insult):1	2813(basin):1	3261(evidence):1	3449(specify):1	3533(human):2	4126(authority):1	4145(identify):1	10017(unfit):1	10115(declare):1	10627(toxic):1	10811(condemn):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>very overpriced and poor quality The hotel room on the second floor with balcony had a lovely view--BUT the hot water did not work, the room was very small and not very clean, and the sheets were stained and I had to request new bedding. The shower was badly designed as all the water flowed from the bathroom into the bedroom and out the door!! The slatted windows were very difficult to open and generally the room quality was poor for the overpriced rate of $185. However, the food in the restaurant was very good--it's a pity the hotel accommodation didn't match that standard. I would not stay there again.  
+<Date>Feb 21, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+6	78(rate):1	119(window):1	187(quality):1	331(poor):1	572(difficult):1	727(overprice):1	
+21	3(clean):1	11(bed):1	13(bathroom):1	17(view):1	24(floor):1	54(door):1	57(water):2	61(shower):1	87(lovely):1	114(hot):1	148(request):1	187(quality):1	191(balcony):1	268(bedroom):1	331(poor):1	479(sheet):1	516(design):1	723(stain):1	727(overprice):1	1663(badly):1	1942(flow):1	
+0	
+0	
+0	
+6	10(restaurant):1	16(food):1	130(standard):1	721(accommodation):1	1476(match):1	3150(pity):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Hosteria Del Mar: You will love this hotel I had looked at many hotels prior to going to San Juan and decided on this one. We had a great time. The hotel is small and quaint, but very well maintained and the location is spectacular. You are right on the beach and the view is wonderful. The staff was very helpful and friendly. We did not eat in the restaurant, but you are right in the middle of Condado and Isle Verde so you are a quick drive to many bars and restaurants in the area. If you are looking for a great hotel at a reasonable price, you should definitely stay here. Ask for room 208 as we had read about this in another review. I think that it has the best view of all and you are on the corner of the building.  
+<Date>Feb 2, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	5(time):1	17(view):1	20(look):1	40(love):1	135(build):1	177(san):1	200(corner):1	219(decide):1	617(juan):1	637(prior):1	1482(del):1	1647(mar):1	11845(hosteria):1	
+4	19(price):1	20(look):1	59(definitely):1	273(reasonable):1	
+2	37(review):1	88(read):1	
+7	1(location):1	17(view):1	30(beach):1	48(wonderful):1	562(maintain):1	656(spectacular):1	1295(quaint):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+9	10(restaurant):2	27(bar):1	47(eat):1	298(drive):1	299(quick):1	325(middle):1	1934(condado):1	2595(verde):1	4692(isle):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Clean Room, Excellent Value, Gay Friendly! My partner and I stayed at this hotel for two nights in mid-January 2004. Although they are not listed in any publication as gay friendly, we had no problem checking in or during our stay. The staff was extremely friendly and always seemed happy to help whether it was recommending a restaurant for dinner or calling a taxi to take us to the Condado area or Old San Juan. They even directed us to a huge festival we didn't even know was happening... San Sebastian. If you are vegetarian or just interested in what Latin-Asian fusion cuisine is like, be sure to check out their restaurant! The food was the best we had during our two week trip and the most reasonably priced. It was innovative, creative and had an amazing combination of spices, seasonings and tastes that even inspired my partner, who is a chef. The restaurant even serves you on the beach while you sunbath in one of the beach chairs the hotel provides at no cost. They do charge $2 for a beach towel though and you can keep getting new ones at no extra cost throughout your stay. As for the rooms, they are quite simple and ordinary but amazingly clean. The housekeepers seemed to be honest too as we left our digital camera in the room after we checked out and it was still returned to us. If you are looking for a quiet beachside retreat in San Juan that doesn't break the bank, give this hotel a try. PS: For gay travelers, this hotel is just down the street (about a five minute walk on the beach) from La Habitacion Guest House where the new gay beach is. You can rent a beach chair there for $4USD. While we also stayed at La Habitacion for five nights, I think Hosteria del Mar is much nicer as the staff is always available, more attentive and the rooms are cleaner and nicer.  
+<Date>Jan 30, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+16	2(night):1	133(huge):1	145(amaze):1	177(san):1	382(happen):1	439(taste):1	803(direct):1	1006(partner):2	1361(chef):1	1929(combination):1	2399(festival):1	3089(spice):1	3625(inspire):1	4003(creative):1	7432(innovative):1	11497(sebastian):1	
+16	3(clean):1	12(friendly):1	16(food):1	19(price):1	21(excellent):1	30(beach):1	33(trip):1	75(week):1	81(value):1	125(towel):1	128(extra):1	136(charge):1	175(cost):1	445(throughout):1	578(reasonably):1	2552(gay):1	
+24	0(staff):1	2(night):1	3(clean):2	4(nice):2	30(beach):1	32(check):1	39(return):1	43(leave):1	134(available):1	198(chair):1	225(la):1	537(attentive):1	613(simple):1	1030(rend):1	1108(honest):1	1482(del):1	1591(housekeeper):1	1646(camera):1	1647(mar):1	1846(amazingly):1	2025(ordinary):1	3416(digital):1	7590(habitacion):1	11845(hosteria):1	
+30	0(staff):1	7(walk):1	10(restaurant):1	12(friendly):1	15(recommend):1	20(look):1	29(minute):1	30(beach):2	35(street):1	58(quiet):1	67(call):1	76(try):1	91(guest):1	92(help):1	110(extremely):1	117(dinner):1	155(happy):1	177(san):2	185(taxi):1	225(la):1	228(break):1	267(traveler):1	281(house):1	617(juan):2	1225(bank):1	1934(condado):1	2244(re-treat):1	2552(gay):2	3209(beachside):1	7590(habitacion):1	
+0	
+9	10(restaurant):1	12(friendly):1	32(check):2	650(list):1	1717(cuisine):1	2392(vegetarian):1	2552(gay):1	3894(fusion):1	11629(publication):1	
+6	10(restaurant):1	30(beach):2	153(provide):1	174(serve):1	175(cost):1	198(chair):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Wonderful stay, perfect for relaxing We chose this guest house based on reviews from this website and we were not disappointed in the least. It was right on a beautiful private beach. Our room had a balcony that overlooked the water and we were able to listen to the waves all night long.The resturants were just shy of amazing. We didn't have a bad thing to eat the entire time. And the staff was very friendly.If you are looking for a fun adventurous vacation this place is not for you. But if you want to relax on the beach and just enjoy and unwind I couldn't give it a better review. In the three days we were there we only left the hotel once to walk to walgreens for sunglasses.  
+<Date>Jan 29, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	5(time):1	47(eat):1	50(bad):1	145(amaze):1	329(entire):1	1565(resturants):1	4021(shy):1	
+4	20(look):1	131(vacation):1	176(fun):1	3392(adventurous):1	
+17	2(night):1	37(review):1	48(wonderful):1	57(water):1	74(perfect):1	91(guest):1	154(disappoint):1	160(relax):1	167(choose):1	171(able):1	191(balcony):1	260(overlook):1	262(website):1	281(house):1	284(base):1	836(wave):1	997(listen):1	
+12	7(walk):1	8(day):1	30(beach):2	37(review):1	43(leave):1	45(beautiful):1	51(enjoy):1	160(relax):1	492(private):1	2549(walgreens):1	2807(unwind):1	5270(sunglasses):1	
+0	
+2	0(staff):1	12(friendly):1	
+0	
+0	
+
+<Author>ansjesu
+<Content>Hosteria del Mar, un refugio para los que buscamos tranquilidad       Momentos de tranquilidad y sosiego.  
+<Date>Jul 11, 2008
+<Rating>3	3	3	4	3	4	4	2	
+<Aspects>
+0	
+0	
+0	
+7	1482(del):1	1647(mar):1	1969(lo):1	2292(un):1	4791(que):1	6139(para):1	11845(hosteria):1	
+0	
+0	
+0	
+0	
+

@@ -1,0 +1,210 @@
+<Author>PHV009
+<Content>Great Hotel! Excellent location (close to Forbidden City  Tien'anmen Square plus a Subway station at 100 meters), great breakfast with Continental and Chinese Food, good and smiling service. I would absolutly recommend this hotel.  
+<Date>Sep 4, 2008
+<Rating>5	5	4	4	4	4	4	4	
+<Aspects>
+2	15(recommend):1	3448(absolutly):1	
+0	
+0	
+16	1(location):1	6(breakfast):1	9(service):1	16(food):1	21(excellent):1	28(close):1	41(city):1	82(station):1	139(square):1	203(plus):1	370(subway):1	372(continental):1	387(smile):1	764(chinese):1	1194(metre):1	2271(forbid):1	
+0	
+0	
+0	
+0	
+
+<Author>matt_1845
+<Content>Our stay at Jianguo Garden Hotel (Beijing) Clean and comfortable room. Great breakfast (including both Western and Chinese food). Good location (walking distance to golden street and Tiannamen. We had a nice stay here.  
+<Date>Aug 5, 2008
+<Rating>4	3	4	4	4	4	4	3	
+<Aspects>
+1	4(nice):1	
+0	
+4	3(clean):1	25(comfortable):1	310(garden):1	1240(beije):1	
+5	1(location):1	7(walk):1	35(street):1	115(distance):1	1317(golden):1	
+0	
+0	
+5	6(breakfast):1	16(food):1	71(include):1	764(chinese):1	1015(western):1	
+0	
+
+<Author>CathRun
+<Content>Helpful staff We had to stay in Beijing for nearly 3 weeks while completing the adoption of my 5 year old daughter. I went with my 11 year old and my mother and picked up my other daughter after two nights. The staff, and Alan, one of the concierges, in particular, were very helpful. My new daughter spoke no English and Alan was always on hand for all of our and her needs. He even gave her a wonderful name stamp as a departure gift that I know she will always cherish! He is a class act and very sweet guy. Ask for him if you have any issues.Otherwise I can only say that the hotel was clean, if a bit frayed around the edges. You can tell they are really trying to step up to the plate and become a contender in today's market but the whole place needs an overhaul. They seem to have a few issues with things like leaky shower doors and windows. I blame the building manager as these were almost all maintenance issues. Downstairs is a bowling alley (never worked), shuttleboard table, ping pong, pool tables, spa, etc. But be forewarned: none of these are free to guests at the hotel. And the spa staff can be kind of aggressive about getting your business.Also, the pools in China for the most part don't use chlorine or filters. My kids didn't go in them, I didn't feel comfortable with it.The restaurants were okay, but except for breakfast served no western dishes except for hamburgers and some very greasy spaghetti which made a 3 week stay with an 11 year old American kid into a very LONG stay...The breakfast buffet was wonderful and we easily filled up enough to keep us going until dinnertime, but we are kind of light eaters. There's not much to walk to from this hotel except for Wangfujiang Street, but there are tons of shops on that street and the ever present McDonald's (always packed). If you are feeling adventurous, right around the corner from the hotel is a Mongolian restaurant, with a very sweet staff, 75% of the menu is mutton, 24% is camel. Made for an interesting evening with two little kids.The wine bar is quite nice. The little cafe/cocktail lounge in the front of the hotel a very cute place to people watch and unwind. I would stay here for a short trip, but beware of those nagging little technical problems that they have. Personally I probably wouldn't go back to this particular hotel, but I can't say that it was a bad experience. Just not one I would repeat. And if you are going there to adopt just know that there is very little for young kids to do there or in that area. Next time I'll pick a western brand chain.  
+<Date>Jul 31, 2008
+<Rating>3	3	3	3	3	4	4	4	
+<Aspects>
+42	2(night):1	5(time):1	22(pool):1	23(little):3	25(comfortable):1	33(trip):1	34(feel):1	46(free):1	48(wonderful):1	91(guest):1	127(speak):1	144(short):1	152(english):1	201(kid):3	265(issue):1	266(pick):2	295(name):1	368(guy):1	377(hand):1	467(daughter):2	470(class):1	573(none):1	627(chain):1	737(beware):1	852(gift):1	883(brand):1	950(sweet):1	1015(western):1	1031(departure):1	1159(china):1	1359(mother):1	1467(repeat):1	1920(Act):1	2975(filter):1	3605(stamp):1	4083(forewarn):1	5480(chlorine):1	6108(technical):1	6549(alan):1	7131(adopt):1	8438(cherish):1	10861(nag):1	
+5	44(experience):1	50(bad):1	178(probably):1	938(particular):1	1052(personally):1	
+14	22(pool):1	54(door):1	61(shower):1	73(etc):1	119(window):1	229(table):2	265(issue):1	314(spa):1	691(downstairs):1	1366(bowl):1	1671(alley):1	3745(ping):1	3861(pong):1	5427(leaky):1	
+17	0(staff):1	7(walk):1	35(street):2	49(shop):1	69(tell):1	76(try):1	147(business):1	264(market):1	314(spa):1	337(except):1	366(step):1	715(pack):1	967(ton):1	1002(plate):1	2772(aggressive):1	3964(mcdonald):1	4053(overhaul):1	
+5	3(clean):1	52(bit):1	508(otherwise):1	1190(edge):1	4894(fray):1	
+21	0(staff):3	10(restaurant):1	14(helpful):2	34(feel):1	75(week):1	135(build):1	200(corner):1	204(concierge):1	258(manager):1	265(issue):1	423(menu):1	467(daughter):1	622(complete):1	896(nearly):1	938(particular):1	950(sweet):1	1149(maintenance):1	1240(beije):1	2219(blame):1	3392(adventurous):1	6549(alan):1	
+30	4(nice):1	6(breakfast):2	10(restaurant):1	23(little):1	26(people):1	27(bar):1	31(front):1	48(wonderful):1	75(week):1	77(buffet):1	157(light):1	174(serve):1	201(kid):1	237(lounge):1	245(watch):1	251(wine):1	275(cafe):1	337(except):2	438(easily):1	453(okay):1	491(fill):1	816(dish):1	1015(western):1	1202(cute):1	1658(eater):1	1739(hamburger):1	2807(unwind):1	3665(greasy):1	4921(spaghetti):1	12019(dinnertime):1	
+0	
+
+<Author>whereswaugh
+<Content>Great....if air conditioning isn't high on your priority list We stayed in the Jianguo Garden Hotel in Beijing for 3 nights in mid April 2008 and found the hotel to be centrally located and ideal for our needs with the exception of the lack of air conditioning in the rooms. Upon arrival the temperature in our room was approx. 84 degrees (27 Celsius), but upon adjusting the thermostat to cool the room we discovered it wasn't putting out any cool air. We called the front desk and they promptly sent someone up to investigate. When the hotel employee could not get the a/c to work we were moved to another room. This room was older and not quite as nice, but hey鈥?if we were cool we really didn't care that much. Once again we tried to bring down the temperature in the room, but since the thermostat controls in this older room were all in Chinese we had to call for help again. Again, the employee could not get cool air to start generating. Long story short, we finally were told that there was a city ordinance stating that the temperature was not hot enough outside to turn on the a/c to the rooms! Since we found this to be the case in almost every hotel we stayed in during our visit to China I'm not sure if the Jianguo Garden Hotel is 100% fully to blame. With that said, we do find fault in that the hotel advertises that the rooms are air conditioned without any disclaimer that this only applies to certain months of the year. In addition, no other hotel claimed it was a city ordinance (one claimed it was to conserve energy) and our English speaking guide had never heard of such and ordinance. We were disappointed that they could not tell us up front the reason the A/C was not on rather than go through the trouble of moving us to another room. We think the reason we were moved to a different room was to give us a room where the window opened 鈥?the fact that it only opened a few inches and let in the Beijing pollution and the sounds of construction next door that went on all night long really outweighed any cooling benefits. Didn't think to ask for an electric fan, but it would have helped tremendously as we discovered in the other hotels we stayed in.One last thing to note - The breakfast buffet was quite good, however we thought it to be a little pricey since it was not included in the cost of our room.  
+<Date>May 7, 2008
+<Rating>2	2	2	3	4	3	3	-1	
+<Aspects>
+9	65(visit):1	92(help):1	310(garden):1	661(fan):1	869(discover):1	1159(china):1	2219(blame):1	2246(electric):1	4540(tremendously):1	
+5	164(air):1	165(start):1	278(cool):1	608(employee):1	6486(generate):1	
+57	2(night):2	4(nice):1	31(front):1	41(city):1	54(door):1	67(call):1	69(tell):2	84(locate):1	92(help):1	98(outside):1	114(hot):1	119(window):1	142(bring):1	144(short):1	154(disappoint):1	164(air):4	207(move):3	224(arrival):1	242(care):1	253(tried):1	263(condition):3	278(cool):4	310(garden):1	341(finally):1	349(lack):1	374(reason):2	388(month):1	409(sound):1	517(fault):1	545(ideal):1	569(trouble):1	583(construction):1	608(employee):1	650(list):1	764(chinese):1	865(control):1	869(discover):1	879(centrally):1	906(story):1	910(advertise):1	944(temperature):3	1128(exception):1	1240(beije):2	1252(degree):1	1313(mid):1	1367(hey):1	1423(approx):1	1524(benefit):1	1688(inch):1	1985(priority):1	2040(adjust):1	2547(thermostat):2	2954(apply):1	3187(outweigh):1	6191(pollution):1	8936(celsius):1	9452(disclaimer):1	
+0	
+0	
+15	31(front):1	36(desk):1	41(city):1	67(call):1	127(speak):1	132(hear):1	152(english):1	447(send):1	829(guide):1	918(addition):1	1077(claim):2	1212(promptly):1	2139(energy):1	3885(investigate):1	7099(conserve):1	
+7	6(breakfast):1	23(little):1	71(include):1	77(buffet):1	175(cost):1	297(note):1	546(pricey):1	
+0	
+
+<Author>Coltbridge
+<Content>My bed had fleas My bed had fleas. What more can one say? Try the Regis.  
+<Date>Mar 24, 2008
+<Rating>2	2	1	2	1	1	2	-1	
+<Aspects>
+2	76(try):1	3618(regis):1	
+0	
+2	11(bed):2	2289(flea):2	
+0	
+0	
+0	
+0	
+0	
+
+<Author>DarthAnonymous
+<Content>Room works okay for three adults.       Standard Room bathroom view  
+<Date>Feb 3, 2008
+<Rating>4	4	2	5	5	4	5	3	
+<Aspects>
+0	
+0	
+5	13(bathroom):1	17(view):1	130(standard):1	453(okay):1	556(adult):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Landfall38
+<Content>Very good hotel --Recommended ( too bad "incidentals" cost so much...) Stayed here for 8 nights in Dec 2007 -- combination of work and leisure.We were VERY pleased with the hotel (but do have some suggestions).Hotel spotless; rooms very clean and in excellent condition; staff very nice and helpful; breakfast excellent. Good location in Beijing.Complaints?1) The room only had heating or no air. That is, one couldn't control the temperature (even with the thermostat turned to lowest temp) so ssystem had to be turned off -- otherwise it was way too hot. Asked staff for help and they said there is no cooling, only heat in December. So we had to turn off all air. (Opening the window was possible BUT the Beijing smog (!!) ends that idea.2) Use of fitness centre costs 100 RMB (~$14) per day per person -- should be included (only the executive floors get it included).3) Internet is 20 RMB/hr -- it should be included for a hotel of this quality/level4) Pool is free but is only about 1 metre deep everywhere. And you must wear a cap (50 RMB at desk). We used it only once as we did not find it so enjoyable. But it is not so bad.All-in-all, a good experience. The restaurants are good but pricy -- get out and explore. (Try the Mongolian restaurant 1 block away at the back of the hotel!)  
+<Date>Dec 11, 2007
+<Rating>4	4	4	4	4	5	4	3	
+<Aspects>
+3	173(please):1	567(enjoyable):1	921(suggestion):1	
+27	2(night):1	8(day):1	10(restaurant):1	15(recommend):1	22(pool):1	24(floor):1	44(experience):1	46(free):1	50(bad):1	71(include):3	97(internet):1	101(center):1	175(cost):2	187(quality):1	193(person):1	594(explore):1	639(idea):1	872(executive):1	983(fitness):1	1043(deep):1	1194(metre):1	1508(dec):1	1929(combination):1	2032(leisure):1	2959(pricy):1	5251(rmb):2	5857(incidentals):1	
+13	0(staff):1	3(clean):1	4(nice):1	6(breakfast):1	14(helpful):1	21(excellent):2	119(window):1	164(air):2	263(condition):1	539(heat):1	548(spotless):1	1240(beije):1	9939(smog):1	
+1	1(location):1	
+0	
+9	0(staff):1	36(desk):1	92(help):1	278(cool):1	434(wear):1	539(heat):1	993(december):1	2270(cap):1	5251(rmb):1	
+3	10(restaurant):1	76(try):1	100(bloc):1	
+7	114(hot):1	508(otherwise):1	513(low):1	865(control):1	944(temperature):1	2173(temp):1	2547(thermostat):1	
+
+<Author>canbagna
+<Content>Liked it, but can be improved The old styled Jianguo hotel is located in a good position on the main city axis which allows people with Beijing taxis allergy to jump into the underground station nearby (100 mt). It has recently undergone a partial restyling, at least in the entrance hall (i haven't seen the rooms after the entrance restyling) which is more a sort of open bar than a reception.The rooms are spacious, although rather unpersonalized, generally clean, and there is free internet cable access.The breakfast hall is nice and the food excellent and abundant. Dining at the restaurant, if one should want not to move from the hotel, is pretty good.Amongst the nice features of Jianguo are a pool (which, btw, i never had the occasion to visit) and a Sunday concert.I would suggest this hotel for business stays but not really for family stays (the surroundings are safe, but not properly family oriented ;-) )  
+<Date>Dec 1, 2007
+<Rating>4	-1	4	5	4	4	3	4	
+<Aspects>
+8	4(nice):1	22(pool):1	65(visit):1	731(feature):1	844(sunday):1	871(occasion):1	2296(concert):1	2713(btw):1	
+0	
+0	
+23	26(people):1	41(city):1	82(station):1	84(locate):1	106(family):2	112(main):1	137(safe):1	147(business):1	185(taxi):1	232(nearby):1	326(style):1	359(allow):1	452(suggest):1	1085(underground):1	1093(position):1	1144(properly):1	1217(improve):1	1240(beije):1	1404(jump):1	1551(surroundings):1	2385(orient):1	3491(allergy):1	4291(mt):1	
+0	
+8	27(bar):1	129(reception):1	322(recently):1	490(entrance):2	557(sort):1	616(hall):1	1425(partial):1	2086(undergo):1	
+10	4(nice):1	6(breakfast):1	10(restaurant):1	16(food):1	21(excellent):1	109(pretty):1	207(move):1	316(dine):1	616(hall):1	3219(abundant):1	
+6	3(clean):1	46(free):1	97(internet):1	111(spacious):1	159(access):1	484(cable):1	
+
+<Author>OB1ONE
+<Content>Great Location and Great Hotel I am a Tour Manager. Stayed at this hotel in 2006 and when we went back surprised to find that it has undergone a complete renovation of the foyer, reception and restaurant areas since our last visit. The hotel is in a great location near railway station and a short bus ride from Tiananmen Square and great shopping. The breakfast is great and the service friendly. The standard rooms were clean and a good size. We stayed 3 nights this year and could not be happier. Great spot to use as a base for all Beijngs many attractions. Recommend this one .  
+<Date>Sep 11, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	2(night):1	15(recommend):1	155(happy):1	284(base):1	317(spot):1	350(attraction):1	
+0	
+11	3(clean):1	10(restaurant):1	65(visit):1	83(size):1	129(reception):1	130(standard):1	199(surprise):1	622(complete):1	687(renovation):1	1931(foyer):1	2086(undergo):1	
+12	1(location):2	49(shop):1	82(station):1	102(near):1	120(bus):1	139(square):1	144(short):1	181(tour):1	218(ride):1	258(manager):1	2002(railway):1	4577(tiananmen):1	
+0	
+0	
+3	6(breakfast):1	9(service):1	12(friendly):1	
+0	
+
+<Author>stltraveler_7
+<Content>Two weeks at the Jianguo Garden Hotel in Beijing My husband and I recently returned from a two week stay in this conveniently located hotel. Our trip was a combination business [for him] and pleasure [for both of us]. We very much enjoyed our time at the Jianguo Garden, and definitely would stay there again. The location is very central. It is a three minute walk to the Dongdan subway station. We bought public transit cards in the station and used them on the subway [3 rmb/trip] and the bus [ slightly over 1 rmb per trip]. There is a 20 rmb deposit on the card that you can only get back at the Beijing Railway station subway station between 7:00 a.m. and 7:00 p.m. The very nice Oriental Plaza Mall is 10 minutes by foot [lots of restaurants] and a fun 鈥榤e ga bite鈥?food court. The western end of the Mall ends on Wangfujing shopping street. Tian鈥檃nmen square and the Forbidden City are only an additional 10 minute walk west.The service at the hotel was superb. The staff was without exception very friendly and helpful. This was especially true of the front desk staff. Since we like to travel by public transit, we went to many sites [Summer Palace, Temple of Heaven, etc.] by bus. The staff would find out what bus number we needed to take and where to catch the bus. In addition, they would write out in Chinese characters where we were going, so the bus driver [or other passengers] could help make sure we disembarked when we needed to.The breakfast that was included with our room was excellent, with a wide variety of Western and Chinese dishes. It included eggs made to order, wonderful cut up melons, a pastry and cereal bar, fried noodles and sauteed veggies, steamed dumplings, etc, etc. Tea and coffee are served by the excellent wait staff. [Larger coffee cups would have been nice, but this was the only flaw in an otherwise terrific set-up.]The room we had was perfectly fine. The King size bed had a very comfortable mattress. Towels were big and fluffy, as were the bathrobes. Two small bottles of water come with the room per day. The room also has a quick heating tea kettle that we used to purify extra water for teeth brushing and drinking. We did not take a chance with the tap water. There is a 110 V outlet in the room for re-charging camera batteries, or whatever you need.If you want to swim in the pool, be sure to bring a swim cap with you as they are required. If you forget - no worries - the Silk Market is only two subway stops to the east [ Yong鈥檃nli station - there is an entrance right into the market from the subway. Just remember to negotiate the price.]The only negative about the Jianguo Garden is the overall lack of lobby seating.There were several days when I returned from solo outings to the hotel prior to my husband, and found housekeeping in the room. There are only three lobby chairs directly across from the front desk. All the rest are associated with one of the restaurants.  
+<Date>Aug 22, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	5(time):1	51(enjoy):1	57(water):1	59(definitely):1	310(garden):1	689(chance):1	1504(tap):1	
+3	19(price):1	375(remember):1	2397(negotiate):1	
+36	6(breakfast):1	7(walk):1	8(day):2	11(bed):1	21(excellent):1	25(comfortable):1	29(minute):1	39(return):1	41(city):1	57(water):1	71(include):1	83(size):1	105(husband):1	113(fine):1	139(square):1	238(bottle):1	243(king):1	367(housekeeping):1	413(variety):1	595(perfectly):1	637(prior):1	764(chinese):1	816(dish):1	835(additional):1	847(mattress):1	860(wide):1	937(whatever):1	953(west):1	1015(western):1	1646(camera):1	1689(outlet):1	2271(forbid):1	2475(battery):1	3526(solo):1	4974(outing):1	8894(tian):1	
+69	0(staff):1	1(location):1	4(nice):1	7(walk):1	10(restaurant):1	16(food):1	29(minute):2	33(trip):2	35(street):1	38(lot):1	39(return):1	49(shop):1	68(travel):1	73(etc):1	75(week):2	82(station):5	84(locate):1	92(help):1	105(husband):1	120(bus):5	122(stop):1	147(business):1	168(central):1	176(fun):1	192(site):1	264(market):2	280(buy):1	292(card):2	310(garden):1	322(recently):1	335(numb):1	344(write):1	370(subway):5	379(public):2	397(forget):1	402(foot):1	490(entrance):1	515(plaza):1	540(catch):1	563(driver):1	598(slightly):1	642(palace):1	643(mall):2	764(chinese):1	831(worry):1	853(summer):1	907(pleasure):1	918(addition):1	948(east):1	1015(western):1	1042(bite):1	1049(character):1	1068(court):1	1070(conveniently):1	1240(beije):2	1363(heaven):1	1466(p.m):1	1603(deposit):1	1616(Oriental):1	1929(combination):1	2002(railway):1	2015(transit):2	2626(temple):1	2684(passenger):1	4000(wangfuje):1	4137(silk):1	5251(rmb):3	7965(disembark):1	11500(ga):1	
+0	
+10	0(staff):2	12(friendly):1	14(helpful):1	31(front):2	36(desk):2	55(lobby):1	126(especially):1	198(chair):1	383(directly):1	1128(exception):1	
+54	0(staff):1	4(nice):1	9(service):1	10(restaurant):1	21(excellent):1	22(pool):1	27(bar):1	48(wonderful):1	55(lobby):1	57(water):1	63(drink):1	70(overall):1	71(include):1	73(etc):2	85(wait):1	90(coffee):2	125(towel):1	128(extra):1	142(bring):1	174(serve):1	261(swim):2	282(negative):1	288(rest):1	299(quick):1	301(tea):2	310(garden):1	349(lack):1	407(superb):1	412(egg):1	504(seat):1	508(otherwise):1	529(cereal):1	539(heat):1	652(pastry):1	699(terrific):1	722(require):1	800(cup):1	873(cut):1	1009(fry):1	1529(bathrobe):1	1564(brush):1	1737(tooth):1	1760(steam):1	1792(fluffy):1	1944(kettle):1	2270(cap):1	2648(associate):1	2808(flaw):1	2865(noodle):1	3796(veggy):1	4117(set-up):1	4668(purify):1	6216(melon):1	7276(dumpling):1	
+0	
+
+<Author>ATL_Mommy
+<Content>Good Choice I stayed at the hotel for 9 days in April, on non-smoking Executive Floor (10th floor). This floor has a small conference table area and a sitting area and library. The room was huge, with a sitting area, desk and large separate dressing area. It could easily have fit my husband and two children as well and appeared to have been recently renovated. A lack of certain amenities (tissues and enough trash cans), flowers that were left to wilt and die and a poorly-designed shower door (difficult to open) kept this from being a five-star room. Free Internet, drinks, breakfast and business and fitness center use were provided. A small breakfast buffet (cold cereal, etc) was set out each morning, and snacks in the afternoon. The daily downstairs buffet had a huge selection at breakfast, lunch and dinner, with a few western choices and excellent curries. The subway stop is right across the street, and there are small shops from which to buy snacks in the hutong directly behind the hotel (or the over-priced grocery in the basement of Oriental Plaza). Overall the staff were very pleasant, particularly on the 10th floor. Business center computers have software in Chinese, which can be challenging to navigate, and the staff did not greet guests nor assist them until asked during the three times I visited. English proficiency is limited among the hotel's staff (probably equal to my Chinese proficiency) but they try hard. All in all a good choice for business travellers to Beijing.  
+<Date>Apr 30, 2007
+<Rating>4	4	5	4	4	4	3	3	
+<Aspects>
+7	105(husband):1	277(child):1	322(recently):1	438(easily):1	533(renovate):1	541(appear):1	668(fit):1	
+9	8(day):1	24(floor):2	107(choice):2	147(business):1	267(traveler):1	872(executive):1	978(nonsmoking):1	1240(beije):1	1592(10th):1	
+23	0(staff):1	24(floor):1	36(desk):1	43(leave):1	54(door):1	61(shower):1	70(overall):1	133(huge):1	150(pleasant):1	169(sit):1	291(amenity):1	349(lack):1	474(separate):1	553(particularly):1	572(difficult):1	778(flower):1	935(dress):1	1264(die):1	1592(10th):1	1793(trash):1	3211(tissue):1	3837(five-star):1	12152(wilt):1	
+18	24(floor):1	35(street):1	49(shop):1	122(stop):1	169(sit):1	229(table):1	280(buy):1	370(subway):1	383(directly):1	406(snack):1	515(plaza):1	794(conference):1	1199(grocery):1	1568(basement):1	1616(Oriental):1	1648(library):1	3386(over-price):1	5214(hutong):1	
+0	
+8	0(staff):1	76(try):1	152(english):1	162(hard):1	178(probably):1	510(limit):1	764(chinese):1	2948(equal):1	
+19	6(breakfast):2	21(excellent):1	56(morning):1	73(etc):1	77(buffet):2	107(choice):1	117(dinner):1	133(huge):1	222(cold):1	234(set):1	252(lunch):1	333(selection):1	360(daily):1	364(afternoon):1	406(snack):1	529(cereal):1	691(downstairs):1	1015(western):1	5168(curry):1	
+20	0(staff):1	5(time):1	6(breakfast):1	46(free):1	63(drink):1	65(visit):1	91(guest):1	97(internet):1	101(center):2	147(business):2	153(provide):1	415(greet):1	555(computer):1	764(chinese):1	970(nor):1	983(fitness):1	1265(assist):1	1708(challenge):1	2252(navigate):1	9739(software):1	
+
+<Author>burnessis
+<Content>Very Pleasant Property Stayed here with my wife for four nights--her first time to China. Centrally located, very good buffet breakfast with both Chinese and Western (even some Indian) dishes. 9th floor non-smoking room was very nice (I think this might be an executive floor)--bed was quite firm, but that is just how we like it. Furniture did not have many drawers but was otherwise in very good condition.Staff always extremely helpful and eager to please. English skills range from passible to quite good; they would always find someone with better English skills if needed. Housekeeping always ready to deal with any special request with a smile.Centrally located--you can walk to Oriental Plaza and Wangfujing Street; a subway stop is right there, and taxis are always available if desired.We booked them through a travel agent, so we had already made other tourism arrangements.The pool looked like it was being renovated, and we didn't try the fitness center in the basement--can't report on those.This is a 4-star property, but the service is up to 5-star levels (save perhaps for English skills). The 9th floor room was close to 5-star quality as well. Based on rates I've seen on other web sites, I think this property is an excellent value.We would look to stay here again if and when we return to Beijing!  
+<Date>Apr 9, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+6	20(look):1	39(return):1	152(english):2	714(range):1	1240(beije):1	2611(skill):2	
+12	21(excellent):1	24(floor):1	28(close):1	78(rate):1	81(value):1	187(quality):1	192(site):1	214(property):1	284(base):1	1019(web):1	1831(5-star):1	5180(9th):1	
+17	4(nice):1	11(bed):1	24(floor):2	140(deal):1	148(request):1	208(special):1	263(condition):1	274(ready):1	367(housekeeping):1	387(smile):1	440(furniture):1	508(otherwise):1	872(executive):1	978(nonsmoking):1	1368(firm):1	1426(drawer):1	5180(9th):1	
+12	7(walk):1	35(street):1	84(locate):1	122(stop):1	134(available):1	185(taxi):1	370(subway):1	515(plaza):1	879(centrally):1	1219(desire):1	1616(Oriental):1	4000(wangfuje):1	
+0	
+5	0(staff):1	14(helpful):1	110(extremely):1	173(please):1	1604(eager):1	
+26	2(night):1	5(time):1	6(breakfast):1	9(service):1	18(book):1	68(travel):1	77(buffet):1	84(locate):1	150(pleasant):1	152(english):1	184(wife):1	214(property):2	306(level):1	425(save):1	764(chinese):1	766(agent):1	816(dish):1	879(centrally):1	1015(western):1	1159(china):1	1415(arrangement):1	1831(5-star):1	2254(4-star):1	2611(skill):1	2805(indian):1	2897(tourism):1	
+8	20(look):1	22(pool):1	76(try):1	101(center):1	533(renovate):1	838(report):1	983(fitness):1	1568(basement):1	
+
+<Author>Melony
+<Content>Super breakfast After a journey with the Trans-Siberian we enjoyed spending six days in Beijing staying at Jianguo Garden. The service was super from the beginning. All employees will say hello when they meet you, and are very helpful. The room had two double beds, and was nicely placed with no sounds etc. bothering us. The hotel has a nice location too. It's lovely to have a pool available when the weather is as hot as it was outside, just to cool down. Excellent service in the pool/gym area, towels provided and my friend had two massages that she found very nice as well. The breakfast was amazing- they would cook your eggs and pancakes any way you'd like, and have everything available, from chinese to american to continental. Amazing fruit. I would definitly stay in the same hotel if I get back to Beijing.  
+<Date>Dec 15, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	14(helpful):1	145(amaze):1	196(meet):1	215(fruit):1	608(employee):1	1240(beije):1	1519(hello):1	2971(definitly):1	
+0	
+6	11(bed):1	73(etc):1	179(double):1	307(bother):1	404(nicely):1	409(sound):1	
+9	1(location):1	4(nice):1	22(pool):1	87(lovely):1	98(outside):1	114(hot):1	134(available):1	278(cool):1	385(weather):1	
+0	
+0	
+24	4(nice):1	6(breakfast):2	8(day):1	9(service):2	21(excellent):1	22(pool):1	51(enjoy):1	64(spend):1	125(towel):1	134(available):1	145(amaze):1	146(friend):1	153(provide):1	310(garden):1	372(continental):1	412(egg):1	464(super):2	550(cook):1	551(begin):1	730(massage):1	764(chinese):1	1240(beije):1	1362(journey):1	1477(pancake):1	
+0	
+
+<Author>RJT
+<Content>Luxury on a budget Spent 5 nights at this hotel in a deluxe room, non smoking floor. An extremely large room with 2 dbl beds, desk  chair and armchair. Decor a bit bland. Bathroom spacious with 2 showers. Only problem I had was the room, which faced south, got extremely hot during the late afternoon. A little quirk was the maid coming in to turn the bed down and putting out slippers about 8.00 every night. The hotel is 10 minute walk from Wanfujing Street, 5 minute walk from Oriental Plaza mall and 20 minute walk from Tiananmen Square and not far from the railway station.  
+<Date>Apr 14, 2006
+<Rating>3	4	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+0	
+27	2(night):2	11(bed):2	13(bathroom):1	23(little):1	24(floor):1	36(desk):1	52(bit):1	61(shower):1	64(spend):1	79(late):1	110(extremely):2	111(spacious):1	114(hot):1	198(chair):1	269(decor):1	300(maid):1	364(afternoon):1	429(budget):1	437(luxury):1	468(smoke):1	648(deluxe):1	769(south):1	1306(slipper):1	1819(bland):1	4696(quirk):1	4772(armchair):1	8325(dbl):1	
+11	7(walk):3	29(minute):3	35(street):1	82(station):1	139(square):1	515(plaza):1	643(mall):1	1616(Oriental):1	2002(railway):1	4577(tiananmen):1	11582(wanfuje):1	
+0	
+0	
+0	
+0	
+
+<Author>B57
+<Content>Would stay again Stayed here for a full week. They have a NON-SMOKING floor... be sure to request that (if that matters to you). Reasonable price, quiet, EXCELLENT location within walking distance of Oriental Plaza and Wangfujing Street. Overall, would stay again.  
+<Date>Nov 6, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	70(overall):1	75(week):1	
+0	
+4	24(floor):1	148(request):1	531(matter):1	978(nonsmoking):1	
+11	1(location):1	7(walk):1	19(price):1	21(excellent):1	35(street):1	58(quiet):1	115(distance):1	273(reasonable):1	515(plaza):1	1616(Oriental):1	4000(wangfuje):1	
+0	
+0	
+0	
+0	
+

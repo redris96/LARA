@@ -1,0 +1,406 @@
+<Author>agent_bx
+<Content>Tolerable Stayed here overnight while waiting to board a flight at Sydney Airport. Courtesy shuttle is very convenient, came promptly at the scheduled time from the airport. Bus driver provided a totally smiless service, and that pretty much summed up the service of the hotel. Upon entering hotel, the feeling was of a time warp back to the 80's. Hotel decor really needs some updating and has little style. The rooms were of an okay size, and we actually had a nice view of Sydney in the far distance. We used the gym facilities which were bare essential systems 10m on the outside of the hotel. We had trouble entering the gym, which was actually locked....but when we came back to reception, they just told us to swipe our card....which was not possible as that part of the hotel was actually locked by another member of the staff..... so we had to come back, and apparently another staff member locks the gate every shift but the others were not aware. The restaurant had surprisingly tasty food, although the environment was poor and banging in the kitchen could be hear loudly. Staff were friendly, but not well trained. This made the food overpriced. So overall it was a functional and convenient stay, but hardly a memorable experience, like using an old laptop with Windows 95 to type up an essay.  
+<Date>Dec 26, 2008
+<Rating>2	2	3	2	3	2	2	-1	
+<Aspects>
+4	5(time):1	34(feel):1	601(enter):1	7470(warp):1	
+11	16(food):1	44(experience):1	70(overall):1	119(window):1	186(convenient):1	389(type):1	727(overprice):1	985(hardly):1	1111(laptop):1	1205(memorable):1	1348(functional):1	
+17	4(nice):1	17(view):1	23(little):1	83(size):1	85(wait):1	95(airport):1	115(distance):1	180(actually):1	233(flight):1	269(decor):1	326(style):1	453(okay):1	600(board):1	725(update):1	809(sydney):2	1171(overnight):1	3738(tolerable):1	
+17	0(staff):1	5(time):1	9(service):2	12(friendly):1	95(airport):1	109(pretty):1	120(bus):1	153(provide):1	182(train):1	186(convenient):1	321(shuttle):1	563(driver):1	611(totally):1	1196(schedule):1	1212(promptly):1	1651(sum):1	1728(courtesy):1	
+0	
+14	0(staff):2	69(tell):1	129(reception):1	180(actually):2	292(card):1	523(gym):1	569(trouble):1	601(enter):1	774(lock):3	832(aware):1	863(apparently):1	992(gate):1	2479(shift):1	4077(swipe):1	
+16	10(restaurant):1	16(food):1	98(outside):1	132(hear):1	211(facility):1	331(poor):1	461(kitchen):1	518(system):1	523(gym):1	984(tasty):1	1375(surprisingly):1	1401(bang):1	1712(environment):1	2235(bare):1	2496(essential):1	2707(loudly):1	
+0	
+
+<Author>EuroFrequentFlyer
+<Content>Not really impressed After an unimpressive experience at Holiday Inn Sydney Airport (the first room given smelled very strongly of urine, and the replacement room smelled musty and damp), I decided to try Mercure Hotel Sydney Airport. It appears that I have so far had no luck with finding a good Sydney Airport hotel (I was not particularly happy with Stamford Plaza either).One of the reception staff when I was checking in was not exactly terrific - not so much rude but told me that I had to have a printout of the confirmation email for my booking when there was no such requirement mentioned anywhere. It took a while to sort this out, but it was eventually agreed that I did not need to print it out and he begrudgingly allowed me to check into the room (for which I had already paid). It wasn't a very good start to the stay!The room was quite spacious, although quite dated. It smelled a little damp but nothing serious (I find that many Australian hotels smell damp for some reason). Bathroom cleanliness left a bit to be desired, and it also looked dated. Generally, the room was basic but adequate, although they could, and should, do better for the price they charge.The bar had a rather poor atmosphere (quite rough) and the service was very, very, very slow. It wasn't the fault of the staff - they appeared to be very short staffed, but from the customer's point of view it was quite unsatisfactory.Upon check-out, I noticed an error in the bill (someone else's food consumption was put on my room account) but the staff member (different one from the one that dealt with my check-in) dealt with it smoothly and without fuss, so that made up for the poor check-in experience.Hotel's transport to the airport worked very well - it was efficient and effective, so that's a good point.Overall, I was not very impressed with Mercure Sydney Airport. I'd stay there again if I need to, but I would much rather stay somewhere else - the only problem is that I have so far not found a decent alternative.  
+<Date>Dec 13, 2008
+<Rating>3	2	3	3	2	2	3	-1	
+<Aspects>
+3	170(else):1	257(decent):1	1298(alternative):1	
+13	19(price):1	32(check):1	42(pay):1	136(charge):1	165(start):1	352(basic):1	359(allow):1	390(adequate):1	473(agree):1	557(sort):1	1101(print):1	1204(eventually):1	10127(begrudgingly):1	
+25	13(bathroom):1	20(look):1	43(leave):1	44(experience):1	52(bit):1	70(overall):1	76(try):1	95(airport):3	111(spacious):1	219(decide):1	223(holiday):1	231(smell):2	324(inn):1	343(impress):2	511(date):2	809(sydney):3	854(cleanliness):1	1016(musty):1	1219(desire):1	1386(strongly):1	1640(damp):1	2593(replacement):1	3191(urine):1	4518(mercure):2	5087(unimpressive):1	
+11	95(airport):2	155(happy):1	401(efficient):1	515(plaza):1	541(appear):1	553(particularly):1	742(transport):1	809(sydney):1	1055(luck):1	2774(effective):1	5133(stamford):1	
+6	23(little):1	231(smell):2	374(reason):1	1469(serious):1	1640(damp):2	3604(australian):1	
+32	0(staff):4	16(food):1	17(view):1	18(book):1	32(check):1	44(experience):1	69(tell):1	129(reception):1	140(deal):2	144(short):1	170(else):1	244(mention):1	286(check-in):2	331(poor):1	354(notice):1	392(rude):1	428(customer):1	495(bill):1	517(fault):1	541(appear):1	586(exactly):1	658(checkout):1	699(terrific):1	1641(confirmation):1	1730(account):1	2205(fuss):1	2267(smoothly):1	2628(error):1	2642(requirement):1	6401(printout):1	6408(unsatisfactory):1	7879(consumption):1	
+6	9(service):1	27(bar):1	331(poor):1	414(atmosphere):1	455(slow):1	1047(rough):1	
+0	
+
+<Author>Austin-Powers63
+<Content>Good Standard Stop Over Hotel Firstly, I've read other reviews on this property and had to ask myself what do I expect from a hotel directly relating to the purpose of my visit .I see Mercure Hotel Sydney Airport as an overnight stop over before or after travel and have used it on three occassions now with very little complaint.These reviews are to rate a hotel as you see it and not to try antanticipate what others standards are and what they may want from the place. I appreciate that peoples standards vary with experience and needs etc. Please read my review based on this.To us the Mercure Hotel was clean, comfortable and reasonable value with a park and fly deal for seven days booked directly through the property.Yes, the restaurant is a little expensive but they don't try to hide their prices which are clearly displayed at the entrance. We didn't have breakfast there so won't comment. The bar was disappointing. The barman on the night we stayed appeared uninterested and unfriendly and the drink prices were excessive. Fortunately, little of our travel time is spent hanging around hotel bars. There is a perfectly good club venue with meal and bar facilities within a short walking distance of the hotel. The front desk staff were found to be courteous and efficient. No more could be asked and no more was looked for.The twin standard room we booked was clean and comfortable. Fittings were a little tired or well used but again quite adequate for a short stop over. Beds were comfortable and linen conducive to a good nights sleep. Towels and toiletries etc were also fine. No complaints for the money paid. We were not spending a lot of time in this room so have to be fair in judgement. Mini bar is from a machine in the hallway and charged to your room card which is one way of short cutting those that take delight in abusing the usual system.A wake up call booked for 0430 was on time and the shuttle service to the International terminal was efficient and also on time. (No problem with the return shuttle service either). We have stayed here before and also at Holiday Inn Sydney Airport and would rate both similarly. The only disadvantage of the Mercure is that long stay parking is in the open whilst that provided by Holiday inn is usually undercover. In general, few complaints compared to others. If you are not overly critical and discerning and fairly laid back in your approach to a simple airport stop over hotel than Mercure will do you just fine.  
+<Date>Dec 1, 2008
+<Rating>3	3	3	3	4	3	-1	-1	
+<Aspects>
+16	20(look):1	23(little):1	37(review):2	76(try):1	78(rate):1	88(read):1	122(stop):1	130(standard):1	144(short):1	173(please):1	190(complaint):1	284(base):1	381(compare):1	390(adequate):1	454(tire):1	2379(fitting):1	
+18	10(restaurant):1	19(price):1	23(little):1	26(people):1	42(pay):1	44(experience):1	73(etc):1	76(try):1	80(money):1	124(expensive):1	130(standard):1	190(complaint):1	250(yes):1	490(entrance):1	500(appreciate):1	1195(hide):1	1917(display):1	2018(vary):1	
+51	2(night):1	3(clean):1	5(time):1	11(bed):1	18(book):1	23(little):1	25(comfortable):2	27(bar):1	38(lot):1	64(spend):1	68(travel):1	73(etc):1	78(rate):1	95(airport):3	104(sleep):1	113(fine):2	122(stop):2	125(towel):1	130(standard):1	136(charge):1	144(short):1	190(complaint):1	223(holiday):1	292(card):1	324(inn):1	448(mini):1	462(fairly):1	493(machine):1	518(system):1	580(hallway):1	613(simple):1	630(linen):1	657(toiletry):1	682(usual):1	690(twin):1	696(lay):1	739(fair):1	809(sydney):2	873(cut):1	1025(delight):1	1171(overnight):1	1345(overly):1	1378(approach):1	3299(similarly):1	3452(critical):1	4048(occassions):1	4518(mercure):2	5447(discern):1	5858(conducive):1	5918(abuse):1	6242(judgement):1	
+12	9(service):1	39(return):1	66(park):1	153(provide):1	223(holiday):1	321(shuttle):1	324(inn):1	399(usually):1	877(whilst):1	3931(disadvantage):1	4518(mercure):1	9853(undercover):1	
+0	
+5	0(staff):1	31(front):1	36(desk):1	401(efficient):1	483(courteous):1	
+55	2(night):1	3(clean):1	5(time):3	6(breakfast):1	7(walk):1	8(day):1	9(service):1	18(book):2	19(price):1	23(little):1	25(comfortable):1	27(bar):3	37(review):1	62(expect):1	63(drink):1	64(spend):1	65(visit):1	66(park):1	67(call):1	68(travel):1	81(value):1	88(read):1	115(distance):1	122(stop):1	130(standard):1	140(deal):1	144(short):1	154(disappoint):1	211(facility):1	212(club):1	213(meal):1	214(property):2	273(reasonable):1	321(shuttle):1	356(comment):1	383(directly):2	401(efficient):1	478(hang):1	487(wo):1	541(appear):1	554(wake):1	595(perfectly):1	614(fly):1	903(international):1	1261(terminal):1	1428(purpose):1	1487(unfriendly):1	1585(fortunately):1	2140(firstly):1	2190(venue):1	2627(relate):1	3088(excessive):1	3315(barman):1	4518(mercure):1	4817(uninterest):1	
+0	
+
+<Author>PLL-England
+<Content>Not bad, but let down by noisy aircon in room Stayed here two nights prior to return flights back to England.This hotel is was not too bad. The room was large enough and clean enough. However, we had booked a King Bed and only got a Queen bed.The worst thing about the room was the noise of the air-conditioning unit - we didn't have ours turned on, but it kept clonking all the same. I complained the next morning just prior to going out for the day. Reception promised that it would be looked at. No surprise really when we got back to the room rather lat that night to find nothing done and the noise persisted. It was the most disturbed sleep I had during a three week stay in Australia. I don鈥檛 think customer satisfaction is top priority, probably because they know most stays are short term.The bar prices were average for hotel bars for Australia - about S$6 for a beer and A$3 for soft drink. The bar staff were friendly enough. Restaurant prices more expensive and I did not use the restaurant because of this, so cannot comment on the quality. The reception lobby is clean and pleasant enough.Booked online with popular web booking agent (who I used for other online bookings on the same holiday without problem, so know it was the hotel and not the online booking agent). However, on check-in the reception presented us with a balance due when it had already been paid. Luckily I had a copy of the online confirmation of payment/booking. The hotel made a photocopy of this and there were no further problems. However, it is still disconcerting when presented with a balance due (other hotels I stayed in on this same holiday, knew it had been paid up front on check-in). So holidaymakers beware, take a copy of your confirmation booking/payment with you.There is a shuttle bus from/to the airport, but it is not free and will cost A$5 per person per way. But this is convenient for getting to the hotel from the airport. The hotel is close by the airport.There is not a lot around the hotel, so do not expect bars or restaurants nearby. In the day you can walk along the Cook River as there is a small park facing the hotel. There is a free gym and free outdoor swimming pool at the hotel. Squash  Tennis courts could be hired if you are the sporty type 鈥?no sauna or Jacuzzi though.The cheapest way to get around from the hotel is by local train - a 15 minute walk to Wolli Creek station and it costs A$4.60 for a day ticket (trains run well past midnight). This is only one way to and then from Sydney city centre (any station ie. Central or Town Hall etc), but you can鈥檛 hop on hop off trains all day. But both Central  Town Hall are centrally located in Sydney. If you don鈥檛 mind catching the train then it is not hard to get to and from the city centre.If it wasn鈥檛 for the noisy air conditioning within then hotel, this would have been quite a decent hotel.P, England  
+<Date>Nov 27, 2008
+<Rating>3	3	2	4	4	3	3	-1	
+<Aspects>
+22	8(day):1	50(bad):1	56(morning):1	118(top):1	144(short):1	178(probably):1	241(complain):1	389(type):1	428(customer):1	637(prior):1	808(jacuzzi):1	908(don):1	1011(term):1	1068(court):1	1422(sauna):1	1556(hire):1	1734(tennis):1	1970(england):1	1985(priority):1	2863(satisfaction):1	5235(squash):1	8465(photocopy):1	
+10	10(restaurant):2	19(price):1	124(expensive):1	187(quality):1	356(comment):1	822(online):1	1200(luckily):1	1641(confirmation):1	2245(copy):1	2645(payment):1	
+29	2(night):2	3(clean):1	11(bed):2	18(book):1	39(return):1	50(bad):2	75(week):1	94(noise):2	95(airport):1	104(sleep):1	164(air):1	186(convenient):1	199(surprise):1	217(noisy):2	233(flight):1	243(king):1	257(decent):1	263(condition):1	543(Queen):1	637(prior):1	843(ours):1	980(unit):1	1067(disturb):1	1530(australia):1	1829(wasn):1	1970(england):1	2257(aircon):1	2284(air conditioning):1	6951(persist):1	
+36	7(walk):2	8(day):3	28(close):1	29(minute):1	41(city):2	46(free):1	66(park):1	73(etc):1	82(station):2	84(locate):1	95(airport):2	101(center):2	120(bus):1	143(cheap):1	149(run):1	162(hard):1	168(central):2	175(cost):2	182(train):4	193(person):1	195(local):1	239(town):2	294(mind):1	321(shuttle):1	419(past):1	540(catch):1	550(cook):1	616(hall):2	621(ticket):1	710(river):1	809(sydney):2	879(centrally):1	908(don):1	1044(midnight):1	1151(hop):2	7190(creek):1	
+4	3(clean):1	55(lobby):1	129(reception):1	150(pleasant):1	
+13	0(staff):1	12(friendly):1	20(look):1	27(bar):1	31(front):1	42(pay):2	129(reception):2	223(holiday):1	259(due):2	286(check-in):2	975(promise):1	2425(balance):2	5386(disconcert):1	
+27	10(restaurant):1	18(book):3	19(price):1	22(pool):1	27(bar):3	38(lot):1	46(free):2	62(expect):1	63(drink):1	223(holiday):1	227(average):1	232(nearby):1	261(swim):1	443(beer):1	523(gym):1	589(soft):1	737(beware):1	766(agent):2	822(online):3	901(outdoor):1	1019(web):1	1277(popular):1	1530(australia):1	1641(confirmation):1	2245(copy):1	2531(booking):2	10717(holidaymaker):1	
+0	
+
+<Author>Jen2800
+<Content>Poor Service, Dirty Room Arrived back at the hotel after flight late evening with 2 small children only to find that the staff had yet again forgotten to put a cot in our room. We then had to wait for what seemed like an eternity for the arrogant staff to bring it up, only to hand me the sheets to make it up myself and inform me that they dont supply blankets for babies. Then went to have a shower only to find blood splatter on the floor. I informed the night manager who sent up a housekeeper, who cleaned it with a towel and her foot. The buffet breakfast the next day was awful, food was very average and the staff kept giving us the evil eye because we had 2 small children. I am a member of accor and only booked this hotel for that reason, but will definately pay full rate at another hotel next time we have a holiday.  
+<Date>Nov 17, 2008
+<Rating>1	1	1	3	1	1	1	-1	
+<Aspects>
+0	
+8	5(time):1	18(book):1	42(pay):1	78(rate):1	223(holiday):1	374(reason):1	410(definately):1	6275(accor):1	
+14	0(staff):1	9(service):1	24(floor):1	53(arrive):1	61(shower):1	79(late):1	233(flight):1	277(child):1	323(dirty):1	331(poor):1	397(forget):1	2491(cot):1	2718(blood):1	11937(splatter):1	
+0	
+0	
+19	0(staff):1	2(night):1	3(clean):1	85(wait):1	125(towel):1	142(bring):1	258(manager):1	377(hand):1	402(foot):1	447(send):1	479(sheet):1	503(dont):1	817(inform):2	859(supply):1	1304(baby):1	1369(blanket):1	1591(housekeeper):1	3329(arrogant):1	11221(eternity):1	
+10	0(staff):1	6(breakfast):1	8(day):1	16(food):1	77(buffet):1	227(average):1	277(child):1	736(awful):1	977(eye):1	9303(evil):1	
+0	
+
+<Author>buffaloo
+<Content>CHOOSE ANOTHER AIRPORT HOTEL BUSY TRIPAROUND AUSTRALIA AND ARRIVED TO THIS PLACE TO THE RUDEST RECEPTIONIST. Corridors to room looked like bombsite and no warning that room was in mid decoration.Very expensive room service and no mini bar.Laundry again crazy prices.No air con in gym.Room key failed 6 times.Airport shuttle driver had 2 near misses and dropped us at wrong terminal  
+<Date>Nov 9, 2008
+<Rating>1	2	2	4	2	1	1	1	
+<Aspects>
+0	
+3	19(price):1	1075(laundry):1	1259(crazy):1	
+11	5(time):1	20(look):1	164(air):1	339(key):1	523(gym):1	679(warn):1	840(Con):1	1073(corridor):1	1313(mid):1	1576(fail):1	1580(decoration):1	
+8	95(airport):1	102(near):1	276(miss):1	321(shuttle):1	427(wrong):1	563(driver):1	662(drop):1	1261(terminal):1	
+0	
+7	53(arrive):1	95(airport):1	167(choose):1	220(busy):1	392(rude):1	855(receptionist):1	1530(australia):1	
+4	9(service):1	27(bar):1	124(expensive):1	448(mini):1	
+0	
+
+<Author>TravelTarts
+<Content>Avoid it! Avoid it!!! Service was non-existent; restaurant food/buffet was awful and expensive; no-one will help with bags; restaurant staff had terrible attitude, restaurant manager the worst. If you just need to crash overnighting between flights etc, then room is okay, but don't expect anything else for your $$$. And pray you don't get a footy team holiday tour in the hotel at the same time or your will be non-existent like the service. (-:  
+<Date>Oct 19, 2008
+<Rating>2	2	3	3	3	2	1	3	
+<Aspects>
+1	436(avoid):2	
+0	
+7	62(expect):1	73(etc):1	170(else):1	233(flight):1	453(okay):1	1171(overnight):1	2192(crash):1	
+0	
+0	
+0	
+19	0(staff):1	5(time):1	9(service):2	10(restaurant):3	16(food):1	50(bad):1	92(help):1	124(expensive):1	181(tour):1	223(holiday):1	258(manager):1	290(bag):1	432(terrible):1	736(awful):1	821(attitude):1	1008(team):1	2580(nonexistent):2	3693(no-one):1	6085(pray):1	
+0	
+
+<Author>msmegmog
+<Content>There was good. There was Bad. Mostly Bad. Booked into this hotel for work for 3 nights whilst I was on a training course near the airport. I could stay there again if I had to 鈥?but next time I鈥檇 rather stay at the Holiday Inn if I鈥檓 after a Airport Hotel.The good:Room was fresh, clean and modern looking. All facilities worked well. I found the bed rather hard, but then I鈥檓 a person who likes my beds on the softer side 鈥?so it may suit others. The amenities were nice and I appreciated having the iron and ironing board. Room was quite large too.The Bad:The rooms are paper thin. I could hear the guy in the room next to me speaking to his girlfriend on the phone. I could even hear HER telling him how much she loved him.The Hotel is located out near the international terminal. There is nothing around in terms of shops and restaurants so you are limited to eating in-house. I suffer from food allergies from heavily processed foods 鈥?I was sick each time I ate in the hotel, it鈥檚 obvious the food they are producing is coming from packets. Feeling ill from bad food, one night I just wanted some simple soup from room service and what I got was so obviously a packet of French onion soup that they didn鈥檛 even add any cheese or garnish to in order to disguise it. It was revolting.Dinner in the restaurant was a bit of a debacle on the first night. Note 鈥?if you plan to eat there you need a reservation unless you come very early. I witnessed very tired guests who had travelled internationally being turned away as there was no room for them to have dinner. It is also VERY expensive. You have the option paying for 2 or 3 courses. I chose 2 and had a soft drink and it cost me more than $60 for an 鈥渙k鈥?meal.Breakfast in the morning (full and continental buffet) was far better.Also note 鈥?the shuttle bus to the airport fills up quite quickly. Again I witnessed people having to book cabs to go to the airport.The internet access is a utter rip off. $11 for 1 hour, or $24 for 24 hours. I chose the 1 hour option and tried to get all my work done in a short space of time鈥?br/>Staff are friendly 鈥?but aren鈥檛 all that sure of themselves it seems. I鈥檓 guessing they鈥檝e had a recent influx of new employees who are just finding their feet.In all 鈥?I think there are better choices, but it鈥檚 an OK hotel if you don鈥檛 plan to eat there and it鈥檚 only for a couple of nights.  
+<Date>Sep 30, 2008
+<Rating>2	2	4	2	4	3	4	2	
+<Aspects>
+16	4(nice):1	40(love):1	50(bad):2	60(hour):2	69(tell):1	132(hear):1	291(amenity):1	402(foot):1	469(guess):1	500(appreciate):1	600(board):1	608(employee):1	868(iron):2	1064(recent):1	8305(revolt):1	10298(influx):1	
+16	2(night):1	42(pay):1	47(eat):1	63(drink):1	99(couple):1	107(choice):1	123(ok):1	124(expensive):1	167(choose):1	175(cost):1	213(meal):1	221(plan):1	293(course):1	336(option):1	589(soft):1	908(don):1	
+47	0(staff):1	3(clean):1	5(time):2	10(restaurant):1	11(bed):2	12(friendly):1	18(book):1	20(look):1	26(people):1	47(eat):1	49(shop):1	50(bad):1	60(hour):1	68(travel):1	91(guest):1	95(airport):2	117(dinner):1	127(speak):1	132(hear):1	144(short):1	151(modern):1	162(hard):1	167(choose):1	193(person):1	197(fresh):1	210(space):1	223(holiday):1	253(tried):1	296(phone):1	324(inn):1	336(option):1	368(guy):1	380(cab):1	454(tire):1	510(limit):1	589(soft):1	754(thin):1	776(paper):1	861(suit):1	994(girlfriend):1	1011(term):1	1059(themselves):1	2685(witness):2	3082(br):1	4016(in-house):1	4666(aren):1	7635(internationally):1	
+16	2(night):1	18(book):1	84(locate):1	95(airport):2	102(near):2	120(bus):1	182(train):1	211(facility):1	293(course):1	297(note):1	321(shuttle):1	471(quickly):1	491(fill):1	877(whilst):1	903(international):1	1261(terminal):1	
+0	
+5	47(eat):1	156(reservation):1	221(plan):1	297(note):1	405(unless):1	
+33	2(night):2	5(time):1	6(breakfast):1	9(service):1	10(restaurant):1	16(food):4	34(feel):1	47(eat):1	50(bad):1	52(bit):1	56(morning):1	77(buffet):1	117(dinner):1	254(french):1	351(add):1	372(continental):1	441(cheese):1	613(simple):1	654(sick):1	781(obviously):1	1022(didn):1	1222(process):1	1657(ill):1	1698(obvious):1	1772(soup):2	1790(suffer):1	2538(produce):1	2836(heavily):1	3101(packet):2	3491(allergy):1	4027(onion):1	7197(disguise):1	12153(debacle):1	
+4	97(internet):1	159(access):1	1182(rip):1	5328(utter):1	
+
+<Author>AMANDHYANA
+<Content>OK for one night between flights After the excellent experience with another hotel of the same group, the night before in Bangkok, we knew we had to lower our expectations a bit, as this was Australia and not Thailand. One should never compare, anyway, but, secretly, one does nevertheless...Well, the first impression began at the airport, where we waited for 40 minutes in the (already pretty burning) sun, for the hotel shuttle bus to come. We guess, we just missed the one for our hotel, as we saw one bus after the other passing by, for the other 4 hotels, until at last, ours came, too. We considered ourselves lucky that we had brought an umbrella with us, which gave us some shade...and that it was not pouring with rain, because there is no shelter at all for bus stop number 6, which is the one for the 5 airport hotels.Next time we will probably take a taxi, as waiting 40 minutes for a 10 minutes ride, seems a bit exaggerated in our eyes, but all depends on the weather and your patience, of course.The reception staff at the hotel was quite pleasant, the bed- and bathroom clean and functional.We had dinner at the only restaurant, the other being a bar offering snacks. The air conditioning worked well, which means that we regretted not having put a pullover on. We had the choice of a 2 or 3 course menu for either 55 or 65 AUD per person and could chose between half a dozen dishes each time. The appearance of the dishes was elaborated and they were more attractive for the eyes than for the palate. Service was rather slow and we were happy to get out of the cold restaurant at the end. Our overall experience with this hotel is average, but the location near the airport was convenient for our needs: find a clean, not too expensive place, to sleep between two flights.  
+<Date>Sep 19, 2008
+<Rating>3	3	3	3	3	3	3	3	
+<Aspects>
+6	816(dish):1	977(eye):1	1154(attractive):1	2312(appearance):1	4698(elaborate):1	6530(palate):1	
+21	2(night):2	5(time):1	21(excellent):1	44(experience):1	52(bit):1	107(choice):1	123(ok):1	167(choose):1	193(person):1	233(flight):1	283(half):1	293(course):1	423(menu):1	431(expectation):1	777(lour):1	816(dish):1	1530(australia):1	1874(dozen):1	4792(bangkok):1	5360(aud):1	5514(thailand):1	
+21	0(staff):1	1(location):1	3(clean):2	11(bed):1	13(bathroom):1	44(experience):1	70(overall):1	95(airport):1	102(near):1	104(sleep):1	124(expensive):1	129(reception):1	150(pleasant):1	164(air):1	186(convenient):1	227(average):1	233(flight):1	246(mean):1	263(condition):1	1348(functional):1	1410(regret):1	
+39	5(time):1	29(minute):3	52(bit):1	85(wait):2	95(airport):2	109(pretty):1	120(bus):3	122(stop):1	142(bring):1	178(probably):1	185(taxi):1	218(ride):1	248(consider):1	276(miss):1	293(course):1	321(shuttle):1	335(numb):1	381(compare):1	385(weather):1	400(pass):1	417(anyway):1	420(sun):1	469(guess):1	551(begin):1	581(rain):1	767(ourselves):1	795(shade):1	797(lucky):1	843(ours):1	848(impression):1	969(depend):1	977(eye):1	1140(umbrella):1	1289(burn):1	1764(pour):1	2987(patience):1	4276(shelter):1	4721(exaggerate):1	12726(secretly):1	
+0	
+0	
+9	9(service):1	10(restaurant):2	27(bar):1	89(offer):1	117(dinner):1	155(happy):1	222(cold):1	406(snack):1	455(slow):1	
+0	
+
+<Author>moruya2
+<Content>Right Hotel ,Right time and in the Right place. When we arrived back in Australia, we crashed here after our around the world trip. Its right next to the airport, thank goodness, and was easy to get too and easy to check into.The rooms were large-ish and very clean. As was the entire hotel...well the bits we saw anyway. The carpark was full but we managed to get a park for the rental car, but only after a lot of waiting for a space. This was something I didnt really need as I just wanted to sleep. The stay here was completely uneventful and we have absolutely no complaints except to say that it was also very characterless and bland.We'll stay here again because of its location, in close proximity to the international terminal.  
+<Date>Aug 11, 2008
+<Rating>4	4	4	5	5	4	4	4	
+<Aspects>
+16	5(time):1	33(trip):1	52(bit):1	53(arrive):1	189(absolutely):1	190(complaint):1	272(world):1	329(entire):1	337(except):1	417(anyway):1	542(completely):1	1530(australia):1	1819(bland):1	2192(crash):1	4922(uneventful):1	9494(characterless):1	
+0	
+16	3(clean):1	32(check):1	38(lot):1	66(park):1	85(wait):1	93(easy):2	95(airport):1	104(sleep):1	121(car):1	210(space):1	271(thank):1	626(didnt):1	645(manage):1	963(rental):1	2302(goodness):1	4557(carpark):1	
+5	1(location):1	28(close):1	903(international):1	1114(proximity):1	1261(terminal):1	
+0	
+0	
+0	
+0	
+
+<Author>vabill
+<Content>Overpriced and disappointing I chose this hotel because although the rate was still over $200, it was more affordable than some of the others in the area. The parking is an additional 12.00 daily and is a tight fit if your car is anything bigger than an intermediate. The room has tired appearance, the desk lamp did not work and the soundproofing from the next room was non-existent. Fortunately, other than some coughing, the person next door was alone and didn't watch TV.The 1960's vintage bathroom had a sign that said if you take a shower one minute less you will save 9 liters of water. I don't think you could have gotten 9 liters of water through that shower head in 30 minutes - the worst I have experienced in Australia.The restaurants are overpriced and the food mediocre. If you are into huge heaps of chips (fries) with every menu item then you might be satisfied.The absolute worse part of this stay was the Internet service. You have a choice of 1 hour for 10.00 or one day for 27.95. I chose one hour and after about 8 - 10 minutes on line was interrupted buy a phone call. During that time my laptop went to energy saver and when I went to re-open the browser I was hit with another request for money (the one hour is continuous and if you stop, you lose). My complaints to the front desk were met with absolutely no sympathy - just that's Telstra.Will not consider this hotel for future stays near Sydney airport.  
+<Date>Jun 7, 2008
+<Rating>2	1	2	5	3	2	2	1	
+<Aspects>
+15	29(minute):1	60(hour):1	67(call):1	133(huge):1	167(choose):1	188(line):1	280(buy):1	296(phone):1	423(menu):1	519(item):1	899(satisfy):1	1009(fry):1	1302(chip):1	4038(heap):1	4130(interrupt):1	
+8	8(day):1	60(hour):1	78(rate):1	107(choice):1	154(disappoint):1	167(choose):1	727(overprice):1	1062(affordable):1	
+29	13(bathroom):1	29(minute):2	36(desk):1	44(experience):1	50(bad):1	54(door):1	57(water):2	61(shower):2	95(airport):1	102(near):1	116(tv):1	193(person):1	245(watch):1	248(consider):1	319(head):1	425(save):1	449(sign):1	454(tire):1	732(future):1	809(sydney):1	1530(australia):1	1585(fortunately):1	1622(lamp):1	1852(soundproof):1	2312(appearance):1	2580(nonexistent):1	3454(vintage):1	4552(cough):1	5282(liter):2	
+6	66(park):1	121(car):1	360(daily):1	668(fit):1	835(additional):1	1399(tight):1	
+0	
+18	5(time):1	31(front):1	36(desk):1	60(hour):1	80(money):1	122(stop):1	148(request):1	189(absolutely):1	190(complaint):1	196(meet):1	596(lose):1	775(hit):1	1111(laptop):1	2139(energy):1	4589(saver):1	5329(continuous):1	7906(sympathy):1	11723(re-open):1	
+8	9(service):1	10(restaurant):1	16(food):1	50(bad):1	97(internet):1	727(overprice):1	1250(absolute):1	1340(mediocre):1	
+0	
+
+<Author>mandeville-travels
+<Content>Overpriced andover-rated Airport hotels cater to a captive market, and this one is no exception, made worse by the fact that a taxi is required to get to the hotel. Overpriced rooms, overpriced food and completely unimaginative cuisine. A white bowl of white yoghurt at 5.30am did not make a good start to the day. the breakfast order was also incorrect. If you have to overnight to make a flight connection, fly out of Melbourne if you have the choice - the hotels are better and represent much better value  
+<Date>May 10, 2008
+<Rating>3	3	3	3	3	3	3	-1	
+<Aspects>
+0	
+18	8(day):1	16(food):1	81(value):1	107(choice):1	165(start):1	233(flight):1	466(white):2	542(completely):1	614(fly):1	727(overprice):2	927(yogurt):1	932(connection):1	1171(overnight):1	1366(bowl):1	1717(cuisine):1	2535(represent):1	6140(melbourne):1	11008(unimaginative):1	
+0	
+9	50(bad):1	95(airport):1	185(taxi):1	264(market):1	722(require):1	727(overprice):1	1000(cater):1	1128(exception):1	7773(captive):1	
+0	
+0	
+2	6(breakfast):1	3760(incorrect):1	
+0	
+
+<Author>jhuang
+<Content>Below average hotel I stayed at the Mercure Hotel Sydney Airport for one night due to an interview that was being held there the following day. The rate was $230 which was pretty expensive, but fine. I arrived approximately 9pm and was polite to check-in staff, but they were extremely unfriendly. I went to my room and after using the toilet, found that it kept running very loudly after being flushed. I called the reception and they said they would send somebody up to look at it. Half an hour later, the toilet was still running, and I wanted just to sleep as my conference was early the following morning. So I called the reception and asked to move rooms, which she said would be fine. She asked me to leave my luggage in the present room as it would be shifted and go down to reception. When I arrived at the reception, a different staff member looked at me bizarrely when I said I was asked to come down to change room. She very abruptly went to check and when she came back, she handed me a new key. I asked if I should go back to my room and get my stuff. She asked me What stuff? before agreeing and telling me to get it myself.The new hotel room was fine and spacious, just like the first one. The rooms are looking a little old but they have a great view of the airport tarmac out the windows. I ordered breakfast and lunch the following days from Room Service and these were delivered promptly and with a smile. It seems the hotel could do with re-training their front counter staff. The room service was great.  
+<Date>Apr 26, 2008
+<Rating>2	1	3	4	4	1	5	4	
+<Aspects>
+3	69(tell):1	473(agree):1	480(stuff):1	
+4	78(rate):1	109(pretty):1	113(fine):1	124(expensive):1	
+36	2(night):1	8(day):1	9(service):1	17(view):1	20(look):1	23(little):1	43(leave):1	56(morning):1	60(hour):1	67(call):1	79(late):1	95(airport):2	104(sleep):1	111(spacious):1	113(fine):2	119(window):1	129(reception):2	149(run):2	207(move):1	227(average):1	249(luggage):1	259(due):1	283(half):1	330(toilet):2	480(stuff):1	482(follow):2	585(below):1	593(hold):1	794(conference):1	809(sydney):1	1619(flush):1	2479(shift):1	2707(loudly):1	4518(mercure):1	8583(interview):1	8670(tarmac):1	
+0	
+0	
+19	0(staff):3	20(look):2	31(front):1	32(check):1	53(arrive):2	67(call):1	110(extremely):1	129(reception):2	161(change):1	286(check-in):1	339(key):1	377(hand):1	422(polite):1	447(send):1	1001(counter):1	1487(unfriendly):1	1961(approximately):1	8490(abruptly):1	11108(bizarrely):1	
+8	6(breakfast):1	8(day):1	9(service):1	252(lunch):1	387(smile):1	482(follow):1	631(deliver):1	1212(promptly):1	
+0	
+
+<Author>f2s
+<Content>Not bad if you need it. Found the freeshuttle bus,but it is not free back to the airport.Good check in and room upgrade as Accor card member.Our floor did have WiFi.We had park view,but strange location.Bar OK,but please shoot the live musician.There is little enough room and as a stopover I want peace.We had to dine in the restaurant to get away from the music and it was a pleasant room.Took the first plane out.  
+<Date>Apr 18, 2008
+<Rating>3	3	3	3	3	4	4	3	
+<Aspects>
+2	50(bad):1	968(plane):1	
+0	
+13	10(restaurant):1	23(little):1	24(floor):1	32(check):1	150(pleasant):1	163(upgrade):1	292(card):1	316(dine):1	398(music):1	1268(wifi):1	1517(peace):1	2364(stopover):1	6275(accor):1	
+7	1(location):1	17(view):1	46(free):1	66(park):1	95(airport):1	120(bus):1	1058(strange):1	
+0	
+0	
+6	27(bar):1	123(ok):1	173(please):1	206(live):1	1778(shoot):1	4131(musician):1	
+0	
+
+<Author>Darlox
+<Content>Reasonable airport hotel for a short stay We stayed at the Mercure Sydney Airport for two nights, starting New Year's Eve 2008. Because of the insane prices of Sydney hotels on New Year's, the price we paid for the hotel was reasonable, but only by comparison. Cheaper than downtown was about the best we could say about our rate.Overall, the hotel was a comfortable and passable site for a quick stay. If you're only visiting Sydney briefly, or need accessibility to the airport or long-distance rail, the Mercure may be a good choice.LOCATION: Literally seconds from Sydney International, the hotel is within view of the airport's International Arrivals area. The hotel has a shuttle available on a fixed schedule, but a cab ride is only $5 and may be more efficient. The hotel is located adjacent to a medium-sized park which is a pleasant place to get some fresh air on nice days, with biking/jogging trails around a small lagoon, and public playground equipment and barbeque grills available. About a 10 minute walk from the hotel is the Wolli Creek train station, with direct service to downtown and other popular areas like Bondi Junction. Trains to/from Wolli Creek are less than half the cost of trains directly to the airport, despite being on the same line and less than a mile away!ROOMS: The rooms are a bit dated, but were generally clean and acceptable. The bed was a bit firm for our tastes, but the room was spacious and had all of the amenities one would expect from a budget travel hotel. Initially, on check-in, we thought our air conditioning was broken -- however it was actually fine; the AC is controlled by a small not-obvious switch on the nightstand that must be turned on before the on-wall thermostat will work. There is no wireless Internet in the rooms.SERVICE: The front desk staff seemed somewhat overworked, and anything we needed involved a wait for either other guests, or people calling on the phone. They accommodated all of our requests, and were fairly knowledgeable about the Sydney area, but were a bit inefficient. We reserved a cab one evening, for the next morning -- and while they did call the next morning after the cab never arrived, other guests who were also waiting indicated that they'd also had problems reserving cabs through the front desk. Recommend booking your own.AMENITIES: The hotel's nod to snacks is a strange card-based minibar located outside the elevator on each floor. If you want to purchase standard minibar fare or alcohol, you get a card from the front desk that's linked to your room account. Your card unlocks the mini-bar, and removing any item from its slot charges it to your account. The hotel has no guest laundry, but there is a travel inn across the street that does have washers and dryers available. The front desk said they were available for our use, and that hotel had no problems with us using their facilities.There are undoubtedly better places to stay in Sydney, but if you need accessibility to the airport and want easy train access to downtown, this is a good traveler hotel for you.  
+<Date>Feb 13, 2008
+<Rating>3	3	3	4	3	3	3	-1	
+<Aspects>
+0	
+27	2(night):1	19(price):2	42(pay):1	52(bit):1	65(visit):1	78(rate):1	95(airport):3	107(choice):1	143(cheap):1	144(short):1	148(request):1	165(start):1	273(reasonable):2	334(downtown):1	462(fairly):1	624(accommodate):1	809(sydney):4	1160(knowledgeable):1	1525(comparison):1	1755(rail):1	1787(eve):1	4518(mercure):2	4573(insane):1	4600(briefly):1	5657(inefficient):1	6457(accessibility):1	12711(long-distance):1	
+12	3(clean):1	11(bed):1	52(bit):2	62(expect):1	68(travel):1	111(spacious):1	291(amenity):1	429(budget):1	439(taste):1	511(date):1	1214(acceptable):1	1368(firm):1	
+75	1(location):1	4(nice):1	7(walk):1	8(day):1	9(service):1	17(view):1	25(comfortable):1	29(minute):1	35(street):1	66(park):1	68(travel):1	70(overall):1	82(station):1	84(locate):1	91(guest):1	93(easy):1	95(airport):3	113(fine):1	134(available):3	150(pleasant):1	159(access):1	164(air):2	175(cost):1	180(actually):1	182(train):4	188(line):1	192(site):1	197(fresh):1	218(ride):1	224(arrival):1	228(break):1	263(condition):1	267(traveler):1	283(half):1	286(check-in):1	299(quick):1	321(shuttle):1	324(inn):1	334(downtown):2	379(public):1	380(cab):1	383(directly):1	401(efficient):1	494(fix):1	498(despite):1	629(grill):1	665(literally):1	692(mile):1	803(direct):1	809(sydney):2	865(control):1	888(switch):1	903(international):2	956(ac):1	1061(adjacent):1	1075(laundry):1	1196(schedule):1	1209(dryer):1	1211(equipment):1	1277(popular):1	1439(initially):1	2045(lagoon):1	2507(trail):1	2547(thermostat):1	2602(washer):1	3741(playground):1	4247(passable):1	4445(nightstand):1	4768(junction):1	4868(bondi):1	4925(undoubtedly):1	5965(barbeque):1	6457(accessibility):1	7190(creek):2	10780(medium-size):1	
+0	
+33	0(staff):1	9(service):1	26(people):1	31(front):4	36(desk):4	53(arrive):1	56(morning):2	67(call):2	85(wait):2	91(guest):2	130(standard):1	134(available):1	136(charge):1	211(facility):1	292(card):2	296(phone):1	380(cab):3	506(reserve):2	519(item):1	651(somewhat):1	887(purchase):1	1037(minibar):1	1112(fare):1	1135(remove):1	1267(alcohol):1	1338(mini-bar):1	1538(involve):1	1727(link):1	1730(account):2	1776(indicate):1	1877(slot):1	3599(unlock):1	5083(overwork):1	
+11	15(recommend):1	18(book):1	24(floor):1	84(locate):1	98(outside):1	166(own):1	216(elevator):1	291(amenity):1	406(snack):1	1037(minibar):1	1058(strange):1	
+2	97(internet):1	717(wireless):1	
+
+<Author>tess1375
+<Content>Very clean Stayed one night on the 5th December. I found check-in staff cold  unfriendly. Same person on duty both on arrival  departure. Makes you feel unwanted  a nuisance. But room-service  restaurant staff excellent. Friendly  obliging. Room was very clean. Early check-in and late check-out allowed so was pleased with that.  
+<Date>Dec 17, 2007
+<Rating>3	3	4	4	5	1	5	-1	
+<Aspects>
+9	12(friendly):1	34(feel):1	193(person):1	224(arrival):1	1031(departure):1	1325(duty):1	2709(oblige):1	3973(nuisance):1	6786(unwanted):1	
+0	
+1	3(clean):1	
+0	
+4	2(night):1	3(clean):1	839(5th):1	993(december):1	
+8	0(staff):1	79(late):1	173(please):1	222(cold):1	286(check-in):2	359(allow):1	658(checkout):1	1487(unfriendly):1	
+4	0(staff):1	10(restaurant):1	21(excellent):1	6907(room-service):1	
+0	
+
+<Author>AndrewCrown
+<Content>Its a Bed Anonymous and mediocre..... The staff will happily watch you unload your car and struggle through the lobby with your suitcases. I think this place has been recently upgraded but my room was just tatty, a modern carpet and funky paint doesn't hide that the fittings in this place are early 80's maybe? Its just ok if you need somewhere to sleep.  
+<Date>Oct 29, 2007
+<Rating>3	3	2	4	2	2	2	-1	
+<Aspects>
+0	
+0	
+23	0(staff):1	11(bed):1	55(lobby):1	104(sleep):1	121(car):1	123(ok):1	151(modern):1	163(upgrade):1	245(watch):1	308(maybe):1	322(recently):1	396(carpet):1	806(paint):1	974(suitcase):1	1195(hide):1	1340(mediocre):1	1516(funky):1	1642(happily):1	1979(struggle):1	2379(fitting):1	3143(unload):1	4461(tatty):1	6346(anonymous):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>angnando
+<Content>ok for a pit stop Booked overnight stay here due to having to board an early flight the following morning, and the fly drive package was good value since it included room, 5 days car parking and shuttle transfers to/from airport.Certainly nowhere near the quality of the Stamford Airport Hotel although the location I feel is slightly better, particularly if you feel like going for a walk outside the hotel. Being located right near Wolli Creek and also having the Kogarah Golf Course nearby gives you the feeling you're not just next to an airport and adds a bit of greenery and space around the hotel. Would only rate this 3 stars, hotel facade is dated although once inside facilities and room we stayed in was ok. Again, whilst not the usual mercure standard it was comfortable and did its job. Service is very minimal however so don't expect anyone at the front entrance and even reception had 1 staff most of the time so you can be left waiting during busy periods.The bar was fairly good and provided a nice spot to spend a few hours of the evening relaxing, having a drink, and playing complementary snooker.  
+<Date>Aug 12, 2007
+<Rating>3	3	3	4	3	2	2	3	
+<Aspects>
+6	25(comfortable):1	130(standard):1	481(job):1	682(usual):1	877(whilst):1	4518(mercure):1	
+0	
+38	8(day):1	18(book):1	34(feel):1	52(bit):1	56(morning):1	66(park):1	71(include):1	78(rate):1	81(value):1	84(locate):1	95(airport):2	102(near):1	103(star):1	121(car):1	122(stop):1	123(ok):2	210(space):1	211(facility):1	232(nearby):1	233(flight):1	259(due):1	293(course):1	298(drive):1	321(shuttle):1	351(add):1	408(inside):1	482(follow):1	511(date):1	527(package):1	600(board):1	614(fly):1	1012(golf):1	1021(transfer):1	1171(overnight):1	3413(pit):1	3980(facade):1	4728(greenery):1	7190(creek):1	
+10	1(location):1	7(walk):1	34(feel):2	95(airport):1	98(outside):1	102(near):1	187(quality):1	553(particularly):1	598(slightly):1	5133(stamford):1	
+0	
+12	0(staff):1	5(time):1	9(service):1	31(front):1	43(leave):1	62(expect):1	85(wait):1	129(reception):1	220(busy):1	490(entrance):1	1331(period):1	1615(minimal):1	
+11	4(nice):1	27(bar):1	60(hour):1	63(drink):1	64(spend):1	153(provide):1	160(relax):1	317(spot):1	386(play):1	462(fairly):1	1978(complementary):1	
+0	
+
+<Author>Cameron85
+<Content>A bit of a dump in all honesty I really didn't like this hotel at all. It seemed REALLY tired, worn out and the rooms were small, cramped and the bed was like sleeping on a slab of rock cut out from the nearby Blue Mountains.. The fact that Sydney was experiencing over 100 millimetres of rain at the time didn't help the overall experience either!!My family and I stayed here for one night preparing for our international flight to Seoul the following day, and we're lucky we only had to spend one night here. Definatrely will be spending a bit extra to stay somewhere else next time we have to stay near the airport. We actually ate at the airport as well, skipping their restaurant :)I can't believe this hotel is rated 4 star by trip advisor, good to see all the other reviews on this site give similar ratings to mine :)Happy Travels.  
+<Date>Jun 15, 2007
+<Rating>2	2	1	3	2	3	3	3	
+<Aspects>
+3	52(bit):1	1449(dump):1	4095(honesty):1	
+6	5(time):1	44(experience):2	70(overall):1	92(help):1	581(rain):1	809(sydney):1	
+26	2(night):2	5(time):1	8(day):1	11(bed):1	52(bit):1	64(spend):2	95(airport):1	102(near):1	104(sleep):1	106(family):1	128(extra):1	170(else):1	232(nearby):1	233(flight):1	434(wear):1	454(tire):1	460(prepare):1	482(follow):1	694(blue):1	773(rock):1	797(lucky):1	873(cut):1	903(international):1	1080(cramp):1	1509(mountain):1	6762(slab):1	
+17	10(restaurant):1	33(trip):1	37(review):1	47(eat):1	68(travel):1	78(rate):1	95(airport):1	103(star):1	155(happy):1	180(actually):1	192(site):1	312(believe):1	701(advisor):1	874(similar):1	1269(mine):1	1429(skip):1	2608(rating):1	
+0	
+0	
+0	
+0	
+
+<Author>MorningsideMinkel
+<Content>Great Kangaroo My partner and I stayed here after our Qantas flight to Singapore was overbooked and we were delayed for one day. The hotel was pleasant enough, though check-in staff could have been friendlier. After having had a long wait at the airport we wanted nothing more than a shower, some food and a good sleep.To our own surprise, we went to the hotel restaurant and had a fabulous night. Lovely wine, a nice table, lovely serving staff and fantastic food. The Kangaroo fillet was cooked to perfection, our starters were fresh and appealing, and the desert was a wonderful finish. We were so energised we then took a cab to Sydney and enjoyed the rest of the evening. The bed was comfortable, and while the room might need a little modernising, we had no complaints. Breakfast was a disappointment after the previous night's food, but hardly inedible. Perhaps not a great four star, but the restaurant is worth a visit.  
+<Date>May 24, 2007
+<Rating>4	3	3	3	4	2	2	4	
+<Aspects>
+4	51(enjoy):1	288(rest):1	380(cab):1	809(sydney):1	
+13	10(restaurant):1	48(wonderful):1	65(visit):1	96(worth):1	103(star):1	197(fresh):1	550(cook):1	772(finish):1	1679(appeal):1	1706(desert):1	2269(perfection):1	3081(starter):1	5617(fillet):1	
+17	8(day):1	11(bed):1	16(food):1	23(little):1	25(comfortable):1	61(shower):1	85(wait):1	95(airport):1	104(sleep):1	190(complaint):1	233(flight):1	960(singapore):1	1006(partner):1	1351(delay):1	2068(overbooke):1	4544(modernize):1	10895(qantas):1	
+0	
+0	
+4	0(staff):1	12(friendly):1	150(pleasant):1	286(check-in):1	
+18	0(staff):1	2(night):2	4(nice):1	6(breakfast):1	10(restaurant):1	16(food):2	86(fantastic):1	87(lovely):2	166(own):1	174(serve):1	199(surprise):1	229(table):1	251(wine):1	270(fabulous):1	373(previous):1	866(disappointment):1	985(hardly):1	4265(inedible):1	
+0	
+
+<Author>mylocath
+<Content>Disappointing for a 4 star My wife and I stayed the night of 20 November 2006. We had hoped for somewhere to relax pending our return flight to the UK. Regretably, facilities at the hotel were poor - the swimming pool was ok for a quick dip, but its location overlooking a busy road, and the general surroundings, were not condusive to a relaxing day in the sun. The gym was no better - very shabby and ill equiped. The room was 'ok', but close to needing refurbishment - we've stayed in better '4 star' rooms - but the bathroom very much needed upgrading. The bath was small and the door draughty, and the sink unit lacked even a basic shaving light!The evening buffet, too, was not up to '4 star' standard - nothing special.Overall, a disappointing experience.  
+<Date>Nov 26, 2006
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+7	2(night):1	44(experience):1	70(overall):1	103(star):1	154(disappoint):2	184(wife):1	999(november):1	
+21	13(bathroom):1	28(close):1	39(return):1	54(door):1	103(star):1	123(ok):1	157(light):1	160(relax):1	163(upgrade):1	226(bath):1	233(flight):1	328(hope):1	349(lack):1	352(basic):1	509(sink):1	980(unit):1	1178(uk):1	2253(refurbishment):1	3065(shave):1	7614(drafty):1	11271(pending):1	
+16	1(location):1	8(day):1	22(pool):1	123(ok):1	160(relax):1	211(facility):1	220(busy):1	230(road):1	260(overlook):1	261(swim):1	299(quick):1	331(poor):1	420(sun):1	1551(surroundings):1	2272(dip):1	10973(condusive):1	
+0	
+0	
+8	77(buffet):1	103(star):1	130(standard):1	208(special):1	523(gym):1	1319(shabby):1	1657(ill):1	2976(equipe):1	
+0	
+
+<Author>nw82
+<Content>Not too bad Stayed overnight while in town on business. While the service wasn't anything fancy, the staff were never rude. Check-in took a little longer than would like due to the girl on the desk flirting with the customer in front of me.Ordered room service and it was fine. Again nothing fancy, but adequate, and prices were normal for room service.Rooms are nice and beds are very comfortable. Bathroom was a little dated, but served its purpose.I booked the room as a 'mystery room' so didn't pay full price. Probably wouldn't stay here at full price, but for the bargain price I paid I was satisfied.  
+<Date>Oct 26, 2006
+<Rating>3	3	3	3	3	2	3	-1	
+<Aspects>
+0	
+11	9(service):1	18(book):1	19(price):4	42(pay):2	178(probably):1	390(adequate):1	759(bargain):1	796(fancy):1	878(normal):1	899(satisfy):1	4158(mystery):1	
+10	4(nice):1	9(service):1	11(bed):1	13(bathroom):1	23(little):1	25(comfortable):1	113(fine):1	174(serve):1	511(date):1	1428(purpose):1	
+4	50(bad):1	147(business):1	239(town):1	1171(overnight):1	
+0	
+12	0(staff):1	9(service):1	23(little):1	31(front):1	36(desk):1	259(due):1	286(check-in):1	392(rude):1	428(customer):1	625(girl):1	796(fancy):1	8620(flirt):1	
+0	
+0	
+
+<Author>oneword
+<Content>Don't Do It! What a lousy welcome home to Australia after a few weeks enjoying the great service and amenities of Asian 4+ star hotels. In fact, I'm embarrassed that international visitors to Australia get some of their first impressions from this hotel.My wife and I arrived mid-evening after a pleasant Qantas flight from Hong Kong. We used the complimentary Mercure airport shuttle bus service which was easy to find and on-time. That was the one and only high point of our overnight stay.There is no porterage at the Mercure International Airport Hotel that we could find! Absolutely unacceptable, given that most international travellers have quite a bit of luggage. Our's was just unloaded out the front of the hotel and we lugged it inside where we queued to check-in. There was just one person on duty even though it was only 9:00pm. Again, not good enough. Eventually, a second person helped with check-in but by the time he turned up, most of the queue had been processed.The demeanour of both receptionists was, in a word, 'robotic'. No trace of warmth or genuine courtesy. We and our fellow travellers were just items to be processed as quickly as possible with as little interaction as possible. I witnessed a terrible episode involving an Asian couple who had travelled with us on the shuttle bus. After standing in line for 10 minutes and presenting their paperwork, they were told they were in the wrong Mercure Hotel. Their's was in the city. The couple had little English and the female receptionist did the absolute bar minimum to assist. She spoke to them like they were idiots and pointed outside the front door. Eventually, she ordered them a taxi but that was after several bewildered looks from the stranded couple. Their mistake was understandable and should have been handled with more diplomacy.Our non-smoking room had been smoked-in and the alleged refurbishment was at best, modest. We were too tired and Peed Off to complain and just wanted to hit the sack. The next morning, I told the receptionist about the smell in the room so that they could fumigate it. Her response? No sorry, no thanks for lettting us know. The best she could muster was well why didn't you complain when you checked-in last night! That's it, verbatim. Unbelieveable.We made the right decision the night before when we resolved not to stay a moment too long in the hotel, electing to eat breakfast at the airport rather than the downstairs restaurant. The last straw was the shuttle bus journey to the domestic airport in Sydney for our connection home. The driver was a lazy jerk who treated the bus load of guests like a major inconvenience and he drove like a maniac. Lots of hard acceleration and hard braking making the trip both uncomfortable and at times, nerve racking.Overall? Lousy service and attitude. The management team needs to be sent back to hospitality class, ASAP.  
+<Date>Oct 2, 2006
+<Rating>2	2	2	3	3	1	1	-1	
+<Aspects>
+44	5(time):1	23(little):1	29(minute):1	33(trip):1	38(lot):1	41(city):1	69(tell):1	70(overall):1	162(hard):2	188(line):1	193(person):1	241(complain):1	267(traveler):1	271(thank):1	393(pm):1	427(wrong):1	444(stand):1	454(tire):1	471(quickly):1	519(item):1	775(hit):1	856(uncomfortable):1	891(sorry):1	895(mistake):1	966(handle):1	1171(overnight):1	1222(process):1	1325(duty):1	1330(response):1	1728(courtesy):1	1742(fellow):1	2220(genuine):1	2560(warmth):1	3428(interaction):1	3776(paper-work):1	3986(understandable):1	4071(nerve):1	4518(mercure):1	5545(unbelieveable):1	5718(pee):1	6305(trace):1	8179(sack):1	8747(wrack):1	8833(brake):1	
+10	9(service):1	51(enjoy):1	75(week):1	103(star):1	141(home):1	202(welcome):1	291(amenity):1	1328(asian):1	1530(australia):1	2409(lousy):1	
+10	53(arrive):1	95(airport):1	150(pleasant):1	184(wife):1	233(flight):1	903(international):1	1121(kong):1	1123(hong):1	4518(mercure):1	10895(qantas):1	
+41	9(service):1	20(look):1	31(front):1	54(door):1	68(travel):1	91(guest):1	93(easy):1	95(airport):2	98(outside):1	99(couple):2	120(bus):4	127(speak):1	141(home):1	185(taxi):1	298(drive):1	315(major):1	320(treat):1	321(shuttle):3	345(complimentary):1	432(terrible):1	563(driver):1	809(sydney):1	886(load):1	932(connection):1	1204(eventually):1	1328(asian):1	1362(journey):1	1431(inconvenience):1	1538(involve):1	1786(lazy):1	2685(witness):1	3393(straw):1	4073(strand):1	4357(domestic):1	4518(mercure):1	4789(idiot):1	5897(jerk):1	6471(episode):1	10911(on-time):1	11174(maniac):1	11414(bewilder):1	
+4	978(nonsmoking):1	2253(refurbishment):1	2553(modest):1	10638(allege):1	
+31	2(night):1	5(time):1	23(little):1	27(bar):1	31(front):1	56(morning):1	69(tell):1	92(help):1	99(couple):1	152(english):1	193(person):1	231(smell):1	241(complain):1	286(check-in):2	408(inside):1	571(word):1	855(receptionist):3	1204(eventually):1	1222(process):1	1250(absolute):1	1265(assist):1	1463(queue):2	1714(female):1	2124(minimum):1	2929(lug):1	3143(unload):1	5223(checked-in):1	6431(fumigate):1	7150(demeanor):1	10656(robotic):1	11901(muster):1	
+29	2(night):1	6(breakfast):1	9(service):1	10(restaurant):1	47(eat):1	52(bit):1	95(airport):1	189(absolutely):1	249(luggage):1	267(traveler):1	447(send):1	470(class):1	525(management):1	670(moment):1	691(downstairs):1	821(attitude):1	848(impression):1	903(international):2	951(visitor):1	1008(team):1	1115(hospitality):1	1530(australia):1	1539(decision):1	1715(resolve):1	2230(unacceptable):1	2409(lousy):1	3183(embarrass):1	3906(asap):1	5702(elect):1	
+0	
+
+<Author>travellingfour
+<Content>Quite Comfortable I had my doubts about this hotel prior to leaving home. I had read the reviews in this site and was even having thoughts about cancelling the whole 3 nights accommodation I had with them鈥︹€?I am glad that I did not. I am going to make my review in point form:Good/Avarage Points:鈥llowed us to check in 40 min earlier then the 2pm check-in and did not charge us for it.鈥lenty of parking available.鈥omfortable rooms.鈥ery friendly housekeeping staff on our floor. Nothing was too much trouble for them. Extra towels, extra tea/coffee/milk/sugar. At one point he said to me that I could just help myself at the cart and get whatever we needed. Great! They were on our floor for most of the day.鈥 had to call housekeeping once because a light bulb went out. I though I would be waiting for ages. I was very surprised to hear a knock on the door within 5 min and it was fixed.鈥O MINIBAR IN THE ROOM. I thought this was great! There are fully stocked minibars located near the lifts on each floor. You simply go to reception and ask for a 鈥淪martbar鈥?card and you swipe the card and grab what you like and pay upon check out. This eliminates temptation and the accidents of children opening chocolate bars  chips and disputes upon checking out.鈥onvenient location to the airport with complimentary pick-up and drop-off was only $4 AUD per person.鈥rain to the city is only a 10min walk across a park to Wolli Creek station. Ticket on the train for an adult to the city return a bargain at under $5 AUD for a 10-15min train trip.鈥axi fare from the centre of the city to the hotel was I thought fair at $24AUD.鈥uffet breakfast I thought was ok, a bit pricey for it though. Your typical scrambled eggs, bacon, hash browns, grilled tomatoes, pancakes (No maple syrup though!), toast, cereal choices, tea, coffee, juice, yoghurts, fresh fruits and a few Asian dishes (miso soup, rice etc.)Bad points:鈥 found the food at the hotel a little pricey for what it was. Room service was I thought very pricey for what it was eg: $14AUD for a bowl of wedges, $12AUD for a piece of mud cake.鈥e ended up having to buy food whilst shopping in the city and also bringing back extra food to the hotel to eat. Other options we did was to take the hotel shuttle to the Int. Airport and eat in the food court area. There is also a bakery and caf茅 located near the Wolli Creek train station  there is a Rowing club where I was told later, that you could get food there also.鈥ot much to do during the evening.I hope this helps  happy travels.T4  
+<Date>Aug 20, 2006
+<Rating>3	3	3	3	3	3	4	3	
+<Aspects>
+19	25(comfortable):1	43(leave):1	54(door):1	68(travel):1	92(help):2	132(hear):1	141(home):1	155(happy):1	199(surprise):1	247(min):1	328(hope):1	494(fix):1	569(trouble):1	637(prior):1	937(whatever):1	952(doubt):1	1322(cart):1	1323(knock):1	3687(ot):1	
+20	2(night):1	6(breakfast):1	33(trip):1	37(review):1	39(return):1	41(city):1	52(bit):1	88(read):1	123(ok):1	182(train):2	192(site):1	546(pricey):1	556(adult):1	619(glad):1	621(ticket):1	721(accommodation):1	759(bargain):1	1065(cancel):1	5360(aud):1	8863(10-15min):1	
+23	0(staff):1	8(day):1	12(friendly):1	16(food):1	24(floor):3	41(city):1	47(eat):1	67(call):1	84(locate):1	95(airport):1	101(center):1	102(near):1	157(light):1	367(housekeeping):2	591(lift):1	599(stock):1	739(fair):1	1037(minibar):1	1068(court):1	1112(fare):1	2458(bulb):1	8203(minibars):1	11781(ery):1	
+34	1(location):1	7(walk):1	16(food):3	41(city):2	47(eat):1	49(shop):1	66(park):2	69(tell):1	79(late):1	82(station):2	84(locate):1	95(airport):1	102(near):1	128(extra):1	134(available):1	142(bring):1	182(train):1	193(person):1	212(club):1	280(buy):1	321(shuttle):1	336(option):1	345(complimentary):1	581(rain):1	877(whilst):1	1483(bakery):1	1638(row):1	2258(pickup):1	2532(caf):1	4050(10min):1	5360(aud):1	5412(int):1	7190(creek):2	8596(drop-off):1	
+0	
+23	27(bar):1	32(check):3	37(review):1	42(pay):1	85(wait):1	129(reception):1	136(charge):1	247(min):1	277(child):1	286(check-in):1	292(card):2	488(simply):1	505(age):1	632(chocolate):1	1139(grab):1	1164(form):1	1302(chip):1	3213(accident):1	4041(dispute):1	4077(swipe):1	4399(eliminate):1	7919(2pm):1	11334(temptation):1	
+39	9(service):1	16(food):1	23(little):1	50(bad):1	73(etc):1	90(coffee):1	107(choice):1	125(towel):1	128(extra):2	197(fresh):1	215(fruit):1	301(tea):2	362(juice):1	412(egg):1	529(cereal):1	546(pricey):2	628(typical):1	629(grill):1	816(dish):1	875(toast):1	927(yogurt):1	941(piece):1	1029(cake):1	1057(bacon):1	1328(asian):1	1366(bowl):1	1477(pancake):1	1499(rice):1	1667(brown):1	1674(scramble):1	1772(soup):1	2113(sugar):1	3174(tomato):1	4843(syrup):1	5211(hash):1	6016(wedge):1	6531(miso):1	6579(mud):1	7819(maple):1	
+0	
+
+<Author>oldmikeNewZealand
+<Content>average comfortable airport hotel After reading the reviews for this hotel I would like to advise that I had no problems staying at this hotel, I only wanted a hotel near the airport that could supply me a comfortable room, and the room I got was comfortable enough for a one night stay.No problems with check in or check out at all and was not charged for return airport shuttle even though they do sometimes charge for return trip.Hotel was clean and decor was fine although a little dated. but as I paid a cheap enough price I didn't mind.The Mecure did its job as a reasonable airport hotel and I would stay again depending on the price  
+<Date>Jun 19, 2006
+<Rating>3	4	3	-1	4	-1	3	-1	
+<Aspects>
+0	
+8	19(price):2	42(pay):1	95(airport):1	143(cheap):1	273(reasonable):1	294(mind):1	481(job):1	969(depend):1	
+14	2(night):1	3(clean):1	23(little):1	25(comfortable):3	37(review):1	88(read):1	95(airport):2	102(near):1	113(fine):1	227(average):1	269(decor):1	511(date):1	663(advise):1	859(supply):1	
+7	32(check):2	33(trip):1	39(return):2	95(airport):1	136(charge):2	321(shuttle):1	560(sometimes):1	
+0	
+0	
+0	
+0	
+
+<Author>cessnapilot
+<Content>try elsewhere We arrived around 9:00 p.m. and whilst in the lift I saw a poster advertising the hotel's tavern. The poster said the tavern was closed Sundays. Jokingly I said to my husband, Closed Sundays? What kind of a place is this?.In response, the businessman who was in the lift with us said, It's a bloody dreadful one and I wouldn't be here if I didn't have to. This turned out to be good advice.For example: As we were checking in, my husband went into the restaurant to see how late they served. He was told, 10:00. So we brought our bags to our room and came to the restaurant at 9:30. We were seated but told we should, and I quote, rush your order, as we are closing the kitchen and were hurried through the entire meal. We did not expect this sort of thing at an airport hotel (the meal was also lousy and expensive, which we DID expect at an airport hotel).The room was expensive, small, not cared for (e.g., light bulbs were burned out) and lacking in amenities.On the plus side, my husband said the gym was ok.We would not recommend this hotel.  
+<Date>Dec 22, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	15(recommend):1	53(arrive):1	69(tell):1	76(try):1	575(advice):1	591(lift):1	646(elsewhere):1	877(whilst):1	910(advertise):1	1466(p.m):1	2043(poster):1	6192(tavern):1	
+6	62(expect):2	95(airport):2	124(expensive):1	213(meal):1	557(sort):1	2409(lousy):1	
+19	10(restaurant):1	28(close):1	69(tell):1	124(expensive):1	142(bring):1	157(light):1	213(meal):1	242(care):1	290(bag):1	291(amenity):1	329(entire):1	349(lack):1	461(kitchen):1	504(seat):1	1244(rush):1	1289(burn):1	1856(quote):1	2265(hurry):1	2458(bulb):1	
+11	28(close):2	105(husband):1	591(lift):1	1330(response):1	2043(poster):1	2895(dreadful):1	3938(bloody):1	4018(sundays):2	4995(businessman):1	6192(tavern):1	11993(jokingly):1	
+0	
+0	
+9	10(restaurant):1	32(check):1	79(late):1	105(husband):2	123(ok):1	174(serve):1	203(plus):1	523(gym):1	954(example):1	
+0	
+
+<Author>Ray Goldberg
+<Content>Absolute disgrace This hotel was a disgrace from when I checked in.If all the surrounding hotels had not been full,I would have checked right out again.The supposid 4 star hotel is in need a a face list,is dirty,seriously overpriced and badly managed. Our upgraded room for $20 a night was not an upgrade at all. The kids rooms airconditioning broke. They took the whole day to tell us they couldnt fix it and finally moved the kids at 10pm after I and make a lot of noise about consumers rights. yes, they did compensate us with breakfast in the morning but overall this is not the best Airport Hotel. Try the Holiday Inn,Sir Stamford or Novatel Brighton. Far superior hotels. oh,if you want broadband, be prepared for a $200 ( yes thats right) bill. Dial up only.  
+<Date>Dec 15, 2005
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+24	8(day):1	38(lot):1	69(tell):1	76(try):1	94(noise):1	201(kid):1	207(move):1	223(holiday):1	250(yes):1	324(inn):1	341(finally):1	460(prepare):1	494(fix):1	495(bill):1	785(superior):1	1198(thats):1	1528(couldnt):1	2825(broadband):1	3250(dial):1	3376(sir):1	5133(stamford):1	7119(10pm):1	7367(brighton):1	9151(consumer):1	
+7	103(star):1	323(dirty):1	645(manage):1	650(list):1	727(overprice):1	1441(seriously):1	1663(badly):1	
+11	2(night):1	6(breakfast):1	56(morning):1	70(overall):1	95(airport):1	163(upgrade):2	201(kid):1	228(break):1	250(yes):1	1903(airconditione):1	2243(compensate):1	
+2	32(check):1	667(surround):1	
+0	
+3	32(check):1	1250(absolute):1	4524(disgrace):2	
+0	
+0	
+
+<Author>forbes1
+<Content>Terrbile hotel One of the worst hotels I have ever stayed in. Badly organised and very noisy rooms. You can hear every word in the next room. Restaurant badly organised and food not good. Avoid it.  
+<Date>Dec 1, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	50(bad):1	436(avoid):1	
+0	
+5	132(hear):1	217(noisy):1	571(word):1	1167(organize):1	1663(badly):1	
+0	
+0	
+0	
+4	10(restaurant):1	16(food):1	1167(organize):1	1663(badly):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Basic Airport Hotel Overnighted awaiting connecting flight. Basic services in an old Hotel - stayed here in late 1980's when it was a Hilton Hotel. Showing signs of wear but room was adequate with a superbly comfortable bed. Would stay again if only for the bed.  
+<Date>Oct 3, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+12	11(bed):2	25(comfortable):1	95(airport):1	233(flight):1	352(basic):1	390(adequate):1	434(wear):1	449(sign):1	841(connect):1	1171(overnight):1	2742(await):1	3820(superbly):1	
+0	
+0	
+0	
+4	9(service):1	79(late):1	352(basic):1	477(hilton):1	
+0	
+

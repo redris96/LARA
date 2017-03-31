@@ -1,0 +1,350 @@
+<Author>h_doody
+<Content>Good hotel This hotel was a good hotel, in a quiet location of Florence.This hotel is not typical of NH, as it is a old building and therefore the style in very regal. The breakfast was a reasonable buffet breakfast!On the negative side, I did feel that the hotel's bedrooms were quite small, unless you get a upgrade. The rooms on the ground floor are rather noisy. If you would like piece and quiet, ask for a room facing into the central courtyard.The hotel is also located not right in the centre of the Florence, however the walk along the river is great to get to all the sights. It take 10 minutes to get to the Ponte Vecchio.  
+<Date>Mar 30, 2008
+<Rating>4	4	3	4	4	4	4	4	
+<Aspects>
+8	29(minute):1	135(build):1	326(style):1	628(typical):1	1645(ponte):1	1836(vecchio):1	3049(nh):1	7059(regal):1	
+0	
+14	1(location):1	24(floor):1	34(feel):1	58(quiet):2	163(upgrade):1	168(central):1	217(noisy):1	268(bedroom):1	282(negative):1	346(florence):1	405(unless):1	435(courtyard):1	706(grind):1	941(piece):1	
+6	7(walk):1	84(locate):1	101(center):1	346(florence):1	411(sight):1	710(river):1	
+0	
+0	
+3	6(breakfast):2	77(buffet):1	273(reasonable):1	
+0	
+
+<Author>shiulee
+<Content>Good Hotel We stayed for 3 nights at this hotel, which has been taken over by the NH group.Hotel and rooms are very well maintained and the breakfast was exceptional!The only disadvantage is the location, its almost 20 mins walk from the city center.  
+<Date>Mar 25, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	2(night):1	3049(nh):1	
+0	
+3	6(breakfast):1	562(maintain):1	837(exceptional):1	
+6	1(location):1	7(walk):1	41(city):1	101(center):1	247(min):1	3931(disadvantage):1	
+0	
+0	
+0	
+0	
+
+<Author>gigascott
+<Content>Location Not Ideal The hotel was pretty nice but out of the way from the major sights. The walls must be thin since you could hear your neighbors moving around.  
+<Date>Feb 22, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+11	1(location):1	4(nice):1	109(pretty):1	132(hear):1	183(wall):1	207(move):1	315(major):1	411(sight):1	545(ideal):1	754(thin):1	934(neighbour):1	
+0	
+0	
+0	
+0	
+
+<Author>gardkarlsen
+<Content>Positively surprised by Anglo American       Hotel entrance  
+<Date>Nov 2, 2007
+<Rating>3	3	4	3	4	3	3	1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+3	199(surprise):1	490(entrance):1	4876(positively):1	
+0	
+0	
+
+<Author>LauraDes
+<Content>Lovely Hotel We stayed in this hotel in Florence for two days. The hotel was very central. Close to the main train station which was very handy. Staff were friendly and very helpful. Rooms were average size if a bit on the dark side. No view from the room window so there wasn't much light getting in. But we didn't mind as we were never in the room during the day. Bathroom was clean. Shower was very powerful which made a change from some hotels. Would recommend this hotel if you are looking for somewhere central, clean, and not too expensive.  
+<Date>Oct 14, 2007
+<Rating>3	4	3	5	5	4	4	4	
+<Aspects>
+4	8(day):1	87(lovely):1	168(central):1	346(florence):1	
+5	3(clean):1	15(recommend):1	20(look):1	124(expensive):1	168(central):1	
+14	3(clean):1	8(day):1	13(bathroom):1	17(view):1	52(bit):1	61(shower):1	83(size):1	119(window):1	157(light):1	161(change):1	227(average):1	294(mind):1	459(dark):1	2026(powerful):1	
+5	28(close):1	82(station):1	112(main):1	182(train):1	755(handy):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>Charlemaine
+<Content>Good average Reasonable size rooms, medium standard, OK as a good base for a few days explorationStaff efficient and friendly, although we did witness one incident where they were rather short and curt with two typically loud and crass americans who seemed to think all foreign countries should adapt to american 'standards' and speak English, and appeared totally unaware of the offense they caused as they trampled over centuries of culture and tradition. The reaction of the staff was totally justified and may explain similar incidents of rudeness listed in these reviews  
+<Date>Sep 10, 2007
+<Rating>3	3	3	3	3	3	3	-1	
+<Aspects>
+0	
+0	
+30	8(day):1	12(friendly):1	83(size):1	123(ok):1	127(speak):1	130(standard):2	144(short):1	152(english):1	227(average):1	273(reasonable):1	284(base):1	401(efficient):1	416(loud):1	530(country):1	541(appear):1	611(totally):1	943(cause):1	1172(americans):1	1497(culture):1	1994(typically):1	2013(incident):1	2171(century):1	2375(foreign):1	2685(witness):1	2762(medium):1	4678(tradition):1	5142(curt):1	5393(unaware):1	6791(adapt):1	8176(offense):1	
+0	
+0	
+10	0(staff):1	37(review):1	611(totally):1	650(list):1	768(explain):1	874(similar):1	2013(incident):1	3647(rudeness):1	3648(reaction):1	5463(justified):1	
+0	
+0	
+
+<Author>jackcolton74
+<Content>Downgrading Anglo American Over the last year, the Anglo American has really diminished: more and more stains on furniture, bad customer service from the front desk and a general bad attitude when it comes to the 'friendly' Italian hotels we've worked with. As a tour director that just one year ago endorsed this hotel, I must say, stay away from the Anglo. The Montbello Splendid or the Baglioni are good choices when in Florence.  
+<Date>Aug 1, 2007
+<Rating>2	2	2	4	2	1	1	1	
+<Aspects>
+4	181(tour):1	633(ago):1	3747(director):1	7531(endorse):1	
+4	107(choice):1	346(florence):1	2518(splendid):1	9193(baglioni):1	
+0	
+0	
+0	
+12	9(service):1	12(friendly):1	31(front):1	36(desk):1	50(bad):2	358(italian):1	428(customer):1	440(furniture):1	723(stain):1	821(attitude):1	4347(downgrade):1	7485(diminish):1	
+0	
+0	
+
+<Author>RagtopGirl
+<Content>Good Location We spent two nights and enjoyed our stay. The location is excellent. Only a 20 minute walk to the Ponte Vecchio area but the hotel itself is in a quiet district. Just a block or two to the river. We had a suite which was two small rooms - one bedroom, one living room but it looked like two rooms had been put together and was still very small. Bathroom was updated and very modern. We had no view of anything and when asked about moving to a room with a view were advised we would have to go from the suite to a smaller room.The front desk staff was adequate, but not particularly helpful. It appears to be a hotel that caters to groups, not individual travelers and the staff was usually very busy. I was disappointed in no easy internet access - you had to go to the business center and book three hours on a computer when all I wanted was 15 minutes to check our email. I ended up using an internet cafe close to the Academia. The breakfast is a buffet designed for large groups - often crowded, but with lots of choices. They don't offer cappucinos but will bring one if you request.  
+<Date>Jul 24, 2007
+<Rating>4	4	3	4	5	3	3	1	
+<Aspects>
+2	100(bloc):1	710(river):1	
+0	
+16	7(walk):1	13(bathroom):1	17(view):2	20(look):1	29(minute):1	58(quiet):1	108(suite):2	151(modern):1	206(live):1	207(move):1	268(bedroom):1	433(district):1	663(advise):1	725(update):1	1645(ponte):1	1836(vecchio):1	
+16	0(staff):1	1(location):2	2(night):1	21(excellent):1	28(close):1	51(enjoy):1	64(spend):1	97(internet):1	220(busy):1	267(traveler):1	275(cafe):1	399(usually):1	541(appear):1	1000(cater):1	1596(individual):1	5162(academia):1	
+0	
+10	0(staff):1	14(helpful):1	31(front):1	36(desk):1	89(offer):1	142(bring):1	148(request):1	390(adequate):1	553(particularly):1	7442(cappucinos):1	
+6	6(breakfast):1	38(lot):1	77(buffet):1	107(choice):1	313(crowd):1	516(design):1	
+11	18(book):1	29(minute):1	32(check):1	60(hour):1	93(easy):1	97(internet):1	101(center):1	147(business):1	154(disappoint):1	159(access):1	555(computer):1	
+
+<Author>orangefan96
+<Content>Very inconsistent I have to disagree with a lot of the reviews for the Anglo American in Florence. We were part of a large tour group - 48 people in all - and the experiences of the group were varied. Some really liked it, but most did not. Personally, we were in a room with 2 twin beds. Or what was supposed to be twin beds. They were cots. They had mattresses but the frames totally folded up and they felt like cots when we slept in them. We also found the desk staff to be unknowledgeable and rude. They actually recommended we eat in the train station!  Another member in our group wanted a trash bag to put in their puchases (it was pouring that day) and the desk told them they didnt have any. Our tour manager overheard the conversation and asked a porter for a trash bag. He found one immediately. I would only recommned this hotel if you dont usually need any assistance from the front desk and arent too picky about the comfort of the beds. I will be trying another hotel next time I am in town.  
+<Date>Jun 5, 2007
+<Rating>2	1	1	3	2	3	1	1	
+<Aspects>
+10	5(time):1	37(review):1	38(lot):1	76(try):1	239(town):1	346(florence):1	489(immediately):1	2491(cot):1	3063(inconsistent):1	3102(disagree):1	
+4	26(people):1	44(experience):1	181(tour):1	1578(varied):1	
+11	11(bed):2	34(feel):1	104(sleep):1	611(totally):1	620(suppose):1	690(twin):2	847(mattress):1	1052(personally):1	2193(fold):1	2339(frame):1	2491(cot):1	
+5	15(recommend):1	47(eat):1	82(station):1	180(actually):1	182(train):1	
+0	
+23	0(staff):1	8(day):1	11(bed):1	31(front):1	36(desk):3	69(tell):1	181(tour):1	258(manager):1	290(bag):2	392(rude):1	399(usually):1	503(dont):1	626(didnt):1	702(comfort):1	926(picky):1	1281(conversation):1	1653(porter):1	1669(assistance):1	1764(pour):1	1793(trash):2	3323(overhear):1	4469(arent):1	10160(recommn):1	
+0	
+0	
+
+<Author>martinred
+<Content>Good Hotel We stayed in this hotel for 3 nights in March. The staff were very friendly and made some excellent recommendations for dinner. Our room was large and the bed was huge.  
+<Date>May 10, 2007
+<Rating>4	4	5	2	5	5	4	5	
+<Aspects>
+2	2(night):1	615(march):1	
+0	
+2	11(bed):1	133(huge):1	
+0	
+0	
+5	0(staff):1	12(friendly):1	21(excellent):1	117(dinner):1	577(recommendation):1	
+0	
+0	
+
+<Author>Kaesar
+<Content>A little below the expactations               
+<Date>May 2, 2007
+<Rating>2	2	3	4	4	4	-1	-1	
+<Aspects>
+2	23(little):1	585(below):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>GLOPURPLE
+<Content>Good Hotel Stayed fro April 16- 20th. Booked 2 standard rooms. 1 for my husband  myself, another for my son. Felt the standard room was too small for two people. I went to reception and asked about a bigger room. I was offered an upgrade to a De-luxe Room for the price of Superior 30 euro a night extra. It was well worth the extra. The staff at the Hotel were most helpful. It was very clean and the breakfast excellent. The only thing I found having stayed in Florence before that it is quite a walk to the centre and after a long day sightseeing it, and its quicker to walk than get a cab or bus.. Aslo being close the river was a problem with mossie bite in the heat. The room had to be sprayed.  
+<Date>Apr 24, 2007
+<Rating>3	3	4	2	5	4	4	-1	
+<Aspects>
+6	96(worth):1	105(husband):1	128(extra):1	612(son):1	1977(20th):1	5042(fro):1	
+7	2(night):1	19(price):1	89(offer):1	128(extra):1	163(upgrade):1	256(euro):1	785(superior):1	
+6	18(book):1	26(people):1	34(feel):1	129(reception):1	130(standard):2	1099(spray):1	
+13	7(walk):2	8(day):1	28(close):1	101(center):1	120(bus):1	299(quick):1	346(florence):1	380(cab):1	539(heat):1	640(sight-see):1	710(river):1	1042(bite):1	12341(aslo):1	
+3	3(clean):1	6(breakfast):1	21(excellent):1	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>SDJCruiser
+<Content>Not what we expected :o( We stayed at this hotel as part of a Princess Cruise land tour in Italy. After staying at the Melia Milano hotel in Milan, which was beautiful, clean, well-maintained, and quite large, we were very disappointed with the Anglo American. The front desk staff was rude and unfriendly, and our rooms were very small, cold, and gave the impression they needed a make-over. The beds were hard and there were only 2 small pillows on our queen size bed. When we asked for another, it never came. The bathrooms in both rooms had a distinct mildew smell and weren't the cleanest. We also were not impressed with the breakfast available downstairs in the hotel... the eggs were cold and runny, the sausage was cut up hotdogs, and the coffee tasted instant and bitter. There weren't too many good restaurants nearby, we ended up eating one block up at a pizza place both nights since my kids refused to eat what they had to offer in the hotel for dinner (and it was too expensive to eat there if you weren't going to really enjoy the food!). All in all, I was glad to leave after 2 nights. That was more than enough. I did forward my comments on to Princess, as did many others in our group. We were all disappointed in this hotel.  
+<Date>Oct 29, 2006
+<Rating>2	2	2	2	2	2	2	1	
+<Aspects>
+12	2(night):1	43(leave):1	62(expect):1	154(disappoint):1	181(tour):1	356(comment):1	603(cruise):1	619(glad):1	750(forward):1	900(italy):1	1239(princess):2	1346(land):1	
+0	
+10	3(clean):1	11(bed):2	13(bathroom):1	83(size):1	162(hard):1	231(smell):1	303(pillow):1	543(Queen):1	1876(mildew):1	4430(distinct):1	
+0	
+7	3(clean):1	45(beautiful):1	154(disappoint):1	1418(melia):1	2905(well-maintaine):1	4274(milano):1	7557(milan):1	
+8	0(staff):1	31(front):1	36(desk):1	222(cold):1	392(rude):1	848(impression):1	1487(unfriendly):1	9541(make-over):1	
+27	2(night):1	6(breakfast):1	10(restaurant):1	16(food):1	47(eat):3	51(enjoy):1	89(offer):1	90(coffee):1	100(bloc):1	117(dinner):1	124(expensive):1	134(available):1	201(kid):1	222(cold):1	232(nearby):1	343(impress):1	412(egg):1	439(taste):1	678(pizza):1	691(downstairs):1	873(cut):1	1103(refuse):1	1385(sausage):1	2986(instant):1	3717(hotdogs):1	5826(bitter):1	7062(runny):1	
+0	
+
+<Author>llr43
+<Content>Comfortable, not perfect       Front entrance  
+<Date>Oct 28, 2006
+<Rating>4	3	4	4	5	2	2	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+4	25(comfortable):1	31(front):1	74(perfect):1	490(entrance):1	
+0	
+0	
+
+<Author>Boffdad
+<Content>Silver Wedding anniversery       lobby  
+<Date>Oct 27, 2006
+<Rating>5	5	5	4	5	4	4	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+3	55(lobby):1	604(wed):1	2400(silver):1	
+0	
+
+<Author>PittsburghRose
+<Content>Great Florence Hotel Just returned from a week in Florence, staying 6 nights at the Hotel Anglo American with a group of 20. Very charming property. Room was rather small, but very clean, adequate and quiet. Beautiful marble bath. Hotel staff was friendly and accommodating, restaurant food was very good with an excellent breakfast buffet. Charming lobby bar as well. Nice, quiet location within a couple blocks of the Arno River, and plenty of merchants/restaurants, etc. I'd stay here again.  
+<Date>Sep 22, 2006
+<Rating>4	4	4	4	4	4	4	4	
+<Aspects>
+7	2(night):1	39(return):1	45(beautiful):1	75(week):1	226(bath):1	346(florence):2	705(marble):1	
+0	
+11	1(location):1	3(clean):1	4(nice):1	58(quiet):2	73(etc):1	99(couple):1	100(bloc):1	158(plenty):1	390(adequate):1	710(river):1	2117(arno):1	
+0	
+0	
+0	
+12	0(staff):1	6(breakfast):1	10(restaurant):1	12(friendly):1	16(food):1	21(excellent):1	27(bar):1	55(lobby):1	77(buffet):1	214(property):1	332(charm):2	624(accommodate):1	
+0	
+
+<Author>drakey
+<Content>Very Nice We booked through Venere and this was a really pleasant hotel with only a 5 minute walk to the station.Nice room, with a good bathroom and a above average breakfast.15 minute walk to the Ponte VecchioWe will stay here again when visiting Florence  
+<Date>Aug 27, 2006
+<Rating>4	5	4	4	4	4	5	-1	
+<Aspects>
+0	
+0	
+9	4(nice):1	6(breakfast):1	7(walk):1	13(bathroom):1	29(minute):1	65(visit):1	227(average):1	346(florence):1	1645(ponte):1	
+7	4(nice):1	7(walk):1	18(book):1	29(minute):1	82(station):1	150(pleasant):1	6954(venere):1	
+0	
+0	
+0	
+0	
+
+<Author>rubbiecat
+<Content>Beware this hotel BEWARE this hotel. I booked two rooms for two nights' stay, May 24  25, and guaranteed it with my credit card. I emailed directly with the hotel verifying the dates and rates before leaving home. When we arrived, the Front Desk Manager told us that he'd called Visa for pre-approval, and the charge had been declined so he'd given away our rooms and the hotel was sold out. Fearing that my credit card had been compromised and embarrassed at the situation I asked if a mistake had been made when the card was called in. Only upon my insistance did the manager agree to call Visa again and lo and behold, the credit card was good, but there were still no rooms. We asked to speak to the Hotel Manager  he told us to be seated while he worked on a solution. He returned with an offer to move us to a comparable hotel nearby for the same rate. The new hotel - the Hotel Executive - was very nice and we agreed to the change. The manager at the Executive went out of his way to ensure our comfort and tried to ease our frustration at having lost valuable time due to the error at the Anglo American. He recommended an excellent restaurant nearby for our dinner that night. The next morning we were asking him for another restaurant recommendation for the second night and he told us that the Anglo-American had only booked us for one night, and his hotel was full the second night. He called the Anglo-American to verify, and they lied that we were only booked for the 24th. So, we were faced with the reality that we were again without rooms for the night. The Anglo American had simply pawned us off on the Executive probably so they could re-sell our rooms at a higher rate. Once again, the manager at the Executive took possession of our problem and worked toward a solution. He asked us to be seated and offered a beverage. After a few minutes he returned with the news that we would be able to remain in the rooms we occupied. He had called one of his regular guests and explained the situation and the guest had agreed to stay elsewhere for one night so we could stay where we were.Even though we lost 1/3 of our limited time in Florence dealing with this problem, our experience was a good one, thanks to the professional attitude of the Hotel Executive.The Anglo American in a nice enough looking property, but beware unethical treatment at the hands of its administrators.  - Jeanne, from Texas  
+<Date>Jun 3, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+28	2(night):1	4(nice):1	39(return):1	43(leave):1	67(call):1	78(rate):2	89(offer):2	91(guest):2	141(home):1	161(change):1	207(move):1	232(nearby):1	383(directly):1	473(agree):2	504(seat):1	511(date):1	646(elsewhere):1	737(beware):2	744(regular):1	768(explain):1	872(executive):1	890(situation):1	1334(beverage):1	1559(e-mail):1	1813(comparable):1	3135(texas):1	3712(verify):1	8284(jeanne):1	
+10	5(time):1	44(experience):1	140(deal):1	271(thank):1	346(florence):1	501(professional):1	510(limit):1	596(lose):1	821(attitude):1	872(executive):1	
+22	2(night):2	18(book):1	29(minute):1	39(return):1	67(call):1	78(rate):1	171(able):1	178(probably):1	258(manager):1	292(card):2	473(agree):1	488(simply):1	659(credit):2	872(executive):1	1391(remain):1	1471(guarantee):1	1678(occupy):1	1725(news):1	1969(lo):1	2260(reality):1	3476(visa):1	4801(behold):1	
+0	
+0	
+25	5(time):1	31(front):1	36(desk):1	53(arrive):1	67(call):1	69(tell):2	127(speak):1	136(charge):1	253(tried):1	258(manager):4	259(due):1	504(seat):1	596(lose):1	606(sell):1	702(comfort):1	872(executive):2	1293(ensure):1	1935(valuable):1	2057(ease):1	2394(decline):1	2628(error):1	2800(solution):2	3476(visa):1	3573(frustration):1	7856(possession):1	
+27	2(night):4	4(nice):1	10(restaurant):2	15(recommend):1	18(book):2	20(look):1	21(excellent):1	56(morning):1	67(call):2	69(tell):1	117(dinner):1	214(property):1	232(nearby):1	292(card):2	377(hand):1	577(recommendation):1	659(credit):1	737(beware):1	890(situation):1	895(mistake):1	1147(treatment):1	1166(lie):1	2022(fear):1	2564(24th):1	3183(embarrass):1	3712(verify):1	3884(compromise):1	
+0	
+
+<Author>nlpri
+<Content>enjoyed our stay We tried to check in early and eventhough the hotel was full the friendly staff managed to get our room ready by noon. Check in did take long due to a large group arriving right before we did. The hotel offers Valet parking at extra cost. Very convenient.Our room on the ground floor was very large. Much larger than the average European hotel room and even large for American standards. The bathroom was spacious but needed a little touch up. We opened the large windows to get some of the fresh spring air into the room and eventhough the room was on street level we had absolutely no problem with noise coming in. The hotel is located an easy and pleasant stroll from the main attractions in the center close to what looked to be the American embassy. This added to a sense of security, lots of police and cameras around. As some streets were blocked off for security reasons, there wasn't too much traffic in the area around the hotel. Breakfast was great! A very good selection of breads, cheeses, and hot items such as eggs, bacon and sausages. Many European hotels can learn from them. I can't compare to hotels in the area as this was our first visit to Florence, but I would recommend it.  
+<Date>Apr 29, 2006
+<Rating>4	5	4	-1	5	-1	5	-1	
+<Aspects>
+7	15(recommend):1	65(visit):1	186(convenient):1	346(florence):1	381(compare):1	582(european):1	703(learn):1	
+5	66(park):1	89(offer):1	128(extra):1	175(cost):1	457(valet):1	
+24	13(bathroom):1	23(little):1	24(floor):1	35(street):1	38(lot):1	94(noise):1	111(spacious):1	119(window):1	130(standard):1	164(air):1	189(absolutely):1	197(fresh):1	227(average):1	279(touch):1	306(level):1	351(add):1	582(european):1	641(security):1	706(grind):1	1102(sense):1	1162(spring):1	1409(police):1	1646(camera):1	4631(eventhough):1	
+15	20(look):1	28(close):1	35(street):1	84(locate):1	93(easy):1	101(center):1	112(main):1	150(pleasant):1	350(attraction):1	374(reason):1	486(traffic):1	641(security):1	1056(stroll):1	1768(embassy):1	1898(block):1	
+0	
+11	0(staff):1	12(friendly):1	32(check):2	51(enjoy):1	53(arrive):1	253(tried):1	259(due):1	274(ready):1	645(manage):1	1309(noon):1	4631(eventhough):1	
+9	6(breakfast):1	114(hot):1	333(selection):1	412(egg):1	441(cheese):1	497(bread):1	519(item):1	1057(bacon):1	1385(sausage):1	
+0	
+
+<Author>son_travel2004
+<Content>great hotel, great service This hotel is very nice for its category. Service is good, breakfast is awsome, the rooms are huge and the location is very good. Just be careful since they tried to charge some people for movies they did not watch!  
+<Date>Apr 18, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+6	26(people):1	136(charge):1	245(watch):1	253(tried):1	897(careful):1	989(movie):1	
+7	1(location):1	4(nice):1	6(breakfast):1	9(service):2	133(huge):1	2011(category):1	3215(awsome):1	
+0	
+
+<Author>Faulkram
+<Content>Not the best We have returned today from a long weekend at the Anglo American. Our accomodation was booked through Expedia travel and was advertised as a four star hotel. The room was classed as a double executiveHOTELFirst impressions were OK. The communal areas were clean, bright and airy, unfortunately our room was not of the same standard.Our room, number 132, was shabby and in need of refurbishment. The wallpaper was peeling off the walls and the carpet was very old and drab. The room smelt slightly damp, the air conditioning did not work too well and the windows did not open! The room was also dark with not much natural light at all. The room was split level and had a bathroom with shower over bath on the ground floor, with a very small living area. The upper level had a large comfortable bed (2 together) and another bathroom with shower cubicle. The bedlinen and towels however were clean, and both marble bathrooms were spotless.The staff were welcoming and helpful. No complaints there. If you do decide to stay at this hotel, I would recommend booking a room of a higher standard.AREAThe hotel is situated away from the hustle and bustle of the main tourist area and is approx 10-15 minute walk from the train / taxi station. the immediate area is quiet, with only 1 or 2 restaurants near by. The walk along the Arno river into the centre is a pleasent 15 minute walk, however this can feel much further after a long day sightseeing!. MUSEUMSIf you are planning on visiting the Academia and Uffizi museums, I would definately recommend booking your tickets online in advance as the queues were extremley long and slow moving. We booked tickets via Expedia for both. You will pay around 拢30 more, but this includes an hour guided tour and much timed saving queuing.  
+<Date>Aug 29, 2005
+<Rating>3	3	2	-1	3	-1	4	-1	
+<Aspects>
+3	39(return):1	172(weekend):1	190(complaint):1	
+14	5(time):1	18(book):1	42(pay):1	60(hour):1	68(travel):1	71(include):1	103(star):1	181(tour):1	425(save):1	780(accomodation):1	829(guide):1	910(advertise):1	1066(expedia):1	1463(queue):1	
+50	3(clean):2	10(restaurant):1	11(bed):1	13(bathroom):3	15(recommend):1	18(book):1	24(floor):1	25(comfortable):1	58(quiet):1	61(shower):2	102(near):1	119(window):1	123(ok):1	125(towel):1	130(standard):2	157(light):1	164(air):1	179(double):1	183(wall):1	206(live):1	219(decide):1	226(bath):1	231(smell):1	263(condition):1	306(level):2	335(numb):1	396(carpet):1	459(dark):1	470(class):1	524(unfortunately):1	548(spotless):1	598(slightly):1	705(marble):1	706(grind):1	848(impression):1	880(bright):1	1319(shabby):1	1333(upper):1	1543(natural):1	1640(damp):1	1761(immediate):1	1887(peel):1	1947(airy):1	2093(wallpaper):1	2253(refurbishment):1	2368(split):1	3249(communal):1	3420(drab):1	3617(cubicle):1	7262(bedlinen):1	
+33	7(walk):3	8(day):1	15(recommend):1	18(book):1	29(minute):2	34(feel):1	65(visit):1	82(station):1	101(center):1	112(main):1	182(train):1	185(taxi):1	207(move):1	209(tourist):1	221(plan):1	410(definately):1	455(slow):1	507(museum):1	574(situate):1	621(ticket):1	640(sight-see):1	685(advance):1	710(river):1	822(online):1	1107(bustle):1	1423(approx):1	1463(queue):1	1503(hustle):1	1940(uffizi):1	2117(arno):1	3057(pleasent):1	5162(academia):1	7076(extremley):1	
+0	
+3	0(staff):1	14(helpful):1	202(welcome):1	
+4	18(book):1	512(via):1	621(ticket):1	1066(expedia):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Simply Perfect! I stayed at Framon Anglo American Hotel for 2 nights. I just hope it was more than 2 days! Rooms:LARGE, bright, elegant, clean, etc. It's the best room I ever had, except from the lack of balcony (of course you cannot expect balcony at Firenze, thus it's not a problem!). They had everything you could need on the bathroom. The quality of shower gel/sampoo/soap was simply excellent! At least to our bathroom everything was perfect. Marbles everywhere, clean.Breakfast:The best buffet I have ever see and tasted! They had EVERYTHING! The dinning room is a perfect restoration of a dinning room of 17th century.Personel:The most pleasant personel we have ever contact with! Our baggages were at our room before us. The last day we asked for a taxi. They told us that the taxi will be there at 3 minutes. It was there in 3 minutes! They helped us with everything we asked.Price: Excellent!Some of the travellers suggest that it's far from the city's center. That's true, BUT, you can take the electric mini bus B (the bus stop is 30 meters from the hotel) which takes you to the historical center at 5-10 minutes (remember it's electrical, thus, slow!). The distance from the historical center (on foot) is about 10-15 minutes).Conclusion:If you want a rellaxing room for your stay at Firenze, choose Anglo American!  
+<Date>Jul 23, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+7	2(night):1	8(day):1	29(minute):1	74(perfect):1	92(help):1	328(hope):1	488(simply):1	
+2	19(price):1	21(excellent):1	
+24	3(clean):1	13(bathroom):2	21(excellent):1	61(shower):1	62(expect):1	73(etc):1	74(perfect):2	167(choose):1	187(quality):1	191(balcony):2	293(course):1	337(except):1	349(lack):1	488(simply):1	880(bright):1	986(elegant):1	1783(baggage):1	2089(conclusion):1	2143(17th):1	2171(century):1	2415(gel):1	3062(firenze):2	3090(din):2	8372(restoration):1	
+14	8(day):1	29(minute):2	69(tell):1	101(center):1	120(bus):2	122(stop):1	185(taxi):2	375(remember):1	448(mini):1	455(slow):1	1194(metre):1	2246(electric):1	2311(historical):1	2555(electrical):1	
+2	3(clean):1	705(marble):1	
+3	150(pleasant):1	713(contact):1	5033(personel):2	
+3	6(breakfast):1	77(buffet):1	439(taste):1	
+8	29(minute):1	41(city):1	101(center):2	115(distance):1	267(traveler):1	402(foot):1	452(suggest):1	2311(historical):1	
+
+<Author>profpat
+<Content>nice hotel I am still staying at the hotel as I write this...my visit was from july 9-18 and i was pleased that the hotel had a business center with free internet access which I am using to write this. internetThere is a tiny room with a really old pc that you can use to go online. It is free to hotel guests but you must request the key. I was unable to get into my own email at any time on the hotel computer, but I was able to access it from the many cafes around the city.foodMy breakfast was included in the hotel price, and the buffet selection was quite elaborate in an exquisite setting. There were several juices, wines and even champagne readily available on the buffet table. There was a wide selection of antipasto meats, cheeses and fresh breads as well as rolls, entire cakes, eggs and fresh fruits. The coffee, tea and hot milk was on a separate table and the waitstaff was more than happy to provide you with anything extra. For example, several guests ordered cappachino, boiled eggs etc. I was out on the town everyday eating so the only meal I had at the hotel was the breakfast...but it was great...roomsmy room was good size and had a lovely bathroom with marble fixtures and a large, deep tub. The only problem I had was when I opened the windows for fresh air one evening and unknowingly let in misquitos which plagued me the rest of the night, for several nights...I had to wear repellant to bed! The air conditioning worked beautifully in my room and the mini bar served as a fridge for my food in a pinch. I had some lovely bakery and pizza that i couldnt finish and brought it back to my room.locationThis hotel is located one block off the arno river. It is near an embassy (american i think) that is barracaded off with tons of police patrolling the area (because of the embassy) and is very safe. It is quite a hike to the main attractions like the duomo, but you will appreciate the quiet serenity after a mad day with crowds. It is about four bridges down from the center of town and the iffuzi museum. I enjoyed the stroll into town and seeing the beavers in the river, the fisherman and watching the sun come up.serviceI only speak english but I was able to communicate with the front desk staff since they had some knowledge of the language. But be prepared...most italians do NOT speak english, nor do they want to.common areasThe lobby is very pretty but the dining area are exquisite. High ceilings, gold moldings, elaborate scrollwork give it a royal feel. Lovely...The hotel has a bar area and some evenings a gentleman plays music and it makes for a nice environment when you enter the hotel.  
+<Date>Jul 17, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	34(feel):1	51(enjoy):1	239(town):1	245(watch):1	420(sun):1	528(ceiling):1	710(river):1	753(royal):1	1056(stroll):1	1148(fisherman):1	1571(gold):1	4698(elaborate):1	8683(molding):1	
+0	
+36	2(night):2	6(breakfast):1	8(day):1	11(bed):1	13(bathroom):1	47(eat):1	58(quiet):1	83(size):1	87(lovely):2	112(main):1	119(window):1	142(bring):1	164(air):1	197(fresh):1	213(meal):1	239(town):1	288(rest):1	311(tub):1	313(crowd):1	350(attraction):1	434(wear):1	500(appreciate):1	605(everyday):1	678(pizza):1	705(marble):1	772(finish):1	981(duomo):1	1043(deep):1	1483(bakery):1	1528(couldnt):1	1541(fixture):1	1705(hike):1	2607(mad):1	2858(repellent):1	4558(plague):1	4916(serenity):1	
+18	55(lobby):1	84(locate):1	100(bloc):1	101(center):1	109(pretty):1	127(speak):1	152(english):1	239(town):1	316(dine):1	460(prepare):1	507(museum):1	710(river):1	740(bridge):1	970(nor):1	2117(arno):1	2751(exquisite):1	4753(italians):1	4877(mon):1	
+0	
+23	0(staff):1	31(front):1	36(desk):1	46(free):1	90(coffee):1	91(guest):1	114(hot):1	127(speak):1	128(extra):1	148(request):1	152(english):1	153(provide):1	155(happy):1	171(able):1	229(table):1	301(tea):1	339(key):1	474(separate):1	698(language):1	1116(milk):1	1520(communicate):1	2148(knowledge):1	3705(waitstaff):1	
+52	4(nice):1	6(breakfast):1	16(food):1	19(price):1	27(bar):2	71(include):1	73(etc):1	77(buffet):2	87(lovely):1	91(guest):1	102(near):1	134(available):1	137(safe):1	164(air):1	174(serve):1	197(fresh):2	215(fruit):1	229(table):1	234(set):1	251(wine):1	263(condition):1	318(fridge):1	329(entire):1	333(selection):2	362(juice):1	386(play):1	398(music):1	412(egg):2	441(cheese):1	448(mini):1	497(bread):1	601(enter):1	677(meat):1	770(champagne):1	771(beautifully):1	813(roll):1	860(wide):1	954(example):1	967(ton):1	1003(evening):1	1029(cake):1	1409(police):1	1506(gentleman):1	1598(boil):1	1712(environment):1	1768(embassy):2	2715(readily):1	2751(exquisite):1	4698(elaborate):1	5003(pinch):1	5492(patrol):1	11787(antipasto):1	
+19	4(nice):1	5(time):1	41(city):1	46(free):1	65(visit):1	97(internet):1	101(center):1	147(business):1	159(access):2	166(own):1	171(able):1	173(please):1	275(cafe):1	338(tiny):1	344(write):2	555(computer):1	822(online):1	1461(unable):1	2184(pc):1	
+
+<Author>A TripAdvisor Member
+<Content>Out of the way, not my first choice. My family recently returned from a trip to Italy and while we were in Florence we stayed at the Anglo American Hotel. This hotel is definitely in need of some refurbishing. Our room was on the rather small side and needed a good cleaning. The wallpaper was starting to peel in many places, the carpet was rather dingy and the room could have used a new coat of paint. We also could not get the room as cool as we would have liked. This could have been a result of the extremely warm temperatures while we were there as well as the fact that our room faced the sun all day. We asked the front desk to make a dinner reservation for us and had to remind them of this several times. It was not until the next day late in the afternoon when they finally decided to pick up the phone and make our dinner reservation. On the plus side, the breakfast set up was very nice. There was a very good selection of fresh fruit, baked goods and pastries as well as eggs and meats along with fresh squeezed juices. The hotel is definitely off the beaten path and the area around the hotel needs some upkeep as well. It looked as if the shrubs and grass outside the front door had not been cut or pruned in several weeks. While all of the attractions of Florence are within walking distance, I think there are many other hotels that are better located.  
+<Date>Jun 27, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	33(trip):1	39(return):1	59(definitely):2	106(family):1	322(recently):1	346(florence):1	442(beat):1	900(italy):1	1253(refurbish):1	1612(path):1	4642(upkeep):1	
+1	107(choice):1	
+15	3(clean):1	8(day):1	110(extremely):1	165(start):1	236(warm):1	278(cool):1	396(carpet):1	420(sun):1	806(paint):1	944(temperature):1	1109(result):1	1749(dingy):1	1887(peel):1	2093(wallpaper):1	2636(coat):1	
+14	7(walk):1	20(look):1	31(front):1	54(door):1	75(week):1	84(locate):1	98(outside):1	115(distance):1	346(florence):1	350(attraction):1	873(cut):1	2603(grass):1	8046(shrub):1	8390(prune):1	
+0	
+13	5(time):1	8(day):1	31(front):1	36(desk):1	79(late):1	117(dinner):2	156(reservation):2	219(decide):1	266(pick):1	296(phone):1	341(finally):1	364(afternoon):1	1285(remind):1	
+13	4(nice):1	6(breakfast):1	197(fresh):2	203(plus):1	215(fruit):1	234(set):1	333(selection):1	362(juice):1	412(egg):1	652(pastry):1	677(meat):1	1963(squeeze):1	2100(bake):1	
+0	
+
+<Author>lorena33
+<Content>Correcto pero no espectacular       Enorme cama matrimonial  
+<Date>Nov 29, 2007
+<Rating>4	4	3	2	5	3	4	3	
+<Aspects>
+2	11042(pero):1	12006(cama):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

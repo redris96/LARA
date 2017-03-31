@@ -1,0 +1,756 @@
+<Author>JayceeChristchurch
+<Content>Beware of Thieves The hotel is charming but beware of thieves. We had money stolen from our room safe and management were dismissive of our complaint. It soured what had been a lovely stay in Florence. Disappointed that you are not allowed to drink or eat at the tables in the garden - or in your room for that matter.  
+<Date>Oct 9, 2008
+<Rating>2	-1	3	4	3	1	1	-1	
+<Aspects>
+6	87(lovely):1	332(charm):1	346(florence):1	737(beware):2	3066(sour):1	4512(thief):2	
+0	
+7	47(eat):1	63(drink):1	154(disappoint):1	229(table):1	310(garden):1	359(allow):1	531(matter):1	
+0	
+0	
+0	
+6	80(money):1	137(safe):1	190(complaint):1	525(management):1	1187(steal):1	7461(dismissive):1	
+0	
+
+<Author>redmack25
+<Content>Wonderful hotel!       lovely jacuzzi bathroom  
+<Date>Sep 28, 2008
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+1	48(wonderful):1	
+0	
+3	13(bathroom):1	87(lovely):1	808(jacuzzi):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>bellagio30514
+<Content>Okay My husband and I stayed at the Hotel Donatello for three nights. The hotel staff was not very nice and were rude at times. The room was spacious. The first night, however, our room was a little musty, but then the musty smell went away after the first night. The room was clean- one of the hotel's strong points. The location was also good. Very close to the Accademia (to see the statue of David) and the Duomo. Also, Ponte Vecchio and the Uffizzi were not a far walk. We were very pleased with the location. The breakfast was included, but it was probably the worst continental breakfast we have ever seen. The hotel did not have enough breakfast food to accomodate their guests, and their selection was poor. My husband and I basically had bread and cereal each day. All the other hotels we stayed at in Italy had much better breakfast and variety. We had Choice Hotel points, so our stay at the hotel was free. We do not think we would stay here again unless we were able to get free nights again through our hotel points. Word of advise-Florence is beautiful and full of art. If you are not much of an art person, the Accademia (with the statue of David) may be enough and you can consider passing on the Uffizzi. I would however look at the sculptures and the statues of the famous artists/scientists from the Tuscany area that are outside the Uffizi though. They are marvelous. Also, it is not always necessary to get a guided tour or an audioguide of these museums as there are many signs in these museums that describe the art.  
+<Date>Sep 23, 2008
+<Rating>3	3	3	4	4	3	2	3	
+<Aspects>
+18	2(night):2	45(beautiful):1	46(free):1	105(husband):1	171(able):1	193(person):1	248(consider):1	400(pass):1	405(unless):1	453(okay):1	571(word):1	789(art):2	1956(david):1	2187(marvelous):1	2356(statue):1	2806(accademia):1	5005(donatello):1	6932(uffizzi):1	
+2	46(free):1	107(choice):1	
+7	2(night):2	3(clean):1	23(little):1	111(spacious):1	231(smell):1	893(strong):1	1016(musty):2	
+23	1(location):2	7(walk):1	20(look):1	28(close):1	98(outside):1	173(please):1	181(tour):1	449(sign):1	507(museum):2	789(art):1	829(guide):1	955(describe):1	981(duomo):1	1296(famous):1	1645(ponte):1	1836(vecchio):1	1940(uffizi):1	1956(david):1	2356(statue):2	2806(accademia):1	3019(tuscany):1	3794(sculpture):1	6932(uffizzi):1	
+0	
+4	0(staff):1	4(nice):1	5(time):1	392(rude):1	
+17	6(breakfast):4	8(day):1	16(food):1	50(bad):1	71(include):1	91(guest):1	105(husband):1	178(probably):1	331(poor):1	333(selection):1	372(continental):1	413(variety):1	497(bread):1	529(cereal):1	549(accomodate):1	790(basically):1	900(italy):1	
+0	
+
+<Author>Romyn-Michaud
+<Content>Good Location but That's It Pros - Right in the centre of the city - short walking distance to mercato and duomo and David, decent continental breakfastCons - extra costs everywhere, be careful if driving b/c it is 25 euro a day to park around the corner, they charge 9 euro for 2 hrs of wi-fi internet service, can't eat in rooms, rooms are tiled, elevators small, heat / cool of rooms are controlled by the front desk, found staff to be a bit condescending but this could be a language issueNot my favourite hotel in Italy  
+<Date>Jul 14, 2008
+<Rating>2	2	2	5	4	2	2	1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+39	0(staff):1	1(location):1	7(walk):1	8(day):1	9(service):1	31(front):1	36(desk):1	41(city):1	47(eat):1	52(bit):1	66(park):1	97(internet):1	101(center):1	115(distance):1	128(extra):1	136(charge):1	144(short):1	175(cost):1	200(corner):1	216(elevator):1	256(euro):2	257(decent):1	278(cool):1	298(drive):1	372(continental):1	376(favourite):1	539(heat):1	698(language):1	846(tile):1	865(control):1	897(careful):1	900(italy):1	981(duomo):1	1249(pro):1	1464(hr):1	1827(wi-fi):1	1956(david):1	5905(condescend):1	7894(mercato):1	
+0	
+
+<Author>C-and-RS
+<Content>good 3 star hotel in Florence Good location - you can walk to all major sites. There are nice places to dine nearby. The rooms are fair and clean. The receptionist was helpfull. Breakfast was not that great - limited variety of bread. Carefull if you go by car - parking is paid in a lot nearby and traffic is limited in the centre of Florence. Overall a superior 3 star hotel.  
+<Date>May 4, 2008
+<Rating>4	4	4	4	4	4	3	3	
+<Aspects>
+3	4(nice):1	232(nearby):1	316(dine):1	
+3	70(overall):1	103(star):1	785(superior):1	
+2	3(clean):1	739(fair):1	
+15	1(location):1	7(walk):1	38(lot):1	42(pay):1	66(park):1	101(center):1	103(star):1	121(car):1	192(site):1	232(nearby):1	315(major):1	346(florence):2	486(traffic):1	510(limit):1	6067(carefull):1	
+0	
+2	855(receptionist):1	1478(helpfull):1	
+4	6(breakfast):1	413(variety):1	497(bread):1	510(limit):1	
+0	
+
+<Author>FlowerSt_Louis
+<Content>Mosquito hellhole and obnoxious staffs Run, run far away! My husband and I got BIT all over our bodies. We had to kill so many mosquitos overnight. Please consider staying somewhere else. Our 2 day stay at Hotel Donatello was not nice at all. When we complained, the staff had a nonchalant, and even confrontational attitude. She blamed us for having brought in mosquitos, when they obviously came through the ventilation system, since they kept coming in throughout the night. This hotel beat us down physically, mentally, and emotionally during our honeymoon. Two thumbs down, really.  
+<Date>Mar 18, 2008
+<Rating>1	1	1	3	1	1	1	3	
+<Aspects>
+13	4(nice):1	8(day):1	52(bit):1	105(husband):1	170(else):1	173(please):1	248(consider):1	1054(mosquito):1	1171(overnight):1	1352(body):1	2070(kill):1	2165(thumb):1	5005(donatello):1	
+4	442(beat):1	502(honeymoon):1	4181(physically):1	8610(mentally):1	
+0	
+0	
+0	
+7	0(staff):2	149(run):2	241(complain):1	821(attitude):1	1054(mosquito):1	3226(obnoxious):1	11900(nonchalant):1	
+0	
+8	2(night):1	142(bring):1	445(throughout):1	518(system):1	781(obviously):1	1054(mosquito):1	2219(blame):1	2667(ventilation):1	
+
+<Author>kimberlyymark
+<Content>It's not bad! The hotel from the outside looks great! The receptionist was really helpful with giving directions around the area. However the wait staff at the dining/bar area are rather rude. The rooms are great size, but the misleading Wi-fi connection isn't free! Another inconvenience is the rooms are hard to get around.  
+<Date>Jan 29, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	50(bad):1	
+0	
+7	46(free):1	83(size):1	162(hard):1	932(connection):1	1431(inconvenience):1	1827(wi-fi):1	2221(mislead):1	
+2	20(look):1	98(outside):1	
+0	
+7	0(staff):1	14(helpful):1	85(wait):1	392(rude):1	395(direction):1	855(receptionist):1	10723(dining):1	
+0	
+0	
+
+<Author>DavePerth
+<Content>Worst hotel I have ever stayed in This the worst hotel I have ever stayed in.The staff (proprietors) were rude and unhelpful. The room was large but had dirty walls and to get to it you had to go up one floor then along 100 metres of corridor and then down one floor again. The wireless internet which they proudly advertised only worked in the corridor outside the room. It was said to be 60 metres from the train station but was in fact over 1 kilometre away.  
+<Date>Jan 6, 2008
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	50(bad):2	
+0	
+5	24(floor):2	183(wall):1	323(dirty):1	1073(corridor):1	1194(metre):1	
+4	82(station):1	182(train):1	1194(metre):1	7163(kilometer):1	
+0	
+4	0(staff):1	392(rude):1	1618(unhelpful):1	4785(proprietor):1	
+0	
+6	97(internet):1	98(outside):1	717(wireless):1	910(advertise):1	1073(corridor):1	9451(proudly):1	
+
+<Author>arhaley
+<Content>Decent Stay We booked this hotal as part of a package. Close to historic center and train station. The hotel is somewhat inflexible, i.e. no extra food allowed in mini fridges, breakfast didn't start a minute before 7:30. Staff professional but impersonal. The hotel lobby had a faintly mildewy smell but was clean overall.  
+<Date>Nov 20, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+5	28(close):1	82(station):1	101(center):1	182(train):1	1274(historic):1	
+6	3(clean):1	55(lobby):1	70(overall):1	231(smell):1	7403(mildewy):1	9903(faintly):1	
+3	0(staff):1	501(professional):1	2754(impersonal):1	
+14	6(breakfast):1	16(food):1	18(book):1	29(minute):1	128(extra):1	165(start):1	257(decent):1	318(fridge):1	359(allow):1	448(mini):1	527(package):1	651(somewhat):1	8663(inflexible):1	8943(hotal):1	
+0	
+
+<Author>bittenAyrshire
+<Content>Rude staff - mind the mossies After a rather disastrous start self catering near Pisa we decided to treat ourselves and spend two relaxing days in Florence. Booked a Superior Room through Expedia - paying extra naturally. Trouble is they don't have any according to the rude front of house team. They say they are all good. Maybe but why did I pay extrta then. The more I politely pressed them the ruder they got.The mossies - it was my fault for opening the window. Without a word he opened a drawer and handed me a plug in repellent. Trouble was we were checking out. Three days later I am still covered in bites and scratching.Breakfast was adequate - but where do they get their bread rolls - a polystyrene factory.Our stay was saved by us finding Vinolio at 126 Via San Zanobi - more or less round the corner. Great Tuscan food and fabulous wine at prices to suit all pockets.A good hotel spoiled by rude, disinterested staff  
+<Date>Oct 27, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+17	8(day):1	79(late):1	177(san):1	200(corner):1	377(hand):1	392(rude):1	425(save):1	512(via):1	552(cover):1	571(word):1	1042(bite):1	1174(plug):1	1426(drawer):1	1843(press):1	2613(scratch):1	2749(politely):1	2858(repellent):1	
+24	0(staff):1	8(day):1	18(book):1	42(pay):2	64(spend):1	102(near):1	128(extra):1	160(relax):1	165(start):1	219(decide):1	294(mind):1	308(maybe):1	320(treat):1	346(florence):1	392(rude):1	767(ourselves):1	785(superior):1	1000(cater):1	1066(expedia):1	1314(self):1	3710(naturally):1	3810(pisa):1	8947(disastrous):1	12242(mossy):1	
+9	31(front):1	119(window):1	281(house):1	392(rude):1	517(fault):1	569(trouble):1	1008(team):1	2019(accord):1	12242(mossy):1	
+0	
+0	
+6	0(staff):1	32(check):1	392(rude):1	569(trouble):1	1221(spoil):1	4625(disinterested):1	
+12	6(breakfast):1	16(food):1	19(price):1	251(wine):1	270(fabulous):1	390(adequate):1	497(bread):1	813(roll):1	861(suit):1	2199(pocket):1	2317(factory):1	2855(tuscan):1	
+0	
+
+<Author>Paleo1
+<Content>Very satisfied New and Clean hotel, room large enough, bathroom was clean and modern. Location was excellent in terms of visiting sites and it was on a very pretty piazza. Continental breakfast was excellent in variety and quality. Staff was very professional and helpful in scheduling tours.  
+<Date>Oct 19, 2007
+<Rating>5	5	5	5	5	4	4	-1	
+<Aspects>
+0	
+5	6(breakfast):1	21(excellent):1	187(quality):1	372(continental):1	413(variety):1	
+4	3(clean):2	13(bathroom):1	151(modern):1	899(satisfy):1	
+7	1(location):1	21(excellent):1	65(visit):1	109(pretty):1	192(site):1	1011(term):1	2116(piazza):1	
+0	
+5	0(staff):1	14(helpful):1	181(tour):1	501(professional):1	1196(schedule):1	
+0	
+0	
+
+<Author>PuertoRicoOlympicFan
+<Content>Good facilities, good price, Front Desk Staff still poor We stayed 3 nights in the Donatello. We used TripAdvisor to compare rates with booking services and then saved significant money by booking directly with the hotel. Our experience was OK and I would again stay there given the price we got and the overall quality of the hotel. Our room, 303, was huge by European standards (certainly when compared to Paris' 3-star hotels). Indeed the Front Desk Staff are still poor. They were not rude to us but simply appeared uncaring. A particular nuisance that has been documented before is with the air conditioning system. In our room it was definitely controlled from the Front Desk and they required repeated requests to turn it on. They also turned it off by themselves at least one of the mornings when we slept a little later than 9am. We did not expect to leave it on while we were out.The location is very convenient, although it is not really JUST 60 meters from the train station as they advertise.We found the room to be excellent, including the bathroom. We found breakfast to be adequate and the attendant to be nice and efficient.So, if you do not really expect or need much service from the hotel Staff, I recommend this hotel as a cost-effective alternative.  
+<Date>Oct 1, 2007
+<Rating>4	4	5	5	4	2	2	-1	
+<Aspects>
+6	43(leave):1	62(expect):1	392(rude):1	488(simply):1	541(appear):1	5873(uncaring):1	
+16	0(staff):1	9(service):1	15(recommend):1	19(price):1	44(experience):1	62(expect):1	70(overall):1	123(ok):1	130(standard):1	133(huge):1	187(quality):1	381(compare):1	403(paris):1	582(european):1	1298(alternative):1	2814(3-star):1	
+14	13(bathroom):1	21(excellent):1	23(little):1	56(morning):1	71(include):1	79(late):1	104(sleep):1	164(air):1	263(condition):1	518(system):1	938(particular):1	1059(themselves):1	3699(document):1	3973(nuisance):1	
+6	1(location):1	82(station):1	182(train):1	186(convenient):1	910(advertise):1	1194(metre):1	
+0	
+14	0(staff):2	2(night):1	19(price):1	31(front):3	36(desk):3	59(definitely):1	148(request):1	211(facility):1	331(poor):2	722(require):1	865(control):1	990(indeed):1	1467(repeat):1	5005(donatello):1	
+14	4(nice):1	6(breakfast):1	9(service):1	18(book):2	78(rate):1	80(money):1	381(compare):1	383(directly):1	390(adequate):1	401(efficient):1	425(save):1	597(tripadvisor):1	1446(attendant):1	2362(significant):1	
+0	
+
+<Author>Robert51
+<Content>Great wee hotel If you want a clean,comfortable, centrally located and reasonably priced hotel in Florence, this is the one! We stayed in August 07 and everything was excellent. Rooms very nice and clean. We were within 15 mins walking distance to nearly all of the tourist sites, rail station, buses etc. A very helpful staff. Florence is a great place for a long weekend/four or five days. Breakfasts in the hotel were very good. If you go out of the hotel and turn right - walk for about five minutes you will come to a small park with a lake and fountain. A nice place to relax for an hour and read a book.  
+<Date>Aug 25, 2007
+<Rating>5	-1	5	5	5	5	5	-1	
+<Aspects>
+4	8(day):1	21(excellent):1	172(weekend):1	346(florence):1	
+8	3(clean):1	19(price):1	25(comfortable):1	84(locate):1	346(florence):1	578(reasonably):1	879(centrally):1	2310(wee):1	
+2	3(clean):1	4(nice):1	
+14	7(walk):2	29(minute):1	66(park):1	73(etc):1	82(station):1	115(distance):1	120(bus):1	192(site):1	209(tourist):1	247(min):1	896(nearly):1	1702(fountain):1	1755(rail):1	2443(lake):1	
+0	
+2	0(staff):1	14(helpful):1	
+6	4(nice):1	6(breakfast):1	18(book):1	60(hour):1	88(read):1	160(relax):1	
+0	
+
+<Author>BluEyesofJoy
+<Content>Nice and quiet       Courtyard - view from window  
+<Date>Aug 21, 2007
+<Rating>4	3	4	4	4	3	3	3	
+<Aspects>
+0	
+0	
+5	4(nice):1	17(view):1	58(quiet):1	119(window):1	435(courtyard):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>AstridCB
+<Content>A Good Stay and Not as Bad as Some Reviews make out! We've just come back from spending a week at the Hotel Donatello and had a good time. I was a bit concerned after reading some of the earlier reviews but I have to say that our room was perfect for the two of us, overlooking the Square which we found to be quite safe with no sign of anyone selling anything.We were originally put into a huge quad room (106 I think) but asked for a transfer to another smaller double room as it was just the two of us. This was no problem and we were put into room 222. Great for us the only thing missing was a bath but we had a good shower and everything was clean and tidy with good maid service each day. We had no problem with noise, however I would certainly request another front facing room should we return.We felt the breakfast was adequate by European standards. Yes the dining room is small but it didn't matter to us, the food was topped up regularly even when we arrived at the last minute at 9.30. There were assorted rolls and pastries, ham and cheese, cereal, yoghurt and various jams, butter and fruit. The machine which dispensed various coffees was fine and everything offered completely suited our needs.Its about a 8-10 minute walk to Mercato Centrale and San Lorenzo and we had a very leisurely stroll one day to the Ponte Vecchio which took half an hour.The only complaint I had was with one of the gentlemen on reception who had a very couldn't care less attitude. He was helpful to a point but would certainly not go that extra mile and twice my boyfriend and I witnessed him being extremely unhelpful to people who had problems. I needed to call Meridiana regarding our return flight and he was of no help, another gentleman suggested I go to a nearby travel agent but when I returned I told the original man it was shut and he shruggged his shoulders said 'oh well' and laughed. Not once did he offer to look in the phone book for us.That aside, the other staff were helpful and friendly and should I return to Florence I would definately consider staying here again.  
+<Date>Aug 14, 2007
+<Rating>3	4	4	4	4	2	3	-1	
+<Aspects>
+15	5(time):1	14(helpful):1	26(people):1	37(review):1	50(bad):1	64(spend):1	75(week):1	110(extremely):1	128(extra):1	347(twice):1	692(mile):1	763(boyfriend):1	1618(unhelpful):1	2685(witness):1	5005(donatello):1	
+0	
+54	3(clean):1	8(day):1	9(service):1	16(food):1	29(minute):1	37(review):1	39(return):2	52(bit):1	53(arrive):1	61(shower):1	67(call):1	68(travel):1	69(tell):1	74(perfect):1	88(read):1	89(offer):1	90(coffee):1	92(help):1	113(fine):1	118(top):1	133(huge):1	137(safe):1	139(square):1	179(double):1	226(bath):1	232(nearby):1	233(flight):1	250(yes):1	260(overlook):1	276(miss):1	300(maid):1	316(dine):1	449(sign):1	452(suggest):1	493(machine):1	496(concern):1	531(matter):1	542(completely):1	606(sell):1	766(agent):1	823(various):1	861(suit):1	930(regard):1	1021(transfer):1	1086(shut):1	1100(tidy):1	1245(laugh):1	1270(original):1	1300(originally):1	1506(gentleman):1	1881(regularly):1	2832(shoulder):1	3200(quad):1	6197(dispense):1	
+13	7(walk):1	8(day):1	29(minute):1	60(hour):1	177(san):1	283(half):1	1056(stroll):1	1645(ponte):1	1836(vecchio):1	3646(leisurely):1	3900(lorenzo):1	6900(centrale):1	7894(mercato):1	
+0	
+16	0(staff):1	12(friendly):1	14(helpful):1	31(front):1	39(return):2	94(noise):1	129(reception):1	148(request):1	190(complaint):1	242(care):1	248(consider):1	346(florence):1	410(definately):1	821(attitude):1	1502(aside):1	1506(gentleman):1	
+20	6(breakfast):1	18(book):1	20(look):1	34(feel):1	89(offer):1	130(standard):1	215(fruit):1	296(phone):1	390(adequate):1	441(cheese):1	529(cereal):1	582(european):1	652(pastry):1	813(roll):1	823(various):1	927(yogurt):1	1561(ham):1	1614(jam):1	2183(butter):1	3968(assorted):1	
+0	
+
+<Author>cmleicester
+<Content>Basic comfort not quality. This hotel is part of a large chain and the standards and attitude of staff certainly reflected this. Rooms were adequate, breakfast was lame and the staff effective but not efficient. Close to the station and a short walk to the sights, this hotel is basic and if you can get it on a cheap deal, you will be satisfied but not smug! If I had paid the advertised price for this hotel, I would have been livid but as a cheapy deal - it will do.  
+<Date>Jul 28, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+9	19(price):1	42(pay):1	140(deal):1	187(quality):1	352(basic):1	702(comfort):1	910(advertise):1	7730(cheapy):1	9848(livid):1	
+6	0(staff):1	6(breakfast):1	390(adequate):1	401(efficient):1	2774(effective):1	3561(lame):1	
+10	7(walk):1	28(close):1	82(station):1	140(deal):1	143(cheap):1	144(short):1	352(basic):1	411(sight):1	899(satisfy):1	12138(smug):1	
+0	
+5	0(staff):1	130(standard):1	627(chain):1	821(attitude):1	2250(reflect):1	
+0	
+0	
+
+<Author>TumorBunny
+<Content>Service cannot get any worse! Stay away! i went to florence with two friends and immediately upon our arrival and presenting the concierge (his name is martina capozza) with our passports, he told us that he does not like americans and america. that was just really awkward since we are his guests. he might as well just come out and say that he does not welcome us at his hotel.also, the hotel advertises itself as being located in piazza indipendenza, a green and peaceful spot. piazza indipendenza is NOT a green and peaceful spot. we arrived at the donatello on 06/17/07, a sunday, and saw piazza indipendenza as a place full of homeless people sleeping on the benches and on the grass. the whole piazza was also full of people selling junk (we saw one man selling used surgicals tools!). i would not recommend walking around the piazza too late in the night.we stayed in room 308, which was located in another building! the walls were very thin so we heard everything that went on in the hallway. the hotel did not offer a safe free of charge. we would have had to pay 2 euros per day for its use (we chose not to use it).when our passports were returned to us, we were informed that we had to pay 12 euros to the HOTEL for making reservations for us to the accademia and uffizi. the hotel charged 2 euros per person per museum/gallery (3 people; 2 museums/galleries). i emailed the hotel asking them to make the reservations for me. when the hotel responded that they will do it, they did not disclose to me that there will be this charge. when they confirmed that they had made the reservations for me, they again did not disclose that there will be a charge. on top of that, each one of us had to pay another 3 euros to the museums/galleries for reserving tickets. so all in all, we paid 30 euros (12 to donatello; 9 to uffizi; and 9 to accademia) for our reservations!!!on the day of our departure, we tried to explain to the concierge that the fees were never disclosed to us until our arrival. he just stared at us and told us that it is their policy. don't you think that if it is their policy, it should be clearly and plainly stated somewhere in writing? i finally told my boyfriend to just pay it even though i don't think we should be charged for it. the concierge responded saying that he did a favor for us and that it costs $100 per hour for my people. i refuse to believe that it his people gets paid 100 euros PER hour. the accademia is just a 5-minute walk from the hotel. and if it is a favor, shouldn't it be free? if it is a service, then it should be disclosed prior to our arrival. and to add to this awful awful experience, the concierge pulled out the F word on us. that is just plain bad business.furthermore, mr. capozza made a mistake with our reservations. he emailed me prior to our arrival and informed me that we have reservations to the accademia on 6/17 and to the uffizi on 6/19 when in fact, our reservations for the accademia were on 6/19 and our reservations for the uffizi were on 6/17. we did not have any problem getting into the accademia, but when we went to the uffizi, they were not happy that we got the dates mixed up. my boyfriend had to plead with the ticket office lady to ask her to make an exception for us. she let us into the uffizi, but gave us an attitude and told us to be more careful with the dates. well, we showed up on the wrong day because we relied on the hotels confirmation email!we ate breakfast only on the morning of our departure from the hotel. the dining room was tiny! i'm a small person (5'1; 120 lbs.) and i felt really cramped in there. the tables and chairs were literally touching each other. as for the food, it was way below average. the breakfast consisted on some fruits, breads, very thinly sliced ham and cheese, jams, butter, and hard croissants and danishes. coffee and cappuccino were dispensed from a machine. breakfast was from 7:30 to 9:30 (the hotels we stayed at in rome and venice both had breakfasts from 7 to 10).the air conditioning and lights in the room requires that you put in your key card in order to keep them on. we went in june, so it was pretty hot and it would be nice to come back to our hotel room at the end of the day to find it cool. here a trick to fix the problem: put a cardstock weight/type of paper in the slot and the AC and lights will stay on all day. (i'm sure the hotel isn't happy with this but i paid food money for my room, so i want it to be cool when i return to it.)we stayed in a triple, which consisted of 3 twin-sized beds and our own bathroom. the quality of the beds and bathroom is acceptable for a 3-star hotel.overally, this hotel caused us a lot of grievances and upsetted us in so many ways.  
+<Date>Jun 23, 2007
+<Rating>1	1	2	3	3	1	1	-1	
+<Aspects>
+34	8(day):1	26(people):1	34(feel):1	38(lot):1	46(free):1	69(tell):1	91(guest):1	155(happy):1	202(welcome):1	317(spot):1	344(write):1	427(wrong):1	511(date):2	606(sell):2	609(mix):1	821(attitude):1	897(careful):1	943(cause):1	1005(green):1	1036(peaceful):1	1080(cramp):1	1521(favor):1	1634(policy):1	1641(confirmation):1	1940(uffizi):2	2116(piazza):2	2327(rely):1	2806(accademia):1	2906(awkward):1	4293(junk):1	5249(tool):1	9900(plainly):1	11696(overally):1	12621(grievance):1	
+35	8(day):1	16(food):1	26(people):2	39(return):1	42(pay):6	44(experience):1	60(hour):2	69(tell):2	80(money):1	118(top):1	136(charge):1	155(happy):1	156(reservation):1	167(choose):1	175(cost):1	204(concierge):2	256(euro):4	278(cool):1	312(believe):1	341(finally):1	351(add):1	506(reserve):1	571(word):1	621(ticket):1	736(awful):2	763(boyfriend):1	858(pull):1	1103(refuse):1	1521(favor):1	1587(respond):1	1634(policy):1	1940(uffizi):1	2748(stare):1	2806(accademia):1	5005(donatello):1	
+43	4(nice):1	8(day):2	11(bed):2	13(bathroom):2	26(people):1	53(arrive):1	84(locate):1	104(sleep):1	109(pretty):1	114(hot):1	135(build):1	157(light):2	164(air):1	166(own):1	187(quality):1	198(chair):1	229(table):1	263(condition):1	278(cool):1	279(touch):1	292(card):1	316(dine):1	338(tiny):1	339(key):1	494(fix):1	664(june):1	665(literally):1	722(require):1	776(paper):1	844(sunday):1	956(ac):1	1185(consist):1	1214(acceptable):1	1553(triple):1	1567(homeless):1	1582(weight):1	1877(slot):1	2116(piazza):1	2603(grass):1	2614(trick):1	2814(3-star):1	3270(bench):1	5005(donatello):1	
+36	2(night):1	7(walk):2	8(day):1	9(service):1	15(recommend):1	26(people):1	50(bad):1	79(late):1	84(locate):1	132(hear):1	136(charge):2	147(business):1	183(wall):1	193(person):2	204(concierge):1	224(arrival):2	253(tried):1	256(euro):1	317(spot):1	507(museum):1	580(hallway):1	584(fee):1	637(prior):1	754(thin):1	768(explain):1	910(advertise):1	1005(green):1	1031(departure):1	1036(peaceful):1	1546(plain):1	1587(respond):1	2116(piazza):2	2806(accademia):1	4828(5-minute):1	5110(lb):1	6565(disclose):3	
+0	
+33	39(return):1	42(pay):1	46(free):1	69(tell):1	89(offer):1	136(charge):2	137(safe):1	146(friend):1	156(reservation):7	204(concierge):1	224(arrival):2	256(euro):1	295(name):1	346(florence):1	489(immediately):1	521(lady):1	621(ticket):1	637(prior):1	763(boyfriend):1	792(office):1	817(inform):2	895(mistake):1	982(confirm):1	1128(exception):1	1172(americans):1	1559(e-mail):2	1724(america):1	1940(uffizi):3	1975(passport):2	2806(accademia):3	3360(furthermore):1	6565(disclose):1	6952(plead):1	
+26	6(breakfast):4	9(service):1	16(food):1	47(eat):1	50(bad):1	56(morning):1	90(coffee):1	162(hard):1	215(fruit):1	227(average):1	441(cheese):1	493(machine):1	497(bread):1	585(below):1	1004(croissant):1	1031(departure):1	1185(consist):1	1498(venice):1	1561(ham):1	1614(jam):1	2024(slice):1	2183(butter):1	2185(rome):1	2675(danish):1	3821(cappuccino):1	6197(dispense):1	
+0	
+
+<Author>Riya_Rama
+<Content>Good Choice Me and husband we stayed in Comfort Inn Donatello in the last week of February 2007 for 4 days. Being our first city in our first trip to Italy this hotel was a warm start for us. The rooms were small (compared to US hotels) but very neat and clean. and came at a very economical rate  $100the hotel approx 10 mins walk from the Santa Maira novella station and at wakable distance to all attractions. May not be ideal for seniors because of the walking distance, but otherwise good payoff for the money spent and would recommend to all my friends.We had a little hard time trying to find the temperature controller in the room , but soon figured that its controlled centrally and you can call up the reception to have the deisred temperature set in the room. We had to do this all the 4 days.  
+<Date>Jun 12, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	8(day):1	
+22	7(walk):1	8(day):1	15(recommend):1	33(trip):1	41(city):1	64(spend):1	75(week):1	80(money):1	105(husband):1	107(choice):1	115(distance):1	146(friend):1	165(start):1	236(warm):1	324(inn):1	508(otherwise):1	545(ideal):1	702(comfort):1	900(italy):1	1230(february):1	2990(senior):1	5005(donatello):1	
+16	3(clean):1	5(time):1	23(little):1	67(call):1	76(try):1	129(reception):1	162(hard):1	234(set):1	381(compare):1	418(soon):1	779(figure):1	865(control):1	879(centrally):1	944(temperature):2	1286(neat):1	10804(controller):1	
+10	7(walk):1	78(rate):1	82(station):1	115(distance):1	247(min):1	350(attraction):1	1423(approx):1	1510(santa):1	3407(novella):1	3423(economical):1	
+0	
+0	
+0	
+0	
+
+<Author>SusanHolland
+<Content>OK The hotel is ok, the service was fine but the walls are very very thin. The room looked fine, nice and clean, beautiful bathroom, location is fine (within 10 min walking of the city centre). But so noisy. Conclusion, a good 3 star hotel but don't forget the earplugs. By the way: Florence is beautifull for a short citytrip.  
+<Date>Jun 11, 2007
+<Rating>3	2	3	3	4	4	4	-1	
+<Aspects>
+4	144(short):1	217(noisy):1	346(florence):1	3896(beautifull):1	
+4	103(star):1	397(forget):1	1771(earplugs):1	2089(conclusion):1	
+11	1(location):1	3(clean):1	4(nice):1	7(walk):1	13(bathroom):1	20(look):1	41(city):1	45(beautiful):1	101(center):1	113(fine):2	247(min):1	
+5	9(service):1	113(fine):1	123(ok):2	183(wall):1	754(thin):1	
+0	
+0	
+0	
+0	
+
+<Author>Dippool
+<Content>Give this a miss Hotel was very grubby.Breakfast was served in a cramped conditions with poor quality food  beveridges.Air condition was controlled by staff and only switched on after complaining after day two.  
+<Date>May 17, 2007
+<Rating>1	1	2	2	1	2	2	-1	
+<Aspects>
+2	276(miss):1	3740(grubby):1	
+0	
+7	0(staff):1	8(day):1	164(air):1	241(complain):1	263(condition):1	865(control):1	888(switch):1	
+0	
+0	
+0	
+7	6(breakfast):1	16(food):1	174(serve):1	187(quality):1	263(condition):1	331(poor):1	1080(cramp):1	
+0	
+
+<Author>sangimignano
+<Content>Took 13 rooms at Donatello and very happy. For our wedding, we took 13 rooms at this hotel for our Welsh guests. Whilst researching hotels, we had the advantage that my new wife is local to the area, and we are very happy with the choice we made.This is a spotlessly clean hotel, a few minutes more walk from the Duomo than some other hotels, but a decent area which is just past the edge of the hubbub of the city centre. In the heat of summer the open space of Piazza Independenza would be most welcome. The nearest attractions are San Marco and the Academia.The staff were very good with us, and accommodated our requests on more than one occasion. Having read the other reviews, the only negative I can find and agree with is that, yes, maybe the walls are a little thin. But when you have brought enough people on a plane to fill 13 rooms, and thats the worst complaint to be found, you really must compliment the hotel.I'd very happily stay here again, the decor is interesting, the atmosphere is cordial, and the experience has been very positive indeed. Grazie mille Martina, Renato e Adriano.  
+<Date>Apr 13, 2007
+<Rating>4	4	4	4	5	5	4	-1	
+<Aspects>
+6	102(near):1	177(san):1	350(attraction):1	2581(marco):1	5162(academia):1	9815(grazie):1	
+14	44(experience):1	107(choice):1	155(happy):1	184(wife):1	195(local):1	269(decor):1	414(atmosphere):1	458(positive):1	867(advantage):1	877(whilst):1	990(indeed):1	1024(research):1	1642(happily):1	3164(cordial):1	
+17	26(people):1	50(bad):1	91(guest):1	142(bring):1	155(happy):1	190(complaint):1	202(welcome):1	210(space):1	491(fill):1	539(heat):1	604(wed):1	853(summer):1	968(plane):1	1198(thats):1	2116(piazza):1	2571(compliment):1	5005(donatello):1	
+20	3(clean):1	7(walk):1	23(little):1	29(minute):1	37(review):1	41(city):1	88(read):1	101(center):1	183(wall):1	250(yes):1	257(decent):1	282(negative):1	308(maybe):1	419(past):1	473(agree):1	754(thin):1	981(duomo):1	1094(spotlessly):1	1190(edge):1	8549(hubbub):1	
+0	
+4	0(staff):1	148(request):1	624(accommodate):1	871(occasion):1	
+0	
+0	
+
+<Author>Larryo
+<Content>internet service "terrible", treatment, the same stayed there for 5 nights. We run a business and relied on this hotel for our wireless internet. Their signal is very, very weak. We were unable to get any work done from our room or lobby. We were sold 5 hour service for 20 Euros. In 5 days time, we were unable to log on sufficiently. It was NOT our computer. We talked to 4-5 different desk people at hotel about their terrible signal, to no avail. They demanded CASH only for a service which was never provided. DO NOT RECOMMEND this hotel to business people. We had to go to an internet cafe and pay again for a service that this hotel didn't provide. When we told them the 4th, 5th time, they acted very angrily. BUT insisted on CASH ONLY.  
+<Date>Mar 27, 2007
+<Rating>2	2	3	4	4	3	3	1	
+<Aspects>
+13	5(time):2	8(day):1	69(tell):1	839(5th):1	845(4th):1	1082(cash):1	1461(unable):1	1495(insist):1	1770(weak):1	2237(act):1	2974(signal):1	3437(log):1	5602(sufficiently):1	
+0	
+2	55(lobby):1	1461(unable):1	
+3	15(recommend):1	26(people):1	147(business):1	
+0	
+6	26(people):1	36(desk):1	371(talk):1	432(terrible):1	2974(signal):1	3122(avail):1	
+13	2(night):1	9(service):4	42(pay):1	60(hour):1	97(internet):2	153(provide):2	256(euro):1	275(cafe):1	432(terrible):1	606(sell):1	1082(cash):1	1147(treatment):1	1613(demand):1	
+6	97(internet):1	147(business):1	149(run):1	555(computer):1	717(wireless):1	2327(rely):1	
+
+<Author>salh
+<Content>Good Location We stayed for 2 nights. Our room was clean and comfortable with nice high ceilings, overall we liked the hotel, in a good location, staff friendly, breakfast was ok. The only problem was noise from other residents. The hallway was quite noisy and there were a group of school children in the rooms next door shrieking until the early hours  
+<Date>Mar 14, 2007
+<Rating>3	3	3	4	4	4	4	-1	
+<Aspects>
+2	94(noise):1	1988(resident):1	
+0	
+16	0(staff):1	1(location):1	3(clean):1	4(nice):1	6(breakfast):1	12(friendly):1	25(comfortable):1	54(door):1	60(hour):1	70(overall):1	123(ok):1	217(noisy):1	277(child):1	528(ceiling):1	580(hallway):1	1229(school):1	
+2	1(location):1	2(night):1	
+0	
+0	
+0	
+0	
+
+<Author>Lucky1BC
+<Content>Nice Place to Stay We were very pleased with Comfort hotel Donatello. The staff were very friendly, the rooms were very clean, and the hotel is in a great location. It's within walking distance to all of the main attractions. The breakfast is pretty basic, but if you don't like it, there are many cafes close by. I would definetly stay here again.  
+<Date>Mar 5, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	4(nice):1	173(please):1	702(comfort):1	1964(definetly):1	5005(donatello):1	
+0	
+4	0(staff):1	1(location):1	3(clean):1	12(friendly):1	
+4	7(walk):1	112(main):1	115(distance):1	350(attraction):1	
+0	
+0	
+5	6(breakfast):1	28(close):1	109(pretty):1	275(cafe):1	352(basic):1	
+0	
+
+<Author>Beaniee
+<Content>Good Value Hotel was next to Piazza Indipendenza and only walking distance from Florence (Firenze) Santa Novella train Sta.There are lots of shops, cafe and restaurant nearbly. It was pretty close to Accademia. Florence was easy to access on foot. The room was decorated in style (I beleive it was Florence style- green color for bed cover and curtain). Front desk staff could speak English well. I will definitely stay in this hotel for my next trip to Florence.  
+<Date>Mar 4, 2007
+<Rating>4	4	4	4	3	4	3	-1	
+<Aspects>
+3	33(trip):1	59(definitely):1	346(florence):1	
+0	
+9	11(bed):1	305(decorate):1	326(style):2	346(florence):1	552(cover):1	743(curtain):1	942(color):1	1005(green):1	5212(beleive):1	
+13	7(walk):1	28(close):1	81(value):1	109(pretty):1	115(distance):1	182(train):1	346(florence):1	1510(santa):1	2116(piazza):1	2806(accademia):1	3062(firenze):1	3407(novella):1	12505(sta):1	
+0	
+5	0(staff):1	31(front):1	36(desk):1	127(speak):1	152(english):1	
+4	10(restaurant):1	38(lot):1	49(shop):1	275(cafe):1	
+4	93(easy):1	159(access):1	346(florence):1	402(foot):1	
+
+<Author>HotelR3viewer
+<Content>SLightly disappointed We stayed in the hotel donatello for 2 nights Friday 23rd Feb, Saturday 24th Feb. The hotel is about 10 minute walk straight down Plaza Indepenzia, which was convenient, but not too convenient for our return flight when we had to leave at 3am and pass a couple of prostitues on the way down. During the day time it is not like this though.It is also about a 10minute walk to the amenities of the city - which is okay, but your feet do get tired after walking around the city all day.The rooms were adequate, except we got a 'dodgy' room with very little natural light. The bathroom was nice and clean - the whole room was clean. No complaints with the room.The walls are slightly thin and we got woken up at 7am with a drilling sound - coouldnt quite work it out if it was the hairdryers or not.The breakfast was VERY limited and we were very disappointed, and ended up at one of the numerous cafes in Florence. The breakfast was simply a few pieces of ham, cheese and some croissants ( not much was left either).Overall, the hotel was nice, but it was what I expected from a 3*. One other note: if you get the terravision bus transfers, then please think again. They are rubbish. When we arrived in Pisa, several people did not get onto the bus, people were pushing and shouting etc, making the start of our holiday unpleasant. One the return journey (3.35 - the same again, but everyone managed to get on).I would also recommend a nice cosey pub called 'Friends' which resides on Borgo San locopo - only opens after 5pm and it is not very italian, but more of a pub - but they bring out free food for you to pick up and the drinks arent too expensive. It is also very near the jewellery bridge.  
+<Date>Feb 27, 2007
+<Rating>3	3	3	2	4	4	3	-1	
+<Aspects>
+12	4(nice):1	5(time):1	8(day):1	39(return):1	62(expect):1	70(overall):1	102(near):1	645(manage):1	740(bridge):1	1362(journey):1	2261(jewellery):1	2664(rubbish):1	
+10	26(people):2	53(arrive):1	73(etc):1	120(bus):1	165(start):1	223(holiday):1	1041(push):1	1747(unpleasant):1	2146(shout):1	3810(pisa):1	
+26	2(night):1	3(clean):2	4(nice):1	13(bathroom):1	23(little):1	154(disappoint):1	157(light):1	183(wall):1	190(complaint):1	337(except):1	390(adequate):1	409(sound):1	554(wake):1	598(slightly):2	754(thin):1	818(saturday):1	923(friday):1	1258(feb):2	1493(hairdryer):1	1543(natural):1	2539(dodgy):1	2564(24th):1	3368(drill):1	5005(donatello):1	5123(23rd):1	6302(7am):1	
+22	7(walk):3	8(day):1	29(minute):1	39(return):1	41(city):2	43(leave):1	99(couple):1	120(bus):1	173(please):1	186(convenient):2	233(flight):1	291(amenity):1	297(note):1	400(pass):1	402(foot):1	453(okay):1	454(tire):1	515(plaza):1	827(straight):1	1021(transfer):1	9371(10minute):1	11261(3am):1	
+0	
+0	
+29	4(nice):1	6(breakfast):2	15(recommend):1	16(food):1	43(leave):1	46(free):1	63(drink):1	67(call):1	124(expensive):1	142(bring):1	146(friend):1	154(disappoint):1	177(san):1	266(pick):1	275(cafe):1	346(florence):1	358(italian):1	441(cheese):1	488(simply):1	510(limit):1	941(piece):1	971(numerous):1	1004(croissant):1	1393(pub):2	1561(ham):1	4469(arent):1	6177(reside):1	7134(5pm):1	11520(borgo):1	
+0	
+
+<Author>mf012e
+<Content>Hotel was nice but.... Nothing wrong with the Donatello. Nice hotel and staff. Staff was MOST helpful. Pretty park in front of hotel. Bit of a walk to destinations. Questionable neighborhood at night. Walked through the central market at night on our way to the restaurant. Ended up being followed by guys one night. Overall, was happy with hotel. Next time I would stay alittle closer to the attractions.  
+<Date>Feb 22, 2007
+<Rating>4	4	3	2	4	5	5	-1	
+<Aspects>
+10	2(night):2	4(nice):1	70(overall):1	155(happy):1	368(guy):1	421(neighbourhood):1	427(wrong):1	482(follow):1	3391(questionable):1	5005(donatello):1	
+0	
+0	
+14	2(night):1	5(time):1	7(walk):2	10(restaurant):1	28(close):1	31(front):1	52(bit):1	66(park):1	109(pretty):1	168(central):1	264(market):1	350(attraction):1	1092(destination):1	3845(alittle):1	
+0	
+3	0(staff):2	4(nice):1	14(helpful):1	
+0	
+0	
+
+<Author>guitargaz
+<Content>Beautiful city, nice hotel Stayed at the Donatello on the 17th and 18th Feb. Its a decent 3 star hotel, plain and simple. The really high ceilings make the rooms feel huge. The bed is comfy, flat screen TV, reasonably priced minibar and relatively quiet (Just make sure you ask for a room at the top of the hotel, some traffic noise otherwise) It's about a 10 minute walk into the centre of the city, so not too bad at all.Florence is not a particularly cheap city, so make sure you bring plenty of spending money. Many of the restaurants bolt on so many additional charges on top of the food, it can end up as nearly double what you expected. On more than one occasion we were short changed in restaurants, so to avoid any conflict, give them the right money. I've never been anywhere where coffee varies so much in price! The cheapest was in the square outside the spirito de santo where it was 0.7 euros (make sure you sit inside, it is 1/3 of the price!) and the most expensive was 6 euros (around the ponte de vechio)!I proposed to my girlfried at sunset in Piazzale Michealangelo, so if you are going with your partner its worth the trip up on the bus (v. romantic!).Make sure you do the Pitti Palace and boboli gardens above anything else, they are beautiful. Stay at the donatello if you want a quiet, comfortable, no frills base for seeing this beautiful city!  
+<Date>Feb 19, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	4(nice):1	41(city):1	45(beautiful):2	170(else):1	310(garden):1	642(palace):1	1258(feb):1	2143(17th):1	2213(18th):1	5005(donatello):1	5941(pitti):1	7566(boboli):1	
+24	19(price):2	41(city):1	64(spend):1	80(money):1	90(coffee):1	98(outside):1	103(star):1	124(expensive):1	139(square):1	142(bring):1	143(cheap):2	158(plenty):1	169(sit):1	256(euro):2	257(decent):1	346(florence):1	408(inside):1	553(particularly):1	613(simple):1	1546(plain):1	1645(ponte):1	2018(vary):1	3235(santo):1	8651(vechio):1	
+27	7(walk):1	11(bed):1	19(price):1	25(comfortable):1	29(minute):1	34(feel):1	41(city):2	45(beautiful):1	50(bad):1	58(quiet):2	94(noise):1	101(center):1	116(tv):1	118(top):1	133(huge):1	284(base):1	475(comfy):1	486(traffic):1	508(otherwise):1	526(screen):1	528(ceiling):1	535(flat):1	578(reasonably):1	913(relatively):1	1037(minibar):1	2210(frill):1	5005(donatello):1	
+8	33(trip):1	96(worth):1	120(bus):1	707(romantic):1	1006(partner):1	1246(sunset):1	4738(propose):1	6967(piazzale):1	
+0	
+0	
+15	10(restaurant):2	16(food):1	62(expect):1	80(money):1	118(top):1	136(charge):1	144(short):1	161(change):1	179(double):1	436(avoid):1	835(additional):1	871(occasion):1	896(nearly):1	5277(bolt):1	6419(conflict):1	
+0	
+
+<Author>dekboy
+<Content>Nice hotel.......but!!!!!!! My wife and I stayed at the Donattelo for four nights. Ideally situated for walking around the major sites of Florence. The hotel itself was clean and the rooms big enough with a fantastic interior( headboard, furnishings and ceiling) Breakfast limited but adequate.But........heating very very strange. You have to call reception to both switch it on and off. We stayed late January and although lovely during the day it was fairly cold at night and the noisy blow heating just could not cope. It also came on at random times during the night which would wake you up. Rooms not very well soundproofed, could hear plumbing and various other noises coming from adjacent rooms.I would dearly love to recommend the hotel but when you cannot get a decent nights sleep for four nights then I am afraid I could not do it.p.s. Florence itself is well worth a visit !!  
+<Date>Feb 4, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	2(night):2	4(nice):1	5(time):1	65(visit):1	96(worth):1	184(wife):1	346(florence):1	539(heat):1	554(wake):1	1058(strange):1	2497(p.s):1	3255(random):1	
+0	
+32	2(night):3	3(clean):1	6(breakfast):1	8(day):1	15(recommend):1	40(love):1	79(late):1	86(fantastic):1	87(lovely):1	94(noise):1	104(sleep):1	132(hear):1	217(noisy):1	222(cold):1	257(decent):1	390(adequate):1	462(fairly):1	510(limit):1	528(ceiling):1	539(heat):1	823(various):1	870(furnishings):1	1018(january):1	1026(interior):1	1061(adjacent):1	1146(blow):1	1544(afraid):1	1852(soundproof):1	2107(plumb):1	3408(headboard):1	3942(cope):1	8832(dearly):1	
+6	7(walk):1	192(site):1	315(major):1	346(florence):1	574(situate):1	1800(ideally):1	
+0	
+3	67(call):1	129(reception):1	888(switch):1	
+0	
+0	
+
+<Author>ajcat61
+<Content>Great location and clean rooms.       Our bathroom  
+<Date>Jan 16, 2007
+<Rating>5	5	5	5	5	4	4	-1	
+<Aspects>
+0	
+0	
+3	1(location):1	3(clean):1	13(bathroom):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>SJB_and_LCB
+<Content>Good Hotel, Enjoyed our Stay We stayed here for 3 nights in late December 2006. A good hotel, and we would recommend it to others. Location is good, right on the Piazza del Indipendenza 鈥?within walking distance of the train station and all of the sights. Some good restaurants, shops and other facilities nearby. Staff very friendly, helpful and efficient. Rooms clean and comfortable. The breakfast is nothing to get too excited about, a typical 鈥渃ontinental鈥?offering (but, to be fair, is advertised as such). Overall a good and reasonably priced place to stay, and we would recommend it to others.  
+<Date>Jan 6, 2007
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+5	2(night):1	15(recommend):1	51(enjoy):1	79(late):1	993(december):1	
+4	15(recommend):1	19(price):1	70(overall):1	578(reasonably):1	
+8	3(clean):1	6(breakfast):1	25(comfortable):1	89(offer):1	628(typical):1	739(fair):1	910(advertise):1	1136(excite):1	
+12	1(location):1	7(walk):1	10(restaurant):1	49(shop):1	82(station):1	115(distance):1	182(train):1	211(facility):1	232(nearby):1	411(sight):1	1482(del):1	2116(piazza):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	401(efficient):1	
+0	
+0	
+
+<Author>podder
+<Content>Ideal Location            
+<Date>Dec 31, 2006
+<Rating>3	4	3	5	4	3	3	-1	
+<Aspects>
+0	
+0	
+0	
+2	1(location):1	545(ideal):1	
+0	
+0	
+0	
+0	
+
+<Author>Waterbomb
+<Content>Ok... but some concern Stayed there in early Dec. Was a nice hotel within 15 min walk from the main train station (SM Novella) which was what that attracted me.What I like - Location, cleanliness, space in the room.What I didn't like - You cannot control the temperature which is centrally controlled, you need to pay to leave your luggage at the concierge when you check out, you need to pay to use the safe, you are not allowed to eat in your room.Breakfast was a bit plain but passable if you're not fussy. Floor is not carpetted which makes it very cold during Dec. One thing that bothered me a bit was a tiny red light that appeared behind the aircon vent on the ceiling. It is very obvious especially when you switch off all the lights at night. I couldn't check what it was cos the vent was screwed tight. I even took a photo of it. The light itself did not bother me cos it small but the red light was part of.  
+<Date>Dec 13, 2006
+<Rating>2	3	3	3	4	3	3	-1	
+<Aspects>
+4	123(ok):1	496(concern):1	761(photo):1	1508(dec):1	
+0	
+20	1(location):1	2(night):1	24(floor):1	52(bit):1	126(especially):1	157(light):4	210(space):1	222(cold):1	307(bother):2	338(tiny):1	528(ceiling):1	541(appear):1	590(red):2	854(cleanliness):1	888(switch):1	1508(dec):1	1698(obvious):1	2257(aircon):1	2344(vent):1	4897(cos):1	
+8	4(nice):1	7(walk):1	82(station):1	112(main):1	182(train):1	247(min):1	2452(attract):1	3407(novella):1	
+0	
+15	32(check):2	42(pay):2	43(leave):1	47(eat):1	137(safe):1	204(concierge):1	249(luggage):1	359(allow):1	865(control):2	879(centrally):1	944(temperature):1	1399(tight):1	2344(vent):1	2853(screw):1	4897(cos):1	
+5	6(breakfast):1	52(bit):1	1546(plain):1	1867(fussy):1	4247(passable):1	
+0	
+
+<Author>gregov
+<Content>Very Nice Hotel Very classy Hotel in a nice neighborhood in Florence, Walking distance to everything, Beautiful room with all amenities. Friendly staff and good breakfest.  
+<Date>Nov 27, 2006
+<Rating>4	4	5	5	5	4	4	3	
+<Aspects>
+0	
+0	
+8	4(nice):2	7(walk):1	45(beautiful):1	115(distance):1	291(amenity):1	346(florence):1	421(neighbourhood):1	1488(classy):1	
+0	
+0	
+3	0(staff):1	12(friendly):1	5396(breakfest):1	
+0	
+0	
+
+<Author>angover
+<Content>Great Hotel for the Money We stayed in 3 hotels in Italy, including the Bernini in Florence for one night, and this was the nicest room and the least expensive. Our room was HUGE, and the bathroom was very nice  large. It was a bit of a hike to the historical district, but for only 100 euros per night, it was worth it. If I could have afforded something closer, I would have done it, but not for anothe 100 euros per night! Our room was on the side of the hotel with a busy street so it was pretty noisey, but that's in issue with Florence itself. If you like upper class accomodations, but can only afford about $125 a night American, stay at the Donatello.  
+<Date>Nov 14, 2006
+<Rating>4	4	4	2	4	5	3	3	
+<Aspects>
+7	2(night):1	52(bit):1	96(worth):1	256(euro):1	433(district):1	1705(hike):1	2311(historical):1	
+13	2(night):2	4(nice):1	71(include):1	80(money):1	124(expensive):1	346(florence):1	470(class):1	780(accomodation):1	900(italy):1	1333(upper):1	1452(afford):1	5005(donatello):1	11197(bernini):1	
+3	4(nice):1	13(bathroom):1	133(huge):1	
+10	2(night):1	28(close):1	35(street):1	109(pretty):1	220(busy):1	256(euro):1	265(issue):1	346(florence):1	1452(afford):1	3008(noisey):1	
+0	
+0	
+0	
+0	
+
+<Author>HikerAMT
+<Content>Just OK - would stay at Davanzati upon return The room was large as was the bathroom but overall the hotel was just OK. The breakfast was a joke, just a few rolls and coffee and tea from a machine. It's a hike from the center of town to the hotel, especially if you've been out walking all day. The area around the hotel does not offer good restaurants so you need to travel for dinner. I checked out the Hotel Davanzati while in Florence since it's #1 on this list and I can see why. It's worth a few extra dollars and advance planning to stay there.  
+<Date>Nov 3, 2006
+<Rating>3	3	3	2	3	2	2	-1	
+<Aspects>
+0	
+5	96(worth):1	128(extra):1	221(plan):1	430(dollar):1	685(advance):1	
+5	13(bathroom):1	39(return):1	70(overall):1	123(ok):2	6506(davanzati):1	
+6	7(walk):1	8(day):1	101(center):1	126(especially):1	239(town):1	1705(hike):1	
+0	
+4	32(check):1	346(florence):1	650(list):1	6506(davanzati):1	
+10	6(breakfast):1	10(restaurant):1	68(travel):1	89(offer):1	90(coffee):1	117(dinner):1	301(tea):1	493(machine):1	813(roll):1	1175(joke):1	
+0	
+
+<Author>jbrentpoer
+<Content>pros and cons Pros- Location: Good location, walking distance to train station and major sites.- Climate Control: Excellent AC system kept room cool and comfortable.- Rate: Comparatively low.- Bed: The bed was comfortable.-Quiet: This room was nice a quiet day and night.Cons- Shower: The shower in this place is downright dangerous. It is very slippery and both of us slipped and scraped ourselves on the jagged metal soap holder.- Breakfast: The breakfast was very minimal and the automatic coffee machine did not make good coffee.- Towels: They consistently smelled like urine.- Housekeeping: They clean the rooms very late in the day. Don鈥檛 count on coming back to a clean room for your siesta.Reception Staff: They are not very helpful and they barely acknowledge your presence, except for the nice blond lady who is there during breakfast.  
+<Date>Nov 3, 2006
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	78(rate):1	513(low):1	7238(comparatively):1	
+0	
+29	2(night):1	3(clean):2	4(nice):1	8(day):2	11(bed):2	21(excellent):1	25(comfortable):1	58(quiet):1	61(shower):2	79(late):1	278(cool):1	367(housekeeping):1	518(system):1	767(ourselves):1	840(Con):1	865(control):1	908(don):1	956(ac):1	965(soap):1	1781(Count):1	1971(dangerous):1	2031(slip):1	2704(climate):1	2720(metal):1	2857(slippery):1	3253(holder):1	3289(downright):1	5153(scrape):1	5154(siesta):1	
+9	1(location):2	7(walk):1	82(station):1	115(distance):1	182(train):1	192(site):1	315(major):1	840(Con):1	1249(pro):2	
+4	125(towel):1	231(smell):1	2249(consistently):1	3191(urine):1	
+11	0(staff):1	4(nice):1	6(breakfast):1	14(helpful):1	129(reception):1	337(except):1	521(lady):1	1020(barely):1	2453(acknowledge):1	3096(presence):1	5278(blond):1	
+5	6(breakfast):2	90(coffee):2	493(machine):1	1615(minimal):1	3444(automatic):1	
+0	
+
+<Author>Kenshin1031
+<Content>Disappointed Given the numerous good reviews given by people previously staying at Donatello, my husband and I were truly disappointed by this hotel. We spent 2 weeks in Italy, and have stayed in other 3-4 star hotels in Milan (Splendido), Venice (Locanda Correr), Rome (Express by Holiday Inn) and Capri which charged similar or lower prices, but Donatello was the least satisfactory.Problems include: The aircon did not work: There were mosquitos in the room (dead or alive); The cleaning staff did not wash the used glasses; The breakfast was inadequate; The staff are unfriendly (especially those in the breakfast room).  
+<Date>Oct 17, 2006
+<Rating>3	3	2	4	2	4	3	-1	
+<Aspects>
+8	26(people):1	37(review):1	105(husband):1	154(disappoint):2	476(truly):1	971(numerous):1	1122(previously):1	5005(donatello):1	
+17	19(price):1	64(spend):1	75(week):1	103(star):1	136(charge):1	223(holiday):1	324(inn):1	777(lour):1	874(similar):1	900(italy):1	1124(express):1	1498(venice):1	2059(satisfactory):1	2185(rome):1	4836(capri):1	5005(donatello):1	7557(milan):1	
+13	0(staff):2	3(clean):1	6(breakfast):2	71(include):1	126(especially):1	327(glass):1	811(wash):1	1054(mosquito):1	1487(unfriendly):1	1621(dead):1	2257(aircon):1	2899(alive):1	3610(inadequate):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>THEVIKING100
+<Content>Very Good value Take the advise of others - as we did - and you will not be disappointed. We had an excellent room on the first floor that put some four star hotels to shame. Very clean, bright and a very comfortable king size bed. Breakfast was adequate and a bit hectic but no problems. The parking offered by the hotel was a 2 minute walk in another hotel and cost 20 euro per night. Also they would make a charge for leaving bags after check out. Good, quiet location and at 84 euro for bed and breakfast this has to be one of the best value hotels we have stayed in and we have seen plenty.  
+<Date>Sep 3, 2006
+<Rating>5	5	5	4	5	4	4	-1	
+<Aspects>
+0	
+3	81(value):1	154(disappoint):1	663(advise):1	
+16	1(location):1	3(clean):1	6(breakfast):1	11(bed):2	21(excellent):1	24(floor):1	25(comfortable):1	58(quiet):1	81(value):1	83(size):1	103(star):1	158(plenty):1	243(king):1	256(euro):1	880(bright):1	1292(shame):1	
+7	2(night):1	7(walk):1	29(minute):1	66(park):1	89(offer):1	175(cost):1	256(euro):1	
+0	
+4	32(check):1	43(leave):1	136(charge):1	290(bag):1	
+4	6(breakfast):1	52(bit):1	390(adequate):1	2732(hectic):1	
+0	
+
+<Author>lovescotland
+<Content>What a Find!!!! Stayed at the Donatello for 7 nights from the 21st - 28th August and what a find it turned out to be! The hotel is 10 minutes walk from the main train station in Florence. (this is where the bus from Pisa airport drops you off if you fly Ryanair)The hotel is situated at the top of Piazza Della Independenza.The staff we found to be helpful but not overfriendly, the check in was quick and efficient. We were in room 228 which was at the end of the hotel, the room was clean, spacious and decorated in a very ornate Tuscan Manor! All rooms have air conditioning, a mini bar and a inroom safe(usable for 2euro a day)Breakfast was continental self service consisting of various breads, cheese/ham, cereals and yoghurts. Tea?coffee and fruit juices also( the piazza outside had some nice bars to get breakfast in also)All major attractions are a 10 min walk away.If I was visiting Florence again I would definately stay here and would have no hesitation in suggesting it too others!!!!  
+<Date>Aug 28, 2006
+<Rating>5	5	4	4	5	4	4	-1	
+<Aspects>
+9	2(night):1	65(visit):1	346(florence):1	410(definately):1	452(suggest):1	1373(hesitation):1	2668(28th):1	4913(21st):1	5005(donatello):1	
+0	
+6	3(clean):1	111(spacious):1	305(decorate):1	2855(tuscan):1	4796(ornate):1	6505(manor):1	
+16	7(walk):1	29(minute):1	82(station):1	95(airport):1	112(main):1	118(top):1	120(bus):1	182(train):1	346(florence):1	574(situate):1	614(fly):1	662(drop):1	2116(piazza):1	3810(pisa):1	4266(della):1	7168(ryanair):1	
+0	
+5	0(staff):1	14(helpful):1	32(check):1	299(quick):1	401(efficient):1	
+29	4(nice):1	6(breakfast):2	7(walk):1	8(day):1	9(service):1	27(bar):2	90(coffee):1	98(outside):1	137(safe):1	164(air):1	215(fruit):1	247(min):1	263(condition):1	301(tea):1	315(major):1	350(attraction):1	362(juice):1	372(continental):1	441(cheese):1	448(mini):1	497(bread):1	529(cereal):1	823(various):1	927(yogurt):1	1185(consist):1	1314(self):1	2116(piazza):1	5536(usable):1	6768(inroom):1	
+0	
+
+<Author>els37
+<Content>Well done Donatello! This is a lovely hotel . Not far from any of the main tourist attractions but at the top end of a quiet square, so outside noise was not a problem. It was a five/ten minute walk from the train station, very easy to find. We arrived around midnight and thankfully, were checked in in less than five minutes. We had two rooms next door to each other at the top of the hotel. Not massive but perfectly adequate for two people. Bathrooms were a good size and very clean. Plenty of hot water for showers. Continental breakfast was fine, not as much choice as I've had in other hotels but okay nonetheless. Well stocked mini bar and not expensive.We thought like some of the other reviewers, that the reception staff could have been a bit more affable but it wasn't a major issue. Also the walls between our rooms were extremely thin, which wasn't a problem because we knew who was in the next room but it might've been if we hadn't.Overall I really liked the hotel and it's location and would not hesitate in recommending it.By the way, if you have time, you really must take a trip to Siena, it is absolutely beautiful.  
+<Date>Jun 4, 2006
+<Rating>4	5	4	-1	5	-1	3	-1	
+<Aspects>
+11	5(time):1	26(people):1	33(trip):1	45(beautiful):1	87(lovely):1	189(absolutely):1	390(adequate):1	595(perfectly):1	1329(massive):1	5005(donatello):1	5325(siena):1	
+10	6(breakfast):1	27(bar):1	107(choice):1	113(fine):1	124(expensive):1	372(continental):1	448(mini):1	453(okay):1	599(stock):1	2652(nonetheless):1	
+19	3(clean):1	13(bathroom):1	54(door):1	57(water):1	58(quiet):1	61(shower):1	83(size):1	94(noise):1	98(outside):1	110(extremely):1	112(main):1	114(hot):1	118(top):2	139(square):1	158(plenty):1	183(wall):1	209(tourist):1	350(attraction):1	754(thin):1	
+9	1(location):1	7(walk):1	15(recommend):1	29(minute):1	70(overall):1	82(station):1	93(easy):1	182(train):1	902(hesitate):1	
+0	
+12	0(staff):1	29(minute):1	32(check):1	52(bit):1	53(arrive):1	129(reception):1	265(issue):1	315(major):1	564(reviewer):1	1044(midnight):1	1893(thankfully):1	11731(affable):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Two thumbs up! The great thing about Florence is that you don't have to worry about transportation. This hotel was a little further but all the attractions were just a 10-20 minute walk. You can actually walk across Florence in about 25-30 minutes. I would highly recommend this hotel. The staff was exceptional. Breakfast was nice. The room was large, decorated beautifully, came with a TV, refrigerator. We would definitively stay here again.  
+<Date>May 22, 2006
+<Rating>4	4	5	-1	4	-1	4	-1	
+<Aspects>
+4	15(recommend):1	138(highly):1	2165(thumb):1	7253(definitively):1	
+0	
+4	116(tv):1	305(decorate):1	771(beautifully):1	916(refrigerator):1	
+8	7(walk):2	23(little):1	29(minute):2	180(actually):1	346(florence):2	350(attraction):1	728(transportation):1	831(worry):1	
+0	
+2	0(staff):1	837(exceptional):1	
+2	4(nice):1	6(breakfast):1	
+0	
+
+<Author>sueeb
+<Content>great hotel Web site phots do not do this hotel justice, nice rooms/beds. Great location in Florence. Do not hesitate to stay here.  
+<Date>May 17, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	902(hesitate):1	
+0	
+4	4(nice):1	192(site):1	1019(web):1	2878(justice):1	
+2	1(location):1	346(florence):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Impressed! This is in a great location, not too in the centre and not too much out of the way.The room I stayed in was lovely, if you like art you will not be let down. Very clean too.Breakfast is just OK, continental so don't expect much.Very impressed would stay again!  
+<Date>May 4, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	343(impress):2	
+0	
+2	87(lovely):1	789(art):1	
+2	1(location):1	101(center):1	
+1	3(clean):1	
+0	
+4	6(breakfast):1	62(expect):1	123(ok):1	372(continental):1	
+0	
+
+<Author>Ken-Jayne
+<Content>Excellent Location       Home for 6 nights  
+<Date>Apr 19, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+0	
+4	1(location):1	2(night):1	21(excellent):1	141(home):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Hotel Donatello!! The Hotel Donatello was really excellent, very welcoming and professional the Manager Mr. Renato Campestrina, that help us with same bags that we lost in the airport. Staff were very friendly, helpful, approchable, entertaining and informative.we booked a Superior Room, that was adequate size with a very lovely view on the private garden and overall clean!we would fully recommend the Donatello and would definetively return there!  
+<Date>Apr 10, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+3	15(recommend):1	39(return):1	5005(donatello):2	
+0	
+19	3(clean):1	17(view):1	18(book):1	21(excellent):1	70(overall):1	83(size):1	87(lovely):1	92(help):1	95(airport):1	202(welcome):1	258(manager):1	290(bag):1	310(garden):1	390(adequate):1	492(private):1	501(professional):1	596(lose):1	785(superior):1	5005(donatello):1	
+0	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	1045(entertain):1	1976(informative):1	
+0	
+0	
+
+<Author>kirstyw
+<Content>Romantic, Quiet, Gorgeous! Staff should smile more though! My Partner and I stayed here for 2 nights in Mid March.The hotel itself was gorgeous, with original features which made it look elegant and romantic, it was also spotlessly clean!Check in took quite a while as we had booked on the internet and I feel th staff could have smiled more and been a bit more pleasant, but other than that everything was great.Our room was brilliant, with high ceiling with original paiting on the ceilings. Marble bathroom, great big bed, air con, mini bar!!Just a really fab hotel. Definitely a romantic place for couples.Also, the little parks in front of the hotel are so romantic at night when they are all lit up!.  
+<Date>Mar 29, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	2(night):1	59(definitely):1	99(couple):1	615(march):1	707(romantic):1	1006(partner):1	1216(fab):1	1313(mid):1	
+0	
+18	2(night):1	11(bed):1	13(bathroom):1	23(little):1	27(bar):1	31(front):1	58(quiet):1	66(park):1	157(light):1	164(air):1	446(gorgeous):1	448(mini):1	528(ceiling):2	705(marble):1	707(romantic):2	793(brilliant):1	840(Con):1	1270(original):1	
+0	
+8	3(clean):1	20(look):1	446(gorgeous):1	707(romantic):1	731(feature):1	986(elegant):1	1094(spotlessly):1	1270(original):1	
+9	0(staff):2	18(book):1	32(check):1	34(feel):1	52(bit):1	97(internet):1	150(pleasant):1	387(smile):2	2505(th):1	
+0	
+0	
+
+<Author>CarrieC76
+<Content>Great hotel! The Hotel Donatello is a great hotel for it's location and price. It's about a 3 minute cab ride from the Termi station. And because the city of Florence is walkable, you can walk to all the major sites. The farthest end of town is about 20 minutes walking. The hotel is quiet and the staff is helpful. The rooms are clean and the bathrooms are new and very big. I would stay here again on my next visit!  
+<Date>Mar 21, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	65(visit):1	
+3	1(location):1	19(price):1	5005(donatello):1	
+5	0(staff):1	3(clean):1	13(bathroom):1	14(helpful):1	58(quiet):1	
+11	7(walk):2	29(minute):2	41(city):1	82(station):1	192(site):1	218(ride):1	239(town):1	315(major):1	346(florence):1	380(cab):1	2197(walkable):1	
+0	
+0	
+0	
+0	
+
+<Author>poppydot
+<Content>Donatello Dream I stayed at this hotel for 2 nights on my own and was apprehensive about the location, and the hotel itself. The hotel was brilliant. Very clean and spacious, with a well stocked mini bar, (cheap by UK standards) with large windows opening onto the square. the only very minor complaint, or rather, observation, was that the hotel is around 10 mins walk from the train station, not 'across the square' as one advert said.The staff were friendly and very helpful, and booked me tickets for the galleries when I arrived. Breakfast was one of the best I have had in a European country, with cold ham and cheese aswell as lots of bread and croissants and the usual jam, tea and coffee. I would definitely go back to this hotel - it was great!!  
+<Date>Feb 27, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+2	59(definitely):1	793(brilliant):1	
+0	
+10	3(clean):1	27(bar):1	111(spacious):1	119(window):1	130(standard):1	139(square):1	143(cheap):1	448(mini):1	599(stock):1	1178(uk):1	
+15	1(location):1	2(night):1	7(walk):1	82(station):1	139(square):1	166(own):1	182(train):1	190(complaint):1	247(min):1	720(minor):1	1256(dream):1	2129(apprehensive):1	3337(observation):1	5005(donatello):1	10249(advert):1	
+0	
+7	0(staff):1	12(friendly):1	14(helpful):1	18(book):1	53(arrive):1	621(ticket):1	1794(gallery):1	
+14	6(breakfast):1	38(lot):1	90(coffee):1	222(cold):1	301(tea):1	441(cheese):1	497(bread):1	530(country):1	582(european):1	682(usual):1	1004(croissant):1	1561(ham):1	1614(jam):1	4281(aswell):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Romantic and clean       Bathroom  
+<Date>Feb 27, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+3	3(clean):1	13(bathroom):1	707(romantic):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A very ROMANTIC place! We spent few days at Donatello in Florence with my wife, in a very ROMANTIC HOTEL and everything was unforgettable!The staff goes out of their way to be friendly to make helpful suggestions.The tastefully-furnished room was adorned with a large mirror, Murano glass chandeliers and a very wonderful customized painting, and overall CLEAN like no others!Bathroom with jacuzzi bathtub andfinished in fine marbles.Breakfast like a very 3 stars superior, and for those who may have doubts, try it!We would certainly stay there again!  
+<Date>Jan 25, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+7	8(day):1	64(spend):1	184(wife):1	346(florence):1	707(romantic):2	3377(unforgettable):1	5005(donatello):1	
+5	6(breakfast):1	76(try):1	103(star):1	785(superior):1	952(doubt):1	
+15	3(clean):1	13(bathroom):1	48(wonderful):1	70(overall):1	113(fine):1	327(glass):1	705(marble):1	806(paint):1	808(jacuzzi):1	1023(bathtub):1	1129(mirror):1	3624(chandelier):1	6124(adorn):1	6452(murano):1	10145(customize):1	
+0	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	921(suggestion):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Hotel Donatello, Excellent!!! We spent a long weekend at the Donatello and for the Price it was a bargain: GREAT LOCATION, GOOD BREAKFAST and IT WAS EXTREMELY CLEAN. Staff was very professional overall Mr. Renato Campestrina (Manager).We would definitely recommed it!!!  
+<Date>Jan 19, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+4	21(excellent):1	59(definitely):1	3909(recomm):1	5005(donatello):1	
+9	1(location):1	3(clean):1	6(breakfast):1	19(price):1	64(spend):1	110(extremely):1	172(weekend):1	759(bargain):1	5005(donatello):1	
+0	
+0	
+0	
+4	0(staff):1	70(overall):1	258(manager):1	501(professional):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Excellent and lovely hotel with limitted budget       our room with limitted space  
+<Date>Jan 5, 2006
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+4	21(excellent):1	87(lovely):1	210(space):1	429(budget):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Panxika
+<Content>h么tel tr猫s confortable       El duomo vu de l'oltrano  
+<Date>Mar 15, 2008
+<Rating>4	5	5	5	5	4	4	4	
+<Aspects>
+4	752(el):2	981(duomo):1	2435(confortable):1	12734(vu):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

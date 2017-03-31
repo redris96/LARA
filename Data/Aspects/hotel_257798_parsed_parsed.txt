@@ -1,0 +1,392 @@
+<Author>Coastalgal99
+<Content>A Lukewarm Shower I had a lukewarm shower. I told reception, who responsed they had no complaints. The shower continued to be lukewarm. When I checked out and mentioned this issue, I was only given an apology and informed the front line manager will phone the next day. They are only all smiles when you pay. The bathroom would gain from a good bleach and scrub.  
+<Date>Jan 3, 2009
+<Rating>1	1	3	3	1	2	2	-1	
+<Aspects>
+0	
+2	42(pay):1	387(smile):1	
+7	13(bathroom):1	61(shower):3	1096(continue):1	2722(gain):1	3498(lukewarm):3	3706(scrub):1	4943(bleach):1	
+0	
+0	
+13	8(day):1	31(front):1	32(check):1	69(tell):1	129(reception):1	188(line):1	190(complaint):1	244(mention):1	258(manager):1	265(issue):1	296(phone):1	817(inform):1	1547(apology):1	
+0	
+0	
+
+<Author>Travelpretties
+<Content>Pretty Impressed       Bedroom  
+<Date>Oct 25, 2008
+<Rating>3	3	3	3	3	4	3	2	
+<Aspects>
+0	
+0	
+3	109(pretty):1	268(bedroom):1	343(impress):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Musrag
+<Content>Mutton dressed as Lamb!! My title says it all..... I recently stayed again at this hotel for work. It has been about 4 years since I stayed here and back then after a few compulsory stays for work I changed as it was old and needed a good overhaul.Unfortunately staying there again has shown me other then adding a larger tv to the room nothing has changed. The rooms are old, the bathroom is just terrible. Water pressure or lack of it was a joke, the mould, cracks and dirty areas made it a shocking sight.Mini Bar was overpriced with a small chocolate bar being $4.50. The TV was very slow between channels - a 3 - 5 sec period before it changes - it did freeze on one channel and would not even turn off. Reception said to turn off and leave off for 7 mins as it happens all the time in all the rooms. Beware if ironing as well as dirty and may leak and stain your clothes...One good thing is the bed and pillows were comfy in my room. Staff were very friendly and professional and should be in a better class of hotel as they did well by me. Go to the Vibe in Nth Sydney - great location and very trendy.  
+<Date>Oct 3, 2008
+<Rating>2	2	3	2	1	3	3	1	
+<Aspects>
+7	161(change):1	322(recently):1	935(dress):1	3486(lamb):1	3777(title):1	4053(overhaul):1	12147(compulsory):1	
+4	27(bar):2	448(mini):1	632(chocolate):1	727(overprice):1	
+25	5(time):1	11(bed):1	13(bathroom):1	43(leave):1	116(tv):2	129(reception):1	161(change):2	247(min):1	303(pillow):1	323(dirty):1	351(add):1	382(happen):1	432(terrible):1	455(slow):1	475(comfy):1	524(unfortunately):1	709(clothe):1	723(stain):1	737(beware):1	741(channel):2	868(iron):1	1287(leak):1	1321(freeze):1	1331(period):1	7789(sec):1	
+4	1(location):1	809(sydney):1	1413(trendy):1	2308(vibe):1	
+9	57(water):1	323(dirty):1	349(lack):1	411(sight):1	686(pressure):1	1138(mold):1	1175(joke):1	1206(shock):1	1411(crack):1	
+4	0(staff):1	12(friendly):1	470(class):1	501(professional):1	
+0	
+0	
+
+<Author>Itsallaboutrelaxing
+<Content>This Hotel should be demolished My family and I booked into a 1 bedroom apartment. The room looked like something out of a bad movie. Areas of the ceiling and walls had holes and screws in them. The tap was falling off, and I couldn't let my children play on the floor as there was disgusting matted hair stuck all through the carpet. The view was awful, of cheap nasty unit blocks, though that's not the hotel's fault. And to top it off , they give you a washing up sponge that dates back to 2006 and is furry and stained and obviously used by the families over and over , really unhygenic. So we stayed in that room one night, and asked to be moved to another room for the final 2 nights. This was a little better. It had a nicer view, but needed so much work done on it. The ceiling was actually coming apart at the seams in some areas. The floor was cleaner , but the smell was horrendous. It smelled like raw sewerage coming up throught the drain pipes. With 2 small children, I was in no mood to be moved again, and risk the hairy carpet problem again. On our last night we took the kids down to the restaurant for dinner. There was only 3 other tables there, but they took so long to serve us our food, we asked that the dessert be sent up to our room as our children were falling asleep. Oh, and don't expect too much from the Reception desk. The only time they smile or want to help is if they're chatting away to other staff members. Guests are just an inconvenience. So, all I can say is, steer clear. This place is awful, just awful. I understand it is cheaper accommodation, but there should never be skimping on hygiene, never.  
+<Date>Aug 11, 2008
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+18	4(nice):1	17(view):1	23(little):1	91(guest):1	106(family):1	118(top):1	180(actually):1	511(date):1	528(ceiling):1	723(stain):1	736(awful):2	781(obviously):1	811(wash):1	857(apart):1	1431(inconvenience):1	3591(steer):1	6256(sponge):1	7050(seam):1	
+11	17(view):1	100(bloc):1	143(cheap):2	391(understand):1	517(fault):1	721(accommodation):1	736(awful):1	980(unit):1	1639(nasty):1	5025(hygiene):1	6623(skimp):1	
+30	2(night):2	16(food):1	18(book):1	20(look):1	24(floor):1	50(bad):1	106(family):1	174(serve):1	207(move):2	229(table):1	268(bedroom):1	277(child):3	386(play):1	396(carpet):2	447(send):1	587(fall):2	688(stick):1	729(hair):1	751(apartment):1	989(movie):1	1152(disgust):1	1180(dessert):1	1337(final):1	1504(tap):1	2123(asleep):1	2132(mood):1	2168(risk):1	2582(mat):1	9019(demolish):1	10331(hairy):1	
+4	183(wall):1	528(ceiling):1	1218(hole):1	2853(screw):1	
+9	3(clean):1	24(floor):1	231(smell):2	1489(drain):1	2067(pipe):1	3115(raw):1	3140(horrendous):1	5085(throught):1	9172(sewerage):1	
+8	0(staff):1	5(time):1	36(desk):1	62(expect):1	92(help):1	129(reception):1	387(smile):1	1629(chat):1	
+4	2(night):1	10(restaurant):1	117(dinner):1	201(kid):1	
+0	
+
+<Author>blorty
+<Content>Good beds, avoid the room service pizza. I stayed at the Rydges for a week in June. My party was spread over four floors. Problems (not purely the fault of the hotel) began at check-in. We had not decided who was staying with whom, so I checked into a room with two others and soon found out (from the staff) that a room under our party's name was empty, so I took advantage of this. What followed was a slapstick-style jump up and down from floor to floor only to find myself (after more than an hour of going back and forth between floor) back in the original room. Before I left for Sydney I read some reviews saying the beds are the best thing about the hotel. I remember thinking Oh there has to be more to it than just the beds. No, not really. Apart from the hotel's proximity to the theatre we were working in, there was nothing else much to Rydges. The service was ordinary, the hot water pressure was the WORST I've ever experienced and the room service pizza tasted like it had been boiled. I would have gladly eaten elsewhere but Nth Sydney shuts down at 5pm, with little exception. Good Guinness pie at the Rag  Famish, and a GREAT massaman curry at the Thai place next to the Independent Theatre on Miller St...but if you're after more than a very comfy bed, avoid Rydges N Syd.  
+<Date>Jul 2, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+22	23(little):1	47(eat):1	75(week):1	170(else):1	635(theater):2	646(elsewhere):1	655(st):1	664(june):1	809(sydney):1	857(apart):1	1086(shut):1	1114(proximity):1	1128(exception):1	2176(gladly):1	2393(thai):1	3860(independent):1	4404(pie):1	5168(curry):1	5575(rag):1	6812(miller):1	7134(5pm):1	7288(rydg):2	
+10	9(service):2	44(experience):1	50(bad):1	57(water):1	114(hot):1	439(taste):1	678(pizza):1	686(pressure):1	1598(boil):1	2025(ordinary):1	
+19	9(service):1	11(bed):4	24(floor):4	37(review):1	43(leave):1	60(hour):1	88(read):1	363(party):1	375(remember):1	436(avoid):2	475(comfy):1	482(follow):1	678(pizza):1	809(sydney):1	1203(spread):1	1270(original):1	1404(jump):1	1999(forth):1	7288(rydg):1	
+0	
+0	
+12	0(staff):1	32(check):1	219(decide):1	286(check-in):1	295(name):1	363(party):1	418(soon):1	517(fault):1	551(begin):1	810(empty):1	867(advantage):1	3907(purely):1	
+0	
+0	
+
+<Author>Miss_kiwi_sydney
+<Content>Great package I booked a two night stay of the romance package this past weekend, The overall stay was very good. Only complaint would be on first night, champagne was meant to be there on arrival and I had to go down to reception and ask them to send it up- however the staff were very nice about it and sent it up straight away. Also had a similar problem on second day, when I contacted reception to get chapagne for the second day sent up the receptionist was confused and told me I had already had the free champagne- the day before. However, the manager on duty was very helpful, checked the booking and sent up the champagne for us.Other than those two small things, the stay was wonderful. The restaurant staff were excellent, the food was delicious and the room was great. Very comfortable bed, good sized room, however there was no plug for the bathtub? disappointing as I was looking forward to a nice relaxing soak.All in all, a very good value package, I would definately stay there again, and will recommend to friends.  
+<Date>May 25, 2008
+<Rating>4	5	5	4	4	2	5	-1	
+<Aspects>
+6	4(nice):1	20(look):1	154(disappoint):1	160(relax):1	750(forward):1	1468(soak):1	
+5	15(recommend):1	81(value):1	146(friend):1	410(definately):1	527(package):1	
+5	11(bed):1	25(comfortable):1	83(size):1	1023(bathtub):1	1174(plug):1	
+1	48(wonderful):1	
+0	
+22	0(staff):1	2(night):1	4(nice):1	8(day):3	14(helpful):1	18(book):1	32(check):1	46(free):1	69(tell):1	129(reception):2	190(complaint):1	224(arrival):1	246(mean):1	258(manager):1	447(send):4	713(contact):1	770(champagne):3	827(straight):1	855(receptionist):1	874(similar):1	1325(duty):1	1419(confuse):1	
+12	0(staff):1	2(night):1	10(restaurant):1	16(food):1	18(book):1	21(excellent):1	70(overall):1	172(weekend):1	419(past):1	485(delicious):1	527(package):2	3053(romance):1	
+0	
+
+<Author>AMADKRA
+<Content>Nice  Rydges North Sydney was quite a nice hotel. It is a little off the beaten track however my partner and I travelled into the Sydney CBD on a daily basis with no issues. An advantage to this though is that the hotel is very quiet - no road noise etc whatsoever. We always felt safe walking back at night, however if you were by yourself I am sure it would be fine, but might not feel that way!The hotel itself has a nice lobby. The room was nice and average size (don't expect any views). The bathroom was reasonably clean. We stayed for three nights and on the first day the hairdryer literally blew up (well it smoked and died anyway). I rang reception to get it fixed straight away. It was still not fixed by the time we checked out (I rang a couple more times during the stay as well).That did tarnish the stay a bit (more so if I relied heavily on a hairdryer!), and to be honest reception really did not seem to care. They were not 'rude', but they were not interested in the least either which is a shame.I would recommend this hotel only if you don't mind walking AND you get it for a good rate (or need or prefer a North Sydney location). Otherwise Sydney has plenty of other options available that I believe would be more satisfying. I doubt I will stay here again.  
+<Date>Apr 25, 2008
+<Rating>3	3	-1	2	4	2	1	-1	
+<Aspects>
+22	4(nice):2	23(little):1	68(travel):1	134(available):1	158(plenty):1	265(issue):1	312(believe):1	336(option):1	360(daily):1	392(rude):1	442(beat):1	508(otherwise):1	684(North):1	809(sydney):3	899(satisfy):1	952(doubt):1	1006(partner):1	1292(shame):1	1527(basis):1	1766(track):1	2731(cbd):1	7288(rydg):1	
+0	
+26	2(night):1	3(clean):1	4(nice):1	8(day):1	13(bathroom):1	17(view):1	52(bit):1	58(quiet):1	62(expect):1	73(etc):1	83(size):1	94(noise):1	227(average):1	230(road):1	417(anyway):1	468(smoke):1	578(reasonably):1	665(literally):1	867(advantage):1	1146(blow):1	1264(die):1	1493(hairdryer):2	1733(whatsoever):1	2327(rely):1	2836(heavily):1	10660(tarnish):1	
+13	1(location):1	2(night):1	7(walk):2	15(recommend):1	34(feel):2	78(rate):1	113(fine):1	137(safe):1	294(mind):1	536(prefer):1	576(yourself):1	684(North):1	809(sydney):1	
+0	
+9	5(time):2	32(check):1	99(couple):1	129(reception):2	242(care):1	494(fix):2	827(straight):1	1108(honest):1	1150(ring):2	
+2	4(nice):1	55(lobby):1	
+0	
+
+<Author>rose2travel
+<Content>Great Family Accommodation My husband and I together with our 2 children stayed in this hotel recently and were impressed at the fantastic value for money. We took up one of their family packages to Taronga Zoo which included accom, family entry to the zoo, buffet breakfast and parking - ALL for an amazing price. The staff were great, the rooms were fine, maybe needing some maintenance repairs if anything and the breakfast was really really good. The staff fussed over our children and were attentive to our needs as a family. For a family getaway to Sydney I can't really fault this hotel and we will return.  
+<Date>Apr 25, 2008
+<Rating>4	5	4	3	4	4	4	-1	
+<Aspects>
+5	39(return):1	106(family):1	517(fault):1	809(sydney):1	1089(getaway):1	
+9	80(money):1	81(value):1	86(fantastic):1	105(husband):1	106(family):1	277(child):1	322(recently):1	343(impress):1	721(accommodation):1	
+6	0(staff):1	6(breakfast):1	113(fine):1	308(maybe):1	1149(maintenance):1	1398(repair):1	
+0	
+0	
+5	0(staff):1	106(family):1	277(child):1	537(attentive):1	2205(fuss):1	
+11	6(breakfast):1	19(price):1	66(park):1	71(include):1	77(buffet):1	106(family):2	145(amaze):1	527(package):1	1511(zoo):2	1649(entry):1	10339(accom):1	
+0	
+
+<Author>BrisCaz
+<Content>Its all about the beds!!! I only stayed here one night because I had business in North Sydney. I agree with one reviewers comments about the building being an ugly betty - it sure is. My colleague and I also has a bit of difficulty working out where the entrance was but we got there. The rooms are pretty ordinary - I was luckier than my colleague though as I had a slightly bigger room with a bit more work space. We ordered room service and it took a long time coming and was only so so. The views were ok but honestly it is all about the beds. The main reason I am now staying at Rydges hotels anywhere is because of these Dream Beds. I dont really care about much else (except do llike a bit of space in my room) but the bed and pillows have to be ...well like the ones at Rydges.I would more than likely choose to stay here again next time I am in North Sydney.  
+<Date>Mar 13, 2008
+<Rating>3	3	4	-1	3	3	2	3	
+<Aspects>
+10	5(time):1	135(build):1	167(choose):1	356(comment):1	473(agree):1	564(reviewer):1	684(North):1	809(sydney):1	1872(ugly):1	11272(betty):1	
+0	
+22	5(time):1	9(service):1	11(bed):4	17(view):1	52(bit):2	109(pretty):1	112(main):1	123(ok):1	170(else):1	210(space):2	242(care):1	303(pillow):1	337(except):1	374(reason):1	503(dont):1	598(slightly):1	797(lucky):1	1028(honestly):1	1256(dream):1	1991(colleague):1	2025(ordinary):1	7288(rydg):2	
+4	2(night):1	147(business):1	684(North):1	809(sydney):1	
+0	
+4	52(bit):1	490(entrance):1	1777(difficulty):1	1991(colleague):1	
+0	
+0	
+
+<Author>tanyatia
+<Content>Awesome Beds Stayed for one night. In a Parkview Room. Not much of a view of a park, or should I say I wouldn't call what they refer to as a parkview a view of a park. Our room was on the 12th floor (the top). The room was a decent size, the bed the best a have ever slept on. It's no surprise to know they call them a dream bed. Bathroom however was run down, with staining from water down the walls,chipped tiles  the vanity shelf falling off the wall. We awoke to no hot water at all. Apparently the whole hotel was without any hot water as the boiler had gone. They did put a note under the door to apologise. Hotel had one lift out of the two working which meant waiting for up to 10mins on two occasions to get to the ground. They did open their service lift for hotel guests but it was still slow.Upon checkout I asked for free parking to compensate for no shower. They did this without question. I did get a call when I returned home from the manager to discuss the issues with water which I thought was a nice. Hot shower would have been better but it was out of their control.Breakfast was great  used the bar which was expensive. $8.00 for a glass of house wine.Would stay again if only for the best nights sleep  a good price. Beds are awesome.  
+<Date>Feb 8, 2008
+<Rating>3	3	3	2	4	5	5	-1	
+<Aspects>
+9	54(door):1	57(water):2	114(hot):2	297(note):1	394(question):1	863(apparently):1	1485(apologize):1	1494(awake):1	7592(boiler):1	
+3	2(night):1	19(price):1	104(sleep):1	
+28	2(night):1	11(bed):4	13(bathroom):1	24(floor):1	57(water):1	61(shower):1	67(call):1	83(size):1	104(sleep):1	114(hot):1	118(top):1	149(run):1	183(wall):2	199(surprise):1	251(wine):1	257(decent):1	281(house):1	327(glass):1	348(awesome):2	587(fall):1	723(stain):1	846(tile):1	865(control):1	1256(dream):1	1302(chip):1	1484(shelf):1	1955(12th):1	2127(vanity):1	
+4	17(view):2	66(park):2	67(call):1	2297(refer):1	
+0	
+19	4(nice):1	39(return):1	46(free):1	57(water):1	61(shower):1	66(park):1	67(call):1	85(wait):1	141(home):1	246(mean):1	258(manager):1	265(issue):1	591(lift):1	658(checkout):1	706(grind):1	871(occasion):1	2243(compensate):1	2690(discuss):1	4050(10min):1	
+7	6(breakfast):1	9(service):1	27(bar):1	91(guest):1	124(expensive):1	455(slow):1	591(lift):1	
+0	
+
+<Author>Karta_Mita
+<Content>It was OK but not rushing back This place was advertised as a special and I jumped in with the promise of a hotel close to the city and all of Sydney's facilities. I must say that it was not a bad stay but I would expect more for such a hotel. I would say that it is probably a good business hotel but not really a good place for a holiday trip to Sydney. Basically, the hotel is too far from the nearest station to give easy access to the city. The walk is about 10 minutes on the way down and a bit more in the way up. I was suprised that North Sydney shuts down so early each day and there are not many restaurants locally. The room and its decor was fine but not too flash, there are some parts that should be improved if it was to be a better class. The Rydges had lots of selling points on the bed and that was soft and comfortable but the pillows were ordinary. The food provided for breakfast was alright but not standout. The major issue is that I did dislike was the level of staff ability. Maybe it was the holiday season but the level of competence of the staff was variable and there was an absence of supervisors to ensure that things were being done correctly.  
+<Date>Jan 8, 2008
+<Rating>3	2	2	2	3	3	1	-1	
+<Aspects>
+2	50(bad):1	62(expect):1	
+0	
+13	11(bed):1	25(comfortable):1	38(lot):1	113(fine):1	269(decor):1	303(pillow):1	470(class):1	589(soft):1	606(sell):1	1217(improve):1	2025(ordinary):1	2867(flash):1	7288(rydg):1	
+22	7(walk):1	28(close):1	29(minute):1	33(trip):1	41(city):2	52(bit):1	82(station):1	93(easy):1	102(near):1	123(ok):1	147(business):1	159(access):1	178(probably):1	208(special):1	211(facility):1	223(holiday):1	790(basically):1	809(sydney):2	910(advertise):1	975(promise):1	1244(rush):1	1404(jump):1	
+0	
+14	0(staff):2	223(holiday):1	265(issue):1	306(level):2	308(maybe):1	315(major):1	610(season):1	1293(ensure):1	2753(ability):1	2881(dislike):1	2972(correctly):1	3201(supervisor):1	4325(absence):1	5713(variable):1	
+12	6(breakfast):1	8(day):1	10(restaurant):1	16(food):1	153(provide):1	684(North):1	809(sydney):1	1086(shut):1	1738(suprise):1	2130(all right):1	3231(locally):1	8064(standout):1	
+0	
+
+<Author>dancingprincess
+<Content>Misleading package I booked this hotel as part of a cheap package advertised on their website. When I booked I clearly stated that each room would have 2 adults and 1 child. The total was to be $248 per room for 2 nights. The room stated it had a queen and single sofa bed in each room. The hotel itself is in a good spot and the rooms were quite nice. It was easy parking and close to some shops etc but there is no pool or any other activities at the hotel.Anyway upon checkin I was informed that there would be a $35 per night per room charge for the sofabed (which was in the room anyway).This turned a cheap package weekend away into a quite expensive one with an extra $140 to be paid. If I knew this when booking I would never have booked the package. The breakfast was nice but thats about it.i wouldnt stay here again.There are nicer hotels closer to the city which are just as cheap and there deceptive booking process has left a sour taste in my mouth.  
+<Date>Jan 2, 2008
+<Rating>3	2	4	3	4	2	3	-1	
+<Aspects>
+1	1849(wouldnt):1	
+16	4(nice):1	18(book):1	28(close):1	41(city):1	42(pay):1	43(leave):1	124(expensive):1	128(extra):1	143(cheap):2	172(weekend):1	439(taste):1	527(package):1	1222(process):1	2470(mouth):1	3066(sour):1	6524(deceptive):1	
+11	2(night):1	4(nice):1	11(bed):1	18(book):1	277(child):1	304(single):1	317(spot):1	543(Queen):1	556(adult):1	786(total):1	842(sofa):1	
+7	22(pool):1	28(close):1	49(shop):1	66(park):1	73(etc):1	93(easy):1	357(activity):1	
+0	
+6	2(night):1	136(charge):1	417(anyway):2	817(inform):1	1818(checkin):1	5086(sofabe):1	
+9	4(nice):1	6(breakfast):1	18(book):3	143(cheap):1	262(website):1	527(package):3	910(advertise):1	1198(thats):1	2221(mislead):1	
+0	
+
+<Author>JUDITHbristol
+<Content>OK hotel, but could be better This is an OK hotel if you want to be based in North Sydney. FIne for business with a nice enough restaurant for breakfast and nice enough, farily large rooms. I was dissapointed by the standard of cleaning in the rooms, again it was OK but no attention to detail. A soap wrapper remained on the side of the bath for 7 nights until I left. Again not a major issue and all in all reasonably OK, cost effective and good if you want to be in North Sydney.However, Rydges brand should be better, and unless you really want to stay in North Sydney you can find much better hotels elsewhere.  
+<Date>Nov 28, 2007
+<Rating>2	2	2	3	2	3	4	4	
+<Aspects>
+8	123(ok):2	284(base):1	405(unless):1	646(elsewhere):1	684(North):2	809(sydney):2	883(brand):1	7288(rydg):1	
+8	123(ok):1	175(cost):1	265(issue):1	315(major):1	578(reasonably):1	684(North):1	809(sydney):1	2774(effective):1	
+12	2(night):1	3(clean):1	43(leave):1	123(ok):1	130(standard):1	226(bath):1	592(detail):1	726(attention):1	965(soap):1	1371(dissapoint):1	1391(remain):1	6956(wrapper):1	
+0	
+0	
+0	
+5	4(nice):2	6(breakfast):1	10(restaurant):1	113(fine):1	147(business):1	
+0	
+
+<Author>AussieKaren
+<Content>Small Room but good package price.       View from 6th floor - parkview room  
+<Date>Oct 6, 2007
+<Rating>2	2	1	4	3	4	1	-1	
+<Aspects>
+0	
+2	19(price):1	527(package):1	
+3	17(view):1	24(floor):1	1869(6th):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Australians_Abroad
+<Content>Unimpressive for Rydes When we arrived at our 2 bedroom apartment we found that the kitchen was in fact a microwave and a sink. The website and in-room TV both clearly stated kitchen - not a small kitchenette so this was very misleading. Was resolved after mgt rep was requested to come to our room on the 1st morning. She was very helpful and provided us with small oven/2burner hotplates. We also requested a frypan, saucepan, and dish drainer. The broken dining room chairs were replaced, as were the 2nd hand kitchen scourer. As some other reviews noted, rooms very shabby, mould in bathrooms, bath not cleaned, marks on walls and doors. Restaurant staff very good. Reception staff patchy on knowledge. Had zoo tickets and took 4 staff members on 3 different occasions before we were told that the ticket was actually valid for 6mths from date of stay. One told us it was valid for 2 days, 2 didn't know if it would be valid becasue it was dated 24th and we were entering on 25th. It was only luck that a very efficient girl overheard the last conversation. Yes, the dream beds were comfortable, and there was a lot of space for our 6yr old and baby to spreadout. But the negatives did outweigh the positives. We had selected the Grand Mecure to stay at, but changed due to the Rydges location/package offered. We wouldn't do so again.Location was good - we could walk to the train, about 500mtrs. Yes it is a slope up on the way back, but follow the locals - they know the shortcuts. Nice Thai restaurant around the corner - also popular with the locals. There is also a large IGA supermarket at the station, along with a fairly sizable shopping centre.  
+<Date>Oct 6, 2007
+<Rating>2	2	2	3	2	2	2	3	
+<Aspects>
+21	8(day):1	69(tell):1	195(local):1	250(yes):1	282(negative):1	401(efficient):1	458(positive):1	482(follow):1	511(date):1	601(enter):1	625(girl):1	1055(luck):1	1281(conversation):1	1943(25th):1	2564(24th):1	3187(outweigh):1	3323(overhear):1	4438(valid):2	4467(slope):1	5279(becasue):1	10039(shortcut):1	
+0	
+39	3(clean):1	11(bed):1	13(bathroom):1	25(comfortable):1	37(review):1	38(lot):1	53(arrive):1	54(door):1	56(morning):1	116(tv):1	148(request):1	183(wall):1	198(chair):1	210(space):1	226(bath):1	228(break):1	250(yes):1	262(website):1	268(bedroom):1	297(note):1	316(dine):1	377(hand):1	461(kitchen):3	509(sink):1	751(apartment):1	820(microwave):1	882(mark):1	912(replace):1	1138(mold):1	1165(kitchenette):1	1213(rep):1	1256(dream):1	1301(in-room):1	1304(baby):1	1319(shabby):1	1326(2nd):1	1715(resolve):1	2221(mislead):1	5087(unimpressive):1	
+19	1(location):2	7(walk):1	14(helpful):1	49(shop):1	82(station):1	89(offer):1	101(center):1	153(provide):1	161(change):1	182(train):1	259(due):1	365(grand):1	462(fairly):1	1078(supermarket):1	1294(select):1	2916(oven):1	4812(sizable):1	7288(rydg):1	11041(hotplate):1	
+0	
+14	0(staff):3	10(restaurant):1	69(tell):1	129(reception):1	148(request):1	180(actually):1	511(date):1	621(ticket):2	816(dish):1	871(occasion):1	1511(zoo):1	2148(knowledge):1	4438(valid):1	9793(patchy):1	
+6	4(nice):1	10(restaurant):1	195(local):1	200(corner):1	1277(popular):1	2393(thai):1	
+0	
+
+<Author>SydneyConcertGoer
+<Content>Nice room, good service. I stayed in this hotel whilst seeing a concert in the city. It was much further from North Sydney station than I had realised, which was a bit annoying, but would have been fine had I been staying there for other purposes. I would not recommend staying there if you're carrying a lot of luggage and thinking of walking from the station - it's a fairly long uphill walk (get a taxi if you want to do this!).The check-in was quick and easy, and the staff were friendly and helpful. The room was nice and clean, and everything I had expected. It was a harbour view room, and the view was very nice. The room was just as it looks in the photo on the website.Room-service breakfast was good, and arrived exactly on time (which I had arranged to be later than the usual breakfast times, due to having a later check-out, which was great). My only complaint is that it was extremely hot and I couldn't seem to turn the airconditioning down (aside from turning it off, which I had done hours earlier, and it was still too hot in the room). It would have been nice to be able to open a window, but the window in my room had been sealed shut. Check-out was as quick and easy as the check-in, and I would definitely recommend this hotel to anyone who is staying in Sydney without needing to be right in the middle of the city.  
+<Date>Aug 13, 2007
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+3	41(city):1	877(whilst):1	2296(concert):1	
+0	
+16	3(clean):1	4(nice):4	9(service):1	17(view):2	60(hour):1	62(expect):1	110(extremely):1	114(hot):2	119(window):2	171(able):1	190(complaint):1	561(harbor):1	1086(shut):1	1502(aside):1	1903(airconditione):1	2860(seal):1	
+16	7(walk):2	15(recommend):1	38(lot):1	52(bit):1	82(station):2	113(fine):1	185(taxi):1	249(luggage):1	462(fairly):1	607(realize):1	684(North):1	695(annoy):1	809(sydney):1	824(carry):1	1428(purpose):1	3597(uphill):1	
+0	
+22	0(staff):1	5(time):2	6(breakfast):2	12(friendly):1	14(helpful):1	15(recommend):1	20(look):1	41(city):1	53(arrive):1	59(definitely):1	79(late):2	93(easy):2	259(due):1	286(check-in):2	299(quick):2	325(middle):1	586(exactly):1	658(checkout):2	680(arrange):1	682(usual):1	761(photo):1	809(sydney):1	
+0	
+0	
+
+<Author>digger2
+<Content>the ugly betty of hotels This is a hard hotel to define. My first impressions were very negative  didn't improve upon entering the room. However after staying there for 4 days in a 2 room suite I found myself revisiting my first impressions. The decor is quite dated  the entrance dark. The first impression is ugly. However the beds, sheets  pillows are very very comfortable  the bathroom is quite good. Also if you can get a high room the light  views are excellent. And you can open the windows for fresh air!The location is also fantastic with nearby parks to do your morning or evening exercises. There are also nice cafes close to the hotel which we enjoyed. This hotel was booked by my business partner  I nearly walked out. However after my stay I will definately return!  
+<Date>Apr 25, 2007
+<Rating>4	4	4	5	3	3	3	3	
+<Aspects>
+7	39(return):1	162(hard):1	410(definately):1	848(impression):1	1872(ugly):2	6324(define):1	11272(betty):1	
+0	
+22	8(day):1	11(bed):1	13(bathroom):1	17(view):1	21(excellent):1	25(comfortable):1	108(suite):1	119(window):1	157(light):1	164(air):1	197(fresh):1	269(decor):1	282(negative):1	303(pillow):1	459(dark):1	479(sheet):1	490(entrance):1	511(date):1	601(enter):1	848(impression):2	1217(improve):1	4215(revisit):1	
+15	1(location):1	4(nice):1	7(walk):1	18(book):1	28(close):1	51(enjoy):1	56(morning):1	66(park):1	86(fantastic):1	147(business):1	232(nearby):1	275(cafe):1	896(nearly):1	1006(partner):1	1459(exercise):1	
+0	
+0	
+0	
+0	
+
+<Author>pommie01
+<Content>Genuine 1970s theme I have stayed here dozens of times - really only because of it's location - it's very close to my Sydney office. But really everything about this place is very variable...- The quality of the decor in the rooms varies - depending on if/how recently the room was upgraded. - The quality of the service is variable - the wake-up call doesn't always happen.Good luck using the bedside in-built clock radio - the thing is so old that the labels on the buttons have worn off !- The aircon is variable - sometimes it works well and is quite - sometimes it doesn't work well, sometimes it sounds like the space shuttle in launching in your room.- TV - a couple of times my TV wouldn't turn off at all !- Breakfast - you are forced to choose if you want the full greasy buffet or the continental buffet before you sit down ! Which means you can't look at the quality of the cooked food to see if you fancy it or not.- In heavy rain - I have seen the staff collecting water in buckets in the lobby.- I'm not sure how breakfast bread can be that stale....There have been some recent attempts to update this place - the lifts have been done up (probably about 15 years too late) - they upgraded some of the restaurant area.... but it's all still a bit 1970s brown.....Still there is one thing - it can be pretty cheap...  
+<Date>Apr 4, 2007
+<Rating>2	3	1	2	2	4	2	2	
+<Aspects>
+0	
+11	9(service):1	16(food):1	20(look):1	67(call):1	187(quality):2	246(mean):1	382(happen):1	550(cook):1	796(fancy):1	3394(wake-up):1	5713(variable):1	
+23	5(time):1	99(couple):1	116(tv):2	163(upgrade):1	187(quality):1	210(space):1	269(decor):1	321(shuttle):1	322(recently):1	409(sound):1	434(wear):1	560(sometimes):3	969(depend):1	1055(luck):1	1291(clock):1	1816(radio):1	2018(vary):1	2142(button):1	2257(aircon):1	2298(bedside):1	3128(label):1	5713(variable):2	6575(launch):1	
+9	1(location):1	5(time):1	28(close):1	792(office):1	809(sydney):1	1118(theme):1	1874(dozen):1	2220(genuine):1	9686(1970s):1	
+0	
+7	0(staff):1	55(lobby):1	57(water):1	581(rain):1	1186(heavy):1	1889(collect):1	2342(bucket):1	
+22	6(breakfast):2	10(restaurant):1	52(bit):1	77(buffet):2	79(late):1	109(pretty):1	143(cheap):1	163(upgrade):1	167(choose):1	169(sit):1	178(probably):1	372(continental):1	497(bread):1	591(lift):1	725(update):1	1064(recent):1	1119(attempt):1	1550(force):1	1667(brown):1	2052(stale):1	3665(greasy):1	9686(1970s):1	
+0	
+
+<Author>ME13
+<Content>Average All Round I needed a room at the last minute due to an over-run business meeting. I made my booking over the phone, which they didn't seem to be over pleased to take at such short notice. (8pm reservation for a midnight check-in). At check-in (and indeed at check-out the following morning) the staff seemed so sleepy I wonder if they'd been in the same series of meetings as I had been in... The rooms were a good size and the bed comfortable. The bathroom had seen better days - it wasn't dirty, but seemed a little tired. Location was okay - if you want to be in the heart of North Sydney there are better options, but as it was tucked away in a residential street it was very quiet. I've stayed in better properties in North Sydney, but it was perfectly functional and no nonsense.  
+<Date>Feb 15, 2007
+<Rating>3	3	3	3	3	3	3	-1	
+<Aspects>
+0	
+0	
+10	8(day):1	13(bathroom):1	23(little):1	29(minute):1	147(business):1	196(meet):1	227(average):1	259(due):1	323(dirty):1	454(tire):1	
+10	1(location):1	35(street):1	58(quiet):1	336(option):1	450(heart):1	453(okay):1	684(North):1	809(sydney):1	1537(residential):1	2091(tuck):1	
+0	
+16	0(staff):1	11(bed):1	25(comfortable):1	56(morning):1	83(size):1	156(reservation):1	286(check-in):2	482(follow):1	658(checkout):1	946(wonder):1	990(indeed):1	1044(midnight):1	2346(meeting):1	3874(series):1	6723(sleepy):1	9438(8pm):1	
+11	18(book):1	144(short):1	173(please):1	214(property):1	296(phone):1	354(notice):1	595(perfectly):1	684(North):1	809(sydney):1	1348(functional):1	5955(nonsense):1	
+0	
+
+<Author>TelcomTraveller
+<Content>Check Your Bill... Upon arrival I was informed that no one was able to help me with my bags as there was no porter at the hotel. Once I made several trips with bags I then had to empty the balcony of cigarette filled beer bottles that was producing a crusty bars carpet smell. The room was very poorly maintained black mould in the bathroom, TV remote not working and internet was incredibly slow. Whilst staying at the hotel I had no further problems. The problems started when I was leaving. Trying to get the receptionist to call a taxi was a joke, she made me wait for 10mins at the desk while she was sorting out her papers but was quite happy to answer the phone, the fourth time the phone rang I had so shout for her to take notice of me. My bill had several additional internet connections charges and also two bottles of whisky, as I don鈥檛 drink whisky I new that this was a mistake. However the hotel apologised and changed the bill. Little did I know that they actually charged me three times for the cost of the hotel! Yes I was charged just under AUS $5500.00 for a weeks stay at this hotel.  
+<Date>Dec 11, 2006
+<Rating>1	2	1	3	1	1	2	1	
+<Aspects>
+4	161(change):1	495(bill):1	877(whilst):1	1485(apologize):1	
+7	5(time):1	23(little):1	43(leave):1	136(charge):1	165(start):1	175(cost):1	180(actually):1	
+23	13(bathroom):1	27(bar):1	33(trip):1	97(internet):1	116(tv):1	191(balcony):1	231(smell):1	238(bottle):1	290(bag):1	396(carpet):1	443(beer):1	455(slow):1	491(fill):1	562(maintain):1	807(incredibly):1	810(empty):1	1007(black):1	1138(mold):1	1272(remote):1	1365(cigarette):1	1635(poorly):1	2538(produce):1	8124(crusty):1	
+0	
+0	
+30	5(time):1	32(check):1	36(desk):1	67(call):1	75(week):1	76(try):1	85(wait):1	92(help):1	136(charge):1	155(happy):1	171(able):1	185(taxi):1	224(arrival):1	250(yes):1	290(bag):1	296(phone):2	354(notice):1	495(bill):1	557(sort):1	669(answer):1	776(paper):1	817(inform):1	855(receptionist):1	1150(ring):1	1175(joke):1	1579(fourth):1	1653(porter):1	2146(shout):1	2716(au):1	4050(10min):1	
+0	
+10	63(drink):1	97(internet):1	136(charge):1	238(bottle):1	495(bill):1	835(additional):1	895(mistake):1	908(don):1	932(connection):1	7489(whisky):2	
+
+<Author>FemaleTravellerUK
+<Content>Wouldn't recommend this Hotel I stayed here for work over the weekend of the 9/10 December. I was treated well by the reception staff on the Friday night who were lovely and couldn't do more to make my check in easier.My room was terrible, the bathroom had mould above the shower and when i asked to move room i was told i couldn't as they were fully booked. On the saturday i asked reception where i would be able to find a pharmacy or something similar as i had burnt my shoulder and the young girl there looked at me like i was the biggest imposition on her day! i was told to go to the mall which is a 10 minute walk over there She actually said to me 10 minute walk over there, like that was a proper direction! When i asked her to clarify she walked off into the office leaving me stood there like an idiot! i went for a 10 minute walk in the 3 directions available and couldn't find a mall!The room service was excellent, there was plenty of food and a good choice. the people serving it were also very pleasant.In whole the room and the one reception member made this a terrible stay but if i hadn't asked for directions i probably would have said the hotel was basic but ok.  
+<Date>Dec 10, 2006
+<Rating>2	2	1	2	2	5	5	3	
+<Aspects>
+3	15(recommend):1	172(weekend):1	993(december):1	
+0	
+12	13(bathroom):1	18(book):1	61(shower):1	69(tell):1	123(ok):1	129(reception):1	178(probably):1	207(move):1	352(basic):1	395(direction):1	432(terrible):2	1138(mold):1	
+23	7(walk):4	8(day):1	20(look):1	29(minute):3	43(leave):1	69(tell):1	129(reception):1	134(available):1	171(able):1	180(actually):1	395(direction):2	444(stand):1	625(girl):1	643(mall):2	792(office):1	818(saturday):1	874(similar):1	1289(burn):1	1719(proper):1	2832(shoulder):1	2875(pharmacy):1	4789(idiot):1	5743(clarify):1	
+0	
+8	0(staff):1	2(night):1	32(check):1	87(lovely):1	93(easy):1	129(reception):1	320(treat):1	923(friday):1	
+8	9(service):1	16(food):1	21(excellent):1	26(people):1	107(choice):1	150(pleasant):1	158(plenty):1	174(serve):1	
+0	
+
+<Author>Wayne'sWorldtour0607
+<Content>Absolutly hated it. I booked a 3 person room for 4 nights. The room had only 2 cups 2 plates 2 towels etc. Chocolates I paid for were never delivered. At checkin I was quoted $220 a night including breakfast. At checkout was charged $230 a night pls $19.00 each for breakfast each day. managment was firm and said i was wrong eventhough i had it in wrtiting from them I was still overcharged by $310.00. Rooms are very dated, only one lift was working so had to wait for a long time every time. Very noisy function room til late as the rooms are not sound proof. Air con was not cold nor hot it just blew air and that was it. No air port shuttle on the weekend as we don't have the staff. Very poor quality throughout. I recommend not to stay there.Wayne  
+<Date>Sep 6, 2006
+<Rating>1	1	2	4	2	3	1	2	
+<Aspects>
+4	15(recommend):1	1110(hate):1	3448(absolutly):1	10668(wayne):1	
+6	42(pay):1	187(quality):1	331(poor):1	445(throughout):1	631(deliver):1	632(chocolate):1	
+27	0(staff):1	2(night):1	5(time):2	18(book):1	73(etc):1	79(late):1	85(wait):1	114(hot):1	125(towel):1	164(air):3	172(weekend):1	193(person):1	217(noisy):1	222(cold):1	321(shuttle):1	409(sound):1	511(date):1	591(lift):1	800(cup):1	840(Con):1	970(nor):1	1002(plate):1	1146(blow):1	1288(port):1	1780(function):1	1973(proof):1	2196(til):1	
+0	
+0	
+14	2(night):2	6(breakfast):2	8(day):1	71(include):1	136(charge):1	427(wrong):1	658(checkout):1	1368(firm):1	1818(checkin):1	1856(quote):1	3155(overcharge):1	4631(eventhough):1	5141(managment):1	9063(pls):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A dump This hotel is a shocker. Rundown and shabby. I stayed here two nights over the New Year's period (only because it was the only reasonable hotel available a few weeks out from NY eve.) You had to book a two night minimum and the rates were much more than normally charged. A complete rip-off at more than $250 a night. Bathrooms were rundown and grimy. One of the elevators was out of service throughout the period I stayed. (You could take the beaten-up and very dodgy staff elevator.) The air conditioning was non-existent, on one of the hottest weekends in Sydney (temps of more than 40-degrees). If you like Rydges, try the Jamieson in the CBD - otherwise, give this one a wide berth!  
+<Date>Jan 1, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+18	2(night):2	75(week):1	76(try):1	134(available):1	273(reasonable):1	508(otherwise):1	622(complete):1	860(wide):1	933(ny):1	1319(shabby):1	1331(period):1	1449(dump):1	1787(eve):1	2323(rundown):1	2731(cbd):1	3780(rip-off):1	7288(rydg):1	9223(shocker):1	
+0	
+10	13(bathroom):1	114(hot):1	164(air):1	172(weekend):1	263(condition):1	809(sydney):1	2173(temp):1	2323(rundown):1	2580(nonexistent):1	6185(grimy):1	
+6	2(night):1	18(book):1	78(rate):1	136(charge):1	1091(normally):1	2124(minimum):1	
+0	
+0	
+6	0(staff):1	9(service):1	216(elevator):2	445(throughout):1	1331(period):1	2539(dodgy):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Fantastic!       the function room  
+<Date>Nov 29, 2005
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+1	86(fantastic):1	
+0	
+1	1780(function):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Aussietraveller25
+<Content>Give this one a miss My partner and I stayed here for a romantic weekend in Sydney, and we were both disappointed with the standard of the hotel. The reception area was tired looking, and the lifts were old and small. For a 'newly refurbished' hotel, the first impression was not positive. Our bedroom was well sized, but the carpet, bedding and bathroom were old and worn. The bath/shower was mouldy - I certainly was not willing to let more than my feet touch the surface. The view out of the window was pleasant (overlooking Sydney harbour), but when I tried to open the window the frame broke off. Also beware that if you are intending on staying either Saturday or Sunday, there are very few cafes/shops within walking distance as most of the area shuts down on the weekend. The train station is a bit of a walk through the hills. There were some positive points to our stay - the view as mentioned was impressive, roomservice meals were generous and tasty, and the price for Sydney accommodation is very reasonable.  
+<Date>Nov 24, 2005
+<Rating>1	2	1	-1	1	-1	2	-1	
+<Aspects>
+15	130(standard):1	154(disappoint):1	172(weekend):1	226(bath):1	276(miss):1	279(touch):1	402(foot):1	458(positive):1	707(romantic):1	809(sydney):1	848(impression):1	1006(partner):1	1253(refurbish):1	2046(moldy):1	2534(surface):1	
+12	17(view):1	19(price):1	213(meal):1	244(mention):1	273(reasonable):1	458(positive):1	721(accommodation):1	809(sydney):1	920(impressive):1	984(tasty):1	1523(generous):1	6103(roomservice):1	
+15	11(bed):1	13(bathroom):1	17(view):1	83(size):1	119(window):2	150(pleasant):1	228(break):1	253(tried):1	260(overlook):1	268(bedroom):1	396(carpet):1	434(wear):1	561(harbor):1	809(sydney):1	2339(frame):1	
+17	7(walk):2	20(look):1	52(bit):1	82(station):1	115(distance):1	129(reception):1	172(weekend):1	182(train):1	454(tire):1	591(lift):1	737(beware):1	756(hill):1	818(saturday):1	844(sunday):1	1086(shut):1	1862(intend):1	9129(cafes):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Disappointing Room We booked to stay at the North Rydges Hotel for New Year 2004. This was our first time to Sydney and I looked everywhere for suitable accommodation to accomodate my family of 5 (2 adults, 3 Children). the hotels website details 'newly refurbished 2 bedroom suites suitable for families and meetings', looking at the details this seemed ideal and I booked it back in March 2004. In November we received a fax saying that we would have to pay in advance because it was New Year, we duly provided our credit card details so no to lose the booking. We arrived on the 28th Dec 04 for our 5 days and when we arrived I could not believe the depressing and tatty room that we were given. Can you imagine our dismay we've had to pay in advance so no way could we afford to pay for another hotel, and contemplate finding somewhere to fit 5 people of New Year at such a late stage.The bathroom was a disgrace, cupboards falling down, mildew and mould in the shower cubicle, the waste pipe from the toilet was disgusting, the whole room was shabby and in desperate need of a facelift!!!! We even had an ex residents old trainers festering in the wardrobe.I can't believe that the website actually advertises 'newly refurbished'! a complete fabrication .I complained to the front desk and asked had i been given the worst room in the hotel where I was told that this was a business hotel and the 'refurbishment' was 18months previously, my guess more like 2 years or more ago. However we were offered full breakfast for the whole family for our stay, but this no mean compensated us for the cost of the accomodation and the condition it was offered to us. We have since written to the Rydges with pictures of the unacceptable bathroom and facilites but as yet have not heard anything. I certainly couldn't recommend this hotel, it was seriously over priced and over rated and tarnished our view of Sydney.Yours sincerelyThe Jones FamilyCheshire UK Dec 2004  
+<Date>Jan 7, 2005
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	622(complete):1	1178(uk):1	1508(dec):1	5648(jone):1	
+42	5(time):1	6(breakfast):1	15(recommend):1	17(view):1	18(book):1	19(price):1	20(look):1	26(people):1	42(pay):3	78(rate):1	79(late):1	89(offer):2	106(family):2	153(provide):1	175(cost):1	246(mean):1	263(condition):1	277(child):1	292(card):1	302(receive):1	549(accomodate):1	556(adult):1	592(detail):1	596(lose):1	659(credit):1	668(fit):1	685(advance):2	721(accommodation):1	733(imagine):1	780(accomodation):1	809(sydney):2	999(november):1	1441(seriously):1	1452(afford):1	1866(stage):1	1967(suitable):1	2243(compensate):1	2536(fax):1	4604(dismay):1	5804(contemplate):1	7395(duly):1	10660(tarnish):1	
+42	8(day):1	13(bathroom):2	18(book):2	20(look):1	53(arrive):2	61(shower):1	106(family):1	108(suite):1	132(hear):1	154(disappoint):1	262(website):1	268(bedroom):1	312(believe):1	330(toilet):1	344(write):1	456(picture):1	545(ideal):1	587(fall):1	592(detail):2	615(march):1	684(North):1	928(waste):1	1138(mold):1	1152(disgust):1	1253(refurbish):1	1319(shabby):1	1508(dec):1	1876(mildew):1	1967(suitable):1	2067(pipe):1	2189(depress):1	2230(unacceptable):1	2346(meeting):1	2374(cupboard):1	2668(28th):1	2730(desperate):1	3617(cubicle):1	3948(facilite):1	4195(facelift):1	4461(tatty):1	4524(disgrace):1	7288(rydg):2	
+9	180(actually):1	262(website):1	312(believe):1	910(advertise):1	1253(refurbish):1	1451(wardrobe):1	1988(resident):1	4474(ex):1	5091(trainer):1	
+0	
+10	31(front):1	36(desk):1	50(bad):1	69(tell):1	147(business):1	241(complain):1	469(guess):1	633(ago):1	1122(previously):1	2253(refurbishment):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Worst Experience Worst experience ever at this hotel. It was our Anniversary the hotel had a package for 1 nights accomodation, a cruise, and breakfast the next morning. We arrived at the hotel checked in went up to our room which was meant to be harbour views (with high rise units blocks in the way there wasn't much of a view) went into city for the cruise but was informed we weren't even booked on the boat the hotel forgot to book us in the cruise was fully booked they couldn't even squeeze us on the boat went back to the hotel checked out because we refused to stay there after all this had happened and the fact that it was our Anniversary and we went home which was about 11pm when we left the hotel our night was ruined it was too late to go anywhere couldn't even go to dinner .Now we have to re-book for another weekend but it wont be the same as we wanted to celebrate it on the actual day, so If you are wanting to stay at a Rydges Hotel I recommend trying Rydges Jamison in the city they have some great reviews thats where we will be staying next time it was actually our first choice to start with but they were booked out so we chose North Sydney in stead or if anyone has any suggestions of a hotel they have had a great experience at Please post it on the reviews and let us know so we aren't disappointed for the second time round.  
+<Date>Nov 6, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+34	2(night):1	5(time):2	6(breakfast):1	8(day):1	15(recommend):1	18(book):1	37(review):2	41(city):1	44(experience):3	50(bad):2	56(morning):1	76(try):1	107(choice):1	154(disappoint):1	165(start):1	167(choose):1	172(weekend):1	173(please):1	180(actually):1	527(package):1	603(cruise):1	644(post):1	684(North):1	780(accomodation):1	804(anniversary):1	809(sydney):1	921(suggestion):1	1014(celebrate):1	1198(thats):1	1536(actual):1	1820(wont):1	7288(rydg):2	11201(jamison):1	11450(re-book):1	
+0	
+0	
+0	
+25	2(night):1	17(view):2	18(book):3	32(check):2	41(city):1	43(leave):1	53(arrive):1	79(late):1	100(bloc):1	117(dinner):1	141(home):1	246(mean):1	382(happen):1	397(forget):1	561(harbor):1	603(cruise):2	674(boat):2	804(anniversary):1	817(inform):1	980(unit):1	1103(refuse):1	1243(ruin):1	1436(rise):1	1963(squeeze):1	6840(11pm):1	
+0	
+0	
+
+<Author>keithforest
+<Content>澹併伀鑰炽亗銈娿€€銈炽儫銉ャ儖銈便兗銈枫儳銉炽仾銇?#x201d;       10F銇儴灞嬨亱銈夈伄鐪烘湜  
+<Date>Dec 26, 2008
+<Rating>3	2	4	3	5	1	5	4	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

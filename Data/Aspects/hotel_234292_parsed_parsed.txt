@@ -1,0 +1,336 @@
+<Author>klward25
+<Content>Good Hotel We stayed one night at this hotel in September 2008. The rooms are comfortable and exceptionally clean, if a bit on the small side. Breakfast was also way beyond what we experienced at other hotels, as there was a large hot buffet offering eggs, pancakes, and the like. The hotel is located in Ventas, which is quite far from the Plaza Mayor and other tourists sites, but there is a Metro stop right across the street.  
+<Date>Sep 16, 2008
+<Rating>4	4	4	3	5	3	3	4	
+<Aspects>
+2	2(night):1	972(september):1	
+0	
+4	3(clean):1	25(comfortable):1	52(bit):1	1242(exceptionally):1	
+8	35(street):1	84(locate):1	122(stop):1	192(site):1	209(tourist):1	235(metro):1	515(plaza):1	3054(mayor):1	
+0	
+0	
+8	6(breakfast):1	44(experience):1	77(buffet):1	89(offer):1	114(hot):1	412(egg):1	738(beyond):1	1477(pancake):1	
+0	
+
+<Author>Cordelia9
+<Content>A break in Madrid. Friendly and helpful staff at the Reception desk and the room was spacious and clean. The hotel is close to El Carmen Metro station, line 5, and handy for Gran Via. On the minus side I could hear the neighbours, smoking was allowed in the bar and restaurant - not good while I was eating and internet access was pricey - 8 Euros for 45 mins.  
+<Date>Aug 25, 2008
+<Rating>2	4	2	4	5	5	5	-1	
+<Aspects>
+2	228(break):1	1280(madrid):1	
+0	
+0	
+9	28(close):1	82(station):1	188(line):1	235(metro):1	512(via):1	752(el):1	755(handy):1	1535(gran):1	4717(carmen):1	
+0	
+7	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	36(desk):1	111(spacious):1	129(reception):1	
+13	10(restaurant):1	27(bar):1	47(eat):1	97(internet):1	132(hear):1	159(access):1	247(min):1	256(euro):1	359(allow):1	468(smoke):1	546(pricey):1	934(neighbour):1	2064(minus):1	
+0	
+
+<Author>Arkenthell
+<Content>Not a bad hotel. It鈥檚 pretty standard. The food was great and the staff were friendly and had great English. My air conditioning was broken which made for a noisy night but I just left it off for the rest of my trip. Generally I liked the place. While I was there I was involved in an accident and the staff directed us to a nearby hospital which was fantastic. They were a little slow to order taxi鈥檚 suggesting that I just hail one from the street but not being able to speak Spanish meant that getting to my destination was far tougher. So not all that helpful. The restaurant was expensive and there鈥檚 no smoking ban so remember you might get smoke with your tappas. The breakfast was fantastic and all of the public areas were quite modern and stylish.The rooms themselves are slightly outdated as well, particularly the bathrooms. However they were clean and comfortable with a lot of space so that鈥檚 a bonus. Generally an average hotel. It鈥檚 a nice location just don鈥檛 spend too much time there and you鈥檒l be grand.  
+<Date>Jul 9, 2008
+<Rating>3	3	3	4	3	3	3	3	
+<Aspects>
+5	14(helpful):1	50(bad):1	109(pretty):1	130(standard):1	227(average):1	
+6	10(restaurant):1	124(expensive):1	375(remember):1	468(smoke):2	1455(tapa):1	6857(ban):1	
+18	2(night):1	3(clean):1	13(bathroom):1	25(comfortable):1	33(trip):1	38(lot):1	43(leave):1	164(air):1	210(space):1	217(noisy):1	228(break):1	263(condition):1	288(rest):1	553(particularly):1	598(slightly):1	849(bonus):1	1059(themselves):1	1549(outdated):1	
+18	1(location):1	4(nice):1	5(time):1	23(little):1	35(street):1	64(spend):1	127(speak):1	171(able):1	185(taxi):1	246(mean):1	365(grand):1	369(spanish):1	452(suggest):1	455(slow):1	908(don):1	1092(destination):1	1665(tough):1	2852(hail):1	
+0	
+10	0(staff):2	12(friendly):1	16(food):1	86(fantastic):1	152(english):1	232(nearby):1	803(direct):1	1538(involve):1	1911(hospital):1	3213(accident):1	
+5	6(breakfast):1	86(fantastic):1	151(modern):1	379(public):1	961(stylish):1	
+0	
+
+<Author>Mr Steve-1
+<Content>doesn't break any new ground Fairly standard hotel.Sizeable room (318) , no view to speak of, quiet, reasonable mini bar, bath/shower..etc .. TV was small CRT. Bed rock hard, and air-com worked fine.Booked queen room for ONE person, and they tried to put me in a single..they backed down when I showed them my on-line booking slip. There is a small business centre, a PC and a printer...I myself could not get a wireless connection in my room, maybe you can.Very close to El Carmen metro, which has useful connections into the City Centre (fast, frequent and safe)..rate was reasonable at 105 euros (+17 for breakfast)  
+<Date>Jul 2, 2008
+<Rating>3	3	3	3	4	3	-1	2	
+<Aspects>
+1	73(etc):1	
+0	
+23	11(bed):1	17(view):1	18(book):1	27(bar):1	58(quiet):1	113(fine):1	116(tv):1	127(speak):1	130(standard):1	162(hard):1	193(person):1	226(bath):1	228(break):1	253(tried):1	273(reasonable):1	304(single):1	448(mini):1	462(fairly):1	543(Queen):1	706(grind):1	773(rock):1	4812(sizable):1	9353(crt):1	
+0	
+0	
+0	
+7	6(breakfast):1	18(book):1	78(rate):1	256(euro):1	273(reasonable):1	2031(slip):1	3206(on-line):1	
+16	28(close):1	41(city):1	101(center):2	137(safe):1	147(business):1	235(metro):1	308(maybe):1	499(fast):1	717(wireless):1	752(el):1	932(connection):2	1232(useful):1	1355(frequent):1	2184(pc):1	2328(printer):1	4717(carmen):1	
+
+<Author>Aussie_Traveller3
+<Content>Great Easter Stay Our plane was delayed so we didn't get to the hotel until about 1.30am. Our taxi fare was 28 euro (20 mins) wich is pretty good given the time of morning. We took the metro back to the airport on the way home for 2.90 euro - the trip took about 40mins and was easy. The rooms were very nice and look the same as the photo's other travellers have put on. The staff don't speak much english, but then again, we didn't have much contact with them, so it didn't really matter. The hotel is slightly out of the centre of town, but as the metro is out the front it doesn't matter. The line takes you straight into the centre in 15 mins and passes through the stop 'Cheuca' which has plenty of fantastic bars and restaurants. The metro also closes around 2am which is great if you want a late night. Metro costs 1 euro each way. We were happy to see that all the shops in the centre are open throughout Easter, as some places in Europe totally close down leaving you not much to do. Overall, this is a very nice hotel and we'll stay here again (until we win the lottery!)  
+<Date>Mar 25, 2008
+<Rating>4	4	5	3	5	4	4	-1	
+<Aspects>
+7	4(nice):1	70(overall):1	968(plane):1	1273(win):1	1351(delay):1	2075(easter):1	7306(lottery):1	
+3	175(cost):1	235(metro):1	256(euro):1	
+15	4(nice):1	20(look):1	31(front):1	33(trip):1	93(easy):1	95(airport):1	101(center):1	141(home):1	235(metro):2	239(town):1	256(euro):1	267(traveler):1	531(matter):1	598(slightly):1	761(photo):1	
+21	2(night):1	5(time):1	28(close):2	43(leave):1	49(shop):1	56(morning):1	79(late):1	101(center):1	109(pretty):1	155(happy):1	185(taxi):1	235(metro):1	247(min):1	256(euro):1	445(throughout):1	611(totally):1	700(europe):1	1112(fare):1	2075(easter):1	4301(wich):1	10095(2am):1	
+0	
+5	0(staff):1	127(speak):1	152(english):1	531(matter):1	713(contact):1	
+10	10(restaurant):1	27(bar):1	86(fantastic):1	101(center):1	122(stop):1	158(plenty):1	188(line):1	247(min):1	400(pass):1	827(straight):1	
+0	
+
+<Author>Nik0lina
+<Content>A nice stay Me and my boyfriend stayed in this hotel for four days,and we loved it!The hotel was very clean,room was nice and spacious.Breakfast was a plentiful buffet selection, with good variety of food available.Metro station is just near the hotel so you can go to the city center very fast.The only thing we didn't like was the staff who barely talked english! We left them some postcards at the recepcion to send it,but they didn't !! It seemed like they don't even tray to help their guests!Otherwise, it was a great stay in lovely hotel!!  
+<Date>Mar 6, 2008
+<Rating>4	5	3	5	3	2	2	3	
+<Aspects>
+12	4(nice):1	8(day):1	40(love):1	43(leave):1	87(lovely):1	91(guest):1	92(help):1	447(send):1	508(otherwise):1	763(boyfriend):1	1767(tray):1	3357(postcard):1	
+0	
+3	3(clean):1	4(nice):1	111(spacious):1	
+6	41(city):1	82(station):1	101(center):1	102(near):1	235(metro):1	499(fast):1	
+0	
+4	0(staff):1	152(english):1	371(talk):1	1020(barely):1	
+7	6(breakfast):1	16(food):1	77(buffet):1	134(available):1	333(selection):1	413(variety):1	1039(plentiful):1	
+0	
+
+<Author>SmitEnglish
+<Content>Pleasant Stay I just got back from a weekend trip to Madrid and stayed at this hotel based on the other reviews here. My spouse and I were checked in promptly and courteously and the front desk staff were courteous at all times. It is an average 3 star hotel located next to the El Carmen (Line 5) Metro. The best exit to take at the Metro station for the hotel is Raqel Mellar which is open from 0600-2140 daily. After 2140, you will need to use the exits/entrances on the other side of the Station. The journey time to the hotel from the airport is about 45 mins by Metro and you have to change twice (from Line 8 to Line 4 at Mar Cristal and Line 4 to Line 5 at Diego Leon).Our room on the 1st floor was okay though we found the TV in a somewhat awkward position (hanging from the ceiling). The bathroom was nice and shower lovely.The front desk forgot to wake us up in the morning although we had booked a wake up call so be careful.An okay hotel for the rate we got (booked through agoda.com) and about 7-8 stops on the Metro from Gran Via/Callao.We went on the Madrid Vision tourist buses which were not as good as the Barcelona ones (poor customer service and frequency).Have a great trip!  
+<Date>Jan 27, 2008
+<Rating>3	-1	3	3	4	4	4	3	
+<Aspects>
+6	33(trip):2	37(review):1	150(pleasant):1	172(weekend):1	284(base):1	1280(madrid):1	
+7	84(locate):1	103(star):1	188(line):1	227(average):1	235(metro):1	752(el):1	4717(carmen):1	
+24	4(nice):1	5(time):1	13(bathroom):1	24(floor):1	61(shower):1	87(lovely):1	95(airport):1	116(tv):1	161(change):1	188(line):4	235(metro):1	247(min):1	347(twice):1	453(okay):1	478(hang):1	528(ceiling):1	651(somewhat):1	1093(position):1	1362(journey):1	1647(mar):1	2906(awkward):1	4584(diego):1	10549(leon):1	10713(cristal):1	
+4	82(station):2	235(metro):1	360(daily):1	1354(exit):1	
+0	
+15	0(staff):1	5(time):1	18(book):1	31(front):2	32(check):1	36(desk):2	56(morning):1	67(call):1	397(forget):1	483(courteous):1	554(wake):2	897(careful):1	1212(promptly):1	3969(spouse):1	6912(courteously):1	
+16	9(service):1	18(book):1	78(rate):1	120(bus):1	122(stop):1	209(tourist):1	235(metro):1	309(barcelona):1	331(poor):1	428(customer):1	453(okay):1	512(via):1	1280(madrid):1	1535(gran):1	6018(vision):1	10228(frequency):1	
+0	
+
+<Author>NissaBaltimore
+<Content>great location, great staff, and new and clean       elevator lobby  
+<Date>Jan 12, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+5	0(staff):1	1(location):1	3(clean):1	55(lobby):1	216(elevator):1	
+0	
+
+<Author>rkoepe
+<Content>Nice Stay We stayed for 3 nights in the hotel and can recommend it if you want to explore madrid without spending too much money for the hotel. The hotel was very clean and the staff friendly and helpful. If you do not want to pay hat much for the breakfast, you can go in one of the small cafes not that far from the hotel and enjoy the superp spanish coffee.An underground station is directly in front of the hotel, whith which you can easily go to the city center.  
+<Date>Jan 2, 2008
+<Rating>4	4	4	3	5	5	4	3	
+<Aspects>
+7	2(night):1	4(nice):1	15(recommend):1	64(spend):1	80(money):1	594(explore):1	1280(madrid):1	
+0	
+0	
+7	31(front):1	41(city):1	82(station):1	101(center):1	383(directly):1	438(easily):1	1085(underground):1	
+4	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	
+0	
+7	6(breakfast):1	42(pay):1	51(enjoy):1	90(coffee):1	275(cafe):1	369(spanish):1	2175(hat):1	
+0	
+
+<Author>sushi7
+<Content>Spacious  Stayed here for 3 nights recently. Hotel is situated on the green line (line 5), El Carmen stop. Providing you get exit the correct exit, hotel is immediately to your right. (Think the exit began with an r but this exit is also closed from 21.00 - 06.00 hrs) Hotel was recently renovated and rooms are clean and spacious. Bathroom was big too. Plenty of seating areas in the lobby and staff were helpful  friendly. Beds are 2 twin beds put together to form a double bed.Less than 5 mins walk from the Bull Ring.  
+<Date>Dec 3, 2007
+<Rating>5	5	3	-1	5	4	4	5	
+<Aspects>
+13	2(night):1	111(spacious):1	122(stop):1	153(provide):1	188(line):2	322(recently):1	489(immediately):1	574(situate):1	752(el):1	1005(green):1	1263(correct):1	1354(exit):2	4717(carmen):1	
+0	
+13	3(clean):1	11(bed):3	13(bathroom):1	28(close):1	111(spacious):1	179(double):1	322(recently):1	533(renovate):1	551(begin):1	690(twin):1	1164(form):1	1354(exit):2	1464(hr):1	
+4	7(walk):1	247(min):1	1150(ring):1	5684(bull):1	
+0	
+6	0(staff):1	12(friendly):1	14(helpful):1	55(lobby):1	158(plenty):1	504(seat):1	
+0	
+0	
+
+<Author>Keepo
+<Content>Great little find, with easy access to city centre Stayed 4 nights in early September, based on Tripadvisor rating and wasn't disappointed. Paid 拢83/night (no breakie). Arrived at Madrid airport and used Metro to El Carmen - Line 5. Take the right hand exit when leaving the Metro subway and you'll be right opposite the hotel!As we arrived late, the hotel didn't have any non-smoking double rooms left, so we faced the choice of either a non-smoking twin (push beds together) or a smoking double. The reception staff were very obliging, allowing us to view two rooms before deciding on the room with the lowest acceptable odour. It was completely our choice to select the room and I felt this good service.You get a good impression of the hotel as you walk into the lobby; clean, airy and modern. Whilst the room decor was slightly more dated, it was still tasteful and most importantly (for us) clean! Room was quiet at night and we weren't disturbed during our stay. Had all the facilities we need in the room, including a mini-bar fridge. C'mon Spain, invest in kettles ;-) The bathroom had a great shower and a very deep bath. My girlfriend was in heaven!We didn't use the hotels restaurant as it seemed slightly pricey, but looked nice. Also did our own thing for breakfast, as cheaper alternatives are nearby.Whilst located out of the city centre, Ventas is still a good area to be located in. Turn right out of hotel lobby and you will find...- Some good priced Chinese restaurants nearby, if you get bored of Tapas! Also a couple of pizza places across the road. We went to the Chinese at the bottom of the hill. Turn right out of the lobby and walk down the hill, located on the right before the main Ventas road intersection.- Ventas bull fighting ring. An amazing stadium in an otherwise run down neighbourhood! We did the walking tour.- Rock and Vinos bar. This was a real gem of a place about 300m (on the right, from lobby) on the opposite side of the road. The cocktails/sangria were poured as doubles/triples and cost just 4 Euro! Having flown to Madrid from Dublin, this was some price improvement! The bar was largely frequented by trendy 30 somethings. With cool music, contemporary decor and some of the best bar staff I've ever watched! Stays open 2-3am so you can easy stagger back to hotel.- Supersol supermarket. This is actually a left-turn out of lobby and about 100 metres up hill. Great if you want to invent your own breakfast, which we did!To get into the city centre, it's simply 10 mins on the metro and you're there!With this hotel, you have the benefit of a quiet suburb (although the main street is busy, seemingly not at night), easy access to the centre of Madrid, good local amenities and 20-30 mins access to the airport for the return home. With a competitive room rate vs. city centre, you can book this hotel with confidence.  
+<Date>Oct 2, 2007
+<Rating>5	4	4	5	4	5	-1	-1	
+<Aspects>
+18	93(easy):1	99(couple):1	145(amaze):1	149(run):1	230(road):1	421(neighbourhood):1	508(otherwise):1	678(pizza):1	756(hill):1	764(chinese):1	850(bottom):1	994(girlfriend):1	1150(ring):1	1363(heaven):1	1759(fight):1	2695(stadium):1	5588(stagger):1	5684(bull):1	
+24	4(nice):1	6(breakfast):1	9(service):1	10(restaurant):1	19(price):1	20(look):1	34(feel):1	42(pay):1	107(choice):1	143(cheap):1	166(own):1	175(cost):1	232(nearby):1	256(euro):1	542(completely):1	546(pricey):1	598(slightly):1	614(fly):1	1280(madrid):1	1294(select):1	1298(alternative):1	1486(improvement):1	1764(pour):1	6075(dublin):1	
+52	0(staff):1	2(night):1	3(clean):2	7(walk):1	11(bed):1	13(bathroom):1	18(book):1	27(bar):1	41(city):1	43(leave):1	53(arrive):2	55(lobby):1	58(quiet):1	61(shower):1	78(rate):1	79(late):1	95(airport):1	101(center):1	107(choice):1	151(modern):1	179(double):2	188(line):1	226(bath):1	235(metro):1	245(watch):1	269(decor):2	278(cool):1	398(music):1	468(smoke):1	511(date):1	598(slightly):1	690(twin):1	752(el):1	848(impression):1	877(whilst):1	978(nonsmoking):2	1041(push):1	1043(deep):1	1067(disturb):1	1280(madrid):1	1475(contemporary):1	1636(spain):1	1944(kettle):1	1947(airy):1	1996(importantly):1	2122(tasteful):1	2655(vs):1	3279(competitive):1	3553(invest):1	4681(confidence):1	4717(carmen):1	7712(c'mon):1	
+34	2(night):1	7(walk):2	35(street):1	39(return):1	41(city):1	43(leave):1	55(lobby):1	58(quiet):1	84(locate):3	93(easy):1	95(airport):1	101(center):2	112(main):2	141(home):1	159(access):2	181(tour):1	195(local):1	220(busy):1	230(road):1	235(metro):1	247(min):1	291(amenity):1	370(subway):1	377(hand):1	756(hill):1	783(opposite):1	877(whilst):1	1078(supermarket):1	1280(madrid):1	1354(exit):1	1524(benefit):1	3501(seemingly):1	3615(intersection):1	3739(suburb):1	
+0	
+9	0(staff):1	17(view):1	129(reception):1	219(decide):1	359(allow):1	513(low):1	1214(acceptable):1	1628(odor):1	2709(oblige):1	
+26	6(breakfast):1	10(restaurant):1	19(price):1	27(bar):2	55(lobby):3	71(include):1	166(own):1	180(actually):1	211(facility):1	230(road):1	232(nearby):1	240(real):1	318(fridge):1	756(hill):1	764(chinese):1	773(rock):1	783(opposite):1	805(gem):1	1098(bore):1	1194(metre):1	1338(mini-bar):1	1355(frequent):1	1413(trendy):1	1455(tapa):1	8776(vino):1	8975(invent):1	
+14	2(night):1	23(little):1	41(city):2	78(rate):1	93(easy):1	101(center):2	154(disappoint):1	159(access):1	235(metro):1	247(min):1	284(base):1	488(simply):1	597(tripadvisor):1	972(september):1	
+
+<Author>TC.BM
+<Content>Good location with easy links to subway Good location with easy subway links. Check in very easy with friendly staff.Room good size, clean and tidy.Breakfast was a plentiful buffet selection, with good variety of food available.  
+<Date>Aug 27, 2007
+<Rating>5	5	4	5	4	4	3	-1	
+<Aspects>
+0	
+0	
+3	3(clean):1	83(size):1	1100(tidy):1	
+4	1(location):2	93(easy):2	370(subway):2	1727(link):2	
+0	
+4	0(staff):1	12(friendly):1	32(check):1	93(easy):1	
+7	6(breakfast):1	16(food):1	77(buffet):1	134(available):1	333(selection):1	413(variety):1	1039(plentiful):1	
+0	
+
+<Author>carnelian82
+<Content>Nice clean hotel This hotel was very clean. We were on a whirlwind trip throughout Spain and it was one of the few hotels that had a actual king size bed and not 2 twins pushed together. It was really close to the subway, and the hotel staff was real friendly.  
+<Date>Jul 20, 2007
+<Rating>4	4	4	4	4	4	4	4	
+<Aspects>
+0	
+0	
+10	11(bed):1	33(trip):1	83(size):1	243(king):1	445(throughout):1	690(twin):1	1041(push):1	1536(actual):1	1636(spain):1	9741(whirlwind):1	
+5	0(staff):1	12(friendly):1	28(close):1	240(real):1	370(subway):1	
+2	3(clean):2	4(nice):1	
+0	
+0	
+0	
+
+<Author>redhotrobert1979
+<Content>Top Business Hotel I stayed in this hotel for one night for business.I was upgraded to a junior suite without request and the room was fabulous (jacuzzi bath in the bedroom!) the hotel is finished to a very high standard and the breakfast was fantastic!The best hotel I have stayed in for a business trip ever! This place is worth every penny!  
+<Date>Jul 18, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+2	96(worth):1	1590(penny):1	
+0	
+8	108(suite):1	148(request):1	163(upgrade):1	226(bath):1	268(bedroom):1	270(fabulous):1	808(jacuzzi):1	964(junior):1	
+4	2(night):1	33(trip):1	118(top):1	147(business):3	
+0	
+0	
+4	6(breakfast):1	86(fantastic):1	130(standard):1	772(finish):1	
+0	
+
+<Author>NY_Michigander
+<Content>You can find much better in Madrid We stayed here for one night on April 19, 2007. The hotel looked promising from the lobby - very modern and updated. Inside the room, it was basically a Holiday Inn. You can see there has been a recent paint job, but it doesn't cover all the other flaws. For example, there was a huge burn stain on our carpet and the toilet and sink were older and cracked. The bed, while not two twins pushed together, was on some sort of metal legs - it looked like a cot or the trundle part of a trundle bed. They could have at least put a bedskirt around it so it didn't look like we were at camp or soemthing. We also asked for a non-smoking, and you could tell it used to be smoking - it had a very stale smokey smell.It is right on the Metro line, but you could easily stay in other parts of Madrid for the same price and be able to walk to everything you want to see. Madrid isn't so big that you have to take the metro everywhere. Being able to walk to sights and stumble upon cool bars and cafes is part of the fun. I would suggest staying in a more charming area of the city.One random tip - if you decide you have a hankering for some Italian food (hey, I'm pregnant, and after a while I was craving some pasta!!) try the chain Gino's. It's all over the city, very good and very inexpensive.  
+<Date>Apr 25, 2007
+<Rating>3	2	2	2	3	3	3	-1	
+<Aspects>
+13	2(night):1	41(city):1	76(try):1	235(metro):1	332(charm):1	452(suggest):1	481(job):1	552(cover):1	627(chain):1	806(paint):1	1064(recent):1	1280(madrid):2	2808(flaw):1	
+9	7(walk):1	19(price):1	41(city):1	171(able):1	188(line):1	235(metro):1	438(easily):1	1117(inexpensive):1	1280(madrid):1	
+22	11(bed):2	20(look):2	133(huge):1	223(holiday):1	324(inn):1	330(toilet):1	396(carpet):1	408(inside):1	509(sink):1	557(sort):1	690(twin):1	723(stain):1	790(basically):1	954(example):1	1041(push):1	1289(burn):1	1411(crack):1	1421(leg):1	2087(camp):1	2491(cot):1	2720(metal):1	9526(trundle):2	
+0	
+6	69(tell):1	231(smell):1	468(smoke):1	978(nonsmoking):1	2052(stale):1	4724(smokey):1	
+0	
+22	7(walk):1	16(food):1	20(look):1	27(bar):1	55(lobby):1	151(modern):1	171(able):1	176(fun):1	194(tip):1	219(decide):1	275(cafe):1	278(cool):1	358(italian):1	411(sight):1	725(update):1	975(promise):1	1143(pasta):1	1367(hey):1	3012(stumble):1	3255(random):1	4337(pregnant):1	4648(crave):1	
+0	
+
+<Author>YvesZurich
+<Content>Great Price               
+<Date>Apr 17, 2007
+<Rating>4	5	3	4	4	3	3	1	
+<Aspects>
+0	
+1	19(price):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Our time at the Rafaelhoteles Ventas... I spent four days and three nights at this hotel with my boyfriend when we came travelling in Madrid in June 2006. We loved it!! It is very well kept and modernised. All members of staff are lovely and did their best to use English when speaking o us as our Spanish holds a lot to be desired! The hotel is situated across the road from the 'tube' and it can take you almost anywhere in Madrid. The bars, pubs and restaurant are easy to find and accommodate all dietary requirements and needs. Madrid is a BEAUTIFUL city... the views just take your breath away. In the four days we spent at the hotel, we visited 22 different parts of Madrid, solely by travelling on the metro. We had a fantastic holiday and I recommend this hotel to anyone thinking of staying in Madrid.  
+<Date>Jul 2, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+20	2(night):1	5(time):1	8(day):2	15(recommend):1	17(view):1	40(love):1	41(city):1	45(beautiful):1	64(spend):2	65(visit):1	68(travel):2	86(fantastic):1	223(holiday):1	235(metro):1	664(june):1	763(boyfriend):1	1280(madrid):4	2214(breath):1	4543(solely):1	4544(modernize):1	
+0	
+0	
+4	230(road):1	574(situate):1	1280(madrid):1	1310(tube):1	
+0	
+8	0(staff):1	38(lot):1	87(lovely):1	127(speak):1	152(english):1	369(spanish):1	593(hold):1	1219(desire):1	
+7	10(restaurant):1	27(bar):1	93(easy):1	624(accommodate):1	1393(pub):1	2642(requirement):1	9250(dietary):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very pleasant and convenient The staff was friendly. The room was very nice and the bathroom was excellent. AS the property had not transitioned to summer there was only outside air for conditioning. It did cool down at night. The morning buffet was excellent with great selection and attentive service. They are right on the Metro so it was easy to navigate Madrid from there for $3.50 per day. There is a great Colombian Hole in the wall restaurant behind the hotel.  
+<Date>May 23, 2006
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+7	2(night):1	8(day):1	93(easy):1	235(metro):1	278(cool):1	1280(madrid):1	2252(navigate):1	
+0	
+8	4(nice):1	13(bathroom):1	21(excellent):1	98(outside):1	164(air):1	214(property):1	263(condition):1	853(summer):1	
+3	10(restaurant):1	183(wall):1	1218(hole):1	
+0	
+4	0(staff):1	12(friendly):1	150(pleasant):1	186(convenient):1	
+6	9(service):1	21(excellent):1	56(morning):1	77(buffet):1	333(selection):1	537(attentive):1	
+0	
+
+<Author>Shanmarks
+<Content>Pretty Nice My boyfriend and I stayed here march 15-19 2006...we asked for a non smoking room and got it, but we also asked for a queen bed and got two twins instead...we called the front desk and they said we could switch rooms the next day because they were full for the night...the website advertises climate controlled rooms but watch out they turn off the air conditioner for the winter months and that is that, so we had to open the window which faced the street and it is SO loud...it cooled down enough at night so we would close the window and turn the fan on to get outside air and that worked until about 8am the next morning when it was hot outside again...The restraunt at the hotel is very yummy! In our mini bar we found empty bottles from the previous people, so we told the front desk and we were not charged...the bathroom is beautiful and large...the room is very big as well...Everything was clean and we had fresh towels and straightened beds everyday...it was a very nice place and a great location sitting right on top of the El Carmen metro stop...  
+<Date>Apr 6, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+58	1(location):1	2(night):2	3(clean):1	4(nice):2	8(day):1	11(bed):2	13(bathroom):1	26(people):1	27(bar):1	28(close):1	31(front):2	35(street):1	36(desk):2	45(beautiful):1	56(morning):1	67(call):1	69(tell):1	98(outside):2	109(pretty):1	114(hot):1	118(top):1	119(window):2	122(stop):1	125(towel):1	136(charge):1	164(air):2	169(sit):1	197(fresh):1	235(metro):1	238(bottle):1	245(watch):1	262(website):1	278(cool):1	353(instead):1	373(previous):1	388(month):1	416(loud):1	448(mini):1	468(smoke):1	543(Queen):1	605(everyday):1	615(march):1	661(fan):1	690(twin):1	752(el):1	763(boyfriend):1	810(empty):1	865(control):1	888(switch):1	910(advertise):1	1083(conditioner):1	1599(winter):1	1798(yummy):1	2704(climate):1	4326(straighten):1	4717(carmen):1	4737(restraunt):1	7545(8am):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Jimmy2thou
+<Content>Very nice contemporary hotel I stayed in the hotel last year in March and found it to be a very friendly place with quality rooms and a beautiful dining area. I didn't have dinner there, but i can certainly recommend the breakfast!The location is very good for those looking to be near the airport for an onward trip, but also not wanting to be too far from the city centre.I had my equipment with me and the staff allowed me to do a virtual tour. For those of you thinking about staying there, have a proper look around!http://www.sorted360.com/tripadvisor/reception.htm  
+<Date>Feb 22, 2006
+<Rating>5	5	5	-1	5	-1	4	-1	
+<Aspects>
+2	20(look):1	1719(proper):1	
+7	4(nice):1	12(friendly):1	45(beautiful):1	187(quality):1	316(dine):1	615(march):1	1475(contemporary):1	
+0	
+8	1(location):1	20(look):1	33(trip):1	41(city):1	95(airport):1	101(center):1	102(near):1	7984(onward):1	
+0	
+5	0(staff):1	181(tour):1	359(allow):1	1211(equipment):1	7429(virtual):1	
+3	6(breakfast):1	15(recommend):1	117(dinner):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good Standard Hotel We stayed here in December for three nights. Was a really nice, clean  contempory hotel. He reception staff are extremely helpful and made not fuss we requested to change rooms (our first room being next to a rather noisey cleaners closet). Located directly next to Carmen metro station or a short 5 min walk to Ventas metro and the Bull ring.We did not eat in the hotel although the restaurant did look inviting.  
+<Date>Feb 15, 2006
+<Rating>4	5	3	-1	4	-1	4	-1	
+<Aspects>
+3	2(night):1	130(standard):1	993(december):1	
+0	
+0	
+10	7(walk):1	82(station):1	84(locate):1	144(short):1	235(metro):2	247(min):1	383(directly):1	1150(ring):1	4717(carmen):1	5684(bull):1	
+3	3(clean):1	4(nice):1	10237(contempory):1	
+10	0(staff):1	14(helpful):1	110(extremely):1	129(reception):1	148(request):1	161(change):1	565(closet):1	2205(fuss):1	2487(cleaner):1	3008(noisey):1	
+4	10(restaurant):1	20(look):1	47(eat):1	1210(invite):1	
+0	
+
+<Author>Ricardo7
+<Content>Nice ! I tried to found an hotel for a long weekend of 4 days...I found thousands..However a colleague who use to go very often to Madrid, told me :  Do u want a business hotel or a touristic hotel?  I was a little bit afraid, becoz an business hotel, for a touristic w.e.?..But ok , he made my reserv.It was a good surprise, very good indeed. The Staff was very helpful, Underground to the center 50 m away ( 4 or 5 stations = 10 min), The main bullring of Madrid 5 min walk, a lot of atms around, 30/40 min by Underground from the Airport (Change 3 times of line, but very neat and clear, with touristic tickets very cheap ) and a lot of commerce around the hotel. The room was great enough for me, my wife and kid of 11. Bathroom with taste, and very clean. The safe works very well. Everything is very functional. Don't wait for more facilities...this is a business hotel. No swimm. pool, no games room, no gym...If u want to stay in Madrid and sleep and hv a shower in the hotel it is very good, although a little bit expensive...but a good choice. No negative points.  
+<Date>Nov 7, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	4(nice):1	8(day):1	123(ok):1	137(safe):1	172(weekend):1	199(surprise):1	253(tried):1	282(negative):1	990(indeed):1	1348(functional):1	3752(thousand):1	
+0	
+15	3(clean):1	13(bathroom):1	22(pool):1	23(little):1	52(bit):1	61(shower):1	104(sleep):1	107(choice):1	124(expensive):1	184(wife):1	201(kid):1	439(taste):1	523(gym):1	683(game):1	1280(madrid):1	
+27	0(staff):1	5(time):1	7(walk):1	14(helpful):1	23(little):1	38(lot):2	52(bit):1	69(tell):1	82(station):1	85(wait):1	95(airport):1	101(center):1	112(main):1	143(cheap):1	147(business):3	161(change):1	188(line):1	211(facility):1	247(min):3	621(ticket):1	1085(underground):2	1280(madrid):2	1286(neat):1	1544(afraid):1	1991(colleague):1	4163(touristic):3	6962(atms):1	
+0	
+0	
+0	
+0	
+
+<Author>Guillaume
+<Content>Unsatisfactory soundproofing       Bath  
+<Date>Sep 12, 2005
+<Rating>2	3	2	-1	4	-1	3	-1	
+<Aspects>
+3	226(bath):1	1852(soundproof):1	6408(unsatisfactory):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>AlvaroGranada
+<Content>Muy bien calidad/precio       Habitaci贸n doble  
+<Date>Apr 6, 2008
+<Rating>4	4	4	3	5	4	4	3	
+<Aspects>
+3	4727(bien):1	4861(muy):1	6135(habitaci):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

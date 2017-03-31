@@ -1,0 +1,686 @@
+<Author>JohnnyBoiii
+<Content>A very pleasant experience indeed       A third of my breakfast :)  
+<Date>Jan 6, 2009
+<Rating>4	4	5	3	5	5	4	5	
+<Aspects>
+0	
+5	6(breakfast):1	44(experience):1	150(pleasant):1	532(third):1	990(indeed):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Anette33
+<Content>Nice hotel Nice price Nice hotel Nice price.We stay for 4days and everything was good.We didnt eat at the hotel,but just around the corner at Potsdamer Strasse, there are a little cafe.Cafe Noir. Good coffee and breakfast,even sandwich and if you want you can take it with you, coffee to go it麓s nice.The Hotel had very clean rooms and the bathroom was very clean. Saftybox at the room and even a minibar. The staff at the hotel was very nice and friendly.The U-bahn B眉lowstrasse is just on the other side of the street, and it takes you to east and west. Zoologische Bahn, Alexander Plazt......We will stay there again the next time we are going to Berlin..  
+<Date>Nov 15, 2008
+<Rating>4	5	5	5	5	5	5	-1	
+<Aspects>
+4	5(time):1	746(berlin):1	3406(bahn):1	6023(alexander):1	
+2	4(nice):4	19(price):2	
+3	3(clean):2	13(bathroom):1	1037(minibar):1	
+4	35(street):1	948(east):1	953(west):1	2164(u-bahn):1	
+0	
+3	0(staff):1	4(nice):1	12(friendly):1	
+12	4(nice):1	6(breakfast):1	23(little):1	47(eat):1	90(coffee):2	200(corner):1	275(cafe):2	626(didnt):1	1071(sandwich):1	3819(potsdamer):1	5358(strasse):1	12459(noir):1	
+0	
+
+<Author>Donbacio
+<Content>Cheap. Adequate. And noisy. This hotel is all it is said to be by the previous reviewers (inexpensive, clean, well-run and more) - the only really negative aspect is the noise factor. While during our stay it wasn't really bad (November, too cold outside to keep the windows open), it might become problemating in the summer as the U2 line runs parallel with trains going up and down every couple of minutes, day or night. If, however, you are not discouraged by a bit of the (constant) noise, this is definitely the place to stay!  
+<Date>Nov 5, 2008
+<Rating>4	4	3	4	5	4	3	-1	
+<Aspects>
+7	52(bit):1	59(definitely):1	94(noise):1	217(noisy):1	390(adequate):1	1432(constant):1	3816(discourage):1	
+10	3(clean):1	94(noise):1	143(cheap):1	282(negative):1	373(previous):1	564(reviewer):1	1117(inexpensive):1	1255(aspect):1	1655(factor):1	5896(well-run):1	
+0	
+15	2(night):1	8(day):1	29(minute):1	50(bad):1	98(outside):1	99(couple):1	119(window):1	149(run):1	182(train):1	188(line):1	222(cold):1	853(summer):1	999(november):1	4912(parallel):1	10247(u2):1	
+0	
+0	
+0	
+0	
+
+<Author>Carla045
+<Content>ok hotel stayed here on our contiki tour, nice clean rooms, easy walk to shops and sites. Recommend highly  
+<Date>Nov 3, 2008
+<Rating>4	4	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	15(recommend):1	138(highly):1	
+0	
+0	
+9	3(clean):1	4(nice):1	7(walk):1	49(shop):1	93(easy):1	123(ok):1	181(tour):1	192(site):1	10519(contiki):1	
+0	
+0	
+0	
+0	
+
+<Author>holsmanDoncaster
+<Content>Value for money This hotel offers value for money, excellent for the underground and offers a great breakfast. The hotel was clean and well run.Good for a cheap break.  
+<Date>Aug 25, 2008
+<Rating>4	4	3	4	4	3	3	-1	
+<Aspects>
+0	
+8	6(breakfast):1	21(excellent):1	80(money):2	81(value):2	89(offer):2	143(cheap):1	228(break):1	1085(underground):1	
+0	
+0	
+2	3(clean):1	149(run):1	
+0	
+0	
+0	
+
+<Author>Vicsite
+<Content>OK Facility at a Good Price in a Great Location I can see why other people posted negative reviews, but for less than $100 (USD) per night we didn't expect luxury accomodations in the heart of Berlin. The rooms are spartan, and the bathrooms tiny, but we spent most of our waking moments in other places so we didn't really mind. Even though the neighborhood might look dicey to some people, we felt it was a safe building, and the staff were helpful. The U-bahn station is right outside the door, but we walked almost everywhere. A couple blocks west of the hotel (Massen strasse I think?) is a great cluster of restaurants and cafes, so we never ate at the restaurant. There's a great little bakery where we got coffee and pastries every morning. Another bonus is that parking is free!  
+<Date>Jun 30, 2008
+<Rating>4	4	3	4	3	3	3	-1	
+<Aspects>
+4	99(couple):1	100(bloc):1	953(west):1	5358(strasse):1	
+15	1(location):1	2(night):1	19(price):1	26(people):1	37(review):1	62(expect):1	123(ok):1	211(facility):1	282(negative):1	437(luxury):1	450(heart):1	644(post):1	746(berlin):1	780(accomodation):1	1807(usd):1	
+7	13(bathroom):1	64(spend):1	294(mind):1	338(tiny):1	554(wake):1	670(moment):1	3662(spartan):1	
+8	7(walk):1	46(free):1	54(door):1	66(park):1	82(station):1	98(outside):1	849(bonus):1	2164(u-bahn):1	
+0	
+9	0(staff):1	14(helpful):1	20(look):1	26(people):1	34(feel):1	135(build):1	137(safe):1	421(neighbourhood):1	8166(dicey):1	
+9	10(restaurant):2	23(little):1	47(eat):1	56(morning):1	90(coffee):1	275(cafe):1	652(pastry):1	1483(bakery):1	6485(cluster):1	
+0	
+
+<Author>bombtonic
+<Content>Good and comfortable, well located I have stayed here twice, in 2006 and 2007. Very comfy and large rooms, modern and clean.Excellent buffet breakfast served for several hours. Once I arrived in after a late night at a nightclub and it had opened at 6am...convenient!Paying 30GBP (50EUR / 60USD) per night for single occupation of a double room was very good value. It may be more now.Convenient location. Berlin has two centres (in the east and in the west) and this is pretty much in the middle whilst in a 'liveable' area with places to eat around Nollendorfplatz. It is very near to Bulowstrasse station from which you can go direct to the western or eastern centres.Good service. I didn't need guidance to attractions as I know the city well but they seemed to be giving good advice to other residents. When I called reception for an ironing board and iron, they brought one up and offered to iron my shirt - I was a bit taken aback and declined, but perhaps this is their normal service!  
+<Date>Apr 30, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	41(city):1	350(attraction):1	575(advice):1	1988(resident):1	6230(guidance):1	
+5	2(night):1	42(pay):1	81(value):1	179(double):1	304(single):1	
+3	3(clean):1	151(modern):1	475(comfy):1	
+11	1(location):1	25(comfortable):1	82(station):1	84(locate):1	101(center):1	102(near):1	186(convenient):1	347(twice):1	803(direct):1	1015(western):1	3004(eastern):1	
+0	
+12	9(service):1	52(bit):1	67(call):1	89(offer):1	129(reception):1	142(bring):1	600(board):1	868(iron):3	878(normal):1	1844(shirt):1	2394(decline):1	6133(aback):1	
+12	2(night):1	6(breakfast):1	9(service):1	21(excellent):1	53(arrive):1	60(hour):1	77(buffet):1	79(late):1	174(serve):1	186(convenient):1	2378(nightclub):1	7363(6am):1	
+9	47(eat):1	101(center):1	109(pretty):1	325(middle):1	746(berlin):1	877(whilst):1	948(east):1	953(west):1	10616(liveable):1	
+
+<Author>radiationmd
+<Content>Good value for a short stay when it is cold This is a two star Hotel and the area is not the best, but if you just need to stay for a night and need a place to stay and don't want to spend much, it is perfect. The hotel has no AC so not good for summer at all. The TV was so small, it is essentially useless while you are laying down in the bed. The size of the room was pretty good for a two star Hotel although the bathroom is small yet functional.For 48 euros for two people, it was pretty good value.  
+<Date>Apr 20, 2008
+<Rating>2	2	2	2	3	3	3	-1	
+<Aspects>
+2	853(summer):1	956(ac):1	
+10	2(night):1	26(people):1	64(spend):1	74(perfect):1	81(value):2	103(star):1	109(pretty):1	144(short):1	222(cold):1	256(euro):1	
+10	11(bed):1	13(bathroom):1	83(size):1	103(star):1	109(pretty):1	116(tv):1	696(lay):1	1348(functional):1	2488(useless):1	2977(essentially):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Palins_Pal
+<Content>Dubious ......but it was ok! Wanted a few days away for a bit of father son bonding time and chose Berlin as it was an area he had not visited. Booked with Expedia, from a good number Berlin hotels. This hotel is cheap place to stay, rather than booking a twin room it was a room each at approx 拢19.00 per room per night. This normally would have alarm bells ringing, but Berlin is a cheaper city than most, and frankly this worked out to be more than value for money. Ok the good buffet breakfast was extra (15.00 Euro), but this hotel is good on your pocket!. No complaints about the staff. The rooms are neutral, if tired, but clean and very good sized. The bathrooms are unusually small, and the hotel is very much in the old east german vein. The location is not ideal with little in the way of bars and restaurants nearby, but the excellent U bahn is minutes away.Would agree with other reviewers about the illicit ladies prowling the streets, but what city does not have this attraction!In all a CHEAP place to stay, no palace, but for the price it fits the bill!  
+<Date>Apr 17, 2008
+<Rating>3	-1	3	2	4	3	2	-1	
+<Aspects>
+11	5(time):1	8(day):1	52(bit):1	65(visit):1	123(ok):1	167(choose):1	612(son):1	746(berlin):1	2915(father):1	4205(bond):1	5351(dubious):1	
+18	2(night):1	18(book):1	19(price):1	41(city):1	80(money):1	81(value):1	143(cheap):3	495(bill):1	642(palace):1	668(fit):1	690(twin):1	746(berlin):1	801(bell):1	1091(normally):1	1150(ring):1	1380(alarm):1	1423(approx):1	2109(frankly):1	
+8	3(clean):1	13(bathroom):1	83(size):1	454(tire):1	948(east):1	1382(german):1	3639(unusually):1	3742(neutral):1	
+6	35(street):1	41(city):1	350(attraction):1	473(agree):1	521(lady):1	564(reviewer):1	
+0	
+2	0(staff):1	190(complaint):1	
+19	1(location):1	6(breakfast):1	10(restaurant):1	18(book):1	21(excellent):1	23(little):1	27(bar):1	29(minute):1	77(buffet):1	123(ok):1	128(extra):1	232(nearby):1	256(euro):1	335(numb):1	545(ideal):1	746(berlin):1	1066(expedia):1	2199(pocket):1	3406(bahn):1	
+0	
+
+<Author>CJ_Dub
+<Content>Nice Hotel A nice hotel, nothing too special but nothing bad at all either.The room was nice and spacious as was the bathroom. The decor in the room was a little run down but everything was clean and caused no reason for complaint.The staff service was ok but nothing worth commending them on. The breakfast was nice and there was a large choice of food available.The location is fairly close to Alexanderplatz, only 5 minutes walk away which makes this hotel a nice option for people on a budget.  
+<Date>Mar 19, 2008
+<Rating>3	3	4	4	4	3	3	-1	
+<Aspects>
+3	4(nice):2	50(bad):1	208(special):1	
+0	
+10	3(clean):1	4(nice):1	13(bathroom):1	23(little):1	111(spacious):1	149(run):1	190(complaint):1	269(decor):1	374(reason):1	943(cause):1	
+10	1(location):1	4(nice):1	7(walk):1	26(people):1	28(close):1	29(minute):1	336(option):1	429(budget):1	462(fairly):1	3674(alexanderplatz):1	
+0	
+5	0(staff):1	9(service):1	96(worth):1	123(ok):1	4080(commend):1	
+5	4(nice):1	6(breakfast):1	16(food):1	107(choice):1	134(available):1	
+0	
+
+<Author>taniah
+<Content>Excellent service, cleanliness and comfort       HUGE apartment bedroom  
+<Date>Feb 26, 2008
+<Rating>4	5	4	2	4	5	4	-1	
+<Aspects>
+0	
+0	
+7	9(service):1	21(excellent):1	133(huge):1	268(bedroom):1	702(comfort):1	751(apartment):1	854(cleanliness):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>mickums
+<Content>No problems Stayed three nights. Hotel is drab and shabby but the room was fine - warm, clean and comfortable. Small bathroom but everything worked - TV, safe,shower etc. Really good breakfast with plenty of choice and some fine breads, coffee pots on all tables provided (nice touch). The location is within walking distance of Potsdam Platz in one direction and Ku'Damm (shopping area) in the other. But its not a nice area; there are prostitutes working across the road from the hotel (though this is not a problem). There are very few proper restaurants nearby but plenty of small bistros. Unfortunately these seemed to function mainly as meeting places for men only (at night anyway).Friendly helpful staff, a good value hotel.  
+<Date>Feb 18, 2008
+<Rating>4	4	4	3	4	5	4	-1	
+<Aspects>
+9	2(night):2	4(nice):1	196(meet):1	230(road):1	417(anyway):1	524(unfortunately):1	1177(mainly):1	1780(function):1	3230(prostitute):1	
+4	0(staff):1	12(friendly):1	14(helpful):1	81(value):1	
+11	3(clean):1	13(bathroom):1	25(comfortable):1	61(shower):1	73(etc):1	113(fine):1	116(tv):1	137(safe):1	236(warm):1	1319(shabby):1	3420(drab):1	
+14	1(location):1	7(walk):1	10(restaurant):1	49(shop):1	115(distance):1	158(plenty):1	232(nearby):1	395(direction):1	1719(proper):1	2705(platz):1	3034(ku):1	3749(damm):1	5400(bistros):1	9088(potsdam):1	
+0	
+0	
+11	4(nice):1	6(breakfast):1	90(coffee):1	107(choice):1	113(fine):1	153(provide):1	158(plenty):1	229(table):1	279(touch):1	497(bread):1	1447(pot):1	
+0	
+
+<Author>Kostas_St
+<Content>great location Great location, simple hotel. Subway station was just 50m away, on the line to City-Center. Berlin is anyway a cheap city, Aldea Hotel too.For me and my wife, since we decided to select hotels near a sub-station, cause we're the whole day on the streets, this happended to be a perfect choice. Breakfast was pretty simple, but the hotel was quite and clean.  
+<Date>Feb 6, 2008
+<Rating>4	4	4	5	4	3	3	-1	
+<Aspects>
+0	
+4	41(city):1	143(cheap):1	417(anyway):1	746(berlin):1	
+0	
+15	1(location):2	8(day):1	35(street):1	74(perfect):1	82(station):1	102(near):1	107(choice):1	184(wife):1	188(line):1	219(decide):1	370(subway):1	613(simple):1	943(cause):1	1294(select):1	6635(happend):1	
+4	3(clean):1	6(breakfast):1	109(pretty):1	613(simple):1	
+0	
+0	
+0	
+
+<Author>balaazs
+<Content>Been there for the second time, still satisfied I stayed at Agon Aldea for the second time now, and I still think it's great-great value for money.It's an average 5-storey buliding located right next to a U-Bahn (subway) station (B眉lowstrasse), 5 mins from two big hubs, Potsdamer Platz and Zoologischer Garten. The neighborhood is not pretty, but since it's this close to the city center, it didn't really matter to me.The rooms are not too big, but okay, with satellite tv, minibar and a small, but nice bathroom (with a shower). Towels and bedsheets are always clean. Breakfast's plenty. Staff is kind and polite.It's a three star-hotel with some major adjustments which make it a great deal to stay.  
+<Date>Nov 30, 2007
+<Rating>4	5	3	3	4	4	4	2	
+<Aspects>
+0	
+8	5(time):2	80(money):1	81(value):1	140(deal):1	315(major):1	899(satisfy):1	4423(adjustment):1	7780(agon):1	
+10	3(clean):1	4(nice):1	13(bathroom):1	61(shower):1	116(tv):1	125(towel):1	453(okay):1	1037(minibar):1	3260(satellite):1	5338(bedsheets):1	
+18	28(close):1	41(city):1	82(station):1	84(locate):1	101(center):1	109(pretty):1	227(average):1	247(min):1	370(subway):1	421(neighbourhood):1	531(matter):1	2164(u-bahn):1	2705(platz):1	3027(hub):1	3819(potsdamer):1	7669(garten):1	9663(bulide):1	9942(zoologischer):1	
+0	
+2	0(staff):1	422(polite):1	
+2	6(breakfast):1	158(plenty):1	
+0	
+
+<Author>sharon_antcliff
+<Content>Hated the Algon Aldea hotel. I spent 3 nights at this hotel and that was far to much,after 1 night I was sick of the drab place! I had read the reviews on Trip advisor as I had to stay at this hotel as it was part of a package deal. I agree with alot of reviews on here,the place is by far the worst hotel I have ever stayed in! The building outside and inside is just dire.Drab grey doors,carpets(which looked filthy in the reception area) souless,dull corridors,old style lifts which I have never saw before.Damp patches on celling in hotel lounge.I honestly found it almost creepy to an extend as it was that awfull! I could only put it down to the fact it may be an old style east German building. My room was abit more likeable,though still souless and stark white walls.Bathroom was so small,. Shower hose was broke,water spurted everywhere.After fliushing the toilet ,water still noisely trickled into the bowl minutes later.Towels was hard,I had room119 and had banging doors all hours due to deliverys to the hotel.On the plus side dinner/breakfast was good  bed was very comfy.  
+<Date>Nov 14, 2007
+<Rating>1	1	3	3	3	3	3	-1	
+<Aspects>
+28	2(night):2	29(minute):1	33(trip):1	37(review):2	50(bad):1	57(water):1	64(spend):1	79(late):1	88(read):1	135(build):1	140(deal):1	326(style):1	330(toilet):1	473(agree):1	527(package):1	647(alot):1	654(sick):1	701(advisor):1	948(east):1	1028(honestly):1	1110(hate):1	1303(extend):1	1366(bowl):1	1382(german):1	3420(drab):1	3499(creepy):1	5266(trickle):1	7351(awfull):1	
+5	183(wall):1	466(white):1	4380(stark):1	4421(abit):1	10887(souless):1	
+30	11(bed):1	13(bathroom):1	20(look):1	54(door):2	57(water):1	60(hour):1	61(shower):1	98(outside):1	117(dinner):1	125(towel):1	129(reception):1	135(build):1	162(hard):1	203(plus):1	228(break):1	259(due):1	326(style):1	396(carpet):1	408(inside):1	475(comfy):1	591(lift):1	1073(corridor):1	1320(filthy):1	1401(bang):1	2335(grey):1	2689(dull):1	3420(drab):1	4063(dire):1	4773(hose):1	10887(souless):1	
+0	
+0	
+0	
+4	237(lounge):1	1583(cell):1	1640(damp):1	3518(patch):1	
+0	
+
+<Author>pjuske
+<Content>Disappointing I booked this hotel throug expedia for a quite reasonable price - without breakfast though. The hotel itself was sort of ok and I would have given it a three if it wasn't for at couple of irritating facts. The pro's: Good location, close to U-Bahn and quite central.Cheap.The room had a mini bar, which means access to a fridge.The room was basically allright.The room had a good size.The room was very clean.Good shower.Good pillows.The con's:Sad, boring hotel, reminded me of the kind of places we stayed at when I was on trips with school.Boring neighbourhood, no shops.The maid came knocking on our door every day at 8.30 to clean the room while we were still sleeping.There was a noisy bulding ground outside.Very hard bed wiyh pokey springs.Worn down room.The staff very indifferent to us and hardly spoke any english.Very small tv and the sound only worked half the time.  
+<Date>Nov 2, 2007
+<Rating>2	2	2	3	4	2	2	-1	
+<Aspects>
+11	33(trip):1	99(couple):1	123(ok):1	303(pillow):1	557(sort):1	840(Con):1	1098(bore):1	1229(school):1	1285(remind):1	1454(sad):1	2467(irritate):1	
+1	143(cheap):1	
+19	3(clean):2	5(time):1	8(day):1	11(bed):1	54(door):1	61(shower):1	83(size):1	104(sleep):1	116(tv):1	162(hard):1	283(half):1	300(maid):1	409(sound):1	434(wear):1	790(basically):1	1162(spring):1	1323(knock):1	5547(pokey):1	10239(allright):1	
+12	1(location):1	28(close):1	49(shop):1	98(outside):1	168(central):1	217(noisy):1	421(neighbourhood):1	706(grind):1	1098(bore):1	1249(pro):1	2164(u-bahn):1	9445(buld):1	
+0	
+5	0(staff):1	127(speak):1	152(english):1	985(hardly):1	2481(indifferent):1	
+11	6(breakfast):1	18(book):1	19(price):1	27(bar):1	154(disappoint):1	159(access):1	246(mean):1	273(reasonable):1	318(fridge):1	448(mini):1	1066(expedia):1	
+0	
+
+<Author>zzyzxUK
+<Content>Cheap  Found this hotel through Tripadvisor, and chose it mostly for the location (wanted to be near Nollendorfplatz) and cheap price.The location is fairly central, although the actual street it is on isn't the most bustling in Berlin, and there aren't lots of restaurants/shops in the immediate area if you're interested in anything after normal business hours (like late-night food, for example).The other reviewers are right about the prostitution... my room had a nice(?) view of several women streetwalking on the side streets behind the hotel, and there was even one standing outside the front of the hotel for most of the night. On the other hand, they -were- fairly discreet compared to the prostitutes in other cities (Madrid comes to mind), and they're only really obvious if you spend your time staring out the window of your hotel room watching what people are doing outside. (I usually don't).For the price, the hotel was actually not bad. The room was very clean, the maids friendly and efficient, and I found the desk staff friendly enough (even the older ones). The best reason to stay here has to be it's proximity to the U-Bahn, being just steps away from the central U2 line, which I found most useful.So, if you're on a budget, and don't mind a little local colour, it's not a bad place to stay.  
+<Date>Oct 27, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+15	23(little):1	50(bad):1	168(central):1	188(line):1	195(local):1	294(mind):1	366(step):1	374(reason):1	399(usually):1	429(budget):1	942(color):1	1114(proximity):1	1232(useful):1	2164(u-bahn):1	10247(u2):1	
+8	1(location):1	19(price):2	50(bad):1	102(near):1	143(cheap):2	167(choose):1	180(actually):1	597(tripadvisor):1	
+19	4(nice):1	5(time):1	26(people):1	41(city):1	64(spend):1	98(outside):1	119(window):1	245(watch):1	294(mind):1	377(hand):1	381(compare):1	462(fairly):1	564(reviewer):1	1280(madrid):1	1698(obvious):1	2748(stare):1	3230(prostitute):1	4022(discreet):1	11062(prostitution):1	
+22	1(location):1	2(night):1	16(food):1	17(view):1	31(front):1	35(street):2	38(lot):1	60(hour):1	98(outside):1	147(business):1	168(central):1	444(stand):1	462(fairly):1	566(woman):1	746(berlin):1	878(normal):1	954(example):1	1107(bustle):1	1536(actual):1	1761(immediate):1	3920(restaurants):1	5291(late-night):1	
+0	
+6	0(staff):1	3(clean):1	12(friendly):2	36(desk):1	300(maid):1	401(efficient):1	
+0	
+0	
+
+<Author>ifi
+<Content>excellent value A very nice hotel at a very low price! The room was very spacious and hadan extra sofa, the bathroom was spotless and thoroughly cleaned evey day.Our room overlooked the car park and was extremely quiet. The hotel iscentral, right opposite to a U-Bahn station, though its neigborhood hasnot much to do or to see. I totally recommend it!  
+<Date>Aug 3, 2007
+<Rating>5	5	5	5	5	5	4	-1	
+<Aspects>
+2	15(recommend):1	611(totally):1	
+5	4(nice):1	19(price):1	21(excellent):1	81(value):1	513(low):1	
+14	3(clean):1	8(day):1	13(bathroom):1	58(quiet):1	66(park):1	110(extremely):1	111(spacious):1	121(car):1	128(extra):1	260(overlook):1	548(spotless):1	842(sofa):1	898(thoroughly):1	9362(evey):1	
+4	82(station):1	783(opposite):1	2164(u-bahn):1	10026(neigborhood):1	
+0	
+0	
+0	
+0	
+
+<Author>24hockey
+<Content>Good value for longer stays As previously written it is a great value especially on the internet getting a the 6th day free!!! close to the ubahn...close to little fruit markets to get water and fruit for the day or night!!! Excellent cafe around the corner CAFE NOIR where we enjoyed a lighter breakfast then the 15 euro hotel buffet!!! Lots of tour buses and people in the lobby smoking but definatley worth the price!  
+<Date>Jun 3, 2007
+<Rating>3	3	2	3	3	3	4	2	
+<Aspects>
+0	
+17	8(day):1	19(price):1	26(people):1	38(lot):1	46(free):1	55(lobby):1	81(value):2	96(worth):1	97(internet):1	120(bus):1	126(especially):1	181(tour):1	344(write):1	468(smoke):1	1122(previously):1	1869(6th):1	3658(definatley):1	
+0	
+8	2(night):1	8(day):1	23(little):1	28(close):2	57(water):1	215(fruit):2	264(market):1	9653(ubahn):1	
+0	
+0	
+9	6(breakfast):1	21(excellent):1	51(enjoy):1	77(buffet):1	157(light):1	200(corner):1	256(euro):1	275(cafe):2	12459(noir):1	
+0	
+
+<Author>huhugrub
+<Content>Good value Despite the rather tired appearance and the slow lifts, the room was clean and reasonably spacious. The bathroom was very tiny (even for a small person) but well equipped.Our room opened to the hotel's car park and noise wasn't an issue even with the windows opened. The hotel was just opposite the U-bahn station and was reasonably convenient if spending more than a day in Berlin. Parking wasn't a problem as there were quite a lot of parking spaces across the street underneath the U-Bahn station.There were not a lot of eating places (mainly kebabs and a Thai nearby).The buffet breakfast was very filling and offered a wide variety of food.The front desk staff were not very knowledgeable about the facilities in the hotel's vicinity. Before we made the booking, we searched Google maps and knew there would be at least one laundromat nearby. However, when we asked the front desk staff, they couldn't point us to the nearest one but kept offering us the in-house laundry service. The night staff's reply was that they didn't know because they worked night shift and everything was closed! In the end, we used the internet terminal at the hotel and found the laundromat through Google maps.There was only one internet terminal in the lobby, which could mean a long wait in an area full of smokers!At EUR180 for 3 nights, this was good value for a tourist hotel.  
+<Date>May 20, 2007
+<Rating>4	4	3	3	4	3	2	2	
+<Aspects>
+6	38(lot):1	47(eat):1	232(nearby):1	1177(mainly):1	2393(thai):1	11238(kebabs):1	
+11	2(night):1	3(clean):1	81(value):2	111(spacious):1	209(tourist):1	454(tire):1	455(slow):1	498(despite):1	578(reasonably):1	591(lift):1	2312(appearance):1	
+9	13(bathroom):1	66(park):1	94(noise):1	119(window):1	121(car):1	193(person):1	265(issue):1	338(tiny):1	884(equip):1	
+18	0(staff):1	2(night):2	8(day):1	28(close):1	35(street):1	38(lot):1	64(spend):1	66(park):2	82(station):2	186(convenient):1	210(space):1	578(reasonably):1	746(berlin):1	783(opposite):1	1811(reply):1	2164(u-bahn):2	2459(underneath):1	2479(shift):1	
+6	55(lobby):1	85(wait):1	97(internet):1	246(mean):1	1261(terminal):1	2226(smoker):1	
+11	0(staff):2	9(service):1	31(front):2	36(desk):2	89(offer):1	102(near):1	211(facility):1	1075(laundry):1	1160(knowledgeable):1	2232(vicinity):1	4016(in-house):1	
+12	6(breakfast):1	16(food):1	18(book):1	77(buffet):1	89(offer):1	232(nearby):1	413(variety):1	491(fill):1	724(map):1	860(wide):1	1248(search):1	5173(laundromat):1	
+4	97(internet):1	724(map):1	1261(terminal):1	5173(laundromat):1	
+
+<Author>AirGuitarist
+<Content>Great Value! A good quality, great value hotel. Very close to BulowStrasse U-Bahn station with easy access to all of Berlin. Reception area is not the most appealling, but rooms are big and very clean. Would definately recommend for a good value stay!  
+<Date>Apr 25, 2007
+<Rating>4	5	4	3	4	3	4	3	
+<Aspects>
+0	
+4	15(recommend):1	81(value):3	187(quality):1	410(definately):1	
+2	3(clean):1	129(reception):1	
+6	28(close):1	82(station):1	93(easy):1	159(access):1	746(berlin):1	2164(u-bahn):1	
+0	
+0	
+0	
+0	
+
+<Author>whizzkid1
+<Content>good value basic hotel We stayed here for three nights and had little to complain about.The reception area is not very inviting but the rooms themselves are clean and tidy and are of a similar standard to a travel inn room in the uk.the bathroom is really small but it is fully equipped and the shower is great.there is not a lot of interest nearby but the subway is only a short walk away.there is a pleasant italian restaurant nearby called centro sud but not a lot of other nearby eating delights!all in all for 拢81 for three nights it was good value!  
+<Date>Mar 9, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+5	2(night):2	23(little):1	81(value):2	241(complain):1	352(basic):1	
+12	10(restaurant):1	13(bathroom):1	38(lot):1	47(eat):1	61(shower):1	67(call):1	150(pleasant):1	232(nearby):2	358(italian):1	884(equip):1	1025(delight):1	4879(centro):1	
+5	7(walk):1	38(lot):1	144(short):1	232(nearby):1	370(subway):1	
+10	3(clean):1	68(travel):1	129(reception):1	130(standard):1	324(inn):1	874(similar):1	1059(themselves):1	1100(tidy):1	1178(uk):1	1210(invite):1	
+0	
+0	
+0	
+
+<Author>gerrybhoy1
+<Content>good value for money ! Was definitely a bit wary after reading some of the previous reviews.Was there last week for 4 days. Cost us about 拢21 each per night.For that price you may be lucky to get a backpacker hostel in some cities !Definitely cant really complain. the hotel was fine. the room was exactly as it shows on the hotel website.toilet was - as mentioned before - pretty small, but spotless.As with the halls that have been mentioned before - how much time do you spend there - not a lot !Because we couldn't be bothered with the maids coming in and tidying up our clothes, sheets, guides ,etc, we just left the Do not Disturb signs on the door during the day - each day we came back to find a bag hanging on the door with fresh towels, etc. !!!Hotel is just round the corner from subway station (Kurfustenstrabe, I think) and also a main street with loads of shops, etc.Public transport system is excellent. Subway just in front of hotel was still closed. If this is open, may be advisable to ask for room at back of hotel.The 3-day visitor cards can be bought from the hotel reception for 19.90 euros. Remember to get these validated before travelling.Never had any problems at night. Noticed a couple of transvestites at the street to the side of hotel, but nothing to talk about.Would'nt have any problem recommending this hotel if you get a similar good deal  
+<Date>Feb 23, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+23	2(night):1	5(time):1	8(day):1	15(recommend):1	37(review):1	38(lot):1	52(bit):1	59(definitely):2	64(spend):1	68(travel):1	75(week):1	88(read):1	113(fine):1	140(deal):1	241(complain):1	244(mention):1	373(previous):1	375(remember):1	616(hall):1	874(similar):1	1145(cant):1	3099(wary):1	5275(validate):1	
+9	2(night):1	19(price):1	41(city):1	80(money):1	81(value):1	175(cost):1	797(lucky):1	1560(hostel):1	3997(backpacker):1	
+3	262(website):1	586(exactly):1	6606(advisable):1	
+21	21(excellent):1	28(close):1	31(front):1	35(street):2	49(shop):1	73(etc):1	82(station):1	99(couple):1	109(pretty):1	112(main):1	200(corner):1	244(mention):1	330(toilet):1	354(notice):1	370(subway):2	371(talk):1	379(public):1	518(system):1	548(spotless):1	742(transport):1	886(load):1	
+16	8(day):2	43(leave):1	54(door):2	73(etc):2	125(towel):1	197(fresh):1	290(bag):1	300(maid):1	307(bother):1	449(sign):1	478(hang):1	479(sheet):1	709(clothe):1	829(guide):1	1067(disturb):1	1100(tidy):1	
+6	129(reception):1	256(euro):1	280(buy):1	292(card):1	951(visitor):1	5311(3-day):1	
+0	
+0	
+
+<Author>AustroPolCanadaScot
+<Content>Pity about the U- Bahn Seven of us stayed at the Aldea for three nights from the 10th of February. It was excellent value. The fine buffet breakfast was welcome on the cold mornings. The rooms were well appointed and the staff were all very helpful and welcoming. If you are coming from Schoenefeld Airport, you can avoid the ticket machine queues by getting a one day or three day public transport tcket from the Lufthansa desk in the arrivals hall. It covers the buses, trams, regional trains, S-Bahn and U-Bahn. There is a bus stop just around the corner from the hotel. From the airport , come into Alexanderplatz Station on the train and then get a number 48 bus which takes you to the corner of Buelow Strasse. The U-Bahn, which would be even more convenient, U-Bahn 1, is out of commission at the moment, while a new line is being built.  
+<Date>Feb 20, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	2(night):1	135(build):1	186(convenient):1	188(line):1	670(moment):1	1230(february):1	1592(10th):1	2164(u-bahn):2	3150(pity):1	3406(bahn):1	4516(commission):1	
+2	21(excellent):1	81(value):1	
+4	0(staff):1	14(helpful):1	202(welcome):1	579(appoint):1	
+25	8(day):2	36(desk):1	82(station):1	95(airport):2	120(bus):3	122(stop):1	182(train):2	200(corner):2	224(arrival):1	335(numb):1	379(public):1	436(avoid):1	493(machine):1	552(cover):1	570(tram):1	616(hall):1	621(ticket):1	742(transport):1	1463(queue):1	2164(u-bahn):1	2821(s-bahn):1	3674(alexanderplatz):1	5358(strasse):1	7246(regional):1	9813(schoenefeld):1	
+0	
+0	
+6	6(breakfast):1	56(morning):1	77(buffet):1	113(fine):1	202(welcome):1	222(cold):1	
+0	
+
+<Author>KiwiLund
+<Content>Disappointing Got to this 4 star hotel after a long trip expecting an if not good then at least reasonably good hotel, it being 4 star. Found it expensive when it came to everything apart from the stay there and uncomfortable. The staff where, as opposed to what the travelwebsite said very unhelpful and just seemed to want to end the day. Breakfast was not included which was surprising since it had been included when booking and was also very expensive, 12 euros.The dinner restaurant, there where 2, was also quite expensive and horribly decorated in some failed combination of disco and homy style.As to the room the furniture, including the bed, where uncomfortable adn hard and the bathroom was tiny although relatively functional. You should definately not come expecting a 4 star hotel this is more like 2+ or possibly 3 star and quite okay at that level.On the positive side it was relatively central, but still a bit off, and quiet throughout the stay in spite of going for a weekend. It was clean enough although somewhat worn but quite good as a base for exploring the city.I wouldn't recommend it however because there's plenty of other hotels where you can get better value or at least a good hospitalitylevel and breakfast.  
+<Date>Feb 19, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+16	6(breakfast):1	15(recommend):1	33(trip):1	62(expect):2	81(value):1	103(star):4	124(expensive):1	154(disappoint):1	158(plenty):1	306(level):1	410(definately):1	453(okay):1	578(reasonably):1	856(uncomfortable):1	857(apart):1	1233(possibly):1	
+26	10(restaurant):1	11(bed):1	13(bathroom):1	52(bit):1	58(quiet):1	71(include):1	117(dinner):1	124(expensive):1	162(hard):1	168(central):1	172(weekend):1	305(decorate):1	326(style):1	338(tiny):1	440(furniture):1	445(throughout):1	458(positive):1	856(uncomfortable):1	913(relatively):2	914(disco):1	1348(functional):1	1576(fail):1	1929(combination):1	3000(spite):1	3606(horribly):1	7971(adn):1	
+4	0(staff):1	8(day):1	1618(unhelpful):1	2401(oppose):1	
+6	3(clean):1	41(city):1	284(base):1	434(wear):1	594(explore):1	651(somewhat):1	
+0	
+6	6(breakfast):1	18(book):1	71(include):2	124(expensive):1	199(surprise):1	256(euro):1	
+0	
+
+<Author>GLAtraveller-7
+<Content>Central - excellent value for the money       Showerroom  
+<Date>Feb 6, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+4	21(excellent):1	80(money):1	81(value):1	168(central):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>europa00
+<Content>Decent  Was a little apprehensive after reading other reviews, but this hotel fit our needs - inexpensive hotel in a decent location for getting around Berlin. Was a short walk -- 5 minutes to the U because the S was not yet running. Had a view of the train line though from the hotel - but we could only here cars when we opened the window for fresh air. Hotel was very basic, TV did have english news station, but that was about it. But still entertaining to watch what was on german TV after a night out.Street doesn't seem the safest at night but wasn't traveling alone. Found a great restaurant, Cafe Vienna I believe it was called, a few blocks northwest of the hotel.Only issue we had was the staff who had to check the mini bar while we were getting going (rather late, after being out the night before) in the early afternoon.Would stay here again if we were able to get such a good deal again.  
+<Date>Dec 16, 2006
+<Rating>4	5	3	3	3	3	3	4	
+<Aspects>
+2	140(deal):1	171(able):1	
+9	1(location):1	23(little):1	37(review):1	88(read):1	257(decent):2	668(fit):1	746(berlin):1	1117(inexpensive):1	2129(apprehensive):1	
+16	2(night):1	17(view):1	82(station):1	116(tv):2	119(window):1	121(car):1	152(english):1	164(air):1	182(train):1	188(line):1	197(fresh):1	245(watch):1	352(basic):1	1045(entertain):1	1382(german):1	1725(news):1	
+8	2(night):1	7(walk):1	29(minute):1	35(street):1	68(travel):1	137(safe):1	144(short):1	149(run):1	
+0	
+8	0(staff):1	2(night):1	27(bar):1	32(check):1	79(late):1	265(issue):1	364(afternoon):1	448(mini):1	
+7	10(restaurant):1	67(call):1	100(bloc):1	275(cafe):1	312(believe):1	5759(Northwest):1	11049(vienna):1	
+0	
+
+<Author>rodica
+<Content>Loved Room 433 Arrived at Schoenefeld at 2200 via Ryanair, and got the Airport Express train RE7 or RB14, which runs every half hour for only 2.10 euros. Big queues at ticket machines, but you can pay on the train. Arriving at Zoologischer Garten approaching midnight, so got a taxi for 6 euros to Hotel. In accordance with previous reviews, asked for room at the rear. Got room 108, which stunk like an ashtray, so we got an immediate swap to room 433. This was a massive room at the front and smelt brand new. However as the S Bahn was not running during the time we were there, noise was not a problem. Staff were all very helpful, but as I used airmiles to book holiday I couldn't comment on value. However, my wife and I had no complaints. As Buelowstrasse Station was closed, we used Kurfuerstenstrasse Station, which is a 5 minute walk away. Daily run around ticket (Tageskarte Zone AB) is only 5.80 euros and gives you a radius of about 15 miles travel on U Bahn, S Bahn, trams and buses. Be sure to validate your ticket in machine next to ticket dispenser before you get on the train. Many plain-clothes ticket inspectors, so don't be tempted to travel without ticket. I would grade the Hotel Aldea at 3 star +, certainly not usual 4 star, but handy for everything. Mick  Sue. Notts.  
+<Date>Dec 10, 2006
+<Rating>4	4	4	3	5	5	4	3	
+<Aspects>
+11	5(time):1	68(travel):1	94(noise):1	149(run):1	184(wife):1	190(complaint):1	621(ticket):2	3086(tempt):1	3406(bahn):1	6299(sue):1	9425(inspector):1	
+16	0(staff):1	14(helpful):1	18(book):1	42(pay):1	81(value):1	103(star):2	182(train):1	223(holiday):1	356(comment):1	493(machine):1	621(ticket):1	682(usual):1	755(handy):1	1463(queue):1	2827(grade):1	10763(airmile):1	
+23	31(front):1	37(review):1	40(love):1	53(arrive):1	60(hour):1	95(airport):1	149(run):1	182(train):1	231(smell):1	256(euro):1	283(half):1	373(previous):1	512(via):1	883(brand):1	1124(express):1	1329(massive):1	1761(immediate):1	1796(stink):1	2007(rear):1	4223(swap):1	4814(ashtray):1	7168(ryanair):1	9813(schoenefeld):1	
+26	7(walk):1	28(close):1	29(minute):1	53(arrive):1	68(travel):1	82(station):2	120(bus):1	149(run):1	182(train):1	185(taxi):1	256(euro):2	360(daily):1	493(machine):1	570(tram):1	621(ticket):3	692(mile):1	1044(midnight):1	1378(approach):1	2227(zone):1	3384(dispenser):1	3406(bahn):2	4443(radius):1	5275(validate):1	6251(ab):1	7669(garten):1	9942(zoologischer):1	
+0	
+0	
+0	
+0	
+
+<Author>SmithS&B
+<Content>Great Value We paid 拢100 for 3 nights in a twin room here so we were not expecting The Ritz. After reading reviews on here I was very pleasantly surprised. It cost 30 Euros in a taxi from Schonefeld airport. The check in staff were very helpful and friendly. The location is fine. Turn right out of the hotel and you have a 15 minute walk to Potsdamer Platz. Turn left and its 15 minutes to get to K'Damm. There is an underground station directly outside the hotel which was closed for building work when we were there. I would expect it to be noisy when it is open so try and request a room at the back.The rooms are fine. Very clean and tidy. Twin beds, sofa, chair, wardrobe  desk. The shower room is tiny but adequate. Towels could be doing with being replaced though as they were wearing a tad thin. The breakfast was lovely. Buffet style. Hot and cold food. Usual stuff. Never saw a hooker or a transvestite and we were wandering home quite late every night.I would stay here again. Berlin is a brilliant place. There is lots to see and do.  
+<Date>Nov 29, 2006
+<Rating>3	5	3	3	4	3	3	3	
+<Aspects>
+17	2(night):1	29(minute):1	37(review):1	38(lot):1	43(leave):1	79(late):1	88(read):1	141(home):1	199(surprise):1	480(stuff):1	682(usual):1	746(berlin):1	747(pleasantly):1	793(brilliant):1	1562(wander):1	3749(damm):1	4905(hooker):1	
+6	2(night):1	42(pay):1	62(expect):1	81(value):1	690(twin):1	825(ritz):1	
+14	11(bed):1	36(desk):1	61(shower):1	62(expect):1	76(try):1	113(fine):1	148(request):1	198(chair):1	217(noisy):1	338(tiny):1	390(adequate):1	690(twin):1	842(sofa):1	1451(wardrobe):1	
+17	1(location):1	7(walk):1	28(close):1	29(minute):1	82(station):1	95(airport):1	98(outside):1	113(fine):1	135(build):1	175(cost):1	185(taxi):1	256(euro):1	383(directly):1	1085(underground):1	2705(platz):1	3819(potsdamer):1	7001(schonefeld):1	
+2	3(clean):1	1100(tidy):1	
+4	0(staff):1	12(friendly):1	14(helpful):1	32(check):1	
+12	6(breakfast):1	16(food):1	77(buffet):1	87(lovely):1	114(hot):1	125(towel):1	222(cold):1	326(style):1	434(wear):1	754(thin):1	912(replace):1	2429(tad):1	
+0	
+
+<Author>Soldado
+<Content>A very good hotel We booked a room for 4 people, but was allowed to stay there with 5. We where five guys and needed to stay together. We had a single room but it almost contained two rooms (good for us) and lot of space. It was clean and the service from the staff was excellent. The hotel is located in Sch枚neberg area and it's in the heart of Berlin City. The only negative thing was that the bar closed so early that we had no chance to together with and learn to know the very good looking girls :o)I can recommend this hotel.  
+<Date>Sep 22, 2006
+<Rating>5	5	5	5	5	4	5	3	
+<Aspects>
+1	368(guy):1	
+0	
+7	18(book):1	26(people):1	38(lot):1	210(space):1	304(single):1	359(allow):1	1545(contain):1	
+13	15(recommend):1	20(look):1	27(bar):1	28(close):1	41(city):1	84(locate):1	282(negative):1	450(heart):1	625(girl):1	689(chance):1	703(learn):1	746(berlin):1	9898(sch):1	
+4	0(staff):1	3(clean):1	9(service):1	21(excellent):1	
+0	
+0	
+0	
+
+<Author>Lovejoy5
+<Content>Did very well for us I was a bit unsure about this place having read the reviews after we booked the hotel but I have to say I have no complaints at all. 18 of us stayed there for 2 nights over the bank holiday weekend on my stag do and it did a great job for us. Quick and efficiently checked in, rooms were clean and fine for what we needed - basically a clean bed and secure storage. Breakfast was a good start to the day and the location was also fine especially as we were willing to do some walking. Day one we walked to the Tiergarten in 20 mins or so and Day two we headed all the way to the Brandenburg Gate in under 45 mins. Overall is was exactly what we needed.  
+<Date>Aug 29, 2006
+<Rating>4	4	3	4	5	4	3	-1	
+<Aspects>
+2	70(overall):1	586(exactly):1	
+0	
+9	3(clean):2	11(bed):1	32(check):1	113(fine):1	299(quick):1	790(basically):1	1034(secure):1	1311(storage):1	2461(efficiently):1	
+18	1(location):1	2(night):1	6(breakfast):1	7(walk):2	8(day):3	113(fine):1	126(especially):1	165(start):1	172(weekend):1	223(holiday):1	247(min):2	319(head):1	481(job):1	992(gate):1	1225(bank):1	3550(brandenburg):1	4441(stag):1	5916(tiergarten):1	
+0	
+0	
+6	18(book):1	37(review):1	52(bit):1	88(read):1	190(complaint):1	3145(unsure):1	
+0	
+
+<Author>emilymary
+<Content>What we think We have recently had a 5 day stay at the Aldea. The Hotel sits by a very busy crossroads . To the front of the Hotel, the Underground station runs across the front of the building above ground (this is now closed until 1st December 2006). However, it is extremely noisy when operating. To one side of the building, during the late evening/night, the street is taken over by Hookers and Transvestites. There is much horn honking and derisive shouting throughout the night from clients and passing cars.The Hotel has double glazing which minimises the noise but no air con. While we were there it was so hot, we needed the windows open. A fan deadened the noise and enabled us to get some sleep.The Hotel itself is very clean although somewhat dated. Our room was a good size, immaculately clean and the bedding and towels white but a little threadbare. The shower room, small but adequate. Our bedding was not changed during our stay. The complimentary toiletries consist of a combined wash/shower/shampoo liquid above the sink and in the shower cubicle. There is no complimentary 'hospitality tray' - but we do not know if these tea/coffee facilities are usual in other German establishments.We had a plumbing leak which was promptly dealt with by a very polite and helpful staff member. Some staff have a rather short, sharp manner but maybe this is the 'german way' rather than 'impolite indifference'.The Hotel is a 15/20 minute walk to the Kurfurstendam. The nearest Underground station (Kurfurstenstrasse) about a 4/5 minute walk. There are local shops and cafes nearby. We do not agree that this is a 4 star Hotel but we paid such a bargain price, we feel we still had our moneysworth. We would however feel very differently had we paid the standard rate of 165 euros a night.  
+<Date>Aug 22, 2006
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	2(night):1	8(day):1	121(car):1	322(recently):1	400(pass):1	445(throughout):1	1952(client):1	2146(shout):1	3100(horn):1	4417(honk):1	
+10	2(night):1	19(price):1	34(feel):2	42(pay):2	78(rate):1	103(star):1	130(standard):1	256(euro):1	473(agree):1	759(bargain):1	
+30	3(clean):1	11(bed):2	23(little):1	61(shower):2	83(size):1	94(noise):2	104(sleep):1	114(hot):1	119(window):1	125(towel):1	161(change):1	164(air):1	179(double):1	345(complimentary):1	390(adequate):1	466(white):1	509(sink):1	657(toiletry):1	661(fan):1	811(wash):1	840(Con):1	1185(consist):1	2084(immaculately):1	2144(glaze):1	2316(combine):1	3617(cubicle):1	3727(enable):1	3838(liquid):1	3977(threadbare):1	6402(minimize):1	
+26	7(walk):2	28(close):1	29(minute):2	31(front):2	35(street):1	49(shop):1	79(late):1	82(station):2	102(near):1	110(extremely):1	135(build):2	149(run):1	169(sit):1	195(local):1	217(noisy):1	220(busy):1	232(nearby):1	275(cafe):1	706(grind):1	993(december):1	1003(evening):1	1085(underground):2	1623(operate):1	4905(hooker):1	10645(crossroads):1	11517(kurfurstendam):1	
+3	3(clean):1	511(date):1	651(somewhat):1	
+14	0(staff):2	14(helpful):1	140(deal):1	144(short):1	308(maybe):1	422(polite):1	1212(promptly):1	1287(leak):1	1382(german):1	1721(manner):1	2107(plumb):1	3469(sharp):1	6347(indifference):1	7465(impolite):1	
+8	211(facility):1	301(tea):1	345(complimentary):1	682(usual):1	1115(hospitality):1	1382(german):1	1473(establishment):1	1767(tray):1	
+0	
+
+<Author>Miiky
+<Content>Aldea, Oh dear you mean! Well! Where do you start? First this hotel is not 4 stars. (As we know it) The leaflet on the hotel looks great. Not sure they got the correct hotel. First sight is a grey un-interesting reception. Older staff there are miserable. Far too many anyway. Grey corridors lead to rooms. Room was big. No kettle etc. Did not have food which might have made a slight difference?Hookers in back street of hotel. Not a great area. Found it cheap on internet otherwise would not have gone there. Only stay if you can not find anything else. Not recommended at all.  
+<Date>Jul 23, 2006
+<Rating>2	2	3	2	3	1	1	-1	
+<Aspects>
+10	15(recommend):1	20(look):1	73(etc):1	170(else):1	246(mean):1	417(anyway):1	1263(correct):1	1944(kettle):1	3545(dear):1	6743(leaflet):1	
+5	97(internet):1	103(star):1	143(cheap):1	165(start):1	508(otherwise):1	
+6	16(food):1	819(difference):1	922(lead):1	1073(corridor):1	1297(slight):1	2335(grey):1	
+2	35(street):1	4905(hooker):1	
+0	
+5	0(staff):1	129(reception):1	411(sight):1	2332(miserable):1	2335(grey):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>OK I have awarded this hotel 3 points as that is how many stars it should be rated, my main comparison being the Millenium Hotel in Glasgow which is also rated 4 stars (probably deserving of more).There is no room service ie. the receptionist sounded a bit surprised when I phoned to request a menu to have a meal in the room. I ordered the room from hotelopia.com which stated they did have room service but I presume what they actually mean is someone tidies and makes the bed. The staff were friendly and nice and the breakfast was a nice buffet although the surroundings could be better, but you're only there for half an hour or so, so not that important to me really.This hotel is in an excellent location, the U-bahn is a 60 second walk and only a couple of stops from the Zoological Garten meaning you can get to Tegel airport within half an hour by U-bahn and bus. Berlin is one of the most vibrant, metropolitan and wonderful cities I have ever had the great fortune to visit and so if you are looking for a docking bay form which to leave and visit the sights this hotel is perfect. The rooms are clean, quiet and comfortable, easily affordable, yes the bathroom is small but pretty and more than good enough.In fairness you probably shouldnt expect the Radisson SAS for the price and, look, your in Berlin! Who cares!  
+<Date>May 22, 2006
+<Rating>3	5	5	-1	5	-1	3	-1	
+<Aspects>
+15	20(look):1	41(city):1	43(leave):1	48(wonderful):1	65(visit):2	74(perfect):1	242(care):1	411(sight):1	671(bay):1	746(berlin):1	1164(form):1	2338(dock):1	2490(fortune):1	3189(vibrant):1	4243(metropolitan):1	
+18	19(price):1	20(look):1	62(expect):1	78(rate):2	103(star):2	112(main):1	123(ok):1	178(probably):2	746(berlin):1	1072(deserve):1	1525(comparison):1	1958(radisson):1	2739(millennium):1	2945(award):1	4072(fairness):1	5974(sas):1	6328(shouldnt):1	12251(glasgow):1	
+14	3(clean):1	9(service):2	11(bed):1	13(bathroom):1	25(comfortable):1	58(quiet):1	109(pretty):1	180(actually):1	246(mean):1	250(yes):1	438(easily):1	1062(affordable):1	1100(tidy):1	5425(presume):1	
+13	1(location):1	7(walk):1	21(excellent):1	60(hour):1	95(airport):1	99(couple):1	120(bus):1	122(stop):1	246(mean):1	283(half):1	2164(u-bahn):2	4795(tegel):1	7669(garten):1	
+0	
+8	52(bit):1	148(request):1	199(surprise):1	213(meal):1	296(phone):1	409(sound):1	423(menu):1	855(receptionist):1	
+8	0(staff):1	4(nice):2	6(breakfast):1	12(friendly):1	60(hour):1	77(buffet):1	283(half):1	1551(surroundings):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Super spot For the money we got this hotel at we we're very happy.Did my research through this site - And well pleased we chose this hotel based on the recent reviews.Our deal excluded breakfast which was 12 euro a pop - we skipped that preferring a local coffee shop.Our group consisted of 5 Lads - mid 20's - early 30's.If your group is similar to that then def go for the AldeaThe hotel had modern clean rooms - tv - with a small modern shower room. - what more could we ask for!Can't comment on the public transport links as we had the car. Free Car parking on the street in front was a big bonus.  
+<Date>Mar 3, 2006
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+7	80(money):1	155(happy):1	317(spot):1	464(super):1	1185(consist):1	1313(mid):1	4809(lad):1	
+0	
+6	3(clean):1	61(shower):1	116(tv):1	151(modern):2	874(similar):1	2802(def):1	
+17	31(front):1	35(street):1	37(review):1	46(free):1	66(park):1	121(car):2	167(choose):1	173(please):1	192(site):1	284(base):1	356(comment):1	379(public):1	742(transport):1	849(bonus):1	1024(research):1	1064(recent):1	1727(link):1	
+0	
+0	
+10	6(breakfast):1	49(shop):1	90(coffee):1	140(deal):1	195(local):1	256(euro):1	536(prefer):1	1429(skip):1	1558(pop):1	4614(exclude):1	
+0	
+
+<Author>Wilson
+<Content>Good and bad Our five-day stay was thoroughly enjoyable. The room was spotless and extremely quiet (it overlooked the car park and being February there was very little traffic.) The bathroom was small and could prove a problem for a large person but again it was spotless.Situationwise it is ideal - just a couple of minutes from the U-bahn, a couple of stops to Zoo one way and Potsdamer Platz the other. The breakfast, if a little hectic, were comprehensive and varied.Durimg our five-day stay, the bar and restaurant were closed for three days - and possibly remained closed after our departure. Our meal in the restaurant on our first night was excellent, the service friendly and efficient and very good value at around 35 euros for two. Whether it deserves four-star rating can be argued; our feeling is perhaps not.  
+<Date>Mar 3, 2006
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+12	29(minute):1	50(bad):1	99(couple):2	122(stop):1	545(ideal):1	567(enjoyable):1	898(thoroughly):1	1511(zoo):1	2164(u-bahn):1	2705(platz):1	3819(potsdamer):1	12304(five-day):1	
+5	34(feel):1	78(rate):1	1072(deserve):1	1894(argue):1	4224(four-star):1	
+12	13(bathroom):1	23(little):1	58(quiet):1	66(park):1	110(extremely):1	121(car):1	193(person):1	260(overlook):1	486(traffic):1	548(spotless):2	1230(february):1	1554(prove):1	
+0	
+0	
+0	
+21	2(night):1	6(breakfast):1	8(day):1	9(service):1	10(restaurant):2	12(friendly):1	21(excellent):1	23(little):1	27(bar):1	28(close):2	81(value):1	213(meal):1	256(euro):1	401(efficient):1	1031(departure):1	1233(possibly):1	1391(remain):1	1578(varied):1	2732(hectic):1	4693(comprehensive):1	12304(five-day):1	
+0	
+
+<Author>SEAMUS.R
+<Content>Better than I expected I stayed at this hotel last weekend, and having read some of the reviews on this site was a little aprehensive. However my fears were unfounded and I was pleasantly surprised. I'm not sure what people expect, but having prepaid 鈧?85.00 for a double room for three nights including breakfast, I felt we got much more than our money's worth. O.K so maybe it wasn't a 4 star hotel but it's a very good 3 star. While I have little interest in staying in ultra luxurious hotel (almost always a rip off) I am quite fussy, particularly about hygiene and queitness and a comfortable bed. The place was spotless, the staff were friendly, great breakfast. Why are some of the contributors so hung up on the hallways? (painted various shades of grey) as someone has already said how much time do you spend in a hotel hallway? From a location point of view it's less than two minutes walk from the nearest metro station, less than five minutes walk from Nollendorflatz, which is hopping with gay nightlife. I'd stay there again and recommend it to anyone. One small thing. The metro runs above the street so if you are a light sleeper you might want to get a room at the back of a hotel as we did.  
+<Date>Feb 12, 2006
+<Rating>5	5	4	-1	5	-1	2	-1	
+<Aspects>
+14	5(time):1	15(recommend):1	64(spend):1	199(surprise):1	478(hang):1	580(hallway):2	747(pleasantly):1	795(shade):1	806(paint):1	823(various):1	2022(fear):1	2335(grey):1	5399(unfounded):1	8586(contributor):1	
+13	2(night):1	6(breakfast):1	26(people):1	34(feel):1	62(expect):1	71(include):1	80(money):1	96(worth):1	103(star):2	179(double):1	308(maybe):1	2540(o.k):1	2559(prepay):1	
+14	11(bed):1	23(little):1	25(comfortable):1	35(street):1	149(run):1	157(light):1	235(metro):1	553(particularly):1	708(luxurious):1	1182(rip):1	1299(sleeper):1	1867(fussy):1	2744(ultra):1	5025(hygiene):1	
+17	1(location):1	7(walk):2	17(view):1	23(little):1	29(minute):2	37(review):1	62(expect):1	82(station):1	88(read):1	102(near):1	172(weekend):1	192(site):1	235(metro):1	1151(hop):1	1305(nightlife):1	2552(gay):1	8646(aprehensive):1	
+0	
+4	0(staff):1	6(breakfast):1	12(friendly):1	548(spotless):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Right on the money Just back from a weekend in this hotel. As per previous reviewer, was a little apprehensive after reading reports of gloomy depressing hallways and unhelpful staff.The staff that we came across were all very helpful and courteous. The hallways were a little on the depressing side, but seriously, how much time do you spend in your hotel hallway?The rooms were spacious enough, everything was spotlessly clean, beds were comfortable. Proved to be a perfect base for our trip to Berlin - we spent two nights there. The U2 U-bahn line runs past the door - the nearest station is a couple of minutes' walk. The U2 line takes you to places like Potsdamer Platz, Alexanderplatz, the Zoo etc.Would be hard to beat this hotel for value-for-money. Highly recommended.  
+<Date>Jan 31, 2006
+<Rating>4	5	4	-1	5	-1	5	-1	
+<Aspects>
+16	2(night):1	5(time):1	15(recommend):1	23(little):1	33(trip):1	64(spend):2	74(perfect):1	80(money):1	138(highly):1	172(weekend):1	284(base):1	580(hallway):2	746(berlin):1	1441(seriously):1	1554(prove):1	2189(depress):1	
+10	73(etc):1	162(hard):1	188(line):1	442(beat):1	1511(zoo):1	2705(platz):1	3674(alexanderplatz):1	3819(potsdamer):1	9646(value-for-money):1	10247(u2):1	
+5	3(clean):1	11(bed):1	25(comfortable):1	111(spacious):1	1094(spotlessly):1	
+11	7(walk):1	29(minute):1	54(door):1	82(station):1	99(couple):1	102(near):1	149(run):1	188(line):1	419(past):1	2164(u-bahn):1	10247(u2):1	
+0	
+13	0(staff):2	14(helpful):1	23(little):1	88(read):1	373(previous):1	483(courteous):1	564(reviewer):1	580(hallway):1	838(report):1	1618(unhelpful):1	2129(apprehensive):1	2189(depress):1	4374(gloomy):1	
+0	
+0	
+
+<Author>ferkh10
+<Content>A perfect base! We stayed at this hotel for 3 nights over the New Year period. After reading some of the previous reviews we were very apprehensive about staying at this hotel, however it well exceeded our expectations. Okay it is a basic hotel but then we paid a basic price. The rooms are very clean, modern and comfortable. I would probably compare it to a Travellodge style hotel in the UK. The breakfast at the hotel was basic but adequate (what more do you want when you have a hangover!), and after reading a previous review about a lack of kettle in the room, took our own travel kettle.It is in a quiet, safe area and is literally just over the road from a U-Bahn station which is only 3 stops away from the main centre for the sights and transfers to other lines. There are numerous bars and restaurants 5 minutes walk away. If your purpose of visiting Berlin is for sightseeing and going out, and like us, all you want is a decently priced and comfortable base, then I would definitely recommend this hotel.  
+<Date>Jan 11, 2006
+<Rating>4	5	4	-1	5	-1	3	-1	
+<Aspects>
+8	2(night):1	74(perfect):1	178(probably):1	284(base):1	326(style):1	381(compare):1	1178(uk):1	1331(period):1	
+19	15(recommend):1	19(price):2	25(comfortable):1	37(review):1	42(pay):1	59(definitely):1	65(visit):1	88(read):1	284(base):1	352(basic):2	373(previous):1	431(expectation):1	453(okay):1	640(sight-see):1	746(berlin):1	1153(exceed):1	1428(purpose):1	2129(apprehensive):1	4175(decently):1	
+22	3(clean):1	25(comfortable):1	37(review):1	58(quiet):1	68(travel):1	82(station):1	88(read):1	101(center):1	112(main):1	122(stop):1	137(safe):1	151(modern):1	166(own):1	188(line):1	230(road):1	349(lack):1	373(previous):1	411(sight):1	665(literally):1	1021(transfer):1	1944(kettle):2	2164(u-bahn):1	
+0	
+0	
+0	
+9	6(breakfast):1	7(walk):1	10(restaurant):1	27(bar):1	29(minute):1	352(basic):1	390(adequate):1	971(numerous):1	7681(hangover):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Depressing place Good location next to tube station....depressing building and unfriendly and unhelpful reception staff...great size of room though and great shower, ours was a twin, we had booked a double but were told on arrival that the hotel only has twins!......we did not have breakfast/meals here.....really just a clean place to stay with nothing whatsovever going for it...just a building and a bed - twin! To be avoided as there's loads of nice places to stay.....  
+<Date>Nov 21, 2005
+<Rating>2	4	4	-1	-1	-1	1	-1	
+<Aspects>
+3	4(nice):1	436(avoid):1	886(load):1	
+0	
+20	0(staff):1	1(location):1	3(clean):1	6(breakfast):1	11(bed):1	18(book):1	61(shower):1	69(tell):1	82(station):1	83(size):1	129(reception):1	135(build):2	179(double):1	224(arrival):1	690(twin):3	843(ours):1	1310(tube):1	1487(unfriendly):1	1618(unhelpful):1	2189(depress):2	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Clean, but that's all Paid for 4 star but was very disappointed. This hotel is nothing more than a stop off point for people doing short tours of Berlin. The rooms were clean but very small and no tea/coffee making facilities, I have not known this before in a 4 star. Hotel advertised hot buffet breakfast which was sausage and scrambled egg, everyday. I don't know who gave this a 4 star rating but they do not go to the same 4 star hotels as I do. I would give it no more than a 2 star. Corridors were like a prison and the restaurant doubled up as a bar (when it was open!) Absolutely no atmosphere. I shall be complaining to the tour company as I feel I have been done! Ladies of the night prowled the streets along with some transvestites. Do not go if you are expecting a 4 star rating.  
+<Date>Sep 16, 2005
+<Rating>1	1	2	-1	3	-1	3	-1	
+<Aspects>
+5	26(people):1	122(stop):1	144(short):1	181(tour):1	746(berlin):1	
+8	3(clean):1	42(pay):1	62(expect):1	78(rate):2	103(star):5	154(disappoint):1	189(absolutely):1	414(atmosphere):1	
+0	
+7	2(night):1	3(clean):1	35(street):1	103(star):1	211(facility):1	301(tea):1	521(lady):1	
+0	
+0	
+13	6(breakfast):1	10(restaurant):1	27(bar):1	77(buffet):1	114(hot):1	179(double):1	412(egg):1	605(everyday):1	910(advertise):1	1073(corridor):1	1385(sausage):1	1674(scramble):1	3865(prison):1	
+4	34(feel):1	181(tour):1	241(complain):1	760(company):1	
+
+<Author>A TripAdvisor Member
+<Content>You get what you pay for You could do worse with this hotel, but you could also do better...much better. I took this hotel for the low price and I definitely got what I paid for.The good:It's in an OK location (but definitely not a great location). It's right by the subway (U2 stop Bulowstr.). The area is very residential, but it's not too far to get to the tourist sites in East or West Berlin (I think it's in West Berlin, but relatively close to East). The area seems safe - just not much there.It's clean.The bad:NO air conditioning.NO INTERNET - only analog modem (phone), which costs 20 cents a minute!NO toll-free numbers can be called from the hotel so it doesn't matter if you have a calling card or not - calls are ridiculously expensive.NO SHAMPOO GIVEN! They just give you some liquid soap and that's it.Old elevator - you need to open the door yourself and there isn't even a light to tell you if it's there or not.Everything in the room and hallways is cheap and ugly, including the safe, which is battery powered and hard to work.That about sums it up. In a nutshell, you get what you pay for!  
+<Date>Sep 1, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	122(stop):1	137(safe):1	370(subway):1	1651(sum):1	10247(u2):1	
+26	19(price):1	29(minute):1	42(pay):3	50(bad):1	59(definitely):1	67(call):3	71(include):1	97(internet):1	124(expensive):1	137(safe):1	143(cheap):1	162(hard):1	175(cost):1	292(card):1	296(phone):1	513(low):1	531(matter):1	580(hallway):1	1276(power):1	1872(ugly):1	1888(cent):1	2475(battery):1	2591(ridiculously):1	5088(nutshell):1	7055(modem):1	10488(toll-free):1	
+6	50(bad):1	164(air):1	263(condition):1	965(soap):1	1051(shampoo):1	3838(liquid):1	
+11	1(location):2	28(close):1	59(definitely):1	123(ok):1	192(site):1	209(tourist):1	746(berlin):2	913(relatively):1	948(east):2	953(west):2	1537(residential):1	
+1	3(clean):1	
+0	
+5	54(door):1	69(tell):1	157(light):1	216(elevator):1	576(yourself):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Depressing The hotel is clean enough and the breakfast OK but the rest of the building is like a prison with the corridors being a very depressing grey colour. Was in Berlin for Pride so the location was good for that. Not sure I'd go back there.  
+<Date>Jul 7, 2005
+<Rating>2	3	3	-1	3	-1	3	-1	
+<Aspects>
+0	
+0	
+0	
+3	1(location):1	746(berlin):1	2843(pride):1	
+10	3(clean):1	6(breakfast):1	123(ok):1	135(build):1	288(rest):1	942(color):1	1073(corridor):1	2189(depress):2	2335(grey):1	3865(prison):1	
+0	
+0	
+0	
+
+<Author>GlobeRoamer
+<Content>Basic yet pristine - Good if you get it cheaply I would only recommend this hotel if you get a very good internet rate - shop around. Yet if you do get a good rate it can be worth it. I have stayed at this hotel on two or three occassions - twice over easter (2002 and 2001). On each occassion I booked very much last minute and chose the hotel for its location and especially the rate I got. The hotel feels a bit institutional - rooms are cheerful compact with modern furniture, bathrooms tiny but all is well maintained and clean. It is true that the corridors are dark and lifeless! It i located very close to an easily acessed subway station. The staff were friendly.  
+<Date>Jun 30, 2005
+<Rating>3	4	4	-1	4	-1	3	-1	
+<Aspects>
+8	78(rate):1	96(worth):1	347(twice):1	459(dark):1	1073(corridor):1	2075(easter):1	4048(occassions):1	10421(lifeless):1	
+7	15(recommend):1	49(shop):1	78(rate):1	97(internet):1	352(basic):1	2981(pristine):1	4353(cheaply):1	
+11	3(clean):1	13(bathroom):1	34(feel):1	52(bit):1	151(modern):1	338(tiny):1	440(furniture):1	562(maintain):1	1720(cheerful):1	2021(compact):1	7882(institutional):1	
+13	1(location):1	18(book):1	28(close):1	29(minute):1	78(rate):1	82(station):1	84(locate):1	126(especially):1	167(choose):1	370(subway):1	438(easily):1	4992(occassion):1	6673(acess):1	
+0	
+2	0(staff):1	12(friendly):1	
+0	
+0	
+
+<Author>MartinThomas
+<Content>Great value hotel Stayed at the Aldea over Easter from 26 to 29 March 2005. The hotel is 2 minute walk from two U-Bahn stations, and very close to all the tourist sites. The area is a little rough, and there are a few prostitutes in the area, but this is minimal. The hotel staff were all very friendly, the rooms clean and modern, and the buffet breakfast plentiful. For 拢61 for a twin room with breakfast you cannot complain! For any gay tourists there are lots of bars within a 5 minute walk of the hotel.  
+<Date>Mar 29, 2005
+<Rating>5	5	4	-1	4	-1	4	-1	
+<Aspects>
+4	23(little):1	1047(rough):1	1615(minimal):1	3230(prostitute):1	
+3	81(value):1	615(march):1	2075(easter):1	
+3	6(breakfast):1	241(complain):1	690(twin):1	
+10	7(walk):2	27(bar):1	28(close):1	29(minute):2	38(lot):1	82(station):1	192(site):1	209(tourist):2	2164(u-bahn):1	2552(gay):1	
+0	
+0	
+7	0(staff):1	3(clean):1	6(breakfast):1	12(friendly):1	77(buffet):1	151(modern):1	1039(plentiful):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>It was OK My wife and I visited the hotel in late December as part of a 15 day tour around Europe. While rated as a 4 star on some websites, I would say that it is a 2 star hotel (maybe 3 stars tops).The hotel was in a district that seemed to only have Turkish restaurants so my advice is if you don't like Turkish cuisine, have a meal in the city centre before returning to the hotel. As mentioned on other reviews, the hotel is not centrally located being out of town but there is a metro/u-bahn stop just down the road.The hotel itself was simple, lifts worked well. We took a room on the 2nd floor and the size was OK. Beware the pay tv channel scam which we came across almost all of the European hotels we stayed at as part of the tour. Just be careful to not watch the pay tv channels otherwise you'll get charged... it's usually the first thing you see on the screen when you switch on the telly. Beds were decent and our room was also fitted with a small lounge suite. Our hotel room faced the u-bahn line and unfortunately it was terribly unbearable when the train roared by... too noisy! The bathroom was OK, no real draining problems unlike some of the hotels we have encountered.To summarise, we would not stay there again primarily due to the location. We would like to be closer to the city centre but apart from that, it's reasonable for a hotel.  
+<Date>Jan 17, 2005
+<Rating>3	3	2	-1	3	-1	1	-1	
+<Aspects>
+10	8(day):1	65(visit):1	79(late):1	123(ok):1	181(tour):1	184(wife):1	591(lift):1	613(simple):1	700(europe):1	993(december):1	
+5	78(rate):1	103(star):3	118(top):1	262(website):1	308(maybe):1	
+37	11(bed):1	13(bathroom):1	24(floor):1	42(pay):2	83(size):1	108(suite):1	116(tv):2	123(ok):2	136(charge):1	181(tour):1	182(train):1	188(line):1	217(noisy):1	237(lounge):1	240(real):1	245(watch):1	257(decent):1	399(usually):1	508(otherwise):1	524(unfortunately):1	526(screen):1	582(european):1	668(fit):1	693(encounter):1	737(beware):1	741(channel):2	888(switch):1	897(careful):1	1163(unlike):1	1326(2nd):1	1489(drain):1	1910(terribly):1	2164(u-bahn):1	2785(unbearable):1	3032(scam):1	5135(roar):1	6534(telly):1	
+17	1(location):1	28(close):1	37(review):1	41(city):1	84(locate):1	101(center):1	122(stop):1	230(road):1	235(metro):1	239(town):1	244(mention):1	259(due):1	273(reasonable):1	857(apart):1	879(centrally):1	2519(primarily):1	4976(summarize):1	
+0	
+0	
+9	10(restaurant):1	39(return):1	41(city):1	101(center):1	213(meal):1	433(district):1	575(advice):1	1717(cuisine):1	6322(turkish):2	
+0	
+
+<Author>AthensTraveler
+<Content>a great hotel I stayed with my boyfriend in Aldea Hotel for 3 nights. We would have stayed there for 4 nights but the night we arrived the receptionist informed us that there was a problem with our room and he had arranged that we would spend the first night at another hotel. which was also a very nice hotel. The second day we went back at the hotel, where everything was ok and a great basket with fruits and chocolates was expecting us in our room with a regreting letter from the hotel manager. The personnel was very polite and helpful. The room was ample, clean and very warm. The breakfast was also great. It included eggs, sausages, bread, a great variety of cheese and ham, and fruits. Also the hotel was very close to an U-bahn station and we did not have a transportation problem. I am thinking of visiting Berlin in summer and I would definetely stay to this hotel again.  
+<Date>Jan 2, 2005
+<Rating>4	4	4	-1	4	-1	3	-1	
+<Aspects>
+10	2(night):1	4(nice):1	14(helpful):1	65(visit):1	422(polite):1	746(berlin):1	763(boyfriend):1	853(summer):1	1457(personnel):1	2820(definetely):1	
+0	
+11	3(clean):1	8(day):1	62(expect):1	123(ok):1	215(fruit):1	236(warm):1	258(manager):1	632(chocolate):1	1341(ample):1	1865(basket):1	1972(letter):1	
+4	28(close):1	82(station):1	728(transportation):1	2164(u-bahn):1	
+0	
+6	2(night):3	53(arrive):1	64(spend):1	680(arrange):1	817(inform):1	855(receptionist):1	
+9	6(breakfast):1	71(include):1	215(fruit):1	412(egg):1	413(variety):1	441(cheese):1	497(bread):1	1385(sausage):1	1561(ham):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Grey  We have just returned from a 4 night stay in this hotel and wouldn't stay there again. The hotel is grey and lacking in soul. Whilst the hotel was clean, close to an underground station and the breakfasts were good presumably there are alot of other hotels that have these characteristics and have a bit of colour about them . The best thing about this hotel was the little Italian Restaurant 100m down from the hotel. As another reviewer commented there were also prostitutes in the area. If you do stay here make sure you block the pay for view TV as soon as you check in. They have this crazy system were if you watch a pay for view channel for more than 2 mins you are charged over 9 euro. Don't think you will be warned that you are about to be charged or that you are on a Pay TV channel. We were charged and hadn't watched anything other than the usual flicking through channels and felt ripped off.  
+<Date>Jan 2, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	2(night):1	39(return):1	349(lack):1	356(comment):1	564(reviewer):1	2335(grey):2	3230(prostitute):1	3798(soul):1	
+13	17(view):2	32(check):1	42(pay):2	100(bloc):1	116(tv):1	136(charge):1	245(watch):1	247(min):1	256(euro):1	418(soon):1	518(system):1	741(channel):1	1259(crazy):1	
+10	34(feel):1	42(pay):1	116(tv):1	136(charge):2	245(watch):1	679(warn):1	682(usual):1	741(channel):2	1182(rip):1	9166(flick):1	
+11	3(clean):1	6(breakfast):1	28(close):1	52(bit):1	82(station):1	647(alot):1	877(whilst):1	942(color):1	1085(underground):1	4424(presumably):1	7425(characteristic):1	
+0	
+0	
+3	10(restaurant):1	23(little):1	358(italian):1	
+0	
+
+<Author>MARCBARCELONA
+<Content>Hotel Correcto       Camas  
+<Date>Mar 27, 2008
+<Rating>3	3	4	3	4	4	3	3	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

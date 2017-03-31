@@ -1,0 +1,714 @@
+<Author>KievDana
+<Content>Fairy place in pieceful part of city It was one of the best hotels, which I have seen. Huge wardrobe, great oldstylish disayn, nice decor and view to the river. Servis is exellent. Very tasty breakfest in room, amaizing bathroom. Only one problem - all rooms are non-smoking. Can reccomend for sweet weekend :-)  
+<Date>Nov 14, 2008
+<Rating>5	4	5	4	5	5	5	5	
+<Aspects>
+4	172(weekend):1	950(sweet):1	1513(reccomend):1	4630(exellent):1	
+0	
+12	4(nice):1	13(bathroom):1	17(view):1	41(city):1	133(huge):1	269(decor):1	710(river):1	978(nonsmoking):1	984(tasty):1	1451(wardrobe):1	5396(breakfest):1	8783(fairy):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>JDAMWFB
+<Content>Wonderful Hotel This is a world class hotel with amazing service. Perfect for the business traveler or a couple getting away for a few days. From the Michelin restaurant to the rooms all with sunflower shower heads - it's all the best. The staff are highly trained and provide impeccable service. (The only exception was the staff in the atrium where ordering a cocktail became a bit of a slow motion ordeal). There's a fine little gym but great running maps if you want a better work out.The rooms are wonderfully appointed with the best ones overlooking the canal away from the street. Lower numbers are more quiet. If you want to stay at a first class luxury hotel in Amsterdam, you won't go wrong if you stay here.  
+<Date>Oct 15, 2008
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+5	361(amsterdam):1	427(wrong):1	437(luxury):1	470(class):1	487(wo):1	
+0	
+11	10(restaurant):1	35(street):1	58(quiet):1	61(shower):1	260(overlook):1	319(head):1	579(appoint):1	638(canal):1	777(lour):1	1686(wonderfully):1	5530(michelin):1	
+11	0(staff):1	8(day):1	9(service):1	74(perfect):1	99(couple):1	138(highly):1	147(business):1	153(provide):1	182(train):1	267(traveler):1	1542(impeccable):1	
+0	
+8	0(staff):1	52(bit):1	455(slow):1	716(cocktail):1	1128(exception):1	1968(atrium):1	4186(motion):1	5151(ordeal):1	
+10	9(service):1	23(little):1	48(wonderful):1	113(fine):1	145(amaze):1	149(run):1	272(world):1	470(class):1	523(gym):1	724(map):1	
+0	
+
+<Author>gulliverBaltimore
+<Content>Outstanding hotel, beautiful but inconvenient location The Amstel is a beautiful hotel of great quality. Rooms and public areas are impressive and the staff is really great, especially the concierge. The location is beautiful however a little bit inconvenient if you want to see Amsterdam.  
+<Date>Sep 27, 2008
+<Rating>4	5	5	4	5	5	5	-1	
+<Aspects>
+0	
+6	1(location):1	45(beautiful):2	187(quality):1	534(outstanding):1	2301(inconvenient):1	4740(amstel):1	
+0	
+6	1(location):1	23(little):1	45(beautiful):1	52(bit):1	361(amsterdam):1	2301(inconvenient):1	
+0	
+5	0(staff):1	126(especially):1	204(concierge):1	379(public):1	920(impressive):1	
+0	
+0	
+
+<Author>topsmed
+<Content>Very good but a few problems One of the most pleasant features of this hotel is that there are few rooms compared with the amount of public space, so that the hotel mostly feels quiet and peaceful. The comprehensive national smoking ban in effect since 1 July 2008 has taken care of what used to be a huge discomfort for the non smoking guests. The rooms are spacious, decorated in a classic style (mix of French and Dutch) and very comfortable (example: complimentary loose-leaf teas and infusions + Illy coffee machine). The river view is unique. I did notice, like another recent reviewer, that there were many stains on the carpeting in the bedroom. The bathrooms are superb. The standards of housekeeping and the attention to detail are first rate and at the level of the top European palace hotels.The food in the Lounge and Brasserie has improved recently and the terrace on the river has been restyled.The spa area is not large but the fitness (new equipment), pool and sauna are very elegant and relaxing.The service in the Lounge, Brasserie and at La Rive for breakfast has become poor. Waiting time for dishes is far too long.Breakfast, rarely a strong point in Dutch hotels, has declined sharply (and is now poor value for money at 25 - 40 euro): no more delicious home-made jams, poorer quality breads, average pastries, more limited buffet selection, etc. This is particularly surprising, given the quality of Edwin Cats' cuisine at La Rive. The staff at breakfast was slow and confused, and I overheard several guests complain.The Amstel is still one of Europe's very good city hotels, but it should urgently sort out the service problems in the restaurants and it should serve a world-class breakfast.  
+<Date>Aug 20, 2008
+<Rating>4	3	5	4	5	4	3	4	
+<Aspects>
+10	17(view):1	22(pool):1	160(relax):1	314(spa):1	710(river):1	983(fitness):1	986(elegant):1	1027(unique):1	1211(equipment):1	1422(sauna):1	
+8	187(quality):1	199(surprise):1	225(la):1	553(particularly):1	1717(cuisine):1	2177(cat):1	9806(edwin):1	11856(rive):1	
+39	13(bathroom):1	25(comfortable):1	34(feel):1	58(quiet):1	78(rate):1	90(coffee):1	111(spacious):1	118(top):1	130(standard):1	150(pleasant):1	210(space):1	254(french):1	268(bedroom):1	301(tea):1	305(decorate):1	306(level):1	326(style):1	345(complimentary):1	354(notice):1	367(housekeeping):1	379(public):1	381(compare):1	396(carpet):1	407(superb):1	493(machine):1	564(reviewer):1	582(european):1	592(detail):1	609(mix):1	642(palace):1	666(amount):1	723(stain):1	726(attention):1	731(feature):1	954(example):1	1036(peaceful):1	1064(recent):1	1789(classic):1	2066(dutch):1	
+0	
+9	91(guest):1	133(huge):1	242(care):1	468(smoke):2	2191(effect):1	2340(national):1	4693(comprehensive):1	5766(discomfort):1	6857(ban):1	
+10	0(staff):1	5(time):1	6(breakfast):1	85(wait):1	91(guest):1	241(complain):1	455(slow):1	816(dish):1	1419(confuse):1	3323(overhear):1	
+38	6(breakfast):3	9(service):2	10(restaurant):1	16(food):1	41(city):1	73(etc):1	77(buffet):1	80(money):1	81(value):1	174(serve):1	187(quality):1	225(la):1	227(average):1	237(lounge):2	256(euro):1	322(recently):1	331(poor):3	333(selection):1	485(delicious):1	497(bread):1	510(limit):1	557(sort):1	652(pastry):1	673(terrace):1	700(europe):1	710(river):1	893(strong):1	1217(improve):1	1614(jam):1	1791(rarely):1	2066(dutch):1	2394(decline):1	4740(amstel):1	4938(brasserie):2	6979(world-class):1	10221(urgently):1	11856(rive):1	12557(home-made):1	
+0	
+
+<Author>xyd
+<Content>Great hotel with problems       Amstel Hotel Room 415: lots of stains on the floor  
+<Date>Aug 4, 2008
+<Rating>4	2	2	4	2	4	4	3	
+<Aspects>
+0	
+0	
+4	24(floor):1	38(lot):1	723(stain):1	4740(amstel):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Bbi
+<Content>Beautiful hotel but bad location for seeing amsterdam The hotel is sensational (huge rooms, great service, great view) but in a terrible location if you're there to sightsee or otherwise enjoy the canal zone. Also no alternatives to the amazingly overpriced Intercontinental breakfast - more on that later. It's just too far away - can't walk, and you have to take two trams get back to the hotel from the center. When we tried to take the trams back to the hotel the second tram didn't come and we ended up walking a long wy. The hotel will call a taxi, but we had to wait 5-10 minutes for one to come. We moved to a more central hotel and enjoyed being able to drop in to the hotel when we needed a break, or to run out to shop or grab a bite to eat. About breakfast - we have stayed in several Intercontinental hotels in Europe and have been appalled by the outrageous high prices at breakfast. (Think 25-35 euros) Previously, the hotels have been near other breakfast places so it was no big deal. Once, in Rome, we got breakfast included as a promotion. The problem with this Intercontinental is that you have to walk a long way - at least a mile and a half to find a breakfast place. It's just too much of a hassle to stay here. We moved, to a small canal zone hotel, and by the way the price per night went from 500 Euros to 210, and although our rooms were smaller we were very happy there.  
+<Date>Jul 25, 2008
+<Rating>4	2	5	1	4	4	5	2	
+<Aspects>
+1	1193(hassle):1	
+16	2(night):1	6(breakfast):3	19(price):2	79(late):1	155(happy):1	207(move):1	256(euro):1	638(canal):1	700(europe):1	727(overprice):1	1298(alternative):1	1606(intercontinental):2	1846(amazingly):1	2227(zone):1	2277(outrageous):1	2752(appal):1	
+0	
+36	1(location):2	6(breakfast):1	7(walk):3	9(service):1	17(view):1	29(minute):1	45(beautiful):1	47(eat):1	49(shop):1	50(bad):1	51(enjoy):2	67(call):1	85(wait):1	101(center):1	133(huge):1	149(run):1	168(central):1	171(able):1	185(taxi):1	207(move):1	228(break):1	253(tried):1	283(half):1	361(amsterdam):1	432(terrible):1	508(otherwise):1	570(tram):3	638(canal):1	640(sight-see):1	662(drop):1	692(mile):1	1042(bite):1	1139(grab):1	1606(intercontinental):1	2227(zone):1	4641(sensational):1	
+0	
+0	
+8	6(breakfast):2	71(include):1	102(near):1	140(deal):1	256(euro):1	1122(previously):1	2185(rome):1	4088(promotion):1	
+0	
+
+<Author>celbel
+<Content>excellent hotel. concierge fantastic Fantastic hotel. All the concierge are very helpful. Hotel is classy and expensive but worth it. I stayed 2 times in one month at this hotel and loved it more and more.The view from my room was breathtaking.Room service was great.  
+<Date>Jun 6, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+4	5(time):1	21(excellent):1	40(love):1	388(month):1	
+3	96(worth):1	124(expensive):1	1488(classy):1	
+3	9(service):1	17(view):1	1444(breathtaking):1	
+0	
+0	
+3	14(helpful):1	86(fantastic):2	204(concierge):2	
+0	
+0	
+
+<Author>janices7
+<Content>Great Upscale Choice in Amsterdam Overall a very nice hotel. The room was fairly large by European city standards, and everything in the room was of the highest quality. Although, I must say that this hotel was actually a little 鈥渢oo fancy鈥?for our tastes. Among the amenities offered was a 鈥減illow menu鈥?with about 6 different options to chose from, overnight shoe polishing service, and nightly turn down that included some kind of linen mat to place on the floor next to the bed. There is a lobby bar, bistro, and world renowned restaurant on site, but we did not eat at any of them as we were usually out and about for lunch. As for dinner, I still haven鈥檛 developed a taste for calf鈥檚 tongue in goose fat so we ate elsewhere.We had some issues regarding the internet not working on one day, and another problem trying to buy pay per view movies on the television. In both instances, they sent the hotel manager to our suite within 5 minutes to try and resolve the problem. I don鈥檛 think I鈥檝e ever met a hotel manager before, and I met two just at this hotel. They were very proactive in trying to solve the problem or coming up with a suitable alternative.There have been some comments about the location of the hotel being a little bit isolated in some of the other reviews. On our first day there, we felt the same way. However, after talking to the concierge and seeing how easy it was to use the trams, we found the location to actually be very good. It was close enough to visit all the areas you want to see, but far enough away from the madness that it was quiet (you can actually get a good night of sleep). You can catch a tram directly to the museum area or downtown with about a 2 minute walk, followed by a 5 minute tram ride. You can also walk to either area in 20-30 minutes, and get a chance to see the city in the process. There are at least 50 restaurants within a 15 minute walk, but ask the concierge so you know which way to go.This hotel seemed to cater mostly to business clientele, obviously ones with large expense accounts (we were staying for free on points). We stayed for 6 days and aren鈥檛 sure we saw any other tourist / leisure travelers the whole time. The recommendations of the concierge seemed to reflect this as well, since they were most familiar with only the best restaurants (most expensive) in the city.On a side note, the hotel is handicap accessible, but it requires a special lift for the stairs in front, which means you have to wait for them to get the ramps setup and it takes a couple of extra minutes.  
+<Date>May 23, 2008
+<Rating>5	5	5	4	5	5	5	3	
+<Aspects>
+12	5(time):1	8(day):2	23(little):1	34(feel):1	180(actually):1	209(tourist):1	267(traveler):1	439(taste):1	796(fancy):1	2032(leisure):1	4666(aren):1	10255(oo):1	
+22	4(nice):1	8(day):1	10(restaurant):1	17(view):1	41(city):1	42(pay):1	70(overall):1	76(try):1	97(internet):1	107(choice):1	124(expensive):1	204(concierge):1	265(issue):1	280(buy):1	361(amsterdam):1	577(recommendation):1	930(regard):1	989(movie):1	1158(television):1	1237(upscale):1	2081(familiar):1	2250(reflect):1	
+38	2(night):1	9(service):1	11(bed):1	24(floor):1	28(close):1	29(minute):1	41(city):1	58(quiet):1	65(visit):1	71(include):1	76(try):2	89(offer):1	104(sleep):1	108(suite):1	130(standard):1	167(choose):1	180(actually):1	187(quality):1	258(manager):1	291(amenity):1	336(option):1	423(menu):1	447(send):1	462(fairly):1	582(european):1	630(linen):1	1033(nightly):1	1171(overnight):1	1191(shoe):1	1298(alternative):1	1715(resolve):1	1967(suitable):1	2094(solve):1	2516(instance):1	2582(mat):1	2699(polish):1	4455(madness):1	7854(proactive):1	
+30	1(location):2	7(walk):3	10(restaurant):1	23(little):1	29(minute):4	37(review):1	41(city):1	46(free):1	52(bit):1	93(easy):1	147(business):1	180(actually):1	204(concierge):2	218(ride):1	334(downtown):1	356(comment):1	371(talk):1	383(directly):1	482(follow):1	507(museum):1	540(catch):1	570(tram):3	689(chance):1	781(obviously):1	1000(cater):1	1222(process):1	1730(account):1	2058(expense):1	2468(isolate):1	2776(clientele):1	
+0	
+18	29(minute):1	31(front):1	85(wait):1	99(couple):1	128(extra):1	196(meet):2	208(special):1	246(mean):1	258(manager):1	297(note):1	568(stair):1	591(lift):1	722(require):1	908(don):1	1342(accessible):1	3007(handicap):1	3363(setup):1	3852(ramp):1	
+19	10(restaurant):1	27(bar):1	47(eat):2	55(lobby):1	117(dinner):1	192(site):1	252(lunch):1	272(world):1	399(usually):1	439(taste):1	646(elsewhere):1	2412(haven):1	2585(bistro):1	2880(develop):1	3581(fat):1	4576(goose):1	6366(renowned):1	7338(tongue):1	11800(calf):1	
+0	
+
+<Author>voyageur69
+<Content>Beautiful Compliment to a fun city I check out of the Hotel Pulitzer and into the Amstel. And now I could breathe! A beautiful and clean hotel. The location is average. It is a taxi ride, a metro ride, or a 20 minute walk to anything nearby. But the rooms are spacious and large. The service from the staff was well above average. The concierge was helpful and knowledgeable and the front desk staff was one of the best I have every encountered.The only negative was the first night I ordered room service it took over 1 hour to arrive. However, the people were apologetic and explained they had a big party they were servicing that night. The breakfast is a bit weak also.Overall, this must be one of the best in Amsterdam. For the same price as the Hotel Pulitzer, the values do not compare!  
+<Date>May 18, 2008
+<Rating>5	4	5	3	5	5	4	3	
+<Aspects>
+3	70(overall):1	361(amsterdam):1	3873(breathe):1	
+4	19(price):1	81(value):1	381(compare):1	3557(pulitzer):1	
+6	2(night):1	9(service):1	53(arrive):1	60(hour):1	111(spacious):1	282(negative):1	
+8	1(location):1	7(walk):1	29(minute):1	185(taxi):1	218(ride):2	227(average):1	232(nearby):1	235(metro):1	
+2	3(clean):1	45(beautiful):1	
+16	0(staff):2	9(service):1	14(helpful):1	31(front):1	32(check):1	36(desk):1	41(city):1	45(beautiful):1	176(fun):1	204(concierge):1	227(average):1	693(encounter):1	1160(knowledgeable):1	2571(compliment):1	3557(pulitzer):1	4740(amstel):1	
+9	2(night):1	6(breakfast):1	9(service):1	26(people):1	52(bit):1	363(party):1	768(explain):1	1770(weak):1	2483(apologetic):1	
+0	
+
+<Author>blacklab
+<Content>Just fabulous! Simply the best! Whenever I have to spend time in Amsterdam, I stay at this fabulous hotel. Granted, it is not cheap but you get your money's worth, be it for the friendliness of the staff, the beauty of the dining rooms right next to the river or the sumptuous bedrooms. The only small complaint concerns the choice of programs on the TV - I find it very poor, especially for businessmen (neither CNBC nor Bloomberg). But this is a minor matter compared to all that is right at this hotel - one of my favourites in the whole world.  
+<Date>Apr 11, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	5(time):1	64(spend):1	270(fabulous):2	272(world):1	361(amsterdam):1	376(favourite):1	381(compare):1	488(simply):1	531(matter):1	720(minor):1	1181(whenever):1	
+0	
+11	0(staff):1	80(money):1	96(worth):1	143(cheap):1	268(bedroom):1	316(dine):1	710(river):1	1595(beauty):1	1690(grant):1	1754(friendliness):1	4321(sumptuous):1	
+10	107(choice):1	116(tv):1	126(especially):1	190(complaint):1	331(poor):1	496(concern):1	970(nor):1	1275(neither):1	1531(program):1	4995(businessman):1	
+0	
+0	
+0	
+0	
+
+<Author>Stuietoo
+<Content>Amazing Amstel Visitors often have an advantage over the local residents, for they get to try some of the best hotels in any given area; locals tend not to stay in local hotels for obvious reasons; we live here.But last weekend my partner and I decided to stay at Amsterdam鈥檚 Grande Dame Hotel 鈥?the Amstel Hotel 鈥?in which we have eaten and drunk many times over the years, for it is close to our Amsterdam apartment. Staying as a guest was just amazing; very sumptuous, great service 鈥?almost regal but never stuffy! Luggage was whisked straight from our car to the room 鈥?and we had a beautiful view of the River Amstel below 鈥?while we supped champagne cocktails in the bar. Check in was very civilized and the receptionist accompanied us to our room, and explained the usual workings.The room was excellent; good strong Wi-Fi, the most sumptuous towels ever seen; wonderful rain shower we did not want to get out of; impressive lighting and a wonderful view. Also very quiet.We ate in the hotel鈥檚 1 Michelin star Restaurant La Rive, and it was delightful; the sommelier is excellent in our view and not only knows his wines, but he enthuses over them. His recommendations were spot on! The food was delicious, and it was good to see that the fish course came in small and large portions, so you could easily have a fish course (which we did!); only the souffl茅 disappointed a little as it was more mousse than souffl茅 we thought.Breakfast is choice of a buffet or full English 鈥?though after dinner the previous night, we were hard pushed to eat very much. Complimentary newspapers were also available.Check-out was a very civilized 12.00 noon; plenty time to chill and pack to leave.The Amstel Hotel is well situated; trams are close by and the taxis arrive promptly, and the hotel just oozes ambiance and luxury. This was unlikely to be our last visit to our local favourite hotel!!  
+<Date>Mar 30, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+19	23(little):1	65(visit):1	76(try):1	145(amaze):1	154(disappoint):1	195(local):4	206(live):1	317(spot):1	374(reason):1	376(favourite):1	577(recommendation):1	867(advantage):1	951(visitor):1	1053(tend):1	1698(obvious):1	1988(resident):1	4740(amstel):1	4822(unlikely):1	8898(mousse):1	
+0	
+24	5(time):1	17(view):1	21(excellent):1	28(close):1	47(eat):1	48(wonderful):2	58(quiet):1	61(shower):1	63(drink):1	125(towel):1	157(light):1	172(weekend):1	219(decide):1	361(amsterdam):2	581(rain):1	751(apartment):1	893(strong):1	920(impressive):1	1006(partner):1	1827(wi-fi):1	2061(dame):1	3975(grande):1	4321(sumptuous):1	4740(amstel):1	
+16	16(food):1	28(close):1	53(arrive):1	185(taxi):1	293(course):2	437(luxury):1	438(easily):1	485(delicious):1	570(tram):1	574(situate):1	653(fish):2	957(ambience):1	1212(promptly):1	1450(portion):1	4740(amstel):1	5797(ooze):1	
+0	
+14	5(time):1	32(check):1	43(leave):1	158(plenty):1	345(complimentary):1	682(usual):1	715(pack):1	768(explain):1	855(receptionist):1	1309(noon):1	1372(newspaper):1	1397(chill):1	2660(accompany):1	5774(civilize):2	
+37	2(night):1	6(breakfast):1	9(service):1	10(restaurant):1	17(view):2	21(excellent):1	27(bar):1	45(beautiful):1	47(eat):2	77(buffet):1	91(guest):1	103(star):1	107(choice):1	117(dinner):1	121(car):1	145(amaze):1	152(english):1	162(hard):1	225(la):1	249(luggage):1	251(wine):1	373(previous):1	585(below):1	710(river):1	716(cocktail):1	770(champagne):1	827(straight):1	1041(push):1	1176(delightful):1	1857(stuffy):1	3321(whisk):1	4321(sumptuous):1	4740(amstel):1	5530(michelin):1	7059(regal):1	9050(sommelier):1	11856(rive):1	
+0	
+
+<Author>calvados13
+<Content>Great Luxury Hotel Having just spend a 4 day break at this hotel I can thoroughly recommend it. As an Intercontinental Ambassador I was upgraded to a beautifull corner suite overlooking the river. The rooms was spacious and luxurious and the bathroom a delight to my wife. As mentioned previously the 'rain' showers in the rooms are great. I had no problems with any of the staff and found them all to be helpful and courteous. I will definately be returning to this hotel at the earliest oppertunity.  
+<Date>Mar 27, 2008
+<Rating>5	5	5	5	5	4	4	-1	
+<Aspects>
+8	8(day):1	15(recommend):1	39(return):1	64(spend):1	228(break):1	410(definately):1	437(luxury):1	898(thoroughly):1	
+0	
+17	13(bathroom):1	61(shower):1	108(suite):1	111(spacious):1	163(upgrade):1	184(wife):1	200(corner):1	244(mention):1	260(overlook):1	581(rain):1	708(luxurious):1	710(river):1	1025(delight):1	1122(previously):1	1606(intercontinental):1	3515(ambassador):1	3896(beautifull):1	
+0	
+0	
+3	0(staff):1	14(helpful):1	483(courteous):1	
+0	
+0	
+
+<Author>thomas00181
+<Content>Great luxury hotel My wife and I spent 2 nights of our honeymoon in December at the Intercontinental and we have to admit that it's a beautiful hotel with a very convenient location. Our room was spacious and clean and the bathroom had a wonderful tub. Breakfasts were delicious as well as dinner. No 5-star rating however as some of the staff were rather rude and unprofessional.  
+<Date>Dec 30, 2007
+<Rating>4	4	5	5	5	2	2	-1	
+<Aspects>
+0	
+16	0(staff):1	1(location):1	2(night):1	45(beautiful):1	64(spend):1	78(rate):1	184(wife):1	186(convenient):1	392(rude):1	437(luxury):1	502(honeymoon):1	993(december):1	1282(admit):1	1606(intercontinental):1	1831(5-star):1	3134(unprofessional):1	
+5	3(clean):1	13(bathroom):1	48(wonderful):1	111(spacious):1	311(tub):1	
+0	
+0	
+0	
+3	6(breakfast):1	117(dinner):1	485(delicious):1	
+0	
+
+<Author>Wereldreizigster
+<Content>The best hotel in Amsterdam Lovely old hotel at a canal..Rooms are classic and beautiful with the best rainshower in the world as far as I can tell..the bath fills in a short while which is also great..The restaurant is nice as well as the bar downstairs with a lovely view of the canals.  
+<Date>Dec 3, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+6	87(lovely):1	144(short):1	226(bath):1	361(amsterdam):1	491(fill):1	638(canal):1	
+0	
+5	45(beautiful):1	69(tell):1	272(world):1	1789(classic):1	7154(rainshower):1	
+0	
+0	
+0	
+7	4(nice):1	10(restaurant):1	17(view):1	27(bar):1	87(lovely):1	638(canal):1	691(downstairs):1	
+0	
+
+<Author>mrfalafel
+<Content>Without a doubt one of the best in Amsterdam Just echoing the statements below: this hotel has old world charm, amazing service and every element of luxury one could hope for. The canal side location is used to great effect in the lounge, restaurant and bars. The semi-private lift to the suites is another great feature.The only drawback for me was the location. I prefer to be a bit closer into the more pedestrian areas. Yes the tram service is excellent and there are always taxis outside of the hotel but its not quite the same as walking out into the hustle and bustle of city life.All in all, this is one of the best hotels I've ever stayed in but in the future, I would pick either the SAS Radisson or the American Hotel when choosing luxury accomodations in Amsterdam based on their more central location.  
+<Date>Nov 7, 2007
+<Rating>5	4	5	4	5	5	5	5	
+<Aspects>
+0	
+11	1(location):1	167(choose):1	168(central):1	266(pick):1	284(base):1	361(amsterdam):1	437(luxury):1	732(future):1	780(accomodation):1	1958(radisson):1	5974(sas):1	
+4	108(suite):1	591(lift):1	731(feature):1	10424(semi-private):1	
+17	1(location):1	7(walk):1	9(service):1	21(excellent):1	28(close):1	41(city):1	52(bit):1	98(outside):1	185(taxi):1	250(yes):1	426(life):1	536(prefer):1	570(tram):1	1107(bustle):1	1344(drawback):1	1503(hustle):1	2403(pedestrian):1	
+0	
+0	
+18	1(location):1	9(service):1	10(restaurant):1	27(bar):1	145(amaze):1	237(lounge):1	272(world):1	328(hope):1	332(charm):1	361(amsterdam):1	437(luxury):1	585(below):1	638(canal):1	952(doubt):1	2191(effect):1	2745(echo):1	3232(element):1	3245(statement):1	
+0	
+
+<Author>baburshah
+<Content>Excellent hotel in need of refurbishment The building is nice even if a bit outside of the action. The doorman is always at hand and friendly. Check-in -seated- is prompt and courteous. Most, not to say all, the staff members are nice and ready to help. The room, actually an Executive Suite, is nicely furnished as is the bathroom. The overall feel is really nice but it lacks modern amenities for an hotel of this class : MP3 docks, flat screens in all rooms, fresh flowers, welcome amenities like chocolates. At more than 5000 鈧?per night, one would expect this kind of extra luxury the Amstel never provides despite this stay being my third stay. Overall a good and reliable option at a cost.  
+<Date>Oct 27, 2007
+<Rating>4	3	3	2	5	4	4	-1	
+<Aspects>
+11	2(night):1	12(friendly):1	62(expect):1	128(extra):1	153(provide):1	377(hand):1	437(luxury):1	498(despite):1	532(third):1	998(doorman):1	4740(amstel):1	
+4	70(overall):1	175(cost):1	336(option):1	2416(reliable):1	
+21	4(nice):1	13(bathroom):1	34(feel):1	70(overall):1	108(suite):1	151(modern):1	180(actually):1	197(fresh):1	202(welcome):1	291(amenity):2	349(lack):1	404(nicely):1	470(class):1	526(screen):1	535(flat):1	632(chocolate):1	778(flower):1	787(furnish):1	872(executive):1	2338(dock):1	9159(mp3):1	
+7	4(nice):1	21(excellent):1	52(bit):1	98(outside):1	135(build):1	958(action):1	2253(refurbishment):1	
+0	
+8	0(staff):1	4(nice):1	92(help):1	274(ready):1	286(check-in):1	483(courteous):1	504(seat):1	1208(prompt):1	
+0	
+0	
+
+<Author>Nix123
+<Content>Lovely hotel I wanted a great hotel in Amsterdam with a pool for a leisure stay. The Amstel was the most fantastic place to stay; cost an arm and a leg but worth it if you can afford it. Great room, food, service, nothing at all to complain about.I was a little worried about the distance from the centre of Amsterdam but needn't have been - the trams are fast and frequent and even to walk isn't that bad. Would highly recommend this hotel.  
+<Date>Oct 23, 2007
+<Rating>5	4	5	5	5	5	4	5	
+<Aspects>
+6	15(recommend):1	22(pool):1	87(lovely):1	138(highly):1	361(amsterdam):1	2032(leisure):1	
+7	86(fantastic):1	96(worth):1	175(cost):1	1421(leg):1	1452(afford):1	1726(arm):1	4740(amstel):1	
+0	
+10	7(walk):1	23(little):1	50(bad):1	101(center):1	115(distance):1	361(amsterdam):1	499(fast):1	570(tram):1	885(worried):1	1355(frequent):1	
+0	
+0	
+3	9(service):1	16(food):1	241(complain):1	
+0	
+
+<Author>Bongolina
+<Content>Loved the Amsterl, Just One Hitch. The Amstel is a seriously plush and beautiful hotel. The exterior is quite regal and overlooks The Amstel canal, hence the name. The service was pleasant and we were treated with highly professional customer service.The rooms were huge and had all the facilities, that one would expect. The minibar, would have to be the best I have ever seen in any 5 star hotel. The bathroom incredibly spacious and comfortable. The bed large and very comfortable.  The only hiccup was when an individual attempted to enter our room upon two occasions without knocking. It was quite clear that there were people in the room as the television was on, but someone was able to enter the room with the correct card. Thankfully, we had the chain on the door which prevented the person from entering. We mentioned this to security and they seem to think it was a figment of our imagination and it clearly was not. It was quite worrisome as we had a laptop and other valuables. So all I can say is....be wary about this. The gym was perfect and overlooked The Amstel.The restaurant was just fantastic for both breakfast and dinner. We even saw the Dutch Queen! Stay at The Amstel, but just ensure to lock all your valuables away safely.  
+<Date>Sep 19, 2007
+<Rating>5	-1	5	5	5	5	5	5	
+<Aspects>
+26	40(love):1	45(beautiful):1	54(door):1	193(person):1	260(overlook):1	295(name):1	543(Queen):1	601(enter):1	627(chain):1	638(canal):1	774(lock):1	1111(laptop):1	1293(ensure):1	1441(seriously):1	1828(exterior):1	1847(plush):1	1893(thankfully):1	1935(valuable):2	2066(dutch):1	2306(hence):1	2352(prevent):1	3099(wary):1	3347(safely):1	4622(hitch):1	4740(amstel):3	7059(regal):1	
+2	103(star):1	1037(minibar):1	
+22	11(bed):1	13(bathroom):1	25(comfortable):2	26(people):1	62(expect):1	111(spacious):1	133(huge):1	171(able):1	211(facility):1	244(mention):1	292(card):1	601(enter):2	641(security):1	807(incredibly):1	871(occasion):1	1119(attempt):1	1158(television):1	1263(correct):1	1323(knock):1	1596(individual):1	4734(imagination):1	4997(hiccup):1	
+0	
+0	
+0	
+14	6(breakfast):1	9(service):2	10(restaurant):1	74(perfect):1	86(fantastic):1	117(dinner):1	138(highly):1	150(pleasant):1	260(overlook):1	320(treat):1	428(customer):1	501(professional):1	523(gym):1	4740(amstel):1	
+0	
+
+<Author>poederlee
+<Content>Not so good anymore. Staff at this hotel are not so helpful and have a surly attitude.Rooms are outdated and the corridors smell.Should be closed and properly renovated.Bathrooms also are old and leaky.  
+<Date>Apr 30, 2007
+<Rating>1	1	1	2	3	1	1	3	
+<Aspects>
+1	1853(anymore):1	
+0	
+5	13(bathroom):1	231(smell):1	1073(corridor):1	1549(outdated):1	5427(leaky):1	
+3	28(close):1	533(renovate):1	1144(properly):1	
+0	
+4	0(staff):1	14(helpful):1	821(attitude):1	2891(surly):1	
+0	
+0	
+
+<Author>melvinthemole
+<Content>What a fantastic hotel My wife and I have just stayed stayed three nights at the IC Amstel. What a wonderful hotel. We stayed at the hotel using Priority Club rewards Points, and ww were upgraded to an Executive Suite.Our room was fantastic - antique furnishings - our room had a wonderful sitting area including a small library- partioned off sleeping area and had separate bath, toilet and shower areas.The staff at the hotel were excellent and treated us as if we were royality.The hotel is situated on the Amstel. It is sited to the south east of the centre of the City. I would say it is about 35 minutes walk to central railway station. However there are some lovely canal walks from the hotel, and the main theatres and opera house are only a few minutes walk away. For example Cats was on at the theatre. Some of the main museums are nearby and if you dislike walking and don't want to take a taxi, one of the tram lines is very close to the hotel which we used to travel to Anne Franks House - cost 1.60 euros. There is also an underground station nearby which takes you directly to central Railway station (north) or to Amstredam arena (Home of Ajax) in the South.The hotel offers an airport collection service. The cost of this service is 101 Euros each way (75 Euros if a loyality club member)We took a taxi from the hotel to Keunkenhof Gardens - cost 75 Euros each way (make sure you agree a fixed rate).The hotel has a fantastic restaurant La Rive - yes it's expensive but we felt wour visit was worth the money - check reviews.  
+<Date>Apr 24, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+10	2(night):1	48(wonderful):1	86(fantastic):1	184(wife):1	574(situate):1	635(theater):1	954(example):1	2177(cat):1	4740(amstel):2	5995(ic):1	
+12	10(restaurant):1	32(check):1	34(feel):1	37(review):1	65(visit):1	80(money):1	86(fantastic):1	96(worth):1	124(expensive):1	225(la):1	250(yes):1	11856(rive):1	
+22	9(service):1	48(wonderful):1	61(shower):1	71(include):1	86(fantastic):1	89(offer):1	95(airport):1	104(sleep):1	108(suite):1	163(upgrade):1	169(sit):1	212(club):1	226(bath):1	330(toilet):1	474(separate):1	870(furnishings):1	872(executive):1	1648(library):1	1936(antique):1	1985(priority):1	2186(reward):1	2694(collection):1	
+39	7(walk):4	9(service):1	28(close):1	29(minute):2	41(city):1	68(travel):1	78(rate):1	82(station):3	87(lovely):1	101(center):1	112(main):2	141(home):1	168(central):2	175(cost):3	185(taxi):2	188(line):1	192(site):1	212(club):1	232(nearby):2	256(euro):4	281(house):2	310(garden):1	383(directly):1	473(agree):1	494(fix):1	507(museum):1	570(tram):1	635(theater):1	638(canal):1	684(North):1	769(south):2	948(east):1	1085(underground):1	1374(opera):1	2002(railway):2	2136(frank):1	2238(anne):1	2881(dislike):1	3153(arena):1	
+0	
+3	0(staff):1	21(excellent):1	320(treat):1	
+0	
+0	
+
+<Author>pcinbk
+<Content>Best hotel in Amsterdam Best hotel in Amsterdam  
+<Date>Apr 10, 2007
+<Rating>5	5	5	4	5	4	5	4	
+<Aspects>
+1	361(amsterdam):2	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>coachK666
+<Content>First impressions go a long way On our way to Kenya, exhausted from our NYC red eye flight, my wife and I arrived in Amsterdam bleary eyed at the Intercontinental around 9am. We were cheerfully greeted and promptly seated at the check-in desk. We expected (reasonably) to leave our bags at the hotel and trudge around the city. To our surprise, our room was not only ready, but upgraded to a canal view room. The room was fabulous: well-decorated, impeccably maintained, and quite large. We were also impressed by the bathroom, which featured a large soaking tub. Secretly, I think we both would have preferred to lounge around our room than sightsee.A frequent busines traveler, my wife has accumulated a horde of hotel reward points. However, I think we would both agree paying for the Intercontinental exceeded staying for free at a Marriott/Hilton/Starwood property.  
+<Date>Feb 1, 2007
+<Rating>5	4	5	3	5	5	5	-1	
+<Aspects>
+6	41(city):1	43(leave):1	62(expect):1	290(bag):1	578(reasonably):1	8762(trudge):1	
+7	42(pay):1	46(free):1	214(property):1	473(agree):1	618(marriott):1	1153(exceed):1	1606(intercontinental):1	
+28	13(bathroom):1	17(view):1	53(arrive):1	163(upgrade):1	184(wife):1	199(surprise):1	233(flight):1	237(lounge):1	270(fabulous):1	274(ready):1	311(tub):1	343(impress):1	361(amsterdam):1	536(prefer):1	558(nyc):1	562(maintain):1	590(red):1	638(canal):1	640(sight-see):1	731(feature):1	848(impression):1	977(eye):2	1468(soak):1	1606(intercontinental):1	1769(exhaust):1	3072(impeccably):1	6482(well-decorate):1	12726(secretly):1	
+5	184(wife):1	267(traveler):1	1355(frequent):1	2186(reward):1	6717(accumulate):1	
+0	
+6	36(desk):1	286(check-in):1	415(greet):1	504(seat):1	1212(promptly):1	5029(cheerfully):1	
+0	
+0	
+
+<Author>sml168
+<Content>one of the better options in Amsterdam I am from Amsterdam, and have visited and stayed in all the luxury hotels in the city. I have always loved to have dinner at La Rive. 15 years ago we celebrated our wedding at the Amstel Hotel and since then, we have been visiting the restaurant and hotel at least a few times a year. I think that the restaurant is almost perfect and would almost consider it the only option within Amsterdam for a dinner in this class. Somehow, roomservice for breakfast is not that good. (Has never been within the 10 years) Fruit salad which has been prepared obviously hours before delivery...covered with plastic...Rooms are great, especially for Dutch hotel rooms, although I personally do not really fancy their style but that is just personal. Bathrooms are great. Service is good, also especially for Dutch hotels, however, it is not as good as in many hotels outside the Netherlands but at least they try. (You know, the Dutch are well known for their very bad customer services) So all in all, I think this is the most luxurious of the Amsterdam hotels - actually the only hotel in this class in the city so if you want that, go to the Amstel. However, if you are here for just tourism, I would rather stay more in the center, like the Radisson SAS, The Grand, the Renaissance or the Marriott. They may be less Luxurious but are also great hotels with very nice service and staff - sometimes even better than at the Amstel Hotel!  
+<Date>Jan 25, 2007
+<Rating>4	4	4	2	4	3	3	-1	
+<Aspects>
+5	41(city):1	65(visit):1	336(option):1	361(amsterdam):2	437(luxury):1	
+0	
+15	13(bathroom):1	60(hour):1	126(especially):1	215(fruit):1	326(style):1	460(prepare):1	552(cover):1	711(personal):1	781(obviously):1	796(fancy):1	909(salad):1	1052(personally):1	1347(plastic):1	2066(dutch):1	2152(delivery):1	
+6	9(service):1	76(try):1	98(outside):1	126(especially):1	2066(dutch):1	4969(netherlands):1	
+0	
+6	0(staff):1	4(nice):1	9(service):1	560(sometimes):1	708(luxurious):1	4740(amstel):1	
+26	5(time):1	6(breakfast):1	9(service):1	10(restaurant):2	40(love):1	41(city):1	50(bad):1	65(visit):1	74(perfect):1	117(dinner):2	180(actually):1	225(la):1	248(consider):1	336(option):1	361(amsterdam):2	428(customer):1	470(class):2	604(wed):1	633(ago):1	708(luxurious):1	1014(celebrate):1	2017(somehow):1	2066(dutch):1	4740(amstel):2	6103(roomservice):1	11856(rive):1	
+7	101(center):1	365(grand):1	618(marriott):1	1958(radisson):1	2028(renaissance):1	2897(tourism):1	5974(sas):1	
+
+<Author>abcd12345
+<Content>Sheer Opulence The Amstel Intercontinental is a perfect choice, especially if you want a 1st class hotel, with excellent customer service. We could not fault any part of our stay. The check-in service was excellent, the concierge was very helpful, the room service was prompt (although rather expensive), the rooms were very well appointed and the hotel location was very nice.We booked the hotel as members of the Intercontinental - Priority Club, therefore we recieved additional benifits including early check in (09:00), late check out (16:00), a room upgrade (to river view) and complimentary drinks on arrival.On arrival we thought the hotel was a bit out of town, however we soon realised that the hotel was only 5 minutes from the tram stop (tram no.4 to city centre) and it was a pleasant 15 walk from the hotel to all the bars, restauraunts and attractions.During our 3 days we visited the Anne Frank Museum, The Red Light District, Dam Square, Rembraant Square, Hard Rock Cafe and various shopping areas. We would recommend them all !We found the people and city very charming.  
+<Date>Jan 20, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	15(recommend):1	26(people):1	41(city):1	332(charm):1	517(fault):1	
+11	9(service):1	21(excellent):1	74(perfect):1	107(choice):1	126(especially):1	428(customer):1	470(class):1	1606(intercontinental):1	3367(sheer):1	4740(amstel):1	6658(opulence):1	
+15	8(day):1	49(shop):1	65(visit):1	139(square):2	157(light):1	162(hard):1	275(cafe):1	433(district):1	507(museum):1	590(red):1	773(rock):1	823(various):1	1266(dam):1	2136(frank):1	2238(anne):1	
+15	7(walk):1	27(bar):1	29(minute):1	41(city):1	52(bit):1	101(center):1	122(stop):1	150(pleasant):1	224(arrival):1	239(town):1	350(attraction):1	418(soon):1	570(tram):2	607(realize):1	9588(restauraunts):1	
+0	
+10	1(location):1	4(nice):1	9(service):2	14(helpful):1	21(excellent):1	124(expensive):1	204(concierge):1	286(check-in):1	579(appoint):1	1208(prompt):1	
+15	17(view):1	18(book):1	32(check):2	63(drink):1	71(include):1	79(late):1	163(upgrade):1	212(club):1	224(arrival):1	345(complimentary):1	710(river):1	835(additional):1	1606(intercontinental):1	1985(priority):1	2060(recieve):1	
+0	
+
+<Author>ACPACPACP
+<Content>Stunning place! The Hotel looks from outside like a palace - this continues on the inside.The rooms are nicely decorated in dutch flavor, although they are not quite big - even the higher price rooms.The real highlight is the restaurant and the Spa on the lower level. They are on the same height as the Amstel River in front of the Hotel, so stunning views from the pool or from the breakfast are guaranteed.Only thing that didn't work out quite fine was the wireless Internet connection. Their server crashed 3 times in 3 days, but they took it off the bill without discussion.  
+<Date>Dec 25, 2006
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+1	988(stun):1	
+0	
+16	10(restaurant):1	19(price):1	20(look):1	98(outside):1	240(real):1	305(decorate):1	306(level):1	314(spa):1	404(nicely):1	408(inside):1	642(palace):1	777(lour):1	1096(continue):1	1141(highlight):1	2066(dutch):1	2147(flavor):1	
+0	
+0	
+9	6(breakfast):1	17(view):1	22(pool):1	31(front):1	710(river):1	988(stun):1	1471(guarantee):1	2279(height):1	4740(amstel):1	
+6	5(time):1	8(day):1	495(bill):1	1540(server):1	2192(crash):1	3282(discussion):1	
+4	97(internet):1	113(fine):1	717(wireless):1	932(connection):1	
+
+<Author>ReadHere
+<Content>It's a Royal Palace What an incredible spectacular palace in the middle of an otherwise modest city. All advance arrangements via e-mail were promptly responded to, and were faithfully done. Upon arrival you are greeted as royalty, and it just keeps getting better. Every last detail is spectacular. Outstanding breakfast, bar, terrace, dining. Rooms, lobby, gym, pool are all out of this world. Rock star spotted at poolside (Iggy Pop). Staff at all levels treats you with the utmost courtesy and respect. No ripoffs or jacked up prices for tickets, reservations or taxis/limos. Complementary goodies galore upon arrival. It's on a quiet side of town, near a tram stop, easy walk to start shopping or dining. Fantastic and plentiful amenities by L'Occitane. Prices are appropriate for a 5-star hotel, and it's worth it here.  
+<Date>Nov 14, 2006
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+18	41(city):1	86(fantastic):1	224(arrival):2	291(amenity):1	325(middle):1	415(greet):1	508(otherwise):1	592(detail):1	642(palace):2	656(spectacular):2	718(incredible):1	753(royal):1	1039(plentiful):1	1978(complementary):1	2156(royalty):1	2553(modest):1	2644(goody):1	4216(galore):1	
+9	19(price):1	96(worth):1	103(star):1	317(spot):1	773(rock):1	1430(poolside):1	1558(pop):1	1831(5-star):1	2421(appropriate):1	
+0	
+14	7(walk):1	19(price):1	49(shop):1	58(quiet):1	93(easy):1	102(near):1	122(stop):1	156(reservation):1	165(start):1	239(town):1	316(dine):1	570(tram):1	621(ticket):1	2541(jack):1	
+0	
+6	0(staff):1	306(level):1	320(treat):1	1389(respect):1	1728(courtesy):1	6092(utmost):1	
+14	6(breakfast):1	22(pool):1	27(bar):1	55(lobby):1	272(world):1	316(dine):1	512(via):1	523(gym):1	534(outstanding):1	673(terrace):1	685(advance):1	1212(promptly):1	1415(arrangement):1	1587(respond):1	
+0	
+
+<Author>markhomer
+<Content>Loved It! Really loved this hotel, attentive professional staff, beautiful decor and wonderful canal views; even the tourists on the glass boats waved as they went passed (must have thought we were famous!?). Although it is about a 10 minute walk to the city centre it was lovely to stroll along the canals and see some of the 'real' amsterdam neighbourhoods rather than the at times loutish areas around the red light/ central station areas. Drinks in the bar a little expensive but this what you expect to pay in this quality of hotel. Would recommend this hotel wholeheartedly to any people looking for a special weekend in a special city.  
+<Date>Oct 16, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	15(recommend):1	20(look):1	26(people):1	40(love):1	41(city):1	172(weekend):1	208(special):2	5268(wholeheartedly):1	
+7	23(little):1	27(bar):1	42(pay):1	62(expect):1	63(drink):1	124(expensive):1	187(quality):1	
+15	0(staff):1	17(view):1	40(love):1	45(beautiful):1	48(wonderful):1	209(tourist):1	269(decor):1	327(glass):1	400(pass):1	501(professional):1	537(attentive):1	638(canal):1	674(boat):1	836(wave):1	1296(famous):1	
+15	5(time):1	7(walk):1	29(minute):1	41(city):1	82(station):1	87(lovely):1	101(center):1	157(light):1	168(central):1	240(real):1	361(amsterdam):1	421(neighbourhood):1	590(red):1	638(canal):1	1056(stroll):1	
+0	
+0	
+0	
+0	
+
+<Author>dokanman
+<Content>Traditional, professional hotel Booked a weekend away through amex paying around 470 euros / night.Smart, albeit traditional room on canal - no complaints and bathroom as good as I've seen in many more expensive places.Complimentary drinks sent up immediately after check was a nice touch. Didn't eat in hotel except breakfast which was great, although my mum would love it too....very quiet, munch too loudly on your cornflakes and you may get a look from the other older 50 and 60 something guests. some were in jackets - for breakfast? on a sunday?Pool was too small for laps but friendly staff soon recommended a local public pool and took the trouble to print off details from net - great service culture throughout entire hotel.Bell boys were lovely - quite charming and helpful. Concierge recommended a restaurant (sure he's on a deal) but it was great - and we wouldn't have found it ourselves - so full marks there.I'd stayed a few times at Hotel de L'Europe before . Whilst the Amstel is a good 15 minute walk (along canals, mostly) to the real centre it's light years ahead of the L'Europe (which is a very expensive, faded excuse for a hotel and best avoided!)  
+<Date>Oct 4, 2006
+<Rating>5	-1	5	4	5	5	5	5	
+<Aspects>
+7	5(time):1	14(helpful):1	87(lovely):1	332(charm):1	801(bell):1	844(sunday):1	881(boy):1	
+21	2(night):1	7(walk):1	18(book):1	29(minute):1	42(pay):1	101(center):1	124(expensive):1	157(light):1	172(weekend):1	240(real):1	256(euro):1	436(avoid):1	501(professional):1	638(canal):1	877(whilst):1	976(ahead):1	1241(traditional):1	1965(excuse):1	3013(fade):1	4663(amex):1	4740(amstel):1	
+25	4(nice):1	6(breakfast):1	13(bathroom):1	20(look):1	32(check):1	40(love):1	47(eat):1	58(quiet):1	63(drink):1	91(guest):1	124(expensive):1	190(complaint):1	279(touch):1	337(except):1	447(send):1	489(immediately):1	638(canal):1	1241(traditional):1	1687(smart):1	2083(albeit):1	2707(loudly):1	3175(mum):1	6300(cornflake):1	7728(munch):1	9352(plimentary):1	
+16	0(staff):1	9(service):1	12(friendly):1	15(recommend):1	22(pool):2	195(local):1	329(entire):1	379(public):1	418(soon):1	445(throughout):1	569(trouble):1	592(detail):1	1101(print):1	1497(culture):1	2076(net):1	2432(lap):1	
+0	
+6	10(restaurant):1	15(recommend):1	140(deal):1	204(concierge):1	767(ourselves):1	882(mark):1	
+2	6(breakfast):1	3375(jacket):1	
+0	
+
+<Author>greg486
+<Content>Beware! Based on the wonderful reviews of this hotel, I booked a four-night stay at this hotel on its web site. I asked for a non-smoking room. When I arrived, I was shown to a beautiful room that smelled strongly of smoke and backed onto the elevator shaft (I would thus have heard the elevator each time it moves) When I objected, I was told that nothing else was available and that requests for nonsmoking rooms were only a preference and couldn't be guaranteed. After waiting about 30 minutes, they found another room that smelled better but also backed onto the elevator shaft. When I asked about that, the young woman said There's nothing else available and walked away. The much-vaunted service vanished.Apparently, if you pay Intercontinental an Internet rate, you get worse than usual treatment and only a choice of the worst rooms in the hotel. If you choose an Internet rate on this hotel's web site, beware! You may only get the worst rooms in the hotel and be treated in a rather cool fashion for complaining.  
+<Date>Aug 26, 2006
+<Rating>2	-1	5	3	5	1	1	4	
+<Aspects>
+1	737(beware):1	
+9	42(pay):1	50(bad):2	78(rate):1	97(internet):1	107(choice):1	682(usual):1	863(apparently):1	1147(treatment):1	1606(intercontinental):1	
+6	50(bad):1	241(complain):1	278(cool):1	320(treat):1	978(nonsmoking):1	1745(fashion):1	
+15	7(walk):1	18(book):1	37(review):1	48(wonderful):1	78(rate):1	97(internet):1	134(available):1	167(choose):1	170(else):1	192(site):2	284(base):1	566(woman):1	737(beware):1	1019(web):2	8228(four-night):1	
+18	5(time):1	45(beautiful):1	53(arrive):1	69(tell):1	132(hear):1	134(available):1	148(request):1	170(else):1	207(move):1	216(elevator):2	231(smell):1	468(smoke):1	978(nonsmoking):1	1386(strongly):1	1471(guarantee):1	2268(preference):1	3630(shaft):1	4401(object):1	
+0	
+7	9(service):1	29(minute):1	85(wait):1	216(elevator):1	231(smell):1	3630(shaft):1	8099(vanish):1	
+0	
+
+<Author>threetenors
+<Content>Elegant and Charming If your budget can stand it you must spend a night or two at this beautiful hotel. The rooms are extremely well appointed with very large bathrooms. The attention to detail is fantastic.If this is for business or for pleasure make the most of the facilities available and indulge yourself in the history of the building for a day or two.  
+<Date>Aug 7, 2006
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+10	2(night):1	45(beautiful):1	64(spend):1	86(fantastic):1	332(charm):1	429(budget):1	444(stand):1	592(detail):1	726(attention):1	986(elegant):1	
+0	
+3	13(bathroom):1	110(extremely):1	579(appoint):1	
+9	8(day):1	134(available):1	135(build):1	147(business):1	211(facility):1	576(yourself):1	907(pleasure):1	1490(history):1	3892(indulge):1	
+0	
+0	
+0	
+0	
+
+<Author>juliansorl
+<Content>this is my idea of a perfect hotel I have stayed at this hotel twice and plan to return very often. This place isn't for everyone but for those like myself -who come to amsterdam to visit the museums and aren't interested in the tourist centers or the red light district- then it is the perfect place being about a 20 minute walk (through a neighborhood where the contemporary art galleries are located) to the vangogh museum. I must STRESS that a large room with a river view is definitely a MUST! I actually had such a beautiful view that we could see the Rjiks museum and the amstel river from the bed! The bathrooms are really among my favorite with large tubs that fill in 2minutes with separate class showers featuring amazing showerheads and really great water pressure. The bathrooms compete with those of the ritz (another favorite), but dont have all the marble, it's amsterdam so it's a different kind of elegance. The fourth floor(top) seems the best with the largest rooms but the third was great too and actually had better views because you are just high-enough from the river. The pool and gym are too small but are beautiful and on a hot summer day are very busy. The riverside sun deck could definitely use many more lounge chairs and poolside service personel is lacking. Overall though this is an excellent boutique hotel that is just small enough to make you feel like you are staying at a private club or rich relative's mansion. The restaurant was fantastical and it has a view that matches the food. The tasting menu with wine was a bargain and very well executed. The staff are so pleasant and warm and really make the food seem special. Room service was really well done and I had no problem with anything other then the pool and river deck. It is a small personable hotel far from the maddening crowds but closer to the museums and zoo. If you are an art lover then I also highly recommend having the museum reserve a car to take you to the Kroller Moller.  
+<Date>Jul 9, 2006
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+5	39(return):1	74(perfect):1	221(plan):1	347(twice):1	639(idea):1	
+0	
+34	9(service):1	11(bed):1	13(bathroom):2	17(view):3	22(pool):1	24(floor):1	45(beautiful):1	57(water):1	59(definitely):1	61(shower):1	118(top):1	145(amaze):1	180(actually):2	311(tub):1	361(amsterdam):1	376(favourite):2	470(class):1	474(separate):1	491(fill):1	503(dont):1	507(museum):1	532(third):1	686(pressure):1	705(marble):1	710(river):4	731(feature):1	825(ritz):1	1406(deck):1	1579(fourth):1	1753(stress):1	2255(elegance):1	3941(compete):1	4740(amstel):1	7691(showerheads):1	
+42	7(walk):1	8(day):1	15(recommend):1	21(excellent):1	22(pool):1	28(close):1	29(minute):1	34(feel):1	45(beautiful):1	65(visit):1	70(overall):1	74(perfect):1	84(locate):1	101(center):1	114(hot):1	121(car):1	138(highly):1	157(light):1	209(tourist):1	212(club):1	220(busy):1	313(crowd):1	361(amsterdam):1	421(neighbourhood):1	433(district):1	492(private):1	506(reserve):1	507(museum):4	523(gym):1	590(red):1	623(boutique):1	789(art):2	853(summer):1	1475(contemporary):1	1511(zoo):1	1794(gallery):1	2259(relative):1	2350(rich):1	2551(personable):1	2568(lover):1	3125(mansion):1	9106(madden):1	
+0	
+5	0(staff):1	16(food):1	150(pleasant):1	208(special):1	236(warm):1	
+19	9(service):1	10(restaurant):1	16(food):1	17(view):1	59(definitely):1	198(chair):1	237(lounge):1	251(wine):1	349(lack):1	420(sun):1	423(menu):1	439(taste):1	759(bargain):1	1406(deck):1	1430(poolside):1	1476(match):1	5033(personel):1	5219(riverside):1	6811(execute):1	
+0	
+
+<Author>TravelerAnonymous
+<Content>It doesn't get bettert than this! I am a seasoned traveler and thoroughly investigate hotels and restaurants before I go. The only thing this property could improve is the breakfast buffet. It would be nice if the selection changed daily for those of us that stay for several days.I can鈥檛 say I have ever been to a property where the service, comfort and ambiance were perfect鈥?until now. The Amstel is all that and more. Although it is expensive, it is worth every cent. If you want to be treated like royalty then this is one property you don鈥檛 want to miss. The staff anticipated our every need from welcoming us upon our arrival to leaving us a warm departure note. The dinner experience at La Rive was impeccable. They should be rated 3 Michelin Stars. I would return in a heartbeat and recommend it to everyone.  
+<Date>Apr 29, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+9	4(nice):1	8(day):1	15(recommend):1	39(return):1	161(change):1	333(selection):1	360(daily):1	1683(heartbeat):1	4740(amstel):1	
+11	44(experience):1	78(rate):1	96(worth):1	103(star):1	117(dinner):1	124(expensive):1	225(la):1	1542(impeccable):1	1888(cent):1	5530(michelin):1	11856(rive):1	
+0	
+0	
+0	
+8	0(staff):1	43(leave):1	202(welcome):1	224(arrival):1	236(warm):1	297(note):1	1031(departure):1	2305(anticipate):1	
+17	6(breakfast):1	9(service):1	10(restaurant):1	74(perfect):1	77(buffet):1	214(property):3	267(traveler):1	276(miss):1	320(treat):1	610(season):1	702(comfort):1	898(thoroughly):1	908(don):1	957(ambience):1	1217(improve):1	2156(royalty):1	3885(investigate):1	
+0	
+
+<Author>bugmaster
+<Content>Snooty I have stayed at many fine hotels throughout America. This hotel is very lovely to look at but not one bit welcoming. The staff is aloof and watches your every move. This is not a property for teen-age guests. Late one evening we were escorted to our room by a stuffy employee. I don't think he believed we were actually registered in the hotel. The room and bath were probably the roomiest I've ever seen. The breakfast was very extensive and the champagne was a nice touch. I didn't think much of the location since it costs us 12 euros for every taxi trip. I ordered a cranberry and grey goose at the bar and it cost me 10 euros. That's around $13.00 US. We checked out 3 days early to move closer into town.This property would be perfect for someone like Caroline Kennedy but not your average upper class American.  
+<Date>Apr 23, 2006
+<Rating>3	2	5	-1	5	-1	3	-1	
+<Aspects>
+11	20(look):1	52(bit):1	87(lovely):1	113(fine):1	180(actually):1	202(welcome):1	312(believe):1	445(throughout):1	1724(america):1	2833(register):1	3979(snooty):1	
+6	27(bar):1	175(cost):1	256(euro):1	2335(grey):1	4576(goose):1	8121(cranberry):1	
+6	79(late):1	178(probably):1	226(bath):1	608(employee):1	1857(stuffy):1	2005(escort):1	
+10	1(location):1	8(day):1	28(close):1	32(check):1	33(trip):1	175(cost):1	185(taxi):1	207(move):1	239(town):1	256(euro):1	
+0	
+4	0(staff):1	207(move):1	245(watch):1	4904(aloof):1	
+14	4(nice):1	6(breakfast):1	74(perfect):1	91(guest):1	214(property):2	227(average):1	279(touch):1	470(class):1	770(champagne):1	1333(upper):1	1703(extensive):1	1837(teen-age):1	7827(kennedy):1	10950(caroline):1	
+0	
+
+<Author>jim3171
+<Content>Not sure what all the fuss is about... Can't really believe all the great reviews of this hotel. My main beef is with the parent company Inter Continental Hotels. I booked the hotel only the day before arrival and was told that the only room left was an Executive King with River View at 鈧?75 per night. We booked for 5 nights. It did seem expensive but judging from the reviews on this site I thought it would be worth it. Upon arrival we were put into a Square Facing room (not river) and told this was all that was available with no explanation or apology. With exception of the view the room was fine, although upon closer inspection the CD player was not working which was replaced the following day. Also, the speakers in the bathroom were only connected to the TV and not the CD player?!? Why they set it up in this manner is beyond me. This along with the fact the TV was at least 10 years old and the in house films were fed through on VHS (bad quality) and only 2 english channels is definitely not what I would expect from 'one of the best hotels' in the Netherlands. The minibar prices were a joke - 鈧?.00 for a mars bar! The setting of the hotel is very grand but seeming very dated now, and the staff have the air about them that you should be grateful to be there. I have stayed in many fantastic hotels in the world - this may have been one once but certainly isn't now. The hotel is fairly close to the city centre although it is a walk of 15-20 mins. Upon checking out I was told that for 2 of the nights the rate had risen to 鈧?40.00 per night - I complained this was not what was quoted and they said that I should take it up with central reservations - again without any apology or sign of empathy for the customer. For the money it was very disappointing. I have complained to Inter Continental about the room rate change with no response so far...  
+<Date>Apr 4, 2006
+<Rating>2	1	3	-1	5	-1	4	-1	
+<Aspects>
+10	37(review):1	80(money):1	86(fantastic):1	154(disappoint):1	234(set):1	272(world):1	312(believe):1	738(beyond):1	1721(manner):1	2205(fuss):1	
+10	19(price):1	27(bar):1	37(review):1	96(worth):1	124(expensive):1	192(site):1	1037(minibar):1	1175(joke):1	1647(mar):1	2389(judge):1	
+48	0(staff):1	2(night):1	8(day):2	13(bathroom):1	17(view):2	18(book):1	28(close):1	43(leave):1	50(bad):1	59(definitely):1	62(expect):1	69(tell):2	78(rate):1	113(fine):1	116(tv):2	134(available):1	139(square):1	152(english):1	161(change):1	164(air):1	187(quality):1	224(arrival):2	234(set):1	241(complain):1	243(king):1	281(house):1	365(grand):1	372(continental):1	482(follow):1	511(date):1	710(river):2	741(channel):1	841(connect):1	872(executive):1	912(replace):1	1076(player):2	1128(exception):1	1330(response):1	1547(apology):1	1729(cd):2	2345(film):1	2373(feed):1	2398(speaker):1	2457(grateful):1	2693(explanation):1	4230(inspection):1	4969(netherlands):1	10050(inter):1	
+6	7(walk):1	28(close):1	41(city):1	101(center):1	247(min):1	462(fairly):1	
+0	
+13	2(night):2	32(check):1	69(tell):1	78(rate):1	156(reservation):1	168(central):1	241(complain):1	428(customer):1	449(sign):1	1436(rise):1	1547(apology):1	1856(quote):1	11998(empathy):1	
+2	2(night):1	18(book):1	
+6	112(main):1	372(continental):1	760(company):1	1197(parent):1	1572(beef):1	10050(inter):1	
+
+<Author>Travel_realist
+<Content>Perfection... This hotel defines perfection. Service, facilities, rooms, location. Words can't describe it. Book now!  
+<Date>Mar 6, 2006
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+4	571(word):1	955(describe):1	2269(perfection):2	6324(define):1	
+0	
+0	
+3	1(location):1	9(service):1	211(facility):1	
+0	
+0	
+1	18(book):1	
+0	
+
+<Author>Zhaunk
+<Content>Stellar         
+<Date>Feb 11, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	3660(stellar):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>goneroaming
+<Content>Superb, Excellent, Luxurious........... There are just not enough words to describe this hotel.Room was Exec Suite on Second floor over looking the Square.As another review has said - Breakfast is a rip off - not worth the 32.50euros at all.Afternoon tea though is fantastic.If you are Royal Ambassador, the free mini bar is great.Excellent staff. The Bar next to the La Rive restaurant isn't as expensive as I expected for the class of hotel for drinks - though 95 euros for Hine, althought I had a free taste, was stretching it a bit.Bathroom was excellent, L'Occitain toiletries. One of the best baths I have ever been in - huge and very deep.Will be going back there in a couple of months - even if its only to empty the mini bar.And I also took fotos.  
+<Date>Nov 14, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+8	21(excellent):1	133(huge):1	226(bath):1	407(superb):1	571(word):1	708(luxurious):1	955(describe):1	1043(deep):1	
+0	
+8	13(bathroom):1	20(look):1	21(excellent):1	24(floor):1	108(suite):1	139(square):1	657(toiletry):1	4420(exec):1	
+0	
+0	
+2	0(staff):1	21(excellent):1	
+27	6(breakfast):1	10(restaurant):1	27(bar):3	37(review):1	46(free):2	52(bit):1	62(expect):1	63(drink):1	86(fantastic):1	96(worth):1	99(couple):1	124(expensive):1	225(la):1	256(euro):2	301(tea):1	364(afternoon):1	388(month):1	439(taste):1	448(mini):2	470(class):1	753(royal):1	810(empty):1	1182(rip):1	1586(stretch):1	3515(ambassador):1	5429(althought):1	11856(rive):1	
+0	
+
+<Author>thesouplady
+<Content>Great City, Great Hotel! Amsterdam is a very cool city, and the Amstel is one amazing hotel. You know you are in for a special treat when the taxi pulls up at the front door. Just the hotel lobby is stunning enough to take your breathe away - and that's just the beginning.Our room, while not on the canal side, was over the top comfortable. Great bed with luxury linens and a bathroom so special - I actually took pictures. Got my first try at a rainshower (ok - but I prefer body massages), and even got to enjoy a soak in the lovely deep tub. But we spent most of our time in the hotel in the wonderful pool area. Right on the canal, you could relax in the hot tub and watch the constant stream of boats passing by just yards from where you were sitting. Free coffee, fruit, and nuts made spending time here a total pleasure.I even opted for a massage one afternoon. Truly relaxing and decandent.One caution - the restaurant in the Amstel is one of Amsterdams best - La Rive. Dinner there is not to be missed - and you will want to make reservations way ahead. But breakfast is served in the same location - and it's way over the top on price! After getting ripped off the first morning, we asked at the hotel staff for alternatives, and got sent to a lovely cafe just around the corner. 1/3 the price - and better quality. More fun too. The third morning we had to catch an early flight - and the totally attentive staff provided us with coffee in the sitting room. Perfect again.I would go back like a shot - eat dinner at La Rive again - no problem (Cheese course alone is worth the price of admission). Just avoid that breakfast and you are all set.  
+<Date>Nov 9, 2005
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+23	5(time):1	22(pool):1	41(city):2	48(wonderful):1	64(spend):1	74(perfect):1	114(hot):1	145(amaze):1	160(relax):2	169(sit):1	176(fun):1	245(watch):1	278(cool):1	311(tub):1	361(amsterdam):1	400(pass):1	476(truly):1	638(canal):1	674(boat):1	1307(yard):1	1432(constant):1	3714(stream):1	4740(amstel):1	
+2	19(price):1	187(quality):1	
+31	0(staff):1	11(bed):1	13(bathroom):1	25(comfortable):1	51(enjoy):1	56(morning):1	76(try):1	87(lovely):1	90(coffee):1	118(top):1	123(ok):1	153(provide):1	169(sit):1	180(actually):1	208(special):1	233(flight):1	311(tub):1	437(luxury):1	456(picture):1	532(third):1	536(prefer):1	537(attentive):1	540(catch):1	611(totally):1	630(linen):1	638(canal):1	730(massage):1	1043(deep):1	1352(body):1	1468(soak):1	7154(rainshower):1	
+6	31(front):1	54(door):1	185(taxi):1	208(special):1	320(treat):1	858(pull):1	
+0	
+12	0(staff):1	56(morning):1	87(lovely):1	117(dinner):1	156(reservation):1	200(corner):1	275(cafe):1	276(miss):1	447(send):1	976(ahead):1	1182(rip):1	1298(alternative):1	
+31	1(location):1	5(time):1	6(breakfast):2	10(restaurant):1	19(price):2	46(free):1	47(eat):1	55(lobby):1	64(spend):1	90(coffee):1	96(worth):1	117(dinner):1	118(top):1	174(serve):1	215(fruit):1	225(la):2	234(set):1	293(course):1	436(avoid):1	441(cheese):1	551(begin):1	786(total):1	907(pleasure):1	988(stun):1	1778(shoot):1	2102(caution):1	2565(nut):1	3873(breathe):1	4740(amstel):1	4930(admission):1	11856(rive):2	
+3	364(afternoon):1	730(massage):1	1184(opt):1	
+
+<Author>A TripAdvisor Member
+<Content>Beautiful Hotel, Stunning Views The Amstel is a wonderful hotel !! The rooms were large, well appointed, and welcoming. We had a canal view which was stunning and well worth the extra cost. The bathroom was also extrelmely large (by hotel standards) with a seperate shower and large bathtub, as well as a seperate room for the toilet. It is a short walk to rent bikes for touring the city, which is the best way to appreciate Amsterdam. The hotel is not in the very center of all the activities, but only a short bike ride to all the major areas. I have stayed in the center of town before (at the trendy Blake), but for the size of the rooms and the view I would certainly choose the Amstel again.  
+<Date>Oct 21, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	17(view):1	45(beautiful):1	48(wonderful):1	988(stun):1	4740(amstel):1	
+6	17(view):1	96(worth):1	128(extra):1	175(cost):1	638(canal):1	988(stun):1	
+15	13(bathroom):1	17(view):1	61(shower):1	83(size):1	101(center):1	130(standard):1	167(choose):1	202(welcome):1	239(town):1	330(toilet):1	579(appoint):1	1023(bathtub):1	1413(trendy):1	1416(seperate):2	4740(amstel):1	
+8	7(walk):1	41(city):1	144(short):1	181(tour):1	361(amsterdam):1	500(appreciate):1	1030(rend):1	1479(bike):1	
+0	
+0	
+0	
+6	101(center):1	144(short):1	218(ride):1	315(major):1	357(activity):1	1479(bike):1	
+
+<Author>HLS1974
+<Content>A wonderful time! I stayed here for just 1 night in March whilst attending a conference held at the hotel and I had a wonderful time. I had a very spacious room overlooking the canal and even the shower had a window providing yet another view of the waterside. I could not fault the service or the food and the concierge was particularly helpful in his attempts to get me and a fellow conference attendee on the guest list for an exclusive private party at a nightclub. I will definately stay at the Amstel the next time I'm in Amsterdam.  
+<Date>Oct 21, 2005
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+5	5(time):2	48(wonderful):1	361(amsterdam):1	410(definately):1	4740(amstel):1	
+0	
+8	17(view):1	61(shower):1	111(spacious):1	119(window):1	153(provide):1	260(overlook):1	638(canal):1	11071(waterside):1	
+8	2(night):1	5(time):1	48(wonderful):1	593(hold):1	615(march):1	794(conference):1	826(attend):1	877(whilst):1	
+0	
+0	
+16	9(service):1	14(helpful):1	16(food):1	91(guest):1	204(concierge):1	363(party):1	492(private):1	517(fault):1	553(particularly):1	650(list):1	794(conference):1	1119(attempt):1	1742(fellow):1	2378(nightclub):1	2914(exclusive):1	5240(attendee):1	
+0	
+
+<Author>CS-London
+<Content>Most Beautiful and Outstanding Hotel in Netherlands! This grand hotel is Amstardam's queen of luxury hotels. Our Executive Junior Suite at the 4th floor was specious with two large windows overlooking the Amstel River, with a blend of Dutch atmosphere and European furniture. The famous wedding-cake lobby of this hotel is unique, and the public areas including restaurants are outstanding. The hotel's La Rive restaurant, is the best in town overlooking the Amstel river. This is a perfect venue for romantic and fine cuisine. We loved it! The Amstel lounge  terrace offers light meals and outstanding afternoon tea. This is the place to see-and-be-seen. In the evening there is live music. The hotel's consierge is extremely helpfull in all aspects. This grand hotel is definitely the preferred choise of cosmopolitan society. When you check-in to this hotel you will realise why!  
+<Date>Oct 10, 2005
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+21	40(love):1	45(beautiful):1	59(definitely):1	74(perfect):1	110(extremely):1	113(fine):1	206(live):1	365(grand):1	398(music):1	534(outstanding):1	536(prefer):1	707(romantic):1	1255(aspect):1	1478(helpfull):1	1717(cuisine):1	2190(venue):1	4652(cosmopolitan):1	4671(consierge):1	4969(netherlands):1	7549(society):1	7884(choise):1	
+3	365(grand):1	437(luxury):1	543(Queen):1	
+14	24(floor):1	108(suite):1	119(window):1	260(overlook):1	414(atmosphere):1	440(furniture):1	582(european):1	710(river):1	845(4th):1	872(executive):1	964(junior):1	2066(dutch):1	3307(blend):1	4740(amstel):1	
+0	
+0	
+2	286(check-in):1	607(realize):1	
+20	10(restaurant):2	55(lobby):1	71(include):1	89(offer):1	157(light):1	213(meal):1	225(la):1	237(lounge):1	239(town):1	260(overlook):1	301(tea):1	364(afternoon):1	379(public):1	534(outstanding):2	673(terrace):1	710(river):1	1027(unique):1	1296(famous):1	4740(amstel):2	11856(rive):1	
+0	
+
+<Author>michelle 8
+<Content>Outstanding This is the second time myself and my partner have stayed at the Amstel Intercontinental, and once again cannot find fault with it.We chose the same room as we had the first time, a King Deluxe with river view. The rooms are spacious, and the view is gorgeous. We did not hear the trams at all at any time as someone stated they did in their review. Nothing is too much trouble for the staff. When we wanted to extend our checkout this was no problem and with no extra charge.Upon arrival, again a complimentary bottle of wine was bought to our room, and the chamber maids always bought fresh bottles of water and fruit juice and chocolates, which was a nice touch. The swimming pool is lovely, and the gym is small but rarely busy, and has views over the river. I like the location of this hotel, a nice 15 minute walk to Dam Square.We will definately be staying at this hotel again on our next trip to Amsterdam.  
+<Date>Sep 27, 2005
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+9	5(time):1	33(trip):1	361(amsterdam):1	410(definately):1	517(fault):1	534(outstanding):1	1006(partner):1	1606(intercontinental):1	4740(amstel):1	
+0	
+8	5(time):1	17(view):2	111(spacious):1	167(choose):1	243(king):1	446(gorgeous):1	648(deluxe):1	710(river):1	
+18	1(location):1	4(nice):1	5(time):1	7(walk):1	17(view):1	22(pool):1	29(minute):1	37(review):1	87(lovely):1	132(hear):1	139(square):1	220(busy):1	261(swim):1	523(gym):1	570(tram):1	710(river):1	1266(dam):1	1791(rarely):1	
+0	
+6	0(staff):1	128(extra):1	136(charge):1	569(trouble):1	658(checkout):1	1303(extend):1	
+14	4(nice):1	57(water):1	197(fresh):1	215(fruit):1	224(arrival):1	238(bottle):2	251(wine):1	279(touch):1	280(buy):2	300(maid):1	345(complimentary):1	362(juice):1	632(chocolate):1	5355(chamber):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>great facilities, not excellent, but near eminent service My family and I just came back from Holland, having stayed at the Amstel Hotel from July 24 to July 31, 2005.The 2 rooms we had overlooked the Amstel River. Staying for a whole week unlike the usual 3 to 4 day visitors, we were able to experience the varied weather (rain, cold, summer all in one day sometimes) and the excellent facilities of the hotel during a typical Amsterdam summer.All the bathrooms have large standing showers  wide water closets, nice bathtubs, grohe/kohler bath fixtures,  fine large botticino marble slabs going halfway up. We were treated with amenities such as L'occitane hand soap, and a myriad of L'occitane bathing products. If you forgot your toothbrush, bulgari toothbrushes are available from the concierge for free.The rooms had high ceilings and louis XIV type furnishings contrasted with oriental vases on top of the armoire. If you're bringing large luggages as we did , the room still looked decent. Cnn  bbc12 are available. Around 45 to 50sqm in size.Swimming pool was great although way shorter than in the pictures (around 15m); and so, you'd have to do 40 laps to get the equivalent 15 mins. exercise. The 2 star michelin La Rive restaurant is closed from the 3rd week of july up to mid august for the summer. The limited dishes at their brasserie are excellent for the seafood dishes. The beef was hard as they used non-U.S. or Angus type of beef. Excellent homemade ice cream was available.If your sitting in the their famous tea room under its glass dome overlooking the river or looking out your river view window, you'd realize that every tourist laden boat in amsterdam pass in front of the building as the hotel is a famous palace-type landmark must see. The club sandwiches with fried egg was good as well as the smoked salmon with breaded poached egg. They also had a chocolate fondue fountain.I guess that's why the staff of the Amstel are modestly proud--but not haughty--of their hotel. The concierge sells tickets to the Van Gogh museum, Rijks Museum  Madame Tussauds. These at a lesser price, and saving you from having to wait in the long lines. All the Amstel staff--housekeeping, front office, concierge, fb, doormen  bell service--are helpful in their own initiative, making sure they get done what you want done, and leaving the scene without lingering for tips or gratuities. This gave me the impression they were genuinely content with having rendered the service required. For those guests feeling guilty with the nyc syndrome, tips of 1 to 2 euro at most would apply with a 10 to 15 euro note at the end of the trip. Also don't come here unless you are prepared to spend 600 euro average per day per room (room  incidentals included) and pay a per room deposit (by credit card) of eu 2,100.There were 2 days the chiller broke down and the finicky amsterdam weather became sunny. The hotel gave us free juices in the rooms and small fans during the repair. My 2 young kids were kind of playful in the carrara/botticino lobby and the hotel staff welcomed the contrast to the mostly elder visitors  business types, in spite of the noise generated.Having stayed in other landmarks such as the Hotel du Cap or the Penisulas in NYC, Beverly Hills or Hong Kong and even the 4 Seasons NYC, the service at Amstel for the reasons stated was far better than most top of the world hotels. The simply caring staff (w/o need for reward) have lifted my opinion of this hotel from excellent to eminent. We shall, no doubt, make another visit.  
+<Date>Aug 9, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+32	8(day):1	21(excellent):1	33(trip):1	34(feel):1	65(visit):1	91(guest):1	134(available):2	162(hard):1	194(tip):1	228(break):1	256(euro):2	297(note):1	361(amsterdam):1	385(weather):1	389(type):1	547(ice):1	558(nyc):1	632(chocolate):1	952(doubt):1	1188(cream):1	1459(exercise):1	1572(beef):2	1700(sunny):1	1702(fountain):1	2101(cnn):1	2954(apply):1	3729(homemade):1	5479(guilty):1	7744(fondue):1	8092(finicky):1	12288(angus):1	12885(syndrome):1	
+42	8(day):3	10(restaurant):1	19(price):1	21(excellent):1	28(close):1	42(pay):1	44(experience):1	64(spend):1	71(include):1	75(week):2	85(wait):1	103(star):1	171(able):1	188(line):1	211(facility):1	222(cold):1	225(la):1	227(average):1	256(euro):1	292(card):1	361(amsterdam):1	385(weather):1	405(unless):1	425(save):1	460(prepare):1	560(sometimes):1	581(rain):1	628(typical):1	659(credit):1	682(usual):1	853(summer):3	951(visitor):1	1163(unlike):1	1313(mid):1	1578(varied):1	1603(deposit):1	2097(3rd):1	4295(lesser):1	5530(michelin):1	5857(incidentals):1	6966(eu):1	11856(rive):1	
+59	4(nice):1	13(bathroom):1	17(view):1	20(look):2	31(front):1	46(free):1	57(water):1	61(shower):1	83(size):1	113(fine):1	118(top):1	119(window):1	135(build):1	142(bring):1	169(sit):1	209(tourist):1	226(bath):1	249(luggage):1	257(decent):1	260(overlook):2	291(amenity):1	301(tea):1	320(treat):1	327(glass):1	361(amsterdam):1	362(juice):1	377(hand):1	389(type):1	400(pass):1	444(stand):1	528(ceiling):1	565(closet):1	607(realize):1	661(fan):1	674(boat):1	705(marble):1	710(river):3	860(wide):1	870(furnishings):1	965(soap):1	1023(bathtub):1	1081(product):1	1296(famous):2	1398(repair):1	1541(fixture):1	1616(Oriental):1	1896(bathe):1	2797(landmark):1	2835(contrast):1	2896(louis):1	3225(armoire):1	3589(halfway):1	3720(dome):1	4740(amstel):1	5181(l'occitane):2	5263(vase):1	6762(slab):1	6797(myriad):1	9138(laden):1	
+21	0(staff):1	55(lobby):1	94(noise):1	147(business):1	201(kid):1	202(welcome):1	204(concierge):1	389(type):1	507(museum):2	606(sell):1	621(ticket):1	951(visitor):1	1223(van):1	2727(gogh):1	2835(contrast):1	3000(spite):1	6486(generate):1	7326(madame):1	9244(rijks):1	11801(playful):1	12696(elder):1	
+0	
+33	0(staff):3	9(service):1	14(helpful):1	21(excellent):1	31(front):1	43(leave):1	46(free):1	134(available):1	166(own):1	194(tip):1	204(concierge):2	242(care):1	367(housekeeping):1	397(forget):1	469(guess):1	488(simply):1	591(lift):1	704(opinion):1	792(office):1	801(bell):1	998(doorman):1	1588(scene):1	2186(reward):1	2471(toothbrush):2	3346(proud):1	3490(gratuity):1	4124(linger):1	4740(amstel):2	5911(bulgari):1	7739(modestly):1	8404(fb):1	9254(initiative):1	11697(haughty):1	
+41	9(service):3	21(excellent):2	22(pool):1	102(near):1	106(family):1	118(top):1	144(short):1	211(facility):1	212(club):1	247(min):1	261(swim):1	272(world):1	374(reason):1	412(egg):2	456(picture):1	468(smoke):1	510(limit):1	558(nyc):2	610(season):1	722(require):1	756(hill):1	815(seafood):1	816(dish):2	848(impression):1	1009(fry):1	1071(sandwich):1	1121(kong):1	1123(hong):1	1950(genuinely):1	2270(cap):1	2376(salmon):1	2432(lap):1	2646(beverly):1	2688(content):1	2797(landmark):1	3117(equivalent):1	4189(holland):1	4740(amstel):2	4938(brasserie):1	6753(render):1	7218(poach):1	
+0	
+
+<Author>allen074
+<Content>Very good service, not my style of hotel tho.       Room pic - king river view room  
+<Date>Jul 17, 2005
+<Rating>5	2	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+0	
+4	17(view):1	243(king):1	710(river):1	2692(pic):1	
+0	
+0	
+0	
+3	9(service):1	326(style):1	2670(tho):1	
+0	
+
+<Author>5startraveler
+<Content>Nice Hotel, a few problems The check-in was very smooth and pleasant, the room was large with quaint windows opening to the streets, the bath was large and comfortable. We had 2 issues with this hotel, the first that we could hear the people next to us whisper and talk, we could hear their t.v. shows, we called the front desk and were told that the person in that room (which didn't have a number, it was the connecting room to ours) was a regular and that is where he wanted to stay. They offered for us to move, even though we were there a day before this person. We chose to stay and made our own noise in hopes they would move!Our other MAJOR issue was that we wanted to order a pizza from a local restaurant and have it delivered. They were helpful in our selections; however, when the pizza arrived, they didn't call our room as instructed. After about 1 hour of searching for this pizza that was supposedly delivered over 30 minutes prior, we had to go search for the pizza as it was never delivered to our room.The location was quite a distance from most attractions and shopping so we did have quite a walk or required a cab.There was nothing special this hotel offered to justify the high price and/or high rating.  
+<Date>Jul 15, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	8(day):1	89(offer):1	94(noise):1	166(own):1	167(choose):1	193(person):1	207(move):2	328(hope):1	
+5	19(price):1	78(rate):1	89(offer):1	208(special):1	3895(justify):1	
+21	4(nice):1	14(helpful):1	25(comfortable):1	29(minute):1	35(street):1	53(arrive):1	60(hour):1	67(call):1	119(window):1	150(pleasant):1	226(bath):1	286(check-in):1	333(selection):1	631(deliver):2	637(prior):1	678(pizza):3	1248(search):2	1295(quaint):1	1400(smooth):1	2062(supposedly):1	4689(instruct):1	
+7	1(location):1	7(walk):1	49(shop):1	115(distance):1	350(attraction):1	380(cab):1	722(require):1	
+0	
+15	26(people):1	31(front):1	36(desk):1	67(call):1	69(tell):1	132(hear):2	193(person):1	265(issue):1	335(numb):1	371(talk):1	744(regular):1	841(connect):1	843(ours):1	2366(t.v):1	6730(whisper):1	
+6	10(restaurant):1	195(local):1	265(issue):1	315(major):1	631(deliver):1	678(pizza):1	
+0	
+
+<Author>Lei430
+<Content>An Amsterdam Gem A magnificent hotel! The room had huge windows with beautiful views, great bathroom, everything immaculate. Comfortable bed with crisp linens added to a great night's sleep. The service was exemplary with nice touches (turn down included a large bottle of Evian, delicious chocolates). My only criticism is the smoking in the lounge... no area for non smokers. Otherwise everything was perfect!  
+<Date>Jul 14, 2005
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+2	74(perfect):1	508(otherwise):1	
+0	
+13	2(night):1	11(bed):1	13(bathroom):1	17(view):1	25(comfortable):1	45(beautiful):1	104(sleep):1	119(window):1	133(huge):1	351(add):1	630(linen):1	894(immaculate):1	2293(crisp):1	
+0	
+4	237(lounge):1	468(smoke):1	2049(criticism):1	2226(smoker):1	
+0	
+12	4(nice):1	9(service):1	71(include):1	238(bottle):1	279(touch):1	361(amsterdam):1	485(delicious):1	632(chocolate):1	805(gem):1	1405(magnificent):1	4725(exemplary):1	5366(evian):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A lovely hotel We stayed at this hotel at the beginning of May 2005 and it is truly lovely. The rooms are large and airy, with big opening windows overlooking the river. The bathroom a good size with glass doors to WC and (as everyone says in the other reviews) fabulous shower. The bed was very comfortable with crisp white linen sheets and superking pillows. It is a short but pleasant walk along the canal/river side into the town and to the main shopping street probably around 15 minutes. The conservatory overlooking the river is a lovely place to take tea and sample the most delicious cakes ever!! The Amstell InterContinental is beautifully decorated, clean and friendly, and not at all stuffy. We are looking forward to our return.  
+<Date>May 16, 2005
+<Rating>5	4	5	-1	5	-1	4	-1	
+<Aspects>
+6	20(look):1	39(return):1	87(lovely):2	476(truly):1	551(begin):1	750(forward):1	
+0	
+25	3(clean):1	11(bed):1	12(friendly):1	13(bathroom):1	25(comfortable):1	37(review):1	54(door):1	61(shower):1	83(size):1	119(window):1	260(overlook):1	270(fabulous):1	303(pillow):1	305(decorate):1	327(glass):1	466(white):1	479(sheet):1	630(linen):1	710(river):1	771(beautifully):1	1606(intercontinental):1	1857(stuffy):1	1947(airy):1	2293(crisp):1	3976(wc):1	
+10	7(walk):1	29(minute):1	35(street):1	49(shop):1	112(main):1	144(short):1	150(pleasant):1	178(probably):1	239(town):1	638(canal):1	
+0	
+0	
+8	87(lovely):1	260(overlook):1	301(tea):1	485(delicious):1	710(river):1	1029(cake):1	1960(sample):1	7438(conservatory):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Top Notch 5* Hotel Amstel is one of the few hotels that knows how to exceed clients' expectations. This is my favorate luxury hotel in Europe - it is better than Ritz or Claridge's in London.Everything is beatiful here. High ceilings  toile decorated rooms, a gorgeous wedding cake lobby, a peaceful solarium with river view, etc. My favorate part of this hotel is breakfasting while viewing the beautiful antique scull going by. Service is excellent, too.Just a few negatives - location is relatively aways from the center of the town, and my favorate toiletory, Carven, was recently replaced with rather mandane L'Occitane.  
+<Date>Mar 26, 2005
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+5	437(luxury):1	697(london):1	700(europe):1	825(ritz):1	4068(beatiful):1	
+6	118(top):1	431(expectation):1	1153(exceed):1	1227(notch):1	1952(client):1	4740(amstel):1	
+11	17(view):1	55(lobby):1	73(etc):1	305(decorate):1	446(gorgeous):1	528(ceiling):1	604(wed):1	710(river):1	1029(cake):1	1036(peaceful):1	9692(solarium):1	
+8	1(location):1	101(center):1	239(town):1	282(negative):1	322(recently):1	912(replace):1	913(relatively):1	7530(aways):1	
+0	
+0	
+6	6(breakfast):1	9(service):1	17(view):1	21(excellent):1	45(beautiful):1	1936(antique):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Superb, but for one thing.... I spent 3 nights at the Amstel hotel this winter and generally agree with everything that has been said here. It is wonderful and the stuff is very helpful and friendly and the facilities at the health center are superb. But ....... what麓s with the bed麓s?!?! I stayed at a junior suite and what was supposed to be a king-sized bed in reality turned out to be just two mattresses pushed together... Not very nice to wake up in the crack. And even apart from the crack, the bed was just not comfortable - I slept badly, even though usually, as soon as I touch the covers I sleep like a bear. Strange thing for a junior suite at a 5* star hotel. May be I am being too nitpicky, but I would expect being able to have a good nights sleep for almost 500 euros a night.....Apart from that breakfast was a bit boring too - just some 3 kind of cheeses, ham, and a fruit salad. If you want anything else, like eggs, you have to order it separately and wait for it. But the waiters at the restaurant were the most charming and helpful I have ever come across - so that compensated.  
+<Date>Mar 4, 2005
+<Rating>5	3	5	-1	5	-1	4	-1	
+<Aspects>
+6	2(night):1	64(spend):1	407(superb):1	473(agree):1	1599(winter):1	4740(amstel):1	
+0	
+22	4(nice):1	11(bed):3	25(comfortable):1	103(star):1	104(sleep):2	108(suite):2	279(touch):1	399(usually):1	418(soon):1	552(cover):1	554(wake):1	620(suppose):1	847(mattress):1	857(apart):1	964(junior):2	1041(push):1	1058(strange):1	1411(crack):2	1663(badly):1	1838(bear):1	2260(reality):1	2417(king-size):1	
+0	
+0	
+4	85(wait):1	170(else):1	412(egg):1	4042(separately):1	
+18	2(night):2	6(breakfast):1	10(restaurant):1	14(helpful):1	52(bit):1	62(expect):1	104(sleep):1	171(able):1	215(fruit):1	256(euro):1	332(charm):1	441(cheese):1	735(waiter):1	857(apart):1	909(salad):1	1098(bore):1	1561(ham):1	2243(compensate):1	
+8	12(friendly):1	14(helpful):1	48(wonderful):1	101(center):1	211(facility):1	407(superb):1	480(stuff):1	1736(health):1	
+
+<Author>jensman58
+<Content>F眉r ein besonderes Wocheende       Der Eingangsbereich  
+<Date>Mar 5, 2008
+<Rating>5	4	5	5	5	5	4	3	
+<Aspects>
+2	6885(der):1	12511(ein):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Nicolas_from_Paris
+<Content>La grande tradition h么teli猫re en bordure de l'Amstel       vue de la Junior suite  
+<Date>Aug 13, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+7	108(suite):1	225(la):2	964(junior):1	2065(en):1	3975(grande):1	4678(tradition):1	5145(vue):1	
+0	
+0	
+0	
+0	
+0	
+

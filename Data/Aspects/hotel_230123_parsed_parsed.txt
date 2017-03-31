@@ -1,0 +1,434 @@
+<Author>R3PSP
+<Content>Good Location Booked with Venere to stay at the Tulip Inn, Dam Square for a Christmas break. The location is good, it's in a small Street just off Dam Square. We had an attic room with no window or view, but a large velux type roof light that could be opened to allow in fresh air.The room was quiet and had tea and coffee making facilities and a small but modern bathroom.The Hotel provided an adequate buffet breakfast. We found the Hotel more than adequate for a city break.  
+<Date>Dec 8, 2008
+<Rating>4	4	3	4	3	4	3	3	
+<Aspects>
+3	41(city):1	228(break):1	390(adequate):1	
+0	
+24	1(location):1	13(bathroom):1	17(view):1	18(book):1	58(quiet):1	90(coffee):1	119(window):1	139(square):1	151(modern):1	157(light):1	164(air):1	197(fresh):1	211(facility):1	228(break):1	301(tea):1	324(inn):1	359(allow):1	389(type):1	636(roof):1	962(christmas):1	1266(dam):1	4172(attic):1	4251(tulip):1	6954(venere):1	
+4	1(location):1	35(street):1	139(square):1	1266(dam):1	
+0	
+0	
+4	6(breakfast):1	77(buffet):1	153(provide):1	390(adequate):1	
+0	
+
+<Author>vjcc80
+<Content>Great Location Me and my Fiance have just been to Amsterdam for 3 days. We stayed at The Tulip Inn dam Square. For a 3 star its a great choice. The rooms are lovely, with lots of space, a really nice bathroom and great views of the city. To see that people have said it's in need of decoration was quite surprising as we didn't think this at all. Breakfast was really nice with lots of choice and the location was excellent within 30 seconds walk from Dam Square/the red light district/cafes etc. Would definitely stay here again.  
+<Date>Sep 2, 2008
+<Rating>4	4	4	5	5	5	4	-1	
+<Aspects>
+1	59(definitely):1	
+2	103(star):1	107(choice):1	
+23	1(location):1	4(nice):2	6(breakfast):1	7(walk):1	13(bathroom):1	17(view):1	21(excellent):1	26(people):1	38(lot):2	41(city):1	73(etc):1	87(lovely):1	107(choice):1	139(square):2	157(light):1	199(surprise):1	210(space):1	324(inn):1	433(district):1	590(red):1	1266(dam):2	1580(decoration):1	4251(tulip):1	
+4	1(location):1	8(day):1	361(amsterdam):1	2229(fiance):1	
+0	
+0	
+0	
+0	
+
+<Author>pieszynski
+<Content>depends on what you want the rooms aint big and yes the hotel does need redecorating quite badly BUT, the beds are comfy, the hotel is quiet and the bathrooms are brand new and very nice. As a place to rest up between cafes and bars its a winner, as a destination hotel . . . that would be a resounding no. Also fantastic staff well used to helping dazed and confused tourists!!  
+<Date>Aug 19, 2008
+<Rating>3	2	3	5	4	5	5	-1	
+<Aspects>
+0	
+0	
+11	4(nice):1	11(bed):1	13(bathroom):1	58(quiet):1	250(yes):1	475(comfy):1	883(brand):1	969(depend):1	1663(badly):1	4226(redecorate):1	7664(aint):1	
+0	
+0	
+5	0(staff):1	86(fantastic):1	92(help):1	209(tourist):1	1419(confuse):1	
+5	27(bar):1	275(cafe):1	288(rest):1	1092(destination):1	3146(winner):1	
+0	
+
+<Author>53BLOSSOM
+<Content>perfect location, excellent staff If you are the trpe of person put off by a bit of decor then accept what the last review said. If however, you can see past a bit of decor and are looking for a hotel which is in an excellent location, has amazing staff and a lovely breakfast then this hotel is for you. The reception and breakfast area are immaculate and well decorated and yes it is true that the rooms could do with some new wall paper but I guess this only matters if you plan on staying in your room watching tv rather than out seeing this fantastic city. The room was exceptionally clean and the bathroom immaculate (looked new). The staff were extremely helpful, friendly and spoke amazing English. This hotel is located about 30 seconds walk from Dam Square, 8 minutes to the train station and 30 seconds from main shops (including a supermarket about 2 minutes away). In terms of price I thought this was very competitive at 拢116 per night in the middle of May and could not get such a great located hotel for such a price elsewhere in Amsterdam (I tried!)  
+<Date>May 28, 2008
+<Rating>4	4	-1	5	4	5	5	-1	
+<Aspects>
+0	
+9	2(night):1	19(price):2	84(locate):1	253(tried):1	325(middle):1	361(amsterdam):1	646(elsewhere):1	1011(term):1	3279(competitive):1	
+30	0(staff):2	1(location):2	3(clean):1	6(breakfast):2	13(bathroom):1	20(look):2	21(excellent):2	37(review):1	41(city):1	52(bit):2	74(perfect):1	86(fantastic):1	87(lovely):1	116(tv):1	129(reception):1	145(amaze):1	183(wall):1	193(person):1	221(plan):1	245(watch):1	250(yes):1	269(decor):2	305(decorate):1	419(past):1	469(guess):1	531(matter):1	776(paper):1	894(immaculate):2	1242(exceptionally):1	1247(accept):1	
+11	7(walk):1	29(minute):2	49(shop):1	71(include):1	82(station):1	84(locate):1	112(main):1	139(square):1	182(train):1	1078(supermarket):1	1266(dam):1	
+0	
+7	0(staff):1	12(friendly):1	14(helpful):1	110(extremely):1	127(speak):1	145(amaze):1	152(english):1	
+0	
+0	
+
+<Author>IrelandVacation
+<Content>very disappointing, shabby We stayed in The Tulip Inn recently we were not impressed we found the entire Hotel needed redecoration, the paintwork was very shabby the carpets were very stained leading from the reception area to the lift, which put you off before you even got to the bedrooms.The rooms were very small and basic certainly not worth the prices we were being charged,I checked other Hotels in the area which were far superior and very little difference in the cost.  
+<Date>Mar 31, 2008
+<Rating>1	1	1	5	3	3	3	3	
+<Aspects>
+0	
+9	19(price):1	23(little):1	32(check):1	96(worth):1	136(charge):1	175(cost):1	352(basic):1	785(superior):1	819(difference):1	
+15	129(reception):1	154(disappoint):1	268(bedroom):1	322(recently):1	324(inn):1	329(entire):1	343(impress):1	396(carpet):1	591(lift):1	723(stain):1	922(lead):1	1319(shabby):2	4251(tulip):1	8298(redecoration):1	10355(paintwork):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>JohnGaltCalifornia
+<Content>Worked very well for us! This hotel is clean, functional and has a great breakfast. The staff was warm, friendly and helpful. The room is comfortable,but don't expect frills. The hotel is very convenient to everythingand most attractions can be easily walked to, including the train station. It is also convenient to a diverse selection of restaurants. We would return.  
+<Date>Mar 28, 2008
+<Rating>3	3	3	5	3	4	3	3	
+<Aspects>
+1	39(return):1	
+0	
+3	25(comfortable):1	62(expect):1	2210(frill):1	
+7	7(walk):1	71(include):1	82(station):1	182(train):1	186(convenient):1	350(attraction):1	438(easily):1	
+3	3(clean):1	6(breakfast):1	1348(functional):1	
+4	0(staff):1	12(friendly):1	14(helpful):1	236(warm):1	
+4	10(restaurant):1	186(convenient):1	333(selection):1	4242(diverse):1	
+0	
+
+<Author>familyr4
+<Content>excellent choice we stayed for 1 night. it took us ages to pick a good location and hotel but we finally pick this one. we have stayed with the company before last year in bussey saint george France and could not fault them hence going again in Amsterdam. we got there early and the room was not ready til 2 but they let us unload our bags into the store room which left us free to roam and sight see. they informed us that the double bedroom was not big enough to put an extra bed in for our 8yr old but had put us in the triple for the same price as the double. once in the room it did smell of smoke but with Holland not having a no smoking policy i did expect it but we opened the window and went out while the air blew threw. the beds were good and comfy the room was clean the location was excellent for us with our 8yr for walking to and eating could not of picked a better location. the breakfast was plentiful and eat as much as you want. once again as we had to be out of the room by 11 and not getting collected until 5 they let us put our bags in the store room til we needed them. all in all i would recommend and stay there again.  
+<Date>Feb 11, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	15(recommend):1	
+3	2(night):1	21(excellent):1	107(choice):1	
+33	1(location):2	3(clean):1	7(walk):1	11(bed):2	19(price):1	21(excellent):1	43(leave):1	46(free):1	47(eat):1	62(expect):1	119(window):1	128(extra):1	164(air):1	179(double):2	231(smell):1	255(store):2	266(pick):1	268(bedroom):1	274(ready):1	290(bag):2	411(sight):1	468(smoke):2	475(comfy):1	817(inform):1	917(throw):1	1146(blow):1	1553(triple):1	1634(policy):1	1889(collect):1	2196(til):2	2958(roam):1	3143(unload):1	4189(holland):1	
+11	1(location):1	266(pick):2	341(finally):1	361(amsterdam):1	505(age):1	517(fault):1	760(company):1	1784(france):1	2287(george):1	2306(hence):1	3312(saint):1	
+0	
+0	
+3	6(breakfast):1	47(eat):1	1039(plentiful):1	
+0	
+
+<Author>BOBSAWAY
+<Content>GOOD VALUE Great location just off Dam Square in a nice little lane.Hotel is clean and comfortable and is what you would expect from a 3 star hotel. Nothing special about the rooms or facilities.However this hotel scores very high on value for money, exceptionallly helpful staff and good breakfast.We paid 79 euros for a double room including a nice breakfast.Now if you are expecting bacon.eggs and blackpudding then you will be disaoppointed but if you like fresh breads. cold meats, cheeses, fresh fruit and cereal washed down by good coffee and fresh juice then you will enjoy it.Staff very helpful and efficient.Room was quiet and spacious although bathroom was small but very modern and clean.Would definately stay here again.  
+<Date>Feb 1, 2008
+<Rating>4	5	3	5	3	5	-1	-1	
+<Aspects>
+3	62(expect):1	410(definately):1	1057(bacon):1	
+20	0(staff):1	1(location):1	3(clean):1	4(nice):2	6(breakfast):2	14(helpful):1	23(little):1	25(comfortable):1	42(pay):1	62(expect):1	71(include):1	80(money):1	81(value):2	103(star):1	139(square):1	179(double):1	256(euro):1	1266(dam):1	2566(lane):1	3030(score):1	
+7	3(clean):1	13(bathroom):1	58(quiet):1	111(spacious):1	151(modern):1	208(special):1	211(facility):1	
+0	
+0	
+3	0(staff):1	14(helpful):1	401(efficient):1	
+12	51(enjoy):1	90(coffee):1	197(fresh):3	215(fruit):1	222(cold):1	362(juice):1	412(egg):1	441(cheese):1	497(bread):1	529(cereal):1	677(meat):1	811(wash):1	
+0	
+
+<Author>Sharonspud
+<Content>A Great Hotel in a Central Location Myself and two girlfriends stayed at The Tulip Inn Dam Square for 3 nights in November, thanks once again to the positive reviews on Tripadvisor I booked a lovely hotel which was central to everything in Amsterdam, just what we required.Arriving at Schipol airport we came through arrivals and walked straight to the railway station just follow the signs, to take the train to Amsterdam Central, really easy, trains run every 20 mins, you get your tickets from a yellow ticket machine (3 euros and 60 cents one way) then the train journey takes about 15 mins. When you exit the railway station be aware of the trams and of course the bicycles which are everywhere.We walked from the station to the hotel which took about 10 to 15 mins with cases, just head to Dam Square, the hotel is easy to find.On arrival we were checked in really quickly by nice staff and then shown to the lift to take us to the floor our room was on. I had requested a quiet room on a high floor with 3 single beds and this was just what we got. The room was clean and of a good size with heating and duvets on the extra long beds rather than sheets, there was coffee making facilities, tv and a nice size bathroom with a walk in corner shower and soft towels, there was also a hairdryer. This is the cleanest bathroom i have seen in any hotel i have stayed in.The room rate included breakfast in the lovely breakfast room which was never busy but always had plenty of food on offer, you had a choice of tea or coffee which was brought to your table, you then served yourself to cereals, fruit juices, cold meats, cheeses, yogurts,rolls, toast and fresh fruit, a great leisurely start to the day without feeling you had to rush.There was also a bar in the foyer of the hotel, not that we used it as there is so many bars to choose from just outside the hotel especially St Pauls bar and restaurant which is 2 doors away from the hotel, very relaxed atmosphere with nice food. The other bar and restaurant i must recommend is one we found close to the red light district called Het Karbeel in a street called Warmoesstratt, an excellent find with attentive staff and a wonderful menu, we ate here two evenings out of the three we were in Amsterdam. The cheese fondue was mouth watering as a starter and the king prawn was too die for. Both nights we spent over four hours eating our meal, nothing was rushed and we felt totally relaxed, the glass of Port at the end of the meal was the icing on the cake.This was a great city break, nice hotel in a central location just what you need without having to spend a fortune. I couldn't fault the hotel at all and would recommend it.  
+<Date>Nov 24, 2007
+<Rating>4	4	4	4	4	4	4	3	
+<Aspects>
+2	15(recommend):1	517(fault):1	
+8	57(water):1	243(king):1	441(cheese):1	1264(die):1	2470(mouth):1	3081(starter):1	5258(prawn):1	7744(fondue):1	
+44	0(staff):1	1(location):1	2(night):1	3(clean):2	4(nice):2	7(walk):1	11(bed):2	13(bathroom):2	18(book):1	24(floor):2	32(check):1	37(review):1	58(quiet):1	61(shower):1	83(size):2	87(lovely):1	90(coffee):1	116(tv):1	125(towel):1	128(extra):1	139(square):1	148(request):1	168(central):2	200(corner):1	211(facility):1	224(arrival):1	271(thank):1	304(single):1	324(inn):1	361(amsterdam):1	458(positive):1	471(quickly):1	479(sheet):1	539(heat):1	589(soft):1	591(lift):1	597(tripadvisor):1	722(require):1	994(girlfriend):1	999(november):1	1266(dam):1	1493(hairdryer):1	3733(duvets):1	4251(tulip):1	
+52	0(staff):1	1(location):1	4(nice):1	7(walk):2	10(restaurant):1	15(recommend):1	21(excellent):1	27(bar):1	28(close):1	35(street):1	41(city):1	47(eat):1	48(wonderful):1	53(arrive):1	64(spend):1	67(call):2	82(station):3	93(easy):2	95(airport):1	139(square):1	149(run):1	157(light):1	168(central):2	182(train):3	224(arrival):1	228(break):1	247(min):3	256(euro):1	293(course):1	319(head):1	361(amsterdam):2	423(menu):1	433(district):1	449(sign):1	482(follow):1	493(machine):1	537(attentive):1	570(tram):1	590(red):1	621(ticket):2	827(straight):1	832(aware):1	1003(evening):1	1266(dam):1	1354(exit):1	1362(journey):1	1888(cent):1	1949(yellow):1	2002(railway):2	2490(fortune):1	3766(bicycle):1	5301(schipol):1	
+0	
+0	
+51	2(night):1	4(nice):1	6(breakfast):2	8(day):1	10(restaurant):1	16(food):2	27(bar):3	34(feel):2	47(eat):1	54(door):1	60(hour):1	64(spend):1	71(include):1	78(rate):1	87(lovely):1	89(offer):1	90(coffee):1	98(outside):1	107(choice):1	126(especially):1	142(bring):1	158(plenty):1	160(relax):2	165(start):1	167(choose):1	174(serve):1	197(fresh):1	213(meal):2	215(fruit):2	220(busy):1	222(cold):1	229(table):1	301(tea):1	327(glass):1	362(juice):1	414(atmosphere):1	441(cheese):1	529(cereal):1	547(ice):1	576(yourself):1	611(totally):1	677(meat):1	813(roll):1	875(toast):1	927(yogurt):1	940(St):1	1029(cake):1	1244(rush):2	1288(port):1	1931(foyer):1	3646(leisurely):1	
+0	
+
+<Author>youngnewlywedNewry
+<Content>fantastic hotel Myself and my husband stayed at this hotel for 3 nights. it was a fantastic hotel and great value for money. The hotel is right in the centre of the town and situated beside dam square and the dam rak. The room we stayed in was massive with your own tea and coffee facilities. The room and hotel were spotless. The staff were so friendly and helpful. The breakfast was a selection of breads, hams, cheese, fruit or cereals. I would advise everyone looking for a perfect hotel right in the centre of amsterdam to book this one.  
+<Date>Nov 10, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+3	2(night):1	86(fantastic):1	105(husband):1	
+3	80(money):1	81(value):1	86(fantastic):1	
+7	101(center):1	139(square):1	239(town):1	548(spotless):1	574(situate):1	1266(dam):2	1350(beside):1	
+0	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+18	6(breakfast):1	18(book):1	20(look):1	74(perfect):1	90(coffee):1	101(center):1	166(own):1	211(facility):1	215(fruit):1	301(tea):1	333(selection):1	361(amsterdam):1	441(cheese):1	497(bread):1	529(cereal):1	663(advise):1	1329(massive):1	1561(ham):1	
+0	
+
+<Author>Diggler66
+<Content>Great location, good value I stayed at the Tulip Inn Dam Square for 10 nights in March/April. Overall, it was a positive experience. The hotel is in a perfect loction, regardless of what you want. With 3 tram stops within one block of the hotel, you can get anywhere quickly. All major attractions are within walking distance if your willing to walk 20 minutes or so. Its on a quiet street with a few bars (hit the one on the corner) and other attractions. For those interested, there are 2 coffee shops right accross the street (10 yards maybe) and the main RLD as well as a second are minutes away by foot. The location can't be beat. The room was clean, small but reasonable size, with a comfortable bed. I had a little mold in the shower, but otherwise the bathroom was fine as well. Staff is friendly and helpful. Breakfast is good depending on your expectations. Tea, coffee, milk, OJ, a few cereals, rolls, other pastries, a variety of cheese and lunch meats, and yougart. I enjoyed it, but did find myself just making sandwhiches each day. If you want a full hot brekfast, there is plenty around the area. Worth noting, I did have some problems with them recognizing I had paid for my trip using an large internet travel site. It was eventually resolved, but not after a big scare. If you book over the inet and prepay, make extensive efforts to get that clarified before you leave. Also, the internet is a bit pricy (5 euro per 1/2 hour) and the access is in the loby. The rooms have data ports, but they appeared to be disabled. Cheaper internet is in the local shops, but if you want it in the room, this isn't the place for you. I would consider staying at this hotel when I go back to Amsetrdam. I wish it had in room internet access, but otherwise, relly enjoyed my stay.  
+<Date>Jul 23, 2007
+<Rating>4	4	4	5	3	4	4	2	
+<Aspects>
+13	8(day):1	51(enjoy):1	74(perfect):1	114(hot):1	158(plenty):1	248(consider):1	1204(eventually):1	1711(scare):1	1715(resolve):1	2012(regardless):1	7298(sandwhich):1	8323(brekfast):1	12904(loction):1	
+31	1(location):1	2(night):1	6(breakfast):1	18(book):1	33(trip):1	42(pay):1	43(leave):1	44(experience):1	49(shop):1	68(travel):1	70(overall):1	81(value):1	96(worth):1	97(internet):2	139(square):1	143(cheap):1	192(site):1	195(local):1	297(note):1	324(inn):1	431(expectation):1	458(positive):1	615(march):1	969(depend):1	1017(effort):1	1266(dam):1	1703(extensive):1	2442(recognize):1	2559(prepay):1	4251(tulip):1	5743(clarify):1	
+21	3(clean):1	11(bed):1	13(bathroom):1	23(little):1	25(comfortable):1	27(bar):1	35(street):1	58(quiet):1	61(shower):1	83(size):1	113(fine):1	200(corner):1	273(reasonable):1	350(attraction):1	508(otherwise):1	541(appear):1	775(hit):1	1138(mold):1	1288(port):1	3535(disable):1	7921(data):1	
+20	1(location):1	7(walk):2	29(minute):2	35(street):1	49(shop):1	90(coffee):1	100(bloc):1	112(main):1	115(distance):1	122(stop):1	308(maybe):1	315(major):1	350(attraction):1	402(foot):1	442(beat):1	471(quickly):1	570(tram):1	1307(yard):1	2650(accross):1	7508(rld):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+11	90(coffee):1	252(lunch):1	301(tea):1	413(variety):1	441(cheese):1	529(cereal):1	652(pastry):1	677(meat):1	813(roll):1	1116(milk):1	3287(oj):1	
+10	51(enjoy):1	52(bit):1	60(hour):1	97(internet):2	159(access):2	256(euro):1	384(wish):1	508(otherwise):1	2959(pricy):1	8379(loby):1	
+
+<Author>tyroLisbon
+<Content>nice hotel Me and my wife stayed in this tulip hotel for 6 nights. In Amsterdam hotels often charge more than they are worth so i chose this hotel mostly based on tripadvisor reviews. I wanted to stay near Damrack so location was perfect. The hotel didnt disapoint me. I was relieved when we arrived and entered a nice lobby with a bar and a nice reception, everything ok. Also, we arrived at 1pm and the room was already ready for us.Clean room, nice bed, small tv with remote but tv wasnt really important, there is a phone with answering machine, window to the front street but we didnt hear noise at night or morning because its a quiet street, nice bathroom with window to the front street too, a nice shower but water pressure was a bit weak, they offered coffee and tea and we could make them in the room. there is an elevator, the corridors are also clean.For breakfast they had diferent types of bread, corn flakes, boiled eggs, youghurt, coffee, tea, cheese, etc.. but it could be a lot better. Dont expect a big breakfast. Staff was nice, all of them.i noticed that some of the rooms didnt have a window facing the front street, but they had a window facing an inside terrace instead, wich wasnt ok for me. if i had stayed in one of those rooms i would probably be complaining here, instead of saying that as long as you get a room similar to the one we got, you will be happy. Its not expensive by amsterdam standards, you pay but its safe, and the location is great, so it justifies the difference in price to similar hotels with not so good locations.I would stay there again.  
+<Date>Jun 20, 2007
+<Rating>4	3	4	5	3	4	3	3	
+<Aspects>
+7	2(night):1	4(nice):1	38(lot):1	184(wife):1	626(didnt):1	2513(disapoint):1	4251(tulip):1	
+10	1(location):2	19(price):1	42(pay):1	124(expensive):1	130(standard):1	137(safe):1	361(amsterdam):1	819(difference):1	874(similar):1	3895(justify):1	
+40	2(night):1	3(clean):1	4(nice):3	11(bed):1	13(bathroom):1	31(front):3	35(street):4	52(bit):1	53(arrive):1	56(morning):1	57(water):1	58(quiet):1	61(shower):1	89(offer):1	90(coffee):1	94(noise):1	116(tv):2	119(window):4	123(ok):1	132(hear):1	155(happy):1	178(probably):1	241(complain):1	274(ready):1	296(phone):1	301(tea):1	353(instead):2	354(notice):1	408(inside):1	493(machine):1	626(didnt):2	669(answer):1	673(terrace):1	686(pressure):1	874(similar):1	1272(remote):1	1339(wasnt):2	1770(weak):1	4301(wich):1	9069(1pm):1	
+3	1(location):1	74(perfect):1	102(near):1	
+0	
+9	0(staff):1	4(nice):1	37(review):1	96(worth):1	136(charge):1	167(choose):1	284(base):1	361(amsterdam):1	597(tripadvisor):1	
+25	3(clean):1	4(nice):2	6(breakfast):2	27(bar):1	53(arrive):1	55(lobby):1	62(expect):1	73(etc):1	90(coffee):1	123(ok):1	129(reception):1	216(elevator):1	301(tea):1	389(type):1	412(egg):1	441(cheese):1	497(bread):1	503(dont):1	601(enter):1	1073(corridor):1	1598(boil):1	3351(relieve):1	4513(corn):1	6137(flake):1	9748(diferent):1	
+0	
+
+<Author>R0b0c0p
+<Content>Super City Hotel We had two night break in late May 07 in Amsterdam, we stayed at the Tulip Inn Dam Square.If you are like my wife and myself who looks for a clean, well run hotel situated in the heart of the city, this is the hotel for you.For a 3* hotel it far surpassed our expectations, the rooms were fairly large with a beutiful bathroom and plenty wardrobe space, air condition and t.v. ask for a room at the back of the hotel if you require total peace and quiet. The breakfast which was included in the price was continental style, the variety was exceptional and the staff were very attentive. The reception staff were very helpful and assisted us with all our enquiries about getting around the city and places to go.The only downside to this hotel is that one of the lanes that leads to the hotel has a fair bit of graffiti on the walls, we were not put off by this but i thought it might be worth a mention. This hotel could not be better situated, you are within walking distance of most of the main sites and shops. Unless you are a tourist who finds faults in everything you will not be disappointed with this hotel  
+<Date>Jun 19, 2007
+<Rating>4	5	5	5	5	4	4	4	
+<Aspects>
+4	154(disappoint):1	209(tourist):1	405(unless):1	517(fault):1	
+9	0(staff):1	6(breakfast):1	19(price):1	71(include):1	326(style):1	372(continental):1	413(variety):1	537(attentive):1	837(exceptional):1	
+34	2(night):1	13(bathroom):1	41(city):1	52(bit):1	58(quiet):1	79(late):1	96(worth):1	139(square):1	158(plenty):1	164(air):1	183(wall):1	210(space):1	228(break):1	244(mention):1	263(condition):1	324(inn):1	361(amsterdam):1	431(expectation):1	462(fairly):1	464(super):1	722(require):1	739(fair):1	782(downside):1	786(total):1	922(lead):1	1266(dam):1	1451(wardrobe):1	1517(peace):1	2366(t.v):1	2566(lane):1	3204(surpass):1	4251(tulip):1	6024(graffito):1	6462(beutiful):1	
+6	7(walk):1	49(shop):1	112(main):1	115(distance):1	192(site):1	574(situate):1	
+7	3(clean):1	20(look):1	41(city):1	149(run):1	184(wife):1	450(heart):1	574(situate):1	
+6	0(staff):1	14(helpful):1	41(city):1	129(reception):1	1265(assist):1	3773(inquiry):1	
+0	
+0	
+
+<Author>Bathsheba
+<Content>Central, good standard hotel Just spent two nights at this hotel. Modern chain hotel design, behind an old facade, so without the character of some Amsterdam hotels. However, the staff were friendly and helpful, the breakfast good, bed comfortable, and the hotel itself very quiet, although only two minutes from Dam Square. (I would point out that there are two Tulip Hotels in Amsterdam - possibly more - make sure you know which one you've chosen!)  
+<Date>Apr 4, 2007
+<Rating>4	3	4	5	5	5	-1	-1	
+<Aspects>
+13	2(night):1	64(spend):1	130(standard):1	151(modern):1	167(choose):1	168(central):1	361(amsterdam):2	516(design):1	627(chain):1	1049(character):1	1233(possibly):1	3980(facade):1	4251(tulip):1	
+0	
+10	0(staff):1	6(breakfast):1	11(bed):1	12(friendly):1	14(helpful):1	25(comfortable):1	29(minute):1	58(quiet):1	139(square):1	1266(dam):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>spelpa
+<Content>Perfect little hotel Last time i went to Amsterdam i stayed into the worst hotel i stayed in my life. So this time i checked very carefully the reviews and the photos and i decided to stay in Tulip Inn Dam Square. What a perfect little hotel. I was happily surprised. Very, very clean. Towels changed every day. Large twin room. Long  comfortable bed. Breakfast was good.The location is also excellent . Its close to everything.Next time i'll be in Amsterdam I'm staying in this hotel again.  
+<Date>Apr 3, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+8	5(time):2	23(little):2	50(bad):1	74(perfect):2	199(surprise):1	361(amsterdam):2	426(life):1	1642(happily):1	
+0	
+13	5(time):1	11(bed):1	25(comfortable):1	32(check):1	37(review):1	139(square):1	219(decide):1	324(inn):1	690(twin):1	761(photo):1	1266(dam):1	2523(carefully):1	4251(tulip):1	
+3	1(location):1	21(excellent):1	28(close):1	
+1	3(clean):1	
+0	
+4	6(breakfast):1	8(day):1	125(towel):1	161(change):1	
+0	
+
+<Author>sorcs_98
+<Content>Overpriced Though the hotel was very central, we did some problems. First there was alarm during the night but none of the staff on duty were able to handle it and then on another occassion the management had to enter the room without prior warning which was also quite disturbing. All in all we found the hotel to be overpriced for the facilities it provided.  
+<Date>Jan 4, 2007
+<Rating>1	1	2	4	3	2	1	1	
+<Aspects>
+0	
+4	153(provide):1	168(central):1	211(facility):1	727(overprice):2	
+0	
+0	
+0	
+13	0(staff):1	2(night):1	171(able):1	525(management):1	573(none):1	601(enter):1	637(prior):1	679(warn):1	966(handle):1	1067(disturb):1	1325(duty):1	1380(alarm):1	4992(occassion):1	
+0	
+0	
+
+<Author>Rosielola
+<Content>Excellent location This is a good hotel for a short break - you are right on Dam Square but the hotel was very quiet - we couldn't hear any noise at night.Breakfast was good - plenty of it!There tends to be a lingering smoke smell around but that seems to the norm in Amsterdam.Rooms were clean and staff were extremely helpful.Don't drink in the bar though as the prices were high - plenty of bars/cafes nearby.Would definitely use it again.  
+<Date>Jan 3, 2007
+<Rating>3	3	3	5	3	4	4	-1	
+<Aspects>
+1	59(definitely):1	
+0	
+14	0(staff):1	1(location):1	2(night):1	3(clean):1	14(helpful):1	21(excellent):1	58(quiet):1	94(noise):1	110(extremely):1	132(hear):1	139(square):1	144(short):1	228(break):1	1266(dam):1	
+0	
+6	231(smell):1	361(amsterdam):1	468(smoke):1	1053(tend):1	2529(norm):1	4124(linger):1	
+0	
+7	6(breakfast):1	19(price):1	27(bar):1	63(drink):1	158(plenty):2	232(nearby):1	3833(bars):1	
+0	
+
+<Author>countryqueen
+<Content>great little hotel went to the city for a few nights as a suprise for my boyfriend, couldnt find a hotel that was very central and quite reasonable in price, as a travel agent myself i took great care in choosing the right hotel. If you require a luxury hotel, its not for you, but this hotels location is hard to beat. The rooms are fine, clean and tidy, if your going on a city break you tend not to laze around your hotel! The breakfast was continental, so we opted to get our breakfast elsewhere, like little bakerys which we had a fresh bread, jambons, coffee, criosants etc. lovely! great hotel for exploring the city and nice and quite, on a quaint little cobbled street. hard to beat!  
+<Date>Dec 15, 2006
+<Rating>3	3	4	5	5	5	4	4	
+<Aspects>
+2	162(hard):1	442(beat):1	
+13	2(night):1	19(price):1	23(little):1	41(city):1	68(travel):1	167(choose):1	168(central):1	242(care):1	273(reasonable):1	763(boyfriend):1	766(agent):1	1528(couldnt):1	1738(suprise):1	
+0	
+12	1(location):1	4(nice):1	23(little):1	35(street):1	41(city):1	162(hard):1	437(luxury):1	442(beat):1	594(explore):1	722(require):1	1295(quaint):1	6989(cobble):1	
+7	3(clean):1	41(city):1	113(fine):1	228(break):1	1053(tend):1	1100(tidy):1	6277(laze):1	
+0	
+10	6(breakfast):2	23(little):1	73(etc):1	87(lovely):1	90(coffee):1	197(fresh):1	372(continental):1	497(bread):1	646(elsewhere):1	1184(opt):1	
+0	
+
+<Author>AoifeMN
+<Content>Perfect Location I stayed in the Tulip Inn Dam Square for one night in November.It is in a perfect location right smack in the middle of Amsterdam. The staff were efficent and friendly and the rooms were clean and pleasant. If you are plannig a tshort break this is an ideal place to stay. Overall was very happy with it.  
+<Date>Dec 11, 2006
+<Rating>4	3	4	5	4	4	3	3	
+<Aspects>
+4	70(overall):1	155(happy):1	228(break):1	545(ideal):1	
+0	
+13	0(staff):1	1(location):1	2(night):1	3(clean):1	12(friendly):1	74(perfect):1	139(square):1	150(pleasant):1	324(inn):1	999(november):1	1266(dam):1	4251(tulip):1	5874(efficent):1	
+5	1(location):1	74(perfect):1	325(middle):1	361(amsterdam):1	3069(smack):1	
+0	
+0	
+0	
+0	
+
+<Author>Sparkes
+<Content>Great location that is all Location is excellect. Hotel itself was fairly grim. Very dated. Rooms feel like a portcabin. Bathrooms fine...must of been done recently. Staff not all that helpful in recommending anywhere to eat. Great little belgian bar about 4 doors up. Pair of mens shoes left in my friends room.....little off putting to say the least. We only stayed one night and although location was great wouldn't stay here again.  
+<Date>Nov 27, 2006
+<Rating>2	3	2	4	2	2	2	-1	
+<Aspects>
+1	511(date):1	
+0	
+12	13(bathroom):1	23(little):1	34(feel):1	43(leave):1	113(fine):1	146(friend):1	322(recently):1	462(fairly):1	1191(shoe):1	2207(pair):1	6235(grim):1	9726(mens):1	
+2	1(location):3	2(night):1	
+0	
+4	0(staff):1	14(helpful):1	15(recommend):1	47(eat):1	
+4	23(little):1	27(bar):1	54(door):1	6250(belgian):1	
+0	
+
+<Author>ondrasek
+<Content>Best choice in Amsterdam       Beds  
+<Date>Jul 31, 2006
+<Rating>5	4	5	5	5	5	3	-1	
+<Aspects>
+0	
+3	11(bed):1	107(choice):1	361(amsterdam):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Excellent Hotel What a great find! Friendly, helpful and courteous staff. Hotel was in an excellent position for all the sights and the shops. Buffet breakfast was ideal and set you up for the day. Our flight was cancelled so we arrived early the next morning. They gave us a room quickly although my two friends had to wait 40 mins for a non-smoking room but they didn't charge us for the no-show night. Would recommend this hotel highly for a city break.  
+<Date>Mar 4, 2006
+<Rating>5	5	4	-1	4	-1	5	-1	
+<Aspects>
+5	15(recommend):1	21(excellent):1	41(city):1	138(highly):1	228(break):1	
+0	
+4	53(arrive):1	56(morning):1	233(flight):1	1065(cancel):1	
+4	21(excellent):1	49(shop):1	411(sight):1	1093(position):1	
+0	
+12	0(staff):1	2(night):1	12(friendly):1	14(helpful):1	85(wait):1	136(charge):1	146(friend):1	247(min):1	471(quickly):1	483(courteous):1	978(nonsmoking):1	11782(no-show):1	
+5	6(breakfast):1	8(day):1	77(buffet):1	234(set):1	545(ideal):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>good location Have just returned from excellent trip to Amsterdam. Went to Tulip Inn after recommendation from a friend. Agree with other reviews about the hotel, corridors need a new carpet and a touch of paint.Bedroom was quite small but very clean, there was no view, but going in January this did not matter. Breakfast was good and served until 10.30 which was good if you had been out late the night before. The best thing about the hotel was the location. Within easy walking distance of train station (can leave bags at hotel on arrival), Anne Frank museum, Dam Square, shops and red light district. Tram stops very near the hotel. The belgian beer bar up the steet is good but best is the small pub next to the hotel althiugh it does shut at 8.30pm. You need to go early evening before going to the many excellent restraunts, always walk in the direction of the Anne Frank museum rather then the shops for the best eating places. Can't wait to return.  
+<Date>Jan 8, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	146(friend):1	324(inn):1	577(recommendation):1	4251(tulip):1	
+0	
+11	3(clean):1	17(view):1	37(review):1	268(bedroom):1	279(touch):1	396(carpet):1	473(agree):1	531(matter):1	806(paint):1	1018(january):1	1073(corridor):1	
+35	1(location):2	7(walk):2	21(excellent):2	27(bar):1	33(trip):1	39(return):1	43(leave):1	47(eat):1	49(shop):2	82(station):1	93(easy):1	102(near):1	115(distance):1	122(stop):1	139(square):1	157(light):1	182(train):1	224(arrival):1	290(bag):1	361(amsterdam):1	393(pm):1	395(direction):1	433(district):1	443(beer):1	507(museum):2	570(tram):1	590(red):1	1086(shut):1	1266(dam):1	1393(pub):1	2136(frank):2	2238(anne):2	4062(restraunts):1	6250(belgian):1	8671(steet):1	
+0	
+2	39(return):1	85(wait):1	
+4	2(night):1	6(breakfast):1	79(late):1	174(serve):1	
+0	
+
+<Author>TravelerinTEXAS
+<Content>Great Location and Value!! This was our second visit to Amsterdam from the U.S. I highly recommend this hotel for its location and service. The room is small but very clean and quiet. The center of town and all tourist spots are literally a bus ride away. All staff speak English.The room is quaint, and ask for the third floor as you have a sky light  that cranks open and closed.I like the small atmosphere and loved the little bar and b. fast area. This is one you will return to and find a value and many more positives than negatives.  
+<Date>Jan 2, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+10	1(location):1	23(little):1	27(bar):1	39(return):1	40(love):1	81(value):2	282(negative):1	414(atmosphere):1	458(positive):1	499(fast):1	
+9	3(clean):1	24(floor):1	28(close):1	58(quiet):1	157(light):1	532(third):1	1295(quaint):1	1909(sky):1	6243(crank):1	
+14	1(location):1	9(service):1	15(recommend):1	65(visit):1	101(center):1	120(bus):1	138(highly):1	209(tourist):1	218(ride):1	239(town):1	317(spot):1	361(amsterdam):1	665(literally):1	1817(u.s):1	
+0	
+3	0(staff):1	127(speak):1	152(english):1	
+0	
+0	
+
+<Author>G&JV
+<Content>Just OK The location is ideal for the heart of the City. It is a small hotel and the rooms are very basic. reasonable continental breakfast. Time of checkout is 11am. Cleaners knocking on door at 10:45!! This city has lots of hotel choices, so one can afford to be a little picky. I wouldn't rush to stay here again.  
+<Date>Nov 12, 2005
+<Rating>2	3	2	-1	3	-1	3	-1	
+<Aspects>
+1	1244(rush):1	
+6	23(little):1	38(lot):1	41(city):1	107(choice):1	926(picky):1	1452(afford):1	
+1	352(basic):1	
+5	1(location):1	41(city):1	123(ok):1	450(heart):1	545(ideal):1	
+3	54(door):1	1323(knock):1	2487(cleaner):1	
+3	5(time):1	658(checkout):1	7969(11am):1	
+3	6(breakfast):1	273(reasonable):1	372(continental):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>lovely reception area window in room let in very little day light. dangerous wiring on the plug sockets, DIRTY carpet but done the job. inexpensive and right in the centre of dam square. Small coffee shop by entrance of of hotel was very convienient. would visit again  
+<Date>Sep 10, 2005
+<Rating>3	3	2	-1	2	-1	3	-1	
+<Aspects>
+1	65(visit):1	
+4	101(center):1	139(square):1	1117(inexpensive):1	1266(dam):1	
+6	8(day):1	23(little):1	87(lovely):1	119(window):1	129(reception):1	157(light):1	
+4	49(shop):1	90(coffee):1	490(entrance):1	4889(convienient):1	
+7	323(dirty):1	396(carpet):1	481(job):1	1174(plug):1	1904(wire):1	1971(dangerous):1	4040(socket):1	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Chosen at Random And a Great Choice Noticeably clean. Good choice at breakfast. If we ever visit Amsterdam again - hopefully we will - then we wouldn't hesitate in using this hotel again. Very, very convenient location as well. Great little hotel.  
+<Date>Aug 22, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	23(little):1	65(visit):1	361(amsterdam):1	902(hesitate):1	1633(hopefully):1	
+6	3(clean):1	6(breakfast):1	107(choice):2	167(choose):1	3255(random):1	6874(noticeably):1	
+0	
+2	1(location):1	186(convenient):1	
+0	
+0	
+0	
+0	
+
+<Author>traveltortoise
+<Content>great location excellent breakfast one of the best highly recommended, especially the breaakfst. lovely and quiet too.  
+<Date>Jul 8, 2005
+<Rating>5	4	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+0	
+2	58(quiet):1	87(lovely):1	
+6	1(location):1	6(breakfast):1	15(recommend):1	21(excellent):1	126(especially):1	138(highly):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nice hotel The hotel is located very centrally on a quiet street. We had a big room equipped with all standard facilities. Everything was clean. Nice breakfast. We enjoyed our stay there.  
+<Date>Apr 20, 2005
+<Rating>4	3	3	-1	4	-1	4	-1	
+<Aspects>
+1	51(enjoy):1	
+0	
+3	130(standard):1	211(facility):1	884(equip):1	
+5	4(nice):1	35(street):1	58(quiet):1	84(locate):1	879(centrally):1	
+1	3(clean):1	
+0	
+2	4(nice):1	6(breakfast):1	
+0	
+
+<Author>pleasure
+<Content>a place where you feel like family this was my second stay at the tulip inn dam sq and i would return.comfortable clean rooms friendly staff great breakfast.i wish they would have cleaner rugs in the halls and make the halls less dreary they have as much charm as a hospital.but the location , the staff again breakfast buffet and kindnessand personal care will bring me back to a sweet little connor of amsterdam.  
+<Date>Apr 14, 2005
+<Rating>4	4	3	-1	3	-1	4	-1	
+<Aspects>
+0	
+0	
+11	0(staff):1	3(clean):1	6(breakfast):1	12(friendly):1	34(feel):1	106(family):1	324(inn):1	1266(dam):1	1959(sq):1	4251(tulip):1	11748(fortable):1	
+0	
+7	3(clean):1	332(charm):1	384(wish):1	616(hall):2	1911(hospital):1	3016(rug):1	4133(dreary):1	
+0	
+10	0(staff):1	1(location):1	6(breakfast):1	23(little):1	77(buffet):1	142(bring):1	242(care):1	361(amsterdam):1	711(personal):1	950(sweet):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A great weekend Tulip Inn Dam Square Visited 18/3/05 to 20/3/05. This has been out third trip to Amsterdam, but our first staying at the Tulip Inn. The first thing that struck me was how nice the reception and bar area was for a relatively cheap hotel. The reception staff were all very cheerful and friendly and willing to help with any queries that we had. There was pleanty to eat at breakfast with a good choice from the buffet. The rooms are clean and modern with a daily maid service. Bags can be left in a room behind the desk whilst you await check in at 3pm or after checkout at 11am.A good hotel hotel, easy to find, located just off Dam Square and is therefore very central for all the districts/attractions that you may wish to visit. There is a great Belgian beer bar in the same street called 'The Chouf' which has over 40 speciality beers, the hotel is therefore handily placed for your return!  
+<Date>Mar 21, 2005
+<Rating>4	4	4	-1	5	-1	5	-1	
+<Aspects>
+5	33(trip):1	324(inn):1	361(amsterdam):1	532(third):1	4251(tulip):1	
+6	4(nice):1	27(bar):1	129(reception):1	143(cheap):1	913(relatively):1	1957(strike):1	
+15	3(clean):1	9(service):1	65(visit):2	84(locate):1	93(easy):1	139(square):2	151(modern):1	168(central):1	172(weekend):1	300(maid):1	324(inn):1	360(daily):1	384(wish):1	1266(dam):2	4251(tulip):1	
+8	27(bar):1	35(street):1	39(return):1	67(call):1	443(beer):2	3224(speciality):1	6250(belgian):1	12611(handily):1	
+0	
+15	0(staff):1	12(friendly):1	32(check):1	36(desk):1	43(leave):1	92(help):1	129(reception):1	290(bag):1	658(checkout):1	877(whilst):1	1720(cheerful):1	2742(await):1	3041(query):1	6855(3pm):1	7969(11am):1	
+5	6(breakfast):1	47(eat):1	77(buffet):1	107(choice):1	8193(pleanty):1	
+0	
+

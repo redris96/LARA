@@ -1,0 +1,280 @@
+<Author>JKDC
+<Content>Decent choice for overnight stay I stayed at this hotel overnight before an early morning flight. Hotel is located conveniently near the main train station (less than 10 minute walk with bags), with convenient transport to hotel (about 15 minutes by train).Check in was pleasant, with the person at the front desk being very nice. The room itself was quiet and tastefully decorated, but a bit on the small side, especially considering how much I was paying. I also paid for their business package which gives Wi-Fi and free movies, but the internet was s-l-o-w and my TV did not work properly. I chose this hotel because it was the cheapest, reasonable hotel that was accessible to the airport. While I would stay here again if it comes to that, next time I am in Frankfurt I will look for a different hotel.  
+<Date>Dec 4, 2008
+<Rating>3	3	4	4	3	5	-1	2	
+<Aspects>
+3	5(time):1	20(look):1	1922(frankfurt):1	
+10	56(morning):1	95(airport):1	107(choice):1	143(cheap):1	167(choose):1	233(flight):1	257(decent):1	273(reasonable):1	1171(overnight):2	1342(accessible):1	
+7	42(pay):1	52(bit):1	58(quiet):1	126(especially):1	248(consider):1	305(decorate):1	1526(tastefully):1	
+11	7(walk):1	29(minute):2	82(station):1	84(locate):1	102(near):1	112(main):1	182(train):2	186(convenient):1	290(bag):1	742(transport):1	1070(conveniently):1	
+0	
+6	4(nice):1	31(front):1	32(check):1	36(desk):1	150(pleasant):1	193(person):1	
+0	
+9	42(pay):1	46(free):1	97(internet):1	116(tv):1	147(business):1	527(package):1	989(movie):1	1144(properly):1	1827(wi-fi):1	
+
+<Author>yong111en
+<Content>Convenient to Hbf (main train station); fine for brief stay       Bed  
+<Date>Nov 20, 2008
+<Rating>4	5	4	4	4	5	4	-1	
+<Aspects>
+0	
+0	
+0	
+7	11(bed):1	82(station):1	112(main):1	113(fine):1	182(train):1	186(convenient):1	2036(brief):1	
+0	
+0	
+0	
+0	
+
+<Author>Golod1
+<Content>Nice Boutique Hotel We stayed at the Flemings Hotel for 2 nights on vacation prior to traveling to other parts of Germany. Hotel is located near the main train station (Hopbanhof) in the city center. Although the hotel rooms were small, the hotel and room itself was charming, clean, simple and the perfect for our short stay. I think the room would have been problematic for us if we stayed there longer. Staff was very friendly and accommodating. They allowed us to stay in the room much later than the check out time. Bed was very comfortable. If there is one complaint I have of the hotel, it's location is less than desirable. I would suggest staying in the Sachsenhausen which caters to the locals and has better dining, siteseeing and shopping options.  
+<Date>Oct 11, 2008
+<Rating>4	3	5	3	5	5	5	3	
+<Aspects>
+0	
+10	0(staff):1	2(night):1	4(nice):1	12(friendly):1	68(travel):1	131(vacation):1	623(boutique):1	624(accommodate):1	637(prior):1	2239(germany):1	
+12	3(clean):1	5(time):1	11(bed):1	25(comfortable):1	32(check):1	74(perfect):1	79(late):1	144(short):1	332(charm):1	359(allow):1	613(simple):1	5079(problematic):1	
+18	1(location):1	41(city):1	49(shop):1	82(station):1	84(locate):1	101(center):1	102(near):1	112(main):1	182(train):1	190(complaint):1	195(local):1	316(dine):1	336(option):1	452(suggest):1	1000(cater):1	4037(desirable):1	7501(siteseeing):1	12435(sachsenhausen):1	
+0	
+0	
+0	
+0	
+
+<Author>kgirlPhoenix_AZ
+<Content>Very convenient This hotel was exactly what we needed for our last night in Europe. We had been there almost a month and stayed in some interesting places, so it was nice to have a clean, nice size room for our last night. We took the train from Paris to Frankfurt and just walked to Flemings. It was very easy to find. I liked the proximity to the Hauptbahnhof (main train station). We ate dinner in the hotel restaurant that night, which was practically empty. The food was good and the atmosphere was pleasant. We liked having the free wifi as well, that was very nice. The one thing that kind of put a damper on our stay is that when we were checking out they tried to charge us 100 euros even though I had booked our room online for 68. They worked to get it fixed but we had to leave to catch our flight to the States before they could get it all fixed. The good part was that I gave them my e-mail address and when I got home I had an e-mail waiting for me. Our Credit card had three pending charges on it totally over $300 but as far as we can tell, they only charged us 68 euros and the rest of the charges should fall off. My advice would be that if you book online before you go, make sure that you take the piece of paper that says how much you booked your room for because that might not be stated on your reservation in their system. Because I had this piece of paper, the process was a bit smoother.  
+<Date>Aug 13, 2008
+<Rating>4	4	5	3	5	4	4	5	
+<Aspects>
+10	2(night):1	52(bit):1	93(easy):1	186(convenient):1	586(exactly):1	700(europe):1	776(paper):1	941(piece):1	1222(process):1	1400(smooth):1	
+3	16(food):1	150(pleasant):1	414(atmosphere):1	
+9	2(night):1	3(clean):1	4(nice):2	43(leave):1	83(size):1	233(flight):1	388(month):1	494(fix):2	540(catch):1	
+8	7(walk):1	82(station):1	112(main):1	182(train):2	403(paris):1	1114(proximity):1	1922(frankfurt):1	6728(hauptbahnhof):1	
+0	
+17	18(book):1	32(check):1	69(tell):1	85(wait):1	136(charge):4	141(home):1	253(tried):1	256(euro):2	288(rest):1	292(card):1	587(fall):1	611(totally):1	659(credit):1	822(online):1	1312(address):1	1640(damp):1	11271(pending):1	
+6	2(night):1	10(restaurant):1	47(eat):1	117(dinner):1	810(empty):1	1850(practically):1	
+10	4(nice):1	18(book):2	46(free):1	156(reservation):1	518(system):1	575(advice):1	776(paper):1	822(online):1	941(piece):1	1268(wifi):1	
+
+<Author>GiftBizGuy
+<Content>A very Good Choice My fourth visit, and it's still all good. Clean, functional, nicely designed, comfortable, reasonably priced, near the Messe and the train station - what more could you want?  
+<Date>Jul 16, 2008
+<Rating>5	5	5	5	5	5	4	5	
+<Aspects>
+0	
+3	65(visit):1	107(choice):1	1579(fourth):1	
+0	
+11	3(clean):1	19(price):1	25(comfortable):1	82(station):1	102(near):1	182(train):1	404(nicely):1	516(design):1	578(reasonably):1	1348(functional):1	7896(messe):1	
+0	
+0	
+0	
+0	
+
+<Author>LGWATL
+<Content>High Marks Stayed just 1 night for business. Very good location, fair price, good room with interesting shower (if you're sharing the room and one of you is shy, you might not like it). Efficient and friendly staff. The only negative was the mediocre room service food. I would certainly stay again.  
+<Date>May 10, 2008
+<Rating>4	4	4	5	4	5	5	4	
+<Aspects>
+0	
+0	
+6	1(location):1	19(price):1	61(shower):1	520(share):1	739(fair):1	4021(shy):1	
+3	2(night):1	147(business):1	882(mark):1	
+0	
+3	0(staff):1	12(friendly):1	401(efficient):1	
+4	9(service):1	16(food):1	282(negative):1	1340(mediocre):1	
+0	
+
+<Author>mwieser
+<Content>Great hotel, great price. Stayed here for the first night on our honeymoon in October, 2007. The folks at the check-in counter were very polite, and our room was gorgeous! Very modern and chic. Breakfast was on the expensive side so we skipped it and ate elsewhere in the city. This is a great hotel for travelers looking for a good deal.  
+<Date>Mar 23, 2008
+<Rating>5	4	5	3	5	5	5	-1	
+<Aspects>
+5	20(look):1	140(deal):1	151(modern):1	267(traveler):1	1472(chic):1	
+10	2(night):1	6(breakfast):1	19(price):1	41(city):1	47(eat):1	124(expensive):1	502(honeymoon):1	646(elsewhere):1	911(october):1	1429(skip):1	
+0	
+0	
+0	
+5	286(check-in):1	422(polite):1	446(gorgeous):1	1001(counter):1	1050(folk):1	
+0	
+0	
+
+<Author>SBCATraveler
+<Content>Comfortable, Friendly Hotel We go to the Musikmesse every March and we usually stay at the Marriott, but we decided to stay at another hotel because the Marriott got too expensive. We found the Flemings Hotel on the internet. The website made the rooms look modern and clean. We know Frankfurt well enough that we knew we were walking distances to the Messe and the train station. Our room was exactly like the pictures on the internet, modern and clean. We room was a good size, comfortable bed, nice bathroom. The hotel staff was friendly and helpful. There is a cafe on the premise where you can have breakfast, lunch or a beer in the evening. We really enjoyed our stay at the Flemings and we look forward staying here again next March for the Musikmesse.  
+<Date>Mar 20, 2008
+<Rating>5	5	4	5	4	5	5	5	
+<Aspects>
+4	20(look):1	51(enjoy):1	615(march):1	750(forward):1	
+7	12(friendly):1	25(comfortable):1	124(expensive):1	219(decide):1	399(usually):1	615(march):1	618(marriott):2	
+12	3(clean):2	4(nice):1	11(bed):1	13(bathroom):1	20(look):1	25(comfortable):1	83(size):1	97(internet):1	151(modern):2	262(website):1	456(picture):1	586(exactly):1	
+6	7(walk):1	82(station):1	115(distance):1	182(train):1	1922(frankfurt):1	7896(messe):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+5	6(breakfast):1	252(lunch):1	275(cafe):1	443(beer):1	1989(premiss):1	
+1	97(internet):1	
+
+<Author>mipsy2
+<Content>Modern, stylish and convenient       Flemings hotel Room - shower  
+<Date>Feb 18, 2008
+<Rating>4	4	4	5	5	4	4	4	
+<Aspects>
+0	
+0	
+4	61(shower):1	151(modern):1	186(convenient):1	961(stylish):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>losrodri72
+<Content>Vrey good hotel with low-fare ! We've been at Fleming's for a week in New Year's Eve. We got a really good fare that included free minibar, robes and slippers and free Pay-tv (only adult content, though).Overall, the hotel is better than we hoped and I'd recommend it.Location : close to main train station (300 m), a tram stop (Platz der Republik) around the corner with 4 lines (line 11 get you to downtown). Cafes  pubs nearby and plenty of fast food in the railway station. It's a safe area although you can watch weird people at late night.Rooms : quite big (250 m2), large and comfortable double bed. Wide range of tv stations. Enough closet space for two. About the famous glass walled shower, it's really good and fun!. But only if you travel as a couple ,I guess.Staff : Room cleaning is very good and staff is polite and helpful. We asked one more blanket and to heat up the room and they complied at once.So if you're looking for a nice hotel with a short budget this is a good choice.  
+<Date>Jan 7, 2008
+<Rating>4	4	4	4	5	4	4	-1	
+<Aspects>
+15	2(night):1	15(recommend):1	26(people):1	68(travel):1	70(overall):1	75(week):1	79(late):1	99(couple):1	137(safe):1	245(watch):1	328(hope):1	469(guess):1	1611(weird):1	1787(eve):1	11949(fleme):1	
+13	4(nice):1	20(look):1	46(free):2	71(include):1	107(choice):1	144(short):1	429(budget):1	556(adult):1	1037(minibar):1	1046(robe):1	1112(fare):1	1306(slipper):1	2688(content):1	
+21	0(staff):2	3(clean):1	11(bed):1	14(helpful):1	25(comfortable):1	61(shower):1	82(station):1	116(tv):1	176(fun):1	179(double):1	183(wall):1	210(space):1	327(glass):1	422(polite):1	539(heat):1	565(closet):1	714(range):1	860(wide):1	1296(famous):1	1369(blanket):1	7151(comply):1	
+12	1(location):1	28(close):1	82(station):1	112(main):1	122(stop):1	182(train):1	188(line):2	200(corner):1	334(downtown):1	570(tram):1	2705(platz):1	6885(der):1	
+0	
+0	
+8	16(food):1	82(station):1	158(plenty):1	232(nearby):1	275(cafe):1	499(fast):1	1393(pub):1	2002(railway):1	
+0	
+
+<Author>glendale-member
+<Content>Stylish and well located This is a very well located, stylish hotel. My ground-floor single was roomy and had an ultra-modern decor. The room was all white with dark brown furnishings. The bathroom basin was of frosted glass. The bathroom arrangement was fronted with glass and had no door. You could look directly from the bedroom area through the glass into the shower stall and bathroom counter area. The room had a low profile bed, closet, safe and roomy bathroom granite counter.The hotel is an easy 2-block walk directly north of the main train station. Most of its ground-floor public area is taken up with the hotel's restaurant. The lobby consists of just a long registration desk located in a small room.  
+<Date>Sep 30, 2007
+<Rating>5	3	5	5	5	4	-1	-1	
+<Aspects>
+0	
+0	
+29	10(restaurant):1	11(bed):1	13(bathroom):4	20(look):1	31(front):1	54(door):1	61(shower):1	137(safe):1	268(bedroom):1	269(decor):1	304(single):1	327(glass):3	379(public):1	383(directly):1	459(dark):1	466(white):1	513(low):1	565(closet):1	870(furnishings):1	1001(counter):2	1353(roomy):2	1415(arrangement):1	1667(brown):1	1701(stall):1	2793(granite):1	2813(basin):1	3419(frost):1	6871(profile):1	7107(ultra-modern):1	
+13	7(walk):1	36(desk):1	55(lobby):1	82(station):1	84(locate):3	93(easy):1	112(main):1	182(train):1	383(directly):1	684(North):1	961(stylish):2	1185(consist):1	3567(registration):1	
+0	
+0	
+0	
+0	
+
+<Author>ExitRowAisle
+<Content>Good Location... This hotel is in a prime city location. We were able to walk around during the day and evening and felt safe. It is surrounded by office buildings and some other hotels. We had a room on the 3rd floor that faced the street. The noise was not too bad...until the police or an ambulance came by...then it was really bad. The room and lobby appear very modern. We chose to drive in Germany and drove from the airport. Parking is sparce. The hotel has about 10 spots and that's it. To enter for parking, you need to enter the driveway in front of a rollup door, ring a doorbell and find a space either at that level or via a car elevator in the basement which is very tight to maneuver in. The hotel has a gym in the basement with 3 or so machines which seems rather useless. They also have a decent sized sauna and a steam room that seats 2 very intimately. The hotel restaurant was pretty good. We ate breakfast there which included eggs to order and other european pastries and deli meats. We ate dinner there once too. It also was prepared well, good service and priced decent for what we got. Overall I would stay here again if I had business in Frankfurt. However, as a tourist, I would look a little harder next time. The front desk staff were courteous and did what they could to understand english. One word of note...don't get driving directions from them. Ask for a map and do it yourself. The hotel is close to the train station and that was convienent too. The room was fairly modern with a glass bathroom, low bed, small desk and decent television. Housekeeping did a good job. The A/C wasn't as powerful or as cold as what I'm used to while traveling in the US but it kept it comfortable. We had a regular room that was $161.00 euro per night. Again...not bad but next time I think I would look into the Sofitel which is on a quiet street 2 blocks away.  
+<Date>Sep 19, 2007
+<Rating>4	3	3	4	4	4	3	3	
+<Aspects>
+20	5(time):1	20(look):1	23(little):1	25(comfortable):1	50(bad):2	68(travel):1	94(noise):1	162(hard):1	209(tourist):1	222(cold):1	297(note):1	298(drive):1	317(spot):1	395(direction):1	571(word):1	576(yourself):1	724(map):1	1409(police):1	2026(powerful):1	4240(ambulance):1	
+4	9(service):1	19(price):1	257(decent):1	460(prepare):1	
+33	2(night):1	5(time):1	11(bed):1	13(bathroom):1	20(look):1	24(floor):1	35(street):2	36(desk):1	50(bad):1	55(lobby):1	58(quiet):1	83(size):1	95(airport):1	100(bloc):1	151(modern):2	167(choose):1	256(euro):1	257(decent):2	298(drive):2	327(glass):1	367(housekeeping):1	462(fairly):1	481(job):1	504(seat):1	513(low):1	541(appear):1	744(regular):1	1158(television):1	1417(sofitel):1	1422(sauna):1	1760(steam):1	2097(3rd):1	2239(germany):1	
+20	1(location):2	7(walk):1	8(day):1	28(close):1	34(feel):1	41(city):1	66(park):1	70(overall):1	82(station):1	137(safe):1	147(business):1	171(able):1	182(train):1	667(surround):1	745(building):1	792(office):1	1774(prime):1	1922(frankfurt):1	4264(convienent):1	12939(sparce):1	
+0	
+6	0(staff):1	31(front):1	36(desk):1	152(english):1	391(understand):1	483(courteous):1	
+29	6(breakfast):1	10(restaurant):1	31(front):1	47(eat):2	54(door):1	66(park):1	71(include):1	109(pretty):1	117(dinner):1	121(car):1	210(space):1	216(elevator):1	306(level):1	412(egg):1	493(machine):1	512(via):1	523(gym):1	582(european):1	601(enter):2	652(pastry):1	677(meat):1	1150(ring):1	1399(tight):1	1568(basement):2	1928(deli):1	2488(useless):1	3767(driveway):1	6015(manoeuvre):1	7225(doorbell):1	
+0	
+
+<Author>FatSuen
+<Content>Nice Hotel, Value for money       full view from room door  
+<Date>Sep 9, 2007
+<Rating>4	4	4	4	4	4	4	2	
+<Aspects>
+0	
+5	4(nice):1	17(view):1	54(door):1	80(money):1	81(value):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>bonnsai
+<Content>Cosy hotel with a family like atmosphere Since I currently work in Frankfurt during the week I decided to stay in this partner hotel of my company.All reviews that have been written here give a good picture of what you can expect from Fleming's Messe. But one thing has not been pointed out here: it gives a business traveller a homely feeling, since the staff is so friendly and always smiling. Breakfast is delicious and not a 'queue up and look what's left' thing but is delicately laid out in a display. You get eggs cooked to your choice freshly and the orange juice is freshly squeezed, too. Absolutely great!Also the prices of the bistro are reasonable and they serve healthy and yummi food.The beds are absolutely great as well: spacious and not worn out at all.The only tiny aspect that I didn't like was the room size, it was a little small for a whole week's stay.Apart from that i can highly recommend this hotel, even for a long-term-stay!I tried some other hotels in Frankfurt and I've always come back to this place.  
+<Date>Jul 10, 2007
+<Rating>4	4	4	3	4	4	4	5	
+<Aspects>
+12	15(recommend):1	37(review):1	62(expect):1	138(highly):1	189(absolutely):1	253(tried):1	344(write):1	456(picture):1	857(apart):1	1922(frankfurt):1	7896(messe):1	11949(fleme):1	
+9	75(week):1	106(family):1	219(decide):1	414(atmosphere):1	749(cozy):1	760(company):1	1006(partner):1	1922(frankfurt):1	2006(currently):1	
+9	11(bed):1	23(little):1	75(week):1	83(size):1	111(spacious):1	189(absolutely):1	338(tiny):1	434(wear):1	1255(aspect):1	
+7	0(staff):1	12(friendly):1	34(feel):1	147(business):1	267(traveler):1	387(smile):1	4231(homely):1	
+0	
+0	
+20	6(breakfast):1	16(food):1	19(price):1	20(look):1	43(leave):1	107(choice):1	174(serve):1	273(reasonable):1	362(juice):1	412(egg):1	485(delicious):1	550(cook):1	696(lay):1	1104(orange):1	1463(queue):1	1775(freshly):2	1917(display):1	1963(squeeze):1	2294(healthy):1	2585(bistro):1	
+0	
+
+<Author>dorsettraveler
+<Content>great stay once again once again a fab stay, celebrated our silver wedding aniversery whilst we were there, wrote and told hotel 2 weeks before, when we arrived beautifull red rose, two half bottles of good red wine ,chocs, and delicious choc mouse and fresh fruit in the fridge, all the staff knew adout us, we had freebies throughout our stay, great for a buisness hotel mainley, love this hotel, thanks flemings, for making this time so very special.  
+<Date>Mar 31, 2007
+<Rating>5	5	4	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+30	0(staff):1	5(time):1	40(love):1	53(arrive):1	69(tell):1	75(week):1	197(fresh):1	208(special):1	215(fruit):1	238(bottle):1	251(wine):1	271(thank):1	283(half):1	318(fridge):1	344(write):1	445(throughout):1	485(delicious):1	590(red):2	604(wed):1	877(whilst):1	1014(celebrate):1	1216(fab):1	1436(rise):1	2400(silver):1	2766(mouse):1	3896(beautifull):1	5190(freeby):1	6292(buisness):1	7833(choc):1	11010(chocs):1	
+0	
+
+<Author>frankfurtermadchen
+<Content>Stylish but some irks Based on the pictures and reviews here Flemings looked like a fun little hotel, and it was, but not quite hassel free. Positive details:-sleek and chic decor. Modern clean dark woods with sleek lighting and clean linens. Glass shower and vanity/sink area were a stylish and innovative way to make use of a small area and make it appear more spacious.-free wireless internet. slow connection but most hotels I've stayed at charge $10+ per day to use. -large double bed was a single mattress instead of the usual two smaller mattressed pushed together that seem so common in european hotels. The mattress was adequate, but I prefer a more dense bed.-it was raining during our stay and the hotels offered free daily use of an umbrella. small detail that was very thoughtful and useful.-location is close to the Hauptbahnhof, but area felt secure. Our room faced an inside street so noise wasn't an issue and we slept with the window open. -In house bistro was delicious but expensive ($90 without drinks for fairly routine fare). Seems they have an accompanying deli that has a great selection of raw milk cheeses and cured meats and salads for togo orders.Needs improvement:-some minor and not so minor details with the bathroom area. Minor issue with the toilet room door not locking, door shuts okay but the lock doesn't function. Bigger issue, the shower doesnt seem to drain fast enough and water leaked out all over the bathroom area floor. We had to use all the available towels to soak up the leaking water and also had to wait a few minutes after showering to open door due to not wanting to unleash a flood of water. -In the toilet room there was what appeared to be a tiny smear of dried blood on the wall near the paper dispenser. Normally this would disgust me to the point I'd switch rooms, but for some reason it didn't affect me any more than I felt that housekeeping should pay attention more to details. It was a really small, but obvious stain.-like all hotels it seems, the glasses provided in the room did not appear clean. Mostly dusty or spotty, but one had dried brown fluid.Overall the hotel was comfortable and fun, I'd stay there again despite the few notable drawbacks, but only because the problems seem easily fixed and also fairly common in the hotel industry so they annoy me, but are tolerable.  
+<Date>Jan 13, 2007
+<Rating>3	5	4	4	3	3	4	4	
+<Aspects>
+15	20(look):1	23(little):1	37(review):1	46(free):1	176(fun):1	284(base):1	456(picture):1	961(stylish):1	1667(brown):1	2796(dusty):1	3045(dried):1	3513(spotty):1	7295(hassel):1	7310(fluid):1	8673(irk):1	
+0	
+97	3(clean):1	11(bed):1	13(bathroom):2	24(floor):1	25(comfortable):1	29(minute):1	34(feel):1	35(street):1	42(pay):1	46(free):1	54(door):3	57(water):3	61(shower):3	63(drink):1	70(overall):1	85(wait):1	89(offer):1	94(noise):1	97(internet):1	102(near):1	104(sleep):1	119(window):1	124(expensive):1	125(towel):1	134(available):1	153(provide):1	176(fun):1	179(double):1	183(wall):1	259(due):1	265(issue):3	269(decor):1	281(house):1	304(single):1	327(glass):2	330(toilet):2	338(tiny):1	353(instead):1	360(daily):1	367(housekeeping):1	374(reason):1	390(adequate):1	408(inside):1	438(easily):1	453(okay):1	458(positive):1	462(fairly):2	485(delicious):1	494(fix):1	498(despite):1	499(fast):1	536(prefer):1	541(appear):3	581(rain):1	582(european):1	592(detail):3	682(usual):1	695(annoy):1	717(wireless):1	720(minor):3	726(attention):1	774(lock):2	776(paper):1	830(common):2	847(mattress):3	888(switch):1	961(stylish):1	1041(push):1	1086(shut):1	1091(normally):1	1112(fare):1	1140(umbrella):1	1152(disgust):1	1287(leak):2	1344(drawback):1	1468(soak):1	1472(chic):1	1486(improvement):1	1489(drain):1	1698(obvious):1	1780(function):1	1927(flood):1	2082(affect):1	2127(vanity):1	2585(bistro):1	2588(doesnt):1	2616(sleek):1	2635(industry):1	2718(blood):1	3045(dried):1	3384(dispenser):1	3594(routine):1	3738(tolerable):1	5497(notable):1	7432(innovative):1	7809(smear):1	10844(dense):1	
+6	28(close):1	34(feel):1	592(detail):1	1034(secure):1	2837(thoughtful):1	6728(hauptbahnhof):1	
+7	3(clean):2	151(modern):1	157(light):1	459(dark):1	630(linen):1	1327(wood):1	2616(sleek):1	
+4	8(day):1	136(charge):1	455(slow):1	932(connection):1	
+9	333(selection):1	441(cheese):1	677(meat):1	909(salad):1	1116(milk):1	1928(deli):1	2660(accompany):1	3115(raw):1	6338(cure):1	
+0	
+
+<Author>donnerkebab
+<Content>chic and sexy Hotel was well placed to see all the sights of Frankfurt.Unlike some hotel pictures , flemings lived up to all expectations.We loved the shower in the room all that was missing was a mirror on the wall at the foot of the bed!!!!!!!!The staff were very helpful and attentive. A really classy chic boutique hotel offering excellent value for money.I hope my lover takes me back.  
+<Date>Dec 3, 2006
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+6	328(hope):1	411(sight):1	1472(chic):1	1922(frankfurt):1	2568(lover):1	4665(sexy):1	
+11	21(excellent):1	80(money):1	81(value):1	89(offer):1	206(live):1	431(expectation):1	456(picture):1	623(boutique):1	1163(unlike):1	1472(chic):1	1488(classy):1	
+7	11(bed):1	40(love):1	61(shower):1	183(wall):1	276(miss):1	402(foot):1	1129(mirror):1	
+0	
+0	
+3	0(staff):1	14(helpful):1	537(attentive):1	
+0	
+0	
+
+<Author>SpindoctorMario
+<Content>Very nice, reasonably priced hotel near the main Frankfurt train station... Only stayed there for an overnight, but had nothing to complain about. Very clean rooms with a nice glass-walled shower set up that combines a spacious bathroom with the main sleeping area. The restaurant/deli was good and their wine selection was nice. The staff was very helpful and courteous and spoke both German and English perfectly. Basically perfect place to wind down at the end of business meetings or to meet clients. Very convenient for setting out to surrounding towns by train or reaching the Frankfurt International Airport (20 minutes by taxi or train). A very good value for a fair and reasonable price. Only complaint I had was that their email setup blocks email being sent outbound via Outlook.  
+<Date>Nov 20, 2006
+<Rating>4	5	4	4	5	4	4	2	
+<Aspects>
+7	100(bloc):1	190(complaint):1	447(send):1	512(via):1	3363(setup):1	4959(outlook):1	12725(outbound):1	
+4	19(price):1	81(value):1	273(reasonable):1	739(fair):1	
+9	3(clean):1	4(nice):1	13(bathroom):1	61(shower):1	104(sleep):1	111(spacious):1	112(main):1	234(set):1	2316(combine):1	
+26	4(nice):1	19(price):1	29(minute):1	74(perfect):1	82(station):1	95(airport):1	102(near):1	112(main):1	147(business):1	182(train):3	185(taxi):1	186(convenient):1	196(meet):1	234(set):1	239(town):1	241(complain):1	578(reasonably):1	667(surround):1	790(basically):1	851(reach):1	903(international):1	1168(wind):1	1171(overnight):1	1922(frankfurt):2	1952(client):1	2346(meeting):1	
+0	
+7	0(staff):1	14(helpful):1	127(speak):1	152(english):1	483(courteous):1	595(perfectly):1	1382(german):1	
+4	4(nice):1	10(restaurant):1	251(wine):1	333(selection):1	
+0	
+
+<Author>lass=
+<Content>convenient location               More photos  
+<Date>Nov 23, 2005
+<Rating>4	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+0	
+3	1(location):1	186(convenient):1	761(photo):1	
+0	
+0	
+0	
+0	
+
+<Author>銉併儯銉?> 銉併儯銉?</a> </div>
+<Content>銇俱仧浣裤仯銇︺伩銇熴亜銇с仚銇紒       銉涖儐銉亱銈変腑澶銇悜銇嬨亞閫斾腑銇亗銈嬨偣銉笺儜銉?/a>  
+<Date>Nov 26, 2008
+<Rating>4	3	5	4	5	5	3	2	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

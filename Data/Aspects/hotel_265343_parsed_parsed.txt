@@ -1,0 +1,476 @@
+<Author>flightkid
+<Content>Great Hotel, Friendly Staff, and VERY VERY Clean Rooms We stayed in the hotel for 3 nights and the experience was fantastic. The people at the receptionist desk were outstanding. They greeted us by our names and took great care of us. The rooms were ultra clean, great amenities, and quiet area! The hotel is located only a block from the metro making it so easy to get to the heart of Paris in less than 15 min. We had a great experience with this hotel and will for sure stay again here at this hotel! Happy Holidays everyone!  
+<Date>Dec 30, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+5	155(happy):1	223(holiday):1	242(care):1	295(name):1	415(greet):1	
+6	0(staff):1	2(night):1	3(clean):1	12(friendly):1	44(experience):2	86(fantastic):1	
+4	3(clean):1	58(quiet):1	291(amenity):1	2744(ultra):1	
+7	84(locate):1	93(easy):1	100(bloc):1	235(metro):1	247(min):1	403(paris):1	450(heart):1	
+0	
+4	26(people):1	36(desk):1	534(outstanding):1	855(receptionist):1	
+0	
+0	
+
+<Author>LadyLalande
+<Content>My hotel of choice for value for money I have been a frequent visitor to Paris from London for several years, and now I always choose to stay at the Hotel Apollon because it offers very good value for money, all the facilities I need and the staff are friendly and helpful. I used to try a different hotel each visit, so I know quite how bad and/or expensive some hotels can be.. The Quartier Pernety, where the hotel is located feels safe, and has a pleasant village atmosphere. It is away from the thundering traffic on the boulevards, and there is a Metro station just on the next corner, and a good choice of local restaurants and little shops.The rooms in the hotel are always spotlessly clean, and the quality of decor, particularly the shower and bathrooms which are all being renewed, is high. The staff all speak good English, and will always do their best to be helpful. This is very important because the service ethos cannot be taken for granted in France. There is free wifi available in the rooms, or access to the internet from a fixed computer if you do not bring your own. I have no hesitation in thoroughly recommending this hotel.  
+<Date>Dec 20, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+3	15(recommend):1	898(thoroughly):1	1373(hesitation):1	
+24	0(staff):1	12(friendly):1	14(helpful):1	34(feel):1	50(bad):1	65(visit):1	76(try):1	80(money):2	81(value):2	84(locate):1	89(offer):1	107(choice):1	124(expensive):1	137(safe):1	150(pleasant):1	167(choose):1	211(facility):1	403(paris):1	414(atmosphere):1	697(london):1	951(visitor):1	1087(village):1	1355(frequent):1	11613(quartier):1	
+8	3(clean):1	13(bathroom):1	61(shower):1	187(quality):1	269(decor):1	553(particularly):1	1094(spotlessly):1	3493(renew):1	
+11	10(restaurant):1	23(little):1	49(shop):1	82(station):1	107(choice):1	195(local):1	200(corner):1	235(metro):1	486(traffic):1	2931(boulevard):1	6878(thunder):1	
+0	
+4	0(staff):1	14(helpful):1	127(speak):1	152(english):1	
+3	9(service):1	1690(grant):1	1784(france):1	
+9	46(free):1	97(internet):1	134(available):1	142(bring):1	159(access):1	166(own):1	494(fix):1	555(computer):1	1268(wifi):1	
+
+<Author>TomfromDallas
+<Content>Great Hotel and Helpful Staff I can safely say this hotel is an excellent bargain. The rooms were clean and the service was excellent. All of the front desk personnel remembered our names and greeted us every time we walked in. Everyone spoke very good English.The hotel is well located, 50 yards from a metro station and only a couple of blocks form the main Montparnasse station.While not the largest hotel room in the world, certainly acceptable from a European standpoint and extremely clean and updated. I would defintitely stay at this hotel again and would be comfortable recommending to friends and family!  
+<Date>Nov 14, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+6	15(recommend):1	25(comfortable):1	106(family):1	127(speak):1	146(friend):1	152(english):1	
+5	0(staff):1	14(helpful):1	21(excellent):1	759(bargain):1	3347(safely):1	
+9	3(clean):2	9(service):1	21(excellent):1	110(extremely):1	272(world):1	582(european):1	725(update):1	1214(acceptable):1	8405(standpoint):1	
+9	82(station):2	84(locate):1	99(couple):1	100(bloc):1	112(main):1	235(metro):1	1164(form):1	1307(yard):1	5604(montparnasse):1	
+0	
+8	5(time):1	7(walk):1	31(front):1	36(desk):1	295(name):1	375(remember):1	415(greet):1	1457(personnel):1	
+0	
+0	
+
+<Author>meriksen
+<Content>Great stay Stayed here for 4 nights with my 18 year old daughter. Hotel Apollon Montparnasse was an excellent base for visiting the sites of Paris as the nearest Metro station was only about a minute and a half walk away and gave quick and easy access to central Paris. Although on the corner of 2 streets our room, which looked over one of these streets, was not noisy at night, which I had been slighly worried about before arriving. The area round about was mainly residential and small retail businesses with a number of pleasant restaurants, cafes and bars within easy walking distance. We felt quite comfortable and safe walking around in the evening.Our twin room was not large, but was perfectly acceptable, nicely decorated with comfortable beds and a newly renovated bathroom of a good size. The reception staff were always pleasant, polite and helpful. The free internet access in reception was very useful.  
+<Date>Nov 7, 2008
+<Rating>5	4	4	5	4	5	4	5	
+<Aspects>
+2	2(night):1	467(daughter):1	
+0	
+19	2(night):1	11(bed):1	13(bathroom):1	20(look):1	25(comfortable):1	35(street):2	53(arrive):1	83(size):1	200(corner):1	217(noisy):1	305(decorate):1	404(nicely):1	533(renovate):1	595(perfectly):1	690(twin):1	885(worried):1	1189(newly):1	1214(acceptable):1	11426(slighly):1	
+29	7(walk):3	10(restaurant):1	21(excellent):1	25(comfortable):1	27(bar):1	29(minute):1	34(feel):1	65(visit):1	82(station):1	93(easy):2	102(near):1	115(distance):1	137(safe):1	147(business):1	150(pleasant):1	159(access):1	168(central):1	192(site):1	235(metro):1	275(cafe):1	283(half):1	284(base):1	299(quick):1	335(numb):1	403(paris):2	1177(mainly):1	1537(residential):1	4459(retail):1	5604(montparnasse):1	
+0	
+5	0(staff):1	14(helpful):1	129(reception):1	150(pleasant):1	422(polite):1	
+0	
+5	46(free):1	97(internet):1	129(reception):1	159(access):1	1232(useful):1	
+
+<Author>mejenny
+<Content>Lovely Hotel       Double Room  
+<Date>Oct 30, 2008
+<Rating>5	-1	4	5	5	5	4	5	
+<Aspects>
+0	
+0	
+2	87(lovely):1	179(double):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>djukfish
+<Content>5/5! I stayed at the Apollon Montparnasse last week as I was in Paris on a business trip.I have to admit that I was suprised by the warm welcome I received and by the standing of the room.The staff were really helpful.My bedroom although quite small was nicely decorated, clean with all appliances provided.The hotel is located near a convenient metro station.I would surely stay there on my next trip to Paris.  
+<Date>Oct 23, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	33(trip):1	403(paris):1	2033(surely):1	
+0	
+12	3(clean):1	153(provide):1	202(welcome):1	236(warm):1	268(bedroom):1	302(receive):1	305(decorate):1	404(nicely):1	444(stand):1	1282(admit):1	1738(suprise):1	3434(appliance):1	
+10	33(trip):1	75(week):1	82(station):1	84(locate):1	102(near):1	147(business):1	186(convenient):1	235(metro):1	403(paris):1	5604(montparnasse):1	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>velokeith
+<Content>Very nice and great value Our stay at Hotel Apollon was great. The hotel is nicely located one block from the Metro and is in a nice neighborhood. The room while small was clean, comfortable and had a decent size bathroom. The counter staff was very helpful and offered assistance for activities outside of the hotel. The breakfast made for an easy start to the day but was nothing spectacular.As a side note I would recommend spending some time in the neighborhood immediately surrounding the hotel. There were great shops (of the food and wine varieties) very close.Additionally the hotel advertises free internet in the looby but we were also able to connect to their wi-fi in our room.  
+<Date>Oct 18, 2008
+<Rating>4	5	4	5	5	5	5	5	
+<Aspects>
+0	
+7	4(nice):1	6(breakfast):1	8(day):1	81(value):1	93(easy):1	165(start):1	656(spectacular):1	
+13	3(clean):1	13(bathroom):1	25(comfortable):1	46(free):1	83(size):1	97(internet):1	171(able):1	257(decent):1	841(connect):1	910(advertise):1	1827(wi-fi):1	2649(additionally):1	12023(looby):1	
+24	0(staff):1	4(nice):1	5(time):1	14(helpful):1	15(recommend):1	16(food):1	28(close):1	49(shop):1	64(spend):1	84(locate):1	89(offer):1	98(outside):1	100(bloc):1	235(metro):1	251(wine):1	297(note):1	357(activity):1	404(nicely):1	413(variety):1	421(neighbourhood):2	489(immediately):1	667(surround):1	1001(counter):1	1669(assistance):1	
+0	
+0	
+0	
+0	
+
+<Author>landb3473
+<Content>An excellent hotel This emains, after a few stays there, one of my favorite hotels in Paris. The rooms are all quiet (windows double-glazed) and well decorated. The staff are very knowledgeable and friendly. The hotel is a little away from the center of Paris but is very convenient to the Metro and is particularly convenient for those interested in flea markey shopping! The rooms are, as many are in Paris, a bit small for Americans, but for short stays are fine.The rooms are very moderately priced and thus are a remarkable value for the money.I would heartily recommend the hotel and look forward to staying there on future visits.  
+<Date>Oct 17, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+9	15(recommend):1	20(look):1	21(excellent):1	65(visit):1	376(favourite):1	403(paris):1	732(future):1	750(forward):1	4948(heartily):1	
+5	19(price):1	80(money):1	81(value):1	3163(remarkable):1	3195(moderately):1	
+9	52(bit):1	58(quiet):1	113(fine):1	119(window):1	144(short):1	305(decorate):1	403(paris):1	1172(americans):1	6447(double-glaze):1	
+8	23(little):1	49(shop):1	101(center):1	186(convenient):2	235(metro):1	403(paris):1	553(particularly):1	2289(flea):1	
+0	
+3	0(staff):1	12(friendly):1	1160(knowledgeable):1	
+0	
+0	
+
+<Author>CuriousLuna
+<Content>Fantastic Budget Hotel This was an excellent hotel on a low budget. The rooms were clean, it was so near the Metro, the staff were very friendly. Probably not bother with the breakfast though as there are so many wonderful places to eat in Paris.  
+<Date>Oct 13, 2008
+<Rating>4	4	4	4	4	5	-1	-1	
+<Aspects>
+4	21(excellent):1	86(fantastic):1	429(budget):2	513(low):1	
+0	
+5	0(staff):1	3(clean):1	12(friendly):1	102(near):1	235(metro):1	
+0	
+0	
+0	
+6	6(breakfast):1	47(eat):1	48(wonderful):1	178(probably):1	307(bother):1	403(paris):1	
+0	
+
+<Author>BC_Stella
+<Content>Amazing Find in Paris! My husband and I stayed here for 7 nights and will definitely book here again when we next travel to Paris. What a find! The staff were wonderful - could not of been more helpful. The room and hotel were extremely clean. This hotel is in a wonderful neighbourhood - everything you could need within a block or two in any direction. Even though the Metro was just a few minutes away, we walked alot. 30 minutes to the Eiffel Tower. The great reviews here are not wrong. If you want to really experience Paris without all the other tourists, this is the area.  
+<Date>Oct 8, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+8	37(review):1	48(wonderful):1	100(bloc):1	145(amaze):1	395(direction):1	403(paris):1	421(neighbourhood):1	427(wrong):1	
+3	44(experience):1	209(tourist):1	403(paris):1	
+5	3(clean):1	29(minute):1	110(extremely):1	378(tower):1	1532(eiffel):1	
+4	7(walk):1	29(minute):1	235(metro):1	647(alot):1	
+0	
+3	0(staff):1	14(helpful):1	48(wonderful):1	
+6	2(night):1	18(book):1	59(definitely):1	68(travel):1	105(husband):1	403(paris):1	
+0	
+
+<Author>mungoandalex
+<Content>Super hotel, very clean, great location. The Hotel Apollon, a fantastic hotel in a great area. For a two star hotel it was immaculately clean. The rooms were small but the d茅cor was pleasant and bathrooms were like new. Beds weren鈥檛 the biggest but we both slept really well both nights. The traffic outside could be a little noisy but you could shut the windows to block that out and as all rooms have air con it was fine. Breakfast in the morning was basic but had everything we needed to keep us going till lunchtime and the coffee was great. It is a 20 second walk to the metro and a few good bars on the doorstep, bank right underneath, caf茅, take away and chemist. We would definitely use the Apollon on our next trip to Paris.  
+<Date>Sep 15, 2008
+<Rating>5	5	3	5	5	4	4	4	
+<Aspects>
+4	33(trip):1	59(definitely):1	86(fantastic):1	403(paris):1	
+3	3(clean):1	103(star):1	2084(immaculately):1	
+16	2(night):1	11(bed):1	13(bathroom):1	23(little):1	98(outside):1	100(bloc):1	104(sleep):1	113(fine):1	119(window):1	150(pleasant):1	164(air):1	217(noisy):1	486(traffic):1	840(Con):1	1086(shut):1	3124(weren):1	
+11	1(location):1	3(clean):1	7(walk):1	27(bar):1	235(metro):1	464(super):1	1225(bank):1	2071(doorstep):1	2459(underneath):1	2532(caf):1	9408(chemist):1	
+0	
+0	
+6	6(breakfast):1	56(morning):1	90(coffee):1	352(basic):1	979(till):1	3990(lunchtime):1	
+0	
+
+<Author>SterlingTie
+<Content>Great stay at the Apollon in Montparnasse My wife and I and our 3 adult daughters just returned from two days in Paris where we stayed at the Hotel Apollon. It was a delight! Paris is great and the staff and facilities of the Apollon made it just that little bit better.The hotel has a great location - out of the tourist district but right next to the Metro and a few stops away from anywhere in town. The streets are quiet at night with a few cafes and restaurants in the immediate vicinity. We had a nice dinner down the street even though it was late at night and the owner wanted to close up - he was going on holidays the next day. When he found out we are from Canada, he threw open the kitchan and treated us like royalty. Remember, people in France go on holidays in August and that really affects your dining choices.The hotel is clean, clean, clean. We had a double and a triple and they were more than big enough, especially by european standards. The staff were great, very friendly and accomodating. Watch the elevator - on 2 passengers at a time.The value - great! 100 Euro including breakfast - can't beat it!  
+<Date>Sep 2, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+16	8(day):1	39(return):1	126(especially):1	130(standard):1	179(double):1	184(wife):1	320(treat):1	403(paris):1	467(daughter):1	556(adult):1	582(european):1	917(throw):1	1384(canada):1	1553(triple):1	2156(royalty):1	5604(montparnasse):1	
+11	0(staff):1	12(friendly):1	26(people):1	81(value):1	107(choice):1	223(holiday):1	316(dine):1	375(remember):1	549(accomodate):1	1784(france):1	2082(affect):1	
+1	1025(delight):1	
+20	0(staff):1	1(location):1	2(night):1	4(nice):1	8(day):1	23(little):1	28(close):1	35(street):1	52(bit):1	79(late):1	117(dinner):1	122(stop):1	209(tourist):1	211(facility):1	223(holiday):1	235(metro):1	239(town):1	403(paris):1	433(district):1	672(owner):1	
+1	3(clean):3	
+0	
+15	2(night):1	5(time):1	6(breakfast):1	10(restaurant):1	35(street):1	58(quiet):1	71(include):1	216(elevator):1	245(watch):1	256(euro):1	275(cafe):1	442(beat):1	1761(immediate):1	2232(vicinity):1	2684(passenger):1	
+0	
+
+<Author>Michjvan
+<Content>Enjoyed Montparnasse A most fantastic hotel to stay in Paris city. All attractions are very easily accessed by the Metro system. Relaxing, pleasent stay for young couples or older couples. Our fours day stay was very satisfactory and most affordable. The district around is very beautiful indeed.Michael O'Sullivan, Ireland  
+<Date>Aug 18, 2008
+<Rating>5	5	3	5	4	4	3	5	
+<Aspects>
+17	8(day):1	41(city):1	45(beautiful):1	51(enjoy):1	86(fantastic):1	99(couple):2	160(relax):1	403(paris):1	433(district):1	990(indeed):1	1062(affordable):1	1908(michael):1	2059(satisfactory):1	3057(pleasent):1	3748(ireland):1	5604(montparnasse):1	12797(fours):1	
+0	
+0	
+0	
+0	
+0	
+0	
+5	159(access):1	235(metro):1	350(attraction):1	438(easily):1	518(system):1	
+
+<Author>Nigel75
+<Content>two nights in Paris       view from the street  
+<Date>Aug 1, 2008
+<Rating>4	4	4	3	4	4	4	3	
+<Aspects>
+0	
+0	
+0	
+4	2(night):1	17(view):1	35(street):1	403(paris):1	
+0	
+0	
+0	
+0	
+
+<Author>lordbrar
+<Content>10 Amazing Days in Paris!       The Bedroom  
+<Date>Jul 21, 2008
+<Rating>5	5	5	5	5	5	5	2	
+<Aspects>
+3	8(day):1	145(amaze):1	403(paris):1	
+0	
+1	268(bedroom):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>hatedtownhouse
+<Content>A Decent, Inexpensive and Centrally Located Hotel in Paris I just got back from a 10 day stay in Paris and stayed the whole time at the Hotel Apollon Montaparnasse on 91 rue de l'Ouest.I would highly recommend this hotel to the traveler on a budget...especially if you are traveling alone or with just one or two people. The hotel is quaint...small and in fair condition. The staff spoke English fairly well and were incredibly polite, friendly, helpful and accommodating. I paid about 99 Euros per night during the week and slightly over that (maybe 120 Euros) for weekend nights. That came with continental breakfast...cereal, croissants  bread, coffee, juice, ham, and very good cheese. Furthermore, the hotel is located a very short walk from the Pernety Metro station in Montparnasse. The neighborhood is pleasant...not too ritzy, not trashy at all. The cafe at the end of the street, on the corner next to the metro station is excellent and friendly. The regulars are colorful and welcoming. There are two Franprix stores in the neighborhood very close to the hotel. My room was small (by American standards) but very cozy. I had a nice view of the street and it wasn't too noisy late at night. My room had A/C and the hotel provides free wireless internet connection. I had daily maid service and a refrigerator in my room. All in all I was very glad to stay at this hotel for my first trip to Paris.  
+<Date>Jul 18, 2008
+<Rating>4	3	3	5	4	5	5	5	
+<Aspects>
+17	15(recommend):1	26(people):1	33(trip):1	68(travel):1	126(especially):1	138(highly):1	150(pleasant):1	202(welcome):1	267(traveler):1	403(paris):1	421(neighbourhood):1	429(budget):1	619(glad):1	744(regular):1	2489(colorful):1	7457(ritzy):1	8594(trashy):1	
+24	0(staff):1	2(night):2	5(time):1	8(day):1	12(friendly):1	14(helpful):1	42(pay):1	75(week):1	84(locate):1	127(speak):1	152(english):1	172(weekend):1	256(euro):2	257(decent):1	308(maybe):1	403(paris):2	422(polite):1	462(fairly):1	598(slightly):1	624(accommodate):1	807(incredibly):1	879(centrally):1	1117(inexpensive):1	1945(rue):1	
+9	9(service):1	130(standard):1	263(condition):1	300(maid):1	360(daily):1	739(fair):1	749(cozy):1	916(refrigerator):1	1295(quaint):1	
+20	2(night):1	4(nice):1	7(walk):1	12(friendly):1	17(view):1	21(excellent):1	28(close):1	35(street):2	79(late):1	82(station):2	84(locate):1	144(short):1	200(corner):1	217(noisy):1	235(metro):2	255(store):1	275(cafe):1	421(neighbourhood):1	3360(furthermore):1	5604(montparnasse):1	
+0	
+0	
+9	6(breakfast):1	90(coffee):1	362(juice):1	372(continental):1	441(cheese):1	497(bread):1	529(cereal):1	1004(croissant):1	1561(ham):1	
+5	46(free):1	97(internet):1	153(provide):1	717(wireless):1	932(connection):1	
+
+<Author>LYNNDNorthYorks
+<Content>Great Find This hotel was a great find, I had read the reviews and they were right.We were greeted by name and made to feel very welcome by the hotel staff. Rooms are small but very clean, the bathrooms all look new. The rooms were quiet even though the hotel is on a junction.The metro station is only at the other end of the street, along with bars and restaurants.The breakfast was fresh and plenty of it, something for everyone, fruit , cheese, bread, cornflakes etc.A very good base to explore Paris, good hotel rates and friendly staff. Will be back.  
+<Date>Jul 7, 2008
+<Rating>5	5	4	4	5	5	5	4	
+<Aspects>
+2	37(review):1	88(read):1	
+0	
+5	3(clean):1	13(bathroom):1	20(look):1	58(quiet):1	4768(junction):1	
+5	10(restaurant):1	27(bar):1	35(street):1	82(station):1	235(metro):1	
+0	
+5	0(staff):1	34(feel):1	202(welcome):1	295(name):1	415(greet):1	
+14	0(staff):1	6(breakfast):1	12(friendly):1	73(etc):1	78(rate):1	158(plenty):1	197(fresh):1	215(fruit):1	284(base):1	403(paris):1	441(cheese):1	497(bread):1	594(explore):1	6300(cornflake):1	
+0	
+
+<Author>Rosemary-Ann
+<Content>Great affordable hotel with helpful staff After reading the other very positive reviews on Trip Advisor, I booked two nights for my mother and I. Her biggest concern is always Is it clean? and it was very clean (and had very new bathrooms), so she was happy. I was pleased with the location, just a block from the Metro, which had great connections. (The Paris Visite card (unlimited metro, bus and local train) is a good investment for the short stay.) It is an great little hotel, and given it's affordable rates, a bargain in Paris. Our double was a good sized room, larger than many European hotel rooms I've stayed in. The neighborhood is quiet (makes for good sleeping), but there is at least one great bistro on the street, and many more within short walking distance. Also, there is a/c in the room, just in case the summer gets hot. (A definite plus.) Mom's first trip to Paris was a good one.(Whew!) I am so glad we had the Apollon and their helpful staff to come back to each night.  
+<Date>Jun 12, 2008
+<Rating>5	5	4	4	5	5	5	3	
+<Aspects>
+6	33(trip):1	203(plus):1	403(paris):1	1855(mom):1	2369(definite):1	10232(whew):1	
+5	23(little):1	78(rate):1	403(paris):1	759(bargain):1	1062(affordable):1	
+16	3(clean):1	7(walk):1	13(bathroom):1	35(street):1	58(quiet):1	83(size):1	104(sleep):1	114(hot):1	115(distance):1	144(short):1	155(happy):1	179(double):1	421(neighbourhood):1	582(european):1	853(summer):1	2585(bistro):1	
+14	1(location):1	100(bloc):1	120(bus):1	144(short):1	173(please):1	182(train):1	195(local):1	235(metro):2	292(card):1	403(paris):1	932(connection):1	2077(unlimited):1	4989(investment):1	12844(visite):1	
+13	0(staff):1	2(night):1	3(clean):1	14(helpful):1	18(book):1	33(trip):1	37(review):1	88(read):1	458(positive):1	496(concern):1	701(advisor):1	1062(affordable):1	1359(mother):1	
+4	0(staff):1	2(night):1	14(helpful):1	619(glad):1	
+0	
+0	
+
+<Author>leloshea
+<Content>A gem Wow, I was so pleased to find myself at the Apollon! Immaculately clean, lovely staff in a charming part of Paris. As a woman travelling alone, I was a little anxious about spending four nights there by myself - but the people at the Apollon were so nice I started to relax immediately.It was great that the room had an en suite shower room - it was small but perfectly formed, and again, spotless. I was on the fifth floor and it took a while for the hot water in the shower to kick in but when it came there was plenty of it.I loved the Pernety area - real, working Paris. Surprisingly relaxed, great cafes and shops and some good art galleries. Easy stroll to the heart of Montparnasse. I found the bus route 58 really useful - 5 minutes to St Germain.I can't wait to go back! All in all, for a two star in Paris... impeccable!!!!!  
+<Date>Jun 3, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+7	40(love):1	93(easy):1	240(real):1	403(paris):1	450(heart):1	1056(stroll):1	5604(montparnasse):1	
+14	2(night):1	4(nice):1	23(little):1	26(people):1	64(spend):1	68(travel):1	103(star):1	160(relax):1	165(start):1	403(paris):1	489(immediately):1	566(woman):1	1542(impeccable):1	3229(anxious):1	
+12	24(floor):1	57(water):1	61(shower):2	108(suite):1	114(hot):1	158(plenty):1	548(spotless):1	595(perfectly):1	1164(form):1	1832(fifth):1	1926(kick):1	2065(en):1	
+12	29(minute):1	49(shop):1	120(bus):1	160(relax):1	275(cafe):1	789(art):1	940(St):1	1035(route):1	1232(useful):1	1375(surprisingly):1	1794(gallery):1	2935(germain):1	
+6	0(staff):1	3(clean):1	87(lovely):1	332(charm):1	403(paris):1	2084(immaculately):1	
+1	85(wait):1	
+3	173(please):1	805(gem):1	862(wow):1	
+0	
+
+<Author>iljata
+<Content>Nice Place We were there for NY2008. We liked the place. Nice and clean. Good location - walked to the Eiffel tower. Personnel was friendly. Rooms are small, but I guess this is quite normal for Paris. The breakfast was fairly poor for its price (not included in the roomprice).Overall - a good place to stay in Paris.  
+<Date>Apr 19, 2008
+<Rating>4	4	3	3	3	4	3	3	
+<Aspects>
+5	4(nice):1	12(friendly):1	70(overall):1	403(paris):1	1457(personnel):1	
+0	
+8	6(breakfast):1	19(price):1	71(include):1	331(poor):1	403(paris):1	462(fairly):1	469(guess):1	878(normal):1	
+4	1(location):1	7(walk):1	378(tower):1	1532(eiffel):1	
+2	3(clean):1	4(nice):1	
+0	
+0	
+0	
+
+<Author>AustralianTripper
+<Content>Very Happy Stay I stayed in a single room at the Hotel Apollon Montparnasse just after christmas and found the staff to be very helpful and courteous. My room was very modern, clean and spacious for a single room. The bathroom was well-designed and looked newly renovated. The hotel is only a block from the metro and a short walk to Gare Montparnasse and Bld Montparnasse- the heart of a busy area. Shops, movies,restaurants and connections by train to the rest of Paris and other parts of France. The Air France bus from Gare Montparnasse to the airport was excellent - leaving regularly and dropping you off at your terminal. In all, a great stay.  
+<Date>Jan 12, 2008
+<Rating>5	4	4	4	5	5	4	4	
+<Aspects>
+0	
+0	
+15	0(staff):1	3(clean):1	13(bathroom):1	14(helpful):1	20(look):1	111(spacious):1	151(modern):1	155(happy):1	304(single):2	483(courteous):1	533(renovate):1	962(christmas):1	1189(newly):1	5604(montparnasse):1	6974(well-design):1	
+24	7(walk):1	10(restaurant):1	21(excellent):1	43(leave):1	49(shop):1	95(airport):1	100(bloc):1	120(bus):1	144(short):1	164(air):1	182(train):1	220(busy):1	235(metro):1	288(rest):1	403(paris):1	450(heart):1	662(drop):1	932(connection):1	989(movie):1	1261(terminal):1	1784(france):2	1881(regularly):1	4794(gare):2	5604(montparnasse):3	
+0	
+0	
+0	
+0	
+
+<Author>lauramc06
+<Content>Great little hotel This is a great hotel in Paris. We contacted the hotel directly and got a great rate of 鈧?5 euro per night and this was even over New Year's eve. The staff were great really helpful. The rooms are a bit small but not really a problem. There was a tv, fridge and hairdryer in the room, which was great and the room and bathroom were really clean and cleaned and bed made every day.There is a metro station literally around the corner and it was so easy to get to all the tourist attractions - it was only about 3 or 4 stops to the middle of the Champs-Elysses. The area is lovely with cafes and patisseries and a supermarket all around the corner.I was really surprised at how good the hotel was at such a great price. I would definetely recommend it to people.  
+<Date>Jan 8, 2008
+<Rating>4	5	4	4	5	4	4	4	
+<Aspects>
+5	15(recommend):1	23(little):1	26(people):1	403(paris):1	2820(definetely):1	
+2	19(price):1	199(surprise):1	
+8	3(clean):2	8(day):1	11(bed):1	13(bathroom):1	52(bit):1	116(tv):1	318(fridge):1	1493(hairdryer):1	
+13	82(station):1	87(lovely):1	93(easy):1	122(stop):1	200(corner):2	209(tourist):1	235(metro):1	275(cafe):1	325(middle):1	350(attraction):1	665(literally):1	1078(supermarket):1	6825(patissery):1	
+0	
+8	0(staff):1	2(night):1	14(helpful):1	78(rate):1	256(euro):1	383(directly):1	713(contact):1	1787(eve):1	
+0	
+0	
+
+<Author>linnae55
+<Content>Great little budget find in Paris We just returned from a month in Europe, flying in and out of Paris. We picked this hotel for our first few days in Paris and chose to return to it again before we left. Agree with the other positive reviews and the photos are accurate...great location (after a full day of Paris sight-seeing, it's great to have a metro stop a block away), friendly, helpful staff who are fluent in English, lots of shops, restaurants and cafes nearby, clean rooms (yes, they're small, but we only slept there), free internet in the lobby. We'd definitely choose it again. There is a breakfast available in the basement...croissants, rolls, cheese, cold cuts, cereal, fruit...probably worth it if you take into account the convenience and the bottomless coffee cup, which you won't find in Paris cafes.  
+<Date>Nov 3, 2007
+<Rating>4	5	4	5	4	5	4	4	
+<Aspects>
+12	8(day):1	23(little):1	39(return):2	43(leave):1	59(definitely):1	167(choose):2	266(pick):1	388(month):1	403(paris):3	429(budget):1	614(fly):1	700(europe):1	
+0	
+0	
+28	0(staff):1	1(location):1	3(clean):1	8(day):1	10(restaurant):1	12(friendly):1	14(helpful):1	37(review):1	38(lot):1	46(free):1	49(shop):1	55(lobby):1	97(internet):1	100(bloc):1	104(sleep):1	122(stop):1	152(english):1	232(nearby):1	235(metro):1	250(yes):1	275(cafe):1	403(paris):1	458(positive):1	473(agree):1	640(sight-see):1	761(photo):1	1785(accurate):1	2037(fluent):1	
+0	
+0	
+19	6(breakfast):1	90(coffee):1	96(worth):1	134(available):1	178(probably):1	215(fruit):1	222(cold):1	275(cafe):1	403(paris):1	441(cheese):1	487(wo):1	529(cereal):1	800(cup):1	813(roll):1	873(cut):1	925(convenience):1	1004(croissant):1	1568(basement):1	1730(account):1	
+0	
+
+<Author>Caleyjoy
+<Content>Loved the Apollon Just got back from another fabulous stay in Paris. This was our 11th holiday in Paris, in the same neighbourhood, but our first stay at the Apollon. I have nothing but great things to say about Apollon. The staff is amazing, friendly and helpful. The rooms were on the small side, but that is quite normal for Paris. They were well decorated, clean, with newly renovated washrooms with sparkling white tiles and gleaming fixtures. There was also a small fridge in the room. The internet on the main level was free. The Apollon is just two subway stops from the Montparnasse station. It's not directly in the tourist area, but that is a plus as you will be staying where the Parisians live and therefore enjoying their lifestyle, shops and restaurants. An added bonus is that the price is right for the hotel and local restaurants, and all within easy reach of the Metro and therefore all the sights that Paris has to offer. We'll be back!  
+<Date>Nov 3, 2007
+<Rating>5	5	4	4	5	5	5	4	
+<Aspects>
+6	40(love):1	223(holiday):1	270(fabulous):1	403(paris):2	421(neighbourhood):1	1899(11th):1	
+11	10(restaurant):1	19(price):1	89(offer):1	93(easy):1	195(local):1	235(metro):1	351(add):1	403(paris):1	411(sight):1	849(bonus):1	851(reach):1	
+13	3(clean):1	305(decorate):1	318(fridge):1	403(paris):1	466(white):1	533(renovate):1	846(tile):1	878(normal):1	1189(newly):1	1541(fixture):1	1919(sparkle):1	4603(washrooms):1	6799(gleam):1	
+13	10(restaurant):1	49(shop):1	51(enjoy):1	82(station):1	122(stop):1	203(plus):1	206(live):1	209(tourist):1	370(subway):1	383(directly):1	5395(life style):1	5604(montparnasse):1	7396(parisians):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	145(amaze):1	
+0	
+4	46(free):1	97(internet):1	112(main):1	306(level):1	
+
+<Author>bch1975
+<Content>Good budget hotel We contacted the hotel directly and got a price of 85 euros per night which is a steal anywhere, but especially in Paris. I was a little nervous because although all the other reviews were positive, how good could it really be for so little money? First of all, it is very close to the metro station (on the same block) and close to many little shops, etc. The front desk staff was among the nicest I have encountered at any hotel and very accommodating. They have a computer with internet for use in the lobby but no wi-fi at the time of our visit. You can choose to have the hotel breakfast, but with such great choices outside the hotel I wouldn't bother. The rooms were small-ish but not terribly so-- a small path around the bed is about the extent of the extra room but if you're like us and only spend the time in your room sleeping then it won't matter. The rooms have TV and little fridge and hairdryers and decent bathrooms. It can get a little noisy at night time (though we were there during rugby season) but sounds in the hallway really do carry into the rooms. We still managed to sleep ok. If you are looking for something affordable and decent then this is a gem. If you want more space/amenities/quiet I wouldn't suggest it.  
+<Date>Oct 23, 2007
+<Rating>4	4	3	5	3	5	3	3	
+<Aspects>
+5	23(little):2	37(review):1	80(money):1	458(positive):1	1408(nervous):1	
+14	2(night):1	6(breakfast):1	19(price):1	98(outside):1	107(choice):1	126(especially):1	167(choose):1	256(euro):1	307(bother):1	383(directly):1	403(paris):1	429(budget):1	713(contact):1	1187(steal):1	
+28	2(night):1	5(time):2	11(bed):1	13(bathroom):1	23(little):2	64(spend):1	104(sleep):2	116(tv):1	123(ok):1	128(extra):1	210(space):1	217(noisy):1	257(decent):1	318(fridge):1	409(sound):1	452(suggest):1	487(wo):1	531(matter):1	580(hallway):1	610(season):1	645(manage):1	824(carry):1	1493(hairdryer):1	1612(path):1	1910(terribly):1	3945(extent):1	7979(Rugby):1	8779(small-ish):1	
+7	23(little):1	28(close):2	49(shop):1	73(etc):1	82(station):1	100(bloc):1	235(metro):1	
+0	
+6	0(staff):1	4(nice):1	31(front):1	36(desk):1	624(accommodate):1	693(encounter):1	
+4	20(look):1	257(decent):1	805(gem):1	1062(affordable):1	
+6	5(time):1	55(lobby):1	65(visit):1	97(internet):1	555(computer):1	1827(wi-fi):1	
+
+<Author>bud001
+<Content>Great little hotel - Apollon Montparnasse My partner and I enjoyed two stays with the Hotel Apollon Montparnasse (13-16 August and 20-23 August 2007). For the value this hotel must be one of the best value stays in Paris. Rooms are smallish, but you expect that in Europe, but you get a private bathroom (ask for one with a bath). The beds are comfortable and you are provided with a TV (only French channels). Also the location is very good, you have the metro (Pernety) at the doorstep, with Gare Montparnasse only 10 minutes walk away. One great aspect of the hotel is that it is very quite, you hardly ever hear any disturbance either from other rooms or from the Rue de l'ouest.The staff are very friendly and are fluent in english, which helps those travellers who are pretty tired after 25 hours on a plane. Staff are very helpful, and can make restaurant reservations for you. Breakfast is available downstairs, but go to one of the local bakeries for some beatiful Parisian pastiers.You are close to a a self service laverie, many bakerys and bistros. Please remember that if you come here expecting 5 star luxury at 2 star prices, you will be disapointed. But what you do get is a comfortable, clean room, friendly service and a great location that is close to all modes of transport.I would highly recommend the Apollon Montparnasse to individuals looking for a comfortable and good value place to stay in Paris. I would stay at the Apollon again when I return to Paris.  
+<Date>Sep 18, 2007
+<Rating>4	5	4	5	4	5	5	-1	
+<Aspects>
+6	23(little):1	39(return):1	51(enjoy):1	403(paris):1	1006(partner):1	5604(montparnasse):2	
+15	15(recommend):1	19(price):1	20(look):1	25(comfortable):1	62(expect):1	81(value):3	103(star):2	138(highly):1	173(please):1	375(remember):1	403(paris):2	437(luxury):1	1596(individual):1	2513(disapoint):1	5604(montparnasse):1	
+24	6(breakfast):1	11(bed):1	13(bathroom):1	25(comfortable):1	62(expect):1	116(tv):1	132(hear):1	134(available):1	153(provide):1	195(local):1	226(bath):1	254(french):1	492(private):1	691(downstairs):1	700(europe):1	741(channel):1	985(hardly):1	1255(aspect):1	1483(bakery):1	1945(rue):1	2104(smallish):1	2687(parisian):1	4068(beatiful):1	4602(disturbance):1	
+16	1(location):2	3(clean):1	7(walk):1	9(service):2	12(friendly):1	25(comfortable):1	28(close):2	29(minute):1	235(metro):1	742(transport):1	1314(self):1	2071(doorstep):1	4290(mode):1	4794(gare):1	5400(bistros):1	5604(montparnasse):1	
+0	
+13	0(staff):2	10(restaurant):1	12(friendly):1	14(helpful):1	60(hour):1	92(help):1	109(pretty):1	152(english):1	156(reservation):1	267(traveler):1	454(tire):1	968(plane):1	2037(fluent):1	
+0	
+0	
+
+<Author>parisisforme
+<Content>clean, friendly and great location we stayed in this hotel june 28th-july 2nd. Staff were very friendly and helpful with such things as where to go, map directions etc. The rooms were small, but your only there to sleep! One great thing I loved was all rooms were equipped with a small fridge!The rooms were clean and it is an excellent price for the quality of the hotel. I would recommend this to anyone on a reasonable budget looking for a guaranteed great hotel!!  
+<Date>Jul 11, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	15(recommend):1	20(look):1	273(reasonable):1	429(budget):1	1471(guarantee):1	
+4	3(clean):1	19(price):1	21(excellent):1	187(quality):1	
+4	40(love):1	104(sleep):1	318(fridge):1	884(equip):1	
+5	1(location):1	3(clean):1	12(friendly):1	664(june):1	1326(2nd):1	
+0	
+6	0(staff):1	12(friendly):1	14(helpful):1	73(etc):1	395(direction):1	724(map):1	
+0	
+0	
+
+<Author>123sunshine123
+<Content>Friendly staff, Get what you pay for The hotel staff was friendly and quick. This is a no frills hotel which may be the reason why they are so reasonably priced. Upon check in, the clerk was very efficient and just handed me the room key and told me the room number. There was no key packet with the room number on it. Once we got in the room, it was small to american standards. While the reviews stated it would be small, I was still quite surprised. It was reasonably clean but a little run down. The bathroom wall was peeling, there was a little mildew in the tile cracks in the shower. The walls are thin but that didn't bother us much. It was raining during our trip so there was a bit of a leak from the 2nd floor (3rd floor in the US) to the 1st floor outside of some poor ladies hotel room. To be completely neutral, it was great. But for me personally, I will be upgrading to a hotel with more stars.  
+<Date>Jun 26, 2007
+<Rating>3	4	3	5	2	5	-1	-1	
+<Aspects>
+2	542(completely):1	3742(neutral):1	
+11	0(staff):2	12(friendly):2	19(price):1	42(pay):1	103(star):1	163(upgrade):1	299(quick):1	374(reason):1	578(reasonably):1	1052(personally):1	2210(frill):1	
+27	13(bathroom):1	23(little):1	24(floor):3	32(check):1	33(trip):1	52(bit):1	61(shower):1	69(tell):1	98(outside):1	130(standard):1	183(wall):1	331(poor):1	335(numb):2	339(key):2	377(hand):1	401(efficient):1	521(lady):1	581(rain):1	788(clerk):1	846(tile):1	1287(leak):1	1326(2nd):1	1411(crack):1	1876(mildew):1	1887(peel):1	2097(3rd):1	3101(packet):1	
+5	37(review):1	183(wall):1	199(surprise):1	307(bother):1	754(thin):1	
+4	3(clean):1	23(little):1	149(run):1	578(reasonably):1	
+0	
+0	
+0	
+
+<Author>ts1fsu
+<Content>Wonderful Stay, Great Budget Minded Hotel without Sacrifice       Bathroom  
+<Date>Jun 13, 2007
+<Rating>4	5	4	3	5	5	5	4	
+<Aspects>
+0	
+0	
+5	13(bathroom):1	48(wonderful):1	294(mind):1	429(budget):1	4962(sacrifice):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>wafarin
+<Content>handy hotel for metro. Have just returned from 4 nights at this hotel. I didn't find it quite so fantastic as some of the reviews i read. The room was very small with an even smaller bathroom(although it had just been refurbished) the air-con unit would blow out air, but not very cold air and therefore never switched off. Hot water seemed quite a scare commodity, if you washed mid-afternoon you were alright! Having said that, the hotel is in a nice quiet spot, with the metro station only 50 yards away, the reception did speak some English which is always handy. The breakfast is extra (8.5euro)not a huge choice, 1 roll, 1 croissant each and some ham and cheese, tea and coffee etc. Not having stayed in any other hotel in Paris I did not have anything to judge it on, but if we went again i think i would look around first.  
+<Date>Jun 12, 2007
+<Rating>3	3	2	4	3	2	3	3	
+<Aspects>
+17	2(night):1	20(look):1	37(review):1	39(return):1	57(water):1	86(fantastic):1	88(read):1	114(hot):1	235(metro):1	403(paris):1	755(handy):1	811(wash):1	1711(scare):1	2130(all right):1	2389(judge):1	5943(mid-afternoon):1	8711(commodity):1	
+0	
+18	4(nice):1	13(bathroom):1	58(quiet):1	82(station):1	127(speak):1	129(reception):1	152(english):1	164(air):2	222(cold):1	235(metro):1	317(spot):1	755(handy):1	888(switch):1	980(unit):1	1146(blow):1	1253(refurbish):1	1307(yard):1	3349(air-con):1	
+0	
+0	
+0	
+12	6(breakfast):1	73(etc):1	90(coffee):1	107(choice):1	128(extra):1	133(huge):1	256(euro):1	301(tea):1	441(cheese):1	813(roll):1	1004(croissant):1	1561(ham):1	
+0	
+
+<Author>jennifer8302
+<Content>Wonderful Place to Stay       The looby area  
+<Date>May 27, 2007
+<Rating>5	4	3	5	4	4	5	4	
+<Aspects>
+2	48(wonderful):1	12023(looby):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>catenaire
+<Content>Quiet, Parisian, and off the usual tourist paths       View down Rue Pern茅ty toward Rue Vercing茅torix  
+<Date>Apr 1, 2007
+<Rating>5	5	5	5	5	5	-1	5	
+<Aspects>
+0	
+0	
+7	17(view):1	58(quiet):1	209(tourist):1	682(usual):1	1612(path):1	1945(rue):2	2687(parisian):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>soundguyMelbourne
+<Content>Excellent hotel. Great Location I was looking for a hotel to stay at in Paris after my trip to the Festival Interceltique in Lorient.I chose the hotel because of its easy access from Montparnesse train station.It just got better from there.The Metro station is 30metres from the hotel and you have everything you need within 5 minutes walk.The hotel is wonderful and staff are the best .I will be staying here when I return to France next year.  
+<Date>Jan 14, 2007
+<Rating>5	5	4	5	5	5	5	3	
+<Aspects>
+3	21(excellent):1	39(return):1	1784(france):1	
+0	
+0	
+13	1(location):1	7(walk):1	20(look):1	29(minute):1	33(trip):1	82(station):2	93(easy):1	159(access):1	167(choose):1	182(train):1	235(metro):1	403(paris):1	2399(festival):1	
+0	
+2	0(staff):1	48(wonderful):1	
+0	
+0	
+
+<Author>sock2me
+<Content>Wonderful People A wonderful staff - the owner was terribly sweet and actually drove me to my next hotel! And then if that wasn't enough, he drove me back after I checked in, so I could visit a nearby flea market. Wonderful Wonderful - well worth a stay!  
+<Date>Oct 19, 2006
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+2	48(wonderful):2	96(worth):1	
+0	
+0	
+6	32(check):1	65(visit):1	232(nearby):1	264(market):1	298(drive):1	2289(flea):1	
+0	
+8	0(staff):1	26(people):1	48(wonderful):2	180(actually):1	298(drive):1	672(owner):1	950(sweet):1	1910(terribly):1	
+0	
+0	
+

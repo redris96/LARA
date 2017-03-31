@@ -1,0 +1,644 @@
+<Author>flo136
+<Content>Better than it looks       our little boy loves our suite!  
+<Date>Jan 7, 2009
+<Rating>5	4	3	2	4	4	4	3	
+<Aspects>
+0	
+0	
+5	20(look):1	23(little):1	40(love):1	108(suite):1	881(boy):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Yogi_D
+<Content>Fantastic Hotel       1  
+<Date>Dec 4, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	86(fantastic):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>JETLAG01
+<Content>below par This hotel has to rate as the worst I have stayed in. If cleanliness, and value are your measurables then don't stay here. From cigarette burns in the carpets and furniture to uncomfortable beds and grubby passages this rates as a 1 star. I arrived pretty late and walked into reception area with undesirable people lazing around the shabby couches smoking. The only good thing about this hotel is they offer a free shuttle service to the city as it is too far to walk even though its name would suggest that it is in the shopping area of Orchid st.A definite NO - be warned.  
+<Date>Nov 17, 2008
+<Rating>1	1	1	1	1	2	2	1	
+<Aspects>
+4	50(bad):1	78(rate):1	585(below):1	1666(par):1	
+2	81(value):1	854(cleanliness):1	
+10	11(bed):1	78(rate):1	103(star):1	396(carpet):1	440(furniture):1	856(uncomfortable):1	1289(burn):1	1365(cigarette):1	3740(grubby):1	5863(passage):1	
+23	7(walk):2	9(service):1	26(people):1	41(city):1	46(free):1	49(shop):1	53(arrive):1	79(late):1	89(offer):1	109(pretty):1	129(reception):1	295(name):1	321(shuttle):1	452(suggest):1	468(smoke):1	655(st):1	679(warn):1	1192(couch):1	1319(shabby):1	2369(definite):1	3233(orchid):1	6277(laze):1	7420(undesirable):1	
+0	
+0	
+0	
+0	
+
+<Author>cassandra83
+<Content>Overpriced and very average First time stay in Singapore , booked the Copthorne because of its location near the botanic gardens and the fact it wasn't to expensive without being super small. We booked though an Internet agent one double room and one twin room. Arrived to be given two twin rooms, and we were unable to be moved. Apparently all the double rooms were booked. The staff were unapologetic trying to say that all standard rooms were twins (this is definitely not the case).Unfortunately our stay went from bad to worse. The hallway to the room was open to weather, with the ground being mouldy, and the rooms were very dated. The restaurant was over priced, and the Internet $11/30mins. The hotels only saving grace was there free shuttle bus, and reasonable sized rooms.In the end when we thought we were away from it all, three days later we were double charged on our credit card from the hotel. This took numerous international calls to sort out. I don't think I could recommend this place to anyone.  
+<Date>Nov 7, 2008
+<Rating>2	1	3	3	2	1	2	2	
+<Aspects>
+7	15(recommend):1	50(bad):2	67(call):1	524(unfortunately):1	557(sort):1	903(international):1	971(numerous):1	
+14	1(location):1	5(time):1	10(restaurant):1	18(book):1	19(price):1	97(internet):1	102(near):1	124(expensive):1	227(average):1	310(garden):1	464(super):1	727(overprice):1	960(singapore):1	7155(botanic):1	
+26	0(staff):1	18(book):2	46(free):1	53(arrive):1	59(definitely):1	76(try):1	83(size):1	97(internet):1	120(bus):1	130(standard):1	179(double):2	207(move):1	273(reasonable):1	321(shuttle):1	385(weather):1	425(save):1	511(date):1	580(hallway):1	690(twin):3	706(grind):1	766(agent):1	863(apparently):1	1461(unable):1	2046(moldy):1	2620(grace):1	9042(unapologetic):1	
+0	
+0	
+6	8(day):1	79(late):1	136(charge):1	179(double):1	292(card):1	659(credit):1	
+0	
+0	
+
+<Author>Rivoli08
+<Content>Tired and overpriced We stayed here for two nights as a stop over. The hotel lobby has been updated but the rest of the hotel is tired. The furnishings throughout the hotel were badly stained, including a sofa bed in our room which had a urine stain that you could not only clearly see but also smell! The hotel is also not really located within walking distance of much (particularly given the very humid weather that Singapore has), although cab fares are so reasonable this is perhaps not an issue for everyone. Our main reason for choosing this hotel was that it was near the Botanical Gardens which we wanted to visit. The hotel said they offered a free shuttle but we discovered that the free shuttle only went twice a day (once in the morning and then at 6.30pm at night) and there was no return pick-up. Fairly crap idea of a shuttle really. The shuttle bus to the Orchard Rd however was much more frequent. We ate at the restaurant buffet one night at it was a reasonable option compared to the ordering off the menu (about AUS $40/head).Overall thought it was overpriced for what it was. Not having stayed elsewhere in Singapore recently though it may really just be a case of you get what you pay for, although I'm still sure you could do better than here.  
+<Date>Oct 31, 2008
+<Rating>2	2	1	2	1	4	3	3	
+<Aspects>
+7	65(visit):1	102(near):1	112(main):1	167(choose):1	310(garden):1	374(reason):1	4278(botanical):1	
+9	2(night):1	42(pay):1	70(overall):1	122(stop):1	322(recently):1	454(tire):1	646(elsewhere):1	727(overprice):2	960(singapore):1	
+13	11(bed):1	71(include):1	231(smell):1	321(shuttle):1	445(throughout):1	462(fairly):1	639(idea):1	723(stain):2	842(sofa):1	870(furnishings):1	1663(badly):1	2968(crap):1	3191(urine):1	
+26	2(night):1	7(walk):1	8(day):1	39(return):1	46(free):2	56(morning):1	84(locate):1	89(offer):1	115(distance):1	120(bus):1	265(issue):1	273(reasonable):1	321(shuttle):3	347(twice):1	380(cab):1	385(weather):1	393(pm):1	553(particularly):1	869(discover):1	960(singapore):1	1112(fare):1	1355(frequent):1	1670(orchard):1	1825(humid):1	2258(pickup):1	3113(rd):1	
+0	
+0	
+13	2(night):1	10(restaurant):1	47(eat):1	55(lobby):1	77(buffet):1	273(reasonable):1	288(rest):1	336(option):1	381(compare):1	423(menu):1	454(tire):1	725(update):1	2716(au):1	
+0	
+
+<Author>englishkiwichick
+<Content>We enjoyed our stop-over here We stayed for 4 days here. Travelled with 2 teenage daughters. We arrived at 7.30am and were in our rooms by 8.00am. We were given connecting rooms (we had not been guaranteed this by the travel agents), so that was also a bonus.We were located in the Plymouth wing, which we found very satisfactory and had a balcony with a pleasant enough outlook. The rooms were very spacious, and very clean. The beds were very comfortable with nice bedlinen. Ok, so the bathroom was looking as though it could do with a bit of redecorating, but it was all clean, and all worked perfectly, so no complaints at all, and the decor of the bedrooms was good.Our kids loved the swimming pool, and it was good to have a small laundry that I was able to use. We didn't use the restaurant, so can't comment, although we did have room service (pizza - ok), and breakfast which was good. It's location is too far from Orchard Road to walk, but there is a shuttle bus service (we didn't use it), and the taxi's are cheap enough. You just have to organise yourself to get snacks when you are out and about in the day to take back to the hotel room, as there are no places to get these within walking distance, and also we ate our main meals when out and about, as the hotel food was a bit pricey for us. Although if you have a chocolate craving, there is a small shop in the hotel!The staff are also very friendly and very helpful.We have stayed in a hotel just off Orchard Rd before with a higher rating, but didn't enjoy that anywhere near as much as we enjoyed the Copthorne Orchid, so despite the fact that it is a bit out of the way, we would definitely stay here again, it's not as if Orchard Road is the only place you will visit anyway!  
+<Date>Oct 23, 2008
+<Rating>4	4	4	3	5	5	5	4	
+<Aspects>
+17	8(day):1	51(enjoy):3	52(bit):1	59(definitely):1	65(visit):1	68(travel):1	78(rate):1	102(near):1	230(road):1	417(anyway):1	467(daughter):1	498(despite):1	1670(orchard):2	1837(teen-age):1	3113(rd):1	3233(orchid):1	6955(stop-over):1	
+0	
+27	3(clean):2	4(nice):1	11(bed):1	13(bathroom):1	20(look):1	25(comfortable):1	52(bit):1	53(arrive):1	68(travel):1	84(locate):1	111(spacious):1	123(ok):1	150(pleasant):1	190(complaint):1	191(balcony):1	268(bedroom):1	269(decor):1	595(perfectly):1	766(agent):1	841(connect):1	849(bonus):1	1471(guarantee):1	1515(wing):1	2059(satisfactory):1	4226(redecorate):1	4959(outlook):1	7262(bedlinen):1	
+12	1(location):1	7(walk):1	9(service):1	49(shop):1	120(bus):1	143(cheap):1	185(taxi):1	230(road):1	321(shuttle):1	632(chocolate):1	1670(orchard):1	4648(crave):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+24	6(breakfast):1	7(walk):1	8(day):1	9(service):1	10(restaurant):1	16(food):1	22(pool):1	40(love):1	47(eat):1	52(bit):1	112(main):1	115(distance):1	123(ok):1	171(able):1	201(kid):1	213(meal):1	261(swim):1	356(comment):1	406(snack):1	546(pricey):1	576(yourself):1	678(pizza):1	1075(laundry):1	1167(organize):1	
+0	
+
+<Author>rosied20
+<Content>Nice Hotel - but you need to take taxi to go anywere The hotel is nice and the staff are helpful. The room was nice enough it was your average 3.5 star hotel.The only downfall of this hotel was that there is nothing around the hotel - however a free shuttle service is availabe to and from Orchad road (famous shopping street) Otherwise you need to use taxi to get anywere - nothing nearby by foot.I would not stay there again - probably would prefer something more on central side near MRT.Did not eat in the hotel so could not comment on the food.If you are looking to do any tours there are also two tour desks available - i do recommend the night safari.  
+<Date>Sep 20, 2008
+<Rating>3	4	4	4	4	3	4	-1	
+<Aspects>
+5	102(near):1	168(central):1	178(probably):1	536(prefer):1	2151(mrt):1	
+3	4(nice):1	103(star):1	227(average):1	
+0	
+17	0(staff):1	4(nice):2	9(service):1	14(helpful):1	35(street):1	46(free):1	49(shop):1	185(taxi):2	230(road):1	232(nearby):1	321(shuttle):1	402(foot):1	508(otherwise):1	1296(famous):1	3136(downfall):1	9791(availabe):1	11896(anywere):2	
+0	
+7	2(night):1	15(recommend):1	20(look):1	36(desk):1	134(available):1	181(tour):2	1691(safari):1	
+3	16(food):1	47(eat):1	356(comment):1	
+0	
+
+<Author>icyoubaby
+<Content>Fine...nice busy hotel but very dated This hotel is a very busy hotel with a nice modern lobby area. The rest of the hotel however is a little dated and although their is a free shuttle bus into the city, there is nothing else to do in the area of the hotel. The breakfast buffet is good. I was upgraded to a more deluxe room which was fine, but I have stayed in much better Copthorne hotels! Aside from that, I would have no reason not to go back.  
+<Date>Sep 1, 2008
+<Rating>4	3	3	2	4	2	3	2	
+<Aspects>
+2	374(reason):1	1502(aside):1	
+0	
+3	113(fine):1	163(upgrade):1	648(deluxe):1	
+13	4(nice):2	23(little):1	41(city):1	46(free):1	55(lobby):1	113(fine):1	120(bus):1	151(modern):1	170(else):1	220(busy):2	288(rest):1	321(shuttle):1	511(date):2	
+0	
+0	
+2	6(breakfast):1	77(buffet):1	
+0	
+
+<Author>cylia82
+<Content>1 Day Short Stay I stayed at this hotel out of convenience as the coach I took from Kuala Lumpur stopped right there at the hotel lobby. The location of the hotel is near Orchard Road - the famous shopping area of Singapore but only accessible by taxi, not by foot or MRT. The room condition was a bit old. I couldn't complain much as I only spent a night there.  
+<Date>Aug 28, 2008
+<Rating>3	2	2	3	2	3	-1	-1	
+<Aspects>
+3	2(night):1	64(spend):1	241(complain):1	
+0	
+2	52(bit):1	263(condition):1	
+11	1(location):1	49(shop):1	102(near):1	185(taxi):1	230(road):1	402(foot):1	960(singapore):1	1296(famous):1	1342(accessible):1	1670(orchard):1	2151(mrt):1	
+0	
+0	
+8	8(day):1	55(lobby):1	122(stop):1	144(short):1	925(convenience):1	2600(coach):1	10946(lumpur):1	11263(kuala):1	
+0	
+
+<Author>rupetto
+<Content>Experience at Copthorne Hotel My collegue living in Singapore booked for me this hotel.The room doesn't look brand new, the bathroom need some upgrades, anyway it's clean.food is ok, they have a nice buffet.Location: very far from shopping center; it's ok for business people with contacts in this area, but not for tourist.  
+<Date>Aug 18, 2008
+<Rating>3	3	2	2	3	4	3	3	
+<Aspects>
+0	
+4	18(book):1	44(experience):1	206(live):1	960(singapore):1	
+6	3(clean):1	13(bathroom):1	20(look):1	163(upgrade):1	417(anyway):1	883(brand):1	
+8	1(location):1	26(people):1	49(shop):1	101(center):1	123(ok):1	147(business):1	209(tourist):1	713(contact):1	
+0	
+0	
+4	4(nice):1	16(food):1	77(buffet):1	123(ok):1	
+0	
+
+<Author>kazganymede
+<Content>Orchid not Orchard!! Stayed after a cruise and was impressed that they gave us a room by 9am.We stayed in a separate tower which was rather inconvenient, as was the location which was near no shops or restaurants. Hotel restaurant OK but overpriced and breakfasts were very mediocre.Brochure advertised as being near Orchard road which is why I booked it, but it was many ks away in a bad location.Rooms rather tired and in need of a revamp. Bathroom has cracked tiles and the room wasn't very clean.At least they ran a shuttle to Orchard rd and the concierges were very helpful.Boring for kids and very few amenities. Would not stay there again.  
+<Date>Aug 15, 2008
+<Rating>3	3	2	1	3	4	3	3	
+<Aspects>
+5	201(kid):1	291(amenity):1	1098(bore):1	1670(orchard):1	3233(orchid):1	
+0	
+8	3(clean):1	13(bathroom):1	343(impress):1	454(tire):1	603(cruise):1	846(tile):1	1411(crack):1	5500(revamp):1	
+18	1(location):2	10(restaurant):1	14(helpful):1	18(book):1	49(shop):1	50(bad):1	102(near):2	149(run):1	204(concierge):1	230(road):1	321(shuttle):1	378(tower):1	474(separate):1	910(advertise):1	1670(orchard):2	2001(brochure):1	2301(inconvenient):1	3113(rd):1	
+0	
+0	
+5	6(breakfast):1	10(restaurant):1	123(ok):1	727(overprice):1	1340(mediocre):1	
+0	
+
+<Author>tanvimadkaiker
+<Content>comfortable but ridiculously overpriced! The rooms were clean and well lit.Sanitized and hygenic bathrooms (with the slight defect of a faulty flush)Complimentary breakfast was very good and ambience and sevice was excellent.But for a 3 star hotel, the price was exorbitant!We paid 150 USD per night for only a decent hotel!There was a marriott promotion that was offering a weekend stay at 118 S$!!!  
+<Date>Jul 25, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	89(offer):1	172(weekend):1	618(marriott):1	4088(promotion):1	
+10	2(night):1	19(price):1	25(comfortable):1	42(pay):1	103(star):1	257(decent):1	727(overprice):1	1807(usd):1	2591(ridiculously):1	4484(exorbitant):1	
+14	3(clean):1	6(breakfast):1	13(bathroom):1	21(excellent):1	157(light):1	345(complimentary):1	957(ambience):1	1297(slight):1	1619(flush):1	4333(faulty):1	5248(sevice):1	8204(sanitize):1	10740(defect):1	12003(hygenic):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>tanwinson
+<Content>Deceiving Price on Website and Wal-in Saw a few ads in the website stating the rate of S$151-190++. I thought that i was be able to just walk-in or call in to confirm my reservations. When i called them, they told me that the price for a single room cost me S$325++. When i question them about the rates that i saw on the websites, the receptionist told me that i have to book it in the website and it is subject to approval. Looks like it this hotel's regulations are more like a bank. Taking a loan and waiting for approval. The receptionist is not courteous at all. No greetings of even a Good evening when she picked up the phone. Seriously, i would not recommend anyone to even stay in those hotel at all. and to anyone out there, i know hotels in Singapore are very expensive, but for this is too deceiving. I feel that i've just been scammed.  
+<Date>Jul 14, 2008
+<Rating>1	1	-1	-1	-1	-1	1	-1	
+<Aspects>
+7	15(recommend):1	34(feel):1	266(pick):1	296(phone):1	1441(seriously):1	3032(scam):1	5364(greeting):1	
+11	19(price):2	67(call):1	69(tell):1	78(rate):1	124(expensive):1	175(cost):1	262(website):2	304(single):1	960(singapore):1	3538(ad):1	3818(deceive):2	
+0	
+8	20(look):1	67(call):1	156(reservation):1	171(able):1	982(confirm):1	1225(bank):1	2367(walk-in):1	6875(regulation):1	
+0	
+11	18(book):1	69(tell):1	78(rate):1	85(wait):1	262(website):2	394(question):1	483(courteous):1	855(receptionist):2	2979(subject):1	4623(loan):1	8235(approval):2	
+0	
+0	
+
+<Author>MONGLALA
+<Content>A comfortable hotel This hotel is located away from the popular Orchard shopping district. Many tourists flock to Orchard and it is the most popular area of Singapore for tourists. Orchard Road also has great connections to the MTR making everywhere else in Singapore only a short train journey away.Copthorne is not located near a MTR station. Next door to the Raffels Town Club (not the Raffels Hotel), the hotel is quite basic.Rooms are comfortable, but modest. Old television sets are common as is small amounts of mould in the bathroom.Staff are quite friendly. Breakfast is only worth it if you get it for free, but don't purchase it on top, its pretty average.Porters don't carry your luggage up for you, you do this yourself. If you are in Singapore for tourism, this place is good as it is cheap.Don't worry too much about the fact that the hotel is located outside the most popular tourist areas, taxis are plenty and very cheap by Western standards. Also, as Singapore is so close, the taxi journey is quite short. Expect to pay $4-6 to the Marriott on Orchard. Walking time to the Marriott is 25 minutes. All in all, not bad, not great.  
+<Date>Jul 9, 2008
+<Rating>3	3	3	2	3	4	3	3	
+<Aspects>
+6	50(bad):1	209(tourist):2	960(singapore):1	1277(popular):1	1670(orchard):1	8457(flock):1	
+7	42(pay):1	62(expect):1	143(cheap):1	618(marriott):1	960(singapore):1	1670(orchard):1	2897(tourism):1	
+8	13(bathroom):1	25(comfortable):1	234(set):1	666(amount):1	830(common):1	1138(mold):1	1158(television):1	2553(modest):1	
+29	5(time):1	7(walk):1	25(comfortable):1	28(close):1	29(minute):1	49(shop):1	82(station):1	84(locate):3	98(outside):1	102(near):1	130(standard):1	143(cheap):1	144(short):2	158(plenty):1	170(else):1	182(train):1	185(taxi):2	209(tourist):1	230(road):1	433(district):1	618(marriott):1	831(worry):1	932(connection):1	960(singapore):2	1015(western):1	1277(popular):2	1362(journey):2	1670(orchard):2	1923(mtr):2	
+0	
+2	0(staff):1	12(friendly):1	
+15	6(breakfast):1	46(free):1	54(door):1	96(worth):1	109(pretty):1	118(top):1	212(club):1	227(average):1	239(town):1	249(luggage):1	352(basic):1	576(yourself):1	824(carry):1	887(purchase):1	1653(porter):1	
+0	
+
+<Author>scotaussie
+<Content>no longer the mas bus connection By Singapore standards this is a remote hotel well away from the city centre and more importantly the metro system. They run a free bus shuttle to the city, fine for shopping but pain if you only want to go out to eat. Only advantage is it is outside the congestion charge area so taxi from the aiport was just S$20. However we stayed here for one night as we understood it was the connection for the MAS bus to Senai Airport. THIS IS NO LONGER THE CASE. We asked at reception and they just said it was now cancelled and gave no assistance on alternative transport.You actually get a taxi from a special stand in the city centre to Johor Baru and then they arrange a second taxi to Senai. S$60.Can see no other reason to stay here.  
+<Date>Jun 29, 2008
+<Rating>2	3	3	1	3	3	2	-1	
+<Aspects>
+1	374(reason):1	
+0	
+0	
+30	2(night):1	41(city):2	46(free):1	47(eat):1	49(shop):1	95(airport):1	98(outside):1	101(center):1	113(fine):1	120(bus):2	129(reception):1	136(charge):1	149(run):1	180(actually):1	185(taxi):3	208(special):1	321(shuttle):1	391(understand):1	444(stand):1	680(arrange):1	742(transport):1	867(advantage):1	932(connection):1	1065(cancel):1	1298(alternative):1	1481(pain):1	1669(assistance):1	5721(mas):1	5949(congestion):1	6053(aiport):1	
+0	
+0	
+0	
+11	41(city):1	101(center):1	120(bus):1	130(standard):1	235(metro):1	518(system):1	932(connection):1	960(singapore):1	1272(remote):1	1996(importantly):1	5721(mas):1	
+
+<Author>Szeling1972
+<Content>Not great value I wouldn't stay here again for a number of reasons. It's location is really bad, quite a way from anything interesting, and it's on a main road so very noisy. The rooms weren't too bad, a little small, but adequate. However the soundproofing between the rooms is terrible and we had to complain to the room next to us then to hotel security when they wouldn't keep quiet. The room service and restaurants were very expensive particularly considering how much you pay at local restaurants. The staff weren't that friendly and we had to get our own taxis. The worst part was the small pool which turned green while we were there. When we asked the staff about it they said it was supposed to be green as they were doing something to it... minutes later we saw a hotel employee sneak out and dump undiluted chlorine into the pool, right next to where people were swimming. We didn't swim after that.  
+<Date>Jun 21, 2008
+<Rating>2	2	3	1	4	2	2	3	
+<Aspects>
+0	
+10	9(service):1	10(restaurant):2	42(pay):1	81(value):1	124(expensive):1	195(local):1	248(consider):1	335(numb):1	374(reason):1	553(particularly):1	
+8	23(little):1	50(bad):1	58(quiet):1	241(complain):1	390(adequate):1	432(terrible):1	641(security):1	1852(soundproof):1	
+11	0(staff):1	1(location):1	12(friendly):1	22(pool):1	50(bad):2	112(main):1	166(own):1	185(taxi):1	217(noisy):1	230(road):1	1005(green):1	
+0	
+12	0(staff):1	22(pool):1	26(people):1	29(minute):1	79(late):1	261(swim):1	608(employee):1	620(suppose):1	1005(green):1	1449(dump):1	4820(sneak):1	5480(chlorine):1	
+1	261(swim):1	
+0	
+
+<Author>lellel
+<Content>Ordinary at best OK, so my review is pretty late, but I am only using this site as I prepare for my next holiday. It has been such a blessing that I thought it best to share my experiences for the best of others.I arrived in at the hotel at 4am on a Saturday morning after a bus trip from KL. Tiired after flying into KL from Tokyo, I was desperate for sleep. I found the hotel staff very harsh and unsympothetic to my cause as my room wasn't available. The only option was an upgrade, which I would have to pay for. I tried to get some kind of leniancy (forgive spelling) from the receptionist, but without luck. Even a smile might have helped, but found them coming across as unhappy people, unwilling to bend in any way to be helpful, or at least understanding to my situation.I took the upgrade. The room was spacious compared to the ones I had stayed in before, though basic in furnishings. As a regular 2 or 3 star traveller, I was happy with that, but not the bathroom, which had a puddle of water around the toilet and some mould around the shower. The batheroom really needed some work.The location wasn't that great either. I guess maybe my travel agent had some deal with that hotel, as I expected it to be reasonably close to the shopping areas. Instead though, it was a 5 - 10 minute taxi ride to Orchis road shops.I am sure one can do better than this out of the way hotel.  
+<Date>Jun 1, 2008
+<Rating>2	3	2	1	2	1	2	-1	
+<Aspects>
+9	14(helpful):1	26(people):1	92(help):1	387(smile):1	391(understand):1	890(situation):1	2333(bend):1	2382(unhappy):1	4739(unwilling):1	
+6	42(pay):1	44(experience):1	163(upgrade):1	336(option):1	520(share):1	2887(bless):1	
+22	0(staff):1	13(bathroom):1	57(water):1	61(shower):1	103(star):1	104(sleep):1	111(spacious):1	134(available):1	155(happy):1	267(traveler):1	330(toilet):1	352(basic):1	381(compare):1	614(fly):1	744(regular):1	870(furnishings):1	943(cause):1	1040(tokyo):1	1138(mold):1	2730(desperate):1	4466(harsh):1	4888(puddle):1	
+29	1(location):1	28(close):1	29(minute):1	33(trip):1	37(review):1	49(shop):2	53(arrive):1	56(morning):1	62(expect):1	68(travel):1	79(late):1	109(pretty):1	120(bus):1	123(ok):1	140(deal):1	185(taxi):1	192(site):1	218(ride):1	223(holiday):1	230(road):1	308(maybe):1	353(instead):1	460(prepare):1	469(guess):1	578(reasonably):1	766(agent):1	818(saturday):1	2025(ordinary):1	10783(4am):1	
+0	
+5	253(tried):1	855(receptionist):1	1055(luck):1	2792(spell):1	4745(forgive):1	
+0	
+1	163(upgrade):1	
+
+<Author>majorstu
+<Content>I wouldn't pay to stay here .... My wife and I stayed here overnight, courtesy of an airline, when our connecting flight was cancelled. Although I didn't pay I wasn't particularly impressed.The rooms are large and spacious, but the decor is old and tired. Our room had a balcony overlooking the major dual carriage way that runs along outside the hotel. The sub-standard double glazing did nothing to keep the noise of passing cars out. If we hadn't have arrived late in the evening and were due to leave the following day I would have complained.We ate in the Asian brassery, which was buffet style food. All that I can say is that the food was OK, but nothing special and indeed quite bland. Another reviewer has noted the cost of the internet charges - simply crazy.The staff were friendly and helpful, so no complaints there.I am sure that we will go back to Singapore to explore it further. Would I consider paying to stay here - no chance. There is a rumour that the hotel is 5* but I am not sure on whose standard?!  
+<Date>Jun 1, 2008
+<Rating>2	3	2	3	3	3	3	1	
+<Aspects>
+17	8(day):1	43(leave):1	53(arrive):1	79(late):1	94(noise):1	121(car):1	130(standard):1	179(double):1	241(complain):1	259(due):1	400(pass):1	482(follow):1	594(explore):1	960(singapore):1	2144(glaze):1	6025(rumour):1	6899(sub-standard):1	
+12	42(pay):2	97(internet):1	136(charge):1	175(cost):1	248(consider):1	297(note):1	343(impress):1	488(simply):1	553(particularly):1	564(reviewer):1	689(chance):1	1259(crazy):1	
+18	42(pay):1	98(outside):1	111(spacious):1	149(run):1	184(wife):1	191(balcony):1	233(flight):1	260(overlook):1	269(decor):1	315(major):1	454(tire):1	841(connect):1	1065(cancel):1	1171(overnight):1	1336(airline):1	1728(courtesy):1	5125(carriage):1	5210(dual):1	
+0	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	190(complaint):1	
+10	16(food):2	47(eat):1	77(buffet):1	123(ok):1	208(special):1	326(style):1	990(indeed):1	1328(asian):1	1819(bland):1	7451(brassery):1	
+0	
+
+<Author>izzle_snizzle
+<Content>over priced!!! Nice hotel but not in walking distance of orchard road. There is however a shuttle bus but you have book in advance to get on it. Rooms clean and spacious. Staff well presented and professional. My main problem was how expensive it was! $11.84 SGD dollars for 30 mins on the internet- what a ripoff! Compared to what i paid in australia later on $2 AUD for 30 mins, it was well overpriced! Also, the hotel is right by a busy highway, so when sitting at the pool it is quite noisy. Didnt hear any noise from the room though.Apart from that, the hotel is ok but just ok. You have to get taxis everywhere, unless you like a long walk.  
+<Date>May 24, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	123(ok):2	857(apart):1	
+14	19(price):1	42(pay):1	79(late):1	97(internet):1	112(main):1	124(expensive):1	247(min):2	381(compare):1	430(dollar):1	727(overprice):1	1530(australia):1	5360(aud):1	5719(ripoff):1	7368(sgd):1	
+5	3(clean):1	94(noise):1	111(spacious):1	132(hear):1	626(didnt):1	
+16	4(nice):1	7(walk):2	18(book):1	22(pool):1	115(distance):1	120(bus):1	169(sit):1	185(taxi):1	217(noisy):1	220(busy):1	230(road):1	321(shuttle):1	405(unless):1	685(advance):1	1670(orchard):1	1870(highway):1	
+0	
+2	0(staff):1	501(professional):1	
+0	
+0	
+
+<Author>Phil404nz
+<Content>Great Singapore stopover A bit worried on our return trip from the UK to New Zealand due to location of Hotel away from the main centre. No problems here with the hotel shuttle coach free and taxis so cheap S$6 to Orchard Road. The room and facilities are of a good standard for this hotel rating. Meals at the Cafe / Restaurant were excellent value and staff were more than helpful as per everyone in Singapore. We would not hesitate to book here again. Botanical gardens very close and well worth the visit. Tours easily available ex the hotel lobby. Great visit 04/2008  
+<Date>May 22, 2008
+<Rating>5	5	4	3	4	5	5	4	
+<Aspects>
+1	65(visit):1	
+0	
+3	78(rate):1	130(standard):1	211(facility):1	
+24	1(location):1	28(close):1	33(trip):1	39(return):1	46(free):1	52(bit):1	65(visit):1	96(worth):1	101(center):1	112(main):1	143(cheap):1	185(taxi):1	230(road):1	259(due):1	310(garden):1	321(shuttle):1	885(worried):1	960(singapore):1	1178(uk):1	1670(orchard):1	2364(stopover):1	2600(coach):1	4278(botanical):1	4735(zealand):1	
+0	
+0	
+15	0(staff):1	10(restaurant):1	14(helpful):1	18(book):1	21(excellent):1	55(lobby):1	81(value):1	134(available):1	181(tour):1	213(meal):1	275(cafe):1	438(easily):1	902(hesitate):1	960(singapore):1	4474(ex):1	
+0	
+
+<Author>Ellana
+<Content>Good Value I had a few concerns about this hotel as we were warned by the travel agent there was some renovations in progress. In fact there was no problems with noise or builders at all. I was given a smoking room initially but I asked to be moved and was immediately upgraded to a larger room with a balcony. Our room was clean as was the hotel, although there was a damp smell in a lower corridor. The staff were extremely helpful and approachable. There was a choice of tour desks, again with helpful staff. The pool is in a 'beer garden' which has bar and restaurant service, a great way to spend an evening, although there is a restaurant and kareoke.Breakfast was included in our package and there was a good choice. It is a distance from the city but we enjoyed finding our way on buses and the MRT.You get what you pay for and this hotel doesn't pretend to be a 5 star hotel but it was good value for money.  
+<Date>Mar 4, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	94(noise):1	6270(builder):1	
+15	6(breakfast):1	42(pay):1	68(travel):1	71(include):1	80(money):1	81(value):2	103(star):1	107(choice):1	496(concern):1	527(package):1	679(warn):1	687(renovation):1	766(agent):1	3207(pretend):1	3656(progress):1	
+6	163(upgrade):1	191(balcony):1	207(move):1	468(smoke):1	489(immediately):1	1439(initially):1	
+5	41(city):1	51(enjoy):1	115(distance):1	120(bus):1	2151(mrt):1	
+5	3(clean):1	231(smell):1	777(lour):1	1073(corridor):1	1640(damp):1	
+7	0(staff):2	14(helpful):2	36(desk):1	107(choice):1	110(extremely):1	181(tour):1	4800(approachable):1	
+8	9(service):1	10(restaurant):2	22(pool):1	27(bar):1	64(spend):1	310(garden):1	443(beer):1	10055(kareoke):1	
+0	
+
+<Author>bassbin
+<Content>The Good, The Bad  This was the second time my wife and I stayed at this hotel (July 2005 and Jan 2008). Both times our original room was smelly, small, old, dirty and mouldy (basic superior room). We complained both times and without too much fuss we got upgraded within 15 - 30 minutes to a larger modern room with a balcony (the second time we booked we thought we would need to do this - and we were right). These rooms in the Plymouth wing are much better - larger, LCD TV, balcony, good furniture and reasonably clean / mould free (but also more expensive if you book them before arriving). People should realise that this is a old hotel and it shows in many areas. Pool / gym area is clean and tidy; however, pool is old and dirty / missing tiles (also next to busy road so smelly). Lobby is great / modern, but then again you don't sleep in the lobby. Breakfast was OK, only basic choices and overall dining area looks tired / chairs dirty. Hotel has self service washing and drying facilities which can come in handy. Didn't use internet (I鈥檓 on holiday!). Hotel is having some work done on it so who knows things may get better. We booked our accommodation via a wholesaler so at AU$120.00 per night it was very cheap for Singapore. Hotel is away from the main shopping and entertainment areas so you will need to take a taxi (approx S$6.00 to Orchid Rd) or make use of the free shuttle bus which the hotel operates. We used taxis as they are cheap and one always seems to be waiting outside hotel. One of the few benefits nobody yet has mentioned on this site is the hotel's proximity to the Adams Road Hawker Centre (approx 500m down the road - walking distance). We ate there most nights on both occasions we stayed at this hotel (didn't bother with hotel for dinner). It has a fantastic range of food and 90% of the stalls have an A government rating (dinner will cost you S$2.50 - S$5.00) and beer and fresh fruit juice is available. I recommend this spot if you fancy getting amongst it with the locals for a bite to eat (it鈥檚 very popular and has a great buzz). So overall do your research and get yourself a cheap rate and be prepared to complain if they give you a dodgy room.  
+<Date>Feb 12, 2008
+<Rating>2	2	2	2	2	4	2	-1	
+<Aspects>
+14	5(time):1	15(recommend):1	26(people):1	47(eat):1	50(bad):1	184(wife):1	195(local):1	317(spot):1	607(realize):1	796(fancy):1	1042(bite):1	1277(popular):1	1462(jan):1	2000(buzz):1	
+14	2(night):1	18(book):1	70(overall):1	78(rate):1	143(cheap):2	241(complain):1	460(prepare):1	512(via):1	576(yourself):1	721(accommodation):1	960(singapore):1	1024(research):1	2539(dodgy):1	8563(au$):1	
+20	3(clean):1	5(time):2	18(book):2	29(minute):1	46(free):1	53(arrive):1	55(lobby):2	104(sleep):1	116(tv):1	124(expensive):1	151(modern):2	163(upgrade):1	191(balcony):2	241(complain):1	440(furniture):1	578(reasonably):1	1138(mold):1	1515(wing):1	1773(lcd):1	2205(fuss):1	
+24	7(walk):1	46(free):1	49(shop):1	85(wait):1	98(outside):1	101(center):1	112(main):1	115(distance):1	120(bus):1	143(cheap):1	185(taxi):2	192(site):1	230(road):2	244(mention):1	321(shuttle):1	340(entertainment):1	1114(proximity):1	1423(approx):2	1524(benefit):1	1623(operate):1	3113(rd):1	3233(orchid):1	4313(hawker):1	9252(adams):1	
+23	3(clean):1	5(time):1	6(breakfast):1	20(look):1	22(pool):2	70(overall):1	107(choice):1	123(ok):1	198(chair):1	220(busy):1	230(road):1	276(miss):1	316(dine):1	323(dirty):3	352(basic):2	454(tire):1	523(gym):1	785(superior):1	846(tile):1	1100(tidy):1	1270(original):1	1697(smelly):2	2046(moldy):1	
+0	
+23	2(night):1	9(service):1	16(food):1	47(eat):1	78(rate):1	86(fantastic):1	117(dinner):2	134(available):1	175(cost):1	197(fresh):1	211(facility):1	215(fruit):1	307(bother):1	362(juice):1	443(beer):1	714(range):1	755(handy):1	811(wash):1	871(occasion):1	1257(dry):1	1314(self):1	1701(stall):1	3284(government):1	
+2	97(internet):1	223(holiday):1	
+
+<Author>yorkieLeeds
+<Content>filthy hotel Pleas please don`t book this hotel, we booked it as a stopover and the place is nasty.Our room was at the back of the hotel facing trees, so it was very dark, there were little ants running all over the tea making area. We thought the sheet on the bed had stains on it but we found out that it was the mattress protector that was covered in pee and blood stains.The room smelled really bad, the toilet leaked it was the worst hotel I`ve ever stopped in.The other thing is its on a main road and not a thing is close by.My travel agent booked this hotel for us because of the price and I booked the carlton which was fantastic.I ,am not to fussy but I like a clean room and this was very far from clean.When I complained they said they would look into it, but i got no appology.If i was you i would book for somewhere else, I swear by this website thats why I took the time to fill in this review.  
+<Date>Feb 1, 2008
+<Rating>1	1	1	1	1	2	3	-1	
+<Aspects>
+3	20(look):1	241(complain):1	10657(appology):1	
+6	18(book):2	19(price):1	68(travel):1	86(fantastic):1	766(agent):1	1518(carlton):1	
+21	3(clean):2	11(bed):1	23(little):1	50(bad):2	122(stop):1	149(run):1	231(smell):1	301(tea):1	330(toilet):1	459(dark):1	479(sheet):1	552(cover):1	723(stain):2	828(tree):1	847(mattress):1	1287(leak):1	1675(ant):1	1867(fussy):1	2718(blood):1	5548(ve):1	5718(pee):1	
+3	28(close):1	112(main):1	230(road):1	
+0	
+0	
+14	5(time):1	18(book):3	37(review):1	170(else):1	173(please):1	262(website):1	491(fill):1	908(don):1	1198(thats):1	1320(filthy):1	1639(nasty):1	2364(stopover):1	3333(swear):1	12699(plea):1	
+0	
+
+<Author>MitziKent
+<Content>A good value for money hotel I had read some reviews saying this place wasn't great. We had two rooms and both were clean and comfortable. The staff were very friendly, there is a shuttle bus into town, cabs were available and the coffee shop was good. It was also great that they had two self-service washing machines and driers.  
+<Date>Jan 10, 2008
+<Rating>4	4	4	3	4	5	4	-1	
+<Aspects>
+0	
+4	37(review):1	80(money):1	81(value):1	88(read):1	
+2	3(clean):1	25(comfortable):1	
+9	0(staff):1	12(friendly):1	49(shop):1	90(coffee):1	120(bus):1	134(available):1	239(town):1	321(shuttle):1	380(cab):1	
+0	
+0	
+3	493(machine):1	811(wash):1	4857(self-service):1	
+0	
+
+<Author>Patricia_Lye
+<Content>Good service I have read some review from other people regarding on this Hotel. Most of them said the room is smelly for smoking room. Yes, I have agree it is a bit smelly but I believe you can request to change upon your check-in process. They do have spray some sort of air-freshener to the room and its works.I follow with about 9 persons (oopps, we should not do so) with 2 link rooms. It is quite small if you divide 5 , 4 into each room. The bed can either be queen or Single bed x2. As I said, you may also changed it upon check-in process.The toilet is okay. I have also read some negative reviews of the hotel regards their dirty or unfurnish shower room. For our 2 rooms, we find it is okie. For broadband user, this is still okie. You may purchase SG$25 for 24 hrs access in your room. Note, you may have low traffic connection depends on the location of your room.  
+<Date>Dec 28, 2007
+<Rating>4	3	4	2	3	3	4	4	
+<Aspects>
+4	330(toilet):1	453(okay):1	2756(user):1	2825(broadband):1	
+0	
+18	11(bed):2	37(review):1	61(shower):1	88(read):1	159(access):1	193(person):1	282(negative):1	304(single):1	323(dirty):1	482(follow):1	543(Queen):1	557(sort):1	887(purchase):1	930(regard):1	1099(spray):1	1464(hr):1	1727(link):1	3395(divide):1	
+6	1(location):1	297(note):1	486(traffic):1	513(low):1	932(connection):1	969(depend):1	
+2	468(smoke):1	1697(smelly):1	
+9	52(bit):1	148(request):1	161(change):2	250(yes):1	286(check-in):2	312(believe):1	473(agree):1	1222(process):2	1697(smelly):1	
+5	9(service):1	26(people):1	37(review):1	88(read):1	930(regard):1	
+0	
+
+<Author>JJO_7
+<Content>Needs a serious overhaul - bring your albuterol inhaler Before leaving for Singapore, I visited Trip Advisor to read about where we were going to stay. I read many negative moldy reviews and thought Oh, people can be cruel, I'm sure it's fine. No - you are not cruel. You are very accurate. This hotel needs a serious overhaul. The lobby is beautiful, food is good, employees are friendly and courteous... but, beyond the elevators there is a different story. Musty, moldy, mildew... I struggled with asthma the entire visit - but only in the hotel. I guess I can't complain as much as my co-worker... his room had a water dripping from the ceiling the entire time. It was quite miserable but gave us a good excuse to explore more of the country during our visit. There are many hotels other than this one from which to choose.  
+<Date>Dec 27, 2007
+<Rating>1	1	1	2	1	3	3	-1	
+<Aspects>
+26	26(people):1	33(trip):1	37(review):1	43(leave):1	65(visit):3	88(read):2	113(fine):1	142(bring):1	167(choose):1	282(negative):1	329(entire):1	530(country):1	594(explore):1	701(advisor):1	960(singapore):1	1016(musty):1	1469(serious):2	1785(accurate):1	1876(mildew):1	1965(excuse):1	1979(struggle):1	2046(moldy):2	2332(miserable):1	4053(overhaul):2	6181(asthma):1	12970(cruel):2	
+0	
+8	5(time):1	57(water):1	241(complain):1	329(entire):1	469(guess):1	528(ceiling):1	2682(drip):1	4194(co-worker):1	
+0	
+0	
+0	
+9	12(friendly):1	16(food):1	45(beautiful):1	55(lobby):1	216(elevator):1	483(courteous):1	608(employee):1	738(beyond):1	906(story):1	
+0	
+
+<Author>nivfitz
+<Content>Bad value for your money I was a little disappointed with this hotel considering the amount of money I spent on it. The staff were really lovely and very helpful, but the rooms left something to be desired. My bed was ENORMOUS and the pillows were big and fluffy (which I loved) but the room needed some serious ventilation. The rooms smelt musty and mouldy and the bathroom wasn't very nice at all. They were mouldy and the water leaked on to the floor whenever you showered. The bathroom was a bath which provided a shower head above the bathtub, but the shower curtain had mould stains (of which looked as though someone had attempted to remove them, but without success). The room provided your own personal safe a chair and desk a tv with cable. Usual room service and air conditioning (which is where I think alot of the mould smell was coming from) My windows were very big, but I was unable to open them for security reasons - thus having to live with the mould smell. The doors and walls were very thin and I could hear almost everything that went on in the next room. Thank goodness only one person was in there for 2 days!!The hotel provided a pool, and gym which were very well maintained. I stayed at this hotel for 4days. The breakfast buffet served the same food everyday, but there was a wide selection of fresh fruits and cereals which was great. The hotel is a little far away from Orchard Road. You could walk there and it'd take you about 20mins but in the heat, you'd probably have a little more difficulty. The hotel did provide free transfers to Orchard Road and Little India though which I thought was fantastic. Overrall, it was an ok hotel, but the rooms were a little disappointing for the amount of money you pay.  
+<Date>Dec 13, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	8(day):1	23(little):2	46(free):1	86(fantastic):1	153(provide):1	193(person):1	230(road):2	271(thank):1	1021(transfer):1	1670(orchard):2	2302(goodness):1	4099(india):1	
+10	23(little):2	42(pay):1	50(bad):1	64(spend):1	80(money):3	81(value):1	123(ok):1	154(disappoint):2	248(consider):1	666(amount):2	
+54	0(staff):1	4(nice):1	9(service):1	11(bed):1	13(bathroom):2	14(helpful):1	20(look):1	24(floor):1	36(desk):1	40(love):1	43(leave):1	54(door):1	57(water):1	61(shower):3	87(lovely):1	116(tv):1	119(window):1	132(hear):1	137(safe):1	153(provide):2	164(air):1	166(own):1	183(wall):1	198(chair):1	206(live):1	226(bath):1	231(smell):3	263(condition):1	303(pillow):1	319(head):1	374(reason):1	484(cable):1	641(security):1	647(alot):1	682(usual):1	711(personal):1	723(stain):1	743(curtain):1	754(thin):1	1016(musty):1	1023(bathtub):1	1119(attempt):1	1135(remove):1	1138(mold):3	1181(whenever):1	1219(desire):1	1287(leak):1	1461(unable):1	1469(serious):1	1625(enormous):1	1792(fluffy):1	2046(moldy):2	2667(ventilation):1	3528(success):1	
+6	7(walk):1	23(little):1	178(probably):1	539(heat):1	1777(difficulty):1	5007(20min):1	
+4	22(pool):1	153(provide):1	523(gym):1	562(maintain):1	
+0	
+10	6(breakfast):1	16(food):1	77(buffet):1	174(serve):1	197(fresh):1	215(fruit):1	333(selection):1	529(cereal):1	605(everyday):1	860(wide):1	
+0	
+
+<Author>Caz069
+<Content>Not close to the city but hotel was very pleasant This hotel is not close to the City, but a shuttle bus leaves every hour, through the day and night, the staff were pleasant, and friendly, l stayed in a twin room, which was a bit tight, the pool area is nice although the pool could do with an update. Breakfast area was spacious, and the food not bad'the tour agent was very helpful, l would stay at this hotel again.  
+<Date>Dec 7, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+17	0(staff):1	2(night):1	4(nice):1	8(day):1	12(friendly):1	22(pool):2	28(close):2	41(city):2	52(bit):1	60(hour):1	120(bus):1	150(pleasant):2	321(shuttle):1	690(twin):1	725(update):1	1399(tight):1	1593(leaf):1	
+0	
+0	
+7	6(breakfast):1	14(helpful):1	16(food):1	50(bad):1	111(spacious):1	181(tour):1	766(agent):1	
+0	
+
+<Author>BkkChai
+<Content>Not too Bad I have to travel to Singapore on a very short notice and it was very difficult to get a room as most of the hotel was already 100% full or they were asking for prices that was too high. I booked the room through the hotel's website and the rate was SGD 195 excluding tax and service fee.. Trust me it was cheap when compared to what other hotels were offering. The hotel is about 10 mins from Orchard road and the taxi cost about SGD 6-8 per trip.. The hotel also offer free shuttle to ORCHARD road and the shuttle leaves every hour.. There is nothing nearby to the hotel.. but the room was quite nice and spacey.. I quite like the hotel.. The rate also includes Breakfast but I did not get up on time for it..  
+<Date>Nov 1, 2007
+<Rating>3	3	3	2	3	4	3	3	
+<Aspects>
+1	232(nearby):1	
+11	19(price):1	50(bad):1	68(travel):1	89(offer):1	143(cheap):1	144(short):1	354(notice):1	381(compare):1	572(difficult):1	960(singapore):1	1402(trust):1	
+2	4(nice):1	11677(spacey):1	
+12	33(trip):1	46(free):1	60(hour):1	89(offer):1	175(cost):1	185(taxi):1	230(road):2	247(min):1	321(shuttle):2	1593(leaf):1	1670(orchard):2	7368(sgd):1	
+0	
+0	
+11	5(time):1	6(breakfast):1	9(service):1	18(book):1	71(include):1	78(rate):2	262(website):1	584(fee):1	798(tax):1	4614(exclude):1	7368(sgd):1	
+0	
+
+<Author>shazam7
+<Content>Refurbishment Required I would agree with other reviewers. The hotel is located in the middle of nowhere and you really need to cab it or take the hotel bus shuttle to get anywhere. The rooms are badly in need of refurbishment. I would also agree withother reviewers' comments that the rooms are depressing.On a positive note, though, the rooms are reasonably clean and functional.Another good feature is the pond on the lobby level. Very pretty.I've also been told that the Chinese restaurant is good, but I personally did not try it.My advice is unless you get a very attractive rate, or if there's no other hotel, be very wary of this place.  
+<Date>Oct 25, 2007
+<Rating>2	3	2	1	3	4	3	-1	
+<Aspects>
+10	78(rate):1	109(pretty):1	405(unless):1	473(agree):1	564(reviewer):1	575(advice):1	722(require):1	1154(attractive):1	2253(refurbishment):1	3099(wary):1	
+0	
+11	3(clean):1	297(note):1	356(comment):1	458(positive):1	473(agree):1	564(reviewer):1	578(reasonably):1	1348(functional):1	1663(badly):1	2189(depress):1	2253(refurbishment):1	
+5	84(locate):1	120(bus):1	321(shuttle):1	325(middle):1	380(cab):1	
+0	
+0	
+9	10(restaurant):1	55(lobby):1	69(tell):1	76(try):1	306(level):1	731(feature):1	764(chinese):1	1052(personally):1	2281(pond):1	
+0	
+
+<Author>nijunihk
+<Content>Inconvenient Location, Old Rooms We've visited Singapore several times  normally stay at the Marriott. Location of Copthorne is inconvenient for visitors. It is not in walking distance to anything (no MRT, no restaurants, no stores, did see a public bus stop outside). It's fronted on one side by a busy noisy street  otherwise surrounded by residential  Raffles Town Club. Free hotel shuttle bus runs about every other hour to Orchard Road  2 shuttles per day go to the Botanic Gardens (a nice place to escape the concrete jungle). Taxi from Orchard to hotel cost S$6. The room was old. We were upgraded at no charge to a 1BR (enormous apartment-sized space with kitchen  living/dining area). Bathroom had dated pink tile  moldy grout. Our tub had a few tiny (really miniscule) bugs - they disappeared when we turned the shower on. Furnishings were more recent. Bed  linens were fine; TVs modern. Wireless internet in-room was S$17 for 24 hours total connected time used over the length of our stay (not for just a 24 hour time block). Free Straits Times in the morning. Didn't use the pool or gym, partly because neither looked inviting. Price is definitely cheaper than the Marriott, but it's not worth the bad location, outdated rooms  facilities.  
+<Date>Sep 15, 2007
+<Rating>3	3	2	1	2	3	3	4	
+<Aspects>
+4	5(time):1	46(free):1	56(morning):1	11360(strait):1	
+9	1(location):1	19(price):1	50(bad):1	59(definitely):1	96(worth):1	143(cheap):1	211(facility):1	618(marriott):1	1549(outdated):1	
+25	11(bed):1	13(bathroom):1	61(shower):1	113(fine):1	136(charge):1	151(modern):1	163(upgrade):1	210(space):1	311(tub):1	338(tiny):1	461(kitchen):1	511(date):1	602(bug):1	630(linen):1	846(tile):1	870(furnishings):1	1064(recent):1	1569(tvs):1	1625(enormous):1	2046(moldy):1	2121(pink):1	2594(disappear):1	3922(grout):1	5317(miniscule):1	7584(living):1	
+42	1(location):2	4(nice):1	5(time):1	7(walk):1	8(day):1	10(restaurant):1	31(front):1	35(street):1	46(free):1	60(hour):1	65(visit):1	98(outside):1	115(distance):1	120(bus):2	122(stop):1	149(run):1	175(cost):1	185(taxi):1	212(club):1	217(noisy):1	220(busy):1	230(road):1	239(town):1	255(store):1	310(garden):1	321(shuttle):2	379(public):1	508(otherwise):1	618(marriott):1	667(surround):1	951(visitor):1	960(singapore):1	1091(normally):1	1537(residential):1	1601(escape):1	1670(orchard):2	2151(mrt):1	2301(inconvenient):2	2321(concrete):1	2456(raffle):1	3083(jungle):1	7155(botanic):1	
+0	
+0	
+6	20(look):1	22(pool):1	523(gym):1	1210(invite):1	1275(neither):1	3534(partly):1	
+9	5(time):2	60(hour):2	97(internet):1	100(bloc):1	717(wireless):1	786(total):1	841(connect):1	1301(in-room):1	1879(length):1	
+
+<Author>BudapestApu
+<Content>I liked it I stayed there this July. I was literally afraid to go there after reading the so many negative impressions here. However, I have to say that only one negative point survived - the curtains really were not cleaned/changed since the inauguration of the hotel. But all personnel friendly and helpful, services ok, buffet style breakfasts and dinners meet every standard - wireless internet connection (in the lobby) working immediately and perfectly. I liked the swimming pool for relaxation. Could be opened one hour earlier, as the 7 a.m is too late for people who have to leave for business, and do not want to skip breakfast. Theoretically it is possible to eat at 6 and swim at 7, but this order is not too healthy... I also used the courtesy shuttle bus - it is exact to schedule (also returning), some 5 minutes from the center. in the night.  
+<Date>Aug 15, 2007
+<Rating>4	4	4	4	5	4	4	5	
+<Aspects>
+6	2(night):1	88(read):1	282(negative):1	665(literally):1	848(impression):1	1544(afraid):1	
+0	
+0	
+18	6(breakfast):1	26(people):1	29(minute):1	39(return):1	43(leave):1	47(eat):1	60(hour):1	79(late):1	101(center):1	120(bus):1	147(business):1	261(swim):1	321(shuttle):1	1196(schedule):1	1429(skip):1	1728(courtesy):1	2216(exact):1	2294(healthy):1	
+3	282(negative):1	743(curtain):1	3364(survive):1	
+0	
+20	6(breakfast):1	9(service):1	12(friendly):1	14(helpful):1	22(pool):1	55(lobby):1	77(buffet):1	97(internet):1	117(dinner):1	123(ok):1	130(standard):1	196(meet):1	261(swim):1	326(style):1	489(immediately):1	595(perfectly):1	717(wireless):1	932(connection):1	1457(personnel):1	1662(relaxation):1	
+0	
+
+<Author>beachwalkers
+<Content>Damp depressing room This hotel looks good when entering but the room we had was simply awful. It was very basic with no views but the worst aspect was it very damp and felt wet. We paid $114 for a day stopover which was a waste of money as we could not bear to stay in the depressing room and so glad we were not staying the night.The restaurant was okay and the outside pool was fairly good..  
+<Date>Jul 15, 2007
+<Rating>1	1	1	3	1	3	3	-1	
+<Aspects>
+7	17(view):1	34(feel):1	50(bad):1	352(basic):1	1032(wet):1	1255(aspect):1	1640(damp):1	
+9	2(night):1	8(day):1	42(pay):1	80(money):1	619(glad):1	928(waste):1	1838(bear):1	2189(depress):1	2364(stopover):1	
+11	10(restaurant):1	20(look):1	22(pool):1	98(outside):1	453(okay):1	462(fairly):1	488(simply):1	601(enter):1	736(awful):1	1640(damp):1	2189(depress):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>David-SriLanka
+<Content>Not recommended! Stayed for 5 days during Week 3 of June 2007, the hotel is located out of the central orchard area, costs approx S$ 7-12 one way by taxi. I spent over $300 during the stay for taxis alone. The hotel provides a shuttle service but is not convenient. The room was reasonably clean but the toilet was NOT, there were small flies in the washroom which I thought was very un-hygienic. Further the staff was not friendly. Mini bar was empty...The resturant food was ok but not the best. I don't recommend this hotel..... :(Davinda from Sri Lanka  
+<Date>Jun 25, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	15(recommend):2	
+0	
+5	3(clean):1	330(toilet):1	578(reasonably):1	614(fly):1	3203(washroom):1	
+14	8(day):1	9(service):1	64(spend):1	75(week):1	84(locate):1	153(provide):1	168(central):1	175(cost):1	185(taxi):2	186(convenient):1	321(shuttle):1	664(june):1	1423(approx):1	1670(orchard):1	
+0	
+2	0(staff):1	12(friendly):1	
+6	16(food):1	27(bar):1	123(ok):1	448(mini):1	810(empty):1	1661(resturant):1	
+0	
+
+<Author>pobuk
+<Content>Wasnt too bad I arrived Christmas Day 2006 for a 2 night stopover on my way to Australia. I had booked a superior room which was very spacious and clean. The airline (Qantas) had lost my baggage so i arrived with nothing apart from a small amount of hand luggage. On arrival I informed the concierge of my baggage mishap and asked him to let me know if it was delivered, unfortunately this never happened during my stay and eventually turned up 5 days later in Australia!I found the hotel staff to be courteous and helpful and although the hotel is a little bit out from the hustle and bustle of Orchard Road, taxis were coming and going all day and night and it was very cheap to travel this way.The Hotel did provide a number of shuttle buses free of charge throughout the day and again I found these to be very clean, punctual and effificient.One disappointment was the pool which was next to a busy road and had a lot of leaves and debris in it and didnt look in the least bit inviting, having said that the sun never managed to break through the clouds during my brief stay and we did have a couple of brief heavy thunderstorms so sunbathing was out anyway.Overall I think I would stay here again as this hotel represented good value for money.  
+<Date>May 31, 2007
+<Rating>3	4	4	2	4	3	3	2	
+<Aspects>
+8	2(night):1	8(day):1	50(bad):1	53(arrive):1	962(christmas):1	1339(wasnt):1	1530(australia):1	2364(stopover):1	
+4	70(overall):1	80(money):1	81(value):1	2535(represent):1	
+13	3(clean):1	18(book):1	53(arrive):1	111(spacious):1	249(luggage):1	377(hand):1	596(lose):1	666(amount):1	785(superior):1	857(apart):1	1336(airline):1	1783(baggage):1	10895(qantas):1	
+42	0(staff):1	2(night):1	3(clean):1	8(day):2	14(helpful):1	20(look):1	22(pool):1	23(little):1	38(lot):1	46(free):1	52(bit):2	68(travel):1	99(couple):1	120(bus):1	136(charge):1	143(cheap):1	153(provide):1	185(taxi):1	220(busy):1	228(break):1	230(road):2	321(shuttle):1	335(numb):1	417(anyway):1	420(sun):1	445(throughout):1	483(courteous):1	626(didnt):1	645(manage):1	866(disappointment):1	1107(bustle):1	1186(heavy):1	1210(invite):1	1503(hustle):1	1593(leaf):1	1670(orchard):1	2036(brief):2	2288(cloud):1	2892(sunbathe):1	3616(debris):1	6255(thunderstorm):1	6973(punctual):1	
+0	
+12	8(day):1	79(late):1	204(concierge):1	224(arrival):1	382(happen):1	524(unfortunately):1	631(deliver):1	817(inform):1	1204(eventually):1	1530(australia):1	1783(baggage):1	5650(mishap):1	
+0	
+0	
+
+<Author>melandmal
+<Content>stay elsewhere This was our 3rd time to Singapore and I brought my Mum along this time we raved about the hotels and how last time we stayed in a 3 star and it was fantastic ( Furama riverfront), we were disappointed and embarrassed when we arrive at this hotel. It too far away from anything but that wasnt really the problem the rooms were dirty mine and Mums the showers mouldy, carpets stained, curtains filthy and ceiling mouldy. The beds were clean and comfortable. The pool area was very basic but ok. There is soo many nicer hotels at the same rate and closer to the action and we will not make the same mistake again.  
+<Date>Apr 26, 2007
+<Rating>2	2	1	2	1	3	4	-1	
+<Aspects>
+3	22(pool):1	123(ok):1	352(basic):1	
+13	5(time):3	53(arrive):1	86(fantastic):1	103(star):1	142(bring):1	154(disappoint):1	646(elsewhere):1	960(singapore):1	1581(rave):1	2097(3rd):1	3175(mum):1	3183(embarrass):1	5780(riverfront):1	
+14	3(clean):1	11(bed):1	25(comfortable):1	61(shower):1	323(dirty):1	396(carpet):1	528(ceiling):1	723(stain):1	743(curtain):1	1269(mine):1	1320(filthy):1	1339(wasnt):1	2046(moldy):2	3175(mum):1	
+6	4(nice):1	28(close):1	78(rate):1	895(mistake):1	958(action):1	4001(soo):1	
+0	
+0	
+0	
+0	
+
+<Author>ManchesterCaroline
+<Content>Ok, but not the best With few other options available when we booked this hotel, we weren't expecting great things, having read other Tripadvisor comments, but were determined to give the hotel a fair shot.In the end, it was much as expected - some good, some bad. Our room was quite spacious but the bathroom pokey. The pool wasn't bad - next to a busy road, but to be honest that wasn't a problem for us. The reception staff were helpful, concierge less so (we found booking a taxi through the concierge a lot more expensive than just waiting outside the hotel for a taxi to turn up).Breakfast wasn't bad at all, and the hotel lobby was really quite impressive, but the decor in the rooms wasn't quite as good.The main problem was the hotel's location; you need to rely on taxis to get to and from the city centre. Taxis don't take very long or cost that much, but the hotel's just too far out to consider walking in the heat of Singapore. The hotel's courtesy buses don't run frequently enough, but could come in handy if you know in advance what time you'll want to head into the centre. The main problem was getting a taxi back to the hotel, as one evening the taxi queues in town were massive and we were starting to think we'd be out all night (for this reason alone I'd recommend being central and so within walking distance of the subway system). Having said all that, the hotel is conveniently placed for the Botanic Gardens (well worth a visit), which suited my husband (a keen runner) down to the ground.A few other minor gripes - the cleaners threw away my toothbrush; one night we were woken by our room phone ringing (we still don't know why!); and another morning we were woken by a phonecall to ask if we were ready for our breakfast to be delivered (which we weren't as we were still asleep, and it was still 15 minutes before the earliest time we'd asked for breakfast to be delivered) - and even after the phonecall, it took 30 mins for our breakfast to arrive, so we were a little bemused by that. All minor things individually I know, but together they were a bit annoying.In summary, I probably wouldn't choose to stay there again, but it wasn't an awful hotel.  
+<Date>Mar 15, 2007
+<Rating>3	3	3	2	3	4	3	1	
+<Aspects>
+10	50(bad):1	52(bit):1	62(expect):1	167(choose):1	178(probably):1	695(annoy):1	720(minor):1	736(awful):1	1716(summary):1	4567(individually):1	
+0	
+48	2(night):1	5(time):1	6(breakfast):4	13(bathroom):1	18(book):1	23(little):1	29(minute):1	50(bad):1	53(arrive):1	55(lobby):1	56(morning):1	62(expect):1	65(visit):1	88(read):1	96(worth):1	105(husband):1	111(spacious):1	123(ok):1	134(available):1	247(min):1	269(decor):1	274(ready):1	296(phone):1	310(garden):1	336(option):1	356(comment):1	554(wake):2	597(tripadvisor):1	631(deliver):2	706(grind):1	720(minor):1	739(fair):1	861(suit):1	917(throw):1	920(impressive):1	1070(conveniently):1	1150(ring):1	1778(shoot):1	1788(gripe):1	2123(asleep):1	2471(toothbrush):1	2487(cleaner):1	2641(keen):1	2841(runner):1	3247(determine):1	5547(pokey):1	7155(botanic):1	10151(phonecall):2	
+35	1(location):1	2(night):1	5(time):1	7(walk):2	15(recommend):1	22(pool):1	41(city):1	50(bad):1	101(center):2	112(main):2	115(distance):1	120(bus):1	149(run):1	165(start):1	168(central):1	175(cost):1	185(taxi):4	220(busy):1	230(road):1	239(town):1	248(consider):1	319(head):1	370(subway):1	374(reason):1	518(system):1	539(heat):1	685(advance):1	755(handy):1	960(singapore):1	1108(honest):1	1329(massive):1	1463(queue):1	1573(frequently):1	1728(courtesy):1	2327(rely):1	
+0	
+10	0(staff):1	14(helpful):1	18(book):1	38(lot):1	85(wait):1	98(outside):1	124(expensive):1	129(reception):1	185(taxi):2	204(concierge):2	
+0	
+0	
+
+<Author>Howie30
+<Content>Massive disapointment. We used Singapore as a stop over on our trip to South Island Singapore. We used several comparison sites for hotels and decided to stay at the Copthorne Orchid, Dunearn Road, Singapore. We paid for an upgraded room in the Plymouth Wing. When we found our room we were very disapointed. The carpets were grubby, the settee had unknown stains and the net curtains had not been washed since they had been put up! We requested a change of room, but were advised that this was not possible as the hotel was full. The hotel seemed to be full of people either on business or on a stop over. As such the hotel was not bothered with any poor impact as most guests only had to suffer for a couple of nights. Having said the room was poor, the staff at the hotel were pleasant and tried to be helpful. The other disapointment was in the hotels location. It is described as being in a quiet residential area. They forgot to mention the eight lane highway right outside the hotel. If we visited Singapore again, we would stay more in the centre of the city, it would have been quieter.  
+<Date>Mar 6, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+14	2(night):1	33(trip):1	91(guest):1	99(couple):1	122(stop):1	307(bother):1	331(poor):1	342(island):1	769(south):1	960(singapore):2	1329(massive):1	1790(suffer):1	4236(impact):1	5392(disapointment):1	
+3	42(pay):1	163(upgrade):1	1515(wing):1	
+24	0(staff):1	14(helpful):1	41(city):1	58(quiet):2	65(visit):1	101(center):1	148(request):1	150(pleasant):1	161(change):1	253(tried):1	331(poor):1	396(carpet):1	663(advise):1	723(stain):1	743(curtain):1	811(wash):1	955(describe):1	960(singapore):1	1537(residential):1	2076(net):1	2513(disapoint):1	3740(grubby):1	4506(unknown):1	7869(settee):1	
+16	1(location):1	26(people):1	98(outside):1	122(stop):1	147(business):1	192(site):1	219(decide):1	230(road):1	244(mention):1	397(forget):1	960(singapore):1	1525(comparison):1	1870(highway):1	2566(lane):1	3233(orchid):1	5392(disapointment):1	
+0	
+0	
+0	
+0	
+
+<Author>shipper1
+<Content>Just a little Out of the Way The 7 night stay I had at this hotel last month was OK.The hotel is situated with a duel carriageway highway down one side  quiet suburban streets down the other sides.The rooms are fine  clean.The main restaurant offers an excellent buffet breakfast  it's dinner specials are worth a try (I only had it once). The restaurant staff seemed very pleasent  helpful. It is a bit isolated  requires a taxi or the courtesy bus to get anywhere. Next time, I will look for a more central hotel where one can easily walk to various restaunts etc.  
+<Date>Mar 5, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	2(night):1	23(little):1	123(ok):1	388(month):1	
+0	
+7	3(clean):1	35(street):1	58(quiet):1	113(fine):1	574(situate):1	1870(highway):1	6464(suburban):1	
+13	5(time):1	7(walk):1	20(look):1	52(bit):1	73(etc):1	120(bus):1	168(central):1	185(taxi):1	438(easily):1	722(require):1	823(various):1	1728(courtesy):1	2468(isolate):1	
+0	
+4	0(staff):1	10(restaurant):1	14(helpful):1	3057(pleasent):1	
+10	6(breakfast):1	10(restaurant):1	21(excellent):1	76(try):1	77(buffet):1	89(offer):1	96(worth):1	112(main):1	117(dinner):1	208(special):1	
+0	
+
+<Author>SA_travellers
+<Content>Crummy, crappy and Smelly - AVOID AVOID the Copthorne Orchid Singapore. There was NOTHING great about this place. The location is problematic as it is NOT central at all and although the hotel offers a free shuttle bus service to Orchard Road, this is inconvenient and restrictive. More importantly than this, the hotel is dark and depressing...you get the feeling is was grand 30 years ago, but not anymore!The breakfast was ok, but not great.The rooms are large but we stayed in a very smoky room which was gross, even though we smoke!There is a nice pool but no ambience.We arrived early (8am) and waited for our room (1 hour) and had breakfast which we were charged for....this just seemed unfair as we left early on our last day (5am) and did not have breakfast - the hotel was not prepared to swop breakfasts.....petty but at +- $50 / person, it was just nasty!Staff were not at all friendly, but this seemed to be the Singapore way.Room had no view but did have a nice verandah and it was clean with air-con.We definitely would not stay here again. There MUST be better options: try something else.  
+<Date>Mar 3, 2007
+<Rating>1	1	1	1	3	2	1	-1	
+<Aspects>
+14	4(nice):1	22(pool):1	34(feel):1	59(definitely):1	76(try):1	170(else):1	336(option):1	365(grand):1	459(dark):1	633(ago):1	957(ambience):1	1853(anymore):1	1996(importantly):1	2189(depress):1	
+0	
+23	3(clean):1	4(nice):1	6(breakfast):3	8(day):1	17(view):1	43(leave):1	53(arrive):1	60(hour):1	85(wait):1	136(charge):1	193(person):1	460(prepare):1	468(smoke):1	1639(nasty):1	1797(gross):1	3349(air-con):1	3782(smoky):1	4223(swap):1	4435(unfair):1	4613(petty):1	6689(verandah):1	7545(8am):1	9113(5am):1	
+12	1(location):1	9(service):1	46(free):1	89(offer):1	120(bus):1	168(central):1	230(road):1	321(shuttle):1	1670(orchard):1	2301(inconvenient):1	5079(problematic):1	11403(restrictive):1	
+6	436(avoid):2	960(singapore):1	1697(smelly):1	3233(orchid):1	3380(crappy):1	7381(crummy):1	
+3	0(staff):1	12(friendly):1	960(singapore):1	
+2	6(breakfast):1	123(ok):1	
+0	
+
+<Author>WazzaTroy
+<Content>Cheapest Travel Agent recommended My girl friend and I stayed there in July 06, the location is a little far out from the hustle of downtown Singapore but still not far from places by taxi. The do have a shuttle bus going down to Orchid Road but we didn't go with that as times did not suit us.The reception staff we found to be not very helpful, i.e when we arrived there they didn't seem friendly and also when asked to use the internet they were not very responsive so I never used it.Located in the ritzy area of Singapore.The pool was great but probally not as quite as what I would of hoped -it is right next to main road!! The gym is equiped with exercise bikes, running machine and weight set.There is a great massage centre within hotel, just keep your husbands at bay with only limited cash for normal massage (if you get what I mean!!).The first room we had was okay but the toilet didnt flush so we were moved to a bigger room overlooking Raffles Club (not Raffles BAr). The bigger room was much nicer, though with both rooms an upgrade would do some good.We didnt eat in, but a service station is not far away so you can buy drinks and snack food there at a fraction of price of mini-bar.In my opinion there is other hotels closer and for much the same price so even though it was okay and userable prehaps look elsewhere.  
+<Date>Jan 2, 2007
+<Rating>2	2	3	2	3	1	2	1	
+<Aspects>
+4	22(pool):1	112(main):1	230(road):1	328(hope):1	
+6	19(price):1	20(look):1	28(close):1	453(okay):1	646(elsewhere):1	704(opinion):1	
+2	4(nice):1	163(upgrade):1	
+20	1(location):1	5(time):1	15(recommend):1	23(little):1	68(travel):1	84(locate):1	120(bus):1	143(cheap):1	146(friend):1	185(taxi):1	230(road):1	321(shuttle):1	334(downtown):1	625(girl):1	766(agent):1	861(suit):1	960(singapore):2	1503(hustle):1	3233(orchid):1	7457(ritzy):1	
+0	
+7	0(staff):1	12(friendly):1	14(helpful):1	53(arrive):1	97(internet):1	129(reception):1	2351(responsive):1	
+27	9(service):1	16(food):1	19(price):1	27(bar):1	47(eat):1	63(drink):1	82(station):1	149(run):1	207(move):1	212(club):1	234(set):1	260(overlook):1	280(buy):1	330(toilet):1	406(snack):1	453(okay):1	493(machine):1	523(gym):1	626(didnt):2	1338(mini-bar):1	1459(exercise):1	1479(bike):1	1582(weight):1	1619(flush):1	2456(raffle):2	2976(equipe):1	3719(fraction):1	
+8	101(center):1	105(husband):1	246(mean):1	510(limit):1	671(bay):1	730(massage):2	878(normal):1	1082(cash):1	
+
+<Author>nz_asia
+<Content>Not Worth A Penny This hotel was booked as part of SINGAPORE AIRLINES STOPOVER holiday package and whilst it was adequate the property was tired and ageing, the air conditioning struggled to maintain a cool temperature to sleep. This hotel is not close to Orchard Road and you pretty much have to catch a cab to anywhere you want to go, so the location somewhat inconvenient. We only stayed here for two nights and next time in Singapore we will be choosing another hotel.  
+<Date>Dec 7, 2006
+<Rating>2	2	2	1	3	2	2	-1	
+<Aspects>
+4	2(night):1	5(time):1	167(choose):1	960(singapore):1	
+0	
+20	18(book):1	96(worth):1	104(sleep):1	164(air):1	214(property):1	223(holiday):1	263(condition):1	278(cool):1	390(adequate):1	454(tire):1	505(age):1	527(package):1	562(maintain):1	877(whilst):1	944(temperature):1	960(singapore):1	1336(airline):1	1590(penny):1	1979(struggle):1	2364(stopover):1	
+9	1(location):1	28(close):1	109(pretty):1	230(road):1	380(cab):1	540(catch):1	651(somewhat):1	1670(orchard):1	2301(inconvenient):1	
+0	
+0	
+0	
+0	
+
+<Author>BigTripGirl
+<Content>Nice motel, average location for tourists I stayed here for 11 nights, it was quite good, but I initially thought a little pricey since it was during the recession. Though I was given 2 nights for free so that is okay.Fridge in room, room was very clean and the housekeeping very friendly. They were putting in water pumps at the time b/c it took 15 minutes for hot water to become hot.There was a bus to Orchard Rd (Free) and the public transport is close by.The restaurant was good but very pricey. Check the price of fresh juice before ordering it!!!It was not within walking distance to anywhere, except the bus stop. Taxis to and from are cheap.You can book tours in the lobby in the morning which was good. I have since been back to Singapore but did not stay here based on location.  
+<Date>Dec 6, 2006
+<Rating>3	3	5	2	5	3	3	-1	
+<Aspects>
+8	2(night):1	5(time):1	29(minute):1	46(free):1	57(water):2	114(hot):2	453(okay):1	4065(pump):1	
+14	1(location):1	2(night):1	4(nice):1	10(restaurant):1	19(price):1	23(little):1	32(check):1	197(fresh):1	209(tourist):1	227(average):1	362(juice):1	546(pricey):2	991(motel):1	1439(initially):1	
+4	3(clean):1	12(friendly):1	318(fridge):1	367(housekeeping):1	
+16	1(location):1	7(walk):1	28(close):1	46(free):1	115(distance):1	120(bus):2	122(stop):1	143(cheap):1	185(taxi):1	284(base):1	337(except):1	379(public):1	742(transport):1	960(singapore):1	1670(orchard):1	3113(rd):1	
+0	
+0	
+4	18(book):1	55(lobby):1	56(morning):1	181(tour):1	
+0	
+
+<Author>Smudgers
+<Content>Book Another Hotel We were booked in for 2 nights en route OZ to UK. We booked a superior room in the main building based on the fact that the hotel was given a 4 star rating and that the descriptions offered on the internet seemed well up to that standard.Arrived mid evening, hotel was very busy with large number of buses having just arrived with youths apparently checking in. Our first impressions wwere that the premises looked seriously in need of a re vamp and looked more in keeping with being described as a back packers stop over. The first room offered was damp, smelled and had black patches on the walls. We also found the bed sheet to be torn and the lid of the w/c to be broken. The 2nd room offered was marginally better but nothing like the internet description. Hotel is too far out from the centre, on a difficult section of the road system and as a result taxi drivers were reluctant to make the journey back to the hotel. Would not wish to stay there again.Spoilled the end of an excellent holiday.  
+<Date>Dec 6, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	20(look):2	21(excellent):1	122(stop):1	223(holiday):1	384(wish):1	848(impression):1	955(describe):1	1441(seriously):1	1989(premiss):1	9724(packer):1	
+11	18(book):1	78(rate):1	89(offer):1	97(internet):1	103(star):1	112(main):1	130(standard):1	135(build):1	284(base):1	785(superior):1	2034(description):1	
+15	11(bed):1	89(offer):2	97(internet):1	183(wall):1	228(break):1	231(smell):1	479(sheet):1	1007(black):1	1326(2nd):1	1605(tear):1	1640(damp):1	2034(description):1	3518(patch):1	5792(lid):1	5895(marginally):1	
+18	32(check):1	53(arrive):2	101(center):1	120(bus):1	185(taxi):1	220(busy):1	230(road):1	335(numb):1	518(system):1	563(driver):1	572(difficult):1	863(apparently):1	947(section):1	1109(result):1	1313(mid):1	1362(journey):1	3525(youth):1	3759(reluctant):1	
+0	
+0	
+6	2(night):1	18(book):2	1035(route):1	1178(uk):1	2065(en):1	3994(oz):1	
+0	
+
+<Author>expectant customer
+<Content>No, not this one! The are more negatives here than positives.I stayed 1 night on the Sydney-London stopover.It was a disappointment after staying in another Copthorne in Singapore. Yes, it is tired, and getting old, and it needs a makeover in most places.The room was OK, but needs refreshing.The corridors from reception to my room, out the back, reminded me of an old American motel, not a nice Hotel.Receptionists themselves were fine, reception can get very busy, depending on flights/time of day. There are good areas to sit around reception. I spent time relaxing by the pool, it was about 2 star standard. Tired, grass needs thickening up, nobody came to take a drink order at all. Not the best place to spend time.The restaurant was OK, in a 3 star motel kind of way. Adequate, gets food inside you, but again, not the best that Singapore has to offer.Summary: Find another hotel if possible, otherwise expect mediocrity.  
+<Date>Oct 27, 2006
+<Rating>2	2	2	3	2	3	3	3	
+<Aspects>
+15	2(night):1	5(time):1	62(expect):1	64(spend):1	250(yes):1	282(negative):1	454(tire):1	458(positive):1	508(otherwise):1	866(disappointment):1	960(singapore):1	1716(summary):1	2364(stopover):1	3970(makeover):1	11400(mediocrity):1	
+9	5(time):1	10(restaurant):1	22(pool):1	64(spend):1	103(star):2	123(ok):1	130(standard):1	160(relax):1	991(motel):1	
+12	4(nice):1	16(food):1	89(offer):1	123(ok):1	129(reception):1	390(adequate):1	408(inside):1	960(singapore):1	991(motel):1	1073(corridor):1	1271(refresh):1	1285(remind):1	
+0	
+0	
+8	8(day):1	113(fine):1	129(reception):2	169(sit):1	220(busy):1	855(receptionist):1	969(depend):1	1059(themselves):1	
+3	63(drink):1	454(tire):1	2603(grass):1	
+0	
+
+<Author>JenBlak
+<Content>Tired and not close to Orchard Road This hotel was booked as part of QANTAS holiday package and whilst it was adequate the property was tired and ageing. We were shifted from our first room after night one as the air con ( which is essential in the tropics) had leaked all over the carpet. The second room had a blood stain on the curtain and the air conditioning struggled to maintain a cool temperature to sleep. The breakfast and the pool and gym were good. Contrary to the QANTAS brochure this hotel is not close to Orchard Road and you pretty much have to catch a cab to anywhere you want to go,so the locationis somewhat inconvenient. We stayed here for three nights and next time in Singapore we will be choosing another hotel.  
+<Date>Sep 26, 2006
+<Rating>2	2	2	2	2	4	2	2	
+<Aspects>
+4	2(night):1	5(time):1	167(choose):1	960(singapore):1	
+0	
+17	2(night):1	104(sleep):1	164(air):2	263(condition):1	278(cool):1	396(carpet):1	562(maintain):1	723(stain):1	743(curtain):1	840(Con):1	944(temperature):1	1287(leak):1	1979(struggle):1	2479(shift):1	2496(essential):1	2718(blood):1	3754(tropic):1	
+11	28(close):1	109(pretty):1	230(road):1	380(cab):1	540(catch):1	651(somewhat):1	1670(orchard):1	2001(brochure):1	2301(inconvenient):1	2419(contrary):1	10895(qantas):1	
+0	
+0	
+15	6(breakfast):1	18(book):1	22(pool):1	28(close):1	214(property):1	223(holiday):1	230(road):1	390(adequate):1	454(tire):2	505(age):1	523(gym):1	527(package):1	877(whilst):1	1670(orchard):1	10895(qantas):1	
+0	
+

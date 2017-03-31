@@ -1,0 +1,1274 @@
+<Author>XXOO89
+<Content>Great little gem Stayed at this hotel for the first time and was a pleasant surprise. The hotel was actually more reasonable in price than other hotels that we shopped. The location is great...except for the the pan handlers as others have remarked. The service staff were all helpful and friendly and the rooms were very clean.  
+<Date>Jan 7, 2009
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+4	19(price):1	49(shop):1	180(actually):1	273(reasonable):1	
+5	0(staff):1	3(clean):1	9(service):1	12(friendly):1	14(helpful):1	
+5	1(location):1	337(except):1	2125(pan):1	3429(remark):1	5953(handler):1	
+0	
+0	
+5	5(time):1	23(little):1	150(pleasant):1	199(surprise):1	805(gem):1	
+0	
+
+<Author>daltay2812
+<Content>Great Location and Price We love this hotel. The location is great. The price too. It is just about one block from the Powell St. cable car turn around. That also means it is one block to BART and the MUNI underground so you can easily get around San Francisco and the whole Bay Area. They give you nice little amenities in the room like H20 brand shampoos. They have wine tasting in the library. -- There is a superb and hip restaurant downstairs called Farmer Browns. It has soul food that is wonderful. I hated collard greens as a kid. I would never dream of ordering them, but they came as a side - they were great.  
+<Date>Dec 23, 2008
+<Rating>5	5	4	4	5	5	5	5	
+<Aspects>
+9	100(bloc):1	121(car):1	201(kid):1	484(cable):1	655(st):1	1005(green):1	1110(hate):1	1256(dream):1	1897(powell):1	
+3	1(location):1	19(price):2	40(love):1	
+12	4(nice):1	10(restaurant):1	23(little):1	67(call):1	291(amenity):1	407(superb):1	691(downstairs):1	883(brand):1	1051(shampoo):1	1491(hip):1	1667(brown):1	3853(farmer):1	
+10	1(location):1	100(bloc):1	177(san):1	246(mean):1	355(francisco):1	438(easily):1	671(bay):1	1085(underground):1	1505(bart):1	2181(muni):1	
+0	
+0	
+6	16(food):1	48(wonderful):1	251(wine):1	439(taste):1	1648(library):1	3798(soul):1	
+0	
+
+<Author>squishlefonke
+<Content>A great little hotel near Downtown SF, great for traveling on a budget Booked a room for myself, and another for coworkers traveling to a conference at the Moscone center. Getting to the Metropolis from the airport was super easy, just hop on the BART to the Powell St. station and it's one block up Market. The Metropolis is close to the Westfield shopping center (upscale mall) and a lot of downtown shopping, as well as Chinatown and the Moscone convention center. Being in town for a convention, it was a short 10 minute walk each way. As some travelers note the area is populated by panhandlers, but since it's an area with a lot of pedestrians, business types, shoppers and tourists walking around it felt generally safe to walk around to me. As long as you walk towards Powell, and don't wander alone aimlessly towards the Tenderloin you should be fine. The decor is a mix of retro/future, with some Art Deco from the silent movie Metropolis (hence the name). Since it's an older building the layout reflects this, so the rooms are on the small side but not too cramped (though it might be for a family of 4). All the furniture, carpeting, fixtures, bathrooms, etc are recently remodeled. The bathroom was one of the cleanest I've seen. The bed was super comfortable. The staff was very helpful and friendly. There is free coffee mornings in the little library, which was good except for the christmas music they piped in (had to endure that everywhere though). One night I met a friend for drinks at the bar/restaurant downstairs, which had a cool (but not too cool for school, if you know what I mean) feel to it. I recommend the mulled cider with bourbon. The only negatives - the heater was a bit on the weak side, though I guess that week it was about as cold as it gets in SF. And the alarm clock was kind of gimpy, good thing I used my cell phone as a backup alarm. I would definitely recommend Hotel Metropolis to a friend. It's a convenient location, clean, friendly, and a great value for the price, especially when you compare to what other hotels in San Fran charge.  
+<Date>Dec 21, 2008
+<Rating>5	5	4	5	5	5	5	4	
+<Aspects>
+19	15(recommend):2	52(bit):1	59(definitely):1	75(week):1	146(friend):1	222(cold):1	282(negative):1	296(phone):1	469(guess):1	802(sf):1	1038(bourbon):1	1291(clock):1	1380(alarm):2	1583(cell):1	1770(weak):1	2361(heater):1	6392(metropolis):1	6873(backup):1	7957(cider):1	
+11	1(location):1	3(clean):1	12(friendly):1	19(price):1	81(value):1	126(especially):1	136(charge):1	177(san):1	186(convenient):1	381(compare):1	1744(fran):1	
+37	3(clean):1	11(bed):1	13(bathroom):2	18(book):1	23(little):1	25(comfortable):1	68(travel):2	73(etc):1	101(center):1	102(near):1	106(family):1	135(build):1	269(decor):1	295(name):1	322(recently):1	334(downtown):1	396(carpet):1	429(budget):1	440(furniture):1	464(super):1	609(mix):1	789(art):1	794(conference):1	802(sf):1	989(movie):1	1080(cramp):1	1238(remodel):1	1453(layout):1	1541(fixture):1	2250(reflect):1	2306(hence):1	2770(deco):1	4005(silent):1	4028(moscone):1	4079(retro):1	6392(metropolis):1	6484(coworker):1	
+41	7(walk):4	28(close):1	29(minute):1	34(feel):1	38(lot):2	49(shop):2	82(station):1	93(easy):1	95(airport):1	100(bloc):1	101(center):2	113(fine):1	137(safe):1	144(short):1	147(business):1	209(tourist):1	239(town):1	264(market):1	267(traveler):1	297(note):1	334(downtown):1	389(type):1	464(super):1	643(mall):1	655(st):1	959(towards):2	1048(convention):2	1132(chinatown):1	1151(hop):1	1237(upscale):1	1505(bart):1	1562(wander):1	1897(powell):2	2403(pedestrian):1	2579(tenderloin):1	3844(shopper):1	4028(moscone):1	5217(populate):1	5647(panhandler):1	5881(westfield):1	6392(metropolis):2	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+20	2(night):1	23(little):1	27(bar):1	34(feel):1	46(free):1	56(morning):1	63(drink):1	90(coffee):1	146(friend):1	196(meet):1	246(mean):1	278(cool):2	337(except):1	398(music):1	691(downstairs):1	962(christmas):1	1229(school):1	1648(library):1	2067(pipe):1	4049(endure):1	
+0	
+
+<Author>Traveler1825
+<Content>A good hotel I got a group rate at this hotel, which was much less than that of the main conference hotel. I was alone, and the staff was very helpful. My first room was noisy, so I asked for another and was offered a wonderful room on the top floor. The neighborhood was bad, but not much different from the Hilton up the street. It was a neighborhood from which I am usually sheltered, and I appreciated being in it. I never felt unsafe. It is just a block from Powell and Market and across the street from a huge mall and food court. This was one of the best hotels I have stayed in for value, service, comfort, and convenience.  
+<Date>Dec 2, 2008
+<Rating>4	5	5	2	5	5	5	5	
+<Aspects>
+6	34(feel):1	399(usually):1	421(neighbourhood):1	500(appreciate):1	1890(unsafe):1	4276(shelter):1	
+4	9(service):1	81(value):1	702(comfort):1	925(convenience):1	
+5	24(floor):1	48(wonderful):1	89(offer):1	118(top):1	217(noisy):1	
+14	16(food):1	35(street):2	50(bad):1	78(rate):1	100(bloc):1	112(main):1	133(huge):1	264(market):1	421(neighbourhood):1	477(hilton):1	643(mall):1	794(conference):1	1068(court):1	1897(powell):1	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>hi_coo
+<Content>Better than I expected Once I found the hotel (I walked up the street and there are no proper signs to the entrance which is behind the building and through a carpark!!), unless you are heading downhill towards Market St, I was pleasantly surprised. Like some of the others I thought the location (bordering on the Tenderloin district) was a bit off-putting at first, but once inside I was pleased overall. The foyer was nice, the front desk staff incredibly helpful and free internet in the upper lounge. The rooms were spacious, comfortable and very clean. There was limited services - no breakfast on the premises but coffee, tea, hot chocolate for a limited time in the morning. For the price, location and staff I can't fault this hotel in any way.  
+<Date>Oct 13, 2008
+<Rating>4	4	4	3	4	5	-1	-1	
+<Aspects>
+0	
+4	0(staff):1	1(location):1	19(price):1	517(fault):1	
+12	1(location):1	3(clean):1	25(comfortable):1	52(bit):1	70(overall):1	111(spacious):1	173(please):1	408(inside):1	433(district):1	2579(tenderloin):1	2701(border):1	7535(off-putt):1	
+16	7(walk):1	35(street):1	62(expect):1	135(build):1	199(surprise):1	264(market):1	405(unless):1	449(sign):1	490(entrance):1	747(pleasantly):1	940(St):1	959(towards):1	1437(heading):1	1719(proper):1	2983(downhill):1	4557(carpark):1	
+0	
+11	0(staff):1	4(nice):1	14(helpful):1	31(front):1	36(desk):1	46(free):1	97(internet):1	237(lounge):1	807(incredibly):1	1333(upper):1	1931(foyer):1	
+10	5(time):1	6(breakfast):1	9(service):1	56(morning):1	90(coffee):1	114(hot):1	301(tea):1	510(limit):2	632(chocolate):1	1989(premiss):1	
+0	
+
+<Author>jjminer
+<Content>Great Rooms, Great Price, City Neighborhood At first we were skeptical, based on the reviews here, but everything else was booked solid (Oracle OpenWorld was in town, bringing 43,000 guests.)It's a hotel in a city. Yes, there are homeless, there are people asking for money, there are fire trucks and people arguing in the street late at night. Maybe I'm different, but I expect this in a city. It's the same experience at the 39-story Marriott. If you don't want it, don't book a hotel in the city.The hotel itself was spotless, as was the room. The beds were comfortable, and the morning coffee excellent. I stayed on the fourth floor, and while there was noise from the street, it wasn't bad, in my opinion, and was exactly what I would expect being in the city.The attached restaurant, Farmer Brown had wonderful food, good drinks and a friendly waitstaff. It's more expensive than Dennys, but much better.Overall, a wonderful experience and I would recommend it to anybody looking to stay in the area.  
+<Date>Oct 2, 2008
+<Rating>4	5	4	4	4	5	3	3	
+<Aspects>
+3	41(city):2	62(expect):1	308(maybe):1	
+20	15(recommend):1	18(book):1	19(price):1	20(look):1	37(review):1	41(city):1	44(experience):2	48(wonderful):1	70(overall):1	91(guest):1	124(expensive):1	142(bring):1	170(else):1	239(town):1	284(base):1	421(neighbourhood):1	618(marriott):1	1617(solid):1	3070(skeptical):1	7111(dennys):1	
+15	11(bed):1	21(excellent):1	24(floor):1	25(comfortable):1	35(street):1	41(city):1	50(bad):1	56(morning):1	62(expect):1	90(coffee):1	94(noise):1	548(spotless):1	586(exactly):1	704(opinion):1	1579(fourth):1	
+10	2(night):1	26(people):2	35(street):1	79(late):1	80(money):1	250(yes):1	1262(fire):1	1507(truck):1	1567(homeless):1	1894(argue):1	
+0	
+0	
+11	10(restaurant):1	12(friendly):1	16(food):1	18(book):1	41(city):1	48(wonderful):1	63(drink):1	1224(attach):1	1667(brown):1	3705(waitstaff):1	3853(farmer):1	
+0	
+
+<Author>Benji9
+<Content>OK hotel, lousy neighbourhood       View from our hotel window  
+<Date>Sep 30, 2008
+<Rating>2	2	3	1	4	3	2	-1	
+<Aspects>
+0	
+0	
+5	17(view):1	119(window):1	123(ok):1	421(neighbourhood):1	2409(lousy):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>NowGomez
+<Content>Excellent Booked online with Metropolis Hotel and got a great 3-night package including valet parking for $ 160 per. Very helpful staff. Comfortable rooms with simple, yet stylized decor. Probably the most comfortable bed we've ever slept on. Hotel has usable lobby and library with coffee int he morning  wine tasting afternoon. Business area is one computer but was able to use it and print a document no hassle. Market St. location is easy public transportation to wharf, chinatown, north beach, mission, castro, haight. A 24-hour 7-11 is right across the street. Very happy with this choice of hotel.  
+<Date>Sep 7, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+0	
+2	107(choice):1	155(happy):1	
+6	11(bed):1	25(comfortable):2	104(sleep):1	178(probably):1	269(decor):1	613(simple):1	
+15	1(location):1	30(beach):1	35(street):1	93(easy):1	264(market):1	379(public):1	655(st):1	684(North):1	728(transportation):1	784(wharf):1	1132(chinatown):1	3743(24-hour):1	4154(mission):1	5886(castro):1	8063(haight):1	
+0	
+2	0(staff):1	14(helpful):1	
+18	18(book):1	21(excellent):1	55(lobby):1	56(morning):1	66(park):1	71(include):1	90(coffee):1	251(wine):1	364(afternoon):1	439(taste):1	457(valet):1	527(package):1	822(online):1	1648(library):1	5138(3-night):1	5412(int):1	5536(usable):1	6392(metropolis):1	
+6	147(business):1	171(able):1	555(computer):1	1101(print):1	1193(hassle):1	3699(document):1	
+
+<Author>Utazunk
+<Content>Great stay!       The library  
+<Date>Aug 28, 2008
+<Rating>5	4	4	4	5	5	4	5	
+<Aspects>
+1	1648(library):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Lelugray
+<Content>Funky and cool, if you can hack the neighborhood I found the Metropolis by accident - I'd booked a room on a travel Web site at the York Hotel, a sister hotel not faraway, only to arrive there from the airport with all my stuff and find that the hotel had booked me on the wrong day. No rooms. They did offer a room, for the cheap rate I'd booked the original room for, at the Metropolis. And yes, the area is...rough. I went for a run around the area and almost vomited from the stench. Lots of homeless people, who were actually quite friendly. It is a city, you know, so that's gonna happen (not the vomiting. Just the poor people.)Inside, however, the Metropolis was amazing. I loved the check-in desk, with its curved, carved wood, and the spacious lobby. My room was small but clean, comfortable and stylish. And Farmer Brown, the restaurant in the hotel, is not just a bar. It's an amazing noveau-Southern place (that does have an awesome bar) with the best cheese grits I ever had. The crowd was cool and friendly, and the chef apparently buys all of his produce from black family farms, which are disappearing. It was an unexpectedly funky find in an unexpectedly funky, pretty hotel. The people who talked about the size of the workout room are right - it's tiny. And the parking situation is odd - if you've got a big urban hotel, you need more parking. Duh.But I'd stay there again. If you like a real, urban experience, try it. If you're not comfortable with that...don't.  
+<Date>Aug 17, 2008
+<Rating>4	4	4	-1	4	4	4	3	
+<Aspects>
+29	12(friendly):2	25(comfortable):1	26(people):2	38(lot):1	41(city):1	106(family):1	109(pretty):1	149(run):1	180(actually):1	250(yes):1	278(cool):1	280(buy):1	313(crowd):1	331(poor):1	382(happen):1	863(apparently):1	1007(black):1	1047(rough):1	1361(chef):1	1516(funky):2	1567(homeless):1	2538(produce):1	2594(disappear):1	3414(vomit):2	3823(stench):1	3996(gonna):1	4563(farm):1	5632(unexpectedly):2	6788(duh):1	
+10	18(book):1	44(experience):1	76(try):1	78(rate):1	89(offer):1	143(cheap):1	240(real):1	1270(original):1	2673(urban):1	6392(metropolis):1	
+27	3(clean):1	8(day):1	18(book):2	25(comfortable):1	26(people):1	53(arrive):1	68(travel):1	83(size):1	95(airport):1	145(amaze):1	192(site):1	278(cool):1	338(tiny):1	371(talk):1	408(inside):1	421(neighbourhood):1	424(york):1	427(wrong):1	480(stuff):1	892(sister):1	961(stylish):1	1019(web):1	1516(funky):1	1801(workout):1	3213(accident):1	6392(metropolis):2	11075(hack):1	
+4	66(park):2	890(situation):1	1088(odd):1	2673(urban):1	
+0	
+8	36(desk):1	40(love):1	55(lobby):1	111(spacious):1	286(check-in):1	1327(wood):1	3799(carve):1	4533(curve):1	
+8	10(restaurant):1	27(bar):2	145(amaze):1	348(awesome):1	441(cheese):1	1667(brown):1	3853(farmer):1	7231(grit):1	
+0	
+
+<Author>TintininOz
+<Content>Not bad!       Cable Cars, San Fran  
+<Date>Aug 14, 2008
+<Rating>3	3	3	2	3	3	4	-1	
+<Aspects>
+5	50(bad):1	121(car):1	177(san):1	484(cable):1	1744(fran):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Abz1963
+<Content>Down but not out in the Tenderloin       The fitness room.  
+<Date>Aug 4, 2008
+<Rating>2	2	3	4	3	3	3	3	
+<Aspects>
+0	
+0	
+2	983(fitness):1	2579(tenderloin):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>msbettycampbell
+<Content>Like life, a good attitude matters I am a single female business traveller who was completely fine with my stay at Hotel Metropolis. The main entry to the hotel is not from the street, they have taken care to provide a secure and welcoming entry from the open parking area. I was very aware of the concerns of the immediate neighbourhood and believe that part of the responsibility is mine to be careful with the display of my possessions, and not be silly to walk alone at night in an unfamiliar area (and this could be for any city). I was checked in by Raymond, who is one of those rare few who went beyond expectations to greet me by name when I returned in the evening. I had THE most comfortable bed to sleep in after long days of meetings, and THE biggest t.v. I have ever seen in a standard room. I sent an email request which was responded to promptly. To me, these customer service standards more than make up for a block off the beaten path. At night, since I was travelling alone, I had a cab drop me right at the 'sheltered' door from the parkade, but while it was still light out, I did walk back to my hotel from Union Square without any problems. Any cabs or shuttles you require are happy to come inside the lobby to get you, rather than have you wait outside on the street. I have seen some of the other reviews, and I saw the misfortune of the some of the people on the streets nearby, but I do not think this is unheard of in any large city. This is a hotel that has a certain character and charm, and should not be ruled out based only on its location. I would stay here again.  
+<Date>Jul 1, 2008
+<Rating>4	4	5	2	4	5	5	5	
+<Aspects>
+0	
+8	32(check):1	39(return):1	295(name):1	415(greet):1	431(expectation):1	738(beyond):1	1924(rare):1	12855(raymond):1	
+18	2(night):1	7(walk):1	8(day):1	11(bed):1	25(comfortable):1	54(door):1	68(travel):1	104(sleep):1	130(standard):1	139(square):1	157(light):1	380(cab):1	451(union):1	662(drop):1	2346(meeting):1	2366(t.v):1	4276(shelter):1	10325(parkade):1	
+51	1(location):1	2(night):1	7(walk):1	26(people):1	35(street):3	37(review):1	41(city):2	55(lobby):1	66(park):1	85(wait):1	98(outside):1	112(main):1	113(fine):1	147(business):1	153(provide):1	155(happy):1	202(welcome):1	232(nearby):1	242(care):1	267(traveler):1	284(base):1	304(single):1	312(believe):1	321(shuttle):1	332(charm):1	380(cab):1	408(inside):1	421(neighbourhood):1	426(life):1	496(concern):1	531(matter):1	542(completely):1	722(require):1	821(attitude):1	832(aware):1	897(careful):1	1034(secure):1	1049(character):1	1269(mine):1	1649(entry):2	1714(female):1	1761(immediate):1	1835(rule):1	1917(display):1	2638(silly):1	3721(responsibility):1	5238(misfortune):1	5693(unfamiliar):1	5983(unheard):1	6392(metropolis):1	7856(possession):1	
+0	
+4	148(request):1	447(send):1	1212(promptly):1	1587(respond):1	
+6	9(service):1	100(bloc):1	130(standard):1	428(customer):1	442(beat):1	1612(path):1	
+0	
+
+<Author>BonitaLanita
+<Content>Hotel Metropolis is Great! In all honesty - I had 3 wonderful experiences with Hotel Metropolis and I would recommend it to anyone who is familiar with the city of San Francisco. I read several complaints in regards to the location of Hotel Metropolis, but anyone who is familiar with SF knows that there are homeless people and druggies EVERYWHERE! They are unavoidable - plain and simple. Hotel Metropolis is a tastefully done urban hotel with a really cool urban soul food restaurant attached to it called Farmer Brown. They have a super convenient parking situation which is rare in SF and the staff was nothing but awesome. Even though the hotel is on the edge of the Tenderloin district, it is great walking proximity to shopping on Market St. and Union Square, a number of great clubs and restaurants. Hotel Metropolis is part of the family of Personality Hotels and I have stayed at 3 of their hotels thus far. All great experiences at an affordable price. I wouldn't stay anywhere else.  
+<Date>Jun 26, 2008
+<Rating>5	5	4	4	4	5	5	4	
+<Aspects>
+7	106(family):1	170(else):1	613(simple):1	1546(plain):1	2522(personality):1	6392(metropolis):2	7936(unavoidable):1	
+11	15(recommend):1	19(price):1	41(city):1	44(experience):2	48(wonderful):1	177(san):1	355(francisco):1	1062(affordable):1	2081(familiar):1	4095(honesty):1	6392(metropolis):1	
+0	
+30	0(staff):1	1(location):1	7(walk):1	10(restaurant):1	26(people):1	49(shop):1	66(park):1	88(read):1	139(square):1	186(convenient):1	190(complaint):1	212(club):1	264(market):1	335(numb):1	348(awesome):1	433(district):1	451(union):1	464(super):1	655(st):1	802(sf):2	890(situation):1	930(regard):1	1114(proximity):1	1190(edge):1	1567(homeless):1	1924(rare):1	2081(familiar):1	2579(tenderloin):1	6392(metropolis):1	10173(druggy):1	
+0	
+0	
+11	10(restaurant):1	16(food):1	67(call):1	278(cool):1	1224(attach):1	1526(tastefully):1	1667(brown):1	2673(urban):2	3798(soul):1	3853(farmer):1	6392(metropolis):1	
+0	
+
+<Author>GoGoGoFamily
+<Content>Fun Adventure I see that most people didn't enjoy the 'interesting' part of this hotel - but this is what my family enjoyed about it. We travel extensively with our two young girls (age 4 and 6) and we like for them to see the 'real' side of places, not just the same old Holiday Inn... We found this hotel charming, the staff was extremely friendly and helpful and overall we loved it. Yes, it was a half block in the wrong direction, but that was manageable because otherwise the location was fantastic. We booked the kid suite and it was fabulous - the kids had their own bunkbed room with toys and their own bathroom and us adults could actually spread out and have our own space. I would definitely go back - but don't go if you aren't an adventurous traveller and prefer a 'sanitized' vacation.  
+<Date>Jun 23, 2008
+<Rating>4	4	3	4	4	5	5	-1	
+<Aspects>
+5	26(people):1	51(enjoy):2	106(family):1	176(fun):1	1861(adventure):1	
+6	59(definitely):1	131(vacation):1	267(traveler):1	536(prefer):1	3392(adventurous):1	8204(sanitize):1	
+11	13(bathroom):1	18(book):1	108(suite):1	166(own):3	180(actually):1	201(kid):2	210(space):1	270(fabulous):1	556(adult):1	1203(spread):1	2589(toy):1	
+9	1(location):1	86(fantastic):1	100(bloc):1	250(yes):1	283(half):1	395(direction):1	427(wrong):1	508(otherwise):1	4204(manageable):1	
+0	
+14	0(staff):1	12(friendly):1	14(helpful):1	40(love):1	68(travel):1	70(overall):1	110(extremely):1	223(holiday):1	240(real):1	324(inn):1	332(charm):1	505(age):1	625(girl):1	2178(extensively):1	
+0	
+0	
+
+<Author>stendera69
+<Content>quite okay The hotel has a good location directly at the Market street, downtown, within the shopping area, the subway station and the Cable car station.It was quite clean, the room was spacious, the bathroom has a bath tub. The room also had a big flat TV screen, a refrigerator, a wine cooler and a set of lady shavers. The only disadvantage was the promise that you can open the windows, but they opened only 3 inches and there was no air condition. All in all, location, the room itsself, friendly stuff and low price make the hotel recommendable.  
+<Date>Jun 18, 2008
+<Rating>3	3	3	3	3	3	3	3	
+<Aspects>
+0	
+6	1(location):1	12(friendly):1	19(price):1	480(stuff):1	513(low):1	6371(recommendable):1	
+20	3(clean):1	13(bathroom):1	111(spacious):1	116(tv):1	119(window):1	164(air):1	226(bath):1	234(set):1	251(wine):1	263(condition):1	278(cool):1	311(tub):1	521(lady):1	526(screen):1	535(flat):1	916(refrigerator):1	975(promise):1	1688(inch):1	3931(disadvantage):1	8317(shaver):1	
+11	1(location):1	35(street):1	49(shop):1	82(station):2	121(car):1	264(market):1	334(downtown):1	370(subway):1	383(directly):1	453(okay):1	484(cable):1	
+0	
+0	
+0	
+0	
+
+<Author>Accurate
+<Content>50 yards in the wrong direction The hotel had very clean rooms and bathroom and an excellent staff at the front desk. The hotel had free hi-speed wireless and nice sitting areas on my room's floor. My room was small, but I liked it. It was in many ways more like a small hotel in Paris than one in the US. A strength of the hotel is its location, which is very close to the Powell street BART station, close to the main stop of the cable car lines, and within easy walking distance of many big stores, union square, and the convention center.  The location is also the hotel's main weakness and it is a significant weakness. Mason street is a street on the edge of a bad neighborhood. Many of the people on the street seemingly were homeless or aimless, frequently asking passersby for handouts. It is a street where there is a lot of shouting. It's only 50 yards along the bad street (Mason) from Market street, which is generally a good street, but that can seem like a long 50 yards. On the other hand, I walked in and out several times on several days, was sometimes annoyed by repeated requests but never bothered, and never saw anyone else bothered.  A secondary drawback is that the rooms in the hotel do not seem to be air conditioned. Usually in San Francisco it doesn't matter, but on a warm day it will, partly because the open window lets in noise from the street below, even several stories up, which goes on until 3 or 4 am.  Overall I liked the hotel, but I am not sure I would go back again, knowing what I know now. Someone who decides to stay there should think of it as a bit of an urban adventure.  
+<Date>May 19, 2008
+<Rating>2	2	5	2	5	5	5	5	
+<Aspects>
+5	52(bit):1	70(overall):1	219(decide):1	1861(adventure):1	2673(urban):1	
+0	
+22	4(nice):1	8(day):1	24(floor):1	35(street):1	46(free):1	94(noise):1	119(window):1	164(air):1	169(sit):1	177(san):1	236(warm):1	263(condition):1	355(francisco):1	399(usually):1	531(matter):1	585(below):1	717(wireless):1	906(story):1	1344(drawback):1	3534(partly):1	7595(secondary):1	9150(hi-speed):1	
+44	1(location):2	5(time):1	7(walk):2	8(day):1	26(people):1	28(close):2	35(street):8	38(lot):1	50(bad):2	82(station):1	93(easy):1	101(center):1	112(main):2	115(distance):1	121(car):1	122(stop):1	139(square):1	148(request):1	170(else):1	188(line):1	255(store):1	264(market):1	307(bother):2	377(hand):1	403(paris):1	421(neighbourhood):1	451(union):1	484(cable):1	560(sometimes):1	695(annoy):1	1048(convention):1	1190(edge):1	1307(yard):2	1467(repeat):1	1505(bart):1	1567(homeless):1	1573(frequently):1	1897(powell):1	2146(shout):1	2362(significant):1	3283(strength):1	3501(seemingly):1	5075(mason):2	7527(weakness):2	
+0	
+9	0(staff):1	3(clean):1	13(bathroom):1	21(excellent):1	31(front):1	36(desk):1	395(direction):1	427(wrong):1	1307(yard):1	
+0	
+0	
+
+<Author>Oceanne
+<Content>Do not go I can only confirm previous reviews. Crackocolis indeed. Fortunately the police was not dealing with a dead body when I arrived but still an amputated person was nearby, and misery all around. This is not the place where you wanna stay during your vacation in San Fran -although this is one side of San Francisco -and other big cities. Front desk is below average, the library is nice from far away, but you go and wash your hands with antibacterial soap after using its computer for public use (keyboard is so dirty). In the room I like the armchair - nice color and better quality than the beddings (awful: mattress not firm, stains,...). The view was not bad at all as I got a room on a higher floor. And the bathroom was (small) nice and clean. Walls are thin.I did not check the reviews before booking as a usually adequate german tours operator described it as charm hotel (!!! - this is true), on the pictures rooms did look nice, and the rate was really good on the hotel website: $75. But here again, you definately get what you paid for. The rate was non refundable. I was glad I had only booked for 1 night. And looked forward to check out.  
+<Date>Apr 9, 2008
+<Rating>1	1	2	1	2	2	2	1	
+<Aspects>
+15	37(review):1	53(arrive):1	78(rate):1	140(deal):1	193(person):1	232(nearby):1	373(previous):1	982(confirm):1	990(indeed):1	1352(body):1	1409(police):1	1585(fortunately):1	1621(dead):1	7322(refundable):1	9661(misery):1	
+8	41(city):1	42(pay):1	131(vacation):1	177(san):2	355(francisco):1	410(definately):1	1744(fran):1	3755(wanna):1	
+18	3(clean):1	4(nice):3	13(bathroom):1	17(view):1	20(look):1	24(floor):1	50(bad):1	78(rate):1	187(quality):1	262(website):1	456(picture):1	723(stain):1	736(awful):1	847(mattress):1	942(color):1	1368(firm):1	4772(armchair):1	8874(bedding):1	
+12	18(book):1	32(check):1	37(review):1	181(tour):1	183(wall):1	332(charm):1	390(adequate):1	399(usually):1	754(thin):1	955(describe):1	1382(german):1	2167(operator):1	
+13	4(nice):1	31(front):1	36(desk):1	227(average):1	323(dirty):1	377(hand):1	379(public):1	555(computer):1	585(below):1	811(wash):1	965(soap):1	1648(library):1	4439(keyboard):1	
+3	20(look):1	32(check):1	750(forward):1	
+3	2(night):1	18(book):1	619(glad):1	
+0	
+
+<Author>businesstrvlrNyc
+<Content>No No No Pictures on the web page does not do it justice. Pictures should be of the surrounding area or even the homeless that decided to use the front of the hotel as its bathroom a la fresco. Rooms were very small for two people to stay. Just a disappointment. The staff was friendly. I wish we had a better experience.  
+<Date>Mar 18, 2008
+<Rating>2	2	1	1	2	3	3	2	
+<Aspects>
+5	456(picture):1	866(disappointment):1	1019(web):1	2414(page):1	2878(justice):1	
+2	44(experience):1	384(wish):1	
+9	13(bathroom):1	26(people):1	31(front):1	219(decide):1	225(la):1	456(picture):1	667(surround):1	1567(homeless):1	4002(fresco):1	
+0	
+0	
+2	0(staff):1	12(friendly):1	
+0	
+0	
+
+<Author>azulle
+<Content>more like 'crackocolis' This hotel was such a disappointment to say the least. I do not recommend this hotel unless you are looking for hard core urban decay in your vacation... yup... you'll get hookers, aggressive bums, crack heads unlimited, drunks galore... overall weirdos. This hotel is situated on the corner of Turk and Mason Street. Mason you can walk somewhat safely during the day... that being you are a in group, and you'll still come across weirdos. Turk street is a complete red flag the minute you arrive. Not only is it infested with crack heads but they are aggressive and mean. You can not walk into the hotel unnoticed. Funny that the hotel does not mention that on their website. It was not only unnerving coming and going from the hotel but it was a real nuisance at night because our window faced Turk street therefore we could hear their rants all night as well as the police sirens. The second night we were there about 6 police cars lined up the street at around 3am. It made for an unrestful night. The hotel ended being about 147.00 a night which is not much, but I've stayed for less in safer areas. It is interesting the night before we were supposed to check out, I walked into the elevator with a couple that had just arrived. He turned to his wife and said, I think I might have made a huge mistake. I turned to them and asked him if he was refering to the hotel and he responded with a dreadful nod. I reassured him that he did. Another negative to this hotel... the room was small and the sheets were not changed everyday. This would have really pist me off but I considering the location it is in... I could have not expected more. it is one of the scummiest areas. o_O I'll never ever ever ever stay here again. Never. ever.  
+<Date>Feb 19, 2008
+<Rating>1	1	2	1	1	3	2	4	
+<Aspects>
+15	2(night):2	133(huge):1	137(safe):1	184(wife):1	246(mean):1	319(head):1	866(disappointment):1	895(mistake):1	1411(crack):1	1587(respond):1	2772(aggressive):1	2895(dreadful):1	3842(infest):1	4260(reassure):1	10759(refere):1	
+18	15(recommend):1	20(look):1	70(overall):1	131(vacation):1	162(hard):1	319(head):1	405(unless):1	1411(crack):1	2077(unlimited):1	2673(urban):1	2772(aggressive):1	3824(bum):1	4127(drunk):1	4216(galore):1	4852(core):1	4905(hooker):1	8157(decay):1	10119(yup):1	
+14	2(night):2	35(street):1	119(window):1	132(hear):1	161(change):1	240(real):1	282(negative):1	479(sheet):1	605(everyday):1	1409(police):1	2282(siren):1	3973(nuisance):1	6807(unnerve):1	7636(rant):1	
+25	1(location):1	2(night):1	7(walk):2	8(day):1	29(minute):1	35(street):3	53(arrive):1	62(expect):1	121(car):1	188(line):1	200(corner):1	244(mention):1	248(consider):1	262(website):1	574(situate):1	590(red):1	622(complete):1	651(somewhat):1	1156(funny):1	1409(police):1	2290(flag):1	3347(safely):1	5075(mason):2	11248(unnoticed):1	11261(3am):1	
+0	
+0	
+7	2(night):1	7(walk):1	32(check):1	53(arrive):1	99(couple):1	216(elevator):1	620(suppose):1	
+0	
+
+<Author>starry119
+<Content>Be aware! My friends and I stayed there for the Nike Marathon. It was a small room for the three of us, but worked out to $238 pp for five nights. The area immediately around the hotel is full of homeless life. As soon as we got out of the cab the first person we see on the street screamed welcome to hell. Ignore them and they ignore you. Never give them a look or money or any help (one guy wanted my passport) as they don't leave you alone.Once you walked a half block or so you are connected by bus, train and trolley to all parts of the city. Shopping surrounds you and Union Square (our frequent destination) is a short walk. The cleaning staff were all very friendly and helpful. The front desk was touch-and-go. Some were nice and others were not. The hotel guest computer worked great for internet access. The one elevator is slow so we frequently took the stairs. Our access cards to the room continually were activated and deactivated. Not sure why. The sirens of emergency vehicles are always racing by the hotel at all hours so we asked for ear plugs and we got them right away. No air con. That was a challenge as we opened our window but it did not have a screen.What was odd was the nice flat panelled TV in every room. We didn't use it much but it was good. Bathrooms were clean and everything worked. The photos of the hotel on the web make the hotel look amazing and although they are technically accurate, once you arrive you will understand what these reviews are all about.  
+<Date>Nov 2, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+30	4(nice):1	20(look):2	37(review):1	43(leave):1	53(arrive):1	60(hour):1	80(money):1	92(help):1	145(amaze):1	146(friend):1	368(guy):1	391(understand):1	426(life):1	489(immediately):1	761(photo):1	832(aware):1	1019(web):1	1174(plug):1	1215(ignore):2	1567(homeless):1	1684(ear):1	1785(accurate):1	1951(vehicle):1	1975(passport):1	2282(siren):1	2561(emergency):1	3167(race):1	3779(marathon):1	5187(technically):1	8824(nike):1	
+0	
+19	2(night):1	3(clean):1	4(nice):1	13(bathroom):1	116(tv):1	119(window):1	159(access):1	164(air):1	292(card):1	526(screen):1	535(flat):1	840(Con):1	1088(odd):1	1708(challenge):1	2134(panel):1	3156(pp):1	3831(continually):1	4618(activate):1	9024(deactivate):1	
+22	7(walk):2	35(street):1	41(city):1	49(shop):1	100(bloc):1	120(bus):1	139(square):1	144(short):1	182(train):1	193(person):1	202(welcome):1	283(half):1	380(cab):1	418(soon):1	451(union):1	667(surround):1	841(connect):1	1079(trolley):1	1092(destination):1	1355(frequent):1	1757(scream):1	1918(hell):1	
+4	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	
+2	31(front):1	36(desk):1	
+4	216(elevator):1	455(slow):1	568(stair):1	1573(frequently):1	
+4	91(guest):1	97(internet):1	159(access):1	555(computer):1	
+
+<Author>TravelingMaverick
+<Content>Little gem Came during convention period and city was full, but found this hotel. The location was great..one block from BART. The staff was friendly. I don't know what the other reviewers are talking about regarding the homeless, but this is part of San Francisco!  
+<Date>Oct 26, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	177(san):1	355(francisco):1	371(talk):1	564(reviewer):1	930(regard):1	1567(homeless):1	
+0	
+0	
+1	1(location):1	
+0	
+2	0(staff):1	12(friendly):1	
+7	23(little):1	41(city):1	100(bloc):1	805(gem):1	1048(convention):1	1331(period):1	1505(bart):1	
+0	
+
+<Author>SpreeSpree
+<Content>Wouldn't Stay Here Again OK, I know I did not pay to stay at a Luxury hotel, but I thought at least I would get a friendly and clean hotel. I checked in minutes after walking in from the Powell St. BART station - I initially thought what a great location. But this hotel is literally on Skid Row. Bums on the corner, bums at the hotel entrance and bums surrounding the side entrance parking lot. I was staying by myself and did not feel safe.I was allowed to check in a little early, so that was nice. I went up to my room - it was small and a little musty smelling (no air conditioning or ventilation without opening the window, which I didn't want to do because it overlooked the streetside with bums. Here are the things I didn't like about the hotel:-didn't get a wake up call that I scheduled the night before.-no obvious bell service at the door - I'm a single traveler struggling with bags while two service people (front desk person and uniformed person) stand at the front desk watch me struggle-carpet stains-older boutique style hotel with not enough outlets to accommodate phone charger, laptop charger, etc.-magnetic keycards that don't work - I had to change these 3 times-printer in the business office that didn't work-iron was cheap, didn't work and water spilled out of the reservoir onto my clothes-I could smell cigarette smoke from outside my bathroom window-noisy (street noise, elevator noise, etc.)-wouldn't allow 1 hour late check out-they said they would call for a taxi but after 20 min of waiting and being approached by bums, I just walked up to a more busy street.On a good note:-pillows were nice (although outside bedding was somewhat skanky)-bathroom was functional (good shower pressure, hot water, etc.)-in-room refridgerator-flat screen TV on wall  
+<Date>Oct 23, 2007
+<Rating>1	1	2	2	2	2	2	2	
+<Aspects>
+5	34(feel):1	137(safe):1	665(literally):1	1638(row):1	11537(skid):1	
+5	3(clean):1	12(friendly):1	42(pay):1	123(ok):1	437(luxury):1	
+27	4(nice):1	11(bed):1	13(bathroom):1	23(little):1	57(water):1	61(shower):1	73(etc):1	98(outside):1	114(hot):1	116(tv):1	119(window):1	164(air):1	183(wall):1	231(smell):1	260(overlook):1	263(condition):1	297(note):1	303(pillow):1	526(screen):1	651(somewhat):1	686(pressure):1	1016(musty):1	1301(in-room):1	1348(functional):1	2667(ventilation):1	3824(bum):1	8177(streetside):1	
+65	1(location):1	2(night):1	7(walk):2	9(service):2	13(bathroom):1	26(people):1	29(minute):1	31(front):2	32(check):2	35(street):2	36(desk):2	38(lot):1	54(door):1	57(water):1	60(hour):1	66(park):1	67(call):2	73(etc):1	79(late):1	82(station):1	85(wait):1	94(noise):2	98(outside):1	143(cheap):1	147(business):1	161(change):1	185(taxi):1	193(person):2	200(corner):1	216(elevator):1	220(busy):1	231(smell):1	245(watch):1	247(min):1	267(traveler):1	290(bag):1	296(phone):1	304(single):1	326(style):1	359(allow):1	444(stand):1	468(smoke):1	490(entrance):2	554(wake):1	623(boutique):1	624(accommodate):1	655(st):1	667(surround):1	792(office):1	801(bell):1	1111(laptop):1	1196(schedule):1	1365(cigarette):1	1378(approach):1	1439(initially):1	1505(bart):1	1689(outlet):1	1698(obvious):1	1897(powell):1	1979(struggle):1	3353(spill):1	3824(bum):4	4977(charger):2	9257(uniformed):1	10486(keycards):1	
+0	
+4	4(nice):1	23(little):1	32(check):1	359(allow):1	
+0	
+0	
+
+<Author>Irish276
+<Content>Not a nice area of San Francisco The room itself was nice and clean however the staff were not at all helpful. We arrived to find police dealing with a dead body at the hotel door. No member of staff reassured us. The following morning we went outside. The area is very poor and there is a major homelessness problem there. We checked out immediately and found accomodation in a lovely area of the city. I would not recommend this hotel to anyone.  
+<Date>Oct 21, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	15(recommend):1	53(arrive):1	54(door):1	140(deal):1	315(major):1	331(poor):1	1352(body):1	1409(police):1	1621(dead):1	
+5	32(check):1	41(city):1	87(lovely):1	489(immediately):1	780(accomodation):1	
+6	0(staff):1	3(clean):1	4(nice):2	14(helpful):1	177(san):1	355(francisco):1	
+3	56(morning):1	98(outside):1	482(follow):1	
+0	
+2	0(staff):1	4260(reassure):1	
+0	
+0	
+
+<Author>jaydakiss
+<Content>Great Hotel...Sketchy Neighborhood I just got back from staying at the Hotel Metropolis. There were many great aspects to the hotel. The rooms, although small, were nicely decorated and clean, the staff was very helpful, there was free wireless access as well as a business center, it is in a great location right off of Market Street, and the price was great for a San Francisco hotel.The only negative thing about it was that although the location was near a great shopping area and Union Square the block in particular that the hotel is on is really sketchy. I am not sure if there is a drug rehabilitation center nearby or something (although none of the people wandering the block at all hours of the night seemed rehabilitated). I am from NYC and have lived here my entire life so I am used to city life and all of the things that come with it. This was beyond anything I have seen, I literally saw someone smoking crack on the corner (after seeing someone urinating on a parked car). That being said, it is a short stretch to the touristy area (about a block from San Francisco Shopping Centre) and if you dont mind walking really really fast through 1 sketchy block to get to your hotel then I would recommend it.  
+<Date>Oct 9, 2007
+<Rating>3	5	4	2	4	5	4	5	
+<Aspects>
+9	41(city):1	206(live):1	329(entire):1	421(neighbourhood):1	426(life):2	558(nyc):1	1255(aspect):1	3148(sketchy):1	6392(metropolis):1	
+0	
+0	
+40	0(staff):1	1(location):2	3(clean):1	7(walk):1	14(helpful):1	15(recommend):1	19(price):1	35(street):1	46(free):1	49(shop):2	66(park):1	100(bloc):3	101(center):2	102(near):1	121(car):1	139(square):1	144(short):1	147(business):1	159(access):1	177(san):2	200(corner):1	264(market):1	282(negative):1	294(mind):1	305(decorate):1	355(francisco):2	404(nicely):1	451(union):1	468(smoke):1	499(fast):1	503(dont):1	665(literally):1	717(wireless):1	738(beyond):1	938(particular):1	1411(crack):1	1470(touristy):1	1586(stretch):1	3148(sketchy):2	9880(urinate):1	
+0	
+0	
+0	
+9	2(night):1	26(people):1	60(hour):1	100(bloc):1	101(center):1	232(nearby):1	573(none):1	1562(wander):1	2256(drug):1	
+
+<Author>Bruins456
+<Content>Not the best choice while staying in San Francisco While the room rate is moderate, not cheap, the Metropolis hotel is not a viable choice when staying in San Francsico. The hotel is worn, desperate need of updating, much like the neighborhood it reside within. The hotel staff is pleasant, but I found the rooms to be in need of a deep cleaning, meaning shampoo the carpeting, dry cleaning the comforter, and addin screens into the windows (who ever heard of a hotel with windows that completely open so that children or anyone could jump out of? Weird!). The hotel has one elevator that can accomomdate three persons comfortably, you can imagine if someone has several bags with you when you get on the elevator, very cramped. Sometime you wait for 4 -5 minutes to get out the hotel, depending on which floor you reside.Then there's the neighborhood...I grew up in Detroit, Michigan, so I know what inner city life can be like. Frankly, I was shocked that I was harassed by small gangs that hung out near the hotel. More over, it's the climate of San Francisco that attracts homeless and wandering youths, not the hotel fault, but why not have someone at the door on the street to watch out for their guests? Simple solution to help the guests feel safe. But apparently, common sense is not a forte of this property.Also, I was really shocked that when I booked my room, the hotel charged me for the entire stay on my card, normally, I would expect one day charge to hold the room and charge the balance of the stay upon CHECKOUT. But this was not the case.Bottom line, there are many alternatives to this property, you owe it to yourself to investigate all of the alternatives in the area before booking at the Metropolis.  
+<Date>Oct 8, 2007
+<Rating>2	2	1	3	1	4	4	1	
+<Aspects>
+18	34(feel):1	41(city):1	91(guest):1	92(help):1	137(safe):1	421(neighbourhood):2	426(life):1	434(wear):1	613(simple):1	725(update):1	1611(weird):1	1659(grow):1	2240(inner):1	2730(desperate):1	2800(solution):1	6177(reside):1	7517(michigan):1	8979(detroit):1	
+7	78(rate):1	107(choice):2	143(cheap):1	177(san):2	355(francisco):1	2936(moderate):1	6392(metropolis):1	
+21	0(staff):1	3(clean):2	24(floor):1	29(minute):1	85(wait):1	119(window):2	132(hear):1	150(pleasant):1	246(mean):1	277(child):1	396(carpet):1	526(screen):1	542(completely):1	969(depend):1	1043(deep):1	1051(shampoo):1	1257(dry):1	1404(jump):1	1694(comforter):1	2938(sometime):1	6177(reside):1	
+18	35(street):1	54(door):1	91(guest):1	102(near):1	177(san):1	245(watch):1	355(francisco):1	478(hang):1	517(fault):1	1206(shock):1	1562(wander):1	1567(homeless):1	2109(frankly):1	2452(attract):1	2704(climate):1	3525(youth):1	4261(harass):1	5342(gang):1	
+0	
+11	8(day):1	18(book):1	62(expect):1	136(charge):3	292(card):1	329(entire):1	593(hold):1	658(checkout):1	1091(normally):1	1206(shock):1	2425(balance):1	
+19	18(book):1	188(line):1	193(person):1	214(property):2	216(elevator):2	290(bag):1	576(yourself):1	733(imagine):1	830(common):1	850(bottom):1	863(apparently):1	1080(cramp):1	1102(sense):1	1298(alternative):2	2155(comfortably):1	3885(investigate):1	4197(owe):1	6392(metropolis):1	12558(forte):1	
+0	
+
+<Author>wheelie-bag
+<Content>Sketchy Outside - Lovley Inside The hotel is about a half block off of Market St. and about 1 block west of Powell St BART Station. It is in the tenderloin and there are sketchy folks around, even in the entryway. No one bothered me though and you are only about a half block off of Market St. so if you just move along it may not be a problem. It is very convinient to BART, Union Square and Torist Attractions. Once inside however things change consederbilly the lobby is nicely decorated and the staff is friendly and helpfull. The rooms are clean (small) my bath was spacious and well lit (the cold water in the sink never really got cold though??). The elvevator was slow. The have plasma TVs but they dont have digital feeds so the picture isin't very good (not too many channels either). The bed was very comfy.I would recomend the hotel - especially if you are a travler who can flow with things and/or if you wanted a resonably priced hotel near Union Square.  
+<Date>Oct 2, 2007
+<Rating>4	4	4	2	4	4	4	3	
+<Aspects>
+5	455(slow):1	1050(folk):1	2579(tenderloin):1	3148(sketchy):1	6518(entryway):1	
+9	19(price):1	102(near):1	126(especially):1	139(square):1	451(union):1	1420(recomend):1	1942(flow):1	8139(resonably):1	11632(travler):1	
+29	0(staff):1	3(clean):1	11(bed):1	12(friendly):1	55(lobby):1	57(water):1	111(spacious):1	139(square):1	157(light):1	161(change):1	222(cold):2	226(bath):1	305(decorate):1	350(attraction):1	404(nicely):1	408(inside):1	451(union):1	456(picture):1	475(comfy):1	503(dont):1	509(sink):1	741(channel):1	1478(helpfull):1	1500(plasma):1	1505(bart):1	1569(tvs):1	2373(feed):1	3416(digital):1	5866(convinient):1	
+15	82(station):1	98(outside):1	100(bloc):3	207(move):1	264(market):2	283(half):2	307(bother):1	408(inside):1	655(st):2	940(St):1	953(west):1	1505(bart):1	1897(powell):1	3148(sketchy):1	8341(lovley):1	
+0	
+0	
+0	
+0	
+
+<Author>DCguy72
+<Content>Central location, nice hotel I was a bit leery about this hotel after reading some of the reviews, but had a very good experience overall. This definitely isn't a place to stay if you if you get spooked by seedy neighborhoods, as it's right on the edge of the Tenderloin - but the area is also well lit and right off of Market, and doesn't actually feel dangerous, just unsavory. Moreover, the location is very good; close to several BART and MUNI stops and walking distance to numerous attractions. The hotel itself was fine - the rooms don't quite live up to the promise of the lobby, but the delux double I had was bright, roomy, comfortable, and well-maintained. The staff members that I dealt with were all very friendly and professional. I'd give it 3.5 stars if I could, and would recommend to others.  
+<Date>Sep 16, 2007
+<Rating>3	3	3	4	3	4	-1	3	
+<Aspects>
+0	
+11	1(location):1	4(nice):1	15(recommend):1	37(review):1	44(experience):1	52(bit):1	70(overall):1	88(read):1	103(star):1	168(central):1	7010(leery):1	
+21	25(comfortable):1	34(feel):1	55(lobby):1	59(definitely):1	113(fine):1	157(light):1	179(double):1	180(actually):1	206(live):1	264(market):1	421(neighbourhood):1	880(bright):1	975(promise):1	1190(edge):1	1353(roomy):1	1971(dangerous):1	2209(seedy):1	2579(tenderloin):1	2905(well-maintaine):1	4013(delux):1	8428(unsavory):1	
+10	1(location):1	7(walk):1	28(close):1	115(distance):1	122(stop):1	350(attraction):1	971(numerous):1	1505(bart):1	2181(muni):1	4006(moreover):1	
+0	
+4	0(staff):1	12(friendly):1	140(deal):1	501(professional):1	
+0	
+0	
+
+<Author>dbatk
+<Content>Worst experience ever with a Hotel, and I travel a lot. Checked out after one night due to horrid conditions. NO air - had to leave window open and listen to Valet's screaming and car alarms all night. Accosted by homeless grabbing at you...no internet access (it didn't work and support was useless). I was forced to leave since it was a hole with no access and I require it for my job and this was a business trip.Hotel Metropolis then proceeded to charge the full amount despite complaints to the hotel manager (calls went unanswered). There was a $300 difference in the hotel bill and the amount hotels.com charged...Hotel Metropolis and Hotels.com point the finger at the other, but will not explain or deal with the difference. 9 months of phone calls, arguing with buck passers, and VISA. Got the charges removed from VISA at last and the next month they were put back on without any notification. I thought this would be defined as theft. Never stay at any personality Hotel, NEVER use hotels.com - they are useless if you have troubles.  
+<Date>Jul 16, 2007
+<Rating>1	1	1	1	1	2	1	1	
+<Aspects>
+13	67(call):1	296(phone):1	388(month):1	569(trouble):1	1120(buck):1	1894(argue):1	2488(useless):1	2522(personality):1	3056(hotels.com):1	3465(theft):1	3476(visa):1	6324(define):1	11485(passer):1	
+4	38(lot):1	44(experience):1	50(bad):1	68(travel):1	
+9	2(night):1	43(leave):1	119(window):1	121(car):1	164(air):1	457(valet):1	997(listen):1	1380(alarm):1	1757(scream):1	
+0	
+0	
+24	2(night):1	32(check):1	67(call):1	136(charge):3	140(deal):1	190(complaint):1	258(manager):1	259(due):1	263(condition):1	388(month):1	495(bill):1	498(despite):1	666(amount):2	768(explain):1	819(difference):2	1135(remove):1	2150(proceed):1	2492(finger):1	3056(hotels.com):2	3476(visa):1	4509(horrid):1	6392(metropolis):2	8781(unanswered):1	9238(notification):1	
+0	
+14	33(trip):1	43(leave):1	97(internet):1	147(business):1	159(access):2	481(job):1	722(require):1	1139(grab):1	1218(hole):1	1550(force):1	1567(homeless):1	2448(support):1	2488(useless):1	6850(accost):1	
+
+<Author>bigredla
+<Content>no way! I visit San Franciso often and I've stayed in many hotels there, and this has got to be the worst. We booked with a large group of friends, so this is how we ended up here. It was entirely overpriced ($340.00 for 2 nights). First of all, it is right next to a homeless shelter. You exit the door and you are suddenly surrounded by people yelling at you, trying to sell you drugs, and hitting you up for money. One man was urinating right in front of us. Last night we were dropped off by a taxicab a block away from the hotel and some guy started yelling at us and chasing us (2 women) up the street. We literally were running up the middle of the street because everyone loitering on the sidewalks were so scary looking. Be advised: this is definitely not the safest neighborhood for women! The hotel really ought to get a doorman to help fend off the neighbors.The noise level at night was ridiculous. There is a restaurant/bar downstairs and at 2 am when it closed, the screaming, yelling, and sirens sounded like they were in our 7th floor room. The room was a typical boutique hotel room. The bed and pillows were uncomfortable and the room small. I would only recommend this place if it were about $75.00 a night, and I still wouldn't stay there.On a positive note, the restaurant attached to the hotel has good food and drinks, and a perk is that you don't have to walk outside to get to it!  
+<Date>Jun 25, 2007
+<Rating>2	1	3	1	3	3	3	3	
+<Aspects>
+21	2(night):2	15(recommend):1	50(bad):1	59(definitely):1	65(visit):1	92(help):1	94(noise):1	137(safe):1	177(san):1	306(level):1	421(neighbourhood):1	566(woman):1	663(advise):1	934(neighbour):1	998(doorman):1	1533(ridiculous):1	1567(homeless):1	4276(shelter):1	6608(ought):1	8625(franciso):1	9379(fend):1	
+3	2(night):1	727(overprice):1	2069(entirely):1	
+14	10(restaurant):1	11(bed):1	24(floor):1	28(close):1	303(pillow):1	409(sound):1	623(boutique):1	628(typical):1	691(downstairs):1	856(uncomfortable):1	1757(scream):1	1939(yell):1	2282(siren):1	2951(7th):1	
+26	2(night):1	20(look):1	26(people):1	35(street):2	54(door):1	76(try):1	80(money):1	100(bloc):1	149(run):1	165(start):1	325(middle):1	368(guy):1	566(woman):1	606(sell):1	662(drop):1	665(literally):1	667(surround):1	775(hit):1	1354(exit):1	1566(scary):1	1939(yell):2	2256(drug):1	2329(sidewalk):1	3003(chase):1	3296(suddenly):1	7648(loiter):1	
+0	
+2	31(front):1	9880(urinate):1	
+11	7(walk):1	10(restaurant):1	16(food):1	18(book):1	63(drink):1	98(outside):1	146(friend):1	297(note):1	458(positive):1	1224(attach):1	1914(perk):1	
+0	
+
+<Author>LindaRan
+<Content>Awful! Tiny! Horrible Area! Noisy! Graffiti! Homeless People EVERYWHERE!! SMACK DAP IN THE MIDDLE OF HOMELESS HAVEN!!! This hotel was smack dab in the in the dirty, noisy, drunken area of the homeless. In the valet, where we were told to leave our keys in the car, there were 2 street people right beside us looking through the dumpster! The rooms were so TINY! COLD! awfully painted, cold furnishings, hard bed, flat pillows - lets just say no romance was going to happen here!! We were getting away for a romantic getaway without the kids! Instead of picking a reuglar chain hotel, I thought of trying a sexy  chic boutique hotel would be just the ticket! I went through web site, and found kensignton, diva, and metropolis. Thinking that staying right in the downtown core in and around theatres, shopping  dining would be a good idea, we booked it for the entire 4 day-wknd - NOT! Promplty checked out  went to Napa - Ahhhhh! Much better!!  
+<Date>May 8, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+14	26(people):1	201(kid):1	217(noisy):1	222(cold):1	325(middle):1	338(tiny):1	544(horrible):1	707(romantic):1	736(awful):1	1089(getaway):1	1567(homeless):2	2412(haven):1	3069(smack):1	6024(graffito):1	
+0	
+11	11(bed):1	162(hard):1	222(cold):1	303(pillow):1	338(tiny):1	382(happen):1	535(flat):1	806(paint):1	870(furnishings):1	3053(romance):1	6521(awfully):1	
+30	18(book):1	20(look):1	26(people):1	35(street):1	43(leave):1	49(shop):1	69(tell):1	76(try):1	121(car):1	192(site):1	266(pick):1	316(dine):1	329(entire):1	334(downtown):1	339(key):1	353(instead):1	457(valet):1	621(ticket):1	623(boutique):1	627(chain):1	635(theater):1	639(idea):1	1019(web):1	1350(beside):1	1472(chic):1	4665(sexy):1	4852(core):1	5167(dumpster):1	5638(diva):1	6392(metropolis):1	
+6	217(noisy):1	323(dirty):1	1567(homeless):1	3069(smack):1	4174(drunken):1	6867(dab):1	
+2	32(check):1	4931(napa):1	
+0	
+0	
+
+<Author>Athletics
+<Content>Great Location, great staff! Price is great We stayed at the Metropolis for our annual shopping trip in the city and enjoyed it so much we've booked a stay in a couple of weeks. You really cannot beat the price for what you get. There are plenty of other hotels in the same area where you'll be paying 2 and 3 times as much. Bart is literally a couple minutes walk which you can take into the trendy Mission or into the the E. Bay. Union Square is up the street, SOMA is walking or short taxi ride away.As far as the Tenderloin. This is by far not the worst part of the city. Yes there are homeless, drunks, and drug addicts but like most have said really won't bother you except to ask for change. Be smart is all it takes. The person from New Hampshire who visited obviously was surprised, they're from New Hampshire. Walk up to Geary and thru the heart of the Tenderloin, it's safe and there are plenty of resteraunts, bars, shops that are worth checking out.  
+<Date>Apr 23, 2007
+<Rating>5	5	4	4	4	5	5	-1	
+<Aspects>
+18	41(city):1	50(bad):1	65(visit):1	161(change):1	193(person):1	199(surprise):1	250(yes):1	307(bother):1	337(except):1	487(wo):1	781(obviously):1	1567(homeless):1	1687(smart):1	2256(drug):1	2579(tenderloin):1	4127(drunk):1	4924(addict):1	12769(hampshire):2	
+14	5(time):1	18(book):1	19(price):2	33(trip):1	41(city):1	42(pay):1	49(shop):1	51(enjoy):1	75(week):1	99(couple):1	158(plenty):1	442(beat):1	3623(annual):1	6392(metropolis):1	
+0	
+28	0(staff):1	1(location):1	7(walk):3	27(bar):1	29(minute):1	32(check):1	35(street):1	49(shop):1	96(worth):1	99(couple):1	137(safe):1	139(square):1	144(short):1	158(plenty):1	185(taxi):1	218(ride):1	450(heart):1	451(union):1	665(literally):1	671(bay):1	1231(thru):1	1413(trendy):1	1505(bart):1	2579(tenderloin):1	4122(geary):1	4154(mission):1	5052(resteraunts):1	6426(soma):1	
+0	
+0	
+0	
+0	
+
+<Author>BayAreaBluto
+<Content>Bed Springs in my back! This hotel prides itself on being one of 6 or 7 personality hotels in the city. Yes, the room was adorned with fancy furniture, lights and art but, the beds were just awful! You could feel the springs in your back and I couldn't get to sleep till well after 3:00am! This hotel sits off of very busy Market street so if you plan to stay here bring ear plugs because the homeless people can get rowdy at night. The walls don't seem to be very thick either, since I could here people laughing and talking in the next room. The window was filthy! If you want a comfortable bed and a quiet setting, don't stay here!  
+<Date>Apr 3, 2007
+<Rating>1	5	1	2	2	5	5	-1	
+<Aspects>
+3	41(city):1	2522(personality):1	2843(pride):1	
+0	
+22	11(bed):3	25(comfortable):1	26(people):1	34(feel):1	58(quiet):1	104(sleep):1	119(window):1	157(light):1	183(wall):1	234(set):1	250(yes):1	371(talk):1	440(furniture):1	736(awful):1	789(art):1	796(fancy):1	979(till):1	1162(spring):2	1245(laugh):1	1320(filthy):1	1652(thick):1	6124(adorn):1	
+12	2(night):1	26(people):1	35(street):1	142(bring):1	169(sit):1	220(busy):1	221(plan):1	264(market):1	1174(plug):1	1567(homeless):1	1684(ear):1	3631(rowdy):1	
+0	
+0	
+0	
+0	
+
+<Author>ptrztr
+<Content>Awesome boutique hotel - Best price and Value in Union Square This was my second trip to the hotel. I stayed there 2 years ago and thought it was just a wonderful boutique hotel. I returned there last weekend and had a pleasant surprise - they did a very gorgeous renovation and the hotel was even more appealing.Beautiful warm colors, nice furnishings, and waterfall display in the lobby. Rooms are very comfortable and have most ammenities that larger chain hotels have.The staff are all very courteous and willing to help in any situation. They added a restaurant called Farmer's Brown. WONDERFUL food!!!This hotel, is without a doubt, the BEST VALUE in Union Square. The hotel remembered me from 2 years ago and sent 2 bottles of compliementry chamagne.Thanks so much Hotel Metropolis! I will tell everyone about our wonderful experience!!!!!! As your Governator says - I will be back!!!  
+<Date>Mar 29, 2007
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+6	238(bottle):1	271(thank):1	375(remember):1	447(send):1	633(ago):1	6392(metropolis):1	
+11	19(price):1	33(trip):1	44(experience):1	48(wonderful):1	69(tell):1	81(value):2	139(square):2	348(awesome):1	451(union):2	623(boutique):1	952(doubt):1	
+18	4(nice):1	25(comfortable):1	39(return):1	45(beautiful):1	55(lobby):1	150(pleasant):1	172(weekend):1	199(surprise):1	236(warm):1	446(gorgeous):1	627(chain):1	687(renovation):1	870(furnishings):1	942(color):1	1679(appeal):1	1917(display):1	2231(ammenity):1	2280(waterfall):1	
+3	48(wonderful):1	623(boutique):1	633(ago):1	
+0	
+4	0(staff):1	92(help):1	483(courteous):1	890(situation):1	
+7	10(restaurant):1	16(food):1	48(wonderful):1	67(call):1	351(add):1	1667(brown):1	3853(farmer):1	
+0	
+
+<Author>pch71
+<Content>Hotel Metropolis San Francisco Stayed this past weekend (22nd-25th march) at Metropolis Hotel. Did not have problems locating the hotel, since the Bart stops very close at Powell. Like other reviewers stated, there was a lot of panhandlers around that area. However they did not bother us. We entered the hotel and I was very pleased with the enviroment inside. It was very nicely decorated. We were given our room. Ok size, two double beds, not the most comfortable, but not that terrible. There was a closet, big enough for our bags (it was 4 of us) and our stuff. The room was clean, free wireless, a little fridge, a desk and a nice flat screen TV on the wall. The bathroom is another story. While it was clean and the tub was a nice size, the sink was rather small, and the glass shelf above was small, so we had to keep putting our stuff away. The little bag with ammenities was nice. Housekeeping did a very good job cleaning the room. Also on Fridays and Saturdays, they have a wine reception at the library. That was nice. We did not care for the restaurant on the premises, although we had some cocktails the night we arrived. The place was nice, but we were not sure about the menu. Now, I have to say this. There was a lot of noise coming from the street. Our first morning we were awoken to what we thought it was a trash compactor, but it kept going for a while. Well, it was cement mixing truck. Besides that, car alarms going off.  Overall, we had a good stay. We spend a lot of time on the city exploring and the hotel was just used to rest, shower and sleep. We think it was good, for the rate we paid, $75 a night. Not bad for San Francisco. With the money we saved, we did a lot of other things and we ate very well.  I almost forgot, the hotel personnel was very nice and helpful, specially Elli at the front desk. She gave us a lot of options for restaurants in the area. We most likely will go back to this hotel.  
+<Date>Mar 28, 2007
+<Rating>3	3	3	4	4	4	4	4	
+<Aspects>
+29	4(nice):3	23(little):1	38(lot):2	47(eat):1	50(bad):1	56(morning):1	70(overall):1	80(money):1	121(car):1	172(weekend):1	177(san):2	290(bag):1	307(bother):1	355(francisco):2	419(past):1	423(menu):1	425(save):1	564(reviewer):1	609(mix):1	615(march):1	1332(besides):1	1380(alarm):1	1494(awake):1	1507(truck):1	1793(trash):1	2231(ammenity):1	4647(cement):1	5647(panhandler):1	6392(metropolis):2	
+3	2(night):1	42(pay):1	78(rate):1	
+40	3(clean):3	4(nice):2	5(time):1	11(bed):1	13(bathroom):1	23(little):1	25(comfortable):1	36(desk):1	38(lot):1	41(city):1	46(free):1	61(shower):1	64(spend):1	83(size):2	104(sleep):1	116(tv):1	123(ok):1	173(please):1	179(double):1	183(wall):1	288(rest):1	305(decorate):1	311(tub):1	318(fridge):1	327(glass):1	367(housekeeping):1	404(nicely):1	408(inside):1	432(terrible):1	480(stuff):1	481(job):1	509(sink):1	526(screen):1	535(flat):1	594(explore):1	601(enter):1	717(wireless):1	906(story):1	1484(shelf):1	9789(enviroment):1	
+11	28(close):1	35(street):1	38(lot):1	84(locate):1	94(noise):1	122(stop):1	290(bag):1	480(stuff):1	565(closet):1	1505(bart):1	1897(powell):1	
+0	
+12	4(nice):1	14(helpful):1	31(front):1	36(desk):1	126(especially):1	129(reception):1	251(wine):1	397(forget):1	1457(personnel):1	1648(library):1	4999(fridays):1	5701(saturdays):1	
+8	2(night):1	10(restaurant):2	38(lot):1	53(arrive):1	242(care):1	336(option):1	716(cocktail):1	1989(premiss):1	
+0	
+
+<Author>Salsaraj
+<Content>Great Price / Impeccable Service / Nice Perks (Coffee, Free Internet) I stayed at the Hotel Metropolis for 3 nights when I attended a tradeshow at Moscone Center in late January 2007. It was one of the best hotel experiences I have had in a long time. I got a great deal on their website. Boutique Hotels are the way to go these days.When I arrived, I was greeted with a goody bag filled with gum, lotion, tooth paste and more. The room was a not too big, not too small, just right for me with a comfortable bed, large screen TV with contemporary decor. I really liked the free morning coffee and the best perk, was the 24 hour access to their 2 Computer workstations to check your e-mail. I dont lik eto lug my lap top around and trying to find a internet cafe these days is pretty tough. Just ask the front guest services manager and they will give you the key and you give it back when you are done. They also have a wine evening reception for guests that is also FREE. I dont drink wine, but if you do, enjoy a glass on my behalf.Location, location, location. Hotel Metropolis is about a 15 minute walk to Moscone center (20 minutes if you walk slow), across from the huge SF Shopping Center, 1 1/2 blocks to the Cable Car turn and a few blocks to Union Square. The hotel is located on the edge of the Tenderloin, where you have some transients, few homeless people camped out and where young kids hang out on the corner. They really dont bother you. However, if this is something you are NOT used to, maybe, you could stay at another of their Personality properties away from the Tenderloin area.The service is amazing at the hotel. Everyone at the hotel, night and day staff was kind, courteous and very helpful. You get Four Seasons service at 1 /4 the price.Around the corner, I discovered a very tasty and authentic Pakistani / Indian Restaurant, the Punjab that is cheap, about $6.00 a meal, what a deal. Also, they have FREE chai is really really good on a cold night. There are lots of great breakfast places within a few blocks. I did not have a chance to try the Organic restaurant next door, next time.If you check in on a weekend, try to get a room away from the street. The Saturday night I arrived, across the street was a after hours until 2:00 am young adult club, that was rather noisy. Other than that, enjoy SF, its one of my favorite cities ( very scenic, romantic, great ethnic cuisine, multicultural ) and did I say, great food??Cheers,Nataraj From L.A.  
+<Date>Mar 7, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+17	2(night):1	46(free):1	53(arrive):1	222(cold):1	290(bag):1	307(bother):1	415(greet):1	491(fill):1	503(dont):1	1737(tooth):1	1873(lotion):1	2644(goody):1	3075(cheer):1	4129(l.a):1	5790(gum):1	6166(paste):1	7164(chai):1	
+14	5(time):1	9(service):1	10(restaurant):1	19(price):1	44(experience):1	140(deal):1	143(cheap):1	200(corner):1	213(meal):1	610(season):1	869(discover):1	984(tasty):1	1886(authentic):1	2805(indian):1	
+10	11(bed):1	25(comfortable):1	32(check):1	35(street):1	76(try):1	116(tv):1	172(weekend):1	269(decor):1	526(screen):1	1475(contemporary):1	
+37	1(location):3	2(night):1	7(walk):2	8(day):1	26(people):1	29(minute):2	35(street):1	49(shop):1	53(arrive):1	60(hour):1	84(locate):1	100(bloc):2	101(center):2	121(car):1	133(huge):1	139(square):1	140(deal):1	200(corner):1	201(kid):1	212(club):1	217(noisy):1	262(website):1	451(union):1	455(slow):1	478(hang):1	484(cable):1	556(adult):1	623(boutique):1	802(sf):1	818(saturday):1	1190(edge):1	1567(homeless):1	2087(camp):1	2579(tenderloin):1	4028(moscone):1	6392(metropolis):1	9214(transient):1	
+0	
+13	0(staff):1	2(night):1	8(day):1	9(service):1	14(helpful):1	31(front):1	46(free):1	91(guest):2	129(reception):1	251(wine):1	258(manager):1	339(key):1	483(courteous):1	
+50	2(night):1	4(nice):1	5(time):1	6(breakfast):1	8(day):1	9(service):2	10(restaurant):1	16(food):1	19(price):1	38(lot):1	41(city):1	46(free):1	51(enjoy):2	54(door):1	63(drink):1	76(try):2	79(late):1	90(coffee):1	97(internet):2	100(bloc):1	101(center):1	109(pretty):1	118(top):1	145(amaze):1	214(property):1	251(wine):1	275(cafe):1	308(maybe):1	327(glass):1	376(favourite):1	503(dont):2	689(chance):1	707(romantic):1	802(sf):1	826(attend):1	1018(january):1	1542(impeccable):1	1665(tough):1	1717(cuisine):1	1914(perk):1	2432(lap):1	2522(personality):1	2579(tenderloin):1	2929(lug):1	3103(scenic):1	4028(moscone):1	4495(behalf):1	4515(organic):1	5673(ethnic):1	6392(metropolis):1	
+9	32(check):1	46(free):1	56(morning):1	60(hour):1	90(coffee):1	159(access):1	555(computer):1	1914(perk):1	11224(workstation):1	
+
+<Author>Ocysu
+<Content>Hotel with Personality Plus       Comfortable Room  
+<Date>Mar 3, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+3	25(comfortable):1	203(plus):1	2522(personality):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>MildManneredTraveler
+<Content>Lovely hotel, uncertain neighborhood       The Library  
+<Date>Feb 14, 2007
+<Rating>4	5	4	2	5	5	5	5	
+<Aspects>
+4	87(lovely):1	421(neighbourhood):1	1648(library):1	8113(uncertain):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>dkimikd
+<Content>Great value, but shady location I got an incredible deal through Travelzoo. I didn't know the Union Square area too well, but Hotel Metropolis seemed like it was in a pretty central location, which it is. The hotel itself is an oasis, but only because it is in a shady part of town and once you get in, you're relieved not to be walking outside anymore. It's on the outskirts of Union Square and I was amazed at what a difference a 1/2 block can make from nice area to shady.There's huge mall across the way and tons of great shopping and restaurants nearby, but I wouldn't recommend venturing out too late and would definitely have at least one other person with you at night. It's close to everything including the cable car turnaround and the BART, but again, the flipside to that is the neighborhood that its in. Our room was somewhat small, but nothing too bad. The decor is well done and it felt very relaxing and soothing. I thought it was very clean and everything was comfortable. My friends and I peeked in on a single room and were surprised at how tiny it was. Our double room seemed absolutely huge in comparison. My big recommendation for staying at the Hotel Metropolis would be to try to get a room on a higher floor and not facing Turk St. as it gets incredibly loud at night with people shouting outside and the occasional police sirens. It was difficult to fall asleep, but once its 2:30-3 a.m., it gets significantly quieter. The hotel staff was very helpful and friendly. Would I stay at the Hotel Metropolis again? Probably, but I would definitely request a room on a higher floor.  
+<Date>Jan 31, 2007
+<Rating>3	5	4	2	4	4	5	5	
+<Aspects>
+1	6392(metropolis):1	
+6	1(location):1	81(value):1	140(deal):1	718(incredible):1	2543(shady):1	6074(travelzoo):1	
+48	1(location):1	2(night):1	4(nice):1	24(floor):2	26(people):1	34(feel):1	50(bad):1	58(quiet):1	59(definitely):1	76(try):1	98(outside):1	100(bloc):1	109(pretty):1	133(huge):1	139(square):2	145(amaze):1	146(friend):1	148(request):1	160(relax):1	168(central):1	178(probably):1	179(double):1	189(absolutely):1	199(surprise):1	269(decor):1	304(single):1	338(tiny):1	416(loud):1	451(union):2	572(difficult):1	577(recommendation):1	587(fall):1	651(somewhat):1	655(st):1	807(incredibly):1	819(difference):1	1409(police):1	1525(comparison):1	2123(asleep):1	2146(shout):1	2282(siren):1	2418(occasional):1	2543(shady):1	3138(significantly):1	3268(soothe):1	3908(peek):1	4398(outskirts):1	6392(metropolis):2	
+26	2(night):1	7(walk):1	10(restaurant):1	15(recommend):1	28(close):1	49(shop):1	59(definitely):1	71(include):1	79(late):1	98(outside):1	121(car):1	133(huge):1	193(person):1	232(nearby):1	239(town):1	421(neighbourhood):1	484(cable):1	643(mall):1	967(ton):1	1383(oasis):1	1440(venture):1	1505(bart):1	1853(anymore):1	2543(shady):1	3351(relieve):1	4161(turnaround):1	
+2	3(clean):1	25(comfortable):1	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>Itsmehere
+<Content>Great Atmosphere While the room we got - the most basic - wasn't large, it was comfortable and there was a nice big closet to store our luggage and suitcases. The hotel is named after the movie Metropolis and there are pictures, paintings and other homages to the movie all over the hotel. The lobby is large and stylish, with stairs leading up to a comfortable library. The hotel also has a meditation room and a lounge. Not only that, but walk through the back of the lobby and you are at the restaurant next door, Farmer Brown. The food there is fantastic and at night, it turns into a hot night spot. Overall, the hotel is really great for the money. The staff is helpfull, kind and professional. The rooms are well taken care of and there are nice, full bags of various sample items in each room. Its location is right near Market St. and really close to shops and museums and bus lines and the Powell St. BART station. If you've never been to San Francisco, this really is a perfect place to stay, right in the middle of the action and near so many great places to go. If you have been to SF, there isn't a more convenient place to stay that is near everything you want to see, or near the transportation to get you there.  
+<Date>Jan 26, 2007
+<Rating>4	4	3	5	4	4	4	4	
+<Aspects>
+8	70(overall):1	74(perfect):1	80(money):1	102(near):1	177(san):1	325(middle):1	355(francisco):1	958(action):1	
+0	
+19	4(nice):2	25(comfortable):2	55(lobby):1	237(lounge):1	242(care):1	249(luggage):1	255(store):1	290(bag):1	352(basic):1	414(atmosphere):1	519(item):1	565(closet):1	568(stair):1	823(various):1	922(lead):1	961(stylish):1	974(suitcase):1	1648(library):1	1960(sample):1	
+15	1(location):1	28(close):1	49(shop):1	82(station):1	102(near):3	120(bus):1	186(convenient):1	188(line):1	264(market):1	507(museum):1	655(st):2	728(transportation):1	802(sf):1	1505(bart):1	1897(powell):1	
+0	
+3	0(staff):1	501(professional):1	1478(helpfull):1	
+16	2(night):2	7(walk):1	10(restaurant):1	16(food):1	54(door):1	55(lobby):1	86(fantastic):1	114(hot):1	295(name):1	317(spot):1	456(picture):1	989(movie):2	1667(brown):1	2994(painting):1	3853(farmer):1	6392(metropolis):1	
+0	
+
+<Author>TOKEEN
+<Content>Great value for money We had a very good stay at this well located hotel which is very close to the Bart, cable car turnaround, Union Sq. shops/resturants and the Curran and ACT theatres. The staff was friendly and helpful and the room comfortable and clean though very small. It is on the very edge of the Tenderloin but the street people weren't any problem. For the amount we paid we could not have asked for better accomodations. We stayed 6 nights and the bill was less than $500.  
+<Date>Jan 24, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	2(night):1	495(bill):1	
+3	42(pay):1	666(amount):1	780(accomodation):1	
+5	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	25(comfortable):1	
+17	26(people):1	28(close):1	35(street):1	80(money):1	81(value):1	84(locate):1	121(car):1	451(union):1	484(cable):1	635(theater):1	1190(edge):1	1505(bart):1	1920(Act):1	1959(sq):1	2579(tenderloin):1	4161(turnaround):1	6681(shops):1	
+0	
+0	
+0	
+0	
+
+<Author>karbon69
+<Content>It was all right               More photos  
+<Date>Nov 29, 2006
+<Rating>2	4	3	3	2	4	4	-1	
+<Aspects>
+1	761(photo):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>wilwor
+<Content>rough round the edges This is a typical lower price city hotel. The rooms were small but reasonable. The parking was expensive but you have got to park somewhere. Only two blocks away from the tram turn around the location was ideal for checking out the sights until it got dark. Then it turns into a frightening place with drunks being abusive and other more unsavoury types hanging around in door ways. We always dreaded the trip back to the hotel after an evening out  
+<Date>Nov 21, 2006
+<Rating>2	3	3	4	3	3	3	2	
+<Aspects>
+2	33(trip):1	3864(dread):1	
+8	19(price):1	41(city):1	66(park):2	124(expensive):1	628(typical):1	777(lour):1	1047(rough):1	1190(edge):1	
+1	273(reasonable):1	
+14	1(location):1	32(check):1	54(door):1	100(bloc):1	389(type):1	411(sight):1	459(dark):1	478(hang):1	545(ideal):1	570(tram):1	4127(drunk):1	4629(frighten):1	9873(unsavoury):1	12181(abusive):1	
+0	
+0	
+0	
+0	
+
+<Author>brokerchick
+<Content>Good bang for your buck The Hotel Metropolis is located right on the edge of the Tenderloin neighborhood which, if you can get past the dirty streets and menacing-looking residents, is a great location convenient to public transportation, shopping, theatre, live music, restaurants and the MOMA. Although the surroundings are intimidating the good news is that there is a lot of foot traffic in this area, even at night.The hotel itself is clean and very modern in design. The front desk staff was friendly at check in and they made sure to advise guests of the fitness room, meditation room and free wi-fi and breakfast. My very clean standard queen room was TINY - there was about 2 feet of space between the side of the bed and the desk and the foot of the bed and the armoire/TV. The bathroom was impressive for its size, relative to the sleeping area. Waiting for me in the bathroom was a care package with chewing gum, a Quatro razor, moisturizing cream, shampoo/conditioner and - totally cool touch - a thin romance novel!I was very happy with this room for which I paid $100 (incl. tax). I knew exactly what I was getting with the neighborhood surroundings and small room yet I feel that the hotel delivered exactly as promised. This hotel is an excellent value for budget-minded travelers or younger people that want to be close to SF nightlife without breaking the bank on a room. Keep in mind that it can't be stressed enough that the cheapest rooms are very small - even a couple that gets along well would find themselves climbing the walls with claustrophobia in no time.  
+<Date>Oct 30, 2006
+<Rating>4	5	3	3	5	5	-1	-1	
+<Aspects>
+1	798(tax):1	
+3	42(pay):1	155(happy):1	3537(incl):1	
+28	3(clean):1	11(bed):2	13(bathroom):2	36(desk):1	83(size):1	85(wait):1	104(sleep):1	130(standard):1	210(space):1	242(care):1	278(cool):1	279(touch):1	338(tiny):1	402(foot):2	527(package):1	543(Queen):1	611(totally):1	754(thin):1	920(impressive):1	1051(shampoo):1	1188(cream):1	2259(relative):1	3053(romance):1	3225(armoire):1	3731(razor):1	5790(gum):1	6059(chew):1	6252(novel):1	
+51	1(location):1	2(night):1	5(time):1	10(restaurant):1	21(excellent):1	26(people):1	28(close):1	34(feel):1	35(street):1	38(lot):1	49(shop):1	81(value):1	84(locate):1	99(couple):1	143(cheap):1	183(wall):1	186(convenient):1	206(live):1	228(break):1	267(traveler):1	294(mind):1	323(dirty):1	379(public):1	398(music):1	402(foot):1	419(past):1	421(neighbourhood):2	486(traffic):1	586(exactly):2	631(deliver):1	635(theater):1	728(transportation):1	802(sf):1	975(promise):1	1059(themselves):1	1120(buck):1	1190(edge):1	1225(bank):1	1305(nightlife):1	1401(bang):1	1424(climb):1	1551(surroundings):2	1725(news):1	1753(stress):1	1988(resident):1	2579(tenderloin):1	3300(intimidate):1	5705(moma):1	6392(metropolis):1	9406(budget-mind):1	11308(claustrophobia):1	
+3	3(clean):1	151(modern):1	516(design):1	
+11	0(staff):1	6(breakfast):1	12(friendly):1	31(front):1	32(check):1	36(desk):1	46(free):1	91(guest):1	663(advise):1	983(fitness):1	1827(wi-fi):1	
+0	
+0	
+
+<Author>erin_elizabeth
+<Content>A little bit sketchy neighborhood but AWESOME HOTEL! I booked this hotel with a friend because we wanted to go out in the Union Square area. The club we went to, Suite 181, was conveniently located right around the corner. The area does have many homeless, but the hotel felt very safe. Once you are in your room you forget about the area AND it is so close to shopping, dining, and the new bloomingdales shopping center that opened this month. I will definitly stay here again!!Also, even though i read a few reviews that say it is not in Union Square, it totally is. It is about 4 blocks from Union Sqaure! It took me and my friend 5 minutes to walk there!Hotel Metropolis is a STEAL!  
+<Date>Oct 6, 2006
+<Rating>4	5	3	4	3	4	4	4	
+<Aspects>
+12	23(little):1	34(feel):1	52(bit):1	100(bloc):1	137(safe):1	348(awesome):1	421(neighbourhood):1	451(union):1	1567(homeless):1	2971(definitly):1	3148(sketchy):1	5846(sqaure):1	
+0	
+12	18(book):1	37(review):1	84(locate):1	88(read):1	108(suite):1	139(square):2	146(friend):1	200(corner):1	212(club):1	451(union):2	611(totally):1	1070(conveniently):1	
+10	7(walk):1	28(close):1	29(minute):1	49(shop):2	101(center):1	146(friend):1	316(dine):1	388(month):1	397(forget):1	5533(bloomingdale):1	
+0	
+0	
+2	1187(steal):1	6392(metropolis):1	
+0	
+
+<Author>WaxMyrtle
+<Content>Better than I expected I had already booked my stay at the Metropolis before I read all the reviews on this site. We panicked then as we were travelling with a toddler; however, it was too late to get another hotel at that point. Here's what I found. The neighborhood was not nearly as bad as I expected. There were a few bums around but only for one short block - and you see the same sort of bums all over downtown San Francisco anyway. At no point did I feel really unsafe and I went out often with my toddler toddling along. The room was comfortable and the staff were very kind and friendly with excellent suggestions regarding food and sightseeing. The hotel is close to the Powell Street metro station which is very convenient. There was no climate control in the room though. Best of all was the free high speed internet and the low rates. The rates were lower than any other hotel in the neighborhood. This hotel is value for the money if you are willing to put up with a few bums for a short block who are around mainly in the evenings.  
+<Date>Sep 16, 2006
+<Rating>4	4	3	4	4	5	5	5	
+<Aspects>
+20	34(feel):1	50(bad):1	62(expect):1	68(travel):1	78(rate):1	79(late):1	100(bloc):1	144(short):1	177(san):1	334(downtown):1	355(francisco):1	417(anyway):1	421(neighbourhood):2	557(sort):1	777(lour):1	896(nearly):1	1890(unsafe):1	2883(toddler):2	3824(bum):2	4485(panic):1	
+7	80(money):1	81(value):1	100(bloc):1	144(short):1	1003(evening):1	1177(mainly):1	3824(bum):1	
+10	0(staff):1	12(friendly):1	16(food):1	21(excellent):1	25(comfortable):1	640(sight-see):1	865(control):1	921(suggestion):1	930(regard):1	2704(climate):1	
+12	18(book):1	28(close):1	35(street):1	37(review):1	62(expect):1	82(station):1	88(read):1	186(convenient):1	192(site):1	235(metro):1	1897(powell):1	6392(metropolis):1	
+0	
+0	
+0	
+5	46(free):1	78(rate):1	97(internet):1	513(low):1	1170(speed):1	
+
+<Author>calipete
+<Content>Nice hotel, convenient (and safe) location I booked this hotel at Quikbook for $149/night. You can get it a little cheaper at another site, but not without a cancellation penalty. Possibly even cheaper depending on the weekend.The only thing I want to say is: the neighborhood is NOT unsafe. I've stayed here 3 or 4 times. Yes, it's in or near The Tenderloin. But the Tenderloin has been pretty well marginalized and gentrified to a very small area. It's also a few, easily walkable blocks from Union Square (not that I recommend going to Union Square for anything else but shopping) and also close to Market Street. You can also walk or take an easy bus ride to the Giants' ballpark and the entire south of Market scene.The hotel itself is pretty nice and has free internet and (my #1 priority) comfortable beds with high quality sheets.If you're afraid of a few bums, I wouldn't recommend coming to San Francisco at all. Go to Vegas and pretend you're in Paris.  
+<Date>Sep 12, 2006
+<Rating>4	4	4	4	4	5	3	4	
+<Aspects>
+14	5(time):1	15(recommend):1	102(near):1	177(san):1	250(yes):1	355(francisco):1	403(paris):1	421(neighbourhood):1	1544(afraid):1	1860(vegas):1	1890(unsafe):1	2579(tenderloin):1	3207(pretend):1	3824(bum):1	
+17	4(nice):1	11(bed):1	23(little):1	25(comfortable):1	46(free):1	97(internet):1	109(pretty):1	143(cheap):2	172(weekend):1	187(quality):1	192(site):1	479(sheet):1	969(depend):1	1233(possibly):1	1985(priority):1	2621(cancellation):1	6055(penalty):1	
+0	
+28	1(location):1	4(nice):1	7(walk):1	15(recommend):1	18(book):1	28(close):1	35(street):1	49(shop):1	93(easy):1	100(bloc):1	109(pretty):1	120(bus):1	137(safe):1	139(square):2	170(else):1	186(convenient):1	218(ride):1	264(market):2	329(entire):1	438(easily):1	451(union):2	769(south):1	1588(scene):1	2158(giant):1	2197(walkable):1	2579(tenderloin):1	9224(ballpark):1	11890(quikbook):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Not a family environment I booked this hotel through travelocity. In the website it looked like an interesting retro / stylish hotel. The pictures were great and the description claimed it was in the Union Square area. When we arrived we first noticed that we were basicaly in the middle ofskid row. Many homeless people  winos walking  stumbling around. The interior of the hotel looked rather nice. We were supposed to have a room with 2 beds but were told none were available but a roll away could be brought into our room. We went up to the room which was perhaps the smallest hotel room I have ever seen. It had a full size bed and little room for anything else. A chair had to be taken out so the roll away could fit, but all we had was wall to wall beds. Outside the window we could see the bums playing craps on the sidewalk. The room was unacceptable and the neighborhood was freightening. We went right back downstairs and cancelled our stay. While canceling our resrvation a bum wondered into the lobby looking for donations. Upon leaving the parking attendant wanted $10.00 for our 15 minute stay. Apparently the parking lot is a separate entity that charges $10.00/day but the hotel charges you $30.00?? After a brief negotiation I got my keys and kept my $10.00 and left. We ended up at a very nice family hotel on the wharf. If you are looking for drugs to buy or doing a documentary on Homeless in America, this is your place!!  
+<Date>Jul 3, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+17	4(nice):2	20(look):2	43(leave):1	53(arrive):1	106(family):1	280(buy):1	325(middle):1	339(key):1	354(notice):1	784(wharf):1	1026(interior):1	1567(homeless):1	1638(row):1	1724(america):1	2036(brief):1	2256(drug):1	7008(negotiation):1	
+0	
+22	11(bed):3	23(little):1	69(tell):1	83(size):1	134(available):1	139(square):1	142(bring):1	170(else):1	183(wall):2	198(chair):1	421(neighbourhood):1	451(union):1	456(picture):1	573(none):1	620(suppose):1	668(fit):1	691(downstairs):1	813(roll):2	1065(cancel):1	1077(claim):1	2034(description):1	2230(unacceptable):1	
+24	7(walk):1	8(day):1	20(look):1	26(people):1	29(minute):1	38(lot):1	43(leave):1	66(park):2	98(outside):1	119(window):1	136(charge):2	262(website):1	386(play):1	474(separate):1	863(apparently):1	961(stylish):1	1446(attendant):1	1567(homeless):1	2329(sidewalk):1	3012(stumble):1	3824(bum):1	4079(retro):1	7558(craps):1	12482(entity):1	
+0	
+0	
+10	18(book):1	20(look):1	55(lobby):1	106(family):1	946(wonder):1	1065(cancel):1	1712(environment):1	3132(travelocity):1	3824(bum):1	8593(donation):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Dangerous! Sketchy! Beware! We booked a room at the Metropolis Hotel online finding that the hotel had lied about their location. Hotel Metropolis is NOT located in Union Square, but on the corner of Turk  Mason which borderlines the Tenderloin district, one of the most, if not the most, dangerous areas in San Francisco! A murder occurred the night before we arrived, we were always greeted at the door by drug dealers, homeless people and possible prostitutes. Hotel Metropolis is in a VERY LOUD neighborhood. We woke up in the morning to screaming, yelling and the garbage truck bagging around at 3:00 a.m. Our room did not have air conditioning, the shower leaked, the toilet ran, bad water pressure, and dirty rug, ( I fear for the sheets and the comforter). We will NEVER return! It ruined out trip to San Francisco. DO NOT STAY THERE if you are looking to stay in Union Square, this is NOT the place to stay. Also, do not walk around at night; get a cab for both leaving and returning to the hotel, if you dare  
+<Date>Jul 1, 2006
+<Rating>1	1	1	-1	1	-1	2	-1	
+<Aspects>
+22	2(night):1	26(people):1	33(trip):1	39(return):1	53(arrive):1	54(door):1	177(san):1	355(francisco):1	415(greet):1	416(loud):1	421(neighbourhood):1	737(beware):1	1243(ruin):1	1567(homeless):1	1971(dangerous):1	2256(drug):1	2283(occur):1	3148(sketchy):1	3230(prostitute):1	3290(dealer):1	6392(metropolis):1	9016(murder):1	
+0	
+38	1(location):1	18(book):1	20(look):1	50(bad):1	56(morning):1	57(water):1	61(shower):1	84(locate):1	139(square):2	149(run):1	164(air):1	177(san):1	200(corner):1	263(condition):1	290(bag):1	323(dirty):1	330(toilet):1	355(francisco):1	433(district):1	451(union):2	479(sheet):1	554(wake):1	686(pressure):1	822(online):1	1166(lie):1	1287(leak):1	1507(truck):1	1650(garbage):1	1694(comforter):1	1757(scream):1	1939(yell):1	1971(dangerous):1	2022(fear):1	2579(tenderloin):1	3016(rug):1	5075(mason):1	6392(metropolis):2	7579(borderline):1	
+6	2(night):1	7(walk):1	39(return):1	43(leave):1	380(cab):1	3275(dare):1	
+0	
+0	
+0	
+0	
+
+<Author>LAGIRL74
+<Content>DANGEROUS NEIGHBORHOOD Rooms need renovation but are very clean and stylish. Bathrooms are large, showers have excellent water pressure and huge shower heads. The property has a small work out room, meditation room, they offer free wireless service, coffee in the morning and wine in the evenings. There is no room service. Although located a block from the Nordstrom mall, the hotel is on a very dangerous corner. So dangerous in fact there was a shooting and police frequently monitor the block, the main entrance is locked and the hotel lacks security. The concierge is never available and the front desk staff is USELESS and CLUELESS. Good luck and stay safe.  
+<Date>Jun 12, 2006
+<Rating>2	2	2	-1	3	-1	2	-1	
+<Aspects>
+2	137(safe):1	1055(luck):1	
+0	
+23	3(clean):1	9(service):1	13(bathroom):1	21(excellent):1	57(water):1	61(shower):2	100(bloc):1	112(main):1	133(huge):1	319(head):1	349(lack):1	421(neighbourhood):1	490(entrance):1	641(security):1	686(pressure):1	687(renovation):1	774(lock):1	961(stylish):1	1409(police):1	1573(frequently):1	1778(shoot):1	1971(dangerous):2	4111(monitor):1	
+6	84(locate):1	100(bloc):1	200(corner):1	643(mall):1	1971(dangerous):1	6865(nordstrom):1	
+0	
+7	0(staff):1	31(front):1	36(desk):1	134(available):1	204(concierge):1	2488(useless):1	4422(clueless):1	
+9	9(service):1	46(free):1	56(morning):1	89(offer):1	90(coffee):1	214(property):1	251(wine):1	717(wireless):1	1003(evening):1	
+0	
+
+<Author>cturrieta
+<Content>Graet value for the money Hotel Metropolis is a fine hotel. Yes, it is steps away from what might scare someone from the suburburbs, but if you are a person with an opened mind you will enjoy the added flavor. The staff was very helpful and cheerful. The hotel itself is fine for the money ($100) I loved that the shower head was adjustable (at 6 ft I hate doing the shower limbo) and the wireless internet that actually work well. I also enjoyed that the windows opened so I could enjoy the sounds of a city full of life. So if you want to save some money and enjoy the city, this is the hotel for you, if you want to insulate yourself from the city and its beautiful people, stay at the one of the many airport hotels and it will be just like you never left home.  
+<Date>Jun 11, 2006
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+8	51(enjoy):1	193(person):1	250(yes):1	294(mind):1	351(add):1	366(step):1	1711(scare):1	2147(flavor):1	
+5	80(money):1	81(value):1	113(fine):1	6392(metropolis):1	10816(graet):1	
+25	26(people):1	40(love):1	41(city):3	43(leave):1	45(beautiful):1	51(enjoy):3	61(shower):2	80(money):2	95(airport):1	97(internet):1	113(fine):1	119(window):1	141(home):1	180(actually):1	319(head):1	409(sound):1	425(save):1	426(life):1	576(yourself):1	717(wireless):1	1110(hate):1	2434(insulate):1	2617(ft):1	4377(adjustable):1	9914(Limbo):1	
+0	
+0	
+3	0(staff):1	14(helpful):1	1720(cheerful):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Pleasantly surprised This hotel was exactly what I was looking for. I was traveling with two other twenty-something single girls and we were looking for a clean, affordable hotel located close to union square. The hotel's location was perfect! Only one block from Powell station (the beginning of the cable car line, and beginning of some good shopping) and Union square was only 2 blocks away (less than a 10 minute walk). Don't let some of the other reviews scare you. I was expecting the worst after reading the reviews but was pleasantly surprised. The homeless, drug dealers, drunkards roaming the streets were few and far between and were not aggressive in the least. As three girls we felt quite safe walking the streets, even after 11pm we would walk to local restaurants and nightclubs. The hotel itself was relatively well kept and staff were friendly. The few downsides of the hotel were its very thin walls - we could hear the kids next door jumping on the bed at 6:30am and limited space - with three of us in the hotel we could not unpack all of our luggage. However, these could all be remedied by a good pair of earplugs and careful packing!Overall, I would rate this hotel great for young budget travelers with its central location and affordability however those visitors looking for great service and luxury should definitely think twice.  
+<Date>May 25, 2006
+<Rating>3	4	3	-1	3	-1	3	-1	
+<Aspects>
+9	20(look):1	37(review):2	50(bad):1	62(expect):1	88(read):1	199(surprise):2	586(exactly):1	747(pleasantly):2	1711(scare):1	
+0	
+17	11(bed):1	54(door):1	132(hear):1	183(wall):1	201(kid):1	210(space):1	249(luggage):1	510(limit):1	715(pack):1	754(thin):1	782(downside):1	897(careful):1	1404(jump):1	1771(earplugs):1	2179(unpack):1	2207(pair):1	3558(remedy):1	
+45	1(location):2	3(clean):1	7(walk):3	9(service):1	10(restaurant):1	20(look):2	28(close):1	29(minute):1	34(feel):1	35(street):2	49(shop):1	59(definitely):1	68(travel):1	70(overall):1	74(perfect):1	78(rate):1	82(station):1	84(locate):1	100(bloc):2	121(car):1	137(safe):1	139(square):2	168(central):1	188(line):1	195(local):1	267(traveler):1	304(single):1	347(twice):1	429(budget):1	437(luxury):1	451(union):2	484(cable):1	551(begin):2	625(girl):2	951(visitor):1	1062(affordable):1	1567(homeless):1	1897(powell):1	2256(drug):1	2378(nightclub):1	2772(aggressive):1	2958(roam):1	3290(dealer):1	6840(11pm):1	9847(affordability):1	
+0	
+3	0(staff):1	12(friendly):1	913(relatively):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Rip Off! The Metropolis Hotel is way too much money for what it is. Our room was cold and drafty, and they dont even have a form of climate control in the room! What we got was a small scary plug in heater. Also the parking available was a lot next door. The lot charges $8 a day. However, the hotel charges $30! We could have just went strait to the lot guys, and paid $8. The coffe maker was the saddest cheapest thing I have ever seen. It made little one at a time cups strait into little styrofoam cups. Not to mention the crackheads right outside the building selling their wares. Oh yeah, and the gunfire right outside at 2:00 am. Dont stay there. and look around, because they own other hotels including Diva and about 3 others, so be careful! Definately dont take children.  
+<Date>Apr 23, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+16	5(time):1	20(look):1	23(little):2	71(include):1	80(money):1	166(own):1	277(child):1	410(definately):1	503(dont):2	800(cup):2	897(careful):1	1182(rip):1	5638(diva):1	6392(metropolis):1	8521(styrofoam):1	11360(strait):1	
+8	38(lot):1	42(pay):1	143(cheap):1	368(guy):1	996(maker):1	1454(sad):1	3297(coffe):1	11360(strait):1	
+6	222(cold):1	503(dont):1	865(control):1	1164(form):1	2704(climate):1	7614(drafty):1	
+13	38(lot):1	54(door):1	66(park):1	98(outside):2	134(available):1	135(build):1	244(mention):1	606(sell):1	1174(plug):1	1566(scary):1	2009(yeah):1	2361(heater):1	5041(ware):1	
+0	
+3	8(day):1	38(lot):1	136(charge):2	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>The Worst Hotel In San Francisco Let me start by saying I NEVER write hotel reviews, but this may be the worst hotel I have ever stayed in. The hotel is in the Tenderloin District NOT Union Square! (As advertised) If you are not familiar with SF this is the very worst part of town. We arrived on Friday Night after 10 P.M. VERY SCARY! I would not let my wife out of the car until the hotel door was opened. The staff at the front desk was not helpful or friendly during check-in or check-out the next day. (We had booked three nights but left after the first one). Our room was on the fourth floor facing Mason and Turk (this is where the hotel is located, our cab driver had a hard time finding the hotel) and there were two camps of homeless just outside of the hotel. At 1 A.M. our 'neighbor' came home. We know this because he turned his TV on loud and the paper thin door between rooms amplified the noise. This was bad, but the 2 1/2 inch gap below the door was more annoying when he started chain smoking. (I stuffed towels under the door 10 minutes later) At 3 A.M. the two homeless camps began fighting, banging trash cans, and starting fires. It sounded like it was just outside of the window, four floors up! The bed was rock hard, the sheets were NOT clean, and the room smelled like stale cigerettes before we checked in. This was on a no smoking floor. Any positive review was written by someone who is blind, deaf, and hard of hearing or works at the hotel. Do yourself a favor stay ANYWHERE else! At least I have an interesting story to tell about my first night in SF.  
+<Date>Apr 23, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+26	2(night):2	37(review):1	50(bad):1	53(arrive):1	54(door):1	69(tell):1	121(car):1	132(hear):1	141(home):1	162(hard):1	170(else):1	184(wife):1	239(town):1	344(write):1	458(positive):1	576(yourself):1	802(sf):2	906(story):1	910(advertise):1	923(friday):1	1466(p.m):1	1521(favor):1	1566(scary):1	1839(blind):1	2081(familiar):1	7026(deaf):1	
+24	29(minute):1	37(review):1	50(bad):3	54(door):2	79(late):1	125(towel):1	165(start):3	177(san):1	344(write):1	355(francisco):1	468(smoke):1	480(stuff):1	551(begin):1	585(below):1	627(chain):1	695(annoy):1	1262(fire):1	1401(bang):1	1567(homeless):1	1688(inch):1	1759(fight):1	1793(trash):1	2087(camp):1	2726(gap):1	
+32	3(clean):1	5(time):1	11(bed):1	24(floor):3	32(check):1	54(door):1	84(locate):1	94(noise):1	98(outside):2	116(tv):1	119(window):1	139(square):1	162(hard):2	231(smell):1	380(cab):1	409(sound):1	416(loud):1	433(district):1	451(union):1	468(smoke):1	479(sheet):1	563(driver):1	754(thin):1	773(rock):1	776(paper):1	1567(homeless):1	1579(fourth):1	2052(stale):1	2087(camp):1	2579(tenderloin):1	5075(mason):1	7513(amplify):1	
+0	
+0	
+8	0(staff):1	8(day):1	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	286(check-in):1	658(checkout):1	
+3	2(night):1	18(book):1	43(leave):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Sleazy! Terrible service! STAY AWAY! If you're sensitive to noise or smell, or you think that service is important,or you're not in San Francisco to interview the homeless, you can count on a bad time at the Metropolis. Not only does it stink of cigarettes (despite the claims that the hotel is non smoking) but if you complain you will be rudely rebuffed. Some of the highlights; loud guests loitering in hallways, with no response from front desk; broken TV, with insulting response from front desk (I can't be bothered with complaints in the middle of the night--it was midnight, when we returned to our room); and after we sent an email to the management to complain, the owner called us, reassured us, and offered a free night in one of his OTHER hotels--coupon in the mail, which, needless to say, never arrived. Don't waste your time and money; FIND SOMEPLACE ELSE TO STAY  
+<Date>Apr 10, 2006
+<Rating>1	1	2	-1	1	-1	1	-1	
+<Aspects>
+6	5(time):1	80(money):1	170(else):1	928(waste):1	3042(someplace):1	6336(sleazy):1	
+0	
+0	
+0	
+19	5(time):1	9(service):1	50(bad):1	94(noise):1	177(san):1	231(smell):1	241(complain):1	355(francisco):1	468(smoke):1	498(despite):1	1077(claim):1	1365(cigarette):1	1567(homeless):1	1781(Count):1	1796(stink):1	2658(sensitive):1	3254(rudely):1	6392(metropolis):1	8583(interview):1	
+29	2(night):2	31(front):2	36(desk):2	39(return):1	46(free):1	53(arrive):1	67(call):1	89(offer):1	91(guest):1	116(tv):1	190(complaint):1	228(break):1	241(complain):1	307(bother):1	325(middle):1	416(loud):1	447(send):1	525(management):1	580(hallway):1	672(owner):1	1044(midnight):1	1141(highlight):1	1330(response):2	1356(needless):1	2106(coupon):1	2446(mail):1	2809(insult):1	4260(reassure):1	7648(loiter):1	
+2	9(service):1	432(terrible):1	
+0	
+
+<Author>sprintf32768
+<Content>Actually very nice You might be a little skeptical about this place, because it is way, way, cheaper than hotels in the general area. For example, the Nikko is like, two blocks away. And you can easily walk to...that big square where Tiffany's is, and all that other stuff. Sorry, not really very familiar with San Francisco. The point is: the location is very excellent! Really! I would stay here with my young children. I would have to walk through perhaps a block of possible weirdos but after that it's like any well-policed metropolitain area. It'd be a great stay, and if I can ever drag my family to SF I would look this place up first and foremost, because the rates were a steal.Anyway, I was thinking that this hotel would be disgusting or dangerous, because it was so much cheaper than other hotels. But the room was really very nice, and I had no problems with the hotel staff, or mix-em-ups or anything. It was just nice! It was one of those times when you think to yourself: I am getting some kind of deal!So imho, don't hesitate, you can totally stay here (I was on business) and you will not get mugged or be disturbed by drunken revelers late into the night.  
+<Date>Mar 20, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	4(nice):1	5(time):1	100(bloc):1	140(deal):1	177(san):1	277(child):1	355(francisco):1	576(yourself):1	891(sorry):1	954(example):1	2081(familiar):1	3669(nikko):1	
+8	4(nice):1	23(little):1	143(cheap):2	180(actually):1	417(anyway):1	1152(disgust):1	1971(dangerous):1	3070(skeptical):1	
+7	0(staff):1	4(nice):1	7(walk):1	139(square):1	438(easily):1	480(stuff):1	6679(tiffany):1	
+14	1(location):1	2(night):1	7(walk):1	21(excellent):1	79(late):1	100(bloc):1	147(business):1	611(totally):1	902(hesitate):1	1067(disturb):1	2224(mug):1	4174(drunken):1	7547(reveler):1	7899(imho):1	
+0	
+0	
+7	20(look):1	78(rate):1	106(family):1	802(sf):1	1187(steal):1	1699(drag):1	5779(foremost):1	
+0	
+
+<Author>kohrientrips
+<Content>Wow.. They really fooled me.. RUN AWAY ! First of all, let me start off by saying WOW. Me and a couple friends stayed here during Feb, and we were all excited. Our hopes of a fun time came crashing down as we saw the Hotel. At first we thought we had made a mistake, because the website gives you the feeling that this is a real nice clean hotel. It is the biggest front i have ever seen. This hotel is in the most wretched location ever possible. I come from Los Angeles and thought our Homeless problems were bad until i looked outside my broken window. During my 2 nights stay, i think i saw about 2 bums getting arrested at different times, and some guys getting in a fight. Plus the staff may SEEM friendly, but they forget everything you say the moment after you say it. I had SPECIFICALLY REQUESTED that all bills be paid in cash and he ENSURED me that NOTHING will be charged and gave me a nice fake smile. Then when i check out Sunday morning,he hands me a receipt to what had been charged on to the card. Needless to say I hope this hotel runs out of business, because they are nothing but scam artists charging us for such poor rooms.  
+<Date>Mar 20, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+16	2(night):1	5(time):2	99(couple):1	146(friend):1	149(run):1	176(fun):1	328(hope):1	368(guy):1	862(wow):1	1136(excite):1	1258(feb):1	1759(fight):1	2098(fool):1	2192(crash):1	3824(bum):1	9497(arrest):1	
+2	165(start):1	862(wow):1	
+16	20(look):1	50(bad):1	98(outside):1	119(window):1	136(charge):1	147(business):1	149(run):1	228(break):1	328(hope):1	331(poor):1	1356(needless):1	1567(homeless):1	1969(lo):1	2677(angele):1	3032(scam):1	3400(artist):1	
+8	1(location):1	3(clean):1	4(nice):1	34(feel):1	240(real):1	262(website):1	895(mistake):1	11816(wretched):1	
+0	
+22	0(staff):1	4(nice):1	12(friendly):1	31(front):1	32(check):1	42(pay):1	56(morning):1	136(charge):2	148(request):1	203(plus):1	292(card):1	377(hand):1	387(smile):1	397(forget):1	495(bill):1	670(moment):1	844(sunday):1	1082(cash):1	1293(ensure):1	1810(specifically):1	2725(receipt):1	2965(fake):1	
+0	
+0	
+
+<Author>bar20
+<Content>Tenderloin Hotel This hotel's front entrance is on Turk St., not Mason. For those of you from out of town, the Tenderloin area of San Francisco is where the drugies, wino's and homeless congregate. This hotel is located at the beginning of that section. My wife and I stayed there Friday and Saturday night. Our room on the fifth floor faced Mason St. This hotel has no regular fire exit and our room was the designated exit for our floor. All the rooms on our floor had cards to get into the room, ours had a key. If the fire alarm went off the lock would automaticly unlock and people would use our room as the fire escape exit. The room had no regular heater. but we were supplied with a small portible heater. The noise from outside kept me up until 1AM, it was quiter Saturday night. The only good thing about the room was the bathtub which was very deep. The toilet was right against the wall and your legs bumped the tp. My wife and myself are both left handed and there was absolutly no room. Even though the price was cheap for a SF hotel, I would not stay there ever again.  
+<Date>Mar 13, 2006
+<Rating>2	4	2	-1	3	-1	3	-1	
+<Aspects>
+10	2(night):1	177(san):1	184(wife):1	239(town):1	355(francisco):1	818(saturday):1	923(friday):1	1567(homeless):1	2579(tenderloin):1	5810(congregate):1	
+3	19(price):1	143(cheap):1	802(sf):1	
+23	24(floor):3	26(people):1	43(leave):1	184(wife):1	292(card):1	339(key):1	377(hand):1	655(st):1	744(regular):2	774(lock):1	843(ours):1	1023(bathtub):1	1043(deep):1	1262(fire):3	1354(exit):3	1380(alarm):1	1601(escape):1	1832(fifth):1	2361(heater):1	3448(absolutly):1	3599(unlock):1	3971(designate):1	5075(mason):1	
+16	2(night):1	84(locate):1	94(noise):1	98(outside):1	183(wall):1	330(toilet):1	551(begin):1	818(saturday):1	859(supply):1	947(section):1	1421(leg):1	2162(bump):1	2361(heater):1	6833(quiter):1	7375(tp):1	8726(1am):1	
+0	
+5	31(front):1	490(entrance):1	655(st):1	2579(tenderloin):1	5075(mason):1	
+0	
+0	
+
+<Author>docajenk
+<Content>Good value for money We stayed here for one night and found it to be good value for money. The hotel is not located in a particularly nice area, but the centre of town is 2 minutes walk. Hotel staff were very friendly and helpful. We changed the room due the first room being very small, the secret is to ask for a room with two beds and these are a good size and the beds are both doubles. Also ask for a high floor out the back of the hotel and you will hear very little noise. Rooms are comfortable and have been recently refurbished. Free wine reception on Fridays and Saturdays, worth going.  
+<Date>Mar 11, 2006
+<Rating>4	4	3	-1	4	-1	4	-1	
+<Aspects>
+0	
+3	2(night):1	80(money):2	81(value):2	
+13	11(bed):2	23(little):1	24(floor):1	25(comfortable):1	83(size):1	94(noise):1	132(hear):1	161(change):1	179(double):1	259(due):1	322(recently):1	1127(secret):1	1253(refurbish):1	
+7	4(nice):1	7(walk):1	29(minute):1	84(locate):1	101(center):1	239(town):1	553(particularly):1	
+0	
+9	0(staff):1	12(friendly):1	14(helpful):1	46(free):1	96(worth):1	129(reception):1	251(wine):1	4999(fridays):1	5701(saturdays):1	
+0	
+0	
+
+<Author>DarlynPearl
+<Content>LIVE AT THE 7-11! Spent my birthday at the Hotel Metropolis. Rooms were tiny; just the two of us, but upgraded to a 2 bed for the size. Clean, comfy beds, Live Entertainment~ right outside the window. Entertained by the street below complete with wrestling, slapstick comedey and colorful language. Beautiful lobby and futuristic deco, but noisy and displaced. One positive thing was the central location and secure parking. Probably had a good laugh more than a good time...will seek other locations in the future.  
+<Date>Jan 13, 2006
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	64(spend):1	206(live):1	765(birthday):1	6392(metropolis):1	
+0	
+10	3(clean):1	11(bed):2	83(size):1	98(outside):1	119(window):1	163(upgrade):1	206(live):1	338(tiny):1	340(entertainment):1	475(comfy):1	
+17	1(location):2	5(time):1	35(street):1	66(park):1	168(central):1	178(probably):1	458(positive):1	585(below):1	622(complete):1	698(language):1	732(future):1	1034(secure):1	1045(entertain):1	1245(laugh):1	1980(seek):1	2489(colorful):1	8919(wrestle):1	
+0	
+0	
+5	45(beautiful):1	55(lobby):1	217(noisy):1	2770(deco):1	10146(futuristic):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Crack Hotel! I dropped my brother off at this hotel while he was visiting with his girlfriend from NYC over the holidays. When I dropped them off at the front door of the Metropolis around 10pm, I had them wait in the car until some savory characters finished up a drug deal outside the front doors. When they finally did get out of the car, some woman with a fur coat and pajamas smoking a cigarette opened the door for them. That was their welcome. They have both lived in Brooklyn for many years and have NEVER seen anything like this. The noise on the street and the homeless activity and drug activity right outside their window kept them up all night. They got up early and left the hotel. The front reception asked no questions. I have a feeling this is not an unusual scenario. I am ashamed to have friends and family visit the Union Square area. Our Mayor needs to clean up the streets. It is a disgrace.  
+<Date>Dec 27, 2005
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+15	34(feel):1	43(leave):1	65(visit):1	202(welcome):1	206(live):1	223(holiday):1	558(nyc):1	662(drop):1	994(girlfriend):1	1411(crack):1	1610(unusual):1	2010(brother):1	3468(brooklyn):1	4524(disgrace):1	7758(scenario):1	
+0	
+6	65(visit):1	106(family):1	139(square):1	146(friend):1	451(union):1	5227(ashamed):1	
+10	2(night):1	3(clean):1	35(street):2	94(noise):1	98(outside):1	119(window):1	357(activity):2	1567(homeless):1	2256(drug):1	3054(mayor):1	
+9	54(door):1	121(car):1	341(finally):1	468(smoke):1	566(woman):1	1365(cigarette):1	2636(coat):1	6157(pajama):1	11220(fur):1	
+15	31(front):3	54(door):2	85(wait):1	98(outside):1	121(car):1	129(reception):1	140(deal):1	394(question):1	662(drop):1	772(finish):1	1049(character):1	2256(drug):1	6392(metropolis):1	7119(10pm):1	7459(savory):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Pleasant, but noisy We spent 3 nights at metropolis Hotel. It's a good location (near Union Square) to visit San Francisco. The service was friendly : we had free internet, free coffee in the morning, and free californian wine at the end of the afternoon. The room was clean but noisy and the window didn't close very well. That's right there were many homeless people in this street, but we did not feel unsafe. No problem if you come back to the hotel before the night.  
+<Date>Oct 15, 2005
+<Rating>3	3	3	-1	4	-1	4	-1	
+<Aspects>
+5	2(night):2	64(spend):1	150(pleasant):1	217(noisy):1	6392(metropolis):1	
+0	
+11	1(location):1	3(clean):1	28(close):1	65(visit):1	102(near):1	119(window):1	139(square):1	177(san):1	217(noisy):1	355(francisco):1	451(union):1	
+5	26(people):1	34(feel):1	35(street):1	1567(homeless):1	1890(unsafe):1	
+0	
+0	
+9	9(service):1	12(friendly):1	46(free):3	56(morning):1	90(coffee):1	97(internet):1	251(wine):1	364(afternoon):1	9341(californian):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Worst Hotel I've ever stayed in I didn't book this hotel but did one of their sister hotels. The hotel I booked over-booked and moved me to Metropolis. What a nightmare! I had a corner room Mason and Turk and listened to people yelling all night and heaven forebid if I looked out the window after 5 PM. The view was homeless after homeless urinating on the building across the street. No wonder the sidewalks were wet in the AM they had to hose them off every morning from all the urine. Not only will I never stay here again I will never book a room with Personality Hotels. Staff was very nice and helpful, hotel was a dive.  
+<Date>Oct 1, 2005
+<Rating>1	1	1	-1	2	-1	4	-1	
+<Aspects>
+1	1534(nightmare):1	
+0	
+12	2(night):1	18(book):1	20(look):1	26(people):1	119(window):1	200(corner):1	393(pm):1	997(listen):1	1363(heaven):1	1939(yell):1	2522(personality):1	5075(mason):1	
+11	17(view):1	35(street):1	56(morning):1	135(build):1	946(wonder):1	1032(wet):1	1567(homeless):2	2329(sidewalk):1	3191(urine):1	4773(hose):1	9880(urinate):1	
+0	
+4	0(staff):1	4(nice):1	14(helpful):1	1627(dive):1	
+6	18(book):2	50(bad):1	207(move):1	892(sister):1	6392(metropolis):1	10969(over-booke):1	
+0	
+
+<Author>mypitboss
+<Content>Bums everywhere-but a good location and nice staff I read some of the other reviews for Metropolis and I would say they are generally accurate. I do strongly disagree with those who say the staff is unfriendly. I've been here four days, and each time I enter or exit the building, someone says hello and smiles. Even the cleaning staff is friendly and helpful. Maybe the staff was nasty some time ago, but it simply is not the case today.That said, there are some problems I had with this hotel:-BUMS EVERYWHERE. The entry to the hotel opens up to a street with the highest concentration of bums I have ever seen in San Francisco. And these aren't your typical gimme a quarter bums. These are the nasty, insane, yelling kooks. Of course, it's only a very short walk to the much safer Market Street. However, make a wrong turn at night on Turk Street (the actual street the hotel entrance is on--it is not on Mason), and you will have, at best, a scary experience. That probably won't happen, though, as they seem to have a doorman out there at night to keep you from doing just that.-NO AIR CONDITIONING. As far as I'm concerned, air conditioning is standard in all American hotels, and any place that doesn't have it should come with a warning label. I was sweating in my room, as it actually does get hot in San Fransisco at times. So I opened the window, and it was fine. However, this wasn't easy. The window is heavy and very much wants to stay shut. There's also nothing to hold it open. Once I succeeded, I was treated to the sounds of Mason street. Insane people shreiking, sirens, two crazy women yelling at each other. Charming.-TINY ROOMS. This might not be an issue for you, but it was for me. My room was always a mess, since I ran out of places to put things. However, their aerobic exercise room is the same size as the hotel room. That's why they only have 3 pieces of equipment to use. I paid $110/night for this place, and that is too expensive for this experience. They really have put some effort into making this hotel, but this is essentially a high-end youth hostel. Not bad for students or budget travellers. I told several people from SF where I was staying, and they all said the same thing: oh my god, next time ask me before you book a hotel. You're in the middle of bum central.  
+<Date>Sep 29, 2005
+<Rating>2	2	2	-1	3	-1	5	-1	
+<Aspects>
+33	5(time):1	8(day):1	26(people):1	50(bad):1	93(easy):1	135(build):1	168(central):1	265(issue):1	267(traveler):1	325(middle):1	387(smile):1	429(budget):1	463(quarter):1	566(woman):1	593(hold):1	601(enter):1	628(typical):1	941(piece):1	1017(effort):1	1211(equipment):1	1259(crazy):1	1354(exit):1	1519(hello):1	1560(hostel):1	1639(nasty):1	1939(yell):2	2020(student):1	2282(siren):1	2977(essentially):1	3092(high-end):1	3525(youth):1	3824(bum):3	4573(insane):2	
+10	2(night):1	35(street):2	42(pay):1	44(experience):2	124(expensive):1	427(wrong):1	490(entrance):1	1536(actual):1	1566(scary):1	5075(mason):1	
+26	2(night):1	5(time):1	83(size):1	113(fine):1	114(hot):1	119(window):2	130(standard):1	149(run):1	164(air):2	177(san):1	178(probably):1	180(actually):1	263(condition):2	382(happen):1	487(wo):1	496(concern):1	679(warn):1	998(doorman):1	1086(shut):1	1186(heavy):1	1459(exercise):1	1644(mess):1	2514(sweat):1	3128(label):1	5841(fransisco):1	8364(aerobic):1	
+22	0(staff):1	1(location):1	4(nice):1	7(walk):1	35(street):3	37(review):1	88(read):1	137(safe):1	144(short):1	177(san):1	264(market):1	293(course):1	320(treat):1	355(francisco):1	409(sound):1	1649(entry):1	1785(accurate):1	3824(bum):2	5075(mason):1	5717(succeed):1	6392(metropolis):1	10672(concentration):1	
+4	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	
+9	0(staff):2	5(time):1	308(maybe):1	488(simply):1	633(ago):1	1386(strongly):1	1487(unfriendly):1	1639(nasty):1	3102(disagree):1	
+6	5(time):1	18(book):1	26(people):1	69(tell):1	802(sf):1	1522(god):1	
+0	
+
+<Author>wrejennywren
+<Content>Great Hotel - very nice rooms - would stay again This hotel was great. It was very different from your usual chain hotel where everything looks the same and we felt very at home. The staff were very helpfull and gave us lots of advice. The room was great and very clean. This hotel in NOT in the tenderloin district as another review said but is close to it. It is a couple of minutes walk from Union Square and once you are carefull not to wander into the tenderloin (which wasn't even that bad !!) you are safe. San Fran is a city where there are lots of homeless even if you are staying in the best hotel in Union Square so if staying in San Fran you will just have to get used to it.  
+<Date>Sep 20, 2005
+<Rating>5	4	4	-1	4	-1	4	-1	
+<Aspects>
+6	20(look):1	34(feel):1	137(safe):1	141(home):1	627(chain):1	682(usual):1	
+0	
+16	3(clean):1	4(nice):1	7(walk):1	29(minute):1	38(lot):1	41(city):1	50(bad):1	99(couple):1	139(square):2	177(san):2	451(union):2	1562(wander):1	1567(homeless):1	1744(fran):2	2579(tenderloin):1	6067(carefull):1	
+4	28(close):1	37(review):1	433(district):1	2579(tenderloin):1	
+0	
+4	0(staff):1	38(lot):1	575(advice):1	1478(helpfull):1	
+0	
+0	
+
+<Author>SGHRET
+<Content>Spend more and go North Stayed here in September. A smallish decent hotel but no a/c and plumbing basic, toilet backed up which was very embaressing.Area really not so good, I didn't like walking back at night and very difficult to get to sleep at night as alot of noise outside even with windows closed. Alot of homeless congregate round the main entrance altho they have a security guy on the door at night.If on a very tight budget its worth it but otherwise I wd spend a bit more and stay in a better area, Tenderloin area isn't great.The web site is great but tho I liked the lobby the hotel doesn't really live up to its description at all.Too noisy, bad area, cheap decor and staff a bit hit and miss.  
+<Date>Sep 19, 2005
+<Rating>2	4	2	-1	3	-1	2	-1	
+<Aspects>
+9	52(bit):1	64(spend):2	96(worth):1	429(budget):1	508(otherwise):1	684(North):1	972(september):1	1399(tight):1	2579(tenderloin):1	
+8	0(staff):1	50(bad):1	52(bit):1	143(cheap):1	217(noisy):1	269(decor):1	276(miss):1	775(hit):1	
+10	2(night):1	54(door):1	112(main):1	368(guy):1	490(entrance):1	641(security):1	647(alot):1	1567(homeless):1	5494(altho):1	5810(congregate):1	
+20	2(night):2	7(walk):1	28(close):1	55(lobby):1	94(noise):1	98(outside):1	104(sleep):1	119(window):1	192(site):1	206(live):1	257(decent):1	330(toilet):1	352(basic):1	572(difficult):1	647(alot):1	1019(web):1	2034(description):1	2104(smallish):1	2107(plumb):1	2670(tho):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Just stay in the Midwest... I'm quite surprised at the reviews.Yes, the location could be better. But the hotel is located in a very urban city. If you're shocked by the location, then you're not suited for San Francisco at all. Their motto Left is Right is in fact correct. One block to the left and you're in the middle of Union Square. The hotel is also located right next to a BART/MUNI station.The staff was excellent. There were a few problems (credit card, dirty room, check-out time) but they were very polite in clearing those up. Every staff member was just great.The bottom line is, the hotel is good for the money. It is right next to Union Square, the design is unoffensive, and the staff is more than helpful. I paid around $99/night and felt the price was right. I doubt anyone could find a better hotel in the city for that. Next time I'll just pay for a more upscale hotel, but I don't regret staying at the Metropolis.If a few homeless people scare you, just stay in Hicksville.  
+<Date>Sep 9, 2005
+<Rating>3	3	2	-1	2	-1	5	-1	
+<Aspects>
+14	26(people):1	37(review):1	41(city):1	43(leave):1	80(money):1	188(line):1	199(surprise):1	850(bottom):1	952(doubt):1	1263(correct):1	1567(homeless):1	1711(scare):1	7536(motto):1	8156(midwest):1	
+7	5(time):1	19(price):1	34(feel):1	42(pay):2	1237(upscale):1	1410(regret):1	6392(metropolis):1	
+13	0(staff):1	1(location):1	14(helpful):1	43(leave):1	100(bloc):1	139(square):2	177(san):1	325(middle):1	355(francisco):1	451(union):2	516(design):1	861(suit):1	1206(shock):1	
+7	1(location):1	41(city):1	82(station):1	84(locate):2	250(yes):1	1505(bart):1	2673(urban):1	
+0	
+8	0(staff):2	5(time):1	21(excellent):1	292(card):1	323(dirty):1	422(polite):1	658(checkout):1	659(credit):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>PLEASE - DO NOT WORRY! HOTEL IS FINE! Hi there ...After reading the reviews on this site, I was a bit concerned about spending 3 nights here. We had pre booked everything, travelling from LA to San Fran, then across to Vegas via Yosemite  Death Valley.Anyway, the Metropolis Hotel ...We arrived about 11pm and after checking in, an extremely helpful bell man escorted us to our room and carried our (heavy) cases for us.The room itself was very pleasant - we were on the 5th floor - the room was a decent size, clean and quiet. It also had a tv and a fridge. :-) Yes, the guy on the front desk can be a bit grumpy at times, but we found that with a smile and a bit of politeness, he soon perks up and can be quite chatty.The area the hotel is in is ideal - it is is very central and Union Square is less than 5mins walk away. Having read the reports on this site, I was expecting to arrive in a ghetto. Okay - the area is not the nicest - but anyone who has been out drinking in ANY city in England - will have seen more aggression and felt more threatened than you do there. I'm originally from Newcastle, now living in Manchester and both are far worse at 2am on a Saturday than the area surrounding the Metropolis.One guy did ask us for money - but a polite Sorry Mate was met with a Thank you Sir, Thank you Ma'am and he went on his way.We also walked along the edge of the Tenderloin District after midnight following a night at the theatre, again, with no hassle.So, all in all - a decent hotel in a good location for central San Fran. One piece of advice however, if you are renting a car and travelling, look into postponing it for the few days you arte in San Fran. We paid 拢57 (about $99) to park our car at the hotel for the 3 days we were there (didn't use it with the cable cars and feet!) - and then realised the car rental place (Dollar) was almost next door - would have been cheaper to hand the car back in and rent another 3 days later!Good luck and enjoy!Feel free to email me if you'd like any more advice about this hotel.  
+<Date>Aug 17, 2005
+<Rating>4	4	3	-1	3	-1	4	-1	
+<Aspects>
+25	8(day):1	20(look):1	34(feel):1	46(free):1	51(enjoy):1	68(travel):1	80(money):1	113(fine):1	121(car):1	173(please):1	177(san):1	196(meet):1	271(thank):2	368(guy):1	422(polite):1	575(advice):2	831(worry):1	891(sorry):1	941(piece):1	1055(luck):1	1097(rent):1	1744(fran):1	2953(mate):1	3376(sir):1	3999(ma):1	
+14	8(day):2	42(pay):1	54(door):1	66(park):1	79(late):1	121(car):4	143(cheap):1	377(hand):1	402(foot):1	430(dollar):1	484(cable):1	607(realize):1	963(rental):1	1030(rend):1	
+26	3(clean):1	7(walk):1	14(helpful):1	24(floor):1	32(check):1	53(arrive):1	58(quiet):1	83(size):1	110(extremely):1	116(tv):1	139(square):1	150(pleasant):1	168(central):1	257(decent):1	318(fridge):1	417(anyway):1	451(union):1	545(ideal):1	801(bell):1	824(carry):1	839(5th):1	1186(heavy):1	2005(escort):1	3577(5min):1	6392(metropolis):1	6840(11pm):1	
+34	1(location):1	2(night):2	7(walk):1	37(review):1	50(bad):1	52(bit):1	53(arrive):1	62(expect):1	64(spend):1	88(read):2	168(central):1	177(san):1	192(site):2	206(live):1	257(decent):1	433(district):1	482(follow):1	496(concern):1	635(theater):1	667(surround):1	818(saturday):1	838(report):1	1044(midnight):1	1190(edge):1	1193(hassle):1	1300(originally):1	1744(fran):1	1863(hi):1	2579(tenderloin):1	5502(ghetto):1	5921(manchester):1	6392(metropolis):1	10095(2am):1	11967(newcastle):1	
+0	
+12	5(time):1	31(front):1	36(desk):1	52(bit):2	250(yes):1	368(guy):1	387(smile):1	418(soon):1	1914(perk):1	4351(grumpy):1	5368(chatty):1	6903(politeness):1	
+18	4(nice):1	18(book):1	34(feel):1	41(city):1	63(drink):1	68(travel):1	177(san):1	225(la):1	453(okay):1	512(via):1	1744(fran):1	1860(vegas):1	1970(england):1	2422(pre):1	2537(threaten):1	2569(valley):1	3341(death):1	8969(yosemite):1	
+0	
+
+<Author>runnergirl78
+<Content>what a mistake We booked the hotel without looking at tripadvisor first. That was a mistake already. We didn't realize that the hotel was in the tenderloin district and we felt unsafe. The front desk manager was not very friendly and questioned our student discount card that we had. He was very hesitant to give us the discounted rate and appeared to be unhappy about it. The room was small and we heard sirens on three different occassions. We decided to check out the same night we checked in and stayed at a different hotel in fisherman's wharf.  
+<Date>Aug 10, 2005
+<Rating>1	-1	3	-1	3	-1	1	-1	
+<Aspects>
+6	34(feel):1	433(district):1	607(realize):1	895(mistake):1	1890(unsafe):1	2579(tenderloin):1	
+5	78(rate):1	541(appear):1	864(discount):1	2382(unhappy):1	2898(hesitant):1	
+3	132(hear):1	2282(siren):1	4048(occassions):1	
+0	
+0	
+13	2(night):1	12(friendly):1	31(front):1	32(check):2	36(desk):1	219(decide):1	258(manager):1	292(card):1	394(question):1	784(wharf):1	864(discount):1	1148(fisherman):1	2020(student):1	
+4	18(book):1	20(look):1	597(tripadvisor):1	895(mistake):1	
+0	
+
+<Author>Dr_Ed
+<Content>not a bad base... but it could be better! I wanted the San Fran experience with Zen mediatation room, fire-wind-water theme, funky, etc. I hoped for this from Hotel Metropolis, but I was rather disappointed. The situation is a block into Tenderloin- it is quite remarkable how the clean business street changes within a few paces to a vagrant hangout. Sadly, Hotel Metropolis is within this...Staff were very variable. Maids were great. Room was small, but fitted me and my 3 sons (2 Queen beds). It is an easy walk to Union Square, and the buses, cable car, trams are very accessible. So, it is not a bad base... but it could be better!  
+<Date>Jul 21, 2005
+<Rating>2	3	3	-1	2	-1	2	-1	
+<Aspects>
+6	50(bad):2	154(disappoint):1	284(base):2	300(maid):1	328(hope):1	6392(metropolis):1	
+7	44(experience):1	73(etc):1	177(san):1	1118(theme):1	1516(funky):1	1744(fran):1	5437(zen):1	
+4	11(bed):1	543(Queen):1	612(son):1	668(fit):1	
+20	3(clean):1	7(walk):1	35(street):1	93(easy):1	100(bloc):1	120(bus):1	121(car):1	139(square):1	147(business):1	161(change):1	451(union):1	484(cable):1	570(tram):1	890(situation):1	1342(accessible):1	2291(pace):1	2579(tenderloin):1	3163(remarkable):1	6633(hangout):1	8172(vagrant):1	
+0	
+4	0(staff):1	2135(sadly):1	5713(variable):1	6392(metropolis):1	
+0	
+0	
+
+<Author>R.CityWestRoyale
+<Content>Extremely misleading hotel information!!! My first mistake was to not research the area of the hotel before booking my reservations. I took the hotel's website for its word and the pictures looked great. The hotel also boasts it was family friendly. It also boasts to being a central location to Union Square and all that area has to offer. My family and I got off the Powell St. Bart Station and I soon realized that our hotel was about 3 blocks away from Union Sqaure, in the wrong direction!!! After walking to through and around numerous homeless people and other undesireables we finally reached the hotel, where there were 3 security guards standing around the door. The hotel staff were pretty much non-existent, no greeting and no hospitality whatsoever. The walls to the rooms are thin and you can hear everything that happens all night (Drunks yelling, sirens wizzing by all night, and vehicles travelling up and down the street). After one night, I decided to move to a different hotel in the Fisherman's Wharf area where we had a better experience. When I checked out of the hotel, they did not even ask me why I was leaving after one night and not staying for the whole four nights that were booked. In fact they did not even say a word. The front desk is extremely unfriendly. I did not enjoy the experience of fighting my way through one of the worst areas in San Francisco and then be treated as if I did not exist by the hotel staff. I am real familiar with handling bad parts of towns but I do not want to be in the middle of one on my vacation.I would definetly not recommend this hotel, even if you are trying the save some money. My suggestion would be to spend a little more money on a nicer hotel in Union Square or the Fisherman's Wharf area.  
+<Date>Jul 11, 2005
+<Rating>1	2	2	-1	3	-1	1	-1	
+<Aspects>
+9	12(friendly):1	15(recommend):1	76(try):1	80(money):1	106(family):1	425(save):1	571(word):1	1964(definetly):1	3269(boast):1	
+20	0(staff):1	2(night):1	44(experience):2	50(bad):2	51(enjoy):1	131(vacation):1	177(san):1	207(move):1	219(decide):1	239(town):1	240(real):1	320(treat):1	325(middle):1	355(francisco):1	784(wharf):1	966(handle):1	1148(fisherman):1	1759(fight):1	2039(exist):1	2081(familiar):1	
+23	1(location):1	4(nice):1	7(walk):1	23(little):1	26(people):1	54(door):1	64(spend):1	80(money):1	89(offer):1	139(square):2	168(central):1	341(finally):1	444(stand):1	451(union):2	641(security):1	784(wharf):1	851(reach):1	921(suggestion):1	971(numerous):1	1148(fisherman):1	1567(homeless):1	1762(guard):1	3269(boast):1	
+27	2(night):2	20(look):1	35(street):1	68(travel):1	82(station):1	100(bloc):1	106(family):1	132(hear):1	183(wall):1	262(website):1	382(happen):1	395(direction):1	418(soon):1	427(wrong):1	451(union):1	456(picture):1	571(word):1	607(realize):1	655(st):1	754(thin):1	1505(bart):1	1897(powell):1	1939(yell):1	1951(vehicle):1	2282(siren):1	4127(drunk):1	5846(sqaure):1	
+0	
+19	0(staff):1	2(night):2	18(book):2	31(front):1	32(check):1	36(desk):1	43(leave):1	109(pretty):1	110(extremely):2	156(reservation):1	415(greet):1	649(information):1	895(mistake):1	1024(research):1	1115(hospitality):1	1487(unfriendly):1	1733(whatsoever):1	2221(mislead):1	2580(nonexistent):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>very misleading! Self-described as a boutique/personality hotel - a place where you will feel like you entered paradise ... Actually you might after just walking in from one of the worst areas of San Francisco: Tenderloin! But who would know after reading the description of their perfect and centric location. The hotel is surrounded by homeless people and drug addicts. Sirens go by continuously. Hard to sleep. You feel unsafe even getting to your room. Also there were no security guards to be found at the entrance nor lobby (a must in a place like this). Photos on their site show a beautiful lobby as the look that describes their hotel. I realized that that was the only section of the place that looked anything like that. I figured out that this used to be a cheap studio apartment building before it was turned into a hotel. They descibe an indulgence in vivid colors... I never did find that. Rooms were mediocre. Beds were hard. No airconditioning. The corridors and elevators need a major overhaul! Lesson learned: Do not be mislead by pretty pictures and colorful words!  
+<Date>May 12, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+14	20(look):1	109(pretty):1	456(picture):1	571(word):1	607(realize):1	703(learn):1	942(color):1	947(section):1	1343(lesson):1	2221(mislead):2	2282(siren):1	2489(colorful):1	4376(continuously):1	7227(indulgence):1	
+5	135(build):1	143(cheap):1	751(apartment):1	779(figure):1	1445(studio):1	
+7	11(bed):1	34(feel):1	104(sleep):1	162(hard):2	1340(mediocre):1	1890(unsafe):1	1903(airconditione):1	
+25	1(location):1	7(walk):1	20(look):1	26(people):1	34(feel):1	45(beautiful):1	50(bad):1	55(lobby):1	74(perfect):1	88(read):1	177(san):1	180(actually):1	192(site):1	355(francisco):1	601(enter):1	623(boutique):1	667(surround):1	748(Paradise):1	761(photo):1	955(describe):1	1567(homeless):1	2034(description):1	2256(drug):1	2579(tenderloin):1	4924(addict):1	
+0	
+0	
+9	55(lobby):1	216(elevator):1	315(major):1	490(entrance):1	641(security):1	970(nor):1	1073(corridor):1	1762(guard):1	4053(overhaul):1	
+0	
+
+<Author>Canadagal
+<Content>The worst ever I stayed at the Hotel Metropolis on March 17, 2005. I was orginally booked at the Kensington Park Hotel (which is a great hotel). Unfortunately, when I arrived at the Kensington Park at 11:00pm on the 17th, I was informed they no longer had any rooms and was redirected to their sister hotel - The Hotel Metropolis. There is really nothing good I can say about this hotel. It is basically located on Market Sreet, a very busy, noisy street where allot of homeless hang out. The room was filthy. The bed spreads were once a nice mauve color but were so covered with stains, it was disgusting. The rugs were dirty. The walls also grim. The room was tiny but they may have been a good thing - less dirt to look at!I stayed the next 3 nights at the Kensington Park - much nicer stay.I would not recomend this hotel to anyone.  
+<Date>Mar 30, 2005
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+4	50(bad):1	615(march):1	1420(recomend):1	6392(metropolis):1	
+0	
+21	4(nice):1	11(bed):1	20(look):1	53(arrive):1	66(park):1	338(tiny):1	393(pm):1	524(unfortunately):1	552(cover):1	723(stain):1	817(inform):1	892(sister):1	942(color):1	1152(disgust):1	1203(spread):1	1320(filthy):1	2004(dirt):1	2143(17th):1	5704(kensington):1	6392(metropolis):1	11729(redirect):1	
+15	2(night):1	4(nice):1	35(street):1	66(park):1	84(locate):1	183(wall):1	217(noisy):1	220(busy):1	264(market):1	478(hang):1	790(basically):1	1567(homeless):1	5704(kensington):1	6061(allot):1	6235(grim):1	
+2	323(dirty):1	3016(rug):1	
+0	
+4	18(book):1	66(park):1	5704(kensington):1	9421(orginally):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Amazing service My partner and I had the pleasure of staying at the Hotel Metropolis recently and the staff were wonderful. Nothing was too much trouble for them and they were extremely informative and courteous. The rooms were immaculate and the chambermaids very efficient. There was a little renovating taking place, but we were not disturbed by this at all. Hallways a little jaded, but as mentioned they were being renovated. Would have been nice to have had tea/coffee making facilities in the room, but this was our only gripe. The hotel very close to the 'seedier' part of SF, but we never felt nervous or threatened and walked everywhere, even at night.Would definitely use again, if i'm lucky enough to be back there any time soon.  
+<Date>Mar 21, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	5(time):1	23(little):2	59(definitely):1	244(mention):1	418(soon):1	533(renovate):2	580(hallway):1	797(lucky):1	1067(disturb):1	6204(jaded):1	
+0	
+3	401(efficient):1	894(immaculate):1	4749(chambermaid):1	
+8	2(night):1	7(walk):1	28(close):1	34(feel):1	802(sf):1	1408(nervous):1	2209(seedy):1	2537(threaten):1	
+0	
+12	0(staff):1	9(service):1	48(wonderful):1	110(extremely):1	145(amaze):1	322(recently):1	483(courteous):1	569(trouble):1	907(pleasure):1	1006(partner):1	1976(informative):1	6392(metropolis):1	
+4	4(nice):1	211(facility):1	301(tea):1	1788(gripe):1	
+0	
+
+<Author>HeatherDallas
+<Content>Not so bad We booked the hotel through Travelocity, then went to tripadvisor.com. Bad idea, we should have looked then booked. Anyway, the hotel is not terrible itself. It is in a bad area, but there are homeless people everywhere in SF. The worst thing about the hotel was the $29 a day valet service where your car is basically parked right in front of the doors (but you pay $29 to have them drive it two feet forward- a joke) the bed (I basically slept on springs), and the size of the rooms (I swear my closet is as big). The decor' was pretty cool and the hotel staff was very friendly. Each morning the maids saw me leave my room they went out of their way to say Hi. If you are traveling with hopes of coming back to your room and relaxing- this is not the hotel for you. If you'll be out and about and only need a place to sleep- this is not the hotel for you. Try something a little further North.  
+<Date>Feb 23, 2005
+<Rating>2	2	2	-1	2	-1	3	-1	
+<Aspects>
+9	23(little):1	26(people):1	50(bad):1	76(try):1	417(anyway):1	432(terrible):1	684(North):1	802(sf):1	1567(homeless):1	
+0	
+32	0(staff):1	8(day):1	9(service):1	11(bed):1	12(friendly):1	31(front):1	42(pay):1	43(leave):1	50(bad):1	54(door):1	56(morning):1	66(park):1	68(travel):1	83(size):1	104(sleep):2	109(pretty):1	121(car):1	160(relax):1	269(decor):1	278(cool):1	298(drive):1	300(maid):1	328(hope):1	402(foot):1	457(valet):1	565(closet):1	750(forward):1	790(basically):2	1162(spring):1	1175(joke):1	1863(hi):1	3333(swear):1	
+0	
+0	
+0	
+6	18(book):2	20(look):1	50(bad):2	639(idea):1	3132(travelocity):1	3903(tripadvisor.com):1	
+0	
+
+<Author>skeletoncrew
+<Content>We liked it       Room with two double beds  
+<Date>Jan 3, 2005
+<Rating>4	5	3	-1	5	-1	4	-1	
+<Aspects>
+0	
+0	
+2	11(bed):1	179(double):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Terrible Location Having researched hotels in San Francisco we were after a budget priced hotel in a central and safe location. Unfortunately, none of the research indicated that this hotel was on the verge of the Tenderloin District which is one of the more unsavoury and unsafe areas of San Fran. We felt most unsafe when entering or exiting the hotel due to the location. Don't be fooled that this hotel is on Union Square. It is 4 blocks away (short walk of 5 minutes) but in the wrong direction.If you choose to stay here, be aware that the accomodation is basic but adequate however, you may wish to request a quiet room facing the car park as opposed to the main street. Also, bring ear plugs as the walls are paper thin. We could hear our neighbour snoring and talking to his wife at 3am. Don't be fooled by the trendy reception area that is often used to advertise the hotel.  
+<Date>Jan 1, 2005
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+17	132(hear):1	177(san):1	184(wife):1	371(talk):1	433(district):1	524(unfortunately):1	573(none):1	934(neighbour):1	1024(research):1	1744(fran):1	1776(indicate):1	1890(unsafe):1	2579(tenderloin):1	5785(snore):1	7172(verge):1	9873(unsavoury):1	11261(3am):1	
+9	1(location):2	19(price):1	137(safe):1	168(central):1	177(san):1	355(francisco):1	429(budget):1	432(terrible):1	1024(research):1	
+16	35(street):1	58(quiet):1	66(park):1	112(main):1	121(car):1	139(square):1	148(request):1	167(choose):1	352(basic):1	384(wish):1	390(adequate):1	451(union):1	780(accomodation):1	832(aware):1	2098(fool):1	2401(oppose):1	
+18	1(location):1	7(walk):1	29(minute):1	34(feel):1	100(bloc):1	142(bring):1	144(short):1	183(wall):1	259(due):1	395(direction):1	427(wrong):1	601(enter):1	754(thin):1	776(paper):1	1174(plug):1	1354(exit):1	1684(ear):1	1890(unsafe):1	
+0	
+4	129(reception):1	910(advertise):1	1413(trendy):1	2098(fool):1	
+0	
+0	
+
+<Author>RalfBeier
+<Content>Terrible Neighbourhood and windows don't hold back the noise from the street The rooms are spacious enough and clean, the staff o.k.. But if you want to have some sleep at night - take another hotel! I rember the 7 eleven truck delievering the store at 3 a.m. and the homeless people jelling all night in front of the hotel very well.......  
+<Date>Nov 15, 2004
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+12	0(staff):1	2(night):1	3(clean):1	35(street):1	94(noise):1	104(sleep):1	111(spacious):1	119(window):1	421(neighbourhood):1	432(terrible):1	593(hold):1	2540(o.k):1	
+0	
+0	
+8	2(night):1	26(people):1	31(front):1	255(store):1	1507(truck):1	1567(homeless):1	2415(gel):1	7715(eleven):1	
+0	
+0	
+
+<Author>msmegmog
+<Content>Great Location and Value - Loved the Ambiance       Bathroom 1  
+<Date>Oct 24, 2004
+<Rating>4	5	4	-1	4	-1	3	-1	
+<Aspects>
+0	
+0	
+5	1(location):1	13(bathroom):1	40(love):1	81(value):1	957(ambience):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Funky Hotel on a Budget I read the reviews here before we went so we were prepared for it to be in a bad neighbourhood. It was a bit sketchy, but being from Vancouver I'm used to panhandlers. And you only have to walk a couple blocks towards Union Square to escape that! It's an older building and the plumbing sucks but for the price (we paid $85/night through -----------------) it's a great deal. San Fran is expensive!Also the major hotel staff were on strike and picketing with megaphones! Thank god we didn't stay there!Not sure if it was mentioned, but the hotel is less than 2 blocks from BART train station - a major plus, it costs only $5/person from the airport. Close to chinatown, too - great dim sum at the Great Oriental Restaurant.  
+<Date>Oct 14, 2004
+<Rating>4	4	3	-1	4	-1	5	-1	
+<Aspects>
+13	37(review):1	50(bad):1	52(bit):1	88(read):1	271(thank):1	421(neighbourhood):1	429(budget):1	460(prepare):1	1516(funky):1	1522(god):1	3148(sketchy):1	4200(vancouver):1	5647(panhandler):1	
+9	19(price):1	42(pay):1	124(expensive):1	135(build):1	140(deal):1	177(san):1	1744(fran):1	1902(suck):1	2107(plumb):1	
+7	7(walk):1	99(couple):1	100(bloc):1	139(square):1	451(union):1	959(towards):1	1601(escape):1	
+15	10(restaurant):1	28(close):1	82(station):1	95(airport):1	100(bloc):1	175(cost):1	182(train):1	203(plus):1	244(mention):1	315(major):1	1132(chinatown):1	1505(bart):1	1616(Oriental):1	1651(sum):1	2048(dim):1	
+0	
+3	0(staff):1	315(major):1	1957(strike):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Guaranteed late arrival means guaranteed hassle I stayed in this hotel on October 2, 2004. I had a guaranteed late arrival reservation, and I even called the hotel the morning of my visit to let them know that I would be arriving late. They said it was no problem. When I arrived, I was informed that they didn't have any rooms with two double beds left -- there was only one tiny room left with a queen bed. I was informed that my only other option would be to check into the Pickwick Hotel. The clerk then proceeded to place a $300 hold on my credit card, which is excessive for a $79/night stay. I received no comps, discount, or compensation for my inconvenience. This hotel is in a very bad neighborhood, and there was a serious shooting inside the hotel in recent history. I heard gunshots outside on the last night of my stay.  
+<Date>Oct 6, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	79(late):1	224(arrival):1	246(mean):1	292(card):1	593(hold):1	659(credit):1	788(clerk):1	911(october):1	1193(hassle):1	1471(guarantee):2	2150(proceed):1	3088(excessive):1	
+4	302(receive):1	864(discount):1	1431(inconvenience):1	2885(compensation):1	
+14	11(bed):2	43(leave):2	50(bad):1	53(arrive):1	179(double):1	338(tiny):1	408(inside):1	421(neighbourhood):1	543(Queen):1	817(inform):1	1064(recent):1	1469(serious):1	1490(history):1	1778(shoot):1	
+3	2(night):1	98(outside):1	132(hear):1	
+0	
+12	32(check):1	53(arrive):1	56(morning):1	65(visit):1	67(call):1	79(late):2	156(reservation):1	224(arrival):1	336(option):1	817(inform):1	1471(guarantee):1	9702(pickwick):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Never checked in We booked our Standard Queen room through Southwest Airlines Reservations. Upon arriving we went to our room to discover two double beds. After making the hike back down stairs we were told that there were no more queen rooms available. That's it. No negotiating, no discount, no apology or anything. Apparently a confirmation means nothing to this hotel. Even after I called a week prior to arrival to confirm the queen room. We were told that we would have to relocate three blocks away. We made the hike to arrive at the substitution and they had no idea we were coming so they had to call just to double check. I wouldn't recommend this hotel just based on the simple fact that if something goes wrong, they don't care.  
+<Date>Sep 30, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	15(recommend):1	242(care):1	246(mean):1	284(base):1	427(wrong):1	613(simple):1	863(apparently):1	1641(confirmation):1	
+3	864(discount):1	1547(apology):1	2397(negotiate):1	
+20	11(bed):1	18(book):1	32(check):1	53(arrive):1	67(call):1	69(tell):1	75(week):1	130(standard):1	134(available):1	156(reservation):1	179(double):1	224(arrival):1	543(Queen):3	568(stair):1	637(prior):1	869(discover):1	982(confirm):1	1336(airline):1	1705(hike):1	5741(southwest):1	
+3	69(tell):1	100(bloc):1	3812(relocate):1	
+0	
+6	32(check):1	53(arrive):1	67(call):1	179(double):1	639(idea):1	1705(hike):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Hugely Disappointing, nothing like their website! Hmmmm....not quite Union Square, more homeless-ville. The lobby was funky, but the rooms were seriously disappointing, awful colours (cream and purple) and looked like any chain hotel room. Because it is an old hotel, there's no AC, the views are non-existent and as I say you walk out the door and are greeted by the homeless population of San Fran. They have a security man on the door in the evenings primarily for that reason. I had arranged for champagne and when we arrived it was NASTY sparkling white. Don't arrange for hotel to park your car for $29, much better to negotiate a deal in the lot yourself (we got a deal of $20). Staff are polite and the library area is nice. I would however recommend staying somewhere around the Union St shopping area (union and Steiner) or even Fishermans Wharf.  
+<Date>Sep 15, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+18	20(look):1	54(door):1	55(lobby):1	139(square):1	154(disappoint):1	374(reason):1	451(union):1	627(chain):1	641(security):1	736(awful):1	942(color):1	1003(evening):1	1188(cream):1	1441(seriously):1	1516(funky):1	2519(primarily):1	5286(purple):1	7791(hmmmm):1	
+31	7(walk):1	15(recommend):1	17(view):1	38(lot):1	49(shop):1	53(arrive):1	54(door):1	66(park):1	121(car):1	140(deal):2	154(disappoint):1	177(san):1	262(website):1	415(greet):1	451(union):2	466(white):1	576(yourself):1	680(arrange):2	770(champagne):1	784(wharf):1	940(St):1	956(ac):1	1567(homeless):1	1639(nasty):1	1744(fran):1	1919(sparkle):1	2198(fishermans):1	2397(negotiate):1	2580(nonexistent):1	4498(hugely):1	5821(population):1	
+0	
+4	0(staff):1	4(nice):1	422(polite):1	1648(library):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Turning into a Tradition For Us This is the 4th year in a row we stayed at the Metropolis. Service is always fast and courtious. We will definitely make it 5 years in a row. Thanks!  
+<Date>Aug 27, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	59(definitely):1	271(thank):1	845(4th):1	1638(row):2	4678(tradition):1	6392(metropolis):1	
+0	
+0	
+0	
+0	
+0	
+3	9(service):1	499(fast):1	6116(courtious):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>not satsified I was drawn to Metropolis because they allow dogs to stay in the hotel. Upon my arrival I was impressed by the decor of the reception area however as soon as I got to the 4th floor where they had stuck us, I noticed some sort of paper taped to the carpet as one would usually see in any construction area. The room was nice, and the bed was huge and decor stylish. My friend and I left that night and didn't return until 3am. At 8 am we hear construction noises blaring from the room adjacent to us, it was horribile and when we called the front desk all they could do was suggest that we move to a different room. You can't unring a bell. We also had to hurry and shower since they also informed us upon out arrival and not when I made the reservation that the water would be shut off from 10am to 12 pm. No discount was every mentioned or offered for this inconvenience. It sucked, the neighborhood was bad and we will never stay there again.  
+<Date>Aug 21, 2004
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	2(night):1	39(return):1	43(leave):1	50(bad):1	146(friend):1	359(allow):1	421(neighbourhood):1	801(bell):1	1126(dog):1	1620(draw):1	1902(suck):1	6392(metropolis):1	11261(3am):1	
+4	89(offer):1	244(mention):1	864(discount):1	1431(inconvenience):1	
+27	4(nice):1	11(bed):1	24(floor):1	57(water):1	61(shower):1	129(reception):1	133(huge):1	156(reservation):1	224(arrival):2	269(decor):2	343(impress):1	354(notice):1	393(pm):1	396(carpet):1	399(usually):1	418(soon):1	557(sort):1	583(construction):1	688(stick):1	776(paper):1	817(inform):1	845(4th):1	961(stylish):1	1086(shut):1	2265(hurry):1	3236(tape):1	7512(10am):1	
+0	
+0	
+10	31(front):1	36(desk):1	67(call):1	94(noise):1	132(hear):1	207(move):1	452(suggest):1	583(construction):1	1061(adjacent):1	4306(blare):1	
+0	
+0	
+
+<Author>Traveller014
+<Content>Great modern design, a real bargain Personality Hotels has done a great job in renovating this place. You get a hip and trendy hotel with a lot of details to small things (the zen room, the rooftop, the different approach to the guest comment form, not to forget high speed internet and free coffee in the morning). It is a great value for the money (I have not stayed in many hotels in SFO for 85 and got a very clean and nice bathroom, incl. bodylotion) for the leisure and business traveller alike. I can only recommend this hotel.  
+<Date>Jul 28, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	15(recommend):1	
+7	151(modern):1	240(real):1	481(job):1	516(design):1	533(renovate):1	759(bargain):1	2522(personality):1	
+7	3(clean):1	4(nice):1	13(bathroom):1	80(money):1	81(value):1	2991(sfo):1	3537(incl):1	
+4	147(business):1	267(traveler):1	2032(leisure):1	3764(alike):1	
+0	
+0	
+0	
+16	38(lot):1	46(free):1	56(morning):1	90(coffee):1	91(guest):1	97(internet):1	356(comment):1	397(forget):1	592(detail):1	1063(rooftop):1	1164(form):1	1170(speed):1	1378(approach):1	1413(trendy):1	1491(hip):1	5437(zen):1	
+
+<Author>A TripAdvisor Member
+<Content>Wouldn't Hesitate to Return Reservations were made via call to Personalities Hotels- all went off without a hitch. $85 + parking was better than I was expecting. Directions from the hotel website were right on, check-in was completed in 30 seconds for a weekend stay. For those concerned about the neighborhood- it's SF, get over panhandlers. Why pay more to be a block closer to Union Square? I wouldn't! Our corner room doubled as a fire escape, which allowed opening the window for fresh air. We were on 8th floor, so very little street noise- asked to be away from kids! The room itself was small, but no smaller than other large city hotels- if you want room to walk, I'd suggest taking the F down to Ferry Plaza. If ever I returm. I'll certainly check rates at this and other hotels under same ownership. If I was expecting the Hyatt, I'd have been disappointed, but, for someone who travels extensively for work, this beats many chains hands-down!  
+<Date>Jun 8, 2004
+<Rating>4	5	4	-1	4	-1	5	-1	
+<Aspects>
+12	62(expect):1	68(travel):1	154(disappoint):1	421(neighbourhood):1	442(beat):1	496(concern):1	627(chain):1	802(sf):1	924(hyatt):1	2178(extensively):1	5647(panhandler):1	10764(hands-down):1	
+5	28(close):1	42(pay):1	100(bloc):1	139(square):1	451(union):1	
+14	23(little):1	24(floor):1	35(street):1	94(noise):1	119(window):1	164(air):1	179(double):1	197(fresh):1	200(corner):1	201(kid):1	359(allow):1	1262(fire):1	1357(8th):1	1601(escape):1	
+7	7(walk):1	41(city):1	62(expect):1	66(park):1	452(suggest):1	515(plaza):1	1010(ferry):1	
+0	
+15	32(check):1	39(return):1	67(call):1	78(rate):1	156(reservation):1	172(weekend):1	262(website):1	286(check-in):1	395(direction):1	512(via):1	622(complete):1	902(hesitate):1	2522(personality):1	4318(ownership):1	4622(hitch):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Cheap and Funky! Just stayed at the Metropolis for 6 nights. As I was on a budget and this was my 4th visit to San Francisco, I needed to stay somewhere central and cheap. The Metropolis is 30 seconds walk to the bus/underground and 2 minutes to the famous cable cars. The drawback is that it is on the fringe of the Tenderloin (sfo's answer to skid row). The homeless situation is just getting worse in that city! But as long as you turn left when you go out the door, you are perfectly safe and very central. The rooms are small but not pokie and the decor is funky. Little extras such as a small gym, free coffe/wine in the evening, library and a tranquility room make this hotel an oasis in this dirty part of town. The staff are very helpful and mindful of your needs and concerns.  All in all, if you are on a budget (about $90 a night)but want somewhere you can relax and feel a bit pampered, I recommend this one!  
+<Date>May 11, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+24	2(night):2	15(recommend):1	34(feel):1	41(city):1	43(leave):1	50(bad):1	52(bit):1	54(door):1	137(safe):1	160(relax):1	168(central):1	429(budget):1	595(perfectly):1	669(answer):1	890(situation):1	1344(drawback):1	1567(homeless):1	1638(row):1	1815(pamper):1	2579(tenderloin):1	2991(sfo):1	6392(metropolis):1	7139(fringe):1	11537(skid):1	
+8	65(visit):1	143(cheap):2	168(central):1	177(san):1	355(francisco):1	429(budget):1	845(4th):1	1516(funky):1	
+2	269(decor):1	1516(funky):1	
+7	7(walk):1	29(minute):1	120(bus):1	121(car):1	484(cable):1	1296(famous):1	6392(metropolis):1	
+10	23(little):1	46(free):1	128(extra):1	239(town):1	323(dirty):1	523(gym):1	1383(oasis):1	1648(library):1	3297(coffe):1	3458(tranquility):1	
+4	0(staff):1	14(helpful):1	496(concern):1	8529(mindful):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Are we staying at the same place? I'm not sure that we have been all staying at the same place. We actually had a great time there. It certainly is not a 5 star, but rooms were clean and comfortable. Reception was friendly. And the neighbourhood was really quite fine! We walked home every night without the least discomfort - yes there is a semi-bad neighbourhood in one direction, but there is no need to go there, and the other way is the main tourist area. The fact that the Radisson and Hilton are only one block away should indicate that there is no problem with the neighbourhood. Yes, you can get better value for money in other cities, but San Francisco is very expensive, and considering that other people in our group were paying double for marginally better rooms, we seem to have done very well. I'd stay again.  
+<Date>May 7, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	5(time):1	100(bloc):1	113(fine):1	180(actually):1	421(neighbourhood):2	477(hilton):1	1776(indicate):1	1958(radisson):1	
+15	3(clean):1	25(comfortable):1	26(people):1	41(city):1	42(pay):1	80(money):1	81(value):1	103(star):1	124(expensive):1	177(san):1	179(double):1	248(consider):1	250(yes):1	355(francisco):1	5895(marginally):1	
+0	
+9	2(night):1	7(walk):1	112(main):1	141(home):1	209(tourist):1	250(yes):1	395(direction):1	421(neighbourhood):1	5766(discomfort):1	
+0	
+2	12(friendly):1	129(reception):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>The worst place I have ever stayed at It started out just fine. We were greeted by a nice receptionist who gave us early check in. What we were not told was that there were renovations taking place only two floors above us and that the noise level was horrendous. We also did not see the sign warning us about hazardous chemicals which may be harmful to your health and may cause birth defects during pregnancy until after we checked in. When we inquired about this at the front desk, the another receptionist told us her knew nothing of it. Also, the area is nasty and unsafe. The sink was clogged and a plumber was called. The water turned freezing cold when my husband was taking a hot shower. Now, even though I didn't expect much from a 2 star hotel, I didn't expect to be challenged by the assistant manager, when my issues were raised. The assistant manager challenged that the noise should not have been loud enough to be considered disruptive. He said he could not credit me back any money for my stay, but said he would have the general manager contact me. It's now been 5 days since I checked out and I have not heard from the general manager. The assistant manager had the nerve to offer me a third night for free after a paid two day stay. What makes him think I want to stay there again? Don't stay here. You'll regret it and possibly bear green 3 headed babies. Beware!  
+<Date>May 5, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	67(call):1	319(head):1	509(sink):1	737(beware):1	1005(green):1	1233(possibly):1	1304(baby):1	1410(regret):1	1639(nasty):1	1838(bear):1	1890(unsafe):1	3685(clog):1	8731(plumber):1	
+17	2(night):1	8(day):1	42(pay):1	46(free):1	50(bad):1	62(expect):2	89(offer):1	103(star):1	113(fine):1	165(start):1	258(manager):2	265(issue):1	532(third):1	1708(challenge):1	2055(raise):1	3044(assistant):2	4071(nerve):1	
+12	24(floor):1	57(water):1	61(shower):1	69(tell):1	94(noise):1	105(husband):1	114(hot):1	222(cold):1	306(level):1	687(renovation):1	1321(freeze):1	3140(horrendous):1	
+0	
+0	
+28	4(nice):1	8(day):1	31(front):1	32(check):3	36(desk):1	69(tell):1	80(money):1	94(noise):1	132(hear):1	248(consider):1	258(manager):3	415(greet):1	416(loud):1	449(sign):1	659(credit):1	679(warn):1	713(contact):1	855(receptionist):2	943(cause):1	1704(inquire):1	1708(challenge):1	1736(health):1	3044(assistant):1	4744(chemical):1	7318(birth):1	7540(disruptive):1	10492(hazardous):1	10740(defect):1	
+0	
+0	
+
+<Author>S0nal
+<Content>Das Preis- Leistungsverh盲ltnis passt perfekt!       Unser Zimmer  
+<Date>Oct 16, 2008
+<Rating>3	3	4	4	5	5	5	5	
+<Aspects>
+1	9279(zimmer):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

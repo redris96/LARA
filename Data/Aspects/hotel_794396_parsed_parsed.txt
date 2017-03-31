@@ -1,0 +1,462 @@
+<Author>MoshiCalifornia
+<Content>Perfect This is the most beautiful hotel that we were in Italy.The staff were so kind.The room was decorated awesome and perfectly clean.It was close to city center and train station.Just 5-10 minutes walk which is perfect.Absolutely I recommend this hotel and thanks a lot from hotel's staff.  
+<Date>Jan 5, 2009
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+3	45(beautiful):1	74(perfect):1	900(italy):1	
+0	
+4	3(clean):1	305(decorate):1	348(awesome):1	595(perfectly):1	
+8	7(walk):1	28(close):1	29(minute):1	41(city):1	74(perfect):1	82(station):1	101(center):1	182(train):1	
+0	
+5	0(staff):2	15(recommend):1	38(lot):1	189(absolutely):1	271(thank):1	
+0	
+0	
+
+<Author>ThetronLondon
+<Content>Cute Hotel La Venere We stayed at the Hotel Venere over Christmas with my parents on a recent trip to Florence. The location was awesome right down the road from the Duomo so you could easily walk everywhere. The staff were lovely - very helpful and always keen to assist you. Before we arrived we had not booked a Christmas lunch - we asked the staff and they recommended a traditional Tuscan restaurant and it was just perfect. Traditional food with other Italian families and the food was great. The rooms at the hotel were a good size and when you went out for dinner you returned to a little sign on the floor saying good night - something my parents loved. The hotel is very secure, as there are only a limited amount of rooms it feels more like a BB than a hotel and the breakfasts were nice. I would definitely recommend this hotel and would be keen to return to explore more of Florence!  
+<Date>Dec 29, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+13	15(recommend):1	33(trip):1	39(return):1	59(definitely):1	225(la):1	346(florence):2	594(explore):1	962(christmas):1	1064(recent):1	1197(parent):1	1202(cute):1	2641(keen):1	6954(venere):2	
+0	
+16	2(night):1	4(nice):1	6(breakfast):1	23(little):1	24(floor):1	34(feel):1	39(return):1	40(love):1	83(size):1	117(dinner):1	449(sign):1	510(limit):1	666(amount):1	1034(secure):1	1197(parent):1	2380(bb):1	
+6	1(location):1	7(walk):1	230(road):1	348(awesome):1	438(easily):1	981(duomo):1	
+0	
+5	0(staff):1	14(helpful):1	87(lovely):1	1265(assist):1	2641(keen):1	
+13	0(staff):1	10(restaurant):1	15(recommend):1	16(food):2	18(book):1	53(arrive):1	74(perfect):1	106(family):1	252(lunch):1	358(italian):1	962(christmas):1	1241(traditional):2	2855(tuscan):1	
+0	
+
+<Author>melsimp
+<Content>Perfect place to stay! I would recommend this property to anyone going to Florence. I was able to stay in a 6 person apartment with my family within walking distance of the train station and the center of town. Perfect location and a very nice property. The service was excellent as well.  
+<Date>Dec 25, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	74(perfect):1	
+0	
+0	
+14	1(location):1	4(nice):1	7(walk):1	74(perfect):1	82(station):1	101(center):1	106(family):1	115(distance):1	171(able):1	182(train):1	193(person):1	214(property):1	239(town):1	751(apartment):1	
+0	
+0	
+5	9(service):1	15(recommend):1	21(excellent):1	214(property):1	346(florence):1	
+0	
+
+<Author>SJLoh
+<Content>A pleasant stay       reception  
+<Date>Dec 9, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+2	129(reception):1	150(pleasant):1	
+0	
+0	
+
+<Author>maj36
+<Content>The worst part was leaving The friendly staff at the desk, the great breakfast, the beautiful rooms, and the price, nothing wasn't the best of my trip around Italy. I would go back to Florence just to stay here.  
+<Date>Nov 25, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+1	346(florence):1	
+0	
+0	
+0	
+0	
+10	0(staff):1	6(breakfast):1	12(friendly):1	19(price):1	33(trip):1	36(desk):1	43(leave):1	45(beautiful):1	50(bad):1	900(italy):1	
+0	
+0	
+
+<Author>AndrewCFJ
+<Content>Hotel La Venere in Florence, (Firenze), Italy, is a very pleasing hotel The staff are welcoming, friendly and professional.Hotel La Venere is located on the third floor of a building and is within easy walking distance of most of the main sights of Florence, as well as the main railway station.Our room was clean and aesthetic. The only problem was it overlooked the main road. The noise of traffic was an irritation when the window was open.A small bottle of water with a few biscuits and mini-chocolates was provided, which was a nice gesture.The breakfast was adequate - better than average would best describe it . There was just one choice of cereal, and the self-service selection (cold buffet) was generally rather limited, including the (lack of) choice of bread, but everything was well presented.We would stay here again should the opportunity arise.A COUPLE IN THEIR FIFTIES FROM LONDON, ENGLAND  
+<Date>Nov 19, 2008
+<Rating>4	3	4	4	4	5	3	-1	
+<Aspects>
+9	99(couple):1	112(main):1	230(road):1	260(overlook):1	697(london):1	1235(opportunity):1	1970(england):1	4522(arise):1	5461(fifty):1	
+0	
+6	3(clean):1	94(noise):1	119(window):1	486(traffic):1	5982(irritation):1	6290(aesthetic):1	
+20	4(nice):1	7(walk):1	24(floor):1	57(water):1	82(station):1	84(locate):1	93(easy):1	112(main):2	115(distance):1	135(build):1	153(provide):1	225(la):1	238(bottle):1	346(florence):1	411(sight):1	532(third):1	2002(railway):1	2733(gesture):1	2889(biscuit):1	6954(venere):1	
+0	
+10	0(staff):1	12(friendly):1	173(please):1	202(welcome):1	225(la):1	346(florence):1	501(professional):1	900(italy):1	3062(firenze):1	6954(venere):1	
+14	6(breakfast):1	71(include):1	77(buffet):1	107(choice):2	222(cold):1	227(average):1	333(selection):1	349(lack):1	390(adequate):1	497(bread):1	510(limit):1	529(cereal):1	955(describe):1	4857(self-service):1	
+0	
+
+<Author>TravelJunkieCDN
+<Content>Quaint Little Hotel This hotel was wonderful! The service was equally wonderful! The room was larger than what I expected...especially for Europe and for the price that we paid...it was spacious and clean! We entered the room with a bottle of wine and some snacks ready for us on the table...it was a nice treat. The staff was very helpful. They helped us book museum reservations and even suggested some places around Florence that we could visit. The continental breakfast was probably one of the better ones that we had during our two week stay in Italy. Access to Wi-Fi was an added bonus as it allowed us to check our emails in the comfort of our own room. The hotel was walking distance from the train station and to a lot of the major sites (ie. Accademia was only a 2minute walk). The only downside was the noise coming from the street below, but when you're tired from walking the whole day, you don't notice the noise as much. Overall it was a great hotel and would definitely recommend it to others.  
+<Date>Oct 29, 2008
+<Rating>4	5	4	4	4	5	5	4	
+<Aspects>
+6	15(recommend):1	23(little):1	48(wonderful):1	59(definitely):1	70(overall):1	1295(quaint):1	
+7	3(clean):1	19(price):1	42(pay):1	62(expect):1	111(spacious):1	126(especially):1	700(europe):1	
+8	32(check):1	159(access):1	166(own):1	351(add):1	359(allow):1	702(comfort):1	849(bonus):1	1827(wi-fi):1	
+22	7(walk):3	8(day):1	18(book):1	35(street):1	38(lot):1	65(visit):1	82(station):1	92(help):1	94(noise):2	115(distance):1	156(reservation):1	182(train):1	192(site):1	315(major):1	346(florence):1	354(notice):1	452(suggest):1	454(tire):1	507(museum):1	585(below):1	782(downside):1	2806(accademia):1	
+0	
+2	0(staff):1	14(helpful):1	
+16	4(nice):1	6(breakfast):1	9(service):1	48(wonderful):1	75(week):1	178(probably):1	229(table):1	238(bottle):1	251(wine):1	274(ready):1	320(treat):1	372(continental):1	406(snack):1	601(enter):1	900(italy):1	1782(equally):1	
+0	
+
+<Author>slickca21
+<Content>Great location, great staff, great hotel Great location in Florence. 5 mins or less to the Dumo and everything else. About a 12 min walk from the train station. Don't get fooled by the appearance of the building on the outside or in the lobby. Once you're on the floor where the hotel is, things are great. Great breakfast in the morning. There's a great all you can eat place on the street next to us. For 7 plus euros, you get lots. Ask the hote staff about it. Would recommend this hotel to anbody.  
+<Date>Oct 25, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	15(recommend):1	38(lot):1	170(else):1	203(plus):1	247(min):1	256(euro):1	
+0	
+1	24(floor):1	
+14	0(staff):1	1(location):2	7(walk):1	35(street):1	47(eat):1	55(lobby):1	82(station):1	98(outside):1	135(build):1	182(train):1	247(min):1	346(florence):1	2098(fool):1	2312(appearance):1	
+0	
+2	0(staff):1	5878(hote):1	
+2	6(breakfast):1	56(morning):1	
+0	
+
+<Author>AntigenBand
+<Content>Great location!       bedroom  
+<Date>Oct 18, 2008
+<Rating>4	3	4	4	5	4	4	-1	
+<Aspects>
+0	
+0	
+1	268(bedroom):1	
+1	1(location):1	
+0	
+0	
+0	
+0	
+
+<Author>somerset58
+<Content>Wonderful place to stay We loved our stay in the Hotel La Venere , the staff are all so helpful and happy. Breakfast is full of different choices which will suit every taste, its almost impossible to decide what to eat. The hotel is in a central position making it easy to get to the cathedral and baptisery. There are some good restaurants nearby and we would recommend Za Za near the market,the food is wonderful and has an excellent menu.We would definately stay in La Venere again and would like to thank Maria, Agnese and the happy chappy with glasses for making our stay so enjoyable.  
+<Date>Oct 9, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+8	155(happy):1	225(la):1	271(thank):1	327(glass):1	410(definately):1	567(enjoyable):1	1833(mare):1	6954(venere):1	
+7	6(breakfast):1	47(eat):1	107(choice):1	219(decide):1	439(taste):1	861(suit):1	1169(impossible):1	
+0	
+4	93(easy):1	168(central):1	1093(position):1	1552(cathedral):1	
+0	
+7	0(staff):1	14(helpful):1	40(love):1	48(wonderful):1	155(happy):1	225(la):1	6954(venere):1	
+10	10(restaurant):1	15(recommend):1	16(food):1	21(excellent):1	48(wonderful):1	102(near):1	232(nearby):1	264(market):1	423(menu):1	9888(za):2	
+0	
+
+<Author>traveller_shopper
+<Content>Excellent Value Excellent value....location was great; rooms were clean and fair size (bathroom was a bit small but not an issue); friendly staff; breakfast was included. We stayed there for two nights and would highly recommend it.  
+<Date>Oct 8, 2008
+<Rating>4	4	4	5	5	4	5	-1	
+<Aspects>
+3	2(night):1	15(recommend):1	138(highly):1	
+0	
+13	0(staff):1	1(location):1	3(clean):1	6(breakfast):1	12(friendly):1	13(bathroom):1	21(excellent):2	52(bit):1	71(include):1	81(value):2	83(size):1	265(issue):1	739(fair):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Palsoftravel
+<Content>A choice well made First off, we loved Florence, beautiful city!!!!!!We stayed for one night in this hotel during a week's tour around several italian cities. We booked the room direct throught the hotel web-site/email, and whilst we were happy having seen the reviews on this web-site, we were a little nervous.We thought this hotel was lovely and more than met our needs.First of all, to make the most of the city, we arrived by train in Florence and were at the hotel (only a 10 min easy walk from the station) before 11am. Despite check in being 2pm, the hotel were more than willing to let us enter our room and settle when we arrived which was much appreciated, they then presented us with some simple finger food to welcome us. Hotel staff were very pleasant and helpful throughout our short stay.The room itself was lovely, very clean and a good size. The bathroom was not quite so well designed, limited room for me (6ft plus) in between toilet/shower, and the shower was small. However, these are minor quibbles as I managed fine and all other facilities were present. Breakfast was basic but was fine, might have been nice to have more choice of cereal but otherwise met our needs again. The only slight reservation was the noise at night, although we were unlucky, around 3-4am there was a high performance motorbike using the straight road along the hotel for 'race practice' and the noise was difficult to ignore.Location wise, this hotel was excellent, within 5 minutes walk you are at the Duomo (one of those amazing 'wow' moments when you first see it) and it is a straight route from the hotel to the Duomo and then down to the Vecchio bridge, and this straight route provided an excellent compass point to find our way back to the hotel. As always with a city break, you'll walk your socks off seeing the sites, but make the effort its worth it.Good value for money hotel.  
+<Date>Oct 4, 2008
+<Rating>4	4	4	5	5	5	5	3	
+<Aspects>
+7	2(night):1	41(city):1	75(week):1	87(lovely):1	181(tour):1	196(meet):1	358(italian):1	
+14	4(nice):1	6(breakfast):1	40(love):1	41(city):1	45(beautiful):1	80(money):1	81(value):1	107(choice):2	113(fine):1	196(meet):1	346(florence):1	352(basic):1	508(otherwise):1	529(cereal):1	
+43	2(night):1	3(clean):1	13(bathroom):1	16(food):1	18(book):1	23(little):1	32(check):1	37(review):1	53(arrive):1	61(shower):1	83(size):1	87(lovely):1	94(noise):2	155(happy):1	156(reservation):1	202(welcome):1	203(plus):1	230(road):1	330(toilet):1	498(despite):1	500(appreciate):1	510(limit):1	516(design):1	572(difficult):1	601(enter):1	613(simple):1	803(direct):1	827(straight):1	877(whilst):1	1215(ignore):1	1297(slight):1	1408(nervous):1	1414(settle):1	2203(practice):1	2492(finger):1	2947(performance):1	3167(race):1	3952(unlucky):1	5085(throught):1	5758(web-site):2	7539(motorbike):1	7919(2pm):1	12397(6ft):1	
+32	1(location):1	7(walk):3	21(excellent):2	29(minute):1	41(city):2	53(arrive):1	82(station):1	93(easy):1	96(worth):1	113(fine):1	145(amaze):1	153(provide):1	182(train):1	192(site):1	211(facility):1	228(break):1	247(min):1	346(florence):1	645(manage):1	670(moment):1	720(minor):1	740(bridge):1	827(straight):2	862(wow):1	981(duomo):2	1017(effort):1	1035(route):2	1676(wise):1	1836(vecchio):1	3259(sock):1	3638(quibble):1	7969(11am):1	
+0	
+5	0(staff):1	14(helpful):1	144(short):1	150(pleasant):1	445(throughout):1	
+0	
+0	
+
+<Author>v08
+<Content>We Loved It! We booked this hotel based on all of the reviews I read here. I had done a lot of research and this hotel was the only one with great reviews across the board.We arrived a few hours early and had no problems checking in. We were pleasantly surprised to find out our room was upgraded to a larger room and a view of the duomo and street.The location was excellent, close to everything, easy to find and immaculately clean.The service was excellent. Thanks to all of the staff (Patricia, Maria, Renaldo, Agnese and I didn't get the name of the other lady there.) They were all extremely helpful and answered any questions we had. We also loved the fact that the hotel was 24/7.The continental breakfast was good and the cappuccino was delicious.Since I had read many reviews, we knew what to expect. So, we had no issues with the small elevator. We would absolutely stay at Hotel La Venere the next time we visit Florence and recommend it to all.  
+<Date>Sep 24, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+18	5(time):1	14(helpful):1	15(recommend):1	37(review):2	38(lot):1	40(love):2	62(expect):1	65(visit):1	88(read):1	110(extremely):1	189(absolutely):1	225(la):1	346(florence):1	394(question):1	600(board):1	669(answer):1	1024(research):1	6954(venere):1	
+0	
+6	17(view):1	35(street):1	163(upgrade):1	199(surprise):1	747(pleasantly):1	981(duomo):1	
+6	1(location):1	3(clean):1	21(excellent):1	28(close):1	93(easy):1	2084(immaculately):1	
+0	
+9	0(staff):1	32(check):1	53(arrive):1	60(hour):1	271(thank):1	295(name):1	521(lady):1	1833(mare):1	7365(patricia):1	
+12	6(breakfast):1	9(service):1	18(book):1	21(excellent):1	37(review):1	88(read):1	216(elevator):1	265(issue):1	284(base):1	372(continental):1	485(delicious):1	3821(cappuccino):1	
+0	
+
+<Author>Peepsluv
+<Content>Simple, affordable hotel solution I was very pleased with this hotel. it is a simple (if a bit long) walk from the train station located a few blocks from the Duomo and easy walking distance to the Academia. As other reviewers have mentioned, it is difficult to find as it is housed in the same building as the Leonardo DiVinci Museum and there is another hotel on the 2nd floor. A bit disconcerting landmark is the Serial Killer Museum just a few doors down! The elevator is only big enough for an average sized person with a 24 suitcase...no joke! Luckily, La Venere is on the 3rd floor so worst case scenario, having to lug your stuff up, is not too bad.The hotel is tiny. Our room was literaly four paces from the reception desk. But, the room was spacious by European standars and very clean. Our room was located on the street side which got a bit noisy when sirens went by but the A/C was powerful. The staff was always pleasant and helpful. A standard breakfast was included each morning and a wine hour between 7-8 each night. The heart of the city is within easy walking distance and we, as two single women, felt very safe walking to and from the hotel even at night.  
+<Date>Sep 22, 2008
+<Rating>4	4	4	4	3	4	3	-1	
+<Aspects>
+5	173(please):1	338(tiny):1	613(simple):1	1062(affordable):1	2800(solution):1	
+0	
+20	3(clean):1	24(floor):2	50(bad):2	111(spacious):1	135(build):1	225(la):1	244(mention):1	281(house):1	480(stuff):1	507(museum):1	564(reviewer):1	572(difficult):1	582(european):1	1200(luckily):1	1326(2nd):1	2097(3rd):1	2929(lug):1	5882(leonardo):1	6954(venere):1	7758(scenario):1	
+27	2(night):1	7(walk):4	34(feel):1	35(street):1	41(city):1	52(bit):3	54(door):1	82(station):1	84(locate):2	93(easy):2	100(bloc):1	115(distance):2	137(safe):1	182(train):1	217(noisy):1	304(single):1	450(heart):1	507(museum):1	566(woman):1	613(simple):1	981(duomo):1	2026(powerful):1	2282(siren):1	2797(landmark):1	4035(killer):1	5162(academia):1	5386(disconcert):1	
+0	
+7	0(staff):1	14(helpful):1	36(desk):1	129(reception):1	150(pleasant):1	2291(pace):1	11943(literaly):1	
+13	2(night):1	6(breakfast):1	56(morning):1	60(hour):1	71(include):1	83(size):1	130(standard):1	193(person):1	216(elevator):1	227(average):1	251(wine):1	974(suitcase):1	1175(joke):1	
+0	
+
+<Author>butterfly1621
+<Content>Lovely little gem We truly enjoyed our stay at this little hotel. We were six girls in an adorable one bedroom apartment. We were served Chianti on arrival, and even a plate with cheese and salaami. The reception was very helpful, the location was pretty good as well. I recommend this hotel for groups of six, the apartment is perfect, and very quiet, tucked into the top floor of the building.  
+<Date>Sep 22, 2008
+<Rating>5	5	4	3	4	4	4	3	
+<Aspects>
+0	
+0	
+11	15(recommend):1	24(floor):1	58(quiet):1	74(perfect):1	118(top):1	135(build):1	268(bedroom):1	625(girl):1	751(apartment):2	2091(tuck):1	4375(adorable):1	
+4	1(location):1	14(helpful):1	109(pretty):1	129(reception):1	
+0	
+0	
+10	23(little):2	51(enjoy):1	87(lovely):1	174(serve):1	224(arrival):1	441(cheese):1	476(truly):1	805(gem):1	1002(plate):1	5891(chianti):1	
+0	
+
+<Author>akinsrule
+<Content>Spotless, newer hotel I booked this hotel based on the favorable reviews, great rates, and its proximity to the train station. It's just a few blocks from all of the museums and river too. As others have written, don't be fooled by the entrance to the building. It is in the same building as another hotel, and a Leonardo DiVinci museum (which may be a temporary exhibit). In Italy, different hotels occupy different floors of the same building, so when you get to La Venere on the third floor, it's a lovely, newer hotel with flowers, a lush atmosphere and extremely helpful desk staff. Our room was sparkling clean and large. The bathroom was a bit small, but all new. At breakfast, they couldn't be nicer and willing to wait on you hand and foot. There's also a quiet, sitting/reading room apart from the main lobby, which we came back to to cool off and relax in before heading to an evening departure by train.  
+<Date>Sep 15, 2008
+<Rating>5	4	5	4	5	5	5	-1	
+<Aspects>
+0	
+0	
+14	3(clean):1	13(bathroom):1	52(bit):1	55(lobby):1	58(quiet):1	112(main):1	160(relax):1	182(train):1	278(cool):1	857(apart):1	1031(departure):1	1437(heading):1	1919(sparkle):1	8338(sitting):1	
+16	18(book):1	37(review):1	78(rate):1	82(station):1	100(bloc):1	135(build):1	182(train):1	284(base):1	507(museum):2	548(spotless):1	710(river):1	1114(proximity):1	3251(favorable):1	3770(temporary):1	4958(exhibit):1	5882(leonardo):1	
+0	
+23	0(staff):1	4(nice):1	6(breakfast):1	14(helpful):1	24(floor):2	36(desk):1	85(wait):1	87(lovely):1	110(extremely):1	135(build):2	225(la):1	344(write):1	377(hand):1	402(foot):1	414(atmosphere):1	490(entrance):1	532(third):1	778(flower):1	900(italy):1	1678(occupy):1	1937(lush):1	2098(fool):1	6954(venere):1	
+0	
+0	
+
+<Author>TravelPolly
+<Content>Absolute gem of a hotel! Small but spotlessly clean, beautifully decorated, helpful friendly staff, decent breakfast, in a great location. Trip was a birthday present for mother in her seventies, and I had spent ages going through reviews and prices. The fact that the hotel is on the third floor was not a problem at all - it meant that we couldn't get 3 people all with suitcases in the lift at one time but this really isn't the end of the world! If you have to have a ground floor reception area and a large lift, you book into a big, soulless international hotel chain and pay five times as much. If you want an intimate, family run hotel with loads of character, great staff, great value and in the centre of a unique Italian Renaissance city, this hotel is perfect, and I will definitely go back here with my husband. Beds were extremely comfortable and the bathroom was completely modern with plenty of space. My one and only criticism was that Via Cavour is a busy street, and I was kept awake a couple of nights due to traffic noise (7 ambulance sirens on the first night!). I will bring earplugs next time, but it definitely would not put me off at all (anyway, it's lovely to wake to the sound of the Duomo's bells clanging out)! It is a very short, easy walk to all the main sights, and within walking distance from the staion (although the tourists and cobbled streets make walking with a suitcase awkward).Food in restaurants is very overpriced (apart from pizzas). Best value for a cheap lunch is to buy a slice of pizza or a panini from a cafe and eat it sitting in one of the piazzas, or go to a 'Tavola Calda' where pre-cooked dishes like lasagne or risotto are heated up to order; normal cost about 5-7 euros for a portion. Restaurants south of the Arno are usually a bit cheaper - there's a good one in Santo Spirito (called something like the Albergo Santo Spirito - it is on its own in a corner on the opposite side of the square to the church).Overall I would definitely recommend this hotel for anyone wanting what most people expect in a city break - great value for money, in a fantastic location, with loads of character, and exceptionally clean. People with walking difficulties would probably not find it easy to get to, but I would imagine most of central Florence would be a problem anyway. Loved the hotel. loved the staff.  
+<Date>Sep 14, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+12	5(time):1	40(love):1	59(definitely):1	87(lovely):1	142(bring):1	409(sound):1	417(anyway):1	554(wake):1	801(bell):1	981(duomo):1	1771(earplugs):1	7180(clang):1	
+74	0(staff):1	1(location):1	3(clean):1	5(time):1	10(restaurant):1	15(recommend):1	18(book):1	19(price):1	24(floor):1	26(people):1	33(trip):1	37(review):1	41(city):2	42(pay):1	47(eat):1	52(bit):1	59(definitely):2	62(expect):1	64(spend):1	67(call):1	70(overall):1	74(perfect):1	80(money):1	81(value):3	86(fantastic):1	101(center):1	105(husband):1	106(family):1	129(reception):1	139(square):1	143(cheap):2	149(run):1	166(own):1	169(sit):1	175(cost):1	200(corner):1	228(break):1	252(lunch):1	256(euro):1	275(cafe):1	280(buy):1	358(italian):1	399(usually):1	505(age):1	539(heat):1	591(lift):1	627(chain):1	678(pizza):1	706(grind):1	765(birthday):1	769(south):1	783(opposite):1	816(dish):1	878(normal):1	886(load):2	903(international):1	1027(unique):1	1049(character):2	1242(exceptionally):1	1359(mother):1	1450(portion):1	1731(church):1	1812(intimate):1	2024(slice):1	2028(renaissance):1	2117(arno):1	3235(santo):2	6621(soulless):1	7004(risotto):1	8464(albergo):1	9746(panini):1	10475(seventy):1	10517(lasagne):1	11193(piazzas):1	
+26	0(staff):1	1(location):1	3(clean):1	5(time):1	6(breakfast):1	11(bed):1	12(friendly):1	13(bathroom):1	14(helpful):1	24(floor):1	25(comfortable):1	26(people):1	110(extremely):1	151(modern):1	158(plenty):1	210(space):1	246(mean):1	257(decent):1	272(world):1	305(decorate):1	532(third):1	542(completely):1	591(lift):1	771(beautifully):1	974(suitcase):1	1094(spotlessly):1	
+31	2(night):2	7(walk):4	26(people):1	35(street):2	93(easy):2	94(noise):1	99(couple):1	112(main):1	115(distance):1	144(short):1	168(central):1	178(probably):1	209(tourist):1	220(busy):1	259(due):1	346(florence):1	411(sight):1	417(anyway):1	486(traffic):1	512(via):1	733(imagine):1	974(suitcase):1	1494(awake):1	1777(difficulty):1	2049(criticism):1	2282(siren):1	2906(awkward):1	4240(ambulance):1	6989(cobble):1	7169(cavour):1	10720(staion):1	
+0	
+2	0(staff):1	40(love):1	
+7	10(restaurant):1	16(food):1	678(pizza):1	727(overprice):1	805(gem):1	857(apart):1	1250(absolute):1	
+0	
+
+<Author>nytonc2007
+<Content>Stay away Very creepy hotel. It's in an office building on part of the 3rd floor and very difficult to find. There were two ways to access the hotel. The first was up a very dark staircase; the second via the smallest elevator we've ever seen in Europe--roughly 3 feet by 4 feet. We decided to walk the stairs without bringing up our luggage to check it out and things didn't get any better. The feeling we got was uncomfortable. I asked for them to cancel the reservation without a penalty and they insisted they wouldn't do it. We were forced to take a room at another hotel and therefore pay double that night. Stay away!  
+<Date>Sep 10, 2008
+<Rating>1	1	1	2	1	1	2	1	
+<Aspects>
+3	34(feel):1	856(uncomfortable):1	3499(creepy):1	
+4	2(night):1	42(pay):1	179(double):1	1550(force):1	
+11	7(walk):1	24(floor):1	32(check):1	135(build):1	142(bring):1	219(decide):1	249(luggage):1	568(stair):1	572(difficult):1	792(office):1	2097(3rd):1	
+0	
+0	
+4	156(reservation):1	1065(cancel):1	1495(insist):1	6055(penalty):1	
+7	216(elevator):1	402(foot):2	459(dark):1	512(via):1	700(europe):1	2119(staircase):1	3196(roughly):1	
+1	159(access):1	
+
+<Author>jchang77
+<Content>Excellent stay We loved our stay at Hotel La Venere. The location is perfect, very close to the best museums and restaurants. The room we stayed in was decorated very elegantly and though it was small, it was very clean and modern. The breakfast spread was amazing and we got a nice chilled bottle of wine upon our arrival. The staff was extremely friendly and helpful in navigating us around the city. Would definitely stay there again!  
+<Date>Sep 9, 2008
+<Rating>5	5	4	5	5	5	5	3	
+<Aspects>
+5	21(excellent):1	40(love):1	59(definitely):1	225(la):1	6954(venere):1	
+0	
+4	3(clean):1	151(modern):1	305(decorate):1	4493(elegantly):1	
+5	1(location):1	10(restaurant):1	28(close):1	74(perfect):1	507(museum):1	
+0	
+6	0(staff):1	12(friendly):1	14(helpful):1	41(city):1	110(extremely):1	2252(navigate):1	
+8	4(nice):1	6(breakfast):1	145(amaze):1	224(arrival):1	238(bottle):1	251(wine):1	1203(spread):1	1397(chill):1	
+0	
+
+<Author>sophia70
+<Content>excellent hotel What a fantastic hotel! The location was excellent, the rooms were clean and bright, the bathroom was big and clean, the breakfast was very good and the staff were all friendly and helpful!I would definately recommand it to anyone going to Florence and when I go back I will definately book with them again!  
+<Date>Sep 4, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+2	21(excellent):1	86(fantastic):1	
+0	
+9	0(staff):1	1(location):1	3(clean):2	6(breakfast):1	12(friendly):1	13(bathroom):1	14(helpful):1	21(excellent):1	880(bright):1	
+0	
+0	
+0	
+4	18(book):1	346(florence):1	410(definately):2	5778(recommand):1	
+0	
+
+<Author>MrsRuperton
+<Content>Great Family Room We were thrilled with the service and accommodations at the Hotel Venere. The family room is located just off the reception area (great when you have a ton of bags) and roomy enough for the four of us. To be greeted with a bottle of wine and a plate of snacks was a lovely touch and appreciated after a days travel. Breakfast was very good with fresh fruit, cereals, yogurt, bread and a great cappucino/espresso for us and creamy hot chocolate for the children. We will definately return to the Hotal Venere.  
+<Date>Sep 4, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+4	39(return):1	410(definately):1	6954(venere):1	8943(hotal):1	
+5	9(service):1	106(family):1	721(accommodation):1	1822(thrill):1	6954(venere):1	
+6	84(locate):1	106(family):1	129(reception):1	290(bag):1	967(ton):1	1353(roomy):1	
+0	
+0	
+0	
+21	6(breakfast):1	8(day):1	68(travel):1	87(lovely):1	114(hot):1	197(fresh):1	215(fruit):1	238(bottle):1	251(wine):1	277(child):1	279(touch):1	406(snack):1	415(greet):1	497(bread):1	500(appreciate):1	529(cereal):1	632(chocolate):1	927(yogurt):1	1002(plate):1	4178(cappucino):1	8186(creamy):1	
+0	
+
+<Author>LydiaPennsylvania
+<Content>A perfect location, a beautiful room. This is a perfectly lovely small hotel. The staff is friendly and helpful andtsome staff speak English. The bathroom was extremely modern and the room was very nice. The service was excellent. We were greeted upon our arrivalwith a bottle of wine and a plate of Tuscan snacks. Breakfast,served in a small breakfast room, was very pleasant. The location is spectacular - just a short walk from the Academia, the Duomo and other museums and historic sites. The concierge directed us to a good Tuscan restaurant and directed us to all the sites we wished to visit. It was great to have 24 hour concierge service. Staying at La Venere made our visit to Florence fun and relaxing. The only small distraction from this beautiful hotel is that it is located on the third floor and the entrance to the building, the staircase and the tiny elevator do not represent the hotel well. However, when the elevator door opens on the third floor, you are in another world! I would definitely stay here again.  
+<Date>Aug 13, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+7	59(definitely):1	65(visit):1	160(relax):1	176(fun):1	225(la):1	346(florence):1	6954(venere):1	
+0	
+17	1(location):1	4(nice):1	13(bathroom):1	24(floor):1	45(beautiful):2	74(perfect):1	84(locate):1	110(extremely):1	135(build):1	151(modern):1	216(elevator):1	338(tiny):1	490(entrance):1	532(third):1	2119(staircase):1	2535(represent):1	6578(distraction):1	
+17	1(location):1	7(walk):1	10(restaurant):1	65(visit):1	87(lovely):1	144(short):1	192(site):2	204(concierge):1	384(wish):1	507(museum):1	595(perfectly):1	656(spectacular):1	803(direct):2	981(duomo):1	1274(historic):1	2855(tuscan):1	5162(academia):1	
+0	
+8	0(staff):2	9(service):1	12(friendly):1	14(helpful):1	60(hour):1	127(speak):1	152(english):1	204(concierge):1	
+16	6(breakfast):2	9(service):1	21(excellent):1	24(floor):1	54(door):1	150(pleasant):1	174(serve):1	216(elevator):1	238(bottle):1	251(wine):1	272(world):1	406(snack):1	415(greet):1	532(third):1	1002(plate):1	2855(tuscan):1	
+0	
+
+<Author>midnightbleu
+<Content>Clean and cosy Excellent location, small and cosy, very clean, a place with a character. Very helpful staff. Wonderful experience for a first visit to Florence, we enjoyed it a lot. Delicious coffee, breakfast offer could have more variety especially if one stays longer.  
+<Date>Jul 15, 2008
+<Rating>5	4	5	5	5	5	4	5	
+<Aspects>
+0	
+6	38(lot):1	44(experience):1	48(wonderful):1	51(enjoy):1	65(visit):1	346(florence):1	
+0	
+5	1(location):1	3(clean):2	21(excellent):1	749(cozy):2	1049(character):1	
+0	
+2	0(staff):1	14(helpful):1	
+6	6(breakfast):1	89(offer):1	90(coffee):1	126(especially):1	413(variety):1	485(delicious):1	
+0	
+
+<Author>Savtravler
+<Content>Nice Find in Florence Excellent staff, very friendly and helpful. Nearly new so clean and bright. VGood A/C. Good size bed, not so comfortable though. 'Junior' double room quite small. Bathroom V functional but VERY SMALL. Street location at first a tiny bit off putting, however good for easy walking everywhere. Some night time street noise.  
+<Date>Jun 30, 2008
+<Rating>4	4	3	2	4	5	5	-1	
+<Aspects>
+0	
+0	
+7	11(bed):1	13(bathroom):1	25(comfortable):1	83(size):1	179(double):1	964(junior):1	1348(functional):1	
+9	1(location):1	2(night):1	5(time):1	7(walk):1	35(street):2	52(bit):1	93(easy):1	94(noise):1	338(tiny):1	
+3	3(clean):1	880(bright):1	896(nearly):1	
+6	0(staff):1	4(nice):1	12(friendly):1	14(helpful):1	21(excellent):1	346(florence):1	
+0	
+0	
+
+<Author>BruschettaLover
+<Content>Great hotel with excellent service! My boyfriend and I, both in our mid-20s, had a great 4-night stay at La Venere. Right from the check-in we found the service to be excellent - friendly and warm, but also professional and efficient. Even the cleaning staff were always polite and cheerful. In addition, the front desk staff made reservations for us at the Uffizzi and Accademia galleries, saving us a long wait in line. Our room was very clean and comfortable, though it was quite small. The private bathroom, however, was large by European standards as was the shower. The water pressure was good and there was always hot water. Everything was bright and new, and the bathroom was cleaned every day. The air conditioning was a welcome luxury as the windows cannot be opened for ventilation. Breakfast was very tasty - I enjoyed a cappuccino every morning, and there was a nice selection of fresh breads and cold cuts every day. Fruit, jams, cereal, and yogurt also made up the spread. The hotel was excellently located - it was a 5 minute walk to the Duomo in one direction, and a 5 minute walk to the Accademia gallery in another. The train station is also only about a 15 minute walk away. All the main sites of Florence were easily within walking distance.The excellent location and warm service will make us recommend this to others and we would stay here again!  
+<Date>Jun 25, 2008
+<Rating>4	4	4	5	5	5	5	4	
+<Aspects>
+7	57(water):2	114(hot):1	225(la):1	686(pressure):1	763(boyfriend):1	6619(4-night):1	6954(venere):1	
+0	
+15	3(clean):2	8(day):1	13(bathroom):2	25(comfortable):1	61(shower):1	119(window):1	130(standard):1	164(air):1	202(welcome):1	263(condition):1	437(luxury):1	492(private):1	582(european):1	880(bright):1	2667(ventilation):1	
+20	1(location):1	7(walk):4	9(service):1	15(recommend):1	21(excellent):1	29(minute):3	82(station):1	84(locate):1	112(main):1	115(distance):1	182(train):1	192(site):1	236(warm):1	346(florence):1	395(direction):1	438(easily):1	981(duomo):1	1794(gallery):1	2806(accademia):1	4100(excellently):1	
+4	0(staff):1	3(clean):1	422(polite):1	1720(cheerful):1	
+18	0(staff):1	9(service):1	12(friendly):1	21(excellent):1	31(front):1	36(desk):1	85(wait):1	156(reservation):1	188(line):1	236(warm):1	286(check-in):1	401(efficient):1	425(save):1	501(professional):1	918(addition):1	1794(gallery):1	2806(accademia):1	6932(uffizzi):1	
+19	4(nice):1	6(breakfast):1	8(day):1	9(service):1	21(excellent):1	51(enjoy):1	56(morning):1	197(fresh):1	215(fruit):1	222(cold):1	333(selection):1	497(bread):1	529(cereal):1	873(cut):1	927(yogurt):1	984(tasty):1	1203(spread):1	1614(jam):1	3821(cappuccino):1	
+0	
+
+<Author>webmocker
+<Content>Great little hotel with friendly staff. Sure, the rooms are small, and the beds hard compared to home, but it was clean, air conditioned, and perfectly situated for walking to all the must see Florence sights. The staff was friendly and helpful.Breakfast was more than adequate, less than amazing. Other reviews cover the details.Price was great for Florence, but by no means cheap if you are exchanging dollars for euros.Getting there: 10-15 minute crowded walk from SMN (main train station), and on arrival, take the lift or walk 87 steps to the 5th floor front door, one floor above another hotel.Florence in general: If you feel a bit overwhelmed by the city, take the bus to Fiesole, which passes by the hotel on Via Cavour. It is a roughly 30 minute ride for a great view of the city and a cute town to walk around. You can buy tickets on the bus for EUR 2.00 or at the train station or perhaps elsewhere for EUR 1.20. We found a day and a half in beautiful, crowded, noisy Florence to be plenty, and were delighted to make our way to Riomaggiore in Cinque Terre, where relaxation is an art form.  
+<Date>Jun 24, 2008
+<Rating>4	4	4	4	5	5	5	-1	
+<Aspects>
+3	37(review):1	552(cover):1	592(detail):1	
+7	19(price):1	143(cheap):1	246(mean):1	256(euro):1	346(florence):1	430(dollar):1	1514(exchange):1	
+23	3(clean):1	7(walk):1	8(day):1	11(bed):1	45(beautiful):1	141(home):1	158(plenty):1	162(hard):1	164(air):1	217(noisy):1	263(condition):1	283(half):1	313(crowd):1	346(florence):2	381(compare):1	411(sight):1	574(situate):1	595(perfectly):1	789(art):1	1025(delight):1	1164(form):1	1662(relaxation):1	8892(terre):1	
+33	7(walk):3	17(view):1	24(floor):2	29(minute):2	31(front):1	34(feel):1	41(city):2	52(bit):1	54(door):1	82(station):2	112(main):1	120(bus):2	182(train):2	218(ride):1	224(arrival):1	239(town):1	280(buy):1	313(crowd):1	346(florence):1	366(step):1	400(pass):1	512(via):1	591(lift):1	621(ticket):1	646(elsewhere):1	839(5th):1	1202(cute):1	1992(overwhelm):1	3084(eur):2	3196(roughly):1	6901(smn):1	7169(cavour):1	9090(fiesole):1	
+0	
+4	0(staff):2	12(friendly):2	14(helpful):1	23(little):1	
+3	6(breakfast):1	145(amaze):1	390(adequate):1	
+0	
+
+<Author>la_sposaNY
+<Content>Great Hotel and Staff We stayed at this hotel for a part of our honeymoon. Upon arrival we were greeted with a bottle of Prosecco, chocolates, roses and a lovely note from the management. The hotel is located on the third floor of the building. They are small and intimate and have only ten rooms. The rooms are nicely decorated and very clean with comfortable beds. All of the staff were very nice and helpful from the housekeeping staff to the management. Breakfast was plentiful including fresh cappucino, pastries, breads, cheeses and yogurt. The hotel is conveniently located minutes from the Duomo. The only negative to this location is the street noise at night. We enjoyed are stay at Hotel La Venere.  
+<Date>Jun 2, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+3	51(enjoy):1	225(la):1	6954(venere):1	
+2	0(staff):1	502(honeymoon):1	
+10	3(clean):1	11(bed):1	24(floor):1	25(comfortable):1	84(locate):1	135(build):1	305(decorate):1	404(nicely):1	532(third):1	1812(intimate):1	
+9	1(location):1	2(night):1	29(minute):1	35(street):1	84(locate):1	94(noise):1	282(negative):1	981(duomo):1	1070(conveniently):1	
+0	
+13	0(staff):2	4(nice):1	14(helpful):1	87(lovely):1	224(arrival):1	238(bottle):1	297(note):1	367(housekeeping):1	415(greet):1	525(management):2	632(chocolate):1	4777(rose):1	7160(prosecco):1	
+9	6(breakfast):1	71(include):1	197(fresh):1	441(cheese):1	497(bread):1	652(pastry):1	927(yogurt):1	1039(plentiful):1	4178(cappucino):1	
+0	
+
+<Author>notariogc
+<Content>The kindest staff ever...! Hotel La Venere is a stone's throw from the Cathedral (Il Duomo), which basically means that you can reach all the interesting places in less than 10 min. We were quite scared because of some comments we have read about hotels in Florence, but definitely they do not apply to this hotel. Rooms, although not huge in space, are cozy and extremely clean, with your own, pristine bathroom. The whole hotel has been refurbished recently, so everything looks new. The breakfast was good, including freshly prepared coffee on request!But the best bit is the staff. Both Patricia and Rolando were not only friendly, but also extremely helpful in giving us directions and advice or in dealing with problems that we had with our pre-booked tickets for the Uffizi gallery. Very good experience.If you go to Florence, I would really recommend this hotel as a very safe bet.Miguel  
+<Date>May 29, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+23	15(recommend):1	20(look):1	59(definitely):1	88(read):1	137(safe):1	225(la):1	246(mean):1	247(min):1	322(recently):1	346(florence):2	356(comment):1	790(basically):1	851(reach):1	917(throw):1	981(duomo):1	1253(refurbish):1	1394(stone):1	1552(cathedral):1	1711(scare):1	1821(bet):1	2954(apply):1	4810(miguel):1	6954(venere):1	
+1	44(experience):1	
+8	3(clean):1	13(bathroom):1	110(extremely):1	133(huge):1	166(own):1	210(space):1	749(cozy):1	2981(pristine):1	
+0	
+0	
+2	0(staff):2	52(bit):1	
+18	6(breakfast):1	12(friendly):1	14(helpful):1	71(include):1	90(coffee):1	110(extremely):1	140(deal):1	148(request):1	395(direction):1	460(prepare):1	575(advice):1	621(ticket):1	1775(freshly):1	1794(gallery):1	1940(uffizi):1	4507(pre-booke):1	7365(patricia):1	10073(rolando):1	
+0	
+
+<Author>shelru
+<Content>wonderful little hotel My sister and I stayed at the hotel for a few nights just prior to the Memorial Day weekend, and I have to say it was completely lovely - a wonderful experience. And I can be picky about hotels.The staff were sweet as can be. Our room was VERY spacious. Typically in Europe, I have found rooms to be small, but this was like a good sized US hotel room. Our room overlooked Via Cavour, so there was some noise with the Scooters, which anyone who's visited Italy knows of their prolific presence and noise. However, with the window and the drapes shut, the noise blocked out. Plus, with the fan from the AC on (you can request the controller and set it however you want), we were not aware of it at all. There are rooms that don't outward face, I think, but we liked the window and the ability to open it onto the street.The breakfast was basic and okay - cappacino very good, and the room was nicely situated, as was their small reading room just down a small flight of stairs.The bathroom and room was very clean, and the cable TV was nice to just get a shot of CNN after two weeks of being out of touch with US and global events and politics (despite being Italian in heritage, our grasp of the language is minimal, just enough for basic communication - which was not a problem at all as the front desk staff was all well versed in English).I just hope as more people go here that the prices don't increase because it was one of the more affordable (if the dollar can be considered affordable right now) options in Florence. The location may have a little to do with that, but Florence is so teeny that everything was at most ~15 minutes away and it was just around the corner from the Accademia (David) and one of the best Gelato places in town.I completely recommend it, but I hope it stays on the QT. I like that it's a hidden gem!  
+<Date>May 28, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+4	15(recommend):1	328(hope):1	542(completely):1	926(picky):1	
+20	2(night):1	8(day):1	19(price):1	23(little):1	26(people):1	44(experience):1	48(wonderful):2	87(lovely):1	172(weekend):1	248(consider):1	328(hope):1	336(option):1	346(florence):1	430(dollar):1	542(completely):1	637(prior):1	892(sister):1	1062(affordable):2	2548(memorial):1	2812(increase):1	
+51	0(staff):1	3(clean):1	4(nice):1	6(breakfast):1	13(bathroom):1	31(front):1	35(street):1	36(desk):1	65(visit):1	75(week):1	83(size):1	88(read):1	94(noise):3	111(spacious):1	116(tv):1	119(window):2	152(english):1	233(flight):1	260(overlook):1	279(touch):1	352(basic):2	358(italian):1	404(nicely):1	453(okay):1	484(cable):1	498(despite):1	512(via):1	568(stair):1	574(situate):1	698(language):1	700(europe):1	900(italy):1	1086(shut):1	1106(event):1	1615(minimal):1	1778(shoot):1	1898(block):1	1994(typically):1	2101(cnn):1	2153(communication):1	2501(drape):1	2753(ability):1	3096(presence):1	4566(scooter):1	5413(heritage):1	6450(grasp):1	7169(cavour):1	7838(outward):1	7887(global):1	9610(versed):1	12192(cappacino):1	
+10	1(location):1	23(little):1	29(minute):1	200(corner):1	239(town):1	346(florence):1	1956(david):1	2806(accademia):1	5093(gelato):1	5377(teeny):1	
+0	
+9	0(staff):1	148(request):1	203(plus):1	234(set):1	661(fan):1	832(aware):1	950(sweet):1	956(ac):1	10804(controller):1	
+2	805(gem):1	1195(hide):1	
+0	
+
+<Author>Travel_Qu33n
+<Content>Great friendly hotel My husband and I just came back from a 2nights stay at Hotel La Venere and very happy with it. The hotel is very conveniently located in the city. It's close to Florence SMN station and other tourist attractions. Everything is within walking distance. The furthest would be Piazzale Michelangelo (approx 30mins walk). Room is very clean and more than adequate. The only downside is the size. We stayed at one of the French room and there's hardly space to move around in the room. Room can get quite hot, however there's an AC which is very helpful. There was a flat screen TV in the room. The hotel is 24hours staffed. All of the receptionists were very friendly and helpful, and they all speak english. They helped us with recommending places to visit, gave us a map, and looked up intercity train  bus timetables. Breakfast was included in the price that we paid for. It was a cold breakfast, pretty basic, but adequate. Toasts, croissants, cold meat, fruits, yogurt, cereal and juices. Coffee is made using a proper machine, thus it was excellent. Overall experience was great. The only concern that we had was the fact that it's a small family hotel, so we could hear noises from the breakfast room and reception area. Thankfully, there werent many guests at the time, but otherwise we might have problem sleeping.  
+<Date>May 9, 2008
+<Rating>4	4	4	5	4	3	5	3	
+<Aspects>
+5	12(friendly):1	105(husband):1	155(happy):1	225(la):1	6954(venere):1	
+6	6(breakfast):1	19(price):1	42(pay):1	44(experience):1	70(overall):1	71(include):1	
+26	3(clean):1	5(time):1	6(breakfast):1	14(helpful):1	83(size):1	91(guest):1	94(noise):1	104(sleep):1	106(family):1	114(hot):1	116(tv):1	129(reception):1	132(hear):1	207(move):1	210(space):1	254(french):1	390(adequate):1	496(concern):1	508(otherwise):1	526(screen):1	535(flat):1	782(downside):1	956(ac):1	985(hardly):1	1893(thankfully):1	3037(werent):1	
+24	7(walk):2	15(recommend):1	20(look):1	28(close):1	41(city):1	65(visit):1	82(station):1	84(locate):1	92(help):1	115(distance):1	120(bus):1	182(train):1	209(tourist):1	346(florence):1	350(attraction):1	724(map):1	1070(conveniently):1	1423(approx):1	3243(michelangelo):1	5747(30min):1	6466(timetable):1	6901(smn):1	6967(piazzale):1	12254(intercity):1	
+0	
+7	0(staff):1	12(friendly):1	14(helpful):1	127(speak):1	152(english):1	855(receptionist):1	8004(24hours):1	
+16	6(breakfast):1	21(excellent):1	90(coffee):1	109(pretty):1	215(fruit):1	222(cold):2	352(basic):1	362(juice):1	390(adequate):1	493(machine):1	529(cereal):1	677(meat):1	875(toast):1	927(yogurt):1	1004(croissant):1	1719(proper):1	
+0	
+
+<Author>notdim
+<Content>very clean good friendly service, knowledgable staff on desk, small and cosy, good breakfast, very clean (only open 6 months though), good location  
+<Date>May 7, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+10	0(staff):1	1(location):1	3(clean):2	6(breakfast):1	9(service):1	12(friendly):1	36(desk):1	388(month):1	749(cozy):1	1160(knowledgeable):1	
+0	
+0	
+0	
+0	
+
+<Author>nadamadalie
+<Content>nice little hotel, great location My friend and I stayed at the Hotel La Venere for 5 nights in mid-March. We had a really nice little room, well furnished and comfortable with a large bathroom. The hotel appears to be brand new - all the furnishings are nice and modern and the bed is comfortable.A nice breakfast of cereal, toast, juice, coffee, yogurt, cheese  cold cuts was included and the breakfast room attendant was absolutely lovely.All of the staff was very friendly and conversant in English, and gave us good tips on where to go and what to see. They looked up train schedules for us and made reservations at the Uffizi.The only negative of this hotel was that the night manager chainsmoked ALL NIGHT LONG, and the smoke seeped into our room. We had to sleep with the windows open and even then, we'd get a mouthful of smoke if we turned over in the bed. This is despite all the no smoking signs throughout the hotel.The hotel is in a great location, right down the street from the Galleria D'Accademia and the Duomo. It's on a busy street but the rooms are set back from the street so they are quiet. The hotel has an elevator which is uncommon for Italy.  
+<Date>Mar 21, 2008
+<Rating>4	4	2	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+21	2(night):2	4(nice):2	11(bed):2	13(bathroom):1	23(little):1	25(comfortable):2	35(street):2	58(quiet):1	104(sleep):1	119(window):1	151(modern):1	220(busy):1	234(set):1	258(manager):1	282(negative):1	468(smoke):2	541(appear):1	787(furnish):1	870(furnishings):1	883(brand):1	7068(seep):1	
+16	1(location):2	2(night):1	4(nice):1	20(look):1	23(little):1	35(street):1	146(friend):1	156(reservation):1	182(train):1	225(la):1	981(duomo):1	1196(schedule):1	1940(uffizi):1	3415(galleria):1	6954(venere):1	10158(mid-march):1	
+4	445(throughout):1	449(sign):1	468(smoke):1	498(despite):1	
+4	0(staff):1	12(friendly):1	152(english):1	194(tip):1	
+17	4(nice):1	6(breakfast):2	71(include):1	87(lovely):1	90(coffee):1	189(absolutely):1	216(elevator):1	222(cold):1	362(juice):1	441(cheese):1	529(cereal):1	873(cut):1	875(toast):1	900(italy):1	927(yogurt):1	1446(attendant):1	5458(uncommon):1	
+0	
+
+<Author>stewy85
+<Content>great place! This is a wonderful hotel. It is right in the middle of Florence and it's at walking distance from the Duomo and any other important monument that you may want to see. It's a 3 stars, but it has all that you need: like satellite tv and wireless internet, which is nice if you have to check your email because those internet points in Florence can get really expensive. The personal was really great and they helped me with all of my question, especially about the city and how to get to places. I strongly suggest this hotel if you are looking for a nice place to stay that is right next to everything!  
+<Date>Dec 5, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+10	4(nice):1	20(look):1	41(city):1	48(wonderful):1	92(help):1	126(especially):1	394(question):1	452(suggest):1	711(personal):1	1386(strongly):1	
+9	4(nice):1	32(check):1	97(internet):2	103(star):1	116(tv):1	124(expensive):1	346(florence):1	717(wireless):1	3260(satellite):1	
+0	
+6	7(walk):1	115(distance):1	325(middle):1	346(florence):1	981(duomo):1	4752(monument):1	
+0	
+0	
+0	
+0	
+

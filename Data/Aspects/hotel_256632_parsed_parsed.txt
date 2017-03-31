@@ -1,0 +1,672 @@
+<Author>snifter
+<Content>Really nice place       Bedroom 1  
+<Date>Jan 1, 2009
+<Rating>5	5	5	5	5	3	3	3	
+<Aspects>
+0	
+0	
+2	4(nice):1	268(bedroom):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>RebeccaAndDavid
+<Content>No fuss convenience       Outlook from Mantra Bond Street  
+<Date>Dec 13, 2008
+<Rating>4	4	3	5	4	5	5	3	
+<Aspects>
+0	
+0	
+0	
+5	35(street):1	925(convenience):1	2205(fuss):1	4205(bond):1	4959(outlook):1	
+0	
+0	
+0	
+0	
+
+<Author>SDPadres
+<Content>Mantra 2 Bond (private apartment) We stayed in a private apartment in the Mantra 2 Bond located in the CBD of Sydney for a week in Aug. 08. (Through Apt.Plus) We had a one bedroom place, not a studio for a family of 3. It had a complete kitchen, and washer dryer in the unit. The rooms were spacious and quiet. We did not have access to the daily maid service, though we did ask the front desk questions and they were gracious and helpful. The roof top pool was a tad chilly for an adult but my daughter had fun in it even though its small. There is a jacuzzi and a small work out room. The location is ideal. Less than 50 meters from the nearest underground train station and 5 minutes walk to the Circular Quay and the Rocks area. Within the metro station there was a grocery store and more eating areas than we could count. After spending a week being a tourist I was glad of the location, it was a pleasure to get up in the morning and be able to do a quick jog through the botanical gardens, or over the bridge without any effort. Talking with others who were staying at the hotel they were quite happy with the facility. Price was $1050AU for the week for us. (plus cleaning) Very nice over all stay.  
+<Date>Aug 30, 2008
+<Rating>4	4	3	5	4	4	-1	5	
+<Aspects>
+1	4588(apt):1	
+2	19(price):1	75(week):1	
+20	58(quiet):1	75(week):1	84(locate):1	106(family):1	111(spacious):1	203(plus):1	268(bedroom):1	461(kitchen):1	492(private):2	622(complete):1	751(apartment):2	808(jacuzzi):1	809(sydney):1	980(unit):1	1209(dryer):1	1445(studio):1	2404(aug):1	2602(washer):1	2731(cbd):1	4205(bond):2	
+41	1(location):2	7(walk):1	22(pool):1	29(minute):1	47(eat):1	56(morning):1	64(spend):1	75(week):1	82(station):2	102(near):1	118(top):1	155(happy):1	171(able):1	176(fun):1	182(train):1	209(tourist):1	211(facility):1	235(metro):1	255(store):1	299(quick):1	310(garden):1	371(talk):1	467(daughter):1	545(ideal):1	556(adult):1	619(glad):1	636(roof):1	740(bridge):1	773(rock):1	907(pleasure):1	1017(effort):1	1085(underground):1	1194(metre):1	1199(grocery):1	1664(quay):1	1781(Count):1	1912(circular):1	2429(tad):1	2622(chilly):1	3958(jog):1	4278(botanical):1	
+3	3(clean):1	4(nice):1	203(plus):1	
+9	9(service):1	14(helpful):1	31(front):1	36(desk):1	159(access):1	300(maid):1	360(daily):1	394(question):1	1501(gracious):1	
+0	
+0	
+
+<Author>lindale
+<Content>Well positioned hotel       Mantra - corner of Bond St  George St  
+<Date>Aug 28, 2008
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+0	
+0	
+0	
+5	200(corner):1	940(St):2	1093(position):1	2287(george):1	4205(bond):1	
+0	
+0	
+0	
+0	
+
+<Author>Annylou
+<Content>Very happy My husband I recently stayed for the weekend. We booked on a special deal ($193 inc breakfast) from a television travel show. We arrived at approx. 11am which was too early for check-in, so the hotel held our bags with no problem for us till later that day. They also held them from 10am check-out till 4pm on last day. This was really appreciated by us. The split-level room was spacious, clean and very comfortable. Bathroom was marble tiled with an excellent shower. We had 2 lcd tv's - one in the living area and one in bedroom area. Everything was in very good order and we cannot think of a single thing which was not to our liking. As others have indicated, its position on George St was very convenient. We were on the 7th floor and didn't find it noisy, it helped that we were exhausted from walking everywhere though! The staff were friendly and the buffet breakfast on Sunday was excellent . Probably would not eat there if that was not included though - too expensive! Just a little thing on afterthought - the cleaner put on our dishwasher with 2 mugs and 1 glass! Extremely wasteful given our water shortage. Also would be good if the 2 bedroom apartments had 2 singles in the 2nd bedroom so we could take the family. Would stay again for the same price.  
+<Date>Jun 28, 2008
+<Rating>4	5	4	4	4	4	4	-1	
+<Aspects>
+11	53(arrive):1	57(water):1	105(husband):1	110(extremely):1	155(happy):1	172(weekend):1	304(single):1	322(recently):1	500(appreciate):1	1423(approx):1	2930(shortage):1	
+5	19(price):1	47(eat):1	71(include):1	124(expensive):1	178(probably):1	
+22	3(clean):1	7(walk):1	13(bathroom):1	21(excellent):1	24(floor):1	25(comfortable):1	61(shower):1	92(help):1	106(family):1	111(spacious):1	116(tv):1	206(live):1	217(noisy):1	268(bedroom):3	304(single):1	705(marble):1	751(apartment):1	846(tile):1	1326(2nd):1	1769(exhaust):1	1773(lcd):1	2951(7th):1	
+5	186(convenient):1	940(St):1	1093(position):1	1776(indicate):1	2287(george):1	
+6	3(clean):1	23(little):1	327(glass):1	2224(mug):1	3405(dishwasher):1	9312(afterthought):1	
+10	8(day):2	79(late):1	286(check-in):1	290(bag):1	593(hold):2	658(checkout):1	979(till):2	7512(10am):1	7881(4pm):1	7969(11am):1	
+12	0(staff):1	6(breakfast):2	12(friendly):1	18(book):1	21(excellent):1	68(travel):1	77(buffet):1	140(deal):1	208(special):1	844(sunday):1	1158(television):1	4043(inc):1	
+0	
+
+<Author>tyggerss
+<Content>Great location! My husband and I booked a year ago in April for a little over a week. It was ideally located: close to the train, ferry quay, restaurants, and shopping. So many sights were within walking distance (like The Opera House on the spectacular Harbor and The Rocks), or we just hopped on the train or ferry. (The voucher for unlimited travel on the ferry/train was well worth it!) The studio suite was large and clean. Having the kitchen and a washer and dryer was wonderful! The bathroom was exceptionally clean; the shower doors sheeted water and did not need to be wiped down! We did not eat at the hotel restaurant, but there was an inexpensive food court right across Bond and a supermarket just up George. I noticed that the hotel is now owned by Mantra and the prices have gone up, though. We would recommend it highly, however. A beautiful city and very friendly people!  
+<Date>May 28, 2008
+<Rating>5	5	5	5	5	-1	5	-1	
+<Aspects>
+11	12(friendly):1	15(recommend):1	26(people):1	41(city):1	45(beautiful):1	68(travel):1	96(worth):1	138(highly):1	1010(ferry):1	1750(voucher):1	2077(unlimited):1	
+3	19(price):1	166(own):1	354(notice):1	
+14	3(clean):2	13(bathroom):1	48(wonderful):1	54(door):1	57(water):1	61(shower):1	108(suite):1	461(kitchen):1	479(sheet):1	1209(dryer):1	1242(exceptionally):1	1445(studio):1	2602(washer):1	2969(wipe):1	
+25	1(location):1	7(walk):1	10(restaurant):2	16(food):1	28(close):1	47(eat):1	49(shop):1	84(locate):1	115(distance):1	182(train):2	281(house):1	411(sight):1	561(harbor):1	656(spectacular):1	773(rock):1	1010(ferry):2	1068(court):1	1078(supermarket):1	1117(inexpensive):1	1151(hop):1	1374(opera):1	1664(quay):1	1800(ideally):1	2287(george):1	4205(bond):1	
+0	
+0	
+5	18(book):1	23(little):1	75(week):1	105(husband):1	633(ago):1	
+0	
+
+<Author>Marcelco
+<Content>Loud and not so family friendly We stayed at 2 Bond Street on a Friday and Saturday night with our baby and toddler. It was extremely noisy at night (due to traffic on George St, nearby bars, pubs and clubs). Would recommend you request a room at the back of the hotel, away from George St. Also, our 2 bedroom suite did not have a bath or laundry tub, so we had nowhere to bath our 6 month old or 2.5 year old sons. There wasn't any toddler friendly food on the room service menu and was advised that they couldn't prepare anything that wasn't on the menu (not even some toast or a simple sandwich). Our room hadn't been serviced properly on arrival. The dishwasher was still full and there was something nasty in the bottom of the bin in the kitchen. There was no dish cloth/sponge in the kitchen and when I requested one, I was given a tea towel. I had to insist on a dish cloth and eventually one arrived. They also messed up our breakfast order (we only received half of it). However they did fix this up promptly and were apologetic. When we arrived they suggested that we unload our hire car in their car park, which we did and then we returned the hire car. They tried to charge us $35 in parking for the short time that we were in the car park. Best to unload your car in Bond St if you want to avoid parking fee.  
+<Date>May 12, 2008
+<Rating>2	2	4	4	2	3	2	-1	
+<Aspects>
+8	53(arrive):1	494(fix):1	816(dish):1	1204(eventually):1	1212(promptly):1	1495(insist):1	1864(cloth):1	2483(apologetic):1	
+0	
+19	9(service):1	15(recommend):1	108(suite):1	148(request):1	224(arrival):1	226(bath):2	268(bedroom):1	311(tub):1	388(month):1	461(kitchen):1	612(son):1	655(st):1	850(bottom):1	1075(laundry):1	1144(properly):1	1639(nasty):1	2287(george):1	3059(bin):1	3405(dishwasher):1	
+24	2(night):1	5(time):1	12(friendly):1	35(street):1	39(return):1	53(arrive):1	66(park):4	106(family):1	121(car):5	136(charge):1	144(short):1	253(tried):1	416(loud):1	436(avoid):1	452(suggest):1	584(fee):1	818(saturday):1	923(friday):1	940(St):1	1304(baby):1	1556(hire):2	2883(toddler):1	3143(unload):2	4205(bond):2	
+0	
+0	
+31	2(night):1	6(breakfast):1	9(service):1	12(friendly):1	16(food):1	27(bar):1	110(extremely):1	125(towel):1	148(request):1	212(club):1	217(noisy):1	232(nearby):1	259(due):1	283(half):1	301(tea):1	302(receive):1	423(menu):2	460(prepare):1	461(kitchen):1	486(traffic):1	613(simple):1	663(advise):1	816(dish):1	875(toast):1	940(St):1	1071(sandwich):1	1393(pub):1	1644(mess):1	1864(cloth):1	2287(george):1	2883(toddler):1	
+0	
+
+<Author>Sat1
+<Content>Average place to stay, good location I stayed at this hotel for 2 weeks for a business trip. Was booked into an executive suite which was quite comfortable. First was given a room on the 7th floor which was immaculate and very quiet. (excluding the little outside noise that you can hear and live with). Was told the internet connection was included in the room rate unfortunately it wasn't working so they moved me to the 13th floor. This room absolutely stank and was very dusty. Made me wish i didn't complain about the internet connection. Once i logged in I realised they were charging extortionate rate for internet access. Forget it! Even the IT support staff think it should be included. Think the lower floors are kept for business travelers and the upper floor for holiday makers. The upper floors are definitely more used and a little more run down. You get loud groups staying up there who want to party hard at the weekends. The room service menu is very basic and fairly limited, but the location is superb. Only a couple of blocks to circular key (opera house and bridge) and The Rocks. Darling habour takes about 10-15 mins walk. Got the Oz flu whilst I was out there and was really bad one night. No doctors were open so the hotel arranged for a hotel doctor to visit who charged AUD$300 for coming out. Ouch!!!!Did the Blue Mountains tour with FJ tours. Too much time is spent at other places and only an hour at the blue mountains which has 3 rides to do. You don't really get time to appreciate where you are coz you鈥檙e so rushed. I wouldn't recommend these organised tours. If possible take the train out and do it at your own pace. Think there is trolley service that links the mountains and the rail station. Also went out to Manly and climbed the pylon rather than doing the bridge climb. The sydney tower also has fab views but the bridge and opera house are obscured by the high rise buildings.  
+<Date>May 7, 2008
+<Rating>3	3	3	4	2	4	4	1	
+<Aspects>
+26	2(night):1	5(time):2	15(recommend):1	50(bad):1	60(hour):1	64(spend):1	162(hard):1	172(weekend):1	181(tour):3	218(ride):1	363(party):1	397(forget):1	416(loud):1	500(appreciate):1	694(blue):2	740(bridge):1	877(whilst):1	1167(organize):1	1244(rush):1	1424(climb):2	1509(mountain):2	3994(oz):1	5198(ouch):1	7048(coz):1	7380(flu):1	7950(manly):1	
+0	
+50	1(location):1	9(service):1	17(view):1	18(book):1	23(little):1	24(floor):5	25(comfortable):1	58(quiet):1	59(definitely):1	69(tell):1	71(include):1	78(rate):1	97(internet):1	99(couple):1	100(bloc):1	108(suite):1	147(business):1	149(run):1	189(absolutely):1	207(move):1	223(holiday):1	267(traveler):1	281(house):2	339(key):1	352(basic):1	378(tower):1	407(superb):1	423(menu):1	462(fairly):1	510(limit):1	524(unfortunately):1	740(bridge):2	745(building):1	773(rock):1	777(lour):1	809(sydney):1	872(executive):1	894(immaculate):1	932(connection):1	996(maker):1	1216(fab):1	1333(upper):2	1374(opera):2	1436(rise):1	1796(stink):1	1912(circular):1	2710(13th):1	2796(dusty):1	2951(7th):1	5740(obscure):1	
+24	1(location):1	7(walk):1	9(service):1	23(little):1	33(trip):1	75(week):1	82(station):1	94(noise):1	98(outside):1	132(hear):1	147(business):1	166(own):1	182(train):1	206(live):1	227(average):1	247(min):1	1079(trolley):1	1509(mountain):1	1681(darling):1	1727(link):1	1755(rail):1	2291(pace):1	4614(exclude):1	10304(habor):1	
+0	
+8	0(staff):1	65(visit):1	71(include):1	136(charge):1	680(arrange):1	1875(doctor):2	2448(support):1	9763(aud$):1	
+0	
+10	78(rate):1	97(internet):2	136(charge):1	159(access):1	241(complain):1	384(wish):1	607(realize):1	932(connection):1	3437(log):1	5932(extortionate):1	
+
+<Author>LE76
+<Content>Great location, room, crap breakfast Saville's delivered on all it's promises except the breakfast which is overpriced $25 and has limited choice - you'd do better going up the road to a cafe.But that aside, Saville's is great - excellent location, didn't really notice the noise that other's on here have commented on and it's lovely and clean. The Australian phenomena of having a suite is rather odd until you get used to the room, but with your own washing machine and dryer in the bathroom cupboard and also a practically fully equipped kitchen in the room then it suddenly all gets used and you wondered how you'd have managed without it.So great all in all - would definitely recommend to others and if I'm lucky to go back to Sydney then I'll definitely stay there.  
+<Date>Apr 18, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+4	15(recommend):1	59(definitely):2	797(lucky):1	809(sydney):1	
+12	1(location):1	6(breakfast):2	107(choice):1	230(road):1	275(cafe):1	337(except):1	510(limit):1	631(deliver):1	727(overprice):1	975(promise):1	2968(crap):1	12915(saville):1	
+15	13(bathroom):1	108(suite):1	166(own):1	461(kitchen):1	493(machine):1	645(manage):1	811(wash):1	884(equip):1	946(wonder):1	1088(odd):1	1209(dryer):1	1850(practically):1	2374(cupboard):1	3296(suddenly):1	3604(australian):1	
+9	1(location):1	3(clean):1	21(excellent):1	87(lovely):1	94(noise):1	354(notice):1	356(comment):1	1502(aside):1	12915(saville):1	
+0	
+0	
+0	
+0	
+
+<Author>mfnMelbourne
+<Content>Poor Service I booked an Executive Suite for my recent trip to Sydney as I was quite happy with the room and service when I first visited last year. Unfortunately, my recent stay contradicted my experience in the hotel the year before. First of all, I was made to wait for my room until 2:20pm (check-in is at 2pm) because there was a problem with key cutter, and when I finally got into my room I was a little put off by the muggy stench of the room. I went straight to the balcony to get some air in but when I tried to open both (slimline) doors they were both stuck and wouldn't open at all. And to top it, my view was in fact a brick wall and a half demolished building. Despite my growing annoyance, I then turned on the LCD TV to check out the news, thinking they would have CNN and Bloomberg (as indicated by their site) and all I had access to was Sky and Fox Sport. I specifically returned to this hotel for access to an opening window/door and these business TV channels, so of course I was not happy. I contacted the front desk and a concierge was sent up to check the door and he too had great difficulty trying to open the balcony doors. He managed one and said I had to open it with some technique. I'm still not sure why maintenance was not contacted by the concierge. To cut a long story short, I eventually cut my Saville stay to one night instead of 3, for the sheer fact that I couldn't stay in a hotel where the service and accomodations are certainly below the 4.5 star standard it claims to be (LCD TV or not). On my departure, reception didn't even bother asking why I was unhappy and moving to another hotel. This, I thought was quite disturbing. At the room rate available at the Saville, you may as well stay at Four Points Sheraton which is only slightly more expensive but well worth it, when you're treated like an actual guest.M. Navera  
+<Date>Apr 1, 2008
+<Rating>1	1	3	4	2	2	1	2	
+<Aspects>
+3	645(manage):1	1067(disturb):1	8742(technique):1	
+19	2(night):1	9(service):1	44(experience):1	103(star):1	116(tv):1	130(standard):1	144(short):1	353(instead):1	524(unfortunately):1	585(below):1	780(accomodation):1	873(cut):2	906(story):1	1064(recent):1	1077(claim):1	1204(eventually):1	1773(lcd):1	3367(sheer):1	12915(saville):1	
+46	9(service):2	18(book):1	32(check):1	33(trip):1	39(return):1	54(door):1	65(visit):1	78(rate):1	91(guest):1	96(worth):1	108(suite):1	116(tv):2	119(window):1	124(expensive):1	134(available):1	147(business):1	155(happy):2	159(access):2	164(air):1	191(balcony):1	192(site):1	253(tried):1	293(course):1	320(treat):1	331(poor):1	498(despite):1	598(slightly):1	688(stick):1	741(channel):1	809(sydney):1	827(straight):1	872(executive):1	919(sport):1	1013(sheraton):1	1064(recent):1	1536(actual):1	1659(grow):1	1725(news):1	1773(lcd):1	1776(indicate):1	1810(specifically):1	1909(sky):1	2101(cnn):1	2966(annoyance):1	5930(fox):1	12915(saville):1	
+7	17(view):1	118(top):1	135(build):1	183(wall):1	283(half):1	2003(brick):1	9019(demolish):1	
+0	
+26	23(little):1	31(front):1	32(check):1	36(desk):1	54(door):2	76(try):1	85(wait):1	129(reception):1	191(balcony):1	204(concierge):2	207(move):1	286(check-in):1	307(bother):1	339(key):1	341(finally):1	393(pm):1	447(send):1	713(contact):2	1031(departure):1	1149(maintenance):1	1777(difficulty):1	2382(unhappy):1	3823(stench):1	5370(cutter):1	7070(muggy):1	7919(2pm):1	
+0	
+0	
+
+<Author>robertexeter
+<Content>great stay we stayed at this hotel for 2 weeks , could not stay any where better in sydney . suite was excellent , huge bed ,very clean , staff fantasic nothing was to much trouble for them, would love to stay there again. we also stayed at the Saville suites in brisbane, same standard there also  
+<Date>Mar 23, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+2	75(week):1	809(sydney):1	
+0	
+12	0(staff):1	3(clean):1	11(bed):1	21(excellent):1	40(love):1	108(suite):2	130(standard):1	133(huge):1	569(trouble):1	5341(fantasic):1	11877(brisbane):1	12915(saville):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>pjp195708
+<Content>Easy base to explore Sydney This is a superb location for exploring Sydney and they provide free car parking. It is only a five minute walk to the Rocks and Circular Quay, five minutes to the main shopping areas and 10 minutes from Darling Harbour.We had a studio apartment which contained a king bed, a kitchen with all mod cons, seating area with TV, ensuite shower which also had a cupboard with a washing machine and tumble dryer in it! Bonus if you like to travel light.The reception staff are really helpful, there are plenty of lifts, the gym and pool are a bit small and the restaurant serves a good standard of food. I was a bit surprised at the latter because there are so many great places to eat nearby that I didn't expect them to try very hard.  
+<Date>Mar 18, 2008
+<Rating>4	4	5	5	4	5	4	3	
+<Aspects>
+8	47(eat):1	52(bit):1	62(expect):1	76(try):1	162(hard):1	199(surprise):1	232(nearby):1	3133(latter):1	
+0	
+20	11(bed):1	61(shower):1	68(travel):1	116(tv):1	157(light):1	243(king):1	461(kitchen):1	493(machine):1	504(seat):1	751(apartment):1	811(wash):1	840(Con):1	849(bonus):1	1209(dryer):1	1445(studio):1	1545(contain):1	2374(cupboard):1	2601(ensuite):1	4320(Mod):1	8557(tumble):1	
+19	1(location):1	7(walk):1	29(minute):3	46(free):1	49(shop):1	66(park):1	93(easy):1	112(main):1	121(car):1	153(provide):1	284(base):1	407(superb):1	561(harbor):1	594(explore):2	773(rock):1	809(sydney):2	1664(quay):1	1681(darling):1	1912(circular):1	
+0	
+0	
+12	0(staff):1	10(restaurant):1	14(helpful):1	16(food):1	22(pool):1	52(bit):1	129(reception):1	130(standard):1	158(plenty):1	174(serve):1	523(gym):1	591(lift):1	
+0	
+
+<Author>2poms
+<Content>Good apartment...but the noise!!! We had requested a high floor via our agent after reading Tripadvisor reviews. When we arrived we were given a 2 bedroom apartment, upgraded from a one bedroom, on the 8th floor. There are about 17 floors. This met all our requirements and we really did appreciate the washing machine/tumble drier. The rooms were spotless with the exception of the upper reaches of the shower cubicle where there were patches of black mould. Wednesday/Thursday nights were fine. There was some traffic noise, only to be expected in a big city. However Friday and Saturday nights were AWFUL! Even on the 8th floor there was constant very loud noise from the nearby pub and from people screaming, shouting, revving up motor bikes and hooting car horns until 3.am This was enhanced by the emergency services using their sirens as late as 3 am. Lack of sleep meant that we did not enjoy Sydney as much as we should have done.In all other aspects we felt that the hotel and its staff were above average.  
+<Date>Feb 29, 2008
+<Rating>4	4	4	5	4	5	5	4	
+<Aspects>
+6	2(night):2	113(fine):1	736(awful):1	818(saturday):1	923(friday):1	2665(wednesday):1	
+0	
+39	24(floor):4	26(people):1	37(review):1	51(enjoy):1	53(arrive):1	61(shower):1	88(read):1	94(noise):2	104(sleep):1	121(car):1	148(request):1	163(upgrade):1	232(nearby):1	246(mean):1	268(bedroom):2	349(lack):1	416(loud):1	512(via):1	548(spotless):1	597(tripadvisor):1	751(apartment):2	766(agent):1	809(sydney):1	851(reach):1	1007(black):1	1128(exception):1	1138(mold):1	1333(upper):1	1357(8th):2	1393(pub):1	1432(constant):1	1479(bike):1	1757(scream):1	2146(shout):1	2336(motor):1	3100(horn):1	3518(patch):1	3617(cubicle):1	12723(rev):1	
+4	41(city):1	62(expect):1	94(noise):1	486(traffic):1	
+0	
+4	0(staff):1	34(feel):1	227(average):1	1255(aspect):1	
+5	9(service):1	79(late):1	2282(siren):1	2561(emergency):1	3489(enhance):1	
+6	196(meet):1	493(machine):1	500(appreciate):1	811(wash):1	1257(dry):1	2642(requirement):1	
+
+<Author>stevie_23
+<Content>Another Wonderful Stay at the Saville! This review is in relation to the second time I鈥檝e stayed at the Saville 2 Bond Street.My last review was very long and contained a fair amount of melodrama in relation to my toe injury I sustained whilst holidaying in Sydney, but this review will be significantly shorter.This time my partner and I were staying at the Saville but in a privately-owned apartment which we managed to book (at half the normal hotel price) through Apartments Plus. It鈥檚 long term rates (7 days or more) and we were there for 8 days, so lucky us!I was quite nervous, as I鈥檇 never done this sort of thing before. We booked, paid by credit card in advance, and picked up the keys from a convenience store under another hotel/residential apartment building nearby in Sydney. I was scared that either the keys wouldn鈥檛 be there and we鈥檇 have nowhere to stay with all our luggage, or the room would be a dump or something鈥ut no. Everything went smoothly. The keys were right where they were supposed to be, the location to pick up the keys was conveniently close to the Saville, and the only issue was that at first we couldn鈥檛 work out how to open the door. I ended up having to go back downstairs (in the lovely marble and glass lift from the 13th floor we were staying on) to see if someone on reception could assist. I was worried they would turn me away, as I wasn鈥檛 technically staying through the hotel, but a lovely girl actually accompanied me upstairs and helped me. The door then opened fine and the room was lovely, as they all seem to be.After this we had absolutely no dramas the whole 8 days/nights we stayed at the Saville. Just a lovely room, not loud at night or in the day鈥e could hear vague thumpings of music on Friday night, but it wasn鈥檛 anything that would provide any disturbance. The extractor fan in the bathroom was quite loud when the door was open, but I actually liked this as it did block out any random street/traffic noise at night (not that there was much to speak of). If you didn鈥檛 want the fan noise, simply closing the bathroom door would suffice.The furnishings were lovely as I鈥檇 hoped鈥he bathroom was gorgeous, all marble and nice鈥he view wasn鈥檛 really anything, but we already knew that. If there were only low buildings in front of us, we could have seen the harbour, but there were too many tallish buildings, so鈥o matter though. We don鈥檛 stay inside and stare out the window all day.The location was perfect for us. It is literally 2-3 blocks to Pitt Street Mall, you walk out the door (which is often held open by helpful door men) and you鈥檙e on George Street and most of the buses you need to get around go right past鈥lso the shops on George Street and the cinema, Town Hall and China Town are about a 5-10 minute walk away鈥ven Darling Harbour is only 10 minutes away, walking down to the stylish and cool King Street Wharf area. We had no idea it was so close! It is also, importantly for us since we got many ferries, only a 5 minute walk down to Circular Quay, and about 10 minutes wander to The Rocks precinct. Fantastic!!!The apartment had a 51cm TV in the lounge, with a DVD, a VCR and a CD player/stereo, and also a smaller TV in the bedroom area. Strangely, and perhaps this shouldn鈥檛 be mentioned, but we seemed to have free and constant access to 2 channels of porn. We occasionally utilised these, more for fun and laughs than anything else sexual!I don鈥檛 really know what else I can say about how nice and enjoyable staying in this hotel is鈥t鈥檚 just so effortless and convenient to spend the day out, and then come back and it鈥檚 all relaxing and lovely. No difficulties at all, and it鈥檚 so nice to be surrounded by attractive and comfortable furnishings.The only small things that could be improved (and I am very picky) are that the showers at the Saville (in the studio / 1 bedroom apartments anyway) do tend to be very dark, as there is no downlight directly over them. Otherwise, the bathrooms are gorgeous and the European enclosed laundry is excellent. Also, 2 of the downlights were not working, but this wasn鈥檛 a problem. The extractor fan in the bathroom may annoy some people, but it didn鈥檛 for us and again, once the bathroom door is closed, you can鈥檛 even hear it.We were instructed to leave the keys on the dining table upon our check out, which we did, and all was well. How simple is that!?Anyway, I love this hotel and would always try to stay here whenever I鈥檓 in Sydney. All in all, another wonderful hotel experience at the Saville.  
+<Date>Feb 28, 2008
+<Rating>5	5	5	5	4	5	5	-1	
+<Aspects>
+33	4(nice):1	8(day):3	40(love):1	48(wonderful):1	64(spend):1	76(try):1	78(rate):1	86(fantastic):1	87(lovely):1	160(relax):1	170(else):2	176(fun):1	186(convenient):1	189(absolutely):1	417(anyway):1	557(sort):1	567(enjoyable):1	613(simple):1	797(lucky):1	809(sydney):1	908(don):1	1011(term):1	1181(whenever):1	1245(laugh):1	1408(nervous):1	2267(smoothly):1	2533(occasionally):1	3022(utilize):1	6286(effortless):1	6311(days):1	6939(drama):1	8352(sexual):1	12915(saville):2	
+23	5(time):1	18(book):2	19(price):1	42(pay):1	44(experience):1	48(wonderful):1	135(build):1	203(plus):1	232(nearby):1	255(store):1	266(pick):1	283(half):1	292(card):1	339(key):1	645(manage):1	659(credit):1	685(advance):1	751(apartment):3	809(sydney):1	878(normal):1	925(convenience):1	1006(partner):1	12915(saville):2	
+104	2(night):3	4(nice):2	8(day):2	13(bathroom):6	17(view):1	21(excellent):1	24(floor):1	25(comfortable):1	26(people):1	28(close):2	35(street):1	37(review):2	46(free):1	54(door):4	61(shower):1	87(lovely):5	92(help):1	94(noise):2	100(bloc):1	113(fine):1	116(tv):2	119(window):1	127(speak):1	129(reception):1	132(hear):2	144(short):1	153(provide):1	159(access):1	180(actually):2	223(holiday):1	237(lounge):1	244(mention):1	249(luggage):1	268(bedroom):2	327(glass):1	328(hope):1	339(key):1	383(directly):1	398(music):1	408(inside):1	416(loud):2	417(anyway):1	446(gorgeous):2	459(dark):1	488(simply):1	508(otherwise):1	582(european):1	591(lift):1	625(girl):1	661(fan):3	666(amount):1	667(surround):1	691(downstairs):1	695(annoy):1	705(marble):2	739(fair):1	741(channel):1	751(apartment):2	809(sydney):1	870(furnishings):2	877(whilst):1	885(worried):1	908(don):1	923(friday):1	926(picky):1	1022(didn):2	1053(tend):1	1075(laundry):1	1076(player):1	1154(attractive):1	1217(improve):1	1265(assist):1	1358(upstairs):1	1364(dvd):1	1432(constant):1	1445(studio):1	1449(dump):1	1545(contain):1	1711(scare):1	1729(cd):1	1777(difficulty):1	1829(wasn):4	2520(relation):1	2586(wouldn):1	2660(accompany):1	2710(13th):1	2748(stare):1	2758(enclose):1	3138(significantly):1	3255(random):1	3475(toe):1	3953(suffice):1	4089(strangely):1	4397(injury):1	4602(disturbance):1	5187(technically):1	5706(porn):1	5728(ut):1	7102(vcr):1	7376(extractor):2	7907(vague):1	8114(shouldn):1	8506(sustain):1	12915(saville):1	
+46	1(location):2	5(time):1	7(walk):4	14(helpful):1	28(close):2	29(minute):4	35(street):5	37(review):1	49(shop):1	54(door):3	74(perfect):1	100(bloc):1	120(bus):1	239(town):2	243(king):1	265(issue):1	266(pick):1	278(cool):1	339(key):2	419(past):1	561(harbor):1	593(hold):1	616(hall):1	620(suppose):1	639(idea):1	643(mall):1	665(literally):1	773(rock):1	784(wharf):1	961(stylish):1	1010(ferry):1	1070(conveniently):1	1159(china):1	1562(wander):1	1664(quay):1	1681(darling):1	1912(circular):1	1996(importantly):1	2112(couldn):1	2287(george):2	2520(relation):1	3913(cinema):1	4205(bond):1	5468(pitt):1	8489(precinct):1	12915(saville):2	
+0	
+11	31(front):1	32(check):1	43(leave):1	229(table):1	316(dine):1	339(key):1	513(low):1	531(matter):1	561(harbor):1	745(building):2	4689(instruct):1	
+0	
+0	
+
+<Author>solace71
+<Content>Get a room on a high floor! Stayed at Saville 2 Bond St the weekend before Christmas. Couldn't of hoped for a better hotel to suit the weekend of xmas shopping, work and catching up with friends. Only major downside is the fee for Broadband (really this needs to be incorporated into room rates). There is a steep charge for parking as well ($35 per day) but that's Sydney for you and you have to wear it if you're going to drive..The rooms are comfortable and have everything you need. Full well decked out kitchen (including mini bar) and laundry. A fantastic touch was full size washing/ detergent packs. No need to find a convenience store to upgrade from the usual sample packs you get in serviced hotel apartments that only last one wash.Reception were accommodating to my request to be moved to a higher floor after I saw the view from the room they initially gave me. I did not want to spend the weekend looking out onto a brick wall! That was in an executive room on lvl 8 (and I suspect) all the ones below. I was moved to level 12 with no fuss and the view of George st and neighbouring office blocks was just fine. No post card but more personality then a brick wall!I was more then happy with the executive studio - it was open planned with the bed pretty much in it's own space between the kitchen and the bathroom (which is a little small) - with a full size built in wardrobe. The bed was extremely comfortable! Past the kitchen was the lounge / dining area with sofa bed, arm chair and dining table for 4. There is also a small balcony. Non smoking rooms that really did seem like no one had ever smoked in them before which was great.Overall $169 (no parking, broadband included) for the studio is a great rate for what you get. In fact it's pretty hard to beat in Sydney. The hotel feels new and is exceptionally clean and well designed.The pool on the roof level is great if the weather is good - small view of the harbour.I had a major hassle when checking out - getting charge twice for my room! On arrival back home 10 days later I noticed the $500 'security deposit' they had taken had also not been returned to my card. A number of phone calls later the situation was sorted out - but having all that money taken out over the xmas period didn't make me too happy. Hotels should only take an imprint of credit cards and not freeze funds. No matter what they say they are never returned with in 'a few days time'.  
+<Date>Feb 12, 2008
+<Rating>4	2	4	4	4	2	2	3	
+<Aspects>
+28	5(time):1	8(day):1	39(return):1	67(call):1	79(late):1	80(money):1	109(pretty):1	155(happy):1	162(hard):1	172(weekend):1	292(card):1	296(phone):1	335(numb):1	442(beat):1	531(matter):1	557(sort):1	659(credit):1	809(sydney):1	890(situation):1	940(St):1	962(christmas):1	1321(freeze):1	1331(period):1	3208(xmas):1	4205(bond):1	5144(fund):1	8933(imprint):1	12915(saville):1	
+0	
+68	8(day):1	9(service):1	11(bed):3	13(bathroom):1	17(view):1	23(little):1	24(floor):2	25(comfortable):2	39(return):1	49(shop):1	78(rate):1	79(late):1	83(size):2	86(fantastic):1	109(pretty):1	110(extremely):1	129(reception):1	135(build):1	141(home):1	146(friend):1	148(request):1	155(happy):1	163(upgrade):1	166(own):1	172(weekend):1	191(balcony):1	198(chair):1	207(move):1	210(space):1	221(plan):1	224(arrival):1	229(table):1	237(lounge):1	255(store):1	279(touch):1	292(card):1	315(major):1	316(dine):2	328(hope):1	354(notice):1	419(past):1	461(kitchen):2	468(smoke):2	540(catch):1	584(fee):1	585(below):1	624(accommodate):1	641(security):1	682(usual):1	715(pack):2	751(apartment):1	782(downside):1	811(wash):2	842(sofa):1	861(suit):1	872(executive):2	925(convenience):1	1439(initially):1	1445(studio):1	1451(wardrobe):1	1603(deposit):1	1726(arm):1	1960(sample):1	1983(suspect):1	2825(broadband):1	3208(xmas):1	5565(detergent):1	6721(incorporate):1	
+26	8(day):1	17(view):1	20(look):1	22(pool):1	64(spend):1	66(park):2	70(overall):1	71(include):1	78(rate):1	136(charge):1	172(weekend):1	183(wall):2	292(card):1	298(drive):1	306(level):1	385(weather):1	434(wear):1	561(harbor):1	636(roof):1	644(post):1	809(sydney):1	1060(steep):1	1445(studio):1	2003(brick):2	2522(personality):1	2825(broadband):1	
+4	3(clean):1	34(feel):1	516(design):1	1242(exceptionally):1	
+15	17(view):1	32(check):1	100(bloc):1	113(fine):1	136(charge):1	207(move):1	306(level):1	315(major):1	347(twice):1	792(office):1	934(neighbour):1	940(St):1	1193(hassle):1	2205(fuss):1	2287(george):1	
+6	27(bar):1	71(include):1	448(mini):1	461(kitchen):1	1075(laundry):1	1406(deck):1	
+0	
+
+<Author>aroma83
+<Content>disgusting, absolutely putrid let me just start by saying that the saville hotel in sydney was the most disgusting hotel i have ever stayed in! the rooms smelt like damp carpet and the level of service was utterly ridiculous. the staff seemed more on the ball than management. clueless some were! meant to be a 4 star hotel, i wouldn't even grant this hotel half a star. i'd rather stay in a backpackers hostel and pay double, (not to mention the fact that the saville hotel is severely over priced)if you are planning a trip to this hotel i sincerly urge you to rethink your decision, trust me you will regret it, just like i and the others i stayed with do.  
+<Date>Jan 27, 2008
+<Rating>1	1	1	2	1	2	3	2	
+<Aspects>
+1	4422(clueless):1	
+23	19(price):1	33(trip):1	42(pay):1	103(star):2	165(start):1	179(double):1	189(absolutely):1	221(plan):1	244(mention):1	246(mean):1	283(half):1	809(sydney):1	1152(disgust):2	1402(trust):1	1410(regret):1	1539(decision):1	1560(hostel):1	1690(grant):1	3997(backpacker):1	4410(urge):1	4910(severely):1	8000(rethink):1	12915(saville):2	
+7	9(service):1	231(smell):1	306(level):1	396(carpet):1	1533(ridiculous):1	1640(damp):1	3935(utterly):1	
+0	
+0	
+3	0(staff):1	525(management):1	1685(ball):1	
+0	
+0	
+
+<Author>Viscount812
+<Content>Excellent accommodation, service, LOCATION       Hotel entrance on George Street  
+<Date>Jan 21, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+7	1(location):1	9(service):1	21(excellent):1	35(street):1	490(entrance):1	721(accommodation):1	2287(george):1	
+0	
+0	
+0	
+0	
+
+<Author>SimonSouthampton
+<Content>Good Location - Get the right floor. We arrived at 09:30 AM on New Years Eve somewhat tired after a poor flight from Singapore. I had read the previous reviews about noise levels and as it was New Years Eve had requested a high level room.When we checked in we were given a room on the first floor, and even after some discussion was told this was the only one available. We went to the room which was located on the corner of George Street and an Alley way down the side. It was gloomy and smelled of smoke, and was noisey at 10:00 in the morning. We went back to reception and was tol that the manager had found a 2 bed appartment on the 9th floor if we were not hppy with the previous one.A much better room and location, however the rooms are showing signs of age and could do with a major makeover. The rooms were however clean, and cleaned on a daily basis.Interesting views over George Street, New Years eve was noisey with the windows open, however the Double Glazing worked very well.Location is brilliant for the whole of Sydney, we were able to pop back during the day to drop shopping, pick up water etc.The cooking and washing facilities are OK, more for doing a pizza than anything more elaborate, however they do have all the things you would need to cook a 3 course meal.Overall a good place to spend 5 days in the City, would go back again.  
+<Date>Jan 19, 2008
+<Rating>3	3	3	5	3	2	3	3	
+<Aspects>
+4	8(day):1	41(city):1	64(spend):1	70(overall):1	
+0	
+38	1(location):2	3(clean):2	11(bed):1	17(view):1	24(floor):3	32(check):1	35(street):1	37(review):1	53(arrive):1	69(tell):1	88(read):1	94(noise):1	119(window):1	129(reception):1	134(available):1	148(request):1	179(double):1	233(flight):1	258(manager):1	306(level):2	315(major):1	331(poor):1	360(daily):1	373(previous):2	449(sign):1	454(tire):1	505(age):1	651(somewhat):1	960(singapore):1	1527(basis):1	1787(eve):3	2144(glaze):1	2287(george):1	3008(noisey):1	3282(discussion):1	3970(makeover):1	5034(appartment):1	5180(9th):1	
+24	1(location):1	8(day):1	35(street):1	49(shop):1	57(water):1	73(etc):1	84(locate):1	123(ok):1	171(able):1	200(corner):1	211(facility):1	213(meal):1	266(pick):1	293(course):1	550(cook):2	662(drop):1	678(pizza):1	793(brilliant):1	809(sydney):1	811(wash):1	1558(pop):1	1671(alley):1	2287(george):1	4698(elaborate):1	
+5	56(morning):1	231(smell):1	468(smoke):1	3008(noisey):1	4374(gloomy):1	
+0	
+0	
+0	
+
+<Author>holiday1uk
+<Content>Pricey but nice stay.... We stayed here for 3 nights while visiting Sydney on holiday. We stayed in a studio apartment which was very nice - smart, clean, modern apartment with all the mod cons. We particularly appreciated our own washer/dryer (complete with washing powder) after a couple of weeks travelling!I think this hotel is primarily used by people away on buisness (the hotel is located in the CBD area of the city). However, it is also very close to all of Sydney's major attractions so ideal for tourists too - we would recommend this hotel and would stay here again.  
+<Date>Dec 9, 2007
+<Rating>4	4	5	4	4	3	4	4	
+<Aspects>
+10	68(travel):1	75(week):1	99(couple):1	166(own):1	500(appreciate):1	553(particularly):1	622(complete):1	811(wash):1	2602(washer):1	2834(powder):1	
+6	2(night):1	4(nice):1	65(visit):1	223(holiday):1	546(pricey):1	809(sydney):1	
+8	3(clean):1	4(nice):1	151(modern):1	751(apartment):2	840(Con):1	1445(studio):1	1687(smart):1	4320(Mod):1	
+13	15(recommend):1	26(people):1	28(close):1	41(city):1	84(locate):1	209(tourist):1	315(major):1	350(attraction):1	545(ideal):1	809(sydney):1	2519(primarily):1	2731(cbd):1	6292(buisness):1	
+0	
+0	
+0	
+0	
+
+<Author>bob-a-roo
+<Content>the good the bad and the ugly The good news is this hotel in the heart of the CBD is probably the quietest we have stayed in. (we were on the 14th floor) The bad news is the bedroom in the Suite was so small it was impossible to take a suitcase in there or even get changed, so whoever is in the living area is treated to a strip/dress show each day. The ugly is the bathroom is on the opposite side of the suite to the bedroom and up two steps so be very careful when you use the bathroom in the night as you stagger out of the mini bedroom through the living room up two steps and into a shower which has no lights, quite novel we thought, a shower in darkness.Have to say the staff on reception were very helpful and pleasant.We did ask the manager for help with a larger bedroom but she was far from interested.  
+<Date>Dec 3, 2007
+<Rating>3	3	1	4	2	4	3	-1	
+<Aspects>
+0	
+0	
+32	2(night):1	8(day):1	13(bathroom):2	24(floor):1	50(bad):2	58(quiet):1	61(shower):2	92(help):1	108(suite):2	157(light):1	161(change):1	178(probably):1	206(live):2	258(manager):1	268(bedroom):4	320(treat):1	366(step):2	448(mini):1	450(heart):1	783(opposite):1	897(careful):1	974(suitcase):1	1169(impossible):1	1379(strip):1	1725(news):2	1872(ugly):2	1998(14th):1	2731(cbd):1	3388(whoever):1	5376(darkness):1	5588(stagger):1	6252(novel):1	
+0	
+0	
+4	0(staff):1	14(helpful):1	129(reception):1	150(pleasant):1	
+0	
+0	
+
+<Author>sarahspassport
+<Content>What a find! - Great location, Great Value I really struggled over where to stay in Sydney - I wanted style, location, facilities but I was also watching my budget. What I found at Saville 2 bond could not have delighted me more. The location was perfect for access to the Rocks, the Opera House, parks and the CBD. My room was beautifully appointed with 2 panel TVs, granite kitchen and bath, comfortable bed, crisp linens and my treasured washer/dryer. The front desk staff was lovely and though weather did not permit, the rooftop pool looked inviting. For a true fitness buff the workout room would come up short but unless you're willing to pay the price, you can't have it all.  
+<Date>Dec 2, 2007
+<Rating>5	4	5	5	5	4	-1	-1	
+<Aspects>
+0	
+7	19(price):1	42(pay):1	144(short):1	405(unless):1	983(fitness):1	1801(workout):1	6044(buff):1	
+16	11(bed):1	25(comfortable):1	226(bath):1	461(kitchen):1	579(appoint):1	630(linen):1	771(beautifully):1	1025(delight):1	1569(tvs):1	2134(panel):1	2293(crisp):1	2602(washer):1	2793(granite):1	2980(treasure):1	4205(bond):1	12915(saville):1	
+15	1(location):3	66(park):1	74(perfect):1	81(value):1	159(access):1	211(facility):1	245(watch):1	281(house):1	326(style):1	429(budget):1	773(rock):1	809(sydney):1	1374(opera):1	1979(struggle):1	2731(cbd):1	
+0	
+10	0(staff):1	20(look):1	22(pool):1	31(front):1	36(desk):1	87(lovely):1	385(weather):1	1063(rooftop):1	1210(invite):1	3149(permit):1	
+0	
+0	
+
+<Author>RINSO84
+<Content>Not up to previous standard We stayed for 7 nights. The reason we chose Saville 2 was that we wanted a apartment and we used them very successfully before. Saville 2 Bond was an excellent location for The Rocks, Circular Quay, Opera House and shopping, howeverSaville 2 bond did not meet our very good experiences at their properties in Adelaide, Melbourne and Perth (twice).  
+<Date>Nov 4, 2007
+<Rating>3	3	3	5	3	3	3	-1	
+<Aspects>
+3	2(night):1	130(standard):1	373(previous):1	
+0	
+5	167(choose):1	374(reason):1	751(apartment):1	7018(successfully):1	12915(saville):1	
+17	1(location):1	21(excellent):1	44(experience):1	49(shop):1	196(meet):1	214(property):1	281(house):1	347(twice):1	773(rock):1	1374(opera):1	1664(quay):1	1912(circular):1	4205(bond):2	6140(melbourne):1	7497(perth):1	9171(adelaide):1	12915(saville):1	
+0	
+0	
+0	
+0	
+
+<Author>wandererCheshire
+<Content>Disappointing Good location for seeing the sights, but the staff were totally disinterested. The 2 bedroom apartment had one tiny toilet/shower room and the built-in appliances were well past their best. The 4 night stay was a disappointing contrast to the Saville apartment in Brisbane, where we had stayed the week before and the staff had been very helpful and the apartment was spacious and well equiped.  
+<Date>Sep 25, 2007
+<Rating>3	3	2	5	2	1	1	2	
+<Aspects>
+0	
+0	
+17	0(staff):1	2(night):1	14(helpful):1	75(week):1	111(spacious):1	154(disappoint):1	268(bedroom):1	330(toilet):1	338(tiny):1	419(past):1	751(apartment):3	2835(contrast):1	2976(equipe):1	3434(appliance):1	5438(built-in):1	11877(brisbane):1	12915(saville):1	
+6	0(staff):1	1(location):1	154(disappoint):1	411(sight):1	611(totally):1	4625(disinterested):1	
+0	
+0	
+0	
+0	
+
+<Author>MaggieBrisbane
+<Content>Be Wary After staying at the Saville for three nights for a special rate for the Entertainment Card I should have spent the monies and gone elsewhere. I booked ages ago and specified a two bedroom apartment - non smoking. We also requested that the sofa bed be made up. I think that our apartment was a smoking one as there were very strong smells of cigarettes!!!Apartment was very small indeed - sofa bed was not made up till 11.30 that night - after three requests.Our apartment was on the first level - bedroom on Abercrombie Lane - this was a very noisy room plus curtains do not close properly so light comes in - had to sleep with earplugs in!!!Our apartment looked like it needed a huge makeover - very tatty - in fact felt extremely disappointed and told them so when I filled out the guest feedback form and guess what have not heard from them - thought they might touch base to speak to me - but have heard not one thing.Great location but not value for money!!!Maggie  
+<Date>Sep 12, 2007
+<Rating>1	1	1	2	1	3	3	-1	
+<Aspects>
+10	2(night):1	64(spend):1	78(rate):1	80(money):1	208(special):1	292(card):1	340(entertainment):1	646(elsewhere):1	3099(wary):1	12915(saville):1	
+3	1(location):1	80(money):1	81(value):1	
+40	2(night):1	11(bed):2	18(book):1	20(look):1	28(close):1	34(feel):1	69(tell):1	91(guest):1	104(sleep):1	110(extremely):1	127(speak):1	132(hear):2	133(huge):1	148(request):2	154(disappoint):1	157(light):1	203(plus):1	217(noisy):1	268(bedroom):2	279(touch):1	284(base):1	306(level):1	468(smoke):1	469(guess):1	491(fill):1	505(age):1	633(ago):1	743(curtain):1	751(apartment):4	842(sofa):2	979(till):1	990(indeed):1	1144(properly):1	1164(form):1	1771(earplugs):1	2566(lane):1	2824(feedback):1	3449(specify):1	3970(makeover):1	4461(tatty):1	
+0	
+5	231(smell):1	468(smoke):1	751(apartment):1	893(strong):1	1365(cigarette):1	
+0	
+0	
+0	
+
+<Author>PM-Rich
+<Content>Saville - Perfect Retreat in Sydney For a quick stay or longer getaway, the Saville in Sydney offers a great location to base your activities from. Priced right, our efficiency apartment was perfectly located in the Rocks area, right across the street from the Wyndam train stop and a five minute walk from Circular Quay.While small, the apartment was fully furnished (right down to dish detergent, paper towers, coffee maker, etc.) and offered all the needed conveniences. Bed was comfortable (important to me, with a bad back) and the shower was sublime.  
+<Date>Jul 20, 2007
+<Rating>4	4	5	5	4	5	4	-1	
+<Aspects>
+0	
+0	
+16	11(bed):1	25(comfortable):1	50(bad):1	61(shower):1	73(etc):1	89(offer):1	90(coffee):1	378(tower):1	751(apartment):1	776(paper):1	787(furnish):1	816(dish):1	925(convenience):1	996(maker):1	5565(detergent):1	5742(sublime):1	
+24	1(location):1	7(walk):1	19(price):1	29(minute):1	35(street):1	74(perfect):1	84(locate):1	89(offer):1	122(stop):1	182(train):1	284(base):1	299(quick):1	357(activity):1	595(perfectly):1	751(apartment):1	773(rock):1	809(sydney):2	1089(getaway):1	1664(quay):1	1912(circular):1	2244(re-treat):1	3547(efficiency):1	7933(wyndam):1	12915(saville):2	
+0	
+0	
+0	
+0	
+
+<Author>DublinPaul
+<Content>Great Location My wife and I stayed in the Saville for a week in April and thoroughly enjoyed. We were upgraded on arrival to a suite which suited as we had a 9 year old with us and gave us a little extra space. The suite was very comfortable and clean with everything we needed. The small pool on the 19th floor was great for our child to play in, especially to cool down after a few hours wandering around the city. The only negative was the noise from the airconditioning. The bedroom looked out onto an internal shaft where all the air conditioning units were situated. Even with the windows shut the noise was very annoying. Apart from that everything was excellent and its location, 5 minutes from Circular Quay was a major plus. We were also able to park our car in the underground car park which was very convenient.  
+<Date>Jun 7, 2007
+<Rating>4	4	4	5	4	2	4	-1	
+<Aspects>
+0	
+0	
+33	3(clean):1	20(look):1	22(pool):1	23(little):1	24(floor):1	25(comfortable):1	41(city):1	60(hour):1	94(noise):2	108(suite):2	119(window):1	126(especially):1	128(extra):1	163(upgrade):1	164(air):1	210(space):1	224(arrival):1	263(condition):1	268(bedroom):1	277(child):1	278(cool):1	282(negative):1	386(play):1	574(situate):1	695(annoy):1	861(suit):1	980(unit):1	1086(shut):1	1562(wander):1	1903(airconditione):1	2149(19th):1	2869(internal):1	3630(shaft):1	
+18	1(location):2	21(excellent):1	29(minute):1	51(enjoy):1	66(park):2	75(week):1	121(car):2	171(able):1	184(wife):1	186(convenient):1	203(plus):1	315(major):1	857(apart):1	898(thoroughly):1	1085(underground):1	1664(quay):1	1912(circular):1	12915(saville):1	
+0	
+0	
+0	
+0	
+
+<Author>Lesley M
+<Content>The filthiest hotel I've ever stayed in We booked this hotel on the strength of the reviews in trip advisor. Yes the location is good and the appartments are well-appointed but tiny. We had a two bedroomed one but the bedrooms were only about 3' wider than the beds all round. The living room/kitchenette was dark and dingy. But the entire appartment was absolutely filthy. The windows outside were so dirty that you could hardly see out and inside they were almost as bad. We stayed here for four days and the room wasn't hoovered or dusted once. The beds were made and the dishes washed but that was all. There was ingrained dirt around the shower and washbasins which I could scrape off with my nail. The shower door didn't fit properly so the bathroom floor flooded every time it was used. Apparently they are in the process of refurbing the hotel but I would steer clear of it until this is done.  
+<Date>May 10, 2007
+<Rating>2	4	2	5	1	3	1	2	
+<Aspects>
+8	189(absolutely):1	329(entire):1	863(apparently):1	1222(process):1	1320(filthy):1	3591(steer):1	4378(refurb):1	5034(appartment):1	
+0	
+30	5(time):1	8(day):1	11(bed):2	13(bathroom):1	24(floor):1	50(bad):1	54(door):1	61(shower):2	98(outside):1	119(window):1	206(live):1	268(bedroom):1	323(dirty):1	408(inside):1	459(dark):1	668(fit):1	811(wash):1	816(dish):1	860(wide):1	985(hardly):1	1144(properly):1	1749(dingy):1	1845(dust):1	1927(flood):1	2004(dirt):1	3281(nail):1	5153(scrape):1	7551(washbasin):1	9280(bedroome):1	10679(hoovere):1	
+5	1(location):1	250(yes):1	338(tiny):1	2440(well-appoint):1	5034(appartment):1	
+0	
+0	
+6	18(book):1	33(trip):1	37(review):1	701(advisor):1	1320(filthy):1	3283(strength):1	
+0	
+
+<Author>Keentraveller50
+<Content>Great location, excellent accommodation This is the second time we have stayed at the Saville 2 Bond Street and we were even more impressed this time around. We had a one bedroomed apartment on the first occasion but decided to stay in a studio as it was a bit cheaper. They were both very well-appointed and serviced daily. It is only about five minutes walk to Circular Quay from the property and despite being right on George Street, one of Sydney's main thoroughfares, we weren't bothered by noise at night as the aircon works well.The property has the service and quality of a hotel with the privacy of apartments.We would stay there again without hesitation.  
+<Date>May 3, 2007
+<Rating>4	4	4	4	4	4	-1	-1	
+<Aspects>
+1	1373(hesitation):1	
+0	
+7	52(bit):1	143(cheap):1	219(decide):1	751(apartment):1	871(occasion):1	1445(studio):1	9280(bedroome):1	
+22	1(location):1	2(night):1	5(time):2	7(walk):1	21(excellent):1	29(minute):1	35(street):2	94(noise):1	112(main):1	214(property):1	307(bother):1	343(impress):1	498(despite):1	721(accommodation):1	809(sydney):1	1664(quay):1	1912(circular):1	2257(aircon):1	2287(george):1	4205(bond):1	5203(thoroughfare):1	12915(saville):1	
+0	
+0	
+7	9(service):2	187(quality):1	214(property):1	360(daily):1	751(apartment):1	1183(privacy):1	2440(well-appoint):1	
+0	
+
+<Author>Baxie
+<Content>Location Location Location For the rates charged by Saville at 2 Bond St this hotel has to be the best located hotel in Sydney. I have stayed here on a number of occasions and always enjoyed my stay.The rooms are not traditional hotel bed and tele configuration they have a loung area and a kitchen are hence the term 'suites'. On my 1st visit i was upgraded. The breaksfasts in the cafe style breakfast area are extremely pleasant - the hotel has no real bar facilities but who cares just walk out the front door and you are awash with food and drink options!The easy access to Wynard Train and Bus Station makes travelling within the city so much easier whether you are travelling North, South, East or West.If you have a suite close to George Street then yes it can be a little noisy so best to ask for rooms at the back of the hotel.  
+<Date>Mar 30, 2007
+<Rating>4	4	4	4	4	5	3	4	
+<Aspects>
+3	51(enjoy):1	335(numb):1	871(occasion):1	
+0	
+15	11(bed):1	23(little):1	28(close):1	35(street):1	108(suite):2	217(noisy):1	250(yes):1	461(kitchen):1	1011(term):1	1241(traditional):1	2287(george):1	2306(hence):1	5294(configuration):1	11646(tele):1	12198(loung):1	
+19	1(location):3	41(city):1	68(travel):2	78(rate):1	82(station):1	84(locate):1	93(easy):2	120(bus):1	136(charge):1	159(access):1	182(train):1	684(North):1	769(south):1	809(sydney):1	940(St):1	948(east):1	953(west):1	4205(bond):1	12915(saville):1	
+0	
+0	
+15	6(breakfast):1	7(walk):1	16(food):1	27(bar):1	31(front):1	54(door):1	63(drink):1	110(extremely):1	150(pleasant):1	211(facility):1	240(real):1	242(care):1	275(cafe):1	326(style):1	336(option):1	
+2	65(visit):1	163(upgrade):1	
+
+<Author>MancOwl
+<Content>Cracking Place, Top Banana!       A view from the roof terrace  
+<Date>Mar 21, 2007
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+6	17(view):1	118(top):1	636(roof):1	673(terrace):1	1388(banana):1	1411(crack):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>CathalS
+<Content>Great Location!! Having in Sydney,l know where too stay etc and the cnr of George  Bond is one of the best locations you could stay in,in the CBD area.Within 5mins you can be at the Opera house,5-10mins to Darling harbour.With some of the best restaurants next door Est restaurant in the Establisment hotel next door,Zummit on level 47 right next door in Australia Sq.Try Flying fish near Star city Casino for Harbour views.Otherwise we stayed for 10nts in the suites,lovely pool  sun area on the roof,good gym and ideal staff.  
+<Date>Mar 13, 2007
+<Rating>5	4	4	5	4	4	4	4	
+<Aspects>
+0	
+9	17(view):1	41(city):1	76(try):1	102(near):1	103(star):1	538(casino):1	561(harbor):1	614(fly):1	653(fish):1	
+13	0(staff):1	22(pool):1	87(lovely):1	108(suite):1	420(sun):1	508(otherwise):1	523(gym):1	545(ideal):1	561(harbor):1	636(roof):1	1374(opera):1	1681(darling):1	3577(5min):1	
+6	1(location):2	73(etc):1	809(sydney):1	2287(george):1	2731(cbd):1	4205(bond):1	
+0	
+0	
+6	10(restaurant):2	54(door):3	306(level):1	1530(australia):1	1959(sq):1	5683(est):1	
+0	
+
+<Author>CumbrianGlobetrotter
+<Content>Good central location Stayed here for 3 nights. After I booked I was a bit concerned as all I kept reading about in the reviews was that it was really noisy. When we checked in we were on the 1st floor and as the hotel was full couldn't change. I have got to say that the outside noise really wasn't bad at all. If you choose a central location in a busy city you have to expect some traffic noise but as the bedroom was towards the back of the suite it really wasn't a problem. However, we must have been near where all the housekeeping staff meet up in the mornings and the noise they made was bad. The suite doors bang really loudly - you just can't close them quietly. The doors started banging about 6am and really disturbed you. Apart from this the suite was great. It was clean and modern with a lovely kitchen area and dishwasher. The bathroom was a bit on the small side.  
+<Date>Mar 1, 2007
+<Rating>4	3	5	4	5	3	3	-1	
+<Aspects>
+0	
+5	54(door):1	165(start):1	1067(disturb):1	1401(bang):1	7363(6am):1	
+33	0(staff):1	1(location):1	3(clean):1	13(bathroom):1	24(floor):1	28(close):1	32(check):1	41(city):1	50(bad):1	52(bit):1	54(door):1	56(morning):1	62(expect):1	87(lovely):1	94(noise):2	102(near):1	108(suite):3	151(modern):1	161(change):1	167(choose):1	168(central):1	196(meet):1	220(busy):1	268(bedroom):1	367(housekeeping):1	461(kitchen):1	486(traffic):1	857(apart):1	959(towards):1	1401(bang):1	2707(loudly):1	3405(dishwasher):1	3967(quietly):1	
+6	1(location):1	2(night):1	50(bad):1	94(noise):1	98(outside):1	168(central):1	
+0	
+0	
+6	18(book):1	37(review):1	52(bit):1	88(read):1	217(noisy):1	496(concern):1	
+0	
+
+<Author>KailuaTara
+<Content>Great Central Location, much better than the Rendezvous! My husband and I cancelled our reservation halfway through our stay at the Clarion Rendezvous up the street in the Rocks to stay at the Saville. We walked in one night on a whim just to see how much a room was because we just did not want to retrun to the Rendezvous! They immediately took us upstairs and showed us one of their studio rooms complete with washer and dryer, limestone shower and kitchenette complete with granite countertops and dishwasher! paradise! Right across from the Wynyard station and a couple of blocks from circular quay. Great location!  
+<Date>Feb 8, 2007
+<Rating>4	5	4	4	5	4	4	4	
+<Aspects>
+1	748(Paradise):1	
+0	
+15	2(night):1	7(walk):1	61(shower):1	489(immediately):1	622(complete):2	1165(kitchenette):1	1209(dryer):1	1358(upstairs):1	1445(studio):1	2602(washer):1	2793(granite):1	3405(dishwasher):1	5349(whim):1	5440(countertops):1	7883(rendezvous):1	
+17	1(location):2	35(street):1	82(station):1	99(couple):1	100(bloc):1	105(husband):1	156(reservation):1	168(central):1	773(rock):1	1065(cancel):1	1664(quay):1	1912(circular):1	3589(halfway):1	6671(wynyard):1	6846(clarion):1	7883(rendezvous):2	12915(saville):1	
+0	
+0	
+0	
+0	
+
+<Author>Don64
+<Content>Recommend. Myself hubby and 3 kids have stayed here several time's and never had any problems.  
+<Date>Jan 23, 2007
+<Rating>5	4	5	5	5	4	5	5	
+<Aspects>
+4	5(time):1	15(recommend):1	201(kid):1	2630(hubby):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>bigbirdiow
+<Content>Everything we wanted We stayed in the Saville for 4 nights and found the hotel everything we could wish for.The staff we most obliging and very friendly, the decor was very clean and our suite had a kitchen with every thing you could wish for.Although it is in the centre of the city it was very quiet and only a 5 minute walk to circular quay.We would most deffinatley stay in a Saville hotel again.  
+<Date>Jan 4, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+3	2(night):1	384(wish):1	12915(saville):2	
+0	
+15	0(staff):1	3(clean):1	7(walk):1	12(friendly):1	29(minute):1	41(city):1	58(quiet):1	101(center):1	108(suite):1	269(decor):1	384(wish):1	461(kitchen):1	1664(quay):1	1912(circular):1	2709(oblige):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Sweetrose
+<Content>Great service and space I have stayed at a couple of the Saville hotels around Australia now and I think they provide value for money apartment style accommodation. But what I do think is the crown in the jewel is their staff. I recently stayed at Saville in Bond Street Sydney and I found the girls on the desk to be lovely and the housemaid who serviced my room throughout my stay went out of her way to help me with several requests and I really appreciated that. They provide professional service but its WARM and caring service. I can choose to stay in several preferred hotels for work but I choose this one because they're small and they take care of you. Give me an apartment with a kitchen and laundry so I dont always have to spend big and its convenient. I also know they've purchased new beds and are in the process of upgrading their entertainment equipment and the hotel in general - which I found out from the housemaid!  
+<Date>Nov 15, 2006
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+0	
+11	9(service):1	80(money):1	81(value):1	99(couple):1	153(provide):1	210(space):1	326(style):1	721(accommodation):1	751(apartment):1	1530(australia):1	12915(saville):1	
+25	9(service):1	11(bed):1	35(street):1	36(desk):1	64(spend):1	87(lovely):1	92(help):1	148(request):1	163(upgrade):1	186(convenient):1	322(recently):1	340(entertainment):1	445(throughout):1	461(kitchen):1	500(appreciate):1	503(dont):1	625(girl):1	751(apartment):1	809(sydney):1	887(purchase):1	1075(laundry):1	1211(equipment):1	1222(process):1	4205(bond):1	12915(saville):1	
+3	167(choose):2	242(care):1	536(prefer):1	
+0	
+3	0(staff):1	2804(jewel):1	3194(crown):1	
+5	9(service):2	153(provide):1	236(warm):1	242(care):1	501(professional):1	
+0	
+
+<Author>HungryTraveller
+<Content>Avoid!!!!!!!!!!       Check out the mold and mildew in the shower!  
+<Date>Nov 7, 2006
+<Rating>1	3	1	5	3	3	2	2	
+<Aspects>
+1	436(avoid):1	
+0	
+4	32(check):1	61(shower):1	1138(mold):1	1876(mildew):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Hammermill
+<Content>Great hotel, great location! We stayed in this hotel over a weekend in August. Got a great rate on the internet and were pleasantly surprised at how nice and conveniently located this hotel was. We had a studio room with queen bed and fold-out sofa for our daughter. The kitchen was lovely and we made good use of the laundry facilities in the bathroom. The only problem we had was with the poorly-designed shower in the bathroom. The shower floor was pretty much flush with the bathroom floor and only separated by a thin metal door jamb. As you would expect, the floor was soaked after our showers!  
+<Date>Sep 7, 2006
+<Rating>5	5	5	5	5	5	4	4	
+<Aspects>
+1	172(weekend):1	
+0	
+21	11(bed):1	13(bathroom):3	24(floor):3	54(door):1	61(shower):3	62(expect):1	87(lovely):1	109(pretty):1	211(facility):1	461(kitchen):1	467(daughter):1	474(separate):1	543(Queen):1	754(thin):1	842(sofa):1	1075(laundry):1	1445(studio):1	1468(soak):1	1619(flush):1	2720(metal):1	8450(fold-out):1	
+8	1(location):1	4(nice):1	78(rate):1	84(locate):1	97(internet):1	199(surprise):1	747(pleasantly):1	1070(conveniently):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Excellent value and hotel Courteous and prompt staff. No problems. For longer stays the rooms are the best i've stayed in (and I travel 75%). Fully contained and full service units (1 bedroom unit with full kitchen, living room, bath room). Worth not collecting points from Marriott or Hilton just for the better room and central location - right beside Wynard station and in an area of town that is open late (not like most city fin districts).  
+<Date>Jul 13, 2006
+<Rating>5	4	5	-1	4	-1	5	-1	
+<Aspects>
+0	
+5	0(staff):1	21(excellent):1	81(value):1	483(courteous):1	1208(prompt):1	
+8	9(service):1	68(travel):1	206(live):1	226(bath):1	268(bedroom):1	461(kitchen):1	980(unit):2	1545(contain):1	
+13	1(location):1	41(city):1	79(late):1	82(station):1	96(worth):1	168(central):1	239(town):1	433(district):1	477(hilton):1	618(marriott):1	1350(beside):1	1889(collect):1	6649(fin):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Noise, Noise, Noise Just thinking about my stay at this hotel still makes me feel tierd! This was our first hotel on a six week trip to OZ, and was by far the worst. The noise over a weekend is unbearable, the windows are not double glazed and it feels as if you are sleeping on the curbside. It was impossible to sleep, what with the cars tooting their horns all night, the bar/night club next to the hotel playing load music, the numerous load mouthed drunks on the street and continuous police sirens this was not a pleasant stay.We did complain to the manager, who initially asked us what we expected if we chose to stay in the City Centre? I am a business traveller and I have stayed in numerous City Centre Hotels around the world. I have yet to come across one so badly sound proofed. Eventually we changed rooms, and although our new room was only 10 away from the brick wall of the neighbouring building, it was quieter. The curtains in the room did not block out light from the street or the cars.On a positive note, the room was well equiped, clean and everthing worked. My only complaint was that the air conditioning was NOT lound enough to block out the noise!!Be warned - do not stay here if you want to sleep. But if you want to party all night, shout, get drunk or cruise Bond Street tooting your car horn then this is the hotel for you.  
+<Date>May 31, 2006
+<Rating>2	3	2	-1	4	-1	3	-1	
+<Aspects>
+9	33(trip):1	34(feel):1	50(bad):1	75(week):1	94(noise):3	409(sound):1	1663(badly):1	1973(proof):1	3994(oz):1	
+0	
+30	3(clean):1	34(feel):1	35(street):1	58(quiet):1	94(noise):2	100(bloc):2	104(sleep):2	119(window):1	121(car):1	135(build):1	157(light):1	161(change):1	164(air):1	172(weekend):1	179(double):1	183(wall):1	190(complaint):1	263(condition):1	297(note):1	458(positive):1	679(warn):1	743(curtain):1	934(neighbour):1	1204(eventually):1	2003(brick):1	2144(glaze):1	2785(unbearable):1	2976(equipe):1	3464(everth):1	10604(curbside):1	
+9	2(night):1	35(street):1	63(drink):1	121(car):1	363(party):1	603(cruise):1	2146(shout):1	3100(horn):1	4205(bond):1	
+0	
+7	41(city):1	62(expect):1	101(center):1	167(choose):1	241(complain):1	258(manager):1	1439(initially):1	
+18	2(night):1	27(bar):1	35(street):1	104(sleep):1	121(car):1	150(pleasant):1	212(club):1	386(play):1	398(music):1	886(load):2	971(numerous):1	1169(impossible):1	1409(police):1	2282(siren):1	2470(mouth):1	3100(horn):1	4127(drunk):1	5329(continuous):1	
+6	41(city):1	101(center):1	147(business):1	267(traveler):1	272(world):1	971(numerous):1	
+
+<Author>Boardrider
+<Content>Service severely lacking We stayed here with our 2 year old last year. The apartment was booked for a month as it was a company relocation from overseas. The two bedroom apartment was not very big. The washing machine broke a couple of times. The dishwasher broke down constantly - the maintenance guys would say it was fixed when it wasn't. Management told us to leave the dirty dishes out and the housekeeping staff would wash up. However, they simply piled it all back into the dishwasher and left it dirty (this happened at least 3 times). Various complaints to the management over a number of days produced a bottle of wine as an apology. Housekeeping generally was slack and the room was apparently vacuumed only once in two weeks. Not the four and a half star hotel it claims to be. Beware - on weekends a lot of the rooms are booked out to groups of young people who are out drinking in the city. It is SOOOO noisy. There were parties in our corridor and people banging on the door in the middle of the night because they were too drunk to remember which room they were staying in. We lasted two weeks before moving out. The management refused to give the company a discount on the rates paid, despite our complaints. Definitely not recommended, particularly if you have kids and actually plan to use the kitchen/washing facilities.  
+<Date>May 22, 2006
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	75(week):1	207(move):1	217(noisy):1	228(break):1	368(guy):1	494(fix):1	995(constantly):1	1149(maintenance):1	2862(soooo):1	3405(dishwasher):1	
+11	42(pay):1	78(rate):1	103(star):1	190(complaint):1	283(half):1	498(despite):1	525(management):1	760(company):1	864(discount):1	1077(claim):1	1103(refuse):1	
+20	2(night):1	18(book):1	26(people):1	54(door):1	63(drink):1	75(week):1	268(bedroom):1	325(middle):1	363(party):1	367(housekeeping):1	375(remember):1	388(month):1	751(apartment):2	760(company):1	863(apparently):1	1073(corridor):1	1401(bang):1	2680(vacuum):1	4191(overseas):1	5555(slack):1	
+0	
+13	0(staff):1	5(time):1	43(leave):2	69(tell):1	323(dirty):2	367(housekeeping):1	382(happen):1	488(simply):1	525(management):1	811(wash):1	816(dish):1	2886(pile):1	3405(dishwasher):1	
+0	
+27	8(day):1	9(service):1	15(recommend):1	18(book):1	26(people):1	38(lot):1	41(city):1	59(definitely):1	63(drink):1	172(weekend):1	180(actually):1	190(complaint):1	201(kid):1	211(facility):1	221(plan):1	238(bottle):1	251(wine):1	335(numb):1	349(lack):1	461(kitchen):1	525(management):1	553(particularly):1	737(beware):1	823(various):1	1547(apology):1	2538(produce):1	4910(severely):1	
+5	5(time):1	99(couple):1	228(break):1	493(machine):1	811(wash):1	
+
+<Author>A TripAdvisor Member
+<Content>Very disappointing Really wanted to like this hotel because of its (mostly) gracious and eager-to-please staff, but stay was marred by several things including a washer that didn't work and a bathroom that came with a stench (even when newly cleaned) and none of the usual amenities like soap and shampoo. On the whole, stay was stressful, unrelaxing, and incredibly disappointing. The only positives were the cheerfulness, efficiency, and desire to help displayed by managers Margaret and Amy, and staff members Michael (of Fairfield, Australia) and David.  
+<Date>Apr 26, 2006
+<Rating>1	2	1	-1	3	-1	3	-1	
+<Aspects>
+3	154(disappoint):1	807(incredibly):1	3916(stressful):1	
+0	
+15	0(staff):1	3(clean):1	13(bathroom):1	71(include):1	154(disappoint):1	291(amenity):1	573(none):1	682(usual):1	965(soap):1	1051(shampoo):1	1189(newly):1	1501(gracious):1	1647(mar):1	2602(washer):1	3823(stench):1	
+0	
+0	
+13	0(staff):1	92(help):1	258(manager):1	458(positive):1	1219(desire):1	1530(australia):1	1908(michael):1	1917(display):1	1956(david):1	3547(efficiency):1	6802(fairfield):1	8807(amy):1	11687(margaret):1	
+0	
+0	
+
+<Author>staf
+<Content>Yes! I have just returned from a 5 day stay in Sydney at the Saville.It was simply outstanding in all the important areas. Great kitchen with all the appliances, bathroom with strong shower - (no bath in our room). The bed was large and comfy. The rooftop pool and spa were wonderful at night as no one but us used it and you get great city views from up there.The staff were all fantastic. We dealt with about 10 different staff during our stay and all were great. The had the quickest room service and housekeeping responses of any hotel I have stayed at.The concierge gave great advise and in the end he was planning all our meals and activities.I highly recommend the Saville to couples or families. You will not be disappointed.  
+<Date>Apr 25, 2006
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+19	2(night):1	8(day):1	15(recommend):1	17(view):1	22(pool):1	39(return):1	41(city):1	48(wonderful):1	99(couple):1	106(family):1	138(highly):1	154(disappoint):1	250(yes):1	314(spa):1	488(simply):1	534(outstanding):1	809(sydney):1	1063(rooftop):1	12915(saville):2	
+0	
+12	9(service):1	11(bed):1	13(bathroom):1	61(shower):1	226(bath):1	299(quick):1	367(housekeeping):1	461(kitchen):1	475(comfy):1	893(strong):1	1330(response):1	3434(appliance):1	
+0	
+0	
+8	0(staff):2	86(fantastic):1	140(deal):1	204(concierge):1	213(meal):1	221(plan):1	357(activity):1	663(advise):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Perfect hotel! Fabulous hotel! Rooms are wonderful, especially for a long stay since they have a washer/dryer in the bathroom, and a full, but small kitchen. Even a balcony. The layout of the room is very imaginative. The head concierge, Nathan is wonderful ~ very helpful and friendly. He was able to get us sold out tickets to Olivia Newton John singing with the Sydney Symphony Orchestra at the Opera house. The location is perfect!!! I would highly recommend it, we just returned from a wonderful 10 days with them.  
+<Date>Mar 26, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+7	8(day):1	15(recommend):1	39(return):1	48(wonderful):1	74(perfect):1	138(highly):1	270(fabulous):1	
+0	
+20	13(bathroom):1	48(wonderful):1	126(especially):1	171(able):1	191(balcony):1	281(house):1	461(kitchen):1	606(sell):1	621(ticket):1	809(sydney):1	1374(opera):1	1453(layout):1	1668(sing):1	2359(john):1	2602(washer):1	7729(symphony):1	8320(newton):1	8357(olivia):1	9256(imaginative):1	10260(orchestra):1	
+2	1(location):1	74(perfect):1	
+0	
+6	12(friendly):1	14(helpful):1	48(wonderful):1	204(concierge):1	319(head):1	3723(nathan):1	
+0	
+0	
+
+<Author>Poppageorgio
+<Content>Concierge was fantastic The Saville 2 Bond street Hotel, is perfectly located in the best part of town. Apon arrival to Sydney for our first time in Australia we went straight up and asked the concierge what we should see, There Head Concierge straight away pulled out a map and started showing us the must see attractions and land marks, He went out of his way to help us book Sydney Tours, Blue Mountain Tours, Opera House Tickets and even got us a rental car to use. I've never packed so much into one holiday before and i truelly would say it was well worth it. Great Hotel with great staff.  
+<Date>Mar 24, 2006
+<Rating>5	4	4	-1	4	-1	5	-1	
+<Aspects>
+3	96(worth):1	223(holiday):1	715(pack):1	
+23	5(time):1	18(book):1	92(help):1	121(car):1	165(start):1	181(tour):2	204(concierge):2	224(arrival):1	281(house):1	319(head):1	350(attraction):1	621(ticket):1	694(blue):1	724(map):1	809(sydney):2	827(straight):2	858(pull):1	882(mark):1	963(rental):1	1346(land):1	1374(opera):1	1509(mountain):1	1530(australia):1	
+0	
+8	35(street):1	84(locate):1	86(fantastic):1	204(concierge):1	239(town):1	595(perfectly):1	4205(bond):1	12915(saville):1	
+0	
+1	0(staff):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Spend your money elsewhere. There is little reason to select the Saville 2 Bond for your hotel. If you are a business traveler, you'll find the facilities lacking (exorbitantly priced broadband access at dialup speeds, etc.). For someone on holiday,you'll be left in an empty business district after 6pm and on weekends. The rooms are smallish and overpriced. Most frustrating of all is the scant attention given to customer service. While a couple of employees werefriendly, there are a few that were unpleasant and even rude. I generally found that my requests and complaints were either ignored, or simply forgotten. In one frustrating incident, staff and management denied a problem existed even after I offered to demonstrate it. Blame the customer is the preferred service technique. I discovered that I was not alone, as I'd observed several guests arguing with the front desk employees over various issues. There are far better choices available for your hotel needs. Recommendation: AVOID.  
+<Date>Oct 8, 2005
+<Rating>1	2	3	-1	2	-1	1	-1	
+<Aspects>
+14	23(little):1	64(spend):1	80(money):1	99(couple):1	374(reason):1	392(rude):1	436(avoid):1	577(recommendation):1	608(employee):1	646(elsewhere):1	1294(select):1	1747(unpleasant):1	4205(bond):1	12915(saville):1	
+4	107(choice):1	134(available):1	727(overprice):1	2104(smallish):1	
+0	
+7	43(leave):1	147(business):1	172(weekend):1	223(holiday):1	433(district):1	810(empty):1	7686(6pm):1	
+0	
+22	0(staff):1	31(front):1	36(desk):1	89(offer):1	91(guest):1	148(request):1	190(complaint):1	265(issue):1	397(forget):1	488(simply):1	525(management):1	608(employee):1	823(various):1	869(discover):1	1215(ignore):1	1574(frustrate):1	1894(argue):1	2013(incident):1	2039(exist):1	3067(deny):1	3147(observe):1	6245(demonstrate):1	
+7	9(service):2	428(customer):2	536(prefer):1	726(attention):1	1574(frustrate):1	2219(blame):1	8742(technique):1	
+9	19(price):1	73(etc):1	147(business):1	159(access):1	211(facility):1	267(traveler):1	349(lack):1	1170(speed):1	2825(broadband):1	
+
+<Author>Holidaymad
+<Content>Great hotel I would definitely recommend staying at this hotel. The location is great - it is within easy walking distance of Circular Quay, The Rocks, Darling Harbour and the shops! We had a studio apartment (which is ideal for a couple) which was of a very high standard and had all the amenities you need (kitchen, washer/dryer etc). The only downside to the apartment was that there was no bath (only a walk-in shower).When we arrived at the hotel our booking wasn't on theirsystem and although we weren't given any explanation they did sort it out very quickly.  
+<Date>Aug 28, 2005
+<Rating>5	3	5	-1	5	-1	4	-1	
+<Aspects>
+2	15(recommend):1	59(definitely):1	
+0	
+13	61(shower):1	73(etc):1	99(couple):1	130(standard):1	226(bath):1	291(amenity):1	461(kitchen):1	545(ideal):1	751(apartment):2	782(downside):1	1445(studio):1	2367(walk-in):1	2602(washer):1	
+10	1(location):1	7(walk):1	49(shop):1	93(easy):1	115(distance):1	561(harbor):1	773(rock):1	1664(quay):1	1681(darling):1	1912(circular):1	
+0	
+0	
+5	18(book):1	53(arrive):1	471(quickly):1	557(sort):1	2693(explanation):1	
+0	
+
+<Author>SallyNSW
+<Content>Loved Saville 2 Bond St, Sydney _ Great Boutique Hotel We recently stayed at Saville 2 Bond Street and were impressed by the quality of the apartments. Ours was a studio apartment with separate lounge area and a really smart kitchen with everything you could possibly need. Lots of space and very comfortable. There is a cafe bar in the hotel lobby where we had breakfast - great coffee. The hotel has a central location and the concierge staff were very helpful with directions to the Rocks markets and the MCA, which were a 10 minute walk away. All staff we encountered were very friendly. We would recommend for couples looking for a boutique hotel weekend escape.  
+<Date>Aug 15, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+11	25(comfortable):1	38(lot):1	210(space):1	237(lounge):1	461(kitchen):1	474(separate):1	751(apartment):1	843(ours):1	1233(possibly):1	1445(studio):1	1687(smart):1	
+26	0(staff):1	1(location):1	7(walk):1	14(helpful):1	15(recommend):1	20(look):1	29(minute):1	35(street):1	40(love):1	99(couple):1	168(central):1	172(weekend):1	187(quality):1	204(concierge):1	264(market):1	322(recently):1	343(impress):1	395(direction):1	623(boutique):2	751(apartment):1	773(rock):1	809(sydney):1	940(St):1	1601(escape):1	4205(bond):2	12915(saville):2	
+0	
+3	0(staff):1	12(friendly):1	693(encounter):1	
+5	6(breakfast):1	27(bar):1	55(lobby):1	90(coffee):1	275(cafe):1	
+0	
+

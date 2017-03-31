@@ -1,0 +1,644 @@
+<Author>TwoSixFiveOh
+<Content>Quaint, Refurbished, Clean This hotel is located next to the New South Wales Police Headquarters, nearer to Oxford St (the gay/lesbian precinct of Sydney). The hotel has been refurbished recently (so everything is new) but the hotel lifts are probably its charm. It functions well but the way you have to run around [each lift has doors facing in a different direction]. Rooms are clean and equipped with LCD TVs. Broadband is available but expensive. There are computers in the lobby too that you can use (also chargeable). Note that the corridors outside the rooms are narrow. And I mean, really narrow. Two persons could not pass each other without one stopping! But once inside the room, it's ok. Some rooms have horrible views so if you plan to stay in to work/rest, ask for rooms that face Riley St (you can a view of the city). Occasionally if the tourist buses show up, the breakfast downstairs is a bit of a rush. But if you are willing to walk about 3 minutes onto Oxford St, you can get any kind of breakfast you want. For the price it charges, it's got the most horrible car park facility in the world - using it is an experience itself you will not forget.  
+<Date>Dec 31, 2008
+<Rating>3	3	4	3	4	3	3	3	
+<Aspects>
+14	54(door):1	122(stop):1	149(run):1	178(probably):1	193(person):1	246(mean):1	322(recently):1	332(charm):1	395(direction):1	400(pass):1	591(lift):2	1207(narrow):1	1253(refurbish):1	1780(function):1	
+12	19(price):1	44(experience):1	66(park):1	121(car):1	124(expensive):1	134(available):1	136(charge):1	211(facility):1	272(world):1	397(forget):1	544(horrible):1	2825(broadband):1	
+22	3(clean):1	6(breakfast):1	17(view):2	41(city):1	52(bit):1	98(outside):1	120(bus):1	123(ok):1	209(tourist):1	221(plan):1	297(note):1	408(inside):1	544(horrible):1	691(downstairs):1	884(equip):1	940(St):1	1073(corridor):1	1207(narrow):1	1244(rush):1	1569(tvs):1	1773(lcd):1	2533(occasionally):1	
+17	3(clean):1	6(breakfast):1	7(walk):1	29(minute):1	84(locate):1	102(near):1	769(south):1	809(sydney):1	940(St):2	1253(refurbish):1	1295(quaint):1	1409(police):1	2552(gay):1	3801(oxford):2	6327(headquarters):1	8489(precinct):1	9274(wale):1	
+0	
+0	
+0	
+3	55(lobby):1	555(computer):1	10551(chargeable):1	
+
+<Author>novelty-traveller
+<Content>Best Kept Secret My partner and I stayed at the Quality Hotel Cambridge when I attended a conference on a Friday and ended up extending to stay over the weekend. We took a bus to go to the races at Randwick on the Saturday and explored the fashion boutiques nearby on the Sunday. What a surprise it was to stay in this hotel, all the staff were very friendly and helpful. The foyer and lifts were trendy with rainbow color lights that keep changing color. We stayed in a Premium Queen Room with nice views to the city skyline. The room was very clean and spacious with a large balcony (rare in a city hotel). The hotel is well located and is close to lots of new trendy bars and restaurants.. This hotel is the best kept secret in Sydney.  
+<Date>Oct 24, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+2	809(sydney):1	1127(secret):1	
+9	172(weekend):1	187(quality):1	794(conference):1	826(attend):1	923(friday):1	1006(partner):1	1127(secret):1	1303(extend):1	4114(cambridge):1	
+17	3(clean):1	4(nice):1	17(view):1	41(city):2	111(spacious):1	157(light):1	161(change):1	191(balcony):1	543(Queen):1	591(lift):1	942(color):2	1413(trendy):1	1465(premium):1	1924(rare):1	1931(foyer):1	2526(skyline):1	2950(rainbow):1	
+14	10(restaurant):1	27(bar):1	28(close):1	38(lot):1	84(locate):1	120(bus):1	232(nearby):1	594(explore):1	818(saturday):1	844(sunday):1	1413(trendy):1	1745(fashion):1	3167(race):1	3286(boutiques):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	199(surprise):1	
+0	
+0	
+
+<Author>Summerstyle
+<Content>Hip Hip Hooray! Hi fellow travellers, I would like to tell all about a hip hotel i came across called the Cambridge in Sydney. After returning from Japan via Singapore, we were looking for something that was a little different, fashionable, clean, and in a great location to stay. This was definately it. When we arrived, we were greated by a modern lobby, two Vespa scooters, and a group of motivated receptionists, who made the check in simple, polite and quick. After a couple of drinks at the bar, (changing lights!) , we proceeded to explore the famous Oxford Street which was merely 100m away. We thoroughly enjoyed the walk, and returned to the Hotel for a well deserved rest. We had booked a Deluxe room which was large , modern, clean and comfortable. Our room also had great views of the city at night. We ordered drinks in room service and had a good night sleep on a very comfortable bed.We explored Sydney City, (10 mins walk away), with Darling harbour, Shopping and the Opera House and stayed another night before leaving. All in all, a great hotel with our recommendation. We will definately return for a longer stay.  
+<Date>Oct 20, 2008
+<Rating>5	5	5	5	5	5	4	4	
+<Aspects>
+12	39(return):1	67(call):1	69(tell):1	267(traveler):1	410(definately):2	577(recommendation):1	809(sydney):1	1491(hip):3	1742(fellow):1	1863(hi):1	4114(cambridge):1	9962(hooray):1	
+0	
+12	2(night):2	3(clean):1	9(service):1	11(bed):1	17(view):1	18(book):1	25(comfortable):2	41(city):1	63(drink):1	104(sleep):1	151(modern):1	648(deluxe):1	
+30	1(location):1	2(night):1	3(clean):1	7(walk):2	20(look):1	23(little):1	35(street):1	39(return):2	41(city):1	43(leave):1	49(shop):1	51(enjoy):1	247(min):1	281(house):1	288(rest):1	512(via):1	561(harbor):1	594(explore):2	809(sydney):1	898(thoroughly):1	960(singapore):1	1072(deserve):1	1296(famous):1	1374(opera):1	1681(darling):1	1900(japan):1	2150(proceed):1	3378(merely):1	3801(oxford):1	5105(fashionable):1	
+0	
+11	32(check):1	53(arrive):1	55(lobby):1	151(modern):1	299(quick):1	422(polite):1	613(simple):1	855(receptionist):1	3572(greate):1	4566(scooter):1	5957(motivate):1	
+5	27(bar):1	63(drink):1	99(couple):1	157(light):1	161(change):1	
+0	
+
+<Author>captainpaula
+<Content>Great rooms!       Bathroom  huge shower  
+<Date>Oct 3, 2008
+<Rating>4	4	5	4	5	3	3	-1	
+<Aspects>
+0	
+0	
+3	13(bathroom):1	61(shower):1	133(huge):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>UKfredd
+<Content>Relaxing at Cambridge Coming from Tasmania, we decided to enjoy a relaxing weekend in Sydney, before returning to U.K. Our travel agent recommended that we try the Cambridge in Sydney, as it was refurbished and yet inexpensive. Based on this advise, we arrived on the Friday night and was pleasantly surprised. It was new ,trendy, and in a great area, Surry Hills. We were given an express check in for the Deluxe Room, which was very clean, with modern furnishings and bathroom. We quickly unpacked, and proceeded to the bar for a quick drink before enjoying a walk up Oxford Street, which was great for shopping, dining and entertaining.When we returned, the staff at front desk were quite helpful in recommending what to do for our short stay in Sydney, as well as organising a wake up call, and breakfast the next day.We had a great sleep on the large bed and enjoyed breakfast the next day for $12.95 which I thought was good value.The holiday break was the best thing to do, and I can thoroughly recommenend this hotel for any holiday traveller. Its not often, that you can still find great value and service , especially in a city hotel.  
+<Date>Sep 30, 2008
+<Rating>5	5	5	5	5	4	4	4	
+<Aspects>
+13	2(night):1	53(arrive):1	199(surprise):1	223(holiday):2	228(break):1	267(traveler):1	284(base):1	663(advise):1	747(pleasantly):1	756(hill):1	898(thoroughly):1	923(friday):1	1413(trendy):1	
+18	9(service):1	15(recommend):1	39(return):1	41(city):1	51(enjoy):1	68(travel):1	76(try):1	81(value):1	126(especially):1	160(relax):2	172(weekend):1	219(decide):1	766(agent):1	809(sydney):2	1117(inexpensive):1	1253(refurbish):1	4114(cambridge):2	8280(u.k):1	
+13	3(clean):1	6(breakfast):1	8(day):1	11(bed):1	13(bathroom):1	32(check):1	51(enjoy):1	81(value):1	104(sleep):1	151(modern):1	648(deluxe):1	870(furnishings):1	1124(express):1	
+13	7(walk):1	27(bar):1	35(street):1	49(shop):1	51(enjoy):1	63(drink):1	299(quick):1	316(dine):1	471(quickly):1	1045(entertain):1	2150(proceed):1	2179(unpack):1	3801(oxford):1	
+0	
+13	0(staff):1	6(breakfast):1	8(day):1	14(helpful):1	15(recommend):1	31(front):1	36(desk):1	39(return):1	67(call):1	144(short):1	554(wake):1	809(sydney):1	1167(organize):1	
+0	
+0	
+
+<Author>newearth
+<Content>Average...with some problems Stayed for two nights in a queen standard in Aug 2008. It was our second time there. When we stayed there first time (April 2008), the room was a lot larger with bath tub. But, this time the room was quite small with a very small bathroom. The bathroom didn't have a bath tub and very very simple style without any space where you can put even your small toiletry bag. We couldn't open the bathroom door and the shower door at the same time. The room and the bathroom were clean when we arrived. However, the next morning, the room cleaner didn't bother changing pillar cases and bed sheet (the bed was made though). We noticed that when we got back and told the reception. Someone brought two pillar cases, the bed and blanket sheets, but, without changing them himself, he just left them with us which we did it ourselves. I'm not sure if it was the hotel policy, not to change them for an environmental or ecomonical reason, or they just have a slack cleaner there.So if you'd like your bed made with clean sheets everyday, make sure you leave a notice on the bed :-)  
+<Date>Sep 12, 2008
+<Rating>2	3	2	3	4	3	3	-1	
+<Aspects>
+6	2(night):1	5(time):1	130(standard):1	227(average):1	543(Queen):1	2404(aug):1	
+0	
+26	3(clean):3	5(time):3	11(bed):5	13(bathroom):4	38(lot):1	43(leave):2	53(arrive):1	54(door):2	56(morning):1	61(shower):1	142(bring):1	161(change):2	210(space):1	226(bath):2	290(bag):1	307(bother):1	311(tub):2	326(style):1	354(notice):1	479(sheet):3	605(everyday):1	613(simple):1	657(toiletry):1	767(ourselves):1	1369(blanket):1	7441(pillar):2	
+0	
+6	3(clean):1	161(change):1	374(reason):1	1634(policy):1	5555(slack):1	9239(environmental):1	
+3	69(tell):1	129(reception):1	354(notice):1	
+0	
+0	
+
+<Author>aguycalledbruce
+<Content>Great hotel - very comfortable This was a hotel that we booked at short notice at a fantastic price - just 115 Aus dollars for the night.The staff were great - very helpful. The room (Superior Queen) was wonderful - huge and very comfortable- and the position is great!Just a couple of things... the breakfast is not great. Poorly cooked and rather unappetising.Secondly is a perennial warning for parents that many hotels are guilty of - the water is absolutely scaldingly hot. It could cause serious harm to a child if they fell into a very hot bath.Other than these- great! I wouldn't hesitate to visit again.  
+<Date>Aug 18, 2008
+<Rating>4	5	5	4	-1	4	4	-1	
+<Aspects>
+17	57(water):1	65(visit):1	114(hot):2	189(absolutely):1	226(bath):1	277(child):1	550(cook):1	587(fall):1	679(warn):1	902(hesitate):1	943(cause):1	1197(parent):1	1469(serious):1	1635(poorly):1	2985(secondly):1	5479(guilty):1	6751(harm):1	
+9	2(night):1	18(book):1	19(price):1	25(comfortable):1	86(fantastic):1	144(short):1	354(notice):1	430(dollar):1	2716(au):1	
+6	25(comfortable):1	48(wonderful):1	133(huge):1	543(Queen):1	785(superior):1	1093(position):1	
+0	
+0	
+2	0(staff):1	14(helpful):1	
+2	6(breakfast):1	99(couple):1	
+0	
+
+<Author>Annabelle8888
+<Content>Value, and modern When we arrived early, 11am I think, the staff at front desk were kind enough to give us our room immediately, which made it easy to rest after a long flight.We did observe that the room was very clean and especially the bathroom, this really makes all the difference.When we actually woke up, we were surprised to see a wonderful sunset over the city from our room. It was a deluxe room, and although not required was a pleasant surprise.We later went down to the bar, which was a cosy and warm atmosphere, and drank a few cocktails before going out to meet friends in Sydney, its a good place for a quick drink. As it turned out, we had more than one drink. The waitress was particularly helpful and attentive.I like the position of the building too. Comfortable walk to the city without being right in the office district.Well overall, a good experience, good value, and well worth returning.  
+<Date>Jul 30, 2008
+<Rating>4	4	4	5	5	5	4	4	
+<Aspects>
+0	
+5	39(return):1	44(experience):1	70(overall):1	81(value):1	96(worth):1	
+14	3(clean):1	13(bathroom):1	41(city):1	48(wonderful):1	126(especially):1	150(pleasant):1	180(actually):1	199(surprise):2	554(wake):1	648(deluxe):1	722(require):1	819(difference):1	1246(sunset):1	3147(observe):1	
+7	7(walk):1	25(comfortable):1	41(city):1	135(build):1	433(district):1	792(office):1	1093(position):1	
+0	
+15	0(staff):1	14(helpful):1	31(front):1	36(desk):1	53(arrive):1	81(value):1	93(easy):1	151(modern):1	233(flight):1	288(rest):1	489(immediately):1	537(attentive):1	553(particularly):1	1387(waitress):1	7969(11am):1	
+11	27(bar):1	63(drink):3	79(late):1	146(friend):1	196(meet):1	236(warm):1	299(quick):1	414(atmosphere):1	716(cocktail):1	749(cozy):1	809(sydney):1	
+0	
+
+<Author>TravelNut004
+<Content>Not Choice Hotels Quality Inn Quality Very dissappointing as I am a great fan of the Choice Hotel chain in the USA, especially Quality and Comfort Inns. Very small rooms and generally below Choice standards.. I would advise against.  
+<Date>Jul 27, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	663(advise):1	
+11	107(choice):3	126(especially):1	130(standard):1	187(quality):3	324(inn):2	585(below):1	627(chain):1	661(fan):1	702(comfort):1	1474(usa):1	2683(dissappoint):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>mella2007
+<Content>Does not deserve all the accolades. Average, Average!       Lounge  
+<Date>Jul 22, 2008
+<Rating>3	3	-1	3	4	3	3	2	
+<Aspects>
+1	227(average):2	
+0	
+0	
+0	
+0	
+0	
+3	237(lounge):1	1072(deserve):1	7771(accolade):1	
+0	
+
+<Author>pomkitanner
+<Content>Sardine Syndrome We stayed at this property on two separate days in August.One reason for the choice was reviews which highlighted the refurbishment recently undertaken. If this is a definition of refurbishment I would not like to have seen our room prior. We also chose this hotel after viewing web photos of room interiors on a number of booking sites. My first impression upon entering the room was Pokey! We had booked a triple room and expected to find three permanent beds. Not so. Although barely acceptable for a couple this double room was certainly unacceptable for 3 adults. A rollaway bed was thrown into what was designed as a small lounge area thereby negating any thought of relaxing in the evening. No thought was given to extra towels,chairs, glasses etc for the third person. Upon checkout, i reminded reception of our return in 4 days and my expectation of improvement. The duty manager assured us he would take care of things.We found our room to be marginally bigger however the rollaway bed was back! AND, No extra towels,cups glasses etc. It took two more calls to reception before these were provided, (we thought grudgingly ) On a positive note , the location was excellent, walking distance to many places of interest. Great pub opposite for bar lunches. In summary this was not a comfortable stay, essentially we felt cheated! We booked and paid for a room for three adults. Not a memorable experience ! We shall not return!  
+<Date>Jul 9, 2008
+<Rating>2	2	2	3	3	3	2	-1	
+<Aspects>
+6	25(comfortable):1	34(feel):1	39(return):1	1716(summary):1	2977(essentially):1	3934(cheat):1	
+12	18(book):1	37(review):1	42(pay):1	44(experience):1	107(choice):1	322(recently):1	374(reason):1	556(adult):1	1141(highlight):1	1205(memorable):1	2253(refurbishment):1	9402(undertake):1	
+39	11(bed):3	17(view):1	18(book):2	62(expect):1	73(etc):1	99(couple):1	125(towel):1	128(extra):1	160(relax):1	167(choose):1	179(double):1	192(site):1	193(person):1	198(chair):1	237(lounge):1	327(glass):1	335(numb):1	516(design):1	532(third):1	556(adult):1	601(enter):1	637(prior):1	761(photo):1	848(impression):1	917(throw):1	1019(web):1	1020(barely):1	1026(interior):1	1214(acceptable):1	1553(triple):1	2230(unacceptable):1	2253(refurbishment):1	2952(rollaway):2	5102(permanent):1	5547(pokey):1	5895(marginally):1	6011(definition):1	9545(thereby):1	12016(negate):1	
+14	1(location):1	7(walk):1	21(excellent):1	27(bar):1	67(call):1	115(distance):1	129(reception):1	153(provide):1	252(lunch):1	297(note):1	458(positive):1	783(opposite):1	1393(pub):1	9553(grudgingly):1	
+0	
+11	8(day):1	39(return):1	129(reception):1	242(care):1	258(manager):1	431(expectation):1	658(checkout):1	1285(remind):1	1325(duty):1	1349(assure):1	1486(improvement):1	
+10	8(day):1	73(etc):1	125(towel):1	128(extra):1	214(property):1	327(glass):1	474(separate):1	800(cup):1	7642(sardine):1	12885(syndrome):1	
+0	
+
+<Author>JacksonQueensland
+<Content>How has this hotel won awards? This was extremley disappointing - especially after all the awards they seem to have won!We had a suite as there were 3 of us, it was small, dated and grim -facing the back of the buidling. They eventually wheeled in a bed which looked like a hospital bed after several calls when we realised that there was nowhere for the 3rd person to sleep.The bar service was dreadful - waited half an hour for the barman to make a Mohitio cocktail (this included time for them to run out and get mint!) when it arrived it looked like a glass of pond water and didnt taste any better - they had also poured some scary syrup like mixture from a plastic ice cream tub into the drink. The pool is small and echoey and overlooked by rooms, the gym consists of one machine. If this hotel was a hostel and prices reflected this then fine - but for the cost and the fact its rated 4 star it is wholefully out of its depth. On a positive note we did get a free upgrade to a luxury suite (basic certainly not luxury) and free drinks.  
+<Date>Jul 2, 2008
+<Rating>1	1	1	3	2	2	1	-1	
+<Aspects>
+5	126(especially):1	154(disappoint):1	1273(win):2	2945(award):2	7076(extremley):1	
+8	19(price):1	78(rate):1	103(star):1	113(fine):1	175(cost):1	1560(hostel):1	2250(reflect):1	4815(depth):1	
+26	11(bed):2	20(look):1	22(pool):1	46(free):2	63(drink):1	67(call):1	104(sleep):1	108(suite):2	163(upgrade):1	193(person):1	260(overlook):1	297(note):1	352(basic):1	437(luxury):2	458(positive):1	493(machine):1	511(date):1	523(gym):1	607(realize):1	1185(consist):1	1204(eventually):1	1911(hospital):1	2097(3rd):1	2495(wheel):1	6235(grim):1	8459(buidl):1	
+0	
+0	
+0	
+28	5(time):1	9(service):1	20(look):1	27(bar):1	53(arrive):1	57(water):1	60(hour):1	63(drink):1	71(include):1	85(wait):1	149(run):1	283(half):1	311(tub):1	327(glass):1	439(taste):1	547(ice):1	626(didnt):1	716(cocktail):1	1188(cream):1	1347(plastic):1	1566(scary):1	1764(pour):1	2281(pond):1	2895(dreadful):1	3315(barman):1	3649(mixture):1	3856(mint):1	4843(syrup):1	
+0	
+
+<Author>yvr1
+<Content>Nice hotel Nice hotel located near the gay area of the city. Within walking distance to good shopping, transportation very close by. Nice clean rooms, except for the large metal garbage cans located in the bathroom, the type one would find under a kitchen sink. Room overlooked the very nice swimming pool. Check-in quick and friendly, restaurant and internet also available.  
+<Date>Jun 24, 2008
+<Rating>3	3	3	4	4	4	-1	-1	
+<Aspects>
+0	
+0	
+13	3(clean):1	4(nice):2	13(bathroom):1	22(pool):1	84(locate):1	260(overlook):1	261(swim):1	337(except):1	389(type):1	461(kitchen):1	509(sink):1	1650(garbage):1	2720(metal):1	
+10	4(nice):2	7(walk):1	28(close):1	41(city):1	49(shop):1	84(locate):1	102(near):1	115(distance):1	728(transportation):1	2552(gay):1	
+0	
+6	10(restaurant):1	12(friendly):1	97(internet):1	134(available):1	286(check-in):1	299(quick):1	
+0	
+0	
+
+<Author>Ritta626
+<Content>Good Location, Nice Renovations Excellent staff, nicely modern lobby area. Rooms can be on the small side but are clean and also modern, though do appear to still be under renovations (one of our two rooms had a fairly older looking shower stall). Short walk to the Oxford St. shopping area, a bit longer of a walk to Darling Harbor area. Thankfully, easy access to the city's bus system is nearby. In room internet service may not be included, but can be added for fee. Very good bargain option.  
+<Date>Jun 15, 2008
+<Rating>4	5	3	4	4	5	3	3	
+<Aspects>
+0	
+2	336(option):1	759(bargain):1	
+19	0(staff):1	1(location):1	3(clean):1	4(nice):1	9(service):1	20(look):1	21(excellent):1	55(lobby):1	61(shower):1	71(include):1	97(internet):1	151(modern):2	351(add):1	404(nicely):1	462(fairly):1	541(appear):1	584(fee):1	687(renovation):2	1701(stall):1	
+8	7(walk):2	49(shop):1	52(bit):1	144(short):1	561(harbor):1	655(st):1	1681(darling):1	3801(oxford):1	
+0	
+0	
+0	
+7	41(city):1	93(easy):1	120(bus):1	159(access):1	232(nearby):1	518(system):1	1893(thankfully):1	
+
+<Author>traveller830
+<Content>Good value but noisy Stayed here as it represented good value for money for Sydney. Room was clean, but bathroom was pretty old. There was an ironing board, but no iron. The main thing to note is the noise. The rooms that overlook the pool pick up the echoes of every footstep and conversation of guests, plus the rattles and clunks of the staff cleaning trolleys in the morning. The sauna is good, gym is very basic. Staff at reception not overly helpful. Location is good - walking distance to bars and cafes at Oxford Street and through Hyde Park into the city.Overall - it's OK if there's not much else in your price range, but usually for the price you can get slightly better elsewhere.  
+<Date>Jun 7, 2008
+<Rating>3	3	3	4	4	2	2	-1	
+<Aspects>
+5	94(noise):1	112(main):1	297(note):1	600(board):1	868(iron):2	
+13	19(price):2	70(overall):1	80(money):1	81(value):2	123(ok):1	170(else):1	217(noisy):1	399(usually):1	598(slightly):1	646(elsewhere):1	714(range):1	809(sydney):1	2535(represent):1	
+15	0(staff):1	3(clean):2	13(bathroom):1	22(pool):1	56(morning):1	91(guest):1	109(pretty):1	203(plus):1	260(overlook):1	266(pick):1	1079(trolley):1	1281(conversation):1	2745(echo):1	4511(rattle):1	5067(footstep):1	
+10	1(location):1	7(walk):1	27(bar):1	35(street):1	41(city):1	66(park):1	115(distance):1	275(cafe):1	2816(hyde):1	3801(oxford):1	
+0	
+4	0(staff):1	14(helpful):1	129(reception):1	1345(overly):1	
+3	352(basic):1	523(gym):1	1422(sauna):1	
+0	
+
+<Author>justatravelingmom
+<Content>Very Happy With This Hotel Stayed here for the first 2 nights of an 8 day stay in Sydney. Chose this hotel for its proximity to Central Station, Oxford Street, and walking distance to Paddington (restaurants, shopping). I checked out many hotels in this area by rates and reviews before deciding on this hotel. I got a very reasonable rate for the hotel by going directly to the Choice Hotels website, and prior reviews sounded like this would be a good choice. I was very happy with what I found!!It was about a 20 minute walk to the hotel from the Central Train Station (albeit uphill the way I went and pulling my suitcase). There was an area to leave my luggage as I arrived before check-in (2:00 pm) and wanted to wander the area. ($10.00 key deposit to lock up luggage, refunded when you pick up luggage and return key.) My room was good size with 2 double beds, couch, table and chairs, dresser, fridge, etc. Bathroom was large enough and everything was very clean. Beds were very comfortable!! My room was on the pool floor, but I didn't hear any noise associated with pool use. There wasn't much of a view from my room, but honestly, having a view was not a factor for me. Hotel desk staff were friendly and helpful, assisted with directions and suggested restaurants. Oxford Street was just a few minutes walk which meant plenty of shopping and restaurants, and walking along Oxford Street for a half hour or so gets you to Paddington (more shopping, food and open air market on the weekend). Little Italy was very close by too and we found some good restaurants there. There is a bar and a restaurant at the hotel, but I didn't use either except the latter for coffee to go. (I just preferred to partake in what the area had to offer.) There were 2 computers available in the lobby; $5.00 for 1/2 an hour of internet. Taxis were easy to hail from out front. I wasn't in my room much except to sleep, but I did want a hotel that I would feel safe and comfortable in, was clean, and convenient to what I wanted to do and where I wanted to go. I feel I definitely received all this, found a great value for the price, and was very pleased with this hotel.  
+<Date>Jun 3, 2008
+<Rating>5	5	5	4	5	5	5	3	
+<Aspects>
+7	2(night):1	8(day):1	89(offer):1	155(happy):2	536(prefer):1	809(sydney):1	3878(partake):1	
+14	19(price):1	34(feel):1	37(review):1	59(definitely):1	78(rate):1	81(value):1	107(choice):2	173(please):1	262(website):1	273(reasonable):1	302(receive):1	383(directly):1	409(sound):1	637(prior):1	
+25	3(clean):2	11(bed):2	13(bathroom):1	17(view):2	22(pool):2	24(floor):1	25(comfortable):2	34(feel):1	73(etc):1	83(size):1	94(noise):1	104(sleep):1	132(hear):1	137(safe):1	179(double):1	186(convenient):1	198(chair):1	229(table):1	318(fridge):1	337(except):1	1028(honestly):1	1192(couch):1	1655(factor):1	2128(dresser):1	2648(associate):1	
+32	7(walk):4	10(restaurant):3	16(food):1	23(little):1	28(close):1	29(minute):2	31(front):1	35(street):3	49(shop):3	60(hour):1	82(station):2	93(easy):1	115(distance):1	158(plenty):1	164(air):1	167(choose):1	168(central):2	172(weekend):1	182(train):1	185(taxi):1	246(mean):1	264(market):1	283(half):1	858(pull):1	900(italy):1	974(suitcase):1	1114(proximity):1	2083(albeit):1	2852(hail):1	3597(uphill):1	3801(oxford):3	9192(paddington):2	
+0	
+18	0(staff):1	10(restaurant):1	12(friendly):1	14(helpful):1	32(check):1	36(desk):1	37(review):1	43(leave):1	53(arrive):1	78(rate):1	219(decide):1	249(luggage):1	286(check-in):1	393(pm):1	395(direction):1	452(suggest):1	1265(assist):1	1562(wander):1	
+12	10(restaurant):1	27(bar):1	39(return):1	90(coffee):1	249(luggage):2	266(pick):1	337(except):1	339(key):2	774(lock):1	1492(refund):1	1603(deposit):1	3133(latter):1	
+5	55(lobby):1	60(hour):1	97(internet):1	134(available):1	555(computer):1	
+
+<Author>Philip_Bangkok
+<Content>2nd visit and still as good This was my second stay at this hotel having been here in 2007. You'll be pleased to know that they have 2 brand new lifts that will whiz you to your floor!This hotel really does represent great value for money and I do recommend the Deluxe rooms which are spacious and have a nice homely feel.The staff were extremely helpful whenever I asked for something and engaged in pleasant and polite conversation. For what you pay here y really can't fault it. I will be back...  
+<Date>May 22, 2008
+<Rating>4	5	4	4	5	5	5	3	
+<Aspects>
+2	65(visit):1	1326(2nd):1	
+11	4(nice):1	15(recommend):1	34(feel):1	42(pay):1	80(money):1	81(value):1	111(spacious):1	517(fault):1	648(deluxe):1	2535(represent):1	4231(homely):1	
+5	24(floor):1	173(please):1	591(lift):1	883(brand):1	9838(whiz):1	
+0	
+0	
+8	0(staff):1	14(helpful):1	110(extremely):1	150(pleasant):1	422(polite):1	1181(whenever):1	1281(conversation):1	2907(engage):1	
+0	
+0	
+
+<Author>chica_brandybuck
+<Content>Fantastic hotel I stayed here for one night with my mum in the Deluxe Room. It was very modern and clean, and had plenty of space for us to enjoy a coffee or bite to eat without being cramped. There was a lounge and coffee table area. The bathroom was also very modern and clean, but be aware there is no bath tub.We also enjoyed a cocktail in the hotel bar which had a great atmosphere.The location is excellent. A few minutes to Oxford Street and about 15minutes walk from Central Station. We stayed here to see a show at the Lyric Theatre in Darling Harbour, as we couldnt afford anywhere in Darling Harbour itself. It only cost around $13 each way for a taxi.I am already planning to stay here next time Im in Sydney.  
+<Date>May 18, 2008
+<Rating>5	5	5	5	-1	4	4	-1	
+<Aspects>
+8	5(time):1	221(plan):1	561(harbor):2	635(theater):1	809(sydney):1	1452(afford):1	1528(couldnt):1	1681(darling):2	
+4	27(bar):1	51(enjoy):1	414(atmosphere):1	716(cocktail):1	
+17	2(night):1	3(clean):2	13(bathroom):1	47(eat):1	51(enjoy):1	86(fantastic):1	90(coffee):1	151(modern):2	158(plenty):1	210(space):1	226(bath):1	311(tub):1	648(deluxe):1	832(aware):1	1042(bite):1	1080(cramp):1	3175(mum):1	
+11	1(location):1	7(walk):1	21(excellent):1	29(minute):1	35(street):1	82(station):1	168(central):1	175(cost):1	185(taxi):1	3801(oxford):1	9697(15minute):1	
+0	
+0	
+3	90(coffee):1	229(table):1	237(lounge):1	
+0	
+
+<Author>LockyAdelaide
+<Content>Quiet and comfortable We stayed at this hotel for six days, having stayed there several times previously. We had a newly renovated room on the 8th floor, facing away from the street. Our room was quiet, the breakfast was ample and the location of the hotel was convenient for our purposes - a ten minute walk from downtown Sydney and close to many bus routes. The staff were helpful. The hotel is good value. We will return.  
+<Date>May 3, 2008
+<Rating>4	4	4	4	4	5	5	-1	
+<Aspects>
+1	39(return):1	
+1	81(value):1	
+10	5(time):1	8(day):1	24(floor):1	25(comfortable):1	35(street):1	58(quiet):1	533(renovate):1	1122(previously):1	1189(newly):1	1357(8th):1	
+13	1(location):1	6(breakfast):1	7(walk):1	28(close):1	29(minute):1	58(quiet):1	120(bus):1	186(convenient):1	334(downtown):1	809(sydney):1	1035(route):1	1341(ample):1	1428(purpose):1	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>Wonderplus
+<Content>Excellent Refurbishment After returning from a long trip from France, I was very pleasantly surprised at the new Cambridge Hotel, after refurbishment. I have stayed in this Hotel before because I like the nightlife around Oxford Street and the convience to the city. On my return visit, I was thoroughly impressed with the new foyer, new rooms, and higher levels of service and hospitality. Surprisingly the rooms rates are also quite reasonable considering it is a city Hotel. I will definately recommend this Hotel to any of my friends that will visit Sydney. I particularly like the Hotel because of its modern and unique feel, not just another copy of another chain Hotel.  
+<Date>May 3, 2008
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+19	15(recommend):1	21(excellent):1	33(trip):1	34(feel):1	39(return):1	65(visit):1	146(friend):1	151(modern):1	199(surprise):1	410(definately):1	553(particularly):1	627(chain):1	747(pleasantly):1	809(sydney):1	1027(unique):1	1784(france):1	2245(copy):1	2253(refurbishment):2	4114(cambridge):1	
+0	
+13	9(service):1	39(return):1	41(city):1	65(visit):1	78(rate):1	248(consider):1	273(reasonable):1	306(level):1	343(impress):1	898(thoroughly):1	1115(hospitality):1	1375(surprisingly):1	1931(foyer):1	
+5	35(street):1	41(city):1	1305(nightlife):1	3801(oxford):1	7878(convience):1	
+0	
+0	
+0	
+0	
+
+<Author>luckytraveller08
+<Content>Fantastic Hotel and value for money My wife and I have just arrived home from a wonderful 4 week holiday in Australia. We researched our hole trip via the web and booked all flights and hotel via the web. Our highlight was Sydney and I must say we had 6 of the most memorable days of our life, We did a lot of research on hotels including Tripadvisor. We decided on The Quality Hotel Cambridge as it offered the price point we were looking for in what turned out to be a fantastic location. We were a little unsettled as their were so many varying reviews. I must say our concerns were unfounded. We walk in after a very long flight witch arrived early in the morning. We were greeted by a very bright modern lobby, with very friendly staff. We did have to wait a wile for our room as check-in was not until 2.00 PM( handy to know if you are arriving early), we were well looked after and the reception staff were very helpful. A young English gentleman was the front desk manager and during our stay went out of his way to accommodate us.In fact all staff on front desk were very knowledgeable and helpful.We were very pleasantly surprised when we arrived in our room (we booked a deluxe room 1307) it was very large and well appointed. It had a balcony with great views across the city. Had a small fridge and a very comfortable bathroom. The bed was the most comfortable that we have sleep in. In our four weeks of travel we stopped in many hotels and the Cambridge cleanliness of was top notch, actually the best I have ever experienced. The location while not being in the centre of the city was good and very easy to get to all site seeing attractions. We highly recommend this hotel and it truly was the best hotel we stopped in.  
+<Date>Apr 16, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+10	15(recommend):1	23(little):1	37(review):1	122(stop):1	138(highly):1	476(truly):1	496(concern):1	2018(vary):1	5399(unfounded):1	8618(unsettle):1	
+24	1(location):1	19(price):1	20(look):1	44(experience):1	48(wonderful):1	53(arrive):1	68(travel):1	75(week):2	80(money):1	81(value):1	86(fantastic):2	89(offer):1	118(top):1	122(stop):1	141(home):1	180(actually):1	184(wife):1	187(quality):1	219(decide):1	223(holiday):1	854(cleanliness):1	1227(notch):1	1530(australia):1	4114(cambridge):2	
+31	7(walk):1	8(day):1	11(bed):1	13(bathroom):1	17(view):1	18(book):2	25(comfortable):2	33(trip):1	38(lot):1	41(city):1	53(arrive):2	56(morning):1	71(include):1	104(sleep):1	191(balcony):1	199(surprise):1	233(flight):2	318(fridge):1	426(life):1	512(via):2	579(appoint):1	597(tripadvisor):1	648(deluxe):1	747(pleasantly):1	809(sydney):1	1019(web):2	1024(research):2	1141(highlight):1	1205(memorable):1	1218(hole):1	7300(witch):1	
+6	1(location):1	41(city):1	93(easy):1	101(center):1	192(site):1	350(attraction):1	
+0	
+21	0(staff):3	12(friendly):1	14(helpful):2	20(look):1	31(front):2	36(desk):2	53(arrive):1	55(lobby):1	85(wait):1	129(reception):1	151(modern):1	152(english):1	258(manager):1	286(check-in):1	393(pm):1	415(greet):1	624(accommodate):1	755(handy):1	880(bright):1	1160(knowledgeable):1	1506(gentleman):1	
+0	
+0	
+
+<Author>sparklykendall
+<Content>Clean and centrally located We got here quite late and though they seem to have a bit of confusion over our booking (we wondered if they'd lost it) but we were soon given a key to quite a large room on the 15th floor -maybe an upgrade -if not it was impressive. All very clean and modern decoration with a good view over the city. We only stayed here for one night as a stopover and didn't do breakfast but seemed like good value and centrally located. There is parking and luckily we had a small car as it is quite a tight squeeze to get in the car park. Would recommend it to others  
+<Date>Apr 14, 2008
+<Rating>4	4	5	5	5	4	4	-1	
+<Aspects>
+1	15(recommend):1	
+6	2(night):1	6(breakfast):1	81(value):1	84(locate):1	879(centrally):1	2364(stopover):1	
+20	3(clean):2	17(view):1	18(book):1	24(floor):1	41(city):1	52(bit):1	79(late):1	84(locate):1	151(modern):1	163(upgrade):1	308(maybe):1	339(key):1	418(soon):1	596(lose):1	879(centrally):1	920(impressive):1	946(wonder):1	1580(decoration):1	2831(confusion):1	4273(15th):1	
+5	66(park):2	121(car):2	1200(luckily):1	1399(tight):1	1963(squeeze):1	
+0	
+0	
+0	
+0	
+
+<Author>sandymc
+<Content>clean room had booked this hotel for three nights with ratestogo.com very reasonable, the room with twin double beds was overlooking the swimming pool, could be a bit noisy with people in the pool early in the morning, the hotel was clean and modern the reception staff were, shall we say not over helpful and internet access was $5 for 30 minutes, dont bother with it there is an internet cafe 2 minutes away next to the supermarket at half the price.A 30 minute walk will take you to the opera house and on to Circular Quay, you can also get to Darling Harbour in 30 mins. There is a laundry facility available with machines and driers priced at $4 each.also irons and boards. It is a fairly busy area just off Oxford Street and close to Hyde Park. Be aware there does appear to be a lot of gays in the area.  
+<Date>Apr 11, 2008
+<Rating>3	3	4	3	4	3	3	3	
+<Aspects>
+6	38(lot):1	541(appear):1	600(board):1	832(aware):1	868(iron):1	2552(gay):1	
+0	
+0	
+16	7(walk):1	28(close):1	29(minute):1	35(street):1	66(park):1	220(busy):1	247(min):1	281(house):1	462(fairly):1	561(harbor):1	1374(opera):1	1664(quay):1	1681(darling):1	1912(circular):1	2816(hyde):1	3801(oxford):1	
+0	
+0	
+31	0(staff):1	2(night):1	3(clean):2	11(bed):1	14(helpful):1	18(book):1	19(price):2	22(pool):2	26(people):1	29(minute):2	52(bit):1	56(morning):1	97(internet):2	129(reception):1	134(available):1	151(modern):1	159(access):1	179(double):1	211(facility):1	217(noisy):1	260(overlook):1	261(swim):1	273(reasonable):1	275(cafe):1	283(half):1	307(bother):1	493(machine):1	503(dont):1	690(twin):1	1075(laundry):1	1078(supermarket):1	
+0	
+
+<Author>JayD2006
+<Content>Good budget hotel in good location We stayed in this hotel 5 nights. it's a nice hotel but the service especially at the reception is not that great. We had a double room instead of the twin room that we requested. Eventhough we kept asking for the twin room until the end of our stay but our request never got approved. Anyway the location is great right on oxford street and few minutes walk to Chinatown. the room was clean with an excellent housekeeping service. The bathroom was ok but the showers door was hard to manipulate. Overall it was worth the price we paid for.  
+<Date>Apr 4, 2008
+<Rating>4	4	4	4	4	2	4	-1	
+<Aspects>
+0	
+4	19(price):1	42(pay):1	70(overall):1	96(worth):1	
+15	3(clean):1	9(service):1	13(bathroom):1	21(excellent):1	54(door):1	61(shower):1	123(ok):1	148(request):2	162(hard):1	179(double):1	353(instead):1	367(housekeeping):1	690(twin):2	4631(eventhough):1	7640(approve):1	
+9	1(location):2	2(night):1	7(walk):1	29(minute):1	35(street):1	417(anyway):1	429(budget):1	1132(chinatown):1	3801(oxford):1	
+0	
+4	4(nice):1	9(service):1	126(especially):1	129(reception):1	
+0	
+0	
+
+<Author>travelyun
+<Content>Crappy bath, awful toilet, and super noisy We stayed there 3 nights during Easter this year, it was awful. First the positive - the whole place is very modern,just recently done up. However, the room we got was very small, (room number 1004), the sink water left the sink and then appeared from a whole on the floor, bringing with it some rather disgusting things. So needless to say the toilet as a whole was not that usable afterwards. The hot water was very temperamental - for a five minute shower, I had to constantly adjusted it, as it never stayed the same tempreture. The pressure was also inconsistent. Then it was the noise - a pub nearby made sure every noise it had would travel right over there, till 4am. The location wasn't that great either - to go anywhere you at least need to walk 10-15 minutes. Granted we might have been given the worst room, but we certainly will not stay there ever again. It wasn't cheap either.  
+<Date>Apr 3, 2008
+<Rating>1	1	2	3	1	3	3	2	
+<Aspects>
+22	2(night):1	68(travel):1	94(noise):2	151(modern):1	217(noisy):1	226(bath):1	232(nearby):1	322(recently):1	330(toilet):2	458(positive):1	464(super):1	686(pressure):1	736(awful):2	979(till):1	1356(needless):1	1393(pub):1	2075(easter):1	2598(afterwards):1	3063(inconsistent):1	3380(crappy):1	5536(usable):1	10783(4am):1	
+1	143(cheap):1	
+16	24(floor):1	29(minute):1	43(leave):1	50(bad):1	57(water):2	61(shower):1	114(hot):1	142(bring):1	335(numb):1	509(sink):2	541(appear):1	995(constantly):1	1152(disgust):1	1690(grant):1	2040(adjust):1	10824(temperamental):1	
+3	1(location):1	7(walk):1	29(minute):1	
+0	
+0	
+0	
+0	
+
+<Author>beanbagdan
+<Content>Nice website - shame about the room Wow I thought as I looked at the hotel website (www.cambridgeinn.com.au) after my company booked me here. With an impressive front desk area all seemed just right...until I opened the door to room 104.What a disappointment! Ugly, old furniture and dark bathroom all a la 1960s...and two of the smallest single beds I have seen in years. The window was opaque frosted glass. Where oh where were the flat screen tvs, clean new carpet and the rooms to match the money they have spent on the lobby?Room 104 just so happens to be right next to the cleaners' catch up area, so expect banging of trolleys, gossip and laughing at 7am. If I wasn't so tired, i would have taken photos, as their website claims that the hotel won an Award for Most Improved Hotel 2007...well the judges never went into Room 104....the room that time forgot.  
+<Date>Mar 31, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	866(disappointment):1	
+0	
+39	3(clean):1	5(time):1	11(bed):1	13(bathroom):1	55(lobby):1	62(expect):1	64(spend):1	80(money):1	119(window):1	225(la):1	262(website):1	304(single):1	327(glass):1	382(happen):1	396(carpet):1	397(forget):1	440(furniture):1	454(tire):1	459(dark):1	526(screen):1	535(flat):1	540(catch):1	761(photo):1	1077(claim):1	1079(trolley):1	1217(improve):1	1245(laugh):1	1273(win):1	1401(bang):1	1476(match):1	1569(tvs):1	1872(ugly):1	2389(judge):1	2487(cleaner):1	2945(award):1	3419(frost):1	6302(7am):1	7194(opaque):1	11726(gossip):1	
+0	
+0	
+4	31(front):1	36(desk):1	54(door):1	920(impressive):1	
+7	4(nice):1	18(book):1	20(look):1	262(website):2	760(company):1	862(wow):1	1292(shame):1	
+0	
+
+<Author>Kerte
+<Content>Perfect location for Oxford Street Area We were 3 staying here for Mardi Gras period from Feb28-Mar 4 in 2 rooms, 1 Bedroom-suite + 1 Standard room, both roomy enough for the 5 night stays.+We did enjoy the refurbished parts/rooms of hotel and really enyjoy the very comfortable beds in rooms.+We enjoyed the perfect location for purpose and for easy access to city-centre, only 15-20min walk-no prob as city-tourists.+Enjoyed the happy-hour breakfasts a couple of morning for 50% discount 1st and last hours of breakfast...why no signs for this in hotel? We found this out by accident...but enjoyed the 50% discount, now only 9$ for full warm breakfast instead of 18, good value now, 18=overpriced for what you get,! Not the best of breakfasts but well worth the 9$.+Friendly housekeeping staff keeping our rooms tidy and clean.+Nice enough viewa of city from upper floors.-We were not overwhelmed by Front Desk Staff, not that welcoming nor that trained or informed about house and service provided.-Rooms need doubleglazed-windows, very noisy from traffic, specially on lower floors, ask for rooms higher up-Lift-problems, looong waiting for them. 1 of 3 elevators were broke for most of our stay, creating the waiting for lifts somewhat annoying.  
+<Date>Mar 18, 2008
+<Rating>4	4	4	5	4	3	3	-1	
+<Aspects>
+0	
+12	6(breakfast):3	51(enjoy):2	56(morning):1	60(hour):1	81(value):1	99(couple):1	236(warm):1	353(instead):1	449(sign):1	727(overprice):1	864(discount):2	3213(accident):1	
+14	1(location):1	2(night):1	11(bed):1	25(comfortable):1	35(street):1	51(enjoy):1	74(perfect):1	130(standard):1	1253(refurbish):1	1331(period):1	1353(roomy):1	2925(gras):1	3106(mardi):1	3801(oxford):1	
+8	1(location):1	51(enjoy):1	74(perfect):1	93(easy):1	159(access):1	1428(purpose):1	5744(prob):1	9916(15-20min):1	
+5	0(staff):1	3(clean):1	12(friendly):1	367(housekeeping):1	1100(tidy):1	
+19	0(staff):1	4(nice):1	9(service):1	24(floor):1	31(front):1	36(desk):1	41(city):1	85(wait):1	126(especially):1	182(train):1	202(welcome):1	217(noisy):1	281(house):1	486(traffic):1	777(lour):1	817(inform):1	970(nor):1	1333(upper):1	1992(overwhelm):1	
+9	6(breakfast):1	85(wait):1	96(worth):1	216(elevator):1	228(break):1	591(lift):1	651(somewhat):1	695(annoy):1	1696(create):1	
+0	
+
+<Author>davidb71
+<Content>Great hotel for the Mardi Gras I stayed here for 9 nights during Mardi Gras and I loved this hotel. For the gay traveller, it is perfect-you are a block away from Oxford Street and all the hustle and bustle of the nightlife. I would not suggest it for families that do not want to be exposed to the gay nightlife-the bar the Midnight Shift is literally around the corner on Oxford and Riley. My room was a nice size, I had a balcony, the bed was comfortable and the staff was very friendly. One day I slept in after a long night and the maid left a bag with fresh towels and new bottles of shampoo and soap on my door so as not to disturb me. I disagree with other reviewers that said the hotel is not close to other attractions. Circular Quay, the Opera House, the Botanic Gardens and Darling Harbor were about 20 minutes away if you walked. I had a travel pass good for 5 days and I only used it for 2 days-I walked everywhere. Here is a little tip-about two blocks down the street on Riley (cross Oxford) there is a block of little boutique restaurants that were moderately priced and delicious. Most were also BYOB and did not charge a corkage fee. Overall, this hotel was a pleasant surprise and I would stay there again in a heartbeat.  
+<Date>Mar 12, 2008
+<Rating>5	5	5	5	5	5	5	3	
+<Aspects>
+8	2(night):1	40(love):1	70(overall):1	150(pleasant):1	199(surprise):1	1683(heartbeat):1	2925(gras):2	3106(mardi):2	
+0	
+20	0(staff):1	2(night):1	4(nice):1	8(day):1	11(bed):1	12(friendly):1	25(comfortable):1	43(leave):1	54(door):1	83(size):1	104(sleep):1	125(towel):1	191(balcony):1	197(fresh):1	238(bottle):1	290(bag):1	300(maid):1	965(soap):1	1051(shampoo):1	1067(disturb):1	
+32	7(walk):2	8(day):1	10(restaurant):1	19(price):1	23(little):2	28(close):1	29(minute):1	35(street):2	68(travel):1	100(bloc):3	267(traveler):1	281(house):1	310(garden):1	350(attraction):1	400(pass):1	485(delicious):1	561(harbor):1	564(reviewer):1	623(boutique):1	1107(bustle):1	1228(cross):1	1305(nightlife):1	1374(opera):1	1503(hustle):1	1664(quay):1	1681(darling):1	1912(circular):1	2552(gay):1	3102(disagree):1	3195(moderately):1	3801(oxford):2	7155(botanic):1	
+0	
+2	136(charge):1	584(fee):1	
+10	27(bar):1	106(family):1	200(corner):1	452(suggest):1	665(literally):1	1044(midnight):1	2479(shift):1	2552(gay):1	2637(expose):1	3801(oxford):1	
+0	
+
+<Author>oroton07
+<Content>not impressed with service NOT IMPRESSED. ordered a one bedroom suite. gave me a twin room. WHAT THE HELL? i wanted what i paid for. aparently the room i wanted 'wasnt available' or 'didnt exist'. i dont know, the woman (assistant magager by the way) keep going round in circles giving me the same infonfor 20 mins and her english was below undestandable. in the end i said i had better things to do and was already late for an appointment so i stormed off; -it didnt help that check in was at 2, i arrived at 3 and had to WAIT for my room to be ready. deffinately not impressed. i told them i wasnt paying for parking in the morning due to their stuff up- they didnt even offer me any consultation!- but as if you would pay for their parking anyway, it is so unbelivably steep and two-ways? pfft can hardly fit my SMALL car in the lane.if i had gotten what i paid for, and the staff actually KNEW what they were doing my experience may have been a whole lot better..wouldn't stay here again unless you paid me.  
+<Date>Mar 12, 2008
+<Rating>2	2	2	3	3	1	1	-1	
+<Aspects>
+10	152(english):1	247(min):1	343(impress):1	503(dont):1	566(woman):1	585(below):1	1918(hell):1	2126(circle):1	3044(assistant):1	7923(deffinately):1	
+17	0(staff):1	38(lot):1	42(pay):5	44(experience):1	56(morning):1	66(park):2	69(tell):1	89(offer):1	180(actually):1	259(due):1	405(unless):1	417(anyway):1	480(stuff):1	626(didnt):1	1060(steep):1	1339(wasnt):1	11936(consultation):1	
+7	108(suite):1	134(available):1	268(bedroom):1	626(didnt):1	690(twin):1	1339(wasnt):1	2039(exist):1	
+4	121(car):1	668(fit):1	985(hardly):1	2566(lane):1	
+0	
+9	32(check):1	53(arrive):1	79(late):1	85(wait):1	92(help):1	274(ready):1	626(didnt):1	1884(storm):1	2651(appointment):1	
+2	9(service):1	343(impress):2	
+0	
+
+<Author>Suzibanter
+<Content>Great location       my room  
+<Date>Mar 4, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+1	1(location):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>superstitious101
+<Content>Heaps of fun!!!!!!!       View from our room 1  
+<Date>Jan 22, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+2	176(fun):1	4038(heap):1	
+0	
+1	17(view):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Hatt-away
+<Content>A nice hotel in a convenient part of Sydney We stayed here for 3 nights at the very end of our travels. The room was included as a part of our flight package and I was concerned that the room wouldn't be great. However we were given a twin room on the 4th floor. It was a little on the small side but clean and had a good sized fridge and a tv, the beds were also very comfortable. The bathroom was small but had a little bath and over-bath shower. The facilities in the hotel are excellent and include a small swimming pool and sauna. There is also laundry facilites, which can be useful on a long trip. The reception staff were very friendly and knowledgeable about the city. We didn't eat in the hotel as it's location is perfect for eating out and there are several good cafes, pubs and restaurants within a short walking distance.  
+<Date>Jan 22, 2008
+<Rating>4	-1	4	4	4	4	4	-1	
+<Aspects>
+5	2(night):1	4(nice):1	68(travel):1	186(convenient):1	809(sydney):1	
+0	
+17	3(clean):1	11(bed):1	13(bathroom):1	23(little):2	24(floor):1	25(comfortable):1	61(shower):1	71(include):1	83(size):1	116(tv):1	226(bath):1	233(flight):1	318(fridge):1	496(concern):1	527(package):1	690(twin):1	845(4th):1	
+15	1(location):1	7(walk):1	10(restaurant):1	21(excellent):1	22(pool):1	47(eat):2	71(include):1	74(perfect):1	115(distance):1	144(short):1	211(facility):1	261(swim):1	275(cafe):1	1393(pub):1	1422(sauna):1	
+0	
+5	0(staff):1	12(friendly):1	41(city):1	129(reception):1	1160(knowledgeable):1	
+4	33(trip):1	1075(laundry):1	1232(useful):1	3948(facilite):1	
+0	
+
+<Author>hpytrav
+<Content>great location and nice little hotel honestly its a great small hotel in the vicnity of Sydney CBD. we did not knew where Surry Hills was, but seriously its a great location especially if you are in dey for holidaying.Sydney CBD is only about 10 minutes walking and darling harbour about 15. the walk itself is great as you get to see and absorb sydney on the way.from the moment we walked in to the hotel we were well received by very informative staff. the hotel looked modern and new age. they seemed very helpful and explained about the normal routine and as well as the area around us. even earlier when we made over their website which does resemble the hotel i found it easy, maybe we are just used to the internet. we rang he hotel to get more info about the hotel as this was our first trip to sydney. the reservation staff were more than helpful in assisting our queries.When you see not so good reviews of the hotel you have doubts and dilemna especialy when you have been recommended with the one. it was the same case for us but we did went with our gut feeling and took a chance and i am glad we did it; it is a good value for money consideiring other rates other sydney hotel charges.we booked a standard room and was given a room on the 4th floor and we were happy with the room.actually we were complimentart upgraded to a bedroom suite overlooking the main street, which was a nice touch. the view is really nice especially at night when you Sydney skyline at the back drop.we had a quite drink in the little bar where the bartender was really lovely and made us feel comfortable.with our 3 days stay at the hotel we were overall very satisfied with the service the rooms etc. however one lift was down one afternoon for about couple of hours but they do have 3 lifts in total but a little wait was required.would definately recommend the hotel for its location price friendliness and general cleanliness of the hotel.  
+<Date>Jan 8, 2008
+<Rating>4	4	4	5	4	4	4	4	
+<Aspects>
+21	2(night):1	4(nice):1	14(helpful):1	15(recommend):1	17(view):1	20(look):1	33(trip):1	37(review):1	126(especially):1	151(modern):1	505(age):1	662(drop):1	768(explain):1	809(sydney):2	878(normal):1	952(doubt):1	1150(ring):1	1360(info):1	2526(skyline):1	3594(routine):1	8740(especialy):1	
+15	1(location):1	15(recommend):1	19(price):1	34(feel):1	78(rate):1	80(money):1	81(value):1	136(charge):1	410(definately):1	619(glad):1	689(chance):1	809(sydney):1	854(cleanliness):1	1754(friendliness):1	4650(gut):1	
+27	4(nice):1	8(day):1	9(service):1	18(book):1	23(little):1	24(floor):1	35(street):1	60(hour):1	70(overall):1	73(etc):1	85(wait):1	99(couple):1	108(suite):1	112(main):1	130(standard):1	155(happy):1	163(upgrade):1	180(actually):1	260(overlook):1	268(bedroom):1	279(touch):1	364(afternoon):1	591(lift):2	722(require):1	786(total):1	845(4th):1	899(satisfy):1	
+15	1(location):2	4(nice):1	7(walk):2	23(little):1	29(minute):1	126(especially):1	223(holiday):1	561(harbor):1	756(hill):1	809(sydney):3	1028(honestly):1	1441(seriously):1	1681(darling):1	2731(cbd):2	6051(absorb):1	
+0	
+9	0(staff):2	7(walk):1	14(helpful):1	156(reservation):1	302(receive):1	670(moment):1	1265(assist):1	1976(informative):1	3041(query):1	
+7	23(little):1	25(comfortable):1	27(bar):1	34(feel):1	63(drink):1	87(lovely):1	676(bartender):1	
+5	93(easy):1	97(internet):1	262(website):1	308(maybe):1	3497(resemble):1	
+
+<Author>msMelburnian
+<Content>Stay Away       Basin/Tap area  
+<Date>Dec 8, 2007
+<Rating>1	1	1	2	1	2	-1	-1	
+<Aspects>
+1	2813(basin):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>PeopleLondon
+<Content>Great Loacation and value for money Well what can we say except, we read the reviews of this hotel witch our agent in Kensington booked. Do not know what people are looking for, as we read the reviews and asked our agent to book another hotel in Sydney. The agent assured us that they had stopped at the hotel recently, and that the hotel was great. We stopped at many hotels, while in Australia, and as they kept telling us we were winging POMs, as we did quite a lot of complaining; however our stay at the Quality Hotel Cambridge was excellent. Staff well trained and very well versed with the city and its attractions. The Hotel was extremely clean, neat and tidy. We quizzed reception about the other comments we had read on trip adviser and were shown other rooms on higher floors that have new furniture that is the same as our room which was on the lower floors. We have to agree about those slow lifts; however we did notice signs and work taking place to replace all the lifts which was happening while we were there. Being an older couple my wife and I were a little worried about the area after reading the reviews, but found the area extremely colorful with many restaurants and close to all of the attractions. I am very glad we took the advice of our travel agent as this was one of the highlights of our trip.  
+<Date>May 21, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+11	122(stop):1	322(recently):1	354(notice):1	382(happen):1	449(sign):1	455(slow):1	473(agree):1	591(lift):2	766(agent):1	912(replace):1	1349(assure):1	
+19	18(book):1	21(excellent):1	37(review):1	38(lot):1	69(tell):1	80(money):1	81(value):1	88(read):1	122(stop):1	187(quality):1	241(complain):1	337(except):1	766(agent):1	1515(wing):1	1530(australia):1	4114(cambridge):1	5704(kensington):1	7300(witch):1	12466(loacation):1	
+13	24(floor):2	33(trip):2	68(travel):1	88(read):1	129(reception):1	356(comment):1	440(furniture):1	575(advice):1	619(glad):1	766(agent):1	777(lour):1	1141(highlight):1	6630(adviser):1	
+15	0(staff):1	10(restaurant):1	23(little):1	28(close):1	37(review):1	41(city):1	88(read):1	99(couple):1	110(extremely):1	182(train):1	184(wife):1	350(attraction):2	885(worried):1	2489(colorful):1	9610(versed):1	
+4	3(clean):1	110(extremely):1	1100(tidy):1	1286(neat):1	
+0	
+7	18(book):1	20(look):1	26(people):1	37(review):1	88(read):1	766(agent):1	809(sydney):1	
+0	
+
+<Author>SBArules
+<Content>adequate accommodation My biggest complaint was that they advertised they had a gym and they have one piece of equipment that I think could do a couple different exercises, when it was working. What a complete disappointment! There is also a small shoebox size pool that I wouldn't go near. There is a gym a couple blocks away that costs $18 per day. The rooms are dark and old. They were clean. There was a kitchen counter type thing with a sink along one wall and when I went to wash out a few things in it, the faucet came off. There was an electric kettle but the cups were so filthy I had to wash them before I could use them. There was a safe in the room, which I used, fortunately. As when I left to go somewhere - I came back 1/2 hour later to pick up one more thing and found my door to the room wide open with no one around. NO ONE. My laptop was sitting there, my suitcase, etc. I locked up and complained at the front desk but no one seemed too concerned but me. They said they would look into it and get back to me (never did) but that it was probably the maid and she'd gone to get something. I asked if they always leave the doors open when they go to get something.... I didn't like that at ALL.The location - in the pink area as one woman discribed, was great for me. I prefer, as a woman traveling alone, to be in a more gay part of the city. I feel safer where as she obviously has a bit of homophobia. There isn't a train station real close but I don't mind walking. There is internet access in the lobby. Room service or a bar and restaurant downstairs and down the road (very close to oxford st), markets nearby, laundry nearby - actually not a bad location.Hope this helps. Not a bad place, just don't expect much more than a 2-3 star place. And there is NO gym.  
+<Date>May 15, 2007
+<Rating>3	3	3	3	3	3	3	3	
+<Aspects>
+23	20(look):1	34(feel):1	41(city):1	43(leave):1	52(bit):1	54(door):1	68(travel):1	92(help):1	137(safe):1	178(probably):1	300(maid):1	328(hope):1	536(prefer):1	566(woman):1	622(complete):1	781(obviously):1	800(cup):1	811(wash):1	866(disappointment):1	1320(filthy):1	1944(kettle):1	2246(electric):1	2552(gay):1	
+15	8(day):1	50(bad):1	62(expect):1	99(couple):2	100(bloc):1	103(star):1	175(cost):1	190(complaint):1	390(adequate):1	523(gym):2	721(accommodation):1	910(advertise):1	941(piece):1	1211(equipment):1	1459(exercise):1	
+24	22(pool):1	43(leave):1	54(door):1	60(hour):1	73(etc):1	79(late):1	83(size):1	102(near):1	137(safe):1	169(sit):1	183(wall):1	266(pick):1	389(type):1	459(dark):1	461(kitchen):1	509(sink):1	811(wash):1	860(wide):1	974(suitcase):1	1001(counter):1	1111(laptop):1	1585(fortunately):1	2823(faucet):1	7872(shoebox):1	
+9	1(location):1	7(walk):1	28(close):1	82(station):1	182(train):1	240(real):1	294(mind):1	566(woman):1	2121(pink):1	
+1	3(clean):1	
+5	31(front):1	36(desk):1	241(complain):1	496(concern):1	774(lock):1	
+15	1(location):1	9(service):1	10(restaurant):1	27(bar):1	28(close):1	50(bad):1	180(actually):1	230(road):1	232(nearby):2	264(market):1	523(gym):1	691(downstairs):1	940(St):1	1075(laundry):1	3801(oxford):1	
+3	55(lobby):1	97(internet):1	159(access):1	
+
+<Author>threespires
+<Content>Good value location not great Stayed for 3 nights and had a suite on one of the top floors  Maybe because it was Thursday to Sunday that the rate was very good  Location not great either walked or got a taxi although central station not far away  Breakfast quite Good  Cleanliness  Staff no problems  
+<Date>May 13, 2007
+<Rating>3	4	4	2	4	4	3	-1	
+<Aspects>
+0	
+0	
+0	
+17	0(staff):1	1(location):2	2(night):1	6(breakfast):1	7(walk):1	24(floor):1	78(rate):1	81(value):1	82(station):1	108(suite):1	118(top):1	168(central):1	185(taxi):1	308(maybe):1	844(sunday):1	854(cleanliness):1	1823(thursday):1	
+0	
+0	
+0	
+0	
+
+<Author>JoannaW
+<Content>Clean - Friendly - Great Location - Value For Money This was my return trip to Sydney and the hotel. I must say - once again - I felt like home away from home. The hotel is positioned just off Oxford st. and close to so many great restaurants, just a stroll from Hyde park. What I find is excellent is the perfect mix of the residential Riley st. and the colourful Oxford Str. One can walk to circular Quay, the heart of the CBD and the buss to Bondi is just around the corner - number 380. The hotel has done a fabulous job by upgrading the facilities and rooms, all contemporary feel. I found the rooms very clean and comfortable and great value for money. If you wish to get a quick snack - the rooms service menu is there for you and if you just like to get some snack for the room - a great supermarket is just a minute away. So is the gym, and much more. Everyone was so friendly and happy. I met many other travellers and visitors to Sydney staying at the hotel who also shared the many laughs and good comments about their stay. I would recommend the hotel to other travellers for sure and since I have stayed at the hotel in the past I must say - they are putting alot of effort into making it even a better hotel for the guests.  
+<Date>May 11, 2007
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+24	12(friendly):1	15(recommend):1	21(excellent):1	34(feel):1	74(perfect):1	91(guest):1	141(home):2	155(happy):1	196(meet):1	267(traveler):2	356(comment):1	419(past):1	520(share):1	609(mix):1	647(alot):1	655(st):1	809(sydney):1	951(visitor):1	1017(effort):1	1245(laugh):1	1537(residential):1	2489(colorful):1	3801(oxford):1	11092(str):1	
+9	1(location):1	3(clean):2	12(friendly):1	25(comfortable):1	33(trip):1	39(return):1	80(money):2	81(value):2	809(sydney):1	
+0	
+23	7(walk):1	9(service):1	10(restaurant):1	28(close):1	29(minute):1	66(park):1	200(corner):1	299(quick):1	335(numb):1	384(wish):1	406(snack):2	423(menu):1	450(heart):1	655(st):1	1056(stroll):1	1078(supermarket):1	1093(position):1	1664(quay):1	1912(circular):1	2731(cbd):1	2816(hyde):1	3801(oxford):1	4868(bondi):1	
+0	
+0	
+1	523(gym):1	
+6	34(feel):1	163(upgrade):1	211(facility):1	270(fabulous):1	481(job):1	1475(contemporary):1	
+
+<Author>LinRouse
+<Content>AWFUL EXPERIENCE We stayed in this hotel for 2 weeks in March 2007. The room tiself was pleasant and fairly large with fridge etc. They had upgraded us to a room with a balconey (that;s where the positive ends!). Friends in Sydney had delivered flowers and fruit to be put into our room on our arrival. This was not done and when our friends telephoned the hotel, they were told that as our room had been changed, the flowers and fruit were still in the oriignal room (for the use of the occupying guests!). When they were finally delivered, the fruit had gone soft and some of the flowers had died. When our friend spoke to the lady on reception (who had assured them that these would be delivered, he was not even given an apology!!).We found the staff generally at this hotel to be sullen, unhelpful and gave the impression that they oculdn't care less whether you stayed there or not. Also, we were not told prior to booking that extensive works were being carried out to the lifts, therefore breakfast on weekday mornings was a far from relaxing event, with the sound of drills etc). The lifts were awful anyway and on checking out, we had to wait for around 15-20 minutes to get into one (walking wasn't an option with suitcases from the 9th floor). Staff in the restaurant were generally inefficient and 'forgetful'. We had to usually chase them to bring coffee etc. And on one occasion when we did order it, they 'forgot' to bring it. Simple requests for more towels etc, were forgotten and staff had to be chased up. It was a very frustrating stay at this hotel.As per the revious comment, the sauna seemed not to be working and we tried on several occasions. We gave up approaching the hotel staff by this time. The jacuzzi did not appear to be working properly either.Although the hotel is in a rather seedy part of Sydney one of its redeeming features is that it is within walking distance of a lot of attractions but there was noise from the street during the night.On our last day the guests in the room above decided to hold a party, which started int he afternoon and was still going on at 11pm. When we telephoned the hotel desk, they did go to see the guests and told us that they were 'just finishing!!' The party was still going on at 11.30. As it is suppopsed to be a hotel, we were rather surprised that they tolerated this type of behaviour. We would not recommend this hotel whatsoever and our stay in Perth at the Sullivans Hotel the week previously was excellent. With hindsight, perhaps we should have booked into the Sullivans Hotel in Sydney also.  
+<Date>Apr 25, 2007
+<Rating>1	1	3	2	3	2	1	-1	
+<Aspects>
+27	15(recommend):1	21(excellent):1	75(week):1	142(bring):1	199(surprise):1	215(fruit):1	253(tried):1	341(finally):1	356(comment):1	363(party):1	389(type):1	397(forget):1	541(appear):1	589(soft):1	631(deliver):1	778(flower):1	808(jacuzzi):1	871(occasion):2	1122(previously):1	1144(properly):1	1264(die):1	1422(sauna):1	1574(frustrate):1	1733(whatsoever):1	3009(behavior):1	4239(tolerate):1	7497(perth):1	
+13	8(day):1	44(experience):1	75(week):1	91(guest):1	165(start):1	219(decide):1	363(party):1	364(afternoon):1	593(hold):1	615(march):1	736(awful):1	5412(int):1	6840(11pm):1	
+29	7(walk):1	24(floor):1	29(minute):1	32(check):1	69(tell):1	73(etc):1	85(wait):1	91(guest):1	146(friend):2	150(pleasant):1	161(change):1	163(upgrade):1	215(fruit):2	224(arrival):1	318(fridge):1	336(option):1	417(anyway):1	458(positive):1	462(fairly):1	591(lift):1	631(deliver):1	736(awful):1	778(flower):2	809(sydney):1	974(suitcase):1	1678(occupy):1	1692(telephone):1	5180(9th):1	7583(balconey):1	
+11	2(night):1	7(walk):1	35(street):1	38(lot):1	94(noise):1	115(distance):1	350(attraction):1	731(feature):1	809(sydney):1	2209(seedy):1	4213(redeem):1	
+0	
+28	0(staff):4	5(time):1	10(restaurant):1	36(desk):1	69(tell):1	73(etc):1	91(guest):1	125(towel):1	127(speak):1	129(reception):1	146(friend):1	148(request):1	242(care):1	397(forget):1	521(lady):1	613(simple):1	631(deliver):1	772(finish):1	848(impression):1	1349(assure):1	1378(approach):1	1547(apology):1	1618(unhelpful):1	1692(telephone):1	3003(chase):1	5657(inefficient):1	9376(sullen):1	12522(forgetful):1	
+20	6(breakfast):1	18(book):2	56(morning):1	69(tell):1	73(etc):2	90(coffee):1	142(bring):1	160(relax):1	399(usually):1	409(sound):1	591(lift):1	637(prior):1	809(sydney):1	824(carry):1	1106(event):1	1703(extensive):1	2734(weekday):1	3003(chase):1	3368(drill):1	4609(hindsight):1	
+0	
+
+<Author>divingdiva
+<Content>Hmmm! We stayed in this hotel for 4 nights as part of our trip to Sydney. We had already stayed in the Travelodge Wentworth Avenue and then flew up to the Whitsunday Islands. On our return we stayed at the Cambridge. I have to say I wish we had gone back to the Travelodge! By the time we had actually decided which hotel to use, the prices had gone up considerably and we ended up in an Express Room paying what I had previously been quoted for a Double de-luxe room.....what can I say! The room was on the second floor, with a side view. Well, I say view - what I mean is that there was a window at the side but you could not see out because the glass was frosted, only being clear at the very top. This was because the window looked straight out onto another apartment building. The room had a double bed, a sofa and a tv (although, beware Aussie TV!). The bathroom was a good size but the shower area was badly in need of a makeover as it was tired and pretty manky really although the shower itself was very powerful. The lifts are so small that if you had more than 2 or 3 people in them they would be full and that's before you put your cases in! The swimming pool was clean, although small and it is surrounded by bedrooms - a strange set up! The sauna was not working and there was just one machine in the gym. Location was ok - very close to Oxford Street, although I think it is probably not what you would call a desirable area! However, we felt ok walking around after dark - we just made sure we stayed to the main streets where possible. The bed was comfortable and towels were changed every day. As we only used the hotel to sleep in at the end of a long day sightseeing, it was ok but I would not use it again if I went back to Sydney. One morning, at 8a.m there was a knock on the door. When I finally answered it, it was someone from reception saying This is your wake up call ! WHAT wake up call? It wasn't us and there was not really an apology either! Why couldn't they have used the phone anyway?! All in all, it didn't spoil the trip but I would recommend that unless you are paying for a superior room, it might be better to stay somewhere else.  
+<Date>Apr 17, 2007
+<Rating>3	2	2	3	3	3	2	-1	
+<Aspects>
+16	2(night):1	33(trip):1	39(return):1	54(door):1	56(morning):1	67(call):1	296(phone):1	384(wish):1	417(anyway):1	554(wake):1	809(sydney):1	1323(knock):1	1547(apology):1	3479(travelodge):1	4114(cambridge):1	4874(hmmm):1	
+16	5(time):1	15(recommend):1	19(price):1	33(trip):1	42(pay):2	170(else):1	179(double):1	180(actually):1	219(decide):1	405(unless):1	785(superior):1	1122(previously):1	1124(express):1	1221(spoil):1	1856(quote):1	3252(considerably):1	
+40	3(clean):1	8(day):2	11(bed):2	13(bathroom):1	17(view):2	20(look):1	22(pool):1	24(floor):1	25(comfortable):1	61(shower):2	83(size):1	104(sleep):1	109(pretty):1	116(tv):2	118(top):1	119(window):2	123(ok):1	125(towel):1	135(build):1	161(change):1	179(double):1	234(set):1	246(mean):1	261(swim):1	268(bedroom):1	327(glass):1	454(tire):1	640(sight-see):1	667(surround):1	737(beware):1	751(apartment):1	809(sydney):1	827(straight):1	842(sofa):1	1058(strange):1	1663(badly):1	2026(powerful):1	3419(frost):1	3970(makeover):1	5256(aussie):1	
+19	1(location):1	7(walk):1	26(people):1	28(close):1	34(feel):1	35(street):2	67(call):1	112(main):1	123(ok):2	178(probably):1	342(island):1	459(dark):1	591(lift):1	614(fly):1	1090(avenue):1	3479(travelodge):1	3801(oxford):1	4037(desirable):1	9537(wentworth):1	
+0	
+5	67(call):1	129(reception):1	341(finally):1	554(wake):1	669(answer):1	
+3	493(machine):1	523(gym):1	1422(sauna):1	
+0	
+
+<Author>EnglandHighflyer
+<Content>Brilliant, Close to all attractions January 2007we booked our stay through M-Power booking agents, and found the hotel more than satisfactory. They were just finishing re-furbishing, but this did not affect our stay in any way. Our room had a balcony (they dont all, so if you want one specify when you book), t.v., fridge (very handy ).safe(2dollars a day), mini bar (with price list), tea  coffee making facilities, hair dryer  iron. Everything you would want really. The room was cleaned every day,and clean towels provided. the reception staff were very helpfull with diections, and provided us with a map of the city.  The hotel is positioned just off Oxford st. near Hyde park. Riley st. is a residential street, so nice and quiet at night. About a 20 min walk to circular Quay, and 15 mins walk to central station. If you dont want to walk, bus stops are close by. A number 380 will take you to Bondi beach!! Ther is an Irish pub just up the road that serves good steaks, among other things. Good sevice. We didnt sample the Dinners in the hotel restarant, but the breakfasts were very good, as much as you could eat (help yourself) for 12 dollars (拢5). cooked / cereals / fruit / continental. enough to really set you up for the day. We booked about 9 months in advance, and found that we saved about 50% on the nightly rate. we paid 130 dollars (about 拢50 per night),  We really enjoyed our stay in Sydney, the people were friendly and helpfull (especially the bus drivers). oodles of places to eat, and at very reasonable prices. The local beer is Tooheys, recomended by the locals! Be sure to go up the Oz Tower, it really is worth it, the view is wonderfull. Also, we found that the ocean beach (not the harbour beach) in Manly was far supperior to Bondi, as it was shaded by trees near the promenade. Where ever you stay in Sydney, I hope you enjoy the experience, we did, Sue and Dave, from England  
+<Date>Feb 24, 2007
+<Rating>5	5	4	4	5	4	4	-1	
+<Aspects>
+12	8(day):1	195(local):2	215(fruit):1	234(set):1	372(continental):1	443(beer):1	529(cereal):1	550(cook):1	772(finish):1	1420(recomend):1	2082(affect):1	5248(sevice):1	
+26	2(night):1	6(breakfast):1	12(friendly):1	19(price):1	26(people):1	42(pay):1	44(experience):1	47(eat):2	51(enjoy):2	92(help):1	117(dinner):1	120(bus):1	126(especially):1	273(reasonable):1	328(hope):1	430(dollar):2	563(driver):1	576(yourself):1	626(didnt):1	809(sydney):2	1478(helpfull):1	1960(sample):1	1970(england):1	5477(dave):1	6299(sue):1	8339(restarant):1	
+22	2(night):1	3(clean):2	4(nice):1	8(day):1	17(view):1	18(book):1	35(street):1	58(quiet):1	96(worth):1	125(towel):1	153(provide):1	191(balcony):1	318(fridge):1	378(tower):1	503(dont):1	655(st):1	755(handy):1	1537(residential):1	2366(t.v):1	2901(wonderfull):1	3449(specify):1	3994(oz):1	
+31	7(walk):3	18(book):2	28(close):2	30(beach):3	66(park):1	82(station):1	102(near):2	120(bus):1	122(stop):1	168(central):1	205(ocean):1	247(min):2	335(numb):1	350(attraction):1	503(dont):1	561(harbor):1	655(st):1	766(agent):1	793(brilliant):1	795(shade):1	828(tree):1	1018(january):1	1093(position):1	1664(quay):1	1912(circular):1	2059(satisfactory):1	2816(hyde):1	3801(oxford):1	4868(bondi):2	5472(promenade):1	7950(manly):1	
+0	
+6	0(staff):1	41(city):1	129(reception):1	153(provide):1	724(map):1	1478(helpfull):1	
+24	8(day):1	18(book):1	19(price):1	27(bar):1	78(rate):1	90(coffee):1	137(safe):1	174(serve):1	211(facility):1	230(road):1	301(tea):1	388(month):1	425(save):1	448(mini):1	650(list):1	660(steak):1	685(advance):1	729(hair):1	868(iron):1	1033(nightly):1	1209(dryer):1	1393(pub):1	2347(irish):1	3946(ther):1	
+0	
+
+<Author>nutgrove
+<Content>Dangerous, dirty, awful place! This was so awful it's hard to know where to begin. Firstly, the location is not good. It's a good 15-20 mins walk to public transport after you've climbed over the drunks on the pavement. You're in the gay district so it's colourful to say the least and at night it's uncomfortable walking around looking for somewhere to eat. There are plenty of cafes, restaurants etc nearby though. The hotel is also opposite the police station so beware of sirens at all hours. The hotel itself has apparently been refurbished but the only evidence of this is new bedding. The carpets, furniture etc are shabby and knocked about. We had booked a deluxe room on the top floor but at check-in the receptionist tried to put us in an economy room on level1. After some argument he eventually put us in a 'one bed suite' on level7 as the hotel was supposedly full. This was very large with a balcony but shabby and dirty. The bedding had black marks on it, the carpet was stained, loose and pulled away from the walls and there was mould in the bathroom. There was no soundproofing or double glazing at all so traffic noise was horrendous. The balcony rail was very low so it would be easy to fall over it and we were shocked that it was permissible in a public building. The sliding door didn't close properly either so very dangerous if you had a child. We had unexpected company in the form of a huge cockroach which we managed to trap thankfully. We didn't bother returning it to the desk as they had been so unhelpful to begin with. The next morning we did battle with the desk again for our deluxe room. Again they tried to palm us off with a different room but eventually we got what we should have had to start with. They said they would transfer our bags but when we returned we had to look for them and do it ourselves. It was a better room having had a recently installed shower room. It was small though and again had tired old furniture, uncomfortable beds and no soundproofing. This time round we had ants to contend with! The mgr gave us vouchers for breakfast which was fine but this was the only meal we had there. The cockroach and ant thing put us off eating there. On the whole a horrible experience, dreadful service with desk staff blatantly lying and an unpleasant area of town to stay. Avoid it like the plaque! We stayed in Jan07 and would never go back there or advise anyone else to stay.  
+<Date>Feb 16, 2007
+<Rating>1	1	1	1	1	1	1	2	
+<Aspects>
+17	5(time):1	20(look):1	39(return):1	47(eat):1	162(hard):1	170(else):1	290(bag):1	436(avoid):1	551(begin):1	663(advise):1	736(awful):1	767(ourselves):1	1021(transfer):1	1675(ant):2	2110(cockroach):1	7911(contend):1	8877(plaque):1	
+4	165(start):1	253(tried):1	987(palm):1	1204(eventually):1	
+39	11(bed):4	13(bathroom):1	36(desk):1	56(morning):1	61(shower):1	73(etc):1	93(easy):1	108(suite):1	135(build):1	183(wall):1	191(balcony):1	322(recently):1	379(public):1	396(carpet):2	440(furniture):2	454(tire):1	513(low):1	587(fall):1	648(deluxe):1	723(stain):1	856(uncomfortable):1	858(pull):1	863(apparently):1	882(mark):1	1007(black):1	1138(mold):1	1204(eventually):1	1206(shock):1	1253(refurbish):1	1319(shabby):1	1323(knock):1	1755(rail):1	1852(soundproof):1	2062(supposedly):1	2234(loose):1	2691(install):1	3261(evidence):1	3815(argument):1	4607(battle):1	
+34	1(location):1	2(night):1	7(walk):2	20(look):1	28(close):1	47(eat):1	54(door):1	60(hour):1	82(station):1	94(noise):1	179(double):1	247(min):1	277(child):1	379(public):1	433(district):1	486(traffic):1	737(beware):1	742(transport):1	783(opposite):1	856(uncomfortable):1	1142(slide):1	1144(properly):1	1409(police):1	1424(climb):1	1852(soundproof):1	1971(dangerous):1	2140(firstly):1	2144(glaze):1	2282(siren):1	2489(colorful):1	2552(gay):1	3140(horrendous):1	4127(drunk):1	4479(pavement):1	
+5	191(balcony):1	323(dirty):2	736(awful):1	1319(shabby):1	1971(dangerous):1	
+22	0(staff):1	9(service):1	18(book):1	24(floor):1	36(desk):2	39(return):1	44(experience):1	118(top):1	239(town):1	253(tried):1	286(check-in):1	307(bother):1	544(horrible):1	551(begin):1	648(deluxe):1	855(receptionist):1	1166(lie):1	1618(unhelpful):1	1747(unpleasant):1	2895(dreadful):1	3319(economy):1	8592(blatantly):1	
+10	6(breakfast):1	10(restaurant):1	73(etc):1	113(fine):1	158(plenty):1	213(meal):1	232(nearby):1	275(cafe):1	1750(voucher):1	6126(mgr):1	
+8	133(huge):1	645(manage):1	760(company):1	1164(form):1	1893(thankfully):1	2110(cockroach):1	2166(trap):1	2372(unexpected):1	
+
+<Author>debsimmonds
+<Content>Good for the Budget Traveler We arrived in Sydney on New Year's Eve and had difficulty finding a reasonably priced hotel for a few nights before we moved into a holiday apartment. We found the Cambridge through the Qantas Ready Rooms site. At first I was a little put off by the location, but discovered that colorful Oxford Street has a lot to offer. There are many superb eateries and coffee shops that are inexpensive and delicious. The hotel is a five minute walk to the Museum stop of the rail system and close to beautiful Hyde Park. We did not roam around at night, which might be a little scary. However, during the day, it was fine. Our room was of decent size , however, it was a little dark and damp feeling with high windows(from the floor) that looked into another building. But, it was clean, quiet and proved a good place to crash after a full day of sightseeing. The bed was extraordinarily comfortable -- I think the best we experienced in our 8 weeks of travel. We enjoyed the extra couches in the room for reading our tour books and maps. Yes, the elevators were a pain, as stated by other travelers, -- small, slow and unpredictable. It took us 15 minutes to get from the 4th floor to the lobby to check out with our luggage. But, overall, for the price and the close proximity to the center of the city, this is definitely a good budget option for travelers. I would stay there again.Coffee at Gloria Jeans is a must!I recommend great Thai food at Wagamama one block off Oxford on Crown Street, just a couple blocks up from the Cambridge.  
+<Date>Feb 15, 2007
+<Rating>3	4	3	4	3	5	3	3	
+<Aspects>
+6	2(night):1	8(day):1	23(little):1	113(fine):1	1566(scary):1	2958(roam):1	
+31	2(night):1	11(bed):1	19(price):2	25(comfortable):1	28(close):1	41(city):1	44(experience):1	49(shop):1	53(arrive):1	59(definitely):1	68(travel):1	70(overall):1	75(week):1	90(coffee):1	101(center):1	207(move):1	223(holiday):1	267(traveler):2	336(option):1	407(superb):1	429(budget):2	485(delicious):1	578(reasonably):1	751(apartment):1	809(sydney):1	1114(proximity):1	1117(inexpensive):1	1777(difficulty):1	1779(eatery):1	1787(eve):1	5043(extraordinarily):1	
+27	3(clean):1	8(day):1	18(book):1	20(look):1	23(little):1	24(floor):1	34(feel):1	51(enjoy):1	58(quiet):1	83(size):1	88(read):1	119(window):1	128(extra):1	135(build):1	181(tour):1	192(site):1	257(decent):1	274(ready):1	459(dark):1	640(sight-see):1	724(map):1	1192(couch):1	1554(prove):1	1640(damp):1	2192(crash):1	4114(cambridge):1	10895(qantas):1	
+25	1(location):1	7(walk):1	15(recommend):1	16(food):1	23(little):1	28(close):1	29(minute):1	35(street):2	38(lot):1	45(beautiful):1	66(park):1	89(offer):1	99(couple):1	100(bloc):2	122(stop):1	507(museum):1	518(system):1	869(discover):1	1755(rail):1	2393(thai):1	2489(colorful):1	2816(hyde):1	3194(crown):1	3801(oxford):2	4114(cambridge):1	
+0	
+0	
+15	24(floor):1	29(minute):1	32(check):1	55(lobby):1	90(coffee):1	216(elevator):1	249(luggage):1	250(yes):1	267(traveler):1	455(slow):1	845(4th):1	1481(pain):1	3936(jeans):1	7794(unpredictable):1	8626(gloria):1	
+0	
+
+<Author>Queensland456
+<Content>Happy with the Cambridge Quality Hotel I recently stayed at the newly refurbished Cambridge Quality Hotel for 2 nights in a standard double room. Although the room was basic and quite small, it was clean and perfectly adequate for our short stay given that we only paid about $130 per night which is cheap for Sydney. The hotel is a little out of the way of the main attractions of Sydney (Circular Quay etc), but it is only about a five minute walk to the nearest Oxford St bus-stop where buses run frequently to Circular Quay. It takes about 15/20 minutes to walk to the central shopping area of Pitt Street. The hotel is very close to a range of pubs and clubs (mostly gay) and restaurants.The hotel is situated in a quiet street off the busy thoroughfare of Oxford Street. We had no problems with the lift as some of the other reviews mention, but the hotel is installing brand new lifts as the final stage of their refurbishment. The only annoying thing was the bar closed at 9.50pm on Sunday evening! I would recommend this hotel for anyone who doesn't want to pay top dollar for a hotel and doesn't mind being a little out of the main city. It's not the sort of hotel that you would spend alot of time in as there are not many facilities, but if you just want a base in which to explore Sydney then it's fine. I would definitely stay here again.  
+<Date>Feb 5, 2007
+<Rating>4	4	3	3	4	3	-1	3	
+<Aspects>
+9	37(review):1	59(definitely):1	244(mention):1	591(lift):2	883(brand):1	1337(final):1	1866(stage):1	2253(refurbishment):1	2691(install):1	
+24	2(night):2	3(clean):1	15(recommend):1	23(little):1	41(city):1	42(pay):2	112(main):1	118(top):1	130(standard):1	143(cheap):1	144(short):1	155(happy):1	179(double):1	187(quality):2	294(mind):1	322(recently):1	352(basic):1	390(adequate):1	430(dollar):1	595(perfectly):1	809(sydney):1	1189(newly):1	1253(refurbish):1	4114(cambridge):2	
+0	
+36	5(time):1	7(walk):2	23(little):1	27(bar):1	28(close):1	29(minute):2	35(street):3	49(shop):1	58(quiet):1	64(spend):1	73(etc):1	102(near):1	112(main):1	113(fine):1	120(bus):1	149(run):1	168(central):1	211(facility):1	220(busy):1	284(base):1	350(attraction):1	393(pm):1	557(sort):1	574(situate):1	594(explore):1	647(alot):1	695(annoy):1	809(sydney):2	844(sunday):1	940(St):1	1573(frequently):1	1664(quay):2	1912(circular):2	3801(oxford):2	5203(thoroughfare):1	5468(pitt):1	
+0	
+0	
+6	10(restaurant):1	28(close):1	212(club):1	714(range):1	1393(pub):1	2552(gay):1	
+0	
+
+<Author>Miss_Funky
+<Content>Excellent presentation Beautifully presented and revamped hotel, the rooms were stylish and were at an affordable price range. Located close to the CBD, i was able to find transport without a problem. The hotel has a positive ambiance and was reflected amongst staff. Great for a little getaway!  
+<Date>Nov 8, 2006
+<Rating>4	5	5	4	4	5	4	4	
+<Aspects>
+2	23(little):1	1089(getaway):1	
+8	19(price):1	21(excellent):1	714(range):1	771(beautifully):1	961(stylish):1	1062(affordable):1	1932(presentation):1	5500(revamp):1	
+0	
+5	28(close):1	84(locate):1	171(able):1	742(transport):1	2731(cbd):1	
+0	
+4	0(staff):1	458(positive):1	957(ambience):1	2250(reflect):1	
+0	
+0	
+
+<Author>docdanz
+<Content>Hmmmmm.... could have picked better. Well, we didn't have problems with noise and cleanliness as other people seem to have, but that doesn't mean we had a great experience. Sure the location was reasonable (a little closer to a station would have been better as we had to go to the olympic park daily for a conference), but the room was something else. Out of a different era - and not in a cute retro way either. It just looked like things had never been replaced or updated since it was built. Wallpaper, carpet, even bedding was dated (although I repeat that we did find it to be clean).The room was spacious and had a view (we were on the 10th floor).The worst thing was the malfuntioning lifts. Both of them! They were tiny, would take you to the wrong floor or stop at floors of which the buttons had not been pushed. The worst thing is sometimes it would just reset returning to the ground floor (or sometimes the basement!) just before you were about to arrive at your destination (especially bad for someone on the 10th floor. It usually took us several goes to get back to our rooms and we ended up always using the stairs to get back down.The pool was not great being almost enclosed by oppressive apartment style rooms (not sunny and open as suggested by the photos). What was more there was a large tour (high school students) group from the United States staying at the hotel. With the amount of luggage they had, you would think that they were moving to Australia. Needless to say that this combined with tiny malfunctioning lifts meant an arduous exercise getting back to our room each day (10 minutes plus at times from the front desk!)On the positive side, the service was reasonable and friendly and it was very cheap (less than $100Aus per night).I think we'll try something else next time.  
+<Date>Aug 1, 2006
+<Rating>2	3	2	3	3	4	4	3	
+<Aspects>
+17	5(time):1	20(look):1	50(bad):1	76(try):1	135(build):1	170(else):1	181(tour):1	266(pick):1	591(lift):1	725(update):1	912(replace):1	1202(cute):1	1229(school):1	2020(student):1	2999(unite):1	4079(retro):1	4081(era):1	
+11	2(night):1	9(service):1	12(friendly):1	26(people):1	44(experience):1	94(noise):1	143(cheap):1	246(mean):1	273(reasonable):1	458(positive):1	854(cleanliness):1	
+34	3(clean):1	11(bed):1	17(view):1	22(pool):1	24(floor):5	39(return):1	50(bad):2	53(arrive):1	111(spacious):1	122(stop):1	126(especially):1	326(style):1	338(tiny):1	396(carpet):1	399(usually):1	427(wrong):1	452(suggest):1	511(date):1	560(sometimes):2	568(stair):1	706(grind):1	751(apartment):1	761(photo):1	1041(push):1	1092(destination):1	1467(repeat):1	1568(basement):1	1592(10th):2	1700(sunny):1	2093(wallpaper):1	2142(button):1	2758(enclose):1	4863(reset):1	10507(oppressive):1	
+10	1(location):1	23(little):1	28(close):1	66(park):1	82(station):1	170(else):1	273(reasonable):1	360(daily):1	794(conference):1	2286(olympic):1	
+0	
+14	5(time):1	8(day):1	29(minute):1	31(front):1	36(desk):1	203(plus):1	246(mean):1	338(tiny):1	591(lift):1	1356(needless):1	1459(exercise):1	2316(combine):1	5262(malfunction):1	12024(arduous):1	
+4	207(move):1	249(luggage):1	666(amount):1	1530(australia):1	
+0	
+

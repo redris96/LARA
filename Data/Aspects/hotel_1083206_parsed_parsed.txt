@@ -1,0 +1,434 @@
+<Author>Bahru
+<Content>Awesome! Upgraded to a higher floor on our last night of our honeymoon, we were ecstatic with this hotel. Super cool design from the invisibleshower drain, room number lit on the hallway floor, to the cage surrounding the entire building. Super comfortable bed. Free wireless. Awesome roof top terrace suitable for warmer weather. Room service was extremely reasonable even with our terrible exchange rate (cdn). Free nespresso machine in each room. Staff was awesome getting us a same-day reservation at a michelin star restaurant in madrid the day we left. Definitely recommended....  
+<Date>Jan 7, 2009
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+3	15(recommend):1	59(definitely):1	348(awesome):1	
+5	2(night):1	24(floor):1	163(upgrade):1	502(honeymoon):1	9396(ecstatic):1	
+31	9(service):1	11(bed):1	24(floor):1	25(comfortable):1	46(free):1	78(rate):1	110(extremely):1	118(top):1	135(build):1	157(light):1	236(warm):1	273(reasonable):1	278(cool):1	329(entire):1	335(numb):1	348(awesome):1	385(weather):1	432(terrible):1	464(super):2	493(machine):1	516(design):1	580(hallway):1	636(roof):1	667(surround):1	673(terrace):1	1489(drain):1	1514(exchange):1	1967(suitable):1	4654(cage):1	6877(cdn):1	9147(nespresso):1	
+0	
+0	
+9	0(staff):1	8(day):1	10(restaurant):1	43(leave):1	103(star):1	156(reservation):1	348(awesome):1	1280(madrid):1	5530(michelin):1	
+0	
+2	46(free):1	717(wireless):1	
+
+<Author>Chrisdot
+<Content>Fun hotel, great location I rarely write hotel reviews, even though I make use of them - esp. Tripadvisor's - so this is an exception, prompted partly by the Barcelo Raval being a new hotel, and partly by a wish to counter the occasional negative reviews it gathered early on.We've just returned after spending a really excellent 5 days at the hotel over the New Year - a generally low key event in Barcelona, incidentally. All the positive comments in previous reviews about the style and features of the hotel we felt were justified: friendly staff, general hotel facilities, rooftop terrace + views, internet access, cleanliness of room, shower, quality of toiletries, towels etc (though a bit of conservation awareness here wouldn't come amiss), and of course the gadgetry which, when you work it out, is great fun. Only occasionally does style triumph over functionality - would a handle on the sliding toilet door be SO unsightly? Or a work surface of some description?We had a Superior Double room on the 4th floor, and it may be that the layout of the more expensive rooms on the higher floors (with better views) is slightly different, but we didn't feel the open plan design would present any problem for the great majority of guests. As for the location - the other negative mentioned in some reviews - the Raval neighbourhood tends to receive its own section in updated tourist guides and it is surely a fast developing tourist area. So, while still roughish at night, it is fine during the day and should, in our view, certainly not be seen as prohibitive (even the Carrer de l'Hospital route to Las Ramblas, from which you can cut through to the excellent Central Market).Eating - if you can get a deal including breakfast, it's almost certainly worth it - the continental breakfast is varied and plentiful, and hot is available (included in the price, at least if you have the scrambled eggs!). There are two restaurants even closer than La Reina del Raval (and, we felt, better) - El Cafeti and, slightly more expensive - though both offer set menus - Casa Leopoldo, both on Carrer de Saint Rafael, literally alongside the hotel.All in all, a hotel that is enterprising, trying hard, and that deserves to succeed. But yes, certainly at present, Barcelona is not a cheap short break.  
+<Date>Jan 4, 2009
+<Rating>5	4	5	4	5	4	4	5	
+<Aspects>
+11	54(door):1	326(style):1	330(toilet):1	966(handle):1	1142(slide):1	2034(description):1	2533(occasionally):1	2534(surface):1	5961(triumph):1	8161(functionality):1	8757(unsightly):1	
+5	143(cheap):1	144(short):1	228(break):1	250(yes):1	309(barcelona):1	
+38	0(staff):1	12(friendly):1	17(view):2	24(floor):2	34(feel):2	37(review):1	52(bit):1	61(shower):1	73(etc):1	91(guest):1	97(internet):1	124(expensive):1	125(towel):1	159(access):1	176(fun):1	179(double):1	187(quality):1	211(facility):1	221(plan):1	293(course):1	326(style):1	356(comment):1	373(previous):1	458(positive):1	516(design):1	598(slightly):1	657(toiletry):1	673(terrace):1	731(feature):1	785(superior):1	845(4th):1	854(cleanliness):1	1063(rooftop):1	1453(layout):1	1584(majority):1	5463(justified):1	9008(conservation):1	9535(amiss):1	
+33	1(location):2	2(night):1	8(day):1	17(view):1	21(excellent):1	37(review):2	113(fine):1	166(own):1	168(central):1	176(fun):1	209(tourist):2	244(mention):1	264(market):1	282(negative):1	302(receive):1	344(write):1	421(neighbourhood):1	499(fast):1	634(ramblas):1	725(update):1	829(guide):1	834(las):1	873(cut):1	947(section):1	1035(route):1	1053(tend):1	1791(rarely):1	2033(surely):1	2624(esp):1	2880(develop):1	6576(carrer):1	6806(raval):1	12512(prohibitive):1	
+0	
+0	
+56	6(breakfast):2	8(day):1	10(restaurant):1	19(price):1	21(excellent):1	28(close):1	34(feel):1	37(review):1	39(return):1	47(eat):1	64(spend):1	71(include):2	76(try):1	89(offer):1	96(worth):1	114(hot):1	124(expensive):1	134(available):1	140(deal):1	162(hard):1	225(la):1	234(set):1	282(negative):1	309(barcelona):1	339(key):1	372(continental):1	384(wish):1	412(egg):1	423(menu):1	513(low):1	597(tripadvisor):1	598(slightly):1	665(literally):1	752(el):1	1001(counter):1	1039(plentiful):1	1072(deserve):1	1106(event):1	1128(exception):1	1208(prompt):1	1482(del):1	1578(varied):1	1674(scramble):1	1948(barcelo):1	2090(casa):1	2418(occasional):1	2433(gather):1	3312(saint):1	3534(partly):2	4418(alongside):1	4593(incidentally):1	5717(succeed):1	6456(rafael):1	6576(carrer):1	6806(raval):2	8401(reina):1	
+0	
+
+<Author>Hotel_traveller32
+<Content>a beautiful hotel in strange area Well Hi everyone, Its not very often when i visit a hotel that everything is absolutely PERFECT. Well ive found it.if you read my other reviews you will find i sometimes moan about the littlest of things, there is absolutely nothing to moan about. From stepping out of the cab, being met by the bell boy, excellent check-in, beautiful modern interiors, one pink and one green lighted lift, upto the 9th floor to our room, the room numbers are lit in the carpet on the floor. A beautiful room, gorgeous SEE THROUGH rain shower, omg it has to be experienced, not very good if you are sharing with friends. or if you are a prude.Massive bed, electric curtains, very clean room. We went for a meal in the lounge,come bar come restaurant dont know what else to call it. Food is marvellous not too much and a very good price.The area it is in looks run down but not too far from La Rambla and Liceu Metro (5 mins). down a long side street with hookers etc... but its well worth it. We got an absolute bargain of a price from www.travelepublic.co.uk 拢75 a night including breakfast. there was cheaper websites but i decided to go for travelrepublic because it is a well known brand and has got oodles of money, whereas other websites are struggling and i didnt want to choose one that might go bust, it was worth the extra few quid for peace of mind.i know that this hotel charges more and doesn't include breakfast. so look around for some good bargains should you want too.i can recommend an awesome restaurant in Barcelona just off La Rambla, tucked away in another side street called SINATRA'S please contact me for directions. you will not be sorry, its not too expensive the staff inside dont seem to want to please at first (they even let us walk out because we couldnt eat upstairs due to very small crying children downstairs, but they let us in the end) they should get rid of some of the staff that work there, as they are there for the customer and should aim to please everytime OPEN is on the door. we got an excellent waiter, but its the food that is absolutely gorgeous. as always if u need any help please contact me, or prestonbrookes@hotmail.com  
+<Date>Dec 16, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+21	20(look):1	23(little):1	37(review):1	45(beautiful):1	65(visit):1	74(perfect):1	88(read):1	96(worth):1	149(run):1	189(absolutely):2	225(la):1	235(metro):1	247(min):1	560(sometimes):1	1058(strange):1	1377(rambla):1	1863(hi):1	2839(ive):1	3644(moan):2	7650(liceu):1	9319(prude):1	
+9	2(night):1	6(breakfast):1	16(food):1	19(price):2	20(look):1	71(include):1	759(bargain):2	1250(absolute):1	2187(marvelous):1	
+49	0(staff):2	3(clean):1	7(walk):1	11(bed):1	21(excellent):1	24(floor):2	44(experience):1	45(beautiful):2	47(eat):1	54(door):1	61(shower):1	124(expensive):1	146(friend):1	151(modern):1	157(light):2	173(please):2	196(meet):1	259(due):1	277(child):1	286(check-in):1	366(step):1	380(cab):1	396(carpet):1	408(inside):1	428(customer):1	446(gorgeous):1	503(dont):1	520(share):1	581(rain):1	591(lift):1	691(downstairs):1	743(curtain):1	801(bell):1	881(boy):1	891(sorry):1	1005(green):1	1026(interior):1	1329(massive):1	1358(upstairs):1	1528(couldnt):1	1607(everytime):1	2121(pink):1	2246(electric):1	2396(cry):1	3046(rid):1	3267(aim):1	5180(9th):1	5411(omg):1	5960(upto):1	
+18	35(street):1	73(etc):1	80(money):1	96(worth):1	128(extra):1	143(cheap):1	167(choose):1	219(decide):1	262(website):2	294(mind):1	626(didnt):1	883(brand):1	1517(peace):1	1979(struggle):1	3517(whereas):1	4831(bust):1	4905(hooker):1	10378(quid):1	
+0	
+6	6(breakfast):1	71(include):1	92(help):1	136(charge):1	173(please):1	713(contact):1	
+22	10(restaurant):2	15(recommend):1	16(food):1	21(excellent):1	27(bar):1	35(street):1	67(call):2	170(else):1	173(please):1	189(absolutely):1	213(meal):1	225(la):1	237(lounge):1	309(barcelona):1	348(awesome):1	395(direction):1	446(gorgeous):1	503(dont):1	713(contact):1	735(waiter):1	1377(rambla):1	2091(tuck):1	
+0	
+
+<Author>Illyria-lady
+<Content>pink and black Funky modern building, in a great location 3 minutes walk from the Ramblas and the Gothic centre. Very stylish modern rooms but watch out for the curved bedside table. Friendly staff and good food.  
+<Date>Dec 12, 2008
+<Rating>4	4	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+6	151(modern):1	229(table):1	245(watch):1	961(stylish):1	2298(bedside):1	4533(curve):1	
+11	1(location):1	7(walk):1	29(minute):1	101(center):1	135(build):1	151(modern):1	634(ramblas):1	1007(black):1	1516(funky):1	2121(pink):1	2410(gothic):1	
+0	
+3	0(staff):1	12(friendly):1	16(food):1	
+0	
+0	
+
+<Author>JillD09
+<Content>Barcelo Raval brilliant We have just returned from Barcelona  a two night stay at the Barcelo Raval which was amazing.I have stayed at many hotels all over the world but have to say this was definitely different. From walking into the reception with its wonderful silver floor  oversized lamp shades(including the one on the horse!) to the rooftop terrace with its jacuzzi you know you are in a different world.The room was suberb -all modcons including coffee machine,ipod docking station,remote control curtains etc. Our only problem was working out how everything worked  hoping not to break anything! An added bonus was the Light Breakfast Box in the morning, especially as the normal breakfast cost 鈧?8.00.The staff were most helpful  friendly.Regarding the location of the hotel, you can walk to all the main sights in Barcelona  we were not concerned with the people in the area. It was no different from any mixed ethnic area here in the UK, just folks going about their daily business.When we return to Barcelona it will definitely be to the Bracelo Raval.  
+<Date>Dec 11, 2008
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+7	59(definitely):1	228(break):1	272(world):2	328(hope):1	673(terrace):1	808(jacuzzi):1	1063(rooftop):1	
+9	6(breakfast):2	56(morning):1	126(especially):1	157(light):1	175(cost):1	351(add):1	849(bonus):1	878(normal):1	945(box):1	
+20	7(walk):1	24(floor):1	48(wonderful):1	71(include):2	73(etc):1	82(station):1	90(coffee):1	129(reception):1	493(machine):1	743(curtain):1	795(shade):1	865(control):1	1272(remote):1	1622(lamp):1	1946(horse):1	2338(dock):1	2353(ipod):1	2400(silver):1	3426(oversized):1	8608(suberb):1	
+14	1(location):1	7(walk):1	26(people):1	112(main):1	147(business):1	309(barcelona):1	360(daily):1	411(sight):1	496(concern):1	609(mix):1	930(regard):1	1050(folk):1	1178(uk):1	5673(ethnic):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+8	2(night):1	39(return):2	59(definitely):1	145(amaze):1	309(barcelona):2	793(brilliant):1	1948(barcelo):2	6806(raval):3	
+0	
+
+<Author>muckers43
+<Content>Fantastic Hotel,Great Location Excellent Hotel, very modern, clean  value for money. Location is great. Had been warned before we went about pick pockets, bag snatchers etc but had no problems (just be careful like any big city). Did notice a big increase of prostitutes in the area over the weekend but they weren't compulsory. (just reply with a firm no thank you if your not interested). would definetly recommend hotel for couples or a group looking for a quality hotel in the centre of things.  
+<Date>Dec 9, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+15	41(city):1	73(etc):1	172(weekend):1	266(pick):1	271(thank):1	290(bag):1	354(notice):1	679(warn):1	897(careful):1	1368(firm):1	1811(reply):1	2199(pocket):1	2812(increase):1	3230(prostitute):1	12147(compulsory):1	
+13	1(location):1	3(clean):1	15(recommend):1	20(look):1	21(excellent):1	80(money):1	81(value):1	86(fantastic):1	99(couple):1	101(center):1	151(modern):1	187(quality):1	1964(definetly):1	
+0	
+1	1(location):1	
+0	
+0	
+0	
+0	
+
+<Author>spiaro
+<Content>Loved Barcelona and the Barcelo Raval We stayed at this wonderful hotel in mid-November for 4 nights. It is a modern, stylish hotel. The rooms are interesting and functional. The bed was exceptionally comfortable, the linen and towels were the best we have ever experienced, the shower was great and it had free wi-fi access. The gadgets were fun; LCD TV, funky lighting and curtains that opened at the press of a button. On the couple of occasions we ate in the Hotel, the food was outstanding. It was innovative, fresh, tasty and stylishly presented. The cocktails were very nice too. The roof terrace had wonderful 360 degree views of the city. The distinctive round design and metal cladding on the building meant that the hotel was a bit of landmark and could be seen from many of the tourist sites around the city.We found the staff friendly and helpful. The nearby La Reina del Raval restaurant was also excellent. Turn right up the Rambla Del Raval from the main hotel entrance and it is less than a block away. The bad reviews of the hotel seemed to mainly centre on the shower and the location. I can understand if someone was uncomfortable being naked with their roommate, the shower could be a bit revealing. But, that is certainly only a problem for a minority of people. The shower itself was excellent, as were the toiletries. Some of the surrounding areas had obviously not yet been regenerated yet and I can see why some reviewers might comment on the some of the people on the streets between the hotel and Las Ramblas, but we walked all around the area during the day and night and never felt uncomfortable. It was certainly no worse than any of the areas close to a working port in any of the other major cities we have visited. The cost of the mini-bar items and water was no worse than any other hotel I have stayed in. The advantage of being in a residential area meant that there were many little supermarkets nearby that sold water etc at cheap prices. So you were not a prisoner of the mini-bar. We loved the hotel and Barcelona in general.  
+<Date>Dec 8, 2008
+<Rating>5	5	5	4	5	4	4	5	
+<Aspects>
+16	4(nice):1	17(view):1	26(people):1	41(city):1	48(wonderful):1	151(modern):1	197(fresh):1	636(roof):1	673(terrace):1	716(cocktail):1	961(stylish):1	984(tasty):1	1252(degree):1	3862(minority):1	5435(stylishly):1	7432(innovative):1	
+15	19(price):1	23(little):1	50(bad):1	57(water):2	73(etc):1	143(cheap):1	175(cost):1	232(nearby):1	246(mean):1	519(item):1	606(sell):1	867(advantage):1	1078(supermarket):1	1338(mini-bar):1	1537(residential):1	
+33	1(location):1	11(bed):1	21(excellent):1	25(comfortable):1	37(review):1	44(experience):1	46(free):1	50(bad):1	52(bit):1	61(shower):4	101(center):1	116(tv):1	125(towel):1	157(light):1	159(access):1	176(fun):1	391(understand):1	630(linen):1	657(toiletry):1	743(curtain):1	856(uncomfortable):1	1177(mainly):1	1242(exceptionally):1	1348(functional):1	1516(funky):1	1773(lcd):1	1827(wi-fi):1	1843(press):1	2142(button):1	4381(reveal):1	4541(naked):1	5660(gadget):1	6179(roommate):1	
+28	2(night):1	7(walk):1	8(day):1	26(people):1	28(close):1	34(feel):1	35(street):1	41(city):2	50(bad):1	52(bit):1	65(visit):1	135(build):1	192(site):1	209(tourist):1	246(mean):1	315(major):1	356(comment):1	516(design):1	564(reviewer):1	634(ramblas):1	667(surround):1	781(obviously):1	834(las):1	856(uncomfortable):1	1288(port):1	2720(metal):1	2797(landmark):1	7016(distinctive):1	
+0	
+9	0(staff):1	12(friendly):1	14(helpful):1	100(bloc):1	112(main):1	490(entrance):1	1377(rambla):1	1482(del):1	6806(raval):1	
+20	2(night):1	10(restaurant):1	16(food):1	21(excellent):1	40(love):2	47(eat):1	48(wonderful):1	99(couple):1	225(la):1	232(nearby):1	309(barcelona):2	534(outstanding):1	871(occasion):1	1338(mini-bar):1	1482(del):1	1948(barcelo):1	6806(raval):2	8401(reina):1	10796(mid-november):1	11594(prisoner):1	
+0	
+
+<Author>actweaver
+<Content>Great Hotel in Heart of City Brand new hotel right in the middle of Barrio Raval which has and remains an occasionally challenging district. This should not stop you in anyway, particularly if you love being immersed into the heart of a major city. The hotel is spectacular and the miserable gits on here winging about open showers and dark alleys should get a life. It's got the essence of barcelona and is a fab change from the normal, monotone, thoughtless hotel designs so familiar of many 4* and + establishments. Staff were friendly, helpful and casa leopoldo restaurant alongside is evocative, local and very special.  
+<Date>Dec 3, 2008
+<Rating>5	5	5	5	5	5	5	3	
+<Aspects>
+8	40(love):1	41(city):1	122(stop):1	315(major):1	417(anyway):1	450(heart):1	553(particularly):1	8311(immerse):1	
+0	
+7	61(shower):1	426(life):1	459(dark):1	656(spectacular):1	1515(wing):1	1671(alley):1	2332(miserable):1	
+0	
+0	
+8	0(staff):1	10(restaurant):1	12(friendly):1	14(helpful):1	195(local):1	208(special):1	2090(casa):1	4418(alongside):1	
+18	41(city):1	161(change):1	309(barcelona):1	325(middle):1	433(district):1	450(heart):1	516(design):1	878(normal):1	883(brand):1	1216(fab):1	1391(remain):1	1473(establishment):1	1708(challenge):1	2081(familiar):1	2533(occasionally):1	4676(essence):1	6806(raval):1	7990(barrio):1	
+0	
+
+<Author>Leesw8
+<Content>Fabulous!       View from roof  
+<Date>Dec 3, 2008
+<Rating>5	5	5	5	5	4	4	4	
+<Aspects>
+3	17(view):1	270(fabulous):1	636(roof):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>lizziedorset
+<Content>First time for everything When I booked the break in Barcelona at the Barcelo Raval I knew it was a new hotel, but just not how new! We arrived on the day it actually opened! Although one had the feeling of being a guinea pig the staff were very helpful although one rather got the feeling that they had come into work for the first time that morning and therefore didn't quite know their way around things yet. Getting a drink in the bar was not a swift exercise but everyone was smiling so it didn't really bother us.The room was clean and tidy and once we had worked out that the curtains opened by pressing a button (we did have to ask at reception about this) and how to work the coffee machine (aided by a very pleasant member of staff who was as much in the dark about how to work it as we were) all was fine. The only thing that I wasn't too keen on was the open plan nature of the room and shower - the shower was lovely and large but was in the bedroom! Luckily the loo was in a separate compartment, with a sliding door but if you opened a drawer in the wardrobe area and left it open, if someone was in the loo they were trapped in there!The view from the roof terrace is AMAZING. 360 degrees all around the city.Very centrally placed for Las Ramblas and the tourist buses which are a great way to see the city - pay your fare and hop on and off where you want to around the route. All in all a super visit to Barcelona and I would certainly recommend the Barcelo Raval to anyone else wanting a central hotel in the city  
+<Date>Nov 26, 2008
+<Rating>5	-1	5	4	5	5	5	-1	
+<Aspects>
+19	8(day):1	17(view):1	41(city):1	43(leave):1	53(arrive):1	54(door):1	145(amaze):1	180(actually):1	474(separate):1	636(roof):1	673(terrace):1	1142(slide):1	1200(luckily):1	1252(degree):1	1426(drawer):1	1451(wardrobe):1	2166(trap):1	3927(loo):2	8961(compartment):1	
+10	41(city):1	42(pay):1	120(bus):1	209(tourist):1	634(ramblas):1	834(las):1	879(centrally):1	1035(route):1	1112(fare):1	1151(hop):1	
+6	61(shower):2	87(lovely):1	221(plan):1	268(bedroom):1	1986(nature):1	2641(keen):1	
+0	
+13	0(staff):1	3(clean):1	90(coffee):1	113(fine):1	129(reception):1	150(pleasant):1	459(dark):1	493(machine):1	743(curtain):1	1100(tidy):1	1843(press):1	2142(button):1	4229(aid):1	
+6	0(staff):1	5(time):1	14(helpful):1	34(feel):2	56(morning):1	3911(pig):1	
+18	5(time):1	15(recommend):1	18(book):1	27(bar):1	41(city):1	63(drink):1	65(visit):1	168(central):1	170(else):1	228(break):1	307(bother):1	309(barcelona):2	387(smile):1	464(super):1	1459(exercise):1	1948(barcelo):2	4245(swift):1	6806(raval):2	
+0	
+
+<Author>ria_rossie
+<Content>New cool and funky hotel       Pigs in the Foyer  
+<Date>Nov 18, 2008
+<Rating>5	3	4	4	4	4	4	4	
+<Aspects>
+4	278(cool):1	1516(funky):1	1931(foyer):1	3911(pig):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Jill9034
+<Content>Fantastic Modern Hotel Excellent Hotel in a brilliant location. The unsavoury characters in the area were more prominent at the weekend than in the week. We also were not bothered by them at all and feel sure that the high profile policing in the area would prevent any tourists from being bothered. This is obviously an area undergoing improvement and as such is not quite there yet. Having said that the Hotel is amazing, the service excellent and the location very central for all of the sights especially Las Ramblas. I would definately recommend this hotel, Barcelona is beautiful, but definately not a cheap city break, take plenty of money!  
+<Date>Nov 18, 2008
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+14	34(feel):1	75(week):1	172(weekend):1	209(tourist):1	307(bother):2	781(obviously):1	1049(character):1	1409(police):1	1486(improvement):1	2086(undergo):1	2352(prevent):1	6871(profile):1	9873(unsavoury):1	11707(prominent):1	
+9	15(recommend):1	41(city):1	45(beautiful):1	80(money):1	143(cheap):1	158(plenty):1	228(break):1	309(barcelona):1	410(definately):2	
+0	
+12	1(location):2	9(service):1	21(excellent):2	86(fantastic):1	126(especially):1	145(amaze):1	151(modern):1	168(central):1	411(sight):1	634(ramblas):1	793(brilliant):1	834(las):1	
+0	
+0	
+0	
+0	
+
+<Author>Mo_joker
+<Content>Great Hotel - Dont drink the bottled water! A very modern and funky hotel which is located about 5 minutes walk away from Las Ramblas (a great base to explore the city from). A few people have mentioned the dodgy characters down the side streets, to be honest they didnt bother us and we wernt bothered by them, however you can see how some people may feel intimidated by it. As for our room, it was on the 3rd floor and had a bath with a shower which was not in the middle of the room as per all the picture we had seen previously. The roof terrace provided great panoramic views of the city. The nespresso machine was great which produced excellent smooth coffee. We are used to staying in 4/5* hotels which provide complimentary water etc... not in this hotel... two bottle of water cost 11 Euros so beware! On the whole a good hotel (not as good as the Manderin Oriental in KL - service is something else!).  
+<Date>Nov 11, 2008
+<Rating>4	3	4	4	3	3	2	-1	
+<Aspects>
+9	17(view):1	41(city):1	57(water):1	73(etc):1	153(provide):2	345(complimentary):1	636(roof):1	673(terrace):1	3402(panoramic):1	
+5	57(water):1	175(cost):1	238(bottle):1	256(euro):1	737(beware):1	
+7	24(floor):1	61(shower):1	226(bath):1	325(middle):1	456(picture):1	1122(previously):1	2097(3rd):1	
+21	7(walk):1	26(people):2	29(minute):1	34(feel):1	35(street):1	41(city):1	84(locate):1	151(modern):1	244(mention):1	284(base):1	307(bother):2	594(explore):1	626(didnt):1	634(ramblas):1	834(las):1	1049(character):1	1108(honest):1	1516(funky):1	2539(dodgy):1	3300(intimidate):1	12330(wernt):1	
+0	
+0	
+13	9(service):1	21(excellent):1	57(water):1	63(drink):1	90(coffee):1	170(else):1	238(bottle):1	493(machine):1	503(dont):1	1400(smooth):1	1616(Oriental):1	2538(produce):1	9147(nespresso):1	
+0	
+
+<Author>Poochies1
+<Content>Don't do it!! My boyfriend and I were very dissatisfied with the new Barcelo Raval hotel in Barcelona when we went on their opening weekend.We understand that the hotel was in its opening days and the staff were still being trained and getting used to the systems in place, however this does not excuse the attitude of some of the staff, in particular the concierge/security and the service that we received.We arrived in the early hours of Friday morning, checked in and went to our room. I had a shower and it flooded the bedroom! I phoned down to reception and they said we had two options; we could stay in the room (why we would want to stay in a flooded room is beyond me!) or move. I requested that we move and we were shown to a new room along the corridor. This was a huge inconvenience as we had unpacked our belongings. The man that showed us to our new room also said that this had happened in various other rooms so I find it unbelievable that this wasn't checked in our room before we were checked into it.On Friday we arrived back at the hotel at approx 5pm and our room had still not been cleaned. The cleaner finally came round at about 5.30pm but we were in our room relaxing and didn't want to have to leave. This should have been cleaned in the morning and not in the evening. We wanted to hire bikes for the day on Saturday so on Friday pm I called down to reception and asked for recommendations for bike hire. I was told that they would look into it and get back to me. I never received a call back. Again very poor customer service for a 4* hotel.On Saturday morning we awoke at approx 10am and we had no lite breakfast waiting on our door. I called down to reception to ask where it was and they said they would send one up. 20 mins later we still had no breakfast so I called down again and once again no breakfast arrived. After a third call they finally managed to send up our breakfast 40 mins after we had to call and ask for it, which we shouldn't have had to do in the first place. I received no apology for this delay and when it arrived it was the same breakfast as the day before. I would have thought you would have provided a variety for the cost.On Friday night there was demonstration outside the hotel which was highly threatening and we received no explanation from the hotel staff as to what was going on. The hotel was being covered in graffiti, there were eggs and bottles being thrown at the doors and windows and it was a deeply unnerving experience. There were numerous guests in the lobby waiting to go out and we just got told to move away from the doors with no explanation or apology. We wanted to leave to go for dinner and were ushered out the back door as the front door has been locked and was surrounded by demonstrators. Again there was no explanation or apology and this was truly despicable customer service.On numerous occasions upon entering the hotel we were also asked by the concierge/security where we were going and if we were staying there. It was the same man every day that asked the same questions and made us feel most unwelcome. If I pay to stay in a 4* establishment I don't expect to feel targeted by the staff and made to feel as if we shouldn't be staying there.I would also like to comment regarding the lighting in the rooms, there were too many gadgets and lights everywhere that make it very difficult to get a good nights sleep, also the soundproofing in the hotel is appalling and we could here the footsteps from the room upstairs, noise from next door and here the voices in the corridors at 4 in the morning word for word.The rooms also had no bins so we had to pile up our rubbish on the side, not only is this highly unhygienic, it is very unsightly and messy for guests. Also we had an espresso machine and tea bags, yet we had no mugs and coffee cups to go with it. Again this is very poorly thought out and bad customer service.All in all the stay at your hotel was unenjoyable and a complete farce and the fact that it was the opening weekend can not be used as an excuse.  
+<Date>Nov 10, 2008
+<Rating>1	3	3	4	2	3	1	2	
+<Aspects>
+16	8(day):1	20(look):1	34(feel):1	67(call):1	69(tell):1	133(huge):1	172(weekend):1	207(move):1	302(receive):1	394(question):1	622(complete):1	1431(inconvenience):1	1965(excuse):1	2179(unpack):1	2426(belongings):1	3795(unwelcome):1	
+19	0(staff):1	34(feel):2	42(pay):1	44(experience):1	54(door):1	62(expect):1	119(window):1	153(provide):1	175(cost):1	238(bottle):1	412(egg):1	413(variety):1	552(cover):1	917(throw):1	1473(establishment):1	3672(target):1	5980(deeply):1	6024(graffito):1	6807(unnerve):1	
+47	2(night):1	3(clean):2	32(check):3	43(leave):1	53(arrive):2	54(door):1	56(morning):2	60(hour):1	61(shower):1	91(guest):1	94(noise):1	104(sleep):1	129(reception):1	138(highly):1	148(request):1	157(light):2	160(relax):1	207(move):1	268(bedroom):1	296(phone):1	336(option):1	341(finally):1	356(comment):1	382(happen):1	393(pm):1	571(word):2	572(difficult):1	738(beyond):1	823(various):1	923(friday):2	930(regard):1	1073(corridor):2	1358(upstairs):1	1423(approx):1	1460(unbelievable):1	1852(soundproof):1	1927(flood):2	2264(voice):1	2664(rubbish):1	2752(appal):1	2886(pile):1	3059(bin):1	4555(messy):1	5067(footstep):1	5660(gadget):1	7134(5pm):1	8757(unsightly):1	
+16	0(staff):1	2(night):1	31(front):1	43(leave):1	54(door):2	98(outside):1	117(dinner):1	138(highly):1	302(receive):1	667(surround):1	774(lock):1	923(friday):1	2537(threaten):1	2693(explanation):1	4909(usher):1	9005(demonstration):1	
+2	3(clean):1	56(morning):1	
+37	0(staff):2	6(breakfast):1	8(day):2	9(service):1	54(door):2	55(lobby):1	56(morning):1	67(call):2	69(tell):1	85(wait):2	91(guest):1	129(reception):2	182(train):1	204(concierge):2	207(move):1	302(receive):1	391(understand):1	393(pm):1	447(send):1	518(system):1	577(recommendation):1	601(enter):1	818(saturday):2	821(attitude):1	871(occasion):1	923(friday):1	938(particular):1	971(numerous):2	1423(approx):1	1479(bike):2	1494(awake):1	1547(apology):1	1556(hire):2	1965(excuse):1	2693(explanation):1	5225(lite):1	7512(10am):1	
+33	6(breakfast):4	8(day):1	9(service):3	50(bad):1	53(arrive):2	67(call):3	79(late):1	90(coffee):1	172(weekend):1	247(min):2	290(bag):1	301(tea):1	302(receive):1	309(barcelona):1	331(poor):1	341(finally):1	428(customer):3	447(send):1	476(truly):1	493(machine):1	532(third):1	645(manage):1	763(boyfriend):1	800(cup):1	1351(delay):1	1547(apology):2	1635(poorly):1	1948(barcelo):1	2224(mug):1	2324(espresso):1	2693(explanation):1	6008(dissatisfy):1	6806(raval):1	
+0	
+
+<Author>modest_one
+<Content>WARNING - If you're not a naturist... Warning! Although this hotel is very modern, ask yourself one question before you go - do you like to shower in FULL view of another person? If the answer is yes, book it! If no, then no matter how modern the place is, you won't feel comfortable at all during your stay.  
+<Date>Nov 7, 2008
+<Rating>1	1	1	2	5	3	4	5	
+<Aspects>
+6	25(comfortable):1	34(feel):1	151(modern):1	487(wo):1	531(matter):1	679(warn):2	
+0	
+6	17(view):1	61(shower):1	151(modern):1	193(person):1	394(question):1	576(yourself):1	
+0	
+0	
+0	
+3	18(book):1	250(yes):1	669(answer):1	
+0	
+
+<Author>UkRizza
+<Content>The New Las Ramblas?, more like a slum location Location totally misrepresented. Views of the city, more like of Beirut! Balconies - they forget to tell you that you can not use them, or even open a widow!Very dangerous to go out in the evening, lots of dark dirty alleys, with no safe access to Las Ramblas after dusk.Room bar totally over priced.Cleaning standards not up to a 4 star standard.Hotel complaints procedure non existant.  
+<Date>Nov 6, 2008
+<Rating>1	2	2	1	2	3	2	3	
+<Aspects>
+7	17(view):1	41(city):1	190(complaint):1	634(ramblas):1	834(las):1	3905(procedure):1	7323(existant):1	
+6	3(clean):1	19(price):1	27(bar):1	103(star):1	130(standard):2	611(totally):1	
+4	69(tell):1	191(balcony):1	397(forget):1	12513(widow):1	
+4	1(location):2	611(totally):1	7621(slum):1	8018(misrepresent):1	
+10	38(lot):1	137(safe):1	159(access):1	323(dirty):1	459(dark):1	634(ramblas):1	834(las):1	1671(alley):1	1971(dangerous):1	5116(dusk):1	
+0	
+0	
+0	
+
+<Author>jencork
+<Content>Great base for a fab city!! fab newly built hotel only a stone throw from la ramblas. in the newly revived area of raval...like another guest said there are 2 direct routes to la ramblas left and right out of the hotel, left is well lit but has some undesireables and rgt still a few dodgy characters but more direct route by day only. hotel itself has a very moderne concept the bathroom is in the room with only a little wardrobe like effect for the toilet and the shower itself is totally on view in the room, i know most of the time you would be sharing with someone you know well, like i did with my mother but its been a long many years since shes seen me naked!!!! didnt ruin my stay though and i certainly didnt make her stand outside the door of the room!! i would never spend time in the hotel bar in any hotel especially when there is such a fab city on your door step to discover so if you lookin for a funky room with a great location , a good price e130 p/n and a fab roof terrace overlooking the city book this hotel.  
+<Date>Nov 4, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	41(city):1	135(build):1	225(la):1	284(base):1	634(ramblas):1	917(throw):1	1189(newly):1	1216(fab):2	1394(stone):1	
+0	
+32	5(time):1	8(day):1	13(bathroom):1	17(view):1	23(little):1	43(leave):2	54(door):1	61(shower):1	91(guest):1	98(outside):1	157(light):1	225(la):1	330(toilet):1	444(stand):1	520(share):1	611(totally):1	626(didnt):2	634(ramblas):1	803(direct):2	1035(route):2	1049(character):1	1189(newly):1	1243(ruin):1	1359(mother):1	1451(wardrobe):1	2191(effect):1	2354(concept):1	2539(dodgy):1	4541(naked):1	6806(raval):1	9536(revive):1	11589(sh):1	
+0	
+0	
+0	
+16	1(location):1	5(time):1	18(book):1	19(price):1	27(bar):1	41(city):2	54(door):1	64(spend):1	126(especially):1	260(overlook):1	366(step):1	636(roof):1	673(terrace):1	869(discover):1	1216(fab):2	1516(funky):1	
+0	
+
+<Author>carolinemoon
+<Content>Fantastic stylish hotel excellent hotel my boyfriend took me for my birthday and I was really impressed. The rooms are really stylish and comfortable loved the fact you had your own esspresso machine in the room with pods that were replaced daily, the shower is gorgeous although might be a bit open plan for more modest guests. The location is great and the views of Barcelona are fantastic from the room terrace.  
+<Date>Nov 3, 2008
+<Rating>5	5	5	5	5	4	5	-1	
+<Aspects>
+6	21(excellent):1	86(fantastic):1	343(impress):1	763(boyfriend):1	765(birthday):1	961(stylish):1	
+0	
+19	1(location):1	17(view):1	25(comfortable):1	40(love):1	52(bit):1	61(shower):1	86(fantastic):1	91(guest):1	166(own):1	221(plan):1	309(barcelona):1	360(daily):1	446(gorgeous):1	493(machine):1	673(terrace):1	912(replace):1	961(stylish):1	2553(modest):1	7361(pod):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>galway26
+<Content>brilliant hotel, wonderful staff, very funky interior We have just arrived back from a 6 day trip to barcelona ( we could have done with another few days). The hotel was very clean very new with excellent friendy staff. I couldnt speak more highly of the hotel. My favourite was the top level where we spent many a night drinking on the terrece while looking over all the lights of the city.barcelona has so much to offer. During our stay we went to the a barcelona soccor match which was amazing and definatly worth a visit. Spent another day on the fab tour bus where you can pay your 20E for the day ticket ( or 26E for 2 days) and hop off and on the bus all arounnd the city. We also fell in love with the food market on the rambles ( main high street) where we got smoothies ( 1 euro) and a packet of fruit ( 1 euro) every morning for our breakfast! Our evenings meals usually were no dearer than 12E for starter, mains and desert!!! look out for the special offer meals which are displayed on the door of every restaurant. In total barcelona is a fab city for art, bulidings, history, food but also has the most beautiful and clean beach with soft fluffy sand. Would highly recocommend!  
+<Date>Nov 1, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+3	127(speak):1	138(highly):2	1528(couldnt):1	
+16	8(day):3	41(city):1	42(pay):1	64(spend):1	112(main):1	120(bus):2	181(tour):1	213(meal):1	399(usually):1	621(ticket):1	1003(evening):1	1151(hop):1	1216(fab):1	1706(desert):1	3081(starter):1	3545(dear):1	
+9	2(night):1	20(look):1	41(city):1	63(drink):1	64(spend):1	118(top):1	157(light):1	306(level):1	376(favourite):1	
+13	6(breakfast):1	16(food):1	35(street):1	40(love):1	56(morning):1	112(main):1	215(fruit):1	256(euro):2	264(market):1	587(fall):1	3101(packet):1	3651(smoothy):1	3925(ramble):1	
+4	0(staff):1	3(clean):1	21(excellent):1	7695(friendy):1	
+9	0(staff):1	8(day):2	33(trip):1	48(wonderful):1	53(arrive):1	309(barcelona):1	793(brilliant):1	1026(interior):1	1516(funky):1	
+25	3(clean):1	10(restaurant):1	16(food):1	20(look):1	30(beach):1	41(city):1	45(beautiful):1	54(door):1	65(visit):1	89(offer):2	96(worth):1	145(amaze):1	208(special):1	213(meal):1	309(barcelona):3	522(sand):1	589(soft):1	786(total):1	789(art):1	1216(fab):1	1476(match):1	1490(history):1	1792(fluffy):1	1917(display):1	2993(definatly):1	
+0	
+
+<Author>Rose085
+<Content>Buyer beware I have just returned from a three night stay with my three sisters at this hotel. We could not believe the open-plan bathroom in the rooms. There was absolutely no privacy when showering and it meant that we had to take turns leaving the room to allow each other to use the bathroom in comfort. We asked to be moved to single rooms but were told that the hotel was full. I would definitely not recommend this hotel to anyone. The bar/lounge area was cold and totally lacking in atmosphere, on the three nights we stayed here there were no customers in the bar despite the hotel being fully booked.  
+<Date>Oct 28, 2008
+<Rating>1	2	1	1	3	3	3	-1	
+<Aspects>
+7	2(night):1	15(recommend):1	39(return):1	59(definitely):1	737(beware):1	892(sister):1	5371(buyer):1	
+0	
+12	13(bathroom):2	43(leave):1	61(shower):1	69(tell):1	189(absolutely):1	207(move):1	246(mean):1	304(single):1	312(believe):1	359(allow):1	702(comfort):1	1183(privacy):1	
+0	
+0	
+0	
+9	2(night):1	18(book):1	27(bar):2	222(cold):1	349(lack):1	414(atmosphere):1	428(customer):1	498(despite):1	611(totally):1	
+0	
+
+<Author>jazzDonegal
+<Content>Fab,Funky, difo going back! We have just returned from a 5 night stay at barcelo raval hotel. Our experience has been brillant. The hotel design is bright, fresh, funky and modern. When booking try an get the 8th floor, as the views are amazing! I loved the gadets and lights in the room. It would be more suitable for a couple staying. The reception staff were very helpful and spoke very good english. I would difo love to come back to this hotel. The only drawback for us was the location, during the day we felt safe walking towards las ramblas but at night i would not recommend it. We got taxis after 9pm. Other hotel guest views will differ on this, but for us as a couple with a vast amount of experience traveling we didnt feel safe at nite. There is a fab new cocktail/ restaurant opened near the hotet called blue rita,l that we totally enjoyed! champagne great price.  
+<Date>Oct 25, 2008
+<Rating>5	5	5	3	5	5	5	4	
+<Aspects>
+7	40(love):1	151(modern):1	197(fresh):1	516(design):1	880(bright):1	1216(fab):1	1516(funky):2	
+14	17(view):1	19(price):1	34(feel):1	44(experience):2	68(travel):1	91(guest):1	99(couple):1	137(safe):1	626(didnt):1	666(amount):1	770(champagne):1	1895(nite):1	2476(vast):1	7324(brillant):1	
+10	17(view):1	18(book):1	24(floor):1	40(love):1	76(try):1	99(couple):1	145(amaze):1	157(light):1	1357(8th):1	1967(suitable):1	
+12	1(location):1	2(night):1	7(walk):1	8(day):1	15(recommend):1	34(feel):1	137(safe):1	185(taxi):1	634(ramblas):1	834(las):1	959(towards):1	1344(drawback):1	
+0	
+5	0(staff):1	14(helpful):1	127(speak):1	129(reception):1	152(english):1	
+13	2(night):1	10(restaurant):1	39(return):1	51(enjoy):1	67(call):1	102(near):1	611(totally):1	694(blue):1	716(cocktail):1	1216(fab):1	1948(barcelo):1	6806(raval):1	9336(rita):1	
+0	
+
+<Author>xaros
+<Content>Great Hotel!       full room view from window  
+<Date>Oct 24, 2008
+<Rating>5	5	5	4	5	5	4	5	
+<Aspects>
+0	
+0	
+2	17(view):1	119(window):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Neddybear
+<Content>Barcelo Raval We've just returned from a weekend at the Barcelo Raval and as there are very few reviews thought we should add one. In our party were 3 couples, we were celebrating a big birthday and a short phone call explaining beforehand upgraded our room free of charge to the matrimomal suite. Hotel is futuristic, very clean and reminded us of Laurence Llewyn Bowen with its black, white and pink decor. Room itself was lovely, the bed huge, shower powerful. You need a degree to work the coffee machine but after a few spillages on the floor we managed to get a grip of it. If you're a gadget freak the electronic a/c, curtains and above bed spotlights (!) will hit the spot. Views from the roof are superb but the pool is more like a big bath than swimming pool. During the day the location is fine, at night we preferred to get a cab back as there were a few undesirables lurking. We went room only but each morning there was a goody bag with oj, yogurt and fruit on our door handle. Reception were very helpful and all spoke English. Would recommend for couples rather than families (we left the kids at home with Nana).  
+<Date>Oct 16, 2008
+<Rating>4	4	5	3	5	5	5	5	
+<Aspects>
+8	15(recommend):1	43(leave):1	99(couple):1	106(family):1	141(home):1	201(kid):1	317(spot):1	775(hit):1	
+0	
+44	3(clean):1	11(bed):2	24(floor):1	46(free):1	54(door):1	56(morning):1	61(shower):1	67(call):1	87(lovely):1	90(coffee):1	99(couple):1	108(suite):1	133(huge):1	136(charge):1	144(short):1	163(upgrade):1	215(fruit):1	269(decor):1	290(bag):1	296(phone):1	363(party):1	466(white):1	493(machine):1	645(manage):1	743(curtain):1	765(birthday):1	768(explain):1	927(yogurt):1	966(handle):1	1007(black):1	1014(celebrate):1	1252(degree):1	1285(remind):1	2026(powerful):1	2121(pink):1	2578(electronic):1	2644(goody):1	3141(freak):1	3180(beforehand):1	3287(oj):1	5660(gadget):1	7181(grip):1	10146(futuristic):1	10216(spotlight):1	
+8	1(location):1	2(night):1	8(day):1	113(fine):1	380(cab):1	536(prefer):1	7420(undesirable):1	7534(lurk):1	
+0	
+4	14(helpful):1	127(speak):1	129(reception):1	152(english):1	
+12	17(view):1	22(pool):2	37(review):1	39(return):1	172(weekend):1	226(bath):1	261(swim):1	351(add):1	407(superb):1	636(roof):1	1948(barcelo):2	6806(raval):2	
+0	
+
+<Author>feelinglioness
+<Content>Perfect!       Decoration in the lobby  
+<Date>Oct 16, 2008
+<Rating>5	5	5	5	5	4	5	4	
+<Aspects>
+1	74(perfect):1	
+0	
+2	55(lobby):1	1580(decoration):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>hoopkat
+<Content>would definately go back!       lobby  
+<Date>Oct 13, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+1	410(definately):1	
+0	
+0	
+0	
+0	
+0	
+1	55(lobby):1	
+0	
+
+<Author>Cat_Ar
+<Content>Great design, great location, great price, some teething problems I have just returned from a 2 night stay in the hotel with some friends and we had a great time overall.First impressions were very good - the hotel is a striking design outside and the design continues inside. It is very trendy and well designed.The rooms are spacious and well layed out, although the bathrooms may not be to everyone's tate... The showers are amazing though.All of us said that the beds were the comfiest we've ever stayed in, although the blackout curtains were a little too effective!The concierge staff were also very helpful.However, as the hotel only opened at the end of September, there are still a few teething problems. For example, we phoned down to reception to ask for some ice to be sent to the room (there are no ice machines on the floors) only to be told the first time that they had run out, and the second time that we need to go to reception to collect it ourselves. Not exactly 4 star service...A friend also asked for an iron and ironing board to be sent to her room (the in-room information book said these were available and not exactly an odd request!) only to be told these weren't available but they offer an ironing service which has to be paid for.I'm sure these are just small niggles in the opening weeks which will be straightened out soon, and for such a well-located hotel with such great design features (and nice touches like in-room espresso machines) we were happy to overlook these little issues.The rooftop 'pool' is more like a big hot tub, but does have stunning views over the city - the view at night is beautiful and highly recommended.All in all, a great hotel and good value. We paid 鈧?60/room/night. Not sure if this was an introductory offer for the opening few weeks, but the hotel is comparable with those for a lot more.We all said that if we come back to Barcelona, we'll be staying here  
+<Date>Oct 13, 2008
+<Rating>4	5	5	5	5	4	4	5	
+<Aspects>
+20	2(night):1	15(recommend):1	17(view):2	22(pool):1	38(lot):1	41(city):1	45(beautiful):1	75(week):1	89(offer):1	114(hot):1	138(highly):1	311(tub):1	516(design):1	972(september):1	988(stun):1	1063(rooftop):1	1413(trendy):1	1813(comparable):1	9330(teethe):1	11756(introductory):1	
+16	1(location):1	2(night):1	5(time):1	9(service):1	19(price):1	39(return):1	42(pay):2	69(tell):1	70(overall):1	81(value):1	89(offer):1	134(available):1	146(friend):1	516(design):1	868(iron):1	9330(teethe):1	
+30	5(time):2	11(bed):1	13(bathroom):1	23(little):1	24(floor):1	61(shower):1	69(tell):1	98(outside):1	111(spacious):1	129(reception):2	145(amaze):1	149(run):1	296(phone):1	408(inside):1	447(send):1	493(machine):1	516(design):2	547(ice):2	696(lay):1	743(curtain):1	767(ourselves):1	848(impression):1	954(example):1	1096(continue):1	1889(collect):1	1957(strike):1	2774(effective):1	3943(blackout):1	6058(tate):1	8470(comfiest):1	
+16	4(nice):1	23(little):1	75(week):1	155(happy):1	260(overlook):1	265(issue):1	279(touch):1	418(soon):1	493(machine):1	516(design):1	731(feature):1	1301(in-room):1	2324(espresso):1	3858(well-locate):1	3910(niggle):1	4326(straighten):1	
+0	
+16	0(staff):1	9(service):1	14(helpful):1	18(book):1	103(star):1	134(available):1	146(friend):1	148(request):1	204(concierge):1	447(send):1	586(exactly):2	600(board):1	649(information):1	868(iron):2	1088(odd):1	1301(in-room):1	
+1	309(barcelona):1	
+0	
+
+<Author>Tellenbach
+<Content>Loved the Raval       Hotel Foyer/Bar  
+<Date>Oct 11, 2008
+<Rating>4	4	4	4	4	4	4	2	
+<Aspects>
+3	40(love):1	1931(foyer):1	6806(raval):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Honestjosoap
+<Content>Honest,customer opinion s near as it comes. It was worth every penny of my money. ...does this help?  
+<Date>Oct 9, 2008
+<Rating>4	4	5	5	5	5	5	-1	
+<Aspects>
+8	80(money):1	92(help):1	96(worth):1	102(near):1	428(customer):1	704(opinion):1	1108(honest):1	1590(penny):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>LaurenSewell
+<Content>Great find for a great pice! Have just returned from a couple of nights here, I took my boyfriend there for his bday. I was a bit nervous about staying here as there were no reviews and all pics on the website were computer generated - the hotel opened the day that we arrived.I'm so glad that I took the risk. The location couldn't have been more perfect - it was a couple of mins walk from Las Ramblas and you sort of come out in the middle so you are a short walk from either end. We walked to all sites but got the train to La Sagrada Familla and La Pedrera - the trains are sooo easy to use! To get to Las Ramblas you do have to walk through some back streets and even thought there were some shifty characters, I can honestly say I always felt safe.The room was lovely - though I would say if you went with a friend there isn't much privacy as all very open plan. The whole hotel is fresh and funky with very moden interior. Teh staff were more than helpful but still get the knack of everything - sure it will be even better once it has been open a while. Little things like then not having an iron etc were quite annoying but sure this will change.If you go up on the roof there is a little swimming pool and an amazing view of the whole city with free telescopes and stuff - wish I would have got a picture because it was amazing!Would definately recommend this hotel - location, decor and staff made it perfect for what we wanted! :-)  
+<Date>Oct 7, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+15	2(night):1	23(little):1	39(return):1	73(etc):1	99(couple):1	161(change):1	197(fresh):1	619(glad):1	695(annoy):1	763(boyfriend):1	868(iron):1	1026(interior):1	1516(funky):1	2168(risk):1	9744(bday):1	
+0	
+10	0(staff):1	1(location):1	15(recommend):1	74(perfect):1	87(lovely):1	146(friend):1	221(plan):1	269(decor):1	410(definately):1	1183(privacy):1	
+22	1(location):1	7(walk):4	34(feel):1	35(street):1	74(perfect):1	93(easy):1	99(couple):1	137(safe):1	144(short):1	182(train):2	192(site):1	225(la):2	247(min):1	325(middle):1	557(sort):1	634(ramblas):2	834(las):2	1028(honestly):1	1049(character):1	2618(sagrada):1	2679(sooo):1	6618(pedrera):1	
+0	
+3	0(staff):1	14(helpful):1	3655(teh):1	
+12	17(view):1	22(pool):1	23(little):1	41(city):1	46(free):1	145(amaze):2	261(swim):1	384(wish):1	456(picture):1	480(stuff):1	636(roof):1	10797(telescope):1	
+9	8(day):1	37(review):1	52(bit):1	53(arrive):1	262(website):1	555(computer):1	1408(nervous):1	2692(pic):1	6486(generate):1	
+
+<Author>surfchickUk
+<Content>Funky Hotel Stayed couple of days ago- enjoyed hotel, great rooms fantastic shower but it is in middle of room so not great for modesty when staying with a friend as i was!! Enjoyed using top of range coffee maker and found toilet in cupboard a bit disconcerting. Staff nice, views from roof amazing -pool tiny weeny-my tip, get a room above 6th floor for fantastic views(we had a view of the office next door from5th floor). Surrounding area not great- we were told by bar next door to keep handbags firmly on laps and under table. Seems safe to walk there in day but felt nervous at night. Police have very recently done big sweep of prostitutes premises in area and saw plenty of police around. Very close to la Rambla. Fantastic restaurant up road (turn right)china de mercat. I would not bring kids to this hotel but great for romantic weekend. taxis cheap if nervous at night!  
+<Date>Sep 30, 2008
+<Rating>4	3	4	2	3	4	4	4	
+<Aspects>
+10	142(bring):1	158(plenty):1	172(weekend):1	201(kid):1	322(recently):1	707(romantic):1	1409(police):2	1989(premiss):1	2724(sweep):1	3230(prostitute):1	
+0	
+22	0(staff):1	4(nice):1	8(day):1	17(view):3	22(pool):1	24(floor):2	51(enjoy):1	54(door):1	61(shower):1	86(fantastic):2	99(couple):1	145(amaze):1	146(friend):1	194(tip):1	325(middle):1	338(tiny):1	633(ago):1	636(roof):1	792(office):1	1516(funky):1	1869(6th):1	11955(modesty):1	
+19	2(night):2	7(walk):1	8(day):1	27(bar):1	28(close):1	34(feel):1	54(door):1	69(tell):1	137(safe):1	143(cheap):1	185(taxi):1	225(la):1	229(table):1	667(surround):1	1377(rambla):1	1408(nervous):2	2432(lap):1	6276(firmly):1	9762(handbags):1	
+0	
+0	
+13	10(restaurant):1	51(enjoy):1	52(bit):1	86(fantastic):1	90(coffee):1	118(top):1	230(road):1	330(toilet):1	714(range):1	996(maker):1	1159(china):1	2374(cupboard):1	5386(disconcert):1	
+0	
+
+<Author>tibbles76
+<Content>Barcelo Raval - a very cool hotel! I have only never felt moved to write a review before in my life, as although I have experienced great (and very bad!) service and standards it has never been a surprise. However I want to write this to inform other travellers about this amazing gem of a hotel because a) it is brand new and no reviews or pictures exist and I had to take a gamble on whether to go for it or not for my girlfiend's surpise birthday; and b) because we had such a great time we want to thank the hotel by recommending it to everyone!(Just to put into context for readers - we are a couple in our late twenties, and have stayed in the top hotels of Dubai, Miami and Singapore, yet also the more basic chain hotels of Europe so have a wide experience of standards to refer against).Hotel Barcelo Raval is a really cool, chic design/boutique hotel. From the moment you arrive outside and see its ergonomic design you know this will be a different experience. The lobby is ultra modern in styling with really interesting features (such as the life size horse that is a lamp), cool furniture items dispersed around apple mac flat screens for free online web access, and a minimalist bar area. The staff were fantastic in their welcome, all with very good English and we were soon checked in and on our way to the room. The hotel floors are dark with no natural light, but this accentuates things such as the fact no doors have room numbers - these are light in neon on the floor in the carpet instead. Sensor lights turn on as you approach your door and the electronic door key is not inserted into any slot, instead just waved over the sensor for the door to open.Inside the room is an all in one open plan design (it's not huge, but more than adequate) - with white bed and floor with stark bright colour and retro wallpaper and curtains. The shower cube is quite central and glass on both sides so you can see right in from the bed (fantastic for couples, not sure how it would work if you were travelling with a mate!). Some styling features that symbolise the room: there is no drain plug in the shower, the water trickles away around the square edge of the shower room; the toilet is hidden behind a mirror door that is accessed by sliding along and closing the wardrobe, ipod dock, flat screen tv, espresso machine, low level lighting for night-time, and electronic control panel for all lighting, curtains, etc....the list is very long!Another great feature is the rooftop floor - take a trip up there and you will get a panoramic view of the city as you walk all around the building and there are telescopes for your use too. The rooftop pool is small, not really for swimming in, more to dip in while sipping cocktails but it was not that warm for us to try. We wrapped up and went up at night, took a bottle of champagne with us and looked out at Barcelona under the stars sitting by the neon lit pool area. Amazing!We were one of the first guests to stay there - it only officially opened around the 24th September - yet everything went very very smooth. The hotel is only 5 mins walk to La Ramblas, and the square it is in has some very nice restaurants and bars and was quite lively on Friday night. We really loved the hotel and it really suits 'younger travellers', especially couples on a short city break. If you go to Barcelona you really should not be spending most of your time in the hotel room - but if you do, then I cannot imagine a better one than at Hotel Barcelo Raval!  
+<Date>Sep 29, 2008
+<Rating>5	5	5	5	5	5	4	5	
+<Aspects>
+6	91(guest):1	145(amaze):1	972(september):1	1400(smooth):1	2564(24th):1	6162(officially):1	
+38	2(night):1	20(look):1	22(pool):1	34(feel):1	37(review):1	44(experience):3	50(bad):1	53(arrive):1	79(late):1	98(outside):1	99(couple):1	103(star):1	118(top):1	130(standard):1	157(light):1	169(sit):1	207(move):1	238(bottle):1	309(barcelona):1	344(write):1	352(basic):1	426(life):1	516(design):1	627(chain):1	670(moment):1	700(europe):1	770(champagne):1	860(wide):1	960(singapore):1	1095(miami):1	2085(wrap):1	2297(refer):1	3492(reader):1	5375(neon):1	5460(twenty):1	7072(context):1	7544(dubai):1	11956(ergonomic):1	
+102	5(time):1	7(walk):1	11(bed):2	17(view):1	24(floor):4	27(bar):1	28(close):1	33(trip):1	40(love):1	41(city):2	46(free):1	54(door):5	55(lobby):1	57(water):1	61(shower):3	64(spend):1	68(travel):1	73(etc):1	83(size):1	86(fantastic):1	99(couple):2	116(tv):1	126(especially):1	133(huge):1	135(build):1	139(square):1	144(short):1	151(modern):1	157(light):5	159(access):2	168(central):1	221(plan):1	228(break):1	267(traveler):1	278(cool):1	306(level):1	309(barcelona):1	326(style):2	327(glass):1	330(toilet):1	339(key):1	353(instead):2	390(adequate):1	396(carpet):1	408(inside):1	426(life):1	440(furniture):1	459(dark):1	466(white):1	493(machine):1	513(low):1	516(design):1	519(item):1	526(screen):2	535(flat):2	650(list):1	731(feature):3	733(imagine):1	743(curtain):2	822(online):1	836(wave):1	861(suit):1	865(control):1	880(bright):1	905(apple):1	942(color):1	1019(web):1	1063(rooftop):1	1129(mirror):1	1142(slide):1	1174(plug):1	1190(edge):1	1195(hide):1	1378(approach):1	1451(wardrobe):1	1489(drain):1	1543(natural):1	1622(lamp):1	1877(slot):1	1946(horse):1	1948(barcelo):1	2093(wallpaper):1	2134(panel):1	2324(espresso):1	2338(dock):1	2353(ipod):1	2578(electronic):2	2609(minimalist):1	2744(ultra):1	2953(mate):1	3402(panoramic):1	3701(night-time):1	4079(retro):1	4380(stark):1	4664(insert):1	4746(cube):1	4787(sensor):2	4805(mac):1	5266(trickle):1	5375(neon):1	6806(raval):1	10797(telescope):1	
+8	22(pool):1	76(try):1	236(warm):1	261(swim):1	716(cocktail):1	1063(rooftop):1	2272(dip):1	2714(sip):1	
+0	
+21	0(staff):1	5(time):1	15(recommend):1	32(check):1	37(review):1	86(fantastic):1	145(amaze):1	152(english):1	202(welcome):1	267(traveler):1	271(thank):1	344(write):1	418(soon):1	456(picture):1	765(birthday):1	805(gem):1	817(inform):1	883(brand):1	2039(exist):1	2819(gamble):1	6828(surpise):1	
+19	2(night):1	4(nice):1	7(walk):1	9(service):1	10(restaurant):1	27(bar):1	130(standard):1	139(square):1	199(surprise):1	225(la):1	247(min):1	278(cool):2	516(design):1	634(ramblas):1	923(friday):1	1472(chic):1	1600(lively):1	1948(barcelo):2	6806(raval):2	
+0	
+

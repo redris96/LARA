@@ -1,0 +1,714 @@
+<Author>peanut293
+<Content>Very pleasant stay       Our room at Hotel Mario  
+<Date>Sep 24, 2008
+<Rating>5	4	5	4	4	5	5	-1	
+<Aspects>
+0	
+0	
+2	150(pleasant):1	3488(mario):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>KMUsher
+<Content>Hotel Mario's Was Great!       Our Hotel Room Bed  
+<Date>Jan 7, 2008
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+1	3488(mario):1	
+0	
+1	11(bed):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>CaliforniaSassy
+<Content>Okay but wouldn't stay again Had a room overlooking the street and garbage cans. Staff was very nice but the accomodations were dark and the noise started early in the a.m. and went on into the night. Across from a hostel and down an alley,.. breakfast was good .. but next time will try Another hohel.  
+<Date>Nov 12, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	5(time):1	76(try):1	1560(hostel):1	1671(alley):1	
+7	0(staff):1	2(night):1	4(nice):1	94(noise):1	165(start):1	459(dark):1	780(accomodation):1	
+4	35(street):1	260(overlook):1	453(okay):1	1650(garbage):1	
+0	
+0	
+0	
+1	6(breakfast):1	
+0	
+
+<Author>Ewsp
+<Content>OK, but five nights was enough I do not understand people who shout 鈥淲e absolutely loved鈥?鈥? American overstatement perhaps. Mario鈥檚 is OK, but nothing to cheer about. The following is my experience from five nights at Mario鈥檚 in September 2007:Pros: Small, neat and clean hotel. Staff is ok. Breakfast is better than a 鈥渃ontinental鈥?one although not rich. Perfectly located for Florence conference visitors.Cons: Smallest room I have seen (even in Italy)鈥攖he bathroom was model aircraft toilet with shower. Room had poor lightning鈥攄ifficult to read in bed, had to ask staff to help me with the safe deposit box (did not bring a torch with me). Air conditioning worked three nights out of five after daily complaints. Sewage smell in the bathroom (as in many places in Florence).Conclusion: OK, but five nights at 105 euros a night was enough. Grateful my wife was not there to share that microscopic room with me.  
+<Date>Oct 6, 2007
+<Rating>3	3	2	5	3	4	3	2	
+<Aspects>
+11	2(night):3	26(people):1	40(love):1	123(ok):3	189(absolutely):1	256(euro):1	391(understand):1	2089(conclusion):1	2146(shout):1	3075(cheer):1	3488(mario):1	
+8	2(night):1	3(clean):1	44(experience):1	482(follow):1	972(september):1	1249(pro):1	1286(neat):1	3488(mario):1	
+30	0(staff):1	2(night):1	11(bed):1	13(bathroom):2	61(shower):1	88(read):1	92(help):1	137(safe):1	142(bring):1	164(air):1	184(wife):1	190(complaint):1	231(smell):1	263(condition):1	330(toilet):1	331(poor):1	346(florence):1	360(daily):1	520(share):1	840(Con):1	900(italy):1	945(box):1	1603(deposit):1	2457(grateful):1	3237(sewage):1	3930(model):1	5659(aircraft):1	5806(torch):1	7972(lightning):1	9901(microscopic):1	
+5	84(locate):1	346(florence):1	595(perfectly):1	794(conference):1	951(visitor):1	
+0	
+2	0(staff):1	123(ok):1	
+2	6(breakfast):1	2350(rich):1	
+0	
+
+<Author>Vcline
+<Content>excellent choice We stayed 6 nights at Mario's. This hotel is very clean, people are very helpful and location is excellent close to the train station and a bit away from the city center and the noise. Good size room, breakfast was good. I think this hotel is a very good choice for a 3 stars .Do not hesitate to make reservation but if you expect luxury choose a 4 or 5 stars.  
+<Date>Oct 3, 2007
+<Rating>4	5	4	5	5	5	5	4	
+<Aspects>
+0	
+10	2(night):1	21(excellent):1	62(expect):1	103(star):2	107(choice):2	156(reservation):1	167(choose):1	437(luxury):1	902(hesitate):1	3488(mario):1	
+2	6(breakfast):1	83(size):1	
+12	1(location):1	3(clean):1	14(helpful):1	21(excellent):1	26(people):1	28(close):1	41(city):1	52(bit):1	82(station):1	94(noise):1	101(center):1	182(train):1	
+0	
+0	
+0	
+0	
+
+<Author>PleasedTraveler
+<Content>Great staff! We absolutely loved Hotel Mario's!!! We used a recommendation from a travel book and they were accurate. We were pleasantly greeted and our luggage was stored as our room was not available when we arrived early in the morning. After touring for the day, we returned to the hotel to check and our luggage was already in our room which was clean and spacious. The breakfast was delicous and consisted of yogurt, rolls, ham, cheese, croissants, fruit, juice, cappucino, toast, etc! So many options for a good start to our day. The staff was very pleasant and helpful. We were concerned initially as our room was off the lobby, but it was not noisy at all. We thoroughly enjoyed our stay and would stay there again in a second. Thanks!!!  
+<Date>Oct 3, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+6	40(love):1	51(enjoy):1	189(absolutely):1	271(thank):1	898(thoroughly):1	3488(mario):1	
+3	8(day):1	165(start):1	336(option):1	
+17	3(clean):1	8(day):1	32(check):1	39(return):1	53(arrive):1	55(lobby):1	56(morning):1	111(spacious):1	134(available):1	181(tour):1	217(noisy):1	249(luggage):2	255(store):1	415(greet):1	496(concern):1	747(pleasantly):1	1439(initially):1	
+0	
+0	
+3	0(staff):2	14(helpful):1	150(pleasant):1	
+17	6(breakfast):1	18(book):1	68(travel):1	73(etc):1	215(fruit):1	362(juice):1	441(cheese):1	577(recommendation):1	813(roll):1	875(toast):1	927(yogurt):1	1004(croissant):1	1185(consist):1	1561(ham):1	1785(accurate):1	4178(cappucino):1	7327(delicous):1	
+0	
+
+<Author>davidli
+<Content>Great value We stayed at Hotel mario's for 4 nights at the bargain rate of 67.5 Euro per night . It was comfortable if a little older. The location is a short 10 minute walk to the Duomo. We found the staff there to be very friendly ,helpful and hard working. The only thing I wasn't fond of was the European shower( No shower curtain and hand held only). Pros: service, value , good AC, cleanCons: European shower, slightly rustic furnitureWe would stay there again for the price.  
+<Date>Sep 25, 2007
+<Rating>4	5	3	3	4	5	5	3	
+<Aspects>
+2	23(little):1	25(comfortable):1	
+6	2(night):2	78(rate):1	81(value):1	256(euro):1	759(bargain):1	3488(mario):1	
+13	9(service):1	19(price):1	61(shower):3	81(value):1	377(hand):1	582(european):2	593(hold):1	598(slightly):1	743(curtain):1	956(ac):1	1249(pro):1	3960(fond):1	4645(rustic):1	
+5	1(location):1	7(walk):1	29(minute):1	144(short):1	981(duomo):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	162(hard):1	
+0	
+0	
+
+<Author>kermit77
+<Content>Great Hotel My husband and I stayed at Hotel Mario's for 2 nights and found it to be a lovely, clean and friendly hotel. It's in a convenient location, short walk to all the sights and the train station and we felt safe in the area. Loved Florence. Fantastic hotel at great prices. Overall value for money and would recommend it.  
+<Date>Sep 13, 2007
+<Rating>4	4	3	4	4	4	-1	-1	
+<Aspects>
+2	40(love):1	346(florence):1	
+6	15(recommend):1	19(price):1	70(overall):1	80(money):1	81(value):1	86(fantastic):1	
+0	
+9	1(location):1	7(walk):1	34(feel):1	82(station):1	137(safe):1	144(short):1	182(train):1	186(convenient):1	411(sight):1	
+6	2(night):1	3(clean):1	12(friendly):1	87(lovely):1	105(husband):1	3488(mario):1	
+0	
+0	
+0	
+
+<Author>AuroraCeleste
+<Content>Nice Hotel and Hardworking Staff We stayed at Hotel Mario's for 4 nights, and it was a very pleasant experience. The hotel is only a 10 minute walk from the Santa Maria Novella train station, which was great for us, since we did a couple day trips over the course of our stay.The hotel is a little older, but they've done a nice job of maintaining it. The air conditioner is a little weak, and if you leave it on during the day, they'll shut it off and you'll have to ask at the front desk to have it turned back on, but that wasn't really a big deal.The shower was bigger than any of the others at the hotels we stayed at in Italy, and the room was kept very clean. Breakfast was very nice, and the staff was constantly busy making sure everyone's needs were met.  
+<Date>Aug 26, 2007
+<Rating>4	-1	3	4	3	3	3	3	
+<Aspects>
+0	
+7	0(staff):1	2(night):1	4(nice):1	44(experience):1	150(pleasant):1	3488(mario):1	6272(hardwork):1	
+3	3(clean):1	61(shower):1	900(italy):1	
+17	0(staff):1	4(nice):1	6(breakfast):1	7(walk):1	8(day):1	29(minute):1	33(trip):1	82(station):1	99(couple):1	182(train):1	196(meet):1	220(busy):1	293(course):1	995(constantly):1	1510(santa):1	1833(mare):1	3407(novella):1	
+4	4(nice):1	23(little):1	481(job):1	562(maintain):1	
+10	8(day):1	23(little):1	31(front):1	36(desk):1	43(leave):1	140(deal):1	164(air):1	1083(conditioner):1	1086(shut):1	1770(weak):1	
+0	
+0	
+
+<Author>jgrigs
+<Content>Nice staff This was the last leg of our Italian trip. The hotel is cute on the inside and the staff is so very nice. Our room was not anything fabulous, but comfortable. I did not enjoy the part of town by the train station. I know that staying next to the Train Station is convenient for some, but it wasn't necessary for us. Next time, I will prefer to stay in the area closer to the Centro, Signoria, or Duomo. When I spent time in those areas, I understood why everyone is in love with Florence.  
+<Date>Aug 8, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	5(time):1	40(love):1	64(spend):1	346(florence):1	391(understand):1	
+0	
+6	0(staff):1	4(nice):1	25(comfortable):1	270(fabulous):1	408(inside):1	1202(cute):1	
+11	5(time):1	28(close):1	51(enjoy):1	82(station):2	182(train):2	186(convenient):1	239(town):1	536(prefer):1	981(duomo):1	4879(centro):1	5107(signoria):1	
+0	
+5	0(staff):1	4(nice):1	33(trip):1	358(italian):1	1421(leg):1	
+0	
+0	
+
+<Author>macfam4
+<Content>Loved It!! We spent 3 weeks in Europe and this was by far our favorite hotel. It was an easy walk, even carrying luagge from the train station. It was very centrally located. The staff was wonderful. They carried all our suitcases upstairs, recommended a wonderful resturant and places to go see. The room was basic but very quaint. Would recommend to anyone!  
+<Date>Jul 28, 2007
+<Rating>5	5	4	5	5	5	5	5	
+<Aspects>
+6	15(recommend):1	40(love):1	64(spend):1	75(week):1	376(favourite):1	700(europe):1	
+0	
+8	15(recommend):1	48(wonderful):1	352(basic):1	824(carry):1	974(suitcase):1	1295(quaint):1	1358(upstairs):1	1661(resturant):1	
+7	7(walk):1	82(station):1	84(locate):1	93(easy):1	182(train):1	824(carry):1	879(centrally):1	
+0	
+2	0(staff):1	48(wonderful):1	
+0	
+0	
+
+<Author>WeeLuv2Travel2
+<Content>Great location in Firenze Close to train station and center. Staff were very friendly and helpful. Simple but nice room and bathroom. Many restaurants close by. Air conditioning in room although I think it was operated centrally but it was there on when we needed it.Good place to explore Firenze.  
+<Date>Jul 1, 2007
+<Rating>5	4	4	5	4	5	5	5	
+<Aspects>
+2	594(explore):1	3062(firenze):1	
+0	
+7	4(nice):1	13(bathroom):1	164(air):1	263(condition):1	613(simple):1	879(centrally):1	1623(operate):1	
+7	1(location):1	10(restaurant):1	28(close):2	82(station):1	101(center):1	182(train):1	3062(firenze):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>PamyTravel
+<Content>Great time We stayed for 3 nights and it was very good. Nice and perfect location. The staff was really nice and very helpful and the breakfast was good.  
+<Date>Jun 5, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	2(night):1	5(time):1	
+0	
+0	
+3	1(location):1	4(nice):1	74(perfect):1	
+0	
+4	0(staff):1	4(nice):1	6(breakfast):1	14(helpful):1	
+0	
+0	
+
+<Author>RoulaMaria
+<Content>Excellent hotel Hotel Mario's is definitely a gem--a home away from home tucked in the coziest streets of Florence. We've stayed at many 4 and 5 star hotels before, and believe me, we didn't get as much pampering. The staff is very pleasant, portraying the vivacious Italian spirit. They were very helpful in making reservations to museums, and recommending restaurants and tourist attractions, especially Leonardo...who I guess should be famous by now considering all the positive reviews people have written about the hotel and mentioned Leonardo in! We would definitely stay at this quaint hotel again!  
+<Date>May 24, 2007
+<Rating>5	5	4	3	5	5	5	-1	
+<Aspects>
+2	59(definitely):1	1295(quaint):1	
+3	103(star):1	312(believe):1	1815(pamper):1	
+0	
+26	10(restaurant):1	14(helpful):1	15(recommend):1	21(excellent):1	26(people):1	35(street):1	37(review):1	59(definitely):1	126(especially):1	141(home):2	156(reservation):1	209(tourist):1	244(mention):1	248(consider):1	344(write):1	346(florence):1	350(attraction):1	458(positive):1	469(guess):1	507(museum):1	749(cozy):1	805(gem):1	1296(famous):1	2091(tuck):1	3488(mario):1	5882(leonardo):2	
+0	
+5	0(staff):1	150(pleasant):1	358(italian):1	2182(spirit):1	7305(portray):1	
+0	
+0	
+
+<Author>Bailey78
+<Content>Great spot nice staff I have to say this was a lovely little place to stay. We found Leonardo very helpful  polite. The rooms were basic but clean  the price was very reasonable. The best thing is how near this hotel is to the station just a few minutes if even.  
+<Date>Apr 30, 2007
+<Rating>4	3	3	5	5	4	5	2	
+<Aspects>
+3	14(helpful):1	422(polite):1	5882(leonardo):1	
+4	3(clean):1	19(price):1	273(reasonable):1	352(basic):1	
+0	
+3	29(minute):1	82(station):1	102(near):1	
+0	
+5	0(staff):1	4(nice):1	23(little):1	87(lovely):1	317(spot):1	
+0	
+0	
+
+<Author>Zaibatsu
+<Content>Excellent Staff Excellent hotel for the price. The staff are very helpful and friendly. Everyone speaks English. The hotel itself is very good, if you don't mind the staircase leading to it. Cosy and warm atmosphere,nice rooms though small, and close to all tourist sites and the trainstation. We will surely stay in that hotel next time.  
+<Date>Apr 16, 2007
+<Rating>5	5	4	5	5	5	5	4	
+<Aspects>
+4	5(time):1	127(speak):1	152(english):1	2033(surely):1	
+3	0(staff):1	19(price):1	21(excellent):2	
+3	294(mind):1	922(lead):1	2119(staircase):1	
+8	4(nice):1	28(close):1	192(site):1	209(tourist):1	236(warm):1	414(atmosphere):1	749(cozy):1	11052(trainstation):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>TennB
+<Content>Mario's is a real gem We stayed at Mario's for one night, March 11. I really think this was our favorite hotel during our trip. It was five minutes from the train station and very convienient to every place else. At first glance with the hostel directly across the street, we were a little apprehensive. We shouldn't have been. We never had any noise from there. Also, we walked late at night and never felt the least bit afraid.Check in was very easy. The young man working at the desk was very helpful in giving us a map, marking routes and making suggestions. Our room was more than we expected. The pictures on the internet do not lie. It was larger than most rooms in Europe, nicely decorated and very clean. Beds were like all we encountered in Italy - very firm. No problem for us.They have a small bar in the common area where you can get coffee, hot chocolate and alcoholic drinks. The hot chocolate was very good after a long day of walking.Breakfast was tasty. The breakfast room was nice. Blood orange juice was wonderful!There is a small resturant not far down the street on the left going towards town that serves good food at more than reasonable prices. Their desserts were almost all .90 Euro. We got snacks there a couple of times. Sorry I can't remember the name.At check out, they took our bags down the stairs for us so we didn't have to struggle with them. Overall, a very good experience. We would definitely stay here again if we ever get back to Florence. People, location, amenities were all well above average - especially for 85 Euros.  
+<Date>Mar 28, 2007
+<Rating>5	5	4	4	5	5	5	-1	
+<Aspects>
+10	33(trip):1	59(definitely):1	94(noise):1	256(euro):1	295(name):1	346(florence):1	375(remember):1	376(favourite):1	891(sorry):1	1180(dessert):1	
+2	44(experience):1	70(overall):1	
+15	3(clean):1	4(nice):1	6(breakfast):1	11(bed):1	32(check):1	62(expect):1	290(bag):1	305(decorate):1	404(nicely):1	568(stair):1	693(encounter):1	700(europe):1	900(italy):1	1368(firm):1	1979(struggle):1	
+34	1(location):1	2(night):1	7(walk):2	8(day):1	16(food):1	19(price):1	23(little):1	26(people):1	29(minute):1	34(feel):1	35(street):2	43(leave):1	52(bit):1	79(late):1	82(station):1	114(hot):1	126(especially):1	170(else):1	174(serve):1	182(train):1	227(average):1	239(town):1	256(euro):1	273(reasonable):1	291(amenity):1	383(directly):1	632(chocolate):1	959(towards):1	1544(afraid):1	1560(hostel):1	1661(resturant):1	2129(apprehensive):1	3666(glance):1	4889(convienient):1	
+0	
+8	14(helpful):1	32(check):1	36(desk):1	93(easy):1	724(map):1	882(mark):1	921(suggestion):1	1035(route):1	
+21	2(night):1	5(time):1	6(breakfast):1	27(bar):1	48(wonderful):1	63(drink):1	90(coffee):1	99(couple):1	114(hot):1	240(real):1	362(juice):1	406(snack):1	615(march):1	632(chocolate):1	805(gem):1	830(common):1	984(tasty):1	1104(orange):1	2718(blood):1	3040(alcoholic):1	3488(mario):2	
+3	97(internet):1	456(picture):1	1166(lie):1	
+
+<Author>pepoling
+<Content>We adored Mario's We stayed here Feb. 20-22, and we loved this hotel! We paid only 70 euros/night through www.venere.com. We were not expecting much - the budget hotels we usually stay in are pretty basic. But Mario's was in a charming old-fashioned building, with spacious rooms furnished nicely. The bathroom was small, but clean, and the room was nice and warm (although the rubber sheets were a bit uncomfortable). The location is extremely convenient to everything. The staff is friendly and helpful. Breakfast is decent - croissants, rolls, yogurt, fruit, melba toasts, ham and cheese - nothing fancy but you get enough to eat. Mario's is a great deal - a 3 star hotel for 2 star price, nice atmosphere and good location. Highly recommended - we will return.  
+<Date>Feb 24, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	15(recommend):1	39(return):1	40(love):1	62(expect):1	109(pretty):1	138(highly):1	352(basic):1	399(usually):1	429(budget):1	1258(feb):1	3488(mario):1	4085(adore):1	
+9	1(location):1	4(nice):1	19(price):1	42(pay):1	103(star):2	140(deal):1	414(atmosphere):1	3488(mario):1	4729(euros):1	
+15	3(clean):1	4(nice):1	13(bathroom):1	52(bit):1	111(spacious):1	135(build):1	236(warm):1	332(charm):1	404(nicely):1	479(sheet):1	787(furnish):1	856(uncomfortable):1	3488(mario):1	3554(rubber):1	4201(old-fashioned):1	
+3	1(location):1	110(extremely):1	186(convenient):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+11	6(breakfast):1	47(eat):1	215(fruit):1	257(decent):1	441(cheese):1	796(fancy):1	813(roll):1	875(toast):1	927(yogurt):1	1004(croissant):1	1561(ham):1	
+0	
+
+<Author>padanielle
+<Content>Great little hotel!! Wonderful stay at this hotel (16 Feb-18 Feb). Conveniently located close to Santa Maria Novella train station on side street (across from hostel, so can get a little noisy if you have your windows open); central heat in room; staff extremely friendly and helpful...provided us with a map of the city upon check-in and made dinner suggestions (that only locals know about, and they were right! No other tourists at the dinner spots, and DELICIOUS food!) and sightseeing suggestions; generous bedroom and bathroom size for European accomodations; in-room combination safe; good breakfast (pastries, jams, breads, Nutella, yogurt, juices and coffee). Very convenient to the center of Florence! A great find!!!  
+<Date>Feb 22, 2007
+<Rating>4	5	5	5	4	5	5	3	
+<Aspects>
+3	23(little):1	48(wonderful):1	1258(feb):1	
+0	
+19	6(breakfast):1	13(bathroom):1	83(size):1	90(coffee):1	137(safe):1	268(bedroom):1	362(juice):1	497(bread):1	582(european):1	640(sight-see):1	652(pastry):1	780(accomodation):1	921(suggestion):1	927(yogurt):1	1301(in-room):1	1523(generous):1	1614(jam):1	1929(combination):1	7842(nutella):1	
+26	0(staff):1	12(friendly):1	14(helpful):1	23(little):1	28(close):1	35(street):1	41(city):1	82(station):1	84(locate):1	110(extremely):1	117(dinner):1	119(window):1	153(provide):1	168(central):1	182(train):1	195(local):1	217(noisy):1	286(check-in):1	539(heat):1	724(map):1	921(suggestion):1	1070(conveniently):1	1510(santa):1	1560(hostel):1	1833(mare):1	3407(novella):1	
+0	
+0	
+5	16(food):1	117(dinner):1	209(tourist):1	317(spot):1	485(delicious):1	
+3	101(center):1	186(convenient):1	346(florence):1	
+
+<Author>rtboats
+<Content>fantastic Mario's is a great place to stay in Florence. The staff is comprised of affable young Italian men, who are always willing to call a restuarant for reservations, reserve tours and Uffizi tickets, or confirm other hotel bookings if you are continuing your travels in Italy. I stayed with my parents in a triple room, and it was great, if a little chilly at times, since, like most buildings in Europe, Mario's does not have central heating. I mention this only for older travellers with bad circulation who may put a high value on central heating. Otherwise, put on a sweater, and enjoy this lovely hotel with a great location and inviting decor. The room was really comfortable, but only had one armoire. Again, not really a problem, it's just for your information in case potential guests in the triple room absolutely need to unpack their suitcases. Breakfast is rolls, yogurt, croissiants, ham, cheese, lots of fruit, and the staff will make you whatever breakfast beverage you'd like, including excellent cappucinos. I loved Mario's, and it is priced very reasonably for Florence. If I return to Florence, there is no doubt I will stay at Mario's  
+<Date>Jan 8, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+5	39(return):1	86(fantastic):1	346(florence):2	952(doubt):1	3488(mario):2	
+12	19(price):1	40(love):1	50(bad):1	81(value):1	168(central):1	244(mention):1	267(traveler):1	346(florence):1	539(heat):1	578(reasonably):1	3488(mario):1	6352(circulation):1	
+25	1(location):1	5(time):1	23(little):1	25(comfortable):1	51(enjoy):1	87(lovely):1	91(guest):1	168(central):1	189(absolutely):1	269(decor):1	508(otherwise):1	539(heat):1	649(information):1	700(europe):1	745(building):1	974(suitcase):1	1197(parent):1	1210(invite):1	1553(triple):2	1995(potential):1	2179(unpack):1	2622(chilly):1	3225(armoire):1	3488(mario):1	5795(sweater):1	
+0	
+0	
+16	0(staff):1	67(call):1	68(travel):1	156(reservation):1	181(tour):1	358(italian):1	506(reserve):1	621(ticket):1	900(italy):1	982(confirm):1	1096(continue):1	1940(uffizi):1	2114(restuarant):1	2531(booking):1	4564(comprise):1	11731(affable):1	
+13	0(staff):1	6(breakfast):2	21(excellent):1	38(lot):1	71(include):1	215(fruit):1	441(cheese):1	813(roll):1	927(yogurt):1	937(whatever):1	1334(beverage):1	1561(ham):1	7442(cappucinos):1	
+0	
+
+<Author>swiftbl
+<Content>Mario's, the perfect hotel We just returned from two weeks in Italy and Mario's is at the top of our list. You are,walking, minutes from the train station. Walking distance to all the highlights. A great restaurants a few doors down from the hotel. The staff is fantastic and will help with just about anything. Rooms are lovely, bathroom well outfitted and all are super clean. I think it is the absolute best value for the cost. We would definately stay there again.  
+<Date>Nov 9, 2006
+<Rating>5	5	5	5	5	5	5	3	
+<Aspects>
+8	39(return):1	74(perfect):1	75(week):1	118(top):1	410(definately):1	650(list):1	900(italy):1	3488(mario):2	
+3	81(value):1	175(cost):1	1250(absolute):1	
+8	3(clean):1	7(walk):1	13(bathroom):1	87(lovely):1	115(distance):1	464(super):1	1141(highlight):1	4082(outfit):1	
+4	7(walk):1	29(minute):1	82(station):1	182(train):1	
+0	
+3	0(staff):1	86(fantastic):1	92(help):1	
+2	10(restaurant):1	54(door):1	
+0	
+
+<Author>GregComo
+<Content>Perfect Hotel in a Great Location If you are travelling through Italy by train, Hotel Mario's is the place for you as it is only 2 blocks from the Santa Maria Novella station. The hotel staff speaks excellent English and provided us with great restaurant recommendations. The room was very clean and quiet and the bathroom was spotless. The breakfast included was a great way to start the day. One of the best services the hotel provides is that they will make a reservation for you to visit the Uffizi and Accademia museums - two of the best in Florence. My wife and I had limited time in Florence and we wanted to see both museums. We told the front desk clerk when we wanted to go and they simply made a few calls, handed us a voucher, and we bypassed all the lines! We cannot wait to return to this hotel!  
+<Date>Nov 4, 2006
+<Rating>5	5	5	5	5	5	5	3	
+<Aspects>
+0	
+4	6(breakfast):1	8(day):1	71(include):1	165(start):1	
+4	3(clean):1	13(bathroom):1	58(quiet):1	548(spotless):1	
+22	1(location):1	5(time):1	9(service):1	65(visit):1	68(travel):1	74(perfect):1	82(station):1	100(bloc):1	153(provide):1	156(reservation):1	182(train):1	184(wife):1	346(florence):2	507(museum):2	510(limit):1	900(italy):1	1510(santa):1	1833(mare):1	1940(uffizi):1	2806(accademia):1	3407(novella):1	3488(mario):1	
+0	
+19	0(staff):1	10(restaurant):1	21(excellent):1	31(front):1	36(desk):1	39(return):1	67(call):1	69(tell):1	85(wait):1	127(speak):1	152(english):1	153(provide):1	188(line):1	377(hand):1	488(simply):1	577(recommendation):1	788(clerk):1	1750(voucher):1	6027(bypass):1	
+0	
+0	
+
+<Author>Jeff_in_Colorado
+<Content>They put us across the street Based on the very favorable reviews we saw at TripAdvisor, we booked two rooms at Marios several months prior to our visit in October 2006. Upon our arrival, we were told that they could only accomodate one of the couples in Mario's, but that they had a property across the street that was of equal quality and price where they had reserved a room. It was not even close. The couple that stayed at Mario's had a good experience, a nice lobby, friendly staff and a good breakfast. None of those were true at the Hotel Mia Cara although their rate was somewhat less. Fortunately, we were only staying one night, but travellers be aware that you might get shuttled to another hotel, so make it clear in your reservation you want Mario's, not an alternative.Mario's is a good value and is in a great location with easy walking access to the station and the heart of Florence.  
+<Date>Oct 26, 2006
+<Rating>3	5	4	5	5	5	5	-1	
+<Aspects>
+4	78(rate):1	573(none):1	651(somewhat):1	5051(mia):1	
+11	19(price):1	35(street):1	69(tell):1	99(couple):1	187(quality):1	214(property):1	224(arrival):1	506(reserve):1	549(accomodate):1	2948(equal):1	3488(mario):1	
+10	18(book):1	35(street):1	37(review):1	65(visit):1	284(base):1	388(month):1	597(tripadvisor):1	637(prior):1	911(october):1	3251(favorable):1	
+17	1(location):1	2(night):1	7(walk):1	28(close):1	81(value):1	82(station):1	93(easy):1	156(reservation):1	159(access):1	267(traveler):1	321(shuttle):1	346(florence):1	450(heart):1	832(aware):1	1298(alternative):1	1585(fortunately):1	3488(mario):2	
+0	
+0	
+8	0(staff):1	4(nice):1	6(breakfast):1	12(friendly):1	44(experience):1	55(lobby):1	99(couple):1	3488(mario):1	
+0	
+
+<Author>rnblue
+<Content>Warm Friendly Family Atmosphere This small hotel was the hit of our recent Italy trip. We stayed in 5 different hotels during our Itlay adventure, all were rated 4 or 5 star except Mario's. We were therefore somewhat apprehensive before arriving at Mario's ... what a mistake. The Hotel and staff were WONDERFUL. The hotel is small with only 14 or so rooms and we understand each room is somewhat different from the others. Our room was small (as are most European hotels), but very neat, clean, and efficient.The hotel staff goes out of their way to make your visit memorable. Every request we had was handled quickly and in full detail.The hotel's location is very convenient to all the major attractions. It is close walking distance to the Duomo and Uffizi (The hotel staff got us tickets in advance saving a very long wait in line), as well as a reasonable walk to the Ponte Vecchio. Breakfast each morning was a great chance to meet the other guests of the hotel .... everyone we met commented on how much they were enjoying their stay at Mario's.The hotel lobby is on the second floor .... no reason to tote your luggage up as they will quickly come and get it for you. The hotel is located on a narrow and quiet side street very close to the train station (great for side trips to Pisa. etc). There is a very good quaint little restaurant (Enzo E Piero) just a few doors down the street from the hotel. (Mario's suggested it to us and made our reservations).Go and enjoy Mario's hospitality!  
+<Date>Oct 13, 2006
+<Rating>5	4	3	5	5	5	5	-1	
+<Aspects>
+8	51(enjoy):1	53(arrive):1	73(etc):1	651(somewhat):1	895(mistake):1	1115(hospitality):1	2129(apprehensive):1	3488(mario):2	
+13	12(friendly):1	33(trip):1	78(rate):1	103(star):1	106(family):1	236(warm):1	337(except):1	414(atmosphere):1	775(hit):1	900(italy):1	1064(recent):1	1861(adventure):1	3488(mario):1	
+6	3(clean):1	391(understand):1	401(efficient):1	582(european):1	651(somewhat):1	1286(neat):1	
+30	0(staff):1	1(location):1	7(walk):2	10(restaurant):1	23(little):1	28(close):2	33(trip):1	35(street):2	54(door):1	58(quiet):1	82(station):1	84(locate):1	85(wait):1	115(distance):1	182(train):1	186(convenient):1	188(line):1	273(reasonable):1	315(major):1	350(attraction):1	425(save):1	621(ticket):1	685(advance):1	981(duomo):1	1207(narrow):1	1295(quaint):1	1645(ponte):1	1836(vecchio):1	1940(uffizi):1	3810(pisa):1	
+0	
+11	0(staff):2	48(wonderful):1	65(visit):1	148(request):1	156(reservation):1	452(suggest):1	471(quickly):1	592(detail):1	966(handle):1	1205(memorable):1	3488(mario):1	
+14	6(breakfast):1	24(floor):1	51(enjoy):1	55(lobby):1	56(morning):1	91(guest):1	196(meet):2	249(luggage):1	356(comment):1	374(reason):1	471(quickly):1	689(chance):1	3488(mario):1	8210(tote):1	
+0	
+
+<Author>Katlehn
+<Content>Great place We stayed here in June 06. It was a great location for all the sites of Florence and restaurants galore. It's also very close to the train station which was terriffic as we came in on the train from Rome. the rooms are clean and tastefully decorated. The staff are very helpful and friendly and speak english well. They even printed us a map with instructions on how to get to our next hotel in Switzerland as we were checking out. Two (minor) things though - there are no smoking rooms as implied on the site and there is no bar fridge which would really be a simple but nice addition to the rooms.Perth, Australia  
+<Date>Sep 12, 2006
+<Rating>4	5	3	5	3	5	4	-1	
+<Aspects>
+3	664(june):1	1530(australia):1	7497(perth):1	
+0	
+3	3(clean):1	305(decorate):1	1526(tastefully):1	
+10	1(location):1	10(restaurant):1	28(close):1	82(station):1	182(train):2	192(site):1	346(florence):1	2185(rome):1	4216(galore):1	10098(terriffic):1	
+0	
+10	0(staff):1	12(friendly):1	14(helpful):1	32(check):1	127(speak):1	152(english):1	724(map):1	1101(print):1	2386(instruction):1	8145(switzerland):1	
+9	4(nice):1	27(bar):1	192(site):1	318(fridge):1	468(smoke):1	613(simple):1	720(minor):1	918(addition):1	4594(imply):1	
+0	
+
+<Author>croesio
+<Content>Loved this hotel. We loved this hotel. Just a few minutes walk from the railway station from where you could also take bus tours. The rooms were a good size and were very clean and air conditioned. The bathrooms were also very clean. The hotel staff were friendly and helpful. We were a bit wary of the location at first - a narrow, quiet road with hostels nearby, but there was no need to worry and we had no problems at all. Easy walking distance from the Duomo and the Ponte Vecchio. We would definitely stay in this hotel again.  
+<Date>Sep 9, 2006
+<Rating>4	5	5	4	5	4	5	-1	
+<Aspects>
+2	40(love):2	59(definitely):1	
+0	
+14	1(location):1	3(clean):2	13(bathroom):1	52(bit):1	58(quiet):1	83(size):1	164(air):1	230(road):1	232(nearby):1	263(condition):1	831(worry):1	1207(narrow):1	1560(hostel):1	3099(wary):1	
+11	7(walk):2	29(minute):1	82(station):1	93(easy):1	115(distance):1	120(bus):1	181(tour):1	981(duomo):1	1645(ponte):1	1836(vecchio):1	2002(railway):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>Pepepetrov
+<Content>We liked Mario's We stayed at Mario's this past week and liked it very much. All the staff were helpful and pleasant. Breakfast was fresh and decent and they serve great coffee. Our room was right across from the hostel and we had to keep our windows shut at night but we were never disturbed by noise from it. I would insist on a room away from the street next visit, though.The hotel felt very safe, was clean and we would likely stay there again. No complaints!  
+<Date>Sep 8, 2006
+<Rating>4	4	4	3	4	4	4	-1	
+<Aspects>
+4	75(week):1	190(complaint):1	419(past):1	3488(mario):2	
+0	
+9	2(night):1	35(street):1	65(visit):1	94(noise):1	119(window):1	1067(disturb):1	1086(shut):1	1495(insist):1	1560(hostel):1	
+0	
+3	3(clean):1	34(feel):1	137(safe):1	
+3	0(staff):1	14(helpful):1	150(pleasant):1	
+5	6(breakfast):1	90(coffee):1	174(serve):1	197(fresh):1	257(decent):1	
+0	
+
+<Author>PNFranks
+<Content>An Oasis in Florence We were traveling through Italy with a group of friends, all twenty-something. We are used to staying in Hilton, Hyatts, etc. and found this to be a very nice European hotel, but more of an inn by American standards. When we walked in we were pleasantly surprised. It felt so Florentine on the inside (the outside is a narrow street with unattractive buildings) with nice tile, couches and wood. It was clean and the rooms were large with nice furnishings. The breakfast room was spacious and there was a nice breakfast with fresh croissants everyday. The staff was very nice and helpful. The only downside to this hotel was the location, sort of off the beaten path and across from a hostel. Everything in Florence seems smaller/closer compared to Rome but this hotel is somewhat far from the downtown, Piazza della Signoria and market area. If you don't mind a walk than it's fine. Other than that it's a great place to stay in Florence.  
+<Date>Aug 13, 2006
+<Rating>4	3	4	3	4	5	4	-1	
+<Aspects>
+12	4(nice):1	68(travel):1	73(etc):1	130(standard):1	146(friend):1	324(inn):1	346(florence):2	477(hilton):1	582(european):1	900(italy):1	1383(oasis):1	7054(hyatts):1	
+0	
+3	3(clean):1	4(nice):1	870(furnishings):1	
+32	1(location):1	4(nice):1	7(walk):2	34(feel):1	35(street):1	98(outside):1	113(fine):1	199(surprise):1	264(market):1	294(mind):1	334(downtown):1	346(florence):1	381(compare):1	408(inside):1	442(beat):1	557(sort):1	651(somewhat):1	745(building):1	747(pleasantly):1	782(downside):1	846(tile):1	1192(couch):1	1207(narrow):1	1327(wood):1	1560(hostel):1	1612(path):1	2116(piazza):1	2185(rome):1	4249(florentine):1	4266(della):1	5107(signoria):1	5654(unattractive):1	
+0	
+3	0(staff):1	4(nice):1	14(helpful):1	
+6	4(nice):1	6(breakfast):2	111(spacious):1	197(fresh):1	605(everyday):1	1004(croissant):1	
+0	
+
+<Author>goosteroo
+<Content>Awesome! Great small hotel with great value! Leonardo, who works the desk there late nights is a total charmer. I remember many nights staying up and talking to him with couple of glasses of wine.Will definately return!  
+<Date>Aug 9, 2006
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+3	39(return):1	348(awesome):1	410(definately):1	
+1	81(value):1	
+0	
+0	
+0	
+6	2(night):1	36(desk):1	79(late):1	786(total):1	5882(leonardo):1	11061(charmer):1	
+6	2(night):1	99(couple):1	251(wine):1	327(glass):1	371(talk):1	375(remember):1	
+0	
+
+<Author>callcntr
+<Content>Great Experience! Family of 5 with two rooms. 5 min. walk from train and two minute walk to buses for day trips to Pisa, Lucca and Sienna. Staff was very helpful, everything clean, great price, and super cool A/C. decent size rooms one flight walk up (no elevator). Very european feel and easy walk to everywhere. Would stay again.  
+<Date>Jul 28, 2006
+<Rating>5	5	4	4	4	4	4	3	
+<Aspects>
+1	247(min):1	
+7	0(staff):1	3(clean):1	14(helpful):1	19(price):1	44(experience):1	278(cool):1	464(super):1	
+6	7(walk):1	83(size):1	106(family):1	216(elevator):1	233(flight):1	257(decent):1	
+12	7(walk):3	8(day):1	29(minute):1	33(trip):1	34(feel):1	93(easy):1	120(bus):1	182(train):1	582(european):1	3810(pisa):1	8720(sienna):1	9580(lucca):1	
+0	
+0	
+0	
+0	
+
+<Author>spartac
+<Content>Charming place, good location Very nice 3 star hotel close to the train station (i.e central) on a quiet street. We stayed in one of the rooms facing the back so we had no noise whatsoever.The room was VERY nice, the breakfest more than decent, the place itself relaxing, very nice decor. It's a bargain for that price! We were at the hotel Monica just down the streer (Terrible place) and moved here for the second night. It felt like heaven!  
+<Date>Jul 16, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	2(night):1	34(feel):1	207(move):1	432(terrible):1	1363(heaven):1	3431(monica):1	
+2	19(price):1	759(bargain):1	
+7	4(nice):2	94(noise):1	160(relax):1	257(decent):1	269(decor):1	1733(whatsoever):1	5396(breakfest):1	
+10	1(location):1	4(nice):1	28(close):1	35(street):1	58(quiet):1	82(station):1	103(star):1	168(central):1	182(train):1	332(charm):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Relaxed + friendly 4 mins away from main station, very handy for exploring all of Florence. Airy and stylish room, friendly staff and relaxed atmosphere. The shower temperature was sometimes variable but it was very good value overall.  
+<Date>Jul 4, 2006
+<Rating>5	5	5	-1	5	-1	4	-1	
+<Aspects>
+0	
+0	
+12	0(staff):1	12(friendly):1	61(shower):1	70(overall):1	81(value):1	160(relax):1	414(atmosphere):1	560(sometimes):1	944(temperature):1	961(stylish):1	1947(airy):1	5713(variable):1	
+8	12(friendly):1	82(station):1	112(main):1	160(relax):1	247(min):1	346(florence):1	594(explore):1	755(handy):1	
+0	
+0	
+0	
+0	
+
+<Author>Clear213
+<Content>Great Place! We enjoyed a three day stay at this charming little hotel. It is a family owned business. All of the family members are wonderful hosts. Our room was pleasant and comfortable. The hotel is convenient to all the major attraction in Florence as well as a short walk from the train station. We were given good recommendations for restaurants. We hope to return to the Hotel St. Mario in the future.  
+<Date>Jun 14, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	8(day):1	23(little):1	39(return):1	48(wonderful):1	51(enjoy):1	106(family):1	328(hope):1	332(charm):1	655(st):1	732(future):1	1283(host):1	3488(mario):1	
+0	
+2	25(comfortable):1	150(pleasant):1	
+11	7(walk):1	82(station):1	106(family):1	144(short):1	147(business):1	166(own):1	182(train):1	186(convenient):1	315(major):1	346(florence):1	350(attraction):1	
+0	
+0	
+2	10(restaurant):1	577(recommendation):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Best You Can Get and a Great Deal! Our school groups and faculty use this 3-star quality hotel when we visit Florence, Italy. The service is outstanding and very helpful. During the non-summer season the rates at this hotel can be fantastic, but are still a bargain anytime in this city and you get your money's worth here for sure.There are several places to eat and drink on the same street as the hotel, but if you want more options they are mostly no more than 5-10 minute walk away. The rooms are nice, very clean, and are a good size! It is very close to the main train station, but can be hard to find if you get off the train without knowing where you are going! Make sure you get a map and orient yourself well before setting off.  
+<Date>Jun 1, 2006
+<Rating>5	5	4	-1	4	-1	5	-1	
+<Aspects>
+5	140(deal):1	234(set):1	576(yourself):1	724(map):1	2385(orient):1	
+14	41(city):1	65(visit):1	78(rate):1	80(money):1	86(fantastic):1	96(worth):1	187(quality):1	346(florence):1	610(season):1	759(bargain):1	900(italy):1	1229(school):1	1677(anytime):1	2814(3-star):1	
+3	3(clean):1	4(nice):1	83(size):1	
+11	7(walk):1	28(close):1	29(minute):1	35(street):1	47(eat):1	63(drink):1	82(station):1	112(main):1	162(hard):1	182(train):2	336(option):1	
+0	
+0	
+3	9(service):1	14(helpful):1	534(outstanding):1	
+0	
+
+<Author>Billybase
+<Content>Charming, friendly hotel We arrived late and they were waiting for us. Leonardo couldn't have been more helpful. he gave us directions and tips. He also recommended a great restaurant around the corner. We found this place to be clean, friendly and charming. It was also very close to the train station. The reception was on the second floor. Leonardo offered to help with our bags but we were fine with one flight of stairs. No elevator.  
+<Date>Apr 15, 2006
+<Rating>5	5	3	-1	5	-1	5	-1	
+<Aspects>
+4	14(helpful):1	194(tip):1	395(direction):1	5882(leonardo):1	
+0	
+9	24(floor):1	89(offer):1	92(help):1	113(fine):1	129(reception):1	233(flight):1	290(bag):1	568(stair):1	5882(leonardo):1	
+3	28(close):1	82(station):1	182(train):1	
+3	3(clean):1	12(friendly):1	332(charm):1	
+5	12(friendly):1	53(arrive):1	79(late):1	85(wait):1	332(charm):1	
+4	10(restaurant):1	15(recommend):1	200(corner):1	216(elevator):1	
+0	
+
+<Author>avante2
+<Content>Loved Mario and his staff Hotel Mario. A lovely little hotel in Florence. Clean, safe and nice. We loved visiting with the other travelers at breakfast. The best part about Mario's was Mario and his staff. Nicer more helpful people cannot be found. When my husband and I got ready to leave. There were hugs goodbye. We felt like family. I would not stay anywhere else in Florence.  
+<Date>Apr 4, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+14	4(nice):1	14(helpful):1	23(little):1	26(people):1	34(feel):1	43(leave):1	87(lovely):1	105(husband):1	106(family):1	170(else):1	274(ready):1	346(florence):2	4232(good-bye):1	4835(hug):1	
+0	
+0	
+0	
+3	3(clean):1	4(nice):1	137(safe):1	
+3	0(staff):2	40(love):1	3488(mario):4	
+4	6(breakfast):1	40(love):1	65(visit):1	267(traveler):1	
+0	
+
+<Author>Silvertiger
+<Content>A good base in Florence We stayed at Mario's for a couple of nights earlier this month. The hotel is centrally located and not far from the train station. The rooms are comfortable, warm (it was freezing in Florence), and spacious (for european standards). I also loved the stained glass windows (very nice touch). Breakfast was plentiful and the coffee/espresso was made to order.My only regret is not meeting Leonardo as he was the most helpful member of the staff. He was very kind and curteous reserving the Uffizi and Academia at the best times of the day. Be sure to ask for him when you visit.  
+<Date>Mar 18, 2006
+<Rating>4	4	4	-1	4	-1	3	-1	
+<Aspects>
+7	2(night):1	65(visit):1	99(couple):1	284(base):1	346(florence):1	388(month):1	3488(mario):1	
+0	
+13	4(nice):1	25(comfortable):1	40(love):1	111(spacious):1	119(window):1	130(standard):1	236(warm):1	279(touch):1	327(glass):1	346(florence):1	582(european):1	723(stain):1	1321(freeze):1	
+4	82(station):1	84(locate):1	182(train):1	879(centrally):1	
+0	
+5	0(staff):1	14(helpful):1	196(meet):1	1410(regret):1	5882(leonardo):1	
+9	5(time):1	6(breakfast):1	8(day):1	90(coffee):1	506(reserve):1	1039(plentiful):1	1940(uffizi):1	4834(curteous):1	5162(academia):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Top hotel for a low price Very nice hotel. Had a great over night stay. The staff was very nice, and helpful. Recommenced a great restaurant 2 minutes from hotel. This was a low budget overnight trip with a friend, and Marios surpassed my expectations.  
+<Date>Feb 2, 2006
+<Rating>4	5	4	-1	5	-1	5	-1	
+<Aspects>
+1	2(night):1	
+10	4(nice):1	19(price):1	33(trip):1	118(top):1	146(friend):1	429(budget):1	431(expectation):1	513(low):2	1171(overnight):1	3204(surpass):1	
+0	
+0	
+0	
+3	0(staff):1	4(nice):1	14(helpful):1	
+2	10(restaurant):1	29(minute):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>a great find... will definately recommend We stayed at mario's hotel in Florence last week for a couple of nights. The staff were very helpful and the room was immaculate. Location was also fabulous for shopping, the station and city centre. It is very good value for money - unlike most of the big hotels previously stayed in.  
+<Date>Jan 30, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	2(night):1	15(recommend):1	75(week):1	99(couple):1	346(florence):1	410(definately):1	3488(mario):1	
+4	80(money):1	81(value):1	1122(previously):1	1163(unlike):1	
+3	0(staff):1	14(helpful):1	894(immaculate):1	
+6	1(location):1	41(city):1	49(shop):1	82(station):1	101(center):1	270(fabulous):1	
+0	
+0	
+0	
+0	
+
+<Author>cashmerequeen
+<Content>Loved it--will come back My husband and I stayed at Hotel Mario while visiting Florence. We loved it. The staff was so helpful and kind--and by the time we got there, we were a little frazzled and tired because of driving through the city. The receptionist (Cristina) was a dream. She contacted a garage for us and they picked up our car. She helped us locate a Mailboxes, Etc. to mail packages back to the states, and even exchanged money for us.The room was so cute--very nicely decorated and very clean. The airconditioning worked. We had a room facing the main road, but I didn't hear any noise and slept perfectly.The breakfast was great--and the coffee outstanding.We plan to return here soon!  
+<Date>Jan 23, 2006
+<Rating>4	3	4	-1	5	-1	5	-1	
+<Aspects>
+8	39(return):1	40(love):2	65(visit):1	105(husband):1	221(plan):1	346(florence):1	418(soon):1	3488(mario):1	
+0	
+11	3(clean):1	94(noise):1	104(sleep):1	112(main):1	132(hear):1	230(road):1	305(decorate):1	404(nicely):1	595(perfectly):1	1202(cute):1	1903(airconditione):1	
+7	73(etc):1	80(money):1	84(locate):1	92(help):1	527(package):1	1514(exchange):1	2446(mail):1	
+0	
+15	0(staff):1	5(time):1	14(helpful):1	23(little):1	41(city):1	121(car):1	266(pick):1	298(drive):1	454(tire):1	713(contact):1	855(receptionist):1	936(garage):1	1256(dream):1	9478(cristina):1	10125(frazzle):1	
+3	6(breakfast):1	90(coffee):1	534(outstanding):1	
+0	
+
+<Author>4Mike
+<Content>Mario's is Great!!! We have stayed twice at Mario's and really enjoyed our stay both times. It is very small so they require payment before you arrive. That really was OK with us as we understood they can't afford no shows One of the few places that we have stayed in Europe where the air conditioning actually worked. Breakfast was above average and the lobby/bar area was very cozy. The only bad thing was you had to carry your bags up one flight of stair... No big deal!! There is also a great restaurant just around the corner where mostly local Italians go. Mario's is also very close to the train station.  
+<Date>Nov 21, 2005
+<Rating>4	3	5	-1	5	-1	5	-1	
+<Aspects>
+4	5(time):1	51(enjoy):1	347(twice):1	3488(mario):2	
+3	53(arrive):1	722(require):1	2645(payment):1	
+13	50(bad):1	123(ok):1	140(deal):1	164(air):1	180(actually):1	233(flight):1	263(condition):1	290(bag):1	391(understand):1	568(stair):1	700(europe):1	824(carry):1	1452(afford):1	
+4	28(close):1	82(station):1	182(train):1	3488(mario):1	
+0	
+0	
+8	6(breakfast):1	10(restaurant):1	55(lobby):1	195(local):1	200(corner):1	227(average):1	749(cozy):1	4753(italians):1	
+0	
+
+<Author>Willy_Roger
+<Content>Friendly, Charming and Value We stayed there for a consecutive 3 nights. The staff in the hotel are excellent. Very friendly and ever willing to offer us directions. This is one of the warmest hotel staff which I have come across! The decoration of the hotel and the room was excellent, full of Tuscany flavors. The room which I have was very big unlike the previous one with I have in other cities in Italy. The room is very clean with clean towels. I quite enjoyed my stay there. The only minor complaint I have is the mosquitoes, which is fairly prevalent in the Tuscany area (considering this problem is even worse in Venice). Nevertheless, just prepared to bring a repellent as this is a charming and value for money hotel which is too good to be miss.  
+<Date>Jul 19, 2005
+<Rating>4	4	4	-1	4	-1	5	-1	
+<Aspects>
+4	12(friendly):1	51(enjoy):1	89(offer):1	395(direction):1	
+10	2(night):1	12(friendly):1	80(money):1	81(value):2	142(bring):1	276(miss):1	332(charm):2	460(prepare):1	2858(repellent):1	6141(consecutive):1	
+18	3(clean):2	21(excellent):1	41(city):1	50(bad):1	125(towel):1	190(complaint):1	248(consider):1	373(previous):1	462(fairly):1	720(minor):1	900(italy):1	1054(mosquito):1	1163(unlike):1	1498(venice):1	1580(decoration):1	2147(flavor):1	3019(tuscany):2	8308(prevalent):1	
+0	
+0	
+3	0(staff):2	21(excellent):1	236(warm):1	
+0	
+0	
+
+<Author>lexygoat
+<Content>Decent and comfortable, value OK We stayed in a double room a few weeks ago and thought the room was decorated stylishly. There were exposed beams in the vaulted ceiling, pretty paint, and decent matresses. There was a large armoir and a TV. Breakfast was quite good. Nice coffee and juice.My only negative point was the location on Via Faenza. It's a main route between the train station and the Duomo and mixed in with some not-so -nice hotels. Be aware that the area is frequented by lots of collage kids coming home drunk.  
+<Date>Jun 26, 2005
+<Rating>4	3	4	-1	4	-1	4	-1	
+<Aspects>
+8	109(pretty):1	257(decent):1	528(ceiling):1	806(paint):1	2637(expose):1	3298(matress):1	3688(beam):1	4606(vault):1	
+0	
+11	25(comfortable):1	75(week):1	81(value):1	116(tv):1	123(ok):1	179(double):1	257(decent):1	305(decorate):1	633(ago):1	5435(stylishly):1	10334(armoir):1	
+11	1(location):1	4(nice):1	82(station):1	112(main):1	182(train):1	282(negative):1	512(via):1	609(mix):1	981(duomo):1	1035(route):1	6398(faenza):1	
+0	
+0	
+10	4(nice):1	6(breakfast):1	38(lot):1	63(drink):1	90(coffee):1	141(home):1	201(kid):1	362(juice):1	832(aware):1	1355(frequent):1	
+0	
+
+<Author>plannergirl
+<Content>Great Hotel, Excellent Staff We found this hotel to be a great stopover in Florence. The location to the train station is great, and I liked that it was up on the 1st floor off the main street. It is also easy walking to the main sites and of course the markets---my favorite!! We had an inside room and it was very quiet. The staff was lovely, the rooms large and with AC, and the breakfast was very good. I would stay here again, and recommend to others too.  
+<Date>Jun 6, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+1	15(recommend):1	
+0	
+6	0(staff):1	6(breakfast):1	58(quiet):1	87(lovely):1	408(inside):1	956(ac):1	
+12	1(location):1	7(walk):1	24(floor):1	35(street):1	82(station):1	93(easy):1	112(main):2	182(train):1	192(site):1	264(market):1	293(course):1	376(favourite):1	
+0	
+4	0(staff):1	21(excellent):1	346(florence):1	2364(stopover):1	
+0	
+0	
+
+<Author>TXTravelgirl
+<Content>Too noisy We stayed in this hotel for 2 days in Florence on the way back from Cinque Terre. We picked it because it was close to the train station and we didn't want to have to go too far after arriving on the train from Cinque Terre. I also have a friend who stayed here.The staff was very nice, the room, typical for 110 euros (small room, small bathroom). However, it was extremely noisy and I didn't get much sleep either night we were there. We stayed in room # 12, which had a window on the street (Via Faenza). Across the street was a youth hostel. Each time I would just fall asleep, some noise out in the street would wake me up. It was either people, talking loudly, street sweeping machines, garbage trucks, etc. This went on from about 1:00 a.m. to about 5:00 a.m. Maybe if you could get a room on the back side of the hotel that wasn't right on the street, it wouldn't be so bad.I don't think I would stay here again.  
+<Date>May 17, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	8(day):1	146(friend):1	217(noisy):1	346(florence):1	8892(terre):1	
+0	
+20	0(staff):1	2(night):1	4(nice):1	5(time):1	13(bathroom):1	35(street):3	50(bad):1	94(noise):1	104(sleep):1	110(extremely):1	119(window):1	217(noisy):1	256(euro):1	308(maybe):1	512(via):1	554(wake):1	587(fall):1	628(typical):1	2123(asleep):1	6398(faenza):1	
+17	26(people):1	28(close):1	35(street):2	53(arrive):1	73(etc):1	82(station):1	182(train):2	266(pick):1	371(talk):1	493(machine):1	1507(truck):1	1560(hostel):1	1650(garbage):1	2707(loudly):1	2724(sweep):1	3525(youth):1	8892(terre):1	
+0	
+0	
+0	
+0	
+
+<Author>Bdarin
+<Content>Spacious in a cluttered city Hotel Mario's is a wonderful place to stay in a city cluttered with buildings and churches, Florence. The staff is very wonderful and ready to help your every needs. The rooms are very spacious, however, the bathrooms are somewhat small. They have a wonderful breakfast area with the usual Italian hotel breakfast. Overall a must stay in a wonderful city.  
+<Date>May 11, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	41(city):3	48(wonderful):2	70(overall):1	111(spacious):1	346(florence):1	745(building):1	1731(church):1	3488(mario):1	5880(clutter):2	
+0	
+3	13(bathroom):1	111(spacious):1	651(somewhat):1	
+0	
+0	
+4	0(staff):1	48(wonderful):1	92(help):1	274(ready):1	
+4	6(breakfast):2	48(wonderful):1	358(italian):1	682(usual):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>What a find!! I stayed at Hotel Marios in mid-April. This was by far the best hotel I stayed at in Italy (with a budget of max 170 Euro per night for 3 people). Our room was very spacious for Italian standards, clean, good bathroom, had everything we needed. The staff there was extremely helpful. Every other hotel we stayed at, we compared to Hotel Marios, and none came close to matching up. It is within walking distance to pretty much everywhere you would want to go to in Florence, and a very short walk from the train station. In addition to having a good location, it was in a very safe area. I traveled with two other women, and we always felt safe there. We hired Mario to take us for a day long driving tour of Tuscany, and it was far and away our best day in Italy. He asked us some questions about the kinds of places we wanted to visit or if we had any special preferences at to cities, and he tailored the tour to our answers. It was awesome! Worth every penny, and more. If you don't have the budget for a day tour with Mario, I would recommend ditching something else so you can do a Mario tour, he will cater it exactly to your needs. The car he took us out in was comfy and spacious, and can fit up to 6 people I think. I don't know what else to say about this place - it is a great bargain, the people are awesome, the location is great, I have absolutely no complaints and would definitely stay there again if I ever get back to Florence. Oh, Mario also recommended a fantastic restaurant and a great leather shop -- so if you have any questions ask Mario because he has good recommendations. At the leather shop the owner dropped the price of a jacket (by a pretty substantial amount) my friend was interested in when we told him that Mario had sent us.  
+<Date>May 9, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+36	2(night):1	8(day):3	15(recommend):1	26(people):2	34(feel):1	41(city):1	65(visit):1	68(travel):1	96(worth):1	111(spacious):1	121(car):1	137(safe):1	170(else):1	181(tour):4	208(special):1	256(euro):1	298(drive):1	348(awesome):1	394(question):1	429(budget):2	475(comfy):1	566(woman):1	586(exactly):1	668(fit):1	669(answer):1	900(italy):2	1000(cater):1	1556(hire):1	1590(penny):1	2169(max):1	2268(preference):1	3019(tuscany):1	3488(mario):3	6169(tailor):1	9970(ditch):1	12789(mid-april):1	
+22	1(location):1	19(price):1	26(people):1	49(shop):1	59(definitely):1	69(tell):1	109(pretty):1	146(friend):1	170(else):1	189(absolutely):1	190(complaint):1	346(florence):1	348(awesome):1	447(send):1	662(drop):1	666(amount):1	672(owner):1	759(bargain):1	2729(leather):1	2970(substantial):1	3375(jacket):1	3488(mario):1	
+5	3(clean):1	13(bathroom):1	111(spacious):1	130(standard):1	358(italian):1	
+22	1(location):1	7(walk):2	10(restaurant):1	15(recommend):1	28(close):1	49(shop):1	82(station):1	86(fantastic):1	109(pretty):1	115(distance):1	137(safe):1	144(short):1	182(train):1	346(florence):1	381(compare):1	394(question):1	573(none):1	577(recommendation):1	918(addition):1	1476(match):1	2729(leather):1	3488(mario):2	
+0	
+3	0(staff):1	14(helpful):1	110(extremely):1	
+0	
+0	
+
+<Author>Nikka
+<Content>Beautiful Small Hotel This hotel was very beautiful and charming. Although the room was small it was very nicely appointed and decorated. Even some fresh fruit waiting for you! It was, however, slighlty noisy so if you wanted a super quite stay, then perhaps this is not the place for you. However, after a full day of sightseeing it did not seem to bother myself or the other guests at the hotel. Very friendly staff!  
+<Date>Apr 17, 2005
+<Rating>4	4	5	-1	5	-1	4	-1	
+<Aspects>
+2	217(noisy):1	464(super):1	
+0	
+3	305(decorate):1	404(nicely):1	579(appoint):1	
+6	8(day):1	45(beautiful):2	91(guest):1	307(bother):1	332(charm):1	640(sight-see):1	
+0	
+5	0(staff):1	12(friendly):1	85(wait):1	197(fresh):1	215(fruit):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Wonderful play to stay Mario's has a warm friendly staff and clean, comfortable rooms. The reception area is roomy, and condusive to chatting about the day with friends. The continental breakfast is good, with friendly service. The staff made reservations with restaurants and museums with a smile. We took the Tuscany tour with Mario seeing a walled city, and a very small winery where we had a wine and olive oil tasting. We got excellent recommendations for restaurants from the staff. I would highly recommend staying here. I know I will be back!  
+<Date>Mar 16, 2005
+<Rating>4	4	4	-1	5	-1	5	-1	
+<Aspects>
+2	15(recommend):1	138(highly):1	
+0	
+14	0(staff):1	3(clean):1	8(day):1	12(friendly):1	25(comfortable):1	48(wonderful):1	129(reception):1	146(friend):1	236(warm):1	386(play):1	1353(roomy):1	1629(chat):1	3488(mario):1	10973(condusive):1	
+10	41(city):1	181(tour):1	183(wall):1	251(wine):1	439(taste):1	2769(oil):1	3019(tuscany):1	3488(mario):1	3512(olive):1	8104(winery):1	
+0	
+7	0(staff):2	10(restaurant):2	21(excellent):1	156(reservation):1	387(smile):1	507(museum):1	577(recommendation):1	
+4	6(breakfast):1	9(service):1	12(friendly):1	372(continental):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very friendly staff We enjoyed our stay at the Mario's. The staff was very friendly and helpful. The room was simple and clean. Good sized washroom. Great water pressure. Simple nice breakfast. Convinent location. Walk to all attractions and train station. During our visit in February, it rained the whole time. It was nice coming back to a comfortable room. Daily plate of apples and oranges was thoughtful.  
+<Date>Mar 9, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	5(time):1	57(water):1	65(visit):1	360(daily):1	581(rain):1	686(pressure):1	905(apple):1	1002(plate):1	1104(orange):1	1230(february):1	2837(thoughtful):1	
+0	
+6	3(clean):1	4(nice):1	25(comfortable):1	83(size):1	613(simple):1	3203(washroom):1	
+5	1(location):1	7(walk):1	82(station):1	182(train):1	350(attraction):1	
+0	
+5	0(staff):2	12(friendly):2	14(helpful):1	51(enjoy):1	3488(mario):1	
+3	4(nice):1	6(breakfast):1	613(simple):1	
+0	
+
+<Author>Troon62
+<Content>Tight but Perfectly Florentine Although it has been three years since my wife and I stayed at Mario's for a week in June, our memories grow fonder as time passes. Even without our luggage for five days (our bags ended up in Riyadh, Saudi Arabia), courtesy of Northwest Airlines, and in reasonably warm weather, we loved every minute of our time at Mario's. Our room, while small, looked out over a central courtyard. Regardless of when we were sleeping, we were never disturbed by noise of any kind -- remarkable, in light of the fact that the traffic noise is very real on the narrow street outside the hotel. And, although our bathroom demanded strategic thought as to who could do what when, it posed no problem at all. I showered and dressed early, strolled the nearby neighborhood, stopped at one of the many corner tabacs for a coffee, and returned to find my wife dressed and ready for the day's adventures. Mario himself is seemingly always on premises and a delight, as is the rest of his multilingual staff. When we left in the morning, regardless of what we wanted to see in Florence, we never had to resort to anything but our own feet. What a blessing, as our walks gave us time and space to feel the pulse of the neighborhoods in which we walked, and the simple joy of being entirely self reliant. Do yourself a favor and stay with Mario at a quintessentially Florentine residence in the heart of one of the world's most enchanting cities. You won't regret it, we assure you.   
+<Date>Feb 13, 2005
+<Rating>4	4	4	-1	5	-1	4	-1	
+<Aspects>
+29	5(time):1	41(city):1	43(leave):1	56(morning):1	72(resort):1	75(week):1	166(own):1	184(wife):1	272(world):1	346(florence):1	400(pass):1	402(foot):1	450(heart):1	487(wo):1	576(yourself):1	595(perfectly):1	664(june):1	1349(assure):1	1399(tight):1	1410(regret):1	1521(favor):1	1631(memory):1	1659(grow):1	1840(residence):1	2012(regardless):1	3488(mario):2	3960(fond):1	4249(florentine):2	5030(enchant):1	
+0	
+47	0(staff):1	5(time):2	7(walk):2	8(day):2	13(bathroom):1	20(look):1	29(minute):1	34(feel):1	39(return):1	40(love):1	61(shower):1	90(coffee):1	122(stop):1	168(central):1	184(wife):1	200(corner):1	210(space):1	232(nearby):1	236(warm):1	249(luggage):1	274(ready):1	288(rest):1	290(bag):1	385(weather):1	421(neighbourhood):2	435(courtyard):1	578(reasonably):1	613(simple):1	935(dress):2	1025(delight):1	1056(stroll):1	1314(self):1	1336(airline):1	1613(demand):1	1728(courtesy):1	1861(adventure):1	1989(premiss):1	2069(entirely):1	2486(joy):1	2887(bless):1	3488(mario):2	3501(seemingly):1	3904(pose):1	5759(Northwest):1	7394(multilingual):1	8427(strategic):1	9965(pulse):1	
+11	35(street):1	94(noise):2	98(outside):1	104(sleep):1	157(light):1	240(real):1	486(traffic):1	1067(disturb):1	1207(narrow):1	2012(regardless):1	3163(remarkable):1	
+0	
+0	
+0	
+0	
+

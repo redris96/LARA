@@ -1,0 +1,406 @@
+<Author>Dmitry_Sorokin
+<Content>The best quality-price ratio The hotel is very nice! But it's rather old.It is situated just 5 minutes from railway station and 5 minutes walk from the city center. Great location!Friendly staff, good breakfast for this price!  
+<Date>Nov 10, 2008
+<Rating>5	5	4	5	4	4	5	5	
+<Aspects>
+0	
+6	0(staff):1	4(nice):1	6(breakfast):1	12(friendly):1	19(price):1	4660(ratio):1	
+0	
+8	1(location):1	7(walk):1	29(minute):2	41(city):1	82(station):1	101(center):1	574(situate):1	2002(railway):1	
+0	
+0	
+0	
+0	
+
+<Author>TravelBugs77
+<Content>More like a backpackers hostel !!! This is not a hotel - This is more like a backpackers hostel ! Admittably the room was large and had aircon (altho was old and noisy ) but the room and the bathroom was soooo disgusting and dirty, The lift is a deathtrap and the breakfast was foul ! We arrived to a line-up of backpacker type travellers lining up to check-in. Front desk were friendly enough and offered free internet in the afternoons. If you are looking for something central and not too flash then this is the place to visit however if you are looking for somewhere clean and comfortable I suggest looking elsewhere !  
+<Date>Sep 23, 2008
+<Rating>1	1	1	3	1	3	1	4	
+<Aspects>
+2	1560(hostel):2	3997(backpacker):2	
+0	
+10	6(breakfast):1	13(bathroom):1	217(noisy):1	323(dirty):1	591(lift):1	1152(disgust):1	2257(aircon):1	2862(soooo):1	4058(foul):1	5494(altho):1	
+0	
+8	3(clean):1	20(look):3	25(comfortable):1	65(visit):1	168(central):1	452(suggest):1	646(elsewhere):1	2867(flash):1	
+14	12(friendly):1	31(front):1	36(desk):1	46(free):1	53(arrive):1	89(offer):1	97(internet):1	188(line):1	267(traveler):1	286(check-in):1	364(afternoon):1	389(type):1	3997(backpacker):1	9320(line-up):1	
+0	
+0	
+
+<Author>1801Jason
+<Content>Great little hotel with an axcellent roof top terrace Great for the price...comfortable with airconditioning and free internet access (for 30mins). Has a fabulous roof top terrace with great city views. Staff are fantastic and allow you to take own food and drinks to have on the roof top terrace if you want to save some money and not eat out. Well worth staying for a good price.  
+<Date>Sep 8, 2008
+<Rating>4	5	4	4	4	4	4	4	
+<Aspects>
+6	17(view):1	41(city):1	118(top):1	270(fabulous):1	636(roof):1	673(terrace):1	
+2	19(price):1	96(worth):1	
+0	
+0	
+0	
+0	
+12	0(staff):1	16(food):1	47(eat):1	63(drink):1	80(money):1	86(fantastic):1	118(top):1	166(own):1	359(allow):1	425(save):1	636(roof):1	673(terrace):1	
+11	19(price):1	23(little):1	25(comfortable):1	46(free):1	97(internet):1	118(top):1	159(access):1	636(roof):1	673(terrace):1	1903(airconditione):1	5747(30min):1	
+
+<Author>MDuvalle64
+<Content>Quite Good Hotel This hotel is very comfortable and clean. The staff were very friendly and helpful, but unfortunately the hotel is too far from the centre of town .It probably takes approx 1 hour to walk to the centre. I will stay here again whenever we visit Florence.  
+<Date>Aug 19, 2008
+<Rating>3	4	4	3	4	4	4	4	
+<Aspects>
+3	65(visit):1	346(florence):1	1181(whenever):1	
+0	
+0	
+5	7(walk):1	60(hour):1	101(center):1	178(probably):1	1423(approx):1	
+2	3(clean):1	25(comfortable):1	
+6	0(staff):1	12(friendly):1	14(helpful):1	101(center):1	239(town):1	524(unfortunately):1	
+0	
+0	
+
+<Author>cp67
+<Content>Not as bad as I expected Booked this hotel through our local travel agent. Came home and checked Trip advisor and wondered what on earth we were going to get. I did want to change but glad I didn't. The room was nothing like what other reports had said. It was clean and tidy. As it is an old building some of it looks a bit grotty but at the end of the day its only a place to shower and sleep - obviously the owners have taken note of the previous reports. The hotel is not badly situated and the roof garden had spectacular views of the city. Don't go with great expectations and you won't be disappointed, I expected the worst and was quite surprised.  
+<Date>May 27, 2008
+<Rating>3	3	3	3	3	3	3	3	
+<Aspects>
+9	17(view):1	41(city):1	161(change):1	310(garden):1	574(situate):1	619(glad):1	636(roof):1	656(spectacular):1	1663(badly):1	
+6	50(bad):1	62(expect):1	154(disappoint):1	199(surprise):1	431(expectation):1	487(wo):1	
+12	8(day):1	20(look):1	52(bit):1	61(shower):1	104(sleep):1	135(build):1	297(note):1	373(previous):1	672(owner):1	781(obviously):1	838(report):2	5409(grotty):1	
+0	
+2	3(clean):1	1100(tidy):1	
+6	32(check):1	33(trip):1	141(home):1	701(advisor):1	946(wonder):1	2201(earth):1	
+6	18(book):1	50(bad):1	62(expect):1	68(travel):1	195(local):1	766(agent):1	
+0	
+
+<Author>unrealcam
+<Content>Do not ever stay at this hotel Not only doesn't this hotel deserve its two stars but it shouldn't even be allowed to exist. My boyfriend and I found it after searching for like 2 hours cause there was not even a `hotel' sign visible from the street. To enter the building you have to step in dirty water, then take the most minuscule elevator ever (maximum two slim people can fit in it). When you get in the hotel it's all dark, old and musty. The guy at the front desk was pretty shaddy. The room was old, mouldy and dirty. We had booked through the hotel's website that shows photos that are completely misleading. The service has nothing to do with the description. When the electricty went off we decided to leave. The guy promised not to charge us for the night , what he actually did. We were lucky to find a room at the Hotel Byron a few blocks away: 3 stars, exact same price with parking included, huge room and excellent service.  
+<Date>Aug 24, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	43(leave):1	219(decide):1	459(dark):1	1016(musty):1	
+13	9(service):1	19(price):1	21(excellent):1	66(park):1	71(include):1	100(bloc):1	103(star):2	133(huge):1	359(allow):1	797(lucky):1	1072(deserve):1	2039(exist):1	2216(exact):1	
+0	
+7	35(street):1	60(hour):1	449(sign):1	763(boyfriend):1	943(cause):1	1248(search):1	2662(visible):1	
+11	26(people):1	57(water):1	135(build):1	216(elevator):1	323(dirty):2	366(step):1	601(enter):1	668(fit):1	2046(moldy):1	3523(maximum):1	5772(slim):1	
+8	2(night):1	31(front):1	36(desk):1	109(pretty):1	136(charge):1	180(actually):1	368(guy):2	975(promise):1	
+7	9(service):1	18(book):1	262(website):1	542(completely):1	761(photo):1	2034(description):1	2221(mislead):1	
+0	
+
+<Author>happytraveller33
+<Content>worst hotel experience ever This is truly the worst experience imaginable. My stomach wretches when I think of how awful my experience was. How can this hotel be permitted to exist. It is disgusting! The dirt on the walls in the bathroom was incredible. The dirt around the shower was dreadful. The room was small, beds unclean, mattresses so old ,furniture cheap and nasty.Think of your worst experience staying in a hotel or guest house then multipy it by 5.I checked out early and I am still scratching my head and body with the effects of bugs and tics from this place. The staff are just out to screw travellers in the most low level way.They offer no service and then insisted on charging me for the nights that I refused to stay. I only hope that one of them has a similar experience when travelling!!!!  
+<Date>Apr 22, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	1152(disgust):1	2039(exist):1	3149(permit):1	
+11	44(experience):5	50(bad):3	68(travel):1	91(guest):1	281(house):1	328(hope):1	476(truly):1	736(awful):1	874(similar):1	1318(stomach):1	4776(imaginable):1	
+12	11(bed):1	13(bathroom):1	61(shower):1	143(cheap):1	183(wall):1	440(furniture):1	718(incredible):1	847(mattress):1	1639(nasty):1	2004(dirt):2	2895(dreadful):1	3914(unclean):1	
+0	
+0	
+17	0(staff):1	2(night):1	9(service):1	32(check):1	89(offer):1	136(charge):1	267(traveler):1	306(level):1	319(head):1	513(low):1	602(bug):1	1103(refuse):1	1352(body):1	1495(insist):1	2191(effect):1	2613(scratch):1	2853(screw):1	
+0	
+0	
+
+<Author>Lucy46
+<Content>good to stay The hotel is in the middle of the historical city center near duomo and piaza signoria and far just little steps from the trainstation. It's not so beautiful but is nice, comfortable and clean, the breakfast is excellent and the staff kind and likeable. There is a beautiful terrace on the roof where to be able to make breakfast, to stay under the sun reading a book and to admire from high the cupola of duomo and all the city skyline. The front desk is opened day and night and the staff it is able to help for whichever, in order to reserve the visits to the museums, the ticket train, the restaurant, the taxi or other necessity. The dogs small and big are accepted also. I suggest it to all those don't want to spend for a 5 stars hotel but want all the comforts. I suggest also to visit the magnificent ancient market forehead the hotel opened in the morning.  
+<Date>Mar 29, 2007
+<Rating>5	5	4	5	5	5	5	4	
+<Aspects>
+0	
+4	64(spend):1	103(star):1	452(suggest):1	702(comfort):1	
+0	
+33	0(staff):1	2(night):1	8(day):1	10(restaurant):1	23(little):1	31(front):1	36(desk):1	41(city):1	56(morning):1	65(visit):2	92(help):1	101(center):1	102(near):1	171(able):1	182(train):1	185(taxi):1	264(market):1	325(middle):1	366(step):1	452(suggest):1	506(reserve):1	507(museum):1	621(ticket):1	981(duomo):1	1126(dog):1	1247(accept):1	1405(magnificent):1	2311(historical):1	2984(necessity):1	3356(ancient):1	5107(signoria):1	8250(whichever):1	11052(trainstation):1	
+7	0(staff):1	3(clean):1	4(nice):1	6(breakfast):1	21(excellent):1	25(comfortable):1	45(beautiful):1	
+0	
+12	6(breakfast):1	18(book):1	41(city):1	45(beautiful):1	88(read):1	171(able):1	420(sun):1	636(roof):1	673(terrace):1	981(duomo):1	2526(skyline):1	4731(admire):1	
+0	
+
+<Author>NorthbrookGirls!!
+<Content>We left after 1 night!! Awful!! smellyblood on the sheetsmould on the wallscurtains didnt close, we held ours together with hair clipssheets on the walls covering holes in the plasterplugs coming off the wayscamp bedsrude/ creepy staffdisgusting breakfastdoors dont open properlytiny lift on 5th floor12am curfew, including adults (they lock the doors)hair in the shower Is this enough for you to decide whether to stay here??...  
+<Date>Feb 28, 2007
+<Rating>1	1	1	2	1	1	1	1	
+<Aspects>
+3	2(night):1	43(leave):1	736(awful):1	
+0	
+19	28(close):1	54(door):1	61(shower):1	71(include):1	183(wall):1	219(decide):1	503(dont):1	552(cover):1	556(adult):1	591(lift):1	593(hold):1	626(didnt):1	729(hair):2	774(lock):1	839(5th):1	843(ours):1	1218(hole):1	3499(creepy):1	9080(curfew):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>TutorSussex
+<Content>Do Not Stay Here!!!!! I took a group fo 30 students to this hotel. Staff were really rude and unfriendly. Each room was filthy, dingy and cramped. Some rooms had unsafe electric sockets and poor lighting. The paint effect on the walls was reminiscent of the toilet scene in the film 'train spotting'. All the rooms we stayed in had damp and mould patches on the walls which added to the unqiue aroma of this hotel.The tiny bathrooms were disgusting and the smell from the toilets made me retch! We stayed there for one night only, and checked ourselves out first thing in the moring and moved to another hotel!!!! Don't stay here if you have normal vision, sense of smell and don't appreciate rude staff.  
+<Date>Feb 24, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	2020(student):1	4923(fo):1	
+0	
+19	13(bathroom):1	157(light):1	183(wall):1	231(smell):1	330(toilet):1	331(poor):1	338(tiny):1	351(add):1	1080(cramp):1	1138(mold):1	1152(disgust):1	1320(filthy):1	1640(damp):1	1749(dingy):1	1890(unsafe):1	2246(electric):1	3518(patch):1	4040(socket):1	5356(aroma):1	
+9	182(train):1	183(wall):1	317(spot):1	330(toilet):1	806(paint):1	1588(scene):1	2191(effect):1	2345(film):1	5060(reminiscent):1	
+7	0(staff):1	231(smell):1	392(rude):1	500(appreciate):1	878(normal):1	1102(sense):1	6018(vision):1	
+7	0(staff):1	2(night):1	32(check):1	207(move):1	392(rude):1	767(ourselves):1	1487(unfriendly):1	
+0	
+0	
+
+<Author>Kiriel
+<Content>Handy location but kind of dodgy The hotel Derby has its positives. The bed was nice and firm, the location to the station and town was great. The double room was reasonably spacious. The bathroom was small but clean. The roof garden looked like it would be a nice spot in summer time. umm....what else....? the breakfast was ok - not great, but ok. The problems? The twin room was a single room with two beds crammed into it. The cramming meant that there was only a tiny corridor in which to move, and nowhere to put suitcases or selves. If you look at the photos of the rooms on their website, the 5th photo is a single room. If you remove the desk and put a single bed in its place, then stick a wardrobe between the end of the bed and the window then you get a perfect image of our room. The lights throughout the hotel (including the bedroom) were overdim, but I suspect that might have been to try and hide a rather poor attempt at artistic paintwork. The staff were reasonably friendly, however the advertised valet parking is actually a sort of handshake deal between the hotel management and a local garage. When I turned up, the price was 28 euro instead of the expected 20-25. I decided to go park on the street somewhere and discovered that in fact, because of the public holiday and Sunday, to park on the street was free, making the 28 euro even more of a ripoff. We tried to use the internet point on the first night and were told that it wasn't possible, as they had run out of log in cards. The next evening, as we returned to the hotel we mentioned we would want to use the internet. But when we came back they told us again that they had no cards, and that we would have to wait for another day; we were pretty unimpressed that they didn't tell us this when we first mentioned our wish to use it. Luckily there was an internet cafe nearby. The other minus is that the walls are very thin and without earplugs you might get to know your neighbours better than you would like. Would I stay there again? Maybe... as a cheap night in a useful location.  
+<Date>Jan 9, 2007
+<Rating>2	2	2	4	3	2	2	1	
+<Aspects>
+9	4(nice):1	5(time):1	20(look):1	170(else):1	310(garden):1	317(spot):1	636(roof):1	853(summer):1	12107(umm):1	
+9	1(location):1	2(night):1	19(price):1	62(expect):1	143(cheap):1	256(euro):1	308(maybe):1	353(instead):1	1232(useful):1	
+37	3(clean):1	11(bed):3	13(bathroom):1	20(look):1	36(desk):1	71(include):1	74(perfect):1	76(try):1	111(spacious):1	119(window):1	157(light):1	179(double):1	207(move):1	246(mean):1	262(website):1	268(bedroom):1	304(single):3	331(poor):1	338(tiny):1	445(throughout):1	578(reasonably):1	688(stick):1	690(twin):1	761(photo):2	839(5th):1	974(suitcase):1	1073(corridor):1	1119(attempt):1	1135(remove):1	1195(hide):1	1314(self):1	1451(wardrobe):1	1983(suspect):1	3152(cram):2	3371(image):1	6084(artistic):1	10355(paintwork):1	
+25	1(location):2	4(nice):1	11(bed):1	35(street):2	46(free):1	66(park):2	82(station):1	183(wall):1	219(decide):1	223(holiday):1	239(town):1	256(euro):1	379(public):1	458(positive):1	754(thin):1	755(handy):1	844(sunday):1	869(discover):1	934(neighbour):1	1368(firm):1	1771(earplugs):1	2064(minus):1	2539(dodgy):1	5719(ripoff):1	10190(derby):1	
+0	
+8	8(day):1	69(tell):2	85(wait):1	109(pretty):1	244(mention):1	292(card):1	384(wish):1	5296(unimpressed):1	
+18	0(staff):1	6(breakfast):1	12(friendly):1	66(park):1	97(internet):1	123(ok):2	140(deal):1	180(actually):1	195(local):1	232(nearby):1	275(cafe):1	457(valet):1	525(management):1	557(sort):1	578(reasonably):1	910(advertise):1	936(garage):1	1200(luckily):1	
+9	2(night):1	39(return):1	69(tell):1	97(internet):2	149(run):1	244(mention):1	253(tried):1	292(card):1	3437(log):1	
+
+<Author>travelgirl16
+<Content>Smelly and gross! This really small and dingy hotel is a dump. I'm not picky about hotels but I really had a problem with this one. The room I had smelled sooooo bad. I can't describe the odor, but it was so horrid that the first night I slept with the window open. The second night was cold so I suffered through a night sleep, waking up to gage several times from the stench. It was disgusting! Other negatives: The bed was actually a cot not a real bed. The bathroom smelled worse than the room. There was no hot water to take a shower. The breakfast consisted of cornflakes and stale croissants. And the night staff was very unpleasant, unhelpful, and truly annoyed that they had to deal with people, especially if you had a question. The morning staff was a bit better but not bymuch. You also have to be buzzed in after 7:00pm. When I checked-in in the evening I stood outside the gate waiting for about 5 minutes. The only positives: Good location (5 minute walke to Santa Maria Novella train station). The sheets appeared to be clean. Again, for the money, this hotel is not worth it. I'd highly suggest finding another place to stay.  
+<Date>Dec 4, 2006
+<Rating>2	1	1	4	3	2	1	-1	
+<Aspects>
+8	80(money):1	96(worth):1	138(highly):1	393(pm):1	452(suggest):1	926(picky):1	1152(disgust):1	2000(buzz):1	
+0	
+24	2(night):3	5(time):1	11(bed):2	13(bathroom):1	50(bad):2	57(water):1	61(shower):1	104(sleep):2	114(hot):1	119(window):1	180(actually):1	222(cold):1	231(smell):2	240(real):1	282(negative):1	554(wake):1	955(describe):1	1628(odor):1	1790(suffer):1	2491(cot):1	3823(stench):1	4070(sooooo):1	4509(horrid):1	9243(gauge):1	
+10	1(location):1	29(minute):1	82(station):1	182(train):1	458(positive):1	1449(dump):1	1510(santa):1	1749(dingy):1	1833(mare):1	3407(novella):1	
+5	3(clean):1	479(sheet):1	541(appear):1	1697(smelly):1	1797(gross):1	
+18	0(staff):2	2(night):1	26(people):1	29(minute):1	52(bit):1	56(morning):1	85(wait):1	98(outside):1	126(especially):1	140(deal):1	394(question):1	444(stand):1	476(truly):1	695(annoy):1	992(gate):1	1618(unhelpful):1	1747(unpleasant):1	5223(checked-in):1	
+5	6(breakfast):1	1004(croissant):1	1185(consist):1	2052(stale):1	6300(cornflake):1	
+0	
+
+<Author>libby18
+<Content>Excellent city-excellent staff-clean room! This was our first time in Florence and it certainly wont be our last.The city is spectacular, the people are genuinely friendly and it was made even more special by the great service we received from the staff at Hotel Derby.Granted the rooms are basic in decoration but at the end of the day it is a 2 star hotel! ( and after all its only a place to lay your head at night while you enjoy the sights of the city by day) It is unfair to say it is not clean as our room was cleaned, bedlinen changed and fresh towels and toilletries put in our room every day. The breakfast is continental and you have fresh croissants/breads every morning with coffee or tea and fresh orange juice and a choice of cereals.But by far the most noteable comment should be the staff. I do not think I have ever come across such friendly, welcoming and accomodating service than that which we received at Hotel Derby. We were even given a map when we checked in to show us where we were and where major tourist attractions were located. Even explaining and printing out train and bus schedules for travel out of town.Overall you get more than you pay for. The air conditioning, en-suite, value for money and brilliant staff will ensure that we will be back again soon to stay at this Little Gem!  
+<Date>Sep 29, 2006
+<Rating>4	4	3	4	4	5	5	4	
+<Aspects>
+3	5(time):1	346(florence):1	1820(wont):1	
+8	9(service):1	12(friendly):1	42(pay):1	70(overall):1	202(welcome):1	302(receive):1	549(accomodate):1	10190(derby):1	
+29	0(staff):1	2(night):1	3(clean):2	8(day):3	21(excellent):1	23(little):1	41(city):1	51(enjoy):1	80(money):1	81(value):1	103(star):1	125(towel):1	161(change):1	164(air):1	197(fresh):1	263(condition):1	319(head):1	352(basic):1	411(sight):1	418(soon):1	696(lay):1	793(brilliant):1	805(gem):1	1293(ensure):1	1580(decoration):1	1690(grant):1	3698(en-suite):1	4435(unfair):1	7262(bedlinen):1	
+13	32(check):1	68(travel):1	84(locate):1	120(bus):1	182(train):1	209(tourist):1	239(town):1	315(major):1	350(attraction):1	724(map):1	768(explain):1	1101(print):1	1196(schedule):1	
+0	
+11	0(staff):2	9(service):1	12(friendly):1	26(people):1	41(city):1	208(special):1	302(receive):1	356(comment):1	656(spectacular):1	1950(genuinely):1	10190(derby):1	
+10	6(breakfast):1	56(morning):1	90(coffee):1	107(choice):1	197(fresh):2	301(tea):1	362(juice):1	372(continental):1	529(cereal):1	1104(orange):1	
+0	
+
+<Author>JewelzBijou
+<Content>A Wonderful Experience My mother and I went to Hotel Derby in Florence after visiting family in Croatia. Not knowing anything about the transportation system in Italy, our arrival was some 5 hours earlier than check-in and we arrived exhausted, miserable and soaking wet from the downpour on the short walk from the train station. Upon arrival, Roberto immediately put us at ease and made us comfortable and was very friendly, informative and helpful for our 3 night stay.The room, although basic, was clean and comfortable. There was internet access by the front desk for a reasonable 5 EU per hour, available at any time, day or night. The breakfast was plentiful and our whole stay was so pleasant that we are already trying to plan our return trip.The location is great and there is a little pizza place directly across from the Hotel where the pasta (we enjoyed the tortellini) was done to perfection every time.Altogether a fantastic experience!  
+<Date>Sep 23, 2006
+<Rating>5	5	4	5	5	5	5	5	
+<Aspects>
+0	
+9	44(experience):2	48(wonderful):1	65(visit):1	86(fantastic):1	106(family):1	346(florence):1	1359(mother):1	3097(altogether):1	10190(derby):1	
+3	3(clean):1	25(comfortable):1	352(basic):1	
+24	1(location):1	5(time):1	7(walk):1	23(little):1	51(enjoy):1	53(arrive):1	60(hour):1	82(station):1	144(short):1	182(train):1	224(arrival):1	286(check-in):1	383(directly):1	518(system):1	678(pizza):1	728(transportation):1	900(italy):1	1032(wet):1	1143(pasta):1	1468(soak):1	1769(exhaust):1	2269(perfection):1	2332(miserable):1	7750(downpor):1	
+0	
+19	2(night):2	5(time):1	8(day):1	12(friendly):1	14(helpful):1	25(comfortable):1	31(front):1	36(desk):1	60(hour):1	97(internet):1	134(available):1	159(access):1	224(arrival):1	273(reasonable):1	489(immediately):1	1976(informative):1	2057(ease):1	4569(roberto):1	6966(eu):1	
+7	6(breakfast):1	33(trip):1	39(return):1	76(try):1	150(pleasant):1	221(plan):1	1039(plentiful):1	
+0	
+
+<Author>JH2863
+<Content>Not that bad This place is basic but clean and with a nice staff. Breakfast is ok. location is great  
+<Date>Aug 9, 2006
+<Rating>4	-1	3	5	4	5	5	3	
+<Aspects>
+0	
+0	
+0	
+1	1(location):1	
+5	0(staff):1	3(clean):1	4(nice):1	50(bad):1	352(basic):1	
+0	
+2	6(breakfast):1	123(ok):1	
+0	
+
+<Author>Utopia10
+<Content>Don't stay here This hotel was something else - Once you get up to the 'hotel' by the cramped lifts you'll notice a unique stench most commonly reserved for an Amsterdam Brothel - the place stinks and the rooms were even worse! The room was dirty - we found left over toenail clippings on the floor! The breakfast consisted of stale croissants and sour coffee - you're better off skipping and going down to a supermarket.Wouldn't recommend this place to anyone - Florence is a beautiful city - but the amount of tourists = really shabby hotels that try to make the most of the space. You know what - I recommend camping up by the Michaelangelo Piazza - the tents looked comfortable and the views magnificent!  
+<Date>Aug 4, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	15(recommend):1	17(view):1	20(look):1	25(comfortable):1	1405(magnificent):1	2087(camp):1	2116(piazza):1	4675(tent):1	7089(michaelangelo):1	
+0	
+24	15(recommend):1	24(floor):1	41(city):1	43(leave):1	45(beautiful):1	50(bad):1	76(try):1	170(else):1	209(tourist):1	210(space):1	323(dirty):1	346(florence):1	354(notice):1	361(amsterdam):1	506(reserve):1	591(lift):1	666(amount):1	1027(unique):1	1080(cramp):1	1319(shabby):1	1796(stink):1	3823(stench):1	8527(brothel):1	10116(commonly):1	
+0	
+0	
+0	
+8	6(breakfast):1	90(coffee):1	1004(croissant):1	1078(supermarket):1	1185(consist):1	1429(skip):1	2052(stale):1	3066(sour):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Hotel Dodgy These guys tried to rip us off - don't stay here as they're very dodgy! We arrived after a long trip down from Udine thinking how nice it would be to stay in our air conditioned room as it was the peak of summer.To no avail - apparently our room had drainage problems, so they had to move us into their other Hotel - the Hotel Colorado. Hotel Derby is a 2 star, Colorado is a 1 star. We paid for the 2 star and the guy at the counter didn;t even care to mention that we should be entitled to a refund, or a deduction in payment for being down graded. I had to argue numerous times with staff at both hotels and in the end had to talk to their owner over the phone - one guy was about to crack me over the head with the phone if it weren't for his colleague telling him to calm down.I don't understand - they tried to rip us off and when they got found out it was like they couldn't understand why I would be peeved off! Incredible. I still haven't got my refund as I have to go through Last Minute to get it - who by the way, aren't dodgy but are just as useless.I wouldn't recommend this place to anyone - the staff seem friendly, but they are dodgy dodgy dodgy.  
+<Date>Jul 13, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+10	29(minute):1	253(tried):2	368(guy):1	391(understand):2	718(incredible):1	1182(rip):2	1492(refund):1	2488(useless):1	2539(dodgy):3	4818(peeve):1	
+13	42(pay):1	103(star):3	242(care):1	244(mention):1	368(guy):1	1001(counter):1	1022(didn):1	1492(refund):1	2645(payment):1	2827(grade):1	3524(entitle):1	10190(derby):1	10768(colorado):1	
+12	4(nice):1	33(trip):1	53(arrive):1	164(air):1	207(move):1	263(condition):1	853(summer):1	863(apparently):1	1710(peak):1	3122(avail):1	6493(drainage):1	10768(colorado):1	
+0	
+0	
+16	0(staff):2	5(time):1	12(friendly):1	15(recommend):1	69(tell):1	296(phone):2	319(head):1	368(guy):1	371(talk):1	672(owner):1	971(numerous):1	1155(calm):1	1411(crack):1	1894(argue):1	1991(colleague):1	2539(dodgy):3	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>only stay if you get a great price            
+<Date>Jun 24, 2006
+<Rating>2	3	2	-1	2	-1	4	-1	
+<Aspects>
+0	
+1	19(price):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>skunzru
+<Content>Nice Location, friendly staff The hotel is located on the 5th floor and looks more like a old apartment building.The rooms and the bathroom are very tiny and there is hardly any space to move around (very noisy if you are facing the main road).Hotel staff is very friendly and made us feel at home by offering helpful tips etc. The breakfast is average. Location of this place is excellent and the duomo and the station are within 5 min walking distance. All in all, a very basic hotel but decent for a short stay because of the gr8 location and staff.  
+<Date>Apr 20, 2006
+<Rating>3	3	1	-1	3	-1	4	-1	
+<Aspects>
+0	
+0	
+18	0(staff):1	1(location):1	4(nice):1	12(friendly):1	13(bathroom):1	20(look):1	24(floor):1	84(locate):1	112(main):1	135(build):1	207(move):1	210(space):1	217(noisy):1	230(road):1	338(tiny):1	751(apartment):1	839(5th):1	985(hardly):1	
+11	0(staff):1	1(location):2	7(walk):1	21(excellent):1	82(station):1	115(distance):1	144(short):1	247(min):1	257(decent):1	352(basic):1	981(duomo):1	
+0	
+8	0(staff):1	12(friendly):1	14(helpful):1	34(feel):1	73(etc):1	89(offer):1	141(home):1	194(tip):1	
+2	6(breakfast):1	227(average):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Wonderful roof terrace views My husband and I went on a long weekend break and stayed at the Derby. I must confess that we absolutely loved it there! the staff were wonderfully helpful and Roberto couldn't do enough for us. He advised us about sightseeing (even providing maps!)the most economical places to eat and whatever we wanted to know,if he didn't know he would find out for us. The room was basic but we only wanted somewhere to rest and for the price we were more than happy.  
+<Date>Mar 1, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+14	17(view):1	40(love):1	47(eat):1	48(wonderful):1	105(husband):1	172(weekend):1	189(absolutely):1	228(break):1	636(roof):1	673(terrace):1	937(whatever):1	3423(economical):1	7028(confess):1	10190(derby):1	
+4	19(price):1	155(happy):1	288(rest):1	352(basic):1	
+0	
+4	153(provide):1	640(sight-see):1	663(advise):1	724(map):1	
+0	
+4	0(staff):1	14(helpful):1	1686(wonderfully):1	4569(roberto):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nightmare in Derby I am a farily objective person,but I missed the boat when booking our 5 night stay in Florence based on reviews from others. Maybe I am spoiled,but I tend to think that a person should not have to feel sick each and every time they walk into their room! I am not saying that the room was filthy ,but there was a distanct odor that I have never smelled before. It hit me every time we came back from our daily activities. The maids turned the air-conditioning off whenever they cleaned which made the smell even worse. The lift was a very small opening and was supposed to be non-smoking. Every time we used it there was smoke so bad,you smelled the rest of the day. We travelled Italy for 15 days and this was the worst hotel we dealt with. The desk clerk was very helpful,but other than that ,our stay was horrific. We will do better next tme. Florence is a nice city.  
+<Date>Oct 4, 2005
+<Rating>1	1	1	-1	2	-1	3	-1	
+<Aspects>
+12	4(nice):1	5(time):1	8(day):1	41(city):1	50(bad):1	68(travel):1	140(deal):1	346(florence):1	357(activity):1	360(daily):1	775(hit):1	900(italy):1	
+0	
+11	5(time):1	7(walk):1	34(feel):1	193(person):1	231(smell):1	308(maybe):1	654(sick):1	1053(tend):1	1221(spoil):1	1320(filthy):1	1628(odor):1	
+3	591(lift):1	620(suppose):1	978(nonsmoking):1	
+10	3(clean):1	5(time):1	8(day):1	50(bad):2	231(smell):2	288(rest):1	300(maid):1	468(smoke):1	1181(whenever):1	2284(air conditioning):1	
+4	14(helpful):1	36(desk):1	788(clerk):1	4332(horrific):1	
+11	2(night):1	18(book):1	37(review):1	193(person):1	276(miss):1	284(base):1	346(florence):1	674(boat):1	1534(nightmare):1	5303(objective):1	10190(derby):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>it wasn't the nightmare we thought I have red different comments about this hotel on the web, so me and my wife were a bit afraid of what we would have found at the arrival. Bad comments were absolutely unfounded, it is a basic hotel but absolutely quite, clean and comfortable. Location is unbeatable. Staff was really helpfull and breakfast was great.  
+<Date>Sep 1, 2005
+<Rating>4	4	3	-1	5	-1	4	-1	
+<Aspects>
+8	52(bit):1	184(wife):1	224(arrival):1	356(comment):1	590(red):1	1019(web):1	1534(nightmare):1	1544(afraid):1	
+0	
+0	
+2	1(location):1	2303(unbeatable):1	
+7	3(clean):1	25(comfortable):1	50(bad):1	189(absolutely):2	352(basic):1	356(comment):1	5399(unfounded):1	
+3	0(staff):1	6(breakfast):1	1478(helpfull):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Hotel Derby Florence Having read some adverse comments about this hotel on www.tripadvisor.com we had serious doubts about the facilities at this hotel. However we went anyway and found them to be unfounded. The rooms were clean and comfortable, if a little small. The room included an ensuit shower and bidet and was scrupulously clean. There was no trace of the smell of drains that had been reported. The drain from the shower was rather slow, however, easily controlled by careful use of the shower control. Beds were comfortable. Staff were helpful. Breakfast included croisants, bread rolls, Butter, various jams. Drinks dispenser for Coffee and Tea and Juices. There was no restriction on quantity consumed. The Hotel was very central for all city attractions. In my view excellent value for money at approx 拢50.00 per night for the room.  
+<Date>Jul 17, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	41(city):1	168(central):1	350(attraction):1	417(anyway):1	3310(consume):1	3560(quantity):1	5374(restriction):1	5399(unfounded):1	
+6	2(night):1	17(view):1	21(excellent):1	80(money):1	81(value):1	1423(approx):1	
+13	3(clean):2	11(bed):1	23(little):1	25(comfortable):2	61(shower):3	71(include):1	438(easily):1	455(slow):1	865(control):2	897(careful):1	1489(drain):1	2778(bidet):1	9221(scrupulously):1	
+8	88(read):1	211(facility):1	346(florence):1	356(comment):1	952(doubt):1	1469(serious):1	10190(derby):1	10954(adverse):1	
+4	231(smell):1	838(report):1	1489(drain):1	6305(trace):1	
+2	0(staff):1	14(helpful):1	
+13	6(breakfast):1	63(drink):1	71(include):1	90(coffee):1	301(tea):1	362(juice):1	497(bread):1	813(roll):1	823(various):1	1614(jam):1	2183(butter):1	3384(dispenser):1	12355(croisants):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nightmare at Hotel Derby My daughter and I booked a 7 day stay at the Hotel Derby, Florence Italy. What a mistake!!!! This hotel is horrible. It is gross, dirty and a man lurks in the shadows while you check in. The man at the front desk wanted us to leave our passports with him and he said he would return them in 20 minutes. I said I would wait. He said No, I will bring them to you in 20 minutes. I said, I will wait. He finally agreed and it took him 2 minutes to put our information in his books. So what was the 20 minutes all about. Anyway, we did not feel safe there. NO AIR CONDITIONING!!!! We paid our one night and immediately left.  
+<Date>Jun 28, 2005
+<Rating>1	1	1	-1	1	-1	-1	-1	
+<Aspects>
+7	29(minute):2	34(feel):1	137(safe):1	142(bring):1	417(anyway):1	544(horrible):1	895(mistake):1	
+4	2(night):1	42(pay):1	43(leave):1	489(immediately):1	
+2	164(air):1	263(condition):1	
+0	
+5	32(check):1	323(dirty):1	1797(gross):1	5633(shadow):1	7534(lurk):1	
+11	18(book):1	29(minute):2	31(front):1	36(desk):1	39(return):1	43(leave):1	85(wait):2	341(finally):1	473(agree):1	649(information):1	1975(passport):1	
+7	8(day):1	18(book):1	346(florence):1	467(daughter):1	900(italy):1	1534(nightmare):1	10190(derby):2	
+0	
+
+<Author>A TripAdvisor Member
+<Content>It's a dorm, not a hotel Don't be fooled by the pictures on the web, they show an apartment building. The so called hotel ocupies the fifth floor of that building. It's a dorm style hotel with no amenitiues. Rooms are so small you want be able to unpack or store your luggage. The only good thing is that you have a private bathroom and a fairly decent location, especially if you are travelling by train. It's a ten minute walk to the train staiton and a fifteen minute walk to the main attractions downtown. Also, there is a huge outdoor market and a grocery a couple of blocks away. We visited the hotel in late November. There was no air conditioning in our room and no way to control the room temperature. They have wall mounted radiators that barely prevent the room from freezing. The interior is depressing. The shower stall is so small that you might hurt yourself if you turn around. You would't want to spend a minute in your room. Don't ruin your vacation in an otherwise beautiful city. Spend a few more bucks and stay in a decent hotel.  
+<Date>Dec 12, 2004
+<Rating>1	1	1	-1	2	-1	1	-1	
+<Aspects>
+10	64(spend):1	65(visit):1	79(late):1	257(decent):1	326(style):1	999(november):1	1026(interior):1	1120(buck):1	2189(depress):1	3814(dorm):1	
+5	41(city):1	45(beautiful):1	131(vacation):1	508(otherwise):1	1243(ruin):1	
+37	1(location):1	13(bathroom):1	24(floor):1	29(minute):1	61(shower):1	64(spend):1	67(call):1	68(travel):1	126(especially):1	135(build):2	164(air):1	171(able):1	182(train):1	183(wall):1	249(luggage):1	255(store):1	257(decent):1	263(condition):1	456(picture):1	462(fairly):1	492(private):1	576(yourself):1	751(apartment):1	865(control):1	944(temperature):1	1019(web):1	1020(barely):1	1321(freeze):1	1701(stall):1	1832(fifth):1	2098(fool):1	2179(unpack):1	2320(hurt):1	2352(prevent):1	2794(mount):1	3814(dorm):1	3830(radiator):1	
+13	7(walk):2	29(minute):2	99(couple):1	100(bloc):1	112(main):1	133(huge):1	182(train):1	264(market):1	334(downtown):1	350(attraction):1	901(outdoor):1	1199(grocery):1	4856(fifteen):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nothing like the smell of sewer gas in the morning!! The hotel Derby offers an interesting feature that no other hotel has, the smell of sewer gas permeating from the bathroom. When the hotel staff was asked about it, they said we will fix it. Meanwhile 20 mins later, we asked again because the smell was so bad we could not take a shower. They poured a substance down the drains that was able to hold off the smell for an entire 30 mins. Other charming features include the scary entrance to the hotel and the entirely too small elevator that feels like it will break at any moment. All in all the worst hotel experience this traveler has ever had!!  
+<Date>Nov 11, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+3	44(experience):1	50(bad):1	267(traveler):1	
+13	13(bathroom):1	50(bad):1	61(shower):1	79(late):1	89(offer):1	231(smell):2	247(min):1	731(feature):1	2632(gas):1	3882(sewer):1	5247(permeate):1	5398(meanwhile):1	10190(derby):1	
+0	
+11	56(morning):1	171(able):1	231(smell):2	247(min):1	329(entire):1	593(hold):1	1489(drain):1	1764(pour):1	2632(gas):1	3882(sewer):1	4309(substance):1	
+2	0(staff):1	494(fix):1	
+10	34(feel):1	71(include):1	216(elevator):1	228(break):1	332(charm):1	490(entrance):1	670(moment):1	731(feature):1	1566(scary):1	2069(entirely):1	
+0	
+
+<Author>shagra
+<Content>Friendly staff, hard to find. We have just returned from a jaunt through italy and spain. We booked the hotel via the internet. This always add to the intrigue of not knowing what you will find when you arrive at your hotel, until you get there. It proved a bit of a dilemna trying to find this hotel as it is located on the fifth floor, so didn't have a door as such, signed by just a plaque on the wall(!) The hotel is reached by a lift big enough for three people, or as we found one person and the luggage. The other two taking the short straw and taking the stairs.When we got the the reception desk we found the staff very welcoming and soon had us checked in and showed us to our room. The room booked was a triple room and we found it to be very small but clean. The bedding and laundry were clean and the minor problem we had with the shower was resolved the same day it was highlighted. The continental breakfast was always fresh and plentiful if basic.The hotel has a roof terrace and from here you can see the rooftops of florence, the bassilica and the alternate view of the mountains in the distance.  
+<Date>Nov 11, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+15	17(view):1	39(return):1	53(arrive):1	115(distance):1	346(florence):1	351(add):1	636(roof):1	673(terrace):1	900(italy):1	1509(mountain):1	1636(spain):1	3622(alternate):1	3772(rooftops):1	6048(intrigue):1	6596(jaunt):1	
+0	
+13	3(clean):2	8(day):1	11(bed):1	18(book):1	61(shower):1	144(short):1	568(stair):1	720(minor):1	1075(laundry):1	1141(highlight):1	1553(triple):1	1715(resolve):1	3393(straw):1	
+10	24(floor):1	52(bit):1	54(door):1	76(try):1	84(locate):1	183(wall):1	449(sign):1	1554(prove):1	1832(fifth):1	8877(plaque):1	
+0	
+8	0(staff):2	12(friendly):1	32(check):1	36(desk):1	129(reception):1	162(hard):1	202(welcome):1	418(soon):1	
+13	6(breakfast):1	18(book):1	26(people):1	97(internet):1	193(person):1	197(fresh):1	249(luggage):1	352(basic):1	372(continental):1	512(via):1	591(lift):1	851(reach):1	1039(plentiful):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good staff and location but very poor drainage My wife and I spent a night in this hotel in mid-May 2004. The location was good and the staffs were all helpful. The room was very small however. The most terrible thing was the bathroom drainage that failed to work at all. So when we bathed both the bathroom and indeed the whole room was flooded.   
+<Date>May 27, 2004
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+7	13(bathroom):2	432(terrible):1	990(indeed):1	1576(fail):1	1896(bathe):1	1927(flood):1	6493(drainage):1	
+9	0(staff):2	1(location):2	2(night):1	14(helpful):1	64(spend):1	184(wife):1	331(poor):1	6493(drainage):1	9064(mid-may):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A romantica adventure in Florence Me and my friend Tatiana spent an entire week in Florence at Hotel Derby. We were amazed by the beauty of the city and its art, but absolutely unable to find a place to spend a cool night, so we decided to ask to Roberto, who's warm welcome made us feel home. Roberto suggested us several places telling particularity of each one. Thanks to him and to all the hotel staff we had a wonderfull nice stay and I have known Stefano, but this is another story......  
+<Date>Dec 12, 2003
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+23	2(night):1	34(feel):1	41(city):1	64(spend):2	69(tell):1	75(week):1	141(home):1	145(amaze):1	146(friend):1	189(absolutely):1	202(welcome):1	219(decide):1	236(warm):1	278(cool):1	329(entire):1	346(florence):2	452(suggest):1	789(art):1	1461(unable):1	1595(beauty):1	1861(adventure):1	4569(roberto):2	10190(derby):1	
+0	
+0	
+0	
+0	
+6	0(staff):1	4(nice):1	271(thank):1	906(story):1	2901(wonderfull):1	10888(stefano):1	
+0	
+0	
+

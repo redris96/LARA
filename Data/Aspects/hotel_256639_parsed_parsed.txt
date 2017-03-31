@@ -1,0 +1,784 @@
+<Author>MrSamuels
+<Content>Great hotel, and did me a great favour I have to tell you this. I stumbled across the Stamford when I needed a room in Sydney on short notice a few months ago. Accidentally got booked on the third floor which has its own luxurious central lounge. Loved it.Next stay in Sydney, I naturally booked at the Stamford, third floor. Loved it. They even let a business colleague come in for a breakfast meeting in the third floor lounge at a nominal charge. How classy did I feel !!Today, I needed to hold a one hour meeting in Sydney with two lawyers. I don't have an office there, so I called the Stamford and explained that I had stayed with them a couple of times and maybe could they let me use the third floor lounge for a small meeting. They were fantastic. I would happily have paid a couple of hundred bucks for such a nice venue for an hour. Because I was a returning guest, they let me use it for the price of the coffee we drank.Now, I don't want to imply that you can stay at the Stamford and then be assured free facilities on business trips. But I do have to say that they were friendly, flexible, accomodating and made me proud that I have become a regular in such a short time. As if I'd consider staying elsewhere after this great experience.  
+<Date>Dec 23, 2008
+<Rating>5	5	4	5	5	5	5	4	
+<Aspects>
+11	34(feel):1	40(love):2	60(hour):1	69(tell):1	86(fantastic):1	196(meet):1	593(hold):1	809(sydney):1	1488(classy):1	1521(favor):1	10916(lawyer):1	
+18	4(nice):1	5(time):1	12(friendly):1	42(pay):1	44(experience):1	60(hour):1	99(couple):1	144(short):1	248(consider):1	549(accomodate):1	646(elsewhere):1	744(regular):1	1120(buck):1	1642(happily):1	2190(venue):1	2206(hundred):1	3346(proud):1	3915(flexible):1	
+19	5(time):1	18(book):1	24(floor):2	67(call):1	99(couple):1	144(short):1	196(meet):1	237(lounge):1	308(maybe):1	354(notice):1	388(month):1	532(third):2	633(ago):1	768(explain):1	792(office):1	809(sydney):2	3012(stumble):1	3710(naturally):1	5133(stamford):3	
+7	33(trip):1	46(free):1	147(business):1	211(facility):1	1349(assure):1	4594(imply):1	5133(stamford):1	
+0	
+0	
+19	6(breakfast):1	18(book):1	19(price):1	24(floor):2	39(return):1	63(drink):1	90(coffee):1	91(guest):1	136(charge):1	147(business):1	166(own):1	168(central):1	196(meet):1	237(lounge):2	532(third):2	708(luxurious):1	1991(colleague):1	3972(accidentally):1	6266(nominal):1	
+0	
+
+<Author>ghanno
+<Content>Old world charm LOCATION: The hotel is not that close to the shopping part of the CBD. Rather, it is at East Circular Quay which is near the Opera House, Domain and Museum of Contemporary Art (MCA). It would be about a ten minute walk to Hyde Park, which is closer to the very centre. ROOM: We stayed in a standard room with a queen size bed which was very comfortable. The interior decoration of the room reflects the 鈥榦ld world charm鈥?of the entire hotel. As such, it can look a little tired. Our room also had a very small balcony which looked out onto the buildings next door which was quite nice. There is a TV although it isn鈥檛 flat screen and there are not as many channels available but there are movies on-demand, including several recent releases. The marble bathroom is quite spacious and they provide products such as shampoo, conditioner, moisturiser, body gel and soaps. One of the wonderful things about this hotel is that they provided bathrobes and slippers 鈥?something that鈥檚 not found at every hotel. There is in-room broadband internet access if you have your own computer but it鈥檚 only possible to purchase it at a cost of $29 for a 24-hour period. SERVICE: When we arrived at 11.30am, our room was already ready. The concierge at the hotel was particularly helpful and everyone was generally really friendly. I was impressed with the prompt, efficient and polite service. AMENITIES: There is a very small gym on the fifth floor (which is hard to find) and the equipment is not very modern at all. There is also a sauna and an outdoor swimming pool with a quaint little courtyard area. IN-ROOM DINING: The meal we ordered arrived within 16 minutes which was quite prompt and the food was of generally good quality. The menu is also somewhat more affordable than most other five star hotels in Sydney.  
+<Date>Dec 21, 2008
+<Rating>4	4	3	3	5	5	5	3	
+<Aspects>
+7	20(look):1	23(little):1	48(wonderful):1	153(provide):1	454(tire):1	1306(slipper):1	1529(bathrobe):1	
+13	16(food):1	29(minute):1	53(arrive):1	103(star):1	187(quality):1	213(meal):1	316(dine):1	423(menu):1	651(somewhat):1	809(sydney):1	1062(affordable):1	1208(prompt):1	1301(in-room):1	
+54	4(nice):1	9(service):1	11(bed):1	13(bathroom):1	20(look):1	22(pool):1	23(little):1	24(floor):1	25(comfortable):1	53(arrive):1	54(door):1	71(include):1	83(size):1	111(spacious):1	116(tv):1	130(standard):1	134(available):1	151(modern):1	153(provide):1	162(hard):1	191(balcony):1	261(swim):1	272(world):1	274(ready):1	291(amenity):1	329(entire):1	332(charm):1	435(courtyard):1	523(gym):1	526(screen):1	535(flat):1	543(Queen):1	705(marble):1	741(channel):1	745(building):1	901(outdoor):1	965(soap):1	989(movie):1	1026(interior):1	1051(shampoo):1	1064(recent):1	1081(product):1	1083(conditioner):1	1211(equipment):1	1295(quaint):1	1352(body):1	1422(sauna):1	1580(decoration):1	1832(fifth):1	2250(reflect):1	2415(gel):1	3205(isn):1	4961(release):1	9923(moisturizer):1	
+20	1(location):1	7(walk):1	28(close):2	29(minute):1	49(shop):1	66(park):1	101(center):1	102(near):1	272(world):1	281(house):1	332(charm):1	507(museum):1	789(art):1	948(east):1	1374(opera):1	1475(contemporary):1	1664(quay):1	1912(circular):1	2731(cbd):1	2816(hyde):1	
+0	
+4	12(friendly):1	14(helpful):1	204(concierge):1	553(particularly):1	
+5	9(service):1	343(impress):1	401(efficient):1	422(polite):1	1208(prompt):1	
+10	97(internet):1	159(access):1	166(own):1	175(cost):1	555(computer):1	887(purchase):1	1301(in-room):1	1331(period):1	2825(broadband):1	3743(24-hour):1	
+
+<Author>ShropshireSkiers
+<Content>Graceful hotel       Sitting room  
+<Date>Dec 19, 2008
+<Rating>5	4	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+2	169(sit):1	11459(graceful):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Marfak
+<Content>Exactly What We Wanted: The Grey Lady on Circular Quay       Entrance to the Hotel  
+<Date>Dec 4, 2008
+<Rating>4	5	5	5	5	4	5	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+6	490(entrance):1	521(lady):1	586(exactly):1	1664(quay):1	1912(circular):1	2335(grey):1	
+0	
+0	
+
+<Author>lanzainsight
+<Content>Recommended hotel and excellent concierge Stayed at this hotel for a 10 night stay in September, due to my daughter getting married in Sydney.Arrived early evening with daughter and now son-in-law in tow, check-in went smoothly and we spent a couple of hours in the bar catching up. Hotel bar quite dark, but felt comfortable and sophisticated. The hotel room was large with plenty of sitting area, also a very large bathroom with separate shower. We enjoyed the view over the Botanical Gardens and views of harbour and the busy roads in front didn't disturb us. We were visited by cockatoos and watched the Ibis nesting in the trees opposite from our small balcony. We found the concierge staff excellent and they helped us book a show, find our way around and were excellent pleasant and helpful, especially when we were leaving and trying to find our way out of Sydney. All staff, especially at front desk area were friendly and pleasant.We liked the old style of the hotel, it didn't feel like just another box. The public areas weren't enormous but were elegant and comfortable. The hotel swimming pool isn't very big nor is the patio area around it but few people seemed to use this facility as there is just so much to do and see in Sydney. Breakfasts in the main dining room were more than adequate but the chef did seem to have some problems with the concept of 'over easy' fried eggs but I mostly had the wonderful omelettes that they could whip up. We thought the breakfasts were quite good and generally the service, although perhaps not experienced as could have been, were friendly and helpful. Only one day did one of the restaurant manager(s) try to rush out and close down the buffet rather promptly. The bar food was quite good too.Overall all an excellent stay and we appreciated the chocolate dipped strawberries left in our room the first evening. Room cleaned by the invisible maids, although a turn down service not offered, it didn't bother us in the slightest. We didn't use the internet so can't comment on this aspect. Highly recommend front desk and concierge. Perhaps the only down side was although in a very central location near circular quay, the walk up and down the street which leads to quay is very steep and so not good for someone with walking difficulties. Would we stay again, well if we ever make it to wonderful australia again and sydney, the answer is a definite yes.  
+<Date>Nov 16, 2008
+<Rating>4	-1	4	4	4	5	5	-1	
+<Aspects>
+13	25(comfortable):1	34(feel):1	48(wonderful):1	250(yes):1	326(style):1	379(public):1	669(answer):1	809(sydney):1	945(box):1	986(elegant):1	1530(australia):1	1625(enormous):1	2369(definite):1	
+0	
+19	3(clean):1	9(service):1	13(bathroom):1	21(excellent):1	43(leave):1	61(shower):1	70(overall):1	89(offer):1	158(plenty):1	169(sit):1	300(maid):1	307(bother):1	474(separate):1	500(appreciate):1	632(chocolate):1	1297(slight):1	2272(dip):1	2276(strawberry):1	6378(invisible):1	
+26	1(location):1	7(walk):2	17(view):2	31(front):1	35(street):1	51(enjoy):1	65(visit):1	102(near):1	168(central):1	191(balcony):1	220(busy):1	230(road):1	245(watch):1	310(garden):1	561(harbor):1	783(opposite):1	828(tree):1	922(lead):1	1060(steep):1	1067(disturb):1	1664(quay):2	1777(difficulty):1	1912(circular):1	3757(ibis):1	4278(botanical):1	5748(nest):1	
+0	
+31	0(staff):2	2(night):1	12(friendly):1	14(helpful):1	15(recommend):2	18(book):1	21(excellent):3	27(bar):1	31(front):2	36(desk):2	43(leave):1	53(arrive):1	60(hour):1	64(spend):1	76(try):1	92(help):1	99(couple):1	126(especially):2	138(highly):1	150(pleasant):2	204(concierge):3	259(due):1	286(check-in):1	467(daughter):2	540(catch):1	809(sydney):2	972(september):1	1743(married):1	2267(smoothly):1	3574(tow):1	9659(son-in-law):1	
+37	6(breakfast):2	8(day):1	9(service):1	10(restaurant):1	12(friendly):1	14(helpful):1	16(food):1	22(pool):1	25(comfortable):1	26(people):1	27(bar):2	28(close):1	34(feel):1	44(experience):1	48(wonderful):1	76(try):1	77(buffet):1	93(easy):1	112(main):1	211(facility):1	258(manager):1	261(swim):1	316(dine):1	390(adequate):1	412(egg):1	459(dark):1	809(sydney):1	970(nor):1	973(patio):1	1009(fry):1	1212(promptly):1	1244(rush):1	1361(chef):1	2172(omelette):1	2354(concept):1	3165(sophisticated):1	6248(whip):1	
+3	97(internet):1	356(comment):1	1255(aspect):1	
+
+<Author>katesjourneys
+<Content>The place to stay in Sydney       Lobby  
+<Date>Nov 11, 2008
+<Rating>5	4	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+2	55(lobby):1	809(sydney):1	
+0	
+
+<Author>psq063
+<Content>Loved Our Stay! We recently stayed at the Sir Stamford for three nights and took the Quay lounge package.Our whole experience was absolutely fantastic and I would not hesitate in returning.We booked a package which included a room on the quay floor with access to the quay lounge and the extras that come with it and we were not disappointed.The hotel is of yesteryear in style but not dated and not worn. The carpets in the rooms are fresh and the decor clean. The feel of the hotel is intimate and welcoming- you don't feel like just another numberThe hotel is right across from the gardens, a minute or so to the Opera House and coming out of the hotel turn right, gown down the hill and you're in Circular Quay ready to catch a ferry.Valet parking was a breeze and the helpful staff showed us the facilities of our room upon check in. The room was large with an enormous bathroom- the shower with it;'s own light (only down point of the whole room was a tiny shelf in the shower) double sinks, seperate toilet (ability to shut its door) and bath,Balcony overlooking the back or Circular Quay- double doors- Bliss!The bed was comfortable and we had a pillow menu to choose from.We took advantage of the free pre dinner drinks and canapes in the quay lounge and enjoyed both. Staff members were in attendance but kept their distance enough so we were comfortable.Breakfast was served in the Quay lounge- tables set with white linen, china and cutlery. An attending staff member (who was just lovely) bought out breakfast plates for us featuring fresh juices, fruit salad and cheese or quiche or other delights. We were able to self serve coffee, tea, juice, toast and pastries from the side buffets of the lounge. Then were able to order cooked breakfast (or cereals) from the menu.The best part about this was meals arrived piping hot- as opposed to normal hotel buffets. We dined in the bar one night which has lovely old world charm. The wedges with sweet chilli sauce, guacamole and sour cream were delicious are were the fries and aioli. The cocktails were delicious too.The concierge got us a booking at an acclaimed (though disappointing) restaurant at last minute. The staff were all generally welcoming and kind- each greeting us as we entered and left the hotel.Getting a taxi, or our car from valet never took too long.Our room keys stopped working in the lift twice but the issue was quickly attended to by staff. Our only slightly disappointing experience was breakfast on our last day- a Saturday. We had a different staff member attending who was constantly sniffing throughout our breakfast and who was quite noisy getting cutlery and plates out for other guests (or was she putting them away? not sure) It just hindered the relaxing breakfast experience slightly with clanging and sniffing!I would not hesitate in recommending the hotel- and would definitely take advantage of the quay lounge facilities again.  
+<Date>Oct 31, 2008
+<Rating>5	4	4	5	5	4	5	3	
+<Aspects>
+14	40(love):1	326(style):1	434(wear):1	485(delicious):2	511(date):1	716(cocktail):1	950(sweet):1	1009(fry):1	1188(cream):1	2133(sauce):1	3066(sour):1	4363(chilli):1	6016(wedge):1	7762(guacamole):1	
+14	6(breakfast):2	8(day):1	39(return):1	44(experience):3	86(fantastic):1	154(disappoint):1	160(relax):1	189(absolutely):1	598(slightly):2	818(saturday):1	902(hesitate):1	7180(clang):1	10188(hinder):1	10695(sniff):1	
+57	0(staff):1	3(clean):1	11(bed):1	13(bathroom):1	18(book):1	24(floor):1	25(comfortable):1	29(minute):1	34(feel):2	54(door):2	61(shower):2	71(include):1	122(stop):1	128(extra):1	154(disappoint):1	157(light):1	159(access):1	166(own):1	167(choose):1	179(double):2	191(balcony):1	197(fresh):1	202(welcome):1	226(bath):1	237(lounge):1	260(overlook):1	265(issue):1	269(decor):1	274(ready):1	281(house):1	303(pillow):1	310(garden):1	330(toilet):1	338(tiny):1	339(key):1	347(twice):1	396(carpet):1	423(menu):1	471(quickly):1	509(sink):1	527(package):1	540(catch):1	591(lift):1	756(hill):1	826(attend):1	1010(ferry):1	1086(shut):1	1374(opera):1	1416(seperate):1	1484(shelf):1	1625(enormous):1	1664(quay):4	1812(intimate):1	1912(circular):2	2753(ability):1	2982(bliss):1	4592(gown):1	
+9	0(staff):1	14(helpful):1	32(check):1	66(park):1	121(car):1	185(taxi):1	211(facility):1	457(valet):2	799(breeze):1	
+0	
+17	0(staff):3	6(breakfast):1	25(comfortable):1	43(leave):1	91(guest):1	115(distance):1	202(welcome):1	217(noisy):1	415(greet):1	445(throughout):1	601(enter):1	826(attend):1	995(constantly):1	1002(plate):1	3182(cutlery):1	8043(attendance):1	10695(sniff):1	
+65	0(staff):1	2(night):2	6(breakfast):3	10(restaurant):1	15(recommend):1	18(book):1	27(bar):1	29(minute):1	46(free):1	51(enjoy):1	53(arrive):1	59(definitely):1	63(drink):1	77(buffet):2	87(lovely):2	90(coffee):1	114(hot):1	117(dinner):1	154(disappoint):1	171(able):2	174(serve):2	197(fresh):1	204(concierge):1	211(facility):1	213(meal):1	215(fruit):1	229(table):1	234(set):1	237(lounge):5	272(world):1	280(buy):1	301(tea):1	316(dine):1	322(recently):1	332(charm):1	362(juice):2	423(menu):1	441(cheese):1	466(white):1	527(package):1	529(cereal):1	550(cook):1	630(linen):1	652(pastry):1	731(feature):1	826(attend):1	867(advantage):2	875(toast):1	878(normal):1	902(hesitate):1	909(salad):1	1002(plate):1	1025(delight):1	1159(china):1	1314(self):1	1664(quay):4	2067(pipe):1	2401(oppose):1	2422(pre):1	3182(cutlery):1	3376(sir):1	4388(canape):1	5133(stamford):1	5986(quiche):1	11250(acclaim):1	
+0	
+
+<Author>Berkshire_UK
+<Content>Great location Stayed at the Sir Stamford, as I was attending a two day conference in the hotel itself. I was there with my wife and a business colleague and his wife.The location of the hotel (as other reviews have said) is outstanding. You are across the street from the Botanic Gardens and 2 mins from the Opera House and the ferries at Circular Quay.Our room was on floor 4 and was very large, with a double bed and large sitting area. The room was very clean and maintained to a good standard. Although we had a very small balcony the view was of other buildings rather than the sights, but not a problem. There is a small outdoor pool and sitting are on the 5th floor, which my wife used on one occasion. Minor moan was that internet access was $99 for one week (I think $25 per day) ....this should be free in this day and age!The conference facilities are downstairs and ideal for what we were using them for.As our flight from the UK arrived at 5am, we requested a very early checkin. My colleague's room was available as we checked-in and ours was ready within about one hour, so well done to the hotel for sorting that out at no extra charge. The concierge was very helpful and arranged taxis etc. The day we left was the day of the Sydney Marathon; the runners running past the hotel, but despite that the concierge had it all in hand and had contingency arrangements in case the taxi couldn't get down the street. Well done !Breakfasts were of a high quality, with a buffet and a la carte for more specialised stuff. Used the large bar area on a couple of occasions, but the decor was very dark, so wasn't all that inviting. This was a minor comment and shouldn't detract from the overall quality of the hotel.One final comment....the conference food (lunch) was excellent with a large buffet with lots of choices, including a never ending supply of large prawns and seafood.I would definitely stay here again and prefer this location to Darling Harbour which is full of skyscraper hotels a nice, but touristy, area of Sydney.  
+<Date>Sep 28, 2008
+<Rating>5	5	5	5	5	5	5	2	
+<Aspects>
+0	
+5	70(overall):1	187(quality):1	356(comment):1	720(minor):1	3750(detract):1	
+18	11(bed):1	17(view):1	22(pool):1	24(floor):2	27(bar):1	99(couple):1	169(sit):2	179(double):1	184(wife):1	191(balcony):1	269(decor):1	411(sight):1	459(dark):1	745(building):1	839(5th):1	871(occasion):2	901(outdoor):1	1210(invite):1	
+44	1(location):3	4(nice):1	8(day):3	14(helpful):1	35(street):2	37(review):1	43(leave):1	59(definitely):1	73(etc):1	147(business):1	149(run):1	184(wife):2	185(taxi):2	204(concierge):2	211(facility):1	247(min):1	281(house):1	310(garden):1	377(hand):1	419(past):1	498(despite):1	534(outstanding):1	536(prefer):1	545(ideal):1	561(harbor):1	680(arrange):1	691(downstairs):1	794(conference):2	809(sydney):2	826(attend):1	1010(ferry):1	1374(opera):1	1415(arrangement):1	1470(touristy):1	1664(quay):1	1681(darling):1	1912(circular):1	1991(colleague):1	2841(runner):1	3376(sir):1	3779(marathon):1	4476(skyscraper):1	5133(stamford):1	7155(botanic):1	
+3	3(clean):1	130(standard):1	562(maintain):1	
+15	53(arrive):1	60(hour):1	128(extra):1	134(available):1	136(charge):1	148(request):1	233(flight):1	274(ready):1	557(sort):1	843(ours):1	1178(uk):1	1818(checkin):1	1991(colleague):1	5223(checked-in):1	9113(5am):1	
+19	6(breakfast):1	16(food):1	21(excellent):1	38(lot):1	71(include):1	77(buffet):2	107(choice):1	187(quality):1	225(la):1	252(lunch):1	356(comment):1	480(stuff):1	681(carte):1	794(conference):1	815(seafood):1	859(supply):1	1337(final):1	5258(prawn):1	6693(specialise):1	
+8	8(day):2	46(free):1	75(week):1	97(internet):1	159(access):1	505(age):1	720(minor):1	3644(moan):1	
+
+<Author>Ria_UK
+<Content>Ok. I stayed in July  paid $180 service was good, room was huge but it annoyed me that there wasn't a plug for my laptop near the bed or that to use the iron you ended up standing in the most awkward position  the water pressure was pretty rubbish. I also noted that there was a used shower cap on the back of the bathroom door that was there for my entire stay but otherwise it was clean.However it was perfectly adequate if not instantly forgettable but vastly better than other places I've stayed for more money. Yes I would stay there again.  
+<Date>Aug 2, 2008
+<Rating>3	4	4	5	3	3	3	2	
+<Aspects>
+8	80(money):1	123(ok):1	250(yes):1	390(adequate):1	595(perfectly):1	3181(instantly):1	5991(vastly):1	8578(forgettable):1	
+0	
+24	3(clean):1	9(service):1	11(bed):1	13(bathroom):1	42(pay):1	54(door):1	57(water):1	61(shower):1	102(near):1	109(pretty):1	133(huge):1	297(note):1	329(entire):1	444(stand):1	508(otherwise):1	686(pressure):1	695(annoy):1	868(iron):1	1093(position):1	1111(laptop):1	1174(plug):1	2270(cap):1	2664(rubbish):1	2906(awkward):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Luv2travel009
+<Content>Closest and Best Hotel to Opera House For service, comfort, location, and amenities, this is one of the best hotels we've stayed in. Two short blocks to the Opera House. Full concierge service which was absolutely fantastic. Older hotel with upgraded rooms. Part of a small SE Asia chain named after the Sir Stamford Raffles of Singapore fame. Superb on-site dining, as well as an upscale classic mahogany fixtured English club bar.Stay out of touristy Darling Harbor. This place is only a down hill short walk to the the ferries and tour buses which will get your anywhere you want to go in the Sydney area.Can't recommend more highly!!!  
+<Date>Jun 16, 2008
+<Rating>5	4	5	5	5	5	5	3	
+<Aspects>
+2	15(recommend):1	138(highly):1	
+0	
+5	100(bloc):1	144(short):1	163(upgrade):1	281(house):1	1374(opera):1	
+26	1(location):1	7(walk):1	9(service):1	28(close):1	120(bus):1	144(short):1	181(tour):1	281(house):1	291(amenity):1	295(name):1	561(harbor):1	627(chain):1	702(comfort):1	756(hill):1	809(sydney):1	960(singapore):1	1010(ferry):1	1374(opera):1	1470(touristy):1	1681(darling):1	2108(asia):1	2456(raffle):1	3137(fame):1	3376(sir):1	4342(se):1	5133(stamford):1	
+0	
+4	9(service):1	86(fantastic):1	189(absolutely):1	204(concierge):1	
+10	27(bar):1	152(english):1	212(club):1	316(dine):1	407(superb):1	1237(upscale):1	1541(fixture):1	1789(classic):1	2484(on-site):1	9272(mahogany):1	
+0	
+
+<Author>bonjovirock
+<Content>Perfect for our requirements at NYE       Separate shower  
+<Date>May 12, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+0	
+0	
+5	61(shower):1	74(perfect):1	474(separate):1	2642(requirement):1	8162(nye):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>JohnEO
+<Content>Superb, old world hotel in excellent location; splendid staff This is a superb, elegant, oldy world hotel at a great location at Circular Quay, near to the Rocks. Expensive but value for money given the quality and location of this hotel. We booked online and got a good deal.Right from the friendly welcome from the staff on arrival, we had a great 2-day whistle-stop stay. Check-in was a breeze. Our heavy luggage was whisked up to our deluxe room by a friendly, customer-oriented (elderly) bellman who delighted in showing us all the 7th floor room鈥檚 facilities down to the splendid view of the harbour (and opera house), and the handy golf-size umbrella in the cupboard. The room was spacious with a lounge settee and chair, desk, broadband, and a large bathroom with two basins and appointed in Carrera marble. The bed was comfortable, large, and not too soft. Every time we passed a staff member, we received a friendly smile and solicitation. Even arranged late evening room cleaning while we went to dinner, after we forgot to take off the 鈥淒o Not Disturb鈥?sign on the door!We did not try the elegant restaurant for dinner 鈥?but breakfast offered good, wholesome, hot and cold food with a wide variety of choices, including good back bacon (not the cheap streaky/fatty stuff offered by US hotels). We also did not have time to use the swimming pool.In the 2 days we spent there, we visited the New South Wales Parliament (personalized tour, even though they had just closed!), the Barracks Museum (showing convict archaeology and history), St Mary鈥檚 Cathedral, and the outside of the Opera House (really one of the greatest twentieth century buildings in the world!) Had dinner outside at the East China restaurant on the Quay with a great view of the bridge at sunset. (Some of the best Chinese food we鈥檝e had + a good wine list.) Second day (Good Friday) was overcast and cooler; we visited the grounds of Government House (the House was closed) and then did the tour of the Opera House (a must) and the ferry to Manly, enjoying great views of the Bridge and the Opera House on the way (Get a seat at the stern.) Manly is a favourite short-range destination for Sydney folks on holidays. At Manly, we visited Oceanworld to see the sharks and other exotic fish in a glass tunnel. Despite fearing it would be cheesy, it was a real eye opener, and not at all cheesy. (You can even don a diving suit and check out the fish on a more personal basis. We were told the sharks didn鈥檛 bite, but didn鈥檛 want to take the risk!) Back to Sydney, then spent a couple of hours just walking up and down George Street and around the Rocks. Wonderful.When you check out, do check your bill carefully to ensure you are not charged for the inclusive breakfast and broadband, if it鈥檚 supposed to be included in your package. The hotel sorted it out 鈥揺ventually.One more tip: if you take the shuttle back to the airport, be sure to leave yourself plenty of time and confirm 24 hours in advance. The shuttle arrived at the hotel on time but after picking up other passengers and what seemed like a complete tour of Sydney, arrived at the airport half an hour late.  
+<Date>Apr 9, 2008
+<Rating>4	5	5	4	5	5	5	2	
+<Aspects>
+24	48(wonderful):1	65(visit):1	69(tell):1	223(holiday):1	240(real):1	327(glass):1	376(favourite):1	498(despite):1	557(sort):1	653(fish):1	809(sydney):1	977(eye):1	1022(didn):2	1042(bite):1	1050(folk):1	1092(destination):1	1962(shark):2	2022(fear):1	2168(risk):1	2902(cheesy):2	3079(exotic):1	4241(opener):1	4601(tunnel):1	7950(manly):2	
+5	1(location):1	80(money):1	81(value):1	124(expensive):1	187(quality):1	
+47	3(clean):1	11(bed):1	12(friendly):1	13(bathroom):1	17(view):1	24(floor):1	25(comfortable):1	32(check):1	36(desk):1	54(door):1	79(late):1	111(spacious):1	117(dinner):1	198(chair):1	211(facility):1	237(lounge):1	249(luggage):1	281(house):1	397(forget):1	449(sign):1	561(harbor):1	579(appoint):1	589(soft):1	648(deluxe):1	653(fish):1	680(arrange):1	705(marble):1	711(personal):1	755(handy):1	861(suit):1	908(don):1	1025(delight):1	1067(disturb):1	1105(bellman):1	1140(umbrella):1	1186(heavy):1	1374(opera):1	1527(basis):1	1627(dive):1	2374(cupboard):1	2518(splendid):1	2784(elderly):1	2813(basin):1	2825(broadband):1	2951(7th):1	3321(whisk):1	7869(settee):1	
+64	0(staff):1	1(location):2	5(time):2	7(walk):1	8(day):2	17(view):1	21(excellent):1	28(close):2	35(street):1	43(leave):1	51(enjoy):1	53(arrive):2	60(hour):3	64(spend):2	65(visit):2	79(late):1	95(airport):2	98(outside):1	99(couple):1	102(near):1	158(plenty):1	181(tour):3	194(tip):1	266(pick):1	272(world):3	278(cool):1	281(house):5	283(half):1	285(ground):1	321(shuttle):2	407(superb):2	504(seat):1	507(museum):1	576(yourself):1	622(complete):1	685(advance):1	740(bridge):1	745(building):1	769(south):1	773(rock):2	809(sydney):2	923(friday):1	940(St):1	982(confirm):1	986(elegant):1	1010(ferry):1	1374(opera):3	1490(history):1	1552(cathedral):1	1664(quay):1	1912(circular):1	2171(century):1	2287(george):1	2518(splendid):1	2684(passenger):1	3105(personalize):1	3284(government):1	3725(mary):1	5936(overcast):1	6509(parliament):1	7950(manly):1	9274(wale):1	10806(stern):1	12467(barrack):1	
+0	
+22	0(staff):2	5(time):1	6(breakfast):1	12(friendly):2	32(check):2	71(include):1	136(charge):1	202(welcome):1	224(arrival):1	286(check-in):1	302(receive):1	387(smile):1	400(pass):1	495(bill):1	527(package):1	620(suppose):1	799(breeze):1	833(inclusive):1	1293(ensure):1	2523(carefully):1	2825(broadband):1	9335(2-day):1	
+33	5(time):1	6(breakfast):1	10(restaurant):2	16(food):2	17(view):1	18(book):1	22(pool):1	71(include):1	76(try):1	89(offer):2	98(outside):1	107(choice):1	114(hot):1	117(dinner):2	140(deal):1	143(cheap):1	222(cold):1	251(wine):1	261(swim):1	413(variety):1	480(stuff):1	650(list):1	740(bridge):1	764(chinese):1	822(online):1	860(wide):1	948(east):1	986(elegant):1	1057(bacon):1	1159(china):1	1246(sunset):1	1664(quay):1	10649(wholesome):1	
+0	
+
+<Author>bobbiesgirl
+<Content>Very enjoyable! Stayed at the Sir Stamford for 7 nights in March 2008. We were recommended by a good friend, who is also a travel agent. He had stayed here, a few years ago, when the hotel was owned by Ritz Carlton. We found the hotel to be delightful. It has more character than many hotels I have stayed in. Part of the hotel is in a heritage building, but has been sympathetically extended.The reception area is relatively small and opens up onto a comfortable lounge, which is beautifully furnished with period furniture, as is much of the hotel. There is always a huge disply of flowers in the lounge.There is a cosy bar, which serves good food...the portions were large. We only ate in the restaurant one evening, as there were so many other places to try! My husband had rack of lamb and I had fillet steak. They were both excellent.We had room 716, which was a deluxe, harbour view room. It actually looked out over the botanic gardens, with glimpses of the harbour, but not the bridge, as we were the wrong side of the hotel. While on our balcony and leaning out left, you could actually just see the opera house. This wasn't a problem, as it was only a two minute walk to circular quay and we were down there a lot!Macquerie Street is very busy but we had no noise from the road.Our room was very comfortable. 44 sq ft. King sized bed, Two seater sofa and easy chair. Coffee table, writing desk and two further chairs. Large wardrobe with proper coathangers...not the anti-theft ones! Trouser press, ironing board, iron, hair drier, fridge/mini-bar, TV, tea and coffee facilities. The bathroom was probably the best I've every experienced in a hotel. Huge, marble expanse, with large walk in shower, full size bath, twin basins and separate toilet.The room was serviced to a very high standard. Clean bedding and towels, daily.We had a problem with our shower on day two, (it wouldn't turn off) which we reported before going to breakfast. It had been fixed when we returned after breakfast.One of the biggest pluses, for us, was access to the Quay Lounge, on level three. It was a very relaxing place to be. We had our breakfast there every day and drinks and canapes each evening before dinner. There was also internet access there. There was an outdoor pool, but it was quite small. There was a terrace area aroung the pool but we never spent any time there.All the staff were very helpful and attentive. Nothing was too much trouble.It isn't cheap to stay at this hotel but we felt the location was superb and we were satisfied with all aspects of our stay.  
+<Date>Mar 25, 2008
+<Rating>5	3	5	5	5	4	5	3	
+<Aspects>
+37	2(night):1	5(time):1	15(recommend):1	20(look):1	21(excellent):1	22(pool):1	64(spend):1	68(travel):1	135(build):1	146(friend):1	160(relax):1	166(own):1	180(actually):1	310(garden):1	427(wrong):1	561(harbor):1	567(enjoyable):1	569(trouble):1	615(march):1	633(ago):1	673(terrace):1	740(bridge):1	766(agent):1	825(ritz):1	1049(character):1	1303(extend):1	1451(wardrobe):1	1518(carlton):1	1719(proper):1	1959(sq):1	2617(ft):1	3376(sir):1	3762(glimpse):1	5133(stamford):1	5413(heritage):1	7155(botanic):1	10075(aroung):1	
+6	1(location):1	34(feel):1	143(cheap):1	407(superb):1	899(satisfy):1	1255(aspect):1	
+50	3(clean):1	6(breakfast):1	7(walk):1	8(day):1	9(service):1	11(bed):2	13(bathroom):1	17(view):1	25(comfortable):2	36(desk):1	43(leave):1	44(experience):1	61(shower):2	83(size):2	90(coffee):1	93(easy):1	125(towel):1	129(reception):1	130(standard):1	133(huge):1	178(probably):1	180(actually):1	191(balcony):1	198(chair):2	226(bath):1	229(table):1	237(lounge):1	243(king):1	281(house):1	330(toilet):1	344(write):1	360(daily):1	440(furniture):1	474(separate):1	561(harbor):1	648(deluxe):1	690(twin):1	705(marble):1	771(beautifully):1	787(furnish):1	838(report):1	842(sofa):1	913(relatively):1	1176(delightful):1	1331(period):1	1374(opera):1	2813(basin):1	3397(lean):1	8128(seater):1	10540(expanse):1	
+11	7(walk):1	22(pool):1	29(minute):1	35(street):1	38(lot):1	94(noise):1	220(busy):1	230(road):1	901(outdoor):1	1664(quay):1	1912(circular):1	
+0	
+3	0(staff):1	14(helpful):1	537(attentive):1	
+38	6(breakfast):2	8(day):1	10(restaurant):1	16(food):1	27(bar):1	39(return):1	47(eat):1	63(drink):1	76(try):1	90(coffee):1	105(husband):1	116(tv):1	117(dinner):1	133(huge):1	159(access):1	174(serve):1	203(plus):1	211(facility):1	237(lounge):2	301(tea):1	306(level):1	318(fridge):1	494(fix):1	600(board):1	660(steak):1	729(hair):1	749(cozy):1	778(flower):1	868(iron):2	1257(dry):1	1450(portion):1	1664(quay):1	1843(press):1	1916(rack):1	3486(lamb):1	4388(canape):1	5617(fillet):1	7594(trouser):1	
+2	97(internet):1	159(access):1	
+
+<Author>quin-i-bog
+<Content>Please don't stay here! Despite booking for 5 nights, our stay at the Sir Stamford lasted less than 4 hours! We had asked for an early check-in (and had an email confirmation of the request) but when we arrived at 7am after an overnight flight we were told that no rooms were available and check-in was 3pm. We asked them to make a room available as soon as possible and the receptionist just looked at us and repeated check in is 3pm. We said OK, we would wait in the Quay lounge (we were paying for the privilidge) but were told - no you can't use the lounge until tomorrow. When we asked why, the receptionist said because lounge access doesn't start until the next morning after you check-in!! On insisting that we were going to the lounge the receptionist made a call to the manager who graciously said that we could wait in the lounge! We sat in the windowless room and had coffee but after 3 hours and no news on the progress of the room, we went back to reception. A different clerk said that there was no such thing as priority cleaning and check in was still 3pm! He also said that he was going to charge my card not only 5 x $400 AUD upfront for our stay, but also $500 for extras we might charge. Have you ever stayed in a hotel that charged you the entire cost of the stay plus extra before you've even checked in? I refused permission to make these charges and he very bluntly told me that this was company policy. I told him how rude I thought he was and his response was a very smarmy thank you madame. In fact that's all he'd say to anything else I said! When it became clear that we could not check-in until we paid $2500 we decided to leave. I asked to see the manager and the rude clerk said I am the manager and I have nothing more to say to you! He then said even if you leave I'm charging you for 1 night (which he in fact did) - so it cost us $400 NOT to stay at the Sir Stamford! We went straight to the Shangri-La. checked into a really nice suite and had a fantastic 5 night stay at the lovely Shangri-La. Please don't book the Sir Stamford - I can't tell you what the rooms are like because all we saw was the lounge (which was old fashoned and windowless) but their customer service is non-existant and the staff are rude beyond belief. Also be prepared to have your card charged for the entire stay as soon as you check-in! Dreadful people, don't bother!  
+<Date>Mar 3, 2008
+<Rating>1	1	-1	3	-1	1	1	-1	
+<Aspects>
+12	26(people):1	69(tell):1	170(else):1	173(please):1	271(thank):1	307(bother):1	392(rude):1	827(straight):1	1330(response):1	2895(dreadful):1	3496(shangri-la):1	7326(madame):1	
+13	2(night):1	42(pay):1	43(leave):1	69(tell):1	85(wait):1	123(ok):1	136(charge):1	175(cost):1	237(lounge):2	1664(quay):1	2698(tomorrow):1	3376(sir):1	5133(stamford):1	
+14	2(night):1	4(nice):1	32(check):1	60(hour):1	86(fantastic):1	87(lovely):1	90(coffee):1	108(suite):1	129(reception):1	169(sit):1	1725(news):1	3496(shangri-la):1	3656(progress):1	6468(windowless):1	
+0	
+5	3(clean):1	32(check):1	788(clerk):1	1985(priority):1	6855(3pm):1	
+43	20(look):1	32(check):2	42(pay):1	43(leave):1	53(arrive):1	56(morning):1	67(call):1	69(tell):2	85(wait):1	128(extra):2	134(available):2	136(charge):5	148(request):1	159(access):1	165(start):1	175(cost):1	203(plus):1	219(decide):1	233(flight):1	237(lounge):3	258(manager):3	286(check-in):5	292(card):2	329(entire):2	392(rude):1	418(soon):2	460(prepare):1	760(company):1	788(clerk):1	855(receptionist):3	1103(refuse):1	1171(overnight):1	1467(repeat):1	1495(insist):1	1634(policy):1	1641(confirmation):1	3634(graciously):1	4911(upfront):1	5360(aud):1	6302(7am):1	6609(permission):1	6855(3pm):2	11491(bluntly):1	
+17	0(staff):1	2(night):1	9(service):1	18(book):2	60(hour):1	69(tell):1	173(please):1	237(lounge):1	392(rude):1	428(customer):1	498(despite):1	738(beyond):1	3376(sir):2	4829(belief):1	5133(stamford):2	5979(non-existant):1	6468(windowless):1	
+0	
+
+<Author>Lovingagoodholiday
+<Content>Always a nice experience This was our second stay at the Sir Stamford Circular Quay and we enjoyed it just as much as the first. The staff are extremely well presented and friendly; and check-in is done very quickly without any difficulty.We again chose the Quay floor which has all the rooms situated around a large sitting room. Canapes and drinks are served in the evening, and breakfast is also served there. It is like having a personal dining room for your floor. The hotel is beautifully furnished throughout with paintings and luxurious carpets etc. The Quay rooms are very large, and include a king bed, lounge suite plus chairs and a balcony. The bathrooms are spacious and marble tiled. There is a separate shower/bath/toilet with lovely fluffy towels and nice toiletries. It is conveniently located near Circular Quay, Opera House and the Rocks. The main shopping area around Centrepoint is a pleasant 15 minute walk and from there you can catch a monorail to Darling Harbour.Check your room rate for included valet parking; otherwise it's an extra $30 and I'm not sure if it's daily or for the length of your stay.  
+<Date>Feb 18, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+7	4(nice):1	44(experience):1	51(enjoy):1	1664(quay):1	1912(circular):1	3376(sir):1	5133(stamford):1	
+41	4(nice):1	11(bed):1	13(bathroom):1	24(floor):2	32(check):1	61(shower):1	66(park):1	71(include):2	73(etc):1	78(rate):1	87(lovely):1	108(suite):1	111(spacious):1	125(towel):1	128(extra):1	167(choose):1	169(sit):1	191(balcony):1	198(chair):1	203(plus):1	237(lounge):1	243(king):1	316(dine):1	360(daily):1	396(carpet):1	445(throughout):1	457(valet):1	474(separate):1	508(otherwise):1	574(situate):1	657(toiletry):1	705(marble):1	708(luxurious):1	711(personal):1	771(beautifully):1	787(furnish):1	846(tile):1	1664(quay):2	1792(fluffy):1	1879(length):1	2994(painting):1	
+17	7(walk):1	29(minute):1	49(shop):1	84(locate):1	102(near):1	112(main):1	150(pleasant):1	281(house):1	540(catch):1	561(harbor):1	773(rock):1	1070(conveniently):1	1374(opera):1	1664(quay):1	1681(darling):1	1912(circular):1	2343(monorail):1	
+0	
+6	0(staff):1	12(friendly):1	110(extremely):1	286(check-in):1	471(quickly):1	1777(difficulty):1	
+4	6(breakfast):1	63(drink):1	174(serve):2	4388(canape):1	
+0	
+
+<Author>eaborden
+<Content>Best hotel on our 5 week trip. This hotel exceeded our expectations. It is an easy block to Circular Quay across from the botanical gardens and yet removed from any noise. The hotel has a lot of old world charm, antique furnishings and paintings and a very courteous, caring staff. We had everything we could ask for in a hotel and would most certainly stay there again. It was like coming home at the end of the day. Try to book a room with an inclusive breakfast - the best we had on our trip.  
+<Date>Feb 17, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+12	8(day):1	33(trip):1	75(week):1	93(easy):1	94(noise):1	100(bloc):1	141(home):1	310(garden):1	1135(remove):1	1664(quay):1	1912(circular):1	4278(botanical):1	
+2	431(expectation):1	1153(exceed):1	
+9	0(staff):1	38(lot):1	242(care):1	272(world):1	332(charm):1	483(courteous):1	870(furnishings):1	1936(antique):1	2994(painting):1	
+0	
+0	
+0	
+5	6(breakfast):1	18(book):1	33(trip):1	76(try):1	833(inclusive):1	
+0	
+
+<Author>Brandonfel
+<Content>Wouldn't Stay Here Again The location is very good. The hotel needs to be closed for major renovation. The rooms also need renovation. The heating in my room did not work well. The pool is smaller than a bath tub. The exercise facilities are very small. All in all, the stay was nothing special. However for the money there are many better options in the area. My real gripe with the hotel is that I was over charged. I had 2 gift certificates. I used both while I was at the hotel, but forgot to write on the receipts that I was using gift certificates. Upon checking out of the hotel, I saw an extra $100 on my bill, but when I explained to the front desk that I had used 2 gift certificates they agreed to correct my bill. However, a months latter when I was home, my credit card was charged the additional $100. I sent an email to the hotel and their corporate office, however neither has had the courtesy to respond in the last 2 months. I would not stay at the hotel again because if you look at the property you can see it used to be a grand dame when it was part of the Ritz Carlton chain, but as the hotel began to deteriorate the Ritz choose to abandon the property since obviously the owners of the hotel choose not to upgrade. If you want to stay at a hotel that used to be nice this is the place for you. I used to work in the travel industry and can assure you that when a Ritz Carlton drops a hotel it is a sign that the hotel is going down hill. If you are looking for hotel that is top notch than this is not the place for you. This hotel is better situated for someone who doesn鈥檛 feel comfortable at a true 5 star property. I would not say here again.  
+<Date>Feb 14, 2008
+<Rating>2	-1	2	4	2	4	3	1	
+<Aspects>
+20	4(nice):1	20(look):1	68(travel):1	80(money):1	118(top):1	208(special):1	336(option):1	344(write):1	397(forget):1	449(sign):1	662(drop):1	756(hill):1	825(ritz):1	852(gift):2	1227(notch):1	1349(assure):1	1518(carlton):1	2635(industry):1	2725(receipt):1	4328(certificate):2	
+6	25(comfortable):1	34(feel):1	103(star):1	214(property):1	574(situate):1	2924(doesn):1	
+4	28(close):1	315(major):1	539(heat):1	687(renovation):2	
+6	1(location):1	22(pool):1	211(facility):1	226(bath):1	311(tub):1	1459(exercise):1	
+0	
+39	20(look):1	31(front):1	32(check):1	36(desk):1	128(extra):1	136(charge):2	141(home):1	163(upgrade):1	167(choose):2	214(property):2	240(real):1	292(card):1	365(grand):1	388(month):2	447(send):1	473(agree):1	495(bill):2	551(begin):1	627(chain):1	659(credit):1	672(owner):1	768(explain):1	781(obviously):1	792(office):1	825(ritz):2	835(additional):1	852(gift):1	1263(correct):1	1275(neither):1	1518(carlton):1	1587(respond):1	1728(courtesy):1	1788(gripe):1	1802(corporate):1	2061(dame):1	3133(latter):1	4328(certificate):1	4480(abandon):1	6570(deteriorate):1	
+0	
+0	
+
+<Author>Kramax
+<Content>Great, classy hotel in Sydney I have stayed at Sir Stamford, Circular Quay for about 4 years now on every visit to Sydney from my hometown of Melbourne. Even though I will note some shortcomings here, I still rate it as excellent. Firstly, the staff are fantastic, very friendly. Secondly, the rooms are lovely. It is a classy hotel, with a lovely sitting area off the lobby. The rooms are kept close to meticulous by housekeeping. The rooms are larger than the average Sydney hotel room, very spacious. The beds are so comfortable. On my most recent stay I was looking forward to watching the US Presidential Primaries on CNN. Since my last stay six months ago the hotel has ditched CNN and the only news channel is BBC. When my back went out and I was confined to the room for 3 days with only two music cable channels, three sports channels and the Discovery channel for company (I am female!) I was not thrilled. I hope the hotel reads this review because I do not plan to stay here until CNN is returned. Being an international hotel, CNN is a minimum requirement and I would love FOX news and/or Sky News as well. Room service meals continue to be dodgy, one night great, the next bland and ordinary. To sum up, if you don't want to watch the news or eat in your room, this hotel is great, I particuarly recommend it for older travellers as they will love its style.  
+<Date>Jan 6, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+33	20(look):1	21(excellent):1	37(review):1	39(return):1	40(love):1	65(visit):1	78(rate):1	88(read):1	221(plan):1	245(watch):1	297(note):1	328(hope):1	750(forward):1	809(sydney):2	903(international):1	1064(recent):1	1488(classy):1	1664(quay):1	1725(news):2	1822(thrill):1	1909(sky):1	1912(circular):1	2101(cnn):3	2124(minimum):1	2642(requirement):1	3376(sir):1	4116(primary):1	4259(shortcoming):1	5133(stamford):1	5569(presidential):1	5930(fox):1	6140(melbourne):1	8241(hometown):1	
+0	
+40	2(night):1	8(day):1	9(service):1	11(bed):1	15(recommend):1	25(comfortable):1	28(close):1	40(love):1	47(eat):1	87(lovely):1	111(spacious):1	213(meal):1	227(average):1	245(watch):1	267(traveler):1	326(style):1	367(housekeeping):1	388(month):1	398(music):1	484(cable):1	633(ago):1	741(channel):4	760(company):1	809(sydney):1	919(sport):1	1096(continue):1	1651(sum):1	1714(female):1	1725(news):2	1819(bland):1	2025(ordinary):1	2101(cnn):1	2539(dodgy):1	2985(secondly):1	2997(bbc):1	3951(discovery):1	4908(confine):1	7704(meticulous):1	9970(ditch):1	11314(particuarly):1	
+0	
+0	
+4	0(staff):1	12(friendly):1	86(fantastic):1	2140(firstly):1	
+4	55(lobby):1	87(lovely):1	169(sit):1	1488(classy):1	
+0	
+
+<Author>aerotraveller
+<Content>Getting old Few hotels would permit less than 3 night bookings over new years so we grabbed a two night reservation at this very well located hotel, just behind the opera house. The hotel is clean and the beds have luxury sheets and duvets but the carpets are worn, and the feeling is also worn. Yes, its clean and well located but incredibly overpriced. No restaurant to eat a light snack or a la carte breakfast, so we went next door to the very attractive intercontinental. Time for a face lift for this hotel.  
+<Date>Jan 3, 2008
+<Rating>3	3	4	5	4	4	-1	-1	
+<Aspects>
+2	5(time):1	591(lift):1	
+5	3(clean):1	84(locate):1	250(yes):1	727(overprice):1	807(incredibly):1	
+8	3(clean):1	11(bed):1	34(feel):1	396(carpet):1	434(wear):2	437(luxury):1	479(sheet):1	3733(duvets):1	
+8	2(night):2	84(locate):1	156(reservation):1	281(house):1	1139(grab):1	1374(opera):1	2531(booking):1	3149(permit):1	
+0	
+0	
+10	6(breakfast):1	10(restaurant):1	47(eat):1	54(door):1	157(light):1	225(la):1	406(snack):1	681(carte):1	1154(attractive):1	1606(intercontinental):1	
+0	
+
+<Author>teetopmetz
+<Content>Great Hotel, Fantastic Location       Some part of bathroom  
+<Date>Dec 19, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+3	1(location):1	13(bathroom):1	86(fantastic):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>BrisbaneKiwi
+<Content>Very 'English' - instant appeal I booked the Sir Stanford via Wotif for our final night in Sydney (the previous 3 nights we stayed at the Sheraton at the Park, but the 4th night there was going to be too expensive due to demand).We paid A$280 for a Quay Lounge room (3rd floor, canapes, breakfast included). The Sir Stanford continually promotes itself as saying its own website will offer the best online deals, but in comparing Wotif with the company website, found that for the same thing the company website was circa A$50 more expensive). Maybe just an oversight on this occasion but I was not arguing with it.My wife took an instant liking to the room - very English like, nice curtains, juliette balcony, white marble bathroom, lovely bed etc. And spacious.Some negatives, that hopefully management (if they read these reviews) can work on for the benefit of guests:-1. As we were only coming from the Sheraton up the road, we checked in circa 12.15pm - room was apparently not ready, but were advised to come back about 2pm. I explained that as we were leaving quite early the next morning we would appreciate a room as soon as possible, and the front desk girl confirmed with me what my mobile number was and that she would phone as soon as the room was going to be ready. I did not receive any phone call but when we returned to the hotel at 1.45pm, our room was ready and baggage was already there. So the promised phone call did not eventuate - poor service in my book.2. Drinks and canapes provided on Level 3 between 5 and 8pm. The alcohol range was fine. The nibbles - absolutely pitiful. The service by staff - terrible. Non existant I would say.You are provided with a plate of small delicate morsels - three each, on a plate which is brought out of their back room. That is it. I did ask for another plate - and was told sorry, only one per couple. There was no food at all once you had your little plate - not even nuts.Initially the service was okay - we came into the Quay Lounge, sat down and were offered drinks and the small plate. We stayed maybe an hour, and watched as other guests came, and had to help themselves to drinks as no staff member was around (there would have been a maximum of two in the back room, but heaven knows what they were doing). I waited for about 15 minutes before helping myself to a top up of my wine glass.Compared to the drinks and canapes we had the previous three nights at the Sheraton on the Park - the Sir Stanford gets a total of 1 for 'the English feel' - the Sheraton blows them out of the water in terms of food and service in scoring a 10 by comparison.We did not stay for breakfast as we left at 6am so cannot comment on the quality of the breakfast food and service.The hotel itself is in a brilliant situation (better than Darling Harbour hotels) as it is on the doorstep to the Opera House and the beautiful Botanic Gardens. It is also an easy ten minute walk to The Rocks. If you want to catch a ferry or train - at most, a three minute walk away.Best part for us was taking a walk at dusk through the Botanic gardens and having the lorikeets and cockatoos land on your arms and shoulders searching for food. Although they have signs up to not feed the birds, take an apple or two as it will make a wonderful picture with these darlings sitting on you feeding away (but also take a few tissues as they do have a tendancy to go to the 'toilet' whilst posing wonderfully for the camera!).In summary, Sir Stanford, great location and lovely room. But poor marks for front desk (promising to phone then not delivering) and limited food and non existent service at the Quay Lounge.  
+<Date>Dec 4, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+31	48(wonderful):1	69(tell):1	99(couple):1	111(spacious):1	113(fine):1	169(sit):1	189(absolutely):1	308(maybe):1	330(toilet):1	449(sign):1	456(picture):1	584(fee):1	714(range):1	871(occasion):1	877(whilst):1	891(sorry):1	905(apple):1	1002(plate):1	1267(alcohol):1	1435(bird):1	1646(camera):1	1681(darling):1	1686(wonderfully):1	1894(argue):1	2373(feed):1	3211(tissue):1	3520(nibble):1	3904(pose):1	6379(oversight):1	7323(existant):1	7623(pitiful):1	
+0	
+62	0(staff):1	1(location):1	4(nice):1	6(breakfast):1	11(bed):1	13(bathroom):1	24(floor):1	32(check):1	39(return):1	42(pay):1	45(beautiful):1	60(hour):1	63(drink):1	67(call):1	71(include):1	73(etc):1	87(lovely):2	91(guest):1	92(help):1	142(bring):1	152(english):1	153(provide):1	184(wife):1	191(balcony):1	230(road):1	237(lounge):1	245(watch):1	274(ready):2	281(house):1	296(phone):1	302(receive):1	308(maybe):1	310(garden):1	393(pm):2	466(white):1	561(harbor):1	663(advise):1	705(marble):1	743(curtain):1	793(brilliant):1	863(apparently):1	890(situation):1	1002(plate):2	1013(sheraton):1	1059(themselves):1	1363(heaven):1	1374(opera):1	1664(quay):1	1681(darling):1	1716(summary):1	1783(baggage):1	2071(doorstep):1	2097(3rd):1	2986(instant):1	3376(sir):1	3523(maximum):1	4388(canape):1	4716(stanford):1	6186(circa):1	7155(botanic):1	7919(2pm):1	9420(delicate):1	
+15	7(walk):3	16(food):1	29(minute):2	93(easy):1	182(train):1	310(garden):1	540(catch):1	773(rock):1	1010(ferry):1	1248(search):1	1346(land):1	1726(arm):1	2832(shoulder):1	5116(dusk):1	7155(botanic):1	
+0	
+23	0(staff):1	9(service):1	31(front):1	36(desk):1	37(review):1	43(leave):1	56(morning):1	88(read):1	91(guest):1	274(ready):1	282(negative):1	296(phone):1	335(numb):1	418(soon):2	432(terrible):1	500(appreciate):1	525(management):1	625(girl):1	768(explain):1	982(confirm):1	1524(benefit):1	1633(hopefully):1	3241(mobile):1	
+62	2(night):4	6(breakfast):2	9(service):5	16(food):4	18(book):2	23(little):1	29(minute):1	31(front):1	34(feel):1	36(desk):1	43(leave):1	57(water):1	63(drink):3	66(park):2	67(call):1	85(wait):1	89(offer):1	92(help):1	118(top):1	124(expensive):1	152(english):2	153(provide):1	169(sit):1	187(quality):1	237(lounge):2	251(wine):1	259(due):1	296(phone):2	306(level):1	331(poor):2	356(comment):1	373(previous):2	453(okay):1	510(limit):1	512(via):1	631(deliver):1	786(total):1	809(sydney):1	845(4th):1	882(mark):1	975(promise):2	1002(plate):2	1011(term):1	1013(sheraton):3	1146(blow):1	1337(final):1	1439(initially):1	1525(comparison):1	1613(demand):1	1664(quay):2	1679(appeal):1	2565(nut):1	2986(instant):1	3030(score):1	3376(sir):2	4388(canape):2	4475(existent):1	4716(stanford):2	6905(wotif):1	7363(6am):1	7937(pare):1	9438(8pm):1	
+14	89(offer):1	124(expensive):1	140(deal):1	166(own):1	262(website):3	381(compare):1	760(company):2	822(online):1	3376(sir):1	3831(continually):1	4302(promote):1	4716(stanford):1	6186(circa):1	6905(wotif):1	
+
+<Author>Steff_in_italy
+<Content>Nice Hotel This hotel is located close to the Opera house. I stayed here for two nights and it was very nice. My room was very comfortable and it provided me with a great view of the city. I booked directly through the hotel website and booked the weekend deal for $315 per night which included one free movie, popcorn, free breakfast  a $40 coupon to use in the bar. When I arrived at the hotel a door man greeted me and I was checked in and walked promptly up to my room. I found this hotel to be distinctive and comfortable . The staff was very helpful and provided me with great service. I dined at the bar and found the appetizers to be ok, I paid $18 for 3 scoops of ice cream. The bar had a great atmosphere but it was a bit over priced. I liked this hotel and I would stay there again  
+<Date>Nov 28, 2007
+<Rating>4	4	4	5	5	5	4	-1	
+<Aspects>
+4	2(night):1	4(nice):1	25(comfortable):1	7016(distinctive):1	
+11	19(price):1	27(bar):2	42(pay):1	52(bit):1	123(ok):1	316(dine):1	414(atmosphere):1	547(ice):1	1188(cream):1	1597(appetizer):1	6227(scoop):1	
+10	7(walk):1	17(view):1	25(comfortable):1	32(check):1	41(city):1	53(arrive):1	54(door):1	153(provide):1	415(greet):1	1212(promptly):1	
+5	4(nice):1	28(close):1	84(locate):1	281(house):1	1374(opera):1	
+0	
+4	0(staff):1	9(service):1	14(helpful):1	153(provide):1	
+13	2(night):1	6(breakfast):1	18(book):2	27(bar):1	46(free):2	71(include):1	140(deal):1	172(weekend):1	262(website):1	383(directly):1	989(movie):1	2106(coupon):1	3060(popcorn):1	
+0	
+
+<Author>zarathustraperth
+<Content>A Knight in shining armour       From the balcony  
+<Date>Oct 30, 2007
+<Rating>5	5	5	5	4	5	5	-1	
+<Aspects>
+0	
+0	
+2	191(balcony):1	2349(shine):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>NotTooFussySC
+<Content>Beautiful hotel, great location We stayed 4 nights in April of 2007. The room was extremely nice, more luxurious than what we usually get.Front desk staff very efficient and friendly - of course we arrived from U.S. early in the morning before roomswere available, and they locked up our luggage for us and it was in our rooms when we came back. Theconcierge was fairly useless, I think all he's there for is to sell tours, etc. Any real help we needed camefrom the reception people. We paid extra for a balcony room which we liked a lot but it might be a disappointmentif you're look for a real vista - the hotel is not tall enough to really see over the city. We never ate in therestaurant as we had read negative reviews of it, plus the prices were high even for Sydney. The locationwas just perfect for a first-time tourist since you're a 5-minute (at most) walk from Circular Quay where allthe transportation hubs are. Part of that walk was a steep hill but it was only about a block. I was able toget an online rate of under $200 (I think that was even under $200 Australian) which for a nice hotel withprivate bath in that area was an absolute steal. Would definitely go back.  
+<Date>Sep 7, 2007
+<Rating>5	5	5	5	5	5	4	-1	
+<Aspects>
+1	59(definitely):1	
+7	19(price):1	37(review):1	47(eat):1	88(read):1	203(plus):1	282(negative):1	809(sydney):1	
+18	4(nice):1	20(look):1	38(lot):1	41(city):1	42(pay):1	73(etc):1	110(extremely):1	128(extra):1	181(tour):1	191(balcony):1	240(real):1	399(usually):1	462(fairly):1	606(sell):1	708(luxurious):1	1626(tall):1	2488(useless):1	2678(vista):1	
+15	1(location):1	2(night):1	7(walk):2	45(beautiful):1	74(perfect):1	100(bloc):1	209(tourist):1	728(transportation):1	756(hill):1	1060(steep):1	1664(quay):1	1912(circular):1	3027(hub):1	4828(5-minute):1	6341(first-time):1	
+0	
+16	0(staff):1	12(friendly):1	26(people):1	31(front):1	36(desk):1	53(arrive):1	56(morning):1	92(help):1	129(reception):1	134(available):1	240(real):1	249(luggage):1	293(course):1	401(efficient):1	774(lock):1	1817(u.s):1	
+8	4(nice):1	78(rate):1	171(able):1	226(bath):1	822(online):1	1187(steal):1	1250(absolute):1	3604(australian):1	
+0	
+
+<Author>keza123
+<Content>Great hotel Just spent a Friday night at this lovely hotel. This was the first time we have stayed in 5 star and we weren't disappointed. The room was large with great bathroom facilities. The bed was very comfortable. The only bad comment would have to be the temperature. It was the middle of winter but we found the room was very stuffy even though I put the airconditioning down to it's lowest temperature 16C.The staff were extremely friendly. We visited the bar before going out for dinner. There were bar staff wandering around the area ready to take your order when needed. We were also given complimentary nuts/snack mix which was refilled when ever necessary. Once again the only bad comment was the temperature. It was so very hot and stuffy which was a shame as we would have loved to stay longer to listen to the singer/pianist that was just setting up.Breakfast was included in our package which we ate in the dining room. It was a lovely way to finish our stay.  
+<Date>Jul 29, 2007
+<Rating>4	4	4	5	4	5	4	-1	
+<Aspects>
+18	2(night):1	40(love):1	50(bad):2	64(spend):1	87(lovely):2	114(hot):1	234(set):1	345(complimentary):1	356(comment):2	609(mix):1	772(finish):1	923(friday):1	944(temperature):2	997(listen):1	1292(shame):1	1841(refill):1	1857(stuffy):1	3185(singer):1	
+3	5(time):1	103(star):1	154(disappoint):1	
+15	6(breakfast):1	11(bed):1	13(bathroom):1	25(comfortable):1	47(eat):1	71(include):1	211(facility):1	316(dine):1	325(middle):1	513(low):1	527(package):1	944(temperature):1	1599(winter):1	1857(stuffy):1	1903(airconditione):1	
+0	
+0	
+6	0(staff):2	12(friendly):1	27(bar):1	110(extremely):1	274(ready):1	1562(wander):1	
+3	27(bar):1	65(visit):1	117(dinner):1	
+0	
+
+<Author>proppy
+<Content>Room was out of this world. shame about the staff I hope things have changed since I stayed! The room was out of this world. Amazing but the staff were so rude and unhelpful. terrible. I do hope they have sorted that out. The hotel itself is a gem.  
+<Date>Jun 3, 2007
+<Rating>4	4	5	4	5	1	1	-1	
+<Aspects>
+3	328(hope):1	432(terrible):1	557(sort):1	
+0	
+1	272(world):2	
+0	
+0	
+7	0(staff):2	145(amaze):1	161(change):1	328(hope):1	392(rude):1	1292(shame):1	1618(unhelpful):1	
+1	805(gem):1	
+0	
+
+<Author>josh909
+<Content>Great hotel! My wife and I stayed at the Sir Stamford the night we were married before heading off overseas the next day.I highly rate this hotel - the room was pristine and was huge with a balcony overlooking the park.The staff were friendly and accommodating - our request for a late check out was no problem and little things like having champagne chilled on ice for our return were also taken care of.Whilst normally I have no need to find hotel accommodation in Sydney, I would have no hesitation in recommending this establishment to friends or family visiting Sydney.  
+<Date>May 28, 2007
+<Rating>5	4	5	5	5	4	5	-1	
+<Aspects>
+8	2(night):1	8(day):1	184(wife):1	1437(heading):1	1743(married):1	3376(sir):1	4191(overseas):1	5133(stamford):1	
+10	15(recommend):1	65(visit):1	106(family):1	146(friend):1	721(accommodation):1	809(sydney):2	877(whilst):1	1091(normally):1	1373(hesitation):1	1473(establishment):1	
+7	66(park):1	78(rate):1	133(huge):1	138(highly):1	191(balcony):1	260(overlook):1	2981(pristine):1	
+0	
+0	
+12	0(staff):1	12(friendly):1	23(little):1	32(check):1	39(return):1	79(late):1	148(request):1	242(care):1	547(ice):1	624(accommodate):1	770(champagne):1	1397(chill):1	
+0	
+0	
+
+<Author>PerthGoldplate
+<Content>Almost 5 star My wife and I spent 4 nights at the at end of April 2007 at Sir Stamford Circular Quay celebrating our 10th wedding anniversary. The hotel is lovely with a wonderful worldly aspect to the public areas. The bar, as has been noted in other reviews, did have a certain old library feel about it, which we enjoyed. We stayed in a deluxe king room on the 9th floor that came with its own Juliette balcony, providing a lovely view of the Opera House. The room was large, clean and comfortable with a dream bed. Equipped with a large, impressive marble bathroom with separate basins, shower, bathtub and closed off toilet. As you stepped from the lift you got the feeling you were stepping into a well furnished NY apartment.  Given its calibre of reputation, location and indeed price, we were disappointed though with the selection for breakfast that could be best described as sparse. There was just the usual selection as a million other hotel buffets around the world, eg no selection of eggs or a chef to cook something a-la carte as one might expect to find at a hotel aimed at the premium traveller. Further as it was our 10th wedding anniversary, which they knew as they congratulated us upon arrival, there was nothing special in the room (not a chocolate nor bottle of bubbly in sight).  Concierge - James and Chris excellent, helpful, nothing too difficult - very knowledgeable. Disappointed with Jimmy - assisted us at checkout - called us a taxi to take us to the domestic airport - half way through our trip we noticed meter was not on - asked driver why - he said Jimmy arranged for him to take us to airport for $45.00! NO negotiation was made between us and Jimmy. Driver then called Jimmy at hotel and confirmed the price, though we denied and argued - but what were we to do half way into the trip ask the driver to dump us and our luggage at the side of the road? We were later informed by locals that the fare can be between $25 to $30 depending on traffic. It took us all of 20 mins! Be aware! One very interesting aspect was, if you requested your room not to be serviced or cleaned that day, a 20% discount voucher for food in the hotel鈥檚 restaurants was left on your pillow. Nice idea.Overall we enjoyed our stay and the hotel. We would consider staying here again.  
+<Date>May 3, 2007
+<Rating>4	3	5	5	5	5	4	-1	
+<Aspects>
+13	4(nice):1	48(wonderful):1	51(enjoy):1	70(overall):1	87(lovely):1	247(min):1	248(consider):1	379(public):1	639(idea):1	832(aware):1	1255(aspect):1	5420(jimmy):1	7008(negotiation):1	
+41	1(location):1	2(night):1	6(breakfast):1	19(price):2	33(trip):1	64(spend):1	67(call):1	103(star):1	154(disappoint):1	184(wife):1	208(special):1	224(arrival):1	230(road):1	238(bottle):1	249(luggage):1	283(half):1	333(selection):1	411(sight):1	563(driver):2	604(wed):2	632(chocolate):1	804(anniversary):2	955(describe):1	970(nor):1	982(confirm):1	990(indeed):1	1014(celebrate):1	1449(dump):1	1592(10th):2	1664(quay):1	1894(argue):1	1912(circular):1	2195(reputation):1	3067(deny):1	3126(caliber):1	3376(sir):1	3459(sparse):1	5131(congratulate):1	5133(stamford):1	5420(jimmy):1	5484(bubbly):1	
+31	3(clean):1	11(bed):1	13(bathroom):1	17(view):1	24(floor):1	25(comfortable):1	28(close):1	34(feel):1	61(shower):1	87(lovely):1	153(provide):1	166(own):1	191(balcony):1	243(king):1	281(house):1	330(toilet):1	366(step):2	474(separate):1	591(lift):1	648(deluxe):1	705(marble):1	751(apartment):1	787(furnish):1	884(equip):1	920(impressive):1	933(ny):1	1023(bathtub):1	1256(dream):1	1374(opera):1	2813(basin):1	5180(9th):1	
+20	33(trip):1	67(call):1	79(late):1	95(airport):2	154(disappoint):1	185(taxi):1	195(local):1	283(half):1	354(notice):1	486(traffic):1	563(driver):1	658(checkout):1	680(arrange):1	817(inform):1	969(depend):1	1112(fare):1	1194(metre):1	1265(assist):1	4357(domestic):1	5420(jimmy):2	
+0	
+7	14(helpful):1	21(excellent):1	204(concierge):1	572(difficult):1	1160(knowledgeable):1	2866(jame):1	3118(chris):1	
+30	3(clean):1	8(day):1	9(service):1	10(restaurant):1	16(food):1	27(bar):1	34(feel):1	37(review):1	43(leave):1	51(enjoy):1	62(expect):1	77(buffet):1	148(request):1	267(traveler):1	272(world):1	297(note):1	303(pillow):1	333(selection):2	412(egg):1	550(cook):1	681(carte):1	682(usual):1	864(discount):1	1255(aspect):1	1361(chef):1	1465(premium):1	1648(library):1	1750(voucher):1	3267(aim):1	6388(million):1	
+0	
+
+<Author>GordonDuffy
+<Content>Wonderful hotel A wonderful hotel with great service. Since we would arrive in Sydneyearly AM after the 20 plus hours from Scotland we made a reservation for the previous night and informed them that we would be checkin in the next day at 8 AM. No problem.The loquacious and charming bellman escorted us to a marvelous room with a private balcony. We had dinner there the first night of our stay. Ask for a room with balcony if possible.The staff was uniformly courteous and helpful and the service in the bar was swift.Highly recommended.  
+<Date>Apr 18, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	15(recommend):1	138(highly):1	
+0	
+6	191(balcony):2	332(charm):1	492(private):1	1105(bellman):1	2005(escort):1	2187(marvelous):1	
+0	
+0	
+10	2(night):1	8(day):1	53(arrive):1	60(hour):1	156(reservation):1	203(plus):1	373(previous):1	817(inform):1	1818(checkin):1	5493(scotland):1	
+10	0(staff):1	2(night):1	9(service):2	14(helpful):1	27(bar):1	48(wonderful):2	117(dinner):1	483(courteous):1	4245(swift):1	4963(uniformly):1	
+0	
+
+<Author>CalBear70
+<Content>A Great Place to Stay in Sydney We stayed here based on the excellent reviews by the reviewers on this site for three nights prior to our cruise. We arrived at about 9 am in the morning and a room was not yet available but they offered us the use of their shower facilities in their gym and pool area. I felt pretty grungy after 14.5 hour flight and exiting the airport. After brushing my teeth and taking a shower, I felt much better. They brought up our luggage so I could change and took it back after we decided to leave and explore the city. They sent us up a tea service so we could refresh ourselves. The staff and concierge couldn't have been nicer. When we returned, our room was ready and the uggage placed in the room. The hotel is small and quiet. It's not stuffy and in an ideal location up l block from Circular Quay. The rooms are a good size and the bath and dressing area are larger than normal. Everything was clean and tidy. There is a electric teapot for heating water and teabags and coffee powder in the room. There was no internet access that I could determine in the hotel but I didn't ask.The hotel is very close to the Opera House and Botanical Gardens. We could walk to many attractions or catch the buses. Circular Quay is a main transit terminal for bus and ferry.One block away is the NSW State Library where visitors can use free internet for 15 minutes.We loved our stay at Sir Stamford and highly recommend it based on our experience. (We are very particular.) The young staff was very nice and helpful.  
+<Date>Apr 13, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	938(particular):1	
+7	15(recommend):1	40(love):1	44(experience):1	138(highly):1	284(base):1	3376(sir):1	5133(stamford):1	
+24	22(pool):1	34(feel):2	39(return):1	53(arrive):1	56(morning):1	58(quiet):1	60(hour):1	61(shower):2	83(size):1	89(offer):1	95(airport):1	109(pretty):1	134(available):1	211(facility):1	226(bath):1	233(flight):1	274(ready):1	523(gym):1	878(normal):1	935(dress):1	1354(exit):1	1564(brush):1	1737(tooth):1	6827(grungy):1	
+28	1(location):1	2(night):1	7(walk):1	21(excellent):1	28(close):1	37(review):1	100(bloc):1	112(main):1	120(bus):2	192(site):1	281(house):1	284(base):1	310(garden):1	350(attraction):1	540(catch):1	545(ideal):1	564(reviewer):1	603(cruise):1	637(prior):1	809(sydney):1	1010(ferry):1	1261(terminal):1	1374(opera):1	1664(quay):2	1857(stuffy):1	1912(circular):2	2015(transit):1	4278(botanical):1	
+2	3(clean):1	1100(tidy):1	
+4	0(staff):2	4(nice):2	14(helpful):1	204(concierge):1	
+19	9(service):1	41(city):1	43(leave):1	57(water):1	90(coffee):1	142(bring):1	161(change):1	219(decide):1	249(luggage):1	301(tea):1	447(send):1	539(heat):1	594(explore):1	767(ourselves):1	1271(refresh):1	2246(electric):1	2834(powder):1	9313(teabags):1	9460(teapot):1	
+8	29(minute):1	46(free):1	97(internet):2	100(bloc):1	159(access):1	951(visitor):1	1648(library):1	3247(determine):1	
+
+<Author>MozLondonEngland
+<Content>Not nearly good enough... I stayed with my partner at the Sir Stamford on the third leg of a three centre Australian trip and whilst the accommodation in Melbourne  Cairns had been more than adequate, this place was a major let down. The room we were allocated hadn't been cleaned properly with litter still in the bins and unwashed coffee cups  drinks cans on the table (the 'compensation' for this comprised a derisory four chocolates and a note saying 'sorry' from the management !) The conceriege was either unable (or unwilling) to make any restaurant reservations on our behalf and the bar was distinctly unwelcoming. So dispiriting was the whole experience we actually aborted our stay by several nights and flew back to London. As a regular business traveller I can claim a certain familiary with the quality of service one can expect from four  five star hotels and this one didn't come close. I can only hope that in the time that has elapsed since our stay things have improved.  
+<Date>Apr 5, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	5(time):1	328(hope):1	1217(improve):1	
+28	2(night):1	9(service):1	28(close):1	33(trip):1	44(experience):1	62(expect):1	101(center):1	103(star):1	147(business):1	180(actually):1	187(quality):1	267(traveler):1	315(major):1	390(adequate):1	532(third):1	614(fly):1	697(london):1	721(accommodation):1	744(regular):1	877(whilst):1	896(nearly):1	1006(partner):1	1077(claim):1	1421(leg):1	3376(sir):1	3604(australian):1	5133(stamford):1	6140(melbourne):1	
+0	
+0	
+0	
+0	
+25	3(clean):1	10(restaurant):1	27(bar):1	63(drink):1	90(coffee):1	156(reservation):1	229(table):1	297(note):1	525(management):1	632(chocolate):1	800(cup):1	891(sorry):1	1144(properly):1	1461(unable):1	1974(allocate):1	2885(compensation):1	3059(bin):1	3404(litter):1	3795(unwelcome):1	4495(behalf):1	4564(comprise):1	4739(unwilling):1	6577(distinctly):1	10128(conceriege):1	12098(unwashed):1	
+0	
+
+<Author>Plitch
+<Content>Great hotel, Great city!       View from our balcony @ Sir Stamford  
+<Date>Mar 14, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	41(city):1	
+0	
+4	17(view):1	191(balcony):1	3376(sir):1	5133(stamford):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>ragout
+<Content>Great location, old world charm and comfort Our room didn't quite have the view of the Opera House we had envisioned when we purchased a View Room but we did look over McQuarrie Park and if we stepped onto the Juliet balcony we could see the Opera House. But......for the price we paid we felt we got good value. The Deluxe King was large and the bed so comfortable. Black out curtains. Very quiet. Nice to be able to open a window to enjoy the Sydney air. The entrance hall with closet was spacious and the bathroom with shower/tub was large enough. It also had a seperate toilet room. The Concierge - Chris had incredible dining recommendations and was so helpful and thoughtful the whole time we were there - 3 days. We loved the outdoor pool which seemed to get lots of use as the temps were ripe for sunning and swimming. Must say parts of it looked a bit like it was an after thought by the standard of chaise and cushion covering. But it was perfect for us. The location is just up the hill from the Circular Quay. It looks like some rooms may not have much of a view, So check carefully when you book. For the price, the comfort, the charming old world elegance of the hotel's public areas and rooms, we were very happy with our package. One would need to pay more for a really hot view! Quay at Circular Quay? the Marriot high up? the Holiday Inn (Old one)? might be good possiblities for view hotels but I would think one would pay more this privilege. We would go back to the Stamford at Circ Quay any day.  
+<Date>Feb 13, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+16	8(day):1	20(look):1	52(bit):1	74(perfect):1	130(standard):1	223(holiday):1	324(inn):1	552(cover):1	743(curtain):1	1007(black):1	1664(quay):3	1912(circular):1	2472(marriot):1	2850(cushion):1	3274(chaise):1	5133(stamford):1	
+14	17(view):2	19(price):2	34(feel):1	42(pay):3	81(value):1	114(hot):1	155(happy):1	272(world):1	332(charm):1	379(public):1	527(package):1	702(comfort):1	2255(elegance):1	2615(privilege):1	
+36	1(location):1	4(nice):1	11(bed):1	13(bathroom):1	17(view):3	18(book):1	20(look):2	25(comfortable):1	32(check):1	51(enjoy):1	58(quiet):1	61(shower):1	66(park):1	111(spacious):1	119(window):1	164(air):1	171(able):1	191(balcony):1	243(king):1	272(world):1	281(house):2	330(toilet):1	332(charm):1	366(step):1	490(entrance):1	565(closet):1	616(hall):1	648(deluxe):1	702(comfort):1	809(sydney):1	887(purchase):1	1374(opera):2	1416(seperate):1	2523(carefully):1	9606(envision):1	9954(juliet):1	
+4	1(location):1	756(hill):1	1664(quay):1	1912(circular):1	
+0	
+9	5(time):1	8(day):1	14(helpful):1	204(concierge):1	316(dine):1	577(recommendation):1	718(incredible):1	2837(thoughtful):1	3118(chris):1	
+8	22(pool):1	38(lot):1	40(love):1	261(swim):1	420(sun):1	901(outdoor):1	2173(temp):1	7683(ripe):1	
+0	
+
+<Author>bayarea123
+<Content>Excellent location We stayed here in Aug 2006 and had a great deal because it was during their winter. This place is ideally located - very close to the Sydney Opera House and the Botanical Garden. We could walk everywhere. The hotel had a nice lobby. Our room was spacious and had charm. The bathroom was definitely nice - with marble and a modern touch. We arrived quite early in the morning after a 14 hour flight and were disappointed we weren't allowed to check in earlier. Other than that, I would stay here again.  
+<Date>Feb 13, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+15	4(nice):1	13(bathroom):1	32(check):1	53(arrive):1	56(morning):1	59(definitely):1	60(hour):1	111(spacious):1	151(modern):1	154(disappoint):1	233(flight):1	279(touch):1	332(charm):1	359(allow):1	705(marble):1	
+14	1(location):1	7(walk):1	21(excellent):1	28(close):1	84(locate):1	140(deal):1	281(house):1	310(garden):1	809(sydney):1	1374(opera):1	1599(winter):1	1800(ideally):1	2404(aug):1	4278(botanical):1	
+0	
+0	
+2	4(nice):1	55(lobby):1	
+0	
+
+<Author>puffpuff
+<Content>A little stuffy..... This is a very traditional hotel, with rather formal public rooms and a very stuffy bar, which really wasn't inviting at all. The decor was rather tired in places. Having said that, the bedrooms were very comfortable, with really large beds and it was all very clean.Although it is in a very central location, it isn't close enough or high enough to have decent views of the harbour or opera house, which is a great shame. However, it is only about 4 minutes walk to the opera house from the hotel, and only slightly longer to some great restaurants. They were extremely accommodating about an early check-in. We arrived at the hotel at around 08.00 from an overnight flight, and were offered access to the leisure facilities to shower and change, while they promised to prioritise our room. By the time we had finished, they came to tell us that our room was ready.Although we didn't use the gym facilities ourselves, we did see them first-hand, and thought they were very small and inadequate, both in terms of the equipment and the showers/changing rooms. Two people would have been a crowd!Although tea and coffee making facilities are provided in-room, the milk was in the fridge and charged as being part of the mini-bar. We came across this elsewhere in our travels in Australia, and it seemed annoyingly penny-pinching. As it was also long-life milk and therefore not that nice, we simply asked housekeeping to provide a jug of fresh milk. This they did, but with some reluctance.The overall experience was fine, but it was far from the best hotel we stayed in along the way.  
+<Date>Feb 11, 2007
+<Rating>3	3	4	3	3	4	3	3	
+<Aspects>
+6	26(people):1	68(travel):1	313(crowd):1	646(elsewhere):1	1530(australia):1	8183(annoyingly):1	
+3	44(experience):1	70(overall):1	113(fine):1	
+45	3(clean):1	4(nice):1	5(time):1	7(walk):1	10(restaurant):1	11(bed):1	23(little):1	25(comfortable):1	27(bar):1	29(minute):1	53(arrive):1	61(shower):1	69(tell):1	89(offer):1	153(provide):1	159(access):1	161(change):1	197(fresh):1	211(facility):2	233(flight):1	268(bedroom):1	269(decor):1	274(ready):1	281(house):1	367(housekeeping):1	379(public):1	454(tire):1	488(simply):1	523(gym):1	598(slightly):1	767(ourselves):1	772(finish):1	975(promise):1	1011(term):1	1116(milk):2	1171(overnight):1	1210(invite):1	1211(equipment):1	1241(traditional):1	1374(opera):1	1857(stuffy):2	2032(leisure):1	2669(formal):1	3610(inadequate):1	4059(jug):1	
+9	1(location):1	17(view):1	28(close):1	168(central):1	257(decent):1	281(house):1	561(harbor):1	1292(shame):1	1374(opera):1	
+0	
+3	110(extremely):1	286(check-in):1	624(accommodate):1	
+9	90(coffee):1	136(charge):1	153(provide):1	211(facility):1	301(tea):1	318(fridge):1	1116(milk):1	1301(in-room):1	1338(mini-bar):1	
+0	
+
+<Author>highbank
+<Content>tranquil haven We spent a week at the Sir Stamford hotel and were delighted with its position, quality and value for money for a city hotel. The hotel is very convenient for Circular Quay, just a couple of minutes walk and very pleasantly situated opposite the botanical gardens.The staff are very welcoming and after a busy hot day, walking into the hotel's cool, tranquil atmosphere is bliss! Our standard room was large with sofa and desk, tea making facilities etc. The bathroom was marble, large with high quality fittings.For breakfast there was a wide choice of fruit, cereals, bacon, eggs etc. Towards the end of our stay we realised that you could actually order omelettes, fried eggs etc but noone had told us that. My only criticism was that the coffee was in my opinion poor compared to the general standard in Sydney cafes.In general we found the hotel very quiet ,although we did have the windows closed at night. On one occasion we could hear noise from another room but that was all.I would definitely recommend the hotel and return if we visit Sydney again - we loved the city, it is a delight!  
+<Date>Feb 10, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+12	41(city):1	64(spend):1	75(week):1	80(money):1	81(value):1	187(quality):1	1025(delight):1	1093(position):1	2412(haven):1	3038(tranquil):1	3376(sir):1	5133(stamford):1	
+19	2(night):1	13(bathroom):1	15(recommend):1	28(close):1	39(return):1	40(love):1	41(city):1	58(quiet):1	59(definitely):1	65(visit):1	94(noise):1	119(window):1	132(hear):1	187(quality):1	705(marble):1	809(sydney):1	871(occasion):1	1025(delight):1	2379(fitting):1	
+20	0(staff):1	7(walk):2	8(day):1	29(minute):1	99(couple):1	114(hot):1	186(convenient):1	202(welcome):1	220(busy):1	278(cool):1	310(garden):1	414(atmosphere):1	574(situate):1	747(pleasantly):1	783(opposite):1	1664(quay):1	1912(circular):1	2982(bliss):1	3038(tranquil):1	4278(botanical):1	
+0	
+0	
+26	6(breakfast):1	36(desk):1	69(tell):1	73(etc):3	90(coffee):1	107(choice):1	130(standard):2	180(actually):1	211(facility):1	215(fruit):1	275(cafe):1	301(tea):1	331(poor):1	381(compare):1	412(egg):2	529(cereal):1	607(realize):1	704(opinion):1	809(sydney):1	842(sofa):1	860(wide):1	959(towards):1	1009(fry):1	1057(bacon):1	2049(criticism):1	2172(omelette):1	
+0	
+
+<Author>orangetanger
+<Content>Great location just in front the botanic garden I spent 7 nights in Sydney in the Stamford Hotel in September 2006. Very good location on Macquarie street. If you want to be in an elegant hotel, near the opera, the botanic garden and the Rocks, don't hesitate. Good breakfast. Nice lobby with beautiful antics and carpets. Like an english club. Service not very present. Prefer superior rooms rather than luxury rooms, smaller.Try also the junior suite if you can afford.  
+<Date>Jan 31, 2007
+<Rating>4	4	5	5	4	4	3	-1	
+<Aspects>
+0	
+0	
+12	4(nice):1	45(beautiful):1	55(lobby):1	76(try):1	108(suite):1	396(carpet):1	437(luxury):1	536(prefer):1	785(superior):1	964(junior):1	1452(afford):1	10611(antics):1	
+15	1(location):2	2(night):1	31(front):1	35(street):1	64(spend):1	102(near):1	310(garden):2	773(rock):1	809(sydney):1	902(hesitate):1	972(september):1	986(elegant):1	1374(opera):1	5133(stamford):1	7155(botanic):2	
+0	
+0	
+4	6(breakfast):1	9(service):1	152(english):1	212(club):1	
+0	
+
+<Author>oscat
+<Content>great location, wouldn't stay anywhere else I travel to sydney for a weekend of relaxing, shopping and sightseeing about every second month and I wouldn't stay anywhere else but the Sir Stamford. It is in a great location directly opposite the botanical gardens and a couple of minute walk from Circular Quay and the Opera House. The pool is outside so not good in winter and its very small but that is about the only downside. Make sure you request a room on Macquarie Street overlooking the Botanical Gardens. These rooms are much larger than the others and have little balconies and doors that can be opened. They get all the morning sun too and have lovely views even from just the second floor. If you get given a room that is right up on the top floor with a sloping roof, ask to be moved - they are way to claustrophobic and not up to standard. Also, don't ask for a suite on the side of the hotel as they are dark and gloomy and designed somewhat like a maze. Most unpleasant. So assuming you have the room organised, its a great base to explore Sydney. On one occasion, room service organised a birthday cake for a friend and it was waiting in the room when we arrived. The concierge also arranged to collect Harbour Bridge Climb tickets for me and they were available when I checked in. Nothing is too much trouble. I tend not to eat in the hotel restaurant as there are wonderful places just around the corner along Circular Quay or in the Rocks which is a short walk away. For dinner, get a taxi down to one of the numerous restaurants at Cockle Bay Wharf. I always book online through wotif.com and they always have cheap deals.  
+<Date>Jan 19, 2007
+<Rating>5	-1	5	5	5	5	5	3	
+<Aspects>
+2	569(trouble):1	1747(unpleasant):1	
+5	18(book):1	140(deal):1	143(cheap):1	822(online):1	8402(wotif.com):1	
+30	17(view):1	23(little):1	24(floor):2	35(street):1	54(door):1	56(morning):1	87(lovely):1	108(suite):1	118(top):1	130(standard):1	148(request):1	191(balcony):1	207(move):1	260(overlook):1	284(base):1	310(garden):1	420(sun):1	459(dark):1	516(design):1	594(explore):1	636(roof):1	651(somewhat):1	809(sydney):1	1167(organize):1	1407(assume):1	3112(claustrophobic):1	4046(maze):1	4278(botanical):1	4374(gloomy):1	4467(slope):1	
+38	1(location):2	7(walk):2	10(restaurant):2	22(pool):1	29(minute):1	47(eat):1	48(wonderful):1	49(shop):1	68(travel):1	98(outside):1	99(couple):1	117(dinner):1	144(short):1	160(relax):1	170(else):2	172(weekend):1	185(taxi):1	200(corner):1	281(house):1	310(garden):1	383(directly):1	388(month):1	640(sight-see):1	671(bay):1	773(rock):1	782(downside):1	783(opposite):1	784(wharf):1	809(sydney):1	971(numerous):1	1053(tend):1	1374(opera):1	1599(winter):1	1664(quay):2	1912(circular):2	3376(sir):1	4278(botanical):1	5133(stamford):1	
+0	
+9	32(check):1	134(available):1	204(concierge):1	561(harbor):1	621(ticket):1	680(arrange):1	740(bridge):1	1424(climb):1	1889(collect):1	
+8	9(service):1	53(arrive):1	85(wait):1	146(friend):1	765(birthday):1	871(occasion):1	1029(cake):1	1167(organize):1	
+0	
+
+<Author>nycbc98
+<Content>Excellent deal for the money This was our first stop after a long flight from the U.S.--it was a terrific place to rest and recover. The room was large and overlooked the botanical gardens, which were lovely. People had told us the hotel might be a bit dated, but we found it charming (we didn't find it dated but rather just old-fashioned, formal (in the English style) and with modern amenities). The location was terrific--right across from the gardens and a 5-minute walk from Circular Quay (with the ferries, restaurants and downtown shopping). The staff was excellent--made wonderful recommendations for restaurants (Nick's at Darling Harbour) and made sure we had everything we needed. There wasn't anything that particularly stood out (like the views from the Four Seasons or the restaurant at the Park Hyatt, both of which we've stayed at) but it was undoubtedly the best deal for the money.  
+<Date>Dec 23, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	26(people):1	52(bit):1	69(tell):1	151(modern):1	152(english):1	291(amenity):1	326(style):1	332(charm):1	511(date):2	2669(formal):1	4201(old-fashioned):1	
+0	
+13	21(excellent):1	80(money):1	87(lovely):1	122(stop):1	140(deal):1	233(flight):1	260(overlook):1	288(rest):1	310(garden):1	699(terrific):1	1817(u.s):1	3020(recover):1	4278(botanical):1	
+11	1(location):1	7(walk):1	10(restaurant):1	49(shop):1	310(garden):1	334(downtown):1	699(terrific):1	1010(ferry):1	1664(quay):1	1912(circular):1	4828(5-minute):1	
+0	
+8	0(staff):1	10(restaurant):1	21(excellent):1	48(wonderful):1	561(harbor):1	577(recommendation):1	1681(darling):1	4450(nick):1	
+10	10(restaurant):1	17(view):1	66(park):1	80(money):1	140(deal):1	444(stand):1	553(particularly):1	610(season):1	924(hyatt):1	4925(undoubtedly):1	
+0	
+
+<Author>Davidius
+<Content>Quiet luxury in Sydney. Near-perfect location, a few steps from Circular Quay and its ferries/restaurants. Formerly the Ritz Carlton, the furnishings remain the same. Rooms are spacious and well equipped. Expensive rack rates but good packages (Quay Escapes) are available which include full breakfast in the dining room.The staff try to keep up the standards of the Ritz Carlton but don't all come up to the challenge. The service at breakfast was at times bizarre--coffee and tea ordered but didn't come at the first time of asking; shortage of butter; a toaster that burns; rather frightend uncommunicative waitresses.Despite these idiosyncracies, this is as good a place to stay as any in Sydney, if you want quiet luxury at a reasonable(for Sydney!) price.  
+<Date>Dec 7, 2006
+<Rating>4	4	5	5	3	4	2	-1	
+<Aspects>
+0	
+11	6(breakfast):1	19(price):1	71(include):1	78(rate):1	124(expensive):1	134(available):1	316(dine):1	527(package):1	1601(escape):1	1664(quay):1	1916(rack):1	
+12	58(quiet):2	111(spacious):1	273(reasonable):1	437(luxury):2	498(despite):1	809(sydney):3	825(ritz):1	870(furnishings):1	884(equip):1	1391(remain):1	1518(carlton):1	4846(formerly):1	
+4	1(location):1	366(step):1	1664(quay):1	1912(circular):1	
+0	
+6	0(staff):1	76(try):1	130(standard):1	825(ritz):1	1518(carlton):1	1708(challenge):1	
+11	5(time):2	6(breakfast):1	9(service):1	90(coffee):1	301(tea):1	1289(burn):1	1387(waitress):1	2183(butter):1	2849(toaster):1	2930(shortage):1	3957(bizarre):1	
+0	
+
+<Author>LightyPar
+<Content>Great base to explore Syndey. Great start to our holiday. We stayed at the Sir Stamford in Sydney for the first few days of our holiday in Australia. It was a great place from which to explore the city.The hotel isn't right on Circular Quay, but it's only a 3 minute walk and it has the advantage of being slightly out of the hussle and bustle of the quay. You can walk a couple of blocks down Macquarrie St to the Opera House or just cross the road to wander around the botanic gardens. Great location.Our room was large and spacious and the bathroom was really luxurious. As a rule you'd be better off with rooms higher up the hotel in order to get any kind of view.The staff we very helpful. It would have been nice if they could have found us a room when we arrived, because our flight got in really early, but it wasn't a major problem. We just left our bags and went to explore Sydney for a couple of hours.There is a small pool and sundeck, which was deserted when we used it. You wouldn't use if for olympic training, but it was clean and well kept.The only real gripe was that the breakfasts were probably about $10 (AUS) too expensive, but other than that I would recommend the Sir Stamford to anyone visiting Sydney for business or pleasure.  
+<Date>Dec 7, 2006
+<Rating>5	4	5	5	5	4	4	-1	
+<Aspects>
+13	8(day):1	41(city):1	43(leave):1	60(hour):1	99(couple):1	223(holiday):1	284(base):1	290(bag):1	594(explore):3	809(sydney):2	1530(australia):1	3376(sir):1	5133(stamford):1	
+15	6(breakfast):1	15(recommend):1	65(visit):1	124(expensive):1	147(business):1	165(start):1	178(probably):1	223(holiday):1	240(real):1	809(sydney):1	907(pleasure):1	1788(gripe):1	2716(au):1	3376(sir):1	5133(stamford):1	
+9	4(nice):1	13(bathroom):1	17(view):1	53(arrive):1	111(spacious):1	233(flight):1	315(major):1	708(luxurious):1	1835(rule):1	
+25	1(location):1	3(clean):1	7(walk):2	22(pool):1	29(minute):1	99(couple):1	100(bloc):1	182(train):1	230(road):1	281(house):1	310(garden):1	598(slightly):1	867(advantage):1	940(St):1	1107(bustle):1	1228(cross):1	1374(opera):1	1562(wander):1	1664(quay):2	1706(desert):1	1912(circular):1	2286(olympic):1	5909(hussle):1	7155(botanic):1	8001(sundeck):1	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>Ellemay
+<Content>Gorgeous,elegant,stylish - A real gem!       swimming pool -looking down  
+<Date>Nov 1, 2006
+<Rating>5	5	5	5	5	5	3	5	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+8	20(look):1	22(pool):1	240(real):1	261(swim):1	446(gorgeous):1	805(gem):1	961(stylish):1	986(elegant):1	
+0	
+
+<Author>mmed
+<Content>Wonderful with a bit of snootiness Across from the botanic gardens in the best section to explore Sydney. Rooms were what you would expect--marble baths, robes, slippers, music on when you come in. The little balconies were a treat too. Breakfast was great and their bar area was cozy and had great ambiance. Dinner at their restaurant was not so hot and we had some problems with our room. We booked on their internet and emailed several times to request a room with one bed. We had no response and assumed that a high end hotel had just taken care of it. That was not the case and when we got there they could not move us. We were told that that was just the way it went by the first couple of people we talked to. We also found out that they had overbooked the hotel by 5% and were actually hoping someone might not check in. We finally found someone sympathetic who moved us for 2 nights to the host floor to make up for it. All in all, we loved it here but found some of the staff snooty and not willing to help. The other half of the staff though went above and beyond.  
+<Date>Oct 12, 2006
+<Rating>4	3	5	5	5	2	3	-1	
+<Aspects>
+15	26(people):1	48(wonderful):1	52(bit):1	69(tell):1	99(couple):1	207(move):1	242(care):1	310(garden):1	371(talk):1	594(explore):1	809(sydney):1	947(section):1	1330(response):1	1407(assume):1	7155(botanic):1	
+0	
+21	2(night):1	5(time):1	11(bed):1	18(book):1	23(little):1	24(floor):1	62(expect):1	97(internet):1	148(request):1	191(balcony):1	207(move):1	226(bath):1	320(treat):1	341(finally):1	398(music):1	705(marble):1	1046(robe):1	1283(host):1	1306(slipper):1	1559(e-mail):1	5090(sympathetic):1	
+0	
+0	
+10	0(staff):2	32(check):1	40(love):1	92(help):1	180(actually):1	283(half):1	328(hope):1	738(beyond):1	2068(overbooke):1	3979(snooty):1	
+7	6(breakfast):1	10(restaurant):1	27(bar):1	114(hot):1	117(dinner):1	749(cozy):1	957(ambience):1	
+0	
+
+<Author>joanne2
+<Content>Stamford - brilliant stay. I booked through wotif discount hotels site. It cost around 拢750 for seven nights. The room was great with a side view of the opera house. This hotel was literally four mninutes walk from the stage door of the opera house. All i had to do was roll out of bed and walk down at 8.30am to wait for tickets for shows. I got them for a fraction of the price at A$33 each. We saw turandot and pirates of penzance. All was an amazing experience and truly wonderful productions. The hotel itself has a very small rooftop pool but its heated. The gym and sauna are next to it so we had a sauna and slipped into the pool - it was great! The doorman was totally brill... he gave us lots of advice about sydney and was very friendly. However the rest of the staff weren't as friendly. It could do with a training day on smiling and greeting people. Sometimes when we came out or into the hotel no one said good morning or evening etc. I was with two teenage boys - we all loved it. Circular quays on the doorstep with great access to the whole of sydney and beyond. We lovedour stay. The room was superb with the most amazing marble bathroom big enough to make a room itself! I thought it was great value. Breakfast was served in the morning on the third floor as was afternoon tea and biscuits although I'm not sure if were supposed to use these facilities as no one really showed us our rooms and talked us through anything. We didn'#t use the eating there - we were out at the crack of dawn and ate around and about. Don't eat at the cafe at the front of the shopping centre opposite the ferries. We waited an hour for breakfast and when it eventually came they got the order wrong. It cost $49 too. Sydney is expensive - as expensive as London. But a great stay for a week.  
+<Date>Sep 2, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+21	12(friendly):1	38(lot):1	40(love):1	47(eat):2	56(morning):1	73(etc):1	75(week):1	560(sometimes):1	575(advice):1	611(totally):1	793(brilliant):1	809(sydney):1	881(boy):1	998(doorman):1	1022(didn):1	1411(crack):1	1837(teen-age):1	3548(dawn):1	5133(stamford):1	5382(brill):1	8771(pirate):1	
+17	2(night):1	18(book):1	19(price):1	44(experience):1	48(wonderful):1	81(value):1	124(expensive):2	145(amaze):1	175(cost):2	192(site):1	476(truly):1	697(london):1	809(sydney):1	864(discount):1	3719(fraction):1	5998(production):1	6905(wotif):1	
+12	7(walk):1	11(bed):1	13(bathroom):1	17(view):1	85(wait):1	145(amaze):1	281(house):1	407(superb):1	621(ticket):1	705(marble):1	813(roll):1	1374(opera):1	
+21	7(walk):1	8(day):1	22(pool):1	26(people):1	31(front):1	47(eat):1	49(shop):1	54(door):1	101(center):1	182(train):1	275(cafe):1	281(house):1	387(smile):1	415(greet):1	539(heat):1	665(literally):1	783(opposite):1	1010(ferry):1	1063(rooftop):1	1374(opera):1	1866(stage):1	
+0	
+8	0(staff):1	6(breakfast):1	12(friendly):1	60(hour):1	85(wait):1	288(rest):1	427(wrong):1	1204(eventually):1	
+15	6(breakfast):1	22(pool):1	24(floor):1	56(morning):1	174(serve):1	211(facility):1	301(tea):1	364(afternoon):1	371(talk):1	523(gym):1	532(third):1	620(suppose):1	1422(sauna):2	2031(slip):1	2889(biscuit):1	
+6	159(access):1	738(beyond):1	809(sydney):1	1912(circular):1	2071(doorstep):1	10209(quays):1	
+
+<Author>A TripAdvisor Member
+<Content>Absolutely Supurb Last weekend my wife and I booked a weekend snugglers package via lastminute at this hotel and was extremely impressed with the entire package in terms of quality and value. In my travels I frequently visit 5 star hotels. The Sir Stamford, though smaller than most would rate as one of the best I have visted. The check in staff were most hospitable and set a lovely tone for a wonderful visit which included a welcoming hot chocolate by the fireplace, a well appointed top floor room with soft music playing on arrival and views across Circular Quay to the harbour bridge  Luna Park. The buffet breakfast (included in the package) was also terrific including a great selection of hot food, cereals, patries, fruit, muffins etc. The location is great too.. just a few minutes stroll to Circualr Quay and the Opera House. A great base for any visitors to Sydney.  
+<Date>Jul 3, 2006
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+3	284(base):1	809(sydney):1	951(visitor):1	
+18	18(book):1	65(visit):1	68(travel):1	81(value):1	103(star):1	110(extremely):1	172(weekend):2	184(wife):1	187(quality):1	189(absolutely):1	329(entire):1	343(impress):1	512(via):1	527(package):2	1011(term):1	1573(frequently):1	6433(lastminute):1	8548(supurb):1	
+31	0(staff):1	17(view):1	24(floor):1	29(minute):1	32(check):1	48(wonderful):1	65(visit):1	66(park):1	71(include):1	87(lovely):1	114(hot):1	118(top):1	202(welcome):1	224(arrival):1	234(set):1	281(house):1	386(play):1	398(music):1	561(harbor):1	579(appoint):1	589(soft):1	632(chocolate):1	740(bridge):1	1056(stroll):1	1374(opera):1	1664(quay):2	1912(circular):1	2047(fireplace):1	2596(tone):1	2743(hospitable):1	3217(luna):1	
+5	1(location):1	78(rate):1	3376(sir):1	3859(vist):1	5133(stamford):1	
+0	
+0	
+12	6(breakfast):1	16(food):1	71(include):2	73(etc):1	77(buffet):1	114(hot):1	215(fruit):1	333(selection):1	527(package):1	529(cereal):1	699(terrific):1	1260(muffin):1	
+0	
+
+<Author>pinkpooch
+<Content>Excellent location and service I booked this hotel online with the view to attending a concert at the Opera House. The location was excellent for this purpose, being a 5 minute stroll there. It is also a 5 minute walk from the Circular Quay train/ferry station. The service by all the staff was also excellent, with great personal attention given. This level of service is rarely given at the big 5 star hotels. I would definitely return and also recommend it to friends and family.  
+<Date>May 18, 2006
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+5	15(recommend):1	39(return):1	59(definitely):1	106(family):1	146(friend):1	
+4	9(service):1	103(star):1	306(level):1	1791(rarely):1	
+0	
+18	1(location):2	7(walk):1	9(service):1	17(view):1	18(book):1	21(excellent):2	29(minute):2	82(station):1	182(train):1	281(house):1	822(online):1	826(attend):1	1056(stroll):1	1374(opera):1	1428(purpose):1	1664(quay):1	1912(circular):1	2296(concert):1	
+0	
+5	0(staff):1	9(service):1	21(excellent):1	711(personal):1	726(attention):1	
+0	
+0	
+
+<Author>AnneB32
+<Content>Excellent hotel I stayed at the Sir Stamford in early March. Check in was easy and the staff were very helpful and efficient just what was needed after a long flight from the UK.The room was large, clean, nicely decorated and well furnished with a very large bathroom. I had a nice balcony which overlooked the start of the Harbour Bridge. There was plenty of storage and cupboard space which I liked particularly as I was there for nearly a fortnight. In addition to this the safe was big enough to store a laptop which is a rarity in most hotels.Breakfast was good but not really much variation so it became a bit boring after a while. The hotel has a good bar and serves good food in the evening.As for the location it couldn't be better situated. The Opera House is a 2 minute walk away, the Royal Botanical Gardens are opposite, Circular Quay and the rocks are just outside your day. Fantastic hotel would definitely stay there again.  
+<Date>Apr 14, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	21(excellent):1	59(definitely):1	86(fantastic):1	137(safe):1	255(store):1	615(march):1	918(addition):1	1111(laptop):1	3376(sir):1	4973(rarity):1	5133(stamford):1	
+6	4(nice):1	165(start):1	191(balcony):1	260(overlook):1	561(harbor):1	740(bridge):1	
+12	3(clean):1	13(bathroom):1	158(plenty):1	210(space):1	305(decorate):1	404(nicely):1	553(particularly):1	787(furnish):1	896(nearly):1	1311(storage):1	2374(cupboard):1	8065(fortnight):1	
+15	1(location):1	7(walk):1	8(day):1	29(minute):1	98(outside):1	281(house):1	310(garden):1	574(situate):1	753(royal):1	773(rock):1	783(opposite):1	1374(opera):1	1664(quay):1	1912(circular):1	4278(botanical):1	
+0	
+7	0(staff):1	14(helpful):1	32(check):1	93(easy):1	233(flight):1	401(efficient):1	1178(uk):1	
+7	6(breakfast):1	16(food):1	27(bar):1	52(bit):1	174(serve):1	1098(bore):1	4862(variation):1	
+0	
+
+<Author>jander18
+<Content>Recommend it to anyone Without knowing Sydney or this hotel, I booked because of the location - which is perfect. A short walk took us to the Opera House, which we could see from our small balcony, and to the Royal Botanic Garden, which we could see across the street. Its a less than 10-minute walk to the other end of the Circular Quay and a few minutes more to the Rocks. And it is a pleasant place to return to after a long day out. In spite of being located next to a busy motorway, our room was very quiet when we could bring ourselves to close the balcony doors and shut the triple drapes. (We were on the 9th floor; lower floors might be noisier.) All requests for service were met with of course responses and were tended to very quickly. Our room was an upgrade from what we had booked online and was spacious and well-appointed. This is not the sleek modern accommodation many Americans seek abroad, but that adds to its appeal. I'd recommend it. (We were an elderly mom and two daughters travelling. Did not see kids in the hotel, so I can't speak to the child-friendliness.)  
+<Date>Mar 3, 2006
+<Rating>5	4	5	-1	4	-1	5	-1	
+<Aspects>
+10	8(day):1	15(recommend):1	39(return):1	68(travel):1	127(speak):1	150(pleasant):1	201(kid):1	467(daughter):1	1855(mom):1	2784(elderly):1	
+8	151(modern):1	351(add):1	721(accommodation):1	1172(americans):1	1679(appeal):1	1980(seek):1	2616(sleek):1	3868(abroad):1	
+17	24(floor):2	28(close):1	54(door):1	58(quiet):1	84(locate):1	142(bring):1	191(balcony):1	217(noisy):1	220(busy):1	767(ourselves):1	777(lour):1	1086(shut):1	1553(triple):1	2501(drape):1	3000(spite):1	5180(9th):1	6918(motorway):1	
+19	1(location):1	7(walk):2	15(recommend):1	18(book):1	29(minute):1	35(street):1	74(perfect):1	144(short):1	191(balcony):1	281(house):1	310(garden):1	753(royal):1	773(rock):1	809(sydney):1	1374(opera):1	1664(quay):1	1912(circular):1	4271(10-minute):1	7155(botanic):1	
+0	
+7	9(service):1	148(request):1	196(meet):1	293(course):1	471(quickly):1	1053(tend):1	1330(response):1	
+0	
+5	18(book):1	111(spacious):1	163(upgrade):1	822(online):1	2440(well-appoint):1	
+
+<Author>Still_Searching
+<Content>Will come back After staying in Menzies the first couple of nights on arrival to Australia- we decided to book somewhere nicer for 2 nights before departure. Our room was beutiful- outstanding location just opposite Circular Quay, excellent view from the windows, bathrobes in the room, and beautiful bathroom. We have really loved our stay, would recommend this hotel to anybody who visits Sydney.  
+<Date>Jan 24, 2006
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+4	15(recommend):1	40(love):1	65(visit):1	809(sydney):1	
+0	
+12	1(location):1	13(bathroom):1	17(view):1	21(excellent):1	45(beautiful):1	119(window):1	534(outstanding):1	783(opposite):1	1529(bathrobe):1	1664(quay):1	1912(circular):1	6462(beutiful):1	
+0	
+0	
+0	
+9	2(night):2	4(nice):1	18(book):1	99(couple):1	219(decide):1	224(arrival):1	1031(departure):1	1530(australia):1	9094(menzy):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Excellent hotel, Perfect location       View of hotel from Botanical Gardens  
+<Date>Dec 26, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+0	
+6	1(location):1	17(view):1	21(excellent):1	74(perfect):1	310(garden):1	4278(botanical):1	
+0	
+0	
+0	
+0	
+
+<Author>mis5
+<Content>I loved the Sir Stamford After reading mixed reviews on this site, I had some concerns about booking the Sir Stamford however I did and was amazed at how wonderful it was. I felt as though I was at an English country estate. The guest rooms were extremely large and comfortable, the bathrooms were luxurious, the dining room was excellent and the service was fantastic. The location had to be one of the best in Sydney-right up the street from the opera house and a block away from Circular Quay. I will definately return since it was one of the best hotels I have stayed at. In addition, the hotel's web site has some very competitive prices on the rooms.  
+<Date>Nov 25, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+6	34(feel):1	39(return):1	152(english):1	410(definately):1	530(country):1	4651(estate):1	
+5	19(price):1	192(site):1	918(addition):1	1019(web):1	3279(competitive):1	
+9	9(service):1	13(bathroom):1	21(excellent):1	25(comfortable):1	86(fantastic):1	91(guest):1	110(extremely):1	316(dine):1	708(luxurious):1	
+18	1(location):1	18(book):1	35(street):1	37(review):1	40(love):1	48(wonderful):1	88(read):1	100(bloc):1	145(amaze):1	192(site):1	281(house):1	496(concern):1	609(mix):1	1374(opera):1	1664(quay):1	1912(circular):1	3376(sir):2	5133(stamford):2	
+0	
+0	
+0	
+0	
+
+<Author>Philipau
+<Content>Elegant and refined I stayed at the hotel in early October on the 8th floor. It is a hotel with great ambience and and an olde world feel.The decoration in the public areas is rich and sumptuous. The bar and restaurant were very enjoyable places to be with exceptional staff. I felt 'at home' right away.The room was a good size for an 'ordinary' room in a sydney hotel. It had an air of fading grandeur. The marble bathroom was luxurious, but no separate shower.I had a glitch checking in when I was put in a room with sealed windows, but was moved immediately I contacted reception.Room service and housekeeping were excellent.The new room had a loose window catch and problems with the air-conditioning. When I rang about it next morning the staff promised action straight away, unfortunately this did not happen after 3 more calls. So I went out and left a personal letter for the Manager.When I returned about 3 hours later all was fixed with a lovely bowl of fruit,mineral waters and a letter from the manager with complimentary access to the Club Floor for my stay. She also rang me personally to check all was ok.Apart from this glitch my stay was superb. I do get the impression that more staff could be used, but everyone was very friendly and helpful. Service without snobbery or grovelling.It was just the perfect tone.The breakfast in the Dining Room was very nice and the bar is just a fantastic place to be.I have looked and looked (and sampled)for the right place to stay when in Sydney and at last I have found it.  
+<Date>Oct 23, 2005
+<Rating>4	3	4	-1	4	-1	4	-1	
+<Aspects>
+13	20(look):2	34(feel):2	74(perfect):1	141(home):1	272(world):1	407(superb):1	809(sydney):1	857(apart):1	957(ambience):1	1960(sample):1	2596(tone):1	3121(glitch):1	10104(olde):1	
+0	
+41	9(service):1	13(bathroom):1	21(excellent):1	24(floor):2	39(return):1	57(water):1	60(hour):1	61(shower):1	79(late):1	83(size):1	87(lovely):1	119(window):1	159(access):1	164(air):1	212(club):1	215(fruit):1	258(manager):1	345(complimentary):1	367(housekeeping):1	379(public):1	474(separate):1	494(fix):1	540(catch):1	705(marble):1	708(luxurious):1	809(sydney):1	911(october):1	986(elegant):1	1357(8th):1	1366(bowl):1	1580(decoration):1	1972(letter):1	2025(ordinary):1	2234(loose):1	2284(air conditioning):1	2350(rich):1	3013(fade):1	3887(mineral):1	4321(sumptuous):1	5114(refine):1	5408(grandeur):1	
+0	
+0	
+26	0(staff):2	12(friendly):1	14(helpful):1	32(check):2	43(leave):1	56(morning):1	67(call):1	119(window):1	123(ok):1	129(reception):1	207(move):1	258(manager):1	382(happen):1	489(immediately):1	524(unfortunately):1	711(personal):1	713(contact):1	827(straight):1	848(impression):1	958(action):1	975(promise):1	1052(personally):1	1150(ring):2	1972(letter):1	2860(seal):1	3121(glitch):1	
+10	0(staff):1	4(nice):1	6(breakfast):1	9(service):1	10(restaurant):1	27(bar):2	86(fantastic):1	316(dine):1	567(enjoyable):1	837(exceptional):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Georgeous ambience My sister and I recently stayed at your hotel and were delighted with our room, the hotel'slocation and staff. A small, truly elegant hotel. We would highly recommend your hotelto our friends and family. Thank you for a wonderful stay!  
+<Date>Sep 20, 2005
+<Rating>5	5	5	-1	5	-1	4	-1	
+<Aspects>
+6	15(recommend):1	48(wonderful):1	106(family):1	138(highly):1	146(friend):1	271(thank):1	
+0	
+6	0(staff):1	322(recently):1	892(sister):1	957(ambience):1	1025(delight):1	6965(georgeous):1	
+2	476(truly):1	986(elegant):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Not Quite 5 Star Good location, nice small hotel that could be very good; however, service from the front desk is appalling. We had a nice large room but the carpet was old with a very large offensive and promient spot. Repeated requests (every day for four days) to clean were ignored ... definitely not 5 star service. On checkout the bill had food and bar charges that were not ours, after we waited for front staff to review receipts they discovered that they had charged the wrong room. No apology just an impatient arrogance that they had to go through the receipts. Restaurant and concierge service was excellent and the sitting room with fireplace is very cozy and appealing.  
+<Date>Sep 14, 2005
+<Rating>2	3	2	-1	2	-1	2	-1	
+<Aspects>
+4	1547(apology):1	2725(receipt):1	5459(impatient):1	7193(arrogance):1	
+8	3(clean):1	8(day):2	9(service):1	59(definitely):1	103(star):1	148(request):1	1215(ignore):1	1467(repeat):1	
+4	4(nice):1	317(spot):1	396(carpet):1	4350(offensive):1	
+7	1(location):1	4(nice):1	9(service):1	31(front):1	36(desk):1	103(star):1	2752(appal):1	
+0	
+13	0(staff):1	16(food):1	27(bar):1	31(front):1	37(review):1	85(wait):1	136(charge):2	427(wrong):1	495(bill):1	658(checkout):1	843(ours):1	869(discover):1	2725(receipt):1	
+8	9(service):1	10(restaurant):1	21(excellent):1	169(sit):1	204(concierge):1	749(cozy):1	1679(appeal):1	2047(fireplace):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A Pleasant Surprise I Spent two nights in Sydney for a training course, which was in Macquarie Street.This hotel impressed from the start with extremely helpful front door staff.Room was superbly furnished, and the hotel has a real personal touch with lots of french antiques/reproductions.Room (409) was fantastic, big and spacious, with a bathroom which was even more impressive than my other fav. hotel, the Canberra Hyatt.The dining room is fabulous for breakfast. A four minute walk to Circular Quay. Great price, Great location Great atmosphere.  
+<Date>May 1, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	924(hyatt):1	
+3	1(location):1	19(price):1	414(atmosphere):1	
+15	6(breakfast):1	13(bathroom):1	38(lot):1	86(fantastic):1	111(spacious):1	240(real):1	254(french):1	270(fabulous):1	279(touch):1	316(dine):1	711(personal):1	787(furnish):1	920(impressive):1	3820(superbly):1	6746(fav):1	
+12	2(night):1	7(walk):1	29(minute):1	35(street):1	64(spend):1	150(pleasant):1	182(train):1	199(surprise):1	293(course):1	809(sydney):1	1664(quay):1	1912(circular):1	
+0	
+7	0(staff):1	14(helpful):1	31(front):1	54(door):1	110(extremely):1	165(start):1	343(impress):1	
+0	
+0	
+
+<Author>coloradowriter
+<Content>Premium value at a reasonable price (January/ 05) Thoroughly impressed with this hotel all the way around. Service was excellent and ammenities rivaled any world-class hotel. And all for a very reasonable price. We've paid more to stay at other Sydney hotels and had a far less-impressive experience. Loved the quaint feel of this smaller-sized hotel and found the staff exceptionally friendly and helpful.  
+<Date>Jan 20, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+10	19(price):2	42(pay):1	44(experience):1	81(value):1	273(reasonable):2	343(impress):1	809(sydney):1	898(thoroughly):1	1018(january):1	1465(premium):1	
+7	0(staff):1	12(friendly):1	14(helpful):1	34(feel):1	40(love):1	1242(exceptionally):1	1295(quaint):1	
+0	
+0	
+0	
+5	9(service):1	21(excellent):1	2231(ammenity):1	4559(rival):1	6979(world-class):1	
+0	
+

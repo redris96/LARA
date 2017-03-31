@@ -1,0 +1,742 @@
+<Author>Conorq
+<Content>Service how it should be We booked this hotel for our final 3 nights in tokyo and wow we loved it.The hotel isn't that great to look at from the outside.But from the inside its beautifull. We got an amazing rate on Expedia. We had an executive room on the top floors with a breathtaking view of tokyo tower. Room category included free champagne every day from the minibar. The bathrom was big with jacuzzi. It also included free executive lounge , lounge a little disapointing. Breakfast was good.Only niggle the computers use was not free. The hotel was huge and had a shop too with reasonable prices.A great hotel if your looking to pamper yourself.The service was excellent !  
+<Date>Jan 3, 2009
+<Rating>5	5	5	5	5	5	5	3	
+<Aspects>
+8	20(look):1	78(rate):1	145(amaze):1	576(yourself):1	808(jacuzzi):1	1066(expedia):1	1815(pamper):1	11060(bathrom):1	
+4	19(price):1	49(shop):1	133(huge):1	273(reasonable):1	
+15	8(day):1	17(view):1	24(floor):1	46(free):1	71(include):1	118(top):1	378(tower):1	408(inside):1	770(champagne):1	872(executive):1	1037(minibar):1	1040(tokyo):1	1444(breathtaking):1	2011(category):1	3896(beautifull):1	
+2	20(look):1	98(outside):1	
+0	
+0	
+15	2(night):1	6(breakfast):1	9(service):2	18(book):1	21(excellent):1	23(little):1	40(love):1	46(free):1	71(include):1	237(lounge):2	862(wow):1	872(executive):1	1040(tokyo):1	1337(final):1	2513(disapoint):1	
+3	46(free):1	555(computer):1	3910(niggle):1	
+
+<Author>seafairy
+<Content>Fantastic! My husband and I took a belated honeymoon to Japan and we stayed at the Prince Park Tower for two separate stays (7 nights total) in Tokyo based on the great reviews from TA. The reviews are correct...Prince Park Tower is fantastic! We took a short trip to Kyoto in the middle of our trip and stayed at the Hyatt Regency.The hotel worked out to be a great base for us with amazing services. We booked the Premium package (first leg through American Express travel and second leg through Expedia.com) and I would highly recommend the package. You get one of the Executive rooms with its own elevator bank that you access through your room key card. It comes with complimentary champagne every day, 2 bottles of water, daily breakfast (we LOVED the Japanese breakfast and had it almost every morning!), access to the Spa/Gym and the Premium Lounge.The hotel is modern and beautiful with amazing amenities. As others have mentioned, the bathroom is fully stocked with everything you might need including Ella Bache toiletries with a cute pouch with facial cleanser, toner and moisturizer plus a separate kit for men. The rooms are kept spotless and housekeeping kindly provided many extra coffee capsules for the Nepresso machine at my daily request.During our first stay, we were able to get the Tokyo Tower view which is awesome. There was also a nice note with a box of cookies from the property for the occasion which was sweet. Also, we went bowling a few times (the salon is by the spa/gym) and because we were on our honeymoon, we got two games plus shoes comped. I think the policy is that if you don't use the spa/gym, you can trade in that pass for one game. The bowling alley is really well-kept! I also used the hot springs and it's so soothing after all the walking we were doing. Concierge was great. The location was about a 10-minute walk to various subway lines and JR station. I do wish it had more convenient local restaurants around the property but I guess it's a trade-off because it was very peaceful and quiet by Shiba Park. We ate at the Japanese restaurants a couple of times plus had the room service bento dinners. Yes, the food was pricey but hey, we were on vacation. Overall, it was a fantastic time at Prince Park Tower Tokyo! Don't hesitate to book your stay there!  
+<Date>Dec 29, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+19	33(trip):2	45(beautiful):1	86(fantastic):1	144(short):1	145(amaze):1	151(modern):1	291(amenity):1	314(spa):1	325(middle):1	400(pass):1	683(game):1	924(hyatt):1	1366(bowl):1	1634(policy):1	1671(alley):1	2044(trade):1	2840(regency):1	3682(well-kept):1	5809(kyoto):1	
+27	2(night):1	5(time):1	16(food):1	37(review):1	66(park):1	105(husband):1	131(vacation):1	203(plus):1	250(yes):1	284(base):1	314(spa):1	378(tower):1	474(separate):1	502(honeymoon):2	546(pricey):1	683(game):1	786(total):1	1040(tokyo):1	1191(shoe):1	1366(bowl):1	1367(hey):1	1900(japan):1	2041(prince):1	2740(ta):1	2942(comp):1	3418(salon):1	8973(belated):1	
+34	5(time):1	13(bathroom):1	17(view):1	37(review):1	66(park):2	70(overall):1	71(include):1	86(fantastic):2	90(coffee):1	128(extra):1	148(request):1	153(provide):1	171(able):1	203(plus):1	244(mention):1	348(awesome):1	360(daily):1	367(housekeeping):1	378(tower):3	474(separate):1	493(machine):1	548(spotless):1	599(stock):1	657(toiletry):1	1040(tokyo):2	1202(cute):1	1263(correct):1	2041(prince):2	2509(kindly):1	2773(kit):1	3582(facial):1	9923(moisturizer):1	10167(capsule):1	11074(pouch):1	
+10	1(location):1	7(walk):2	82(station):1	114(hot):1	188(line):1	370(subway):1	823(various):1	1162(spring):1	3268(soothe):1	4271(10-minute):1	
+0	
+1	204(concierge):1	
+53	4(nice):1	5(time):1	6(breakfast):2	8(day):1	9(service):2	10(restaurant):2	15(recommend):1	18(book):2	40(love):1	47(eat):1	56(morning):1	57(water):1	58(quiet):1	66(park):1	68(travel):1	99(couple):1	117(dinner):1	138(highly):1	145(amaze):1	159(access):2	166(own):1	186(convenient):1	195(local):1	203(plus):1	214(property):2	216(elevator):1	237(lounge):1	238(bottle):1	284(base):1	292(card):1	297(note):1	314(spa):1	339(key):1	345(complimentary):1	360(daily):1	384(wish):1	469(guess):1	527(package):2	559(japanese):2	770(champagne):1	871(occasion):1	872(executive):1	902(hesitate):1	945(box):1	950(sweet):1	1036(peaceful):1	1124(express):1	1173(cookie):1	1225(bank):1	1421(leg):2	1465(premium):2	7437(expedia.com):1	7572(tradeoff):1	
+0	
+
+<Author>austrianinjapan
+<Content>The best hotel! We (2 ladies) stayed in the Prince Park Tower for only a weekend in November but I wished it was longer! Everything was just wonderful!!!! When we arrived at the hotel a staff dressed in a kimono came up to us immediately and took our luggage, then guided us to the check-In area where we could sit down comforatbly in leather chairs while checking In- that was the best Check In I ever had! We were upgraded to the ladies floor (with extra toiletries, foot massage equipment, bath salts, ...) which was on the 30th (??) floor with an amazing view of Tokyo city and Tokyo tower! The room provided all the amenities one can ask for and we especially loved the NESPRESSO machine and the remote controlled curtains (Lost in translation!!). The staff is extremely friendly and always helpful.I have been to my share of 5 star hotels (Sheraton, Steigenberger, Sofitel, Hilton,..) and have to say that the PPT hotel was my best experience so far! Can麓t wait to go back!  
+<Date>Dec 6, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+1	48(wonderful):1	
+7	44(experience):1	103(star):1	477(hilton):1	520(share):1	1013(sheraton):1	1417(sofitel):1	9191(steigenberger):1	
+23	17(view):1	24(floor):1	40(love):1	41(city):1	66(park):1	126(especially):1	145(amaze):1	153(provide):1	172(weekend):1	291(amenity):1	378(tower):2	384(wish):1	493(machine):1	521(lady):1	596(lose):1	743(curtain):1	865(control):1	999(november):1	1040(tokyo):2	1272(remote):1	2041(prince):1	4358(translation):1	9147(nespresso):1	
+0	
+0	
+15	0(staff):2	12(friendly):1	14(helpful):1	32(check):2	53(arrive):1	85(wait):1	110(extremely):1	169(sit):1	198(chair):1	249(luggage):1	286(check-in):1	489(immediately):1	829(guide):1	935(dress):1	2729(leather):1	
+0	
+11	24(floor):1	128(extra):1	163(upgrade):1	226(bath):1	402(foot):1	521(lady):1	657(toiletry):1	730(massage):1	1211(equipment):1	2035(30th):1	2225(salt):1	
+
+<Author>Maryjudy
+<Content>Elegant and lovely We spent my birthday weekend at the Prince Park Tower, and I was more than delighted. The hotel was lovely, and we were treated beautifully by the staff. Our room was gorgeous; we upgraded to one of the executive floors, which was well worth it. Our view of Tokyo was fabulous. Our bed was huge and comfortable; linens were gorgeous; the bathroom was great - jacuzzi-type tub, separate shower, lots of lovely amenities. We had a view to the river, and also, below, of the Buddhist shrine complex. The hotel offers a shuttle to the JR station; there is also a bus to Narita, although we had JR passes, so took the JR line back to Narita. There are two subway stations within a short walk, different lines. Via subway, the hotel is close to Roppongi, with many restaurants and exciting nightlife. We found it convenient to go anywhere we needed to, and also, wonderful that it is surrounded by a park, so that there was not alot of traffic noise. The spa and baths were very nice. I won't need to look around for hotels next trip to Tokyo; we'll go back to the Prince Park.  
+<Date>Nov 29, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+10	4(nice):1	17(view):2	226(bath):1	270(fabulous):1	314(spa):1	585(below):1	710(river):1	1040(tokyo):1	1074(complex):1	11098(shrine):1	
+0	
+24	11(bed):1	13(bathroom):1	24(floor):1	25(comfortable):1	38(lot):1	61(shower):1	64(spend):1	66(park):1	87(lovely):2	96(worth):1	133(huge):1	163(upgrade):1	172(weekend):1	291(amenity):1	311(tub):1	378(tower):1	446(gorgeous):2	474(separate):1	630(linen):1	765(birthday):1	872(executive):1	986(elegant):1	1025(delight):1	2041(prince):1	
+28	7(walk):1	10(restaurant):1	20(look):1	28(close):1	33(trip):1	48(wonderful):1	66(park):2	82(station):2	89(offer):1	94(noise):1	120(bus):1	144(short):1	186(convenient):1	188(line):2	321(shuttle):1	370(subway):2	400(pass):1	486(traffic):1	487(wo):1	512(via):1	647(alot):1	667(surround):1	1040(tokyo):1	1136(excite):1	1305(nightlife):1	2041(prince):1	3258(narita):2	4832(roppongi):1	
+0	
+4	0(staff):1	87(lovely):1	320(treat):1	771(beautifully):1	
+0	
+0	
+
+<Author>RobertsMom
+<Content>Wonderful Staff and beautiful views We recently stayed at the Prince Park Tower. On previous trips we had stayed nearby at the older Prince hotel and decided to stay at the Park Tower Prince because they have an executive lounge and I use it alot during the day.The location is very similar to the older Prince so there isn't much outside the doors of the hotel. The location is good for my husband business meetings. And its close to Tokyo Tower. You can walk into Roponggi (sp?) for dinner and its about a 15 min walk. Lots of restaurants.The hotel is very new and looks it. They do have a fitness center and pool but there is an additional charge to use them.There are many restaurants to choose from in the hotel. And they have a few stores; some upscale and the convience store with take away food and drugstore items. Hotel staff was very attentive and helpful as always.Internet was free as far as I can remember.The room had the usual amenities; robe, safe, coffee maker etc.  
+<Date>Nov 18, 2008
+<Rating>4	4	4	3	5	4	5	5	
+<Aspects>
+1	20(look):1	
+0	
+17	0(staff):1	17(view):1	28(close):1	45(beautiful):1	48(wonderful):1	66(park):1	73(etc):1	90(coffee):1	137(safe):1	291(amenity):1	322(recently):1	378(tower):2	682(usual):1	996(maker):1	1040(tokyo):1	1046(robe):1	2041(prince):1	
+12	1(location):2	7(walk):2	54(door):1	98(outside):1	105(husband):1	117(dinner):1	147(business):1	247(min):1	874(similar):1	2041(prince):1	2346(meeting):1	3470(sp):1	
+0	
+8	0(staff):1	14(helpful):1	22(pool):1	101(center):1	136(charge):1	537(attentive):1	835(additional):1	983(fitness):1	
+20	8(day):1	10(restaurant):2	16(food):1	33(trip):1	38(lot):1	66(park):1	167(choose):1	219(decide):1	232(nearby):1	237(lounge):1	255(store):2	373(previous):1	378(tower):1	519(item):1	647(alot):1	872(executive):1	1237(upscale):1	2041(prince):2	5269(drugstore):1	7878(convience):1	
+3	46(free):1	97(internet):1	375(remember):1	
+
+<Author>boston_tripadviser
+<Content>One of the best hotels I have visited       Night view from bathroom  
+<Date>Nov 18, 2008
+<Rating>5	5	5	3	5	5	5	5	
+<Aspects>
+0	
+0	
+4	2(night):1	13(bathroom):1	17(view):1	65(visit):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>djr915
+<Content>Fabulous Hotel Great hotel!!! Rooms are amazing - large, great views, very clean. Service is excellent. Location is good because it's close to the subway that can take you anywhere.  
+<Date>Nov 17, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+1	270(fabulous):1	
+0	
+3	3(clean):1	17(view):1	145(amaze):1	
+3	1(location):1	28(close):1	370(subway):1	
+0	
+0	
+2	9(service):1	21(excellent):1	
+0	
+
+<Author>LondonTravellertoo
+<Content>Very good hotel with convenient location       View of the Tokyo Tower from our room  
+<Date>Nov 13, 2008
+<Rating>4	4	4	4	5	4	4	3	
+<Aspects>
+0	
+0	
+5	1(location):1	17(view):1	186(convenient):1	378(tower):1	1040(tokyo):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>telco
+<Content>Great View from the Tower Avoid the Prince Hotel, the old one without the tower. Tourist trap for package tour hordes. Depressing to even walk past.The Tower is another story. The location is perfect, near a monastery and the Eiffel tower. Make sure you get a room in the tower, preferably high floor. Very cool.Imagine, a whirlpool, your own balcony (that opens!) over nighttime Tokyo. Impeccable front desk, but why would it be any other way?Liked it so much that stayed there on both parts of a two part trip to Tokyo. No frequent traveler points and no nonsense.  
+<Date>Nov 5, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+12	33(trip):1	181(tour):1	209(tourist):1	267(traveler):1	278(cool):1	527(package):1	1040(tokyo):2	1355(frequent):1	2166(trap):1	3701(night-time):1	5955(nonsense):1	6847(hord):1	
+0	
+16	1(location):1	17(view):1	24(floor):1	74(perfect):1	102(near):1	166(own):1	191(balcony):1	378(tower):5	436(avoid):1	733(imagine):1	906(story):1	1532(eiffel):1	2041(prince):1	2790(whirlpool):1	6444(preferably):1	8149(monastery):1	
+3	7(walk):1	419(past):1	2189(depress):1	
+0	
+3	31(front):1	36(desk):1	1542(impeccable):1	
+0	
+0	
+
+<Author>Suzhow
+<Content>Outstanding Hotel       080429-Up_Elevator-PrinceHotel  
+<Date>Nov 4, 2008
+<Rating>5	4	5	5	5	5	5	2	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+1	534(outstanding):1	
+0	
+
+<Author>skg_8
+<Content>Fantastic service!       Tokyo Prince Park Tower viewed from Tokyo Tower  
+<Date>Nov 2, 2008
+<Rating>5	5	4	5	5	5	5	5	
+<Aspects>
+0	
+0	
+5	17(view):1	66(park):1	378(tower):2	1040(tokyo):2	2041(prince):1	
+0	
+0	
+0	
+2	9(service):1	86(fantastic):1	
+0	
+
+<Author>DownunderSugarglider
+<Content>Luxurious stay at Prince park tower       Premium Double Room  
+<Date>Nov 1, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+6	66(park):1	179(double):1	378(tower):1	708(luxurious):1	1465(premium):1	2041(prince):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>pauls71
+<Content>Hospitality at its best Very nice hotel because of its location, outstanding service, well appointed large comfortable rooms with all the amenities you can possibly think of, tremendous views from the restaurants and bars on the top floor (also for breakfast!!!), free internet, regular free shuttle bus to and from closest JR station Hamamatsucho (or 12min walk), which allows you to go anywhere in Tokyo with the JR Yamanote Line (included in JR PASS!!!), great breakfast buffet. I got the best deal directly from the hotel.  
+<Date>Oct 25, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+2	140(deal):1	383(directly):1	
+0	
+0	
+14	7(walk):1	28(close):1	46(free):2	71(include):1	82(station):1	97(internet):1	120(bus):1	188(line):1	321(shuttle):1	359(allow):1	400(pass):1	744(regular):1	1040(tokyo):1	6616(yamanote):1	
+0	
+0	
+17	1(location):1	4(nice):1	6(breakfast):2	9(service):1	10(restaurant):1	17(view):1	24(floor):1	25(comfortable):1	27(bar):1	77(buffet):1	118(top):1	291(amenity):1	534(outstanding):1	579(appoint):1	1115(hospitality):1	1233(possibly):1	2671(tremendous):1	
+0	
+
+<Author>Franklin101
+<Content>Get more than you paid for in Tokyo Great hotel for a great price!Service is impeccable and the rooms are top notch, 5 stars with all the amenities of a luxury hotel.I booked it in Expedia and upgraded to the one after the standard room, it was worthwhile.The hotel in general very clean, highly organized and no issues at all, just plan relaxation and great service.I had stayed at the Hilton Shinjuku before but this hotel is much, much better - from a 3.5 stars to 5 stars.When I read the reviews I was a bit skeptical about the Prince Park Tower hotel since it's not a known chain in the west but I'm so glad to stayed here. The location is perfect! The subway station is very close and will get you anywhere quick, we didn't take any taxis and we had a 2.5 year boy with us.Don't think about it so much and reserve this hotel, you wont' regret it...  
+<Date>Oct 16, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+0	
+12	9(service):1	19(price):1	42(pay):1	103(star):3	118(top):1	291(amenity):1	437(luxury):1	477(hilton):1	1040(tokyo):1	1227(notch):1	1542(impeccable):1	2413(shinjuku):1	
+15	18(book):1	37(review):1	52(bit):1	66(park):1	88(read):1	130(standard):1	163(upgrade):1	378(tower):1	619(glad):1	627(chain):1	953(west):1	1066(expedia):1	2041(prince):1	2757(worthwhile):1	3070(skeptical):1	
+8	1(location):1	28(close):1	74(perfect):1	82(station):1	185(taxi):1	299(quick):1	370(subway):1	881(boy):1	
+7	3(clean):1	9(service):1	138(highly):1	221(plan):1	265(issue):1	1167(organize):1	1662(relaxation):1	
+0	
+3	506(reserve):1	1410(regret):1	1820(wont):1	
+0	
+
+<Author>cnatht
+<Content>Japan I enjoyed my stay in this hotel very much. The staff was very friendly and helpful. The room was very nice with a plasma screen tv and the view was awesome.  
+<Date>Oct 15, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	51(enjoy):1	1900(japan):1	
+0	
+6	4(nice):1	17(view):1	116(tv):1	348(awesome):1	526(screen):1	1500(plasma):1	
+0	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>Hellfire500
+<Content>Best Hotel To Date       View from my balcony (27th floor)  
+<Date>Oct 14, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+5	17(view):1	24(floor):1	191(balcony):1	511(date):1	2775(27th):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>biznes-plodder
+<Content>very decent hotel good price. reasonable sized room. great gym, pool and Japanese bath (but for extra money) and spectacularly cool toilet/bidets  
+<Date>Oct 9, 2008
+<Rating>4	4	4	4	3	3	3	4	
+<Aspects>
+0	
+2	19(price):1	257(decent):1	
+2	83(size):1	273(reasonable):1	
+0	
+0	
+0	
+9	22(pool):1	80(money):1	128(extra):1	226(bath):1	278(cool):1	330(toilet):1	523(gym):1	559(japanese):1	9747(spectacularly):1	
+0	
+
+<Author>d467
+<Content>A Great Hotel...I Love This Place !       Comfy bed  
+<Date>Oct 6, 2008
+<Rating>5	5	5	5	5	4	4	-1	
+<Aspects>
+1	40(love):1	
+0	
+2	11(bed):1	475(comfy):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>mundus
+<Content>Perfect! A truly leading hotel A luxury and relatively recent (built in 2005) hotel on a convenient location with an excellent service. There is twice an hour shuttle to Hamamatsucho JR station (two stations from Shinagawa JR station). Our large and comfortable room (with a full size bed, sitting area and desk) was on the 25th floor, All possible bathroom amenities were provided. We enjoyed our buffet breakfast on the 33rd floor with views of the Tokyo Tower or the Zooji temple.My suggestion for dinner: the gourmet dinner buffet in the Viking in the Imperial on the 17th floor (easy to reach with the Toei subway line)  
+<Date>Oct 3, 2008
+<Rating>5	5	5	4	4	4	5	3	
+<Aspects>
+1	74(perfect):1	
+0	
+10	11(bed):1	13(bathroom):1	24(floor):1	25(comfortable):1	36(desk):1	83(size):1	153(provide):1	169(sit):1	291(amenity):1	1943(25th):1	
+15	1(location):1	9(service):1	21(excellent):1	60(hour):1	82(station):3	135(build):1	186(convenient):1	321(shuttle):1	347(twice):1	437(luxury):1	476(truly):1	913(relatively):1	922(lead):1	1064(recent):1	6382(shinagawa):1	
+0	
+0	
+18	6(breakfast):1	17(view):1	24(floor):2	51(enjoy):1	77(buffet):2	93(easy):1	117(dinner):2	188(line):1	370(subway):1	378(tower):1	851(reach):1	921(suggestion):1	1040(tokyo):1	1234(gourmet):1	2143(17th):1	2626(temple):1	4370(Imperial):1	12184(33rd):1	
+0	
+
+<Author>RLAT
+<Content>A superb modern hotel at a great price Rated as a 4 star, quite simply in most of the world it would be a deserved 5 star+. Top of the range facilities and excellent friendly amiable staff. Beautiful Spa/Gym and they lend you a full set of top of the range kit to wear if you didnt bring your own. Lots of different restaurants throughout the hotel, huge beds in the rooms, superb room service. Direct coach link to Narita airport. Great location a few hundred metres fromTokyo Tower between Rappongi and Ginza and 3 underground/overground stations close by for getting around the city. Fabulous value for money. Good for tourists and business people alike.  
+<Date>Sep 23, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	45(beautiful):1	118(top):1	142(bring):1	166(own):1	234(set):1	314(spa):1	434(wear):1	626(didnt):1	714(range):1	2773(kit):1	3293(lend):1	
+11	19(price):1	78(rate):1	80(money):1	81(value):1	103(star):2	151(modern):1	270(fabulous):1	272(world):1	407(superb):1	488(simply):1	1072(deserve):1	
+12	9(service):1	10(restaurant):1	11(bed):1	38(lot):1	95(airport):1	133(huge):1	407(superb):1	445(throughout):1	803(direct):1	1727(link):1	2600(coach):1	3258(narita):1	
+20	0(staff):1	1(location):1	12(friendly):1	21(excellent):1	26(people):1	28(close):1	41(city):1	82(station):1	118(top):1	147(business):1	209(tourist):1	211(facility):1	378(tower):1	714(range):1	1085(underground):1	1194(metre):1	2206(hundred):1	2702(ginza):1	3764(alike):1	9525(amiable):1	
+0	
+0	
+0	
+0	
+
+<Author>lorrid01
+<Content>Fabulous ! My son and I recently visited tokyo for my eldest son's wedding. I booked through the hotel website . We stayed at this hotel for 7 nights  we were not disappointed ! First of all customer service is IMPECCABLE ! Even though not all staff spoke english , everyone had a basic understanding of the language . We took the airport bus (3,000 yen each) and dropped us off right in front of the hotel . we arrived late at night however staff was there to take luggage and showed us to our room. The glass elevator took us to our executive room which was on the 19th floor , we had a balcony and a beautiful view of Tokyo Tower ! My other son who lives in japan came to visit us . we asked if he could stay the night and this was no trouble , room was spacious enough to fit an extra bed, not only did they bring in a rollaway bed but all the toiletries as well ! Room was extremely clean, bathroom was fantastic, shower had four different nozzle adjustments including massage ! Jacuzzi tub was relaxing to soak in after a day of shopping . Toilet even had a warm seat ! Location wise - close to two subway lines (about 2 minutes walking distance) and hotel also provides free shuttle to Hamamatsucho station which connects to the JR line. We always carried our subway map and although looks daunting at first, was quite easy to work out  very efficient . Tokyo transport system leaves sydney for dead ! There is a television , however, only CNN  BBC in english . There was also free fast wireless internet in our room which was very handy as we did not have our mobile phones.. Sadly , there are no restaurants in close proximity however we enjoyed our meal at cafe novel (basement level) . There is also a spa  fitness centre but my son could not use this facility as it is only for people over 25 years of age (which was disappointing). The hotel shop has a bakery and sells yummy pastries  bread. We went to asakusa for souvenirs  shopping. We went to Ginza where we saw hundreds of people queuing to enter the new HM building - quite amazing !!! On our last night we had cocktails at the Sky Lounge on the 33rd floor - outstanding view ! Having my PCI card meant we were able to check out later in afternoon. We had buffet breakfast on the last morning - great assortment of food ! We were sad to leave our hotel at the end our stay - an unforgettable experience !!  
+<Date>Sep 23, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+28	2(night):1	20(look):1	26(people):1	65(visit):2	93(easy):1	135(build):1	145(amaze):1	154(disappoint):1	236(warm):1	270(fabulous):1	322(recently):1	330(toilet):1	370(subway):1	401(efficient):1	426(life):1	504(seat):1	601(enter):1	604(wed):1	612(son):3	724(map):1	824(carry):1	1040(tokyo):1	1463(queue):1	1900(japan):1	2206(hundred):1	2702(ginza):1	5348(daunt):1	9359(hm):1	
+4	43(leave):1	44(experience):1	1454(sad):1	3377(unforgettable):1	
+41	0(staff):1	2(night):3	3(clean):1	11(bed):2	13(bathroom):1	17(view):2	24(floor):2	45(beautiful):1	53(arrive):1	61(shower):1	71(include):1	79(late):1	86(fantastic):1	110(extremely):1	111(spacious):1	128(extra):1	142(bring):1	152(english):1	191(balcony):1	216(elevator):1	237(lounge):1	249(luggage):1	327(glass):1	378(tower):1	534(outstanding):1	569(trouble):1	657(toiletry):1	668(fit):1	716(cocktail):1	730(massage):1	872(executive):1	1040(tokyo):1	1158(television):1	1909(sky):1	2101(cnn):1	2149(19th):1	2952(rollaway):1	2997(bbc):1	4423(adjustment):1	7756(nozzle):1	12184(33rd):1	
+37	1(location):1	7(walk):1	8(day):1	28(close):1	29(minute):1	31(front):1	46(free):1	49(shop):3	82(station):1	95(airport):1	115(distance):1	120(bus):1	153(provide):1	160(relax):1	188(line):2	311(tub):1	321(shuttle):1	370(subway):1	497(bread):1	518(system):1	606(sell):1	652(pastry):1	662(drop):1	742(transport):1	808(jacuzzi):1	809(sydney):1	841(connect):1	1040(tokyo):1	1468(soak):1	1483(bakery):1	1593(leaf):1	1621(dead):1	1676(wise):1	1798(yummy):1	2504(souvenirs):1	3668(yen):1	7198(asakusa):1	
+0	
+12	0(staff):1	32(check):1	79(late):1	127(speak):1	152(english):1	171(able):1	246(mean):1	292(card):1	352(basic):1	364(afternoon):1	391(understand):1	698(language):1	
+20	6(breakfast):1	9(service):1	10(restaurant):1	16(food):1	18(book):1	28(close):1	51(enjoy):1	56(morning):1	77(buffet):1	213(meal):1	262(website):1	275(cafe):1	306(level):1	428(customer):1	1114(proximity):1	1542(impeccable):1	1568(basement):1	2135(sadly):1	2761(assortment):1	6252(novel):1	
+15	26(people):1	46(free):1	97(internet):1	101(center):1	154(disappoint):1	211(facility):1	296(phone):1	314(spa):1	499(fast):1	505(age):1	612(son):1	717(wireless):1	755(handy):1	983(fitness):1	3241(mobile):1	
+
+<Author>footnotesetc
+<Content>Just OK I don't think this hotel deserves the high rating it received; on our first night, we were given a tiny, horrible smelling smoking room (after I had indicated specifically on our reservation for a non-smoking room) resembling nothing that was shown on the hotel website. It was positively hideous, small windows and dark. When I complained, the young woman said there was simply nothing else available. As it was late, I decided to take the matter up the next day.The next day, at my insistence I was offered a better room, but should this have ever happened?The indoor swimming pool is not included in the rate and was never disclosed on our reservation.I would not recommend this hotel.  
+<Date>Sep 22, 2008
+<Rating>3	-1	2	3	4	3	3	-1	
+<Aspects>
+10	8(day):1	15(recommend):1	79(late):1	134(available):1	170(else):1	219(decide):1	241(complain):1	488(simply):1	531(matter):1	566(woman):1	
+0	
+8	8(day):1	89(offer):1	119(window):1	382(happen):1	459(dark):1	4876(positively):1	6363(hideous):1	11834(insistence):1	
+7	22(pool):1	71(include):1	78(rate):1	156(reservation):1	261(swim):1	1680(indoor):1	6565(disclose):1	
+15	2(night):1	78(rate):1	123(ok):1	156(reservation):1	231(smell):1	262(website):1	302(receive):1	338(tiny):1	468(smoke):1	544(horrible):1	978(nonsmoking):1	1072(deserve):1	1776(indicate):1	1810(specifically):1	3497(resemble):1	
+0	
+0	
+0	
+
+<Author>LMC_Canada
+<Content>Great Hotel Located near a park and two subway lines. The hotel is a large high rise building, not very exciting to view. The lobby however is very nice with an atrium. The service was excellent. We had daily buffet breakfast on the top floor with a great view. One night we had a late dinner in the hotel. The reataurant was actually closing but stayed open late to serve us. The food was excellent and not too overpriced for a hotel. Our room, while on the small size was nice and very clean.The hotel has a well trained staff who go out of their way for you. We were very impressed with the level of service we received. Our view from our room was of the Tokyo tower.  
+<Date>Sep 14, 2008
+<Rating>5	3	5	3	5	5	5	-1	
+<Aspects>
+4	17(view):1	135(build):1	1136(excite):1	1436(rise):1	
+3	16(food):1	21(excellent):1	727(overprice):1	
+6	3(clean):1	4(nice):1	17(view):1	83(size):1	378(tower):1	1040(tokyo):1	
+12	0(staff):1	28(close):1	66(park):1	79(late):1	84(locate):1	102(near):1	174(serve):1	180(actually):1	182(train):1	188(line):1	370(subway):1	11847(reataurant):1	
+0	
+0	
+17	2(night):1	4(nice):1	6(breakfast):1	9(service):2	17(view):1	21(excellent):1	24(floor):1	55(lobby):1	77(buffet):1	79(late):1	117(dinner):1	118(top):1	302(receive):1	306(level):1	343(impress):1	360(daily):1	1968(atrium):1	
+0	
+
+<Author>KristaInLondon
+<Content>Can't Beat the Prince Park Tower! I really can't say enough good things about this hotel.The airport bus drops you off right in front, although it is one of the last stops. The hotel is really nice and cool. I was there in the heat of July and it was always so nice to come back to the hotel and have it be so cool.There's a little store just as you enter the hotel that has pastries and snacks and sodas and beer. Rather than eat the hotel breakfast, I would just grab a pastry or yogurt from here.Free wireless Internet.The gym is really good. I would echo other comments here...wear your own clothes down to the gym with street shoes...but bring your running shoes with you. Then you can change into their gym outfits once you're in the locker room. I actually ended up bringing my own gym shorts, but using their t-shirts. (Which are quite nice--the kind that wick moisture away.) You do have to pay for the gym. I was very impressed with all the amenities in the locker room and was sad I did make more of an event of using the facilities...pool, sauna, etc.My room was fantastic. It was an executive room. The bath was a whirlpool bath and really deep. I normally am a bit skeeved out by hotel baths, but this was one of the cleanest I have ever seen, so I did use it after a long day. It was great.You're close to two metro stations, which is really convenient. Perhaps my only complaint is that there weren't any restaurants right on the hotel's doorstep. You had to walk a bit to get to any.All in all, this is a super high class hotel. I stayed at the Park Hyatt on my last night--how could I not, right?--but I would say that the rooms at the Prince Park were much better, newer, and more modern.  
+<Date>Sep 5, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+9	4(nice):3	226(bath):2	278(cool):2	464(super):1	470(class):1	539(heat):1	1043(deep):1	2790(whirlpool):1	6941(moisture):1	
+2	42(pay):1	523(gym):1	
+19	22(pool):1	66(park):2	73(etc):1	86(fantastic):1	151(modern):1	161(change):1	211(facility):1	291(amenity):1	343(impress):1	378(tower):1	442(beat):1	523(gym):1	872(executive):1	1106(event):1	1422(sauna):1	1454(sad):1	2041(prince):2	3446(locker):2	4082(outfit):1	
+28	2(night):1	3(clean):1	7(walk):1	8(day):1	28(close):1	31(front):1	35(street):1	52(bit):2	66(park):1	82(station):1	95(airport):1	120(bus):1	122(stop):1	142(bring):1	149(run):1	166(own):1	186(convenient):1	226(bath):1	235(metro):1	356(comment):1	434(wear):1	523(gym):1	662(drop):1	709(clothe):1	924(hyatt):1	1091(normally):1	1191(shoe):2	2745(echo):1	
+0	
+0	
+20	6(breakfast):1	10(restaurant):1	23(little):1	47(eat):1	142(bring):1	144(short):1	166(own):1	180(actually):1	190(complaint):1	255(store):1	406(snack):1	443(beer):1	523(gym):2	601(enter):1	652(pastry):2	927(yogurt):1	1139(grab):1	1308(soda):1	2071(doorstep):1	3240(t-shirts):1	
+3	46(free):1	97(internet):1	717(wireless):1	
+
+<Author>KMcH
+<Content>If you can get a deal on a premium room.... snap it up!       view from our room  
+<Date>Sep 3, 2008
+<Rating>5	-1	5	5	5	4	5	5	
+<Aspects>
+0	
+0	
+4	17(view):1	140(deal):1	1465(premium):1	4180(snap):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>TravelJunkie28
+<Content>Amazing Hotel - First Class! Booked this hotel after reading good reviews on Trip Advisor. When we pulled up to the hotel, I thought it was nothing special (it's very tall, but looks a little dated from the outside)...but once we got inside, wow, wow, wow. The lobby is great, the glass elevator that faces the interior of the hotel is great and the rooms were fabulous. We got an Executive Room and it had an amazing view of Tokyo Tower. Distance to the closest subway station was about 2 minutes walking(station is Akabenabashi). Very close to Roppongi Hills which has great restaurants and shops. I would definitely stay here again on our next trip to Tokyo. We traveled all over Japan on our 2 week trip and this was by far my favorite hotel!Oh and the staff was outstanding, great restaurant recommendations and accurate directions!  
+<Date>Aug 1, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+9	33(trip):2	59(definitely):1	68(travel):1	75(week):1	145(amaze):1	376(favourite):1	470(class):1	1040(tokyo):1	1900(japan):1	
+0	
+14	17(view):1	20(look):1	23(little):1	98(outside):1	145(amaze):1	208(special):1	378(tower):1	408(inside):1	511(date):1	858(pull):1	862(wow):3	872(executive):1	1040(tokyo):1	1626(tall):1	
+10	7(walk):1	10(restaurant):1	28(close):2	29(minute):1	49(shop):1	82(station):2	115(distance):1	370(subway):1	756(hill):1	4832(roppongi):1	
+0	
+6	0(staff):1	10(restaurant):1	395(direction):1	534(outstanding):1	577(recommendation):1	1785(accurate):1	
+10	18(book):1	33(trip):1	37(review):1	55(lobby):1	88(read):1	216(elevator):1	270(fabulous):1	327(glass):1	701(advisor):1	1026(interior):1	
+0	
+
+<Author>mclouka
+<Content>Great hotel - superb service       Bowling  
+<Date>Jul 29, 2008
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+3	9(service):1	407(superb):1	1366(bowl):1	
+0	
+
+<Author>JoshuaSims
+<Content>Great View       view from lobby  
+<Date>Jul 12, 2008
+<Rating>3	3	3	2	5	4	4	4	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+2	17(view):2	55(lobby):1	
+0	
+
+<Author>Griffy10
+<Content>Great base for a 1-night stay I stayed in the Prince Park Tower for one night in May 2008; it served as the perfect base for a short stopover and allowed me to see the highlights of Tokyo in a very short amount of time. The room was large and immaculate - a real suprise as I was expecting a very small room in this city. I really wished I could have stayed for longer; I can't praise this hotel enough. The staff were very helpful in planning my day's itenerary. Check out the hotel bar on the top floor for cocktails and great views of the city too!  
+<Date>Jun 22, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+2	384(wish):1	2053(praise):1	
+0	
+25	2(night):1	5(time):1	17(view):1	24(floor):1	27(bar):1	32(check):1	41(city):2	62(expect):1	66(park):1	74(perfect):1	118(top):1	144(short):2	174(serve):1	240(real):1	284(base):2	359(allow):1	378(tower):1	666(amount):1	716(cocktail):1	894(immaculate):1	1040(tokyo):1	1141(highlight):1	1738(suprise):1	2041(prince):1	2364(stopover):1	
+0	
+0	
+4	0(staff):1	8(day):1	14(helpful):1	221(plan):1	
+0	
+0	
+
+<Author>Geol-grad
+<Content>5* Superb!!       View from Balcony  
+<Date>Jun 3, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+1	407(superb):1	
+0	
+2	17(view):1	191(balcony):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>trinzeon
+<Content>There is nothing not to like Although I typically stay at the Tokyo Prince, I stayed this time at the sister hotel, the Prince Park Tower. What a difference! I have an executive room with a beautiful view overlooking Tokyo Ginza. The food choices are superb. Executive floors have a dedicated set of elevators accessed by key card. The staff is friendly and attentive. The fitness facility is outstanding, albeit quite a walk. Be cautioned: Unlike American hotels, people typically dress in street clothes to the fitness center and change there. They look a bit askance if you wear your workout clothes in. They do have new clean clothes for you to wear while working out. They also have a full length lap pool (indoor and immaculate) and a wonderful natural hot spring. Internet connection is via LAN and no charge. The cable is in the room, thus avoiding those annying trips to the front desk (why some hotels do this is beyond comprehenshion). There are a number of wonderful sites within 15 minutes walk, including lovely shrines in Roppongi Hills and the Zojoji temple.The Dutch Embassy is very nearby. Tokyo Station is a 10 minute (1500 Yen) taxi ride. The bus from Narita takes appx 1.25 hours and costs 3000 Yen. Akihabara (electonics) district and Roppongi (party) district are both within 15 minutes public transit. Nearby shopping is high end, so with the state of the dollar, be forewarned.This will be my hotel of choice for all future business trips to Japan.  
+<Date>Jun 3, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+18	20(look):1	22(pool):1	48(wonderful):1	52(bit):1	114(hot):1	232(nearby):1	434(wear):1	709(clothe):1	819(difference):1	894(immaculate):1	1162(spring):1	1543(natural):1	1680(indoor):1	1768(embassy):1	1801(workout):1	1879(length):1	2066(dutch):1	2432(lap):1	
+16	16(food):1	33(trip):1	49(shop):1	60(hour):1	107(choice):2	120(bus):1	147(business):1	175(cost):1	232(nearby):1	407(superb):1	430(dollar):1	732(future):1	1900(japan):1	3258(narita):1	3668(yen):1	4083(forewarn):1	
+12	5(time):1	17(view):1	45(beautiful):1	66(park):1	260(overlook):1	378(tower):1	872(executive):1	892(sister):1	1040(tokyo):2	1994(typically):1	2041(prince):2	2702(ginza):1	
+29	7(walk):2	26(people):1	29(minute):2	35(street):1	48(wonderful):1	71(include):1	82(station):1	87(lovely):1	101(center):1	161(change):1	185(taxi):1	192(site):1	211(facility):1	218(ride):1	335(numb):1	534(outstanding):1	709(clothe):1	756(hill):1	935(dress):1	983(fitness):2	1040(tokyo):1	1163(unlike):1	1994(typically):1	2083(albeit):1	2102(caution):1	2626(temple):1	3668(yen):1	4832(roppongi):1	11098(shrine):1	
+3	3(clean):1	434(wear):1	709(clothe):1	
+9	0(staff):1	12(friendly):1	31(front):1	33(trip):1	36(desk):1	436(avoid):1	484(cable):1	537(attentive):1	738(beyond):1	
+15	24(floor):1	29(minute):1	159(access):1	216(elevator):1	234(set):1	292(card):1	339(key):1	363(party):1	379(public):1	433(district):2	872(executive):1	2015(transit):1	3477(dedicate):1	4832(roppongi):1	11757(akihabara):1	
+5	97(internet):1	136(charge):1	512(via):1	932(connection):1	5308(lan):1	
+
+<Author>The_Truffles
+<Content>A well-placed hotel from which to explore Tokyo Having stayed in Tokyo before - in a truly amazing hotel (the Grand Hyatt) and a truly dreadful one (the Keio Plaza), I had a fairly polarised experience of hotels in the city.This one is definitely at the top end of the scale.Location-wise, this is well-placed. If you are staying here, do ask for a view overlooking the Temple or Tower...the best views are to be had from the North or North-West aspects; the hotel overlooks Shibuya Park, which is simply wonderful and (if you like Tokyo Tower) offers a spectacular view both of it and other landmark buildings such as the Mori Tower at Roppongi Hills (which you simply must visit).From a public transport point-of-view, you are very well-placed for Akabanebashi (Odeo Line) and Daimon (Odeo and Asakusa Lines). However, as fun as the Metro is, you can be in Shinjuku in 20 mins in a cab or Tokyo Station district in about 20-30 depending on the time of day. Cabs aren't that expensive (caveat here being that I live in London, so I'm used to very pricey cabs); a fare from the Prince to Roppongi was always on or about 1000 Yen, which is five pounds sterling or 10 USD at time of writing. So, for the sake of getting an air-conditioned taxi, save yourself the hassle of getting on a Metro train if you need to arrive at your destination dressed well. Don't even bother with the Metro at peak time. Just don't. Unless you really like being VERY intimate with your fellow man. As for the hotel itself, the room was spotless, truly. The service at the front desk was very good and housekeeping responsive if you need to ask for an iron/power adaptor etc. I would say, however, that the vast majority of hotels in Tokyo have the same level of service regardless of class. If it's one thing Japanese hotels do well, it's hospitality. If you are a vegetarian, you will need to eat elsewhere other than the hotel in the evening, which - if, like me, you've just got off a 12 hour flight from London and a one-hour drive from the airport, is a little tedious. However, I don't actually see that, even if I weren't a veggie, that I would eat in the hotel. The food menu looked very good, but very pricey indeed. As mentioned above, I would be inclined to take the five min cab-ride to Roppongi Hill instead, which has many restaurants and bars to suit all tastes in one of the most progressive and modern parts of the city. However, the bar at the top of the hotel is well worth a visit at night, since the view and service is exceptional.Breakfast in the Hotel is a good variety of Western and Japanese cuisine. You will not leave feeling like you have paid over the odds for a poor choice of breakfast, as has been a common experience for me. Breakfast cereals, breads, lots of fruit and juices, pancakes...the choice is very good. Hotel breakfasts are never value for money, since the mark-up is huge, but the choice and variety is very good indeed.This has been mentioned elsewhere, but a word of warning about the gym and spa. You will not be allowed to use this if you are under 25 years of age. This is a problem for some with families and seems a little harsh to me. I would rather see the hotel having its facilities open to all between certain times and 18+ years from, say, 1900. This, for me, emphasised the business hotel positioning that the hotel is gunning for.In summary - I would not hesitate in recommending the hotel to anyone staying in Tokyo. It is well-placed, with a good team of staff who will look after you almost to the point of it being a little embarrassing.Do learn a little Japanese before you go. Please and thank you will elicit a warm response from the locals and is a basic courtesy!Finally...and I know this sounds daft....but for a hotel that has over 500 rooms, I never felt like I was staying in a large hotel. The layout is designed very well as such you will not feel like you bumping into people every five mins.One downside - two of the internal lifts made of glass that run from the ground to the 33rd floor overlooking the atrium. Very cool if you like that sort of thing. Not so nice if you have vertigo, like the poor Spanish lady I met on my first day!  
+<Date>May 17, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+41	4(nice):1	5(time):1	8(day):1	15(recommend):1	23(little):2	26(people):1	34(feel):1	106(family):1	173(please):1	195(local):1	196(meet):1	235(metro):1	236(warm):1	247(min):1	271(thank):1	278(cool):1	307(bother):1	331(poor):1	352(basic):1	359(allow):1	369(spanish):1	405(unless):1	505(age):1	516(design):1	521(lady):1	557(sort):1	559(japanese):2	703(learn):1	902(hesitate):1	1040(tokyo):1	1115(hospitality):1	1330(response):1	1453(layout):1	1710(peak):1	1716(summary):1	1728(courtesy):1	1742(fellow):1	1812(intimate):1	2162(bump):1	4466(harsh):1	8632(vertigo):1	
+44	5(time):1	6(breakfast):2	16(food):1	20(look):1	34(feel):1	41(city):1	42(pay):1	43(leave):1	44(experience):2	80(money):1	81(value):1	107(choice):2	124(expensive):1	133(huge):1	145(amaze):1	206(live):1	331(poor):1	344(write):1	365(grand):1	380(cab):2	413(variety):1	423(menu):1	462(fairly):1	476(truly):2	515(plaza):1	546(pricey):2	594(explore):1	697(london):1	830(common):1	924(hyatt):1	990(indeed):2	1040(tokyo):2	1112(fare):1	1807(usd):1	1842(pound):1	2041(prince):1	2895(dreadful):1	3668(yen):1	3713(caveat):1	4832(roppongi):1	5700(odds):1	6556(sterling):1	6888(keio):1	12207(well-place):1	
+43	17(view):3	23(little):1	24(floor):1	34(feel):1	47(eat):1	48(wonderful):1	60(hour):1	65(visit):1	66(park):1	89(offer):1	95(airport):1	149(run):1	233(flight):1	260(overlook):3	298(drive):1	327(glass):1	341(finally):1	378(tower):3	409(sound):1	476(truly):1	488(simply):2	548(spotless):1	591(lift):1	646(elsewhere):1	656(spectacular):1	684(North):1	697(london):1	706(grind):1	745(building):1	756(hill):1	782(downside):1	1040(tokyo):1	1255(aspect):1	1968(atrium):1	2392(vegetarian):1	2626(temple):1	2797(landmark):1	2869(internal):1	4832(roppongi):1	4927(shibuya):1	6759(tedious):1	12184(33rd):1	12590(daft):1	
+33	5(time):2	8(day):1	53(arrive):1	59(definitely):1	82(station):1	118(top):1	147(business):1	176(fun):1	182(train):1	185(taxi):1	188(line):2	211(facility):1	235(metro):2	247(min):1	379(public):1	380(cab):1	425(save):1	433(district):1	576(yourself):1	742(transport):1	935(dress):1	969(depend):1	1040(tokyo):1	1092(destination):1	1093(position):1	1193(hassle):1	2413(shinjuku):1	3114(air-conditioned):1	3374(sake):1	5024(emphasize):1	5150(gun):1	7198(asakusa):1	12207(well-place):2	
+0	
+8	9(service):1	31(front):1	36(desk):1	73(etc):1	367(housekeeping):1	868(iron):1	2351(responsive):1	4970(adaptor):1	
+51	0(staff):1	2(night):1	6(breakfast):2	9(service):2	10(restaurant):1	17(view):1	20(look):1	23(little):1	27(bar):2	38(lot):1	41(city):1	47(eat):1	65(visit):1	96(worth):1	107(choice):1	118(top):1	151(modern):1	180(actually):1	215(fruit):1	244(mention):2	247(min):1	306(level):1	314(spa):1	353(instead):1	362(juice):1	413(variety):1	439(taste):1	470(class):1	497(bread):1	523(gym):1	529(cereal):1	559(japanese):1	571(word):1	646(elsewhere):1	679(warn):1	756(hill):1	837(exceptional):1	861(suit):1	1008(team):1	1015(western):1	1040(tokyo):1	1477(pancake):1	1584(majority):1	1717(cuisine):1	2012(regardless):1	2476(vast):1	3183(embarrass):1	3642(incline):1	4832(roppongi):1	5727(veggie):1	12207(well-place):1	
+0	
+
+<Author>iac0n
+<Content>First Class!       City View Windows  
+<Date>Apr 25, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+1	470(class):1	
+0	
+3	17(view):1	41(city):1	119(window):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Kgwd000
+<Content>Cherry Blossom Time I go to Tokyo for business regularly, but have only recently started to stay at Prince Park Tower. It's location is near to my business location, but everything about it is first class. It is not a Western Hotel, and feels much more like an upscale Japanese Hotel. The rooms are spacious, with separate bathrooms, and shower / tub combinations. Internet is free, and it has a nice desk area for business work. The Hotel has several very good restaurants; I tried the Sky Garden for breakfast buffet (great!), and the Japanese Steakhouse, which was also very good (but very expensive). In addition, it has a bowling alley, fitness area, and many shops - all expensive with the Yen to $ ration of about 100:1 now. I mentioned the Cherry Blossoms as they were out fully when I was there Mar 26-30, and many families and couples were having parties and dinners in the park alongside the hotel  
+<Date>Apr 10, 2008
+<Rating>5	4	5	4	5	5	5	5	
+<Aspects>
+4	34(feel):1	559(japanese):1	1015(western):1	1237(upscale):1	
+10	49(shop):1	124(expensive):2	559(japanese):1	918(addition):1	983(fitness):1	1315(steakhouse):1	1366(bowl):1	1671(alley):1	3668(yen):1	10178(ration):1	
+6	13(bathroom):1	61(shower):1	111(spacious):1	311(tub):1	474(separate):1	1929(combination):1	
+14	1(location):2	5(time):1	66(park):1	102(near):1	147(business):2	165(start):1	322(recently):1	378(tower):1	470(class):1	1040(tokyo):1	1881(regularly):1	2041(prince):1	4840(cherry):1	6030(blossom):1	
+0	
+0	
+16	6(breakfast):1	10(restaurant):1	66(park):1	77(buffet):1	99(couple):1	106(family):1	117(dinner):1	244(mention):1	253(tried):1	310(garden):1	363(party):1	1647(mar):1	1909(sky):1	4418(alongside):1	4840(cherry):1	6030(blossom):1	
+5	4(nice):1	36(desk):1	46(free):1	97(internet):1	147(business):1	
+
+<Author>Aviron
+<Content>Excellent in all regards The hotel was as good as I was led to believe. Clean. Spacious. Modern. Attentive staff. Good location. Deluxe bathroom. Nice views from the floor to ceiling window and balcony. A great find AND value.  
+<Date>Mar 28, 2008
+<Rating>5	5	5	4	5	4	4	-1	
+<Aspects>
+6	21(excellent):1	111(spacious):1	151(modern):1	312(believe):1	922(lead):1	930(regard):1	
+1	81(value):1	
+8	4(nice):1	13(bathroom):1	17(view):1	24(floor):1	119(window):1	191(balcony):1	528(ceiling):1	648(deluxe):1	
+1	1(location):1	
+1	3(clean):1	
+2	0(staff):1	537(attentive):1	
+0	
+0	
+
+<Author>patrickhw
+<Content>Amazing in all respects!       View from the top-story bar  
+<Date>Mar 24, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+2	145(amaze):1	1389(respect):1	
+0	
+0	
+0	
+0	
+0	
+2	17(view):1	27(bar):1	
+0	
+
+<Author>kamui47
+<Content>Perfect Hotel I just stayed a week at the The Prince Park Tower Tokyo hotel and I rate the hotel as excellent, especially at that room rate (paid in Euro). In comparison: Last year I stayed at the ANA Hotel which was more expensive, but did not offer the same quality.The staff is very friendly and very helpful.The room is well equipped and very clean (I had a basic room with twin beds on the 5th floor) and everything looked new. Free LAN, bathtub with bubbles, additional shower, large windows with view into a park and at the Tokyo Tower nearby. Important for me: the curtains close perfectly and the hotel is extremely quite (no noise of any cars for example).The breakfast room is on the 33rd floor and the view on Tokyo is amazing.It is a perfect hotel for a business traveler and I hope to stay there again.The only downsize: The location is not perfect, if you have a very busy schedule. It is a little bit off the centers (there are several centers in Tokyo), but in walking distance to two subway lines. I presume you can't have everything or you would have to pay much more...  
+<Date>Mar 14, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+0	
+7	42(pay):1	89(offer):1	124(expensive):1	187(quality):1	1525(comparison):1	3689(ana):1	5425(presume):1	
+31	3(clean):1	6(breakfast):1	11(bed):1	17(view):2	20(look):1	21(excellent):1	24(floor):2	42(pay):1	46(free):1	61(shower):1	66(park):2	74(perfect):1	75(week):1	78(rate):2	119(window):1	126(especially):1	145(amaze):1	232(nearby):1	256(euro):1	352(basic):1	378(tower):2	690(twin):1	835(additional):1	839(5th):1	884(equip):1	1023(bathtub):1	1040(tokyo):3	2041(prince):1	3272(bubble):1	5308(lan):1	12184(33rd):1	
+22	1(location):1	7(walk):1	23(little):1	28(close):1	52(bit):1	74(perfect):2	94(noise):1	101(center):2	110(extremely):1	115(distance):1	121(car):1	147(business):1	188(line):1	220(busy):1	267(traveler):1	328(hope):1	370(subway):1	595(perfectly):1	743(curtain):1	954(example):1	1040(tokyo):1	1196(schedule):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>Banks3
+<Content>Comfort. Location. Value. Wonderful. In Tokyo for a week-long conference at the adjacent Zojoji Temple. The lobby of the Prince Park Tower is elegant and understated architecturally. The staff was welcoming and helpful at every level. As a business traveler, I found the concierge particularly helpful, coordinating dinners and even ordering ahead for me. The on-site restaurants were good, albeit a bit pricey for the quality. The rooms were well-appointed and comfortable with large windows. Shibakoen, the adjoining park, is a beautiful sanctuary in which to walk and find cats (in rather unexpected places at time)...if you like cats. Tokyo Tower, one of the more recognizable features of the Tokyo skyline, is a short walk from the hotel lobby and subway stop is right across the street. I would definitely return for business or for fun.  
+<Date>Mar 8, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+2	48(wonderful):1	702(comfort):1	
+7	10(restaurant):1	52(bit):1	81(value):1	187(quality):1	546(pricey):1	2083(albeit):1	2484(on-site):1	
+3	25(comfortable):1	119(window):1	2440(well-appoint):1	
+34	1(location):1	5(time):1	7(walk):2	14(helpful):1	35(street):1	39(return):1	45(beautiful):1	55(lobby):1	59(definitely):1	66(park):1	117(dinner):1	122(stop):1	144(short):1	147(business):2	176(fun):1	204(concierge):1	267(traveler):1	370(subway):1	378(tower):1	553(particularly):1	731(feature):1	794(conference):1	976(ahead):1	1040(tokyo):3	1061(adjacent):1	1412(adjoin):1	2177(cat):2	2372(unexpected):1	2526(skyline):1	2626(temple):1	5297(coordinate):1	5517(week-long):1	5551(sanctuary):1	10878(recognizable):1	
+0	
+4	0(staff):1	14(helpful):1	202(welcome):1	306(level):1	
+7	55(lobby):1	66(park):1	378(tower):1	986(elegant):1	2041(prince):1	3314(understate):1	7405(architecturally):1	
+0	
+
+<Author>GinzaGirl13
+<Content>The best hotel ever This is a fantastic hotel. It really exceeded my expectations. The staff was wonderful and went out of their way to make us feel welcome. I didn't expect such service since I booked with Expedia. I highly recommend paying extra for a Premium room because the Sky Buffet Breakfast is outstanding and you get a complimentary bottle of Champagne every night. I love this hotel and I can't wait to go back. I have stayed in many hotels in this is my all-time favorite. The location is also very convenient.  
+<Date>Feb 24, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+2	86(fantastic):1	376(favourite):1	
+2	431(expectation):1	1153(exceed):1	
+0	
+2	1(location):1	186(convenient):1	
+0	
+6	0(staff):1	34(feel):1	40(love):1	48(wonderful):1	85(wait):1	202(welcome):1	
+17	2(night):1	6(breakfast):1	9(service):1	15(recommend):1	18(book):1	42(pay):1	62(expect):1	77(buffet):1	128(extra):1	138(highly):1	238(bottle):1	345(complimentary):1	534(outstanding):1	770(champagne):1	1066(expedia):1	1465(premium):1	1909(sky):1	
+0	
+
+<Author>dreamliner911
+<Content>Impeccable service with understated elegant architectural gem       Tokyo tower  
+<Date>Feb 22, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+8	9(service):1	378(tower):1	805(gem):1	986(elegant):1	1040(tokyo):1	1542(impeccable):1	3314(understate):1	4813(architectural):1	
+0	
+
+<Author>innit76
+<Content>Luxurious hotel in Tokyo 鈥?Cool location near the iconic Tokyo Tower鈥?Hotel is huge and the reception is welcoming鈥?In - house boulangerie and convenience store, bowling, pool and restaurants galore ranging from sushi to tempura to steak and chinese鈥?Staff very friendly鈥?Near the Toei subway lines, 4 mins walk to nearest subway  
+<Date>Jan 20, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+29	0(staff):1	1(location):1	7(walk):1	10(restaurant):1	12(friendly):1	22(pool):1	102(near):3	129(reception):1	133(huge):1	188(line):1	202(welcome):1	247(min):1	255(store):1	278(cool):1	281(house):1	370(subway):2	378(tower):1	660(steak):1	708(luxurious):1	714(range):1	764(chinese):1	925(convenience):1	1040(tokyo):2	1366(bowl):1	1632(sushi):1	4216(galore):1	6470(boulangerie):1	7254(tempura):1	11604(iconic):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Travel-Universe
+<Content>Not for people under 25 It's a beautiful hotel with a beautiful view...but ,if you're under 25 you can't use the gym, the hot spring, or even the pool. Sadly, they don't advertise this on their website. The sole reason I picked this hotel over the others offered was all the extras it had to offer. Unfortunately, my son that was traveling with me is only 20 and couldn't use any of them. It was very disappointing to say the least.The rooms were beautiful and clean. The tub was heaven, especially after a long day of sightseeing...(although the hot springs probably would have been nicer.)The staff was very stuffy and we had several problems finding someone that understood English well. I think they cater mostly to businessmen and conferences and really don't care about regular tourists.The other hotel I had stayed at in Tokyo in March was much more tourist friendly.  
+<Date>Jan 4, 2008
+<Rating>2	2	5	4	5	1	1	4	
+<Aspects>
+13	12(friendly):1	68(travel):1	89(offer):2	128(extra):1	154(disappoint):1	209(tourist):1	266(pick):1	374(reason):1	524(unfortunately):1	612(son):1	615(march):1	1040(tokyo):1	4823(sole):1	
+0	
+2	3(clean):1	45(beautiful):1	
+18	4(nice):1	8(day):1	114(hot):1	126(especially):1	178(probably):1	209(tourist):1	242(care):1	262(website):1	311(tub):1	640(sight-see):1	744(regular):1	794(conference):1	910(advertise):1	1000(cater):1	1162(spring):1	1363(heaven):1	2135(sadly):1	4995(businessman):1	
+0	
+4	0(staff):1	152(english):1	391(understand):1	1857(stuffy):1	
+7	17(view):1	22(pool):1	26(people):1	45(beautiful):2	114(hot):1	523(gym):1	1162(spring):1	
+0	
+
+<Author>golfchick1486
+<Content>Elegant, well-equipped hotel in great location - GREAT VALUE I stayed at this hotel in Nov 2007 on business. i was suspicious at first b/c it was so inexpensive (approx $200 night) compared to the other hotels i considered (Park Hyatt, Grand Hyatt at $1000 a night!!!). surprise, surprise. the hotel was spacious, elegant , modern and well equipped. not luxurious but really just fine. i am from NYC and have stayed at some pimped up places around the world and really, this is just fine. the internet worked without a problem (key for me) and the bathroom has almost as much square footage as the bedroom. marble bathroom with separate shower and tub. separate WC. spacious vanities and decent amentities (no name brand toiletries but fine). the hotel is huge and has multiple banquet /conference areas. it is centrally located so a 7 minute cab ride to roppongi hills. farther to Shinjuku (maybe 20 min?). the breakfast buffet at the top floor is decently priced (3600 yen approx) but the food was very good, fresh and had a great variety of things for the western and japanese palatte. the gym was decent. on the smaller side but the equipment was new and the locker room was very nice. i had to pay extra (i think 2000 yen a day) but whatever. didnt use the pool but i hear its nice. i think this hotel is not considered hip and cool which accounts for the lower price. the restaurants are not that great but you dont need to eat there. roppongi hills is close by. they have a well stocked convenience store that is open late and has an amazing bakery that is great for a snack or breakfast on the go (delicious breads).i would definitely stay again. overall, a fantastic value.and PS, i took a private cab from Narita to the hotel which cost me 25000 yen approx. i hear its better to take a limosine bus to any of the close hotels in roppongi (it doesnt need to have an exact stop at this hotel) and then take a cab.  
+<Date>Jan 3, 2008
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+20	4(nice):1	22(pool):1	59(definitely):1	111(spacious):1	113(fine):2	132(hear):1	151(modern):1	199(surprise):2	247(min):1	272(world):1	308(maybe):1	474(separate):1	558(nyc):1	626(didnt):1	708(luxurious):1	884(equip):1	986(elegant):1	2413(shinjuku):1	3976(wc):1	8945(pimp):1	
+26	2(night):2	8(day):1	19(price):1	42(pay):1	66(park):1	70(overall):1	81(value):1	86(fantastic):1	128(extra):1	175(cost):1	248(consider):2	278(cool):1	365(grand):1	380(cab):1	381(compare):1	492(private):1	777(lour):1	924(hyatt):2	937(whatever):1	1117(inexpensive):1	1423(approx):2	1491(hip):1	1730(account):1	3258(narita):1	3668(yen):2	5032(suspicious):1	
+21	4(nice):1	13(bathroom):2	61(shower):1	97(internet):1	111(spacious):1	113(fine):1	139(square):1	257(decent):1	268(bedroom):1	295(name):1	311(tub):1	339(key):1	474(separate):1	657(toiletry):1	705(marble):1	883(brand):1	1211(equipment):1	2127(vanity):1	3446(locker):1	6829(amentity):1	8083(footage):1	
+24	1(location):1	28(close):2	29(minute):1	81(value):1	84(locate):1	120(bus):1	122(stop):1	132(hear):1	133(huge):1	147(business):1	218(ride):1	380(cab):2	756(hill):2	794(conference):1	879(centrally):1	986(elegant):1	1732(multiple):1	1763(nov):1	2216(exact):1	2588(doesnt):1	3542(well-equip):1	4804(banquet):1	4832(roppongi):3	11027(limosine):1	
+0	
+0	
+27	6(breakfast):2	10(restaurant):1	16(food):1	19(price):1	24(floor):1	47(eat):1	77(buffet):1	79(late):1	118(top):1	145(amaze):1	197(fresh):1	255(store):1	257(decent):1	406(snack):1	413(variety):1	485(delicious):1	497(bread):1	503(dont):1	523(gym):1	559(japanese):1	599(stock):1	925(convenience):1	1015(western):1	1423(approx):1	1483(bakery):1	3668(yen):1	4175(decently):1	
+0	
+
+<Author>jennikate
+<Content>Meets all expectations       View from hotel room towards bay  
+<Date>Jan 1, 2008
+<Rating>5	5	4	4	5	5	5	5	
+<Aspects>
+0	
+5	17(view):1	196(meet):1	431(expectation):1	671(bay):1	959(towards):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Neblina
+<Content>Nice hotel, good location, great service       Prince Park Tower Hotel  
+<Date>Nov 28, 2007
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+0	
+6	1(location):1	4(nice):1	9(service):1	66(park):1	378(tower):1	2041(prince):1	
+0	
+0	
+0	
+0	
+
+<Author>kwebThousandOaks
+<Content>great location and service stayed on upper floor, wonderful viewbreakfast on 33rd floor free if you join prince cludtwo subway stops nearclose to roppongi and ginzaquite beautiful area for walking  
+<Date>Oct 22, 2007
+<Rating>5	4	5	5	5	5	5	4	
+<Aspects>
+0	
+0	
+0	
+14	1(location):1	7(walk):1	9(service):1	24(floor):2	45(beautiful):1	46(free):1	48(wonderful):1	122(stop):1	370(subway):1	1290(join):1	1333(upper):1	2041(prince):1	4832(roppongi):1	12184(33rd):1	
+0	
+0	
+0	
+0	
+
+<Author>TravelDiva99
+<Content>Excellent Hotel with incredible service and great location Because I got such an excellent rate at hotels.com, I was not sure of the quality of the hotel. Was I in for a pleasant surprise. Great, unobstrusive service, incredible beds and bathrooms and, in my case, a balcony. It was easy to get to Roppongi Hills, there was a shuttle to Narita, the desk personnel were incredibly helpful. Get a room high up to enjoy the amazing view, it is well worth it. I can not wait to return.  
+<Date>Oct 21, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+2	150(pleasant):1	199(surprise):1	
+7	1(location):1	9(service):1	21(excellent):2	78(rate):1	187(quality):1	718(incredible):1	3056(hotels.com):1	
+9	9(service):1	11(bed):1	13(bathroom):1	17(view):1	51(enjoy):1	96(worth):1	145(amaze):1	191(balcony):1	718(incredible):1	
+9	14(helpful):1	36(desk):1	93(easy):1	321(shuttle):1	756(hill):1	807(incredibly):1	1457(personnel):1	3258(narita):1	4832(roppongi):1	
+0	
+2	39(return):1	85(wait):1	
+0	
+0	
+
+<Author>JGR001
+<Content>very impressed with Prince Park Tower My wife and I attended an OR conference at the Graduate School of International Policy Studies and they initially booked us at the Tokyo Prince Hotel, which seemed ok since it was close enough to Roppongi which was where the school was located. But I checked Trip Advisor two days before we left and found poor reviews for Tokyo Prince - 187th out of 256, I think - so I became desperate and quickly looked for alternatives in the same area. Turned out there was a Prince Park Tower Tokyo, also owned by the Prince chain, and just across the street from Tokyo Prince. It was new - built in 2005 - which is probably why the school wasn't too familiar with it. It was rated a high 11th in Trip Advisor. The rates were almost similar. So we immediately asked the school to rebook us, and luckily, they were able to. It's one of the last stops on the Airport Limo Bus service but that was a bit of blessing since it allowed us to see a number of hotels in the area, esp Tokyo Prince which looked quite old from the outside. The limo bus had to park 150 meters from the front door which was a minor inconvenience but the bell people were very quick to meet the bus and unload our luggage. Every one who got in was met individually by a front desk person and led to a separate stall with guest chairs. What a nice touch, rather than having you line up and stand while checking in. Maybe it was just us but they didn't take our credit card - we'll just need that at the end, they said. We were booked on the executive floors - from 18th to 26th, I think - since they were the only ones available with just 20 hours before check-in. For that, we paid a bit more than standard - appr $250 per weekend night and $225 for weekday night. But for that, we got a very high floor - 24th - with a fantastic Tokyo skyline view (floor to ceiling glass window), including a very peaceful vantage of the Zojoji Temple adjoining the property and the Tokyo Tower nearby. The view alone was worth the price. And the hotel room had a balcony which was great for occasionally going out at night to just check in the city lights and cool air. Part of the package was the autumn meal plan, which was a bit beyond the usual free breakfast. What it did was allow us to take breakfast at any of five outlets, or alternatively, take lunch in the coffee shop, or use the coupons for gym - very new equipment and free trainers, or for bowling - yes, they had a great 8-lane alley in basement 2! So if you felt you had already overeaten or had a lunch outside, you could use it to bowl or work out. That system was so flexible. The hotel itself is so impressive. the bank of elevators dedicated to the executive rooms - 4 of them - were so classy - lighted glass, dark wood, steel, chrome, with glass-and-wood doors. And the whole elevator foyer was similarly stunning. They had their own bakery cum convenience store cum gift shop. They also had a Hallmark type store plus drug store. My wife was looking for vitamin C tablets and I needed some back pain relief and we both found what we were looking for. The hotel also had several specialty designer (foreign brands) shops in a sort of short high street. The coffee shop in the basement was well-designed, with a skylight that showered natural light on a basement location. The sky lounge on the 33rd was similarly impressive because of the wall-to-ceiling glass that provided unobstructed views. But what was unique - although this didn't apply to our situation - was that the hotel seemed to be geared for weddings and honeymoons. Half of a basement floor was dedicated to wedding banquet halls. They had shops for bridal gowns, wedding-honeymoon photos, wedding planners, pre-wedding grooming, flowers, a Wako Dept Store wedding gifts section, etc. There was even an outdoor chapel just above the wedding halls and an escalator from there to the wedding basement. Unbelievable!On our floor itself, the carpets, lighting, and room doors were all very tastefully done and designed. The rooms were decently sized - I believe about 40 sq meters or just a bit less. The bathrooms were large, with jacuzzi (my wife loved it!) and stalled shower. The toilet seat was usual smart Japanese - with heating, deodorizer, flush volume control, etc. They were way over the top with amenities, including giving my wife an obviously-expensive Shisheido pack (of course, they only did that once for the entire stay. As you would expect, there were a lot of lighting controls bedside. There was white reading light on the end of a flexible neck that you would only find in the business class of a plane. Curtains were by push button. But the aircon controls didn't seem to respond too well, when we wanted to lower the temperature from the auto 24-25 degrees to something cooler. We weren't sure if that was the design or there was a flaw. The pillows were too thick and a bit on the hard side. But you could ask for a replacement - my wife changed hers for one of those molded ortho ones, free of charge. I had a problem with the two lounge chairs in the room - they were obviously leather and expensive but they weren't too ergonomic. We also had a minor issue with the room safe. Unlike other safes, you had to key in the number every time you locked. So there was a danger that you weren't paying too great an attention when you closed up again and you might have punched in a wrong number. Which was what happened to us on the 4th day. But housekeeping was very quick to respond and reset the safe - they were in the room a minute after we called. Wired internet access was free - nice. But no wireless. But - they were thoughtful enough to provide an ethernet cable! What thoughtfulness. And the best touch - a flat panel Sony LCD TV! It looked like a 42 incher. But - the satellite channels only gave you CNN Japan, BBC, and Fox - and half of its programs were in Japanese. There was also a sports program which had the occasional MLB and Euro football if it wasn't doing the Japanese baseball. You could also do HD TV but they were all Japanese programs.The concierge were very helpful - and spoke good English - but the Hata tours and the Grey line tours were often fully booked. My sense was they had very limited capacity - so make sure you book your tours way in advance. The hotel itself is in the Shiba Park, which is probably green in spring and summer but it was turning brown in late September. Still, the park is a nice place to spend a hour or so since they have many park benches and they have short hill climbs. The Shojoji temple is just nearby and very conveniently gives you a feel for the Buddhist architecture and influence. You don't really have to go to the far-off Asakusa Sendoji temple which is in the itinerary of all the tours. In the same block as the hotel is the the Shiba-koen subway station. I's one of the few stations that gives away an English version of the subway system map - make sure you get one. The downside is that it doesn't overlap with any other line so chances are, unless you're going to the Imperial Palace, you'll need to make transfers. When you're booking a hotel, make sure your hotel is on the list of the airport bus and the tour buses for pick-up and drop-off - fortunately, Prince Park Tower is on those lists. For those who are scared of learning the subway system, the hotel is sort of close enough that you can walk - long though, on average 30-40 minutes brisk walk - to the pier area (for a river cruise or to see the Hama Detached Garden), to the Imperial Palace area, to Roppongi, and to Ginza. All in all, I was very impressed with the Prince Park Tower - especially at the price point - and will certainly have no second thoughts about booking there again if I needed to be in that general South Central Tokyo area.  
+<Date>Sep 29, 2007
+<Rating>5	5	3	4	5	5	5	5	
+<Aspects>
+87	5(time):1	8(day):1	20(look):3	33(trip):1	34(feel):1	52(bit):1	73(etc):1	78(rate):2	135(build):1	137(safe):1	153(provide):1	162(hard):1	178(probably):1	181(tour):1	184(wife):1	188(line):1	203(plus):1	232(nearby):1	255(store):2	256(euro):1	292(card):1	303(pillow):1	308(maybe):1	330(toilet):1	335(numb):1	339(key):1	382(happen):1	389(type):1	405(unless):1	484(cable):1	504(seat):1	516(design):1	539(heat):1	559(japanese):2	604(wed):2	616(hall):1	642(palace):1	659(credit):1	682(usual):1	689(chance):1	701(advisor):1	743(curtain):1	774(lock):1	782(downside):1	845(4th):1	865(control):1	874(similar):1	901(outdoor):1	919(sport):1	920(impressive):1	1021(transfer):1	1041(push):1	1070(conveniently):1	1163(unlike):1	1229(school):1	1460(unbelievable):1	1481(pain):1	1531(program):1	1568(basement):1	1619(flush):1	1652(thick):1	1687(smart):1	1803(architecture):1	1899(11th):1	2081(familiar):1	2142(button):1	2256(drug):1	2363(football):1	2418(occasional):1	2482(relief):1	2626(temple):2	2808(flaw):1	2837(thoughtful):1	2946(volume):1	3120(baseball):1	3478(escalator):1	3697(ethernet):1	4064(itinerary):1	4112(influence):1	4370(Imperial):1	5095(tablet):1	5512(chapel):1	7198(asakusa):1	9989(vitamin):1	10924(deodorizer):1	12088(thoughtfulness):1	12113(hallmark):1	
+41	2(night):2	17(view):1	19(price):1	28(close):1	42(pay):2	49(shop):1	52(bit):1	71(include):1	73(etc):1	96(worth):1	118(top):1	130(standard):1	172(weekend):1	184(wife):1	255(store):1	291(amenity):1	293(course):1	329(entire):1	335(numb):1	427(wrong):1	502(honeymoon):1	604(wed):2	715(pack):1	726(attention):1	761(photo):1	778(flower):1	852(gift):1	890(situation):1	947(section):1	1027(unique):1	1997(gear):1	2734(weekday):1	2954(apply):1	3184(punch):1	3280(wedding):1	3403(groom):1	4387(dept):1	4592(gown):1	4709(danger):1	5205(planner):1	10333(bridal):1	
+107	1(location):1	2(night):1	13(bathroom):1	17(view):1	24(floor):4	29(minute):1	32(check):1	38(lot):1	40(love):1	41(city):1	49(shop):1	52(bit):1	54(door):2	61(shower):2	62(expect):1	67(call):1	71(include):1	83(size):1	86(fantastic):1	88(read):1	90(coffee):1	116(tv):2	119(window):1	124(expensive):1	137(safe):2	147(business):1	157(light):6	164(air):1	184(wife):1	191(balcony):1	198(chair):1	214(property):1	216(elevator):1	232(nearby):1	237(lounge):1	265(issue):1	278(cool):2	279(touch):1	283(half):2	299(quick):1	312(believe):1	327(glass):2	367(housekeeping):1	378(tower):1	396(carpet):1	459(dark):1	466(white):1	470(class):1	516(design):1	528(ceiling):1	535(flat):1	559(japanese):2	604(wed):1	616(hall):1	720(minor):1	741(channel):1	777(lour):1	781(obviously):1	808(jacuzzi):1	865(control):2	872(executive):1	944(temperature):1	968(plane):1	1036(peaceful):1	1040(tokyo):2	1194(metre):1	1225(bank):1	1252(degree):1	1327(wood):1	1412(adjoin):1	1488(classy):1	1526(tastefully):1	1531(program):2	1543(natural):1	1568(basement):3	1587(respond):2	1701(stall):1	1773(lcd):1	1900(japan):1	1959(sq):1	2101(cnn):1	2134(panel):1	2257(aircon):1	2298(bedside):1	2526(skyline):1	2533(occasionally):1	2564(24th):1	2626(temple):1	2729(leather):1	2997(bbc):1	3260(satellite):1	3313(neck):1	3477(dedicate):2	3915(flexible):1	4024(steel):1	4175(decently):1	4510(sony):1	4688(hd):1	4804(banquet):1	4863(reset):1	5923(auto):1	5930(fox):1	6974(well-design):1	6991(skylight):1	7147(chrome):1	8962(vantage):1	11956(ergonomic):1	
+108	4(nice):1	7(walk):2	9(service):1	17(view):1	18(book):2	20(look):1	26(people):1	28(close):2	29(minute):1	31(front):1	34(feel):1	35(street):2	49(shop):2	52(bit):1	54(door):1	60(hour):1	64(spend):1	66(park):7	79(late):1	82(station):2	84(locate):1	95(airport):2	98(outside):2	100(bloc):1	120(bus):5	122(stop):1	123(ok):1	144(short):2	152(english):1	153(provide):1	166(own):2	178(probably):1	181(tour):1	184(wife):1	196(meet):1	227(average):1	237(lounge):1	249(luggage):1	252(lunch):1	255(store):1	299(quick):1	310(garden):1	327(glass):1	335(numb):1	343(impress):1	359(allow):1	370(subway):3	378(tower):3	518(system):2	557(sort):2	603(cruise):1	627(chain):1	642(palace):1	650(list):2	703(learn):1	710(river):1	720(minor):1	724(map):1	756(hill):1	794(conference):1	801(bell):1	826(attend):1	852(gift):1	853(summer):1	883(brand):1	903(international):1	920(impressive):1	925(convenience):1	972(september):1	1005(green):1	1040(tokyo):4	1162(spring):1	1194(metre):1	1229(school):2	1366(bowl):1	1424(climb):1	1431(inconvenience):1	1439(initially):1	1456(pier):1	1483(bakery):1	1585(fortunately):1	1634(policy):1	1667(brown):1	1711(scare):1	1751(specialty):1	1909(sky):1	2041(prince):7	2131(designer):1	2258(pickup):1	2375(foreign):1	2567(limo):2	2624(esp):1	2702(ginza):1	2723(version):1	2887(bless):1	3143(unload):1	3270(bench):1	3299(similarly):1	3769(study):1	4370(Imperial):1	4542(brisk):1	4832(roppongi):2	6104(unobstructed):1	7422(graduate):1	8596(drop-off):1	8986(detach):1	10174(over-eat):1	12184(33rd):1	
+0	
+48	4(nice):1	8(day):1	14(helpful):1	18(book):2	20(look):1	24(floor):1	31(front):1	32(check):2	33(trip):1	36(desk):1	37(review):1	43(leave):1	46(free):1	60(hour):1	91(guest):1	127(speak):1	134(available):1	136(charge):1	152(english):1	161(change):1	181(tour):2	184(wife):1	188(line):2	193(person):1	196(meet):1	198(chair):1	204(concierge):1	279(touch):1	286(check-in):1	331(poor):1	444(stand):1	471(quickly):1	474(separate):1	701(advisor):1	872(executive):1	922(lead):1	1040(tokyo):1	1138(mold):1	1298(alternative):1	1701(stall):1	2041(prince):1	2213(18th):1	2335(grey):1	2593(replacement):1	2639(26th):1	2730(desperate):1	4567(individually):1	6214(hers):1	
+47	6(breakfast):2	18(book):2	19(price):1	46(free):2	49(shop):1	52(bit):1	66(park):1	90(coffee):1	126(especially):1	168(central):1	171(able):1	181(tour):1	213(meal):1	216(elevator):1	221(plan):1	250(yes):1	252(lunch):1	343(impress):1	359(allow):1	378(tower):1	489(immediately):1	510(limit):1	523(gym):1	527(package):1	682(usual):1	685(advance):1	738(beyond):1	769(south):1	988(stun):1	1040(tokyo):1	1102(sense):1	1200(luckily):1	1211(equipment):1	1229(school):1	1366(bowl):1	1568(basement):1	1671(alley):1	1689(outlet):1	1931(foyer):1	2041(prince):1	2106(coupon):1	2545(capacity):1	3299(similarly):1	5091(trainer):1	5318(alternatively):1	7260(rebook):1	7448(autumn):1	
+8	4(nice):1	46(free):1	97(internet):1	159(access):1	518(system):1	717(wireless):1	1904(wire):1	3915(flexible):1	
+
+<Author>awdub
+<Content>great hotel, and a wonderful bargain I stayed here the first few days of a vacation to Asia - wanted a place that was very comfortable and a peaceful retreat in case of jet-lag. I was very impressed by this property and would wholeheartedly recommend it.The location has pluses and minuses - the hotel is in the middle of a very pretty park, so it is not particularly close to anything, but it is a healthy (15-20 minute) walk to Ginza or Roppongi, and a $10-12 cab ride. It is on the airport limousine bus route but is the next-to-last stop, so the ride takes approx. 1 hour. It is very close to the Oedo and Asakusa subway lines, so if you can navigate the subways, it is incredibly convenient. Because it is the highest building in the immediate area, the views are incredible, and it feels very quiet and restful.I got a fabulous rate online with one of the expedia/travelocity type sites but still joined the Prince Club - didn't get breakfast included in the rate, but they did give me a nicer room than I had reserved - ended up north-facing, on the 14th floor with a small balcony and a spectacular view of Tokyo Tower and the Zozoji temple.The hotel and the room were quite impressive - the hotel is still fairly new and is in pristine shape. The room was much larger than I had expected it to be - a very good-sized room by NY standards - and well furnished, with a comfortable bed and nice linens. The bathroom was done in grey marble and had a separate shower enclosure and whirlpool tub. The toiletries even included bathsalts for the tub!The bar upstairs had a spectacular view - the drink wasn't very good and was ridiculously overpriced (~$25, with table charge) - but was still worth it for the view. The sushi restaurant downstairs was not cheap, but it was quite good. The main gift shop downstairs had very reasonably priced pastries and small bites, and made for a wonderful snack/breakfast stop.The service at the hotel was truly superb - the check-in and out was quick and easy, and the money exchange desk staff were very good. The concierge was superb - she came up with excellent recommendations for trendy yakitori in Roppongi and wonderful Kaiseki in Ginza, and printed out maps of each restaurant to give to cab drivers or to navigate myself. The bell staff was extremely good at giving maps and directions to cab drivers.Bottom line - I would have been very satisfied if I had paid $350/night to stay here. At less than $200 a night (or even $250 a night), it is an extraordinary bargain, and I couldn't have been any happier.  
+<Date>Jun 7, 2007
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+1	60(hour):1	
+20	2(night):2	8(day):1	10(restaurant):1	25(comfortable):1	42(pay):1	48(wonderful):1	131(vacation):1	143(cheap):1	155(happy):1	188(line):1	691(downstairs):1	759(bargain):2	850(bottom):1	899(satisfy):1	1036(peaceful):1	1632(sushi):1	2108(asia):1	2244(re-treat):1	2674(extraordinary):1	11122(jet-lag):1	
+48	4(nice):2	6(breakfast):1	11(bed):1	13(bathroom):1	17(view):2	24(floor):1	25(comfortable):1	34(feel):1	58(quiet):1	61(shower):1	62(expect):1	71(include):2	78(rate):2	130(standard):1	135(build):1	191(balcony):1	192(site):1	212(club):1	270(fabulous):1	311(tub):2	378(tower):1	389(type):1	462(fairly):1	474(separate):1	506(reserve):1	630(linen):1	656(spectacular):1	657(toiletry):1	705(marble):1	718(incredible):1	787(furnish):1	822(online):1	920(impressive):1	933(ny):1	1040(tokyo):1	1066(expedia):1	1226(shape):1	1290(join):1	1761(immediate):1	1998(14th):1	2041(prince):1	2335(grey):1	2626(temple):1	2790(whirlpool):1	2981(pristine):1	3076(restful):1	4551(good-size):1	6568(enclosure):1	
+38	1(location):1	7(walk):1	19(price):1	28(close):2	29(minute):1	48(wonderful):1	49(shop):1	66(park):1	95(airport):1	109(pretty):1	112(main):1	120(bus):1	122(stop):2	186(convenient):1	188(line):1	203(plus):1	218(ride):2	325(middle):1	370(subway):2	380(cab):1	406(snack):1	553(particularly):1	578(reasonably):1	652(pastry):1	691(downstairs):1	807(incredibly):1	852(gift):1	1035(route):1	1042(bite):1	1423(approx):1	2064(minus):1	2252(navigate):1	2294(healthy):1	2702(ginza):1	4165(limousine):1	4832(roppongi):1	7198(asakusa):1	12504(oedo):1	
+0	
+26	0(staff):2	9(service):1	10(restaurant):1	21(excellent):1	36(desk):1	48(wonderful):1	80(money):1	93(easy):1	110(extremely):1	204(concierge):1	286(check-in):1	299(quick):1	380(cab):2	395(direction):1	407(superb):2	476(truly):1	563(driver):2	577(recommendation):1	724(map):2	801(bell):1	1101(print):1	1413(trendy):1	1514(exchange):1	2252(navigate):1	2702(ginza):1	4832(roppongi):1	
+14	15(recommend):1	17(view):2	27(bar):1	63(drink):1	96(worth):1	136(charge):1	214(property):1	229(table):1	343(impress):1	656(spectacular):1	727(overprice):1	1358(upstairs):1	2591(ridiculously):1	5268(wholeheartedly):1	
+0	
+
+<Author>twofortravel
+<Content>Great Views and Excellent Service Just returned from a thoroughly enjoyable stay at the Tokyo Prince Hotel Park Tower. We had a great room on the 15th floor with fabulous views of the Tokyo Tower and the surrounding city. Our room was well appointed, immaculately maintained, and extremely comfortable. As members of the Prince Club, we enjoyed the tasty complimentary breakfasts served at the Brise Verte Restaurant and at the bountiful buffet restaurant. Both of these restaurants are located on the 33rd floor and offer spectacular views. We relaxed and enjoyed the evening skylight views and the complimentary evening cocktails and appetizers served at the Club Lounge on the 27th floor.  The customer service offered by all levels of the the hotel staff was excellent. They were extremely attentive and went out of their way to assist us. The Tokyo Tower and the Zooiji Temple are within a few minutes walk from the hotel.. A complimentary shuttle to and from the Hamamatsucho Station is available for all guests..  We would definitely stay at this hotel again when we return to Tokyo and heartily recommend it to others who are planning a visit .  
+<Date>Jun 1, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	15(recommend):1	39(return):1	59(definitely):1	65(visit):1	110(extremely):1	221(plan):1	537(attentive):1	1040(tokyo):1	1265(assist):1	4948(heartily):1	
+0	
+21	7(walk):1	10(restaurant):1	17(view):2	24(floor):2	25(comfortable):1	29(minute):1	41(city):1	84(locate):1	89(offer):1	110(extremely):1	270(fabulous):1	378(tower):2	562(maintain):1	579(appoint):1	656(spectacular):1	667(surround):1	1040(tokyo):2	2084(immaculately):1	2626(temple):1	4273(15th):1	12184(33rd):1	
+5	82(station):1	91(guest):1	134(available):1	321(shuttle):1	345(complimentary):1	
+0	
+6	0(staff):1	9(service):1	21(excellent):1	89(offer):1	306(level):1	428(customer):1	
+26	6(breakfast):1	9(service):1	10(restaurant):2	17(view):2	21(excellent):1	24(floor):1	39(return):1	51(enjoy):2	66(park):1	77(buffet):1	160(relax):1	174(serve):2	212(club):2	237(lounge):1	345(complimentary):2	378(tower):1	567(enjoyable):1	716(cocktail):1	898(thoroughly):1	984(tasty):1	1040(tokyo):1	1597(appetizer):1	2041(prince):2	2775(27th):1	6843(bountiful):1	6991(skylight):1	
+0	
+
+<Author>superviajera
+<Content>Precioso       Sal贸n desayuno  
+<Date>Nov 17, 2008
+<Rating>5	5	5	4	5	5	5	3	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>elisabethzabou
+<Content>Excellent       LE Jaccuzzi aux sels de bains 脿 la lavande !  
+<Date>Nov 15, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+6	21(excellent):1	225(la):1	1133(le):1	8045(jaccuzzi):1	10306(bain):1	12337(aux):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>gege06
+<Content>Hotel de tres bon confort et excellent sercice       salle de bain  
+<Date>Feb 24, 2008
+<Rating>4	5	4	4	4	4	4	-1	
+<Aspects>
+5	21(excellent):1	3576(bon):1	8278(confort):1	10306(bain):1	10313(salle):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

@@ -1,0 +1,378 @@
+<Author>PaulFromMetuchen
+<Content>fine rooms, decent setting, amateurish service This hotel was close to my business, and had fine rooms and reliable wireless internet service. It lacked efficient service. I'll go through some examples. There was a useful card to hang on the door with requests, including maintenance. It even had a picture of a lamp, with a way of indicating that a lamp was not working. I made the indication and put out the card, but the lamp was not repaired in the four days I remained at the hotel. One morning, I woke up at 5 and found that a bill had been placed under my door. It wasn't my bill, and at 5:15 someone knocked and asked for it back. Granted, I hadn't put out the 'do not disturb sign', but still. One afternoon, my electronic key failed. Security at the front desk consisted of asking me my room number. Later, I left a key for my wife, who was joining me at the end of my stay, and the front desk took the envelope and entered her information into their system. When she arrived, they could find no envelope or record. Her security test was answering, yes, I'm his wife - no ID was required. And if you're leaving in the morning rush, leave yourself ten minutes for an elevator.  
+<Date>Nov 8, 2008
+<Rating>3	4	4	4	4	2	1	5	
+<Aspects>
+19	53(arrive):1	54(door):1	56(morning):1	339(key):1	364(afternoon):1	449(sign):1	456(picture):1	495(bill):2	554(wake):1	954(example):1	1067(disturb):1	1323(knock):1	1576(fail):1	1622(lamp):2	1690(grant):1	1776(indicate):1	2251(record):1	2578(electronic):1	5172(envelope):1	
+0	
+17	8(day):1	31(front):1	36(desk):1	184(wife):1	250(yes):1	292(card):1	335(numb):1	641(security):2	669(answer):1	722(require):1	1185(consist):1	1391(remain):1	1398(repair):1	1622(lamp):1	2584(id):1	2922(test):1	4626(indication):1	
+0	
+0	
+18	31(front):1	36(desk):1	43(leave):1	54(door):1	71(include):1	79(late):1	148(request):1	184(wife):1	292(card):1	339(key):1	478(hang):1	518(system):1	601(enter):1	649(information):1	1149(maintenance):1	1232(useful):1	1290(join):1	5172(envelope):1	
+9	9(service):1	29(minute):1	43(leave):2	56(morning):1	216(elevator):1	349(lack):1	401(efficient):1	576(yourself):1	1244(rush):1	
+10	9(service):2	28(close):1	97(internet):1	113(fine):2	147(business):1	234(set):1	257(decent):1	717(wireless):1	2416(reliable):1	8847(amateurish):1	
+
+<Author>LOUKINA
+<Content>What a nightmare! I arrived with my party around midnight at the Mexico Melia Reforma after an almost 24 hour journey to find out that the hotel made an overbooking and we had no rooms! I felt that everything was done in a shady way because Mr. Israel from the reception did not say anything when we gave him the vouchers and actually started typing his computer. Only when our agency鈥檚 representative left with our transportation bus, only then, he stared saying that the hotel was full and we would be transferred to the Sheraton!For me the most serious incident was the violation of my room privacy. I had already check in and placed the 鈥渄o not disturb鈥?sign on the door. I expected that my wish for no one to enter the room would be honored. However when I stepped out of the room for a while the employees just walked in and removed all the bottles of water from the room (which gave the message that either the hotel management thought I could not afford to pay for them or that I should not get thirsty during the night)! When I complained the reply I got from Mr. Hugo at the reception was that the hotel has the right to enter a guest鈥檚 room even with the clear indication of their wish for privacy!!! Further more I had to wait for an hour and a half for some one to come up to the room and 鈥渃heck things out鈥?as I was told from Mr. Rivera that was the Duty Manager that night. Unfortunately nobody bothered.Regarding the standard of the rooms, it was definitely not to a 5* (not even a 4*) hotel expectations. For the night of the 24th  25th April I stayed on the 17th floor which had the filthiest windows I ever saw. Next day I found a cleaning cloth forgotten on my suitcase from the cleaning personnel and only the bathroom bean was emptied, the one near the writing desk was quite full and was left like that! Also the bedcover had a stain and one of the curtains was half hanging down from the rail! When I called Housekeeping I have to say that a lady came within 5 minutes and although she did not speak English I explained to her in my Spanish (not perfect but not bad either) and showed her everything. She was very apologetic and started cleaning the window on the spot and then changed the garbage bean in the room and took away the bedcover! I also used room 916 on the 2nd of May and every time I had to switch on and off the lights from the switch next to the main door I was wondering if there was any risk of me getting electrocuted! The whole frame was hanging out from the wall with the wires showing and everything! Also the carpet was not hovered as I realized because there were cigarette鈥檚 ashes on it! The breakfast area was fine and we actually found the breakfast very satisfactory BUT one of my co travelers saw outside the breakfast area a cockroach dashing under the tables鈥?br/>After filling in a Survey form that the hotel sent me, the Area Manager contacted me by e-mail and apologized and offer some kind of reward (un upgrade on a next stay or something) As if I will ever鈥?.  
+<Date>Jul 24, 2008
+<Rating>1	1	3	5	1	1	3	-1	
+<Aspects>
+3	307(bother):1	524(unfortunately):1	1534(nightmare):1	
+16	2(night):1	7(walk):1	42(pay):1	57(water):1	59(definitely):1	130(standard):1	238(bottle):1	366(step):1	431(expectation):1	525(management):1	608(employee):1	930(regard):1	1135(remove):1	1452(afford):1	1809(message):1	5221(thirsty):1	
+77	2(night):1	3(clean):3	5(time):1	8(day):1	13(bathroom):1	24(floor):1	29(minute):1	36(desk):1	43(leave):1	50(bad):1	53(arrive):1	54(door):1	60(hour):1	62(expect):1	67(call):1	74(perfect):1	91(guest):1	102(near):1	112(main):1	119(window):2	127(speak):1	129(reception):1	152(english):1	157(light):1	161(change):1	165(start):1	241(complain):1	283(half):1	317(spot):1	344(write):1	363(party):1	367(housekeeping):1	369(spanish):1	384(wish):2	396(carpet):1	397(forget):1	478(hang):1	521(lady):1	601(enter):2	607(realize):1	723(stain):1	743(curtain):1	768(explain):1	810(empty):1	888(switch):2	929(mexico):1	946(wonder):1	974(suitcase):1	1044(midnight):1	1183(privacy):2	1320(filthy):1	1326(2nd):1	1362(journey):1	1365(cigarette):1	1376(honor):1	1418(melia):1	1457(personnel):1	1469(serious):1	1650(garbage):1	1755(rail):1	1811(reply):1	1864(cloth):1	1943(25th):1	2013(incident):1	2068(overbooke):1	2143(17th):1	2168(risk):1	2483(apologetic):1	2550(bean):2	2564(24th):1	4382(reforma):1	4626(indication):1	5471(ash):1	6417(hover):1	9754(bedcover):2	10226(violation):1	11045(hugo):1	
+12	43(leave):1	120(bus):1	183(wall):1	478(hang):1	728(transportation):1	1013(sheraton):1	1021(transfer):1	1904(wire):1	2160(representative):1	2218(agency):1	2339(frame):1	2748(stare):1	
+0	
+34	2(night):1	6(breakfast):3	32(check):1	54(door):1	60(hour):1	69(tell):1	85(wait):1	89(offer):1	98(outside):1	113(fine):1	163(upgrade):1	180(actually):1	229(table):1	258(manager):2	267(traveler):1	283(half):1	447(send):1	449(sign):1	491(fill):1	713(contact):1	1067(disturb):1	1164(form):1	1325(duty):1	1485(apologize):1	2059(satisfactory):1	2110(cockroach):1	2186(reward):1	2292(un):1	3082(br):1	3085(heck):1	4312(co):1	5009(survey):1	5944(dash):1	9472(rivera):1	
+0	
+8	34(feel):1	129(reception):1	165(start):1	180(actually):1	389(type):1	555(computer):1	1750(voucher):1	2543(shady):1	
+
+<Author>lianab
+<Content>Great stay I was a little concerned after reading the mixed reviews but was very pleasantly surprised. I got a good deal on the internet - average of $US115 dollars per night. The lobby area was very impressive and clean and the staff were helpful and eager to assist.The Queen deluxe room was comfortable, spacious and hadcharacter. I enjoyed the bath after long days walking around Mexcico city. The pool and spa area was very impressive - clean and had a very soothing feel about it.We ate breakfast buffet and dinner buffet once and found it to be very nice - not too expensive either.The location is great for easy access to many areas - can walk or talk Hidalgo metro a block away.Overall a very pleasant experience and I would definately consider this hotel again for a similar price.  
+<Date>Jul 10, 2008
+<Rating>4	4	4	4	4	5	4	-1	
+<Aspects>
+7	23(little):1	37(review):1	88(read):1	199(surprise):1	496(concern):1	609(mix):1	747(pleasantly):1	
+12	2(night):1	19(price):1	44(experience):1	70(overall):1	97(internet):1	140(deal):1	150(pleasant):1	227(average):1	248(consider):1	410(definately):1	430(dollar):1	874(similar):1	
+4	25(comfortable):1	111(spacious):1	543(Queen):1	648(deluxe):1	
+11	1(location):1	7(walk):2	8(day):1	41(city):1	51(enjoy):1	93(easy):1	100(bloc):1	159(access):1	226(bath):1	235(metro):1	371(talk):1	
+11	0(staff):1	3(clean):2	14(helpful):1	22(pool):1	34(feel):1	55(lobby):1	314(spa):1	920(impressive):2	1265(assist):1	1604(eager):1	3268(soothe):1	
+0	
+6	4(nice):1	6(breakfast):1	47(eat):1	77(buffet):2	117(dinner):1	124(expensive):1	
+0	
+
+<Author>houathlete
+<Content>Great location...hotel and staff need work. Overall the hotel was pleasant. The room (1419) was nice and quiet. Room service and front desk personnel were very helpful. But BEWARE of the concierge and and doormen! They will insist on putting you in a more expensive hotel taxi even if you ask them nicely to call a regular taxi for you, which is MUCH cheaper. I got so tired of haggling with them over this that I decided to buy a phone card ($10) and call the taxis myself from the lobby. This of course did not please the doormen, who no longer bothered to assist my 65 year-old mother, who has had knee surgery and uses a cane, by opening the car AND hotel doors! I would recommend this hotel if you get a good rate, as I did, but avoid the concierge and doormen as much as possible. They are only there to try and take as much of your money as they can.  
+<Date>May 14, 2008
+<Rating>4	4	4	5	4	3	2	3	
+<Aspects>
+16	54(door):1	70(overall):1	76(try):1	80(money):1	121(car):1	150(pleasant):1	173(please):1	293(course):1	307(bother):1	998(doorman):1	1265(assist):1	1359(mother):1	3139(knee):1	4307(cane):1	5984(surgery):1	6152(year-old):1	
+7	67(call):1	124(expensive):1	143(cheap):1	185(taxi):2	404(nicely):1	744(regular):1	1495(insist):1	
+2	4(nice):1	58(quiet):1	
+11	0(staff):1	1(location):1	55(lobby):1	67(call):1	185(taxi):1	219(decide):1	280(buy):1	292(card):1	296(phone):1	454(tire):1	2768(haggle):1	
+0	
+11	9(service):1	14(helpful):1	15(recommend):1	31(front):1	36(desk):1	78(rate):1	204(concierge):2	436(avoid):1	737(beware):1	998(doorman):2	1457(personnel):1	
+0	
+0	
+
+<Author>nadalita
+<Content>I've had better This hotel should be a lot nicer for what you're actually paying. Not a five star at all, it looks kind of shabby and a bit dirty if you ask me. My bathroom was lacking some maintainance and I bet you cannot say you're happy when you pay for your car to be parked at the hotel you're staying in. Kind of annoying to find not very helpful people at front desk. Super expensive for what you get, would have liked to pay much more if i'd had known it will be such a waste. Anyway, it has a great location and that made things easier. Wish i had heard about all costs before calling in though.  
+<Date>Apr 8, 2008
+<Rating>2	2	3	4	2	2	3	2	
+<Aspects>
+0	
+11	4(nice):1	38(lot):1	42(pay):2	67(call):1	124(expensive):1	132(hear):1	175(cost):1	180(actually):1	384(wish):1	464(super):1	928(waste):1	
+8	13(bathroom):1	42(pay):1	66(park):1	121(car):1	155(happy):1	349(lack):1	1821(bet):1	9493(maintainance):1	
+3	1(location):1	93(easy):1	417(anyway):1	
+5	20(look):1	52(bit):1	103(star):1	323(dirty):1	1319(shabby):1	
+5	14(helpful):1	26(people):1	31(front):1	36(desk):1	695(annoy):1	
+0	
+0	
+
+<Author>terryjgardner
+<Content>Just as I remembered, which means a need for refurbishment The Gran Melia Mexico Reforma is well-located in Mexico City for Zona Rosa and Centro Historico visits, Polanco is a little further away. I travel to Mexico often and have fond memories of the Gran Melia - but now it is time for the hotel to refurbish the rooms. As a previous reviewer noted, the rooms have not changed in many years.The grand bathrooms with the nice Jacuzzi has old fixtures that are loose, the wallpaper needs a rework. But these are quibbles.The Melia is a wonderful hotel overall, with a fantastic staff, and handles the international traveler very well. As often as I visit Mexico, I still only know very little Spanish, but that is not a problem whatsoever in the Melia. It's fun, and travelers should try the hotel.  
+<Date>Mar 26, 2008
+<Rating>3	-1	3	4	4	5	5	2	
+<Aspects>
+10	23(little):1	65(visit):1	76(try):1	176(fun):1	267(traveler):1	369(spanish):1	929(mexico):1	1418(melia):1	1733(whatsoever):1	3638(quibble):1	
+0	
+19	4(nice):1	5(time):1	13(bathroom):1	68(travel):1	161(change):1	297(note):1	365(grand):1	373(previous):1	564(reviewer):1	808(jacuzzi):1	929(mexico):1	1253(refurbish):1	1418(melia):1	1535(gran):1	1541(fixture):1	1631(memory):1	2093(wallpaper):1	2234(loose):1	3960(fond):1	
+16	23(little):1	41(city):1	65(visit):1	246(mean):1	375(remember):1	929(mexico):2	1418(melia):1	1535(gran):1	2253(refurbishment):1	3160(rosa):1	3735(zona):1	3858(well-locate):1	4382(reforma):1	4879(centro):1	5784(polanco):1	7849(historico):1	
+0	
+8	0(staff):1	48(wonderful):1	70(overall):1	86(fantastic):1	267(traveler):1	903(international):1	966(handle):1	1418(melia):1	
+0	
+0	
+
+<Author>bicheno
+<Content>very good Location, views, breakfast - all just great.We stayed here for the first time 11 years ago and the rooms havn't changed ever since- they need a refurbishment.Otherwise it' s a great place.  
+<Date>Mar 23, 2008
+<Rating>4	5	3	5	4	5	4	4	
+<Aspects>
+1	508(otherwise):1	
+0	
+5	5(time):1	161(change):1	633(ago):1	2253(refurbishment):1	11002(hav):1	
+3	1(location):1	6(breakfast):1	17(view):1	
+0	
+0	
+0	
+0	
+
+<Author>marygee22
+<Content>Great Hotel Date: 5 March 2008Gran Melia Reforma Mexico CityStayed at this hotel in Mexico City with a travel group from Ireland for three nights in February. The decor was great and rooms clean, comfortable and of a very high standard. We were booked as a group on a Breakfast and evening meal basis - spoiled for choice at breakfast but dinner could have been better. We decided to eat in the restaurant on our last night 'a la carte' and all of the group could not speak highly enough of the food, service, etc. I would certainly recommend this hotel to friends for its ambience, courteous staff , comfortable rooms and great leisure centre.Ger (Dublin, Ireland)  
+<Date>Mar 5, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	2(night):1	41(city):1	68(travel):1	511(date):1	615(march):1	929(mexico):2	1230(february):1	1418(melia):1	3748(ireland):2	4382(reforma):1	6075(dublin):1	
+0	
+11	0(staff):1	3(clean):1	15(recommend):1	25(comfortable):2	101(center):1	130(standard):1	146(friend):1	269(decor):1	483(courteous):1	957(ambience):1	2032(leisure):1	
+0	
+0	
+0	
+18	2(night):1	6(breakfast):2	9(service):1	10(restaurant):1	16(food):1	18(book):1	47(eat):1	73(etc):1	107(choice):1	117(dinner):1	127(speak):1	138(highly):1	213(meal):1	219(decide):1	225(la):1	681(carte):1	1221(spoil):1	1527(basis):1	
+0	
+
+<Author>wagroup
+<Content>Loved the Gran Melia Reforma MX City We just returned from 9 nights at the Gran Melia Reforma in MX City. What a great hotel to stay at. The service is supreme. They were so very helpful with 1/2 of our group of 10 being non-Spanish speaking. The conceirge was so helpful, kind and courteous to us at all times. We used the Turi-bus part of the time which is only 2 blocks away, and we were in walking distance of the Belle ARtes Theatre and Alameda Park. We love walking so we also walked to and from the Zocalo area a couple of times, (which is about 3/4 of a mile from this hotel). We ate most breakfast's at the Sanborn's, 1/2 block from the Gran Melia. The best sites we visited were the Teotihuacan pyrmids, we took a tour to Taxco and Cuarnvaca (sp). A big tip to leave you with is that if you have a group, it's much better to have your travel agent arrange a driver and van for just your group, which cost us about $300 total, (or $30 each for 10) for a 10-12 hour day. By doing that you have more flexibility about when, where, and how long to stop and spend your time at each stop. Our tour to Taxco was on their schedule and their stops, such as the jewelers where it was obvious they were getting a commission from........and not near enough time for when we wanted to do. All in all we had a great trip to such a beautiful city!WA group  
+<Date>Feb 23, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+24	2(night):1	5(time):3	14(helpful):2	33(trip):1	39(return):1	40(love):1	41(city):3	45(beautiful):1	64(spend):1	102(near):1	122(stop):3	127(speak):1	181(tour):1	483(courteous):1	1196(schedule):1	1418(melia):2	1535(gran):2	1698(obvious):1	2801(conceirge):1	4382(reforma):2	4516(commission):1	4851(wa):1	5963(flexibility):1	11100(non-spanish):1	
+11	8(day):1	43(leave):1	60(hour):1	68(travel):1	175(cost):1	194(tip):1	563(driver):1	680(arrange):1	766(agent):1	786(total):1	1223(van):1	
+0	
+18	5(time):2	7(walk):3	40(love):1	65(visit):1	66(park):1	99(couple):1	100(bloc):1	115(distance):1	181(tour):1	192(site):1	635(theater):1	692(mile):1	789(art):1	3470(sp):1	4103(zocalo):1	8292(belle):1	9812(alameda):1	11363(teotihuacan):1	
+0	
+0	
+7	6(breakfast):1	9(service):1	47(eat):1	100(bloc):1	1418(melia):1	1535(gran):1	5927(supreme):1	
+0	
+
+<Author>asiral
+<Content>Good value and comfort       Out onto street from Hotel  
+<Date>Feb 20, 2008
+<Rating>5	5	4	4	5	2	5	-1	
+<Aspects>
+0	
+3	35(street):1	81(value):1	702(comfort):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>tecouag
+<Content>A top choice in Mexico City Excelent location, elegance, confort ... these 3 words explain what Melia Reforma offer you as a visitor.Located at Paseo de la Reforma, you can consider you are in one of the best hotels in Mexico City.The rooms are fulls of luxury, with excelent views of Paseo de la Reforma Avenue.All the furniture is in old french style, with an excellent taste.Lobby is magnificent and the breakfast service offer you a delicious and very complete buffette.  
+<Date>Dec 10, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+14	1(location):1	41(city):1	89(offer):1	107(choice):1	118(top):1	571(word):1	768(explain):1	929(mexico):1	951(visitor):1	1418(melia):1	2255(elegance):1	3835(excelent):1	4382(reforma):1	8278(confort):1	
+12	17(view):1	21(excellent):1	225(la):1	254(french):1	326(style):1	437(luxury):1	439(taste):1	440(furniture):1	1090(avenue):1	3835(excelent):1	4382(reforma):1	5450(paseo):1	
+7	41(city):1	84(locate):1	225(la):1	248(consider):1	929(mexico):1	4382(reforma):1	5450(paseo):1	
+0	
+0	
+7	6(breakfast):1	9(service):1	55(lobby):1	89(offer):1	485(delicious):1	622(complete):1	1405(magnificent):1	
+0	
+
+<Author>SeliParis
+<Content>2 Star Hotel Service - personnal non-friendly I don't understand how this hotel is in the list of the leading hotel of the World? I was staying in this hotel during 1 week. It's was really a deception, service was really bad and personal are really not friendly. I suggest you to find another 5 stars hotel to have a real 5 stars hotel services.Good luck  
+<Date>Nov 5, 2007
+<Rating>2	2	3	3	3	1	2	2	
+<Aspects>
+2	75(week):1	1055(luck):1	
+8	9(service):2	103(star):3	240(real):1	272(world):1	391(understand):1	452(suggest):1	650(list):1	922(lead):1	
+0	
+0	
+0	
+0	
+5	9(service):1	12(friendly):1	50(bad):1	711(personal):1	10790(deception):1	
+0	
+
+<Author>FedericaRoma_Italy
+<Content>Good business location I stayed at the Gran Melia Mexico reforma 2 nights. The hotel location is well for business travel more than for tourists as the hotel is not walking-distance from city center, but yuo need to use a taxi.The room was fine, clean and confortable.Breakfast was included in our rate and it was a goof breakfast buffet.The hotel has a good rate compare to others international hotels in Mexico city and even if it is not a really 5 stars hotel, the rate/quality is fine.Sorry if my english is not perfect.  
+<Date>Sep 12, 2007
+<Rating>4	4	4	3	4	4	4	-1	
+<Aspects>
+3	74(perfect):1	152(english):1	891(sorry):1	
+7	41(city):1	78(rate):2	103(star):1	113(fine):1	381(compare):1	903(international):1	929(mexico):1	
+3	3(clean):1	113(fine):1	2435(confortable):1	
+12	1(location):2	2(night):1	41(city):1	68(travel):1	101(center):1	147(business):2	185(taxi):1	209(tourist):1	929(mexico):1	1418(melia):1	1535(gran):1	4382(reforma):1	
+0	
+0	
+5	6(breakfast):2	71(include):1	77(buffet):1	78(rate):1	11077(goof):1	
+0	
+
+<Author>nassrudin
+<Content>3 Star Hotel with poor Royal Service Plan I stayed at the Gran Melia Reforma and booked the Master Suite with the Royal Service Plan. The Royal Service Plan includes continental breakfast, snacks, and cocktails from 6-8pm. The service also has a private check-in and check-out on the 12th floor. The complaints I have is that I didn't get the service which I paid for. I was tipping extra on room service when I found out at check-out that I was being charged for tip everytime I ordered. The breakfast was really bad, they should go visit the Marquis Reforma and get some tips from their breakfast buffett!! On the Royal Service lounge, they only have one PC for internet access. The only person that was professional and courteous was Elizabeth and Thank You soo much for your understanding. I was traveling with my wife and kids 3yr old daugher and 19 month old son. Anyone traveling to Mexico City should look up the JW Marriott and the Marquis Reforma. I have other complaints about the Royal Service Staff that I will not go into.  
+<Date>Sep 8, 2007
+<Rating>2	3	4	4	4	3	2	1	
+<Aspects>
+20	20(look):1	41(city):1	68(travel):2	184(wife):1	193(person):1	201(kid):1	271(thank):1	388(month):1	391(understand):1	483(courteous):1	501(professional):1	612(son):1	618(marriott):1	929(mexico):1	3024(marquis):1	3048(jw):1	4001(soo):1	4382(reforma):1	6194(elizabeth):1	9859(daugher):1	
+3	9(service):1	42(pay):1	190(complaint):1	
+11	9(service):2	18(book):1	103(star):1	108(suite):1	221(plan):2	331(poor):1	753(royal):2	1418(melia):1	1535(gran):1	2337(master):1	4382(reforma):1	
+0	
+0	
+13	0(staff):1	9(service):3	24(floor):1	128(extra):1	136(charge):1	190(complaint):1	194(tip):2	286(check-in):1	492(private):1	658(checkout):2	753(royal):1	1607(everytime):1	1955(12th):1	
+18	6(breakfast):3	9(service):2	50(bad):1	65(visit):1	71(include):1	97(internet):1	159(access):1	194(tip):1	221(plan):1	237(lounge):1	372(continental):1	406(snack):1	716(cocktail):1	753(royal):2	2184(pc):1	2788(buffett):1	3024(marquis):1	4382(reforma):1	
+0	
+
+<Author>Sandridge
+<Content>OK but not 5* Spent 3 nights at this Melia . The rooms are fine , a good size and clean, however the public areas such as the lounge (there isn't really one ) and bar areas to us were not 5* and had a very business feel not great for holiday relaxation especially at night . The main bar has very loud music every night and the 2nd bar is within the main reception area not very atmospheric or comfortable .There is a 2nd bar/lounge but only for Melia club members. To us the hotel restaurant did not look appealing although the breakfast buffet is excellent . We did not try the pool but the gym was ok although abit basic . When going out at night we used the hotel taxi's who we would call when we wanted a return pick up except one restaurant refused to help us call them so we ended up using a street taxi .We told the hotel and they were going to look into the restaurents behaviour as they should have rang the hotel taxi for us  I would use this hotel for busines but its facilities are not 5* (the bedroom is ok ) and would not recommend it for holiday use especially if planning to stay a few nights .  
+<Date>Aug 29, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	2(night):1	64(spend):1	123(ok):1	1418(melia):1	
+0	
+12	2(night):1	3(clean):1	27(bar):1	34(feel):1	83(size):1	113(fine):1	126(especially):1	147(business):1	223(holiday):1	237(lounge):1	379(public):1	1662(relaxation):1	
+22	2(night):2	10(restaurant):1	15(recommend):1	20(look):1	35(street):1	39(return):1	67(call):2	69(tell):1	92(help):1	123(ok):1	126(especially):1	185(taxi):3	211(facility):1	221(plan):1	223(holiday):1	266(pick):1	268(bedroom):1	337(except):1	1103(refuse):1	1150(ring):1	3009(behavior):1	9073(restaurents):1	
+0	
+9	2(night):1	25(comfortable):1	27(bar):2	112(main):2	129(reception):1	398(music):1	416(loud):1	1326(2nd):1	5215(atmospheric):1	
+16	6(breakfast):1	10(restaurant):1	20(look):1	21(excellent):1	22(pool):1	27(bar):1	76(try):1	77(buffet):1	123(ok):1	212(club):1	352(basic):1	523(gym):1	1326(2nd):1	1418(melia):1	1679(appeal):1	4421(abit):1	
+0	
+
+<Author>SouthAmericanTravel
+<Content>Over Rated We were very disappointed in this five star hotel. We rented three different rooms for family members for three nights. Breakfast should have been included in the price. Our in-room coffee maker was dirty (white material floating in the freshly made coffee and inside the water tank). Made complaint to management, took till next day and another complaint in order to obtain clean coffee maker. In the meantime, went to breakfast area for only coffee and would have been charged for two complete buffets but did not sign the receipt. The final hotel bill did contain the buffet charges and had an unpleasant discussion with management to get it resolved in our favor. Three people were in our room, requested an extra towel and it took another call the next day to receive service. The location is good, clean hotel but we would not stay there again. Parking was free for hotel guests, good point. Smoking in public areas should be banned.  
+<Date>Aug 19, 2007
+<Rating>2	2	4	4	3	3	2	3	
+<Aspects>
+0	
+6	6(breakfast):1	19(price):1	71(include):1	78(rate):1	103(star):1	154(disappoint):1	
+14	2(night):1	57(water):1	90(coffee):2	106(family):1	323(dirty):1	408(inside):1	466(white):1	996(maker):1	1097(rent):1	1301(in-room):1	1630(float):1	1775(freshly):1	2681(material):1	3549(tank):1	
+5	1(location):1	3(clean):1	46(free):1	66(park):1	91(guest):1	
+3	379(public):1	468(smoke):1	6857(ban):1	
+0	
+29	3(clean):1	6(breakfast):1	8(day):2	9(service):1	26(people):1	67(call):1	77(buffet):2	90(coffee):2	125(towel):1	128(extra):1	136(charge):2	148(request):1	190(complaint):2	302(receive):1	449(sign):1	495(bill):1	525(management):2	622(complete):1	979(till):1	996(maker):1	1337(final):1	1521(favor):1	1545(contain):1	1715(resolve):1	1747(unpleasant):1	2411(obtain):1	2725(receipt):1	3282(discussion):1	5273(meantime):1	
+0	
+
+<Author>TXwonderer
+<Content>Service Real - very enjoyable stay We stayed at Gran Melia for two days. The hotel's Servicio Real was wonderful. The room rate included free breakfast, noon coffe break and cocktail and hors d'oeuvres from 6-8 PM. The hotel is close to Metro stop Hidalgo and there are buses right on Reforma. We found the bed and pillows to be very clean and comfortable. We moved to Sheraton Centro Historico for the weekend. Even Sheraton's room is bigger and newer, we like Gran Melia better. The hotel employees english is not as good but they made it up by being more friendly and personal. Highly recommended.  
+<Date>May 28, 2007
+<Rating>5	4	5	4	5	4	5	4	
+<Aspects>
+14	12(friendly):1	15(recommend):1	48(wonderful):1	138(highly):1	152(english):1	172(weekend):1	207(move):1	240(real):1	608(employee):1	711(personal):1	1013(sheraton):1	4879(centro):1	7849(historico):1	10849(servicio):1	
+0	
+18	3(clean):1	6(breakfast):1	11(bed):1	25(comfortable):1	46(free):1	71(include):1	78(rate):1	228(break):1	303(pillow):1	393(pm):1	716(cocktail):1	1013(sheraton):1	1309(noon):1	1418(melia):1	1535(gran):1	3297(coffe):1	3575(hor):1	6105(d'oeuvr):1	
+5	28(close):1	120(bus):1	122(stop):1	235(metro):1	4382(reforma):1	
+0	
+0	
+6	8(day):1	9(service):1	240(real):1	567(enjoyable):1	1418(melia):1	1535(gran):1	
+0	
+
+<Author>TravelerWoodlands
+<Content>Smoke not a problem I hesitated to book this hotel for a business trip to Mexico because of an earlier review about smoking in the public areas. But because I had enjoyed many stays at Gran Melia in Caracas, I decided to give Mexico City a shot. Smoke was not a problem, I stayed on a non-smoking floor and used the public areas without concerns about smoke. Service was top-notch, room very comfortable. Only quibble is buffet breakfast is over-priced by Mexico City standards. Would not hesitate to stay there again.  
+<Date>Apr 29, 2007
+<Rating>4	4	4	4	4	5	4	4	
+<Aspects>
+8	41(city):1	51(enjoy):1	219(decide):1	902(hesitate):1	929(mexico):1	1418(melia):1	1535(gran):1	1778(shoot):1	
+0	
+3	9(service):1	25(comfortable):1	3011(top-notch):1	
+8	18(book):1	33(trip):1	37(review):1	147(business):1	379(public):1	468(smoke):2	902(hesitate):1	929(mexico):1	
+5	24(floor):1	379(public):1	468(smoke):2	496(concern):1	978(nonsmoking):1	
+0	
+7	6(breakfast):1	41(city):1	77(buffet):1	130(standard):1	929(mexico):1	3386(over-price):1	3638(quibble):1	
+0	
+
+<Author>Miguel-Mex
+<Content>Great Place       The Gran Melia Reforma and  
+<Date>Apr 10, 2007
+<Rating>5	5	5	5	5	5	-1	-1	
+<Aspects>
+3	1418(melia):1	1535(gran):1	4382(reforma):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>MichelleDad
+<Content>Great hotel We really enjoyed our stay. The staff was very friendly and professional, the food and service are great. Beautiful hotel,I heard comments about the bed being hard but I never had a problem with it. I would definately would recommend to my friends. A great tip is don't go to Plaza Garibaldi on Friday, Sat or Sunday and don't go into Atardecer Tapatio Restaurant they will rip you off. They will overcharge you for food and drinks. Eat somewhere else.  
+<Date>Dec 15, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	15(recommend):1	47(eat):1	51(enjoy):1	146(friend):1	170(else):1	410(definately):1	
+0	
+5	11(bed):1	45(beautiful):1	132(hear):1	162(hard):1	356(comment):1	
+8	10(restaurant):1	169(sit):1	194(tip):1	515(plaza):1	844(sunday):1	923(friday):1	1182(rip):1	6698(tapatio):1	
+0	
+0	
+7	0(staff):1	9(service):1	12(friendly):1	16(food):2	63(drink):1	501(professional):1	3155(overcharge):1	
+0	
+
+<Author>tiosdos
+<Content>Smokers please stop!       View from our room  
+<Date>Nov 24, 2006
+<Rating>2	4	5	5	4	5	4	-1	
+<Aspects>
+0	
+0	
+1	17(view):1	
+0	
+3	122(stop):1	173(please):1	2226(smoker):1	
+0	
+0	
+0	
+
+<Author>jpl88
+<Content>Nice hotel, good value Nice hotel, modern and clean. Rooms are nicely decorated, quiet and spacious enough. Very nice bathroom with separate shower. Bed was the main negative, definitely not up to the new standards introduced by Westin/Marriott/Hilton. In-room internet only on TV, no wifi or ethernet cable to connect laptop, so had to use the rather uncomfortable business center.Staff was helpful and courteous. Spanish Restaurant was very nice (food and service) and at reasonable prices. Location is rather dull and more convenient for the business traveler than the tourist as there aren't many restaurants and shops around. However subway is walking distance and the historic center isn't too far.This hotel feels like a good 4 star hotel and is a good choice for the budget conscious if it comes up cheaper than the other 4* international hotels in the area.  
+<Date>Oct 28, 2006
+<Rating>4	4	4	3	4	4	4	2	
+<Aspects>
+0	
+11	3(clean):1	4(nice):2	34(feel):1	81(value):1	103(star):1	107(choice):1	143(cheap):1	151(modern):1	429(budget):1	903(international):1	4612(conscious):1	
+15	4(nice):1	11(bed):1	13(bathroom):1	58(quiet):1	59(definitely):1	61(shower):1	111(spacious):1	112(main):1	130(standard):1	282(negative):1	305(decorate):1	404(nicely):1	474(separate):1	889(westin):1	3544(introduce):1	
+13	1(location):1	7(walk):1	10(restaurant):1	49(shop):1	101(center):1	115(distance):1	147(business):1	186(convenient):1	209(tourist):1	267(traveler):1	370(subway):1	1274(historic):1	2689(dull):1	
+0	
+3	0(staff):1	14(helpful):1	483(courteous):1	
+7	4(nice):1	9(service):1	10(restaurant):1	16(food):1	19(price):1	273(reasonable):1	369(spanish):1	
+11	97(internet):1	101(center):1	116(tv):1	147(business):1	484(cable):1	841(connect):1	856(uncomfortable):1	1111(laptop):1	1268(wifi):1	1301(in-room):1	3697(ethernet):1	
+
+<Author>volney
+<Content>treated like a thief the facilities and location are fine and the head of security a real gentleman, but others acted as if we were on the ten most wanted list. as we were amongst very few guests in hotel they cut off our air conditioning for 24 hours until we insisted must have. as we were leaving very early in am we requested the bill to pay in cash prior to going out for dinner. the cashier said impossible till next morning, after explaing in very good spanish that we had an open credit card with them so there was no risk we might abscond, our cash was accepted. when we retuned from dinner someone had entered our room taken all bottled water and padlocked the mini bar. as we are unaccustomed to being treated as potential thieves in a reputed five star hotel would definitely not return and recomend to others to seek a local where the guest is shown more respect  
+<Date>Aug 9, 2006
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	56(morning):1	292(card):1	369(spanish):1	659(credit):1	979(till):1	1082(cash):1	1169(impossible):1	1247(accept):1	2168(risk):1	6295(cashier):1	
+18	39(return):1	42(pay):1	43(leave):1	59(definitely):1	91(guest):1	103(star):1	117(dinner):1	148(request):1	195(local):1	320(treat):1	495(bill):1	637(prior):1	1082(cash):1	1389(respect):1	1420(recomend):1	1980(seek):1	1995(potential):1	4512(thief):1	
+6	60(hour):1	91(guest):1	164(air):1	263(condition):1	873(cut):1	1495(insist):1	
+11	1(location):1	113(fine):1	211(facility):1	240(real):1	319(head):1	320(treat):1	641(security):1	650(list):1	1506(gentleman):1	2237(act):1	4512(thief):1	
+0	
+0	
+8	27(bar):1	57(water):1	117(dinner):1	238(bottle):1	448(mini):1	601(enter):1	11006(padlock):1	12334(retune):1	
+0	
+
+<Author>Ermejo
+<Content>Somewhat disappointed My wife and I spent three nights at the Grand Melia Mexico Reforma. We loved the Hotel very modern architecture, inside and oustide. The room was very confortable although the first night the air conditioning was not working so we had to call the service people to repair it. They came immediately and worked around for an hour without fixing the problem and the they left. The follwoing day the air conditioning was working but was making a terrible noise so we had to shut it off. Thanks god the nights in Mexico City are on the cool side so we could sleep, because the was no way we could open the window.The quality of the food served at the two restaurants was poor and the selection very limited and somewhat pricey. The problem is that the hotel is in an area where there are no other restaurants in a walking distance so unless you take an hotel cab, rather expensive, you are obliged to eat in the hotel.Breakfast, included in the hotel room price, was excellent.  
+<Date>Feb 5, 2006
+<Rating>3	3	4	-1	5	-1	5	-1	
+<Aspects>
+13	2(night):1	43(leave):1	60(hour):1	64(spend):1	154(disappoint):1	184(wife):1	365(grand):1	489(immediately):1	494(fix):1	651(somewhat):1	929(mexico):1	1418(melia):1	4382(reforma):1	
+12	6(breakfast):1	7(walk):1	10(restaurant):1	19(price):1	21(excellent):1	47(eat):1	71(include):1	115(distance):1	124(expensive):1	380(cab):1	405(unless):1	2709(oblige):1	
+23	2(night):2	8(day):1	9(service):1	26(people):1	40(love):1	41(city):1	67(call):1	94(noise):1	104(sleep):1	119(window):1	151(modern):1	164(air):2	263(condition):2	271(thank):1	278(cool):1	408(inside):1	432(terrible):1	929(mexico):1	1086(shut):1	1398(repair):1	1522(god):1	1803(architecture):1	2435(confortable):1	
+0	
+0	
+0	
+9	10(restaurant):1	16(food):1	174(serve):1	187(quality):1	331(poor):1	333(selection):1	510(limit):1	546(pricey):1	651(somewhat):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great hotel, good location The hotel is very good, rooms are sized right and breakfast is superb. The only low point are the beds, the matress are bit on the hard side. The location is great also, near Polanco and Condesa. Also the Turibus stops nearby  
+<Date>Dec 16, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+9	1(location):1	6(breakfast):1	11(bed):1	52(bit):1	83(size):1	162(hard):1	407(superb):1	513(low):1	3298(matress):1	
+7	1(location):1	102(near):1	122(stop):1	232(nearby):1	5784(polanco):1	8719(condesa):1	11866(turibus):1	
+0	
+0	
+0	
+0	
+
+<Author>belaso
+<Content>Very, very nice       Interior  
+<Date>Sep 30, 2005
+<Rating>5	5	5	-1	5	-1	4	-1	
+<Aspects>
+2	4(nice):1	1026(interior):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>luisi_gcgc
+<Content>Excelentes instalaciones y servicio en el Hotel Gran Melia Mexico Reforma       Habitaci贸n  
+<Date>Aug 5, 2007
+<Rating>5	4	5	4	5	5	5	5	
+<Aspects>
+9	752(el):1	929(mexico):1	1418(melia):1	1535(gran):1	2065(en):1	3835(excelent):1	4382(reforma):1	6135(habitaci):1	10849(servicio):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

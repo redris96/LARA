@@ -1,0 +1,420 @@
+<Author>mongols
+<Content>only if you have to Let me say I can live with alot depending on price. I wasn't looking for anything fancy but just clean. I even understand that the hotel is claiming they going through renovation but it is inexcusable. There are empty wire in the rooms, nasty walls, etc. The staff was friendly though . For the pool you have to walk through the Ramada. The staff was friendly but repairs for the TV were not done after repeated requests. If you need a room and there is no other option it is liveable but my next trip to Miami I will stay elsewhere.  
+<Date>Jan 7, 2009
+<Rating>1	1	-1	5	-1	4	4	-1	
+<Aspects>
+0	
+4	19(price):1	206(live):1	647(alot):1	969(depend):1	
+20	0(staff):1	12(friendly):1	33(trip):1	73(etc):1	116(tv):1	148(request):1	183(wall):1	336(option):1	391(understand):1	646(elsewhere):1	687(renovation):1	810(empty):1	1077(claim):1	1095(miami):1	1398(repair):1	1467(repeat):1	1639(nasty):1	1904(wire):1	7233(inexcusable):1	10616(liveable):1	
+3	7(walk):1	22(pool):1	2957(ramada):1	
+3	3(clean):1	20(look):1	796(fancy):1	
+2	0(staff):1	12(friendly):1	
+0	
+0	
+
+<Author>finnlady
+<Content>Horrible, smelly, bad area, no pool Opening the front door there is mildew smell, the elevator looks and smells even worse and the 2nd floor corridor looks and smells like a public toilet that麓s never cleaned. We had to hold our noses. They are renovating and should close the place until it's done. There was no pool and nobody said we can use Ramada`s pool next door. The website says they have a pool and restaurant, but both of them belong to Ramada. Days Inn is hidden behind Ramada like a garden shed. While we were in the room painters came to cover the balcony and the only window with plastic to paint it. They were sanding the doors and walls so that there was dust inside our room and on our bags. The area is Hialeah, doesn麓t seem like a nice area at all. Plenty of shops nearby, but in some of them they speak only Spanish. We had to stay 2 nights waiting for Air France to deliver our luggage and were so glad to get out of there. We麓ll never ever book a Days Inn again. Had we known about the renovation and no pool we wouldn麓t have booked it at all. They only added the info to their website once the work began, as if they didn麓t know before!  
+<Date>Jul 17, 2008
+<Rating>1	1	2	2	2	2	3	-1	
+<Aspects>
+12	4(nice):1	8(day):1	22(pool):2	54(door):1	310(garden):1	324(inn):1	593(hold):1	1195(hide):1	2924(doesn):1	2957(ramada):2	3466(nose):1	7580(shed):1	
+0	
+23	2(night):1	18(book):1	22(pool):1	54(door):1	85(wait):1	119(window):1	164(air):1	183(wall):1	191(balcony):1	249(luggage):1	290(bag):1	408(inside):1	522(sand):1	552(cover):1	619(glad):1	631(deliver):1	687(renovation):1	806(paint):1	1347(plastic):1	1784(france):1	1845(dust):1	2586(wouldn):1	9443(painter):1	
+12	28(close):1	49(shop):1	127(speak):1	158(plenty):1	232(nearby):1	262(website):1	351(add):1	369(spanish):1	533(renovate):1	551(begin):1	1022(didn):1	1360(info):1	
+16	3(clean):1	20(look):2	22(pool):1	24(floor):1	31(front):1	50(bad):2	54(door):1	216(elevator):1	231(smell):3	330(toilet):1	379(public):1	544(horrible):1	1073(corridor):1	1326(2nd):1	1697(smelly):1	1876(mildew):1	
+0	
+8	8(day):1	10(restaurant):1	18(book):1	22(pool):1	262(website):1	324(inn):1	2927(belong):1	2957(ramada):1	
+0	
+
+<Author>aksourdoe
+<Content>This is Days Inns "high standards"!? The room was dirty and dingy. The carpet had black stuff ground into it in several areas. There were ants. A drawer was missing.Table was sticky. Patio door didn't work properly. Safety lock missing on entry door. The wall on one end of the bathroom was badly water damaged and the wall was caved in, showing an open gap approximately 15 inches long and .5 inches wide. I shudder to think about the mold and insects that must have been living behind this wall. There were dirty footprints on the unwashed floor. There was no bathroom fan. The wall by the sink was damaged, the plaster was loose. The sink was grungy and had numerous paint splotches . The first day there were no wash cloths in the room. It took three trips to the front desk over several hours before we got washcloths. The next day they took the washcloths away and left a smelly soaking wet towel on one of our suitcases. They also left a towel that wouldn't make a good rag. It had a hole in it the size of a fist and because the material was rotten it kept tearing more. We were also charged for a safe that we didn't want and Utility Services. Nobody could tell us what utility services were. I am quite sure we didn't get any. Because of time constraint we couldn't move to another hotel and from talking to other guests we realized another room wouldn't have helped. The president of Days Inns, Worldwide forwarded our letter to the owner of this franchise. Neither the owner nor the general manager have replied.  
+<Date>Apr 5, 2008
+<Rating>1	1	1	3	1	2	1	-1	
+<Aspects>
+18	8(day):1	54(door):2	130(standard):1	229(table):1	276(miss):2	324(inn):1	509(sink):1	774(lock):1	806(paint):1	971(numerous):1	973(patio):1	1144(properly):1	1426(drawer):1	1448(safety):1	1649(entry):1	1675(ant):1	3447(sticky):1	6827(grungy):1	
+0	
+31	5(time):1	8(day):1	13(bathroom):2	57(water):1	83(size):1	91(guest):1	92(help):1	183(wall):2	207(move):1	371(talk):1	396(carpet):1	480(stuff):1	607(realize):1	661(fan):1	706(grind):1	811(wash):1	860(wide):1	1007(black):1	1218(hole):1	1605(tear):1	1663(badly):1	1688(inch):2	1864(cloth):1	1961(approximately):1	2030(damage):1	2681(material):1	2726(gap):1	3127(cave):1	4477(rotten):1	6175(fist):1	9230(constraint):1	
+9	183(wall):2	206(live):1	509(sink):1	1138(mold):1	2030(damage):1	2234(loose):1	2360(insect):1	4473(plaster):1	9508(shudder):1	
+5	24(floor):1	323(dirty):2	1749(dingy):1	10176(footprint):1	12098(unwashed):1	
+21	8(day):1	9(service):1	31(front):1	33(trip):1	36(desk):1	60(hour):1	136(charge):1	137(safe):1	258(manager):1	324(inn):1	672(owner):2	750(forward):1	970(nor):1	1275(neither):1	1811(reply):1	1972(letter):1	2466(washcloth):1	3732(president):1	4526(worldwide):1	7578(utility):1	8025(franchise):1	
+12	8(day):1	9(service):1	43(leave):2	69(tell):1	125(towel):2	974(suitcase):1	1032(wet):1	1468(soak):1	1697(smelly):1	2466(washcloth):1	5575(rag):1	7578(utility):1	
+0	
+
+<Author>GULAFACHA
+<Content>Dont waste your time Booked four rooms through hotels.com. Prepaid month or so in advance. We called and confirmed rooms with hotel staff. we told them that our plane was arriving at 1:30 am and we would not arrive to 2:30-to 3:00, asked if that would be a problem . We were told no problem the night clerk would give us the keys. Upon arriving at 2:30 we were told we dont have any rooms for you. So standing in the middle of a parking at 2:30 in the morning in Miami FL with no rooms or no ride we called Hotels.com. We were told that the hotel is not honoring their arrangements. Iasked hotels.com what we were going to do and they answered well I guess we can give you your money back. I said cant you get us a room and they said maybe tomorrow we can get you a room. I wouldnt waste my time with hotels.com or any Days Inn. Today date is 2/20/2008 and still no refund. Just got off phone with hotels.com and they said I can call again tomorrow and talk to a supervisor. THANK YOU VERY MUCH hotels.comDON'T WASTE YOUR TIME OR MONEY WITH EITHER OF THESE COMPANYS  
+<Date>Feb 20, 2008
+<Rating>1	1	-1	-1	1	1	-1	-1	
+<Aspects>
+22	2(night):1	5(time):1	8(day):1	53(arrive):2	67(call):1	69(tell):2	80(money):1	296(phone):1	324(inn):1	339(key):1	371(talk):1	469(guess):1	511(date):1	669(answer):1	788(clerk):1	928(waste):1	968(plane):1	1492(refund):1	1849(wouldnt):1	2698(tomorrow):1	3056(hotels.com):3	3201(supervisor):1	
+3	388(month):1	685(advance):1	2559(prepay):1	
+20	0(staff):1	5(time):1	18(book):1	53(arrive):1	56(morning):1	66(park):1	67(call):2	69(tell):1	218(ride):1	308(maybe):1	325(middle):1	444(stand):1	503(dont):2	928(waste):1	982(confirm):1	1095(miami):1	1145(cant):1	2698(tomorrow):1	3056(hotels.com):2	5076(fl):1	
+0	
+0	
+0	
+3	69(tell):1	1376(honor):1	1415(arrangement):1	
+5	5(time):1	80(money):1	271(thank):1	928(waste):1	3056(hotels.com):1	
+
+<Author>justkera1
+<Content>Days Inn Westland is Horrible My sister and I stayed in Days Inn Dadeland in December of 2007. We had to change three rooms because the rooms are full of cockroaches -dead and living. The paint is coming off the walls and the bathrooms are dirty; especially the shower curtains - I was afraid to shower. I was also scared to put down my bags.We complained at the front desk and the clerk was extremely rude. Her exact words were that people from the islands bring the roaches - with their food and the things they buy in boxes. Please note that I am from the Bahamas, which is an island and I am sure that from her deep accent that she was not born in the United States. It sounds like she is also from an island, so I was really offended. While we were at the front desk a big cockroach and everyone in the small, ugly lobby just looked at each other. We spoke with the manager who called a housekeeper to pick up the cockroaches . The manager made a joke about what we were saying and stated that we could not rate the hotel with hotels in the Bahmas. I was not pleased with what he said . I was not pleased at all. The hotel needsd to be torn down and rebuilt. DO NOT STAY HERE.................  
+<Date>Feb 12, 2008
+<Rating>1	1	1	5	1	1	1	-1	
+<Aspects>
+18	8(day):2	173(please):3	290(bag):1	297(note):1	324(inn):2	342(island):2	409(sound):1	544(horrible):1	892(sister):1	993(december):1	1043(deep):1	1711(scare):1	2999(unite):1	3563(accent):1	3637(born):1	3684(bahamas):1	4026(offend):1	10287(dadeland):1	
+0	
+17	13(bathroom):1	61(shower):2	67(call):1	126(especially):1	127(speak):1	161(change):1	183(wall):1	206(live):1	258(manager):1	266(pick):1	323(dirty):1	743(curtain):1	806(paint):1	1544(afraid):1	1591(housekeeper):1	1621(dead):1	2110(cockroach):2	
+0	
+0	
+13	20(look):1	31(front):2	36(desk):2	55(lobby):1	78(rate):1	110(extremely):1	241(complain):1	258(manager):1	392(rude):1	788(clerk):1	1175(joke):1	1872(ugly):1	2110(cockroach):1	
+11	16(food):1	26(people):1	142(bring):1	280(buy):1	342(island):1	571(word):1	945(box):1	1605(tear):1	2216(exact):1	2357(roach):1	4907(rebuild):1	
+0	
+
+<Author>pmcclean2000
+<Content>Dangerous  Arrived at this hotel on 26/01/08. Entered our room to find that the bathroom was filthy with urine on the floor and all over the toilet seat. The sink was also dirty. The Hotel is generally run down with poor interior and the odd cockroach running along the corridor. Tried to return to reception to complain only to find that the elevator had jammed between floors with people in it. Decided to use the stairs. On the way down we had to step over a pool of urine. When we reached the bottom floor which should have allowed us access to reception we discovered that the door was boarded up! Went up one flight and across to the other set of stairs only to discover the same thing at the other side leaving us no way out. Returned to room a little panicked! Called reception - no answer for 5 mins. Finally we were advised that the only way out was via a fire exit at the bottom of the stairs, which would take us outside in to the car park but would set the fire alarm off on the way. Told to exit the hotel in this manner which we did. Unfortunately the fire door then slammed shut behind us leaving other guests no way back in to the hotel as the guy on reception didn't have a key for the door!! We were then forced to wait until another guest figured out this was the way out of the hotel so the fire door could be jammed open and we could re-enter. Left immediately and went over to the Ramada, which apparently owns this hotel, to complain. They weren't really interested and their rooms were also pretty run down. I wouldn't recommend either of these hotels.  
+<Date>Feb 3, 2008
+<Rating>1	1	1	2	1	1	1	-1	
+<Aspects>
+21	15(recommend):1	22(pool):1	43(leave):1	53(arrive):1	69(tell):1	149(run):2	166(own):1	241(complain):1	331(poor):1	366(step):1	489(immediately):1	863(apparently):1	1026(interior):1	1073(corridor):1	1088(odd):1	1354(exit):1	1721(manner):1	1971(dangerous):1	2110(cockroach):1	2957(ramada):1	3191(urine):1	
+0	
+25	13(bathroom):1	23(little):1	24(floor):2	39(return):1	43(leave):1	54(door):1	109(pretty):1	129(reception):1	149(run):1	159(access):1	219(decide):1	233(flight):1	234(set):1	330(toilet):1	359(allow):1	504(seat):1	568(stair):2	600(board):1	601(enter):1	850(bottom):1	851(reach):1	869(discover):2	1320(filthy):1	3191(urine):1	4485(panic):1	
+12	66(park):1	98(outside):1	121(car):1	234(set):1	341(finally):1	512(via):1	568(stair):1	663(advise):1	850(bottom):1	1262(fire):2	1354(exit):1	1380(alarm):1	
+2	323(dirty):1	509(sink):1	
+18	43(leave):1	54(door):3	67(call):1	85(wait):1	91(guest):2	129(reception):2	247(min):1	339(key):1	368(guy):1	524(unfortunately):1	669(answer):1	779(figure):1	1086(shut):1	1262(fire):2	1550(force):1	1614(jam):1	2008(slam):1	11117(reenter):1	
+8	24(floor):1	26(people):1	39(return):1	129(reception):1	216(elevator):1	241(complain):1	253(tried):1	1614(jam):1	
+0	
+
+<Author>Campmaki
+<Content>Helll in Fllorida Absolutely the worst hotel stay of our lives, We were originally scheduled to stay on the 11th and 12th, I needed to cancel the 11th because of no shuttle running to pick us up, I told them to only cancel Friday eve. When I got there on Saturday they had canceled both of the nights and took the liberty to rebook me for Saturday at a higher rate then I originally booked on the internet. Both the front desk staff and management were extremely rude, So I was stuck paying the higher rate. We also had booked for our return stay on our cruise on Jan 20th, if we would not have been there with a group of people I would have left immediately and never returned, false advertising on their website says 5.00 port shuttle and when you get there they tell you it is 10.00 per person, the bathrooms have walls crumbling down, mold everywhere, (I took pictures if you want to see them) Lights and outlets that weren't working or safe. , This should be reported to the health department and shut down! No one should ever reserve a room there again, you don't pay the amount you reserve it for or pay for what is advertised, (port fees). On top of that we were only allowed two towels in our room and had to go ask housekeeping for washcloths, we were given one to share!!! This property should be torn down. DO NOT STAY THERE IT IS NOT WORTH YOUR HEALTH AND SAFETY!!  
+<Date>Jan 29, 2008
+<Rating>1	1	1	1	1	1	1	1	
+<Aspects>
+6	96(worth):1	838(report):1	1086(shut):1	1448(safety):1	1707(department):1	1736(health):2	
+6	42(pay):2	506(reserve):2	584(fee):1	666(amount):1	910(advertise):1	1288(port):1	
+28	13(bathroom):1	18(book):1	26(people):1	39(return):2	43(leave):1	69(tell):1	118(top):1	125(towel):1	137(safe):1	157(light):1	183(wall):1	193(person):1	262(website):1	321(shuttle):1	359(allow):1	367(housekeeping):1	456(picture):1	489(immediately):1	520(share):1	603(cruise):1	910(advertise):1	1138(mold):1	1288(port):1	1462(jan):1	1689(outlet):1	1977(20th):1	2466(washcloth):1	8094(crumble):1	
+14	50(bad):1	69(tell):1	149(run):1	189(absolutely):1	266(pick):1	321(shuttle):1	426(life):1	923(friday):1	1065(cancel):2	1196(schedule):1	1300(originally):1	1787(eve):1	1899(11th):2	1955(12th):1	
+0	
+9	0(staff):1	31(front):1	36(desk):1	42(pay):1	78(rate):1	110(extremely):1	392(rude):1	525(management):1	688(stick):1	
+11	2(night):1	18(book):1	78(rate):1	97(internet):1	214(property):1	818(saturday):2	1065(cancel):1	1300(originally):1	1605(tear):1	2815(liberty):1	7260(rebook):1	
+0	
+
+<Author>Alisita
+<Content>Do not stay here! Do not, I repeat, do not stay in this hotel! It is by far the worst hotel I have ever seen in my life, and I do not consider myself to be picky. The hallways smelled like urine. The room had a musty smell, the carpet was dirty, and the bedspread had bleach stains on it. The taps in the bathroom were caked with dirt. I could not stay the night, I moved to another hotel. Trust me, it is worth spending more money and staying at a more expensive hotel where you have peace of mind.  
+<Date>Jan 23, 2008
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	2(night):1	50(bad):1	207(move):1	248(consider):1	426(life):1	926(picky):1	1467(repeat):1	
+7	64(spend):1	80(money):1	96(worth):1	124(expensive):1	294(mind):1	1402(trust):1	1517(peace):1	
+11	13(bathroom):1	231(smell):1	323(dirty):1	396(carpet):1	723(stain):1	1016(musty):1	1029(cake):1	1504(tap):1	2004(dirt):1	2278(bedspread):1	4943(bleach):1	
+0	
+3	231(smell):1	580(hallway):1	3191(urine):1	
+0	
+0	
+0	
+
+<Author>serdna001
+<Content>Worst hotel ever!!!!!!!!! Do not go there. A/C did not worked. Wireless internet was worst than a phone modem. Had to wait 20 minutes at frontdesk before they even said may I help you because the 2 ladies were counting money. The room was horrible. The hotel is very old and very badly maintained. It would have been better to go to the airport and sleep in the floor to catch my flight early morning  
+<Date>Jan 4, 2008
+<Rating>1	1	1	1	1	1	1	1	
+<Aspects>
+1	50(bad):1	
+0	
+7	24(floor):1	56(morning):1	95(airport):1	104(sleep):1	233(flight):1	540(catch):1	544(horrible):1	
+0	
+2	562(maintain):1	1663(badly):1	
+7	29(minute):1	80(money):1	85(wait):1	92(help):1	521(lady):1	3202(count):1	5149(frontdesk):1	
+0	
+5	50(bad):1	97(internet):1	296(phone):1	717(wireless):1	7055(modem):1	
+
+<Author>MiamiJojo
+<Content>Dirty Hotel Plus Not Safe! I have stayed in 2 star hotels before, BUT this was by FAR the worst HOTEL EVER! NOT only was the room  BATHROOM dirty, but it was NOT IN A SAFE area of Miami! I saw cops making arrests near the Hotel and the next day I cancelled the rest of my stay to feel at peace!I URGE YOU TO stay away from this hotel...FOR YOUR safety and peace of mind. ITS worth paying a few extra dollars to stay in a hotel were you feel SAFE and feel at ease walking around bare foot. I DIDNT even take a shower!! I've learned my lesson.  
+<Date>Nov 2, 2007
+<Rating>1	1	1	1	1	1	1	1	
+<Aspects>
+13	8(day):1	34(feel):1	102(near):1	288(rest):1	294(mind):1	703(learn):1	1065(cancel):1	1343(lesson):1	1448(safety):1	1517(peace):2	4410(urge):1	6636(cops):1	9497(arrest):1	
+12	7(walk):1	34(feel):2	42(pay):1	50(bad):1	96(worth):1	103(star):1	128(extra):1	137(safe):1	402(foot):1	430(dollar):1	2057(ease):1	2235(bare):1	
+6	13(bathroom):1	61(shower):1	137(safe):1	323(dirty):1	626(didnt):1	1095(miami):1	
+0	
+3	137(safe):1	203(plus):1	323(dirty):1	
+0	
+0	
+0	
+
+<Author>funguy2125
+<Content>Get away from this place! Not Safe At All I had a hard time finding this hotel, and now i know why...its in themiddle of a rough neighborhood in Miami. I totally did NOT FEEL SAFE to walk out of my car into what looked like a sleezy hotel. Once I get into the lobby I knew I made the wrong mistake. What looked like 2 prostitutes sitting there in the lobby, hanging out, and 3 other guys dressed like thugs made me want to TURN back and sleep in car. PEOPLE, i BEG you to run and don't stay here...I wouldn't want my own mother staying here! IT IS NOT IN THE BEST AREA OF MIAMI. The next morning, I found my car had been keyed and the antenna had been bent! worst ever.  
+<Date>Nov 1, 2007
+<Rating>1	1	1	1	1	1	1	1	
+<Aspects>
+16	5(time):1	26(people):1	50(bad):1	56(morning):1	121(car):1	137(safe):1	149(run):1	162(hard):1	166(own):1	339(key):1	421(neighbourhood):1	1047(rough):1	1095(miami):2	1359(mother):1	2333(bend):1	2587(beg):1	
+0	
+9	20(look):1	55(lobby):1	104(sleep):1	121(car):1	169(sit):1	368(guy):1	478(hang):1	935(dress):1	3230(prostitute):1	
+7	7(walk):1	20(look):1	34(feel):1	121(car):1	137(safe):1	611(totally):1	12517(sleezy):1	
+0	
+0	
+3	55(lobby):1	427(wrong):1	895(mistake):1	
+0	
+
+<Author>computerman
+<Content>Bad Stay I was a client at the DAYS INN hotel in Miami, FL, for the Miami carnival from my experience I would not reccomend any one to stay at that hotel, the elevator, and the hall way smells bad, the patio needs cleaning, the a/c unit makes a lot of noise, the bathroom fixtures all over the bathroom and most of all there is poor security for the clients who stay there. I had my car broken into and lost lot of personal items, after making a report to the manager all she told me was sorry for your lost. There is a need for management to install security all around the building not just to the front.The safety of their clients should be number one piroity.  
+<Date>Oct 16, 2007
+<Rating>1	1	2	5	2	5	3	4	
+<Aspects>
+3	335(numb):1	1448(safety):1	1952(client):1	
+0	
+21	3(clean):1	8(day):1	13(bathroom):2	38(lot):1	44(experience):1	50(bad):2	94(noise):1	216(elevator):1	231(smell):1	324(inn):1	331(poor):1	616(hall):1	641(security):1	973(patio):1	980(unit):1	1095(miami):2	1513(reccomend):1	1541(fixture):1	1952(client):2	5076(fl):1	5423(carnival):1	
+0	
+0	
+15	31(front):1	38(lot):1	69(tell):1	121(car):1	135(build):1	228(break):1	258(manager):1	519(item):1	525(management):1	596(lose):2	641(security):1	711(personal):1	838(report):1	891(sorry):1	2691(install):1	
+0	
+0	
+
+<Author>fabkirst
+<Content>Worst Hotel Ever!!! A V O I D ! ! ! Just wished I have read these reviews first. Booked with priceline and could not ask for refund or walk out. Rude staff. Lookes like not been decorated since 80's. More a hostel than hotel. Just avoid, surely there are better places than this!. This place deserves an oscar for worse place to stay in US!  
+<Date>Aug 28, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	37(review):1	50(bad):1	88(read):1	384(wish):1	436(avoid):1	1560(hostel):1	2033(surely):1	
+4	7(walk):1	18(book):1	1069(priceline):1	1492(refund):1	
+1	305(decorate):1	
+0	
+0	
+2	0(staff):1	392(rude):1	
+3	50(bad):1	1072(deserve):1	4807(oscar):1	
+0	
+
+<Author>Wunjo
+<Content>If you want to know what hell looks like stay here As I pulled into this hard to find dump I was greated by alot of shady charaters hanging out in the parking lot. Nice I said but I hoped for better. No it just got worse, the clerk at the front desk had no clue on what she was doing. I reserved a King/Business class room with desk/fridge/microwave. Well I got the King bed but no microwave or fridge. I told the clerk thats what I reserved and she handing me the key and told me to go check if the room had a frige...LOL I should ask to get a paycheck for doing their job. The room was a pit as I expected just like the lobby. They charge a fee of $2.14 a day for the safe which was locked, my remote didn't work, the room dirty. I had to walk to the next hotel to get ice since their machine was broke. I can go on and on but trust me this place isn't fit for a dog.  
+<Date>Aug 14, 2007
+<Rating>1	1	1	1	1	1	1	1	
+<Aspects>
+5	4(nice):1	328(hope):1	668(fit):1	1126(dog):1	1402(trust):1	
+10	32(check):1	69(tell):2	339(key):1	377(hand):1	481(job):1	506(reserve):1	788(clerk):1	1198(thats):1	2431(lol):1	10999(frige):1	
+10	11(bed):1	36(desk):1	55(lobby):1	62(expect):1	243(king):2	318(fridge):1	470(class):1	506(reserve):1	820(microwave):1	3413(pit):1	
+15	7(walk):1	20(look):1	38(lot):1	66(park):1	162(hard):1	228(break):1	478(hang):1	493(machine):1	547(ice):1	647(alot):1	858(pull):1	1449(dump):1	1918(hell):1	2543(shady):1	3572(greate):1	
+7	8(day):1	136(charge):1	137(safe):1	323(dirty):1	584(fee):1	774(lock):1	1272(remote):1	
+5	31(front):1	36(desk):1	50(bad):1	788(clerk):1	3154(clue):1	
+0	
+0	
+
+<Author>Andina_C
+<Content>Stay away       Bathroom tub  
+<Date>Apr 10, 2007
+<Rating>1	1	1	2	1	-1	-1	-1	
+<Aspects>
+0	
+0	
+2	13(bathroom):1	311(tub):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>EuropeDuck
+<Content>More roaches as you can count!               
+<Date>Jan 9, 2007
+<Rating>1	1	1	2	2	1	-1	-1	
+<Aspects>
+2	1781(Count):1	2357(roach):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>md001
+<Content>Don't stay here               
+<Date>Dec 27, 2006
+<Rating>1	1	1	3	1	2	1	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>The worst hotel EVER!!!!!! This hotel was unbelievably disgusting and is a place my family and I will never visit AGAIN! The roof looked like it was about to collapse and there was rust and grime in every area of the tub. The person at the front desk didn't want anything to do with us and told us to go to the Ramada, even for a book of matches! The air conditioning vent looked as if it was going to fall off the wall and no remote was present in the room when we arrived. There were many gangs throughout the area that made us feel threatened to be there, especially with two young daughters.  
+<Date>Mar 21, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+17	20(look):1	34(feel):1	50(bad):1	65(visit):1	106(family):1	126(especially):1	311(tub):1	445(throughout):1	467(daughter):1	636(roof):1	1152(disgust):1	2537(threaten):1	2590(unbelievably):1	3218(rust):1	5342(gang):1	5350(collapse):1	7003(grime):1	
+0	
+8	20(look):1	53(arrive):1	164(air):1	183(wall):1	263(condition):1	587(fall):1	1272(remote):1	2344(vent):1	
+0	
+0	
+7	18(book):1	31(front):1	36(desk):1	69(tell):1	193(person):1	1476(match):1	2957(ramada):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>The Worst Place I've Every Stayed!!!       Peeling Shower  
+<Date>Mar 19, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+1	50(bad):1	
+0	
+2	61(shower):1	1887(peel):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>SwimLor
+<Content>No sign, disheveled, complete with roaches We stayed at this motel on January 20, 2006. We could not find it because there is NO SIGN anywhere on the highway or on the property (supposedly due to the hurricane months ago). THe staff were pleasant people.The ice machine was broken, evidently for a long time. Worn signs in the halls said excuse our dust - someone had added FOR HOW LONG?? on them. The sheets were clean. We saw two roaches in the room before we went to sleep and more in the night during a potty trip. The continental breakfast was at the Ramada Inn and we were warned (by the hostess talking on her cell phone) not to take any of the hot food or we would be charged. Not worth any bargain.  
+<Date>Feb 26, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	351(add):1	434(wear):1	449(sign):2	616(hall):1	622(complete):1	991(motel):1	1018(january):1	1845(dust):1	1965(excuse):1	2357(roach):1	
+2	96(worth):1	759(bargain):1	
+4	2(night):1	33(trip):1	104(sleep):1	2357(roach):1	
+0	
+2	3(clean):1	479(sheet):1	
+3	0(staff):1	26(people):1	150(pleasant):1	
+20	6(breakfast):1	16(food):1	114(hot):1	136(charge):1	214(property):1	259(due):1	296(phone):1	324(inn):1	371(talk):1	372(continental):1	388(month):1	449(sign):1	633(ago):1	679(warn):1	1583(cell):1	1870(highway):1	1993(hurricane):1	2062(supposedly):1	2640(hostess):1	2957(ramada):1	
+5	5(time):1	228(break):1	493(machine):1	547(ice):1	5292(evidently):1	
+
+<Author>A TripAdvisor Member
+<Content>Disgusting!! Wow! The others were right, and it's not even worth saying, it can't be that bad. I'm a college student and this place made me sick to my stomach. There were Q-Tips in the hallway, bugs in the room and the roof looked like it was going to blow away at any second. It was a $40 cab ride from the airport to get there and would have been about $50 to get to the port the following day (no Friday port runs...period). It's true that the staff kept repeating, go to the Ramada next door - even for a phone book. We left for the Embassy Suites and sucked up the money...and it was well worth every penny to leave the Days Inn.  
+<Date>Feb 21, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+8	50(bad):1	96(worth):1	654(sick):1	862(wow):1	1152(disgust):1	1318(stomach):1	1925(college):1	2020(student):1	
+0	
+23	8(day):2	20(look):1	43(leave):2	80(money):1	95(airport):1	96(worth):1	108(suite):1	149(run):1	218(ride):1	324(inn):1	380(cab):1	482(follow):1	580(hallway):1	602(bug):1	636(roof):1	923(friday):1	1146(blow):1	1288(port):2	1331(period):1	1590(penny):1	1768(embassy):1	1902(suck):1	8456(q-tips):1	
+0	
+0	
+6	0(staff):1	18(book):1	54(door):1	296(phone):1	1467(repeat):1	2957(ramada):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Worst Hotel Ever - Avoid Pleeeease!!! Wow, I don't even know where to start...first off, the staff is just useless. You'd be better off going behind the front desk and grabbing a random keycard out and just trying every room until you found the right one. Becuase that's exactly what they did.They gave us 2 keycards and then worked for 2 nights. Coem the 3rd night, we couldn't get into our rooms so we walked up to a random houskeeping women, who of course didn't speak english, and asked her, in the minimal amount of spanish that I know, to open the door for me. So she without a hesitation, opened up the door for me and my friend and let us in. Now if we were theives, we could have stole everything in a room and left because she just let us in. So, we make it down the front desk to find out why our keycards weren't working and the lady had to swipe the keycard through her machine at least 7 times just to make it work. What a mess.The second problem was that the room smelled like damp mildew. Ugh, it was the worst smell in the world. My friend and I actually had to walk about 3 blocks down from the hotel to a supermarket (which I must give much credit to - it was a great supermarket) called Winn-Dixie to buy some carpet freshener and air spray. Of course, neither of them helped for more than 30 minutes because the odor was just so terrible.The 3rd problem with the hotel was that they didn't have internet access, refrigerators, microwaves, or a fitness center which 3 of those 4 things were promised when I signed up for our stay at this sleazy hotel.Another problem (the 4th so far) was that the staff was extremely pathetic and unhelpful. Every question that we asked would return to one answer go to the ramada inn across the street and they might know. What kind of ridiculous sense does that make? Go to another hotel and ask them? Why do I pay for this hotel? Such an incompetant staff it made me sick.The only thing I can really say that was good about this hotel was that they had a van (in terrible condition) that takes you to and from the airport and hotel free of charge that runs every hour until 6pm (if I'm not mistaken).  
+<Date>Feb 3, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+18	2(night):1	29(minute):1	50(bad):1	54(door):1	92(help):1	146(friend):1	293(course):1	432(terrible):1	436(avoid):1	586(exactly):1	1102(sense):1	1275(neither):1	1373(hesitation):1	1533(ridiculous):1	1628(odor):1	1644(mess):1	4030(becuase):1	10486(keycards):1	
+5	0(staff):1	42(pay):1	165(start):1	862(wow):1	2488(useless):1	
+28	2(night):1	7(walk):1	43(leave):1	46(free):1	54(door):1	60(hour):1	95(airport):1	127(speak):1	136(charge):1	149(run):1	152(english):1	231(smell):1	263(condition):1	293(course):1	369(spanish):1	432(terrible):1	566(woman):1	666(amount):1	895(mistake):1	1187(steal):1	1223(van):1	1615(minimal):1	1640(damp):1	1876(mildew):1	2097(3rd):1	3255(random):1	7360(houskeepe):1	7686(6pm):1	
+18	7(walk):1	35(street):1	39(return):1	67(call):1	100(bloc):1	146(friend):1	164(air):1	180(actually):1	280(buy):1	324(inn):1	394(question):1	396(carpet):1	659(credit):1	669(answer):1	1078(supermarket):2	1099(spray):1	2957(ramada):1	4101(freshener):1	
+4	50(bad):1	231(smell):1	272(world):1	4730(ugh):1	
+17	0(staff):2	5(time):1	31(front):2	36(desk):2	76(try):1	110(extremely):1	493(machine):1	521(lady):1	654(sick):1	845(4th):1	1139(grab):1	1618(unhelpful):1	3255(random):1	3704(pathetic):1	4077(swipe):1	5044(keycard):2	10486(keycards):1	
+0	
+10	97(internet):1	101(center):1	159(access):1	449(sign):1	820(microwave):1	916(refrigerator):1	975(promise):1	983(fitness):1	2097(3rd):1	6336(sleazy):1	
+
+<Author>A TripAdvisor Member
+<Content>worse than you can imagine My husband and I and another couple booked this hotel for one night before our cruise the next day. I had read the negative reviews on the computer but felt it couldn't be that bad for just one night, besides they offered a free shuttle to the port for the cruise. The hotel was absolutely the worst I have ever seen and I would not stay there again even for one night. The covers contained hair from previous guests and it was so dirty, we slept in our clothes. We could not use our heater and froze all night. Our heater stunk and the other couple's heater was broke. It appeared as though the people in the waiting room lived there. We were charged $5.00 per person for the complimentary free shuttle which was also one hour late. The only nice thing about the hotel was the shuttle driver who was very pleasant.  
+<Date>Jan 19, 2006
+<Rating>1	2	1	-1	1	-1	1	-1	
+<Aspects>
+8	2(night):2	50(bad):1	99(couple):1	189(absolutely):1	228(break):1	1321(freeze):1	1796(stink):1	2361(heater):3	
+0	
+12	26(people):1	85(wait):1	91(guest):1	104(sleep):1	206(live):1	323(dirty):1	373(previous):1	541(appear):1	552(cover):1	709(clothe):1	729(hair):1	1545(contain):1	
+10	4(nice):1	46(free):1	60(hour):1	79(late):1	136(charge):1	150(pleasant):1	193(person):1	321(shuttle):2	345(complimentary):1	563(driver):1	
+0	
+0	
+8	2(night):1	8(day):1	18(book):1	50(bad):1	99(couple):1	105(husband):1	603(cruise):1	733(imagine):1	
+13	2(night):1	34(feel):1	37(review):1	46(free):1	50(bad):1	88(read):1	89(offer):1	282(negative):1	321(shuttle):1	555(computer):1	603(cruise):1	1288(port):1	1332(besides):1	
+
+<Author>A TripAdvisor Member
+<Content>Disgusting!! This hotel shouldn't even be in business! It was so dirty and gross that I wouldn't even take my shoes off or sleep under the covers! The bathroom looked like it hadn't been cleaned in a month or even longer. I didn't feel safe at all at this location. My family and I were recommended this place because my grandfather was at Jackson Memorial Hospital. I would definitley recommend driving a little further to downtown where there were much nicer hotels. We left this dump the next morning and found a much nicer hotel.  
+<Date>Jan 4, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+15	4(nice):2	15(recommend):2	23(little):1	43(leave):1	56(morning):1	106(family):1	298(drive):1	334(downtown):1	1152(disgust):1	1449(dump):1	1693(jackson):1	1911(hospital):1	2548(memorial):1	3783(definitley):1	12550(grandfather):1	
+0	
+4	3(clean):1	13(bathroom):1	20(look):1	388(month):1	
+4	1(location):1	34(feel):1	137(safe):1	147(business):1	
+5	104(sleep):1	323(dirty):1	552(cover):1	1191(shoe):1	1797(gross):1	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A dump! My staff and I stayed here for a single night in November 2005 because we were fishing in Biscayne Bay the following day and wanted to get an early start. We reserved our two rooms with a credit card about 5 days earlier. When we arrived, we learned that our rooms had been given away and all that was left was 2 rooms, each with a king size bed (we had three individuals). When we voiced displeasure, we learned that we did have a choice - we could instead select a room with two beds but with a non-functional lock !!! Needless to say, we took the room with the king size bed, which luckily turned out to have two beds anyway, Believe me, you would have made the same choice if you walked through the parking lot at night! So, everything turned out OK, right? Not really...like other reviewers, we were greeted by dubious sliding door locks, dirty sheets (only top sheets on the beds, no fitted sheets), dirty and damaged showers, smelly rooms and halls, and no sense of security. The following morning, I felt like I was asking the front desk attendant for a huge favor when I disturbed her face-down-on-the-counter nap so that we could check out. I know you want to save money, but staying here is not the way to do it!  
+<Date>Nov 26, 2005
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+4	80(money):1	123(ok):1	425(save):1	1449(dump):1	
+10	0(staff):1	2(night):1	8(day):1	165(start):1	304(single):1	482(follow):1	653(fish):1	671(bay):1	999(november):1	5754(biscayne):1	
+41	2(night):1	7(walk):1	8(day):1	11(bed):5	38(lot):1	43(leave):1	53(arrive):1	54(door):1	61(shower):1	66(park):1	83(size):2	107(choice):2	118(top):1	243(king):2	292(card):1	312(believe):1	323(dirty):2	353(instead):1	415(greet):1	417(anyway):1	479(sheet):3	506(reserve):1	564(reviewer):1	616(hall):1	641(security):1	659(credit):1	668(fit):1	703(learn):2	774(lock):2	1102(sense):1	1142(slide):1	1200(luckily):1	1294(select):1	1356(needless):1	1596(individual):1	1697(smelly):1	2030(damage):1	2264(voice):1	5351(dubious):1	7646(displeasure):1	11222(non-functional):1	
+0	
+0	
+11	31(front):1	32(check):1	34(feel):1	36(desk):1	56(morning):1	133(huge):1	482(follow):1	1067(disturb):1	1446(attendant):1	1521(favor):1	2092(nap):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Unbelievable!! This hotel is by far the worst hotel I've ever stayed in (and I've stayed in some really steamy places!) It's also the most filthy, disgusting fire trap I've ever stepped foot in. Fortunately, I was there alone and not with my family; I would've eaten the $400. I laughed and couldn't believe the Days INN would actually assume the liability of this place much less allow it's name to be placed on the front door. The rat hole is also impossible to find. It's tucked away behind an equally vile and disgusting Ramada hotel. It stunk, it had peeled paint and mold in the shower( the shower head was even with my chest) and shady employees stood around in the parking lot; it felt like I was in a one star hotel in Tijuana. This is not Miami,FL. -- it's Hialeah,FL. I don't know you, and neither do you know me. But please, trust me on this--don't do it, you'll be sorry. I have nothing more to say.  
+<Date>Jun 22, 2005
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+23	47(eat):1	106(family):1	173(please):1	366(step):1	402(foot):1	891(sorry):1	1095(miami):1	1152(disgust):2	1169(impossible):1	1218(hole):1	1262(fire):1	1275(neither):1	1320(filthy):1	1402(trust):1	1460(unbelievable):1	1585(fortunately):1	1782(equally):1	2091(tuck):1	2166(trap):1	2957(ramada):1	3220(rat):1	5076(fl):2	8861(vile):1	
+0	
+14	34(feel):1	38(lot):1	61(shower):2	66(park):1	103(star):1	319(head):1	444(stand):1	608(employee):1	806(paint):1	1138(mold):1	1796(stink):1	1887(peel):1	2543(shady):1	3686(chest):1	
+0	
+0	
+11	8(day):1	31(front):1	54(door):1	180(actually):1	295(name):1	312(believe):1	324(inn):1	359(allow):1	1245(laugh):1	1407(assume):1	9539(liability):1	
+2	50(bad):1	7519(steamy):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Vacation Nightmare We planned a trip to Miami with my husband's family. It was suppossed to be a few days of sun and fun. It turned into a total nightmare when we got to the hotel and they had cancelled our reservation! We booked the room 3 months before and had called that morning to confirm the reservation before we headed out. The man at the front desk offered no apologies he just said oh well, there are other hotels in the area. They were all booked due to various festivals going on that weekend. There were 10 family members all together. We ended up sleeping in our cars that night and returning home the next morning. Vacation ruined!  
+<Date>Mar 6, 2005
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+4	8(day):1	106(family):1	176(fun):1	420(sun):1	
+8	33(trip):1	105(husband):1	106(family):1	131(vacation):2	221(plan):1	1095(miami):1	1243(ruin):1	1534(nightmare):1	
+12	2(night):1	18(book):1	39(return):1	56(morning):2	67(call):1	104(sleep):1	121(car):1	141(home):1	156(reservation):1	319(head):1	388(month):1	982(confirm):1	
+0	
+0	
+8	31(front):1	36(desk):1	89(offer):1	156(reservation):1	786(total):1	1065(cancel):1	1534(nightmare):1	1547(apology):1	
+5	18(book):1	172(weekend):1	259(due):1	823(various):1	2399(festival):1	
+0	
+
+<Author>ukdiva
+<Content>Basic accomodation, but good value for money I stayed at the Days Inn South Beach in Jan, and although the accomodation was basic, it had everything you needed... granted the air-con was rather loud, but as i live on a busy London street, it didn't bother me. Great location, right on the beach, and within walking distance of all the SoBe highlights. I'm going back next week and i'll be staying at the same place again!  
+<Date>Jul 11, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	75(week):1	
+0	
+0	
+22	1(location):1	7(walk):1	8(day):1	30(beach):2	35(street):1	80(money):1	81(value):1	115(distance):1	206(live):1	220(busy):1	307(bother):1	324(inn):1	352(basic):2	416(loud):1	697(london):1	769(south):1	780(accomodation):2	1141(highlight):1	1462(jan):1	1690(grant):1	3349(air-con):1	8197(sobe):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>It was all a terrible mistake The previous review accurately describes the dismal conditions at the Days Inn Westland Mall. Like the other travelers, we encountered live bugs in our room, dank smells, a filthy bathroom and relatively surly employees. To make matters worse, we arrived by car for an overnight stay prior to an early flight out of Miami airport, and were almost totally unable to even find the hotel because it has no functional signage and is tucked behind a Ramada. All the amenities described on the website where we booked the room must be at the adjacent Ramada - the pool, the hair dryer in the room, the alarm clock. That's right - the neighborhood is so bad the hotel does not provide clocks. The airport shuttle the next morning was late and only the fact that we were driving at 6 a.m. with no traffic made the erratic driving and lengthy travel time tolerable. A hotel should not describe itself as an airport hotel if reaching the airport requires traveling 12 miles on urban streets.Although the hotel was fairly affordable, I would gladly pay twice as much never to stay in those conditions again. It was a horrible way to start a vacation.  
+<Date>Jun 22, 2004
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+4	50(bad):1	153(provide):1	421(neighbourhood):1	1291(clock):1	
+9	42(pay):1	131(vacation):1	165(start):1	263(condition):1	347(twice):1	462(fairly):1	544(horrible):1	1062(affordable):1	2176(gladly):1	
+36	13(bathroom):1	18(book):1	22(pool):1	50(bad):1	53(arrive):1	95(airport):1	121(car):1	206(live):1	231(smell):1	233(flight):1	262(website):1	267(traveler):1	291(amenity):1	531(matter):1	602(bug):1	608(employee):1	611(totally):1	637(prior):1	693(encounter):1	729(hair):1	913(relatively):1	955(describe):1	1061(adjacent):1	1095(miami):1	1171(overnight):1	1209(dryer):1	1291(clock):1	1320(filthy):1	1348(functional):1	1380(alarm):1	1461(unable):1	2091(tuck):1	2891(surly):1	2957(ramada):2	5295(signage):1	5405(dank):1	
+27	5(time):1	8(day):1	35(street):1	37(review):1	56(morning):1	68(travel):2	79(late):1	95(airport):3	263(condition):1	298(drive):2	321(shuttle):1	324(inn):1	373(previous):1	432(terrible):1	486(traffic):1	643(mall):1	692(mile):1	722(require):1	851(reach):1	895(mistake):1	955(describe):2	2673(urban):1	3738(tolerable):1	4206(lengthy):1	4611(dismal):1	5902(erratic):1	6130(accurately):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Do yourself a favor... Stay elsewhere!!!! Honestly folks, I am not the type of person to write these things, but please please please heed my warning and stay elsewhere. Here are the reasons why:We have travelled a LOT in our day, and this was BY FAR the worst hotel experience we have EVER had. The free shuttle from the airport was over an hour late. We called the hotel twice to get a status check and BOTH TIMES the desk attendant hung up on us!The driver drove like an absolute maniac (no exagerration) through what was probably the worst part of Miami late at night... not a good picture for incoming guests.As expected, when we got to the hotel (which shares a property with the Ramada next door and DOES NOT have a pool onsite despite what is shown on most websites) the service was nothing less than brutal. Rude, short, almost disgusted that we had pre-booked our reservation. At no time did we feel safe, let alone comfortable.When we opened the door of the hotel room, the dank scent of must/mildew overcame the senses. When we turned on the lights in the bathroom, the counters were stained with dead bug carcasses, and there were live insects of various sorts crawling around on the countertop. The sheets were dirty, the air conditioner was loud, and the lock on the outside sliding glass door (yes, we checked the locks... which is indicative of the level of safety we felt) were fledgling at best.We went on a cruise the following day, and unfortunately made reservations for the same hotel upon our return (pre-booked). Honestly, if we had the money we would have eaten the cost and gone elsewhere, but we went back... to virtually the same situation, only on the 4th floor. Filthy footprints in the bathroom (no bugs this time, which was a relief), a bit better smell, a bit louder air conditioner, and a bit better service (the only place to go was up).Again, I repeat... GO ELSEWHERE!!!  
+<Date>Apr 21, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+28	2(night):1	5(time):1	25(comfortable):1	34(feel):1	50(bad):1	79(late):1	91(guest):1	137(safe):1	173(please):3	178(probably):1	193(person):1	298(drive):1	344(write):1	389(type):1	456(picture):1	563(driver):1	576(yourself):1	646(elsewhere):3	679(warn):1	1028(honestly):1	1050(folk):1	1095(miami):1	1250(absolute):1	1467(repeat):1	1521(favor):1	5046(heed):1	7349(incoming):1	11174(maniac):1	
+15	8(day):1	24(floor):1	38(lot):1	44(experience):1	47(eat):1	50(bad):1	68(travel):1	80(money):1	175(cost):1	374(reason):1	646(elsewhere):1	845(4th):1	890(situation):1	1028(honestly):1	1892(virtually):1	
+27	5(time):1	9(service):1	13(bathroom):2	52(bit):3	54(door):1	157(light):1	164(air):1	206(live):1	231(smell):1	416(loud):1	557(sort):1	602(bug):2	723(stain):1	823(various):1	1001(counter):1	1083(conditioner):1	1102(sense):1	1320(filthy):1	1621(dead):1	2360(insect):1	2371(crawl):1	2482(relief):1	2870(scent):1	4898(overcome):1	5405(dank):1	5832(countertop):1	10176(footprint):1	
+5	46(free):1	60(hour):1	79(late):1	95(airport):1	321(shuttle):1	
+16	32(check):1	34(feel):1	54(door):1	98(outside):1	164(air):1	250(yes):1	306(level):1	323(dirty):1	327(glass):1	416(loud):1	479(sheet):1	774(lock):2	1083(conditioner):1	1142(slide):1	1448(safety):1	9246(indicative):1	
+18	5(time):1	8(day):1	32(check):1	36(desk):1	39(return):1	67(call):1	144(short):1	156(reservation):2	347(twice):1	392(rude):1	478(hang):1	482(follow):1	524(unfortunately):1	603(cruise):1	1152(disgust):1	1446(attendant):1	2444(status):1	4507(pre-booke):2	
+11	9(service):1	22(pool):1	54(door):1	62(expect):1	214(property):1	262(website):1	498(despite):1	520(share):1	2629(onsite):1	2957(ramada):1	5768(brutal):1	
+0	
+

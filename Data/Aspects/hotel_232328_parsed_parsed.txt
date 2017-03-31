@@ -1,0 +1,686 @@
+<Author>FrugalFly
+<Content>Good value, but could be much more. On street front, noisy but double-paned glass works. Centrally located to walk everywhere, and safe. Very clean room  bathroom. Small beds and bed-fitting blankets, not good for big people. Limited tv. Good AC. No 110V power port, but adapter available sometimes at front desk. Free wi-fi internet in lobby only, and it was a bit slow. Restaurant bar in lobby looked nice, and had good coffee. No free breakfast. Friendly and helpful staff. Nearby market, shops, food. Flower market walk down the street.  
+<Date>Oct 16, 2008
+<Rating>3	3	3	4	4	4	4	3	
+<Aspects>
+1	956(ac):1	
+1	81(value):1	
+7	3(clean):1	11(bed):1	13(bathroom):1	26(people):1	116(tv):1	510(limit):1	1369(blanket):1	
+14	7(walk):2	16(food):1	31(front):1	35(street):2	49(shop):1	84(locate):1	137(safe):1	217(noisy):1	232(nearby):1	264(market):2	327(glass):1	778(flower):1	879(centrally):1	8102(double-pane):1	
+0	
+10	0(staff):1	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	134(available):1	560(sometimes):1	1276(power):1	1288(port):1	4118(adapter):1	
+12	4(nice):1	6(breakfast):1	10(restaurant):1	20(look):1	27(bar):1	46(free):2	52(bit):1	55(lobby):2	90(coffee):1	97(internet):1	455(slow):1	1827(wi-fi):1	
+0	
+
+<Author>bdm1
+<Content>very hot and loud In Amsterdam for a 4-day stay. Would never recommend this hotel during warm weather as there is no AC and the room was very hot. We couldn't open the windows at night because we had a room at the front of the hotel and the street noise was so loud. Shower flooded the room resulting in a foul smell from the carpet. The king size bed was two twins pushed together resulting in a crack in the middle of the bed which you would slip in to. The breakfast was anything but grand as was our experience with this hotel. Also-very explicit porn on the TV regardless or whether it is puchased. Would not recommend for children. The only positive thing about this hotel is that you don't want to spend in time in your room as it is so uncomfortable and the great location. That being said-there are other hotels with good locations in which to stay.  
+<Date>May 19, 2008
+<Rating>1	1	1	5	2	3	3	1	
+<Aspects>
+6	15(recommend):1	114(hot):1	277(child):1	361(amsterdam):1	416(loud):1	6529(4-day):1	
+3	6(breakfast):1	44(experience):1	365(grand):1	
+34	1(location):1	2(night):1	5(time):1	11(bed):2	15(recommend):1	31(front):1	35(street):1	61(shower):1	64(spend):1	83(size):1	94(noise):1	114(hot):1	116(tv):1	119(window):1	231(smell):1	236(warm):1	243(king):1	325(middle):1	385(weather):1	396(carpet):1	416(loud):1	458(positive):1	690(twin):1	856(uncomfortable):1	956(ac):1	1041(push):1	1109(result):2	1411(crack):1	1927(flood):1	2012(regardless):1	2031(slip):1	4058(foul):1	5706(porn):1	10823(explicit):1	
+1	1(location):1	
+0	
+0	
+0	
+0	
+
+<Author>jzx
+<Content>Great choice for a short break Quite a good location - could walk/tram to most major tourist attractions in the city. Some nice places to eat/drink close by too.Room good value for a major European city. We went for a Deluxe room - worth the upgrade for the late check-out alone (2pm)!Breakfast v.good, with a wide range of options, including many suitable for vegetarians.Friendly  efficient staff on reception.Would recommend it.  
+<Date>Apr 2, 2008
+<Rating>4	3	4	4	4	5	4	-1	
+<Aspects>
+1	15(recommend):1	
+4	41(city):1	81(value):1	315(major):1	582(european):1	
+7	6(breakfast):1	71(include):1	336(option):1	714(range):1	860(wide):1	1967(suitable):1	2392(vegetarian):1	
+12	1(location):1	4(nice):1	7(walk):1	28(close):1	41(city):1	47(eat):1	107(choice):1	144(short):1	209(tourist):1	228(break):1	315(major):1	350(attraction):1	
+0	
+10	0(staff):1	12(friendly):1	79(late):1	96(worth):1	129(reception):1	163(upgrade):1	401(efficient):1	648(deluxe):1	658(checkout):1	7919(2pm):1	
+0	
+0	
+
+<Author>btcLancashire
+<Content>Great location The train station has a facility to print a map to the hotel of your choice. We walked from the station to the Albus Grand. (Plenty of trams available for only 1.60 Euro) Once there we were upgraded as all non smoking standard rooms were full. The deluxe room was very comfortable and clean. Some road traffic noise had to be offset against the super location. Restaurants and bars close by. Staff very helpful and friendly. We did not have breakfast in the hotel but many people did. The get together restaurant did not seem to attract people in the evening but so many other interesting places close by this was not a problem. We had breakfast in Rembrandtsplein watching people catching trams and cycling around. Easy walking distance to all attractions and close by the canal boat stop. We would definitely stay there again.  
+<Date>Feb 22, 2008
+<Rating>4	-1	4	4	4	4	4	-1	
+<Aspects>
+1	59(definitely):1	
+0	
+10	3(clean):1	25(comfortable):1	130(standard):1	134(available):1	158(plenty):1	163(upgrade):1	256(euro):1	468(smoke):1	570(tram):1	648(deluxe):1	
+30	1(location):2	6(breakfast):1	7(walk):2	10(restaurant):1	26(people):2	28(close):2	82(station):2	93(easy):1	94(noise):1	107(choice):1	115(distance):1	122(stop):1	182(train):1	211(facility):1	230(road):1	245(watch):1	350(attraction):1	365(grand):1	464(super):1	486(traffic):1	540(catch):1	570(tram):1	638(canal):1	674(boat):1	724(map):1	1101(print):1	2452(attract):1	3813(cycle):1	5828(offset):1	12913(rembrandtsplein):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+5	6(breakfast):1	10(restaurant):1	26(people):1	27(bar):1	28(close):1	
+0	
+
+<Author>aguycalledbruce
+<Content>A great base for exploring       View from the hotel window.  
+<Date>Feb 22, 2008
+<Rating>4	5	3	5	3	4	4	-1	
+<Aspects>
+0	
+0	
+4	17(view):1	119(window):1	284(base):1	594(explore):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>lobster7
+<Content>Booked short notice, good experience My g/f had a long weekend off and decided she wanted to meet me in Amsterdam. Well, after doing some searching trying to find a place to stay on short notice during peak tourist season, I came across this place. I didn't want to book a place outside of the city center, and the price was right for this place. Getting to the hotel is pretty easy. Its right on a tram line that you can get on at Centraal Station and hop off a block away from hotel. Otherwise it's a 15-20 min walk to the train station. The inside lobby was nice, and the front desk staff helpful. I had booked a room with a double, but instead we got two singles that you had to push together. Not very impressed with that. The room itself was OK, but the window opened to the busy street below. Not having A/C was somewhat of a draw back as you'd have to open the window which REALLY brought the noise in. The shower was another thing that wasn't the greatest design. The tub was in a weird corner and there were no shower curtains so water went everywhere. We stayed for four nights, but I don't think I'd go back again. The price was too high for what we got. I'd had better experiences in budget hotels/hostels than this.  
+<Date>Jan 22, 2008
+<Rating>2	2	2	4	3	5	3	3	
+<Aspects>
+11	2(night):1	76(try):1	93(easy):1	109(pretty):1	144(short):1	209(tourist):1	343(impress):1	354(notice):1	610(season):1	1248(search):1	1710(peak):1	
+14	18(book):2	19(price):2	41(city):1	44(experience):2	98(outside):1	101(center):1	144(short):1	172(weekend):1	196(meet):1	219(decide):1	354(notice):1	361(amsterdam):1	429(budget):1	6652(hotels):1	
+16	35(street):1	57(water):1	61(shower):2	94(noise):1	119(window):2	123(ok):1	142(bring):1	200(corner):1	220(busy):1	311(tub):1	516(design):1	585(below):1	651(somewhat):1	743(curtain):1	1611(weird):1	1620(draw):1	
+10	7(walk):1	82(station):2	100(bloc):1	182(train):1	188(line):1	247(min):1	508(otherwise):1	570(tram):1	1151(hop):1	2450(centraal):1	
+0	
+7	0(staff):1	4(nice):1	14(helpful):1	31(front):1	36(desk):1	55(lobby):1	408(inside):1	
+5	18(book):1	179(double):1	304(single):1	353(instead):1	1041(push):1	
+0	
+
+<Author>Shdaow
+<Content>Good location, everything else was very poor This hotel is situated in a good central location, but there is nothing about it which is remotely Grand. The reception was well presented but the rooms are very basic and the 'power' shower was appalling and wasn't even good enough to wash properly with. The lift was broken twice during a 3 night stay and the cleaners were very inconsiderate every morning having a chat outside the room early in the morning. The inclusive breakfast was cold and of limited choice but certainly wasn't a full American breakfast, I would recommend eating out if you choose to stay in this hotel. The restaurant staff were generally unhelpful and rude. The TV in the room didn't work and when asking for this to be fixed the staff could not help or offer any solution like an alternative room. The hotel is located in a busy nightlife area and the road is very noisy and busy until the early hours of the morning around 4 am if the window was open the bedroom door rattled constantly. The beds were very soft and not comfortable at all. Generally very disappointing but Amsterdam is a great place to visit.  
+<Date>Dec 30, 2007
+<Rating>2	2	1	4	2	3	1	-1	
+<Aspects>
+3	65(visit):1	154(disappoint):1	361(amsterdam):1	
+8	6(breakfast):2	15(recommend):1	47(eat):1	107(choice):1	167(choose):1	222(cold):1	510(limit):1	833(inclusive):1	
+37	0(staff):1	2(night):1	11(bed):1	25(comfortable):1	54(door):1	56(morning):3	60(hour):1	61(shower):1	84(locate):1	89(offer):1	92(help):1	98(outside):1	116(tv):1	119(window):1	129(reception):1	217(noisy):1	220(busy):2	228(break):1	230(road):1	268(bedroom):1	347(twice):1	352(basic):1	494(fix):1	589(soft):1	591(lift):1	811(wash):1	995(constantly):1	1144(properly):1	1276(power):1	1298(alternative):1	1305(nightlife):1	1629(chat):1	2487(cleaner):1	2752(appal):1	2800(solution):1	4511(rattle):1	5143(inconsiderate):1	
+7	1(location):2	168(central):1	170(else):1	331(poor):1	365(grand):1	574(situate):1	5027(remotely):1	
+0	
+4	0(staff):1	10(restaurant):1	392(rude):1	1618(unhelpful):1	
+0	
+0	
+
+<Author>dannixx
+<Content>loved the albus grand!!!! we stayed here for 3 nights in dec and it was brilliant, great location, very clean and modern and we couldnt of asked for more. .. i was slightly worried afetr what i had read on here. but i really couldnt find a fault with the place. we had a standard modern room with a big bath and television and it was extremely clean and the staff very helpful. if i was to go back again i will def be stayin here!! x  
+<Date>Dec 18, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+4	517(fault):1	1528(couldnt):1	2802(def):1	12777(stayin):1	
+0	
+11	0(staff):1	3(clean):1	14(helpful):1	88(read):1	110(extremely):1	130(standard):1	151(modern):1	226(bath):1	598(slightly):1	885(worried):1	1158(television):1	
+9	1(location):1	2(night):1	3(clean):1	40(love):1	151(modern):1	365(grand):1	793(brilliant):1	1508(dec):1	1528(couldnt):1	
+0	
+0	
+0	
+0	
+
+<Author>Midgiepug
+<Content>Not so Grand Its very central to the Dam Square and the central shopping areas. Very easy to reach from Central Station on the tram. You get off at Muntplein.Hotel is located on a busy road. 3 of us shared one room facing onto the busy road. Not the best for noise and traffic.Overall hotel is very average. Facilities are too dated and for 3 stars we have stayed in better and at better value for money. Breakfast was not included on our package ( we didnt realise) and went for breakfast just 1 of the 2 mornings of our stay. What a mistake!!! Far too expensive at 14 euros each for what it was. You find far better and cheaper outside to eat.The room had stained and burns on carpets and bathroom was very basic.Smoking is permitted in public places and this meant the hotel had a awful smell of cigarettes from the reception area to the hallways of the bedroom floors.Lucky we were only there for 2 nights.  
+<Date>Nov 13, 2007
+<Rating>2	2	2	5	3	3	3	3	
+<Aspects>
+5	2(night):1	70(overall):1	227(average):1	797(lucky):1	895(mistake):1	
+10	47(eat):1	80(money):1	81(value):1	98(outside):1	103(star):1	124(expensive):1	143(cheap):1	211(facility):1	256(euro):1	511(date):1	
+24	13(bathroom):1	24(floor):1	49(shop):1	129(reception):1	139(square):1	168(central):2	220(busy):1	230(road):1	231(smell):1	246(mean):1	268(bedroom):1	352(basic):1	365(grand):1	379(public):1	396(carpet):1	468(smoke):1	520(share):1	580(hallway):1	723(stain):1	736(awful):1	1266(dam):1	1289(burn):1	1365(cigarette):1	3149(permit):1	
+10	82(station):1	84(locate):1	93(easy):1	94(noise):1	168(central):1	220(busy):1	230(road):1	486(traffic):1	570(tram):1	851(reach):1	
+0	
+0	
+6	6(breakfast):2	56(morning):1	71(include):1	527(package):1	607(realize):1	626(didnt):1	
+0	
+
+<Author>BMtraveller
+<Content>Not so Grand Good location in basically an old hotel with some cosmetic upgrades.I was lucky to have a room facing the back of the building so I avoided most of the street noise my friends suffered with a room facing the street. Bathrooms were a bit odd - no tub, which is fine, but only a shower curtain to reign in the water so for you splashers out there beware or the entire floor will end up soaked. Also piddly water stream from the shower, it's like taking a shower under a spray can. Good for water conservationists, bad for heavy bathers.Also for the price we paid, breakfast should have been included. But it wasn't.  
+<Date>Oct 8, 2007
+<Rating>2	2	3	4	3	3	3	3	
+<Aspects>
+4	50(bad):1	57(water):1	1186(heavy):1	7596(bather):1	
+4	6(breakfast):1	19(price):1	42(pay):1	71(include):1	
+22	13(bathroom):1	24(floor):1	35(street):2	52(bit):1	57(water):2	61(shower):3	94(noise):1	113(fine):1	135(build):1	146(friend):1	311(tub):1	329(entire):1	436(avoid):1	737(beware):1	743(curtain):1	797(lucky):1	1088(odd):1	1099(spray):1	1468(soak):1	1790(suffer):1	3714(stream):1	12041(reign):1	
+5	1(location):1	163(upgrade):1	365(grand):1	790(basically):1	4494(cosmetic):1	
+0	
+0	
+0	
+0	
+
+<Author>jnick325
+<Content>Terrific Location While it's certainly not the Krasnapolsky at Dam Square, the Albus Grand proved as a solid home base for my girlfriend and I's 5 day stay in the bustling city of Amsterdam.The rooms were very basic, but adequate. They were small, but not overly small where we felt cramped. Make sure you get a room with a window facing the main street for more lighting. The beds were firm, but comfy. The bathroom was also adequate, but got very wet, which is the norm in Amsterdam. The walls were very thin, but I expect this is a common issue in Amsterdam hotels. Don't expect luxury here, but we weren't t planning on spending much time in our room anyway.The location makes the Albus Grand. It's centrally located. It's a quick 2 minute walk to Rembrandt Square, and a short walk to Dam Sqaure and Leidse Square. The only area tough to access by foot was the Red Light District. A tram stops about a block away and takes you everywhere.The only complaint, and this was minor, is the front desk staff. They lacked professionalism and were not courteous for the most part. They seemed uninterested in making our stay more pleasurable. One attendant said, we don't give anything away for free here. Another, this is only a 3 star hotel, what do you expect? And the lounge downstairs is well decorated, but worthless.All in all, money well spent. Book through the hotel's web site.  
+<Date>Jun 29, 2007
+<Rating>4	4	3	4	5	2	2	-1	
+<Aspects>
+9	46(free):1	64(spend):1	80(money):1	349(lack):1	483(courteous):1	1446(attendant):1	3305(professionalism):1	4255(pleasurable):1	4817(uninterest):1	
+2	62(expect):1	103(star):1	
+37	5(time):1	7(walk):2	11(bed):1	13(bathroom):1	29(minute):1	35(street):1	62(expect):1	64(spend):1	112(main):1	119(window):1	139(square):2	144(short):1	157(light):2	159(access):1	221(plan):1	237(lounge):1	299(quick):1	305(decorate):1	352(basic):1	361(amsterdam):1	390(adequate):2	402(foot):1	417(anyway):1	433(district):1	437(luxury):1	475(comfy):1	590(red):1	691(downstairs):1	1032(wet):1	1266(dam):1	1368(firm):1	1665(tough):1	2529(norm):1	4277(rembrandt):1	5846(sqaure):1	6413(worthless):1	10467(leidse):1	
+31	1(location):2	8(day):1	18(book):1	34(feel):1	41(city):1	62(expect):1	84(locate):1	100(bloc):1	122(stop):1	139(square):1	141(home):1	183(wall):1	192(site):1	265(issue):1	284(base):1	361(amsterdam):2	365(grand):2	570(tram):1	699(terrific):1	754(thin):1	830(common):1	879(centrally):1	994(girlfriend):1	1019(web):1	1080(cramp):1	1107(bustle):1	1266(dam):1	1345(overly):1	1554(prove):1	1617(solid):1	7398(krasnapolsky):1	
+0	
+5	0(staff):1	31(front):1	36(desk):1	190(complaint):1	720(minor):1	
+0	
+0	
+
+<Author>pipilong
+<Content>great location We are a couple aged 19 and stayed at the albus grand hotel for 4 nights. The hotel it self was ok, the rooms were rather small and the rooms were boiling. I would not recomend going here in warm weather. The hotels location was brilliant. It was only a short walk away from dam square. We only had breakfast in the hotel once and it was horrible, i would not recomend this at all. The tram stops just outside the hotel and it costs less that 2euro to get to dam square.Would not recomend eating in the pizza resteraunt next store, but dam square had lovely places to eat. Overall this hotel is great for its location, and if like us all you want is just a place to sleep as we were out most of the time exploring the city, it is ideal  
+<Date>Jun 10, 2007
+<Rating>4	2	3	5	5	4	4	4	
+<Aspects>
+3	236(warm):1	385(weather):1	1420(recomend):1	
+0	
+20	1(location):1	5(time):1	7(walk):1	41(city):1	47(eat):2	70(overall):1	87(lovely):1	104(sleep):1	123(ok):1	139(square):2	144(short):1	255(store):1	545(ideal):1	594(explore):1	678(pizza):1	1266(dam):2	1314(self):1	1420(recomend):1	1598(boil):1	5069(resteraunt):1	
+12	1(location):2	2(night):1	98(outside):1	99(couple):1	122(stop):1	139(square):1	175(cost):1	365(grand):1	505(age):1	570(tram):1	793(brilliant):1	1266(dam):1	
+0	
+0	
+3	6(breakfast):1	544(horrible):1	1420(recomend):1	
+0	
+
+<Author>NorthLondonerAbroad
+<Content>'Grand deception' about Albus Grand Hotel The only 鈥楪rand鈥?thing about the Albus Grand Hotel was our deception. Breakfast (14 euros) was poor, sheets were not changed. The overall quality of the room and bathroom was much below than what is normally expected from a hotel at this price (there were many burns in the carpet, no bath and the shower was just a hole in the floor of the bathroom). Although stated in the description, there was no wireless internet access in the room. There was a wired access though, alas the staff was unable to state whether it was dial-up or broadband. Finally, when one night there was someone shouting outside and knocking at our window (we were unlucky enough to have been given one of the bedrooms located at the ground floor), the staff said that 鈥榠t is just someone on drugs鈥?and we should go back to our room as they were busy checking in other guests (inputting data into their computer as there was no one in the reception area)  
+<Date>May 8, 2007
+<Rating>1	1	2	4	1	1	1	1	
+<Aspects>
+0	
+0	
+32	0(staff):1	2(night):1	13(bathroom):2	19(price):1	24(floor):2	32(check):1	61(shower):1	62(expect):1	70(overall):1	84(locate):1	91(guest):1	98(outside):1	119(window):1	129(reception):1	187(quality):1	220(busy):1	226(bath):1	268(bedroom):1	341(finally):1	396(carpet):1	555(computer):1	585(below):1	706(grind):1	1091(normally):1	1218(hole):1	1289(burn):1	1323(knock):1	2146(shout):1	2256(drug):1	3952(unlucky):1	7532(input):1	7921(data):1	
+2	365(grand):3	10790(deception):2	
+0	
+7	0(staff):1	159(access):1	1461(unable):1	1904(wire):1	2825(broadband):1	4078(alas):1	8948(dial-up):1	
+5	6(breakfast):1	161(change):1	256(euro):1	331(poor):1	479(sheet):1	
+4	97(internet):1	159(access):1	717(wireless):1	2034(description):1	
+
+<Author>GeneOlympiaWA
+<Content>Loved the Location Great location - just a block from the floating flower market and from Rembrandt Plaza. Plenty of restaurants nearby as well as a grocery, bakery, etc. Hotel breakfast very generous (eggs, bacon, sausage, granola, cheeses, etc). Planning on returning this Fall and staying here again (this is my 6th trip and the only time I have decided to stay at the same hotel).  
+<Date>Apr 17, 2007
+<Rating>5	4	4	5	4	5	4	4	
+<Aspects>
+7	5(time):1	33(trip):1	39(return):1	219(decide):1	221(plan):1	587(fall):1	1869(6th):1	
+0	
+0	
+8	1(location):2	40(love):1	100(bloc):1	264(market):1	515(plaza):1	778(flower):1	1630(float):1	4277(rembrandt):1	
+0	
+0	
+13	6(breakfast):1	10(restaurant):1	73(etc):2	158(plenty):1	232(nearby):1	412(egg):1	441(cheese):1	1057(bacon):1	1199(grocery):1	1385(sausage):1	1483(bakery):1	1523(generous):1	4340(granola):1	
+0	
+
+<Author>HOLIDAYoholic
+<Content>Great Location! Do not expect Luxury at this hotel, the rooms are very basic, though the room was clean and myself and my partner were provided with fresh towels each day, and you cannot beat this hotel for price and location, it is central to all the shops and attractions in Amsterdam.The staff at the hotel were very friendly, though it was a disappointment to find the hotel bar closed early each night and on the last day of my stay with my partner it was not open at all. Though because of the hotel's good location, we were lucky to find plenty of other bar's and restaurants within the area.  
+<Date>Apr 11, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+22	0(staff):1	1(location):2	2(night):1	3(clean):1	8(day):2	12(friendly):1	19(price):1	27(bar):1	28(close):1	49(shop):1	62(expect):1	125(towel):1	153(provide):1	168(central):1	197(fresh):1	350(attraction):1	352(basic):1	361(amsterdam):1	437(luxury):1	442(beat):1	866(disappointment):1	1006(partner):2	
+0	
+0	
+5	1(location):1	10(restaurant):1	27(bar):1	158(plenty):1	797(lucky):1	
+0	
+
+<Author>janetmartinezrey
+<Content>Great Location (behind the Flower Markets) Great location when we eventually found it!! Hopped onto a tram from Central Station but unfortunately nobody spoke English so we missed our stop, but found after going into one of the shops nearby. When we arrived Sat 10th March and went to check in, the receptionist explained that she did not have a room for us that night but only on Sunday, and we could stay in a 4 star nearby and then come back the following night. Told her not happy about it. So I contacted Hotel Connect (who we made our booking with - fantastic company) to ask what was happening with our booking, she promptly phoned the hotel, we could hear the conversation as we were sat in the lobby - quite funny really. After the receptionist put the phone down she then informed me that they did have a room afterall, but we could not check in after 2pm. ( We arrived @ 11am!!) We went out for a well earned drink and came back and we were actually given a family room on the 7th floor, nice view ( but a very warm room) given that the weather was fab for the duration of our stay. Breakfast was good but staff had a bit of an attitude to be honest. Would I stay there again, yes  
+<Date>Apr 3, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	53(arrive):1	69(tell):1	155(happy):1	250(yes):1	7969(11am):1	
+0	
+12	4(nice):1	17(view):1	24(floor):1	63(drink):1	106(family):1	180(actually):1	236(warm):1	385(weather):1	1216(fab):1	2737(earn):1	2951(7th):1	2961(duration):1	
+15	1(location):2	49(shop):1	82(station):1	122(stop):1	127(speak):1	152(english):1	168(central):1	232(nearby):1	264(market):1	276(miss):1	524(unfortunately):1	570(tram):1	778(flower):1	1151(hop):1	1204(eventually):1	
+0	
+21	0(staff):1	2(night):2	6(breakfast):1	32(check):2	52(bit):1	53(arrive):1	103(star):1	169(sit):1	232(nearby):1	296(phone):1	482(follow):1	615(march):1	768(explain):1	817(inform):1	821(attitude):1	844(sunday):1	855(receptionist):2	1108(honest):1	1592(10th):1	4732(afterall):1	7919(2pm):1	
+13	18(book):2	55(lobby):1	86(fantastic):1	132(hear):1	169(sit):1	296(phone):1	382(happen):1	713(contact):1	760(company):1	841(connect):1	1156(funny):1	1212(promptly):1	1281(conversation):1	
+0	
+
+<Author>MMMH
+<Content>Great location! I returned from a trip tp Amsterdam yesterday having stayed with 5 friends in this hotel. We had a really nice time there and would recommend the hotel to any one travelling to Amsterdam. The staff at the reception desk are very friendly and helpful. A few points to note however, we had booked three non-smoking rooms yet we all ended up in smoking rooms where there was a very strong smell of smoke. There is no safe in the room which I did not like and to leave valuables at reception costs 鈧?.50 a day. Now,a potentially big problem:This hotel accepts stag/hen parties. We were lucky as there was a gang of English guys who did not make a sound and did not wake us but not everyone might be so lucky! When they say breakfast is served until 10.30 at weekends that means you must be in and seated with your breakfast in front of you at that time......don't arrive at the last minute as we did or you'll be turned away(we had gone by the clock on the T.V. in the room which was slow). Some of our gang went for breakfast one morning and felt that it was not particularly good value for what they got and did not go any other day. The hotel in well situated anyway with lots of nice cafes and restaurants nearby. (Do NOT go to the Italian next to the hotel....poor food, dreadfully slow and an unpleasant whiff from the loos!). The rooms are very hot with no A.C. so be sure to leave the window open during the day to keep the room cool. If you enjoy walking around a city then you will love the location. Although a few minutes south of Dam Square it was not far at all and was quite near the Heineken Brewery so we could walk there too. It is just around the corner from the Flower markets(lots of nice little cafes here, try the first one on the left Amaryllis for breakfast). We really enjoyed our stay and liked the hotel(you also get a complimentary drink from the bar between 5 and 7 p.m. which is a nice gesture).  
+<Date>Feb 26, 2007
+<Rating>3	4	3	4	3	3	3	3	
+<Aspects>
+20	4(nice):1	5(time):1	15(recommend):1	33(trip):1	39(return):1	68(travel):1	146(friend):1	152(english):1	361(amsterdam):2	363(party):1	368(guy):1	409(sound):1	554(wake):1	797(lucky):2	1247(accept):1	2447(yesterday):1	4441(stag):1	5242(potentially):1	5342(gang):1	7375(tp):1	
+12	6(breakfast):1	8(day):2	34(feel):1	43(leave):1	56(morning):1	81(value):1	129(reception):1	137(safe):1	175(cost):1	553(particularly):1	1935(valuable):1	5342(gang):1	
+18	7(walk):1	8(day):1	29(minute):2	43(leave):1	53(arrive):1	102(near):1	114(hot):1	119(window):1	139(square):1	278(cool):1	455(slow):1	769(south):1	1266(dam):1	1291(clock):1	2366(t.v):1	4685(heineken):1	6234(brewery):1	7454(a.c):1	
+5	1(location):2	7(walk):1	40(love):1	41(city):1	51(enjoy):1	
+6	18(book):1	231(smell):1	297(note):1	468(smoke):2	893(strong):1	978(nonsmoking):1	
+5	0(staff):1	12(friendly):1	14(helpful):1	36(desk):1	129(reception):1	
+33	4(nice):3	5(time):1	6(breakfast):3	10(restaurant):1	16(food):1	23(little):1	27(bar):1	31(front):1	38(lot):2	43(leave):1	51(enjoy):1	63(drink):1	76(try):1	172(weekend):1	174(serve):1	200(corner):1	232(nearby):1	246(mean):1	264(market):1	275(cafe):2	331(poor):1	345(complimentary):1	358(italian):1	417(anyway):1	455(slow):1	504(seat):1	574(situate):1	778(flower):1	1466(p.m):1	1747(unpleasant):1	2733(gesture):1	9636(whiff):1	12808(dreadfully):1	
+0	
+
+<Author>jcdub
+<Content>Great value and location We got this hotel on recomendation of the tourist board at the airport on the 29th so were a little wary but it turned out to be a lovely hotel.The twin room was small enough but clean and basic. The first night was 105 euro but it shot up over news eve but was still cheaper than a lot of hotels on offer.We were located to the rear of the hotel and there was no tram noise at all.The only down side was no tea or coffee facilites in the room but as I'd heard mixed reviews about so many hotels in Amsterdam it seemed a small price to pay.The staff were helpfull and there is a nice restaurant attached to it.At 15 euro the breakfast isn't worth paying extra for as there are so many nice cafes near by.There are good restaurants in the next street down and plenty of trams going by to take you to the museums etc.All in all a good place to stay in a great city.  
+<Date>Jan 3, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+17	2(night):1	19(price):1	37(review):1	38(lot):1	42(pay):1	89(offer):1	90(coffee):1	132(hear):1	143(cheap):1	256(euro):1	301(tea):1	361(amsterdam):1	609(mix):1	1725(news):1	1778(shoot):1	1787(eve):1	3948(facilite):1	
+3	3(clean):1	352(basic):1	690(twin):1	
+20	1(location):1	10(restaurant):1	23(little):1	35(street):1	41(city):1	73(etc):1	81(value):1	84(locate):1	87(lovely):1	94(noise):1	95(airport):1	158(plenty):1	209(tourist):1	507(museum):1	570(tram):2	600(board):1	2007(rear):1	3099(wary):1	3366(29th):1	5539(recomendation):1	
+0	
+5	0(staff):1	4(nice):1	10(restaurant):1	1224(attach):1	1478(helpfull):1	
+8	4(nice):1	6(breakfast):1	42(pay):1	96(worth):1	102(near):1	128(extra):1	256(euro):1	275(cafe):1	
+0	
+
+<Author>martijn.v.bakker
+<Content>Nice stay Nice hotel, and good service. Rooms are OK. Shower room is very simple. No shower cabin, but shower is just seperated by curtain from rest of the shower room (toilet, sink etc.)Breakfast was less than I expected. They have the standards (bread, scrambled eggs, bacon etc.), but the quality is not so good.Staff is good and friendly.  
+<Date>Dec 18, 2006
+<Rating>4	3	3	4	4	4	3	-1	
+<Aspects>
+0	
+0	
+12	6(breakfast):1	61(shower):4	62(expect):1	73(etc):1	123(ok):1	288(rest):1	330(toilet):1	509(sink):1	613(simple):1	743(curtain):1	1416(seperate):1	4152(cabin):1	
+0	
+0	
+2	0(staff):1	12(friendly):1	
+9	4(nice):2	9(service):1	73(etc):1	130(standard):1	187(quality):1	412(egg):1	497(bread):1	1057(bacon):1	1674(scramble):1	
+0	
+
+<Author>krossikatz
+<Content>Albus Grand was Grand Myself and my friend stayed there last weekend, and as said before it is in a great location (after we went around in circles). Staff are very friendly and the rooms very clean and quite big, we were at the front of the hotel on the 4th floor but heard no noise even with the trams outside. Getting around with the trams is excellent. Get a tram outside central station to the hotel as we got ripped off by taxi at 20 euro's!!! Great hotel, good location and lovely staff.  
+<Date>Nov 29, 2006
+<Rating>4	3	3	4	4	4	4	-1	
+<Aspects>
+0	
+0	
+10	0(staff):1	3(clean):1	12(friendly):1	24(floor):1	31(front):1	94(noise):1	98(outside):1	132(hear):1	570(tram):1	845(4th):1	
+15	0(staff):1	1(location):2	21(excellent):1	82(station):1	87(lovely):1	98(outside):1	146(friend):1	168(central):1	172(weekend):1	185(taxi):1	256(euro):1	365(grand):2	570(tram):2	1182(rip):1	2126(circle):1	
+0	
+0	
+0	
+0	
+
+<Author>curlyred666
+<Content>well worth it I stayed with my fiancee and 2 friends for 5 nights and thought this hotel was grand. Me and my partner stayed on the ground floor which was quiet and had a balcony, so you could have a smoke or getr some air. I found the room comfortable and the staff friendly. Its a great location beside lots of shopping and restaurants. theres a cheap coffeeshop just round the corner and a lovely tapas bar. If you walk 2mins you get to the tram stop and then its 5 mins into town. Would definitely stay again.  
+<Date>Sep 29, 2006
+<Rating>4	4	3	5	4	5	4	-1	
+<Aspects>
+6	2(night):1	59(definitely):1	96(worth):1	146(friend):1	365(grand):1	4060(fiancee):1	
+0	
+10	0(staff):1	12(friendly):1	24(floor):1	25(comfortable):1	58(quiet):1	164(air):1	191(balcony):1	468(smoke):1	706(grind):1	1006(partner):1	
+11	1(location):1	7(walk):1	10(restaurant):1	38(lot):1	49(shop):1	122(stop):1	239(town):1	247(min):1	570(tram):1	1350(beside):1	6772(2min):1	
+0	
+0	
+6	27(bar):1	87(lovely):1	143(cheap):1	200(corner):1	1455(tapa):1	9185(coffeeshop):1	
+0	
+
+<Author>zato
+<Content>great location Two of us stayed one night in the Albus. The location was perfect for us. It is a two minute walk to the flower market and the canal tour, and a few additional minutes to Rembrandt Square for eating and people watching. We walked everywhere and loved the atmosphere. The young, dark-haired man at the reception desk was extremely helpful. He pleasantly gave us information to our questions, and he sent help up to our room when needed.The room was basic and clean. We booked one week prior to arrival and paid 109 euros, or $126.00 U.S. , excluding 5% tax. The price had gone down over the previous days I had checked. The one big drawback was that it was a gorgeous day for sightseeing, but that meant our room on the top floor of the hotel was extremely hot because of the lack of air conditioning . We survived and would go back there again.Upon checking out there was a shuttle bus for 12 euros each heading to the airport. We picked it up across the street. The very efficient front desk arranged for this, and we paid the shuttle bus driver. Smooth and simple.We totally enjoyed Amsterdam.  
+<Date>Sep 19, 2006
+<Rating>4	4	3	5	4	5	5	-1	
+<Aspects>
+6	51(enjoy):1	361(amsterdam):1	611(totally):1	613(simple):1	1400(smooth):1	3364(survive):1	
+16	7(walk):1	8(day):1	18(book):1	19(price):1	32(check):1	40(love):1	42(pay):1	75(week):1	224(arrival):1	256(euro):1	373(previous):1	414(atmosphere):1	637(prior):1	798(tax):1	1817(u.s):1	4614(exclude):1	
+19	3(clean):1	8(day):1	24(floor):1	92(help):1	110(extremely):1	114(hot):1	118(top):1	164(air):1	246(mean):1	263(condition):1	349(lack):1	352(basic):1	394(question):1	446(gorgeous):1	447(send):1	640(sight-see):1	649(information):1	747(pleasantly):1	1344(drawback):1	
+29	1(location):2	2(night):1	7(walk):1	26(people):1	29(minute):2	31(front):1	32(check):1	35(street):1	36(desk):1	42(pay):1	47(eat):1	74(perfect):1	95(airport):1	120(bus):2	139(square):1	181(tour):1	245(watch):1	256(euro):1	264(market):1	266(pick):1	321(shuttle):2	401(efficient):1	563(driver):1	638(canal):1	680(arrange):1	778(flower):1	835(additional):1	1437(heading):1	4277(rembrandt):1	
+0	
+4	14(helpful):1	36(desk):1	110(extremely):1	129(reception):1	
+0	
+0	
+
+<Author>BrianR73
+<Content>Brilliant hotel, in the middle of everything Booked this with a group of friends as we were travelling over there on a stag weekend. The hotel was pretty quiet over the weekend. We stayed in a deluxe room (which is great because you also get a later checkout time of 2pm). We were in room 215, which becase the hotel is sort of L shaped, we were off the main front road and our window looked out to the back of the hotel. We certainly had no tram noise as noted by other reviewers on here, but the room was notably smaller than the other rooms that other people we were travelling with had. It might be worth asking for a room facing the back if you think it will be a problem.The hotel staff were great all through the weekend. The rooms are clean and spotless (if a little warm - there's no air conditioning in the rooms, so windows have to do). If you want a taxi booking they'll do it, they'll tell you where everything is and the hotel is centrally located so that everything you need is only a maximum 20 minute walk away - and the flower market is only over the road, and there are some great restaurants too. (The italian next door doesnt look like much, but the food is really good).Had a great weekend there and I wouldnt hesitate in recomending the place or staying there again.  
+<Date>Aug 16, 2006
+<Rating>5	4	4	5	4	5	5	3	
+<Aspects>
+4	172(weekend):1	902(hesitate):1	1420(recomend):1	1849(wouldnt):1	
+0	
+17	3(clean):1	20(look):1	23(little):1	31(front):1	58(quiet):1	96(worth):1	109(pretty):1	112(main):1	119(window):2	164(air):1	172(weekend):1	230(road):1	236(warm):1	263(condition):1	548(spotless):1	557(sort):1	1226(shape):1	
+19	7(walk):1	10(restaurant):1	18(book):1	26(people):1	29(minute):1	68(travel):1	69(tell):1	84(locate):1	94(noise):1	185(taxi):1	230(road):1	264(market):1	297(note):1	564(reviewer):1	570(tram):1	778(flower):1	879(centrally):1	3523(maximum):1	7312(notably):1	
+0	
+7	0(staff):1	5(time):1	79(late):1	172(weekend):1	648(deluxe):1	658(checkout):1	7919(2pm):1	
+12	16(food):1	18(book):1	20(look):1	54(door):1	68(travel):1	146(friend):1	172(weekend):1	325(middle):1	358(italian):1	793(brilliant):1	2588(doesnt):1	4441(stag):1	
+0	
+
+<Author>Saint_C
+<Content>Fantastic Location This is a lovely little hotel in a great location. All the staff were very friendly and helpful throughout our stay. The room was comfortable and plenty of space for 2 girls, each with a weeks worth of luggage! The only niggle was that the bathroom, although large and very clean, did not have a window or extractor fan and got very very hot. There are loads of nice restaurants and bars in Rembrandtplein and along Reguliersdwarstraat. Particularly liked the Bangkok (Thai) and Roses Cantina (Mexican). Don't miss the half price cocktail hour at the Aussie bar either!The location was great, with all the major sites within walking distance. Try to walk along the canals (gracht) rather than the main streets which can get very noisy and busy. Besides which, it's a much nicer view on the canals.The hotel has an arrangement with a shuttle bus service (Connexions) which will bring you straight from the airport to the hotel for 12 euro each way. You can also book this to go back to the airport on departure (just ask at reception). I found this service really convenient.  
+<Date>Aug 16, 2006
+<Rating>4	5	4	5	4	5	5	-1	
+<Aspects>
+10	4(nice):1	17(view):1	553(particularly):1	638(canal):1	675(mexican):1	1332(besides):1	2393(thai):1	4777(rose):1	4792(bangkok):1	9560(cantina):1	
+7	19(price):1	27(bar):1	60(hour):1	276(miss):1	283(half):1	716(cocktail):1	5256(aussie):1	
+18	3(clean):1	13(bathroom):1	18(book):1	25(comfortable):1	75(week):1	95(airport):1	96(worth):1	114(hot):1	119(window):1	129(reception):1	158(plenty):1	210(space):1	249(luggage):1	625(girl):1	661(fan):1	1031(departure):1	3910(niggle):1	7376(extractor):1	
+23	1(location):3	7(walk):2	9(service):1	23(little):1	35(street):1	76(try):1	86(fantastic):1	87(lovely):1	95(airport):1	112(main):1	115(distance):1	120(bus):1	142(bring):1	192(site):1	217(noisy):1	220(busy):1	256(euro):1	315(major):1	321(shuttle):1	638(canal):1	827(straight):1	932(connection):1	1415(arrangement):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	445(throughout):1	
+7	4(nice):1	9(service):1	10(restaurant):1	27(bar):1	186(convenient):1	886(load):1	7129(rembrandtplein):1	
+0	
+
+<Author>SplottGirl
+<Content>Fantastic I returned this evening from a 3 night stay in the Albus Grand. On arrival we were upgraded to a superior room at no extra cost. I asked the receptionist why she had upgraded us .. she said she wanted us to have a happy day. That was a great start to a wonderful weekend. We were given room 202. It was beautifully clean, had plenty of toiletries and tea/coffee etc. Beds were extrememely comfortable with crisp white bedding. The only draw back was that it was very noisy coming from the street (no double glazing). However this could be rectified with ear plugs .. no big deal there. Breakfast was good although my friend thought the scrambled eggs far too creamy. After check out we were able to leave our luggage in a locked room at no extra cost. Amsterdam is a lovely city with very laid back people. I look forward to re-visiting and would definitely be staying in this hotel again.  
+<Date>Aug 7, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	8(day):1	26(people):1	41(city):1	87(lovely):1	140(deal):1	155(happy):1	361(amsterdam):1	696(lay):1	1174(plug):1	1684(ear):1	2943(rectify):1	
+13	32(check):1	43(leave):1	48(wonderful):1	128(extra):2	163(upgrade):1	165(start):1	171(able):1	172(weekend):1	175(cost):2	224(arrival):1	249(luggage):1	774(lock):1	785(superior):1	
+10	3(clean):1	11(bed):2	25(comfortable):1	73(etc):1	158(plenty):1	301(tea):1	466(white):1	657(toiletry):1	771(beautifully):1	2293(crisp):1	
+12	2(night):1	20(look):1	35(street):1	39(return):1	59(definitely):1	86(fantastic):1	179(double):1	217(noisy):1	365(grand):1	750(forward):1	1620(draw):1	2144(glaze):1	
+0	
+2	163(upgrade):1	855(receptionist):1	
+5	6(breakfast):1	146(friend):1	412(egg):1	1674(scramble):1	8186(creamy):1	
+0	
+
+<Author>siddalla
+<Content>Great hotel but very noisy Stayed at the Albus Grand for 3 nights and really enjoyed it. We had a basic room which was very nice , although extremely hot and very noisy. Great location, close to everything. The staff were very friendly  helpful. I would recommend this hotel for location but do not expect to get alot of sleep. If using a taxi to get around ask the hotel to call one for you, its double the price if you get one when out.  
+<Date>Aug 6, 2006
+<Rating>4	5	4	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+10	1(location):1	4(nice):1	15(recommend):1	62(expect):1	104(sleep):1	110(extremely):1	114(hot):1	217(noisy):1	352(basic):1	647(alot):1	
+10	1(location):1	2(night):1	19(price):1	28(close):1	51(enjoy):1	67(call):1	179(double):1	185(taxi):1	217(noisy):1	365(grand):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>pietrish
+<Content>loved it we have just returned from amsterdam, the albus hotel is a brill place to stay, central to everything and a 5mins walk to dam square.the hotel was very clean and spacious, rooms were cleaned every day and clean towels put out. very friendly staff. lovely hotel bar where you can purchase breakfast at an extra cost. highly recommend this hotel and would stay there again.  
+<Date>Jul 9, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	15(recommend):1	138(highly):1	
+0	
+4	3(clean):3	8(day):1	111(spacious):1	125(towel):1	
+9	7(walk):1	39(return):1	40(love):1	139(square):1	168(central):1	361(amsterdam):1	1266(dam):1	3577(5min):1	5382(brill):1	
+0	
+2	0(staff):1	12(friendly):1	
+6	6(breakfast):1	27(bar):1	87(lovely):1	128(extra):1	175(cost):1	887(purchase):1	
+0	
+
+<Author>SamH84
+<Content>Great hotel, great location       Bedroom  
+<Date>May 22, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+2	1(location):1	268(bedroom):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>EC2006
+<Content>Very Enjoyable Stay My boyfriend and I stayed in the Albus from the 30thApril - 3rd May this year and I must say we had a very enjoyable stay. The hotel is very clean and bright. The check in/out was quick and reception staff were very friendly. Our room was of average size, very clean and bright. Our bathroom had no extractor which was a bit of a pain but apart from that it was fine. We were delighted with the location of this hotel, you could not get a more central location. I couldn't believe how quiet the hotel was seen as it was so central, no noise from the trams or anything.I would highly recommend this hotel to anyone planning on visiting Amsterdam.  
+<Date>May 5, 2006
+<Rating>5	4	4	-1	5	-1	5	-1	
+<Aspects>
+5	15(recommend):1	65(visit):1	138(highly):1	221(plan):1	361(amsterdam):1	
+0	
+17	1(location):2	3(clean):1	13(bathroom):1	52(bit):1	58(quiet):1	83(size):1	94(noise):1	113(fine):1	168(central):2	227(average):1	312(believe):1	570(tram):1	857(apart):1	880(bright):1	1025(delight):1	1481(pain):1	7376(extractor):1	
+3	567(enjoyable):2	763(boyfriend):1	2097(3rd):1	
+2	3(clean):1	880(bright):1	
+5	0(staff):1	12(friendly):1	32(check):1	129(reception):1	299(quick):1	
+0	
+0	
+
+<Author>Travelguru4u
+<Content>Excellent Stay Check-in was easy. The room was very clean and spacious-room 701 Triple. The staff was friendly and helpful. Best way to the hotel from Center Station is to take Tram #4 , but you can walk. It's about a 15/20 min walk. The location was excellent!They offer an extended check out until 2:00.The only complaint was the shower water pressure-very weak.  
+<Date>May 1, 2006
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+6	3(clean):1	57(water):1	61(shower):1	190(complaint):1	1553(triple):1	1770(weak):1	
+7	1(location):1	7(walk):2	21(excellent):1	82(station):1	101(center):1	247(min):1	570(tram):1	
+0	
+9	0(staff):1	12(friendly):1	14(helpful):1	21(excellent):1	32(check):1	89(offer):1	93(easy):1	286(check-in):1	1303(extend):1	
+0	
+0	
+
+<Author>DLPatterson
+<Content>Great hotel, great location We stayed 3 nights from 26th - 29th March. We booked the deluxe room, non smoking and with a shower. The room was spacious and we were at the front of the hotel. We did not find it too noisey. Beds were comfortable. We felt 14 euro was a bit much for breakfast and found a lovely cafe facing the flower market and had a good breakfast for 6.50 euro. The hotel is well situated within the city and close to all the major attractions. We would definitely come back to this hotel on our next trip to Amsterdam.  
+<Date>Apr 2, 2006
+<Rating>4	4	5	-1	5	-1	4	-1	
+<Aspects>
+4	33(trip):1	59(definitely):1	361(amsterdam):1	3008(noisey):1	
+0	
+8	11(bed):1	18(book):1	25(comfortable):1	31(front):1	61(shower):1	111(spacious):1	468(smoke):1	648(deluxe):1	
+10	1(location):1	2(night):1	28(close):1	41(city):1	315(major):1	350(attraction):1	574(situate):1	615(march):1	2639(26th):1	3366(29th):1	
+0	
+0	
+8	6(breakfast):2	34(feel):1	52(bit):1	87(lovely):1	256(euro):2	264(market):1	275(cafe):1	778(flower):1	
+0	
+
+<Author>Betina
+<Content>Average hotel - great location We stayed four nights at the hotel. We had no breakfast as we thought that paying 14 euro per breakfast was a bit expensive adding 28 euro to our hotel bill. The staff was very polite and helpful.The hotel's location is great. Its near the Rembrandtsplein. Many restaurants are nearby, the flower market, shopping area and its easy to get there by tram or walk (half an hour to the train station without luggage). The rooms are very basically furnished, no bathtub in the standard rooms, but if you are lucky to get a room at the back, its also very quiet unlike the front rooms.I do think that you can find better hotels for the same price range.  
+<Date>Mar 27, 2006
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	102(near):1	12913(rembrandtsplein):1	
+9	6(breakfast):2	19(price):1	42(pay):1	52(bit):1	124(expensive):1	256(euro):2	351(add):1	495(bill):1	714(range):1	
+8	31(front):1	58(quiet):1	130(standard):1	787(furnish):1	790(basically):1	797(lucky):1	1023(bathtub):1	1163(unlike):1	
+16	1(location):2	2(night):1	7(walk):1	10(restaurant):1	49(shop):1	60(hour):1	82(station):1	93(easy):1	182(train):1	227(average):1	232(nearby):1	249(luggage):1	264(market):1	283(half):1	570(tram):1	778(flower):1	
+0	
+3	0(staff):1	14(helpful):1	422(polite):1	
+0	
+0	
+
+<Author>gsugrad
+<Content>Great experience staying at this hotel               More photos  
+<Date>Mar 18, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+2	44(experience):1	761(photo):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>DebOnTheWeb
+<Content>Great location, nice room, helpful staff       one more shot out the window  
+<Date>Feb 14, 2006
+<Rating>4	4	3	-1	3	-1	4	-1	
+<Aspects>
+0	
+0	
+6	0(staff):1	1(location):1	4(nice):1	14(helpful):1	119(window):1	1778(shoot):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Thumbs Up Highly recommend this hotel. Myself and my fiancee stayed here with a group of friends. Some of them had some concerns after reading one or two negative reviews given I had booked the hotel I hoped they were not true. We were all very pleasantly surprised. We found the rooms to be clean, modern and comfortable. The staff we found to be pleasant and helpful. The location is pretty much perfect. There is a bit of an issue with water on the bathroom floor but with a little care that can be avoided. Overall, I give it a big thumbs up and would happily recommend it to anyone.  
+<Date>Feb 1, 2006
+<Rating>4	4	4	-1	5	-1	4	-1	
+<Aspects>
+9	15(recommend):2	70(overall):1	138(highly):1	146(friend):1	199(surprise):1	747(pleasantly):1	1642(happily):1	2165(thumb):2	4060(fiancee):1	
+0	
+11	3(clean):1	13(bathroom):1	23(little):1	24(floor):1	25(comfortable):1	52(bit):1	57(water):1	151(modern):1	242(care):1	265(issue):1	436(avoid):1	
+3	1(location):1	74(perfect):1	109(pretty):1	
+0	
+3	0(staff):1	14(helpful):1	150(pleasant):1	
+6	18(book):1	37(review):1	88(read):1	282(negative):1	328(hope):1	496(concern):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>great hotel stayed here for 3 nights. room lovely, hotel very clean staff helpful would recommend it. Was weary after reading some reviews before I left but thankfully I was very pleased.  
+<Date>Jan 17, 2006
+<Rating>4	4	4	-1	4	-1	3	-1	
+<Aspects>
+7	2(night):1	37(review):1	43(leave):1	88(read):1	173(please):1	1893(thankfully):1	3186(weary):1	
+0	
+5	0(staff):1	3(clean):1	14(helpful):1	15(recommend):1	87(lovely):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Elise2929
+<Content>not great at all I always use trip advisor to check hotels before booking and the reviews for this hotel were ok. When we were last in Amsterdam we went in to the reception area and it looked ok and new. I booked this hotel for my parents as it was a present. I was so disappointed when they came back and had so many little but annoying problems. They booked an upgraded room and they said it was ok, the rooms were very noisy from the road outside, the window catch was broken, the room amenities were not toped up. There was nowhere in the hotel to get a drink or anything after the breakfast room shut in the morning. Over all it is not somewhere they would go back to. The room wasn't cheap, the location of the hotel is great but doesn't out way the other down falls, including the unhelpful reception staff.  
+<Date>Jan 3, 2006
+<Rating>2	2	2	-1	2	-1	1	-1	
+<Aspects>
+3	23(little):1	154(disappoint):1	695(annoy):1	
+0	
+10	18(book):1	98(outside):1	119(window):1	123(ok):1	163(upgrade):1	217(noisy):1	228(break):1	230(road):1	291(amenity):1	540(catch):1	
+0	
+0	
+15	0(staff):1	1(location):1	18(book):1	20(look):1	32(check):1	33(trip):1	37(review):1	71(include):1	123(ok):2	129(reception):2	143(cheap):1	361(amsterdam):1	587(fall):1	701(advisor):1	1618(unhelpful):1	
+6	6(breakfast):1	18(book):1	56(morning):1	63(drink):1	1086(shut):1	1197(parent):1	
+0	
+
+<Author>Toulouse01
+<Content>Average, nothing special. We stayed in the Albus Grand for 4 nights in Aug 2005. Having stayed in other 3* superior hotels in Amsterdam I was a little let down by this one and I don't think there was anything superior about it.The place is easy to find, just walk down along the flower market to the end and the hotel is opposite the Jolly Carlton Hotel. It's in a great location in that it's very close to the flower market, Dam Sq, Munt Square. You can also get the tram from Central Station and it stops diagonally across from the hotel.The receptionists were nice and friendly and myself and my partner were quickly booked into our room and our two friends into theirs. When we got to the room the first thing we noticed was a balcony! Up on the 6th floor, not much of a view of anything but a balcony all the same. We did much better than our friends who got a supposedly de-luxe room with a view of the wall and a scaffold. I then noticed the blood stains on the walls and I can only guess that these were from the previous guests squashing mosquitoes, disgusting never the less. The walls are even easy to clean but they never bothered. Looked terrible. The beds were clean as was the bathroom. The shower doesn't have a basin, just a plug-hole in the ground so the water covers the whole bathroom floor when you have a shower. This was off-putting because you had to get dressed outside the bathroom so as not to get wet again and when you go to re-enter the bathroom you have to be careful not to slip on the floor.One other thing that really annoyed me about this hotel, especially after reading one reviewers story of having their room robbed, was the fact that if we didn't lock the balcony door, the people in the room next door could enter our room. The balcony was shared with the room next door and so we were extremely careful to lock the door before we went out. But the cleaners didn't really care about us being robbed and so when we'd arrive back from being out for the day the balcony door would be unlocked, open to whoever wanted to come in from next door. The cleaning staff were loud, very loud in the morning and didn't understand 'Do not disturb' signs on the door. They just barged in anyway so be careful to lock your door from the inside. No safe deposit boxes in the room but of course you can rent one at the desk for the pricely sum of 鈧?.50 a night. There is a restaurant downstairs but no room service.I don't think we'd come back here again as it really was just average for the money. There are far better 3* superiors not far away.  
+<Date>Dec 9, 2005
+<Rating>3	3	3	-1	3	-1	2	-1	
+<Aspects>
+8	20(look):1	23(little):1	80(money):1	208(special):1	227(average):2	361(amsterdam):1	432(terrible):1	785(superior):3	
+8	2(night):1	36(desk):1	137(safe):1	293(course):1	945(box):1	1030(rend):1	1603(deposit):1	1651(sum):1	
+47	3(clean):1	8(day):1	9(service):1	10(restaurant):1	11(bed):1	13(bathroom):4	17(view):2	24(floor):3	26(people):1	53(arrive):1	54(door):7	57(water):1	61(shower):2	88(read):1	98(outside):1	110(extremely):1	126(especially):1	146(friend):1	183(wall):1	191(balcony):5	242(care):1	354(notice):1	408(inside):1	417(anyway):1	520(share):1	552(cover):1	564(reviewer):1	601(enter):1	691(downstairs):1	695(annoy):1	706(grind):1	774(lock):3	897(careful):3	906(story):1	935(dress):1	1032(wet):1	1869(6th):1	2031(slip):1	2062(supposedly):1	2487(cleaner):1	2813(basin):1	3005(rob):2	3388(whoever):1	3599(unlock):1	6081(barge):1	7535(off-putt):1	11117(reenter):1	
+32	1(location):1	2(night):1	3(clean):1	7(walk):1	28(close):1	82(station):1	91(guest):1	93(easy):2	122(stop):1	139(square):1	168(central):1	183(wall):2	264(market):2	307(bother):1	354(notice):1	365(grand):1	373(previous):1	469(guess):1	570(tram):1	723(stain):1	778(flower):2	783(opposite):1	1054(mosquito):1	1152(disgust):1	1266(dam):1	1518(carlton):1	1959(sq):1	2404(aug):1	2718(blood):1	4713(jolly):1	5235(squash):1	7477(diagonally):1	
+8	0(staff):1	3(clean):1	54(door):1	56(morning):1	391(understand):1	416(loud):2	449(sign):1	1067(disturb):1	
+8	4(nice):1	12(friendly):1	18(book):1	146(friend):1	471(quickly):1	855(receptionist):1	1006(partner):1	3192(theirs):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Superb!!! Superb hotel, great location only 10 mins from dam square and 15 from cenral station. Room was good size very clean with modern furnishing. We stayed in room 102 on the ground floor. Hotel is done out lovely with a modern touch, if you want a hotel that is not in dodgy areas of amsterdam this will be for you.The only fault would be our room was not ready till 1.30 hours after check in, but apart from this slight error we will definitely be returning, as the hotel was priced at 205 euros for 3 nights in a standard room via lastminute.Highly Recommended!!!  
+<Date>Nov 25, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+8	15(recommend):1	87(lovely):1	138(highly):1	151(modern):1	279(touch):1	361(amsterdam):1	407(superb):1	2539(dodgy):1	
+0	
+22	2(night):1	3(clean):1	19(price):1	24(floor):1	32(check):1	39(return):1	59(definitely):1	60(hour):1	83(size):1	130(standard):1	151(modern):1	256(euro):1	274(ready):1	512(via):1	517(fault):1	706(grind):1	787(furnish):1	857(apart):1	979(till):1	1297(slight):1	2628(error):1	6433(lastminute):1	
+6	1(location):1	82(station):1	139(square):1	247(min):1	407(superb):1	1266(dam):1	
+0	
+0	
+0	
+0	
+
+<Author>1711
+<Content>If I could change hotel....... WE stay for four night, Great location, However the front desk staff was not very friendly or knowledgable about their wonderful city. THe room we stay in was large and dark, not enough to light to light up the space, so no reading could be none (and we are not over 40) . They had dirty sheets on the bed upon arrival  could not change until the next day.I could go on but I wont. A great location but not a good hotel match for us . I rate this hotel a 2.  
+<Date>Nov 2, 2005
+<Rating>2	1	1	-1	-1	-1	1	-1	
+<Aspects>
+3	78(rate):1	161(change):1	1820(wont):1	
+0	
+5	88(read):1	157(light):2	210(space):1	459(dark):1	573(none):1	
+2	1(location):1	1476(match):1	
+6	8(day):1	11(bed):1	161(change):1	224(arrival):1	323(dirty):1	479(sheet):1	
+9	0(staff):1	1(location):1	2(night):1	12(friendly):1	31(front):1	36(desk):1	41(city):1	48(wonderful):1	1160(knowledgeable):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Surprising Booked this hotel as a last resort as every other one was sold out. Did not tell my wife it was a 2 Star hotel. Pros:locationCentral - easy walking distance of the DAM, Redlight District and Amsterdam Central StationRoomsClean, Bathroom a real surprise, I have stayed in 4  5 Star hotels in the UK and Carribbean and this one exceeded them all.StaffFriendly polite - found the Dutch to be extremely helpful, had no use for a phrase book. FoodRestaurant was tendy, only had a coffee and desert, but very stylish and always crowded. Cons:Room facing the street are noisy from passing pedestrain traffic. Some people felt the need to shout all the time. ReccommendationIt's very clean and exceeded my expectations. Staff were good, no room safes, but one could be rented near reception for 2 Euro a day. Get a room at the back of the hotel to escape the noise on the street.Will definitely go back  
+<Date>Oct 23, 2005
+<Rating>4	4	4	-1	5	-1	4	-1	
+<Aspects>
+5	5(time):1	26(people):1	34(feel):1	59(definitely):1	2146(shout):1	
+6	3(clean):1	69(tell):1	103(star):1	184(wife):1	431(expectation):1	1153(exceed):1	
+19	7(walk):1	13(bathroom):1	35(street):1	93(easy):1	94(noise):1	103(star):1	115(distance):1	168(central):1	199(surprise):1	240(real):1	361(amsterdam):1	433(district):1	1153(exceed):1	1178(uk):1	1249(pro):1	1266(dam):1	1601(escape):1	4667(carribbean):1	10136(redlight):1	
+5	35(street):1	217(noisy):1	400(pass):1	486(traffic):1	840(Con):1	
+0	
+13	0(staff):1	8(day):1	14(helpful):1	18(book):1	102(near):1	110(extremely):1	129(reception):1	137(safe):1	256(euro):1	422(polite):1	1097(rent):1	2066(dutch):1	2764(phrase):1	
+8	18(book):1	72(resort):1	90(coffee):1	199(surprise):1	313(crowd):1	606(sell):1	961(stylish):1	1706(desert):1	
+0	
+
+<Author>eugene uk
+<Content>What a little trendy hotel! We found the Albus Grand a highly stylish, modern 3 star hotel, conveniently located in the very heart of Amsterdam, literally steps from Muntplein and virtually around the corner from Rembrandtplein. Mind you, such privileged location also meant our exterior room could get slightly noisy at times despite the double glazed windows! The staff were friendly and helpful, with a good command of English. Our room was spacious and very tastefully decorated, with brand-new furniture, satellite TV and a fancy press iron, but no mini bar, safe or air con though! Luckily, the weather was quite mild during our stay, otherwise we might have found it rather difficult to sleep with the windows open and all the noise outside. The bathroom was also very spacious and well appointed, with free toiletries and a hair dryer.Breakfast was simply delicious, served in a small, trendy restaurant on the ground floor, consisting of all sorts of bread and rolls, hot and cold meats, fruit, yoghurt, tea and coffee. All very nicely prepared and presented. Definitely something to look forward first thing in the morning!All in all, we really enjoyed our stay at the Albus Grand and would not hesitate to stay at this property again, although next time we would definitely try to get an interior room.  
+<Date>Aug 10, 2005
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+8	20(look):1	23(little):1	56(morning):1	59(definitely):1	404(nicely):1	460(prepare):1	750(forward):1	1413(trendy):1	
+0	
+48	1(location):1	5(time):2	13(bathroom):1	27(bar):1	46(free):1	51(enjoy):1	59(definitely):1	76(try):1	94(noise):1	98(outside):1	104(sleep):1	111(spacious):2	116(tv):1	119(window):2	137(safe):1	164(air):1	179(double):1	214(property):1	217(noisy):1	246(mean):1	294(mind):1	305(decorate):1	365(grand):1	385(weather):1	440(furniture):1	448(mini):1	498(despite):1	508(otherwise):1	572(difficult):1	579(appoint):1	598(slightly):1	657(toiletry):1	729(hair):1	796(fancy):1	840(Con):1	868(iron):1	902(hesitate):1	1026(interior):1	1200(luckily):1	1209(dryer):1	1526(tastefully):1	1828(exterior):1	1843(press):1	2144(glaze):1	3260(satellite):1	3928(mild):1	8759(brand-new):1	10442(privileged):1	
+14	84(locate):1	103(star):1	138(highly):1	151(modern):1	200(corner):1	361(amsterdam):1	365(grand):1	366(step):1	450(heart):1	665(literally):1	961(stylish):1	1070(conveniently):1	1892(virtually):1	7129(rembrandtplein):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	152(english):1	4806(command):1	
+19	6(breakfast):1	10(restaurant):1	24(floor):1	90(coffee):1	114(hot):1	174(serve):1	215(fruit):1	222(cold):1	301(tea):1	485(delicious):1	488(simply):1	497(bread):1	557(sort):1	677(meat):1	706(grind):1	813(roll):1	927(yogurt):1	1185(consist):1	1413(trendy):1	
+0	
+
+<Author>pbkeber
+<Content>Warm welcome in the snow Stayed at the Grand Albus for 3 nights late February. From start to finish the hotel staff were helpful and friendly. The room was good. It is in an excellent area of Amsterdam with nearly all major sites within 15 mins walk. At night it is close to some nice eating places and some good bars. To me it's a good place at a good price in a good area. I'd stay again.  
+<Date>Mar 17, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+6	0(staff):1	12(friendly):1	14(helpful):1	19(price):1	165(start):1	772(finish):1	
+0	
+18	2(night):2	4(nice):1	7(walk):1	21(excellent):1	27(bar):1	28(close):1	47(eat):1	79(late):1	192(site):1	202(welcome):1	236(warm):1	247(min):1	315(major):1	361(amsterdam):1	365(grand):1	896(nearly):1	1230(february):1	2884(snow):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Unforgetable stay As we travel all over the world and have seen so many hotels, we really can say this is a hotel to recommend, wonderfull, helpfull staff. very nice, clean rooms and a supurb location !! All sightseeing things are on walking distance and the nightlife starts around the corner. If you want to go for a nice weekend then this is the right address, but also when you are in Amsterdam for business, no doubt you will enjoy this hotel with free internet connection in the rooms.  
+<Date>Mar 8, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+4	1(location):1	3(clean):1	4(nice):1	8548(supurb):1	
+6	7(walk):1	115(distance):1	165(start):1	200(corner):1	640(sight-see):1	1305(nightlife):1	
+0	
+7	0(staff):1	15(recommend):1	68(travel):1	272(world):1	1478(helpfull):1	2901(wonderfull):1	6995(unforgetable):1	
+0	
+10	4(nice):1	46(free):1	51(enjoy):1	97(internet):1	147(business):1	172(weekend):1	361(amsterdam):1	932(connection):1	952(doubt):1	1312(address):1	
+
+<Author>robcat35
+<Content>great value and great location I have just spent 3 days at the Grand Albus with 9 members of my family with an age range of 68 to 21. We were all impressed by the hotels excellent rooms and very friendly and helpful staff. The location of the hotel is absolutely ideal with only a short walk to Dam square and most other attractions.The only compaint would be the tiny breakfast room but as this was been refurbished while we were there this problem should soon be solved.Overall a very pleasant hotel and which we will be visiting again.  
+<Date>Mar 1, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	65(visit):1	70(overall):1	150(pleasant):1	
+0	
+10	0(staff):1	6(breakfast):1	12(friendly):1	14(helpful):1	21(excellent):1	338(tiny):1	343(impress):1	418(soon):1	1253(refurbish):1	2094(solve):1	
+15	1(location):2	7(walk):1	8(day):1	64(spend):1	81(value):1	106(family):1	139(square):1	144(short):1	189(absolutely):1	350(attraction):1	365(grand):1	505(age):1	545(ideal):1	714(range):1	1266(dam):1	
+0	
+0	
+0	
+0	
+
+<Author>ParisExpat
+<Content>Not bad for the price Stayed here for 2 weeks in November 04. This hotel is very basic and the restaurant only serves breakfast (extra 15 euros! - better to eat outside). The bathroom was below average, a dribbly shower head and one of those non-cubicle showers that soaks the whole bathroom, perhaps explaining the grotty state of the bathroom floor.However, it's not all bad. The location is perfect for both sighseeing and entertainment, just off Rembrandstplein, and walkable to the (better) nightlife off Leidseplein. The bedroom was fine, if basic - well heated, comfortable bed, generally clean. One minor incident - I got back to my room one evening to find a mysterious pair of ladies panties on my bedroom floor (nothing to do with me!). Not sure what this says about security or what the cleaning lady gets up to..I paid 109 Euros per night, which is a very fair price for this hotel. I would stay here again if I'm travelling alone (I'm a business travellor) but would look for somewhere with more charm if travelling in a couple.  
+<Date>Jan 21, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	50(bad):1	
+8	2(night):1	19(price):2	42(pay):1	50(bad):1	75(week):1	256(euro):1	739(fair):1	999(november):1	
+22	3(clean):2	11(bed):1	13(bathroom):3	24(floor):2	25(comfortable):1	61(shower):2	113(fine):1	227(average):1	268(bedroom):2	319(head):1	352(basic):1	521(lady):2	539(heat):1	585(below):1	641(security):1	720(minor):1	768(explain):1	1468(soak):1	2013(incident):1	2207(pair):1	5409(grotty):1	6223(mysterious):1	
+14	1(location):1	20(look):1	47(eat):1	68(travel):2	74(perfect):1	98(outside):1	99(couple):1	147(business):1	332(charm):1	340(entertainment):1	1305(nightlife):1	2197(walkable):1	3311(leidseplein):1	12552(sighseeing):1	
+0	
+0	
+6	6(breakfast):1	10(restaurant):1	128(extra):1	174(serve):1	256(euro):1	352(basic):1	
+0	
+
+<Author>Inhabitant
+<Content>It is good! We would go back! We spend the weekend of 6 and 7 november in Amsterdam, Albus Grand Hotel.The hotel is at a central location in Amsterdam. Only 10 min. walk from station and a few min. away from several musea etc.The staff is friendly and helpfull. The room is clean and good. Breakfast is good. Eggs, bacon, cereal etc... also the staff in the morning is friendly and very quick.We would def. go back to Albus Grand Hotel in Amsterdam!  
+<Date>Nov 8, 2004
+<Rating>4	3	3	-1	3	-1	3	-1	
+<Aspects>
+2	247(min):1	2802(def):1	
+0	
+1	3(clean):1	
+10	1(location):1	7(walk):1	64(spend):1	82(station):1	168(central):1	172(weekend):1	247(min):1	361(amsterdam):3	365(grand):2	999(november):1	
+0	
+6	0(staff):2	12(friendly):2	56(morning):1	73(etc):1	299(quick):1	1478(helpfull):1	
+5	6(breakfast):1	73(etc):1	412(egg):1	529(cereal):1	1057(bacon):1	
+0	
+
+<Author>albertreus
+<Content>Muy agradable sorpresa       La cama seg煤n se entraba  
+<Date>Nov 25, 2008
+<Rating>4	3	4	4	4	4	4	3	
+<Aspects>
+4	225(la):1	4342(se):1	4861(muy):1	12006(cama):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Porota
+<Content>Siii pero tuvimos un visitante ...       habitaci贸n del hotel donde aparecio el rat贸n  
+<Date>Nov 3, 2008
+<Rating>3	3	3	3	3	3	3	3	
+<Aspects>
+6	752(el):1	1482(del):1	2292(un):1	3220(rat):1	6135(habitaci):1	11042(pero):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

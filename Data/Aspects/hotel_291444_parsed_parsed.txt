@@ -1,0 +1,728 @@
+<Author>Franz21
+<Content>an issue of attitude       standard room  
+<Date>Jan 7, 2009
+<Rating>2	3	5	5	5	2	2	5	
+<Aspects>
+0	
+0	
+3	130(standard):1	265(issue):1	821(attitude):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>anthony604
+<Content>Great Hotel We stayed for 4 days over the Christmas period. We were very happy with the hotel. We liked the design of the bedrooms, comfortable beds, nice bathrooms, plenty of storage space. The position of the hotel is central, walking distance to most of the sights and shops. We found the staff extremely helpful. As in a previous report the breakfast is a little expensive but good  buffet style so eat as much as you like! Dinner at the restaurant was good - trendy modern cuisine.  
+<Date>Dec 29, 2008
+<Rating>5	4	4	5	4	5	4	3	
+<Aspects>
+4	8(day):1	155(happy):1	962(christmas):1	1331(period):1	
+0	
+9	4(nice):1	11(bed):1	13(bathroom):1	25(comfortable):1	158(plenty):1	210(space):1	268(bedroom):1	516(design):1	1311(storage):1	
+6	7(walk):1	49(shop):1	115(distance):1	168(central):1	411(sight):1	1093(position):1	
+0	
+3	0(staff):1	14(helpful):1	110(extremely):1	
+13	6(breakfast):1	10(restaurant):1	23(little):1	47(eat):1	77(buffet):1	117(dinner):1	124(expensive):1	151(modern):1	326(style):1	373(previous):1	838(report):1	1413(trendy):1	1717(cuisine):1	
+0	
+
+<Author>ce1875
+<Content>Made us welcomm.... This is a very smart design hotel, but it does what it does very well. Great rooms with all the amenities you would expect for a hotel at this end of the market, and we also had a balcony. The rooms are serviced twice a day so there are always plenty of fresh towels, replenished toiletries etc.The staff were friendly but there does appear to be a door policy for the bar at night - although as a resident they obviously let you in, but we did see plenty of non-residents turned away. Samuel Eto'o didn't appear to have any trouble though!Our breakfast wasn't included in the hotel rate so we only ate there once - at 23.50 euros per person you need to make sure you are hungry. Having said that, it was very nice, and as it is served until 11.30 each morning, you can take your time.As others have mentioned, the location is superb for shopping, eating and sightseeing. If you want to eat in the hotel restaurant, Moo, you need to book in advance as it has a very good reputation, and so consequently was fully booked before we arrived.  
+<Date>Dec 16, 2008
+<Rating>5	4	4	5	5	4	4	5	
+<Aspects>
+5	516(design):1	541(appear):1	569(trouble):1	1687(smart):1	8133(samuel):1	
+0	
+4	62(expect):1	191(balcony):1	264(market):1	291(amenity):1	
+6	1(location):1	47(eat):1	49(shop):1	244(mention):1	407(superb):1	640(sight-see):1	
+0	
+0	
+35	0(staff):1	2(night):1	4(nice):1	5(time):1	6(breakfast):1	8(day):1	9(service):1	10(restaurant):1	12(friendly):1	18(book):2	27(bar):1	47(eat):2	53(arrive):1	54(door):1	56(morning):1	71(include):1	73(etc):1	78(rate):1	125(towel):1	158(plenty):2	174(serve):1	193(person):1	197(fresh):1	256(euro):1	347(twice):1	541(appear):1	657(toiletry):1	685(advance):1	781(obviously):1	1381(hungry):1	1634(policy):1	1808(replenish):1	1988(resident):1	2195(reputation):1	4416(consequently):1	
+0	
+
+<Author>frankwoods68
+<Content>Wonderfull hotel! very schiki We were recommended to stay at this hotel.It was worth staying at it.We enjoyed parties and the events we were invited at.The hotel is EXCELLENT and the location is in the main avenue De Grazia.Its near everywhere and very nice to take a walk during night.Definetly we are going back to this hotel.  
+<Date>Nov 25, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+8	15(recommend):1	51(enjoy):1	96(worth):1	363(party):1	1106(event):1	1210(invite):1	1964(definetly):1	2901(wonderfull):1	
+0	
+0	
+8	1(location):1	2(night):1	4(nice):1	7(walk):1	21(excellent):1	102(near):1	112(main):1	1090(avenue):1	
+0	
+0	
+0	
+0	
+
+<Author>RICNewYork
+<Content>Cool Hotel, Indiferent service Stayed at Hotel Omm for 4 days. The hotel design is great, nice lobby, cool bedrooms, beautiful spa and roof terrace.Even though the hotel is clasified as a 5 star, I personally think it should be a 4 star due to the indifferent and sometimes snobby service. There were some employees that were very nice, but the vast majority weren't. They did their job.....yes, but never smiled or went out of their way to be nice. The bar scene is cool, but as a hotel guest you do not get treated well, as you don't get seating preference and the bar staff is pretentious.We also had phone problems and no hot water in the shower!In summary, the hotel is beautiful, well located and definitely a cool place to stay, but my main complain is the service.  
+<Date>Nov 17, 2008
+<Rating>4	3	4	5	5	4	2	3	
+<Aspects>
+7	4(nice):2	250(yes):1	387(smile):1	481(job):1	608(employee):1	1584(majority):1	2476(vast):1	
+7	9(service):1	103(star):2	259(due):1	560(sometimes):1	1052(personally):1	2481(indifferent):1	4669(snobby):1	
+13	4(nice):1	45(beautiful):1	55(lobby):1	57(water):1	61(shower):1	114(hot):1	268(bedroom):1	278(cool):1	296(phone):1	314(spa):1	516(design):1	636(roof):1	673(terrace):1	
+8	9(service):1	45(beautiful):1	59(definitely):1	84(locate):1	112(main):1	241(complain):1	278(cool):1	1716(summary):1	
+0	
+9	0(staff):1	27(bar):2	91(guest):1	278(cool):1	320(treat):1	504(seat):1	1588(scene):1	2268(preference):1	3435(pretentious):1	
+4	8(day):1	9(service):1	278(cool):1	12436(omm):1	
+0	
+
+<Author>PDickinson
+<Content>Awful experience My wife and I stayed here - although hotel is very smart, staff were extremely rude. My wife got food poisoning after eating in the hotel restaurant and, after a night without sleep, we were told we could not check-out late and had to vacate the room. I was also told to move away from the bar area when I walked back into the hotel lobby after being outside all day (as I was wearing shorts!).  
+<Date>Nov 13, 2008
+<Rating>1	1	4	4	2	1	1	3	
+<Aspects>
+0	
+7	0(staff):1	44(experience):1	110(extremely):1	184(wife):1	392(rude):1	736(awful):1	1687(smart):1	
+0	
+9	7(walk):1	8(day):1	27(bar):1	55(lobby):1	69(tell):1	98(outside):1	144(short):1	207(move):1	434(wear):1	
+0	
+11	2(night):1	10(restaurant):1	16(food):1	47(eat):1	69(tell):1	79(late):1	104(sleep):1	184(wife):1	658(checkout):1	3021(poison):1	5431(vacate):1	
+0	
+0	
+
+<Author>hotelsrule2701
+<Content>Well worth a visit Just returned from a 4 night stay at the Omm, what an amazing hotel!!! Ideally situated away from the noise of Barcelona just off the Passeig De Gracia, but slap bang in the designer shopping area and still only a short walk from Ramblas and other main tourist spots. All the staff were very friendly, rooms were very trendy and the rooftop pool area is just an added wee treat. Open top bus that you jump on/off goes past the hotel so if you find yourself wandering too far just jump on and get a hurl back up the road. Fantastic restaurant not far called Citrus Restaurant, this is up above another wee treat we found, a place called Tapas Tapas, ideal for lunch wine and to watch the world go by. Watch out for the pickpockets we were warned about, someone tried it on on the last night but thankfully my other half had a button over his back pocket otherwise the wallet would have been gone. They trick you with all sorts, asking for a cigarette or directions. We found the Port Olympic area really nice at night time, they have the Ice Bar right on the beach which is very smart and worth a visit!  
+<Date>Oct 23, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+10	2(night):1	39(return):1	65(visit):1	96(worth):1	145(amaze):1	395(direction):1	557(sort):1	1365(cigarette):1	2614(trick):1	12436(omm):1	
+0	
+8	0(staff):1	12(friendly):1	22(pool):1	320(treat):1	351(add):1	1063(rooftop):1	1413(trendy):1	2310(wee):1	
+44	2(night):2	4(nice):1	5(time):1	7(walk):1	27(bar):1	30(beach):1	49(shop):1	65(visit):1	94(noise):1	96(worth):1	112(main):1	118(top):1	120(bus):1	144(short):1	209(tourist):1	230(road):1	245(watch):1	253(tried):1	283(half):1	309(barcelona):1	317(spot):1	419(past):1	508(otherwise):1	547(ice):1	574(situate):1	576(yourself):1	634(ramblas):1	679(warn):1	1288(port):1	1401(bang):1	1404(jump):2	1562(wander):1	1687(smart):1	1800(ideally):1	1893(thankfully):1	2131(designer):1	2142(button):1	2199(pocket):1	2286(olympic):1	2460(wallet):1	2525(gracia):1	3583(passeig):1	4220(pickpocket):1	4780(slap):1	
+0	
+0	
+12	10(restaurant):2	67(call):2	86(fantastic):1	245(watch):1	251(wine):1	252(lunch):1	272(world):1	320(treat):1	545(ideal):1	1455(tapa):2	2310(wee):1	9885(citrus):1	
+0	
+
+<Author>dodasek
+<Content>Oh yes ommmmmmmmm       bed  
+<Date>Oct 14, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+2	11(bed):1	250(yes):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>jobymaloby
+<Content>Fantastic hotel - great service! This hotel has everything! It is in a superb location, it is very smart, and the staff are excellent. I found the design really impressive, without being design for designs sake. The staff were really helpful and not at all pretentious as others have said. The rooms are spacious and very comfortable and the public areas (bar, pool, roof terrace) are places you want to hang out in.I go to Barcelona frequently and this is definately now my hotel of choice. I cannot recommend it highly enough.  
+<Date>Oct 6, 2008
+<Rating>5	4	5	5	5	5	5	4	
+<Aspects>
+5	15(recommend):1	138(highly):1	516(design):3	920(impressive):1	3374(sake):1	
+4	107(choice):1	309(barcelona):1	410(definately):1	1573(frequently):1	
+8	22(pool):1	25(comfortable):1	27(bar):1	111(spacious):1	379(public):1	478(hang):1	636(roof):1	673(terrace):1	
+5	0(staff):1	1(location):1	21(excellent):1	407(superb):1	1687(smart):1	
+0	
+3	0(staff):1	14(helpful):1	3435(pretentious):1	
+2	9(service):1	86(fantastic):1	
+0	
+
+<Author>JCLON
+<Content>Good but pretentiousGood but pretentious. The hotel has a good location, the building is impressive, especially the restaurant and bar area. The room was nice however it is a little loud and is not maintained to 鈥渂rand new鈥?condition as you would expect of this type of property. The staff is a little pretentious but efficient.  
+<Date>Aug 30, 2008
+<Rating>4	3	4	4	5	3	3	4	
+<Aspects>
+1	3435(pretentious):1	
+0	
+8	4(nice):1	23(little):1	62(expect):1	214(property):1	263(condition):1	389(type):1	416(loud):1	562(maintain):1	
+0	
+0	
+4	0(staff):1	23(little):1	401(efficient):1	3435(pretentious):1	
+6	1(location):1	10(restaurant):1	27(bar):1	126(especially):1	135(build):1	920(impressive):1	
+0	
+
+<Author>t_patsalides
+<Content>Uber cool Just back from a weekend in Barcelona, the Omm was everything I wanted from a top rate boutique hotel, I had a superior room and the size and facilities were excellent, separate bathroom and wet room, electronic gadgetry to control lighting, blinds etc....Unfortunately the restaurant was closed but the fantastic bar more than made up for it, very knowledgable bar staff, especially Lenka who was lovely.The nearby Tragaluz restaurant (only 100 metres away) was fantastic and part of the same group.Service at reception was friendly and professional and the rooftop bar and pool were a welcome retreat in the late afternoon when recovering from shopping and sightseeing.Will definetly be visiting again.  
+<Date>Aug 26, 2008
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+2	65(visit):1	1964(definetly):1	
+0	
+29	0(staff):1	10(restaurant):1	13(bathroom):1	21(excellent):1	27(bar):2	28(close):1	73(etc):1	78(rate):1	83(size):1	86(fantastic):1	87(lovely):1	118(top):1	126(especially):1	157(light):1	172(weekend):1	211(facility):1	278(cool):1	309(barcelona):1	474(separate):1	524(unfortunately):1	623(boutique):1	785(superior):1	865(control):1	1032(wet):1	1160(knowledgeable):1	1839(blind):1	2578(electronic):1	8607(uber):1	12436(omm):1	
+14	9(service):1	12(friendly):1	22(pool):1	27(bar):1	49(shop):1	79(late):1	129(reception):1	202(welcome):1	364(afternoon):1	501(professional):1	640(sight-see):1	1063(rooftop):1	2244(re-treat):1	3020(recover):1	
+0	
+0	
+4	10(restaurant):1	86(fantastic):1	232(nearby):1	1194(metre):1	
+0	
+
+<Author>Hockeychick
+<Content>Fabulous hotel Just back from weekend in Barcelona. As usual was worried about where to stay and spent ages searching for the 'perfect' hotel. Booke Hotel Omm through Mr and Mrs Smith for a good price and really enjoyed it. We were upgraded to lovely large airy room with separate loo.. which I think is a great idea. The decked terrace with pool is just stunning and can take your own bottle of cava up too.. really lovely helpful staff.Thought it was very quiet and heard no noise in our room. Huge TV but didnt' use it.. lovely huge bath which did use.. just nothing to complain about at all. Really recomend it. Great tapas resto just 5 mins down main road, tour buses go from almost outside and metro stop for station just across main road.  
+<Date>Aug 11, 2008
+<Rating>5	4	5	4	5	5	5	-1	
+<Aspects>
+19	22(pool):1	64(spend):1	74(perfect):1	87(lovely):1	133(huge):1	166(own):1	226(bath):1	238(bottle):1	241(complain):1	505(age):1	639(idea):1	673(terrace):1	682(usual):1	885(worried):1	988(stun):1	1248(search):1	1406(deck):1	1420(recomend):1	2341(cava):1	
+4	19(price):1	51(enjoy):1	5629(smith):1	12436(omm):1	
+11	58(quiet):1	87(lovely):1	94(noise):1	116(tv):1	132(hear):1	133(huge):1	163(upgrade):1	474(separate):1	626(didnt):1	1947(airy):1	3927(loo):1	
+11	82(station):1	98(outside):1	112(main):2	120(bus):1	122(stop):1	181(tour):1	230(road):2	235(metro):1	247(min):1	1455(tapa):1	9647(resto):1	
+0	
+3	0(staff):1	14(helpful):1	87(lovely):1	
+3	172(weekend):1	270(fabulous):1	309(barcelona):1	
+0	
+
+<Author>feriefan
+<Content>A different hotel The upsides:- very different from the usual hotels, very cool and a quite nordic style- the staff was very friendly, even though it was an expensive hotel- Obviously a popular nightclub and great drinks- great roof terrace with a wonderful view and a poolThe downsides:- Not soundproof at all, you could hear other people in the corridor very clearly- The toilet and the bathroom was separate, you had to walk through the bedroom to wash your hands  
+<Date>Jul 1, 2008
+<Rating>4	3	4	3	4	5	5	3	
+<Aspects>
+0	
+0	
+28	0(staff):1	7(walk):1	12(friendly):1	13(bathroom):1	17(view):1	26(people):1	48(wonderful):1	63(drink):1	124(expensive):1	132(hear):1	268(bedroom):1	278(cool):1	326(style):1	330(toilet):1	377(hand):1	474(separate):1	636(roof):1	673(terrace):1	682(usual):1	781(obviously):1	782(downside):1	811(wash):1	1073(corridor):1	1277(popular):1	1852(soundproof):1	2378(nightclub):1	3613(upside):1	10250(poolthe):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>stannn
+<Content>cool spot in a hot city centrally located in a high rent stretch of the city, this is a decent joint. public areas are stylish and comfortable - there was a fashion shoot taking place as i checked in. rooms are well designed and comfortable. i couldn't find the minibar it was so well designed and hidden - but was assured that it existed.request a room overlooking the street on a high floor, away from the lift and with a balcony.the rooftop pool/ bar is what this hotel is about. the pool is pretty small but its more for a refreshing dip than a workout. its a nice space to lounge about in high above the hustle and bustle of the city.drawback include getting twin beds rather than a double, and the noise of vacuum cleaners banging off the door in the morning. the continental breakfast was poor and rather overpriced.on a side issue, be very vigalent at all times in the city. friends got attacked when travelling by taxi from the airport. the taxi doors were unlocked and opened when stopped at traffic lights. thieves snatched a handbag from the back seat. when reporting the crime, the police station was full of tourists reporting similar incidences.  
+<Date>Jun 7, 2008
+<Rating>4	3	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	5(time):1	41(city):1	265(issue):1	504(seat):1	4512(thief):1	6233(snatch):1	6590(handbag):1	
+4	6(breakfast):1	331(poor):1	372(continental):1	727(overprice):1	
+25	4(nice):1	11(bed):1	24(floor):1	25(comfortable):1	35(street):1	41(city):1	54(door):1	56(morning):1	71(include):1	94(noise):1	148(request):1	179(double):1	191(balcony):1	210(space):1	237(lounge):1	260(overlook):1	516(design):1	591(lift):1	690(twin):1	1107(bustle):1	1344(drawback):1	1401(bang):1	1503(hustle):1	2487(cleaner):1	2680(vacuum):1	
+31	22(pool):1	41(city):2	54(door):1	68(travel):1	82(station):1	84(locate):1	95(airport):1	109(pretty):1	114(hot):1	122(stop):1	146(friend):1	157(light):1	185(taxi):2	209(tourist):1	257(decent):1	278(cool):1	317(spot):1	486(traffic):1	838(report):2	874(similar):1	879(centrally):1	1030(rend):1	1271(refresh):1	1409(police):1	1586(stretch):1	1801(workout):1	2272(dip):1	3087(joint):1	3599(unlock):1	3661(attack):1	3804(crime):1	
+0	
+6	25(comfortable):1	32(check):1	379(public):1	961(stylish):1	1745(fashion):1	1778(shoot):1	
+8	22(pool):1	27(bar):1	516(design):1	1037(minibar):1	1063(rooftop):1	1195(hide):1	1349(assure):1	2039(exist):1	
+0	
+
+<Author>shinds
+<Content>Indifferent service Booked a suite, which turned out to have hardly any natural light, and the room lighting was minimal, except for the bedside light that never switched off. Ordered tea to the room on arrival, after 45 mins wait, phoned thru to be told curtly we have to still wait..! Arrived with no milk, and the hot water in a thermos marked coffee, therefore hot water was somewhat contaminated. The spa and gym closed 4 hrs early with no explanation when we went to reception to enquire why. Disgrace of a gym, should not be allowed to call it that (friend I was with is on a training program and needed facilities). So we checked out after one night, and an argument over ability to check out as they said we had used an agent to book thru so therefore commission was payable, when we had used their website on advise from their own booking staff. Definitely not 5 *. Go to Majestic, or as we did Hotel Arts. Now they are 5*  
+<Date>May 29, 2008
+<Rating>1	1	1	2	3	3	1	1	
+<Aspects>
+3	59(definitely):1	789(art):1	1284(majestic):1	
+0	
+19	9(service):1	18(book):1	69(tell):1	85(wait):2	108(suite):1	157(light):3	224(arrival):1	247(min):1	296(phone):1	301(tea):1	337(except):1	888(switch):1	985(hardly):1	1231(thru):1	1543(natural):1	1615(minimal):1	2298(bedside):1	2481(indifferent):1	10663(curtly):1	
+14	28(close):1	67(call):1	129(reception):1	146(friend):1	182(train):1	211(facility):1	314(spa):1	359(allow):1	523(gym):2	1464(hr):1	1531(program):1	1704(inquire):1	2693(explanation):1	4524(disgrace):1	
+0	
+13	0(staff):1	2(night):1	18(book):2	32(check):2	166(own):1	262(website):1	663(advise):1	766(agent):1	1231(thru):1	2753(ability):1	3815(argument):1	4516(commission):1	11509(payable):1	
+9	53(arrive):1	57(water):2	90(coffee):1	114(hot):2	651(somewhat):1	882(mark):1	1116(milk):1	8254(thermos):1	12514(contaminate):1	
+0	
+
+<Author>cheba
+<Content>Great location, average hotel Great location, close to the metro and shops, and walking distance to downtown Barcelona (if you don't mind a good 10-15 minute walk). If you're looking for a modern hotel then this is defnitely one you should look at. The rooms were smaller than we expected although the size is probably standard for European hotels. Staff was friendly (and English speaking which is definitely a plus) but their knowledge of the area wasn't what we expected. We asked for the nearest Catholic Church and the staff seemed confused and pointed us toward the Cathedral downtown (there was a Church down the block). The restaurant downstairs was interesting... can't really say good or bad, but can definitely say interesting...All in all, a little expensive for what we got, but because the location was so great, we couldn't complain too much.  
+<Date>May 28, 2008
+<Rating>3	3	3	5	5	5	3	5	
+<Aspects>
+3	20(look):2	151(modern):1	11803(defnitely):1	
+8	1(location):1	10(restaurant):1	23(little):1	50(bad):1	59(definitely):1	124(expensive):1	241(complain):1	691(downstairs):1	
+5	62(expect):1	83(size):1	130(standard):1	178(probably):1	582(european):1	
+11	1(location):2	7(walk):2	28(close):1	29(minute):1	49(shop):1	115(distance):1	227(average):1	235(metro):1	294(mind):1	309(barcelona):1	334(downtown):1	
+0	
+15	0(staff):2	12(friendly):1	59(definitely):1	62(expect):1	100(bloc):1	102(near):1	127(speak):1	152(english):1	203(plus):1	334(downtown):1	1419(confuse):1	1552(cathedral):1	1731(church):2	2148(knowledge):1	8980(catholic):1	
+0	
+0	
+
+<Author>yuringa
+<Content>Classy Joint The Hotel Omm is one of several design hotels in Barcelona, located not far from the Gaudi buildings on Passeig de Gracia and the high end fashion shops. It is a bit of a walk (30 mins) to the Ramblas.The open plan rooms were very sleek and the bathroom fantastic and that was just in a basic room.The restaurant is supposed to be one of the best in Barcelona but it is not easy to get a table on the weekends. On top of that the bar and nightclub are apparently in fashion although my friend went and found the music old fashioned and the crowd dominated by males.The rooftop plunge pool offered a nice spot for some respite from the hustle of Barcelona.  
+<Date>May 14, 2008
+<Rating>4	3	5	4	3	5	4	4	
+<Aspects>
+0	
+0	
+5	13(bathroom):1	86(fantastic):1	221(plan):1	352(basic):1	2616(sleek):1	
+16	7(walk):1	49(shop):1	52(bit):1	84(locate):1	247(min):1	309(barcelona):1	516(design):1	634(ramblas):1	745(building):1	1488(classy):1	1745(fashion):1	2525(gracia):1	2803(gaudi):1	3087(joint):1	3583(passeig):1	12436(omm):1	
+0	
+0	
+24	4(nice):1	10(restaurant):1	22(pool):1	27(bar):1	89(offer):1	93(easy):1	118(top):1	146(friend):1	172(weekend):1	229(table):1	309(barcelona):2	313(crowd):1	317(spot):1	398(music):1	620(suppose):1	863(apparently):1	1063(rooftop):1	1503(hustle):1	1745(fashion):2	2295(male):1	2378(nightclub):1	3144(plunge):1	3947(respite):1	5964(dominate):1	
+0	
+
+<Author>marr
+<Content>Possibly the worst five star service ever       Room view  
+<Date>Mar 15, 2008
+<Rating>2	2	3	4	3	2	1	-1	
+<Aspects>
+0	
+5	9(service):1	17(view):1	50(bad):1	103(star):1	1233(possibly):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>tc_soho
+<Content>Wonderful Hotel       bathtub/shower  
+<Date>Jan 24, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+2	48(wonderful):1	1023(bathtub):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Ladymann
+<Content>Poor quality materials and tiredness in general. New Year in Barcelona! Great idea. Omm spa is excellent and reasonable. Staff are brilliant if a little 'stiff' at first. We joined in for the 鈧?50 x 2 dinner on New Year's eve and it simply wasn't up to either the hype or price. The food was just not any more than average. The waiters forgot one wine accompaniment. The breakfast was nice indeed and very low key but one of the best. Lots of fresh fruit, and tapa style elements. Now the bad stuff and where this place fails...The rooms are nice in concept but cheap materials are now starting to let the place down and badly. The walls were marked and the tables chipped. Also, the shower and toilet are on one side of a large partition and the bathroom and washbasins were on the other side . Go to the loo and you either use the bidet to ablute or schlep around to the bathroom. The interior designers need to be dragged back in to see how their concept is working (or not).Thus, the room was very disappointing indeed and minimal is confused with 'cheap'. The water in the shower was constantly warmish (but never enough) at a push and the shower attachment on the bath-side leaked water onto a wooden floor.Additionally, we went for a walk after dinner and the goons on the hotel door were exceptionally rude ( a la guest list manner one finds on LA) when we returned and said we were staying there...We stay in Barcelona many times a year and there are better options of higher standard and quality available.  
+<Date>Jan 5, 2008
+<Rating>2	-1	2	5	3	3	3	-1	
+<Aspects>
+15	21(excellent):1	38(lot):1	197(fresh):1	215(fruit):1	273(reasonable):1	314(spa):1	326(style):1	639(idea):1	1026(interior):1	1455(tapa):1	1699(drag):1	2131(designer):1	2354(concept):1	3232(element):1	12436(omm):1	
+21	4(nice):1	19(price):1	50(bad):1	117(dinner):1	143(cheap):2	154(disappoint):1	165(start):1	187(quality):1	331(poor):1	480(stuff):1	488(simply):1	990(indeed):1	1290(join):1	1419(confuse):1	1576(fail):1	1615(minimal):1	1663(badly):1	1787(eve):1	2354(concept):1	2681(material):2	3214(hype):1	
+15	13(bathroom):2	24(floor):1	57(water):2	61(shower):3	330(toilet):1	995(constantly):1	1041(push):1	1287(leak):1	1756(wooden):1	2778(bidet):1	3927(loo):1	5264(partition):1	7551(washbasin):1	7599(schlep):1	8267(attachment):1	
+4	183(wall):1	229(table):1	882(mark):1	1302(chip):1	
+0	
+4	0(staff):1	23(little):1	793(brilliant):1	3587(stiff):1	
+27	4(nice):1	5(time):1	6(breakfast):1	7(walk):1	16(food):1	39(return):1	54(door):1	91(guest):1	117(dinner):1	130(standard):1	134(available):1	187(quality):1	225(la):2	227(average):1	251(wine):1	309(barcelona):2	336(option):1	339(key):1	392(rude):1	397(forget):1	513(low):1	650(list):1	735(waiter):1	990(indeed):1	1242(exceptionally):1	1721(manner):1	2649(additionally):1	
+0	
+
+<Author>Globaladventure
+<Content>The hip side of Barcelona Certainly if you want to be at the cutting edge of Barcelona - this is the place to be. A very stylish building and in a good location - close to major shops and attractions. My room was simple and elegant - the bathroom was amazing - oversized and Kiehls products. The hotel has a great Lounge/Bar (which is buzzing and definately the place to be after 11pm) and although I did not manage to enjoy the restaurant - with Michelin awards, the reputation is very high. The breakfast is simple and very self service - enjoyable in a low key way. This is also reflected in the room service menu - which could be a little more extensive. I just had a simple soup and sandwich - which was fresh and well presented. The same applies for the gym - there is a lovely spa, haridresser and they have definately got the 'cool' element right - but little equipment for a work out. The roof top pool is the same - great for a dip, or somewhere to 'look the part', but no good if you want to do laps. There is complimentary WiFi in the rooms and a couple of boutique shops. The service was efficient and very friendly. The staff are a real plus.I would recommend the Hotel Omm for anyone who enjoys style and design and is in Barecelona to enjoy themselves - definately the hip side of the city.  
+<Date>Oct 2, 2007
+<Rating>4	4	4	5	5	5	5	4	
+<Aspects>
+10	20(look):1	22(pool):1	118(top):1	197(fresh):1	613(simple):1	636(roof):1	1071(sandwich):1	1772(soup):1	2272(dip):1	2432(lap):1	
+0	
+11	9(service):1	13(bathroom):1	23(little):1	145(amaze):1	423(menu):1	613(simple):1	986(elegant):1	1081(product):1	1703(extensive):1	2250(reflect):1	3426(oversized):1	
+11	1(location):1	28(close):1	49(shop):2	99(couple):1	135(build):1	315(major):1	345(complimentary):1	350(attraction):1	623(boutique):1	961(stylish):1	1268(wifi):1	
+0	
+3	0(staff):1	203(plus):1	240(real):1	
+37	6(breakfast):1	9(service):2	10(restaurant):1	12(friendly):1	15(recommend):1	23(little):1	41(city):1	51(enjoy):3	87(lovely):1	237(lounge):1	278(cool):1	309(barcelona):2	314(spa):1	326(style):1	339(key):1	401(efficient):1	410(definately):3	513(low):1	516(design):1	523(gym):1	567(enjoyable):1	613(simple):1	645(manage):1	873(cut):1	1059(themselves):1	1190(edge):1	1211(equipment):1	1314(self):1	1491(hip):2	2000(buzz):1	2195(reputation):1	2945(award):1	2954(apply):1	3232(element):1	5530(michelin):1	6840(11pm):1	12436(omm):1	
+0	
+
+<Author>ChevyChaseMom
+<Content>Great hotel, great location, very comfortable We just spent a week at the Hotel Omm and it was a very comfortable home away from home for us. Close to great shopping and an easy walk to everything. Our room included a king-sized bed -- a rarity in European hotels, and was a high-tech wonder. The staff was helpful -- gave us some great restaurant tips including Cal Pep in Placa de Olles and Santa Maria on Comerc. Great food -- but you have to be bold! Also strongly recommend the Fat Tires bicycle tour -- a fun and unique way to see the city.  
+<Date>Jul 22, 2007
+<Rating>5	5	5	5	5	4	4	5	
+<Aspects>
+9	15(recommend):1	41(city):1	176(fun):1	181(tour):1	454(tire):1	1027(unique):1	1386(strongly):1	3581(fat):1	3766(bicycle):1	
+0	
+7	11(bed):1	71(include):1	582(european):1	946(wonder):1	2417(king-size):1	4973(rarity):1	8253(high-tech):1	
+10	1(location):1	7(walk):1	25(comfortable):2	28(close):1	49(shop):1	64(spend):1	75(week):1	93(easy):1	141(home):2	12436(omm):1	
+0	
+9	0(staff):1	10(restaurant):1	14(helpful):1	71(include):1	194(tip):1	1510(santa):1	1740(placa):1	1833(mare):1	8556(cal):1	
+2	16(food):1	7229(bold):1	
+0	
+
+<Author>Lurkeyme
+<Content>Hotel Omm - 5 Stars! My husband and I stayed in this hotel for four nights during our honeymoon to four Spanish cities and this was by far our favorite hotel. Nicely appointed and located, trendy but comfortable and not pretentious at all; spacious, well-decorated and very relaxing room (we got the standard room) with lots of natural light, roomy bathroom and all of the amenities; good spa; nice rooftop bar; divine restaurant. The best part of our stay was the service. Upon our arrival, the door men and bellhop took care of our bags and explained all of the amenities and operational controls of the room in great detail. The concierges booked everything for us at check in, including spa service and restaurant reservations at Moo for the following night. Later days they made reservations at good restaurants they recommended that were unaffiliated with the hotel/restaurant group, gave us train instructions on how to reach Figueres to see the Dali museum, and offered to mail a package back to the states for us.The few cons: hallway noise filtered into room; the fitness room was very small - only consisted of a pilates reformer  cadillac and one treadmill and bike; the pool was a freezing wading pool.Overall a great 5-star hotel. Extremely pleased and would stay here again.  
+<Date>Jul 17, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+2	110(extremely):1	173(please):1	
+10	2(night):1	41(city):1	70(overall):1	103(star):1	105(husband):1	369(spanish):1	376(favourite):1	502(honeymoon):1	1831(5-star):1	12436(omm):1	
+43	4(nice):1	10(restaurant):1	13(bathroom):1	22(pool):2	25(comfortable):1	27(bar):1	38(lot):1	54(door):1	84(locate):1	94(noise):1	111(spacious):1	130(standard):1	157(light):1	160(relax):1	224(arrival):1	242(care):1	290(bag):1	291(amenity):2	314(spa):1	404(nicely):1	579(appoint):1	580(hallway):1	592(detail):1	768(explain):1	840(Con):1	865(control):1	983(fitness):1	1063(rooftop):1	1185(consist):1	1321(freeze):1	1353(roomy):1	1413(trendy):1	1479(bike):1	1543(natural):1	2212(treadmill):1	2909(bellhop):1	2975(filter):1	3435(pretentious):1	3481(divine):1	4632(wade):1	5893(operational):1	6482(well-decorate):1	11315(pilate):1	
+13	8(day):1	10(restaurant):1	15(recommend):1	79(late):1	89(offer):1	156(reservation):1	182(train):1	507(museum):1	527(package):1	851(reach):1	2386(instruction):1	2446(mail):1	7608(dali):1	
+0	
+10	2(night):1	9(service):1	10(restaurant):1	18(book):1	32(check):1	71(include):1	156(reservation):1	204(concierge):1	314(spa):1	482(follow):1	
+1	9(service):1	
+0	
+
+<Author>KRJ
+<Content>Very Cool Hotel, Great location This is a very cool hotel located in one of the best areas of Barcelona. We stayed in a suite overlooking Paseig de Gracia and loved it.This is not a place for older couples or kids. The bar, restaurants and club are among the hippest in Barcelona.We arrived on a thursday night and were greeted by a line of Ferraris, SLR's, Bentleys,etc. at the valet. It turns out that this is THE PLACE to go for drinks in Barcelona on Thursdays. All the NICE people seemed to be there, from soccer stars to famous matadores.We had a great dinner in the hotels restaurant but I highly recomend going to Cal Pep for lunch and Comerce 24 for dinner (book well in advance).We found the staff to be very friendly and helpfull, I can't beleive the bad reviews I have read about this.All in all if you are young, fun and can afford it stay here for a great time.Warning: Barcelona and all of Spain practically close down on Sundays !  
+<Date>Jun 28, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+5	5(time):1	99(couple):1	176(fun):1	201(kid):1	1452(afford):1	
+5	4(nice):1	26(people):1	103(star):1	1296(famous):1	3510(soccer):1	
+4	40(love):1	108(suite):1	260(overlook):1	2525(gracia):1	
+9	1(location):1	28(close):1	84(locate):1	278(cool):2	309(barcelona):2	679(warn):1	1636(spain):1	1850(practically):1	4018(sundays):1	
+7	2(night):1	53(arrive):1	73(etc):1	188(line):1	415(greet):1	457(valet):1	1823(thursday):1	
+7	0(staff):1	12(friendly):1	37(review):1	50(bad):1	88(read):1	1478(helpfull):1	5212(beleive):1	
+14	10(restaurant):2	18(book):1	27(bar):1	63(drink):1	117(dinner):2	138(highly):1	212(club):1	252(lunch):1	309(barcelona):2	685(advance):1	1420(recomend):1	8168(thursdays):1	8556(cal):1	12684(hippest):1	
+0	
+
+<Author>Rinollt
+<Content>Hotel Omm : great experience ! We booked at the Hotel Omm (Barcelona) through Splendia (a website which proposes many great luxury and design hotels).We decided to book the Omm Hotel because of the location and the design which looked nice.When we arrived to the hotel, we were not disappointed at all... but just the contrary. We were surprised by this excellent hotel. As we鈥檝e seen on the website, the location was perfect: if you want to go to Barcelona to do some shopping, you have to be on 芦 Paseo de Gracia 禄 avenue. The design was excellent. Our room offered a good view on the city. High quality service, the staff were great with us鈥?very helpful. We recommend this hotel and hope to go back soon !  
+<Date>Jun 18, 2007
+<Rating>5	5	5	5	5	4	5	3	
+<Aspects>
+9	15(recommend):1	21(excellent):2	53(arrive):1	154(disappoint):1	199(surprise):1	328(hope):1	418(soon):1	516(design):1	2419(contrary):1	
+6	0(staff):1	9(service):1	14(helpful):1	44(experience):1	187(quality):1	12436(omm):1	
+3	17(view):1	41(city):1	89(offer):1	
+14	1(location):2	4(nice):1	18(book):1	20(look):1	49(shop):1	74(perfect):1	219(decide):1	262(website):1	309(barcelona):1	516(design):1	1090(avenue):1	2525(gracia):1	5450(paseo):1	12436(omm):1	
+0	
+0	
+7	18(book):1	262(website):1	309(barcelona):1	437(luxury):1	516(design):1	4738(propose):1	12436(omm):1	
+0	
+
+<Author>Asia2005
+<Content>Better hotels to go We just came back from Omm hotel in Barcelona and we are quite disappointed. The only good thing is design. The staff don麓t look at your eyes at all!!I work also in hospitality and please, where is the smile?? They called us at 12.10 with the following question: Hi, we would like to know what time are you leaving the hotel??? with an almost offensive tone. I thing there are better ways to ask something to a guest. The only good thing is the spa.Really really proffesional and very polite and attentive.For more than 300鈧? definetely, better hotels to go.  
+<Date>Jun 4, 2007
+<Rating>2	2	4	5	4	2	1	-1	
+<Aspects>
+18	5(time):1	43(leave):1	67(call):1	91(guest):1	173(please):1	314(spa):1	387(smile):1	394(question):1	422(polite):1	482(follow):1	516(design):1	537(attentive):1	1115(hospitality):1	1863(hi):1	2596(tone):1	2820(definetely):1	4350(offensive):1	9887(proffesional):1	
+0	
+0	
+0	
+0	
+4	0(staff):1	20(look):1	908(don):1	977(eye):1	
+3	154(disappoint):1	309(barcelona):1	12436(omm):1	
+0	
+
+<Author>kbs96trip
+<Content>Incredibly rude! The people working at the Hotel Oom are unbelievably obnoxious! We stayed there for five nights the first week in May, 2007 for 375 Euros a night. They were so rude, that it was almost funny. For what we paid, we were extremely disappointed and would definitely not recommend this hotel. No doubt the location is excellent and the place itself looks hip. It is, however, painfully self-conscious and trying too hard to be cool. The hallways to the rooms are so dark, it's almost physically dangerous. The rooms are minimalist, sleek and airy. There is no storage space for your clothes, which makes it impossible to unpack. The only two drawers are in the bathroom counter! The room lighting design is poor to say the least. The dimmers that are trying to be hip are difficult to use and annoying.The people at the front desk are the most rude. We went to check in and there was only one person working (and a few other unhelpful people doing who knows what). Even though we were next on line, and even though we were told that our room was ready, we were asked to wait on the couches until everyone else was helped with their check-out. It took about 15 minutes and it was extremely annoying and unnecessary.Walking in and out of the hotel, no one greets you or even makes eye contact. They go out of their way to ignore you and seem to enjoy being rude when possible. There are people stationed at the front doors, but no one opens up a taxi door or bothers to help you with bags or anything. It's incredible!There is no concierge and when we called the front desk to ask about reservations at restaurants around town, they either hung up or connected us to their restaurant (after we made it clear that we were interested in places outside of the hotel). When we asked about the spa, we were rudely brushed off and connected to some recording. We were there over May 1 (national holiday) and they couldn't even tell us what in town was open or closed (turns out all Gaudi sites were indeed open). We were given complementary water and little chocolates only three of our five nights (they must have forgotten our first two nights). We were given a card for complementary newspaper delivery which they either didn't bring (until we called and complained) and even then they didn't bring the NY Times as promised, but the Washington Times. How odd.The pool deck was closed and under construction! It's tiny, but through the construction barricade, it was a great view of the roof of Gaudi's Casa Mila/La Pedrera which would have been stunning.Apparently this is run by a company that does restaurants. We had the tasting menu at the hotel restaurant (called Moo) and it was great- both food and service. We also had lunch at their restaurant in Santa Catarina market and that was great, too. I guess the owners have the restaurant thing down but are certainly lacking in their hotel management skills.As I said to my boyfriend, I would have complianed to someone in person, but the service is so lacking that there isn't even anyone around to complian to!Barcelona is so wonderful that the hotel didn't ruin the stay- and it became a source of jokes. But I hope to either get the message across to the owners and/or discourage anyone else from giving these people their money, because they don't deserve it.  
+<Date>May 6, 2007
+<Rating>2	1	4	5	2	1	1	1	
+<Aspects>
+34	2(night):4	23(little):1	26(people):1	29(minute):1	51(enjoy):1	57(water):1	75(week):1	76(try):2	110(extremely):1	162(hard):1	256(euro):1	278(cool):1	314(spa):1	392(rude):3	397(forget):1	572(difficult):1	632(chocolate):1	695(annoy):2	718(incredible):1	807(incredibly):1	841(connect):1	1088(odd):1	1156(funny):1	1215(ignore):1	1491(hip):1	1564(brush):1	1978(complementary):1	2251(record):1	2590(unbelievably):1	3226(obnoxious):1	3254(rudely):1	4132(unnecessary):1	5520(painfully):1	11805(oom):1	
+5	15(recommend):1	42(pay):1	59(definitely):1	110(extremely):1	154(disappoint):1	
+18	13(bathroom):1	157(light):1	210(space):1	331(poor):1	459(dark):1	516(design):1	580(hallway):1	709(clothe):1	1001(counter):1	1169(impossible):1	1311(storage):1	1426(drawer):1	1947(airy):1	1971(dangerous):1	2179(unpack):1	2609(minimalist):1	2616(sleek):1	4181(physically):1	
+32	1(location):1	7(walk):1	10(restaurant):1	20(look):1	21(excellent):1	22(pool):1	26(people):1	28(close):2	31(front):1	54(door):2	69(tell):1	82(station):1	92(help):1	185(taxi):1	192(site):1	223(holiday):1	239(town):1	252(lunch):1	264(market):1	290(bag):1	307(bother):1	415(greet):1	583(construction):1	713(contact):1	952(doubt):1	977(eye):1	990(indeed):1	1406(deck):1	1491(hip):1	1510(santa):1	2340(national):1	2803(gaudi):1	
+0	
+33	10(restaurant):3	26(people):3	31(front):2	32(check):1	36(desk):2	67(call):1	69(tell):1	80(money):1	85(wait):1	92(help):1	98(outside):1	156(reservation):1	170(else):2	188(line):1	193(person):1	204(concierge):1	239(town):1	274(ready):1	328(hope):1	349(lack):1	392(rude):1	469(guess):1	478(hang):1	525(management):1	658(checkout):1	672(owner):2	841(connect):1	1072(deserve):1	1192(couch):1	1618(unhelpful):1	1809(message):1	2611(skill):1	3816(discourage):1	
+36	5(time):2	9(service):2	10(restaurant):2	16(food):1	17(view):1	48(wonderful):1	67(call):2	142(bring):2	149(run):1	193(person):1	241(complain):1	292(card):1	309(barcelona):1	338(tiny):1	349(lack):1	423(menu):1	439(taste):1	583(construction):1	636(roof):1	760(company):1	763(boyfriend):1	863(apparently):1	933(ny):1	975(promise):1	988(stun):1	1175(joke):1	1243(ruin):1	1372(newspaper):1	1978(complementary):1	2090(casa):1	2152(delivery):1	2721(washington):1	2803(gaudi):1	3197(source):1	6618(pedrera):1	8912(mila):1	
+0	
+
+<Author>SallyG_7
+<Content>Very disappointing We have just returned from 2 nights at the Hotel Omm (we had booked in for 3) and with such a great choice in Barcelona, we really feel that it is a hotel to be avoided at all costs. It is very pretentious - and possibly could be considered 'cool' by some - but it cannot deliver on the basics that you expect from a hotel (like a window in your bedroom!). We had interconnecting rooms - interconnecting though the bathroom? - one a junior suite (hardly room to swing a cat and with one tiny window overlooking the courtyard and another tiny room with what looked like two small windows. When you opened the blinds however, all you saw was a brickwall. I'm certain you should be told that one room has no windows when you make your booking. No hot water in one room and lighting that required disconnecting by the hotel electrician because it had been wired incorrectly and so could not be switched off independently. And all this for the tidy sum of 670 euros a night (excluding breakfast - which is another 20 euros pp - 6 euro extra for an egg! - we obviously found a cafe round the corner instead). The bar and restaurant area are kitted out with 'designer' furniture but in reality you are just in the lobby of the hotel (which reminded me a bit of an airport) and if you do choose to have breakfast, it would be served on the same bar you had you had rested your drinks on the night before. It claims to have a nightclub (one of our reasons for going) - again, something of an overstatement - a bloke set up some decks in the lobby bar area at about 11.30 on Saturday night - hardly atmospheric. The staff are rude and disinterested and to be honest, I didn't see many of the guests smiling either!I think the hotel can be perfectly summed up by this; when we were initially shown into our junior suite we thought it was quite spacious and light - it was only on further investigation, that we discovered that this was an illusiuon created by a very clever mirror and infact the room was half the size it appeared and was actually very dark. Much like the hotel Omm itself ....  
+<Date>Apr 10, 2007
+<Rating>1	1	1	3	3	2	1	1	
+<Aspects>
+1	12436(omm):1	
+10	2(night):1	18(book):1	34(feel):1	39(return):1	107(choice):1	154(disappoint):1	175(cost):1	309(barcelona):1	436(avoid):1	12436(omm):1	
+47	13(bathroom):1	18(book):1	20(look):1	57(water):1	62(expect):1	69(tell):1	83(size):1	108(suite):2	111(spacious):1	114(hot):1	119(window):4	157(light):2	180(actually):1	248(consider):1	260(overlook):1	268(bedroom):1	278(cool):1	283(half):1	338(tiny):2	435(courtyard):1	459(dark):1	541(appear):1	595(perfectly):1	631(deliver):1	722(require):1	869(discover):1	888(switch):1	964(junior):2	985(hardly):1	1129(mirror):1	1233(possibly):1	1439(initially):1	1651(sum):1	1696(create):1	1904(wire):1	2177(cat):1	2469(basics):1	2696(swing):1	3435(pretentious):1	4096(infact):1	4554(clever):1	4949(interconnect):2	5595(disconnect):1	6203(investigation):1	6605(incorrectly):1	6607(independently):1	11101(electrician):1	
+1	1839(blind):1	
+0	
+6	0(staff):1	91(guest):1	387(smile):1	392(rude):1	1108(honest):1	4625(disinterested):1	
+36	2(night):3	6(breakfast):2	10(restaurant):1	27(bar):3	52(bit):1	55(lobby):2	63(drink):1	95(airport):1	128(extra):1	167(choose):1	174(serve):1	200(corner):1	234(set):1	256(euro):3	275(cafe):1	288(rest):1	353(instead):1	374(reason):1	412(egg):1	440(furniture):1	781(obviously):1	818(saturday):1	985(hardly):1	1077(claim):1	1100(tidy):1	1285(remind):1	1406(deck):1	1651(sum):1	2131(designer):1	2260(reality):1	2378(nightclub):1	3156(pp):1	4614(exclude):1	5215(atmospheric):1	7205(bloke):1	8643(kitt):1	
+0	
+
+<Author>Lafite
+<Content>So cooool, they do not bother to provide any good service The hotel is a hang out for cool young people. The staff is rude and unhelpful. The breakfast is aself service buffet and you have to use dirty tables theat the staff does not bother to clean between one customer and the other.Our window handle was faulty and we were not able to close it.I took a bath but the bath tub was not cleaned the day after.Overall dirty and unpleasant, though very expensive.  
+<Date>Apr 2, 2007
+<Rating>2	2	2	4	1	1	1	-1	
+<Aspects>
+0	
+0	
+5	28(close):1	119(window):1	171(able):1	966(handle):1	4333(faulty):1	
+0	
+8	3(clean):1	8(day):1	70(overall):1	124(expensive):1	226(bath):2	311(tub):1	323(dirty):1	1747(unpleasant):1	
+3	0(staff):1	392(rude):1	1618(unhelpful):1	
+13	0(staff):1	3(clean):1	6(breakfast):1	9(service):2	26(people):1	77(buffet):1	153(provide):1	229(table):1	278(cool):1	307(bother):2	323(dirty):1	428(customer):1	478(hang):1	
+0	
+
+<Author>dickygee
+<Content>Yum Delicious.Right through from the super helpful front desk , the spa ,to my designer bedroom with projector t.v. the Omm has it going on.My wife and i went with friends for my 40th and could not have picked a finer base from which to explore the city.Our day began with a very trendy ,yet delicious,breakfast buffet and our afternoons ended with champagne ,canapes and a dip into the plunge pool on the roof deck.The fun here continues into the evening.All of our spa treatments were first rate ,along with everything else.I would not recommend tis hotel to my parents or come with my children,however,as a self-indulgent adult experience,it is faultless.  
+<Date>Dec 21, 2006
+<Rating>5	5	5	5	5	5	5	3	
+<Aspects>
+16	41(city):1	78(rate):1	113(fine):1	146(friend):1	170(else):1	176(fun):1	184(wife):1	266(pick):1	284(base):1	314(spa):1	485(delicious):1	594(explore):1	1096(continue):1	1147(treatment):1	2554(40th):1	3593(yum):1	
+6	15(recommend):1	44(experience):1	277(child):1	556(adult):1	1197(parent):1	3303(faultless):1	
+9	14(helpful):1	31(front):1	36(desk):1	268(bedroom):1	314(spa):1	464(super):1	2131(designer):1	2366(t.v):1	12436(omm):1	
+0	
+0	
+0	
+14	6(breakfast):1	8(day):1	22(pool):1	77(buffet):1	364(afternoon):1	485(delicious):1	551(begin):1	636(roof):1	770(champagne):1	1406(deck):1	1413(trendy):1	2272(dip):1	3144(plunge):1	4388(canape):1	
+0	
+
+<Author>Littlemissblondie
+<Content>Bit of a disappointment.... We booked the Omm for the first three nights of our honeymoon having seen the review for it in the European Mr  Mrs Smith guide. We're big fans of Mr  Mrs Smith and have stayed at a number of their recommended hotels.This was one fine - big, fairly anonymous, sleek scandinavian type design - but there was nothing about it that made it stand out. The lobby, bar  restaurant are great and definitely worth a visit. The rooms however are fairly average. There are some nice touches (compliation CDs in the room, mood lighting) but the whole place feels a bit clinical and unwelcoming.The staff were fine but largely uninterested and after we complained about a couple of things on the night we arrived (we had a balcony room overlooking some wasteland and apartments with underwear hanging outside), we felt there was a bit of a atmosphere....not what you expect or want when you're paying over 拢200 per night!!We had the same issue as someone else with the iron! The hotel said they weren't able to provide an iron but could iron clothes for us and then presented us with a bill for this!The hotel is situated in one of the more upmarket areas of Barcelona amidst a lot of designer shops. It depends what you're looking for but with hindsight, we prefer the Gothic Quarter where there are more trendy bars and places to eat.In summary....the OMM is OK but there are better places in gorgeous Barcelona.  
+<Date>Nov 29, 2006
+<Rating>3	3	3	3	4	2	2	-1	
+<Aspects>
+11	15(recommend):1	153(provide):1	170(else):1	171(able):1	265(issue):1	335(numb):1	495(bill):1	661(fan):1	709(clothe):1	868(iron):3	5629(smith):1	
+10	2(night):1	18(book):1	37(review):1	52(bit):1	502(honeymoon):1	582(european):1	829(guide):1	866(disappointment):1	5629(smith):1	12436(omm):1	
+33	0(staff):1	2(night):2	4(nice):1	34(feel):2	42(pay):1	52(bit):2	53(arrive):1	62(expect):1	98(outside):1	99(couple):1	113(fine):2	157(light):1	191(balcony):1	227(average):1	241(complain):1	260(overlook):1	279(touch):1	389(type):1	414(atmosphere):1	444(stand):1	462(fairly):2	478(hang):1	516(design):1	751(apartment):1	2132(mood):1	2616(sleek):1	3795(unwelcome):1	4817(uninterest):1	5230(cds):1	6346(anonymous):1	6725(underwear):1	7319(clinical):1	12109(scandinavian):1	
+7	38(lot):1	49(shop):1	309(barcelona):1	574(situate):1	2131(designer):1	3373(upmarket):1	5140(amidst):1	
+0	
+0	
+19	10(restaurant):1	20(look):1	27(bar):2	47(eat):1	55(lobby):1	59(definitely):1	65(visit):1	96(worth):1	123(ok):1	309(barcelona):1	446(gorgeous):1	463(quarter):1	536(prefer):1	969(depend):1	1413(trendy):1	1716(summary):1	2410(gothic):1	4609(hindsight):1	12436(omm):1	
+0	
+
+<Author>ackophile
+<Content>Omm - Great Upscale Place to Stay My husband and I stayed at the Hotel Omm for 4 nights in early November 2006. It was our first time in Barcelona; in fact, in Spain. I had heard of the hotel from a magazine article and then checked it out on TripAdvisor, Lonely Planet and Frommer's. We were very happy with our choice. It is not cheap but we felt we got good value. The room was nice and well appointed; the bed comfortable; the shower powerful and large and there was bidet too, which I love!; and all windows had blackout blinds on them. The only downside of the room was that with the less traditional layout (many American hotels have the bathroom and closets at the front of the room so that they act as a bit of a buffer for any noise in the public hallway), we were disturbed one early evening when kids were running up and down the hall as we were trying to take a siesta. The public spaces were attractive and spacious, the bar happening and the restaurant was excellent - quite a nice focus on unusual tastes and combinations. The front desk helped us with all sorts of questions - great meal recommendations (we would particularly recommend a sister restaurant - Tragaluz, about a block away), directions, maps, etc. The location was great too - we are big walkers, and we found it perfectly situated for walking one day over to the Sagrada Familia, another along La Rambla, and a third to the Barri Gotic and further east. Also very close to the main high-end shopping drag, and just a block away from La Pedrera, a famous Gaudi building. We would definitely stay there again!  
+<Date>Nov 13, 2006
+<Rating>5	5	4	5	5	5	4	-1	
+<Aspects>
+6	2(night):1	59(definitely):1	105(husband):1	999(november):1	1237(upscale):1	12436(omm):2	
+5	34(feel):1	81(value):1	107(choice):1	143(cheap):1	155(happy):1	
+29	4(nice):1	11(bed):1	13(bathroom):1	25(comfortable):1	31(front):1	40(love):1	52(bit):1	61(shower):1	76(try):1	94(noise):1	119(window):1	149(run):1	201(kid):1	379(public):1	565(closet):1	579(appoint):1	580(hallway):1	616(hall):1	782(downside):1	1067(disturb):1	1241(traditional):1	1453(layout):1	1839(blind):1	1920(Act):1	2026(powerful):1	2778(bidet):1	3943(blackout):1	5154(siesta):1	8480(buffer):1	
+24	1(location):1	7(walk):1	8(day):1	28(close):1	49(shop):1	100(bloc):1	112(main):1	135(build):1	225(la):2	532(third):1	574(situate):1	595(perfectly):1	948(east):1	1296(famous):1	1377(rambla):1	1699(drag):1	2562(familia):1	2618(sagrada):1	2803(gaudi):1	3092(high-end):1	3309(walker):1	3775(barri):1	4094(gotic):1	6618(pedrera):1	
+0	
+23	10(restaurant):1	15(recommend):1	31(front):1	32(check):1	36(desk):1	73(etc):1	92(help):1	100(bloc):1	132(hear):1	213(meal):1	394(question):1	395(direction):1	553(particularly):1	557(sort):1	577(recommendation):1	597(tripadvisor):1	724(map):1	892(sister):1	2202(magazine):1	3358(planet):1	4279(lonely):1	5542(frommer):1	5553(article):1	
+16	4(nice):1	5(time):1	10(restaurant):1	21(excellent):1	27(bar):1	111(spacious):1	210(space):1	309(barcelona):1	379(public):1	382(happen):1	439(taste):1	1154(attractive):1	1610(unusual):1	1636(spain):1	1929(combination):1	2480(focus):1	
+0	
+
+<Author>paperback
+<Content>Cool hotel, good vibe, but we've stayed in better... We just returned from a week long trip to Barcelona. We stayed at the Omm for three nights over the weekend. I read about in in Travel and Leisure and thought it would be worth the try. We usually stay at Condes de Barcelona, and we like to stay in the Eixample, a clean and beautiful part of Barcelona. The Omm is a bit pretentious, is similar to a W hotel in style, but is not the most comfortable or friendly place we have stayed. The staff were nice, but do not go out of the way for you. There is no concierge. Door staff are there but sometimes do not bother to notice you. The rooms are nice, cool functional design, although small. Beds are very comfortable. The spa is average.The best thing about the hotel is the lobby. Very comfortable, always people. The restaurant Moo is fabulous, one the most impressive dinners we have ever had. Make reservations weeks ahead!!All in all, a nice comfortable stay in the best area in town. Don;t go expecting great attentive service, but do expect a great lobby and lounge, a great location, and fantastic food.  
+<Date>Oct 25, 2006
+<Rating>4	3	4	5	5	3	3	5	
+<Aspects>
+19	2(night):1	4(nice):1	12(friendly):1	25(comfortable):3	26(people):1	52(bit):1	68(travel):1	76(try):1	88(read):1	96(worth):1	172(weekend):1	227(average):1	239(town):1	314(spa):1	326(style):1	874(similar):1	2032(leisure):1	3435(pretentious):1	12436(omm):2	
+0	
+6	4(nice):1	11(bed):1	25(comfortable):1	278(cool):1	516(design):1	1348(functional):1	
+0	
+6	3(clean):1	45(beautiful):1	309(barcelona):2	399(usually):1	5645(eixample):1	7555(cond):1	
+10	0(staff):2	4(nice):1	54(door):1	75(week):1	156(reservation):1	204(concierge):1	307(bother):1	354(notice):1	560(sometimes):1	976(ahead):1	
+19	1(location):1	9(service):1	10(restaurant):1	16(food):1	33(trip):1	39(return):1	55(lobby):2	62(expect):2	75(week):1	86(fantastic):1	117(dinner):1	237(lounge):1	270(fabulous):1	278(cool):1	309(barcelona):1	537(attentive):1	908(don):1	920(impressive):1	2308(vibe):1	
+0	
+
+<Author>KLAXERN25
+<Content>Loved it! We stayed here for 2 nights in July and loved it! We had a fantastic bedroom (we stayed in a superior room). The curtains, TV, Lights etc. were all controlled by a panel in the headboard making it easier than ever to be lazy and relax. It was the most comfortable bed I've slept in for a long time! Two bathrooms, both beautifully equipped with the usual luxury toiletries and robes. Complementary CDs of chill out music and a nice balcony to sit and enjoy the evening sun. We LOVED the completely black corrider with neon floor lighting to guide you, it was like some sort of fantasy land! Also made good use of the roof terrace as it was hot. Yes, the pool is smallish and unheated but it was lovely and relaxing with great views. A respite from the city heat. We found the staff really friendly and helpful, making reservations for us and generally giving advice. The bar area was cool and quite packed at night. We didn't try the nightclub though. As my husband is a real foodie so we had a meal at Moo. All was good but I would give it a miss unless you are really into innovative food as you have to order 5 or 6 courses each and they're all quite small. I finshed off with smoke flavoured ice cream which was presented with a chocolate cigar in an ashtray. It actually tasted like a dirty ashtray and not for the faint hearted! All in all we really enjoyed our stay and I would recommend it in terms of luxury accommodation and a great location in Barcelona.  
+<Date>Oct 25, 2006
+<Rating>5	4	5	5	5	5	5	-1	
+<Aspects>
+8	2(night):1	40(love):2	41(city):1	114(hot):1	539(heat):1	636(roof):1	673(terrace):1	3947(respite):1	
+7	1(location):1	15(recommend):1	51(enjoy):1	309(barcelona):1	437(luxury):1	721(accommodation):1	1011(term):1	
+42	4(nice):1	5(time):1	11(bed):1	13(bathroom):1	24(floor):1	25(comfortable):1	40(love):1	51(enjoy):1	73(etc):1	86(fantastic):1	93(easy):1	104(sleep):1	116(tv):1	157(light):2	160(relax):1	169(sit):1	191(balcony):1	268(bedroom):1	398(music):1	420(sun):1	437(luxury):1	542(completely):1	557(sort):1	657(toiletry):1	682(usual):1	743(curtain):1	771(beautifully):1	785(superior):1	829(guide):1	865(control):1	884(equip):1	1007(black):1	1046(robe):1	1346(land):1	1397(chill):1	1786(lazy):1	1978(complementary):1	2134(panel):1	3408(headboard):1	5230(cds):1	5375(neon):1	7065(fantasy):1	
+12	16(food):1	17(view):1	22(pool):1	87(lovely):1	160(relax):1	250(yes):1	276(miss):1	293(course):1	405(unless):1	2104(smallish):1	7432(innovative):1	10858(unheated):1	
+12	180(actually):1	323(dirty):1	439(taste):1	450(heart):1	468(smoke):1	547(ice):1	632(chocolate):1	1188(cream):1	1834(cigar):1	3939(faint):1	4814(ashtray):2	6545(flavored):1	
+5	0(staff):1	12(friendly):1	14(helpful):1	156(reservation):1	575(advice):1	
+10	2(night):1	27(bar):1	76(try):1	105(husband):1	213(meal):1	240(real):1	278(cool):1	715(pack):1	2378(nightclub):1	7074(foodie):1	
+0	
+
+<Author>interpol81
+<Content>Amazing hotel in the amazing Barcelona       The dining area  
+<Date>Oct 23, 2006
+<Rating>5	4	5	4	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+3	145(amaze):2	309(barcelona):1	316(dine):1	
+0	
+
+<Author>PhilMiller28
+<Content>Don't waste your money! My advice for anyone considering staying at Hotel Omm is not to bother. We stayed at the hotel for 6 nights in September 2006 and we had a plethora of problems from start to finish. I wouldn't have minded if we'd not paid between 230-250 Eur per night but at that price you don't expect any of these sorts of problems to arise. I've listed a sample of issues we had in chronological order; a) On checking in we were given two digital key cards which the receptionist omitted to activate so had to go back to reception to have this sortedb) When we got to our room one of the lamps didn't work, the balcony door would not lock, there were rips in the blinds and the other balcony door would not open (as its handle was missing)c) I asked for an iron which I was told was impossible to provide as the hotel (and I'm quoting) 'only had very big irons' and so was subsequently told I would need to use the ironing service which was free of charge for a few items per day. On using this service to iron one pair of jeans and two t-shirts I was presented with a bill for 27 EUR! Not impressed I went to reception to complain. Eventually (after a visit to reception and two phone calls), I did manage to get an iron (standard size). So, if you do stay at this hotel my advice is take an iron! Overall, the main problem with Hotel Omm is the staff. The majority of the receptionists were ignorant and incompetent. For example, an italian lady who mistakenly was able to use her key card to open another guest's room. For our stay, the crowning example of customer service was the maid whose only task seemed to be to move the breakfast ordering form from the door handled onto our bed. She certainly was adverse to cleaning the room, although on a daily basis she did kindly clean out our ashtray by emptying the contents out onto the balcony, so that was nice. There are numerous other examples but I'm losing the will to continue! Don't be swayed by the swish website and the roof top pool, which is admittedly very swanky, this hotel, specifically the service you receive just isn't worth the money.Happy holidays! x  
+<Date>Sep 17, 2006
+<Rating>2	1	2	5	2	2	1	-1	
+<Aspects>
+13	80(money):1	155(happy):1	223(holiday):1	248(consider):1	307(bother):1	575(advice):2	596(lose):1	868(iron):1	928(waste):1	954(example):1	971(numerous):1	1096(continue):1	12436(omm):1	
+12	2(night):2	19(price):1	42(pay):1	62(expect):1	165(start):1	294(mind):1	557(sort):1	772(finish):1	972(september):1	3084(eur):1	4522(arise):1	6643(plethora):1	
+33	3(clean):2	4(nice):1	9(service):1	65(visit):1	67(call):1	83(size):1	91(guest):1	129(reception):1	130(standard):1	171(able):1	191(balcony):1	292(card):1	296(phone):1	339(key):1	358(italian):1	360(daily):1	495(bill):1	521(lady):1	645(manage):1	810(empty):1	868(iron):2	954(example):1	1204(eventually):1	1527(basis):1	2207(pair):1	2509(kindly):1	2688(content):1	3084(eur):1	3240(t-shirts):1	3936(jeans):1	4814(ashtray):1	6019(mistakenly):1	10954(adverse):1	
+0	
+0	
+38	0(staff):1	8(day):1	9(service):1	32(check):1	46(free):1	54(door):2	69(tell):2	70(overall):1	112(main):1	129(reception):2	136(charge):1	153(provide):1	191(balcony):2	241(complain):1	265(issue):1	276(miss):1	292(card):1	339(key):1	343(impress):1	519(item):1	650(list):1	774(lock):1	855(receptionist):2	868(iron):3	966(handle):1	1169(impossible):1	1182(rip):1	1584(majority):1	1622(lamp):1	1839(blind):1	1856(quote):1	1960(sample):1	3416(digital):1	4109(incompetent):1	4171(ignorant):1	4618(activate):1	11959(omit):1	12436(omm):1	
+24	6(breakfast):1	9(service):2	11(bed):1	22(pool):1	54(door):1	80(money):1	96(worth):1	118(top):1	207(move):1	262(website):1	300(maid):1	302(receive):1	428(customer):1	636(roof):1	954(example):1	966(handle):1	1164(form):1	1810(specifically):1	3051(admittedly):1	3194(crown):1	3592(task):1	4803(swanky):1	5255(sway):1	7601(swish):1	
+0	
+
+<Author>Snofa
+<Content>Excellent, modern, funky hotel       View from the terrace  
+<Date>Sep 11, 2006
+<Rating>5	4	5	5	5	4	5	-1	
+<Aspects>
+5	17(view):1	21(excellent):1	151(modern):1	673(terrace):1	1516(funky):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>helen_smith
+<Content>Great hotel We stayed at the Omm for two nights with our 20 month old daughter and had a great time. The staff were very friendly, and had thought to give us an extra large room to accommodate the cot. There was a small terrace to our room on which we were able to sit out and have a drink while our daughter was sleeping. These things make all the difference! The hotel is excellently situated for enjoying a ramble around Barcelona. The staff weren't able to recommend any particulary child-friendly activities but we found a lovely square (John Lennon Square) in Gracia, about a ten minute walk which had a playground and (importantly) a restaurant from which we could watch our daughter play while we ate.We had dinner in the hotel restaurant (Moo) on our second night (the hotel organised a baby-sitter for us). It was very enjoyable, highly theatrical food and service. The club seemed a little quiet, but we did only stay for half an hour...All in all we would recommend this hotel highly.  
+<Date>Jul 30, 2006
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+6	2(night):1	5(time):1	388(month):1	467(daughter):1	819(difference):1	12436(omm):1	
+5	0(staff):1	12(friendly):1	128(extra):1	624(accommodate):1	2491(cot):1	
+29	0(staff):1	7(walk):1	10(restaurant):1	15(recommend):2	23(little):1	29(minute):1	47(eat):1	58(quiet):1	60(hour):1	63(drink):1	87(lovely):1	104(sleep):1	138(highly):1	139(square):2	169(sit):1	171(able):2	212(club):1	245(watch):1	283(half):1	357(activity):1	386(play):1	467(daughter):2	673(terrace):1	1996(importantly):1	2359(john):1	2525(gracia):1	3741(playground):1	5462(particulary):1	9884(child-friendly):1	
+0	
+0	
+0	
+13	2(night):1	9(service):1	10(restaurant):1	16(food):1	51(enjoy):1	117(dinner):1	138(highly):1	309(barcelona):1	567(enjoyable):1	574(situate):1	1167(organize):1	3925(ramble):1	4100(excellently):1	
+0	
+
+<Author>ladesigner
+<Content>Good but not amazing. We stayed here in late May for 5 nights and found the hotel be good but not amazing...for the cost. We stayed in the only suite which worked out will since we were traveling with our 15 yr. old daughter. The couch was converted to her bed every night. The room was suffering from what we have seen as modernitis (modern design and furniture not holding up to wear and tear). Handles and hooks were coming undone. We also found the staff to be neutral, meaning not unfriendly but not going out of their way to be friendly. At their suggestion we also tried MOO, the restaurant and found it be nothing special and very pretentious. Breakfast was good but not worth 20 Euro (Starbucks across the street and pastry shop 1 block away!). I use Travel Advisor alot and we very critical hotel folks. Again, it was good spot just not amazing.  
+<Date>Jun 3, 2006
+<Rating>4	3	4	-1	3	-1	3	-1	
+<Aspects>
+11	68(travel):1	145(amaze):2	317(spot):1	467(daughter):1	647(alot):1	701(advisor):1	966(handle):1	1050(folk):1	2145(hook):1	3452(critical):1	10629(undo):1	
+4	2(night):1	79(late):1	145(amaze):1	175(cost):1	
+14	2(night):1	11(bed):1	68(travel):1	108(suite):1	151(modern):1	434(wear):1	440(furniture):1	516(design):1	593(hold):1	1192(couch):1	1605(tear):1	1790(suffer):1	2079(convert):1	2570(yr):1	
+8	6(breakfast):1	35(street):1	49(shop):1	96(worth):1	100(bloc):1	256(euro):1	652(pastry):1	939(starbucks):1	
+0	
+5	0(staff):1	12(friendly):1	246(mean):1	1487(unfriendly):1	3742(neutral):1	
+5	10(restaurant):1	208(special):1	253(tried):1	921(suggestion):1	3435(pretentious):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Much Better 5 star Hotels in Barcelona Quick Review: I would not recommend this hotel for the money or service. Have a drink at the bar and eat tapas here. The bar food is excellent. Be prepared to spend $12 to $16 for a mixed drink. DO NOT eat at the restaurant. Overprices, over-interesting dishes all served from a French chef with full French staff. We had dinner for 4 and it was close to $500. Service from the staff was less than hospitable or accommodating. They were always polite but didn鈥檛 really help you out with anything. I have stayed at a lot of nice hotels in my day and for the money and service stay at another high-end hotel and get pampered by the staff. If you get suckered by the decor (as I did) stay for a night only or just have drinks in the bar. Long Review: The Omm鈥檚 d茅cor is very cool indeed. Being an architect I appreciated the detail that went into the design. The rooms are not huge but feel bigger because of the open bathroom concept. You can melt in the beds and don鈥檛 want to get out in the morning and they do have turn down service twice daily so you always feel calm when returning from the tourist maze with a bottle of water and chocolates on the table and the bed is made with fresh towels galore. No issues there. The hotel bar is very interesting with lots of pretty people Thursday through Saturday. The bar and restaurant are off course open the public and packed on the weekends. They say the 鈥渞ed鈥?couch is reserved for guests but try getting a reservation. It鈥檚 first come first serve unless you are very important and know the right people despite what they told us when arriving. The bar food is a nice mix of dishes that don鈥檛 cost a fortune and are actually a refreshing change of pace from the typical tapas and Spanish dishes. The staff was always polite but never really able to help you with anything. I stayed at 2 other hotels during this trip and the staff always went out of there way to help you navigate the city, run errands, make dinner reservations. Nothing like this at the Omm. Most high end hotels also have a full time concierge to assist you. At the Omm you get the desk staff if they are not ignoring you or otherwise occupied.We arrived on a thursday and tried to make reservations for Moo restaurant. We were told that was not possible and reservations were full. I can understand that we inquired last minute but hey refused to even put us on a cancellation waiting list or inquire for use. Just NO!. So, we kicked and screamed the next day and they got us a reservation for Saturday night. The restaurant was at most half full the entire evening! It was ridiculous. To top it off, the bar menu and Moo menu are totally different. The Moo dishes were interesting but almost too interesting. i.e. Sea scallop, with shredded cucumber and lemon foam or desert with the essence of perfume. Every dish is 鈥渉alf portion鈥?so you end up getting 3 to 4 dishes and desert. You end up paying about $125 per person with drinks. Very expensive and the 4 of us (who all are adventurous diners) all walked dissatisfied. And yes, the pool is not heated and very small and freezing. There are also hotels closer to the Rambla that will baby your every desire for the same money.  
+<Date>Apr 1, 2006
+<Rating>3	3	4	-1	4	-1	2	-1	
+<Aspects>
+24	37(review):1	92(help):1	265(issue):1	278(cool):1	422(polite):1	500(appreciate):1	516(design):1	592(detail):1	758(sea):1	816(dish):3	990(indeed):1	1022(didn):1	1450(portion):1	1533(ridiculous):1	1706(desert):2	3467(foam):1	3891(lemon):1	4405(perfume):1	4676(essence):1	6022(architect):1	7275(scallop):1	7925(cucumber):1	8453(shred):1	12436(omm):2	
+17	0(staff):2	7(walk):1	9(service):1	42(pay):1	63(drink):1	124(expensive):1	174(serve):1	193(person):1	254(french):2	624(accommodate):1	727(overprice):1	816(dish):1	1324(diner):1	1361(chef):1	2743(hospitable):1	3392(adventurous):1	6008(dissatisfy):1	
+4	13(bathroom):1	34(feel):1	133(huge):1	2354(concept):1	
+10	22(pool):1	28(close):2	80(money):1	117(dinner):1	250(yes):1	539(heat):1	1219(desire):1	1304(baby):1	1321(freeze):1	1377(rambla):1	
+0	
+47	0(staff):4	2(night):1	4(nice):1	5(time):1	8(day):2	9(service):1	10(restaurant):1	29(minute):1	33(trip):1	36(desk):1	38(lot):1	41(city):1	53(arrive):1	69(tell):1	76(try):1	80(money):1	85(wait):1	91(guest):1	92(help):2	117(dinner):1	149(run):1	156(reservation):5	171(able):1	204(concierge):1	253(tried):1	391(understand):1	422(polite):1	506(reserve):1	508(otherwise):1	650(list):1	818(saturday):1	1103(refuse):1	1192(couch):1	1215(ignore):1	1265(assist):1	1367(hey):1	1678(occupy):1	1704(inquire):2	1757(scream):1	1815(pamper):1	1823(thursday):1	1926(kick):1	2252(navigate):1	2621(cancellation):1	3092(high-end):1	6010(ed):1	12436(omm):1	
+66	2(night):1	4(nice):1	9(service):2	10(restaurant):3	11(bed):2	15(recommend):1	16(food):2	21(excellent):1	26(people):2	27(bar):7	34(feel):1	37(review):1	38(lot):1	39(return):1	47(eat):2	53(arrive):1	56(morning):1	57(water):1	63(drink):3	64(spend):1	69(tell):1	80(money):1	103(star):1	109(pretty):1	118(top):1	125(towel):1	161(change):1	172(weekend):1	174(serve):1	175(cost):1	180(actually):1	197(fresh):1	209(tourist):1	229(table):1	238(bottle):1	269(decor):1	283(half):1	293(course):1	299(quick):1	309(barcelona):1	329(entire):1	347(twice):1	360(daily):1	369(spanish):1	379(public):1	405(unless):1	423(menu):2	460(prepare):1	498(despite):1	609(mix):2	611(totally):1	628(typical):1	632(chocolate):1	715(pack):1	816(dish):2	818(saturday):1	908(don):2	1155(calm):1	1271(refresh):1	1455(tapa):2	1823(thursday):1	2291(pace):1	2490(fortune):1	3068(melt):1	4046(maze):1	4216(galore):1	
+0	
+
+<Author>Happyhubby&Daddy
+<Content>Great, but bring a flash light Stayed here for two days on business. The hotel is very clean, the bath tub is spotless, and the beds are comfy. Barcelonians eat very late so when our plane got in late, and we got to the hotel at 11:45 p.m., we had no problem eating in the lobby. The food is very good and of high quality. This is a good choice if you appreicate the sophisticated design. My only complaint is that the hallway is so dark(painted black) that if you drop something, you will need to get down on your hands and knees to find it. Put your room key in your hand while in the lobby. I commented to my colleague that I like the hotel but I could not see a bloody thing!  
+<Date>Mar 31, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	190(complaint):1	356(comment):1	377(hand):1	459(dark):1	580(hallway):1	662(drop):1	806(paint):1	1007(black):1	1991(colleague):1	3139(knee):1	3938(bloody):1	
+5	16(food):1	107(choice):1	187(quality):1	516(design):1	3165(sophisticated):1	
+14	3(clean):1	8(day):1	11(bed):1	55(lobby):1	142(bring):1	147(business):1	157(light):1	226(bath):1	311(tub):1	339(key):1	377(hand):1	475(comfy):1	548(spotless):1	2867(flash):1	
+0	
+0	
+0	
+5	47(eat):2	55(lobby):1	79(late):2	968(plane):1	1466(p.m):1	
+0	
+
+<Author>robert240
+<Content>Very cool hotel with great service The room was very well-designed, beautifully furnished. The lobby was impressive, and always lively. The breakfast was more like one in Germany! Very generous. There is a lovely deck on the roof, with a bar and chaise lounges. Excellent location near shopping, Las Ramblas and the metro.The staff was very helpful as well, arranging for rental car, restaurant reservations and hotel reservations out of town. We would stay there alone in a heartbeat.  
+<Date>Mar 23, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+2	1523(generous):1	1683(heartbeat):1	
+0	
+5	9(service):1	278(cool):1	771(beautifully):1	787(furnish):1	6974(well-design):1	
+7	1(location):1	21(excellent):1	49(shop):1	102(near):1	235(metro):1	634(ramblas):1	834(las):1	
+0	
+8	0(staff):1	10(restaurant):1	14(helpful):1	121(car):1	156(reservation):2	239(town):1	680(arrange):1	963(rental):1	
+11	6(breakfast):1	27(bar):1	55(lobby):1	87(lovely):1	237(lounge):1	636(roof):1	920(impressive):1	1406(deck):1	1600(lively):1	2239(germany):1	3274(chaise):1	
+0	
+
+<Author>LondonBlonde
+<Content>An over-designed hotel... style over practicality       Roof terrace and pool  
+<Date>Oct 12, 2005
+<Rating>3	3	4	-1	4	-1	2	-1	
+<Aspects>
+5	22(pool):1	326(style):1	636(roof):1	673(terrace):1	11341(practicality):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>I love this place The food here is fantastic, as is the design .... it's very modern, which I love. I'm amazed how patchy some of the reviews are as I've stayed here several times and loved it every time. That said, I can see it wouldn't be to everyone's taste .... if you like modern design with lots of oak and white, and food with great flavours but not the kind of portions that leave you so full you can't move, then try this place. If, on the other hand you're more into Hilton than Hip Hotel then you should probably give it a miss!  
+<Date>Oct 6, 2005
+<Rating>5	4	5	-1	5	-1	4	-1	
+<Aspects>
+10	5(time):2	37(review):1	40(love):1	145(amaze):1	178(probably):1	276(miss):1	377(hand):1	477(hilton):1	1491(hip):1	9793(patchy):1	
+0	
+0	
+0	
+0	
+0	
+14	16(food):2	38(lot):1	40(love):2	43(leave):1	76(try):1	86(fantastic):1	151(modern):2	207(move):1	439(taste):1	466(white):1	516(design):2	1450(portion):1	2147(flavor):1	4653(oak):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Attitude problem Nothing more to say other than I have never seen such a bad attitude problem/pure rudeness. I'm so glad we decided not to stay.You are spoilt for choice for good restuarants in Barcelona so don't make the mistake of trying this one!  
+<Date>Oct 3, 2005
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	50(bad):1	219(decide):1	619(glad):1	821(attitude):2	3647(rudeness):1	
+6	76(try):1	107(choice):1	309(barcelona):1	895(mistake):1	1221(spoil):1	2095(restuarants):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Jacky40
+<Content>Omm was perfect Contrary to some of the other reviews when we stayed at Omm we found the service excellent. All the staff without exception were friendly and helpful. Dinner in the restaurant, Moo, is a must - the tasting menu with wine chosen for you is pricey but was the best meal we had ever had. Again in the restaurant the staff were attentive and friendly and our French wine waiter was delightful. The decor is cool and funky, and we enjoyed playing with all the electronic controls for everything in the bedroom. Good location, beautiful building, great food, lovely staff - I highly recommend a stay here!  
+<Date>Sep 3, 2005
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+8	51(enjoy):1	268(bedroom):1	269(decor):1	278(cool):1	386(play):1	865(control):1	1516(funky):1	2578(electronic):1	
+8	0(staff):1	1(location):1	15(recommend):1	16(food):1	45(beautiful):1	87(lovely):1	135(build):1	138(highly):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	1128(exception):1	
+20	0(staff):1	9(service):1	10(restaurant):2	12(friendly):1	21(excellent):1	37(review):1	74(perfect):1	117(dinner):1	167(choose):1	213(meal):1	251(wine):2	254(french):1	423(menu):1	439(taste):1	537(attentive):1	546(pricey):1	735(waiter):1	1176(delightful):1	2419(contrary):1	12436(omm):2	
+0	
+
+<Author>aimerlavie
+<Content>Loved, loved, loved Hotel Omm!!! We've just returned from a trip to Barcelona and a stay at Hotel Omm - which was a complete pleasure. This was a rather unique and special family trip, as I, my daughter, brother and father and myself were travelling together, and this was the first time in Barcelona for all of us - as well as a birthday gift to my father - we ranged in age from 12 to 70 and were all extremely pleased and impressed with Hotel Omm.A friend of my brother's reccomended Hotel Omm, and after reading the TripAdvisor reviews, I was feeling rather skeptical, as whenever I've referred to TripAdvisor prior to choosing a hotel, I've always had good luck when I've taken the various reviews into consideration. When I checked the reviews in July, they were not very good - I could not disagree with them more; I have noticed that two of the most recent reviews are very good. I travel quite frequently, and have stayed in some lovely (and not so lovely) hotels around the world - and I would highly recommend Hotel Omm. .The Hotel is beautiful, and beautifully designed - very clean lines, with modern style impeccably carried out; lots of well thought out techie conveniences; great air-conditioning, lighting, etc; well thought out / laid out rooms - great beds, pillows, linens, towels, toiletries, etc; well laid out and beautiful lobby/lounge, bar. We did not eat at the restaurant, which apparently is very good - with a Michelin chef, however we did eat at the bar and at the pool, and the food was excellent. The pool and deck are very,very relaxing, and the view of Gaudi sculptures on a neighboring roof could not be a more appropriate and pleasant surprise. Another review mentioned that the pool is small, this is true, however it is perfect for cooling off, and the deck is large and well thought out, with lounge chairs, as well as seating (w/shade umbrellas) for a drink/snack/meal by the pool; the pool and deck are targeted toward adults, or older children (my daughter is 12 and enjoyed it thoroughly), whom enjoy sunbathing w/an occasional swim in the pool, it is not designed as an all day destination resort type pool for small children.The location is excellent, the neighborhood is the Eixample district, and there are many Gaudi buildings within viewing/walking distance, many high-end shops, Louis Vuitton, Burberry, Yves-Saint Laurent, wonderful restaurants, etc., and within walking distance of Sagrada Famililia, and many other sights and shopping options. Metro stop just around the corner, and about a 6 euro cab ride to the Port.Lastly, every member of the staff with whom we dealt was wonderful; professional, friendly, helpful and extremlely pleasant. I highly recommend Hotel Omm.  
+<Date>Aug 25, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+41	15(recommend):2	17(view):1	22(pool):1	34(feel):1	37(review):2	40(love):3	68(travel):1	87(lovely):2	88(read):1	122(stop):1	138(highly):2	146(friend):1	150(pleasant):1	160(relax):1	167(choose):1	199(surprise):1	200(corner):1	218(ride):1	235(metro):1	256(euro):1	272(world):1	380(cab):1	597(tripadvisor):2	636(roof):1	637(prior):1	823(various):1	934(neighbour):1	1055(luck):1	1181(whenever):1	1288(port):1	1406(deck):1	1513(reccomend):1	1573(frequently):1	2010(brother):1	2297(refer):1	2421(appropriate):1	2583(consideration):1	2803(gaudi):1	3070(skeptical):1	3794(sculpture):1	12436(omm):4	
+0	
+22	3(clean):1	11(bed):1	27(bar):1	38(lot):1	45(beautiful):2	55(lobby):1	73(etc):2	125(towel):1	151(modern):1	157(light):1	188(line):1	303(pillow):1	326(style):1	516(design):1	630(linen):1	657(toiletry):1	696(lay):2	771(beautifully):1	824(carry):1	925(convenience):1	2284(air conditioning):1	3072(impeccably):1	
+20	1(location):1	7(walk):1	10(restaurant):1	21(excellent):1	48(wonderful):1	49(shop):2	73(etc):1	115(distance):2	336(option):1	411(sight):1	421(neighbourhood):1	433(district):1	745(building):1	2618(sagrada):1	2803(gaudi):1	2896(louis):1	3092(high-end):1	5645(eixample):1	6953(vuitton):1	12657(laurent):1	
+0	
+13	0(staff):1	12(friendly):1	14(helpful):1	32(check):1	37(review):2	48(wonderful):1	140(deal):1	150(pleasant):1	354(notice):1	501(professional):1	1064(recent):1	2322(lastly):1	3102(disagree):1	
+53	5(time):1	8(day):1	10(restaurant):1	16(food):1	21(excellent):1	22(pool):6	27(bar):1	33(trip):2	37(review):1	39(return):1	47(eat):2	51(enjoy):2	63(drink):1	68(travel):1	72(resort):1	74(perfect):1	106(family):1	110(extremely):1	173(please):1	198(chair):1	208(special):1	237(lounge):1	244(mention):1	261(swim):1	277(child):2	278(cool):1	309(barcelona):2	343(impress):1	389(type):1	467(daughter):2	504(seat):1	505(age):1	516(design):1	556(adult):1	622(complete):1	714(range):1	765(birthday):1	852(gift):1	863(apparently):1	898(thoroughly):1	907(pleasure):1	1027(unique):1	1092(destination):1	1140(umbrella):1	1361(chef):1	1406(deck):2	2010(brother):1	2418(occasional):1	2892(sunbathe):1	2915(father):2	3672(target):1	5530(michelin):1	12436(omm):2	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A Great Experience Ryan air - Girona - Auriga Car - Barcelona - Omm Hotel - Sagardi - Pinoxto - Gaudi - Montjuic - Can Majo - Costa Brava 鈥?La Pallaresa - Tablao Cordobes. 6 Days In BarcelonaRyan Air got us from Rome Ciampino to Girona (Barcelona) return for only 70 euros a person (note all dollar amounts will be in euros). They use smaller/outer airports. No-frills service, non-reclining seats, pay for drink and snacks. Good service.Auriga Car is a budget car rental service that operates in the summer from Girona airport鈥? out of a white van in the car park. We arrived mid July and Girona airport felt like 450 degrees. Auriga says to pickup from the car park and airport information said you can find them around the flags. After walking around with 3 bags in sweltering heat and finding nothing I asked inside the airport again. While Hertz  Co have an inside office, Auriga apparently operates out of a white Minivan temporarily parked in the public parking lot with an employee, table, chair and wireless credit card machine in the back! 鈥?. next to the flags. It cost 150 for the week, as opposed to the same per day from Hertz-Avis-Europecar. We got a new Ford Fiesta with A/C and it was fine. We drove to Barcelona in about an hour.Omm Hotel, Rossello 265 08008 was recommended by a friend who lived in Barcelona. It鈥檚 located off Passieg de Gracias with designer shopping stores and is about a kilometer walk to the inexpensive shopping of Las Ramblas and old town. While 鈥淒esign鈥?hotels often feel cold. This was a good balance of the practical and the aesthetic. It got dreadful reviews on the internet so we were a little skeptical. It was a wonderful hotel. We got an upper floor room which had views of Gaudi鈥檚 La Pedrera. All rooms are virtually square in plan with a floating dividing wall between bedroom and bathroom. The large window has automatic blinds and the lighting/air system is well thought out as are all the details, finishes, fixtures, furnishings, widescreen tv, great big bath and changing area. We got a standard room 180 to 220 per night.We preferred a street-facing room overlooking La Pedrera to the courtyard facing rooms.The Roof/Pool terrace is beautiful with great views, food and a massaging fountain in the pool. It鈥檚 decked in wood with Stark chairs/lounge chairs. In July it made good sense to have a swim at the hotel when Barcelona鈥檚 beaches are overcrowded and polluted. The Omm pool is peaceful and relaxing with hardly anyone around.The Food. Omm has it鈥檚 own restaurant called Moo. It is well known as one of the best restaurants in Barcelona with a 2-star Michelin chef. It offers 3 levels of service. Moo restaurant, Moovida Caf茅 and Room/Pool service. We ate from the Caf茅 and Room service for about 10 a dish. The portions are small but grotesquely mouth-watering-slobbering good. Hamburger tartar with mushroom, Foie Gras on local fig jam, Club sandwich, local smoked hams and Vegetarian dishes Seared Tuna  Hummus, Curry Vegetable Couscous, Grilled Vegetables/Tofu on toast. It was worth eating at the hotel once a day.Our first taste of Barcelona鈥檚 delicacies was at Sagardi鈥檚, Argenteria 62 08002. The Tapas are good enough to eat and crap at the same time. Bacala, Peppers, Crab, Egg, Olive, Anchovy, Tortilla, they mix it up so well that it outshines the more simple Tapas bars. We got there at 7pm, the place was starting to fill, we started gorging and it seemed as long as you bought a drink, the bar food was was free, so we binged and then figured out the cost is calculated by the amount of toothpicks remaining on your plate. 1.30 a piece. Gorge till you drop. About 6 per person starts to loosen the belt, at 10 you are classified as Pig. A normal being goes there to have a drink, have a chat and enjoy a few tasty bites.The favourite eating spot was Pinoxto at the Mercat de la Boqueria. Juanito, the owner, is a well known local character serving up seafood, meat, vegetables, drinks and desserts from a corner stall with only 12 stools located in the local food market. There is no menu just food so good that all of it鈥檚 customers, regulars or tourists are immediately intoxicated with exquisite, tasty dishes which melt in the mouth. Grilled green peppers in Rock salt, Grilled fresh Lobster  Prawns, Baby Octopus with beans/olive oil/balsamic vinegar/coriander, Terrine of tartar Bacala/tomato/lentils/peppers, Breaded Veal cutlets. Finish it off with a Chuchos, cream-filled fried croissant. I can鈥檛 write any more without salivating into my lap. It鈥檚 about 25+ a person, get there early to get the day鈥檚 catches and secure a stool. Hours 7am-3pm. Can Majo, Almirall Aixada street, 23. tel 93.221.58.18 is a traditional seafood restaurant with Paella and other rice specialties. Located on Barcelona鈥檚 beach promenade in the old fisherman village. We had wonderful fresh crayfish and Paella. Book ahead, like most of our good meals in Barcelona we spent about 30 a head.If you haven鈥檛 burst, try the caf茅 La Pallaresa, Petrixol, 11 08002 which serves the locals home made Churros which you dip in hot dark chocolate. Also known for it鈥檚 Cr猫me Catalan  more.Barcelona has very special architecture. Gaudi is everywhere. 鈥淟a Pedrera鈥?was on the block down from the hotel. Many levels are open to the public and includes a multi-media museum with models in it鈥檚 curved vaulted attic. Showing Gaudi鈥檚 early Art Nouveau, Personal style  furniture. 8 entry. 鈥淐asa Batilo鈥?is further down the same street. It is fantastic, colorful, like the sea. 16 entry. 鈥淪agrada Famiglia鈥?is Gaudi鈥檚 mammoth mud church with 2 different facades. It鈥檚 construction began at the turn of the century and is still ongoing. The engineering techniques Gaudi developed to allow fluid shapes at huge scale are revolutionary. The builders must have become his closest friends or stalked him with a bludgeon. 鈥淧arc Guell鈥?with a small Gaudi museum is a nice visit but I wasn鈥檛 fascinated by it as I was with the other buildings.Montjuic is worth visiting in west Barcelona. In 1929, Barcelona hosted the World鈥檚 Fair and a few special things happened. Mies Van Der Rohe built the Barcelona Pavillion for the German Expo. It was dissembled in 1930 then rebuilt to the original specs by Barcelona architects in the 1980鈥檚. It is spectacular, perfect and constant. It embodies the foundations of Modern architecture and we see its design principles used in houses and office buildings, restaurants and galleries over 75 years later. Original Barcelona Chairs are there. The Catalyuna Museum was also built for the Fair in 1929 at Montjuic and it is in stark contrast with its massive Neo-Classical architecture to the Barcelona Pavillion. Gae Aulenti supervised the museum renovation until completion in 2004. It is now a grand Post-Modern space full of shapes and light. The promenade in front of the museum is the highest point of Montjuic and there is an incredible view of Barcelona. Montjuic is also home to the Joan Miro Foundation full of his beautiful large-scale paintings and tapestries. As you drive around you also see the impressive 1992 Barcelona Olympic stadiums. Due to the smart planning and renovation of the park Montjuic is now used for Barcelona鈥檚 annual Trade Fairs.We intended to spend 3 days at Lafranc, Costa Brava about 1.5 hours drive from Barcelona. We were disappointed with the amount of people at the beach so we got a local to take us out on a boat to visit local grottos and beaches. Llafranc Hotel was small and humid at 140 a night. It鈥檚 restaurant is well-known for seafood. Fresh small prawns, sardines, baby calamari, was all great. La Croissanteria across the square has tasty baguettes, salads and cakes. After a day we felt we had had enough, partly our fault for coming during peak season, but we longed for the serenity we found at the Omm Hotel, so we drove back for a few more days of the pool, the room and general eating disorder.Barcelona鈥檚 shopping is decent. Many shoe stores. Passeig de Gracia and parallel Ramblas de Catayluna are upmarket streets leading down to the main shopping drag Las Ramblas, full of people  cheap shopping. The neighbourhood called El Born has been dubbed Barcelona鈥檚 SoHo, located in side streets all around the church Santa Maria del Mar.On our last night we went to see some Flamenco guitar  dancing at Tablao Cordobes, Ramblas 35 08002. It is touristy as flamenco is from Madrid. It was very entertaining with classical acoustic guitar players improvising over dramatic rhythms and the dancer鈥檚 shoes sounding off like bullets. 28 a person.Barcelona turned out to be full of fantastic architecture and food, various interesting areas to see, easygoing, natural people. We indulged ourselves, I put on 10 pounds and wouldn鈥檛 mind living on a stool at Pinoxto. Many thanks to our friend for giving us all these places to check out.  
+<Date>Aug 12, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+91	5(time):1	8(day):2	22(pool):1	34(feel):1	45(beautiful):1	47(eat):3	48(wonderful):2	60(hour):1	74(perfect):1	86(fantastic):1	96(worth):1	100(bloc):1	113(fine):1	133(huge):1	141(home):1	160(relax):1	193(person):2	197(fresh):1	206(live):1	222(cold):1	225(la):1	255(store):1	294(mind):1	317(spot):1	344(write):1	359(allow):1	376(favourite):1	409(sound):1	540(catch):1	551(begin):1	583(construction):1	656(spectacular):1	662(drop):1	758(sea):1	767(ourselves):1	941(piece):1	979(till):1	985(hardly):1	1034(secure):1	1036(peaceful):1	1045(entertain):1	1076(player):1	1191(shoe):2	1226(shape):1	1432(constant):1	1455(tapa):1	1649(entry):2	1731(church):1	1842(pound):1	2171(century):1	2233(dancer):1	2290(flag):1	2425(balance):1	2428(scale):1	2432(lap):1	2489(colorful):1	2586(wouldn):1	2803(gaudi):3	2880(develop):1	2968(crap):1	2994(painting):1	3107(practical):1	3328(engineer):1	3342(paella):1	3806(ongoing):1	3892(indulge):1	3980(facade):1	4157(classical):1	4217(stool):2	4519(fiesta):1	5113(dramatic):1	5365(montjuic):1	6052(bullet):1	6122(catalan):1	6290(aesthetic):1	6579(mud):1	6618(pedrera):1	6688(boqueria):1	6815(guitar):1	7310(fluid):1	7945(joan):1	8422(gorge):1	8742(technique):1	8906(miro):1	9027(foundation):1	10814(tapestry):1	10909(cr):1	11393(ford):1	12436(omm):1	12697(improvise):1	12943(acoustic):1	
+45	8(day):3	39(return):1	44(experience):1	60(hour):1	64(spend):1	75(week):1	121(car):1	135(build):1	164(air):2	165(start):1	175(cost):1	193(person):2	198(chair):1	225(la):1	256(euro):2	297(note):1	298(drive):1	309(barcelona):4	430(dollar):1	507(museum):1	666(amount):1	739(fair):1	1327(wood):1	1329(massive):1	1406(deck):1	1803(architecture):1	1862(intend):1	2185(rome):1	2401(oppose):1	2803(gaudi):1	2835(contrast):1	3911(pig):1	4380(stark):2	4748(belt):1	4783(costa):2	5365(montjuic):2	6119(pavillion):1	6333(girona):2	6490(classified):1	7219(ryan):1	8376(chairs):1	10284(brava):2	10581(catalyuna):1	11661(loosen):1	12436(omm):1	
+110	2(night):1	7(walk):1	8(day):2	9(service):1	10(restaurant):1	13(bathroom):1	17(view):1	22(pool):1	24(floor):1	34(feel):2	38(lot):1	47(eat):2	53(arrive):1	66(park):3	79(late):1	95(airport):2	116(tv):1	119(window):1	130(standard):1	139(square):1	151(modern):1	157(light):1	161(change):1	183(wall):1	198(chair):2	208(special):1	210(space):1	221(plan):2	225(la):2	226(bath):1	229(table):1	259(due):1	260(overlook):1	268(bedroom):1	272(world):1	281(house):1	290(bag):1	292(card):1	298(drive):1	309(barcelona):3	326(style):1	365(grand):1	379(public):1	382(happen):1	408(inside):2	435(courtyard):1	440(furniture):1	466(white):1	493(machine):1	507(museum):1	516(design):1	517(fault):1	518(system):1	536(prefer):1	539(heat):1	592(detail):1	608(employee):1	610(season):1	659(credit):1	687(renovation):2	711(personal):1	717(wireless):1	739(fair):2	745(building):1	772(finish):1	789(art):1	792(office):2	816(dish):1	863(apparently):1	870(furnishings):1	1226(shape):1	1252(degree):1	1270(original):1	1283(host):1	1313(mid):1	1333(upper):1	1541(fixture):1	1623(operate):1	1630(float):1	1687(smart):1	1710(peak):1	1794(gallery):1	1803(architecture):1	1839(blind):1	1892(virtually):1	2044(trade):1	2532(caf):1	2803(gaudi):2	3395(divide):1	3444(automatic):1	3534(partly):1	3623(annual):1	4312(co):1	4431(hertz):1	4916(serenity):1	5365(montjuic):1	5917(temporarily):1	6333(girona):1	6356(supervise):1	6511(principle):1	6532(swelter):1	6618(pedrera):2	7182(completion):1	7440(minivan):1	8451(widescreen):1	8745(nouveau):1	9027(foundation):1	11621(street-face):1	12436(omm):1	12799(disorder):1	
+105	2(night):2	4(nice):1	7(walk):1	9(service):1	16(food):1	17(view):1	26(people):2	28(close):1	30(beach):3	31(front):1	35(street):4	49(shop):5	65(visit):2	66(park):2	67(call):1	71(include):1	84(locate):3	95(airport):3	112(main):1	121(car):4	143(cheap):1	146(friend):1	154(disappoint):1	195(local):2	197(fresh):1	209(tourist):1	239(town):1	255(store):1	257(decent):1	306(level):1	309(barcelona):4	379(public):1	421(neighbourhood):1	423(menu):1	428(customer):1	429(budget):1	466(white):1	489(immediately):1	507(museum):3	634(ramblas):4	649(information):1	666(amount):1	674(boat):1	718(incredible):1	744(regular):1	745(building):1	752(el):1	757(dance):1	816(dish):1	834(las):2	853(summer):1	922(lead):1	963(rental):1	984(tasty):1	1087(village):1	1117(inexpensive):1	1148(fisherman):1	1223(van):1	1280(madrid):1	1304(baby):1	1450(portion):1	1470(touristy):1	1482(del):1	1510(santa):1	1623(operate):1	1647(mar):1	1699(drag):1	1731(church):1	1825(humid):1	1829(wasn):1	1833(mare):1	1941(arc):1	2131(designer):1	2258(pickup):1	2290(flag):1	2470(mouth):1	2525(gracia):1	2659(flamenco):2	2717(soho):1	2751(exquisite):1	2803(gaudi):1	3068(melt):1	3373(upmarket):1	3417(fascinate):1	3583(passeig):1	3637(born):1	3841(gracias):1	3930(model):1	4172(attic):1	4533(curve):1	4606(vault):1	4912(parallel):1	5056(guell):1	5258(prawn):1	5365(montjuic):1	5446(calamari):1	5472(promenade):2	6270(builder):1	6333(girona):1	6815(guitar):1	7163(kilometer):1	7314(intoxicate):1	7642(sardine):1	9551(stalk):1	11567(dub):1	
+0	
+3	32(check):1	146(friend):1	271(thank):1	
+156	9(service):4	10(restaurant):5	15(recommend):1	16(food):5	17(view):1	18(book):1	22(pool):1	26(people):1	27(bar):2	30(beach):1	42(pay):1	45(beautiful):1	46(free):1	51(enjoy):1	60(hour):1	63(drink):4	64(spend):1	65(visit):1	67(call):1	76(try):1	84(locate):1	86(fantastic):1	89(offer):1	96(worth):1	114(hot):1	135(build):1	139(square):1	141(home):1	146(friend):1	165(start):2	166(own):1	174(serve):2	175(cost):1	195(local):5	197(fresh):1	200(corner):1	206(live):1	208(special):1	212(club):1	213(meal):1	225(la):2	261(swim):1	264(market):1	280(buy):1	298(drive):2	306(level):1	309(barcelona):12	319(head):1	406(snack):1	412(egg):1	439(taste):1	459(dark):1	468(smoke):1	491(fill):1	504(seat):1	609(mix):1	613(simple):1	629(grill):3	632(chocolate):1	636(roof):1	666(amount):1	672(owner):1	673(terrace):1	677(meat):1	730(massage):1	772(finish):1	773(rock):1	779(figure):1	815(seafood):3	816(dish):1	823(various):1	875(toast):1	878(normal):1	909(salad):1	920(impressive):1	953(west):1	976(ahead):1	984(tasty):2	1002(plate):1	1004(croissant):1	1005(green):1	1009(fry):1	1029(cake):1	1042(bite):1	1049(character):1	1071(sandwich):1	1102(sense):1	1113(lobster):1	1180(dessert):1	1223(van):1	1241(traditional):1	1270(original):1	1304(baby):1	1361(chef):1	1382(german):1	1391(remain):1	1455(tapa):1	1499(rice):1	1543(natural):1	1561(ham):1	1614(jam):1	1629(chat):1	1701(stall):1	1702(fountain):1	1739(hamburger):1	1751(specialty):1	1803(architecture):2	2225(salt):1	2262(vegetable):2	2272(dip):1	2286(olympic):1	2392(vegetarian):1	2412(haven):1	2532(caf):2	2695(stadium):1	2769(oil):1	2925(gras):1	3058(overcrowd):1	3193(crab):1	3342(paella):1	3512(olive):1	4217(stool):1	4372(sear):1	4447(pepper):3	4514(tuna):1	4907(rebuild):1	5021(mushroom):1	5168(curry):1	5209(octopus):1	5239(2-star):1	5258(prawn):1	5365(montjuic):1	5404(burst):1	5467(tortilla):1	5470(baguette):1	5530(michelin):1	5540(no-frills):1	6022(architect):1	6119(pavillion):1	6380(veal):1	6487(expo):1	6572(well-known):1	6801(vinegar):1	6885(der):1	7996(7pm):1	8356(churros):1	8422(gorge):1	8488(delicacy):1	9134(pollute):1	9269(spec):1	9825(calculate):1	10674(outshine):1	10701(tel):1	11764(easygoing):1	12436(omm):2	12524(foie):1	
+5	23(little):1	37(review):1	97(internet):1	2895(dreadful):1	3070(skeptical):1	
+
+<Author>A TripAdvisor Member
+<Content>You gotta love this hotel I have staid here several times on business trips. The staff is always extremely friendly, the decor oozes style and impecable taste and the rooms are very comfortable. I can reccomend this hotel any time.  
+<Date>Jul 25, 2005
+<Rating>5	4	4	-1	4	-1	4	-1	
+<Aspects>
+2	5(time):1	1513(reccomend):1	
+0	
+9	0(staff):1	12(friendly):1	25(comfortable):1	110(extremely):1	269(decor):1	326(style):1	439(taste):1	5618(impecable):1	5797(ooze):1	
+6	5(time):1	33(trip):1	40(love):1	147(business):1	3985(gotta):1	8190(staid):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>great bar ... hotel an afterthought Love the building ... the bar and staff are greatThe rooms are 'designer' and very much style over substanceThe walls meanwhile are paper thin, you can hear people breathing when they are waiting for the lift in the corridorLocation is great .. stay here if you are trendy and a very, very heavy sleeper who isn't bothered about value  
+<Date>May 24, 2005
+<Rating>2	1	2	-1	5	-1	4	-1	
+<Aspects>
+0	
+5	81(value):1	307(bother):1	1186(heavy):1	1299(sleeper):1	1413(trendy):1	
+0	
+16	0(staff):1	26(people):1	27(bar):2	40(love):1	85(wait):1	132(hear):1	135(build):1	183(wall):1	326(style):1	591(lift):1	754(thin):1	776(paper):1	2131(designer):1	3873(breathe):1	5398(meanwhile):1	9312(afterthought):1	
+0	
+0	
+0	
+0	
+
+<Author>ho4
+<Content>WiFi OK! 搴冦亸銇︺亶銈傘仭銇勩亜       涓涵銇潰銇椼仧銉愩儷銈炽儖銉笺倐銇傘倠  
+<Date>Aug 8, 2008
+<Rating>4	3	4	4	5	4	4	4	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+2	123(ok):1	1268(wifi):1	
+
+<Author>Nicolas_from_Paris
+<Content>La cr茅ation et le design dans ses meilleurs moments       lobby  
+<Date>Aug 14, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+7	55(lobby):1	225(la):1	516(design):1	670(moment):1	1133(le):1	9533(dans):1	10909(cr):1	
+0	
+

@@ -1,0 +1,392 @@
+<Author>comengetit
+<Content>Great hotel with a great price It was my first trip to Phoenix and I wanted a hotel that was close to everything in Phoenix. This hotel the best looking from the outside but was close to the freeway and easy to find. When my boyfriend and I drove up, we were thinking this place was questionable but we loved our stay there. The staff was nice and the rooms were quite comfortable and clean. My boyfriend forgot his shaver so the front desk was quick to deliver him shaving cream and a razor. We also received a free copy of the newspaper every morning. Overall, we enjoyed our stay there and would stay there again.  
+<Date>Nov 20, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+6	40(love):1	51(enjoy):1	70(overall):1	298(drive):1	763(boyfriend):1	3391(questionable):1	
+4	19(price):1	28(close):1	33(trip):1	1765(phoenix):2	
+4	0(staff):1	3(clean):1	4(nice):1	25(comfortable):1	
+5	20(look):1	28(close):1	93(easy):1	98(outside):1	2318(freeway):1	
+0	
+10	31(front):1	36(desk):1	299(quick):1	397(forget):1	631(deliver):1	763(boyfriend):1	1188(cream):1	3065(shave):1	3731(razor):1	8317(shaver):1	
+5	46(free):1	56(morning):1	302(receive):1	1372(newspaper):1	2245(copy):1	
+0	
+
+<Author>Kenbob
+<Content>Odd hotel...mostly good. The hotel has very odd public spaces. Most rooms surround an inner courtyard containing an indoor pool. It resembles a motel more than a first-class hotel. My room was mostly good. A recent refurbishment has led them to replace a number of things but certainly not all of them. My room for example, had a good and what seemd like new bed, new wallpaper but the original carpet and furniture (a bit worn). The bathroom was almost competely new except for old and broken faucets on the sink and a drop ceiling with stains from an apparent water leak. The price I paid was excellent through Priceline and was worth it. One further caution.....no wireless internet and the wired service that they do have is somewhat faulty. All in all.....the feel of an upgraded Holiday Inn but certainly not 4*.  
+<Date>Nov 7, 2008
+<Rating>3	4	2	3	4	4	3	2	
+<Aspects>
+9	335(numb):1	912(replace):1	922(lead):1	991(motel):1	1064(recent):1	1088(odd):1	2253(refurbishment):1	3497(resemble):1	6202(first-class):1	
+5	19(price):1	21(excellent):1	42(pay):1	96(worth):1	1069(priceline):1	
+29	11(bed):1	13(bathroom):1	22(pool):1	52(bit):1	57(water):1	210(space):1	228(break):1	337(except):1	379(public):1	396(carpet):1	434(wear):1	435(courtyard):1	440(furniture):1	509(sink):1	528(ceiling):1	662(drop):1	667(surround):1	723(stain):1	954(example):1	1088(odd):1	1270(original):1	1287(leak):1	1545(contain):1	1680(indoor):1	2093(wallpaper):1	2240(inner):1	2823(faucet):1	3039(apparent):1	9065(seemd):1	
+0	
+0	
+0	
+0	
+11	9(service):1	34(feel):1	97(internet):1	163(upgrade):1	223(holiday):1	324(inn):1	651(somewhat):1	717(wireless):1	1904(wire):1	2102(caution):1	4333(faulty):1	
+
+<Author>2_Travel_Smart
+<Content>Southwest Style Hospitality This hotel has a wonderful overall ambiance and the restaurant served wonderful food. We have stayed for conferences and to visit family in Phoenix. The property has great amenities and the rooms are very nice. However it does have a few problems. We have been there a number of times and have had a few problems registering and housekeeping gets a little behind. . A few times our rooms have not been ready and we have come into an unkempt room, but it was corrected and in general the staff was friendly about it. Also be careful to check the air conditioning when you get your room, as this seems to be a recurrent problem I have attended a few conferences at this hotel and a number of people had issues with this. Once you get checked into the room though the place gets high marks. The staff is friendly and helpful. The pools (particularly the indoor one with the waterfall) are wonderful and I specifically recall a function in the outdoor tent where the food was very good for a buffet. As I said the restaurant is wonderful. The sports bar theme of the bar in the evening is not really to my taste though my girlfriend's brother loved it, and the other area has limited hours and the ambiance is not consistent with the hotel. I hope they change this, as the food is wonderful. We opted for room service and take out because we enjoy the food but not the din of the restaurant. That said we really enjoyed the waitresses when we did eat in the restaurant. As a matter of a fact my girlfriend鈥檚 sister went into labor there so this hotel is a bit of family history now.Overall I would give this hotel high marks. The few service break downs are countered by the ambiance, good food, and friendliness the staff.  
+<Date>Oct 29, 2008
+<Rating>4	3	5	5	5	2	2	-1	
+<Aspects>
+9	52(bit):1	70(overall):1	106(family):1	531(matter):1	882(mark):1	892(sister):1	994(girlfriend):1	1490(history):1	3131(labor):1	
+0	
+22	0(staff):1	4(nice):1	5(time):2	12(friendly):1	23(little):1	26(people):1	32(check):2	164(air):1	214(property):1	263(condition):1	265(issue):1	274(ready):1	291(amenity):1	335(numb):2	367(housekeeping):1	794(conference):1	826(attend):1	882(mark):1	897(careful):1	1263(correct):1	2833(register):1	9127(unkempt):1	
+4	65(visit):1	106(family):1	794(conference):1	1765(phoenix):1	
+0	
+7	0(staff):1	10(restaurant):1	12(friendly):1	14(helpful):1	47(eat):1	51(enjoy):1	1387(waitress):1	
+39	0(staff):1	9(service):2	10(restaurant):3	16(food):5	22(pool):1	27(bar):2	40(love):1	48(wonderful):5	51(enjoy):1	60(hour):1	70(overall):1	77(buffet):1	161(change):1	174(serve):1	228(break):1	326(style):1	328(hope):1	439(taste):1	510(limit):1	553(particularly):1	901(outdoor):1	919(sport):1	957(ambience):3	994(girlfriend):1	1001(counter):1	1115(hospitality):1	1118(theme):1	1184(opt):1	1680(indoor):1	1754(friendliness):1	1780(function):1	1810(specifically):1	2010(brother):1	2280(waterfall):1	2574(consistent):1	3014(recall):1	3090(din):1	4675(tent):1	5741(southwest):1	
+0	
+
+<Author>KATSanClemente
+<Content>Great service and friendly staff. My daughter and I stayed at the Crowne Plaza in Phoenix for two nights. The staff was very friendly and welcoming and the room was very comfortable and overlooked the indoor pool area which is attractively decorated. The next morning my daughter enjoyed swimming in the pool and soaking in the spa.Shortly after we checked in and got in our room our phone rang, It was Jay from the front desk who asked if everything was okay with our room. Then he proceeded to let me know that I had left my purse on the floor in front of the registration counter (actually my daughter did), so I quickly replied I would be right down to get it. If he had not been so quick to see the purse and let us know, my daughter could have lost the purse and all her credit cards. We really appreciated Jay's quick response. We will stay at the hotel the next time we are in the area, and will recommend it to others.  
+<Date>Jul 2, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+11	5(time):1	15(recommend):1	292(card):1	299(quick):2	467(daughter):1	500(appreciate):1	596(lose):1	659(credit):1	1330(response):1	3519(purse):2	5583(jay):1	
+0	
+20	0(staff):1	12(friendly):1	22(pool):1	24(floor):1	25(comfortable):1	31(front):1	43(leave):1	180(actually):1	202(welcome):1	260(overlook):1	305(decorate):1	467(daughter):1	471(quickly):1	1001(counter):1	1680(indoor):1	1811(reply):1	2150(proceed):1	3519(purse):1	3567(registration):1	5571(attractively):1	
+5	2(night):1	467(daughter):1	515(plaza):1	1765(phoenix):1	2576(crowne):1	
+0	
+11	0(staff):1	9(service):1	12(friendly):1	31(front):1	32(check):1	36(desk):1	296(phone):1	453(okay):1	1150(ring):1	2465(shortly):1	5583(jay):1	
+7	22(pool):1	51(enjoy):1	56(morning):1	261(swim):1	314(spa):1	467(daughter):1	1468(soak):1	
+0	
+
+<Author>travelilady
+<Content>Great hotel Being northerners my husband and I loved the colorful southwest appeal of this hotel. After a long drive the friendly and efficient front staff was a delight. They were also good about directions to restaurants and sights.Our room was comfortable and clean and the bed good. We found the room larger than most hotel rooms.It was especially nice to have an outdoor and indoor pool - worked well with the weather. The outdoor pool area was clean, colorful and relaxing. We took advantage of the breakfast buffet which was exceptional - the fresh fruit was very good and the coffee super!We have friend who will be visiting the Phoneix area this fall and have recommended the Crowne Plaza to them.  
+<Date>Jun 28, 2008
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+11	4(nice):1	22(pool):1	40(love):1	105(husband):1	126(especially):1	385(weather):1	901(outdoor):1	1679(appeal):1	1680(indoor):1	2489(colorful):1	5741(southwest):1	
+0	
+3	3(clean):1	11(bed):1	25(comfortable):1	
+6	15(recommend):1	65(visit):1	146(friend):1	515(plaza):1	587(fall):1	2576(crowne):1	
+5	3(clean):1	22(pool):1	160(relax):1	901(outdoor):1	2489(colorful):1	
+6	0(staff):1	12(friendly):1	31(front):1	298(drive):1	401(efficient):1	1025(delight):1	
+11	6(breakfast):1	10(restaurant):1	77(buffet):1	90(coffee):1	197(fresh):1	215(fruit):1	395(direction):1	411(sight):1	464(super):1	837(exceptional):1	867(advantage):1	
+0	
+
+<Author>momoftwoBrentwood
+<Content>Fun in Phoenix We returned from Phoenix last week from our stay at the Crowne Plaza. We had an amazing stay - the staff went out of their way to accomodate us. The indoor pool was a godsend as the temperature outside reached into the low 100's. Hotel is close to shopping and the hotel shuttle offered to bring myself and the kids to an amusement park down the street! My husband was delighted at the fun we had and that he was able to bring us. We had a great time!  
+<Date>Jun 12, 2008
+<Rating>5	5	4	3	5	5	5	-1	
+<Aspects>
+1	5(time):1	
+3	0(staff):1	145(amaze):1	549(accomodate):1	
+5	105(husband):1	142(bring):1	171(able):1	176(fun):1	1025(delight):1	
+22	22(pool):1	28(close):1	35(street):1	39(return):1	49(shop):1	66(park):1	75(week):1	89(offer):1	98(outside):1	142(bring):1	176(fun):1	201(kid):1	321(shuttle):1	513(low):1	515(plaza):1	851(reach):1	944(temperature):1	1680(indoor):1	1765(phoenix):2	2576(crowne):1	5381(godsend):1	6182(amusement):1	
+0	
+0	
+0	
+0	
+
+<Author>gambari
+<Content>Comfortable, Accommodating, and Attentive... Despite a musty smell that permeated throughout the hallways of the fourth floor, this hotel was extremely comfortable, accommodating, and attentive to each of my needs. I arrived close to midnight and a staff member was there to great me and get me checked into my room within a ten-minute time frame. The king-sized bed was extremely comfortable and provided me with an excellent night's rest. Check out was a snap with the staff member taking less than five minutes to complete my transaction.Overall, this hotel impressed me and it would most definitely be high atop my list of places to stay for future visits!  
+<Date>Apr 1, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+7	59(definitely):1	65(visit):1	70(overall):1	343(impress):1	650(list):1	732(future):1	6012(atop):1	
+12	24(floor):1	25(comfortable):2	110(extremely):1	231(smell):1	445(throughout):1	498(despite):1	537(attentive):2	580(hallway):1	624(accommodate):2	1016(musty):1	1579(fourth):1	5247(permeate):1	
+8	2(night):1	11(bed):1	21(excellent):1	25(comfortable):1	110(extremely):1	153(provide):1	288(rest):1	2417(king-size):1	
+0	
+0	
+12	0(staff):2	5(time):1	28(close):1	29(minute):1	32(check):2	53(arrive):1	622(complete):1	1044(midnight):1	2339(frame):1	4180(snap):1	5407(transaction):1	10126(ten-minute):1	
+0	
+0	
+
+<Author>luckyclovers
+<Content>I would definetly Return I booked this place at a great deal from priceline and than read some of the reviews here on tripadvisor so I was weary, but went ahead with my stay. I'm glad I did; the front desk supervisor was attentive and friendly, the room was clean and well appointed and room service was typical for a chain hotel. The pool did have the chlorine smell, but it's indoors so somewhat expected for the AZ heat.  
+<Date>Mar 30, 2008
+<Rating>4	5	4	4	4	5	4	-1	
+<Aspects>
+0	
+10	18(book):1	37(review):1	39(return):1	88(read):1	140(deal):1	597(tripadvisor):1	976(ahead):1	1069(priceline):1	1964(definetly):1	3186(weary):1	
+0	
+0	
+8	22(pool):1	62(expect):1	231(smell):1	539(heat):1	651(somewhat):1	4185(indoors):1	5480(chlorine):1	7983(az):1	
+11	3(clean):1	9(service):1	12(friendly):1	31(front):1	36(desk):1	537(attentive):1	579(appoint):1	619(glad):1	627(chain):1	628(typical):1	3201(supervisor):1	
+0	
+0	
+
+<Author>RoadTripMan
+<Content>Never again! First the good: The staff (except for manager, see below) is attentive, friendly and helpful.The bad: It is a horrible hotel. We paid for an Executive Level room -- 4th floor -- the only other perks are a bathrobe (whoopee) and a mini-fridge. Within the first hour we had maintenance at the room 3 times.The mini-fridge had a 1 hole in the center of the door where a lock had been. Maintenance fixed it by putting duct tape over the hole. Didn't cool. I insisted on a replacement.The shower did not drain. Not at all. Doesn't housekeeping ever notice this?The room was hot, thermostat showed 78 when we came in (3 pm on a Saturday, 100 degrees). I turned the dial to the lowest setting - 50 - to cool the room. One hour later it only read 77. I asked for another room, was shown 2 others, all of which were hot, didn't have mini-fridges and were on the inside corridor, not outside. I opted to stay where I was because:1) The manager, Henry ?Nagle?, told me They are working on the air conditioning.2) The inside pool was so heavily chlorinated it reeked. The smell did dissipate over the week I was there but it was nauseating for the weekend. Inside rooms had balconies that opened to the inside pool but were steamy (from the pool) and dark. Our hot room at least had an outside balcony. The halls and the elevator are NOT airconditioned below 80, due to the inside pool. This, in Phoenix, in August. You walk in from the outside 100+ heat to a lovely cool reception area, then through doors to a hot hallway, a hot elevator, and into a humid, warm room. Not nice.On Saturday night I found another maintenance man, complained about the hot room again, he told me Management wants it at this temperature, I can't change it. I found the manager again, he said, Oh no, not so, we are working on it, that's wrong. By Monday the room temp averaged about 74 even though we had it running constantly on Max Cool and dialed to 50. It stayed that way all week. Always warm and humid. Why didn't we move? We were there for a group meeting. And we heard MANY complaints about hot rooms on the east side of the hotel where we were. We figured we just had to put up with it, as we were lucky to have a room with an outside balconyHOWEVER.....on the following Saturday when we began packing to leave, the room got up to 78 again. On another floor I stopped by to see a friend, saw a housekeeper wiping the sweat off her face and asked her, Why is this hotel so hot? She ever so politely said, They are working on it. I had an inspiration -- I took a $20 bill out of my purse, held it up and asked her again, Why is this hotel so hot? She took the $20 and said, The manager insists on raising the temperature level every weekend. We hate it, it's horrible here on the weekends. And he knows the ducts on the east side don't work, he's known for months.The gift shop in the hotel doesn't take credit cards -- Management hasn't hooked us up yet. Me: How long have you been here? Answer: 3 years.Avoid this hotel, nice staff people don't make up for a poorly maintained, shabby facility with a deceitful manager.  
+<Date>Aug 16, 2007
+<Rating>1	3	1	2	2	5	5	2	
+<Aspects>
+31	4(nice):1	50(bad):1	60(hour):1	75(week):1	79(late):1	88(read):1	114(hot):1	172(weekend):1	196(meet):1	207(move):1	236(warm):1	278(cool):1	388(month):1	494(fix):1	495(bill):1	544(horrible):2	593(hold):1	669(answer):1	948(east):1	1110(hate):1	1149(maintenance):1	1218(hole):1	1495(insist):1	1765(phoenix):1	1825(humid):1	2593(replacement):1	2749(politely):1	3236(tape):1	3519(purse):1	6752(duct):2	11975(inspiration):1	
+0	
+66	2(night):1	5(time):1	22(pool):4	24(floor):2	42(pay):1	43(leave):1	60(hour):1	61(shower):1	69(tell):2	98(outside):3	114(hot):6	122(stop):1	132(hear):1	146(friend):1	149(run):1	161(change):1	164(air):1	190(complaint):1	191(balcony):2	216(elevator):1	227(average):1	234(set):1	241(complain):1	259(due):1	263(condition):1	278(cool):2	306(level):1	354(notice):1	367(housekeeping):1	393(pm):1	408(inside):5	459(dark):1	482(follow):1	513(low):1	525(management):1	551(begin):1	585(below):1	616(hall):1	715(pack):1	779(figure):1	797(lucky):1	818(saturday):3	845(4th):1	872(executive):1	944(temperature):1	948(east):1	995(constantly):1	1073(corridor):1	1149(maintenance):2	1252(degree):1	1489(drain):1	1529(bathrobe):1	1577(monday):1	1591(housekeeper):1	1903(airconditione):1	1914(perk):1	2169(max):1	2173(temp):1	2514(sweat):1	2547(thermostat):1	2828(mini-fridge):1	2836(heavily):1	2969(wipe):1	3250(dial):2	3372(reek):1	7519(steamy):1	
+18	7(walk):1	49(shop):1	54(door):1	87(lovely):1	98(outside):1	114(hot):2	129(reception):1	216(elevator):1	236(warm):1	278(cool):1	292(card):1	525(management):1	539(heat):1	580(hallway):1	659(credit):1	852(gift):1	1825(humid):1	2145(hook):1	
+5	75(week):1	172(weekend):1	231(smell):1	8256(nauseate):1	10956(dissipate):1	
+22	0(staff):2	4(nice):1	12(friendly):1	14(helpful):1	26(people):1	172(weekend):1	211(facility):1	258(manager):5	306(level):1	337(except):1	427(wrong):1	436(avoid):1	537(attentive):1	562(maintain):1	585(below):1	944(temperature):1	1184(opt):1	1319(shabby):1	1495(insist):1	1635(poorly):1	2055(raise):1	5508(henry):1	
+5	54(door):1	101(center):1	774(lock):1	1218(hole):1	2828(mini-fridge):1	
+0	
+
+<Author>barcodetech
+<Content>Awful       Rusty Shower Ceiling  
+<Date>Jul 22, 2007
+<Rating>1	1	1	2	1	3	1	-1	
+<Aspects>
+0	
+0	
+4	61(shower):1	528(ceiling):1	736(awful):1	3797(rusty):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Travel_Pro55
+<Content>Decent hotel for the money I've stayed at this hotel three times in the last month. The people at the front desk were generally attentive and helpful, though the male bartender wasn't the friendliest guy I've ever had serve me a drink. The lady was quite nice.Overall, the hotel needs some sprucing up, as it's showing signs of wear. However, the rooms were generally clean with only modest wear showing. But be sure to ask for a room that doesn't face the atrium (where the pool is located) if you're concerned about noise.If you're a Priority Club member, the hotel provides coupons for a couple of drinks per night in the bar (99 Degrees), a coupon for a continental breakfast the next morning (add eggs and meat for a modest charge), and a cup of Starbucks joe.Be sure to get the AAA rate. The difference between the AAA rate and the standard rate is the biggest savings I've seen in some time.Convenient to I-17 and MetroCenter.  
+<Date>May 7, 2007
+<Rating>3	4	4	4	2	4	3	-1	
+<Aspects>
+14	4(nice):1	5(time):2	70(overall):1	78(rate):3	80(money):1	130(standard):1	257(decent):1	388(month):1	434(wear):1	449(sign):1	521(lady):1	819(difference):1	3933(savings):1	5229(spruce):1	
+0	
+8	3(clean):1	22(pool):1	84(locate):1	94(noise):1	434(wear):1	496(concern):1	1968(atrium):1	2553(modest):1	
+0	
+0	
+0	
+30	2(night):1	6(breakfast):1	12(friendly):1	14(helpful):1	26(people):1	27(bar):1	31(front):1	36(desk):1	56(morning):1	63(drink):2	99(couple):1	136(charge):1	153(provide):1	174(serve):1	212(club):1	351(add):1	368(guy):1	372(continental):1	412(egg):1	537(attentive):1	676(bartender):1	677(meat):1	800(cup):1	939(starbucks):1	1252(degree):1	1985(priority):1	2106(coupon):2	2295(male):1	2553(modest):1	3919(joe):1	
+1	186(convenient):1	
+
+<Author>travelfille
+<Content>Wouldn't recommend it to anyone I thought this hotel was awful. On the evening my colleage and I checked in, a gentleman at the desk was reporting that the room he had been assigned to already had someone in it. Red flag #1. After checking into our own rooms, I found that the heat in my room didn't work and there was someone else's hair in the tub. I ordered room service only to find that there was a hair on the tray and no spoon for me to eat my soup with. There was also a hair on one of the washcloths and I don't want to get into what kind of hair it was. My colleage found that her room contained a half eaten box of Oreos, 4 diet cokes, several bottles of water that were of varying brands. One of the bottles of water was half empty. When she showered the next morning, she found that one of the towels had been hung up wet. We're still not sure whether someone was just showering in her room before she arrived or whether they never let the towels dry after being washed. We reported these problems to the front desk. I'm not sure if it was because we were nice about complaining or what, but there were no offers to give us a free night or anything else. As a matter of fact, there wasn't really an apology. I believe the front desk supervisor just said, Oh, that's the not way its supposed to be. Needless to say, I'm disappointed. I was also rather disgusted. If those are the things we could see, what kinds of things were not visible? Anyway, we switched to another hotel after the second night of madness (i.e. the hair was never taken out of the tub and the heating was fixed, but cranked to 85 so my room felt like a sauna). Never again.  
+<Date>Jan 26, 2007
+<Rating>1	2	1	3	1	3	2	2	
+<Aspects>
+20	2(night):1	4(nice):1	15(recommend):1	46(free):1	57(water):1	89(offer):1	154(disappoint):1	170(else):1	238(bottle):1	241(complain):1	283(half):1	531(matter):1	590(red):1	736(awful):1	810(empty):1	1152(disgust):1	1356(needless):1	1547(apology):1	2290(flag):1	2662(visible):1	
+0	
+37	2(night):1	9(service):1	32(check):1	34(feel):1	47(eat):2	53(arrive):1	56(morning):1	57(water):1	61(shower):2	125(towel):2	166(own):1	170(else):1	238(bottle):1	283(half):1	311(tub):2	417(anyway):1	478(hang):1	494(fix):1	539(heat):2	729(hair):5	811(wash):1	883(brand):1	888(switch):1	945(box):1	1032(wet):1	1257(dry):1	1422(sauna):1	1545(contain):1	1672(coke):1	1767(tray):1	1772(soup):1	2018(vary):1	2466(washcloth):1	2478(diet):1	4029(spoon):1	4455(madness):1	6243(crank):1	
+0	
+0	
+9	31(front):2	32(check):1	36(desk):3	312(believe):1	620(suppose):1	838(report):2	1506(gentleman):1	1722(assign):1	3201(supervisor):1	
+0	
+0	
+
+<Author>snails
+<Content>Loved the Crowne Plaza I stayed at this hotel recently on a business trip which included Washington and Disney World, Orlando. Of all the hotels I stayed in, this was by far the best value for money. I found the front desk staff friendly and helpful, the bedrooms clean and well equipped, the bed very comfortable and the general hotel areas very nice. The indoor pool and glass lift was very classy. A nice touch was the CD with bed-time music that was left on the bed.I can recommended this hotel and will certainly be back!Johan van ZylSouth Africa  
+<Date>Aug 13, 2006
+<Rating>5	5	4	4	5	5	4	5	
+<Aspects>
+8	15(recommend):1	22(pool):1	327(glass):1	591(lift):1	1223(van):1	1488(classy):1	1680(indoor):1	6160(africa):1	
+2	80(money):1	81(value):1	
+15	0(staff):1	3(clean):1	4(nice):2	11(bed):2	12(friendly):1	14(helpful):1	25(comfortable):1	31(front):1	36(desk):1	43(leave):1	268(bedroom):1	279(touch):1	398(music):1	884(equip):1	1729(cd):1	
+11	33(trip):1	40(love):1	71(include):1	147(business):1	272(world):1	322(recently):1	515(plaza):1	2576(crowne):1	2721(washington):1	2759(disney):1	4311(orlando):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great deal We booked this hotel 24 hours in advance on priceline and got a GREAT deal - $45! The room was cool and clean. there's an indoor pool in the lobby with a waterfall. Would definitely stay here again.  
+<Date>Jul 16, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	59(definitely):1	
+5	18(book):1	60(hour):1	140(deal):2	685(advance):1	1069(priceline):1	
+2	3(clean):1	278(cool):1	
+0	
+0	
+0	
+4	22(pool):1	55(lobby):1	1680(indoor):1	2280(waterfall):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Won't stay here again! I have stayed here several times over the last two years and have been fairly satisfied. I encountered a few issues with this stay and my last two stays that makes me never want to stay here again. First of all they have two different kinds of beds in the hotel and if you happen to be unfortunate as I was these last couple of stays and get the 枚ld beds then you are in for a terrible nights sleep. They claim they replaced all of the mattresses a few years ago but that is simply not true. It felt like I was sleeping on a concrete slab! The other issue was that there were bugs in my room. One was even under the covers in the bed. I am not sure what kind they are but I was really upset since I noticed them on my last night so I had been sleeping with them for three prior nights.The hotel is very humid and really not in the best area although I have never had any issues with safety there. The bugs were too much!  
+<Date>May 13, 2006
+<Rating>1	3	2	-1	2	-1	3	-1	
+<Aspects>
+11	265(issue):2	487(wo):1	488(simply):1	602(bug):1	633(ago):1	693(encounter):1	847(mattress):1	912(replace):1	1077(claim):1	1448(safety):1	1825(humid):1	
+0	
+19	2(night):3	5(time):1	11(bed):3	34(feel):1	99(couple):1	104(sleep):3	265(issue):1	354(notice):1	382(happen):1	432(terrible):1	462(fairly):1	552(cover):1	602(bug):1	637(prior):1	899(satisfy):1	1220(upset):1	2321(concrete):1	2663(unfortunate):1	6762(slab):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>JRWB1960
+<Content>The Sponge I just got back from 4 nights at the Crowne Plaza Phoenix. The centerpiece of this hotel is its indoor pool (the building is actually built around it) and as a result there is a pervasive humidity to the place...that's why we called it The Sponge. One other thing: they told me they recently converted to an all non smoking hotel but there was a slight aura of stale cigarettes in our room. Other than that it was fine. The lobby was nice. The room was a good size with comfortable beds and a fairly nice bathroom. The decor was fine and there was a CD player, coffee maker, plenty of towels, nice presentation, etc. Good strong a/c dispelled the humidity. My room was not noisy. I had four very good nights sleep. Also regarding the safety issue...Phoenix is an auto theft mecca and Peoria at I-17 is not exactly a high rent district. I don't know if I would hold the hotel responsible for a stolen auto. Be careful not to leave valuables in a car ANYWHERE in Phoenix. Given the neighborhood it did disturb me that the side and back doors were unlocked after dark. Overall, it was OK and served its purpose as a place to sleep and shower.  
+<Date>Apr 4, 2006
+<Rating>2	4	2	-1	5	-1	4	-1	
+<Aspects>
+22	43(leave):1	54(door):1	113(fine):1	121(car):1	265(issue):1	421(neighbourhood):1	433(district):1	459(dark):1	586(exactly):1	893(strong):1	897(careful):1	930(regard):1	1030(rend):1	1067(disturb):1	1448(safety):1	1765(phoenix):2	1935(valuable):1	2115(humidity):1	3465(theft):1	3599(unlock):1	5923(auto):1	8590(mecca):1	
+0	
+22	2(night):1	4(nice):1	11(bed):1	13(bathroom):1	25(comfortable):1	61(shower):1	69(tell):1	70(overall):1	83(size):1	104(sleep):2	123(ok):1	174(serve):1	217(noisy):1	322(recently):1	462(fairly):1	468(smoke):1	1297(slight):1	1365(cigarette):1	1428(purpose):1	2052(stale):1	2079(convert):1	10996(aura):1	
+5	2(night):1	515(plaza):1	1765(phoenix):1	2576(crowne):1	6256(sponge):1	
+0	
+0	
+16	4(nice):2	55(lobby):1	73(etc):1	90(coffee):1	113(fine):1	125(towel):1	158(plenty):1	269(decor):1	593(hold):1	996(maker):1	1076(player):1	1187(steal):1	1729(cd):1	1932(presentation):1	3277(responsible):1	5923(auto):1	
+10	22(pool):1	67(call):1	135(build):2	180(actually):1	1109(result):1	1680(indoor):1	2115(humidity):1	6256(sponge):1	12092(pervasive):1	12425(centerpiece):1	
+
+<Author>A TripAdvisor Member
+<Content>robbed twice beware We had a hard time finding a hotel since all hotels in the area were full and we thought we could save a few dollars at the crowne plaza instead of staying at the higher price resort which were twice the price. first let me tell you are first experience with crowne plaza in phoenix off of peoria . we stayed the night in 2004 . I woke up to find that my vehicle was robbed and vandalized , it was parked in front of the lobby under the parking lot lights every thing was stolen from my vehicle. .he next time i stayed was march 2006 , giving crowne plaza a chance. Wrong idea i woke up and went to my truck , opened the door and tried to put the key in the ignition . The ignition was torn to shreds and the passenger door lock was missing. Management claims the have security. Bell man said the night before a vehicle was stolen. there are no security cameras and to tell the truth it must be an inside job. BEWARE. find a better neighborhood!  
+<Date>Apr 1, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	2(night):1	54(door):1	253(tried):1	339(key):1	421(neighbourhood):1	427(wrong):1	554(wake):1	639(idea):1	737(beware):1	1507(truck):1	
+15	5(time):1	19(price):2	44(experience):1	69(tell):1	72(resort):1	162(hard):1	347(twice):2	353(instead):1	425(save):1	430(dollar):1	515(plaza):2	737(beware):1	1765(phoenix):1	2576(crowne):2	3005(rob):1	
+6	69(tell):1	408(inside):1	481(job):1	641(security):1	1646(camera):1	2558(truth):1	
+5	5(time):1	515(plaza):1	615(march):1	689(chance):1	2576(crowne):1	
+0	
+0	
+20	2(night):1	31(front):1	38(lot):1	54(door):1	55(lobby):1	66(park):2	157(light):1	276(miss):1	525(management):1	554(wake):1	641(security):1	774(lock):1	801(bell):1	1077(claim):1	1187(steal):2	1605(tear):1	1951(vehicle):3	2684(passenger):1	3005(rob):1	8453(shred):1	
+0	
+
+<Author>KSGreer
+<Content>Good value This hotel we found to be clean, well-staffed, and convenient as it is located right near the freeway. I think the three-star rating is reasonable, as it was a nice hotel but nothing above average. Nicely decorated, and the room was well-furnished but small. There is some noticeable wear and tear, all minor, that comes from being an older and non-luxury hotel. Inexplicably there was no phone book in our room. The bed was firm but comfortable enough for sleep, with lots of pillows, and we experienced none of the noise problems that other guests have complained of (aside from usual pool noise before 9pm or so). Had no experience with the internet, but the restaurant had excellent breakfasts. Not the cheapest, but the food was fresh and quite delectable.Should we return we'd probably prefer to stay in nearby Scottsdale, as we spent more time there, but for a traveler looking for a reasonably priced, decent hotel in the city this is a good choice.  
+<Date>Feb 28, 2006
+<Rating>3	4	3	-1	3	-1	4	-1	
+<Aspects>
+0	
+30	3(clean):1	4(nice):1	5(time):1	16(food):1	19(price):1	20(look):1	39(return):1	41(city):1	64(spend):1	78(rate):1	81(value):1	84(locate):1	102(near):1	107(choice):1	143(cheap):1	178(probably):1	186(convenient):1	197(fresh):1	227(average):1	232(nearby):1	257(decent):1	267(traveler):1	273(reasonable):1	536(prefer):1	578(reasonably):1	2318(freeway):1	4881(scottsdale):1	6215(three-star):1	9522(delectable):1	12375(well-staff):1	
+20	11(bed):1	18(book):1	22(pool):1	25(comfortable):1	38(lot):1	44(experience):1	91(guest):1	94(noise):2	104(sleep):1	241(complain):1	296(phone):1	303(pillow):1	305(decorate):1	404(nicely):1	573(none):1	682(usual):1	1368(firm):1	1502(aside):1	7415(well-furnish):1	9830(inexplicably):1	
+0	
+0	
+0	
+9	6(breakfast):1	10(restaurant):1	21(excellent):1	44(experience):1	97(internet):1	434(wear):1	720(minor):1	1605(tear):1	3246(noticeable):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>I'm here now on business but it's will be my last stay here. The noise on the I-17 facing rooms provokes insanity. I believe locals must use that stretch of interstate as a drag strip...and on a Monday night too. Every third vehicle in Arizona has no muffler, based upon my experience. Staff was responsive and moved me to an internal pool-facing room which was quiet....until the AC came on and there was a contiuous rattle of the fan motor. The hotel is old, carpet is worn and lumpy, beds are extra firm and not particularly comfortable. Hi-speed access is slowwwwww, on the order of 56K modem slow. Breakfast buffet is complimentary and is pretty good if you arrive early to breakfast.Overall, I am not satisfied. You can do better with the Four Point Sheraton. If you are staying in this area, there are several Marriots (Courtyard, Springhill Suites, Residence Inn) and my preference for future visits is the Sheraton Four Points about 1 mile from here.  
+<Date>Feb 8, 2006
+<Rating>3	2	2	-1	3	-1	4	-1	
+<Aspects>
+11	2(night):1	70(overall):1	195(local):1	312(believe):1	899(satisfy):1	1013(sheraton):1	1379(strip):1	1577(monday):1	1586(stretch):1	1699(drag):1	5011(interstate):1	
+5	44(experience):1	284(base):1	532(third):1	1951(vehicle):1	3580(arizona):1	
+28	0(staff):1	11(bed):1	25(comfortable):1	58(quiet):1	65(visit):1	94(noise):1	108(suite):1	128(extra):1	207(move):1	324(inn):1	396(carpet):1	434(wear):1	435(courtyard):1	553(particularly):1	661(fan):1	692(mile):1	732(future):1	956(ac):1	1013(sheraton):1	1368(firm):1	1840(residence):1	2268(preference):1	2336(motor):1	2351(responsive):1	2869(internal):1	3162(lumpy):1	4511(rattle):1	8299(springhill):1	
+1	147(business):1	
+0	
+0	
+5	6(breakfast):2	53(arrive):1	77(buffet):1	109(pretty):1	345(complimentary):1	
+4	159(access):1	455(slow):1	7055(modem):1	9150(hi-speed):1	
+
+<Author>matt_tx00
+<Content>Found it to be a bit overpriced Stayed here with some family members for one night in mid January 2006 on the way from the Phoenix airport. I have to admit first off that we didn't stay here long - we got in late (around midnight) and left fairly early the next morning. The location is fine - along I-17 about 15 miles north of downtown Phoenix. The hotel lobby is very nice - a design that matches well with the desert outside. For a hotel like the Crowne Plaza, the room was just average I thought. However, the beds were very comfortable. The one major problem we had while staying here was with the AC/heater - we couldn't get the heater to shut off all night even though we had the temperature set correctly. So the room was way too hot. I couldn't imagine what it would be like if you had a similar problem staying here during Phoenix's summer. There's not really much near this hotel - we had to drive quite a ways to find a decent restaurant or even a gas station. That seems to be what Phoenix is like in general.I am a member of the Priority Club, and they gave me passes for two free happy hour drinks, and a pass for a free breakfast buffet. Never did take a chance on either of these though. The bar in the lobby (99 degrees) looked pretty nice, so I'm thinking the happy hour is probably pretty well done here.We paid $127 for our stay here for one night. I'm confident that you could find equally nice in Phoenix for less than this.  
+<Date>Jan 17, 2006
+<Rating>3	2	4	-1	4	-1	3	-1	
+<Aspects>
+16	2(night):1	4(nice):1	234(set):1	315(major):1	689(chance):1	733(imagine):1	853(summer):1	874(similar):1	944(temperature):1	956(ac):1	1086(shut):1	1765(phoenix):3	1782(equally):1	2361(heater):1	2972(correctly):1	4052(confident):1	
+9	2(night):2	42(pay):1	52(bit):1	95(airport):1	106(family):1	727(overprice):1	1018(january):1	1313(mid):1	1765(phoenix):1	
+12	11(bed):1	25(comfortable):1	43(leave):1	56(morning):1	79(late):1	114(hot):1	227(average):1	462(fairly):1	515(plaza):1	1044(midnight):1	1282(admit):1	2576(crowne):1	
+18	1(location):1	4(nice):1	10(restaurant):1	55(lobby):1	82(station):1	98(outside):1	102(near):1	113(fine):1	257(decent):1	298(drive):1	334(downtown):1	516(design):1	684(North):1	692(mile):1	1476(match):1	1706(desert):1	1765(phoenix):1	2632(gas):1	
+0	
+0	
+16	4(nice):1	6(breakfast):1	20(look):1	27(bar):1	46(free):2	55(lobby):1	60(hour):2	63(drink):1	77(buffet):1	109(pretty):2	155(happy):2	178(probably):1	212(club):1	400(pass):2	1252(degree):1	1985(priority):1	
+0	
+
+<Author>vero_isa
+<Content>Noisy hotel! The room was clean and comfortable as I normally would expect from a Crowne Plaza Hotel. The bathroom was sparkling clean, spacious, and with granite counters. The free continental breakfast and happy hour drinks were nice extras. However, I encountered several difficulties with the hotel. I have reserved a non-smoking room and when I first walked into the room, a huge cigarette odor welcome me to the room. The room was designated as non-smoking room, but it was obvious that the previous guests were smokers and the hotel鈥檚 housekeeping failed to deodorize the room before I checked-in. Those non-smokers would understand how tough it's to sleep in a room with cigarettes odor. I even had to move my clothes to the bathroom and close the bathroom door to avoid the cigarette odor sticking to my clothes. Extremely disappointing!! Being that this hotel is located right next to the highway ( 17 north), the traffic noise can get extremely loud. I suspected the noise problem when I learned that the hotel was right next to the highway and when booking my reservation, I requested a room away from the highway. As the cigarette odor wasn鈥檛 enough, I get assigned a room facing the highway and generators. This demonstrated a lack of consideration and hospitality to my special requests. The funny thing is that the hotel understands that they have a noise problem. The hotel gives out free gift package to their guest that contains a music CD with sleeping music, ear plugs, eye mask, and pillow sprays to ease you into your sleeps. However, that didn鈥檛 help me getting much rest at night specially when fire truck sirens, trailer trucks, and early-morning rush hour traffic kept waking me up. I requested a room change, but lady at front desk kept telling me that it was the only room available that point. The housekeeping came to vaporize the room, but the traffic noise never got any better. So if you need a good night rest or you are a light sleeper like me, STAY AWAY from this hotel.  
+<Date>Oct 31, 2005
+<Rating>3	4	4	-1	2	-1	1	-1	
+<Aspects>
+8	94(noise):1	110(extremely):1	154(disappoint):1	217(noisy):1	391(understand):1	693(encounter):1	1156(funny):1	1777(difficulty):1	
+0	
+48	2(night):1	3(clean):1	7(walk):1	13(bathroom):3	28(close):1	46(free):1	54(door):1	91(guest):1	94(noise):1	104(sleep):3	111(spacious):1	133(huge):1	157(light):1	202(welcome):1	207(move):1	288(rest):1	303(pillow):1	367(housekeeping):1	391(understand):1	398(music):2	436(avoid):1	486(traffic):1	506(reserve):1	527(package):1	688(stick):1	709(clothe):2	852(gift):1	977(eye):1	978(nonsmoking):1	1001(counter):1	1099(spray):1	1174(plug):1	1299(sleeper):1	1365(cigarette):4	1545(contain):1	1628(odor):4	1665(tough):1	1684(ear):1	1722(assign):1	1729(cd):1	1829(wasn):1	1870(highway):1	1919(sparkle):1	2057(ease):1	2793(granite):1	3480(mask):1	4887(non-smoker):1	5920(generator):1	
+26	2(night):1	3(clean):1	25(comfortable):1	60(hour):1	62(expect):1	84(locate):1	92(help):1	94(noise):1	110(extremely):1	126(especially):1	288(rest):1	416(loud):1	486(traffic):2	515(plaza):1	554(wake):1	684(North):1	1022(didn):1	1091(normally):1	1244(rush):1	1262(fire):1	1507(truck):2	1870(highway):1	2282(siren):1	2576(crowne):1	9054(trailer):1	12693(early-morn):1	
+9	91(guest):1	367(housekeeping):1	373(previous):1	978(nonsmoking):1	1576(fail):1	1698(obvious):1	2226(smoker):1	3971(designate):1	5223(checked-in):1	
+18	18(book):1	31(front):1	36(desk):1	69(tell):1	94(noise):1	134(available):1	148(request):3	156(reservation):1	161(change):1	208(special):1	349(lack):1	521(lady):1	703(learn):1	1115(hospitality):1	1870(highway):2	1983(suspect):1	2583(consideration):1	6245(demonstrate):1	
+8	4(nice):1	6(breakfast):1	46(free):1	60(hour):1	63(drink):1	128(extra):1	155(happy):1	372(continental):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A Must Stay Where do I begin. This was my first trip to Phoenix and I chose this hotel because I got a really nice discounted rate. And I must say, this hotel is EXCELLENT!!! I LOVED, LOVED, LOVED, this hotel!! I checked in on a Saturday and checked out on Wednesday and loved every minute. The decor is beautiful. The cleanliness of the hotel was definitely top notch. And the entire staff definitely deserved an A plus all around. They were very friendly, helpful, and extremely attentive to all of my needs. My room faced the indoor swimming pool, and I heard no noise from the pool at all. They have an indoor and outdoor pool and whirlpool. I was able to test out the outdoor whirlpool, and despite it being 95 degrees out, I enjoyed it. The hot breakfast buffet was worth every penny. The location of the hotel couldn't be better either. There's lots of shopping 5 minutes away, and there was a beautiful scenic park 10 minutes away where I took some lovely photos of the mountains. So if you're looking for something better than the average hotel, and not as pricey as those 5 star ones (but just as nice), you must stay here. You will not be diappointed.  
+<Date>Oct 5, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+17	12(friendly):1	14(helpful):1	21(excellent):1	22(pool):1	40(love):3	51(enjoy):1	110(extremely):1	171(able):1	498(despite):1	537(attentive):1	551(begin):1	901(outdoor):2	1252(degree):1	1680(indoor):1	2790(whirlpool):2	2922(test):1	10831(diappoint):1	
+10	4(nice):2	20(look):1	33(trip):1	78(rate):1	103(star):1	167(choose):1	227(average):1	546(pricey):1	864(discount):1	1765(phoenix):1	
+7	22(pool):2	45(beautiful):1	94(noise):1	132(hear):1	261(swim):1	269(decor):1	1680(indoor):1	
+10	1(location):1	29(minute):2	38(lot):1	45(beautiful):1	49(shop):1	66(park):1	87(lovely):1	761(photo):1	1509(mountain):1	3103(scenic):1	
+4	59(definitely):1	118(top):1	854(cleanliness):1	1227(notch):1	
+10	0(staff):1	29(minute):1	32(check):2	40(love):1	59(definitely):1	203(plus):1	329(entire):1	818(saturday):1	1072(deserve):1	2665(wednesday):1	
+5	6(breakfast):1	77(buffet):1	96(worth):1	114(hot):1	1590(penny):1	
+0	
+
+<Author>CactusPatch
+<Content>Arizona Cup Archery Tournament The Arizona State Archery Association hosts the Arizona Cup Olympic and International style Archery Tournament every year. The archers told us a few years ago that when they travel to compete they want to stay at a place where they can be comfortable and focus on the tournament. We began working with the Crowne Plaza Metro Center Phoenix in 2003 and have received thanks from the archers every year for naming the CP as the tournament hotel. They appreciate the nice breakfast, elegant high fashion public spaces that still have a southwestern feel and the indoor and outdoor pool.The rooms with two queen size beds are just the right size.The property is the only hotel in the North Phoenix area that offers an elegant environment without destination hotel prices. It is the perfect balance between those that need tour support and those that are independent travelers.  
+<Date>Oct 4, 2005
+<Rating>5	5	5	-1	5	-1	4	-1	
+<Aspects>
+21	25(comfortable):1	68(travel):1	69(tell):1	74(perfect):1	181(tour):1	267(traveler):1	326(style):1	633(ago):1	800(cup):2	903(international):1	1283(host):1	2286(olympic):1	2425(balance):1	2448(support):1	2480(focus):1	3580(arizona):3	3860(independent):1	3941(compete):1	4008(archery):3	5174(tournament):3	7679(association):1	
+8	19(price):1	89(offer):1	214(property):1	684(North):1	986(elegant):1	1092(destination):1	1712(environment):1	1765(phoenix):1	
+15	4(nice):1	6(breakfast):1	11(bed):1	22(pool):1	34(feel):1	83(size):2	210(space):1	379(public):1	500(appreciate):1	543(Queen):1	901(outdoor):1	986(elegant):1	1680(indoor):1	1745(fashion):1	10010(southwestern):1	
+11	101(center):1	235(metro):1	271(thank):1	295(name):1	302(receive):1	515(plaza):1	551(begin):1	1765(phoenix):1	2576(crowne):1	5174(tournament):1	12465(cp):1	
+0	
+0	
+0	
+0	
+
+<Author>RANDY823
+<Content>Outstanding I stayed at this great Hotel for two nights. (Sat. and Sunday) Overall, this is one of the best Hotel experiences I have ever had. My Room had the Indoor Pool just outside my front door and the outdoor Pool was a sliding glass door away, out of the other side of my Room. It was the best of the best.The staff was there to take care of any need I had. Always a smile and a thank you. Who could ask for more?Each guest receives a ticket for two free drinks at the inhouse Bar and Grill. The food was great and the big screen made watching sports a pleasure.Each morning you will enjoy the breakfast buffett, this is also free! Although there is a charge for hot items.The best part of this stay was the room rate. In the past, I stayed at Hotels with similar features and paid TWICE the rate I paid at the Crown Plaza. If you want a great place to stay that is good for kids and business people alike, this IS the place to stay.  
+<Date>Sep 25, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+5	2(night):1	169(sit):1	271(thank):1	387(smile):1	534(outstanding):1	
+11	42(pay):2	44(experience):1	70(overall):1	78(rate):1	347(twice):1	419(past):1	515(plaza):1	731(feature):1	844(sunday):1	874(similar):1	3194(crown):1	
+9	22(pool):2	31(front):1	54(door):2	78(rate):1	98(outside):1	327(glass):1	901(outdoor):1	1142(slide):1	1680(indoor):1	
+4	26(people):1	147(business):1	201(kid):1	3764(alike):1	
+0	
+5	0(staff):1	114(hot):1	136(charge):1	242(care):1	519(item):1	
+17	6(breakfast):1	16(food):1	27(bar):1	46(free):2	51(enjoy):1	56(morning):1	63(drink):1	91(guest):1	245(watch):1	302(receive):1	526(screen):1	621(ticket):1	629(grill):1	907(pleasure):1	919(sport):1	2788(buffett):1	9145(inhouse):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Yes! Yes! Did I Say Yes?! The inviting lobby of the Crowne Plaza in Phoenix, Arizona reminded me of home; vibrant colors and personality. Loved the lobby's decor and big energy; a courageous and refreshing departure from Phoenix's sand-colored everything. The bar/lounge area was suitably cozy with good food and big screen TV. No, we didn't sleep in the lobby or on the bar's pool table. Our non-smoking room was CLEAN, SPACIOUS and had NO ODORS. Thank God. Have to admit, I was nervous booking a hotel I'd never stayed at before but Hotwire did us right this time. And the fact that the bartender knew how to make a REAL cosmopolitan?! Nice.What I applaud this hotel for mostly though....and VALUE in any hotel......is STAFF. A big, fat 10 goes to the lobby and hospitality staff at the Crowne Plaza, Phoenix! Every hotel has its problems but what separates the average from the commendable is the willingness of its staff to make your stay, in the end, remembered as comfortable and pleasant. When the data port in our room wasn't working, within 10 minutes of our call, 2 service technicians arrived to fix it. When they couldn't, the hospitality staff invited us into their office where we were told to use their computer as long as we liked. We had come to Phoenix to house hunt so the internet was critical. Even though they were right in the middle of scheduling someone's wedding reception, they turned to us and said, No problem. Do you need the printer too? Sweet.We had booked a room overlooking the inside pool. Our mistake; nice pool.....big noise. We asked to change rooms for the second night and the desk clerk said, Let's upgrade that room for you. By now, I'm starting to think about writing a review for this place. What else? ATM in the lobby, fitness center, laundry, computer room and a cute little sleep pouch with a relaxation CD in it (obviously, for the sleep-challenged people in the pool rooms but, nonetheless, a nice touch.) Staff smiles abounded, house-keeping ladies did their job well and we looked forward to returning to the hotel after long days looking at pigeon infested houses! (Before you decide to move to Phoenix, do your homework. No matter what the real estate agents and residents say, (like WHAT PIGEONS?), this place has a problem.) I digressed. This is supposed to be about the hotel. Anyway.......Yes, stay at the Crowne Plaza. If comfort, hospitality and cleanliness matter, no disappointments here. When we visit Phoenix again (but NOT to buy a coop), we will certainly consider the Crowne! HAPPY TRAVELS! D  
+<Date>Aug 1, 2005
+<Rating>4	4	5	-1	5	-1	5	-1	
+<Aspects>
+30	4(nice):2	22(pool):1	65(visit):1	68(travel):1	94(noise):1	155(happy):1	170(else):1	207(move):1	219(decide):1	240(real):1	248(consider):1	250(yes):3	271(thank):1	280(buy):1	417(anyway):1	531(matter):1	620(suppose):1	766(agent):1	895(mistake):1	950(sweet):1	1522(god):1	1765(phoenix):2	1988(resident):1	2328(printer):1	2576(crowne):1	4434(homework):1	4651(estate):1	5951(pigeon):1	8816(digress):1	10484(coop):1	
+5	37(review):1	81(value):1	165(start):1	344(write):1	8264(applaud):1	
+46	0(staff):1	2(night):1	8(day):1	9(service):1	16(food):1	18(book):1	20(look):2	22(pool):1	27(bar):1	29(minute):1	36(desk):1	39(return):1	40(love):1	53(arrive):1	55(lobby):1	67(call):1	97(internet):1	116(tv):1	161(change):1	163(upgrade):1	260(overlook):1	269(decor):1	281(house):2	387(smile):1	408(inside):1	481(job):1	494(fix):1	521(lady):1	526(screen):1	749(cozy):1	750(forward):1	788(clerk):1	1031(departure):1	1271(refresh):1	1288(port):1	1765(phoenix):2	2139(energy):1	3452(critical):1	3588(hunt):1	3842(infest):1	4300(abound):1	5319(technician):1	5951(pigeon):1	7921(data):1	8287(suitably):1	9340(house-keepe):1	
+15	0(staff):1	55(lobby):2	141(home):1	250(yes):1	515(plaza):3	942(color):1	1115(hospitality):1	1210(invite):1	1285(remind):1	1765(phoenix):2	2522(personality):1	2576(crowne):3	3189(vibrant):1	3580(arizona):1	3581(fat):1	
+9	3(clean):1	111(spacious):1	531(matter):1	702(comfort):1	854(cleanliness):1	866(disappointment):1	978(nonsmoking):1	1115(hospitality):1	1628(odor):1	
+17	0(staff):3	25(comfortable):1	69(tell):1	129(reception):1	150(pleasant):1	227(average):1	325(middle):1	375(remember):1	474(separate):1	555(computer):1	604(wed):1	792(office):1	1115(hospitality):1	1196(schedule):1	1210(invite):1	6340(willingness):1	12527(commendable):1	
+13	5(time):1	18(book):1	22(pool):1	27(bar):1	55(lobby):1	104(sleep):1	229(table):1	240(real):1	676(bartender):1	1282(admit):1	1408(nervous):1	1824(hotwire):1	4652(cosmopolitan):1	
+18	4(nice):1	22(pool):1	23(little):1	26(people):1	55(lobby):1	101(center):1	104(sleep):1	279(touch):1	555(computer):1	781(obviously):1	983(fitness):1	1075(laundry):1	1202(cute):1	1662(relaxation):1	1729(cd):1	2405(atm):1	2652(nonetheless):1	11074(pouch):1	
+
+<Author>A TripAdvisor Member
+<Content>very convenient stayed there 4 nites march 29-april 1 2004 for some training at the conference center. the reviewer above me stayed at the same time and i wonder if we were in the same hotel? my experience was very nice. i got a ticket each morning for the breakfast buffet. there is an indoor pool but it is not noisy, and the outdoor pool is nice as well..cold air conditioning. however the indoor jacuzzi did emit tepid water--not hot...there were a lot of people from all over the world and europe staying for an archery competition and even with that i did not feel the hotel was overbooked...actually quite serene at times..also the place is very convenient across the street to all chain restaurants and stores...the rooms on the west side face the hiway which may be a bit noisy for some, but the big window coverings obstructed the noise at nite for me.  
+<Date>Apr 2, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	4(nice):1	5(time):1	22(pool):2	217(noisy):1	564(reviewer):1	901(outdoor):1	946(wonder):1	1680(indoor):1	
+2	4(nice):1	44(experience):1	
+16	10(restaurant):1	35(street):1	52(bit):1	94(noise):1	119(window):1	164(air):1	186(convenient):1	217(noisy):1	222(cold):1	255(store):1	263(condition):1	627(chain):1	953(west):1	1895(nite):1	5557(obstruct):1	8090(covering):1	
+6	101(center):1	182(train):1	186(convenient):1	615(march):1	794(conference):1	1895(nite):1	
+0	
+0	
+21	5(time):1	6(breakfast):1	26(people):1	34(feel):1	38(lot):1	56(morning):1	57(water):1	77(buffet):1	114(hot):1	180(actually):1	272(world):1	621(ticket):1	700(europe):1	808(jacuzzi):1	1680(indoor):1	2068(overbooke):1	3161(competition):1	3276(serene):1	4008(archery):1	7236(tepid):1	9342(emit):1	
+0	
+
+<Author>tmalone
+<Content>Over Their Heads.... We stayed at the Crown Plaza for 4 nights beginning March 24, 2004. They had overbooked the hotel...were asking guests to move to another property and then return to the CP the next day. They finally gave us a double bed room that was very substandard...smelly pillows, shower that dribbled water...noisy ac...and smelled like smoke (even though it was supposed to be non-smoking).The promise was they would move us to a king/non-smoking room the next day. After a long and frustrating conversation,the next morning, we ended up with a king/smoking room (only option available). They called our room later in the day and asked what are you doing in that room, you are not registered guests. Finally was able to show them that we were registered and had switched rooms at their direction.As we were having guests over one afternoon, we asked to have our room cleaned by noon...it was finally cleaned at 3:30!! One of the most challenging stays we have ever had...anywhere. In their defense, they were extremely busy, but they certainly were over their heads and openly admitted it. I would avoid this property during the busy tourist season.  
+<Date>Mar 29, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	1708(challenge):1	
+0	
+34	3(clean):2	8(day):2	11(bed):1	56(morning):1	57(water):1	61(shower):1	67(call):1	79(late):1	91(guest):2	134(available):1	171(able):1	179(double):1	207(move):1	217(noisy):1	231(smell):1	243(king):2	303(pillow):1	336(option):1	341(finally):3	364(afternoon):1	395(direction):1	468(smoke):1	620(suppose):1	888(switch):1	956(ac):1	975(promise):1	978(nonsmoking):1	1281(conversation):1	1309(noon):1	1574(frustrate):1	1697(smelly):1	2833(register):2	4341(substandard):1	8873(dribble):1	
+15	2(night):1	110(extremely):1	209(tourist):1	214(property):1	220(busy):2	319(head):2	436(avoid):1	515(plaza):1	551(begin):1	610(season):1	615(march):1	1282(admit):1	3194(crown):1	6543(defence):1	8369(openly):1	
+0	
+0	
+7	8(day):1	39(return):1	91(guest):1	207(move):1	214(property):1	2068(overbooke):1	12465(cp):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>An average Crowne Plaza As a business traveler, I've stayed at many Crowne Plaza hotels. This particular hotel, while not bad, is certainly not the finest Crowne Plaza has to offer. The large atrium section is strangely devoid of any character, as if they haven't decided what motif to go with yet. Many of the large planters in the atrium are empty, and with the dark lighting it gives the hotel an impersonal, cavernous feel. Plus, the indoor pool is right in the center of the atrium, so forget about peace and quiet until about 9pm. The rooms themselves are okay, about the same as your average Holiday Inn. I would stay here as an alternative to a Holiday Inn or similar, but if you are looking for something nicer, I suggest one of the nearby Hiltons or Marriotts.  
+<Date>Feb 17, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+17	4(nice):1	20(look):1	219(decide):1	223(holiday):1	232(nearby):1	324(inn):1	452(suggest):1	874(similar):1	947(section):1	1049(character):1	1298(alternative):1	1968(atrium):1	4089(strangely):1	4527(hiltons):1	4858(marriotts):1	6516(motif):1	7308(devoid):1	
+0	
+19	22(pool):1	34(feel):1	58(quiet):1	101(center):1	157(light):1	203(plus):1	223(holiday):1	227(average):1	324(inn):1	397(forget):1	453(okay):1	459(dark):1	810(empty):1	1059(themselves):1	1517(peace):1	1680(indoor):1	1968(atrium):2	2754(impersonal):1	9841(cavernous):1	
+9	50(bad):1	89(offer):1	113(fine):1	147(business):1	227(average):1	267(traveler):1	515(plaza):3	938(particular):1	2576(crowne):3	
+0	
+0	
+0	
+0	
+

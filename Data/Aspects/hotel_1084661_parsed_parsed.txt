@@ -1,0 +1,476 @@
+<Author>lovetravelling090
+<Content>Lack of Security and Customer Service My room was broken into and all my belongings stolen. No offer was made to replace my belongings nor was I provided with a new room even though the one I was staying in had a smashed window. Unstandably this sort of thing does happen but very disappointed with how the staff handled all aspects of the situation.  
+<Date>Dec 22, 2008
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+7	89(offer):1	119(window):1	153(provide):1	912(replace):1	970(nor):1	2426(belongings):1	4754(smash):1	
+0	
+0	
+7	0(staff):1	154(disappoint):1	382(happen):1	557(sort):1	890(situation):1	966(handle):1	1255(aspect):1	
+7	9(service):1	228(break):1	349(lack):1	428(customer):1	641(security):1	1187(steal):1	2426(belongings):1	
+0	
+
+<Author>Raistlino
+<Content>Awful experience This hotel is a trap. It offers low rates, but actually it makes you pay for everything: business center, gym, even the DIY laundry. The restaurant is available only for breakfast, and for 18 AUD you are advised to go elsewhere and have some better food.Internet connectivity is available, sure: it costs 27 AUD per day, plus 10 cents per megabyte over 100. Result: a couple of skype calls and ordinary e-mail reading, and you're already above the limit.The hotel is old and the rooms have seen better days. The minibar in the room is empty, the coffeemaking facilities have awful coffee... all in all, every single detail is not satisfactory.  
+<Date>Dec 14, 2008
+<Rating>1	2	2	3	2	1	1	1	
+<Aspects>
+7	67(call):1	88(read):1	99(couple):1	510(limit):1	1109(result):1	2025(ordinary):1	11957(skype):1	
+11	8(day):1	44(experience):1	97(internet):1	134(available):1	175(cost):1	203(plus):1	736(awful):1	1888(cent):1	2166(trap):1	5360(aud):1	6261(connectivity):1	
+1	8(day):1	
+0	
+0	
+0	
+25	6(breakfast):1	10(restaurant):1	16(food):1	42(pay):1	78(rate):1	89(offer):1	90(coffee):1	101(center):1	134(available):1	147(business):1	180(actually):1	211(facility):1	304(single):1	513(low):1	523(gym):1	592(detail):1	646(elsewhere):1	663(advise):1	736(awful):1	810(empty):1	1037(minibar):1	1075(laundry):1	2059(satisfactory):1	5360(aud):1	11219(diy):1	
+0	
+
+<Author>love_reviewing
+<Content>Not Understanding I booked this hotel for my inlaws to have a weekend away. Unfortunately, there was an electrical storm in sydney and my inlaws could not make it there at all as their flights were cancelled. I called to see if they could offer a voucher for another time that i could organise flights again. However, i was told that they could not do such. It is terribly disappointing as I felt that the hotel could be more understanding of the situation.  
+<Date>Dec 12, 2008
+<Rating>1	1	1	1	1	1	1	1	
+<Aspects>
+6	34(feel):1	69(tell):1	154(disappoint):1	391(understand):1	890(situation):1	1910(terribly):1	
+0	
+11	5(time):1	67(call):1	89(offer):1	233(flight):2	524(unfortunately):1	809(sydney):1	1065(cancel):1	1167(organize):1	1750(voucher):1	1884(storm):1	2555(electrical):1	
+0	
+0	
+0	
+3	18(book):1	172(weekend):1	391(understand):1	
+0	
+
+<Author>moominoid
+<Content>Good Value for Money I stayed here about ten years ago when the hotel first opened and was perfectly satisfied with my stay. Read a lot of negative reviews on TripAdvisor, but despite this we booked again given the great location and reasonable price. We were upgraded for some reason to a two room suite which had a view of the Sydney CBD. Generally the room was fine, there were just a few issues:1. The air conditioner in the bedroom was extremely noisy and it was impossible to sleep with it on. It got rather hot and stuffy around 4am when I got up switched it on for a bit and then turned it off and went back to sleep. 2. The internet service in the room is extremely expensive - 55 cents a minute with a cap at $27 per day. And given that it isn't even wireless. Also you had to use the ethernet cable provided (as it couldn't be removed from the socket) and it prevented working in a more comfortable location in the room (I brought my own very long cable). 3. The hotel has parking underneath the building but it is more expensive than the car park at the other end of Thomas Street. Also when we showed up someone was parked across the entrance so we couldn't use it anyway. It's good we weren't already parked in the carpark and couldn't get out!  
+<Date>Dec 11, 2008
+<Rating>3	4	3	5	3	4	-1	2	
+<Aspects>
+0	
+23	1(location):1	8(day):1	9(service):1	18(book):1	19(price):1	29(minute):1	37(review):1	38(lot):1	80(money):1	81(value):1	88(read):1	97(internet):1	110(extremely):1	124(expensive):1	273(reasonable):1	282(negative):1	498(despite):1	595(perfectly):1	597(tripadvisor):1	633(ago):1	899(satisfy):1	1888(cent):1	2270(cap):1	
+30	1(location):1	17(view):1	25(comfortable):1	52(bit):1	104(sleep):2	108(suite):1	110(extremely):1	113(fine):1	114(hot):1	142(bring):1	153(provide):1	163(upgrade):1	164(air):1	166(own):1	217(noisy):1	265(issue):1	268(bedroom):1	374(reason):1	484(cable):2	809(sydney):1	888(switch):1	1083(conditioner):1	1135(remove):1	1169(impossible):1	1857(stuffy):1	2352(prevent):1	2731(cbd):1	3697(ethernet):1	4040(socket):1	10783(4am):1	
+10	35(street):1	66(park):4	121(car):1	124(expensive):1	135(build):1	417(anyway):1	490(entrance):1	2459(underneath):1	3736(thomas):1	4557(carpark):1	
+0	
+0	
+0	
+1	717(wireless):1	
+
+<Author>tripp0ne
+<Content>no good The hotel asks you to pay the full amount of your reservation at check-in and charges you for using basic things such as the safe box in the room. Not a good policy in my opinion. The hotel has a central location in Sydney, and this is the only positive aspect. My room was supposed to be a non-smoking one, but everything smelled strongly of smoke, and the windows could not be opened to let some fresh air in. The guy at the reception at nighttime had no clue about the internet rates, even though I asked some very simple questions to him: he seemed to have learned some technical words by heart, without really understanding what they meant. The morning receptionist (a girl) was much more friendly and helpful. Unfortunately I found a really big cockroach in the bathroom, and this encouraged me to check out of this place ASAP.  
+<Date>Sep 25, 2008
+<Rating>1	1	1	4	2	2	2	2	
+<Aspects>
+2	704(opinion):1	1634(policy):1	
+0	
+14	13(bathroom):1	32(check):1	119(window):1	164(air):1	197(fresh):1	231(smell):1	468(smoke):1	524(unfortunately):1	620(suppose):1	978(nonsmoking):1	1386(strongly):1	2110(cockroach):1	2241(encourage):1	3906(asap):1	
+5	1(location):1	168(central):1	458(positive):1	809(sydney):1	1255(aspect):1	
+0	
+27	12(friendly):1	14(helpful):1	42(pay):1	56(morning):1	78(rate):1	97(internet):1	129(reception):1	136(charge):1	137(safe):1	156(reservation):1	246(mean):1	286(check-in):1	352(basic):1	368(guy):1	391(understand):1	394(question):1	450(heart):1	571(word):1	613(simple):1	625(girl):1	666(amount):1	703(learn):1	855(receptionist):1	945(box):1	3154(clue):1	3701(night-time):1	6108(technical):1	
+0	
+0	
+
+<Author>Victorianlad
+<Content>Good value and quiet Looking skywards above the pleasant art deco of the streetside ground floor on busy George Street, this hotel would be dismissed by many passersby as 'grotty.'I checked in on a Friday at around 1230 after securing an A$109 woitif.com one night rate - room only. The 40yo or so male desk clerk was pleasant and efficient: my room was ready even though official checkin time is later.Rooms are arranged around a central courtyard and seemed quiet. There is no view to speak off but at least it is not a blank wall with which one is confronted.My room had two twin beds: one mattress was quite firm; the other sagged somewhat. This was the only item I felt could be improved.The room was spotless, as was the bathroom. Water pressure was excellent, and maintenance of the fixtures and fittings seemed good. save for one of the beds as noted. The room was also clean with the only evidence of wear being a tiny patch of carpet close to the entry from bedroom to bathroom.My checkout was handled quickly and my luggage was stored for the day as I requested.  
+<Date>Sep 23, 2008
+<Rating>4	4	3	4	5	5	3	-1	
+<Aspects>
+9	21(excellent):1	34(feel):1	57(water):1	519(item):1	686(pressure):1	1149(maintenance):1	1217(improve):1	1541(fixture):1	2379(fitting):1	
+0	
+41	2(night):1	3(clean):1	11(bed):2	13(bathroom):2	20(look):1	24(floor):1	28(close):1	32(check):1	35(street):1	58(quiet):2	78(rate):1	81(value):1	150(pleasant):1	168(central):1	220(busy):1	268(bedroom):1	297(note):1	338(tiny):1	396(carpet):1	425(save):1	434(wear):1	435(courtyard):1	548(spotless):1	651(somewhat):1	680(arrange):1	690(twin):1	706(grind):1	789(art):1	847(mattress):1	923(friday):1	1034(secure):1	1368(firm):1	1649(entry):1	2287(george):1	2770(deco):1	3261(evidence):1	3518(patch):1	4937(sag):1	5409(grotty):1	6727(dismiss):1	8177(streetside):1	
+5	17(view):1	127(speak):1	183(wall):1	4617(confront):1	4687(blank):1	
+0	
+17	5(time):1	8(day):1	36(desk):1	79(late):1	148(request):1	150(pleasant):1	249(luggage):1	255(store):1	274(ready):1	401(efficient):1	471(quickly):1	658(checkout):1	788(clerk):1	966(handle):1	1818(checkin):1	2295(male):1	2995(official):1	
+0	
+0	
+
+<Author>Paul38
+<Content>Nice hotel - much better than it looks I stayed here for two nights. The hotel is on George Street fairly close to Central station. It looks rather retro from the outside but inside it is clean and appeasing. The staff are very polite and professional. The rooms have televison, safe, refridgerator, ironing board and iron, desk, air-conditioning and a bathroom with shower. It is a little dated but very clean and comfortable. There is a bar and restaurant as well.  
+<Date>Sep 9, 2008
+<Rating>4	5	4	4	4	5	5	3	
+<Aspects>
+3	2(night):1	4(nice):1	20(look):1	
+0	
+15	3(clean):1	13(bathroom):1	20(look):1	36(desk):1	61(shower):1	98(outside):1	137(safe):1	408(inside):1	600(board):1	868(iron):2	2284(air conditioning):1	3851(refridgerator):1	4079(retro):1	11958(appease):1	12731(televison):1	
+6	28(close):1	35(street):1	82(station):1	168(central):1	462(fairly):1	2287(george):1	
+4	3(clean):1	23(little):1	25(comfortable):1	511(date):1	
+3	0(staff):1	422(polite):1	501(professional):1	
+2	10(restaurant):1	27(bar):1	
+0	
+
+<Author>longbich
+<Content>Great Southern Location Location Location Booked into The Great Southern using wotif.com for $69. It's one block from Central Railway Station which is the main station in Sydney. It's cheap for a downtown hotel. It has a basic restaurant which has a quirky rule of only serving Full Breakfasts (@ $18) so you cannot just get a coffee or a bacon  egg roll.The rooms are basic but clean. The hot water is set to comfortably warm so you needn't add any cold water at all for your shower. The bar on street level is popular with backpackers, office workers and inner city dwellers and has lots of cold beers on tap even Boags.It's right on George St., Sydney city's main street so you can stroll down to Circular Quay, The Rocks or up to Kings Cross if you aren't in a rush or to Chinatown right behind or nearby touristy places like Darling Harbour on the inner harbour. The main thing is that it's close to the rail station and all the bright lights but is relatively cheap.  
+<Date>Sep 6, 2008
+<Rating>4	4	3	5	3	5	3	3	
+<Aspects>
+0	
+2	143(cheap):1	334(downtown):1	
+10	3(clean):1	57(water):2	61(shower):1	114(hot):1	222(cold):1	234(set):1	236(warm):1	351(add):1	352(basic):1	2155(comfortably):1	
+44	1(location):3	18(book):1	27(bar):1	28(close):1	35(street):2	38(lot):1	41(city):2	82(station):3	100(bloc):1	112(main):3	143(cheap):1	157(light):1	168(central):1	222(cold):1	232(nearby):1	243(king):1	306(level):1	443(beer):1	561(harbor):2	655(st):1	773(rock):1	792(office):1	809(sydney):2	880(bright):1	913(relatively):1	1056(stroll):1	1125(worker):1	1132(chinatown):1	1228(cross):1	1244(rush):1	1277(popular):1	1470(touristy):1	1504(tap):1	1664(quay):1	1681(darling):1	1755(rail):1	1912(circular):1	2002(railway):1	2240(inner):2	2287(george):1	2502(southern):2	3997(backpacker):1	8402(wotif.com):1	11738(dweller):1	
+0	
+0	
+10	6(breakfast):1	10(restaurant):1	90(coffee):1	174(serve):1	352(basic):1	412(egg):1	813(roll):1	1057(bacon):1	1835(rule):1	2464(quirky):1	
+0	
+
+<Author>Onward64
+<Content>Not your usual four-stars If you're looking for the standard 'marble and brass' of most four-star hotels, then you'd be in for a bit of a shock at the Great Southern. This hotel is a 1920's pub that has been faithfully restored with a classic art-deco theme. At the same time, careful attention has been given to all the modern conveniences such as large wide screen LCD TV, ducted air and modern bathrooms. The fact that it is a real old-fashioned pub is both its strength and its weakness. It oozes character, but it is bound by the limitations of an old building; small box-like rooms without big windows, squeaky floors, small lifts etc. Despite it's modernisation, I still felt like I was staying in an old-style pub.The hotel is located close to Central station and in close proximity to Chinatown, markets and Darling Harbour. That makes it far more than a stroll to the main harbour area. However, buses run regularly down George Street and the train is quite close. It also means that it is in the rougher area of the city. Generally Sydney is very safe, but some people may feel more intimidated by the nightlife around this area of the city. Being on the main road, there was a little bit of noise. However, the double glazing reduced the worst of it. No noise from the pub below seemed to filter upstairs.Cheap counter meals are available at the pub downstairs. I couldn't see any sign of room service and the mini bar was empty. There were instructions on how to purchase items to place in the mini bar from the pub below. Not really what you expect from four-stars. Breakfast was satisfactory, offering cereals and a limited selection of hot dishes; Asian and English. There were no pastries and no fresh fruit. For an additional $18, I would rate the breakfast as ordinary value for money. Staff were helpful and courteous.However, the thing that impressed me the most was the bed. I have endured some pretty ordinary hotel beds. However, this bed was fantastic! It was incredibly comfortable, with a heavy, warm quilt and big fluffy pillows. If you choose your room on bed comfort, then this hotel is right up the top.However, the main reason that you would go to the Great Southern Hotel is the price. Rooms are discounted as low as $100 AU a night (without breakfast). You'd be lucky to find a dodgy two-star for less than that. This place is great value for money. As it is newly renovated, I suspect that this price is part of the drive to build up a customer base.If you're on a budget and your main concern is a clean, comfortable place to sleep, then you can't go past this hotel.  
+<Date>Aug 27, 2008
+<Rating>4	5	4	3	5	4	3	3	
+<Aspects>
+42	23(little):1	25(comfortable):1	26(people):1	34(feel):2	41(city):2	50(bad):1	52(bit):1	94(noise):1	112(main):2	137(safe):1	179(double):1	197(fresh):1	215(fruit):1	230(road):1	236(warm):1	240(real):1	246(mean):1	303(pillow):1	498(despite):1	561(harbor):1	652(pastry):1	807(incredibly):1	809(sydney):1	1047(rough):1	1056(stroll):1	1118(theme):1	1186(heavy):1	1305(nightlife):1	1393(pub):3	1789(classic):1	1792(fluffy):1	2144(glaze):1	2315(reduce):1	3238(restore):1	3283(strength):1	3300(intimidate):1	4201(old-fashioned):1	5428(quilt):1	7143(modernization):1	7527(weakness):1	8661(old-style):1	10379(art-deco):1	
+39	2(night):1	6(breakfast):2	19(price):2	20(look):1	52(bit):1	62(expect):1	78(rate):1	80(money):2	81(value):2	112(main):1	130(standard):1	134(available):1	135(build):1	143(cheap):1	213(meal):1	284(base):1	298(drive):1	374(reason):1	428(customer):1	513(low):1	533(renovate):1	682(usual):1	691(downstairs):1	705(marble):1	797(lucky):1	835(additional):1	864(discount):1	1001(counter):1	1189(newly):1	1206(shock):1	1393(pub):1	1983(suspect):1	2025(ordinary):1	2502(southern):2	2539(dodgy):1	2716(au):1	4224(four-star):1	5762(brass):1	7967(two-star):1	
+43	3(clean):1	5(time):1	11(bed):4	13(bathroom):1	24(floor):1	25(comfortable):1	73(etc):1	86(fantastic):1	94(noise):1	104(sleep):1	109(pretty):1	112(main):1	116(tv):1	118(top):1	119(window):1	135(build):1	151(modern):2	164(air):1	167(choose):1	343(impress):1	419(past):1	429(budget):1	496(concern):1	526(screen):1	585(below):1	591(lift):1	702(comfort):1	726(attention):1	860(wide):1	897(careful):1	925(convenience):1	1049(character):1	1358(upstairs):1	1393(pub):1	1773(lcd):1	2025(ordinary):1	2975(filter):1	4049(endure):1	4330(bind):1	5672(squeaky):1	5797(ooze):1	6752(duct):1	6982(limitation):1	
+15	28(close):3	35(street):1	82(station):1	84(locate):1	120(bus):1	149(run):1	168(central):1	182(train):1	264(market):1	561(harbor):1	1114(proximity):1	1132(chinatown):1	1681(darling):1	1881(regularly):1	2287(george):1	
+0	
+3	0(staff):1	14(helpful):1	483(courteous):1	
+20	6(breakfast):1	9(service):1	27(bar):2	89(offer):1	114(hot):1	152(english):1	333(selection):1	448(mini):2	449(sign):1	510(limit):1	519(item):1	529(cereal):1	585(below):1	810(empty):1	816(dish):1	887(purchase):1	1328(asian):1	1393(pub):1	2059(satisfactory):1	2386(instruction):1	
+0	
+
+<Author>margoMelbourne
+<Content>Excellent cheap meals We stayed at the Great Southern Hotel for 3 nights (incl weekend). The room was more than adequate, the location was great for access to transport (and walking - which we mostly did) and shopping. The meals in the bar were excellent value and very good quality. Try the 280gram rump steak with chips and salad for $7! All round the stay was pleasant, with the only minor problem being the occasional noisy guest/s in the corridor. We requested a quiet room when booking and were put out of the way, so this wasn't such a problem for us.  
+<Date>Jul 28, 2008
+<Rating>4	3	3	3	3	3	3	-1	
+<Aspects>
+6	91(guest):1	150(pleasant):1	217(noisy):1	720(minor):1	1073(corridor):1	2418(occasional):1	
+10	2(night):1	21(excellent):2	27(bar):1	81(value):1	143(cheap):1	172(weekend):1	187(quality):1	213(meal):2	2502(southern):1	3537(incl):1	
+3	18(book):1	58(quiet):1	148(request):1	
+6	1(location):1	7(walk):1	49(shop):1	159(access):1	390(adequate):1	742(transport):1	
+0	
+0	
+4	76(try):1	660(steak):1	909(salad):1	1302(chip):1	
+0	
+
+<Author>patience05
+<Content>good location but had some problems Hotel is in a good location and close to train station, darling Harbour, china town, paddys market, etc.Although the staff were very rude and not friendly at all. They deactivated the card to the room which caused the lift not to work. We were stuck in the lift which made my daughter scared and shaking and we didn't even get an apology. They even tried to charge me extra when I was booking out of the hotel room.  
+<Date>Jul 15, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	467(daughter):1	591(lift):1	688(stick):1	1547(apology):1	1711(scare):1	2517(shake):1	
+0	
+8	18(book):1	128(extra):1	136(charge):1	253(tried):1	292(card):1	591(lift):1	943(cause):1	9024(deactivate):1	
+14	0(staff):1	1(location):2	12(friendly):1	28(close):1	73(etc):1	82(station):1	182(train):1	239(town):1	264(market):1	392(rude):1	561(harbor):1	1159(china):1	1681(darling):1	11102(paddys):1	
+0	
+0	
+0	
+0	
+
+<Author>mamanurse
+<Content>Rude Manangement - beware of charges The rooms in this hotel are fine. The beds comfortable and the cleaning staff attentive. I did notice a large discrepancy in rooms - some of our group had much less room (stepping on a bed to reach the bathroom) substandard tvs and no closets. The bathroom was fine, although in could be cleaner. My qualm is with the management more than the room itself. The internet charges are absurdly high. We were aware of this, and were careful to log on only long enough to download e-mails to work on later off-line. We averaged 3-5minutes per day. When we checked out of the hotel, we were presented with a charge of over $16 for the day we left - the time listed on the print-out was for AFTER we had packed our bags (including the computer) and had loaded them prior to going downstairs for breakfast - in other words, they were mistaken. Having been notified of their error, the manager accosted US and accused US of wrong-doing. He said his paper didn't lie, and maybe we were sadly mistaken. When I said, are you calling me a liar? he became billigerent and ruder. He of course did not refund our $16 bucks. We were traveling as the chaperones/leaders of a college study abroad group - mostly upper level under-grads and graduate students. One night, the management called their room and said if they didn't shut up immediately, they would be thrown in the street. The manager then came to the room and threatened them. They never contacted us (they had our room number) . The manager used horribly profane language and threats witnessed by numerous patrons. When confronted with this information, the manager stated that we were stupid to believe the students over them and this never happened!!!! It should be noted that our room was near the alleged trouble-makers and we never heard a peep!!!We take groups of students as well as non-students multiple times per year over-seas. This hotel has lost thousands of dollars of business from us in future all over the arrogance and rudeness of the manager.  
+<Date>Jun 18, 2008
+<Rating>2	2	3	2	4	1	1	1	
+<Aspects>
+28	5(time):1	8(day):1	67(call):1	68(travel):1	79(late):1	227(average):1	293(course):1	306(level):1	308(maybe):1	392(rude):1	776(paper):1	832(aware):1	895(mistake):1	897(careful):1	1120(buck):1	1166(lie):1	1333(upper):1	1492(refund):1	1732(multiple):1	1925(college):1	2020(student):2	2135(sadly):1	3437(log):1	3769(study):1	3868(abroad):1	6320(liar):1	6654(download):1	7422(graduate):1	
+12	147(business):1	258(manager):2	430(dollar):1	596(lose):1	732(future):1	2628(error):1	2760(notify):1	3647(rudeness):1	3752(thousand):1	5018(accuse):1	6850(accost):1	7193(arrogance):1	
+34	0(staff):1	2(night):1	3(clean):2	11(bed):2	13(bathroom):2	25(comfortable):1	35(street):1	67(call):1	102(near):1	113(fine):2	132(hear):1	136(charge):1	258(manager):1	297(note):1	335(numb):1	354(notice):1	366(step):1	392(rude):1	489(immediately):1	525(management):2	537(attentive):1	565(closet):1	713(contact):1	737(beware):1	851(reach):1	917(throw):1	1086(shut):1	1569(tvs):1	2537(threaten):1	4341(substandard):1	4816(peep):1	5899(qualm):1	8806(discrepancy):1	10638(allege):1	
+0	
+0	
+31	5(time):1	6(breakfast):1	8(day):1	32(check):1	43(leave):1	71(include):1	97(internet):1	136(charge):2	258(manager):2	290(bag):1	312(believe):1	382(happen):1	555(computer):1	571(word):1	637(prior):1	649(information):1	650(list):1	691(downstairs):1	698(language):1	715(pack):1	886(load):1	895(mistake):1	971(numerous):1	2020(student):1	2512(patron):1	2685(witness):1	2708(stupid):1	3606(horribly):1	4617(confront):1	6463(threat):1	10520(absurdly):1	
+0	
+0	
+
+<Author>hazpafis
+<Content>Good enough It wasn't the best of hotels but after adjusting to the circumstances of the hotel, we realized we weren't really paying for the hotel but for the location, which was great! The hotel was near Chinatown, Paddy's Market, Darling Harbour, Hyde Park and Central Station. Breakfast was available in the hotel which was a relief. Lunch and dinner was not a problem as lots of Chinese and Japanese restaurants and fast food places and food courts were easily accessible from the hotel. Be prepared as the hotel does not have a concierge department so be prepared to carry your bags from where you came from to your room. Rooms are small but bathrooms are clean. Do not expect majestic views of the city as there are none. But if you're like me, the hotel will only serve as a sleeping and bathing place as you will be out in the streets most of the day anyway.The great thing about the hotel also is that its about a block away from the nearest Sydney Explorer bus stops. There are two: Central Station and Chinatown. I'd recommend the hotel mostly for the location and the price.  
+<Date>Apr 28, 2008
+<Rating>3	3	2	4	2	3	2	3	
+<Aspects>
+5	17(view):1	41(city):1	62(expect):1	573(none):1	1284(majestic):1	
+7	1(location):2	15(recommend):1	19(price):1	42(pay):1	607(realize):1	2040(adjust):1	3043(circumstance):1	
+13	3(clean):1	8(day):1	13(bathroom):1	35(street):1	104(sleep):1	174(serve):1	204(concierge):1	290(bag):1	417(anyway):1	460(prepare):2	824(carry):1	1707(department):1	1896(bathe):1	
+15	66(park):1	82(station):2	100(bloc):1	102(near):2	120(bus):1	122(stop):1	168(central):2	264(market):1	561(harbor):1	809(sydney):1	1132(chinatown):2	1681(darling):1	2816(hyde):1	3788(paddy):1	5808(explorer):1	
+0	
+0	
+14	6(breakfast):1	10(restaurant):1	16(food):2	38(lot):1	117(dinner):1	134(available):1	252(lunch):1	438(easily):1	499(fast):1	559(japanese):1	764(chinese):1	1068(court):1	1342(accessible):1	2482(relief):1	
+0	
+
+<Author>golffore2001
+<Content>Great for the rate Was very pleased. We had a room for three and although a little tight, it worked. Although a little far from Circular Quay, the bus and train was right there and very easy to use. The room was very quiet and never heard hall or other room noise. The staff was friendly and helpful. Great location for Darhling harbor and Chinatown. Paid 124 +30 for extra person (seems high for a few extra linens for the 3rd person)  
+<Date>Apr 14, 2008
+<Rating>4	5	4	5	5	5	5	-1	
+<Aspects>
+2	78(rate):1	173(please):1	
+5	42(pay):1	128(extra):2	193(person):2	630(linen):1	2097(3rd):1	
+6	23(little):1	58(quiet):1	94(noise):1	132(hear):1	616(hall):1	1399(tight):1	
+9	1(location):1	23(little):1	93(easy):1	120(bus):1	182(train):1	561(harbor):1	1132(chinatown):1	1664(quay):1	1912(circular):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>CandyPants26
+<Content>Helpful staff, nice location but depends on the room... We stayed in this hotel on 2 occaisions as part of a 3 week long trip. The first night we stayed we were put into a room that was really a single with a double bed in it. My partner is a big guy and we had loads of luggage so we asked to be moved and the staff were great giving us a free upgrade on the second night to a much a nicer room. When we returned for the second part of our stay we were given a disabled standard room which was much larger and quite adequate. Overall message is that the room you get will make a lot of difference to the quality of your stay. The pictures on expedia show a superior room which you have to pay extra for. Despite this the staff were lovely and the location was great.  
+<Date>Mar 17, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+10	38(lot):1	42(pay):1	70(overall):1	128(extra):1	187(quality):1	456(picture):1	785(superior):1	819(difference):1	1066(expedia):1	1809(message):1	
+22	0(staff):2	1(location):1	2(night):2	4(nice):2	11(bed):1	14(helpful):1	33(trip):1	39(return):1	46(free):1	75(week):1	130(standard):1	163(upgrade):1	179(double):1	207(move):1	249(luggage):1	304(single):1	368(guy):1	390(adequate):1	886(load):1	969(depend):1	1006(partner):1	3535(disable):1	
+4	0(staff):1	1(location):1	87(lovely):1	498(despite):1	
+0	
+0	
+0	
+0	
+
+<Author>tigers
+<Content>Good Budget Accomodation We stayed here for 2 nights recently on a 'Girls Weekend'. Now, this is budget accomodation, but it couldn't be faulted.If you are a fan of Art Deco, you will love this hotel, which has been restored back to the original fittings and the new part of the hotel matches this. We got a good deal of $126A per night for our single rooms. The location of the hotel is fabulous if you want to visit the Capitol theatre (we went to see Billy Elliot the musical) which is a 6-7 minute walk. The hotel is ideally situated for Darling Harbour, Paddy's Market, Chinatown and Central Station.The rooms are small, but very quiet. They are very clean. There are no views, so if you're going to Sydney for the harbour views, this is not the spot. You can catch the City Circle train to Circular Quay from Central which takes about 5 minutes or there is a bus stop out front of the hotel. The staff are extremely friendly and helpful. Breakfast is plentiful and fresh. I would recommend this hotel if you don't want to spend a fortune on your accomodation, but need somewhere clean and comfortable to stay.  
+<Date>Feb 24, 2008
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+12	17(view):2	40(love):1	317(spot):1	561(harbor):1	661(fan):1	789(art):1	809(sydney):1	1270(original):1	1476(match):1	2379(fitting):1	2770(deco):1	3238(restore):1	
+12	2(night):1	3(clean):1	15(recommend):1	25(comfortable):1	64(spend):1	172(weekend):1	322(recently):1	429(budget):2	517(fault):1	625(girl):1	780(accomodation):3	2490(fortune):1	
+4	2(night):1	58(quiet):1	140(deal):1	304(single):1	
+28	1(location):1	7(walk):1	29(minute):2	31(front):1	41(city):1	65(visit):1	82(station):1	120(bus):1	122(stop):1	168(central):2	182(train):1	264(market):1	270(fabulous):1	540(catch):1	561(harbor):1	574(situate):1	635(theater):1	1132(chinatown):1	1664(quay):1	1681(darling):1	1800(ideally):1	1912(circular):1	2126(circle):1	3788(paddy):1	4583(musical):1	6514(capitol):1	8755(billy):1	10096(elliot):1	
+1	3(clean):1	
+4	0(staff):1	12(friendly):1	14(helpful):1	110(extremely):1	
+3	6(breakfast):1	197(fresh):1	1039(plentiful):1	
+0	
+
+<Author>loveBC
+<Content>No Problems Stayed here for 2 nights in early January and 2 nights in late January. I was very happy in staying there. The staff is friendly, rooms and property are very clean. I asked for a quiet room each stay and they did give that to me. Everything worked from air conditioner to tv and the bed was comfortable. Location is good as it is only 1 block from cental station and you can catch a train where ever you want to go. Paddys market is across the street and the deals you can get there is top notch. For room I paid from $94 to $129 per night. It is excellent value for being in downtown Sydney. Just be aware that the rooms are small.  
+<Date>Feb 2, 2008
+<Rating>4	4	3	4	4	4	4	3	
+<Aspects>
+4	2(night):2	79(late):1	155(happy):1	1018(january):2	
+6	2(night):1	21(excellent):1	42(pay):1	81(value):1	334(downtown):1	809(sydney):1	
+11	0(staff):1	3(clean):1	11(bed):1	12(friendly):1	25(comfortable):1	58(quiet):1	116(tv):1	164(air):1	214(property):1	832(aware):1	1083(conditioner):1	
+12	1(location):1	35(street):1	82(station):1	100(bloc):1	118(top):1	140(deal):1	182(train):1	264(market):1	540(catch):1	1227(notch):1	10253(cental):1	11102(paddys):1	
+0	
+0	
+0	
+0	
+
+<Author>Commander_Pants
+<Content>Oh dear... The GoodBooked Online$130AU for 2 people including breakfastSlow check-inThe BadThe aircon didn't workThe walls were paper thinThe door to the bathroom didn't shutThis was my first experience with 'budget' accomodation in Sydney - oh my.  
+<Date>Jan 23, 2008
+<Rating>1	3	1	1	2	2	3	2	
+<Aspects>
+0	
+0	
+13	13(bathroom):1	26(people):1	44(experience):1	54(door):1	71(include):1	183(wall):1	429(budget):1	776(paper):1	780(accomodation):1	809(sydney):1	822(online):1	2257(aircon):1	3545(dear):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>natbaker75
+<Content>Great Staff Small Rooms This is DEFINITELY not a four star hotel, as it was advertised on last minute.com. It is however, clean, and the staff are fantastic!It's an art deco hotel, which means that the rooms are tiny.It is a decent half hour walk from the Rocks and Circular Quay. Central Station is literally over the road and Paddy's Markets are not far away.  
+<Date>Sep 29, 2007
+<Rating>3	3	2	3	3	4	3	-1	
+<Aspects>
+0	
+5	0(staff):1	59(definitely):1	103(star):1	910(advertise):1	11434(minute.com):1	
+4	246(mean):1	338(tiny):1	789(art):1	2770(deco):1	
+13	7(walk):1	60(hour):1	82(station):1	168(central):1	230(road):1	257(decent):1	264(market):1	283(half):1	665(literally):1	773(rock):1	1664(quay):1	1912(circular):1	3788(paddy):1	
+3	0(staff):1	3(clean):1	86(fantastic):1	
+0	
+0	
+0	
+
+<Author>JRL_Oz
+<Content>Great value If you're under the impression that all accommodation in Sydney is really expensive for what you get, think again. I thought this place was great value for the very reasonable price I'd paid.This hotel began its current life in a 1930s heritage building (which replaced an earlier hotel), but the rooms are in a much more modern six storey (or so) building hidden behind the original facade. The location, just one block from Central train station, is very convenient (and trains from the airport are much cheaper and less stressful than taxis).Reception service on arrival was friendly and efficient. My room was comfortable, clean, quiet, unobtrusively decorated, and equipped with everything I could reasonably expect for the price. Sure, it wasn't large, but I'm very tall, and I didn't feel the room was too small for my liking.I didn't try the breakfasts on offer downstairs, but I did have a counter dinner on one night of my recent stay. It was amazingly good value - $7 for a very tasty steak chips and salad, and a total price of less than $10 if you include the beer that went with it.I'll definitely be staying here again.  
+<Date>Sep 3, 2007
+<Rating>5	5	4	5	5	5	4	-1	
+<Aspects>
+1	59(definitely):1	
+16	19(price):2	42(pay):1	71(include):1	81(value):3	124(expensive):1	273(reasonable):1	443(beer):1	660(steak):1	721(accommodation):1	786(total):1	809(sydney):1	848(impression):1	909(salad):1	984(tasty):1	1302(chip):1	1846(amazingly):1	
+21	3(clean):1	19(price):1	25(comfortable):1	34(feel):1	58(quiet):1	62(expect):1	135(build):2	151(modern):1	305(decorate):1	426(life):1	551(begin):1	578(reasonably):1	884(equip):1	912(replace):1	1195(hide):1	1270(original):1	1626(tall):1	2313(current):1	3980(facade):1	4946(storey):1	5413(heritage):1	
+10	1(location):1	82(station):1	95(airport):1	100(bloc):1	143(cheap):1	168(central):1	182(train):2	185(taxi):1	186(convenient):1	3916(stressful):1	
+0	
+5	9(service):1	12(friendly):1	129(reception):1	224(arrival):1	401(efficient):1	
+8	2(night):1	6(breakfast):1	76(try):1	89(offer):1	117(dinner):1	691(downstairs):1	1001(counter):1	1064(recent):1	
+0	
+
+<Author>IwantoliveinEurope
+<Content>Stay here with confidence. I stayed here in June as part of a tour group. We spent five nights at this hotel and were very pleased. We were a group of 50+ people, teenagers included, and everything we had to deal with was pleasant. The front desk people couldn't have been more accomodating. The breakfast was hot, fresh, and plentiful. The only negative I have was the internet cost. Being from the States, I found .55 per minute a bit extreme, but of course I paid it!!! My roommate and I had a room with two twins, frig and desk. We had plenty of room. Others in our group had rooms that were a bit smaller (ok...a lot smaller) but everyone said their beds were comfortable and the rooms were clean. The pub downstairs offered a bit of nightlife for our group as well. The biggest plus of all was Paddy's Market steps away. If you need/want souvenirs, this is the place to go. You can also pick up a jacket or scarf if you find your wardrobe is lacking for the Australian winter. I read some reviews about the sex shops and all before we stayed here, but I have to say I felt very safe. I walked around the area with no fear for my safety. It is also convenient for mass transit with the train station across the street. All in all, I would recommend this hotel for fellow travelers.  
+<Date>Jul 18, 2007
+<Rating>4	3	4	4	4	4	5	3	
+<Aspects>
+22	2(night):1	15(recommend):1	26(people):1	64(spend):1	71(include):1	140(deal):1	150(pleasant):1	173(please):1	181(tour):1	266(pick):1	267(traveler):1	349(lack):1	664(june):1	1451(wardrobe):1	1594(teenager):1	1599(winter):1	1742(fellow):1	2504(souvenirs):1	3375(jacket):1	3604(australian):1	4681(confidence):1	8859(scarf):1	
+8	29(minute):1	42(pay):1	52(bit):1	97(internet):1	175(cost):1	282(negative):1	293(course):1	2656(extreme):1	
+15	3(clean):1	11(bed):1	25(comfortable):1	36(desk):1	38(lot):1	52(bit):2	89(offer):1	123(ok):1	158(plenty):1	318(fridge):1	690(twin):1	691(downstairs):1	1305(nightlife):1	1393(pub):1	6179(roommate):1	
+19	7(walk):1	34(feel):1	35(street):1	37(review):1	49(shop):1	82(station):1	88(read):1	137(safe):1	182(train):1	186(convenient):1	203(plus):1	264(market):1	366(step):1	1448(safety):1	2015(transit):1	2022(fear):1	2653(mass):1	3439(sex):1	3788(paddy):1	
+0	
+4	26(people):1	31(front):1	36(desk):1	549(accomodate):1	
+4	6(breakfast):1	114(hot):1	197(fresh):1	1039(plentiful):1	
+0	
+
+<Author>JKWD
+<Content>Good for the price In spite of the adverse comments on the website, I decided to give it a try after discovering the winter promotion on the hotel website for just AUD89-99 per night. My room faces the Thomas Street and could be a bit noisy (but better than those facing George Street or those without views). The hotel room is tiny and the facilities are barely adequate but its location is superb, opposite to the Market City where one will find numerous shops/stalls and food places. It is also 10-15 minutes walk to the Darling Harbour and the Town Hall area where all the excitments and attractions are. If one does not need to spend much time at the hotel, this hotel is surely a value for money choice.  
+<Date>Jul 4, 2007
+<Rating>3	5	3	4	3	3	3	3	
+<Aspects>
+0	
+17	2(night):1	5(time):1	19(price):1	64(spend):1	76(try):1	80(money):1	81(value):1	107(choice):1	219(decide):1	262(website):2	356(comment):1	869(discover):1	1599(winter):1	2033(surely):1	3000(spite):1	4088(promotion):1	10954(adverse):1	
+6	17(view):1	35(street):2	52(bit):1	217(noisy):1	2287(george):1	3736(thomas):1	
+19	1(location):1	7(walk):1	16(food):1	29(minute):1	41(city):1	211(facility):1	239(town):1	264(market):1	338(tiny):1	350(attraction):1	390(adequate):1	407(superb):1	561(harbor):1	616(hall):1	783(opposite):1	971(numerous):1	1020(barely):1	1681(darling):1	6681(shops):1	
+0	
+0	
+0	
+0	
+
+<Author>MaxwellSmart86
+<Content>Okay for a short stay Booked the room for a good price on their website and THEN read the reviews on tripadviser. Wrong way around, so was a bit worried about what I would find when I arrived at the hotel. The hotel's location is great- near Central Station, a block from Paddy's Market, just near Chinatown, easy walk to Convention Centre and a stroll into Pitt Street Mall/ QVB. The hotel staff were great but I know it's the room you want to hear about. It was small, a bit dull and tired and I had to ring Reception to work out how to turn the lights out to sleep (pull the Card out of the wall). However, the room was fine. We were only there for an overnight stay and it was a great sleep in a comfy bed with good pillows. It was basically a suitable, basic room and a good shower. Nothing flash what so ever but it did its job for a good price. Would I stay there again? Probably, unless I wanted a nicer, bigger, more modern room with a few indulgences.  
+<Date>May 12, 2007
+<Rating>3	3	3	4	3	5	-1	-1	
+<Aspects>
+4	52(bit):1	53(arrive):1	427(wrong):1	885(worried):1	
+3	19(price):1	481(job):1	2867(flash):1	
+26	0(staff):1	4(nice):1	11(bed):1	52(bit):1	61(shower):1	104(sleep):2	113(fine):1	129(reception):1	132(hear):1	151(modern):1	157(light):1	178(probably):1	183(wall):1	292(card):1	303(pillow):1	352(basic):1	405(unless):1	454(tire):1	475(comfy):1	790(basically):1	858(pull):1	1150(ring):1	1171(overnight):1	1967(suitable):1	2689(dull):1	7227(indulgence):1	
+17	1(location):1	7(walk):1	35(street):1	82(station):1	93(easy):1	100(bloc):1	101(center):1	102(near):2	168(central):1	264(market):1	643(mall):1	1048(convention):1	1056(stroll):1	1132(chinatown):1	3788(paddy):1	5468(pitt):1	8758(qvb):1	
+0	
+0	
+8	18(book):1	19(price):1	37(review):1	88(read):1	144(short):1	262(website):1	453(okay):1	8403(tripadviser):1	
+0	
+
+<Author>sydneygal85
+<Content>Wonderful service, average rooms We stayed at this hotel overnight, while attending a function at Darling Harbour last week.From the outside, the hotel looks old and decrepit, however it has been renovated inside, and the reception area is very elegant and classy. I found the staff to be extremely pleasant and helpful, and the hotel as a whole to be alot more personal than other places I have stayed at.The room we were allocated was absolutely tiny! Do not expect a luxurious room while staying at this place! Extremely cramped with no amenities, just a bed, TV, and bathroom all crammed into a tiny space. No view whatsoever, hardly any natural sunlight as all. However, we were only using the room as a sleeping point, so it didn't affect us too much. Keep in mind our room was only a standard one, so those willing to pay a bit extra would probably be allocated a better room!!This hotel is good for travellers wishing to stay for a limited period (ie:overnight) and are just after basic accomodation, and a clean bed. As I mentioned earlier, the interior of the hotel is very elegant and classy, and the staff were extremely accomodating, it's really only the rooms which let it down! I would not recommend it for families, or people staying in Sydney for more than a night or two.  
+<Date>Sep 16, 2006
+<Rating>4	3	1	3	4	5	5	3	
+<Aspects>
+5	2(night):1	15(recommend):1	26(people):1	106(family):1	809(sydney):1	
+23	0(staff):1	3(clean):1	11(bed):1	42(pay):1	52(bit):1	110(extremely):1	128(extra):1	130(standard):1	178(probably):1	244(mention):1	267(traveler):1	294(mind):1	352(basic):1	384(wish):1	510(limit):1	549(accomodate):1	780(accomodation):1	986(elegant):1	1026(interior):1	1171(overnight):1	1331(period):1	1488(classy):1	1974(allocate):1	
+37	9(service):1	11(bed):1	13(bathroom):1	17(view):1	20(look):1	48(wonderful):1	62(expect):1	75(week):1	98(outside):1	104(sleep):1	110(extremely):1	116(tv):1	129(reception):1	189(absolutely):1	210(space):1	227(average):1	291(amenity):1	338(tiny):2	408(inside):1	533(renovate):1	561(harbor):1	708(luxurious):1	826(attend):1	985(hardly):1	986(elegant):1	1080(cramp):1	1171(overnight):1	1488(classy):1	1543(natural):1	1681(darling):1	1733(whatsoever):1	1780(function):1	1974(allocate):1	2082(affect):1	3152(cram):1	4390(sunlight):1	8820(decrepit):1	
+0	
+0	
+6	0(staff):1	14(helpful):1	110(extremely):1	150(pleasant):1	647(alot):1	711(personal):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Terrible, dirty, dark and run-down I booked this hotel as a secret hotel on last minute.com. the description said it was 4 star - it was more like a backpackers. The room they gave me stank, it was dark, and so old and dated it felt dirty. I went shopping and was so upset with the booking that I immediately booked myself into the Sofitel Wentworth..not much more than I paid at the Pacific but soooo much better. Stay here if you are happy with dirty backpaker accomodation.  
+<Date>Jun 29, 2006
+<Rating>1	1	1	-1	1	-1	2	-1	
+<Aspects>
+0	
+6	42(pay):1	103(star):1	1575(pacific):1	2034(description):1	2862(soooo):1	3997(backpacker):1	
+0	
+6	18(book):2	49(shop):1	489(immediately):1	1220(upset):1	1417(sofitel):1	9537(wentworth):1	
+12	18(book):1	34(feel):1	155(happy):1	323(dirty):3	432(terrible):1	459(dark):2	511(date):1	780(accomodation):1	1127(secret):1	1796(stink):1	2323(rundown):1	11434(minute.com):1	
+0	
+0	
+0	
+
+<Author>London4
+<Content>Disappointing We were really disappointed by this hotel. although it's located on George Street - it's way down at the bottom of the street, so a good 30 minute walk to the Docks. The hotel staff were unfriendly and the room was very average. Our air-conditioning unit was not working and we couldn't open the windows. The hotel charged you to use the gymj, which I found was a cheek. Generally, we were not at all impressed and would not stay there again.  
+<Date>May 2, 2006
+<Rating>2	2	2	-1	2	-1	1	-1	
+<Aspects>
+2	154(disappoint):2	343(impress):1	
+0	
+6	0(staff):1	119(window):1	227(average):1	980(unit):1	1487(unfriendly):1	2284(air conditioning):1	
+7	7(walk):1	29(minute):1	35(street):2	84(locate):1	850(bottom):1	2287(george):1	2338(dock):1	
+0	
+2	136(charge):1	7991(cheek):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Not as bad as some of the reviews lead me to believe I found these reviews just a few days before travelling to Sydney and I was unsure what to expect. Well, it's located near the station which was my entry and exit to Sydney. The room was small but cosy. The bedding was clean and the staff were helpful. OK, It's not The Ritz and I certainly wouldn't go there for my honeymoon. All I needed was a clean, inexpensive place to lay my head for the night, a purpose for which it served efficiently. As for all the sex shops? A couple of discreet adult bookshops was all I saw. So if you're on a tight budget, consider it!  
+<Date>Apr 10, 2006
+<Rating>3	3	3	-1	3	-1	3	-1	
+<Aspects>
+12	8(day):1	37(review):2	50(bad):1	62(expect):1	68(travel):1	248(consider):1	312(believe):1	429(budget):1	809(sydney):1	922(lead):1	1399(tight):1	3145(unsure):1	
+11	2(night):1	3(clean):1	123(ok):1	174(serve):1	319(head):1	502(honeymoon):1	696(lay):1	825(ritz):1	1117(inexpensive):1	1428(purpose):1	2461(efficiently):1	
+5	0(staff):1	3(clean):1	11(bed):1	14(helpful):1	749(cozy):1	
+11	49(shop):1	82(station):1	84(locate):1	99(couple):1	102(near):1	556(adult):1	809(sydney):1	1354(exit):1	1649(entry):1	3439(sex):1	4022(discreet):1	
+0	
+0	
+0	
+0	
+
+<Author>JeannetteLowe
+<Content>Great location Stayed there March 2006, had double room on 6th floor at the back away from traffic noise which was clean and fresh, large clean bathroom with plenty of hot water and good shower. Short walk from Darling Harbour and central railway station. Even walking distance to Harbour Bridge. Plenty of shops and places to eat nearby. Paddy's Market 2 mins.  
+<Date>Apr 2, 2006
+<Rating>3	4	3	-1	3	-1	3	-1	
+<Aspects>
+0	
+0	
+14	1(location):1	3(clean):2	13(bathroom):1	24(floor):1	57(water):1	61(shower):1	94(noise):1	114(hot):1	158(plenty):1	179(double):1	197(fresh):1	486(traffic):1	615(march):1	1869(6th):1	
+16	7(walk):2	47(eat):1	49(shop):1	82(station):1	115(distance):1	144(short):1	158(plenty):1	168(central):1	232(nearby):1	247(min):1	264(market):1	561(harbor):2	740(bridge):1	1681(darling):1	2002(railway):1	3788(paddy):1	
+0	
+0	
+0	
+0	
+
+<Author>wallydog1
+<Content>Dirty, cramped room What a shock!!! Dropped off at the rear enterance of the hotel which had bins outside full of foul smelling rubbish and the place next door was boarded up with flyers on the wall. I'd had lovely hotels during my stay and my travel agent made the worst choice of his life. The hotel room was dirty (vomit between the bed and bedside cupboard) holes in the bedsheets, rest of the bedding rather grubby too dark dingy room extremely cramped. Bathroom left a lot to be desired. The main street to the front of the hotel was full of sex shops. Only good thing about this place was the location which made it really easy to get around the city and beyond. Food was terrible oh! And if you want a decentish breakfast try the backpackers hotel over the road.  
+<Date>Mar 20, 2006
+<Rating>1	1	1	-1	1	-1	2	-1	
+<Aspects>
+0	
+6	50(bad):1	68(travel):1	87(lovely):1	107(choice):1	426(life):1	766(agent):1	
+17	11(bed):2	13(bathroom):1	38(lot):1	43(leave):1	110(extremely):1	288(rest):1	323(dirty):1	459(dark):1	1080(cramp):1	1218(hole):1	1219(desire):1	1749(dingy):1	2298(bedside):1	2374(cupboard):1	3414(vomit):1	3740(grubby):1	5338(bedsheets):1	
+21	1(location):1	31(front):1	35(street):1	41(city):1	49(shop):1	54(door):1	93(easy):1	98(outside):1	112(main):1	183(wall):1	231(smell):1	600(board):1	662(drop):1	738(beyond):1	2007(rear):1	2664(rubbish):1	3059(bin):1	3439(sex):1	4058(foul):1	4979(flier):1	7865(enterance):1	
+3	323(dirty):1	1080(cramp):1	1206(shock):1	
+0	
+6	6(breakfast):1	16(food):1	76(try):1	230(road):1	432(terrible):1	3997(backpacker):1	
+0	
+
+<Author>Rickard
+<Content>Never again.. When we entered the front desk we first thought we where in East Berlin 1973.. The staff was really rude and had no interest in get any service at all.The door to our bathroom had stains of blood and under the bed a mini Sydney zoo was found...The only good thing with this hotel is that it has close location to darling harbour.Don鈥檛 stay here, you will regret it I promise!  
+<Date>Mar 15, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+3	908(don):1	975(promise):1	1410(regret):1	
+0	
+12	1(location):1	11(bed):1	13(bathroom):1	28(close):1	54(door):1	448(mini):1	561(harbor):1	723(stain):1	809(sydney):1	1511(zoo):1	1681(darling):1	2718(blood):1	
+0	
+0	
+8	0(staff):1	9(service):1	31(front):1	36(desk):1	392(rude):1	601(enter):1	746(berlin):1	948(east):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Fine hotel for a short stay We stayed here on our honeymoon in december. Great location, 2 mins walk from train station and 5 mins to Darling Harbour. Rooms small, but good. Service ok, they let us store the luggage before we could check in and gave us a room as soon as they had. I you are a gourmet I would not recommend the hotel restaurant, it is ok but not more than that. The hotel is ok for a couple of nights, but I probably would not stay for a longer time.  
+<Date>Mar 11, 2006
+<Rating>4	3	3	-1	4	-1	3	-1	
+<Aspects>
+5	2(night):1	5(time):1	99(couple):1	123(ok):1	178(probably):1	
+4	113(fine):1	144(short):1	502(honeymoon):1	993(december):1	
+0	
+7	1(location):1	7(walk):1	82(station):1	182(train):1	247(min):2	561(harbor):1	1681(darling):1	
+0	
+0	
+9	9(service):1	10(restaurant):1	15(recommend):1	32(check):1	123(ok):2	249(luggage):1	255(store):1	418(soon):1	1234(gourmet):1	
+0	
+
+<Author>Traveller1001Uk
+<Content>Stay Away!! Booked this over the internet - too rushed to check on Trip Advisor first - what a mistake! Very tiny, dingy room with two bunk beds (must have omitted to say we were on honeymoon!)The area was very downmarket. On one side of the hotel was a gun shop and the other side was a sex shop. Very noisy at night and surrounded by cheap bedsits and 24 hour shops.The lobby area was immaculate - as soon as you stepped away from the lobby the decor changed, and it was a very shabby place.Spend a bit more time and find somewhere else - it will be worth it!!  
+<Date>Mar 9, 2006
+<Rating>1	2	1	-1	1	-1	1	-1	
+<Aspects>
+5	5(time):1	52(bit):1	64(spend):1	96(worth):1	170(else):1	
+0	
+13	11(bed):1	55(lobby):2	161(change):1	269(decor):1	338(tiny):1	366(step):1	418(soon):1	502(honeymoon):1	894(immaculate):1	1319(shabby):1	1749(dingy):1	5048(bunk):1	11959(omit):1	
+8	2(night):1	49(shop):3	60(hour):1	143(cheap):1	217(noisy):1	667(surround):1	3439(sex):1	5150(gun):1	
+0	
+7	18(book):1	32(check):1	33(trip):1	97(internet):1	701(advisor):1	895(mistake):1	1244(rush):1	
+0	
+0	
+
+<Author>Crowny
+<Content>Not impressed with this hotel - Room 244 I had the misfortune of being booked in by my company for an overnight stay after our Christmas Party.It starts out hard to find as there is another Pacific International(Apartments)down the road and if you park for this you are subject to carrying luggage 15 minutes back up the road. Once we knew where to go there are parking stations quite close at A$15 per night.Check In was OK but I had booked a smoking room and was advised the whole hotel was non smoking.Arriving in the room was a real let down. Bad lighting, aged and worn furniture and a musty smell that could not escape as the windows can't be opened.The air conditioner had a rattle that was fixed with a couple of hits. The room was tiny as was the double bed, my feet hung over the edge. It was so dismal that we forsake the bottle of wine we brought and went to the bar which is quite good.Upon returning after the party we had a reasonable sleep until 4AM when numerous young men returned to next door which highlighted paper thin walls.The bathroom was as big as the room but had no shower screen and water pressure and temperature were a problem and the toilet leaked.Breakfast is A$11 per person and upon arriving we were sent back to reception to buy a ticket before entering the area and they were reluctant to add this to the room and requested cash. The breakfast was not to my liking, cold bacon, no serviettes, the orange juice was empty and this was only fixed after making a complaint. All in all I would never stay here again whatever the circumstance as there are far better and cheaper hotels closer to the main attractions.  
+<Date>Dec 5, 2005
+<Rating>1	1	1	-1	2	-1	2	-1	
+<Aspects>
+0	
+6	28(close):1	112(main):1	143(cheap):1	350(attraction):1	937(whatever):1	3043(circumstance):1	
+52	11(bed):1	13(bathroom):1	18(book):2	32(check):1	39(return):2	50(bad):1	53(arrive):1	54(door):1	57(water):1	61(shower):1	99(couple):1	104(sleep):1	119(window):1	123(ok):1	157(light):1	164(air):1	179(double):1	183(wall):1	231(smell):1	240(real):1	273(reasonable):1	330(toilet):1	338(tiny):1	343(impress):1	363(party):2	402(foot):1	434(wear):1	440(furniture):1	468(smoke):2	478(hang):1	494(fix):1	505(age):1	526(screen):1	663(advise):1	686(pressure):1	754(thin):1	760(company):1	775(hit):1	776(paper):1	944(temperature):1	962(christmas):1	971(numerous):1	1016(musty):1	1083(conditioner):1	1141(highlight):1	1171(overnight):1	1190(edge):1	1287(leak):1	1601(escape):1	4511(rattle):1	5238(misfortune):1	10783(4am):1	
+4	2(night):1	28(close):1	66(park):1	82(station):1	
+0	
+12	6(breakfast):1	53(arrive):1	129(reception):1	148(request):1	193(person):1	280(buy):1	351(add):1	447(send):1	601(enter):1	621(ticket):1	1082(cash):1	3759(reluctant):1	
+24	6(breakfast):1	27(bar):1	29(minute):1	66(park):1	142(bring):1	162(hard):1	165(start):1	190(complaint):1	222(cold):1	230(road):2	238(bottle):1	249(luggage):1	251(wine):1	362(juice):1	494(fix):1	751(apartment):1	810(empty):1	824(carry):1	903(international):1	1057(bacon):1	1104(orange):1	1575(pacific):1	2979(subject):1	4611(dismal):1	
+0	
+
+<Author>perfectmuse
+<Content>Fabulous! I stayed at the Pacific for three weeks during Feb. and March of 2005. The staff were extremely helpful and the room immaculate. The buffet breakfast, which was included in the cost of my room, was fantastic with a great choice of hot and cold.This hotel is fabulous value for money and I would definitely go again and recommend it to anyone planning a trip to Sydney.  
+<Date>Sep 17, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+5	75(week):1	270(fabulous):1	615(march):1	1258(feb):1	1575(pacific):1	
+8	15(recommend):1	33(trip):1	59(definitely):1	80(money):1	81(value):1	221(plan):1	270(fabulous):1	809(sydney):1	
+4	0(staff):1	14(helpful):1	110(extremely):1	894(immaculate):1	
+0	
+0	
+0	
+8	6(breakfast):1	71(include):1	77(buffet):1	86(fantastic):1	107(choice):1	114(hot):1	175(cost):1	222(cold):1	
+0	
+

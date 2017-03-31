@@ -1,0 +1,868 @@
+<Author>Huuhkaja
+<Content>Centrally located hotel with excellent views       Premium room  
+<Date>Jan 7, 2009
+<Rating>5	5	4	5	5	5	5	4	
+<Aspects>
+0	
+0	
+5	17(view):1	21(excellent):1	84(locate):1	879(centrally):1	1465(premium):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>vwp
+<Content>Second Stay I like this hotel. We stayed here a couple of years ago. Nice large room and bathroom. Great view of Hyde Park (though the windows could use a wash). It is close to the buses and subway and the not-to-miss Australia Museum.Lots of places to eat around the corner.There is a coin laundry, though 3 of the 4 dryers were broken.We had a light blow out and they fixed that right away. If someone is visiting you, there is actually streetside parking to be found behind the hotel. We got in early and stayed a few hours late - no problem.  
+<Date>Dec 28, 2008
+<Rating>4	4	4	4	4	4	4	1	
+<Aspects>
+7	38(lot):1	47(eat):1	60(hour):1	79(late):1	99(couple):1	200(corner):1	633(ago):1	
+0	
+10	4(nice):1	13(bathroom):1	17(view):1	66(park):1	119(window):1	157(light):1	494(fix):1	811(wash):1	1146(blow):1	2816(hyde):1	
+9	28(close):1	65(visit):1	66(park):1	120(bus):1	180(actually):1	370(subway):1	507(museum):1	1530(australia):1	8177(streetside):1	
+0	
+0	
+4	228(break):1	1075(laundry):1	1209(dryer):1	3424(coin):1	
+0	
+
+<Author>LamYYZ
+<Content>Excellent central location, great views from many rooms, good value overall Hotel is situated close to Hyde Park, walking distance to shopping streets, walking distance to trendy Darlinghurst and Pott's point. Preferred this location to hotels near CBD or near Rocks/Harbour as the area is less touristy, therefore many affordable eateries and shops closeby.For the GLBT crowd, short walk to the Gay neighbourhood of Sydney.  
+<Date>Dec 22, 2008
+<Rating>4	4	4	5	4	5	5	2	
+<Aspects>
+0	
+0	
+0	
+28	1(location):2	7(walk):3	17(view):1	21(excellent):1	28(close):1	35(street):1	49(shop):2	66(park):1	70(overall):1	81(value):1	102(near):2	115(distance):2	144(short):1	168(central):1	313(crowd):1	421(neighbourhood):1	536(prefer):1	574(situate):1	809(sydney):1	1062(affordable):1	1413(trendy):1	1470(touristy):1	1779(eatery):1	2552(gay):1	2731(cbd):1	2816(hyde):1	4759(closeby):1	7569(darlinghurst):1	
+0	
+0	
+0	
+0	
+
+<Author>CSquaredC2
+<Content>Great hotel in a great location. I ended up risking a try with Priceline for the Sydney CBD and ended up getting this hotel for $65 US a night plus taxes. Based on what I paid, the location, and the friendliness, this was a great place. First, it's in a great location across from Hyde Park, around the corner from Oxford Street and about a 10 minute walk to Darling Harbour. I also had no problem getting to The Rocks, Sydney Opera House, The bridge and the Ferry Terminals - I think it was about a 20 minute walk. However, you have access to all the buses on Oxford that will take to The Rocks and even the Bondi Beach buses. I didn't end up using any of the trains so I couldn't comment on how convenient those are. As far as service goes, everyone at the front desk, especially the concierge were helpful. I went solo and had a vague idea of the things I wanted to do so I relied heavily on the concierge to help solidify plans. The hotel room is on the smaller side - but not any different than many hotels in major cities. It was modern and the bed was comfortable and if you ask for a high floor, the view is great. It had a small refrigerator, stove top, microwave and dishes that makes eating in or packing lunches convenient. They also have a laundry room in the hotel for $5 AU a load - each for the washer and dryer. The only real negative I has was the cost of the wireless access - 55 cents/minute up to a max of $27 for every 24 hours. But in doing my research, that is not uncommon in Australia. There are some cafes that have access (most charge - like $2-3/hour), but some do not. It seems like most McDonalds had free access. There is also an IGA Supermarket about a 5 minute walk away on Oxford. As well as a Post, and if you brave Oxford Street at night, there are a ton of eateries open late right around the corner. But Darling Harbour is also close enough for a late night dinner. There are also a couple of great eateries down on the corner of Stanley and Crown Streets. One cafe, I can't recall the name, serves great sandwiches for under $5. There are a few sushi places and a bar as well.I would definitely stay here again. Enjoy.  
+<Date>Dec 1, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+5	51(enjoy):1	59(definitely):1	1024(research):1	1530(australia):1	5458(uncommon):1	
+12	1(location):1	2(night):1	42(pay):1	76(try):1	203(plus):1	284(base):1	798(tax):1	809(sydney):1	1069(priceline):1	1754(friendliness):1	2168(risk):1	2731(cbd):1	
+12	11(bed):1	17(view):1	24(floor):1	25(comfortable):1	41(city):1	151(modern):1	315(major):1	886(load):1	1075(laundry):1	1209(dryer):1	2602(washer):1	2716(au):1	
+44	1(location):2	2(night):2	7(walk):3	28(close):1	29(minute):3	30(beach):1	35(street):3	47(eat):1	66(park):1	79(late):2	99(couple):1	117(dinner):1	118(top):1	120(bus):2	159(access):1	182(train):1	186(convenient):2	200(corner):3	252(lunch):1	281(house):1	356(comment):1	561(harbor):2	644(post):1	715(pack):1	740(bridge):1	773(rock):2	809(sydney):1	816(dish):1	820(microwave):1	916(refrigerator):1	967(ton):1	1010(ferry):1	1078(supermarket):1	1261(terminal):1	1374(opera):1	1681(darling):2	1779(eatery):2	2816(hyde):1	2848(stave):1	3194(crown):1	3801(oxford):4	4677(brave):1	4868(bondi):1	7507(stanley):1	
+0	
+17	9(service):1	14(helpful):1	31(front):1	36(desk):1	60(hour):1	92(help):1	126(especially):1	136(charge):1	159(access):1	204(concierge):2	221(plan):1	275(cafe):1	639(idea):1	2327(rely):1	2836(heavily):1	3526(solo):1	7907(vague):1	
+7	27(bar):1	174(serve):1	275(cafe):1	295(name):1	1071(sandwich):1	1632(sushi):1	3014(recall):1	
+9	46(free):1	60(hour):1	159(access):2	175(cost):1	240(real):1	282(negative):1	717(wireless):1	2169(max):1	2524(mcdonalds):1	
+
+<Author>Helrick
+<Content>Great customer service Stayed here at the start and end of our trip. The customer service was excellent, especially from porters, receptionist and concierge. They extended our checkout time without any prompting to fit to our flight times. We stayed in a deluxe room first time (view of the opera house) and it was what I would expect of five star. We stayed in a standard room at the end of our trip and though it was smaller, how long do you actually spend in the room.  
+<Date>Dec 1, 2008
+<Rating>4	-1	4	5	5	5	5	-1	
+<Aspects>
+0	
+4	9(service):1	33(trip):1	165(start):1	428(customer):1	
+11	5(time):1	17(view):1	33(trip):1	62(expect):1	64(spend):1	103(star):1	130(standard):1	180(actually):1	281(house):1	648(deluxe):1	1374(opera):1	
+0	
+0	
+13	5(time):2	9(service):1	21(excellent):1	126(especially):1	204(concierge):1	233(flight):1	428(customer):1	658(checkout):1	668(fit):1	855(receptionist):1	1208(prompt):1	1303(extend):1	1653(porter):1	
+0	
+0	
+
+<Author>PJ26Sydney
+<Content>Great Service I booked accomodation in Sydney to stay after a work christmas party, last year we stayed at Rydges World Square and had a terrible experience so I was extra cautious with booking and asking questions etc.We booked a package for $209 which included breakfast and vallet parking which was good value for the season compared to others I looked at. After booking I received an email which stated i could go online and request certain things (smoking, extra towles etc) which we did. We requested a balcony room for smoking and was told we could have that for $15 extra which I went forward and requested by email. I confirmed by phone that they had my request and it was all OK. A day later I received a reply to the email I sent saying they had no balcony rooms available. As I had already confirmed by phone the day before I phoned again to try clarify any confusion.A lady by the name of Melody advised me that the person I had spoke to the day earlier had mistakenly put the booking for a Park View room which has no balcony which i was not pleased about so she offered me a Junior Suite upgrade for $50 extra bringing the booking to $259 which I agreed to as a higher level, seperate bedroom and spa sounded worth it.As I mentioned earlier due to a previous bad experience at a different hotel I was extra cautious so I phoned again the following day just to make sure everything that was confirmed the day before was on record. The first person I spoke to had no record of it but then transferred me back to Melody who again confirmed it all and assured me when I checked in they would have all the information.When checking in my fears were confirmed and i was told they had only my original booking and they had no Junior Suites available. Melody had not passed on the information.Now this long winded story would seem to be a terrible experience again and potentially it could have been but the staff and manager on duty Jaacks I think his name was were extremely helpful and gave us the balcony room and package I originally booked for $150.Once that was all sorted everthing was just perfect for our stay.The King size bed was incredibly comfortable, the bathroom was nice with a large corner bath. the terrace balcony was huge could probably fit 20 people out there.All the staff went out of their way to ask if we needed help with luggage no matter where in the hotel we were.Vallet parking was excellent very quick with hardly any wait. Much faster than other hotels I have stayed.Breakfast was wonderful on level 1 the room has a beautiful outlook over Hyde Park and everything in the buffet hot and kept stocked up.This Hotel turned a possible terrible experience into an absolutely outstanding experience. Other establishments could learn plenty about Customer Service from the Marriott Sydney.Well Done and Thank You!!  
+<Date>Nov 30, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+11	8(day):1	74(perfect):1	76(try):1	271(thank):1	296(phone):2	499(fast):1	557(sort):1	982(confirm):1	2831(confusion):1	3464(everth):1	5743(clarify):1	
+15	8(day):2	44(experience):3	50(bad):1	128(extra):1	189(absolutely):1	244(mention):1	259(due):1	296(phone):1	373(previous):1	432(terrible):1	482(follow):1	534(outstanding):1	982(confirm):1	2251(record):1	4146(cautious):1	
+64	0(staff):1	4(nice):1	8(day):2	11(bed):1	13(bathroom):1	14(helpful):1	17(view):1	18(book):4	25(comfortable):1	26(people):1	32(check):1	44(experience):1	66(park):1	69(tell):2	79(late):1	83(size):1	89(offer):1	96(worth):1	108(suite):2	110(extremely):1	127(speak):1	128(extra):2	133(huge):1	134(available):2	142(bring):1	148(request):2	163(upgrade):1	173(please):1	178(probably):1	191(balcony):5	193(person):1	200(corner):1	226(bath):1	243(king):1	258(manager):1	268(bedroom):1	295(name):2	302(receive):1	306(level):1	314(spa):1	409(sound):1	432(terrible):1	447(send):1	468(smoke):1	473(agree):1	521(lady):1	527(package):1	663(advise):1	668(fit):1	673(terrace):1	750(forward):1	807(incredibly):1	906(story):1	964(junior):2	982(confirm):1	1168(wind):1	1270(original):1	1300(originally):1	1325(duty):1	1416(seperate):1	1811(reply):1	2022(fear):1	5242(potentially):1	6019(mistakenly):1	
+6	21(excellent):1	66(park):1	85(wait):1	299(quick):1	985(hardly):1	9678(vallet):1	
+8	18(book):1	73(etc):1	128(extra):1	148(request):1	302(receive):1	468(smoke):1	822(online):1	7108(towl):1	
+16	0(staff):1	32(check):1	92(help):1	123(ok):1	127(speak):1	148(request):1	193(person):1	249(luggage):1	296(phone):1	400(pass):1	531(matter):1	649(information):2	982(confirm):2	1021(transfer):1	1349(assure):1	2251(record):1	
+37	6(breakfast):2	9(service):2	18(book):3	20(look):1	44(experience):1	45(beautiful):1	48(wonderful):1	66(park):2	71(include):1	73(etc):1	77(buffet):1	81(value):1	114(hot):1	128(extra):1	139(square):1	158(plenty):1	272(world):1	306(level):1	363(party):1	381(compare):1	394(question):1	428(customer):1	432(terrible):1	527(package):1	599(stock):1	610(season):1	618(marriott):1	703(learn):1	780(accomodation):1	809(sydney):2	962(christmas):1	1473(establishment):1	2816(hyde):1	4146(cautious):1	4959(outlook):1	7288(rydg):1	9678(vallet):1	
+0	
+
+<Author>DanielDP
+<Content>Most likely, never again The hotel didn't impress me at all. We arrived slightly early and they said they didn't have rooms available yet, while lots of people were checking out and some where checking in...The location is not great, but for business that didn't matter.The room was what impressed me the least. Old, small, not usual Marriott quality, especially for the price I was paying!  
+<Date>Nov 26, 2008
+<Rating>2	-1	3	2	3	1	2	3	
+<Aspects>
+1	343(impress):1	
+6	19(price):1	42(pay):1	126(especially):1	187(quality):1	618(marriott):1	682(usual):1	
+10	1(location):1	26(people):1	32(check):2	38(lot):1	53(arrive):1	134(available):1	147(business):1	343(impress):1	531(matter):1	598(slightly):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>ioannis70
+<Content>A bit expensive The hotel is pretty good, the room was spacious and with high speed internet connection, the breakfast was very good. My only objection for this hotel concerns its pricing policy: In the hotel's online description about the rooms it is nowhere stated that high-speed internet is on extra charge (about 25 AUD per day, I do not remember exactly). Furthermore, the breakfast was not included in price, so this was an extra cost (although they gave me a lower price because I bought 5 breakfasts from the first day). Finally, allthoygh I had payed the room in advance for 5 days, they reserved additional 50AUD per day from my credit card, just in case of extra expenses (this happened before my decision to buy breakfast and high speed internet access).So, if I knew all these before making my reservation at this hotel, perhaps I would choose another (but I am not sure for that).  
+<Date>Nov 10, 2008
+<Rating>4	3	4	3	4	2	3	-1	
+<Aspects>
+0	
+9	6(breakfast):2	8(day):1	19(price):2	71(include):1	128(extra):1	175(cost):1	280(buy):1	777(lour):1	3360(furthermore):1	
+0	
+0	
+0	
+2	156(reservation):1	167(choose):1	
+0	
+33	6(breakfast):2	8(day):3	19(price):1	42(pay):1	52(bit):1	97(internet):3	109(pretty):1	111(spacious):1	124(expensive):1	128(extra):2	136(charge):1	159(access):1	280(buy):1	292(card):1	341(finally):1	375(remember):1	382(happen):1	496(concern):1	506(reserve):1	586(exactly):1	659(credit):1	685(advance):1	822(online):1	835(additional):1	932(connection):1	1170(speed):2	1539(decision):1	1634(policy):1	2034(description):1	2058(expense):1	3436(high-speed):1	5360(aud):1	11581(objection):1	
+
+<Author>Em101
+<Content>Beautful Bed  I stayed on the 9th level with my partner for 3 nights. We had an early flight and was allowed to check-in early which was a nice welcome. The room was a bit of a mixture of styles - new bed, tv, tv stand but old style bathroom and kitchen area. The view over Hyde Park made the extra money worth it and there was little noise from the street below. The bed was devine, new tv, spacious but dated bathroom, staff friendly, convenient location, clean and practical gym, pool and sauna (although a constant flow of drunk people up there) with a brilliant view. Room service food was pretty ordinary but some things on menu may be better. The price we paid for this was very reasonable and will most likely return.  
+<Date>Nov 4, 2008
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+0	
+4	19(price):1	39(return):1	42(pay):1	273(reasonable):1	
+31	0(staff):1	1(location):1	2(night):1	3(clean):1	11(bed):3	12(friendly):1	13(bathroom):2	17(view):1	22(pool):1	26(people):1	52(bit):1	63(drink):1	111(spacious):1	116(tv):3	186(convenient):1	306(level):1	326(style):2	444(stand):1	461(kitchen):1	511(date):1	523(gym):1	793(brilliant):1	1006(partner):1	1422(sauna):1	1432(constant):1	1942(flow):1	3107(practical):1	3649(mixture):1	5180(9th):1	7888(beautful):1	8773(devine):1	
+10	17(view):1	23(little):1	35(street):1	66(park):1	80(money):1	94(noise):1	96(worth):1	128(extra):1	585(below):1	2816(hyde):1	
+0	
+5	4(nice):1	202(welcome):1	233(flight):1	286(check-in):1	359(allow):1	
+5	9(service):1	16(food):1	109(pretty):1	423(menu):1	2025(ordinary):1	
+0	
+
+<Author>BillNoonan
+<Content>Marriott central and excellent service Our stay in the Marriott during August 2008 was really excellent and the staff were super-friendly. Excellent dining and bar facilities.  
+<Date>Oct 28, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+6	0(staff):1	9(service):1	21(excellent):2	168(central):1	618(marriott):2	9505(super-friendly):1	
+4	21(excellent):1	27(bar):1	211(facility):1	316(dine):1	
+0	
+
+<Author>luv2lol
+<Content>Loved it I booked this hotel on wotif for a long weekend away with my partner. I wasn't expecting much from it but was overly impressed by the room. It was extremely clean and the bed was very comfortable. The bathroom was spacious with an enormous bathtub, not a spa but still relaxingThe only downfall was the size of the TV, a big flat screen would have been better in the room.We didn't have a park view room but our view was still excellent, you could see the wharf at woolamooloo and the lights were amazing.  
+<Date>Sep 7, 2008
+<Rating>5	5	4	4	4	4	3	2	
+<Aspects>
+0	
+0	
+23	3(clean):1	11(bed):1	13(bathroom):1	17(view):2	21(excellent):1	25(comfortable):1	62(expect):1	66(park):1	83(size):1	110(extremely):1	111(spacious):1	116(tv):1	145(amaze):1	157(light):1	314(spa):1	343(impress):1	526(screen):1	535(flat):1	784(wharf):1	1023(bathtub):1	1345(overly):1	1625(enormous):1	3136(downfall):1	
+0	
+0	
+0	
+5	18(book):1	40(love):1	172(weekend):1	1006(partner):1	6905(wotif):1	
+0	
+
+<Author>162
+<Content>Pleasant, reliable hotel, with some noise issues We stayed here for one night in August 2008, in a room booked through Wotif with breakfast included.I was looking for a reliable, pleasant and hassle-free hotel, which was what we (mostly) got.On the upside:- Very helpful, friendly staff- We arrived at 11am and were able to check into our room early, which was very much appreciated- Breakfast was great- Room was clean, pleasantly furnished etc- Room contained a microwave, a toaster and some crockery - we didn't use this, but I can imagine it would be very handy if you were staying for several daysSome negatives:- Not good soundproofing - we could hear people quite clearly from the hallway, doors banging etc- Curtain didn't cover the window all the way, so the morning light came in. This combined with the soundproofing meant that we were wide awake by 8am after a late night - not ideal- Hotel is clearly a little old. Not at all shabby, just not all modern and designerThe location suited us very well - right next to a park, and close to Crown St where we had dinner with friends. We walked from the hotel all the way to the Rocks (about half an hour) and back again with no problems, but if you are not a big walker, you might prefer a hotel closer to the main tourist attractions.  
+<Date>Aug 17, 2008
+<Rating>3	3	3	3	5	5	5	-1	
+<Aspects>
+14	2(night):1	20(look):1	23(little):1	79(late):1	150(pleasant):1	246(mean):1	545(ideal):1	860(wide):1	1494(awake):1	1852(soundproof):1	2316(combine):1	2416(reliable):1	7545(8am):1	8769(hassle-free):1	
+0	
+32	0(staff):1	3(clean):1	6(breakfast):1	12(friendly):1	14(helpful):1	26(people):1	32(check):1	53(arrive):1	54(door):1	56(morning):1	73(etc):2	119(window):1	132(hear):1	157(light):1	171(able):1	282(negative):1	500(appreciate):1	552(cover):1	580(hallway):1	733(imagine):1	743(curtain):1	747(pleasantly):1	755(handy):1	787(furnish):1	820(microwave):1	1401(bang):1	1545(contain):1	1852(soundproof):1	2849(toaster):1	3613(upside):1	6535(crockery):1	7969(11am):1	
+19	1(location):1	7(walk):1	28(close):2	60(hour):1	66(park):1	112(main):1	117(dinner):1	146(friend):1	151(modern):1	209(tourist):1	283(half):1	350(attraction):1	536(prefer):1	773(rock):1	861(suit):1	940(St):1	1319(shabby):1	3194(crown):1	3309(walker):1	
+0	
+0	
+9	2(night):1	6(breakfast):1	18(book):1	71(include):1	94(noise):1	150(pleasant):1	265(issue):1	2416(reliable):1	6905(wotif):1	
+0	
+
+<Author>dum_chick_dum_dum
+<Content>Wonderful Hotel       View from my room  
+<Date>Aug 16, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+2	17(view):1	48(wonderful):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>chester60
+<Content>Don't bother with the executive lounge I booked this hotel through wotif.com.au for my husbands birthday. We chose the executive room with access to the executive lounge. The rooms are clean and beds comfortable. Great location. Don't bother to book the executive lounge rooms, below are the problems. . I booked the executive level room and we were placed in room 1706 not on the top 2 floors as stated in the booking. When we checked in we were given no information about the executive lounge and had to look it up in the hotel directory. We then had to wait 30 minutes for our luggage to be delivered to our room. I had to ring to find out where our luggage was. We also received no evening turndown on either night nor were there any bathrobes in the room. These are all listed items on the hotel website. The wesite also states that there is a cooktop and pans in the executive room which was not there. During our stay the top level was closed for renovations so no spa, pool etc access. This should be stated on the website. The hotel also states that cocktails are available in the executive lounge. This was not the case as there was only one staff member and nowhere set up to have a cocktail made. There was also no cutlery set up for the evening canapes or breakfast. When we arrived for breakfast at 9am there was a very limited selection left and we were told that was all that was available. As breakfast was until 10am the plates should have been replenished with enough selection until 10am when breakfast finished. This is an executive lounge in a 5 star hotel and the service was not good enough.  
+<Date>Jul 31, 2008
+<Rating>2	2	3	5	3	1	1	2	
+<Aspects>
+3	105(husband):1	765(birthday):1	2716(au):1	
+0	
+27	2(night):1	3(clean):1	11(bed):1	18(book):2	22(pool):1	24(floor):1	25(comfortable):1	28(close):1	29(minute):1	73(etc):1	85(wait):1	118(top):2	159(access):2	167(choose):1	237(lounge):1	249(luggage):1	302(receive):1	306(level):2	314(spa):1	631(deliver):1	687(renovation):1	872(executive):4	970(nor):1	1529(bathrobe):1	2080(turndown):1	2125(pan):1	11690(cooktop):1	
+4	1(location):1	262(website):2	519(item):1	650(list):1	
+0	
+9	0(staff):1	20(look):1	32(check):1	234(set):1	237(lounge):1	649(information):1	716(cocktail):1	872(executive):1	7007(directory):1	
+25	6(breakfast):4	9(service):1	18(book):2	43(leave):1	53(arrive):1	69(tell):1	103(star):1	134(available):2	234(set):1	237(lounge):4	249(luggage):1	307(bother):2	333(selection):2	510(limit):1	585(below):1	716(cocktail):1	772(finish):1	872(executive):4	1002(plate):1	1150(ring):1	1808(replenish):1	3182(cutlery):1	4388(canape):1	7512(10am):2	8402(wotif.com):1	
+0	
+
+<Author>TravelinLeather
+<Content>Great Hotel and Location       View From Rooftop Pool  
+<Date>Jul 30, 2008
+<Rating>4	4	4	5	5	4	5	3	
+<Aspects>
+0	
+0	
+0	
+4	1(location):1	17(view):1	22(pool):1	1063(rooftop):1	
+0	
+0	
+0	
+0	
+
+<Author>jhaberzetle
+<Content>Nice hotel - a standard Marriott experience This was the first stop on our honeymoon - we stayed at the Sydney Marriott on Hyde Park for 4 nights in May 2008. We booked the room through Priceline so the price was quite reasonable by Sydney standards. We mentioned it was our honeymoon on check-in and they gave us a room on one of the upper floors overlooking Hyde Park.The location was nice and central for exploring Sydney - we walked from there to the botanic gardens, the opera house, circular quay, Paddington market, etc. The hotel was clean and nice. The furnishings in our room were somewhat dated but looked fine. Staff was very friendly. We didn't spend too much time in the hotel but enjoyed it when we were there.  
+<Date>Jul 27, 2008
+<Rating>4	4	3	4	4	4	4	-1	
+<Aspects>
+3	5(time):1	51(enjoy):1	64(spend):1	
+14	2(night):1	4(nice):1	18(book):1	19(price):1	44(experience):1	66(park):1	122(stop):1	130(standard):2	273(reasonable):1	502(honeymoon):1	618(marriott):2	809(sydney):2	1069(priceline):1	2816(hyde):1	
+13	20(look):1	24(floor):1	66(park):1	113(fine):1	244(mention):1	260(overlook):1	286(check-in):1	502(honeymoon):1	511(date):1	651(somewhat):1	870(furnishings):1	1333(upper):1	2816(hyde):1	
+15	1(location):1	4(nice):1	7(walk):1	73(etc):1	168(central):1	264(market):1	281(house):1	310(garden):1	594(explore):1	809(sydney):1	1374(opera):1	1664(quay):1	1912(circular):1	7155(botanic):1	9192(paddington):1	
+2	3(clean):1	4(nice):1	
+2	0(staff):1	12(friendly):1	
+0	
+0	
+
+<Author>Milonotovaltine
+<Content>As expected I was gonna rate this hotel excellent except for this one thing that bothers me. The bed linens and towels did not smell pleasant, but smelled like sweat, or washed without detergent or dried insufficiently. I expect this class of hotel to provide linens and towels that smell beautiful. I was also disappointed that there were no bathrobe and slippers. In addition, the internet was so slow even though it was supposedly high speed.The best thing is probably the Hyde park view, followed by its spacious space, large bathtub, location and general layout. I guess its a good hotel for honeymooners.Whether to book this hotel again I am not too sure as I am particular about bed linens and towels' odor, but will surely recommend this hotel to others who are not so fussy about this detail.  
+<Date>Jul 26, 2008
+<Rating>4	3	5	5	5	3	5	3	
+<Aspects>
+9	21(excellent):1	62(expect):1	78(rate):1	154(disappoint):1	307(bother):1	337(except):1	1306(slipper):1	1529(bathrobe):1	3996(gonna):1	
+2	469(guess):1	2781(honeymooner):1	
+10	1(location):1	17(view):1	66(park):1	111(spacious):1	178(probably):1	210(space):1	482(follow):1	1023(bathtub):1	1453(layout):1	2816(hyde):1	
+0	
+13	11(bed):1	45(beautiful):1	62(expect):1	125(towel):2	150(pleasant):1	153(provide):1	231(smell):3	470(class):1	630(linen):2	811(wash):1	2514(sweat):1	3045(dried):1	5565(detergent):1	
+0	
+10	11(bed):1	15(recommend):1	18(book):1	125(towel):1	592(detail):1	630(linen):1	938(particular):1	1628(odor):1	1867(fussy):1	2033(surely):1	
+5	97(internet):1	455(slow):1	918(addition):1	1170(speed):1	2062(supposedly):1	
+
+<Author>KH_RWC
+<Content>Met expectations nicely We spent the first few nights in Sydney at the other Marriott at Circular Quay, which was a great place to be on a first visit, but pricey (~$300 US per night). When we returned to Sydney after a few days up north we booked into this hotel at ~$200/night to save a little $. Turned out to be a better location for us, on the edge of Darlinghurst and Surry Hills, cute neighborhoods with restaurants, banks, groceries, and next to the MUSEUM cityrail train stop.We love Marriott fluffy beds and the predictability of a stay at one, due to their universal consistency. Odd thing about this one is although interior decoration is of good quality and in good shape, we were puzzled what the goal was with the battleship gray decor (maybe manly to appeal to business men?)--walking down the hotel corridors we were reminded of a submarine.  
+<Date>Jul 3, 2008
+<Rating>4	4	4	4	4	4	4	4	
+<Aspects>
+0	
+24	2(night):2	64(spend):1	65(visit):1	147(business):1	187(quality):1	196(meet):1	269(decor):1	308(maybe):1	404(nicely):1	431(expectation):1	546(pricey):1	618(marriott):1	809(sydney):1	1026(interior):1	1088(odd):1	1226(shape):1	1580(decoration):1	1664(quay):1	1679(appeal):1	1912(circular):1	2335(grey):1	4497(goal):1	4774(puzzle):1	7950(manly):1	
+7	11(bed):1	40(love):1	259(due):1	618(marriott):1	1792(fluffy):1	2188(universal):1	5590(consistency):1	
+16	1(location):1	7(walk):1	10(restaurant):1	122(stop):1	182(train):1	421(neighbourhood):1	507(museum):1	756(hill):1	1073(corridor):1	1190(edge):1	1199(grocery):1	1202(cute):1	1225(bank):1	1285(remind):1	7569(darlinghurst):1	9348(submarine):1	
+0	
+0	
+7	8(day):1	18(book):1	23(little):1	39(return):1	425(save):1	684(North):1	809(sydney):1	
+0	
+
+<Author>horizonguys
+<Content>Marriott by Hyde Park is a great hotel. Stayed at the Marriott on College Street for 4 nights and found it to be a top class hotel. The staff were very obliging. The room was kept spotless. The location was brilliant. It was 10 minutes walk from Darling Harbour, 15 mins from the Opera House and 30 seconds from Oxford Street which had buses to Bondi Beach. The views of Hyde Park from the bedroom with the Sydney skyline in the background were sublime.  
+<Date>Jul 1, 2008
+<Rating>5	5	-1	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+9	17(view):1	66(park):1	268(bedroom):1	548(spotless):1	809(sydney):1	2445(background):1	2526(skyline):1	2816(hyde):1	5742(sublime):1	
+21	1(location):1	2(night):1	7(walk):1	29(minute):1	30(beach):1	35(street):2	66(park):1	118(top):1	120(bus):1	247(min):1	281(house):1	470(class):1	561(harbor):1	618(marriott):2	793(brilliant):1	1374(opera):1	1681(darling):1	1925(college):1	2816(hyde):1	3801(oxford):1	4868(bondi):1	
+0	
+2	0(staff):1	2709(oblige):1	
+0	
+0	
+
+<Author>FlyEmirates
+<Content>Great Accomodations if you're more than 2 people To this day I remain mystified as to why when travelling outside of North America it is so difficult to find a hotel room that sleeps more than 2 adults aka has 2 double or queen beds in one room. As we were three, we searched high and low to find such accomodations while in Sydney and finally we came across this property. The only one that could guarantee a room with 2 double beds, not single. What do people DO when travelling as a family or a group of friends in these places? Anyway, the room was clean, modern and very spacious, more than comfortable for 3 adults. Very central, walking distance to almost anywhere in downtown Sydney.The only complaint I do have is that to access the internet from your laptop in the room they want to charge you $30AUD!!! A bit of a rip if you ask me.  
+<Date>Jun 26, 2008
+<Rating>4	4	4	4	4	4	4	3	
+<Aspects>
+6	26(people):1	52(bit):1	68(travel):1	106(family):1	146(friend):1	1182(rip):1	
+6	214(property):1	341(finally):1	513(low):1	780(accomodation):1	809(sydney):1	1248(search):1	
+22	3(clean):1	8(day):1	11(bed):2	25(comfortable):1	26(people):1	68(travel):1	98(outside):1	104(sleep):1	111(spacious):1	151(modern):1	179(double):2	304(single):1	417(anyway):1	543(Queen):1	556(adult):2	572(difficult):1	684(North):1	780(accomodation):1	1391(remain):1	1471(guarantee):1	1724(america):1	5117(aka):1	
+5	7(walk):1	115(distance):1	168(central):1	334(downtown):1	809(sydney):1	
+0	
+0	
+0	
+5	97(internet):1	136(charge):1	159(access):1	190(complaint):1	1111(laptop):1	
+
+<Author>freakyholiday
+<Content>Nice, central hotel Nice hotel, clean rooms and lobby. Our room was a large room that overlooked the park. Nice touches with the flat screen tv, in room microwave, toaster, plates, etc. We got to check in around 11:30 AM which was nice. The hotel staff were very helpful. The only problem was that you can hear everything going on in the halls, every door shutting, everyone's conversation, etc. from the room. Also, we didn't know before we checked in that the rooftop jacuzzi and pool would not be working. Overall, a good hotel in the city center.  
+<Date>Jun 24, 2008
+<Rating>4	3	4	4	4	5	4	2	
+<Aspects>
+0	
+0	
+19	3(clean):1	4(nice):3	54(door):1	55(lobby):1	66(park):1	73(etc):2	116(tv):1	132(hear):1	168(central):1	260(overlook):1	279(touch):1	526(screen):1	535(flat):1	616(hall):1	820(microwave):1	1002(plate):1	1086(shut):1	1281(conversation):1	2849(toaster):1	
+0	
+0	
+7	0(staff):1	4(nice):1	14(helpful):1	22(pool):1	32(check):2	808(jacuzzi):1	1063(rooftop):1	
+0	
+3	41(city):1	70(overall):1	101(center):1	
+
+<Author>NetMaestro
+<Content>Loved it! Stayed for a total of 4 days recently, in two stays of 2 nights each as we left for Blue Mountains in between. I got a real good deal on corporate rates. Booked online and had flexibility to choose all sorts of options including high/low floors, check-in time. As I flew in long-haul and arrived very early in the morning (7am), I asked for early check-in, and was pleasantly surprised that they had the room ready at that time for no additional charge.Room was more than adequate. Nice kichenette, large bath tub, comfortable beds were key features for me.Access to train station is good, at about 5 mins walk (Museum station) which allows easy access to airport.Will consider coming back here for future trips.  
+<Date>Jun 20, 2008
+<Rating>4	4	4	4	4	5	4	3	
+<Aspects>
+15	2(night):1	8(day):1	33(trip):1	40(love):1	43(leave):1	78(rate):1	140(deal):1	240(real):1	248(consider):1	322(recently):1	694(blue):1	732(future):1	786(total):1	1509(mountain):1	1802(corporate):1	
+0	
+8	4(nice):1	11(bed):1	25(comfortable):1	226(bath):1	311(tub):1	339(key):1	390(adequate):1	731(feature):1	
+9	7(walk):1	82(station):2	93(easy):1	95(airport):1	159(access):2	182(train):1	247(min):1	359(allow):1	507(museum):1	
+0	
+19	5(time):2	18(book):1	24(floor):1	53(arrive):1	56(morning):1	71(include):1	136(charge):1	167(choose):1	199(surprise):1	274(ready):1	286(check-in):2	336(option):1	557(sort):1	614(fly):1	747(pleasantly):1	822(online):1	835(additional):1	5963(flexibility):1	6302(7am):1	
+0	
+0	
+
+<Author>sydney_beach_gal
+<Content>Adequate... This hotel is passable, but not really value for money. Rooms are clean and adequately furnished, but slightly on the small side. The pool area is lovely and probably the highlight.Breakfast buffet was good but not exceptional - was very disappointed to find tepid scrambled eggs in a bain marie, rather than being made fresh.All in all, sufficient for a Sydney hotel, but for the prices would like something a little special.  
+<Date>Jun 15, 2008
+<Rating>3	3	3	4	4	3	3	-1	
+<Aspects>
+0	
+9	19(price):1	23(little):1	80(money):1	81(value):1	208(special):1	390(adequate):1	809(sydney):1	1713(sufficient):1	4247(passable):1	
+8	3(clean):1	22(pool):1	87(lovely):1	178(probably):1	598(slightly):1	787(furnish):1	1141(highlight):1	3239(adequately):1	
+0	
+0	
+0	
+10	6(breakfast):1	77(buffet):1	154(disappoint):1	197(fresh):1	412(egg):1	837(exceptional):1	1674(scramble):1	3663(marie):1	7236(tepid):1	10306(bain):1	
+0	
+
+<Author>helenWellingtonNz
+<Content>Marriott was great We turned up at the marriott on a Friday night without a booking after discovering the hotel we booked had allocated us a room next to a noisy lift shaft. The marriott staff found us a very comfortable room with views of Hyde Park at a reasonable rate. They were extremely helpful, courteous and helped with maps and transport plans for the following two days. A paper was sent to our room each day. The beds were the most comfortable I have slept in and the bathroom had a very large bath.We found the service and friendliness of the staff a lovely welcome to Sydney and I will definitely stay at one of their Hotels again.  
+<Date>Jun 3, 2008
+<Rating>5	-1	4	4	5	5	5	4	
+<Aspects>
+0	
+0	
+23	0(staff):1	2(night):1	8(day):1	11(bed):1	13(bathroom):1	17(view):1	18(book):2	25(comfortable):2	66(park):1	78(rate):1	104(sleep):1	217(noisy):1	226(bath):1	273(reasonable):1	447(send):1	591(lift):1	618(marriott):3	776(paper):1	869(discover):1	923(friday):1	1974(allocate):1	2816(hyde):1	3630(shaft):1	
+9	8(day):1	14(helpful):1	92(help):1	110(extremely):1	221(plan):1	482(follow):1	483(courteous):1	724(map):1	742(transport):1	
+0	
+7	0(staff):1	9(service):1	59(definitely):1	87(lovely):1	202(welcome):1	809(sydney):1	1754(friendliness):1	
+0	
+0	
+
+<Author>Calee_Dubya
+<Content>A Priceline Gem       Sydney Marriott  
+<Date>May 17, 2008
+<Rating>4	5	5	5	4	4	-1	-1	
+<Aspects>
+0	
+4	618(marriott):1	805(gem):1	809(sydney):1	1069(priceline):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Lifetraveler1
+<Content>Loved the Hotel, Pure Luxury and You Pay for it! Came to Sydney, Australia for a little holiday. Someplace that I have always wanted to go. The first night was spent at the Aaron's Hotel in the Hayward Market area. A very basic hotel, but nice clean and cheap at about $89.The 2nd and 3rd nights were spent at the Sydney Marriott Hotel. Let me be clear, because I was confused at first. There are two Marriotts in Sydney. The Sydney Harbor Marriott Hotel is the most expensive and located within a 5 minute walk from Sydney's popular harbor area. I stayed in the Sydney Marriott Hotel, which is about a 15 minute walk from the other one. It is facing Hyde Park on College St, (I think) and is located in the CBD (Central Business District). The hotel room rates when I checked online were about $200 per night, but honestly, I used 'frequent sleeper' points that I had gathered up over the years. Experience: I was upgraded to an executive type suite (nice) and loved the room. It was very large with lcd type television, the furnishings looked new and modern. The large jacuzzi type tub was great, because I was still recovering from a 14 flight almost 24 hours earlier. The staff was courteous, knew my name immediately and quite helpful in pointing out points of interest.It was a great place to stay for business folks. Now you want to know if I would have paid the $200+ per night for it? Based on the initial price alone on the web, NO! However, now that I've been there, YES, I'd pay for it next time. Sorry, I didn't take any pictures of it. However, I did for the Aaron Hotel review.I'd recommend it for business travelers because of its location and amenities and folks with a couple of kids because of its location across from that really nice Hyde Park. Oh yes, I found a Thai (I usually don't like Thai food) restaurant two blocks away. The food was fantastic. I think it was called 'Thai Princess'.Thank you!  
+<Date>May 16, 2008
+<Rating>4	4	-1	5	-1	5	5	3	
+<Aspects>
+20	2(night):1	23(little):1	37(review):1	64(spend):1	67(call):1	223(holiday):1	271(thank):1	456(picture):1	618(marriott):1	809(sydney):3	891(sorry):1	1239(princess):1	1326(2nd):1	1419(confuse):1	1530(australia):1	2097(3rd):1	2393(thai):1	3042(someplace):1	4858(marriotts):1	10984(aaron):1	
+15	2(night):1	3(clean):1	4(nice):1	5(time):1	19(price):1	40(love):1	42(pay):3	143(cheap):1	250(yes):1	284(base):1	352(basic):1	437(luxury):1	1019(web):1	2074(initial):1	2242(pure):1	
+25	2(night):1	4(nice):1	20(look):1	32(check):1	40(love):1	44(experience):1	60(hour):1	78(rate):1	108(suite):1	151(modern):1	163(upgrade):1	233(flight):1	311(tub):1	389(type):3	808(jacuzzi):1	822(online):1	870(furnishings):1	872(executive):1	1028(honestly):1	1158(television):1	1299(sleeper):1	1355(frequent):1	1773(lcd):1	2433(gather):1	3020(recover):1	
+28	1(location):2	2(night):1	4(nice):1	7(walk):2	15(recommend):1	29(minute):2	64(spend):1	66(park):2	84(locate):2	99(couple):1	124(expensive):1	147(business):3	168(central):1	201(kid):1	264(market):1	267(traveler):1	291(amenity):1	433(district):1	561(harbor):2	618(marriott):2	809(sydney):3	940(St):1	1050(folk):2	1277(popular):1	1925(college):1	2731(cbd):1	2816(hyde):2	10984(aaron):1	
+0	
+5	0(staff):1	14(helpful):1	295(name):1	483(courteous):1	489(immediately):1	
+7	10(restaurant):1	16(food):2	86(fantastic):1	100(bloc):1	250(yes):1	399(usually):1	2393(thai):2	
+0	
+
+<Author>GerryWellingtonNZ
+<Content>Hop round the corner The Marriott Hotel College Street Sydney was right up to expectations. The staff are particularly customer aware and friendly. The hotel is well situated to the central CDB and the stroll across Hyde Park each morning and evening was very pleasant . Just a little gtrizzle- the In Room internet charge is too expensive. AUD$29.00 per 24/7. Don't connect- hop round the corner to the Vodafone internet cafe. Very clean and well set out. $2.00 for 30mins. All I needed for checking email etc.Some nice restuarants nearby, Oxford Street has many, but the street is dirty and though I did not feel unsafe, it seems to be the gathering place for the gay and lesbian people and the homeless. The Museum Station ( underground rail) is on opposite corner of Hyde Park and ideal for taking the Airport train to Sydney Airport. $14.00 one way.Would recommend Marriott for visitors wanting centrally located accomodation and adjacent facilities.  
+<Date>Apr 14, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	5747(30min):1	9763(aud$):1	
+11	23(little):1	35(street):1	97(internet):1	124(expensive):1	136(charge):1	200(corner):1	431(expectation):1	618(marriott):1	809(sydney):1	1151(hop):1	1925(college):1	
+0	
+25	15(recommend):1	56(morning):1	66(park):2	82(station):1	84(locate):1	95(airport):2	150(pleasant):1	168(central):1	182(train):1	200(corner):1	211(facility):1	507(museum):1	545(ideal):1	574(situate):1	618(marriott):1	780(accomodation):1	783(opposite):1	809(sydney):1	879(centrally):1	951(visitor):1	1056(stroll):1	1061(adjacent):1	1085(underground):1	1755(rail):1	2816(hyde):2	
+17	3(clean):1	4(nice):1	26(people):1	32(check):1	34(feel):1	35(street):2	73(etc):1	232(nearby):1	234(set):1	323(dirty):1	1567(homeless):1	1890(unsafe):1	2095(restuarants):1	2433(gather):1	2552(gay):1	3801(oxford):1	12126(lesbian):1	
+5	0(staff):1	12(friendly):1	428(customer):1	553(particularly):1	832(aware):1	
+5	97(internet):1	200(corner):1	275(cafe):1	841(connect):1	1151(hop):1	
+0	
+
+<Author>jamesbrownuk
+<Content>Nice buffet breakfast, great views Really recommend the hotel buffet breakfast. Especially the omlettes. Nice rooms. Great pool on the roof.  
+<Date>Apr 8, 2008
+<Rating>4	4	5	5	5	4	5	3	
+<Aspects>
+4	22(pool):1	126(especially):1	636(roof):1	3959(omlett):1	
+0	
+1	4(nice):1	
+0	
+0	
+0	
+5	4(nice):1	6(breakfast):2	15(recommend):1	17(view):1	77(buffet):2	
+0	
+
+<Author>Swansforever
+<Content>Will stay at the Marriott again. We stayed at the Marriott on Saturday night the 29th March, 2008. We arrived early to check in which was quick and easy and our luggage was stored. The staff were very friendly and helpful. There was no wait at any stage for the lifts. The room was very large with a sofa, desk, bed and cooking facilities such as hot plates and sink. Basic dishes and utensils were provided. The TV was old but worked well and had pay TV as well as free to air stations. The room was a little worn (or not brand new) but was spotlessly clean and very comfortable. I had four guests over to visit for a couple of hours and there was plenty of room. The bathroom is very large - lots of bench space, a large spa bath and plenty of towels. Toiletries are good quality. We did not have a room overlooking Hyde Park but as it was a corner room we could see the park from the side window. Our main view was to the Eastern suburbs and you could see a bit of the harbour as well. It was a very pleasant view. The room was extremely quiet. We did not hear any noise at all - either from the street or our neighbours. There is an outdoor pool and an indoor spa. My daughter used the spa and said it was great. The buffet breakfast, although not having a huge choice, had everything we wanted and the setting was very picturesque. However the best feature of this hotel is the location. It is walking distance to the city and most facilities and attractions. But it is just far enough away from the hustle and noise of the centre of town. The walk in the other direction is also very interesting. Public transport is very close. Overall we were very satisfied with our stay at the Marriott and we have already booked again for our next visit to Sydney.  
+<Date>Apr 2, 2008
+<Rating>5	5	4	5	5	5	5	-1	
+<Aspects>
+21	2(night):1	17(view):2	22(pool):1	52(bit):1	112(main):1	150(pleasant):1	153(provide):1	314(spa):2	352(basic):1	467(daughter):1	561(harbor):1	615(march):1	618(marriott):2	816(dish):1	818(saturday):1	901(outdoor):1	1680(indoor):1	2919(utensil):1	3004(eastern):1	3366(29th):1	3739(suburb):1	
+2	187(quality):1	657(toiletry):1	
+38	3(clean):1	11(bed):1	13(bathroom):1	23(little):1	25(comfortable):1	36(desk):1	38(lot):1	42(pay):1	46(free):1	58(quiet):1	60(hour):1	65(visit):1	66(park):2	82(station):1	91(guest):1	99(couple):1	110(extremely):1	114(hot):1	116(tv):2	119(window):1	125(towel):1	158(plenty):2	164(air):1	200(corner):1	210(space):1	211(facility):1	226(bath):1	260(overlook):1	314(spa):1	434(wear):1	509(sink):1	550(cook):1	842(sofa):1	883(brand):1	1002(plate):1	1094(spotlessly):1	2816(hyde):1	3270(bench):1	
+15	1(location):1	7(walk):2	28(close):1	35(street):1	41(city):1	94(noise):1	115(distance):1	132(hear):1	211(facility):1	350(attraction):1	379(public):1	395(direction):1	731(feature):1	742(transport):1	934(neighbour):1	
+0	
+12	0(staff):1	12(friendly):1	14(helpful):1	32(check):1	53(arrive):1	85(wait):1	93(easy):1	249(luggage):1	255(store):1	299(quick):1	591(lift):1	1866(stage):1	
+12	6(breakfast):1	18(book):1	65(visit):1	70(overall):1	77(buffet):1	107(choice):1	133(huge):1	234(set):1	618(marriott):1	809(sydney):1	899(satisfy):1	3387(picturesque):1	
+4	94(noise):1	101(center):1	239(town):1	1503(hustle):1	
+
+<Author>Stanleymaxwell
+<Content>Interesting experience! My husband and I just returned from a five night stay at this hotel. There are many positive things to say about this Marriott................however!!!!!!!!!!!!!!!!!!First of all - we arrived early in the AM after a LONG overseas flight from the US. We were pleasantly greeted, and were thrilled to get an early check-in to our room. The room was very nicely appointed, although as previous reviewers have mentioned, the hotel is older and a little worn. The couch in our room definitely had some threadbare areas. However, our king-sized bed was very comfy!Continuing on the positive note - we had a room overlooking Hyde Park. The hotel is in a beautiful and convenient location. Although it is about a mile from the harbor, we are used to walking, and enjoyed the exercise. This was wonderful for our needs - perhaps others might want to be located right on the waterfront. Public transportation is readily available nearby. We had no problem getting to most of the sights, once we became oriented to the area.Food in the hotel is pricey. Once we got our bearings, we were able to find nice restaurants, although it took a little bit of searching. Sydney is a very walkable city - once you figure it out, it is fine. Just a tip - take the exployer bus on day one (you pay for it and pick it up at circular quay). It is a good value and will give you an excellent feel for the city.On our last day in Sydney, we felt that there was quite a bit of activity and excitement in the hotel. We quickly learned that we were there for the day of gay and lesbian Mardi Gras. Our hotel was located literally at ground zero of the Mardi Gras parade. Prior to this, we could not figure out why we had to pay $310. for that night at the hotel! (our previous nights at the hotel were considerably lower in price!) I do wish that this had been explained to us when making the reservation!Anyway, one could be (a) comfortable in this situation, or (b) uncomfortable in this situation. Since we were there only as visitors from the US ,and there by coincidence, it was a very uneasy situation for us. The hotel did its best to maintain security and limit excessive partying, but a very lively atmosphere prevailed!Again - avoid this time in Sydney if Mardi Gras is not in your plans! I fault the Marriott Hotel for not explaining this in advance.I would give this hotel a better review if they had explained this to us, and if we did not feel gouged regarding our room rate for that night.Anyway - enjoy Sydney. It is a beautiful city to visit!  
+<Date>Mar 13, 2008
+<Rating>4	2	4	5	5	5	5	-1	
+<Aspects>
+36	2(night):2	5(time):1	8(day):2	25(comfortable):1	34(feel):1	39(return):1	41(city):1	45(beautiful):1	51(enjoy):1	52(bit):1	65(visit):1	105(husband):1	221(plan):1	357(activity):1	411(sight):1	417(anyway):2	436(avoid):1	458(positive):1	471(quickly):1	517(fault):1	618(marriott):2	685(advance):1	703(learn):1	768(explain):1	809(sydney):3	856(uncomfortable):1	890(situation):3	951(visitor):1	2385(orient):1	2552(gay):1	2925(gras):2	3106(mardi):2	3636(excitement):1	5288(uneasy):1	8164(coincidence):1	12126(lesbian):1	
+29	2(night):1	8(day):1	16(food):1	19(price):1	21(excellent):1	34(feel):1	41(city):1	42(pay):2	44(experience):1	81(value):1	120(bus):1	194(tip):1	266(pick):1	363(party):1	373(previous):1	414(atmosphere):1	510(limit):1	546(pricey):1	562(maintain):1	637(prior):1	641(security):1	777(lour):1	779(figure):1	1600(lively):1	1664(quay):1	1912(circular):1	3088(excessive):1	3252(considerably):1	8808(prevail):1	
+29	2(night):1	11(bed):1	23(little):1	34(feel):1	37(review):1	53(arrive):1	59(definitely):1	66(park):1	78(rate):1	233(flight):1	244(mention):1	260(overlook):1	297(note):1	373(previous):1	404(nicely):1	434(wear):1	458(positive):1	475(comfy):1	564(reviewer):1	579(appoint):1	768(explain):1	930(regard):1	1096(continue):1	1192(couch):1	2417(king-size):1	2816(hyde):1	3977(threadbare):1	4191(overseas):1	5655(gouge):1	
+27	1(location):1	7(walk):1	41(city):1	45(beautiful):1	48(wonderful):1	51(enjoy):1	84(locate):2	113(fine):1	134(available):1	186(convenient):1	232(nearby):1	379(public):1	561(harbor):1	665(literally):1	692(mile):1	706(grind):1	728(transportation):1	779(figure):1	809(sydney):1	1459(exercise):1	1859(waterfront):1	2197(walkable):1	2700(zero):1	2715(readily):1	2925(gras):1	3001(parade):1	3106(mardi):1	
+0	
+7	156(reservation):1	286(check-in):1	384(wish):1	415(greet):1	747(pleasantly):1	768(explain):1	1822(thrill):1	
+7	4(nice):1	10(restaurant):1	23(little):1	52(bit):1	171(able):1	1248(search):1	4344(bearing):1	
+0	
+
+<Author>greenNYC
+<Content>I loved this hotel!       view from hotel window of the bats, towards the harbor.  
+<Date>Mar 8, 2008
+<Rating>5	5	4	5	4	5	5	2	
+<Aspects>
+1	40(love):1	
+0	
+5	17(view):1	119(window):1	561(harbor):1	959(towards):1	4706(bat):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Tonya1
+<Content>Sydney Marriott- pretty good, not perfect Just back from one night at the Sydney Marriott this past week. I generally like Marriott's so I went in with high expectations. First off, the location is perfect. Walk to the train, Darling Harbor, and Pitt street shopping. But, our first impression of the service was rough- upon pulling into the driveway, there was no bellboy to help with our bags. We waited a few minutes and I finally went in and had to ask someone from the front desk for help (they promptly came out to help us). Maybe we just caught them at a bad time but it didn't seem busy. Anyway, front desk staff was excellent and very friendly. The crib we had requested was already in our room when we got there. Room was pretty good size and the beds were super comfortable. We were on the 12th floor with a park view and couldn't hear the traffic outside at all. Next morning we did the buffet breakfast and again, had some spotty service. The servers didn't come around too often to refill coffee and the omlet station was only staffed for 5 minutes the entire time we were there. Also, for over $20/adult (if you didn't prepay the night before, it was much more expensive) I wasn't all that impressed with the buffet. Some of the fruit was just canned pears and peaches. There were no pancakes or waffles- I know I sound picky but you try breakfast with two toddlers in tow and no pancakes. Upon checkout, staff was again great and even offered to load up our car for us while we went for lunch. So, overall, pretty good but for the price ($330 AUD/night) I wouldn't say it was a great value.  
+<Date>Feb 14, 2008
+<Rating>4	3	4	5	3	5	3	-1	
+<Aspects>
+10	2(night):1	74(perfect):1	75(week):1	109(pretty):1	215(fruit):1	419(past):1	618(marriott):2	809(sydney):2	6938(peach):1	7307(pear):1	
+12	2(night):1	19(price):1	70(overall):1	77(buffet):1	81(value):1	109(pretty):1	124(expensive):1	343(impress):1	431(expectation):1	618(marriott):1	2559(prepay):1	5360(aud):1	
+7	11(bed):1	25(comfortable):1	83(size):1	109(pretty):1	148(request):1	464(super):1	2771(crib):1	
+21	1(location):1	5(time):1	7(walk):1	17(view):1	24(floor):1	35(street):1	49(shop):1	50(bad):1	66(park):1	74(perfect):1	98(outside):1	132(hear):1	182(train):1	220(busy):1	308(maybe):1	486(traffic):1	540(catch):1	561(harbor):1	1681(darling):1	1955(12th):1	5468(pitt):1	
+0	
+16	0(staff):2	12(friendly):1	21(excellent):1	29(minute):1	31(front):2	36(desk):2	85(wait):1	89(offer):1	92(help):2	121(car):1	252(lunch):1	341(finally):1	417(anyway):1	658(checkout):1	886(load):1	1212(promptly):1	
+28	0(staff):1	5(time):1	6(breakfast):2	9(service):2	29(minute):1	56(morning):1	76(try):1	77(buffet):1	82(station):1	90(coffee):1	92(help):1	290(bag):1	329(entire):1	409(sound):1	848(impression):1	858(pull):1	926(picky):1	1047(rough):1	1477(pancake):2	1540(server):1	1557(waffle):1	1841(refill):1	2883(toddler):1	3273(bellboy):1	3513(spotty):1	3574(tow):1	3767(driveway):1	7886(omlet):1	
+0	
+
+<Author>villdre
+<Content>Fantastic experience Loved the Marriott!What I liked:1. Very comfortable room. Spacious, had a microwave and a sink.2. Large bathroom .. huge bath-tub.3. Location is good. CBD is a 5 min walk. Hyde park is across the road. Oxford Street, round the corner, has great food and drink options.4. Service is great. I thought my camera was stolen, and I reported that to reception. They went to great lengths to investigate it. Much appreciated. I found the camera in my own bag later.5. Complimentary chocolate, left on my bed by the house-keeper!6. Roof-top swimming pool is awesome, with a great view.What I disliked:1. The room and fittings are a bit dated, though not ugly.What I'm neutral about:1. The gym looked alright, though I didn't use it2. The bars  restaurants seemed fine too, but I didn't use them.  
+<Date>Feb 6, 2008
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+14	79(late):1	111(spacious):1	133(huge):1	166(own):1	290(bag):1	500(appreciate):1	509(sink):1	820(microwave):1	1646(camera):1	1879(length):1	2881(dislike):1	3742(neutral):1	3885(investigate):1	11484(bath-tub):1	
+4	40(love):1	44(experience):1	86(fantastic):1	618(marriott):1	
+10	11(bed):1	13(bathroom):1	25(comfortable):1	43(leave):1	52(bit):1	345(complimentary):1	511(date):1	632(chocolate):1	1872(ugly):1	2379(fitting):1	
+7	1(location):1	7(walk):1	66(park):1	230(road):1	247(min):1	2731(cbd):1	2816(hyde):1	
+0	
+4	129(reception):1	838(report):1	1187(steal):1	1646(camera):1	
+18	9(service):1	10(restaurant):1	16(food):1	17(view):1	20(look):1	22(pool):1	27(bar):1	35(street):1	63(drink):1	113(fine):1	200(corner):1	261(swim):1	336(option):1	348(awesome):1	523(gym):1	2130(all right):1	3801(oxford):1	5578(roof-top):1	
+0	
+
+<Author>wasamaid
+<Content>Very comfortable, well positioned hotel My wife and I stayed at the Marriott Hotel Sydney for two nights in late November 2007, occupying a large deluxe room with two double beds. Our room overlooked Hyde Park, and provided an excellent view. The hotel is well positioned to Hyde Park and Pitt Street, and is close to public transport, the monorail and numerous restaurants. At $171 per night (excluding breakfasts), I think that we got a good deal. Our room was exceptionally quiet, with no noise from street traffic or from other guests. Lifts arrived promptly on our floor and were never crowded. All features of our room were in good working order and were well maintained, and we particularly enjoyed the feather pillows. Our check in and check out were prompt, and staff at reception were very pleasant. We are from country Victoria and seldom visit Sydney. But should that occasion arise again, we would not hesitate to return to this hotel.  
+<Date>Jan 7, 2008
+<Rating>4	4	5	5	4	5	-1	-1	
+<Aspects>
+9	39(return):1	65(visit):1	530(country):1	809(sydney):1	871(occasion):1	902(hesitate):1	1830(victoria):1	4522(arise):1	5416(seldom):1	
+0	
+35	2(night):1	11(bed):1	17(view):1	21(excellent):1	24(floor):1	25(comfortable):1	35(street):1	51(enjoy):1	53(arrive):1	58(quiet):1	66(park):1	79(late):1	91(guest):1	94(noise):1	153(provide):1	179(double):1	184(wife):1	260(overlook):1	303(pillow):1	313(crowd):1	486(traffic):1	553(particularly):1	562(maintain):1	591(lift):1	618(marriott):1	648(deluxe):1	731(feature):1	809(sydney):1	999(november):1	1093(position):1	1212(promptly):1	1242(exceptionally):1	1678(occupy):1	2816(hyde):1	2838(feather):1	
+11	10(restaurant):1	28(close):1	35(street):1	66(park):1	379(public):1	742(transport):1	971(numerous):1	1093(position):1	2343(monorail):1	2816(hyde):1	5468(pitt):1	
+0	
+5	0(staff):1	32(check):2	129(reception):1	150(pleasant):1	1208(prompt):1	
+4	2(night):1	6(breakfast):1	140(deal):1	4614(exclude):1	
+0	
+
+<Author>ArcherReykjavik
+<Content>One of the best hotels I've stayed in! I could find anything wrong with this hotel except that I felt that the internet was expensive. The hotel is nice and clean. Staff is friendly. Breakfast is good. It would not hurt to upgrade the gym. I look forward to stay there again. Location is great!  
+<Date>Dec 30, 2007
+<Rating>5	5	5	5	5	4	4	3	
+<Aspects>
+2	20(look):1	750(forward):1	
+5	34(feel):1	97(internet):1	124(expensive):1	337(except):1	427(wrong):1	
+0	
+1	1(location):1	
+2	3(clean):1	4(nice):1	
+2	0(staff):1	12(friendly):1	
+4	6(breakfast):1	163(upgrade):1	523(gym):1	2320(hurt):1	
+0	
+
+<Author>hemikiwi
+<Content>Loved the view! I have just stayed in the Sydney Marriot for 2 nights. It has a prime location next to Hyde Park and just around the corner from Oxford Street. George Street is only a short walk away too. I had a room overlooking the park and I loved the view! It was such a beautiful view to wake up to. Watching the sun set at night was also beautiful. I would definately request a park view if possible.The room itself was okay. A ittle dated with scratched desk. My bedside lamp did not work , but may have just been the bulb. The bathroom was spacious enough although lighting was a little subdued and I would have preferred it to be a little brighter for shaving. Unfortunately, the shower was a you have to stand in the bathtub  type which must be problemamatic for people with restricted mobility as you either had to step into the bath which involved a step of at least 10 inches or onto a step at the side of the bath which itself was over 6 inches, and then step over and into the bath itself. Really silly design. The bed was very comfortable indeed with lots of comfy pillows!The TV was the usual tv in a box type but with lots of channels. Small sofa was nice but looked like it needed either a good clean or reupholstered. Lots of storage space and minisafe. Breakfast was included in my deal and was buffet in style. Over all the food was very average and definately not worth the $31per person if you did not have it included in your deal. The view from the window was lovely though....directly opposite the park.My only negatives' about the hotel was in regards to housekeeping. I returned on a saturday evening after a very busy day to find that my room had not been cleaned. I had just bought some hot food to enjoy but instead had to wait over 30 minutes for my room to be cleaned. The staff were apologetic but after a long day it was not the best way to start the evening. Overall, a grreat location and wonderful view from room. Room itself was adequate but dated. Bathroom was large but I would prefer a seperate shower or no bath. Would i stay again? Probably but ony if a park view.  
+<Date>Nov 12, 2007
+<Rating>2	-1	3	4	2	3	2	-1	
+<Aspects>
+12	2(night):2	17(view):2	40(love):1	45(beautiful):2	234(set):1	245(watch):1	420(sun):1	516(design):1	554(wake):1	809(sydney):1	2472(marriot):1	2638(silly):1	
+4	0(staff):1	8(day):1	165(start):1	2483(apologetic):1	
+54	1(location):1	3(clean):1	8(day):1	11(bed):1	13(bathroom):2	17(view):2	23(little):2	25(comfortable):1	26(people):1	38(lot):3	39(return):1	40(love):1	48(wonderful):1	61(shower):2	66(park):1	70(overall):1	111(spacious):1	116(tv):2	157(light):1	210(space):1	220(busy):1	226(bath):4	260(overlook):1	282(negative):1	303(pillow):1	366(step):4	367(housekeeping):1	389(type):2	390(adequate):1	444(stand):1	453(okay):1	475(comfy):1	511(date):1	524(unfortunately):1	536(prefer):2	682(usual):1	741(channel):1	818(saturday):1	880(bright):1	930(regard):1	945(box):1	990(indeed):1	1023(bathtub):1	1311(storage):1	1416(seperate):1	1538(involve):1	1622(lamp):1	1688(inch):2	2298(bedside):1	2458(bulb):1	3065(shave):1	4113(restrict):1	4304(mobility):1	6648(subdue):1	
+23	1(location):1	3(clean):1	4(nice):1	7(walk):1	17(view):3	20(look):1	35(street):2	66(park):4	87(lovely):1	119(window):1	144(short):1	148(request):1	178(probably):1	200(corner):1	383(directly):1	410(definately):1	783(opposite):1	842(sofa):1	1774(prime):1	2287(george):1	2816(hyde):1	3801(oxford):1	10912(ony):1	
+0	
+3	36(desk):1	511(date):1	2613(scratch):1	
+17	3(clean):1	6(breakfast):1	16(food):2	29(minute):1	51(enjoy):1	71(include):2	77(buffet):1	85(wait):1	96(worth):1	114(hot):1	140(deal):2	193(person):1	227(average):1	280(buy):1	326(style):1	353(instead):1	410(definately):1	
+0	
+
+<Author>auttapol
+<Content>Up to standard...Recommended Me and my dad and my sister were there for 2 nights. We went to Sydney for an exhibition on September 24th. Location next to Hyde park not so far from George street and about 10-15 mins walk to exhibtion hall and Darling Harbour. Room could be a bit bigger and bed could be bigger too since there were 3 of us. Me and my dad had to sleep on the same bed and lucky that we were not a big guy so we didn't have much problem. Mariott standard so I would recommend to stay here  
+<Date>Sep 30, 2007
+<Rating>4	4	3	4	4	4	3	3	
+<Aspects>
+10	2(night):1	15(recommend):2	130(standard):2	809(sydney):1	892(sister):1	972(september):1	2564(24th):1	2913(dad):1	4808(exhibition):1	5469(mariott):1	
+0	
+6	11(bed):2	52(bit):1	104(sleep):1	368(guy):1	797(lucky):1	2913(dad):1	
+10	1(location):1	7(walk):1	35(street):1	66(park):1	247(min):1	561(harbor):1	616(hall):1	1681(darling):1	2287(george):1	2816(hyde):1	
+0	
+0	
+0	
+0	
+
+<Author>abcoftravel
+<Content>OK Hotel was pretty centrally located - nice rooms, but air conditioning not controllable. I hate that. Room was ok, but I couldn't change the controls.Bed comfy, interenet was expensive at 30$Would stay here again though. It was reasonable on my company rate, very well located for tourist and shopping and was clean and modern.  
+<Date>Sep 1, 2007
+<Rating>4	5	4	4	5	4	4	3	
+<Aspects>
+1	1110(hate):1	
+4	11(bed):1	124(expensive):1	475(comfy):1	11557(interenet):1	
+10	4(nice):1	84(locate):1	109(pretty):1	123(ok):2	161(change):1	164(air):1	263(condition):1	865(control):1	879(centrally):1	12060(controllable):1	
+8	3(clean):1	49(shop):1	78(rate):1	84(locate):1	151(modern):1	209(tourist):1	273(reasonable):1	760(company):1	
+0	
+0	
+0	
+0	
+
+<Author>Wellingtonian
+<Content>Pleasant and comfortable We booked on priceline for US$127/night and stayed for five nights in August in a room with two double beds which accommodated our family comfortably. Check in was friendly and relaxed -- we made no use of the dining facilities or bar. The room was truly spacious, with a kitchenette (sink, microwave, kettle, toaster) and a fridge which was largely filled with minibar items (which we didn't use -- it would have been great just to have an empty fridge). The bathroom was generously supplied with towels and pleasant, lemonbalm scented toiletries, a ridiculously large triangular bath (so much for conserving water) and a well functioning shower. The safe didn't work but we didn't pursue it. We had a lovely view of Hyde Park, no problem with noise, a well adjustable heating/cooling system. The location is brilliant, just around the corner from Oxford Street, across the park from the Museum train stop, and plenty of food shops nearby (including a big Cole's in the World Tower). The 23d floor terrace has workout machines, a fine jacuzzi and a cool pool (too cool for swimming in August) with great views over the city. Would we stay again? definitely.  
+<Date>Aug 26, 2007
+<Rating>5	5	5	5	5	4	-1	-1	
+<Aspects>
+3	59(definitely):1	137(safe):1	7677(pursue):1	
+10	2(night):1	11(bed):1	18(book):1	25(comfortable):1	106(family):1	150(pleasant):1	179(double):1	624(accommodate):1	1069(priceline):1	2155(comfortably):1	
+25	13(bathroom):1	17(view):1	22(pool):1	24(floor):1	41(city):1	57(water):1	61(shower):1	113(fine):1	125(towel):1	150(pleasant):1	226(bath):1	261(swim):1	278(cool):2	493(machine):1	657(toiletry):1	673(terrace):1	808(jacuzzi):1	859(supply):1	1780(function):1	1801(workout):1	2591(ridiculously):1	2870(scent):1	4098(generously):1	7099(conserve):1	10919(triangular):1	
+24	1(location):1	16(food):1	17(view):1	35(street):1	49(shop):1	66(park):2	71(include):1	87(lovely):1	94(noise):1	122(stop):1	158(plenty):1	182(train):1	200(corner):1	232(nearby):1	272(world):1	378(tower):1	507(museum):1	518(system):1	793(brilliant):1	2816(hyde):1	3801(oxford):1	4377(adjustable):1	7460(heating):1	8891(cole):1	
+0	
+0	
+18	12(friendly):1	27(bar):1	32(check):1	111(spacious):1	160(relax):1	211(facility):1	316(dine):1	318(fridge):2	476(truly):1	491(fill):1	509(sink):1	519(item):1	810(empty):1	820(microwave):1	1037(minibar):1	1165(kitchenette):1	1944(kettle):1	2849(toaster):1	
+0	
+
+<Author>Bo94114
+<Content>good value with some minor issues Stayed 4 nights in a double doubleExcellent: Room size. Location. Good: Beds. Staff. Big bathroom with lots of counter space. Microwave and toaster. Minor wear and tear. New hallway carpets. So So: maid would not get to the room to make it up until 3:30-4:30p every day. Bathroom lighting. Fridge almost full with mini bar items. Bad: NothingSolid hotel for a broad spectrum of travellers  
+<Date>Aug 23, 2007
+<Rating>2	4	3	3	3	3	3	3	
+<Aspects>
+4	50(bad):1	267(traveler):1	5176(broad):1	9369(spectrum):1	
+0	
+16	2(night):1	8(day):1	11(bed):1	13(bathroom):2	38(lot):1	81(value):1	83(size):1	157(light):1	179(double):1	210(space):1	265(issue):1	300(maid):1	396(carpet):1	580(hallway):1	720(minor):1	1001(counter):1	
+1	1(location):1	
+0	
+1	0(staff):1	
+9	27(bar):1	318(fridge):1	434(wear):1	448(mini):1	519(item):1	720(minor):1	820(microwave):1	1605(tear):1	2849(toaster):1	
+0	
+
+<Author>Nicksaab
+<Content>Wonderful stay in this great hotel Stayed here for three nights in October 2006. I found this to be a excellent hotel. I had a room on the concierge level with access to the executive lounge. The room was nice and the bed was comfortable. The staff were very nice and friendly. The food in the restuarant was very good. The hotel is very centrally located opposite Hyde Park, two minute walk to the metro station with direct route to the airport, five minute walk to the Centrepoint Tower. I have to give special praise to Simon, the concierge, without doubt the best concierge I have ever come accross and a credit to the Marriott corporation.I would recommend this hotel for both business and leisure traveller.  
+<Date>Aug 5, 2007
+<Rating>5	5	4	5	5	5	5	5	
+<Aspects>
+4	2(night):1	21(excellent):1	48(wonderful):1	911(october):1	
+0	
+8	4(nice):1	11(bed):1	25(comfortable):1	159(access):1	204(concierge):1	237(lounge):1	306(level):1	872(executive):1	
+17	7(walk):2	15(recommend):1	29(minute):2	66(park):1	82(station):1	84(locate):1	95(airport):1	147(business):1	235(metro):1	267(traveler):1	378(tower):1	783(opposite):1	803(direct):1	879(centrally):1	1035(route):1	2032(leisure):1	2816(hyde):1	
+0	
+12	0(staff):1	4(nice):1	12(friendly):1	204(concierge):2	208(special):1	618(marriott):1	659(credit):1	952(doubt):1	2053(praise):1	2650(accross):1	8791(simon):1	8823(corporation):1	
+2	16(food):1	2114(restuarant):1	
+0	
+
+<Author>pam89
+<Content>Good hotel with some flaws This hotel is located in central Sydney on Hyde Park, next to Oxford Street.My room was large and with a nice panoramic view over East Sydney. The bad was comfortable.Broadband internet access in the room costs AUD 29 per day - too much, in my opinion.The bathroom was OK. It had a huge bathtub but the lightning was really bad and there was no heating, which made the bathroom terribly cold if you didn't leave the door open during the day.Service was friendly, but not perfect. I found a piece of plastic in my musli at breakfast one day and on my complaint the headwaitress just took the plate away - no excuse or offer to bring me a new plate! The breakfast restaurant is also too small for the size of the hotel. People had to queue for 20-30 minutes to get a table on Sunday.The hotel has a small gym with two treadmills, one stepper, one stationary bike and a multi-purpose weight station. The good thing is that it is open 24 hours, but it could be a bit bigger for my taste.  
+<Date>Jun 25, 2007
+<Rating>4	4	4	5	3	5	3	3	
+<Aspects>
+10	25(comfortable):1	26(people):1	29(minute):1	50(bad):1	52(bit):1	60(hour):1	229(table):1	439(taste):1	844(sunday):1	1463(queue):1	
+0	
+17	4(nice):1	8(day):1	13(bathroom):2	17(view):1	43(leave):1	50(bad):1	54(door):1	123(ok):1	133(huge):1	222(cold):1	539(heat):1	809(sydney):1	948(east):1	1023(bathtub):1	1910(terribly):1	3402(panoramic):1	7972(lightning):1	
+15	35(street):1	66(park):1	82(station):1	84(locate):1	168(central):1	523(gym):1	809(sydney):1	1479(bike):1	1582(weight):1	2212(treadmill):1	2808(flaw):1	2816(hyde):1	3801(oxford):1	6145(stationary):1	9200(stepper):1	
+0	
+9	6(breakfast):1	8(day):1	89(offer):1	142(bring):1	190(complaint):1	941(piece):1	1002(plate):2	1347(plastic):1	1965(excuse):1	
+6	6(breakfast):1	9(service):1	10(restaurant):1	12(friendly):1	74(perfect):1	83(size):1	
+7	8(day):1	97(internet):1	159(access):1	175(cost):1	704(opinion):1	2825(broadband):1	5360(aud):1	
+
+<Author>Vilavisitor
+<Content>Sydney Marriot - A Great Place To Stay We have just returned from a 2 night stay at the Marriott which we enjoyed immensely.Our Premier Room was on the 10th Floor and we were amazed at how little street noise penetrated - it was really good,The room was very comfortable and spotlessly clean.We found all the staff members we encountered to be friendly and efficient.We ate Lunch in the Restaurant one day and it was excellent.Breakfast was also good, except for the really awful Tea and Coffee which has been mentioned in an earlier report.Our package included breakfast both days and valet parking and was such good value we will certainly be back.  
+<Date>Apr 16, 2007
+<Rating>4	4	4	5	4	4	4	-1	
+<Aspects>
+7	2(night):1	39(return):1	51(enjoy):1	618(marriott):1	809(sydney):1	2472(marriot):1	4047(immensely):1	
+0	
+11	3(clean):1	23(little):1	24(floor):1	25(comfortable):1	35(street):1	94(noise):1	145(amaze):1	1094(spotlessly):1	1592(10th):1	2441(premier):1	9749(penetrate):1	
+0	
+0	
+4	0(staff):1	12(friendly):1	401(efficient):1	693(encounter):1	
+17	6(breakfast):2	8(day):2	10(restaurant):1	21(excellent):1	47(eat):1	66(park):1	71(include):1	81(value):1	90(coffee):1	244(mention):1	252(lunch):1	301(tea):1	337(except):1	457(valet):1	527(package):1	736(awful):1	838(report):1	
+0	
+
+<Author>Peter_R_Smith
+<Content>Good location, good facilities 鈥?service not the best My sister and I stayed here over the Mardi Gras week-end. We stayed on a 鈥減remier鈥?level room and were given a room with a most stunning view over Hyde Park. The room was well furnished, well maintained and had some great extras such as micro wave and toaster. The beds were very comfortable with pillow tops on the mattresses 鈥?a great nights sleep! The bathroom had a huge tub and a great shower with lots of water pressure.The hotel is located next to the park, close to the major shopping centres 鈥?and was ideal for Mardi Gras, which runs down nearby Oxford Street. It has an amazing open air pool on the 23rd floor, surrounded by glass walls giving great views across Sydney.Service did, however, leave a great deal to be desired, The staff weren鈥檛 as naturally friendly as I have experienced elsewhere in Australia. A call to get an ice bucket and ice took 3 calls and still didn鈥檛 arrive before we left for the evening 鈥?lots of apologies but just no desire to make things happen. 鈥淲e are very busy this evening鈥?is an excuse not a reason!!Probably would stay here again, but there are lots of great hotels in Sydney, and for top end prices you do want the 鈥渃omplete鈥?package.  
+<Date>Mar 26, 2007
+<Rating>3	3	5	4	4	3	2	4	
+<Aspects>
+10	38(lot):1	43(leave):1	53(arrive):1	67(call):2	382(happen):1	547(ice):2	1022(didn):1	1219(desire):1	1547(apology):1	2342(bucket):1	
+17	0(staff):1	9(service):1	12(friendly):1	19(price):1	38(lot):1	43(leave):1	44(experience):1	118(top):1	140(deal):1	178(probably):1	527(package):1	646(elsewhere):1	809(sydney):1	1219(desire):1	1530(australia):1	3124(weren):1	3710(naturally):1	
+34	2(night):1	11(bed):1	13(bathroom):1	17(view):2	22(pool):1	24(floor):1	25(comfortable):1	38(lot):1	57(water):1	61(shower):1	66(park):1	104(sleep):1	118(top):1	128(extra):1	133(huge):1	145(amaze):1	164(air):1	183(wall):1	303(pillow):1	306(level):1	311(tub):1	327(glass):1	562(maintain):1	667(surround):1	686(pressure):1	787(furnish):1	809(sydney):1	836(wave):1	847(mattress):1	988(stun):1	2816(hyde):1	2849(toaster):1	5123(23rd):1	6196(micro):1	
+21	1(location):1	9(service):1	28(close):1	35(street):1	49(shop):1	66(park):1	84(locate):1	101(center):1	149(run):1	211(facility):1	220(busy):1	232(nearby):1	315(major):1	374(reason):1	545(ideal):1	892(sister):1	1965(excuse):1	2925(gras):2	3106(mardi):2	3801(oxford):1	4679(week-end):1	
+0	
+0	
+0	
+0	
+
+<Author>craigking
+<Content>Good Hotel Stayed at the Sydney Marriott for ten days in February 2007. The hotel is located on the corner of Hyde Park and Oxford Street. One could not ask for a better location. The staff is friendly and competent. The concierge staff are very helpful (particularly Simon); they made great recommendations for my excursions. The room was large, kept clean, and plenty of towels and toiletries provided. The furnishings were comfortable (great matress). The T.V. was crap, but who flies fourteen hours to watch television. There is a good restaurant with a great view of the park. By purchasing my air and hotel as a package, I did well at this hotel.  
+<Date>Mar 23, 2007
+<Rating>4	4	4	5	4	4	4	3	
+<Aspects>
+4	8(day):1	618(marriott):1	809(sydney):1	1230(february):1	
+0	
+17	3(clean):1	25(comfortable):1	60(hour):1	125(towel):1	153(provide):1	158(plenty):1	164(air):1	245(watch):1	527(package):1	614(fly):1	657(toiletry):1	870(furnishings):1	887(purchase):1	1158(television):1	2366(t.v):1	2968(crap):1	3298(matress):1	
+7	1(location):1	35(street):1	66(park):1	84(locate):1	200(corner):1	2816(hyde):1	3801(oxford):1	
+0	
+9	0(staff):2	12(friendly):1	14(helpful):1	204(concierge):1	553(particularly):1	577(recommendation):1	734(excursion):1	2921(competent):1	8791(simon):1	
+3	10(restaurant):1	17(view):1	66(park):1	
+0	
+
+<Author>MagellanMelbourne
+<Content>Best nights sleep Stayed here from 16th to the 18th January 2007. Loved it and didn't want to leave. The bed would have to have been the most comfortable I have ever slept on. Both nights I fell asleep straight away as my head melted into the luxurious pillows (there was six pillows on the bed) and the lovely fresh crisp white sheets. I asked for a high floored room with a view of water and that's exactly what I got. The view was lovely. I could see right out to the Sydney Harbour Heads. I asked for an early check in (1030) and a late check out (1300) which they were happy to do and it was complimentary. The hotel receptionist at check in and check out (I got the same person on both occasions) seemed a little uptight. Very efficient but not very friendly and a forced smile. But apart from that I really enjoyed my stay. Great location and surrounded by transport options.  
+<Date>Jan 19, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	12(friendly):1	17(view):1	40(love):1	43(leave):1	51(enjoy):1	87(lovely):1	319(head):1	387(smile):1	401(efficient):1	561(harbor):1	809(sydney):1	857(apart):1	1550(force):1	
+0	
+23	2(night):2	11(bed):2	17(view):1	24(floor):1	25(comfortable):1	57(water):1	87(lovely):1	104(sleep):2	197(fresh):1	303(pillow):2	319(head):1	466(white):1	479(sheet):1	586(exactly):1	587(fall):1	708(luxurious):1	827(straight):1	1018(january):1	2029(16th):1	2123(asleep):1	2213(18th):1	2293(crisp):1	3068(melt):1	
+4	1(location):1	336(option):1	667(surround):1	742(transport):1	
+0	
+9	23(little):1	32(check):4	79(late):1	155(happy):1	193(person):1	345(complimentary):1	855(receptionist):1	871(occasion):1	7216(uptight):1	
+0	
+0	
+
+<Author>PepaSingapore
+<Content>Too expensive, no service and poor breakfast We stayed at this Marriott from Dec 30 to January 2007. Location is great but this hotel is max. 3 stars, even if we have paid for a 5 stars. The staff told us always yes, but they did not do anything (no restaurant bookings, no information about fireworks tickets,..). Room service did not make the room properly (3 of the 5 days)-see pictures. Breakfast is very small, for 3 days there was no fried eggs or omelets option. Small cheese plate was always empty. No fresh juices. Coffee and Tea terrible and we had to wait every morning at least 20 minutes to get a table.If you get a great price, the location is very nice, but do not pay too much and do NOT expect Marriot standards.  
+<Date>Jan 18, 2007
+<Rating>2	2	3	4	2	3	1	-1	
+<Aspects>
+0	
+8	1(location):1	4(nice):1	19(price):1	42(pay):2	62(expect):1	103(star):2	130(standard):1	2472(marriot):1	
+4	8(day):1	9(service):1	456(picture):1	1144(properly):1	
+5	1(location):1	441(cheese):1	810(empty):1	1002(plate):1	2169(max):1	
+0	
+8	0(staff):1	10(restaurant):1	69(tell):1	250(yes):1	621(ticket):1	649(information):1	2531(booking):1	2928(fireworks):1	
+21	6(breakfast):2	8(day):1	9(service):1	29(minute):1	56(morning):1	85(wait):1	90(coffee):1	124(expensive):1	197(fresh):1	229(table):1	301(tea):1	331(poor):1	336(option):1	362(juice):1	412(egg):1	432(terrible):1	618(marriott):1	1009(fry):1	1018(january):1	1508(dec):1	2711(omelets):1	
+0	
+
+<Author>PacNWtraveller
+<Content>Great experience at the Sydney Marriott during a holiday period! I stayed at this Marriott on Dec 30 and 31, 2006. Amazingly, with no hotel rooms available in the city on New Year's Eve, I was able to get this 5-star property on Dec 31 for Marriott Rewards points (so if you're looking for a New Year's Eve hotel room next year and have Marriott points to use....)!My 14th floor room had a nice city view over to the mountains and a huge triangular soaking tub (not whirlpool spa, but it was the size of the typical spa tubs found in Marriotts in the US). I found it to be a great retreat from the bustle of the downtown Sydney CBD (central business district.) Hyde Park is across the street. The hotel has a rooftop pool which, when I was there, was generally not crowded. It's near the Museum cityrail underground train station, and a 20-30 minute walk from the restaurants and shops at Darling Harbor.Staff were very friendly. As someone else mentioned, the concierge service during my stay was TOP NOTCH, up there with the best I've ever experienced in a hotel (the other great experiences were also in Marriotts, and this is largely why I prefer the brand.) In particular, Mark was very helpful to me.Internet costs an amazing $24.95/day AUD. You're probably better off using one of the $5/half-hour public machines in the business center, or getting out of the hotel to use an even less expensive Internet cafe (they're plentiful in Sydney) unless you need the security of a personal connection on your personal notebook.Full breakfast (hot/cold) was $32 AUD, which isn't the greatest value in the world, but seemed in line with most meal pricing in Sydney. Since Marriott breakfast buffets are good fuel for a busy day of touring or work, even if it's a bit much, I recommend it.They were also nice enough to store most of my luggage for a few extra days between checkout and my departure from Australia, while I visited with a friend who lived on one of the northern beaches.I'll definitely stay there again when visiting Sydney, and I recommend this property to others.  
+<Date>Jan 6, 2007
+<Rating>5	4	4	4	5	5	5	4	
+<Aspects>
+8	14(helpful):1	22(pool):1	313(crowd):1	618(marriott):1	882(mark):1	938(particular):1	1063(rooftop):1	1508(dec):1	
+36	6(breakfast):1	8(day):1	9(service):1	19(price):1	20(look):1	41(city):1	44(experience):3	81(value):1	97(internet):1	114(hot):1	118(top):1	134(available):1	145(amaze):1	170(else):1	171(able):1	175(cost):1	188(line):1	204(concierge):1	213(meal):1	214(property):1	223(holiday):1	244(mention):1	272(world):1	536(prefer):1	618(marriott):3	809(sydney):2	883(brand):1	1227(notch):1	1331(period):1	1508(dec):1	1787(eve):2	1831(5-star):1	1846(amazingly):1	2186(reward):1	4858(marriotts):1	5360(aud):2	
+15	4(nice):1	17(view):1	24(floor):1	41(city):1	83(size):1	133(huge):1	311(tub):2	314(spa):2	628(typical):1	1468(soak):1	1509(mountain):1	1998(14th):1	2790(whirlpool):1	4858(marriotts):1	10919(triangular):1	
+22	7(walk):1	10(restaurant):1	29(minute):1	35(street):1	49(shop):1	66(park):1	82(station):1	102(near):1	147(business):1	168(central):1	182(train):1	334(downtown):1	433(district):1	507(museum):1	561(harbor):1	809(sydney):1	1085(underground):1	1107(bustle):1	1681(darling):1	2244(re-treat):1	2731(cbd):1	2816(hyde):1	
+0	
+15	0(staff):1	4(nice):1	8(day):1	12(friendly):1	30(beach):1	65(visit):1	128(extra):1	146(friend):1	206(live):1	249(luggage):1	255(store):1	658(checkout):1	1031(departure):1	1530(australia):1	3335(Northern):1	
+13	6(breakfast):1	8(day):1	15(recommend):2	52(bit):1	59(definitely):1	65(visit):1	77(buffet):1	181(tour):1	214(property):1	220(busy):1	618(marriott):1	809(sydney):1	6111(fuel):1	
+15	97(internet):1	101(center):1	124(expensive):1	147(business):1	178(probably):1	275(cafe):1	379(public):1	405(unless):1	493(machine):1	641(security):1	711(personal):2	809(sydney):1	932(connection):1	1039(plentiful):1	7754(notebook):1	
+
+<Author>SeatravelerWa.
+<Content>Great Location, helpful staff Stayed at the in town Marriott just as the weather turned warm for the summer, the air conditioners worked well. This is a great location to walk through town, somewhat less touristy then the other Marriott located at the Harbour. We stayed on a high floor, the views were impressive, could see all the way to the beaches. Room was average size with odd bathroom arrangement but very comfortable. Executive level amenities were less than average for a Marriott. The staff however made up for that, everyone was very helpful and especially the door staff.Easy walk to shopping, restaurants and night life.  
+<Date>Dec 27, 2006
+<Rating>4	4	3	5	4	5	5	3	
+<Aspects>
+5	227(average):1	291(amenity):1	306(level):1	618(marriott):1	872(executive):1	
+0	
+20	0(staff):1	1(location):1	13(bathroom):1	14(helpful):1	17(view):1	24(floor):1	25(comfortable):1	30(beach):1	83(size):1	164(air):1	227(average):1	236(warm):1	239(town):1	385(weather):1	618(marriott):1	853(summer):1	920(impressive):1	1083(conditioner):1	1088(odd):1	1415(arrangement):1	
+13	1(location):1	2(night):1	7(walk):2	10(restaurant):1	49(shop):1	84(locate):1	93(easy):1	239(town):1	426(life):1	561(harbor):1	618(marriott):1	651(somewhat):1	1470(touristy):1	
+0	
+4	0(staff):2	14(helpful):1	54(door):1	126(especially):1	
+0	
+0	
+
+<Author>Helthemel
+<Content>Wonderful hotel - can't fault it! Wow! This hotel has really got it all. I have to say they have got it spot on here. The Concierge service is the very best I have ever experienced - especially Simon who was an absolute star.....to say nothing was too much trouble is a massive understatement! We walked across Sydney from here very easily and the bus service is fantastic here too. The reception had everthing for business use, internet terminals and meeting areas etc. The restaurant is excellent and the rooms were heavenly! Two double beds, Sattelite TV, very spacious room, fantastic bathroom with very big corner bath and a mini bar and tea/coffee facility. Our room faced right onto Hyde Park which is beautiful and there is a really nice gym/jacuzzi area on the top floor. There is a great outdoor pool on the roof and seating area (just a shame it was too cold when we went in August to use it!). Ten out of ten :-)  
+<Date>Nov 4, 2006
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+10	22(pool):1	48(wonderful):1	222(cold):1	317(spot):1	504(seat):1	517(fault):1	636(roof):1	862(wow):1	901(outdoor):1	1292(shame):1	
+10	9(service):1	44(experience):1	103(star):1	126(especially):1	204(concierge):1	569(trouble):1	1250(absolute):1	1329(massive):1	4723(understatement):1	8791(simon):1	
+22	4(nice):1	10(restaurant):1	11(bed):1	13(bathroom):1	21(excellent):1	24(floor):1	27(bar):1	45(beautiful):1	66(park):1	86(fantastic):1	111(spacious):1	116(tv):1	118(top):1	179(double):1	200(corner):1	211(facility):1	226(bath):1	301(tea):1	448(mini):1	523(gym):1	1609(heavenly):1	2816(hyde):1	
+6	7(walk):1	9(service):1	86(fantastic):1	120(bus):1	438(easily):1	809(sydney):1	
+0	
+0	
+0	
+7	73(etc):1	97(internet):1	129(reception):1	147(business):1	196(meet):1	1261(terminal):1	3464(everth):1	
+
+<Author>warren_zevon
+<Content>Helpful Arrived very early from Edinburgh and they couldn't be more accomodating. Early Access - no problem. Good Hotle, good location - next to railway station. Left main luggage while we went to Perth ans Melbourne - again no problem. Good value too!  
+<Date>Oct 5, 2006
+<Rating>4	5	4	5	4	5	5	-1	
+<Aspects>
+0	
+5	14(helpful):1	53(arrive):1	81(value):1	549(accomodate):1	9163(edinburgh):1	
+0	
+4	1(location):1	82(station):1	2002(railway):1	7447(hotle):1	
+0	
+0	
+6	43(leave):1	112(main):1	249(luggage):1	6140(melbourne):1	7097(ans):1	7497(perth):1	
+1	159(access):1	
+
+<Author>skihorse17
+<Content>Fabulous experience strange bathroom Marriott has yet one more reason for an excellent reputation of service and quality. This hotel is between a 4/5 star but without a doubt service is a 5. The employees at this hotel are fabulous and will do whatevers asked or not. We were unfortunate enough to have a party member fall extremly ill and needed a thermometer immediatly and the concierge offered to run home and get theirs if they could not locate a pharmacy. They also handled our kids mistakes and calls at all ours of the day with extreme grace and understanding. The hotel was impecably clean and in a quiet location. The way the bathroom is shaped is the strangest we have ever seen and not up to typical marriott standards but is encased in marble anyways. Regardless the shower is steaming hot and controllable. Nice place with great staff.  
+<Date>Aug 23, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	8(day):1	67(call):1	201(kid):1	270(fabulous):1	391(understand):1	608(employee):1	843(ours):1	895(mistake):1	937(whatever):1	966(handle):1	2620(grace):1	2656(extreme):1	
+12	9(service):2	13(bathroom):1	21(excellent):1	44(experience):1	103(star):1	187(quality):1	270(fabulous):1	374(reason):1	618(marriott):1	952(doubt):1	1058(strange):1	2195(reputation):1	
+18	1(location):1	3(clean):1	13(bathroom):1	58(quiet):1	61(shower):1	114(hot):1	130(standard):1	618(marriott):1	628(typical):1	705(marble):1	1058(strange):1	1226(shape):1	1760(steam):1	2012(regardless):1	2348(anyways):1	11133(encase):1	11823(impecably):1	12060(controllable):1	
+13	84(locate):1	89(offer):1	141(home):1	149(run):1	204(concierge):1	363(party):1	587(fall):1	1657(ill):1	2663(unfortunate):1	2875(pharmacy):1	3192(theirs):1	3675(extremly):1	5293(immediatly):1	
+0	
+2	0(staff):1	4(nice):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great service, great location! First time to Sydney, and we were on our honeymoon so obviously, the hotel was important to us - and it was all good! We received a complimentary bottle of Champagne on arrival (nice touch) and we were allowed to check into the room at 9.00am (rather than the official 2.00pm) as we had just arrived on the red-eye from Tokyo and were feeling rather worse for wear! This was a nice jesture as well - not all hotels would do this at such short notice. Very friendly reception and we felt welcome.The location was great for the few days we spent there - right on the edge of Hyde Park, really central and good for the shopping areas, and our room was on the 15th floor with a view over it!! Pretty spectacular - some great buildings and the Sydney Tower all in view from the BIG windows in the room. The decor of the hotel generally was looking a little tired; some peeling wallpaper here and there in the corridor, but the lobby was fine and it was clean. Our room(a deluxe double, I think - one down from a junior suite) was large, clean and comfortable, the bed was good and firm. Great minibar, and we had a small kichen area with everything one would need (microwave too). Good size bathroom with a spa bath - all clean and tidy. In general, a good, large room with no particlarly outstanding features save the large windows - and the 15th floor view.What really made this hotel for us though, was the staff. They bent over backwards to assist us, on one occaison we realised very late in the day (about 11pm!!)that we wanted to book a tour to the Blue Mountains the next day, and bearing in mind the bus was leaving at 7.00am this would be no easy feat for the concierge! But, sort it they did, and with a smile! Excellent trip as well, so top marks there. All the staff we spoke to were really friendly and helpful, offering advice for certain shops, places for good views, lunches, ferries, etc. If we were to go back to Sydney - as we hope to - we'd have no hesitation to book at Hyde Park again, just make sure you keep the staff happy, Marriott! They are an asset to you.  
+<Date>Apr 14, 2006
+<Rating>4	3	4	-1	4	-1	5	-1	
+<Aspects>
+17	4(nice):1	8(day):1	21(excellent):1	33(trip):1	79(late):1	118(top):1	144(short):1	354(notice):1	387(smile):1	557(sort):1	607(realize):1	882(mark):1	1265(assist):1	2333(bend):1	2940(backwards):1	3023(asset):1	6840(11pm):1	
+4	5(time):1	502(honeymoon):1	781(obviously):1	809(sydney):1	
+51	3(clean):3	4(nice):1	11(bed):1	13(bathroom):1	17(view):2	20(look):1	23(little):1	24(floor):1	25(comfortable):1	32(check):1	34(feel):1	50(bad):1	53(arrive):1	55(lobby):1	83(size):1	108(suite):1	109(pretty):1	113(fine):1	119(window):2	179(double):1	224(arrival):1	226(bath):1	238(bottle):1	269(decor):1	279(touch):1	302(receive):1	314(spa):1	345(complimentary):1	359(allow):1	378(tower):1	393(pm):1	425(save):1	434(wear):1	454(tire):1	534(outstanding):1	648(deluxe):1	656(spectacular):1	731(feature):1	745(building):1	770(champagne):1	809(sydney):1	964(junior):1	1040(tokyo):1	1073(corridor):1	1100(tidy):1	1368(firm):1	1887(peel):1	2093(wallpaper):1	2995(official):1	4273(15th):1	7203(red-eye):1	
+34	0(staff):1	1(location):2	8(day):2	9(service):1	12(friendly):1	14(helpful):1	17(view):2	18(book):1	24(floor):1	43(leave):1	49(shop):2	64(spend):1	66(park):1	73(etc):1	89(offer):1	93(easy):1	120(bus):1	127(speak):1	168(central):1	181(tour):1	204(concierge):1	252(lunch):1	294(mind):1	575(advice):1	694(blue):1	820(microwave):1	1010(ferry):1	1037(minibar):1	1190(edge):1	1509(mountain):1	1838(bear):1	2816(hyde):1	4273(15th):1	7332(feat):1	
+0	
+5	0(staff):1	12(friendly):1	34(feel):1	129(reception):1	202(welcome):1	
+9	0(staff):1	18(book):1	66(park):1	155(happy):1	328(hope):1	618(marriott):1	809(sydney):1	1373(hesitation):1	2816(hyde):1	
+0	
+
+<Author>AussieAnn
+<Content>Clean, Spacious, Comfortable and Friendly Staff We moved from a hotel in the Rocks which was disappointing and found the rooms at the Marriott wonderful. The staff was really friendly, and the location is great so close to Paddington. I'd stayed there once before and had forgotten how nice the rooms are. It was very quiet, especially in the restaurant, but there are a lot of places around the corner to eat.  
+<Date>Mar 21, 2006
+<Rating>5	3	4	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+18	0(staff):1	3(clean):1	4(nice):1	10(restaurant):1	12(friendly):1	25(comfortable):1	38(lot):1	47(eat):1	48(wonderful):1	58(quiet):1	111(spacious):1	126(especially):1	154(disappoint):1	200(corner):1	207(move):1	397(forget):1	618(marriott):1	773(rock):1	
+5	0(staff):1	1(location):1	12(friendly):1	28(close):1	9192(paddington):1	
+0	
+0	
+0	
+0	
+
+<Author>keithreddy
+<Content>Excellent hotel One of the best hotels we have stayed in.The room was superb, nothing was worn, housekeeping was imaculate and service in every aspect was superb.When added to the fact that we booked at a great rate through Hotels and still got a great room with a view of the park. No worries bruce!  
+<Date>Feb 13, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+3	21(excellent):1	831(worry):1	11297(bruce):1	
+0	
+6	9(service):1	367(housekeeping):1	407(superb):2	434(wear):1	1255(aspect):1	9407(imaculate):1	
+0	
+0	
+0	
+5	17(view):1	18(book):1	66(park):1	78(rate):1	351(add):1	
+0	
+
+<Author>Millefleurs
+<Content>Very ordinary hotel The location at the edge of Sydney's CBD is excellent, and a great starting point to get to lots of shops and attractions. I had a pleasant view of Hyde Park and Sydney skyline from my room.The staff were generally friendly and helpful, and I had good assistance from the concierge desk.The standard of the decor and the level of luxury add-ons in the room was quite ordinary. One benefit of the room was the basic kitchenette facilities, which allowed for basic food preparation. The glasses in the bathroom and the cups in the kitchen cupboard were not 100% clean. The lobby is large and colourless, the bar and restaurant areas lack character. It is kinda dreary. It may suit business travellers better than holiday makers. This hotel claims to be 4/4.5 star, but I did not think it reached that level. I did not think I got great value for money.  
+<Date>Jan 2, 2006
+<Rating>3	2	3	-1	2	-1	3	-1	
+<Aspects>
+2	2050(kinda):1	4133(dreary):1	
+6	80(money):1	81(value):1	103(star):1	306(level):1	851(reach):1	1077(claim):1	
+22	3(clean):1	13(bathroom):1	17(view):1	66(park):1	130(standard):1	147(business):1	150(pleasant):1	223(holiday):1	267(traveler):1	269(decor):1	306(level):1	327(glass):1	437(luxury):1	461(kitchen):1	800(cup):1	809(sydney):1	861(suit):1	996(maker):1	2025(ordinary):1	2374(cupboard):1	2526(skyline):1	2816(hyde):1	
+10	1(location):1	21(excellent):1	38(lot):1	49(shop):1	165(start):1	350(attraction):1	809(sydney):1	1190(edge):1	2025(ordinary):1	2731(cbd):1	
+0	
+6	0(staff):1	12(friendly):1	14(helpful):1	36(desk):1	204(concierge):1	1669(assistance):1	
+12	10(restaurant):1	16(food):1	27(bar):1	55(lobby):1	211(facility):1	349(lack):1	352(basic):2	359(allow):1	1049(character):1	1165(kitchenette):1	1524(benefit):1	4294(preparation):1	
+0	
+
+<Author>Liverbird1
+<Content>Enjoyed my stay at Sydney Marriott!       The bar at the Marriott  
+<Date>Dec 11, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+3	51(enjoy):1	618(marriott):1	809(sydney):1	
+0	
+0	
+0	
+0	
+0	
+2	27(bar):1	618(marriott):1	
+0	
+
+<Author>Bantamspaul
+<Content>Top Notch Fantastic hotel. Stayed in a VIP level room. Ok the rooms are not enormous but fine for my family including two children under 10yrs. Service in the VIP breakfast/pre-dinner room was exceptional and the hotel is superbly placed for a visit to central Sydney  
+<Date>Dec 9, 2005
+<Rating>5	5	4	-1	4	-1	4	-1	
+<Aspects>
+3	86(fantastic):1	118(top):1	1227(notch):1	
+0	
+8	71(include):1	106(family):1	113(fine):1	123(ok):1	277(child):1	306(level):1	1555(vip):1	1625(enormous):1	
+0	
+0	
+0	
+8	6(breakfast):1	9(service):1	65(visit):1	168(central):1	809(sydney):1	837(exceptional):1	1555(vip):1	3820(superbly):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Beautiful location, Lovely clean room, Wonderful service After fleeing another very disappointing hotel, we were so happy to be at the good ol' reliable Marriott! This Marriott had excellent, attentive staff who were helpful with everything from luggage to dinner plans. Our room had huge windows looking over beautiful Hyde Park (definitely ask for a park view room). The bed, pristine white and soooo comfy. The bathroom was large and fabulous, with a HUGE bathtub. We were traveling with a 4 year old -- so having a refridgerator, microwave and toaster was really helpful. We also appreciated the electric teapot and fixings for tea. The location across from Hyde Park was wonderful, providing lovely walks and easy access to lots of the Sydney attractions. The pool area is pretty although we would have been very happy if the pool were just a bit warmer! The lobby is huge and provides several out of the way spaces to sit and talk. You can have unlimited internet access in your room for a flat fee, or use their set up off the lobby. -------Address: 36 College Street Sydney, NSW 2010 Australia  
+<Date>Nov 6, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	22(pool):2	52(bit):1	109(pretty):1	155(happy):1	236(warm):1	
+0	
+32	1(location):1	3(clean):1	9(service):1	11(bed):1	13(bathroom):1	17(view):1	20(look):1	45(beautiful):2	48(wonderful):1	55(lobby):1	59(definitely):1	66(park):2	87(lovely):1	119(window):1	133(huge):3	153(provide):1	154(disappoint):1	155(happy):1	169(sit):1	210(space):1	270(fabulous):1	371(talk):1	466(white):1	475(comfy):1	618(marriott):1	1023(bathtub):1	2416(reliable):1	2816(hyde):1	2862(soooo):1	2981(pristine):1	6726(flee):1	8297(ol):1	
+16	1(location):1	7(walk):1	35(street):1	38(lot):1	48(wonderful):1	66(park):1	87(lovely):1	93(easy):1	153(provide):1	159(access):1	350(attraction):1	809(sydney):2	1312(address):1	1530(australia):1	1925(college):1	2816(hyde):1	
+0	
+0	
+17	0(staff):1	14(helpful):2	21(excellent):1	68(travel):1	117(dinner):1	221(plan):1	249(luggage):1	301(tea):1	500(appreciate):1	537(attentive):1	618(marriott):1	820(microwave):1	2246(electric):1	2849(toaster):1	3851(refridgerator):1	9060(fixing):1	9460(teapot):1	
+7	55(lobby):1	97(internet):1	159(access):1	234(set):1	535(flat):1	584(fee):1	2077(unlimited):1	
+
+<Author>A TripAdvisor Member
+<Content>Where's the message I flew a mate up from Melbourne and left a message at the front desk of the Marriott for him to meet us at the Wooloomooloo hotel. The front desk staff changed shifts, lost our note and our friend languished in the lobby for about 3 hours. He then went out to another pub, we came back, then we wanted to go out again and no sign of him. So basically it was a total stuff up - the kind that shouldn't happen when you pay Marriotts prices and $300 for your friend's air ticket. I have vowed never to stay at a Marriott ever again, just on principle. The rooms are as ordinary as their service.  
+<Date>Oct 5, 2005
+<Rating>1	3	3	-1	3	-1	1	-1	
+<Aspects>
+5	449(sign):1	618(marriott):1	1393(pub):1	4966(vow):1	6511(principle):1	
+10	19(price):1	42(pay):1	146(friend):1	164(air):1	382(happen):1	480(stuff):1	621(ticket):1	786(total):1	790(basically):1	4858(marriotts):1	
+2	9(service):1	2025(ordinary):1	
+0	
+0	
+17	0(staff):1	31(front):2	36(desk):2	43(leave):1	55(lobby):1	60(hour):1	146(friend):1	161(change):1	196(meet):1	297(note):1	596(lose):1	614(fly):1	618(marriott):1	1809(message):2	2479(shift):1	2953(mate):1	6140(melbourne):1	
+0	
+0	
+
+<Author>Aussie_Adventurer
+<Content>Recommended The Marriott downtown on College across from Hyde Park is a boutique-sized hotel, not especially elegant. Rooms are large, with large bathrooms. I had lovely views of the downtown skyline from my room. The rooftop pool is a delight (use the rooftop sauna in winter). Staff was excellent. The location is good: I was disappointed at first not to be on the habor, but the location turned out to be a good jumping-off point for many activities. Do go around the corner to the chic restaurants and cafes on Crown (?) Street -- and check out the CityGym nearby--the best gym classes (body pump, step) I have ever taken!  
+<Date>Jul 29, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+10	13(bathroom):1	17(view):1	22(pool):1	87(lovely):1	334(downtown):1	1025(delight):1	1063(rooftop):2	1422(sauna):1	1599(winter):1	2526(skyline):1	
+20	1(location):2	15(recommend):1	32(check):1	35(street):1	66(park):1	126(especially):1	154(disappoint):1	232(nearby):1	334(downtown):1	357(activity):1	366(step):1	470(class):1	523(gym):1	618(marriott):1	986(elegant):1	1352(body):1	1925(college):1	2816(hyde):1	4065(pump):1	10304(habor):1	
+0	
+2	0(staff):1	21(excellent):1	
+5	10(restaurant):1	200(corner):1	275(cafe):1	1472(chic):1	3194(crown):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very Dissapointed when i arrived i was greeted at my car door by the concierge who was very polite, seeing as this was my first impression i thought that the hotel would be of high standards... boy was i wrong. The hotel staff were polite and helpful, the rooms were nice but the breakfast was disgusting, i had ordered room service and expected my hot chocolate to be hot (it was luke warm and wasn't very chocolatey at all) and the toast was cold and the bread seemed stale. Also In your rooms you are given a complementry robe, mine was tatty and should have been thrown out, inside the arm pit there were many holes. i just felt that the standards weren't very high, The hotel would have to change before i'd stay there again.  
+<Date>Jul 3, 2005
+<Rating>2	2	3	-1	3	-1	3	-1	
+<Aspects>
+3	34(feel):1	130(standard):1	161(change):1	
+0	
+8	408(inside):1	917(throw):1	1046(robe):1	1218(hole):1	1269(mine):1	1726(arm):1	3413(pit):1	4461(tatty):1	
+0	
+0	
+11	53(arrive):1	54(door):1	121(car):1	130(standard):1	204(concierge):1	415(greet):1	422(polite):1	427(wrong):1	848(impression):1	881(boy):1	1371(dissapoint):1	
+16	0(staff):1	4(nice):1	6(breakfast):1	9(service):1	14(helpful):1	62(expect):1	114(hot):2	222(cold):1	236(warm):1	422(polite):1	497(bread):1	632(chocolate):1	875(toast):1	1152(disgust):1	2052(stale):1	4155(luke):1	
+0	
+

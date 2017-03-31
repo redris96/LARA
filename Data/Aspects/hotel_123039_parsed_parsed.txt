@@ -1,0 +1,392 @@
+<Author>usarmymom
+<Content>So-So Experience Great location and hotel room, but big problems with their billing process. My sister and I split the bill about $300.00 a piece. I asked the desk clerk about midway through our 4 night stay if we could do this. She said yes and then changed her mind after swiping my card and told me that we would have to wait until we checked out. No problem. But by swiping my card, she charged 139.00 to my card. Then when we checked out I had a 294.00 charge on my card (which was the correct amount). Now three days later I still have a 300.00 pending charge on my card??? When I talked with the desk clerk, she didn't seem to see the problem. In the meantime, my sister also had a 750.00 hold on her card. So all in all, they have held or charged about 1600.00 for a 4 night stay. Makes no sense to me? I won't stay here again.  
+<Date>Sep 19, 2008
+<Rating>2	3	3	3	3	3	3	3	
+<Aspects>
+9	292(card):1	487(wo):1	495(bill):1	593(hold):1	892(sister):2	941(piece):1	1102(sense):1	2368(split):1	5273(meantime):1	
+5	1(location):1	44(experience):1	495(bill):1	1222(process):1	1883(so-so):1	
+0	
+0	
+0	
+20	2(night):2	8(day):1	32(check):2	36(desk):2	69(tell):1	79(late):1	85(wait):1	136(charge):4	161(change):1	250(yes):1	292(card):5	294(mind):1	371(talk):1	593(hold):1	666(amount):1	788(clerk):2	1263(correct):1	4077(swipe):2	6102(midway):1	11271(pending):1	
+0	
+0	
+
+<Author>BA-traveler
+<Content>Not the best, in fact the least hotel of our trip When we arrived we parked our car in front of the hotel to unload our luggage. I went inside to get a luggage cart, and saw two bellboys very busy talking to each other. They didn鈥檛 offer any assistance until we were inside. And then we refused of course. At check-in we didn鈥檛 get an upgrade for being Diamond HHonors members, slightly disappointing. They also didn鈥檛 put us on the highest level. Our suite had two rooms, not very spacious, but still in reasonable order. There was a living area with sofa, easy chair, side table and working desk with chair, also a unit with refrigerator and microwave. The bathroom was very small, but it was clean and the sink was outside. The sleeping room had a good quality King bed. Here we had a window with a nice view on a park.The business center is an open area next to the sandwich shop. There were three computers, I had to wait several times, they were mostly in use as it was busy in the hotel. The swimming pool is inside and looks very old. Unfortunately there is no patio outside or whatever. The weather was sunny and I went to the park, just next to the hotel. There I could find nice seating to relax and read my book. There is a large Mall on walking distance and also a Target very close by. In the evening we had dinner in the restaurant and after that we were very sorry that we did. There were two waiters, acting very popular and making silly old jokes, so we didn鈥檛 feel comfortable and taken seriously or treated as welcoming guests. For instance, when we walked in, the restaurant was empty (except for one table) and when we wanted to sit down, a waiter came and told us: No, no, no, this table is reserved!!! Just after a minute or so, he continued: Yes, this table is specially reserved for you鈥︹€︹€︹€︹€?. and the whole evening was a continuation of these sick phrases. The food wasn鈥檛 of high quality either.The breakfast the next morning was even worse. It looked all very cheap, not much variety and all the hot items were far to fat. Although the hotel is not to blame for the standards of their guests, we didn鈥檛 like it that many people came crisscross to the restaurant area on their way from and to the elevators. There were one or more groups who had their breakfast in the conference center; many people packed their items to bring it back to their room, they all went through the restaurant. We even saw people still in their pajamas, wearing a coat over it. So, in de end we regret choosing this hotel for our last night before our departure from Seattle airport. The rooms are slightly outdated, but further okay, for the rest there is much to be desired.  
+<Date>Jul 24, 2008
+<Rating>2	3	3	3	3	2	1	3	
+<Aspects>
+10	26(people):1	293(course):1	306(level):1	434(wear):1	654(sick):1	1022(didn):1	1103(refuse):1	2636(coat):1	2764(phrase):1	6157(pajama):1	
+9	16(food):1	20(look):1	114(hot):1	143(cheap):1	187(quality):1	413(variety):1	519(item):1	1829(wasn):1	3581(fat):1	
+47	2(night):1	3(clean):1	4(nice):1	11(bed):1	13(bathroom):1	17(view):1	20(look):1	22(pool):1	36(desk):1	66(park):1	89(offer):1	93(easy):1	95(airport):1	98(outside):1	104(sleep):1	108(suite):1	111(spacious):1	119(window):1	167(choose):1	187(quality):1	198(chair):2	206(live):1	220(busy):1	229(table):1	243(king):1	249(luggage):1	261(swim):1	273(reasonable):1	288(rest):1	371(talk):1	408(inside):3	453(okay):1	509(sink):1	598(slightly):1	762(seattle):1	820(microwave):1	842(sofa):1	916(refrigerator):1	980(unit):1	1022(didn):1	1031(departure):1	1219(desire):1	1322(cart):1	1410(regret):1	1549(outdated):1	1669(assistance):1	4268(bellboys):1	
+16	7(walk):1	28(close):1	49(shop):1	66(park):1	98(outside):1	101(center):1	115(distance):1	147(business):1	385(weather):1	524(unfortunately):1	643(mall):1	937(whatever):1	973(patio):1	1071(sandwich):1	1700(sunny):1	3672(target):1	
+0	
+18	25(comfortable):1	34(feel):1	91(guest):1	154(disappoint):1	163(upgrade):1	202(welcome):1	286(check-in):1	320(treat):1	598(slightly):1	735(waiter):1	1022(didn):2	1137(diamond):1	1175(joke):1	1277(popular):1	1441(seriously):1	2237(act):1	2638(silly):1	4560(hhonor):1	
+42	4(nice):1	6(breakfast):2	7(walk):1	10(restaurant):4	18(book):1	26(people):2	29(minute):1	31(front):1	33(trip):1	50(bad):1	53(arrive):1	56(morning):1	66(park):1	69(tell):1	88(read):1	91(guest):1	101(center):1	117(dinner):1	121(car):1	126(especially):1	130(standard):1	142(bring):1	160(relax):1	169(sit):1	216(elevator):1	229(table):3	249(luggage):1	250(yes):1	337(except):1	504(seat):1	506(reserve):2	519(item):1	715(pack):1	735(waiter):1	794(conference):1	810(empty):1	891(sorry):1	1022(didn):1	1096(continue):1	2219(blame):1	2516(instance):1	3143(unload):1	
+4	5(time):1	85(wait):1	220(busy):1	555(computer):1	
+
+<Author>NVLuv2travel
+<Content>Nice property Airport shuttles available but chose to rent car. Sits behind Outback Steakhouse. Unobtrusive to the eye from street. Wide covered entryway when raining. On entering the first thing you see is a computer screen facing you at the counter with large scrolling print letting you know it is for your boarding pass printing. Very impressed with that. The icons were of most every airline.On check in we received a warm, large and delicious cookie for each of us. After a long flight it was yummy. The large bed was super soft and comfy. Loved the quilted duvet cover. We were warm and comfy all night. Amenities - refrigerator, living room/TV area, couch, soft chairs, computer desk,  microwave delivered if asked for.Friendly personnel from check-in to check-out. Elevator ran smoothly and quickly. We enjoyed our stay and would stay again.  
+<Date>May 16, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	2(night):1	40(love):1	51(enjoy):1	236(warm):1	343(impress):1	475(comfy):1	552(cover):2	581(rain):1	860(wide):1	2439(duvet):1	5428(quilt):1	6518(entryway):1	
+0	
+20	11(bed):1	36(desk):1	169(sit):1	198(chair):1	206(live):1	233(flight):1	291(amenity):1	464(super):1	475(comfy):1	555(computer):1	589(soft):2	631(deliver):1	820(microwave):1	916(refrigerator):1	1192(couch):1	1315(steakhouse):1	1336(airline):1	1798(yummy):1	2099(outback):1	10326(icon):1	
+11	4(nice):1	35(street):1	95(airport):1	121(car):1	134(available):1	167(choose):1	214(property):1	321(shuttle):1	977(eye):1	1030(rend):1	3921(unobtrusive):1	
+0	
+9	12(friendly):1	32(check):1	236(warm):1	286(check-in):1	302(receive):1	485(delicious):1	658(checkout):1	1173(cookie):1	1457(personnel):1	
+4	149(run):1	216(elevator):1	471(quickly):1	2267(smoothly):1	
+8	400(pass):1	526(screen):1	555(computer):1	600(board):1	601(enter):1	1001(counter):1	1101(print):2	12720(scroll):1	
+
+<Author>Maui_rox
+<Content>Doubletree - Paper-thin walls! My friend and I stayed here April 11 - 13th as we wanted a little rest  relaxation away from the kids. My friend booked it as she stayed here years ago and really enjoyed it then. The room was ok, however the partition door to the living room could hardly be pulled closed. The TV in the bedroom was maybe a 19 - it seemed quite small compared to other hotels I've been to recently. The worst part of our stay started at 6:15 a.m. on the Saturday morning. We were awakened to an alarm beep going off. In trying to figure out where it was coming from, it kept getting louder and faster beeping. This went on for about 5 min., until I finally realized it was coming from the neighbor's suite next door. We called the front desk thinking that either no-one was in the suite or they were dead. The clerk could hear the noise through the phone. The front desk sent up the bellman who knocked on the door - they slept through that as well. Finally after another 5 min. of this annoying noise, it went off. Only to go off another 10 min later (they must've hit snooze). Since I was up anyhow, I went to the gym (which is the only thing nice about this hotel). My friend then said she could clearly hear the neighbor's conversation, coming through our walls. Meanwhile, I then spoke to the two girls at the front desk. I told them they have to move us if the people next door were not leaving today. The clerks said no problem they could see if there was anything on another floor. Upon getting to my room, I phoned to the front desk and asked to speak to the manager. I was asked what it was regarding so that she could put me in touch with the right manager. She transferred me to Michael, who we later found out was the Food  Beverage Manager and not the Room Manager. Michael was very nice and apologized and assured me we would be put in another room upon us coming back to the hotel later that night. When we got back, we talked to Steve at the front desk who might've been a manager. His customer skills definitely needed work. He didn't smile once. He didn't apologize. In fact, he didn't even hear of our situation and seemed quite choked that we were making him move us. All he said was that he was looking for another room for us. We were not impressed with Steve! Upon getting our new room, the sink tap came right off, and there was no knob on the temperature control (we cooked all night) to turn. So much for a nicer room. We think this place is a joke as far as being classified as a Hilton. It's definitely lost our business.  
+<Date>Apr 16, 2008
+<Rating>1	1	1	4	1	3	1	3	
+<Aspects>
+41	23(little):1	26(people):1	43(leave):1	54(door):1	59(definitely):1	69(tell):1	76(try):1	79(late):1	94(noise):2	132(hear):2	146(friend):1	201(kid):1	207(move):2	247(min):2	288(rest):1	296(phone):1	341(finally):1	343(impress):1	387(smile):1	416(loud):1	428(customer):1	477(hilton):1	499(fast):1	695(annoy):1	775(hit):1	779(figure):1	788(clerk):1	890(situation):1	1175(joke):1	1380(alarm):1	1485(apologize):1	1662(relaxation):1	2611(skill):1	2710(13th):1	2939(awaken):1	3422(steve):1	6490(classified):1	7133(beepe):1	7473(choke):1	8774(snooze):1	10273(beep):1	
+4	50(bad):1	56(morning):1	165(start):1	818(saturday):1	
+41	2(night):2	4(nice):2	16(food):1	20(look):1	24(floor):1	28(close):1	31(front):1	36(desk):1	54(door):2	67(call):1	79(late):2	108(suite):2	116(tv):1	123(ok):1	206(live):1	247(min):1	258(manager):2	268(bedroom):1	308(maybe):1	322(recently):1	341(finally):1	381(compare):1	509(sink):1	550(cook):1	607(realize):1	788(clerk):1	858(pull):1	865(control):1	934(neighbour):1	944(temperature):1	985(hardly):1	1021(transfer):1	1334(beverage):1	1349(assure):1	1485(apologize):1	1504(tap):1	1621(dead):1	1908(michael):2	3693(no-one):1	4128(knob):1	5264(partition):1	
+10	59(definitely):1	132(hear):1	146(friend):1	147(business):1	183(wall):2	596(lose):1	934(neighbour):1	1281(conversation):1	3306(doubletree):1	6080(paper-thin):1	
+0	
+16	31(front):4	36(desk):4	54(door):1	104(sleep):1	127(speak):2	258(manager):3	279(touch):1	296(phone):1	371(talk):1	447(send):1	625(girl):1	930(regard):1	1105(bellman):1	1323(knock):1	3422(steve):1	5398(meanwhile):1	
+7	4(nice):1	18(book):1	51(enjoy):1	146(friend):1	523(gym):1	633(ago):1	3671(anyhow):1	
+0	
+
+<Author>beansVancouver
+<Content>Will Never Go Back! I went here to relax and was looking forward to sleeping in, however was awakened at 6:15 a.m. by the alarm clock going off in the adjacent room for 15 minutes. We phoned down to the front desk and the alarm went off only to to go on again 10 mins later. We asked to be moved to a different room as the same people were going to be there another night and we didn't want to be woken up again. The staff were not happy with us. The unfriendly mgr. dealing with us said he would try to find us a 'really nice' room. When we got to the new room it was the exact same room only on a different floor. The sink tap came right off and there was no knob on the thermostat to turn the heat up or down. Then at 9 p.m. a man who appeard to be a maintenance guy came knocking on the door. As I was about to open the door he walked away saying he had the wrong room. When we returned the room key on leaving, there was not even a grunt from the girl behind the desk. She just took the key and walked away. We will never go back.  
+<Date>Apr 15, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	54(door):1	368(guy):1	509(sink):1	539(heat):1	1149(maintenance):1	1323(knock):1	1466(p.m):1	1487(unfriendly):1	1504(tap):1	2547(thermostat):1	4128(knob):1	6126(mgr):1	
+0	
+27	2(night):1	4(nice):1	7(walk):1	20(look):1	24(floor):1	26(people):1	29(minute):1	36(desk):1	39(return):1	43(leave):1	54(door):1	76(try):1	104(sleep):1	140(deal):1	160(relax):1	207(move):1	339(key):1	427(wrong):1	554(wake):1	625(girl):1	750(forward):1	1061(adjacent):1	1291(clock):1	1380(alarm):1	2216(exact):1	2939(awaken):1	9969(grunt):1	
+2	7(walk):1	339(key):1	
+0	
+8	0(staff):1	31(front):1	36(desk):1	79(late):1	155(happy):1	247(min):1	296(phone):1	1380(alarm):1	
+0	
+0	
+
+<Author>SONNYSMOM
+<Content>Great stay, nice hotel, great atmosphere. I got a great rate for this room before flying out to vegas. The airport shuttle ran a little late so plan for that (traffic is bad in area, not drivers or shuttles fault) we went early and got to airport in plenty of timeThe bed was the most comfortable I ever slept in! the rooms were nice, and big with a sitting area. The hotel had a nice atmosphere and I noticed alot of pilots staying there so it must be a good hotel. Overall it was a pleasant stay. The pool area was nice but we didnt venture down there to swim. drawbacks. the person before us left a laptop in the room, hotel staff didnt find it, and my son found a roll of duct tape under the bed. what is duct tape used for in a hotel room? Makes me wonder how good they cleaned the rooms. They seemed and smelled cleaned to me but you never know. We ordered room service which was so-so, and we had ordered pizza and they ran out. When we didnt get our pizza we had to call and ask why. Room service didnt charge us for our small meal, which made up for it. This hotel had a great atmosphere and was quite busy but still quiet. I will stay here again.  
+<Date>Apr 15, 2008
+<Rating>4	4	5	5	3	4	4	3	
+<Aspects>
+6	67(call):1	70(overall):1	150(pleasant):1	626(didnt):1	678(pizza):1	1344(drawback):1	
+7	4(nice):2	58(quiet):1	220(busy):1	354(notice):1	414(atmosphere):3	647(alot):1	6527(pilot):1	
+35	0(staff):1	3(clean):1	4(nice):1	9(service):2	11(bed):2	23(little):1	25(comfortable):1	43(leave):1	50(bad):1	78(rate):1	79(late):1	95(airport):2	104(sleep):1	136(charge):1	149(run):2	158(plenty):1	169(sit):1	193(person):1	213(meal):1	221(plan):1	321(shuttle):2	486(traffic):1	517(fault):1	563(driver):1	612(son):1	614(fly):1	626(didnt):2	678(pizza):1	813(roll):1	946(wonder):1	1111(laptop):1	1860(vegas):1	1883(so-so):1	3236(tape):2	6752(duct):2	
+0	
+2	3(clean):1	231(smell):1	
+0	
+5	4(nice):1	22(pool):1	261(swim):1	626(didnt):1	1440(venture):1	
+0	
+
+<Author>fiveinthefamily
+<Content>A good place to stay This is a good place to stay if you want shuttle service to and from the airport and a place to leave your vehicle while you vacation.The shuttle buses left on time and we had very little wait before they picked us up at the airport.Good rates and pretty nice suites. We were on the fold out (our kids were in the beds!!) and I would say that the fold out was one of the most comfortable that I've slept on. A nice surprise.They have an indoor pool, which we didn't use.Their location is good if you're looking to find a restaurant or go shopping. Lots of options within walking distance.You each get a cookie upon check in. They are really tasty! Slightly warm, gooey and a pretty big one at that.The sink is just outside the bathroom, which is a good design. A TV in the livingroom and the bedroom.I would return if we fly out of Seattle again for a vacation or if I'm a tourist in Seattle for the weekend.  
+<Date>Feb 13, 2008
+<Rating>4	4	4	5	4	4	4	-1	
+<Aspects>
+5	4(nice):1	22(pool):1	199(surprise):1	984(tasty):1	1680(indoor):1	
+6	39(return):1	131(vacation):1	172(weekend):1	209(tourist):1	614(fly):1	762(seattle):2	
+18	4(nice):1	11(bed):1	13(bathroom):1	25(comfortable):1	78(rate):1	98(outside):1	104(sleep):1	108(suite):1	109(pretty):2	116(tv):1	201(kid):1	236(warm):1	268(bedroom):1	509(sink):1	516(design):1	598(slightly):1	2193(fold):2	6348(livingroom):1	
+19	1(location):1	5(time):1	7(walk):1	9(service):1	10(restaurant):1	20(look):1	23(little):1	38(lot):1	43(leave):2	49(shop):1	85(wait):1	95(airport):2	115(distance):1	120(bus):1	131(vacation):1	266(pick):1	321(shuttle):2	336(option):1	1951(vehicle):1	
+0	
+2	32(check):1	1173(cookie):1	
+0	
+0	
+
+<Author>IdahoCoug
+<Content>Slept through the storm Stayed here while in town for Seahawks game, also turned out to be the night of the BIG storm. At the airport the next day found out we we're one of the only ones who had power all night and the next day. The wind was crazy, but the room was still quiet enough that we slept right through it. Room was nothing special, nor was the breakfast buffet. Stay at the Embassy Suites nearby instead.  
+<Date>Feb 4, 2008
+<Rating>3	-1	2	3	3	3	3	-1	
+<Aspects>
+0	
+0	
+16	2(night):2	8(day):2	58(quiet):1	95(airport):1	104(sleep):2	108(suite):1	232(nearby):1	239(town):1	353(instead):1	683(game):1	1168(wind):1	1259(crazy):1	1276(power):1	1768(embassy):1	1884(storm):2	10472(seahawks):1	
+0	
+0	
+0	
+4	6(breakfast):1	77(buffet):1	208(special):1	970(nor):1	
+0	
+
+<Author>Traveler77777
+<Content>Almost 100 stays Over the last 18 months I have stayed at this hotel almost 100 nights! It is an incredible place! Starting with Steve the night manager and ending with the best bacon on the breakfast buffet. The rooms are large and up to date, the place is clean and they are always replacing something (carpet, fixtures etc) to keep it up todate. I will always stay at this hotel when visiting Seattle.  
+<Date>Dec 18, 2007
+<Rating>5	3	5	5	5	5	5	5	
+<Aspects>
+5	2(night):1	65(visit):1	388(month):1	718(incredible):1	762(seattle):1	
+0	
+6	3(clean):1	73(etc):1	396(carpet):1	511(date):1	912(replace):1	1541(fixture):1	
+0	
+0	
+0	
+7	2(night):1	6(breakfast):1	77(buffet):1	165(start):1	258(manager):1	1057(bacon):1	3422(steve):1	
+0	
+
+<Author>Traveldanse
+<Content>Nice stay Large 2 room setup that could actually be separated by a sliding door. Great amenities. Customer service better at the airport Doubletree, but they were still good. Access to the hotel and parking are a little strange, but at least they don't charge extra for parking as many Seattle hotels do (including the airport Doubletree, which isn't far from this location.) Needs more TV channel selection, and it's starting to show some maintenance wear (hold toilet handle down to get it to flush, thermostat switch loose and imprecise.) Nice bedding, conveniently close to mall/restaurants/stores and overall pleasant stay.  
+<Date>Nov 11, 2007
+<Rating>4	3	4	4	4	4	4	3	
+<Aspects>
+1	291(amenity):1	
+0	
+23	4(nice):1	9(service):1	54(door):1	95(airport):1	116(tv):1	165(start):1	180(actually):1	330(toilet):1	333(selection):1	428(customer):1	434(wear):1	474(separate):1	593(hold):1	741(channel):1	888(switch):1	966(handle):1	1142(slide):1	1149(maintenance):1	1619(flush):1	2234(loose):1	2547(thermostat):1	3306(doubletree):1	3363(setup):1	
+18	1(location):1	4(nice):1	11(bed):1	23(little):1	28(close):1	66(park):2	70(overall):1	71(include):1	95(airport):1	128(extra):1	136(charge):1	150(pleasant):1	159(access):1	643(mall):1	762(seattle):1	1058(strange):1	1070(conveniently):1	3306(doubletree):1	
+0	
+0	
+0	
+0	
+
+<Author>bugss
+<Content>Great place for Park'n fly We stayed 1 night on our way to Hawaii. We parked our car there for 2 weeks. The room was clean and comfortable. We had no problems with our car. For the price, it was perfect.  
+<Date>Oct 9, 2007
+<Rating>4	5	4	3	3	3	3	-1	
+<Aspects>
+1	121(car):1	
+2	19(price):1	74(perfect):1	
+2	3(clean):1	25(comfortable):1	
+6	2(night):1	66(park):2	75(week):1	121(car):1	614(fly):1	904(hawaii):1	
+0	
+0	
+0	
+0	
+
+<Author>hadrian333
+<Content>Great Hotel, Horrible Front Desk Upon arriving at the hotel, the front desk personnel treated us as if they were doing us a favor to check us in. The actual hotel was moderately clean except that the interior is starting to look a bit dated. Our room was fine except the foldout bed was very uncomfortable for our son. This hotel charges for internet access by the day which is unheard of in this day and age. Although the parking was free, it is not secured. The towels they provide were small and didn't dry you very well after a shower. The rooms were relatively clean and the location was quiet in the evening. When we were checking out, there was a discrepency in our hotel room rate. Because they hurried us through the process, I decided to deal with that when I got home since we were late for our plane. After getting home, I tried contacting Doubletree by using their toll free number but their agent told us that I had to discuss this issue by calling their hotel in Washington which has no toll free number. When I called that number and payed the toll call, they were again not willing to discuss the discrepancy with my room rate so I pretty much gave up with them. I would have to think twice before going back to this hotel again. Their personnel at this hotel were the worst I have encountered in the 30 plus years that I have been traveling around the world.  
+<Date>Sep 13, 2007
+<Rating>1	1	3	2	3	1	1	1	
+<Aspects>
+14	50(bad):1	68(travel):1	79(late):1	140(deal):1	141(home):1	203(plus):1	219(decide):1	272(world):1	347(twice):1	693(encounter):1	968(plane):1	1222(process):1	1457(personnel):1	2265(hurry):1	
+17	3(clean):1	20(look):1	42(pay):1	52(bit):1	67(call):2	78(rate):1	109(pretty):1	165(start):1	335(numb):1	337(except):1	511(date):1	1026(interior):1	1536(actual):1	2690(discuss):1	3195(moderately):1	3848(toll):1	8806(discrepancy):1	
+15	1(location):1	3(clean):1	11(bed):1	32(check):1	58(quiet):1	61(shower):1	78(rate):1	113(fine):1	125(towel):1	153(provide):1	337(except):1	612(son):1	856(uncomfortable):1	913(relatively):1	1257(dry):1	
+3	46(free):1	66(park):1	1034(secure):1	
+0	
+21	31(front):2	32(check):1	36(desk):2	46(free):2	53(arrive):1	67(call):1	69(tell):1	141(home):1	253(tried):1	265(issue):1	320(treat):1	335(numb):2	544(horrible):1	713(contact):1	766(agent):1	1457(personnel):1	1521(favor):1	2690(discuss):1	2721(washington):1	3306(doubletree):1	3848(toll):2	
+0	
+6	8(day):2	97(internet):1	136(charge):1	159(access):1	505(age):1	5983(unheard):1	
+
+<Author>tim805
+<Content>Nice family hotel with free airport shuttle Needed a family suite hotel for 1 night before leaving on our Alaska Cruise and this one did the job. Free shuttle from the airport and check in was very easy. Room was nice with a living room and bedroom on the 7th floor. We had breakfast in the hotel and the pricess were like anywhere else. My son and I used the indoor pool and it was nice and clean. Took the shuttle back to the airport and believe this hotel to be a good bargain and convient to the airport.  
+<Date>Aug 3, 2007
+<Rating>5	5	4	3	5	3	4	-1	
+<Aspects>
+0	
+2	6(breakfast):1	170(else):1	
+15	2(night):1	4(nice):2	24(floor):1	43(leave):1	46(free):1	95(airport):1	106(family):2	108(suite):1	206(live):1	268(bedroom):1	321(shuttle):1	481(job):1	603(cruise):1	2951(7th):1	5820(alaska):1	
+8	32(check):1	46(free):1	93(easy):1	95(airport):3	312(believe):1	321(shuttle):2	759(bargain):1	5353(convient):1	
+5	3(clean):1	4(nice):1	22(pool):1	612(son):1	1680(indoor):1	
+0	
+0	
+0	
+
+<Author>classiccars
+<Content>Nightmare on Elm Street Overall the hotel is not bad. The rooms are two room suites and the food is okay but not great. The problem is that our car was broken in during our three day stay. I contacted the front desk and told them about our break in and their attitude was Oh really. I asked to speak to the Front Deck Manager and he never returned my call. obviously didn't care about our problem. After talking to some emplyees I found out that car break ins is quite the problem around this area. The property hires offsite security that only does a drive by during the late evening hours. Park your car here at your own risk or better yet stay somewhere else.  
+<Date>Jul 9, 2007
+<Rating>1	1	5	4	5	4	1	3	
+<Aspects>
+7	8(day):1	121(car):2	228(break):2	242(care):1	371(talk):1	781(obviously):1	6766(ins):1	
+0	
+3	16(food):1	108(suite):1	453(okay):1	
+9	35(street):1	50(bad):1	66(park):1	70(overall):1	121(car):1	166(own):1	170(else):1	1534(nightmare):1	2168(risk):1	
+0	
+11	31(front):2	36(desk):1	39(return):1	67(call):1	69(tell):1	127(speak):1	228(break):1	258(manager):1	713(contact):1	821(attitude):1	1406(deck):1	
+7	60(hour):1	79(late):1	214(property):1	298(drive):1	641(security):1	1556(hire):1	7170(offsite):1	
+0	
+
+<Author>delarda
+<Content>Outstanding! This is a perfect spot to spend your pre-or-post cruise nights. Free shuttle service to and from the SEATAC airpport is provided (use the phone in the waiting area to call for service) The rate was more than reasonable but better than that, our room consisted of a living room (couch, chair, desk, TV, etc.) and a separate bedroom. I suspect that most suite hotels might provide these types of things but with this Doubletree, the like-new furniture quality in an environment that's sure to please was most welcome. As a side note, the front desk personnel are extremely polite. When we were leaving for dinner, I overhead them telling someone that was not staying at the Doubletree that they had call no less than 10 hotels in the area but all were full. Wasn't that nice?  
+<Date>Jun 15, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+7	2(night):1	4(nice):1	64(spend):1	74(perfect):1	317(spot):1	534(outstanding):1	603(cruise):1	
+0	
+28	9(service):2	36(desk):1	46(free):1	67(call):1	73(etc):1	78(rate):1	85(wait):1	108(suite):1	116(tv):1	153(provide):2	173(please):1	187(quality):1	198(chair):1	202(welcome):1	206(live):1	268(bedroom):1	273(reasonable):1	296(phone):1	321(shuttle):1	389(type):1	440(furniture):1	474(separate):1	1185(consist):1	1192(couch):1	1712(environment):1	1983(suspect):1	3306(doubletree):1	5134(seatac):1	
+0	
+0	
+6	31(front):1	36(desk):1	110(extremely):1	297(note):1	422(polite):1	1457(personnel):1	
+6	43(leave):1	67(call):1	69(tell):1	117(dinner):1	3176(overhead):1	3306(doubletree):1	
+0	
+
+<Author>sjanes
+<Content>Convenient Base For Seattle Area We stayed here as a base for the wider Seattle/Washington area. It's a bit too far from the city centre to easily get to all the tourist attractions. The suite was large, clean and comfortable and we loved the Doubletree check in cookies. The Southcentre Mall is conveniently only over the road and there are other shops and restaurants in the area. I can recommend Simply Thai which is just around the corner. There is a large lawn in front of the hotel and we often saw wild rabbbits on it, not exactly a reason to chose a hotel but very cute!  
+<Date>Jun 8, 2007
+<Rating>4	4	4	3	4	4	4	3	
+<Aspects>
+8	15(recommend):1	186(convenient):1	200(corner):1	284(base):2	488(simply):1	762(seattle):2	860(wide):1	2393(thai):1	
+0	
+7	3(clean):1	25(comfortable):1	32(check):1	40(love):1	108(suite):1	1173(cookie):1	3306(doubletree):1	
+5	10(restaurant):1	49(shop):1	230(road):1	643(mall):1	1070(conveniently):1	
+0	
+7	31(front):1	167(choose):1	374(reason):1	586(exactly):1	1202(cute):1	2661(wild):1	4067(lawn):1	
+0	
+6	41(city):1	52(bit):1	101(center):1	209(tourist):1	350(attraction):1	438(easily):1	
+
+<Author>tsherb
+<Content>Stolen Vehicle, no apologies We stayed at the hotel at the end of a reverse park and fly . An employee had told me over the phone that the lots where I would be parking had video surveillance . Furthermore, someone drove around the parking area to check on the cars I parked near the entranceway two spots in . No information was taken about my vehicle so that they could check on its security while I was gone When we returned one week later my vehicle was gone . It had been stolen and severely vandalized. The employees had no apologies and when I called down to speak to the front desk to ask them to save the tapes of the video surveillance for the week, they told me there was no surveillance of that front area . The manager later defended what the employee had told me as being true for their back lots and further seemed irritated and annoyed with my phone call. I saw that I was getting nowhere with him and was ready to hang up when he offered to check some other video records and get back to me . He never called me back . My vehicle sustained $5,000.00 worth of damage . I don't recommend this hotel .  
+<Date>Jun 1, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	15(recommend):1	67(call):1	96(worth):1	1951(vehicle):1	2030(damage):1	8506(sustain):1	
+0	
+0	
+7	38(lot):1	66(park):1	69(tell):1	296(phone):1	608(employee):1	2463(video):1	12279(surveillance):1	
+0	
+34	31(front):2	32(check):3	36(desk):1	38(lot):1	39(return):1	66(park):2	67(call):2	69(tell):2	75(week):2	79(late):2	89(offer):1	102(near):1	121(car):1	127(speak):1	258(manager):1	274(ready):1	296(phone):1	298(drive):1	317(spot):1	425(save):1	478(hang):1	608(employee):2	641(security):1	649(information):1	695(annoy):1	1547(apology):1	1951(vehicle):2	2251(record):1	2463(video):2	2467(irritate):1	3236(tape):1	3360(furthermore):1	9357(defend):1	12279(surveillance):2	
+7	66(park):1	614(fly):1	1187(steal):2	1547(apology):1	1951(vehicle):1	4590(reverse):1	4910(severely):1	
+0	
+
+<Author>AKfun
+<Content>Very comfortable I have stayed here several times and found the experience nice. We only stayed two days this trip through and it was as expected. Room was clean and very comfortable. This hotel caters to the business sector and therefor is not marketed towards the tourist.We got a good rate by dropping in late one night but when we tried to extend our stay the price jumped beyond what I was willing to pay. That is too bad since they lost revenue when they had lots of rooms available. The business center is great and we used it a couple times. I am Hilton Honors and did not receive any extras. The internet was pricey but did work well and fast. Would stay here again, if the price was right.  
+<Date>Mar 30, 2007
+<Rating>4	4	4	4	5	4	-1	4	
+<Aspects>
+7	8(day):1	33(trip):1	62(expect):1	128(extra):1	302(receive):1	477(hilton):1	1376(honor):1	
+17	2(night):1	4(nice):1	5(time):1	19(price):2	25(comfortable):1	42(pay):1	44(experience):1	78(rate):1	79(late):1	97(internet):1	253(tried):1	499(fast):1	546(pricey):1	662(drop):1	738(beyond):1	1303(extend):1	1404(jump):1	
+7	3(clean):1	25(comfortable):1	38(lot):1	50(bad):1	134(available):1	596(lose):1	8169(revenue):1	
+7	147(business):1	209(tourist):1	264(market):1	959(towards):1	1000(cater):1	10529(sector):1	11425(therefor):1	
+0	
+0	
+0	
+4	5(time):1	99(couple):1	101(center):1	147(business):1	
+
+<Author>chipfromwash
+<Content>Less than okay We stayed at the Doubletree Suites the night before a flight out of Sea-Tac. We booked to leave our vehicle there for the duration of our trip. If you want to do this don't pay the extra $20 I did to keep your vehicle here. They just tell you to park anywhere in their lot and don't ask for your vehicle license number. However, I wouldn't do the park and fly here again since my vehicle got broken into while we were on vacation.We were disappointed with the room. It started when we first walked into the room. It had the smell of stale cigarette smoke even though it was supposedly a non-smoking room. The bathroom was microscopic and the fan didn't work well enough to make it anything less than a humid pit. The rest of the room was okay but it had a very 80s feel to it and the rooms are very small. Not exactly what I expected from reading the other reviews. Our room also had a lovely view of the HVACs on the roof of the conference area of the hotel. We got to hear the drone of those HVACs all night long.On the plus, the shuttle to the airport and the pickup on the return was excellent. However, I've learned my lesson about park and fly near Sea-Tac. Next time we'll park at a secure lot near the airport.  
+<Date>Feb 6, 2007
+<Rating>2	2	2	3	2	1	2	-1	
+<Aspects>
+7	2(night):1	37(review):1	62(expect):1	88(read):1	132(hear):1	586(exactly):1	10771(drone):1	
+9	7(walk):1	42(pay):1	66(park):1	128(extra):1	131(vacation):1	165(start):1	228(break):1	614(fly):1	1951(vehicle):2	
+19	2(night):1	13(bathroom):1	17(view):1	34(feel):1	87(lovely):1	108(suite):1	154(disappoint):1	233(flight):1	288(rest):1	453(okay):2	636(roof):1	661(fan):1	794(conference):1	1825(humid):1	3306(doubletree):1	3413(pit):1	7613(sea-tac):1	9735(80s):1	9901(microscopic):1	
+19	5(time):1	21(excellent):1	38(lot):2	39(return):1	66(park):3	69(tell):1	95(airport):2	102(near):2	203(plus):1	321(shuttle):1	335(numb):1	614(fly):1	703(learn):1	1034(secure):1	1343(lesson):1	1951(vehicle):1	2258(pickup):1	4464(license):1	7613(sea-tac):1	
+6	231(smell):1	468(smoke):1	978(nonsmoking):1	1365(cigarette):1	2052(stale):1	2062(supposedly):1	
+0	
+5	18(book):1	33(trip):1	43(leave):1	1951(vehicle):1	2961(duration):1	
+0	
+
+<Author>NCALGAL
+<Content>Great location in Seattle Area Stayed at the Doubletree Suites South Center mid August for three nights. It is located in Tukwila, WA just mintues from SeaTac and about 20 minutes fom downtown Seattle. The hotel is located directly across from a large mall which I never visited but is convenient for those who care to shop. The staff were top notch, very friendly and accomodating. Hotel has an indoor pool and nice exercise room as well as a business center. Attractive lobby with bar and restaurant. As an Hilton Hhonors member we were given breakfast vouchers for our entire stay for the breakfast buffet which was excellent and offered many choices. They offer wi-fi for 10.00 a day but that charge was also waived for us. Parking was free a good perk compared to the $20.00 plus charge for parking at downtown Seattle hotels. Rooms were spacious, we had a room without a view due to the fact that we required two beds and the majority of the rooms with views had king beds only. The cookies at check-in were great and we went back to buy more but the front desk graciously offered more complimentary. I plan to stay here again on my next visit to Seattle.  
+<Date>Oct 11, 2006
+<Rating>5	5	4	5	5	5	5	5	
+<Aspects>
+3	65(visit):1	221(plan):1	762(seattle):1	
+5	0(staff):1	12(friendly):1	118(top):1	549(accomodate):1	1227(notch):1	
+15	1(location):1	2(night):1	11(bed):2	17(view):2	101(center):1	108(suite):1	111(spacious):1	243(king):1	259(due):1	722(require):1	762(seattle):1	769(south):1	1313(mid):1	1584(majority):1	3306(doubletree):1	
+20	29(minute):1	46(free):1	49(shop):1	65(visit):1	66(park):2	84(locate):2	136(charge):1	186(convenient):1	203(plus):1	242(care):1	334(downtown):2	381(compare):1	383(directly):1	643(mall):1	762(seattle):2	1914(perk):1	4851(wa):1	5134(seatac):1	6455(mintues):1	9344(fom):1	
+0	
+12	8(day):1	31(front):1	36(desk):1	89(offer):2	136(charge):1	280(buy):1	286(check-in):1	345(complimentary):1	1173(cookie):1	1827(wi-fi):1	3634(graciously):1	4798(waive):1	
+13	6(breakfast):2	10(restaurant):1	21(excellent):1	27(bar):1	55(lobby):1	77(buffet):1	89(offer):1	107(choice):1	329(entire):1	477(hilton):1	1154(attractive):1	1750(voucher):1	4560(hhonor):1	
+6	4(nice):1	22(pool):1	101(center):1	147(business):1	1459(exercise):1	1680(indoor):1	
+
+<Author>djwong
+<Content>Salvation From Day's Inn (June 28 - Jul 3) We normally stay at Hilton family of hotels and inns for our family vacations, but my wife had booked a Days Inn in Richmond BC (Vancouver) and we found it to be comparable to a Hampton Inn, so we thought we give the Day's Inn at Bellevue, Wash. a try. What a big mistake! Since we were unfamiliar with this area, it took us two days to get out that hell hole. We couldn't find any availability in the Hampton Inns in the area due to the up coming July 4th holiday, so ended up in a nice suite at this DoubleTree for $10 more then the Days Inn. From the hot cookies, courteous and helpful staff to the spacious suites; from the comfortable Sweet Dreams beds, pillows and luxurous blankets, it made us forget the Day's Inn fiasco. We had 2 complementary bottled water every day before we headed out to explore Seattle, Olympia, Tacoma, Point Defiance, Sequim, Bainbridge Island, Lake Washington, Kirkland, Redmond, and Bellevue. The day before our departure, I was able to use the business center to check my email, check-in to my flight and print my boarding passes.Yes, the Phillips flat screen's remote channel change was slow but we were out most of the time. We just want a nice comfortable place to relax and wind down at the end fof the day. Don't forget the happy hour!The only complaint I have is the very dated AC which had a very poor flow and never feels it is cool enough. But most of the time, the weather in Seattle is fairly temperate, so this may not be an issue for your travels. Overall, we are very happy with our stay.  
+<Date>Jul 9, 2006
+<Rating>4	5	5	-1	5	-1	5	-1	
+<Aspects>
+30	4(nice):1	8(day):3	25(comfortable):1	34(feel):1	57(water):1	60(hour):1	70(overall):1	155(happy):2	160(relax):1	190(complaint):1	238(bottle):1	278(cool):1	319(head):1	331(poor):1	342(island):1	397(forget):1	511(date):1	594(explore):1	762(seattle):1	895(mistake):1	956(ac):1	1168(wind):1	1218(hole):1	1918(hell):1	1942(flow):1	1978(complementary):1	2443(lake):1	2721(washington):1	5693(unfamiliar):1	9410(bellevue):1	
+18	8(day):3	18(book):1	76(try):1	106(family):2	131(vacation):1	184(wife):1	324(inn):5	477(hilton):1	664(june):1	811(wash):1	1091(normally):1	1813(comparable):1	2236(hampton):1	4200(vancouver):1	5166(bc):1	9410(bellevue):1	9689(jul):1	12869(salvation):1	
+37	0(staff):1	4(nice):1	5(time):2	8(day):2	11(bed):1	14(helpful):1	25(comfortable):1	68(travel):1	108(suite):2	111(spacious):1	114(hot):1	161(change):1	223(holiday):1	250(yes):1	259(due):1	265(issue):1	303(pillow):1	324(inn):3	385(weather):1	397(forget):1	455(slow):1	462(fairly):1	483(courteous):1	526(screen):1	535(flat):1	741(channel):1	762(seattle):1	845(4th):1	950(sweet):1	1173(cookie):1	1256(dream):1	1272(remote):1	1369(blanket):1	2073(availability):1	2236(hampton):1	3306(doubletree):1	7106(fiasco):1	
+0	
+0	
+11	8(day):1	32(check):1	101(center):1	147(business):1	171(able):1	233(flight):1	286(check-in):1	400(pass):1	600(board):1	1031(departure):1	1101(print):1	
+0	
+0	
+
+<Author>fedexflyer
+<Content>Convenient Three Star Hotel The Doubletree Guest Suites Seattle Southcenter hotel is located just off I-5 ten minutes from the airport and about 20 minutes south of downtown Seattle. The area is primarily a shopping district, but the stores are fairly spread out, so driving is probably the preferred option. Parking is free, although you might have to walk a bit if the parking lot shared by the neighboring Outback Restaurant is full. No bellman was visible, but check-in was fairly quick, and the Doubletree cookie was delicious. The hotel itself is the standard ubiquitous circa-1980s Embassy Suites design, an eight story cube-shaped building with rooms overlooking an open center lobby. As a Gold HHonors member, I was upgraded to a larger corner suite, with a pretty nice view of Mount Rainier (facing south). The living room furnishings were comfortable, if a bit tired. However, the bedroom had been recently upgraded with a new Sweet Dreams bed, idiot-proof Hilton radio and widescreen LCD flat panel TV. The bed was very comfortable, and I fortunately was able to ignore the annoying hum emanating from both my A/C and the one from the room next door. While the flat panel TV picture was fine, the channel-changing speed was maddeningly slow. Evening room service was fast and quite good, but the breakfast buffet left much to be desired, unless lukewarm bacon, hard biscuits and lackadaisical service is your thing. The hotel had wireless Internet access throughout, and PCs with Internet access were available in the unstaffed business center for a small fee if you are travelling light. Overall, I would rate the hotel as an average three star hotel--worth a stay if you get a good rate or if the convenient location out of the city is important to you. If you need to be in the heart of downtown Seattle or are looking for impeccable service, look elsewhere.  
+<Date>May 9, 2006
+<Rating>3	4	3	-1	3	-1	3	-1	
+<Aspects>
+0	
+8	1(location):1	41(city):1	70(overall):1	78(rate):2	96(worth):1	103(star):1	186(convenient):1	227(average):1	
+68	4(nice):1	11(bed):2	17(view):1	25(comfortable):2	29(minute):2	49(shop):1	52(bit):1	54(door):1	55(lobby):1	84(locate):1	91(guest):1	95(airport):1	101(center):1	103(star):1	108(suite):3	109(pretty):1	113(fine):1	116(tv):2	130(standard):1	135(build):1	163(upgrade):2	171(able):1	178(probably):1	186(convenient):1	200(corner):1	206(live):1	255(store):1	260(overlook):1	268(bedroom):1	298(drive):1	322(recently):1	334(downtown):1	336(option):1	433(district):1	454(tire):1	455(slow):1	456(picture):1	462(fairly):1	477(hilton):1	516(design):1	535(flat):2	536(prefer):1	695(annoy):1	762(seattle):2	769(south):2	870(furnishings):1	906(story):1	950(sweet):1	1170(speed):1	1203(spread):1	1215(ignore):1	1256(dream):1	1571(gold):1	1585(fortunately):1	1768(embassy):1	1773(lcd):1	1816(radio):1	2134(panel):2	2300(rainy):1	2519(primarily):1	2794(mount):1	3306(doubletree):1	4292(hum):1	4560(hhonor):1	6896(ubiquitous):1	7044(i-5):1	8451(widescreen):1	8843(emanate):1	
+9	7(walk):1	10(restaurant):1	38(lot):1	46(free):1	52(bit):1	66(park):2	520(share):1	934(neighbour):1	2099(outback):1	
+0	
+8	286(check-in):1	299(quick):1	462(fairly):1	485(delicious):1	1105(bellman):1	1173(cookie):1	2662(visible):1	3306(doubletree):1	
+17	6(breakfast):1	9(service):3	20(look):2	43(leave):1	77(buffet):1	162(hard):1	334(downtown):1	405(unless):1	450(heart):1	499(fast):1	646(elsewhere):1	762(seattle):1	1057(bacon):1	1219(desire):1	1542(impeccable):1	2889(biscuit):1	3498(lukewarm):1	
+11	68(travel):1	97(internet):2	101(center):1	134(available):1	147(business):1	157(light):1	159(access):2	445(throughout):1	584(fee):1	717(wireless):1	5208(pcs):1	
+
+<Author>wahineman
+<Content>Pretty Decent Hotel This was our first trip to Seattle. We decided to stay outside the city because we had friends who lived nearby in Kent and we wanted to make it convenient for them. Good choice! The hotel is right next to a large shopping center and there were numerous restaurants within walking distance. Doubletree prooved to be an ideal central location. The city proper was 20 minutes away and we could also take a short trip south to Tacoma and Bremerton. As for our room, it was huge. It was also very clean and quiet. Aside for th front desk employees who weren't very friendly, we had no complaints. We would definitely stay there again.  
+<Date>May 1, 2006
+<Rating>4	3	4	-1	5	-1	4	-1	
+<Aspects>
+10	29(minute):1	33(trip):2	41(city):1	59(definitely):1	109(pretty):1	144(short):1	257(decent):1	762(seattle):1	769(south):1	1719(proper):1	
+1	107(choice):1	
+3	3(clean):1	58(quiet):1	133(huge):1	
+18	1(location):1	7(walk):1	10(restaurant):1	41(city):1	49(shop):1	98(outside):1	101(center):1	115(distance):1	146(friend):1	168(central):1	186(convenient):1	206(live):1	219(decide):1	232(nearby):1	545(ideal):1	971(numerous):1	3306(doubletree):1	11599(kent):1	
+0	
+7	12(friendly):1	31(front):1	36(desk):1	190(complaint):1	608(employee):1	1502(aside):1	2505(th):1	
+0	
+0	
+
+<Author>OkanaganBCTraveler
+<Content>Nice Hotel good value Just got back from three days in the Seattle area. We had planned to stay in Bellevue @ the Coast. but that property was so poor we needed to move.Booked the Doubletree when I found out the rate was only 9$ more. The room was huge, quiet, very clean and well looked after. The Outback next door was great but the hotel restaurant was just SO SO. The location is excellent if your into shopping.I would definitely stay there again if we can get a reasonable rate. Paid $107 a very good price for the Seattle area.  
+<Date>Nov 22, 2005
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+6	59(definitely):1	78(rate):1	221(plan):1	273(reasonable):1	1682(coast):1	9410(bellevue):1	
+6	4(nice):1	8(day):1	19(price):1	42(pay):1	81(value):1	762(seattle):2	
+4	3(clean):1	20(look):1	58(quiet):1	133(huge):1	
+3	1(location):1	21(excellent):1	49(shop):1	
+0	
+0	
+9	10(restaurant):1	18(book):1	54(door):1	78(rate):1	207(move):1	214(property):1	331(poor):1	2099(outback):1	3306(doubletree):1	
+0	
+
+<Author>Restless_in_Seattle
+<Content>Oasis 10 Minutes from the Airport Our family of 4 stayed here to avoid a rush hour drive to SeaTac. Great Idea! The suite was big, comfy, 2 tvs, door to seperate areas. Restaurants and shopping within easy walking distance. Warm cookies on arrival are a nice touch. Shuttle service to SeaTac was timely and very friendly.  
+<Date>Jul 14, 2005
+<Rating>5	3	5	-1	5	-1	4	-1	
+<Aspects>
+6	4(nice):1	224(arrival):1	236(warm):1	279(touch):1	639(idea):1	1173(cookie):1	
+0	
+14	29(minute):1	54(door):1	60(hour):1	95(airport):1	106(family):1	108(suite):1	298(drive):1	436(avoid):1	475(comfy):1	1244(rush):1	1383(oasis):1	1416(seperate):1	1569(tvs):1	5134(seatac):1	
+10	7(walk):1	9(service):1	10(restaurant):1	12(friendly):1	49(shop):1	93(easy):1	115(distance):1	321(shuttle):1	3159(timely):1	5134(seatac):1	
+0	
+0	
+0	
+0	
+
+<Author>dave1013
+<Content>Ditto Review #1: It was OK I stayed at this hotel for three nights in February 2005, and had a generally pleasant stay. I agree that the rooms were clean. However, temperature control proved a bit problematic, for me at least. I like to sleep in a cool room, not warm. Upon entering my room I found it to be uncomfortably warm. It was the dead of winter and my presumption is that the air conditioning was turned off for the season, as I cranked the controls hard over on the cooler setting and the room didn't get any cooler. I called the front desk for help, they said they would send someone to my room to troubleshoot the matter. No one ever came to the room; that I know for a fact. I went to the front desk the next morning to say, No one ever came to my room to look at the termperature issue; please send someone today. I was assured by the front desk clerk that someone would come to the room. Maybe someone did, I was away all day at work. But when I came back to the room in the afternoon, the control was still cranked over to max cooling setting, and the room was still warm and stuffy. So my solution was to open the windows and let Mother Nature resolve the matter, which she pretty much did. One morning, we had no hot water, and I was one of many people who complained about that at the front desk. Temperature control in the hotel as a whole seemed to be an issue, as our meeting room was alternately very cool and very warm. The apparent lack of response on the part of the staff was, in my view, every bit as annoying as the temperature in the facility. The exercise room was unusually spacious with a lot of Nautilus machines. Again, I found temperature an issue as the exercise room is adjacent to the pool, and lacks its own ventilation. Therefore, the ambience was humid and chlorinated. No TV to watch while you are on the treadmill, either. In other issues, the breakfast buffet was quite good. It was self-service and there was something for everybody. The oatmeal was quite good. The wait staff was very attentive with regard to keeping my coffee cup full. The bar had a good selection of draft beer. They allow smoking at the bar, and the smoke drifted up to my 7th-floor nonsmoking room level and could be readily smelled in the hall in the evening. I would have liked to have seen a self-service laundry facility in the hotel; there was none. High-speed internet in the room was $9.95 a day and quite peppy. It's best if you access the service via a wireless adapter. Two of my coworkers did not have a wireless adapter-enabled computer, so I walked to a Best Buy about a mile down the road to the left, and bought them. There is also a CompUSA in the same complex as Best Buy. The front desk said that they had hardware to lend out for those whose computers did not have wireless capability but I think they were all loaned out as my coworkers were complaining that the hotel could not help. I never followed up to see if that was the case. If I come back to this area again, I would sooner stay at the Embassy Suites by Exit 1 off I-405. They offer a better value and seem to have a better hand on smoking inside the hotel.   
+<Date>Feb 11, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+19	2(night):1	8(day):1	37(review):1	52(bit):1	123(ok):1	150(pleasant):1	280(buy):1	308(maybe):1	482(follow):1	865(control):1	944(temperature):1	957(ambience):1	1074(complex):1	1230(february):1	1554(prove):1	1825(humid):1	3073(oatmeal):1	5079(problematic):1	5147(ditto):1	
+5	81(value):1	89(offer):1	377(hand):1	408(inside):1	468(smoke):1	
+46	3(clean):1	22(pool):1	38(lot):1	104(sleep):1	108(suite):1	109(pretty):1	111(spacious):1	116(tv):1	119(window):1	162(hard):1	164(air):1	166(own):1	196(meet):1	234(set):2	236(warm):4	245(watch):1	263(condition):1	265(issue):2	278(cool):5	349(lack):1	364(afternoon):1	418(soon):1	473(agree):1	493(machine):1	531(matter):1	601(enter):1	610(season):1	865(control):3	944(temperature):2	1061(adjacent):1	1354(exit):1	1359(mother):1	1459(exercise):2	1599(winter):1	1621(dead):1	1715(resolve):1	1768(embassy):1	1857(stuffy):1	1986(nature):1	2169(max):1	2212(treadmill):1	2667(ventilation):1	2800(solution):1	3639(unusually):1	5418(uncomfortably):1	6243(crank):2	
+9	0(staff):1	17(view):1	52(bit):1	211(facility):1	349(lack):1	695(annoy):1	944(temperature):1	1330(response):1	3039(apparent):1	
+9	27(bar):1	231(smell):1	306(level):1	359(allow):1	468(smoke):2	616(hall):1	978(nonsmoking):1	2715(readily):1	4338(drift):1	
+22	0(staff):1	20(look):1	26(people):1	31(front):4	36(desk):4	56(morning):2	57(water):1	67(call):1	85(wait):1	90(coffee):1	92(help):1	114(hot):1	173(please):1	241(complain):1	265(issue):1	447(send):2	531(matter):1	537(attentive):1	788(clerk):1	800(cup):1	930(regard):1	1349(assure):1	
+11	6(breakfast):1	27(bar):1	77(buffet):1	211(facility):1	265(issue):1	333(selection):1	443(beer):1	573(none):1	1075(laundry):1	4521(draft):1	4857(self-service):2	
+23	7(walk):1	8(day):1	9(service):1	31(front):1	36(desk):1	43(leave):1	92(help):1	97(internet):1	159(access):1	230(road):1	241(complain):1	280(buy):2	512(via):1	555(computer):2	692(mile):1	717(wireless):3	3293(lend):1	3436(high-speed):1	4118(adapter):1	4623(loan):1	6484(coworker):2	7241(hardware):1	8579(capability):1	
+
+<Author>Brown-2004
+<Content>Excellent Value Stayed here in August 2004 and loved it. The room was spotless, spacious and quiet. Check in was fast, friendly and efficient. Restaurant could use improvement. Pool was great as was the exercise facility. Would definetly stay here again when next in Saettle The $49 Priceline was also a plus!  
+<Date>Sep 1, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+6	21(excellent):1	40(love):1	81(value):1	203(plus):1	1069(priceline):1	1964(definetly):1	
+3	58(quiet):1	111(spacious):1	548(spotless):1	
+3	22(pool):1	211(facility):1	1459(exercise):1	
+0	
+4	12(friendly):1	32(check):1	401(efficient):1	499(fast):1	
+2	10(restaurant):1	1486(improvement):1	
+0	
+
+<Author>mal
+<Content>it was ok stayed at the doubletree for a conference the week of november 16. the location is outside of the city, but there is a mall across the street, an outback, a sizzler, and a mcdonalds very close by. the outback there is great! the restaurant at the hotel, nw landing, was ok, not great. the breakfast buffett was decent, the lunch buffett varied, and the dinners were decent. we were on the top floor (8th) and the room was adequate. the people were friendly, except for one bartender who seemed to have a chip on his shoulder. the chocolate chip cookies at check-in were great!!  
+<Date>Nov 24, 2003
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	2099(outback):1	
+0	
+4	24(floor):1	118(top):1	390(adequate):1	1357(8th):1	
+14	1(location):1	28(close):1	35(street):1	41(city):1	75(week):1	98(outside):1	123(ok):1	643(mall):1	794(conference):1	999(november):1	2099(outback):1	2524(mcdonalds):1	3306(doubletree):1	11013(sizzler):1	
+0	
+4	286(check-in):1	632(chocolate):1	1173(cookie):1	1302(chip):1	
+16	6(breakfast):1	10(restaurant):1	12(friendly):1	26(people):1	117(dinner):1	123(ok):1	252(lunch):1	257(decent):2	337(except):1	676(bartender):1	1302(chip):1	1346(land):1	1578(varied):1	2788(buffett):2	2832(shoulder):1	9839(nw):1	
+0	
+

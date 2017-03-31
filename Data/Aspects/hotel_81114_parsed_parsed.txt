@@ -1,0 +1,546 @@
+<Author>BenkaPrecor
+<Content>Loved the Laurel Inn My husband and I both enjoyed our stay at the Laurel Inn. This was our second trip to SF this year and it was important for us to stay in a hotel that was updated, clean, and quiet. We really enjoyed our stay at the Laurel Inn. We were able to check in early and the hotel was quiet and our room was spacious. This hotel was near our friend's place which was why we stayed there, but we would stay there again regardless. The bus lines were really close by and very easy to use. We found several good places for brunch within walking distance to the Laurel Inn. Ella's is right down the road, as is Annie's Bistro. Both were excellent. The service of the staff at the Laurel Inn was superior as well. I can't say enough good things about this hotel. For the price, the service and amenities were well above average.  
+<Date>Jan 6, 2009
+<Rating>5	5	4	3	5	5	4	4	
+<Aspects>
+11	21(excellent):1	40(love):1	51(enjoy):2	102(near):1	105(husband):1	146(friend):1	230(road):1	324(inn):3	2012(regardless):1	2585(bistro):1	7468(laurel):3	
+4	9(service):1	19(price):1	227(average):1	291(amenity):1	
+8	3(clean):1	32(check):1	33(trip):1	58(quiet):2	111(spacious):1	171(able):1	725(update):1	802(sf):1	
+9	7(walk):1	28(close):1	93(easy):1	115(distance):1	120(bus):1	188(line):1	324(inn):1	2384(brunch):1	7468(laurel):1	
+0	
+5	0(staff):1	9(service):1	324(inn):1	785(superior):1	7468(laurel):1	
+0	
+0	
+
+<Author>DogFriendlyPlaces
+<Content>Very pet friendly - nice people and nice htoel We took our two dogs and stayed while visiting friends. Very nice people, clean hotel and safe parking. All around great hotel.  
+<Date>Dec 16, 2008
+<Rating>5	4	5	4	5	5	5	-1	
+<Aspects>
+7	4(nice):2	12(friendly):1	26(people):1	65(visit):1	146(friend):1	1126(dog):1	2477(pet):1	
+0	
+0	
+5	3(clean):1	4(nice):1	26(people):1	66(park):1	137(safe):1	
+0	
+0	
+0	
+0	
+
+<Author>IndieLady
+<Content>Charming, quaint hotel in central SF location If you're looking to stay at a very charming, quaint hotel, then try Laurel Inn. The lobby and sitting area are comfortable, and the rooms are simply furnished and looked retro. There was nothing pretentious about the staff or the services. They were very helpful in directing us around the city to restaurants. It was a no-frills boutique hotel that felt like home, and that was the best part.  
+<Date>Nov 13, 2008
+<Rating>4	3	3	4	3	4	4	-1	
+<Aspects>
+0	
+0	
+7	20(look):1	25(comfortable):1	55(lobby):1	169(sit):1	488(simply):1	787(furnish):1	4079(retro):1	
+13	1(location):1	20(look):1	34(feel):1	76(try):1	141(home):1	168(central):1	324(inn):1	332(charm):2	623(boutique):1	802(sf):1	1295(quaint):2	5540(no-frills):1	7468(laurel):1	
+0	
+3	0(staff):1	9(service):1	3435(pretentious):1	
+4	10(restaurant):1	14(helpful):1	41(city):1	803(direct):1	
+0	
+
+<Author>QueerTraveler
+<Content>Very Nice Stay I responded to a discount offered through Travelocity for this little hotel in Pacific Heights. Not sure what to expect, I was pleasantly surprised. The staff were professional and friendly, offering assistance with the coffee service and directions for using public transport. A bus stop not even one block away made late night returns to the hotel feel safer.During my stay, I attended the LGBT International Film Festival and was happy to be greeted by staff who not only discussed the festival details without reserve but treated me, a genderqueer person, with respect. Furthermore, in honor of Queer Pride, I asked Tanya at the front desk to assist me in ordering flowers for the arrival of my partner. Tanya said she would take care of the details. Two days later, I was greeted by the delivery of a huge bouquet of beautiful flowers. My partner was delighted and so was I. In addition to the wonderful and personal attention to service, I found the bed, pillows, sheets and comforter especially nice. The bedroom was quite large (for San Francisco) and I enjoyed the big TV.The bathroom was large but not well planned out as the door opened into the space where the toilet was located. Anyone sitting got a whack on the knees when the door opened.The second night of my five night stay, I overheard other patrons saying they heard a lot of noise the night before. I am a light sleeper and was surprised to hear this since my room was very quiet. Perhaps being on the third floor made the difference.Overall, my stay was very nice and I definitely got my money's worth at The Laurel Inn. I hope to stay there again on my next trip.  
+<Date>Jul 28, 2008
+<Rating>5	5	4	4	4	5	5	3	
+<Aspects>
+32	2(night):3	4(nice):1	8(day):1	33(trip):1	38(lot):1	45(beautiful):1	54(door):1	59(definitely):1	62(expect):1	70(overall):1	79(late):1	80(money):1	94(noise):1	96(worth):1	132(hear):1	133(huge):1	169(sit):1	199(surprise):1	242(care):1	324(inn):1	328(hope):1	415(greet):1	592(detail):1	747(pleasantly):1	778(flower):1	2152(delivery):1	2512(patron):1	3139(knee):1	3323(overhear):1	5691(bouquet):1	7468(laurel):1	9867(whack):1	
+8	4(nice):1	23(little):1	89(offer):1	864(discount):1	1575(pacific):1	1587(respond):1	2279(height):1	3132(travelocity):1	
+32	4(nice):1	9(service):1	11(bed):1	13(bathroom):1	24(floor):1	48(wonderful):1	51(enjoy):1	54(door):1	58(quiet):1	84(locate):1	116(tv):1	126(especially):1	132(hear):1	157(light):1	177(san):1	199(surprise):1	210(space):1	221(plan):1	268(bedroom):1	303(pillow):1	330(toilet):1	355(francisco):1	479(sheet):1	532(third):1	711(personal):1	726(attention):1	819(difference):1	918(addition):1	1006(partner):1	1025(delight):1	1299(sleeper):1	1694(comforter):1	
+18	0(staff):1	2(night):1	9(service):1	12(friendly):1	34(feel):1	39(return):1	79(late):1	89(offer):1	90(coffee):1	100(bloc):1	120(bus):1	122(stop):1	137(safe):1	379(public):1	395(direction):1	501(professional):1	742(transport):1	1669(assistance):1	
+0	
+22	0(staff):1	31(front):1	36(desk):1	155(happy):1	193(person):1	224(arrival):1	320(treat):1	415(greet):1	506(reserve):1	592(detail):1	778(flower):1	826(attend):1	903(international):1	1006(partner):1	1265(assist):1	1376(honor):1	1389(respect):1	2345(film):1	2399(festival):2	2690(discuss):1	2843(pride):1	3360(furthermore):1	
+0	
+0	
+
+<Author>ModestoLily
+<Content>Outstanding value My husband and I booked a room with a kitchenette for a 3 day stay. I used recommendations from other Travel Advisor reviewers and we were definitely impressed. Great location, wonderful desk help, 24 hour coffee and tea, continental breakfast and a very clean and large room. The kitchenette had a stove, refrigerator, microwave, sink and all the cooking utensils we needed. Lots of places to walk, shop and eat, plus the bus line was just outside the hotel. Would recommend this place to anyone.  
+<Date>Jul 25, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+7	15(recommend):1	59(definitely):1	68(travel):1	343(impress):1	564(reviewer):1	577(recommendation):1	701(advisor):1	
+0	
+12	8(day):1	18(book):1	81(value):1	105(husband):1	509(sink):1	534(outstanding):1	550(cook):1	820(microwave):1	916(refrigerator):1	1165(kitchenette):2	2848(stave):1	2919(utensil):1	
+8	7(walk):1	38(lot):1	47(eat):1	49(shop):1	98(outside):1	120(bus):1	188(line):1	203(plus):1	
+0	
+0	
+10	1(location):1	3(clean):1	6(breakfast):1	36(desk):1	48(wonderful):1	60(hour):1	90(coffee):1	92(help):1	301(tea):1	372(continental):1	
+0	
+
+<Author>southernbell14
+<Content>Too noisy! I recently stayed at the Laurel Inn for a one night stop over. When making the reservation over the phone, the man making the reservation seemed put out just talking on the phone. When checking in, this gentleman seemed the same. Not friendly at all. No one to assist with luggage or the offer of, anyway. The room was very noisy! I believe I have never stayed somewhere more noisy. Even with the 2 fans they provide in the room due to the lack of air conditioning couldn't drown out the 24 hour traffic. Then when checking out they automatically put on your room charge a dollar donation to a charity. When checking in, the front desk mentions it to you, but they do not disclose that they will charge you without asking you before you check out. Not sure what this is about. And then who gets the credit for the donation, the Laurel Inn or the person making the dollar donation? I can only imagine it is not the person paying the dollar. Good things: bedding was comfortable, room was clean. Lots of green! Whoa.  
+<Date>Jul 19, 2008
+<Rating>2	3	3	2	4	2	2	-1	
+<Aspects>
+10	2(night):1	12(friendly):1	38(lot):1	122(stop):1	217(noisy):2	312(believe):1	322(recently):1	324(inn):1	1005(green):1	7468(laurel):1	
+8	42(pay):1	193(person):2	324(inn):1	430(dollar):2	659(credit):1	733(imagine):1	7468(laurel):1	8593(donation):2	
+13	3(clean):1	11(bed):1	25(comfortable):1	60(hour):1	153(provide):1	164(air):1	217(noisy):1	259(due):1	263(condition):1	349(lack):1	486(traffic):1	661(fan):1	3410(drown):1	
+0	
+0	
+14	31(front):1	32(check):4	36(desk):1	136(charge):2	156(reservation):2	244(mention):1	296(phone):2	371(talk):1	430(dollar):1	1506(gentleman):1	2573(automatically):1	6565(disclose):1	8593(donation):1	9632(charity):1	
+4	89(offer):1	249(luggage):1	417(anyway):1	1265(assist):1	
+0	
+
+<Author>Cunnybird
+<Content>Great Place to Sta in the City For my wife and I this was an exceptionally rewarding stay. Advice on buses, restaurants, shops etc, was given freely, our wedding anniversary was acknowledged with a lovely card signed by the staff, a HUGE cake, a bottle of wine, which we came home to after a long day of sightseeing. Our only complaint was that our city facing room made it very hot as it got the sun full blast for most of the day. On mentioning this in passing at the desk, we were quickly offered the choice of moving rooms to the cooler side of the hotel. Which we gratefully accepted. Couldn't recommend the Laurel Inn enough. Safe, and beautiful neighbourhood, easy access to major parks and downtown. Great dining all around the hotel. Quiet, modern, yet with the feel of a boutique hotel, the Laurel Inn suited us perfectly. Many thanks again to Kate and all the staff at the Laurel. See you folks again soon. Cheers Geoffrey  Alison  
+<Date>Jul 16, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+14	15(recommend):1	41(city):1	184(wife):1	316(dine):1	324(inn):1	418(soon):1	1050(folk):1	1242(exceptionally):1	1247(accept):1	2186(reward):1	3075(cheer):1	7468(laurel):1	12505(sta):1	12952(gratefully):1	
+8	36(desk):1	89(offer):1	107(choice):1	207(move):1	244(mention):1	278(cool):1	400(pass):1	471(quickly):1	
+14	8(day):1	34(feel):1	41(city):1	58(quiet):1	114(hot):1	151(modern):1	190(complaint):1	324(inn):1	420(sun):1	595(perfectly):1	623(boutique):1	861(suit):1	1279(blast):1	7468(laurel):1	
+28	0(staff):1	8(day):1	10(restaurant):1	45(beautiful):1	49(shop):1	66(park):1	73(etc):1	87(lovely):1	93(easy):1	120(bus):1	133(huge):1	137(safe):1	141(home):1	159(access):1	238(bottle):1	251(wine):1	292(card):1	315(major):1	334(downtown):1	421(neighbourhood):1	449(sign):1	575(advice):1	604(wed):1	640(sight-see):1	804(anniversary):1	1029(cake):1	2453(acknowledge):1	3633(freely):1	
+0	
+3	0(staff):1	271(thank):1	7468(laurel):1	
+0	
+0	
+
+<Author>sgaffney
+<Content>NO AIR CONDITIONING! For all of you East Coast people who are used to being HOT in June, do not stay at The Laurel Inn. They DO NOT have air conditioning in any of the rooms and their website does not disclose this information. In the room I stayed in, there was a little window that opened, but it had no screen. And even if it did, I wouldn't have left it open b/c 1) bugs/mice/men could easily have gotten in the window and 2) the enormous, heavy window drapes covered the window anyway, so no air was getting in the room. They provided 2 fans in the room but they did little. SF was unseasonably warm and it was sweltering in the room. Also, the front desk staff was extremely disorganized and weren't very polite when I called about the AC. Oh, and also the two fire escape doors on my floor were propped open all day and were only closed when I called about it. And when I did call, it seemed like I was bothering them. People from the outside easily could have gotten into the hotel without going through the lobby. I would have switched hotels, but I was stuck here b/c there was a convention in SF that week and all other hotels were booked.  
+<Date>Jun 23, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	26(people):1	67(call):1	114(hot):1	307(bother):1	324(inn):1	664(june):1	948(east):1	1682(coast):1	7468(laurel):1	
+0	
+29	8(day):1	23(little):2	24(floor):1	28(close):1	43(leave):1	54(door):1	67(call):1	119(window):4	153(provide):1	164(air):3	236(warm):1	262(website):1	263(condition):2	417(anyway):1	438(easily):1	526(screen):1	552(cover):1	649(information):1	661(fan):1	802(sf):1	1186(heavy):1	1262(fire):1	1601(escape):1	1625(enormous):1	2501(drape):1	4531(prop):1	6532(swelter):1	6565(disclose):1	8546(unseasonably):1	
+4	26(people):1	55(lobby):1	98(outside):1	438(easily):1	
+0	
+8	0(staff):1	31(front):1	36(desk):1	67(call):1	110(extremely):1	422(polite):1	956(ac):1	3603(disorganize):1	
+6	18(book):1	75(week):1	688(stick):1	802(sf):1	888(switch):1	1048(convention):1	
+0	
+
+<Author>redsoxfan01
+<Content>San Francisco's best kept secret! After hearing such rave reviews of the Laurel Inn from a fellow friend the Laurel Inn became the obvious choice when it came to visiting family in San Francisco. The hotel is a few miles from downtown, but the number one bus stops right in front of the hotel which makes an easy trip downtown or to the wharf. My room on the city side had a nice little kitchenette and a sweeping city view. The beds were really comfy and there was even a septate sitting area with a sofa in the room! The refrigerator came in handy after bringing home the leftovers from Osteria, a great Italian restaurant next store. There is always gourmet coffee in the lobby and a free continental breakfast every morning. This is a small hotel which is staffed 24 hours and all of the staff is very friendly and edger to help you with any of your travel needs. I would definitely recommend this hotel to anyone.  
+<Date>May 21, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+5	15(recommend):1	59(definitely):1	177(san):1	355(francisco):1	1127(secret):1	
+13	37(review):1	65(visit):1	106(family):1	107(choice):1	132(hear):1	146(friend):1	177(san):1	324(inn):2	355(francisco):1	1581(rave):1	1698(obvious):1	1742(fellow):1	7468(laurel):2	
+10	4(nice):1	11(bed):1	17(view):1	23(little):1	41(city):2	169(sit):1	475(comfy):1	842(sofa):1	1165(kitchenette):1	2724(sweep):1	
+14	0(staff):2	12(friendly):1	31(front):1	33(trip):1	60(hour):1	68(travel):1	92(help):1	93(easy):1	120(bus):1	122(stop):1	334(downtown):2	335(numb):1	692(mile):1	784(wharf):1	
+0	
+0	
+16	6(breakfast):1	10(restaurant):1	46(free):1	55(lobby):1	56(morning):1	90(coffee):1	141(home):1	142(bring):1	255(store):1	358(italian):1	372(continental):1	755(handy):1	916(refrigerator):1	1234(gourmet):1	3227(leftover):1	9270(osteria):1	
+0	
+
+<Author>KevinBlackman
+<Content>Great 2 night stay I spent two nights at The Laurel Inn (12th and 13th April) arrived at the hotel direct from the airport - approx 30 minutes drive in a cab. The hotel is small, but the rooms are larger than average, we had a huge bedroom, kitchen area, with cooker, micowave, fridge and all kitchen utensils. Nice big bathroom. The room was extremely clean and well furnished. The hotel is in the more residential area of San Francisco our room had great views looking downtown. You can easily take a bus to all the tourist attractions, we did a great deal of walking and the area around the hotel is very clean and tidy. I would definately recommend anybody to stay here.  
+<Date>Apr 28, 2008
+<Rating>4	4	4	3	4	3	3	3	
+<Aspects>
+2	15(recommend):1	410(definately):1	
+0	
+31	2(night):2	3(clean):1	4(nice):1	13(bathroom):1	17(view):1	20(look):1	29(minute):1	53(arrive):1	64(spend):1	95(airport):1	110(extremely):1	133(huge):1	177(san):1	227(average):1	268(bedroom):1	298(drive):1	318(fridge):1	324(inn):1	334(downtown):1	355(francisco):1	380(cab):1	461(kitchen):2	787(furnish):1	803(direct):1	1423(approx):1	1537(residential):1	1955(12th):1	2710(13th):1	2919(utensil):1	6666(cooker):1	7468(laurel):1	
+8	3(clean):1	7(walk):1	120(bus):1	140(deal):1	209(tourist):1	350(attraction):1	438(easily):1	1100(tidy):1	
+0	
+0	
+0	
+0	
+
+<Author>DC_CoPi
+<Content>Great Deal at the Laurel Inn! We stayed at the Laurel Inn for 3 nights while visiting friends who lived a few blocks away. The hotel is affordable - average of about $200/nt. with taxes - clean, and has a friendly staff. It's not the most convenient to the entire city - my husband took the bus to the financial district and it took about 40 minutes off peak - but if looking to stay on the outskirts and/or in Pacific Heights, it is a great deal. Continental breakfast and coffee were good; afternoon fresh (warm!) chocolate chip cookies were excellent. All in all would stay here again.  
+<Date>Apr 10, 2008
+<Rating>4	5	4	3	3	5	4	-1	
+<Aspects>
+14	2(night):1	21(excellent):1	65(visit):1	100(bloc):1	140(deal):1	146(friend):1	206(live):1	227(average):1	324(inn):2	632(chocolate):1	1062(affordable):1	1173(cookie):1	1302(chip):1	7468(laurel):2	
+0	
+0	
+14	20(look):1	29(minute):1	41(city):1	105(husband):1	120(bus):1	140(deal):1	186(convenient):1	329(entire):1	433(district):1	1575(pacific):1	1710(peak):1	1746(financial):1	2279(height):1	4398(outskirts):1	
+4	0(staff):1	3(clean):1	12(friendly):1	798(tax):1	
+0	
+6	6(breakfast):1	90(coffee):1	197(fresh):1	236(warm):1	364(afternoon):1	372(continental):1	
+0	
+
+<Author>annbury
+<Content>Pet Friendly Find in SF We chose the Laurel Inn because it takes pets and provides parking, but found that it has a lot more going for it. The location in a quiet residential neighborhood was great for us, as it gives a different view of SF than the usual downtown one, but it could be inconvenient for some travellers. The rooms were unusually large for a city hotel, and very comfortable, with a pleasant and muted W-ish decor. Our first room had a small kitchenette, the second did not -- here, a micro wave and a small fridge would have been welcome. The front desk staff was very helpful and very welcoming, to us and to our standard poodle. The parking was great. And the price was very reasonable, considering the quality of the place. We would recommend the Laurel enthusiastically to our friends, unless they need to be downtown.  
+<Date>Apr 9, 2008
+<Rating>5	5	4	3	5	5	5	4	
+<Aspects>
+6	15(recommend):1	146(friend):1	334(downtown):1	405(unless):1	6943(enthusiastically):1	7468(laurel):1	
+4	19(price):1	187(quality):1	248(consider):1	273(reasonable):1	
+21	1(location):1	17(view):1	25(comfortable):1	41(city):1	58(quiet):1	150(pleasant):1	202(welcome):1	267(traveler):1	269(decor):1	318(fridge):1	334(downtown):1	421(neighbourhood):1	682(usual):1	802(sf):1	836(wave):1	1165(kitchenette):1	1537(residential):1	2301(inconvenient):1	3639(unusually):1	6196(micro):1	6264(mute):1	
+9	12(friendly):1	38(lot):1	66(park):2	153(provide):1	167(choose):1	324(inn):1	802(sf):1	2477(pet):2	7468(laurel):1	
+0	
+6	0(staff):1	14(helpful):1	31(front):1	36(desk):1	130(standard):1	202(welcome):1	
+0	
+0	
+
+<Author>TooTiredToTravel
+<Content>Decent value in an Expensive City I visited San Francisco for three nights and booked the Laurel Inn because I wanted out of the Union Square/Fisherman's Wharf orbit. The area around the hotel is very pleasant, but you obviously don't come here for the nightlife. My room was ok. It is evident the management has tried to put a dress on a pig, but in some ways they have succeeded and some ways not. There is no A/C, but in the winter that is not really an issue. There was a wall heater that required some fiddling as there is no conventional thermostat. I had standard, albeit velour, drapes and blinds in my room....each on half of the window for a unique window treatment. The TV was a widescreen....about a 37-incher I'd guess and quite nice. The floor squeeked like crazy and there was an apparent water stain down one wall of the room. There is no free internet, and, although Wi-Fi is available, ATT will naturally soak you for signing up for 24 hrs. (Tip: go to the library 1 and 1/2 blocks away on Sacramento St.) The staff is helpful, and the complimentary continental breakfast is passable. All in all, I might consider staying here again.  
+<Date>Jan 6, 2008
+<Rating>3	4	2	3	2	4	4	1	
+<Aspects>
+6	150(pleasant):1	248(consider):1	265(issue):1	781(obviously):1	1305(nightlife):1	1599(winter):1	
+14	2(night):1	18(book):1	41(city):1	65(visit):1	81(value):1	124(expensive):1	139(square):1	177(san):1	257(decent):1	324(inn):1	355(francisco):1	451(union):1	784(wharf):1	7468(laurel):1	
+19	4(nice):1	24(floor):1	57(water):1	116(tv):1	119(window):2	123(ok):1	130(standard):1	183(wall):1	283(half):1	469(guess):1	723(stain):1	1027(unique):1	1147(treatment):1	1259(crazy):1	1839(blind):1	2083(albeit):1	2501(drape):1	3039(apparent):1	8451(widescreen):1	
+6	183(wall):1	722(require):1	2361(heater):1	2547(thermostat):1	7966(fiddle):1	8246(conventional):1	
+0	
+17	0(staff):1	6(breakfast):1	14(helpful):1	100(bloc):1	194(tip):1	253(tried):1	345(complimentary):1	372(continental):1	525(management):1	655(st):1	935(dress):1	1648(library):1	3278(evident):1	3911(pig):1	4247(passable):1	5717(succeed):1	11897(sacramento):1	
+0	
+9	46(free):1	97(internet):1	134(available):1	449(sign):1	1464(hr):1	1468(soak):1	1827(wi-fi):1	3710(naturally):1	6573(att):1	
+
+<Author>SantaCruzSequoia
+<Content>Little Hotel with Flare This is a little gem on the corner of California and Presidio. Nice neighborhood. Safe, secure parking under the building. Very, very large rooms and huge bathrooms, beautifully refurbished and expertly cared for. Just nicely done. The best part of the Laurel Inn is its very pet friendly atmosphere. We often travel with our toy poodles and they are always welcome at the Laurel Inn. Charmingly professional front office staff. Small lobby with easy access to their own underground parking. Ella's Restaurant across the street is excellent...limited hours, but deliciously hearty breakfasts. Just a block away on Sacramento St. are shops, more restaurants and a movie theatre. The superb MUNI stops on either side of the Laurel Inn. Couldn't be more convenient for easy access to any other neighborhood or attraction in the city. The Laurel Inn is an absolute gem.  
+<Date>Dec 3, 2007
+<Rating>5	5	5	4	5	5	4	5	
+<Aspects>
+11	4(nice):1	68(travel):1	122(stop):1	202(welcome):1	324(inn):2	404(nicely):1	407(superb):1	421(neighbourhood):1	2181(muni):1	2589(toy):1	7468(laurel):2	
+5	12(friendly):1	324(inn):1	414(atmosphere):1	2477(pet):1	7468(laurel):1	
+6	13(bathroom):1	133(huge):1	242(care):1	771(beautifully):1	1253(refurbish):1	9201(expertly):1	
+9	55(lobby):1	66(park):2	93(easy):1	135(build):1	137(safe):1	159(access):1	166(own):1	1034(secure):1	1085(underground):1	
+0	
+5	0(staff):1	31(front):1	501(professional):1	792(office):1	8515(charmingly):1	
+23	6(breakfast):1	10(restaurant):2	21(excellent):1	23(little):2	35(street):1	49(shop):1	60(hour):1	100(bloc):1	200(corner):1	324(inn):1	510(limit):1	635(theater):1	655(st):1	805(gem):2	989(movie):1	1250(absolute):1	1656(california):1	4045(hearty):1	6814(presidio):1	7468(laurel):1	7973(flare):1	9771(deliciously):1	11897(sacramento):1	
+6	41(city):1	93(easy):1	159(access):1	186(convenient):1	350(attraction):1	421(neighbourhood):1	
+
+<Author>avocadolady
+<Content>Good experience I chose this hotel because of its close proximity to the Pacific Surgical center and because of its reasonable parking rate. It was a good choice. The desk staff was helpful in all respects, recommending excellent but moderately priced restaurants. They also knew the area well and guided me to practical shopping areas for specific purchases. There was plenty of good hot coffee included in the continental breakfast. The room was perfect for a day of post surgery recovery, with plenty of space, plus a microwave and refrigerator. We will stay here again, even when not going to the surgical center.  
+<Date>Nov 4, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+1	107(choice):1	
+10	8(day):1	74(perfect):1	158(plenty):1	203(plus):1	210(space):1	644(post):1	820(microwave):1	916(refrigerator):1	5984(surgery):1	6710(recovery):1	
+14	28(close):1	44(experience):1	49(shop):1	66(park):1	78(rate):1	101(center):1	167(choose):1	273(reasonable):1	829(guide):1	887(purchase):1	1114(proximity):1	1575(pacific):1	1848(specific):1	3107(practical):1	
+0	
+9	0(staff):1	10(restaurant):1	14(helpful):1	15(recommend):1	19(price):1	21(excellent):1	36(desk):1	1389(respect):1	3195(moderately):1	
+6	6(breakfast):1	71(include):1	90(coffee):1	114(hot):1	158(plenty):1	372(continental):1	
+1	101(center):1	
+
+<Author>sedmai
+<Content>180 degrees different from Union Square hotel experience This charming hotel is quiet and pleasant, but it is quite removed from the tourist areas and hustle and bustle. If you intend to spend most of your time near the waterfront and Union Square, this may be too far removed unless you are willing to travel by cab or bus to those areas. Bus stop for a speedy and frequent No. 1 bus is directly across the street, will deliver you to Union Square/ Chinatown/ Ferry Terminal Bldg in about 15 - 20 minutes. This hotel is located in the middle of residential neighborhoods, offering a locals experience of San Francisco.Having said that, we liked it alot! The parking garage is extremely convenient if you arrive by car, the G bar next door is a fun happy hour spot. Our room was quiet large and comfortable. Bed, pillows, linens were very comfortable. The lobby is small and often crowded, the continental breakfast is average, with alot of people competing for food and drinks during the peak time period. One elevator, it is rather slow (in case you are one of those people who really despise slow elevators).The immediate neighborhood has a few restaurants. Be sure to ask about Laurel Village, a couple of blocks away, with many more neighborhood stores and restaurants. About 10 minutes into town on the No. 1 bus is New Fillmore (at Fillmore and California) with several terrific restaurants in a couple of block stretch. Try The Grove.We had a large and comfortable room with a great view for $180 per night, including continental breakfast. Parking an extra $15/day. This is a joi de vivre hotel, we made use of their San Francisco Greeter program -- EXCELLENT! Loved it, so glad that we did it. A wonderful volunteer, 20 year resident of the neighborhood, met us at hotel lobby and took us on a delightful walking tour of the area and then taught us the system with the bus and escorted us to a few tourist highlights. Can't say enough good things about how nice that was.If you are traveling with teens or with persons who are primarily interested in shopping and entertainment -- pay the extra money and stay downtown, you will be much happier.If you are traveling with persons who quickly grow weary of crowds, lines, noise, jostling, this is a pleasant oasis to use as a base for excursions INTO the more lively areas of the city.Service was good, facility is spotlessly clean, and well managed. Our impression is that the hotel primarily serves out-of-town-relatives visiting people in the neighborhood, persons with business at the nearby college or Jewish Community Center, and tourists looking for a more quiet San Francisco experience. It was pretty much sold out during our stay. The photographs on the website are accurate.  
+<Date>Nov 3, 2007
+<Rating>4	5	5	3	5	4	4	-1	
+<Aspects>
+28	4(nice):1	21(excellent):1	40(love):1	41(city):1	68(travel):1	76(try):1	94(noise):1	109(pretty):1	150(pleasant):1	177(san):1	188(line):1	193(person):1	284(base):1	313(crowd):1	355(francisco):1	471(quickly):1	606(sell):1	619(glad):1	647(alot):1	734(excursion):1	1383(oasis):1	1531(program):1	1600(lively):1	1659(grow):1	3186(weary):1	3789(grove):1	6492(greeter):1	7122(vivre):1	
+20	42(pay):1	44(experience):1	49(shop):1	68(travel):1	80(money):1	84(locate):1	89(offer):1	128(extra):1	155(happy):1	177(san):1	193(person):1	195(local):1	325(middle):1	334(downtown):1	340(entertainment):1	355(francisco):1	421(neighbourhood):1	1537(residential):1	2519(primarily):1	2697(teens):1	
+29	2(night):1	5(time):1	6(breakfast):1	11(bed):1	17(view):1	25(comfortable):3	44(experience):1	58(quiet):2	64(spend):1	68(travel):1	71(include):1	102(near):1	120(bus):1	139(square):2	150(pleasant):1	209(tourist):1	303(pillow):1	332(charm):1	372(continental):1	380(cab):1	405(unless):1	451(union):2	630(linen):1	1107(bustle):1	1135(remove):2	1252(degree):1	1503(hustle):1	1859(waterfront):1	1862(intend):1	
+41	7(walk):1	10(restaurant):1	29(minute):2	35(street):1	48(wonderful):1	55(lobby):1	66(park):1	99(couple):1	100(bloc):1	120(bus):4	122(stop):1	128(extra):1	139(square):1	181(tour):1	196(meet):1	209(tourist):1	239(town):1	262(website):1	383(directly):1	421(neighbourhood):1	451(union):1	518(system):1	631(deliver):1	699(terrific):1	1010(ferry):1	1132(chinatown):1	1141(highlight):1	1176(delightful):1	1261(terminal):1	1355(frequent):1	1586(stretch):1	1656(california):1	1785(accurate):1	1988(resident):1	2005(escort):1	2735(teach):1	3223(bldg):1	3632(speedy):1	3673(photograph):1	5541(volunteer):1	7934(fillmore):2	
+0	
+0	
+40	3(clean):1	5(time):1	6(breakfast):1	9(service):1	10(restaurant):2	16(food):1	26(people):2	27(bar):1	53(arrive):1	54(door):1	55(lobby):1	60(hour):1	63(drink):1	66(park):1	99(couple):1	100(bloc):1	110(extremely):1	121(car):1	155(happy):1	176(fun):1	186(convenient):1	211(facility):1	216(elevator):2	227(average):1	255(store):1	313(crowd):1	317(spot):1	372(continental):1	421(neighbourhood):2	455(slow):2	645(manage):1	647(alot):1	936(garage):1	1087(village):1	1094(spotlessly):1	1331(period):1	1710(peak):1	1761(immediate):1	3941(compete):1	7468(laurel):1	
+19	20(look):1	26(people):1	44(experience):1	58(quiet):1	65(visit):1	101(center):1	147(business):1	174(serve):1	177(san):1	193(person):1	209(tourist):1	232(nearby):1	355(francisco):1	421(neighbourhood):1	848(impression):1	1925(college):1	2519(primarily):1	3502(community):1	6785(jewish):1	
+
+<Author>Kathbel
+<Content>Relaxation after all those hills! We stayed here after travelling around CA in Sept 07 and wanted somewhere nice to stay before our long flight the next day. The room was big (if a little warm), cozy and the bed was fab. We had the city view room which was nice. The room was big with a big TV. The bathroom, especially the shower was great too. Would definately recommend.  
+<Date>Oct 9, 2007
+<Rating>4	4	4	3	4	5	4	-1	
+<Aspects>
+4	15(recommend):1	410(definately):1	756(hill):1	1662(relaxation):1	
+0	
+16	4(nice):2	8(day):1	11(bed):1	13(bathroom):1	17(view):1	23(little):1	41(city):1	61(shower):1	68(travel):1	116(tv):1	126(especially):1	233(flight):1	236(warm):1	749(cozy):1	1216(fab):1	1804(sept):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>jaybyrd10
+<Content>cute boutique hotel My family and I just returned from a stay in the hotel and found it very charming. The room decor was modern and was clean. The room was bigger than a standard hotel room with a nice kitchenette nook and separate dressing area. At first we were concerned because they don't have air conditioning but with the cool SF nights it was not needed, however the room windows did not open wide enough to provide great air flow. The room was a bit stuffy when we entered and it took a while (by leaving the room door open) to let it air out. The mid-afternoon lemonade and cookies is a nice touch. There was ample free parking and most staff members were helpful, while one, a woman, seemed bothered or struggled with our questions for directions. The hotel is located in a cute residential neighborhood with shops and a few cafes within walking distance, though some a good ten to fifteen minute walk. A fuse did blow while the TV and the microwave was simultaneously on and someone came up right away to return power. overall we would stay again.  
+<Date>Aug 29, 2007
+<Rating>4	3	3	4	3	3	3	-1	
+<Aspects>
+6	4(nice):1	70(overall):1	279(touch):1	1173(cookie):1	4903(lemonade):1	5943(mid-afternoon):1	
+0	
+31	2(night):1	3(clean):1	4(nice):1	39(return):1	43(leave):1	52(bit):1	54(door):1	116(tv):1	119(window):1	130(standard):1	151(modern):1	153(provide):1	164(air):3	263(condition):1	269(decor):1	278(cool):1	474(separate):1	496(concern):1	601(enter):1	802(sf):1	820(microwave):1	860(wide):1	935(dress):1	1146(blow):1	1165(kitchenette):1	1276(power):1	1857(stuffy):1	1942(flow):1	5483(nook):1	6921(fuse):1	8680(simultaneously):1	
+24	0(staff):1	7(walk):2	14(helpful):1	29(minute):1	39(return):1	46(free):1	49(shop):1	66(park):1	84(locate):1	106(family):1	115(distance):1	275(cafe):1	307(bother):1	332(charm):1	394(question):1	395(direction):1	421(neighbourhood):1	566(woman):1	623(boutique):1	1202(cute):2	1341(ample):1	1537(residential):1	1979(struggle):1	4856(fifteen):1	
+0	
+0	
+0	
+0	
+
+<Author>cubsfan73
+<Content>Best Find in SF We travelled to SF for a wedding in June 2007 and decided to travel with our small dog. The Laurel Inn was recommended to us by friends who had seen it on Citysearch as being dog-friendly, which it was. There is no extra charge for yourpet.We have stayed at the W, St. Francis, Fairmont, Hotel Rex, and Orchard Hotel in previous stays and this hotel has become our favorite.There is underground self-parking which is in the hotel building and while it is not free ($15/night), it is very convenient and safe.The rooms are very large and we had great views of the skyline. Linens are comfortable and soft. The bathroom is serviceable without the latest amenities, but certainly fine.The location of the hotel is incredible. It sits at the foot of the Presidio and is close to many trails through the park. There are a number of great restaurants and shops in the nearby pacific heights neighborhood, including a great Cuban coffee house down the street.The staff is very friendly (the desk attendant gave treats to our dog) and helpful. The morning breakfast (rolls/bagels/fruit/hardboiled eggs) is palatable and filling. There are nice touches like afternoon cookies and round the clock coffee. In summary, one could pay double or triple the amount to stay in a hotel with superfine linens, marble baths, etc and then get hit with parking/gym extras, but this hotel is very reasonable. The location and the staff makes this hotel one of those special finds. I didnt even want to write this review because I didnt want the hotel to get more crowded, but my wife forced me too....  
+<Date>Jun 29, 2007
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+10	15(recommend):1	37(review):1	146(friend):1	184(wife):1	313(crowd):1	324(inn):1	344(write):1	626(didnt):2	1550(force):1	7468(laurel):1	
+13	42(pay):1	73(etc):1	128(extra):1	179(double):1	226(bath):1	273(reasonable):1	630(linen):1	666(amount):1	705(marble):1	775(hit):1	1553(triple):1	1716(summary):1	12958(parking):1	
+14	13(bathroom):1	17(view):1	79(late):1	113(fine):1	291(amenity):1	373(previous):1	376(favourite):1	655(st):1	1670(orchard):1	2141(fairmont):1	2526(skyline):1	2900(francis):1	3870(rex):1	5334(serviceable):1	
+34	0(staff):1	1(location):2	10(restaurant):1	28(close):1	35(street):1	46(free):1	49(shop):1	66(park):1	68(travel):2	71(include):1	90(coffee):1	135(build):1	137(safe):1	169(sit):1	186(convenient):1	208(special):1	219(decide):1	232(nearby):1	281(house):1	335(numb):1	402(foot):1	421(neighbourhood):1	604(wed):1	664(june):1	718(incredible):1	802(sf):2	1085(underground):1	1126(dog):1	1575(pacific):1	2279(height):1	2507(trail):1	3803(cuban):1	3825(self-park):1	6814(presidio):1	
+3	25(comfortable):1	589(soft):1	630(linen):1	
+9	0(staff):1	12(friendly):1	14(helpful):1	36(desk):1	128(extra):1	136(charge):1	320(treat):1	1126(dog):1	1446(attendant):1	
+12	4(nice):1	6(breakfast):1	56(morning):1	90(coffee):1	279(touch):1	364(afternoon):1	412(egg):1	491(fill):1	1173(cookie):1	1291(clock):1	9105(palatable):1	9260(hardboil):1	
+0	
+
+<Author>dedegirrl
+<Content>Great Place! My friends and I stayed at the Laurel Inn on New Years Eve. The hotelhad free parking and was located near some great restaurants. The rooms were clean and comfortable and were decorated very nicely. The price is also very reasonable. I would definitely return to the Laurel Inn.  
+<Date>Jun 4, 2007
+<Rating>4	4	4	4	4	3	3	-1	
+<Aspects>
+6	39(return):1	59(definitely):1	146(friend):1	324(inn):2	1787(eve):1	7468(laurel):2	
+2	19(price):1	273(reasonable):1	
+4	3(clean):1	25(comfortable):1	305(decorate):1	404(nicely):1	
+5	10(restaurant):1	46(free):1	66(park):1	84(locate):1	102(near):1	
+0	
+0	
+0	
+0	
+
+<Author>tkeefe
+<Content>Great Spot I was in SF for a training and wanted to stay in more of neighborhoodas opposed to downtown or off Lombard and the reviews of this place got my intrest. I asked for a quiet room and paid slightly more than my state per diem and recieved a room on the third floor with a fantastic view of downtown SF. Room was plenty large,which allowed to do stretching exercises and the decor made me feel like I was staying in a pretty hip place. On the negative, the tv was pretty poor (on last legs it seemed) and the room was getting a bit worn from use. Loved the location as well. Since you are in the center of the city you have pretty easy access to all the bus lines and great local resaurants are close by. I'll be staying here again I'm sure and will look forward to it.  
+<Date>Apr 11, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	20(look):1	750(forward):1	
+0	
+24	17(view):1	24(floor):1	34(feel):1	42(pay):1	52(bit):1	58(quiet):1	86(fantastic):1	109(pretty):2	116(tv):1	158(plenty):1	269(decor):1	282(negative):1	331(poor):1	334(downtown):1	359(allow):1	434(wear):1	532(third):1	598(slightly):1	802(sf):1	1421(leg):1	1459(exercise):1	1491(hip):1	1586(stretch):1	2060(recieve):1	
+20	1(location):1	28(close):1	37(review):1	40(love):1	41(city):1	93(easy):1	101(center):1	109(pretty):1	120(bus):1	159(access):1	182(train):1	188(line):1	195(local):1	317(spot):1	334(downtown):1	802(sf):1	2401(oppose):1	2782(lombard):1	7824(resaurants):1	12354(intrest):1	
+0	
+0	
+0	
+0	
+
+<Author>chibimaru
+<Content>Beautiful! I stayed here 2 nights (Friday/Saturday) as part of a wedding block. The rooms are generously sized with very soft linens! Rooms were very clean. More lighting would have been nice as it was a bit dark, but it wasn't critical. Aveda Rosemary Mint bath products were a definite bonus! Very friendly staff. Very conveniently located with a great bar (G bar) next door. We had a front facing room on the 2nd floor and we were actually surprised how quiet it was.  
+<Date>Sep 28, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	2(night):1	45(beautiful):1	100(bloc):1	226(bath):1	604(wed):1	849(bonus):1	923(friday):1	1081(product):1	2263(aveda):1	2369(definite):1	3856(mint):1	10327(rosemary):1	
+0	
+16	3(clean):1	4(nice):1	24(floor):1	31(front):1	52(bit):1	58(quiet):1	83(size):1	157(light):1	180(actually):1	199(surprise):1	459(dark):1	589(soft):1	630(linen):1	1326(2nd):1	3452(critical):1	4098(generously):1	
+4	27(bar):2	54(door):1	84(locate):1	1070(conveniently):1	
+0	
+2	0(staff):1	12(friendly):1	
+0	
+0	
+
+<Author>radiology_woman
+<Content>Nice room, very noisy I had to stay here for an interview. The free parking was nice. I needed to sleep. That did not happen. The jazz bar downstairs is extremely noisy. When I complained, they told me they had a right to play loud music. I only fell asleep after the bar shut. The room itself was nice.  
+<Date>Aug 17, 2006
+<Rating>3	3	4	3	4	3	1	3	
+<Aspects>
+6	69(tell):1	241(complain):1	382(happen):1	386(play):1	398(music):1	416(loud):1	
+0	
+11	4(nice):2	27(bar):2	104(sleep):1	110(extremely):1	217(noisy):2	587(fall):1	691(downstairs):1	1086(shut):1	1563(jazz):1	2123(asleep):1	8583(interview):1	
+3	4(nice):1	46(free):1	66(park):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Loved it. My wife and I spent one night at the Laurel Inn when we first arrived in San Francisco. We were there one night before heading to Napa Valley for a couple of days, and then returning to SF for a conference in the Union Square area. We wanted to stay in a different part of the city than Union Square, as we wouldn't have a car later in the week. The Laurel Inn was an excellent value, in a great location. Near the Presidio, and the western beaches, it allowed us a chance to explore that part of the city. The room was pretty, with classy, comtemporary decorations, very quiet, and very roomy. It had a little bit of a view of the downtown skyline, free parking, and free coffee and juice in the lobby. It is close to several quite good restaurants. It was also very fairly priced. We would definately stay there again.  
+<Date>Mar 2, 2006
+<Rating>5	5	5	-1	5	-1	4	-1	
+<Aspects>
+10	2(night):1	40(love):1	53(arrive):1	64(spend):1	177(san):1	184(wife):1	324(inn):1	355(francisco):1	410(definately):1	7468(laurel):1	
+7	1(location):1	19(price):1	21(excellent):1	81(value):1	324(inn):1	462(fairly):1	7468(laurel):1	
+20	2(night):1	8(day):1	39(return):1	41(city):1	58(quiet):1	75(week):1	79(late):1	99(couple):1	109(pretty):1	121(car):1	139(square):2	451(union):2	794(conference):1	802(sf):1	1353(roomy):1	1437(heading):1	1488(classy):1	1580(decoration):1	2569(valley):1	4931(napa):1	
+10	10(restaurant):1	28(close):1	30(beach):1	41(city):1	102(near):1	359(allow):1	594(explore):1	689(chance):1	1015(western):1	6814(presidio):1	
+0	
+0	
+10	17(view):1	23(little):1	46(free):2	52(bit):1	55(lobby):1	66(park):1	90(coffee):1	334(downtown):1	362(juice):1	2526(skyline):1	
+0	
+
+<Author>MiMi58
+<Content>Great find This hotel is a great deal for San Francisco. The price is right (with free parking), it's in a lovely neighborhood away from the crowds, and has terrific modern decor (quite refreshing from traditional hotel furniture). Even the continental breakfast is a step up. We would definetly stay here again.  
+<Date>Jan 16, 2006
+<Rating>5	5	5	-1	5	-1	4	-1	
+<Aspects>
+4	140(deal):1	177(san):1	355(francisco):1	1964(definetly):1	
+0	
+12	19(price):1	46(free):1	66(park):1	87(lovely):1	151(modern):1	269(decor):1	313(crowd):1	421(neighbourhood):1	440(furniture):1	699(terrific):1	1241(traditional):1	1271(refresh):1	
+0	
+0	
+0	
+3	6(breakfast):1	366(step):1	372(continental):1	
+0	
+
+<Author>LostinAustin
+<Content>it was just ok Cost: $155/nightPros: free covered parking; convenient location; reasonable neighborhood; clean; Cons: small room; furniture, paint, bed linens need replacement/facelift; pillows uncomfortable; complimentary breakfast selection minimal and below average quality We'd stayed at the White Swan Inn on previous visit (owned by same hotel company) and were hoping the Laurel Inn would be of similar quality. Relatively speaking, the Laurel Inn was a disappointment. It was an OK place to stay, nothing more. We had a city view which was pleasant.  
+<Date>Nov 8, 2005
+<Rating>3	3	3	-1	3	-1	3	-1	
+<Aspects>
+9	17(view):1	41(city):1	123(ok):1	127(speak):1	150(pleasant):1	324(inn):1	866(disappointment):1	913(relatively):1	7468(laurel):1	
+0	
+35	1(location):1	3(clean):1	6(breakfast):1	11(bed):1	46(free):1	65(visit):1	66(park):1	123(ok):1	166(own):1	175(cost):1	186(convenient):1	187(quality):2	227(average):1	273(reasonable):1	303(pillow):1	324(inn):2	328(hope):1	333(selection):1	345(complimentary):1	373(previous):1	421(neighbourhood):1	440(furniture):1	466(white):1	552(cover):1	585(below):1	630(linen):1	760(company):1	806(paint):1	840(Con):1	856(uncomfortable):1	874(similar):1	1615(minimal):1	2593(replacement):1	3228(swan):1	7468(laurel):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>wise2374
+<Content>Nice enough mid-level hotel in Pacific Heights If you're looking to stay in the Pacific Heights area, this is probably your best bet. Otherwise, there's no real reason to stay this far from the rest of the action - but if you do, it's a nice enough place.The hotel is bright and pretty charming, with lots of color in the comfortable rooms. Furnishings are also colorful and fun, and are decent enough. The atmosphere is held back a touch by the fact that this looks to be a relatively old motel-style building, so while the spit and polish work nicely, they don't quite cover it all.Free parking is a nice touch in SF. Staff was memorably friendly and helpful.In the end, if I had to stay in the area again, I'd probably stay here. Otherwise, I'd prefer other areas of the city.  
+<Date>Oct 9, 2005
+<Rating>3	3	3	-1	4	-1	3	-1	
+<Aspects>
+14	4(nice):2	20(look):1	41(city):1	178(probably):2	240(real):1	288(rest):1	374(reason):1	508(otherwise):2	536(prefer):1	958(action):1	1575(pacific):2	1821(bet):1	2279(height):2	10483(mid-level):1	
+10	20(look):1	135(build):1	279(touch):1	404(nicely):1	414(atmosphere):1	552(cover):1	593(hold):1	913(relatively):1	2699(polish):1	4699(spit):1	
+10	25(comfortable):1	38(lot):1	109(pretty):1	176(fun):1	257(decent):1	332(charm):1	870(furnishings):1	880(bright):1	942(color):1	2489(colorful):1	
+5	4(nice):1	46(free):1	66(park):1	279(touch):1	802(sf):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>liw2000
+<Content>Good hotel - we would stay there again, but not in the last room Very good hotel with a great staff! Ella's is a yummy breakfast place across the street, and across the other street there is a JCC that you pay $10 to use - huge pool, really nice locker rooms, nice big exercise room. We went almost every morning. The neighborhood is fun to walk around, with lots of consignment shops and fancy houses.NOTE: We reserved the LAST room in the hotel (we were travelling with another couple and wanted to stay in the same hotel) - do NOT reserve this room! It was in the back by the garage and very dark (although decorated OK, it felt like being in a basement). The other couple's room was a fantastic big room on the second floor with a kitchenette. The front desk kindly moved us for our last night to a really nice king room on the third floor with a view.  
+<Date>Sep 14, 2005
+<Rating>4	5	4	-1	4	-1	5	-1	
+<Aspects>
+1	56(morning):1	
+9	4(nice):2	6(breakfast):1	22(pool):1	35(street):2	42(pay):1	133(huge):1	1459(exercise):1	1798(yummy):1	3446(locker):1	
+23	0(staff):1	2(night):1	4(nice):1	17(view):1	24(floor):2	31(front):1	34(feel):1	36(desk):1	68(travel):1	86(fantastic):1	99(couple):2	123(ok):1	207(move):1	243(king):1	297(note):1	305(decorate):1	459(dark):1	506(reserve):2	532(third):1	936(garage):1	1165(kitchenette):1	1568(basement):1	2509(kindly):1	
+7	7(walk):1	38(lot):1	49(shop):1	176(fun):1	281(house):1	421(neighbourhood):1	796(fancy):1	
+0	
+0	
+0	
+0	
+
+<Author>EuroTrav
+<Content>Details keep it from being 4* We just stayed there 2 nights/2rooms and it is spacious and modern, good hotel but the details of service keep it from being a solidly above average stay. First, we had booked 2 kitchenette rooms a couple of months ago, but never received an email confirmation after phoning it in. I called back and they corrected my email address...but then still didn't get it. When we checked in, they gave us 2 rooms on two separate floors despite explicitly promising 2 3rd floor (top floor) rooms. This meant a less-good view but also running up and down the stairs. Next, the room we were in had 1/2 the view blocked by scaffolding used to paint the building, but we did not get any discount (non view rooms are less). Then, when we got to our room, it was - ahem - clear that the toilet had not been cleaned. Finally, when I called down to ask directions, they said they'd check and call back, but they never did. To be clear, these were all service problems, but the rooms were nice and very spacious for the price and for SF. There is no air conditioning, but the temperature was fine. The noise from the street through the open window, was mild to moderate as long as you have a room facing the city, not Presidio Avenue. All in all, we would probably go back, but take the service issues with good humor.  
+<Date>Jun 18, 2005
+<Rating>3	2	4	-1	2	-1	-1	-1	
+<Aspects>
+3	67(call):1	1263(correct):1	1312(address):1	
+11	4(nice):1	9(service):1	17(view):2	19(price):1	111(spacious):1	135(build):1	802(sf):1	806(paint):1	864(discount):1	1898(block):1	4736(scaffolding):1	
+35	3(clean):1	17(view):1	18(book):1	24(floor):3	32(check):1	35(street):1	41(city):1	94(noise):1	99(couple):1	113(fine):1	118(top):1	119(window):1	149(run):1	164(air):1	246(mean):1	263(condition):1	296(phone):1	302(receive):1	330(toilet):1	388(month):1	474(separate):1	498(despite):1	568(stair):1	633(ago):1	944(temperature):1	975(promise):1	1090(avenue):1	1165(kitchenette):1	1641(confirmation):1	2097(3rd):1	2936(moderate):1	3928(mild):1	6814(presidio):1	11704(explicitly):1	11919(ahem):1	
+0	
+0	
+4	32(check):1	67(call):2	341(finally):1	395(direction):1	
+10	9(service):2	111(spacious):1	151(modern):1	178(probably):1	227(average):1	265(issue):1	592(detail):2	3169(humor):1	8300(nights):1	11911(solidly):1	
+0	
+
+<Author>VacationsRGreat
+<Content>Good deal but still a city hotel       City View from "city view" room 110  
+<Date>Jun 3, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+3	17(view):2	41(city):3	140(deal):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>beckperson
+<Content>A lot like home       Laurel Inn, Room 315 (no view)  
+<Date>May 7, 2005
+<Rating>4	3	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+0	
+5	17(view):1	38(lot):1	141(home):1	324(inn):1	7468(laurel):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Location My wife and I spent three nights at the Laurel Inn. It's located in a greatneighborhood--Pacific Heights. Good restaurants nearby--Sydney's, Ella's, the Magic Flute, Garibaldi's.The Laurel Inn is cozy, with nice rooms, good-sized bathroom, comfortablebeds. An added bonus is the convenient FREE parking. The staff wasprofessional and helpful. The one drawback was the lack of a/c--fortunatefor us that it wasn't needed.The Laurel Inn was perfect for us.  
+<Date>Apr 20, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	74(perfect):1	324(inn):1	349(lack):1	1344(drawback):1	7468(laurel):1	
+0	
+6	4(nice):1	13(bathroom):1	324(inn):1	749(cozy):1	4551(good-size):1	7468(laurel):1	
+14	1(location):1	2(night):1	46(free):1	64(spend):1	66(park):1	84(locate):1	184(wife):1	186(convenient):1	324(inn):1	351(add):1	849(bonus):1	1575(pacific):1	2279(height):1	7468(laurel):1	
+0	
+2	0(staff):1	14(helpful):1	
+5	10(restaurant):1	232(nearby):1	809(sydney):1	2023(magic):1	10986(flute):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great spot! We recently stayed at the Laurel Inn to be near my nephew's apartment. It was a wonderful hotel with great staff. The rooms on the Presido Street side are quite noisy most of the night and early in the morning...so get a room at the back of the hotel if possible. The location is so nice.....great areas to walk and shop and eat. Ella's Restaurant is GREAT for breakfast!!!! Don't be alarmed by the outside look of the hotel.....it is kind of tacky! The Free parking is a great deal in this city!!!!!  
+<Date>Mar 30, 2005
+<Rating>5	3	4	-1	3	-1	4	-1	
+<Aspects>
+1	317(spot):1	
+0	
+10	2(night):1	35(street):1	56(morning):1	102(near):1	217(noisy):1	322(recently):1	324(inn):1	751(apartment):1	5824(nephew):1	7468(laurel):1	
+13	1(location):1	4(nice):1	7(walk):1	20(look):1	41(city):1	46(free):1	47(eat):1	49(shop):1	66(park):1	98(outside):1	140(deal):1	1380(alarm):1	2406(tacky):1	
+0	
+2	0(staff):1	48(wonderful):1	
+2	6(breakfast):1	10(restaurant):1	
+0	
+
+<Author>EB3
+<Content>Good value, great location In a city infamous for high hotel prices the Laurel Inn is a find. The location near Pacific Heights is a big advantage and the rooms are clean and well decorated. There is a feeling of intimacy and coziness which is hard to find in a big city. The staff are helpful and accomodating. And parking in their garage is free. The rooms overlooking Presidio Avenue are a little noisy so I would ask for a room toward the rear and/or on an upper floor. The rooms on the other side are quiet but more expensive as they have a view. When I complained about the noise I was told that the room I had been given was for internet reservations and that to get the best room and rate I should call the hotel directly.  
+<Date>Feb 7, 2005
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+5	34(feel):1	41(city):1	162(hard):1	7421(intimacy):1	11227(cosiness):1	
+10	0(staff):1	1(location):1	14(helpful):1	19(price):1	41(city):1	81(value):1	324(inn):1	549(accomodate):1	5045(infamous):1	7468(laurel):1	
+26	1(location):1	3(clean):1	17(view):1	23(little):1	24(floor):1	58(quiet):1	67(call):1	69(tell):1	78(rate):1	94(noise):1	97(internet):1	102(near):1	124(expensive):1	156(reservation):1	217(noisy):1	241(complain):1	260(overlook):1	305(decorate):1	383(directly):1	867(advantage):1	1090(avenue):1	1333(upper):1	1575(pacific):1	2007(rear):1	2279(height):1	6814(presidio):1	
+0	
+0	
+0	
+3	46(free):1	66(park):1	936(garage):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A unique place to stay One of the attractions of the Laurel Inn is that it is in a nice, more residential neighborhood, with shops and restaurants nearby. It is a bit removed from more touristy areas, such as Fisherman's Wharf and Union Square, but public transportation can get you there and back (however, while the buses ran quite frequently during the day, they are not as frequent at night and it took a while longer to get back to the hotel). Our room was 316 (two doubles with a kitchenette) with a view overlooking Presidio Avenue. The room was quite spacious and we were very impressed with the attention to detail. The furnishing, lighting and other decorative touches were done very creatively. The bathroom was small, with only a shower, but once again the amenities (Aveda products, fresh flowers, egyptian cotton towels) more than made up for it. We enjoyed the other amenities the hotel had to offer--onsite parking, continental breakfast, cookies and lemonade in the afternoon. We did find that staying next to a major city street was quite noisy during the day (those garbage collectors have early hours!), but did quiet down at night.If there was just one negative that prevents me from giving this hotel a 5-star rating, it is the inconsistency of the front desk staff. There were at least three wonderfully friendly people manning the front desk who went out of their way to be helpful. However, there were two sour people in particular who made you feel like you were imposing with every request. It is not enough of a negative to keep me from staying at this charming hotel again, but it would be nice if all the front desk personnel had the same customer service skills.  
+<Date>Aug 4, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+26	2(night):1	13(bathroom):1	17(view):1	58(quiet):1	61(shower):1	111(spacious):1	125(towel):1	157(light):1	179(double):1	197(fresh):1	260(overlook):1	279(touch):1	291(amenity):1	343(impress):1	592(detail):1	726(attention):1	778(flower):1	787(furnish):1	1081(product):1	1090(avenue):1	1165(kitchenette):1	2263(aveda):1	2842(cotton):1	5016(decorative):1	6814(presidio):1	7576(egyptian):1	
+42	2(night):1	4(nice):1	6(breakfast):1	8(day):2	10(restaurant):1	35(street):1	41(city):1	49(shop):1	51(enjoy):1	52(bit):1	60(hour):1	66(park):1	89(offer):1	120(bus):1	139(square):1	149(run):1	217(noisy):1	232(nearby):1	291(amenity):1	315(major):1	324(inn):1	350(attraction):1	364(afternoon):1	372(continental):1	379(public):1	421(neighbourhood):1	451(union):1	728(transportation):1	784(wharf):1	1027(unique):1	1135(remove):1	1148(fisherman):1	1173(cookie):1	1355(frequent):1	1470(touristy):1	1537(residential):1	1573(frequently):1	1650(garbage):1	2629(onsite):1	4903(lemonade):1	7468(laurel):1	9778(collector):1	
+0	
+23	0(staff):1	4(nice):1	9(service):1	12(friendly):1	14(helpful):1	26(people):2	31(front):3	34(feel):1	36(desk):3	78(rate):1	148(request):1	282(negative):2	332(charm):1	428(customer):1	938(particular):1	1457(personnel):1	1686(wonderfully):1	1831(5-star):1	2352(prevent):1	2611(skill):1	3066(sour):1	5904(impose):1	7293(inconsistency):1	
+0	
+0	
+
+<Author>Doubtful60
+<Content>A great hotel in a great location On arriving at 3AM after a 6 hour drive we were delighted with our room (a king kitchenette) and the view from it. The decor was tasteful and soothing, the kitchen had a full size stove and all the equipment one could need, and the whole place was spotless. (We peeked into other, smaller rooms without a view-- which are less pricey -- and they seemed just as nice.)The Inn is in a terrific neighborhood, in walking distance from the Presidio (and the Marina, if you're hardy), with a great breakfast place right across the street. Small touches like the internet station on the 2d floor, cookies  lemonade in the afternoon, and very good coffee are also appreciated.At $205 a night (including tax) the kitchenette/view rooms aren't the cheapest option in SF, but are a nice splurge. For about $50 less you can enjoy most of the same benefits without the view.  
+<Date>Jul 7, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	17(view):1	51(enjoy):1	1524(benefit):1	
+4	4(nice):1	17(view):1	546(pricey):1	3908(peek):1	
+25	1(location):1	2(night):1	4(nice):1	17(view):1	53(arrive):1	60(hour):1	71(include):1	83(size):1	143(cheap):1	243(king):1	269(decor):1	298(drive):1	336(option):1	461(kitchen):1	548(spotless):1	798(tax):1	802(sf):1	1025(delight):1	1165(kitchenette):2	1211(equipment):1	2122(tasteful):1	2358(splurge):1	2848(stave):1	3268(soothe):1	11261(3am):1	
+19	6(breakfast):1	7(walk):1	24(floor):1	35(street):1	82(station):1	90(coffee):1	97(internet):1	115(distance):1	279(touch):1	324(inn):1	364(afternoon):1	421(neighbourhood):1	500(appreciate):1	699(terrific):1	1173(cookie):1	1427(marina):1	4903(lemonade):1	6814(presidio):1	10646(hardy):1	
+0	
+0	
+0	
+0	
+
+<Author>Elarbee
+<Content>We checked out first morning I should start by saying the hotel itself may be great, but my rating was on our experience..we checked in at 10.00pm and there was no bell service available. i was tired and that kinda pissed me off...we booked a non smoking room but the floor and our room stank of cigarettes. the guy said there was nothing he could do. the next morning they told me he works for another hotel and just fills in for the night shift so he's not able to change rooms.first they tried to tell me it was a non smoking room on a smoking floor! after i stopped laughing, they said they could move us in three days time. we then went and booked into the huntington hotel.went back to the laruel inn and checked out citing we werent happy with the room or the service. when we went up to the room to get our luggage, reception called and offered us a non smoking room on a non smoking floor - which actually pissed me off even more LOL so it took us checking out before they found a solution...so as you can see, our experience was dreadful. and when im choosing a hotel i consider the experience just as important as location, rooms etc.  
+<Date>Jun 29, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	5(time):1	8(day):1	122(stop):1	207(move):1	368(guy):1	1245(laugh):1	
+9	1(location):1	32(check):1	44(experience):2	56(morning):1	73(etc):1	78(rate):1	165(start):1	167(choose):1	248(consider):1	
+31	2(night):1	9(service):1	18(book):1	24(floor):3	32(check):2	44(experience):1	56(morning):1	67(call):1	69(tell):2	89(offer):1	129(reception):1	155(happy):1	161(change):1	171(able):1	180(actually):1	249(luggage):1	253(tried):1	324(inn):1	454(tire):1	468(smoke):5	491(fill):1	1365(cigarette):1	1796(stink):1	2050(kinda):1	2431(lol):1	2479(shift):1	2800(solution):1	2895(dreadful):1	3037(werent):1	5570(piss):2	6645(cite):1	
+0	
+0	
+5	9(service):1	32(check):1	134(available):1	393(pm):1	801(bell):1	
+2	18(book):1	8333(huntington):1	
+0	
+
+<Author>skipowell
+<Content>very honest and accomodating We were driving up the coast in our camper but decided to stay in a hotel the night we were celebrating a friends 50th in SF. (Hard to get taxi service from campgrounds!) The hotel helped us find parking and the room was very nice. Pastries that were actually edible in the AM. Would stay there again! Good value  
+<Date>Jun 29, 2004
+<Rating>4	5	4	-1	4	-1	5	-1	
+<Aspects>
+3	180(actually):1	652(pastry):1	2890(edible):1	
+12	2(night):1	81(value):1	146(friend):1	219(decide):1	298(drive):1	549(accomodate):1	802(sf):1	1014(celebrate):1	1108(honest):1	1682(coast):1	3025(50th):1	4371(camper):1	
+3	4(nice):1	66(park):1	92(help):1	
+3	9(service):1	162(hard):1	185(taxi):1	
+0	
+0	
+0	
+0	
+
+<Author>aidawedo
+<Content>A great pacific heights getaway I did not know what to expect, coming to town for a meeting at usf. This hotel is so quaint, so san francisco, so comfortable. I loved the decor! The breakfast and afternoon teas and coffee were awesome. A small, quaint, lovely hotel, a lovely experience!  
+<Date>May 17, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	25(comfortable):1	62(expect):1	177(san):1	196(meet):1	239(town):1	355(francisco):1	1089(getaway):1	1295(quaint):1	1575(pacific):1	2279(height):1	
+3	44(experience):1	87(lovely):2	1295(quaint):1	
+2	40(love):1	269(decor):1	
+0	
+0	
+0	
+5	6(breakfast):1	90(coffee):1	301(tea):1	348(awesome):1	364(afternoon):1	
+0	
+

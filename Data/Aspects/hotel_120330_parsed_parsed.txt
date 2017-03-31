@@ -1,0 +1,294 @@
+<Author>Robby97
+<Content>Great Hotel Great hotel. Stayed here for a business meeting. The bed and pillows were comfortable,staff are friendly, they went above and beyond when my brother got food poisoning. they reimbursed us for the food, reccommended doctors and hospitals. They even went to the pharmacy for over the counter medication for us. We really appreciated their help.Dadeland Mall is within walking distance and Publix is across the street. The hotel will collect you from the airport and take you back. They will also take you to the mall. Metro railroad track is in back of hotel to take you around.  
+<Date>Nov 25, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	92(help):1	235(metro):1	500(appreciate):1	1001(counter):1	1766(track):1	2875(pharmacy):1	3471(medication):1	7419(railroad):1	
+0	
+11	0(staff):1	11(bed):1	12(friendly):1	16(food):1	25(comfortable):1	95(airport):1	303(pillow):1	738(beyond):1	1889(collect):1	2010(brother):1	3021(poison):1	
+8	7(walk):1	35(street):1	115(distance):1	147(business):1	196(meet):1	643(mall):2	9584(publix):1	10287(dadeland):1	
+0	
+0	
+5	16(food):1	1875(doctor):1	1911(hospital):1	2111(reccommend):1	4747(reimburse):1	
+0	
+
+<Author>mripoll
+<Content>Excellent!! Loved it!! I stayed here a week for a business meeting and everything from the food, the rooms, the employees were beyond excellent. Definitely exceeded my expectations. The Dadeland Mall is within walking distance. There is a train in the back of the hotel that will take you anywhere in Miami.  
+<Date>Nov 14, 2008
+<Rating>5	5	5	3	5	5	5	5	
+<Aspects>
+2	21(excellent):1	40(love):1	
+3	59(definitely):1	431(expectation):1	1153(exceed):1	
+7	16(food):1	21(excellent):1	75(week):1	147(business):1	196(meet):1	608(employee):1	738(beyond):1	
+6	7(walk):1	115(distance):1	182(train):1	643(mall):1	1095(miami):1	10287(dadeland):1	
+0	
+0	
+0	
+0	
+
+<Author>exec1
+<Content>Poor Management When I arrived at the hotel I was greeted by the bellman and front desk. I had made the reservation and do to some inconveniences was guarenteed an upgrade from the front desk manager. When I arrived the girl at the front desk knew nothing about this and the manager refused to speak to me. I was told he did not know who I was. Upon check out I saw this same manager, when I approached him to speak to him he was very obtuse and would not consider anything that I had to say. I would not stay at this hotel again. It seems the higher level staff is very self absorded and in it for themselves. This does not represent Marriott standards. It is also an older hotel and not in a prime location.  
+<Date>Nov 13, 2008
+<Rating>2	2	2	2	2	4	2	2	
+<Aspects>
+4	69(tell):1	130(standard):1	618(marriott):1	2535(represent):1	
+0	
+0	
+2	1(location):1	1774(prime):1	
+0	
+22	0(staff):1	31(front):3	32(check):1	36(desk):3	53(arrive):2	127(speak):2	156(reservation):1	163(upgrade):1	248(consider):1	258(manager):3	306(level):1	331(poor):1	415(greet):1	525(management):1	625(girl):1	1059(themselves):1	1103(refuse):1	1105(bellman):1	1314(self):1	1378(approach):1	1431(inconvenience):1	10013(guarenteed):1	
+0	
+0	
+
+<Author>checkme119
+<Content>Great Stay My Husband and I spent 4 nights at this hotel. It was wonderful stay, our room was on the 24th floor. It had a great view and a very comfortable bed.This hotel is very close to the Dadeland Mall and also Miami Metrorail.We had access to the concierge lounge, which serves continental breakfast daily as well as hors d'oeuvres in the afternoon.All in all we had a great stay. Will defintely stay there again  
+<Date>Aug 7, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+4	2(night):1	64(spend):1	105(husband):1	3308(defintely):1	
+0	
+6	11(bed):1	17(view):1	24(floor):1	25(comfortable):1	48(wonderful):1	2564(24th):1	
+4	28(close):1	643(mall):1	1095(miami):1	10287(dadeland):1	
+0	
+0	
+10	6(breakfast):1	159(access):1	174(serve):1	204(concierge):1	237(lounge):1	360(daily):1	364(afternoon):1	372(continental):1	3575(hor):1	6105(d'oeuvr):1	
+0	
+
+<Author>jvreeland
+<Content>Great Hotel in a Good Location I traveled to a client site that was about 3 or 4 blocks from this hotel. The hotel was very nice. There was a small glitch in their computer system when I arrived so they gave me a free comp drink from the bar while I waited. The rooms were normal Marriott rooms, nothing really special. There is a Publix Grocery store directly across the street from the hotel which was easy to grab a few snacks and drinks for the evenings. One major issue I had with the hotel was the length of time it took to get my car out of Valet. I called down each morning or evening to get my car about 5 or 10 minutes before I came down and I still ended up waiting a good 15 minutes. This turned out to be a major pain every day.  
+<Date>Jun 26, 2008
+<Rating>4	4	-1	5	4	5	5	4	
+<Aspects>
+4	4(nice):1	8(day):1	315(major):1	1481(pain):1	
+0	
+3	208(special):1	618(marriott):1	878(normal):1	
+5	1(location):1	68(travel):1	100(bloc):1	192(site):1	1952(client):1	
+6	5(time):1	121(car):1	265(issue):1	315(major):1	457(valet):1	1879(length):1	
+5	29(minute):2	56(morning):1	67(call):1	85(wait):1	121(car):1	
+10	35(street):1	63(drink):1	93(easy):1	255(store):1	383(directly):1	406(snack):1	1003(evening):1	1139(grab):1	1199(grocery):1	9584(publix):1	
+9	27(bar):1	46(free):1	53(arrive):1	63(drink):1	85(wait):1	518(system):1	555(computer):1	2942(comp):1	3121(glitch):1	
+
+<Author>LauraK2
+<Content>Lovely Stay I stayed at the Dadeland Marriott for 3 nights. I had 3 very busy days, including driving (this hotel was centrally located for me). The front desk staff were EXCELLENT - helpful to the point of giving me their phone number to call if I thought I might need driving directions after being on the road! They were also helpful to me by making photocopies, printing out maps, and giving me area information. The room was clean and I really appreciated the non-smoking rule - it was nice to leave my room and still not smell smoke, anywhere in the hotel. I ate room service after getting back in quite late each night and it was delivered in a timely manner. The first night was quite good, the second OK and the third not so great! They must change chefs nightly! The third night I ordered halibut and instead received swordfish prepared as the halibut should have been. Not only was the fish completely different (like ordering prime rib but receiving pork chops), the preparation was suited to halibut, not swordfish! Even so, I was so glad I stayed here as the location, proximity to highways, cleanliness, and helpfulness of the staff were all so important, top-notch, and appreciated!  
+<Date>Jan 26, 2008
+<Rating>4	4	4	5	4	5	3	5	
+<Aspects>
+9	2(night):2	87(lovely):1	123(ok):1	161(change):1	532(third):1	618(marriott):1	1033(nightly):1	1361(chef):1	10287(dadeland):1	
+0	
+16	2(night):1	9(service):1	47(eat):1	79(late):1	302(receive):1	542(completely):1	631(deliver):1	653(fish):1	861(suit):1	1721(manner):1	1774(prime):1	2204(pork):1	2780(rib):1	3159(timely):1	3451(chop):1	4294(preparation):1	
+15	0(staff):1	1(location):1	8(day):1	71(include):1	84(locate):1	220(busy):1	298(drive):1	500(appreciate):1	619(glad):1	854(cleanliness):1	879(centrally):1	1114(proximity):1	1870(highway):1	3011(top-notch):1	3872(helpfulness):1	
+8	3(clean):1	4(nice):1	43(leave):1	231(smell):1	468(smoke):1	500(appreciate):1	978(nonsmoking):1	1835(rule):1	
+15	0(staff):1	14(helpful):2	21(excellent):1	31(front):1	36(desk):1	67(call):1	230(road):1	296(phone):1	298(drive):1	335(numb):1	395(direction):1	649(information):1	724(map):1	1101(print):1	8465(photocopy):1	
+5	2(night):1	302(receive):1	353(instead):1	460(prepare):1	532(third):1	
+0	
+
+<Author>DianePerthshire
+<Content>shambles !!! We spent one night at this hotel at the end of September. When we arrived the check-in clerk asked 2 double doubles? to which we replied yes (there was my husband myself and two children aged 9 and 7 ) He then said oh we don't have any you'll have to have a rollaway bed put in your room. When the bed arrived it was of a single size even though we had been assured it was a double size and would fit two. When we asked repeatedly for another room or another bed we were told we are full tonight . It took several phone calls down to reception and then a visit to them to finally get another rollaway bed put in the room. The Assistant Manager okayed this even though it was against regulations to do so !!!! We had been travelling for 21 hours at this point and just wanted to get the children and ourselves to bed but we couldn' t believe the attitude of the Assistant Manager and reported this to Royal Caribbean as soon as we embarked the ship - to date( 5 weeks later) we still have not had a reply to our complaint. the hotel blamed Royal Caribbean for only telling them they needed a room the day before but Royal Caribbean claim this is rubbish. My advice? make sure you get the InterContinental Bayside as it is much nicer and right next to where Liberty of the Seas is docked !! Incidentally this happened to another Scottish couple travelling with their 21 year old daughter. Even she ended up in a rollaway bed !!  
+<Date>Nov 3, 2007
+<Rating>2	1	2	1	3	1	2	-1	
+<Aspects>
+17	2(night):1	4(nice):1	64(spend):1	68(travel):1	99(couple):1	382(happen):1	467(daughter):1	575(advice):1	758(sea):1	972(september):1	1606(intercontinental):1	2338(dock):1	2815(liberty):1	4203(bayside):1	4593(incidentally):1	8247(scottish):1	10120(shamble):1	
+0	
+43	8(day):1	11(bed):6	53(arrive):1	60(hour):1	65(visit):1	67(call):1	68(travel):1	69(tell):2	75(week):1	79(late):1	83(size):2	105(husband):1	129(reception):1	179(double):1	190(complaint):1	250(yes):1	258(manager):1	277(child):2	296(phone):1	304(single):1	312(believe):1	341(finally):1	418(soon):1	505(age):1	511(date):1	668(fit):1	753(royal):3	767(ourselves):1	821(attitude):1	838(report):1	931(caribbean):3	1077(claim):1	1349(assure):1	1392(ship):1	1811(reply):2	2112(couldn):1	2219(blame):1	2664(rubbish):1	2952(rollaway):3	3029(repeatedly):1	3044(assistant):1	5519(tonight):1	7152(embark):1	
+0	
+0	
+8	53(arrive):1	179(double):2	258(manager):1	286(check-in):1	453(okay):1	788(clerk):1	3044(assistant):1	6875(regulation):1	
+0	
+0	
+
+<Author>StuartSussex
+<Content>Great Hotel        Metrolink Station  
+<Date>Sep 4, 2007
+<Rating>4	5	4	4	5	5	5	5	
+<Aspects>
+0	
+0	
+0	
+1	82(station):1	
+0	
+0	
+0	
+0	
+
+<Author>jjstives
+<Content>AS GOOD AS IT GETS AT MARRIOTT This is a typical high rise Marriott, reasonably new, very clean and well kept, in the Miami suburb near several large malls, including Dadeland Mall. The hotel is quite a long way from both the airport and downtown Miami or the beach, so if you consider this as an airport overnight, be aware that it鈥檚 a double digit cab ride from MIA. If you are thinking beach, look for a hotel on Miami Beach, or South Beach, but this one is no where near any beach.The hotel adjoins the terminal stop of the Miami Metrorail, which is a reliable elevated rail that services communities along the SW Dade area, including Coral Gables, the University of Miami, and Coconut Grove. This is a cheap way to get around and adult fares at present (8/07) are $1.50.A lot of new construction in the area is bringing in new restaurants and small businesses, so it鈥檚 a high growth area, but seems safe to walk at night to and from the hotel and the mall. A Publix supermarket is next door as well. Check in was outstanding鈥?.the fastest and most efficient I think I have ever seen. No waiting, no delay. They had my reservation and I was on the way to my room in less than five minutes after coming in the door. I booked through Marriott's telephone reservation service and still find this more efficient than going on line because the operators can tell me a lot more than the web site will. The room I had was not on the concierge floor, but on 21, two floors below, with concierge access. This was fine and seemed less noisy than the 22 and 23 floors, which had direct access to the concierge lounge on 23. As a personal observation, I would like to see Marriott restrict concierge access to people over 18, (after all, they are serving/selling alcohol), as this is one of many concierge lounges I have visited where the kids more or less take over the place as a TV and food area, making it very hard to do any business work or just relax. I find it interesting that Marriott places no restrictions on children, but prohibits pets. Room layout was super, with a well appointed king. The large, wall mounted, flat screen TV was the first I have found in a hotel room. A direct internet connection terminal on the work desk had wireless keyboard and flat panel screen鈥hen it worked. Direct, plug in internet access, if you have your own laptop, was a flat $10 a day, noon to noon. I did not use that option because the desktop worked for most of the three days I was there. Dressing area with a cotton robe and plenty of toiletries and clean, heavy towels, plus a toilet/shower room were well kept and clean. Another nice amenity was an espresso machine on the dresser that allows you to make one or more cups of pretty good coffee as you want it. There was a conventional coffee maker in the cabinet as well. I did not use any food services, but the lobby lounge was large and seemed to be doing a good, lively business. Overnight parking is $17. Valet service was courteous and efficient. This was off-season and the single room rate was slightly under $200, which makes it a bargain these days for this level of comfort, safety and facilities. On my personal Hotel Perfection Scale, I would rate this one at this time at 98% or slightly higher as I had no problems with anything during my stay.  
+<Date>Aug 12, 2007
+<Rating>5	5	5	3	5	5	5	3	
+<Aspects>
+7	277(child):1	401(efficient):1	499(fast):1	618(marriott):1	2477(pet):1	5374(restriction):1	7100(prohibit):1	
+3	143(cheap):1	556(adult):1	1112(fare):1	
+44	3(clean):2	5(time):1	8(day):1	24(floor):3	29(minute):1	54(door):1	78(rate):2	113(fine):1	116(tv):1	125(towel):1	156(reservation):1	158(plenty):1	159(access):2	183(wall):1	203(plus):1	204(concierge):3	211(facility):1	217(noisy):1	237(lounge):1	243(king):1	304(single):1	306(level):1	330(toilet):1	464(super):1	526(screen):1	535(flat):1	579(appoint):1	585(below):1	598(slightly):2	657(toiletry):1	702(comfort):1	711(personal):1	759(bargain):1	803(direct):1	935(dress):1	1046(robe):1	1186(heavy):1	1448(safety):1	1453(layout):1	2269(perfection):1	2428(scale):1	2794(mount):1	2842(cotton):1	5716(off-season):1	
+47	2(night):1	3(clean):1	7(walk):1	9(service):1	10(restaurant):1	18(book):1	20(look):1	30(beach):5	38(lot):2	54(door):1	66(park):1	69(tell):1	71(include):1	95(airport):2	102(near):2	137(safe):1	142(bring):1	147(business):1	156(reservation):1	179(double):1	188(line):1	192(site):1	218(ride):1	248(consider):1	334(downtown):1	380(cab):1	401(efficient):1	578(reasonably):1	583(construction):1	618(marriott):3	628(typical):1	643(mall):3	769(south):1	832(aware):1	1019(web):1	1078(supermarket):1	1095(miami):3	1171(overnight):2	1436(rise):1	1692(telephone):1	2167(operator):1	3739(suburb):1	5051(mia):1	9584(publix):1	10287(dadeland):1	10614(digit):1	10786(growth):1	
+4	9(service):1	401(efficient):1	457(valet):1	483(courteous):1	
+7	8(day):1	32(check):1	85(wait):1	336(option):1	534(outstanding):1	1351(delay):1	9952(desk-top):1	
+47	4(nice):1	9(service):2	16(food):2	26(people):1	55(lobby):1	65(visit):1	71(include):1	90(coffee):2	109(pretty):1	116(tv):1	122(stop):1	147(business):2	159(access):1	160(relax):1	162(hard):1	201(kid):1	204(concierge):2	237(lounge):2	291(amenity):1	359(allow):1	493(machine):1	618(marriott):1	711(personal):1	800(cup):1	996(maker):1	1095(miami):2	1261(terminal):1	1267(alcohol):1	1412(adjoin):1	1600(lively):1	1755(rail):1	1930(coral):1	1938(coconut):1	2128(dresser):1	2324(espresso):1	2381(university):1	2416(reliable):1	2563(cabinet):1	3337(observation):1	3502(community):1	3789(grove):1	4113(restrict):1	5185(elevate):1	7538(serving):1	8246(conventional):1	9676(gable):1	11159(sw):1	
+17	8(day):1	36(desk):1	97(internet):2	159(access):1	166(own):1	526(screen):1	535(flat):2	717(wireless):1	803(direct):2	932(connection):1	1111(laptop):1	1174(plug):1	1261(terminal):1	1309(noon):2	2134(panel):1	4439(keyboard):1	4570(hen):1	
+
+<Author>pilot2643
+<Content>Disapppointed I booked this directly on the Marriott site. Upon arrival, I was informed by the desk clerk that I had been upgraded to the concierge level. I thought nice. Went up to room, where I found the concierge desk three feet from my door. The entrance to the room is right off the elevator in the area where the concierge sits and they serve food. Not even down a hallway. What followed was loud groups of people coming up to get their refreshments and talk. Very loud talk. And every time my wife and I exited the room, all heads swung toward our room as we opened the door. Very uncomfortable feeling, although the bed was very comfortable. Bathroom was microscopic, and room for only one person at a time. For 200+ per night, I don't think this property is worth it and I would not stay there again. The hotel looks very tired and is obviously an aging property. The bell staff was very nice though. You have to use them to park your car (17.00 per day extra) because there is no self parking other than a garage next door.  
+<Date>Aug 5, 2007
+<Rating>2	-1	1	4	4	3	4	4	
+<Aspects>
+7	4(nice):1	26(people):1	371(talk):2	416(loud):2	482(follow):1	580(hallway):1	3295(refreshment):1	
+0	
+13	5(time):2	11(bed):1	13(bathroom):1	25(comfortable):1	34(feel):1	54(door):1	184(wife):1	193(person):1	319(head):1	856(uncomfortable):1	1354(exit):1	2696(swing):1	9901(microscopic):1	
+4	18(book):1	192(site):1	383(directly):1	618(marriott):1	
+0	
+12	0(staff):1	4(nice):1	36(desk):2	54(door):1	163(upgrade):1	204(concierge):2	224(arrival):1	306(level):1	402(foot):1	788(clerk):1	801(bell):1	817(inform):1	
+20	2(night):1	8(day):1	16(food):1	20(look):1	54(door):1	66(park):2	96(worth):1	121(car):1	128(extra):1	169(sit):1	174(serve):1	204(concierge):1	214(property):2	216(elevator):1	454(tire):1	490(entrance):1	505(age):1	781(obviously):1	936(garage):1	1314(self):1	
+0	
+
+<Author>mk407
+<Content>Not worth the price Stayed here for business for 3 nights. Way overpriced ($200+/night during my stay); there is no self-parking - only valet in the parking garage was available which is $17-19/night. Hotel staff were nice and helpful. Hotel exterior  interior looks nice. My room was on the 14th floor; had a nice view facing downtown Miami. Internet access in room was not free; had to ask for a refridgerator, which was old and made a weird noise. Room was a little older (carpet  walls), but clean. Bathroom area was okay. Location was good and near a number of restaurants; also, the Dadeland mall is down the street. Alot of construction (new condos  high rises) in the area was going on during my stay. Did not visit any of the amenities. Would not stay here again because of the price paid.  
+<Date>Jun 13, 2007
+<Rating>3	2	3	4	3	3	3	2	
+<Aspects>
+10	4(nice):1	20(look):1	65(visit):1	291(amenity):1	583(construction):1	647(alot):1	1026(interior):1	1436(rise):1	1828(exterior):1	4074(condos):1	
+5	2(night):1	19(price):2	42(pay):1	96(worth):1	147(business):1	
+12	3(clean):1	4(nice):1	13(bathroom):1	17(view):1	23(little):1	24(floor):1	183(wall):1	334(downtown):1	396(carpet):1	453(okay):1	1095(miami):1	1998(14th):1	
+7	1(location):1	10(restaurant):1	35(street):1	102(near):1	335(numb):1	643(mall):1	10287(dadeland):1	
+0	
+3	0(staff):1	4(nice):1	14(helpful):1	
+7	2(night):2	66(park):1	134(available):1	457(valet):1	727(overprice):1	936(garage):1	3825(self-park):1	
+6	46(free):1	94(noise):1	97(internet):1	159(access):1	1611(weird):1	3851(refridgerator):1	
+
+<Author>mediaminx
+<Content>Advance warning My family booked three rooms at the Marriott Dadeland. We were part of a wedding party of over 40 out-of-town guests and the bride  groom had chosen this hotel due to proximity of the wedding. The check-in process was chaotic and we did not get into our rooms until 2 hours after normal check-in. I had booked the rooms 2 months in advance and the hotel knew about this wedding at least 8 months in advance. Furthermore, I had called 24 hours before to check on the rooms and request early check-in due to the hectic wedding rehearsal schedule that day. The excuse given for the late check-in was that we wanted our rooms on the same floor. I think that is was poor planning and prioritizing on their part. To add insult to injury, one of my family members was charged $250 for smoking in their. room. We were not told about this fee when I called to make reservations and requested smoking rooms; when we checked in; not posted on their website. However, there are tiny cards with fine print in the rooms to let you know! Ironically, two other members of our party smoked in their rooms and they were not charged the fee. So...smokers beware of the Marriott chain in Florida! By the way, I did look up the Florida Non-smooking Law and the penalty is $100. I guess Marriott needs the extra revenue to recover the room. In addition, you can hear other guests using the bathrooms from other rooms. Upon checking out, I was given the wrong keys to the car by the valet. From a world traveller and Miami native, I recommend that you stay away from this hotel! Try the Hampton Inn nearby.  
+<Date>Mar 4, 2007
+<Rating>1	1	2	3	2	1	2	1	
+<Aspects>
+15	15(recommend):1	20(look):1	76(try):1	221(plan):1	232(nearby):1	267(traveler):1	272(world):1	324(inn):1	331(poor):1	1095(miami):1	2236(hampton):1	2365(florida):1	2390(native):1	2619(law):1	6055(penalty):1	
+0	
+35	13(bathroom):1	18(book):2	24(floor):1	79(late):1	91(guest):2	106(family):1	113(fine):1	128(extra):1	132(hear):1	136(charge):1	167(choose):1	259(due):1	286(check-in):1	292(card):1	338(tiny):1	363(party):2	388(month):2	468(smoke):1	469(guess):1	584(fee):1	604(wed):3	618(marriott):2	679(warn):1	685(advance):3	918(addition):1	1101(print):1	1114(proximity):1	1965(excuse):1	3020(recover):1	3403(groom):1	4142(bride):1	6350(ironically):1	8169(revenue):1	10287(dadeland):1	12468(out-of-town):1	
+0	
+16	32(check):1	106(family):1	121(car):1	136(charge):1	339(key):1	351(add):1	427(wrong):1	457(valet):1	468(smoke):1	618(marriott):1	627(chain):1	737(beware):1	2226(smoker):1	2365(florida):1	2809(insult):1	4397(injury):1	
+21	8(day):1	32(check):2	60(hour):2	67(call):2	69(tell):1	148(request):2	156(reservation):1	259(due):1	262(website):1	286(check-in):3	468(smoke):1	584(fee):1	604(wed):1	644(post):1	878(normal):1	1196(schedule):1	1222(process):1	2732(hectic):1	3360(furthermore):1	4017(chaotic):1	9203(rehearsal):1	
+0	
+0	
+
+<Author>plechadores
+<Content>A Heavenly Hotel       Bathroom Sink  
+<Date>Dec 24, 2006
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+3	13(bathroom):1	509(sink):1	1609(heavenly):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>TrvlrX
+<Content>Do NOT host an event here The rooms and lobby of this property are fine - not overly good or overly bad. I must warn you not to host an event here under any circumstances! I host 20 events per year at hotels around the US and Canada. this is the worst property i have ever had the misfortune to deal with.  
+<Date>Feb 24, 2006
+<Rating>1	1	-1	-1	-1	-1	1	-1	
+<Aspects>
+5	679(warn):1	1106(event):2	1283(host):2	1384(canada):1	3043(circumstance):1	
+0	
+0	
+0	
+0	
+0	
+9	50(bad):2	55(lobby):1	113(fine):1	140(deal):1	214(property):2	1106(event):1	1283(host):1	1345(overly):2	5238(misfortune):1	
+0	
+
+<Author>nbaker7952
+<Content>Good Experiance This is a great hotel, good looking and well kept, unfortunately the area it is in although it seems safe is undergoing alot of construction at the moment and is clearly going to be something better in years to come.There is a mall that you can see from the hotel but it is a 10 minute walk across a busy street unless you take the complimentary shuttle. Problem with the shuttle it does'nt come back and get you so you will probably have to walk at some point.The mall has a bit of everything and a great food hall which was beneficial as a single traveller.The hotel offers free internet access in the lobby which makes life alot easier for people like me that use the net frequently.The rooms were very clean and of a good standard, the staff were freindly and helpful however, I lost my passport on the metro mover in downtown Miami and although the staff assisted me in getting a few numbers for embassies etc they failed on the basics of where to get photos done etc (even though there was one next door!).The hotel is well connected, free shuttle from the airport and a train station attached to the hotel whcih can get you downtown in 20 minutes.Felt quite safe here and would probably use the hotel again as first choice, a very welcome choice from staying Downtown.  
+<Date>Jan 28, 2006
+<Rating>4	3	4	-1	4	-1	3	-1	
+<Aspects>
+8	20(look):1	137(safe):1	524(unfortunately):1	583(construction):1	647(alot):1	670(moment):1	2086(undergo):1	5339(experiance):1	
+6	34(feel):1	107(choice):2	137(safe):1	178(probably):1	202(welcome):1	334(downtown):1	
+18	0(staff):2	3(clean):1	14(helpful):1	54(door):1	73(etc):2	130(standard):1	235(metro):1	334(downtown):1	596(lose):1	761(photo):1	1095(miami):1	1265(assist):1	1576(fail):1	1768(embassy):1	1975(passport):1	2469(basics):1	2779(freindly):1	11562(mover):1	
+23	7(walk):2	16(food):1	29(minute):2	35(street):1	46(free):1	52(bit):1	82(station):1	95(airport):1	178(probably):1	182(train):1	220(busy):1	267(traveler):1	304(single):1	321(shuttle):3	334(downtown):1	345(complimentary):1	405(unless):1	616(hall):1	643(mall):2	841(connect):1	1224(attach):1	8387(whcih):1	8699(beneficial):1	
+0	
+0	
+0	
+11	26(people):1	46(free):1	55(lobby):1	89(offer):1	93(easy):1	97(internet):1	159(access):1	426(life):1	647(alot):1	1573(frequently):1	2076(net):1	
+
+<Author>A TripAdvisor Member
+<Content>Get the yummy fruit basket dessert via room service I stay at this hotel frequently when I travel for business. Some of the rooms are particularly unique...there is a suite on the top floor (the Presidential suite, maybe?) that is like a small apartment..it has a pull down bed, which is interesting. Some of the rooms on 7 (pool level) are nice if you are a smoker...you have a sliding glass door out to the pool area with a small private iron table..you can eat breakfast out there which is very pleasant..although poolside rooms can sometimes feel a bit humid and chloriney. The service is excellent, and the food from the restaurant is great. I recommend ordering room service, especially the fruit basket dessert which is served in a lovely, crunchy praline basket. Delicious! If you do want to get out of the hotel, there is a wonderful Italian restaurant within walking distance on US1 (Dixie Highway. Ask the concierge..they'll know.  
+<Date>Nov 30, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	485(delicious):1	
+0	
+24	9(service):1	11(bed):1	24(floor):1	34(feel):1	52(bit):1	68(travel):1	108(suite):2	118(top):1	147(business):1	215(fruit):1	308(maybe):1	512(via):1	553(particularly):1	560(sometimes):1	751(apartment):1	858(pull):1	1027(unique):1	1180(dessert):1	1430(poolside):1	1573(frequently):1	1798(yummy):1	1825(humid):1	1865(basket):1	5569(presidential):1	
+6	7(walk):1	10(restaurant):1	48(wonderful):1	115(distance):1	358(italian):1	1870(highway):1	
+10	4(nice):1	22(pool):2	54(door):1	229(table):1	306(level):1	327(glass):1	492(private):1	868(iron):1	1142(slide):1	2226(smoker):1	
+1	204(concierge):1	
+16	6(breakfast):1	9(service):2	10(restaurant):1	15(recommend):1	16(food):1	21(excellent):1	47(eat):1	87(lovely):1	126(especially):1	150(pleasant):1	174(serve):1	215(fruit):1	1180(dessert):1	1865(basket):2	12763(crunchy):1	12791(praline):1	
+0	
+
+<Author>canelaw99
+<Content>5 Star Service for a wedding My husband and I got married here in March, 2004, and I felt like such a VIP the whole week leading up to the wedding. All of the staff knew who I was, and anything that we needed was taken care of immediately. My parents stayed here most of that week, and will definitely stay there again. The service is amazing at this hotel. I highly recommend it.  
+<Date>Nov 9, 2004
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+5	15(recommend):1	59(definitely):1	75(week):1	138(highly):1	1197(parent):1	
+10	9(service):1	34(feel):1	75(week):1	103(star):1	105(husband):1	604(wed):2	615(march):1	922(lead):1	1555(vip):1	1743(married):1	
+0	
+0	
+0	
+3	0(staff):1	242(care):1	489(immediately):1	
+2	9(service):1	145(amaze):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Dadeland Mall is near Well. the rooms where ok, but you could hear your next door neighbor visit the bathroom.The Staff was ok. Not too friendly but just ok.the GOOD things about this place is, that DADELAND MALL is near.A nice MALL for great shopping!  
+<Date>Aug 26, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	12(friendly):1	123(ok):1	
+0	
+6	13(bathroom):1	54(door):1	65(visit):1	123(ok):1	132(hear):1	934(neighbour):1	
+5	4(nice):1	49(shop):1	102(near):2	643(mall):3	10287(dadeland):2	
+0	
+2	0(staff):1	123(ok):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Felt like a queen Clean, beautifully decorated rooms. Felt as though I was the most important person there. Received excellent assistance with directions to various areas I needed to locate. Turn down service was a nice touch.  
+<Date>Aug 17, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	34(feel):1	193(person):1	
+0	
+5	3(clean):1	34(feel):1	305(decorate):1	543(Queen):1	771(beautifully):1	
+6	21(excellent):1	84(locate):1	302(receive):1	395(direction):1	823(various):1	1669(assistance):1	
+0	
+0	
+3	4(nice):1	9(service):1	279(touch):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Top Notch Hotel Stayed at this hotel while visiting the University of Miami. A first class hotel. Not exactly near the hot spots of miami but the Dadeland Mall across the street was nice.  
+<Date>Jul 4, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	65(visit):1	118(top):1	470(class):1	1095(miami):1	1227(notch):1	2381(university):1	
+0	
+0	
+9	4(nice):1	35(street):1	102(near):1	114(hot):1	317(spot):1	586(exactly):1	643(mall):1	1095(miami):1	10287(dadeland):1	
+0	
+0	
+0	
+0	
+
+<Author>Longwood Traveler
+<Content>Off the beaten track but not bad Had to be here on business and although this is a quiet place, the service in both the lounge and the restaurant was very good. The reception staff was excellent. Room was clean and neat with no surprises. Food in restaurant is very good.  
+<Date>Jul 23, 2003
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+3	3(clean):1	199(surprise):1	1286(neat):1	
+0	
+0	
+3	0(staff):1	21(excellent):1	129(reception):1	
+9	9(service):1	10(restaurant):2	16(food):1	50(bad):1	58(quiet):1	147(business):1	237(lounge):1	442(beat):1	1766(track):1	
+0	
+

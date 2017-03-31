@@ -1,0 +1,672 @@
+<Author>Carlittu
+<Content>Nice and friendly Nice hotel, friendly staff, good rooms. I loved the lounge area, despite not having a dedicated bar the service is excellent.  
+<Date>Dec 10, 2008
+<Rating>4	4	3	5	4	5	3	4	
+<Aspects>
+0	
+0	
+3	0(staff):1	4(nice):2	12(friendly):2	
+0	
+0	
+0	
+7	9(service):1	21(excellent):1	27(bar):1	40(love):1	237(lounge):1	498(despite):1	3477(dedicate):1	
+0	
+
+<Author>metrochica
+<Content>Fantastic Hotel       The bathroom  
+<Date>Nov 16, 2008
+<Rating>5	5	5	5	5	5	4	4	
+<Aspects>
+0	
+0	
+2	13(bathroom):1	86(fantastic):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Lexx_Naxxx
+<Content>Wonderful! Wonderful property with best possible location, whatever is your purpose for visiting Berlin.  
+<Date>Nov 14, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+1	48(wonderful):1	
+0	
+0	
+7	1(location):1	48(wonderful):1	65(visit):1	214(property):1	746(berlin):1	937(whatever):1	1428(purpose):1	
+0	
+0	
+0	
+0	
+
+<Author>Global-Ally
+<Content>Excellent location! During a recent stay at the Hotel Zoo in Berlin, we had excellent experiences. Our room was ready early, which is rare but much appreciated after 24 hours of travel. The room, a junior suite, was spacious and had a wonderful view of Ku'domme, the major street. It provided nice views but little to no noise pollution. Breakfast, which was included in our rate, was excellent! The staff was wonderful and very responsive. I would recommend this hotel highly.  
+<Date>Nov 11, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+8	4(nice):1	15(recommend):1	17(view):1	23(little):1	94(noise):1	138(highly):1	153(provide):1	6191(pollution):1	
+5	21(excellent):1	44(experience):1	746(berlin):1	1064(recent):1	1511(zoo):1	
+13	17(view):1	35(street):1	48(wonderful):1	60(hour):1	68(travel):1	108(suite):1	111(spacious):1	274(ready):1	315(major):1	500(appreciate):1	964(junior):1	1924(rare):1	3034(ku):1	
+2	1(location):1	21(excellent):1	
+0	
+3	0(staff):1	48(wonderful):1	2351(responsive):1	
+4	6(breakfast):1	21(excellent):1	71(include):1	78(rate):1	
+0	
+
+<Author>susannah_c101
+<Content>Good location and not bad for the price The hotel is in a good location on the main shopping street and very near to the zoo and u-bahn, s-bahn station. The area was busy and felt safe at night.The hotel entrance was a lot nicer than the rooms but the one we had was large and although wasn't very modern and I wouldn't call it 4 star it was fine considering the price. Breakfast was good too, lots too choose from.  
+<Date>Nov 10, 2008
+<Rating>4	-1	2	4	3	4	3	-1	
+<Aspects>
+0	
+9	4(nice):1	19(price):1	38(lot):1	67(call):1	103(star):1	113(fine):1	151(modern):1	248(consider):1	490(entrance):1	
+0	
+15	1(location):2	2(night):1	19(price):1	34(feel):1	35(street):1	49(shop):1	50(bad):1	82(station):1	102(near):1	112(main):1	137(safe):1	220(busy):1	1511(zoo):1	2164(u-bahn):1	2821(s-bahn):1	
+0	
+0	
+3	6(breakfast):1	38(lot):1	167(choose):1	
+0	
+
+<Author>flyingbanker
+<Content>Do not stay there Was booked into this hotel based on the photos on the website - which are very misleading. The rooms are distintly 50s style and extremely worn. There were dirty patches all over the carpet and the train line which goes by the hotel will keep you awake all night.  
+<Date>Oct 10, 2008
+<Rating>1	2	1	4	1	2	2	2	
+<Aspects>
+0	
+0	
+4	110(extremely):1	326(style):1	434(wear):1	11857(50s):1	
+0	
+7	2(night):1	182(train):1	188(line):1	323(dirty):1	396(carpet):1	1494(awake):1	3518(patch):1	
+0	
+5	18(book):1	262(website):1	284(base):1	761(photo):1	2221(mislead):1	
+0	
+
+<Author>Sidies27
+<Content>Dissapointed! Not what you expect for a 4 star! Booked this as a suprise weekend away for my partner - wanted it to be special, but it was far from it. The room we were allocated initially was pokey with marks on the carpet and a small bathroom with a shower cubicle. I had no choice about walking out to find an alternative hotel becuase we had paid up front. There wasn't even enough room for a tv stand, it had to be fixed on a bracket attached to the wall. I asked for a room with a bath and the only option was to upgrade - which costs a further 拢100 (120 euros). The breakfast was not included in this. If you want to buy breakfast upfront it costs 11 euros, but if you'd rather not make the decision until later or in the morning, you have to pay 16 euros each. we did eventually upgrade into a room which had limited day light and an artificial window on one side infront of a painted landscape. The day light effect was provided by a naked strip light! The carpet in this room too was dirty. There was a dead insect in the hallway which was there for the 3 days we were. The good thing was that the bathroom was in fact clean, but complimentary toiletries means there is a soap/shampoo/body wash all-in-one dispenser. There were no tea and coffee making facilities either. The 'business centre' had one computer which was engaged whenever we tried to use it. Yes, there are definately 4 stars at the entrance, but this means a very different thing in Germany perhaps? and it looks like they may have once been fit for it, but it is clearly time for a revamp.  
+<Date>Sep 2, 2008
+<Rating>1	1	1	5	2	2	2	1	
+<Aspects>
+9	5(time):1	8(day):1	20(look):1	580(hallway):1	668(fit):1	1371(dissapoint):1	1621(dead):1	2360(insect):1	5500(revamp):1	
+24	6(breakfast):1	7(walk):1	31(front):1	42(pay):2	56(morning):1	62(expect):1	79(late):1	103(star):2	107(choice):1	163(upgrade):1	175(cost):2	226(bath):1	246(mean):1	250(yes):1	256(euro):3	280(buy):1	336(option):1	410(definately):1	490(entrance):1	1298(alternative):1	1539(decision):1	2239(germany):1	4030(becuase):1	4911(upfront):1	
+36	3(clean):1	8(day):2	13(bathroom):2	61(shower):1	116(tv):1	119(window):1	153(provide):1	157(light):3	163(upgrade):1	183(wall):1	246(mean):1	323(dirty):1	345(complimentary):1	396(carpet):2	444(stand):1	494(fix):1	510(limit):1	657(toiletry):1	806(paint):1	811(wash):1	882(mark):1	965(soap):1	1204(eventually):1	1224(attach):1	1379(strip):1	1439(initially):1	1496(landscape):1	1974(allocate):1	2191(effect):1	3384(dispenser):1	3617(cubicle):1	4541(naked):1	4587(infront):1	5547(pokey):1	6161(bracket):1	7188(artificial):1	
+0	
+0	
+0	
+10	6(breakfast):1	18(book):1	71(include):1	90(coffee):1	172(weekend):1	208(special):1	211(facility):1	301(tea):1	1006(partner):1	1738(suprise):1	
+6	101(center):1	147(business):1	253(tried):1	555(computer):1	1181(whenever):1	2907(engage):1	
+
+<Author>AndyDraven
+<Content>Great Location - Decent Price       The entrance to the hotel  
+<Date>Sep 2, 2008
+<Rating>4	4	4	4	4	3	4	-1	
+<Aspects>
+0	
+4	1(location):1	19(price):1	257(decent):1	490(entrance):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Kathleen12
+<Content>Hotel Zoo, Berlin. Excellent hotel. We have just returned from Berlin where we stayed in this hotel for five nights. We found it to be an excellent hotel. The staff were business like and on the face of it a little aloof but when you spoke to them they were very helpful. The housekeeping was excellent, in particular one English person who was very friendly. He cleaned the room, folded clothes, aired the room and did things for us beyond what his normal job would have been.Breakfast was basic, but served in nice surroundings, the hotel was quiet and ideally situated. The room for three persons was large and airy. The bathroom small but well laid out with two wash basins, shower over half bath and toilet.  
+<Date>Aug 27, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	2(night):1	21(excellent):2	39(return):1	746(berlin):2	1511(zoo):1	
+0	
+22	3(clean):1	12(friendly):1	13(bathroom):1	21(excellent):1	61(shower):1	152(english):1	164(air):1	193(person):2	226(bath):1	283(half):1	330(toilet):1	367(housekeeping):1	481(job):1	696(lay):1	709(clothe):1	738(beyond):1	811(wash):1	878(normal):1	938(particular):1	1947(airy):1	2193(fold):1	2813(basin):1	
+6	0(staff):1	14(helpful):1	23(little):1	127(speak):1	147(business):1	4904(aloof):1	
+0	
+0	
+8	4(nice):1	6(breakfast):1	58(quiet):1	174(serve):1	352(basic):1	574(situate):1	1551(surroundings):1	1800(ideally):1	
+0	
+
+<Author>Hello03
+<Content>Far better than the other reviews led us to expect! We booked the Hotel Zoo as a 3* option as part of a KLM break (though when the final email arrived it appeared we'd been booked through Lastminute.com).We were very pleased with the hotel. It was far better than some of the previous reviews had suggested. The location was excellent - close to shops, cafes, restaurants, bakery, U bahn, bus stop direct to airport and sight seeing tour. There was also a cut price ticket office round the corner offering tickets for the current shows.The reception interior was very trendy with service efficient. In fact all staff were helpful and pleasant. Many of the other hotel guests were seen on their laptops throughout the hotel.Breakfast provided a good selection of hot and cold food, juices and tea/coffee. We had no problems in being seated promptly. Likewise the lounge area on the first floor was welcoming and calm - perfect for a night cap!The room itself contained twin beds, a large desk (great if you had to work on a laptop), wardrobe, mini bar  large bathroom with shower over the bath. We were situated to the rear of the property and although fairly close to the train line were not adversely affected by the noise. The window had twin glazing and electric blinds. The decor was plain but clean and towels were changed regularly.I would definitely stay here again either for work or a holiday and with friends, on my own or with the family.  
+<Date>Jun 23, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+16	37(review):2	59(definitely):1	62(expect):1	91(guest):1	106(family):1	146(friend):1	166(own):1	173(please):1	223(holiday):1	373(previous):1	445(throughout):1	452(suggest):1	504(seat):1	922(lead):1	1111(laptop):1	1212(promptly):1	
+7	19(price):1	89(offer):1	200(corner):1	621(ticket):2	792(office):1	873(cut):1	2313(current):1	
+29	2(night):1	3(clean):1	11(bed):1	13(bathroom):1	24(floor):1	27(bar):1	36(desk):1	61(shower):1	74(perfect):1	119(window):1	125(towel):1	161(change):1	202(welcome):1	226(bath):1	237(lounge):1	269(decor):1	448(mini):1	690(twin):2	1111(laptop):1	1155(calm):1	1451(wardrobe):1	1545(contain):1	1546(plain):1	1839(blind):1	1881(regularly):1	2144(glaze):1	2246(electric):1	2270(cap):1	4702(likewise):1	
+22	1(location):1	10(restaurant):1	21(excellent):1	28(close):2	49(shop):1	94(noise):1	95(airport):1	120(bus):1	122(stop):1	181(tour):1	182(train):1	188(line):1	214(property):1	275(cafe):1	411(sight):1	462(fairly):1	574(situate):1	803(direct):1	1483(bakery):1	2007(rear):1	2082(affect):1	3406(bahn):1	
+0	
+8	0(staff):1	9(service):1	14(helpful):1	129(reception):1	150(pleasant):1	401(efficient):1	1026(interior):1	1413(trendy):1	
+16	6(breakfast):1	16(food):1	18(book):2	53(arrive):1	114(hot):1	153(provide):1	222(cold):1	228(break):1	301(tea):1	333(selection):1	336(option):1	362(juice):1	541(appear):1	1337(final):1	1511(zoo):1	5403(lastminute.com):1	
+0	
+
+<Author>sp0rtygirl
+<Content>Good Value Good Location We stayed at this hotel in June 2008 for 2 nights. Overall the hotel was excellent value for the price paid E99.00 and this included an very good breakfast.It was easy to find on the Ku'damm, close to the train station and in a safe and central location.Staff were all friendly and answered any queries we had right away.I was a little nervous after reading the reviews but we had a huge room - with 2 comfy easy chairs, a large bathroom that was spotless and true there was no headboard on the bed but again this wasn't a big deal for us. The only negative was our room was on the main road side of the building so it was noisy from the traffic but this is expected in Europe and nothing earplugs cant fix.I would totally recommend staying here, we travelled Europe for 4 weeks and this hotel was good value and one of the better deals we experienced.  
+<Date>Jun 20, 2008
+<Rating>4	4	4	5	4	4	4	3	
+<Aspects>
+0	
+17	1(location):1	2(night):1	6(breakfast):1	15(recommend):1	19(price):1	21(excellent):1	42(pay):1	44(experience):1	68(travel):1	70(overall):1	71(include):1	75(week):1	81(value):3	140(deal):1	611(totally):1	664(june):1	700(europe):1	
+24	11(bed):1	13(bathroom):1	23(little):1	37(review):1	62(expect):1	88(read):1	93(easy):1	112(main):1	133(huge):1	135(build):1	140(deal):1	198(chair):1	217(noisy):1	230(road):1	282(negative):1	475(comfy):1	486(traffic):1	494(fix):1	548(spotless):1	700(europe):1	1145(cant):1	1408(nervous):1	1771(earplugs):1	3408(headboard):1	
+9	1(location):1	28(close):1	82(station):1	93(easy):1	137(safe):1	168(central):1	182(train):1	3034(ku):1	3749(damm):1	
+0	
+4	0(staff):1	12(friendly):1	669(answer):1	3041(query):1	
+0	
+0	
+
+<Author>cityHaifa
+<Content>the rooms very deplorable 2 bed one behind the other bathroom for midget we arrive at 6 juny 2008 for 4 nights we order 2 double bed rooms - standard rooms. we receive rooms very deplorable the bed one behind the other and wall was between the bed. the bathroom so small maybe for midget. we ask every day at the reception to change the rooms but its was fully booking. no air conditioner at the hotel including dining room. its was 31 degree - very hot.  
+<Date>Jun 13, 2008
+<Rating>1	2	-1	5	1	1	1	1	
+<Aspects>
+2	114(hot):1	1252(degree):1	
+0	
+18	2(night):1	8(day):1	11(bed):4	13(bathroom):2	18(book):1	53(arrive):1	71(include):1	129(reception):1	130(standard):1	161(change):1	164(air):1	179(double):1	183(wall):1	302(receive):1	308(maybe):1	316(dine):1	1083(conditioner):1	8035(deplorable):2	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Sid's_Dad
+<Content>Good at what it does...... We stayed here for four nights in May 2008, and although it was adequate I'd struggle to recommend it to anyone over 25 years of age.On the plus side the Hotel Zoo is ideally located within Berlin, being only minutes walk from the central bus station, a rail station  just seconds from the nearest 'underground' station. Because of this it makes a good base if you only need a crash-pad. The hotel couldn't be faulted on what it provided; the room we had was comfortable  very clean; the staff we friendly  helpful; the public areas were clean and the breakfast (although pricey at 鈧?1 per person per day) was of good quality, variety  quantity.However..... What it lacked were the 'comforts' that a lot if people travelling in Western Europe have come to expect. We had no facilities to make hot drinks in our room; there was no room service on offer, so we couldn't even get a coffee if we wanted one; our mini-fridge wasn't working on our arrival  was still broken when we left 4 nights later. Also, the only toiletry on offer was a bottle of shower gel firmly fixed to the wall. We also failed to get anything other than local language (German) TV  radio on the small television provided in the room. Whilst this is partly a criticism of myself for not being more of a polyglot it is the only time whilst travelling on the European mainland that I've had a room without at least one English language channel.Overall I can't recommend Berlin as a destination highly enough, but would struggle to advise a stay at the Hotel Zoo, especially to anyone used to what are now regarded as the basics of European hotels.  
+<Date>Jun 6, 2008
+<Rating>2	2	2	3	4	3	3	-1	
+<Aspects>
+24	2(night):1	15(recommend):2	26(people):1	38(lot):1	62(expect):1	68(travel):1	70(overall):1	126(especially):1	138(highly):1	284(base):1	349(lack):1	390(adequate):1	505(age):1	582(european):1	663(advise):1	700(europe):1	702(comfort):1	746(berlin):1	930(regard):1	1015(western):1	1092(destination):1	1511(zoo):1	1979(struggle):2	2469(basics):1	
+15	0(staff):1	3(clean):2	6(breakfast):1	8(day):1	12(friendly):1	14(helpful):1	25(comfortable):1	153(provide):1	187(quality):1	193(person):1	379(public):1	413(variety):1	517(fault):1	546(pricey):1	3560(quantity):1	
+25	5(time):1	61(shower):1	68(travel):1	89(offer):1	116(tv):1	152(english):1	153(provide):1	183(wall):1	195(local):1	238(bottle):1	494(fix):1	582(european):1	657(toiletry):1	698(language):2	741(channel):1	877(whilst):2	1158(television):1	1382(german):1	1576(fail):1	1816(radio):1	2049(criticism):1	2415(gel):1	3534(partly):1	3552(mainland):1	6276(firmly):1	
+13	7(walk):1	29(minute):1	82(station):3	84(locate):1	102(near):1	120(bus):1	168(central):1	203(plus):1	746(berlin):1	1085(underground):1	1511(zoo):1	1755(rail):1	1800(ideally):1	
+0	
+0	
+12	2(night):1	9(service):1	43(leave):1	63(drink):1	79(late):1	89(offer):1	90(coffee):1	114(hot):1	211(facility):1	224(arrival):1	228(break):1	2828(mini-fridge):1	
+0	
+
+<Author>Amanda7647
+<Content>Excellent hotel Although there were minor problems with housekeeping, the excellent staff took care of them immediately. They were efficient, friendly and helpful. The breakfasts were very good, the room comfortable, and the hotel well located.  
+<Date>May 19, 2008
+<Rating>4	4	3	4	3	4	5	-1	
+<Aspects>
+3	12(friendly):1	14(helpful):1	401(efficient):1	
+0	
+9	0(staff):1	6(breakfast):1	21(excellent):2	25(comfortable):1	84(locate):1	242(care):1	367(housekeeping):1	489(immediately):1	720(minor):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>ramfoozle
+<Content>Nice location, shame about the rooms A good location on the Ku'dam, but possibly the least comfortable room I've ever stayed in! No easy chairs, no head rest on the bed (making it impossible to read), no coffee-making facilities, no toiletries beyond a dreadful machine dispensing tiny quantities of cheap soap, hard gurney-style mattresses and only one accessible power socket. We formed the suspicion, walking down the stairs, that the top couple of floors (ours was the fifth) were their duff rooms, kept as a sort of penal colony for people who bought packages rather than paid the rack rate. Certainly, the hallways looked a great deal more elegant on the lower floors. Beware!  
+<Date>Apr 30, 2008
+<Rating>2	2	1	4	3	3	4	-1	
+<Aspects>
+1	737(beware):1	
+0	
+51	1(location):2	4(nice):1	7(walk):1	11(bed):1	20(look):1	24(floor):2	25(comfortable):1	26(people):1	42(pay):1	78(rate):1	88(read):1	93(easy):1	99(couple):1	118(top):1	140(deal):1	143(cheap):1	162(hard):1	198(chair):1	211(facility):1	280(buy):1	288(rest):1	319(head):1	338(tiny):1	493(machine):1	527(package):1	557(sort):1	568(stair):1	580(hallway):1	657(toiletry):1	738(beyond):1	777(lour):1	843(ours):1	847(mattress):1	965(soap):1	986(elegant):1	1164(form):1	1169(impossible):1	1233(possibly):1	1266(dam):1	1276(power):1	1292(shame):1	1342(accessible):1	1832(fifth):1	1916(rack):1	2895(dreadful):1	3034(ku):1	3560(quantity):1	4040(socket):1	6197(dispense):1	6323(colony):1	8510(suspicion):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>AtlantaGeorgia_8
+<Content>Location Could Not Be Better Great value in a great location. A five-minute walk or less to one of the main train stations, the U-Bahn subway, the Wilhelm Memorial Church, the KaDeWe department store, one of the city bus tour stops, great shopping, restaurants, etc. Rooms are somewhat dated but are large, clean and quiet. Great breakfast buffet and appealing lounge area.  
+<Date>Apr 14, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+2	1(location):2	81(value):1	
+4	3(clean):1	58(quiet):1	511(date):1	651(somewhat):1	
+20	7(walk):1	10(restaurant):1	41(city):1	49(shop):1	73(etc):1	82(station):1	112(main):1	120(bus):1	122(stop):1	181(tour):1	182(train):1	255(store):1	370(subway):1	1707(department):1	1731(church):1	2164(u-bahn):1	2548(memorial):1	6143(kadewe):1	7320(five-minute):1	12660(wilhelm):1	
+0	
+0	
+4	6(breakfast):1	77(buffet):1	237(lounge):1	1679(appeal):1	
+0	
+
+<Author>KoldingTraveller
+<Content>Excellent hotel close to everything...... Arriving from Denmark to a friendly and excellent hotel.The staff was very smiling in the reception and in the restaurant.Also the cleaning staff was nice and smiling.We had a wonderful room for four nights directly to the street Kurfurstendamm.An overall excellent hotel, - we will recomment this hotel and we will be back in the future.Erik - Denmark  
+<Date>Mar 16, 2008
+<Rating>5	5	5	5	5	5	5	3	
+<Aspects>
+7	12(friendly):1	21(excellent):2	53(arrive):1	70(overall):1	732(future):1	5155(recomment):1	11985(denmark):2	
+0	
+5	2(night):1	35(street):1	48(wonderful):1	383(directly):1	7565(kurfurstendamm):1	
+2	21(excellent):1	28(close):1	
+4	0(staff):1	3(clean):1	4(nice):1	387(smile):1	
+4	0(staff):1	10(restaurant):1	129(reception):1	387(smile):1	
+0	
+0	
+
+<Author>Jamezon
+<Content>Professional if nothing else Good location.Very smart lobby, perhaps harking back to greater days. Inside the building, just a normal hotel. Four star? Slightly dubious on that one. Service was professional (English speaking staff) but at no point friendly. We were given a room different to that on our receipt but seemed similar from the floor schematic.We were on the inside of a square courtyard so noise was quite bad. Think this was more porters etc. than guests. No bath and my girlfriend was burnt by the shower changing temperature all by itself. Other than that the bathroom was clean.The beds were quite small by British standards, 2 domestic size singles in a bizarre L-shaped configuration (had twice requested a double pre-arrival and the hotel public areas certainly never seemed busy). Free space in the room was dominated by an unfortunately placed fixed desk.Room appeared slightly dated but had obviously had some (limited) modernisation in the past few years.The pink lights of previous reviews were apparent in the corridors, very strange and there only seemed to be one lift.Gripes aside, we had somewhere to put our heads down which was the main objective as we were doing sight-seeing very quickly on the Saturday.On the Sunday we checked out no problem (again, no smiles from the staff) and went to the Zoo, which is 5/10 mins walk away, along with a major station. I imagine if we knew Berlin well, this would have been an ideal location but the hotel itself offered nothing by the way of service or charisma to entice us back to this property by design.All said and done, the price was 拢69 which compared to British prices is I suppose very reasonable for being near ammenities and a major shopping area. This was room only however and as I say, the least impressive four star I have stayed in anywhere.If you can get it on a deal however, go for it!  
+<Date>Feb 13, 2008
+<Rating>3	4	3	2	3	4	2	3	
+<Aspects>
+4	73(etc):1	91(guest):1	140(deal):1	1653(porter):1	
+11	19(price):2	49(shop):1	102(near):1	103(star):2	273(reasonable):1	315(major):1	381(compare):1	620(suppose):1	920(impressive):1	2231(ammenity):1	2407(british):1	
+54	3(clean):1	11(bed):1	13(bathroom):1	24(floor):1	36(desk):1	37(review):1	46(free):1	50(bad):1	61(shower):1	83(size):1	94(noise):1	130(standard):1	135(build):1	139(square):1	148(request):1	157(light):1	161(change):1	179(double):1	210(space):1	220(busy):1	226(bath):1	304(single):1	347(twice):1	373(previous):1	379(public):1	408(inside):2	419(past):1	435(courtyard):1	494(fix):1	510(limit):1	511(date):1	524(unfortunately):1	541(appear):1	591(lift):1	598(slightly):2	781(obviously):1	874(similar):1	878(normal):1	944(temperature):1	994(girlfriend):1	1058(strange):1	1073(corridor):1	1289(burn):1	2121(pink):1	2407(british):1	2725(receipt):1	3039(apparent):1	3957(bizarre):1	4357(domestic):1	5294(configuration):1	5351(dubious):1	5964(dominate):1	7143(modernization):1	11476(l-shape):1	
+20	0(staff):1	1(location):1	7(walk):1	32(check):1	82(station):1	112(main):1	170(else):1	247(min):1	315(major):1	319(head):1	387(smile):1	471(quickly):1	501(professional):1	640(sight-see):1	818(saturday):1	844(sunday):1	1502(aside):1	1511(zoo):1	1788(gripe):1	5303(objective):1	
+0	
+6	0(staff):1	9(service):1	12(friendly):1	127(speak):1	152(english):1	501(professional):1	
+12	1(location):1	8(day):1	9(service):1	55(lobby):1	89(offer):1	214(property):1	516(design):1	545(ideal):1	733(imagine):1	746(berlin):1	1687(smart):1	6193(entice):1	
+0	
+
+<Author>goldengirl60
+<Content>Great little hotel! Stayed in this hotel with 4 friends on a Golden girls Christmas Shopping trip to Berlin. We found the hotel to be very conveniently situated to the many shops and the lovely christmas markets near the cathedral. We had 2 twin rooms and a single on the third floor which though small were comfortable, clean and quiet. Never any noise on the corridor and even my room which faced the busy street was quiet at night. We noted that the corridor carpet was being replaced and hopefully the room carpet too would also be replaced as this was a bit shoddy. The bathroom was very well equipped with good mirrors and lighting- shower was over bath but I would comment that the high side on the bath made access to shower difficult! Maybe this is a German thing!Excellent choice of food at the buffet for breakfast.- staff very friendly and helpful at reception.I would stay there again if visiting the city- which I would add is beautiful at christmas time - the decorations very a joy to see both on the streets and in the shopping malls.  
+<Date>Jan 30, 2008
+<Rating>4	4	3	4	4	4	4	3	
+<Aspects>
+3	23(little):1	308(maybe):1	1382(german):1	
+0	
+27	2(night):1	3(clean):1	13(bathroom):1	24(floor):1	25(comfortable):1	35(street):1	52(bit):1	58(quiet):2	61(shower):2	94(noise):1	157(light):1	159(access):1	220(busy):1	226(bath):2	297(note):1	304(single):1	356(comment):1	396(carpet):2	532(third):1	572(difficult):1	690(twin):1	884(equip):1	912(replace):2	1073(corridor):2	1129(mirror):1	1633(hopefully):1	5695(shoddy):1	
+22	5(time):1	33(trip):1	35(street):1	41(city):1	45(beautiful):1	49(shop):3	65(visit):1	87(lovely):1	102(near):1	146(friend):1	264(market):1	351(add):1	574(situate):1	625(girl):1	643(mall):1	746(berlin):1	962(christmas):3	1070(conveniently):1	1317(golden):1	1552(cathedral):1	1580(decoration):1	2486(joy):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	129(reception):1	
+5	6(breakfast):1	16(food):1	21(excellent):1	77(buffet):1	107(choice):1	
+0	
+
+<Author>Mayachagal
+<Content>Good Location - Value for Money Great location. Great value for price paid. Good customer service. The only lacking thing is free wireless access in the rooms. Wireless is accessible only at the hotel lobby which is not very convenient. Heating control is not very flexible. Had to sleep with the window open as it became very hot at night. Overall, it was a good hotel for a short stay.  
+<Date>Jan 30, 2008
+<Rating>4	4	4	5	4	4	4	2	
+<Aspects>
+5	70(overall):1	144(short):1	539(heat):1	865(control):1	3915(flexible):1	
+5	1(location):2	19(price):1	42(pay):1	80(money):1	81(value):2	
+4	2(night):1	104(sleep):1	114(hot):1	119(window):1	
+0	
+0	
+0	
+2	9(service):1	428(customer):1	
+7	46(free):1	55(lobby):1	159(access):1	186(convenient):1	349(lack):1	717(wireless):2	1342(accessible):1	
+
+<Author>lambros_21
+<Content>Excellent location, very good value for money The hotel is very well situated in a street full of shops and within walking distance from KaDeWe. The underground is just 100 meters away and the light railway not more than 400m. A tourist information office is in an alley next to the hotel. The room was spacious, warm and clean. The noise level was next to zero although the next room was also occupied. The breakfast buffet was quite rich and of good quality. Having visited Berlin just before Christmas, we were pleasantly surprised on the next day after our arrival to run across a Christmas market nearby. Berlin was full of such markets and we had the chance to see it in full Christmas spirit, which was a very nice plus for our trip. For non german-speaking persons, you must get used to the idea that foreign languages do not appear to be the strong point of Germans. Yet, they shall give it a try anyhow.  
+<Date>Jan 2, 2008
+<Rating>4	4	4	5	4	4	3	3	
+<Aspects>
+9	76(try):1	193(person):1	541(appear):1	639(idea):1	698(language):1	893(strong):1	2375(foreign):1	3671(anyhow):1	3746(germans):1	
+0	
+11	3(clean):1	94(noise):1	111(spacious):1	157(light):1	236(warm):1	306(level):1	1085(underground):1	1194(metre):1	1678(occupy):1	2002(railway):1	2700(zero):1	
+25	1(location):1	4(nice):1	7(walk):1	8(day):1	21(excellent):1	33(trip):1	35(street):1	49(shop):1	65(visit):1	80(money):1	81(value):1	115(distance):1	149(run):1	199(surprise):1	203(plus):1	224(arrival):1	232(nearby):1	264(market):2	574(situate):1	689(chance):1	746(berlin):2	747(pleasantly):1	962(christmas):3	2182(spirit):1	6143(kadewe):1	
+0	
+4	209(tourist):1	649(information):1	792(office):1	1671(alley):1	
+4	6(breakfast):1	77(buffet):1	187(quality):1	2350(rich):1	
+0	
+
+<Author>TORN1
+<Content>Just fine and dandy!       Outside from the Kurferstendam  
+<Date>Nov 28, 2007
+<Rating>3	3	3	4	4	4	4	-1	
+<Aspects>
+1	113(fine):1	
+0	
+0	
+1	98(outside):1	
+0	
+0	
+0	
+0	
+
+<Author>neonpinkish
+<Content>Lovely outside, disappointing inside! Although this hotel was in a great location I was very disappointed when I got there. The website suggests that the facilities are extremely modern, stylish and luxurious but that wasn't the case. Decor was outdated and fixtures and fittings were not of a high standard. The staff were polite but not friendly, and the breakfast was disappointing. This hotel is overpriced and I would stay elsewhere on my next visit.  
+<Date>Nov 17, 2007
+<Rating>3	2	2	5	3	3	2	-1	
+<Aspects>
+0	
+3	65(visit):1	646(elsewhere):1	727(overprice):1	
+9	87(lovely):1	98(outside):1	130(standard):1	154(disappoint):1	269(decor):1	408(inside):1	1541(fixture):1	1549(outdated):1	2379(fitting):1	
+9	1(location):1	110(extremely):1	151(modern):1	154(disappoint):1	211(facility):1	262(website):1	452(suggest):1	708(luxurious):1	961(stylish):1	
+0	
+5	0(staff):1	6(breakfast):1	12(friendly):1	154(disappoint):1	422(polite):1	
+0	
+0	
+
+<Author>journeyspider
+<Content>Good value, convenient location I stayed for two night and found the hotel clean and comfortable with attentive service and a good breakfast buffet. WiFi in the lobby rather than in the rooms was the only downside for my purposes.  
+<Date>Nov 1, 2007
+<Rating>4	4	3	4	4	4	4	3	
+<Aspects>
+0	
+0	
+4	55(lobby):1	782(downside):1	1268(wifi):1	1428(purpose):1	
+0	
+0	
+0	
+10	1(location):1	2(night):1	3(clean):1	6(breakfast):1	9(service):1	25(comfortable):1	77(buffet):1	81(value):1	186(convenient):1	537(attentive):1	
+0	
+
+<Author>DiegoLopez
+<Content>Hote Zoo, Not For Animals Haha Stayed here for HustlaBall events 18th to 21st October 2007. Efficient, clean and friendly, The rooms are nice and big, I had a double although I went alone! Rooms are double glazed.The bar on the first floor is a friendly place to chat to others at the hotel, they also offer network access for your laptop there and have tables by the windows overlooking the main road outside.A nice glass lift takes you up the 4 floors.Breakfast is self service, coffee brought to your table.Perfect location, good price and recomended, I shall use this hotel again for next years HustlaBall.  
+<Date>Oct 22, 2007
+<Rating>5	5	5	5	5	5	-1	5	
+<Aspects>
+8	911(october):1	1106(event):1	1511(zoo):1	1990(animal):1	2213(18th):1	4854(haha):1	4913(21st):1	5878(hote):1	
+4	1(location):1	19(price):1	74(perfect):1	1420(recomend):1	
+21	3(clean):1	4(nice):2	12(friendly):2	24(floor):2	27(bar):1	89(offer):1	98(outside):1	112(main):1	119(window):1	159(access):1	179(double):2	229(table):1	230(road):1	260(overlook):1	327(glass):1	401(efficient):1	591(lift):1	1111(laptop):1	1629(chat):1	2144(glaze):1	2937(network):1	
+0	
+0	
+0	
+6	6(breakfast):1	9(service):1	90(coffee):1	142(bring):1	229(table):1	1314(self):1	
+0	
+
+<Author>KevinLondon
+<Content>Great Hotel, great location Stayed at this hotel for our one night in Berlin, excellent location close to train stations with direct access from the airport. Arrived at 10:00am and went to the hotel to drop of our bag, hotel said they had a room ready if we wanted it! The hotel is clean and the room we had was large, it is an old building so don't expect a modern layout. We had breakfast as part of our deal, this was very good and kept us going from 10:30 am until 18:00 hours.Great hotel, great location, great breakfast, and a great stay.  
+<Date>Sep 30, 2007
+<Rating>5	5	4	5	4	5	5	-1	
+<Aspects>
+0	
+0	
+9	3(clean):1	53(arrive):1	62(expect):1	135(build):1	151(modern):1	274(ready):1	290(bag):1	662(drop):1	1453(layout):1	
+11	1(location):3	2(night):1	6(breakfast):1	21(excellent):1	28(close):1	82(station):1	95(airport):1	159(access):1	182(train):1	746(berlin):1	803(direct):1	
+0	
+0	
+3	6(breakfast):1	60(hour):1	140(deal):1	
+0	
+
+<Author>HaynesNottingham_UK
+<Content>Great City Break We spent three nights at the hotel on a city break. The location is fantastic, the staff were always very helpful. The room was spacious and clean, only comment we could make is that the mattress was rather soft. Would recommend and stay here again.  
+<Date>Sep 20, 2007
+<Rating>4	4	4	5	4	4	3	-1	
+<Aspects>
+5	2(night):1	15(recommend):1	41(city):2	64(spend):1	228(break):2	
+0	
+5	3(clean):1	111(spacious):1	356(comment):1	589(soft):1	847(mattress):1	
+4	0(staff):1	1(location):1	14(helpful):1	86(fantastic):1	
+0	
+0	
+0	
+0	
+
+<Author>londoninterest
+<Content>Surly staff and baking hot room! Booked through Lastminute.com, and like the other reviewer who booked through a BA deal, I suspect thye save the worst rooms for people on these kind of breaks/deals. The rooms are situated around a courtyard and therefore every movement / noise is echoed into the rooms. Our room was like an oven when we checked in, and there was a mobile air conditioning unit which had a long tube you had to put out of the window to expel the hot air - and so had to have the window open...which seems to make having air con pointless! When we went back downstairs, I told the desk staff the room was very hot and the air conditioning unit was very noisy - I was told that no, the unit was not noisy at all! I asked if we could be moved to another room and was bluntly told no. The staff throughout our stay were surly and unhelpful. There was no bath, only a shower. The only thing going for this hotel in my opinion is the location...and I guess they trade off this. Would not recommend it unless you get it on a really cheap deal...but don't expect great service!  
+<Date>Sep 16, 2007
+<Rating>2	2	1	4	3	1	1	-1	
+<Aspects>
+0	
+6	9(service):1	15(recommend):1	62(expect):1	140(deal):1	143(cheap):1	405(unless):1	
+36	0(staff):2	18(book):2	26(people):1	32(check):1	36(desk):1	50(bad):1	61(shower):1	69(tell):3	94(noise):1	114(hot):3	119(window):2	140(deal):1	164(air):4	207(move):1	217(noisy):2	226(bath):1	263(condition):2	425(save):1	435(courtyard):1	564(reviewer):1	574(situate):1	691(downstairs):1	840(Con):1	980(unit):3	1310(tube):1	1983(suspect):1	2100(bake):1	2745(echo):1	2891(surly):1	2916(oven):1	3241(mobile):1	5177(baa):1	5228(movement):1	5403(lastminute.com):1	6851(pointless):1	11491(bluntly):1	
+4	1(location):1	469(guess):1	704(opinion):1	2044(trade):1	
+0	
+4	0(staff):1	445(throughout):1	1618(unhelpful):1	2891(surly):1	
+0	
+0	
+
+<Author>DCoopUlster
+<Content>Good Location Stayed here for one night and i have to say it ticks all the boxes. Rooms nice and clean and spacious. Location is on Ku'damm with all its shopping outlets, cafes and bars. Underground station located beside the hotel so getting around berlin is no problem. Also one of the open top bus tours start from beside the hotel which was great. Couldn't tell you about breakfast as i had a flight to catch at 8am so was up and away from hotel early, But all in all a very nice hotel that i would book if i was to return to berlin for a longer trip.  
+<Date>Sep 13, 2007
+<Rating>4	5	4	5	4	4	3	-1	
+<Aspects>
+0	
+5	118(top):1	120(bus):1	165(start):1	181(tour):1	1350(beside):1	
+3	3(clean):1	4(nice):1	111(spacious):1	
+15	1(location):2	2(night):1	27(bar):1	49(shop):1	82(station):1	84(locate):1	275(cafe):1	746(berlin):1	945(box):1	1085(underground):1	1350(beside):1	1689(outlet):1	3034(ku):1	3749(damm):1	4010(tick):1	
+0	
+0	
+10	4(nice):1	6(breakfast):1	18(book):1	33(trip):1	39(return):1	69(tell):1	233(flight):1	540(catch):1	746(berlin):1	7545(8am):1	
+0	
+
+<Author>jenny83
+<Content>Disappointing We stayed in the Hotel Zoo for a long weekend. We booked through a BA holiday deal and as a result the room we were allocated was probably not the best they could offer. The bedroom and bathroom were small and the corridors bizarrely lit with fluorescent pink lighting! Our room was on the first floor adjacent to the dining room, so during the breakfast period (from 7 - 11 on weekends) we were constantly disturbed by clattering plates and cutlery etc.The location of the hotel was good - right next to the Ku'damm metro station, but I wouldn't stay here again.  
+<Date>Sep 13, 2007
+<Rating>2	2	2	5	3	4	3	-1	
+<Aspects>
+3	154(disappoint):1	172(weekend):1	1511(zoo):1	
+0	
+32	1(location):1	6(breakfast):1	13(bathroom):1	18(book):1	24(floor):1	73(etc):1	82(station):1	89(offer):1	140(deal):1	157(light):2	172(weekend):1	178(probably):1	223(holiday):1	235(metro):1	268(bedroom):1	316(dine):1	995(constantly):1	1002(plate):1	1061(adjacent):1	1067(disturb):1	1073(corridor):1	1109(result):1	1331(period):1	1974(allocate):1	2121(pink):1	3034(ku):1	3182(cutlery):1	3749(damm):1	5177(baa):1	8044(fluorescent):1	10512(clatter):1	11108(bizarrely):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>eztur
+<Content>Killer breakfast I've been to this hotel two years in a row. Both times it was a great experience. The rooms are large, with nice bathrooms and comfortable beds. The personnel is friendly and they serve an excellent breakfast. On my next visit to Berlin I will surely stay here again!  
+<Date>Aug 20, 2007
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+3	65(visit):1	746(berlin):1	2033(surely):1	
+2	5(time):1	44(experience):1	
+4	4(nice):1	11(bed):1	13(bathroom):1	25(comfortable):1	
+0	
+0	
+0	
+7	6(breakfast):2	12(friendly):1	21(excellent):1	174(serve):1	1457(personnel):1	1638(row):1	4035(killer):1	
+0	
+
+<Author>sandia1
+<Content>Disappointing hotel Very disappointed with this hotel. Completely different to the photos on the website. Old rooms with dirty walls,no airco, smelly carpet and the handle of the door was broken. This hotel is overpriced.  
+<Date>Jul 25, 2007
+<Rating>1	1	1	3	2	3	2	-1	
+<Aspects>
+1	154(disappoint):2	
+1	727(overprice):1	
+8	54(door):1	183(wall):1	228(break):1	323(dirty):1	396(carpet):1	966(handle):1	1697(smelly):1	7799(airco):1	
+3	262(website):1	542(completely):1	761(photo):1	
+0	
+0	
+0	
+0	
+
+<Author>pearlascot
+<Content>Hotel Zoo Excellent The staff at the Hotel Zoo are very helpful and efficient. Our room was quite large and very quiet ( a big plus!). The hotel is in a very convenient location, steps from the U-Bahn, shopping and the lively cafes of Savigny Platz. A very good spot to stay in Berlin.  
+<Date>Jun 6, 2007
+<Rating>5	5	4	5	5	5	5	-1	
+<Aspects>
+2	317(spot):1	746(berlin):1	
+0	
+2	58(quiet):1	203(plus):1	
+8	1(location):1	49(shop):1	186(convenient):1	275(cafe):1	366(step):1	1600(lively):1	2164(u-bahn):1	2705(platz):1	
+0	
+5	0(staff):1	14(helpful):1	21(excellent):1	401(efficient):1	1511(zoo):2	
+0	
+0	
+
+<Author>bobmacNewtonMearns
+<Content>praise for the hotel zoo berlin I stayed at the Hotel Zoo for a week in January,2007 and found it great value again. I say again and the reason I am a bit late with this as I cannot believe the reviews i am reading. Last June my wife and I stayed at the Zoo and found it spot on. We have been travelling through Germany on holiday for over 20 years and would recommend it to anyone. Hotel smart and staff outstanding. Location say no more and value get a life. We will be returning.  
+<Date>May 11, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+15	15(recommend):1	37(review):1	39(return):1	52(bit):1	68(travel):1	79(late):1	88(read):1	184(wife):1	223(holiday):1	312(believe):1	317(spot):1	374(reason):1	664(june):1	1511(zoo):1	2239(germany):1	
+8	1(location):1	75(week):1	81(value):2	426(life):1	746(berlin):1	1018(january):1	1511(zoo):2	2053(praise):1	
+0	
+0	
+0	
+3	0(staff):1	534(outstanding):1	1687(smart):1	
+0	
+0	
+
+<Author>Kirstiiii
+<Content>Great Hotel, great Location This hotel is very easy to find with several trains running direct from the airports. The hotel reception is nice and modern looking and the rooms are a good size, the only problem was that our room didn't have air conditioning which may be a problem for travellers in the summer months. Staff are friendly and were always willing to help whenever we needed it.The great thing about the location of this hotel is that its right next to the shopping district (Kurfuerstendamm) and all the transport you need to get around this huge city are right on your doorstep.  There's something for everyone at breakfast, if you can get breakfast included in the price it's very good value for money.Finding the hotel;* Getting to the hotel from Schonefiled Airport is easy. The train Station is easy to reach ( Look out for S-bahn signs) once you get there buy a ticket from the ticket machines (validate ticket before you get on the train) get the train to theZoologischer Garten station, the hotel is a 5 minute walk away from this station.Tips;* Just around the corner to the left of the hotel is a tourist information. If you're going to be travelling around the whole city we'd reccommend that you buy a transport ticket that can be used on buses, trains or on the U-bahn, at around 17euros for 2 days this is great value for money (remember and validate your ticket)*Plenty of restaurants around, the HardRock cafe is a two minute walk down the street right in front of the hotel (ask the hotel staff for directions if unsure) and there's plenty of other restaurants to choose from.*If you're looking for a food store or supermarket the nearest one is about a 5 minute walk away from the hotel (Kaiser's).*If you're looking to visit the olympic stadium make sure there's not a football game on first as you'll not get to do the tour. *To see the best stretch of the Berlin wall (about 1.5km) get the train to the Ostbahnhof station and you're right there.Overall we had a great stay and thought the hotel was really good value for money.  
+<Date>Apr 16, 2007
+<Rating>4	5	4	5	3	4	4	3	
+<Aspects>
+7	20(look):1	65(visit):1	181(tour):1	683(game):1	2286(olympic):1	2363(football):1	2695(stadium):1	
+6	6(breakfast):2	19(price):1	70(overall):1	71(include):1	80(money):2	81(value):2	
+12	4(nice):1	20(look):1	83(size):1	93(easy):1	95(airport):1	129(reception):1	151(modern):1	164(air):1	263(condition):1	267(traveler):1	388(month):1	853(summer):1	
+50	0(staff):1	1(location):2	7(walk):3	8(day):1	10(restaurant):2	16(food):1	20(look):2	29(minute):3	31(front):1	35(street):1	41(city):2	49(shop):1	68(travel):1	80(money):1	81(value):1	82(station):4	93(easy):2	95(airport):1	102(near):1	120(bus):1	133(huge):1	149(run):1	158(plenty):2	167(choose):1	182(train):6	183(wall):1	255(store):1	275(cafe):1	280(buy):2	375(remember):1	395(direction):1	433(district):1	449(sign):1	493(machine):1	621(ticket):5	742(transport):2	746(berlin):1	803(direct):1	851(reach):1	1078(supermarket):1	1586(stretch):1	2071(doorstep):1	2111(reccommend):1	2164(u-bahn):1	2821(s-bahn):1	3145(unsure):1	5275(validate):2	7669(garten):1	9716(kaiser):1	12450(ostbahnhof):1	
+0	
+9	0(staff):1	12(friendly):1	43(leave):1	92(help):1	194(tip):1	200(corner):1	209(tourist):1	649(information):1	1181(whenever):1	
+0	
+0	
+
+<Author>SaintLeTiss
+<Content>Great Location Overall a great stay. Brilliant location for a great price, very clean rooms. So close to 3 subways where you could explore the whole city, we even had the marathon running past our hotel.The only bad thing i'd say is that the pillows were horrendous! The overall decor in the hallways etc could do with updating but not essential.Loved it and would stay again for sure!  
+<Date>Apr 3, 2007
+<Rating>4	4	4	5	4	4	3	-1	
+<Aspects>
+4	40(love):1	50(bad):1	303(pillow):1	3140(horrendous):1	
+4	1(location):1	3(clean):1	19(price):1	793(brilliant):1	
+6	70(overall):1	73(etc):1	269(decor):1	580(hallway):1	725(update):1	2496(essential):1	
+9	1(location):1	28(close):1	41(city):1	70(overall):1	149(run):1	370(subway):1	419(past):1	594(explore):1	3779(marathon):1	
+0	
+0	
+0	
+0	
+
+<Author>Laimdota
+<Content>Superb location - max 3* interiors The hotel has a fantastic location for visitors who want great access to Kurfuerstendamm shopping (from couture boutiques to KaDeWe), theatres, restaurants and bars in the Charlottenburg area AND subway or buses on your doorstep.The hotel also offers quiet rooms to the courtyard which was a great plus when located on an otherwise busy boulevard.The room - as the hotel - is clean and well-maintained on a daily basis. However, it has not been touched, it seems, since the 1960's on any upgrades: beds, pillows, bedspreads, lighting, TV, internet - you name it. If retro-chic in its original state is what you are looking for, this is your hotel. Obviously there is a reason the hotel does not post room photos on its own website but leaves the impression of a bright, modern environment behind! Certainly not the place for a comfy shopping plus romance trip - the room is too sterile (though large) for that.Breakfast was fine, service was fine.  
+<Date>Mar 18, 2007
+<Rating>3	3	2	5	4	3	3	2	
+<Aspects>
+2	20(look):1	1270(original):1	
+0	
+33	11(bed):1	33(trip):1	49(shop):1	58(quiet):1	84(locate):1	89(offer):1	97(internet):1	116(tv):1	151(modern):1	157(light):1	163(upgrade):1	166(own):1	203(plus):2	220(busy):1	262(website):1	279(touch):1	295(name):1	303(pillow):1	374(reason):1	435(courtyard):1	475(comfy):1	508(otherwise):1	644(post):1	761(photo):1	781(obviously):1	848(impression):1	880(bright):1	1593(leaf):1	1712(environment):1	2278(bedspread):1	2931(boulevard):1	3053(romance):1	3811(sterile):1	
+17	1(location):2	10(restaurant):1	27(bar):1	49(shop):1	86(fantastic):1	120(bus):1	159(access):1	370(subway):1	407(superb):1	635(theater):1	951(visitor):1	1026(interior):1	2071(doorstep):1	2169(max):1	3286(boutiques):1	6143(kadewe):1	7951(charlottenburg):1	
+4	3(clean):1	360(daily):1	1527(basis):1	2905(well-maintaine):1	
+0	
+3	6(breakfast):1	9(service):1	113(fine):2	
+0	
+
+<Author>Doubleujay
+<Content>Great Location Stayed for 2 nights on business. Staff very helpful. Had double room for single occupancy @ 鈧?5 per night including a superb breakfast.Cannot understand problems JohnH60 had as my experience completely different.One complaint is that on leaving I wanted to book the room for he following week onl to be advised that the rate would then be 鈧?55per night!  
+<Date>Feb 2, 2007
+<Rating>4	4	4	4	4	4	4	4	
+<Aspects>
+0	
+3	44(experience):1	391(understand):1	542(completely):1	
+14	2(night):2	6(breakfast):1	18(book):1	43(leave):1	71(include):1	75(week):1	78(rate):1	179(double):1	190(complaint):1	304(single):1	407(superb):1	482(follow):1	663(advise):1	3172(occupancy):1	
+3	1(location):1	2(night):1	147(business):1	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>Travelguy007
+<Content>Good location, poor hotel. Stayed in Hotel Am Zoo for 2 nights at end of Jan '07. First impressions were good, location right at heart of the city, close to bars, restaurants and transport links.Unfortunately, the good first impressions were gone very quickly! We had ordered a double room, but were given a room with 2 single beds which couldn't be changed as hotel was full. Staff were completely unhelpful and treated our request for a room change in line with our booking with a shurg of the shoulders!Room we had was cold and very noisy due to closeness of railway. Hotel overall has seen better days and is in need of refurbishment.Breakfast was good and served til 11am at weekends.Overall, I would see this as a fairly good 3star hotel but quite far short of the four star we had been expecting.  
+<Date>Jan 29, 2007
+<Rating>2	2	1	4	2	2	2	-1	
+<Aspects>
+9	2(night):1	8(day):1	70(overall):1	471(quickly):1	524(unfortunately):1	848(impression):1	1462(jan):1	1511(zoo):1	2253(refurbishment):1	
+6	62(expect):1	70(overall):1	103(star):1	144(short):1	462(fairly):1	8425(3star):1	
+9	11(bed):1	161(change):1	179(double):1	217(noisy):1	222(cold):1	259(due):1	304(single):1	2002(railway):1	6406(closeness):1	
+10	1(location):2	10(restaurant):1	27(bar):1	28(close):1	41(city):1	331(poor):1	450(heart):1	742(transport):1	848(impression):1	1727(link):1	
+0	
+9	0(staff):1	18(book):1	148(request):1	161(change):1	188(line):1	320(treat):1	542(completely):1	1618(unhelpful):1	2832(shoulder):1	
+5	6(breakfast):1	172(weekend):1	174(serve):1	2196(til):1	7969(11am):1	
+0	
+
+<Author>Wombat_Sydney
+<Content>Great location for AM Zoo Hotel AM ZOO is conveniently located on the famous Kurf眉rstendamm, just a short walk from Bahnhof Zoo station, the U-Bahn and bus station. My main gripe with this hotel was that I booked a double bed, but was only supplied with a single. When I discovered this too late to fix it, they at least threw in the buffet breakfast gratis. Otherwise, room was good, and buffet breakfast was excellent with good variety and differnt choices each day. No free internet point to check emails.  
+<Date>Jan 14, 2007
+<Rating>4	4	4	5	5	4	4	3	
+<Aspects>
+0	
+0	
+0	
+13	1(location):1	7(walk):1	82(station):2	84(locate):1	120(bus):1	144(short):1	1070(conveniently):1	1296(famous):1	1511(zoo):3	2164(u-bahn):1	6934(bahnhof):1	9712(kurf):1	10729(stendamm):1	
+0	
+3	32(check):1	46(free):1	97(internet):1	
+20	6(breakfast):2	8(day):1	11(bed):1	18(book):1	21(excellent):1	77(buffet):2	79(late):1	107(choice):1	112(main):1	179(double):1	304(single):1	413(variety):1	494(fix):1	508(otherwise):1	859(supply):1	869(discover):1	917(throw):1	1788(gripe):1	6465(gratis):1	9592(differnt):1	
+0	
+
+<Author>Chris043
+<Content>Great for a city break (and panda spotting!) My Girlfieind and I stayed at the Hotel Zoo for 3 nights in Mid December and found it exceeded our expectations.Our room was large and spacious, and had a particularly big bed, although seconding previous reviews the television is a little dated, and the only english channel is CNN!The room was immaculately clean and maid service was daily, we asked for 2 extra pillows on arrival and came back to find them shortly after, with a complimentary basket of fruit and biscuits which was very nice.Staff were always friendly and spoke good english.Location is superb, probably the best feature of the hotel, right on the Ku'damm, the bus from the airport (X109) stops right outside, and costs just 2.40 euros from Tegel Airport.Top tips*Breakfast can be found cheaper than the hotel at a lovely restaurant above the Gary Webber shop just a few doors up, and for half the price.*The Thai restaurant on the road behind the hotel 'The Elephant' is some of the best food i have ever had, and is very reasonable indeed.*KaDeWe is a must, and makes even harrods food court look small, great for a few glasses of champagne and some sushi!*The Zoo is a MUST, and not be missed at any time of year.Christmas markets give a very festive atmosphere and some great shopping opportunities.  
+<Date>Dec 28, 2006
+<Rating>5	4	4	5	5	5	4	-1	
+<Aspects>
+7	5(time):1	41(city):1	228(break):1	276(miss):1	317(spot):1	1511(zoo):1	10180(panda):1	
+17	2(night):1	6(breakfast):1	10(restaurant):1	19(price):1	49(shop):1	54(door):1	87(lovely):1	118(top):1	143(cheap):1	194(tip):1	283(half):1	431(expectation):1	993(december):1	1153(exceed):1	1313(mid):1	1511(zoo):1	7932(gary):1	
+25	3(clean):1	4(nice):1	9(service):1	11(bed):1	23(little):1	37(review):1	111(spacious):1	128(extra):1	152(english):1	215(fruit):1	224(arrival):1	300(maid):1	303(pillow):1	345(complimentary):1	360(daily):1	373(previous):1	511(date):1	553(particularly):1	741(channel):1	1158(television):1	1865(basket):1	2084(immaculately):1	2101(cnn):1	2465(shortly):1	2889(biscuit):1	
+27	1(location):1	16(food):1	20(look):1	49(shop):1	95(airport):2	98(outside):1	120(bus):1	122(stop):1	175(cost):1	178(probably):1	256(euro):1	264(market):1	327(glass):1	407(superb):1	414(atmosphere):1	731(feature):1	770(champagne):1	962(christmas):1	1068(court):1	1235(opportunity):1	1632(sushi):1	3034(ku):1	3749(damm):1	4795(tegel):1	5501(festive):1	6143(kadewe):1	11868(harrods):1	
+0	
+4	0(staff):1	12(friendly):1	127(speak):1	152(english):1	
+7	10(restaurant):1	16(food):1	230(road):1	273(reasonable):1	990(indeed):1	2393(thai):1	5063(elephant):1	
+0	
+
+<Author>mrs.mops
+<Content>Really great hotel Just returned from a 3 night break at the Hotel Zoo in Berlin and was really impressed with the hotel. Fantastic location for discovering Berlin - situated right in the centre of Berlin on the main shopping street The Kurfurstendamm - a very nice part of town too it was! Upon entering the hotel you couldn't but notice how clean and inviting it was, decorated beautifully for Christmas and candles lighting throughout the hotel reception and G Lounge.Staff were friendly. Breakfast was super and the rooms were a good size, really clean and comfortable. They could do with a little updating but they were very well maintained and cosy. We got a super rate of 87euro per room per night incl. breakfast when we booked directly through the hotel website. Only thing to comment on was that some of the websites selling rooms at this hotel state it has a 24 hour bar but it doesn't and we were a little disappointed when we returned to the hotel at 1am for a nightcap only to discover that the bar closes at midnight - however the mini bar in the room was well stocked and was very reasonable so we could get over this!All in all, highly recommend hotel Zoo and will definitely be back soon.  
+<Date>Dec 13, 2006
+<Rating>5	5	4	5	5	5	4	3	
+<Aspects>
+10	2(night):1	15(recommend):1	39(return):1	59(definitely):1	138(highly):1	228(break):1	343(impress):1	418(soon):1	746(berlin):1	1511(zoo):2	
+0	
+19	2(night):1	3(clean):2	6(breakfast):1	25(comfortable):1	78(rate):1	83(size):1	129(reception):1	157(light):1	237(lounge):1	305(decorate):1	354(notice):1	445(throughout):1	464(super):2	601(enter):1	771(beautifully):1	962(christmas):1	1210(invite):1	1854(candle):1	3537(incl):1	
+27	1(location):1	4(nice):1	23(little):1	27(bar):3	28(close):1	35(street):1	39(return):1	49(shop):1	60(hour):1	86(fantastic):1	101(center):1	112(main):1	154(disappoint):1	239(town):1	262(website):1	273(reasonable):1	356(comment):1	448(mini):1	574(situate):1	599(stock):1	606(sell):1	746(berlin):2	869(discover):2	1044(midnight):1	4875(nightcap):1	7565(kurfurstendamm):1	8726(1am):1	
+4	23(little):1	562(maintain):1	725(update):1	749(cozy):1	
+2	0(staff):1	12(friendly):1	
+4	6(breakfast):1	18(book):1	262(website):1	383(directly):1	
+0	
+
+<Author>Tassiechic
+<Content>Great Location, yummy breakfast - probably due for a bit of facelit I think other reviewers have pretty much summed up our experience very well.The location was excellent and would definitely stay in the area again.Rooms were clean (ours was huge) and we had no sound from the street.The decor is probably due for a change- it is beginning to look quite tired. Towels were a bit thread bare!But very clean and cheap hotelBreakfast was excellent - probably one of the best we had in Europe. Agree that there weren't enough staff to replenish the stock.I would also recommend booking through hotel website- we got a much better deal.  
+<Date>Nov 18, 2006
+<Rating>3	3	3	5	4	4	4	-1	
+<Aspects>
+0	
+14	1(location):1	3(clean):1	6(breakfast):1	21(excellent):1	44(experience):1	52(bit):1	109(pretty):1	143(cheap):1	178(probably):2	259(due):1	564(reviewer):1	700(europe):1	1651(sum):1	1798(yummy):1	
+12	3(clean):1	20(look):1	35(street):1	133(huge):1	161(change):1	178(probably):1	259(due):1	269(decor):1	409(sound):1	454(tire):1	551(begin):1	843(ours):1	
+3	1(location):1	21(excellent):1	59(definitely):1	
+0	
+4	0(staff):1	473(agree):1	599(stock):1	1808(replenish):1	
+8	15(recommend):1	18(book):1	52(bit):1	125(towel):1	140(deal):1	262(website):1	2235(bare):1	4661(thread):1	
+0	
+
+<Author>JohnH60
+<Content>Try some place else, poor service Addmittedly i stayed in a less expensive room in this hotel, so i could overlook somethings about the room, like the lack of cleanliness, really old crappy tv and the 1970's bathroom fictures in deep dark brown, what i found totally intolerable was the service. The leaning staff are either incompetent or poorly managed, the room was not cleaned properly, the carpet looked like a bunch of frats boys had partied there the night before and believe it or not, we had to call down to the front desk for toilet paper - apparently if we wanted a full soap container for the shower or more than 1 roll of toilet paper we had to ask someone. also the room was incredibly hot as it faced south, had poor ventilation and no air conditioning (although i noticed some rooms beside did have air). Fortunately i spent most of my time seeing the sites of berlin so the room didn't matter that much, but i still expect a basic level of service. If i go back to Berlin I will be looking for a hotel that tries harder to earn my business.  
+<Date>Sep 24, 2006
+<Rating>2	3	1	4	1	2	1	-1	
+<Aspects>
+0	
+0	
+58	0(staff):1	2(night):1	3(clean):1	5(time):1	9(service):3	13(bathroom):1	20(look):1	31(front):1	36(desk):1	61(shower):1	62(expect):1	64(spend):1	67(call):1	76(try):1	114(hot):1	116(tv):1	124(expensive):1	164(air):2	170(else):1	192(site):1	260(overlook):1	263(condition):1	306(level):1	312(believe):1	330(toilet):2	331(poor):2	349(lack):1	352(basic):1	354(notice):1	363(party):1	396(carpet):1	459(dark):1	531(matter):1	611(totally):1	645(manage):1	746(berlin):1	769(south):1	776(paper):2	807(incredibly):1	813(roll):1	854(cleanliness):1	863(apparently):1	881(boy):1	965(soap):1	1043(deep):1	1144(properly):1	1350(beside):1	1585(fortunately):1	1624(bunch):1	1635(poorly):1	1667(brown):1	2667(ventilation):1	3379(container):1	3380(crappy):1	3397(lean):1	4109(incompetent):1	7805(intolerable):1	10748(frat):1	
+6	20(look):1	76(try):1	147(business):1	162(hard):1	746(berlin):1	2737(earn):1	
+0	
+0	
+0	
+0	
+
+<Author>jetsetter75
+<Content>Would stay here again I have just returned froma trip to Berlin, where I stayed at the Hotel Zoo. It is in a fantastic location, close to the s-bahn station and in a shopping area, where there are plenty of places to eat.The room was large and very spacious, as we were on the 6th floor we even had a small balcony. There was plenty of wardrobe space and a large bathroom, which had a shower over the bath.The only draw back was the cost of breakfast in the hotel (14 Euro), we found a lovely little cafe in the street opposite the hotel which did a fantsatic breakfast for just 1 Euro! So it's worth looking outside the hotel if your rate doesn't include breakfast.Overall I was very impressed with Hotel Zoo, I would definately stay there again.  
+<Date>Aug 29, 2006
+<Rating>4	4	5	5	5	4	5	-1	
+<Aspects>
+7	33(trip):1	39(return):1	70(overall):1	343(impress):1	410(definately):1	746(berlin):1	1511(zoo):2	
+0	
+10	13(bathroom):1	24(floor):1	61(shower):1	111(spacious):1	158(plenty):1	191(balcony):1	210(space):1	226(bath):1	1451(wardrobe):1	1869(6th):1	
+22	1(location):1	6(breakfast):3	20(look):1	23(little):1	28(close):1	35(street):1	47(eat):1	49(shop):1	71(include):1	78(rate):1	82(station):1	86(fantastic):1	87(lovely):1	96(worth):1	98(outside):1	158(plenty):1	175(cost):1	256(euro):2	275(cafe):1	783(opposite):1	1620(draw):1	2821(s-bahn):1	
+0	
+0	
+0	
+0	
+
+<Author>lochnagar
+<Content>Good Location We stayed 4 nights in this hotel in early August and had two twin rooms on the 4th floor (both facing into the internal courtyard). The room layout was unusual in that the twin beds were set at right angles to each other in one room and in-line in the other. The rooms were quite clean but warm even with the windows wide open at night. The small fan provided didn't really help much. No noise from the street however.The location of the hotel is excellent for U-Bahn and S-Bahn connections - there's a U-Bahn station within 50 metres of the hotel and Zoological Garden station is only 5 minutes or so away. There are plenty of restaurants within easy walking and a lively bar practically across the road where live music is played most nights.We found the hotel staff to be efficient but not particularly friendly but the biggest problem was that on one morning, the buffet breakfast was a bit chaotic. The choice of food was fine but there weren't enough staff attending to replenish the food choices as they ran out and there didn't seem to be enough tables for everyone. In addition, the staff that morning did not clear away used dishes which meant the dining tables became cluttered.I would recommend visitors to Berlin to stay in the Ku'Damm but not necessarily at this hotel  
+<Date>Aug 6, 2006
+<Rating>4	3	3	4	3	3	3	-1	
+<Aspects>
+6	15(recommend):1	746(berlin):1	951(visitor):1	2817(necessarily):1	3034(ku):1	3749(damm):1	
+8	0(staff):1	16(food):2	107(choice):2	113(fine):1	149(run):1	229(table):1	826(attend):1	1808(replenish):1	
+16	1(location):1	2(night):2	3(clean):1	11(bed):1	24(floor):1	119(window):1	234(set):1	236(warm):1	435(courtyard):1	690(twin):2	845(4th):1	860(wide):1	1453(layout):1	1610(unusual):1	2869(internal):1	3635(angle):1	
+14	1(location):1	21(excellent):1	29(minute):1	35(street):1	82(station):2	92(help):1	94(noise):1	153(provide):1	310(garden):1	661(fan):1	932(connection):1	1194(metre):1	2164(u-bahn):2	2821(s-bahn):1	
+0	
+8	0(staff):1	56(morning):1	229(table):1	246(mean):1	316(dine):1	816(dish):1	918(addition):1	5880(clutter):1	
+21	0(staff):1	2(night):1	6(breakfast):1	7(walk):1	10(restaurant):1	12(friendly):1	27(bar):1	52(bit):1	56(morning):1	77(buffet):1	93(easy):1	158(plenty):1	206(live):1	230(road):1	386(play):1	398(music):1	401(efficient):1	553(particularly):1	1600(lively):1	1850(practically):1	4017(chaotic):1	
+0	
+
+<Author>busterbuster
+<Content>Hot in the summer!! But ok...       Bathroom  
+<Date>Jun 29, 2006
+<Rating>2	2	2	-1	3	-1	3	-1	
+<Aspects>
+2	114(hot):1	853(summer):1	
+0	
+2	13(bathroom):1	123(ok):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>westulysse
+<Content>Tr猫s bon h么tel si on exclut la d茅co       Chambre  
+<Date>Jan 4, 2008
+<Rating>5	5	4	4	4	4	4	4	
+<Aspects>
+5	225(la):1	752(el):1	3576(bon):1	3867(chambre):1	7281(si):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

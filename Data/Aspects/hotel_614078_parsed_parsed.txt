@@ -1,0 +1,266 @@
+<Author>bam49
+<Content>quiet and clean we were a party of three ladies looking for a triple room in amsterdam, and we found it at the Tulip Art. This was a clean and comfortable hotel, in easy reach of Amsterdam, and I would be happy to go back. It is a little out of town, but the bus service was clean, regular and convenient, being straight outside the door.  
+<Date>Aug 31, 2008
+<Rating>4	4	4	3	4	5	3	4	
+<Aspects>
+0	
+0	
+9	3(clean):1	20(look):1	58(quiet):1	361(amsterdam):1	363(party):1	521(lady):1	789(art):1	1553(triple):1	4251(tulip):1	
+10	3(clean):1	9(service):1	23(little):1	54(door):1	98(outside):1	120(bus):1	186(convenient):1	239(town):1	744(regular):1	827(straight):1	
+6	3(clean):1	25(comfortable):1	93(easy):1	155(happy):1	361(amsterdam):1	851(reach):1	
+0	
+0	
+0	
+
+<Author>fluffyBelfast
+<Content>Great Hotel       our room-great headboard!!  
+<Date>Aug 17, 2008
+<Rating>5	5	5	3	5	5	5	5	
+<Aspects>
+0	
+0	
+1	3408(headboard):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Passtraveler
+<Content>Wonderful respite from an exciting, busy beautiful city! Just returned from 5 nights at the Tulip Inn Jul 29 08 - best decision staying here! Arrived from states 11 am room ready. Front desk pleasant, informative and most beautiful english I have heard spoken in a foreign country. Check in a breeze - best rates at tulip hotels website. While a little inconvenient time wise (waiting for buses into city central) well worth the inconvienence. A new hotel, it is exceptionally clean, modern, roomy, comfy and overall very nice place. Room made up beautifully every day. Nice to have full tub to soak in after a long day of sight seeing. Pricey mini fridge in room, electroncially set - tell front desk you want to use it for your own supplies so you will not be charged if you remove something - they are happy to do this. Albert Heijn food store two bus stops up towards city center. Two city pools and park out back of the hotel for your use, are a pleasant and refreshing plus! Railyard in back of hotel never an issue - very quite place. Short bus ride to train station(s) City Central and Sloterdijk (sp). From airport during the day, take Central Station train and get off at Sloterdijk Amsterdam, go out front and take bus 48 - it stops right in front of hotel and is only a short, 10 min. ride. Make sure you check bus schedule if you have early flight home - weekend buses run later and longer between buses - taxi fare from hotel to train station 10.50 euros. Nothing much around this hotel, restaurant pretty pricey, outdoor bar nice - very quite location - would not suggest for young partying crowd that would be crawling back to theirs rooms late at night - lol - it takes some naviagting to get to the bus in the evening and some time to get back to the hotel, but if you are a little more reserved or have kids with you, and dont mind waiting on a bus once in a while - this place is a comfortable, affordable stay!Free wi-fi in room - what a plus - you must buy a pay card to use the internet in the lobby - we brought our laptop,For those that need something negative - yes, the doors do shut loudly - they did vacuum the hallways a little earlier than we would have liked them to one morning - but they did respect our do not disturb signs, and the modern design of the bathroom sinks reminds me of stainless steel prison sinks - there,,,Had wonderful trip - make sure you take short train ride out to Haarlem and to the beach - Van Gogh Museum a must to really get an insight into his short life as a painter - very interesting. Enjoy the city parks, museums and a local brew at any of the outdoor cafes along the canals - found Amsterdam to be very laid back and to be very beautiful, comfortable and friendly!Red light district a cultural must-see - very surreal, very safe, actually interesting, just very strange! You see all kinds wandering the district including many families and many, many tours during the hours of 8 and 10pm - Randy Roys Red light tour, , while we had to hoof it after our guide Ki-ki, who is quick-quick - was quite fun and entertaining!Enjoy!  
+<Date>Jul 30, 2008
+<Rating>5	5	5	3	5	5	5	4	
+<Aspects>
+14	2(night):1	4(nice):1	8(day):1	39(return):1	51(enjoy):1	218(ride):1	265(issue):1	311(tub):1	324(inn):1	411(sight):1	1468(soak):1	1539(decision):1	4251(tulip):1	9689(jul):1	
+0	
+32	3(clean):1	4(nice):1	8(day):1	53(arrive):1	60(hour):1	70(overall):1	71(include):1	106(family):1	137(safe):1	151(modern):1	157(light):2	176(fun):1	180(actually):1	181(tour):2	274(ready):1	433(district):2	475(comfy):1	590(red):2	771(beautifully):1	829(guide):1	1045(entertain):1	1058(strange):1	1242(exceptionally):1	1353(roomy):1	1562(wander):1	2633(cultural):1	6763(surreal):1	7119(10pm):1	7852(must-see):1	8667(randy):1	10908(hoof):1	11324(roys):1	
+95	5(time):1	8(day):1	12(friendly):1	13(bathroom):1	16(food):1	22(pool):1	23(little):2	25(comfortable):1	30(beach):1	31(front):2	32(check):2	33(trip):1	41(city):6	42(pay):1	45(beautiful):2	46(free):1	48(wonderful):2	51(enjoy):1	54(door):1	55(lobby):1	56(morning):1	66(park):2	78(rate):1	79(late):1	82(station):3	85(wait):1	95(airport):1	96(worth):1	97(internet):1	101(center):1	120(bus):7	122(stop):2	141(home):1	142(bring):1	144(short):4	149(run):1	150(pleasant):1	151(modern):1	168(central):3	172(weekend):1	182(train):4	185(taxi):1	195(local):1	203(plus):2	218(ride):2	220(busy):1	233(flight):1	247(min):1	250(yes):1	255(store):1	256(euro):1	262(website):1	275(cafe):1	280(buy):1	282(negative):1	292(card):1	361(amsterdam):2	426(life):1	449(sign):1	507(museum):2	509(sink):2	516(design):1	580(hallway):1	638(canal):1	696(lay):1	799(breeze):1	901(outdoor):1	959(towards):1	1067(disturb):1	1086(shut):1	1111(laptop):1	1112(fare):1	1136(excite):1	1196(schedule):1	1223(van):1	1271(refresh):1	1285(remind):1	1389(respect):1	1676(wise):1	1827(wi-fi):1	2301(inconvenient):1	2680(vacuum):1	2707(loudly):1	2727(gogh):1	3470(sp):1	3865(prison):1	3947(respite):1	4024(steel):1	4251(tulip):1	4317(brew):1	5232(insight):1	6001(albert):1	6038(stainless):1	9443(painter):1	12810(heijn):1	
+0	
+20	31(front):2	36(desk):2	45(beautiful):1	69(tell):1	127(speak):1	132(hear):1	136(charge):1	150(pleasant):1	152(english):1	155(happy):1	166(own):1	234(set):1	318(fridge):1	448(mini):1	530(country):1	546(pricey):1	859(supply):1	1135(remove):1	1976(informative):1	2375(foreign):1	
+25	1(location):1	2(night):1	4(nice):1	5(time):1	10(restaurant):1	23(little):1	25(comfortable):1	27(bar):1	79(late):1	85(wait):1	109(pretty):1	120(bus):2	201(kid):1	294(mind):1	313(crowd):1	363(party):1	452(suggest):1	503(dont):1	506(reserve):1	546(pricey):1	901(outdoor):1	1062(affordable):1	2371(crawl):1	2431(lol):1	3192(theirs):1	
+0	
+
+<Author>Kenny9915
+<Content>Perfect for our modest needs We were in Amsterdam for a few days, and wanted a nice hotel, not too expensive, but clean and pleasant. We got a good deal on the Tulip inn and were very happy. The only two downsides:1) to get to the center of town you have to take a bus which runs every 15 minutes during the day but every 1/2 hour by night2) no coffee in the room (we brought our own equipment and made our own). The staff was pleasant and helpful with all our requests/  
+<Date>Jul 25, 2008
+<Rating>4	4	4	2	3	5	4	4	
+<Aspects>
+4	140(deal):1	155(happy):1	324(inn):1	4251(tulip):1	
+8	3(clean):1	4(nice):1	8(day):1	74(perfect):1	124(expensive):1	150(pleasant):1	361(amsterdam):1	2553(modest):1	
+12	8(day):1	29(minute):1	60(hour):1	90(coffee):1	101(center):1	120(bus):1	142(bring):1	149(run):1	166(own):2	239(town):1	782(downside):1	1211(equipment):1	
+0	
+0	
+4	0(staff):1	14(helpful):1	148(request):1	150(pleasant):1	
+0	
+0	
+
+<Author>Optima3
+<Content>Better Than Expected! I was pleasantly surprised that the hotel was so close to the center. We timed it. The bus takes 4 minutes to get to the city center. I could throw a baseball and hit the bus stop it's so close to the entrance. During the day and evening, the bus runs every 10 minutes. At night the bus runs every 30 mintutes. If the hotel is priced below other comparable hotels in the center, I definitely recommend this one.Here's the cool thing we did.... We rented bikes for the weekend to fit in like all the other Amsterdamers. It was amazing. I think everyone in Amsterdam rides a bike. We rode along the canals and went to dinner and the museums on our bikes. It was so romantic. Our bike ride each way to the hotel was....9 minutes. And it's safe with your own bike lane the whole way. We rented bikes in the center, but I think the hotel also rents bikes too through www.yellowbike.nl or ask the front desk.The hotel was new, clean and the beds were comfortable.  
+<Date>Jun 17, 2008
+<Rating>5	5	4	3	5	4	4	-1	
+<Aspects>
+15	5(time):1	29(minute):1	62(expect):1	137(safe):1	145(amaze):1	166(own):1	172(weekend):1	218(ride):2	278(cool):1	361(amsterdam):1	668(fit):1	707(romantic):1	1097(rent):1	1479(bike):4	2566(lane):1	
+6	15(recommend):1	19(price):1	59(definitely):1	101(center):1	585(below):1	1813(comparable):1	
+3	3(clean):1	11(bed):1	25(comfortable):1	
+20	2(night):1	8(day):1	28(close):2	29(minute):2	41(city):1	101(center):2	117(dinner):1	120(bus):4	122(stop):1	149(run):2	199(surprise):1	218(ride):1	490(entrance):1	507(museum):1	638(canal):1	747(pleasantly):1	775(hit):1	917(throw):1	1479(bike):1	3120(baseball):1	
+0	
+5	31(front):1	36(desk):1	101(center):1	1097(rent):2	1479(bike):2	
+0	
+0	
+
+<Author>Kaiser_Amir
+<Content>Decent hotel with one problem       The view from room 601  
+<Date>Jun 11, 2008
+<Rating>3	3	2	4	5	5	5	5	
+<Aspects>
+0	
+0	
+2	17(view):1	257(decent):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Hotel_traveller32
+<Content>Beautiful Property Wow. what a good little hotel. Staff are brilliant, room was a good size with no Coffee faciities but a cheap cafe downstairs in the lobby. Tea is 2 euros, coffee Latte is 2.25 euros.beds are very comfortable, with good quality linen. hotel is quite close to the railway and sidings but you cant hear them. there is a pool at the rear of the hotel not open in winter and its left to look a nasty sight, but im sure it will be good in the summer time. The staff are brilliant, courteous, friendly and professional. very swift check-in and check-out plenty of reception staff. No complaints about the hotel and would definately stay there again without a second thought.its out of the centre and served by bus number 48... not very reliable unfortunately but has a night bus too which is dead handy (buy your travel cards for transport as it includes the night bus number 353) 3 mins past the hour and 33 minutes past the hour form amsterdam centraal.if you need to know anything else please drop me a message.Have fun Preston and Carl  
+<Date>Mar 24, 2008
+<Rating>4	4	5	4	5	4	4	-1	
+<Aspects>
+17	5(time):1	20(look):1	22(pool):1	23(little):1	43(leave):1	170(else):1	173(please):1	176(fun):1	190(complaint):1	410(definately):1	411(sight):1	662(drop):1	853(summer):1	1599(winter):1	1639(nasty):1	1809(message):1	2007(rear):1	
+4	11(bed):1	25(comfortable):1	187(quality):1	630(linen):1	
+8	0(staff):1	55(lobby):1	83(size):1	90(coffee):1	143(cheap):1	275(cafe):1	691(downstairs):1	793(brilliant):1	
+25	2(night):2	28(close):1	29(minute):1	60(hour):2	68(travel):1	71(include):1	101(center):1	120(bus):3	132(hear):1	174(serve):1	247(min):1	280(buy):1	292(card):1	335(numb):2	361(amsterdam):1	419(past):2	524(unfortunately):1	742(transport):1	755(handy):1	1145(cant):1	1164(form):1	1621(dead):1	2002(railway):1	2416(reliable):1	2450(centraal):1	
+0	
+10	0(staff):2	12(friendly):1	129(reception):1	158(plenty):1	286(check-in):1	483(courteous):1	501(professional):1	658(checkout):1	793(brilliant):1	4245(swift):1	
+7	45(beautiful):1	90(coffee):1	214(property):1	256(euro):2	301(tea):1	862(wow):1	4990(latte):1	
+0	
+
+<Author>myholiday77
+<Content>Very Nice Hotel I stayed in this hotel on my first trip to Amsterdam and wasn't disapointed, however, this hotel is not for you if you wish to be in the centre of Amsterdam as it is a 40 minute walk or 10 minutes by bus (numbers 22 and 43 stop outside). The hotel was very clean (rooms, reception, restaurant), staff were helpful and all speak very good English. The bedrooms are confortable and a re big enough to move arounf in, bathroom looked quite new and inside was very clean. If staying in Amsterdam I would recommend buying an 'I am Amsterdam Card' available at Tourist Information Office- the card is valied for 34. 48. 72 hours depending on how much you pay and gives you unlimited access on public transport, free access to many attractions and also discounts on many stores and restaurants.  
+<Date>Mar 12, 2008
+<Rating>5	5	5	3	5	5	5	5	
+<Aspects>
+0	
+12	10(restaurant):1	42(pay):1	46(free):1	60(hour):1	159(access):2	255(store):1	350(attraction):1	379(public):1	742(transport):1	864(discount):1	969(depend):1	2077(unlimited):1	
+7	3(clean):1	13(bathroom):1	20(look):1	207(move):1	268(bedroom):1	408(inside):1	2435(confortable):1	
+11	4(nice):1	7(walk):1	29(minute):2	33(trip):1	98(outside):1	101(center):1	120(bus):1	122(stop):1	361(amsterdam):2	384(wish):1	2513(disapoint):1	
+0	
+15	0(staff):1	3(clean):1	10(restaurant):1	14(helpful):1	15(recommend):1	127(speak):1	129(reception):1	134(available):1	152(english):1	209(tourist):1	280(buy):1	292(card):2	361(amsterdam):2	649(information):1	792(office):1	
+0	
+0	
+
+<Author>craig_traveler
+<Content>Nice hotel. Quiet, low key location Great value in nothern part of the city. Very quiet and low key location away from all of the hubbub that is central Amsterdam. Away from the crowds and traffic. Very friendly front desk staff. Great breakfast for E12. The front desk sells script tickets for the bus to Centraal Station which stops in front of the property. Room very nice and modern with multitude of TV channels in Englsih. At the time of my stay, free wifi was being offered throughout the hotel. A gas station is located walking distance with a small shop open late for snacks or drinks. Consider reserving the shuttle van service to the airport. Much cheaper than taxi to Centraal Station plus train fare.  
+<Date>Mar 12, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	4(nice):1	
+6	1(location):1	41(city):1	58(quiet):1	81(value):1	339(key):1	513(low):1	
+12	1(location):1	4(nice):1	58(quiet):1	116(tv):1	151(modern):1	168(central):1	339(key):1	361(amsterdam):1	513(low):1	741(channel):1	5627(multitude):1	8549(hubbub):1	
+31	7(walk):1	9(service):1	31(front):2	36(desk):1	49(shop):1	63(drink):1	79(late):1	82(station):3	84(locate):1	95(airport):1	115(distance):1	120(bus):1	122(stop):1	143(cheap):1	182(train):1	185(taxi):1	203(plus):1	214(property):1	248(consider):1	313(crowd):1	321(shuttle):1	406(snack):1	486(traffic):1	506(reserve):1	606(sell):1	621(ticket):1	1112(fare):1	1223(van):1	2450(centraal):2	2632(gas):1	11303(script):1	
+0	
+4	0(staff):1	12(friendly):1	31(front):1	36(desk):1	
+1	6(breakfast):1	
+5	5(time):1	46(free):1	89(offer):1	445(throughout):1	1268(wifi):1	
+
+<Author>pompeydaz
+<Content>Lovely moo cows Nice place, well decorated. Spent some quality time in the bar there. Just my kind of place. Dark, you can smoke and get some good beers. Had a nice meal in the restaurant in the evening. They also did a lovely breakfast. The restaurant is very nicely decorated and there is ample seating.Free-WiFi access was ideal as I was there on business and could check my email without racking up a huge 3G bill with Orange !!  
+<Date>Feb 14, 2008
+<Rating>4	3	4	-1	4	4	4	5	
+<Aspects>
+0	
+4	5(time):1	27(bar):1	64(spend):1	187(quality):1	
+4	4(nice):1	87(lovely):1	305(decorate):1	4207(cow):1	
+0	
+3	443(beer):1	459(dark):1	468(smoke):1	
+0	
+5	4(nice):1	6(breakfast):1	10(restaurant):1	87(lovely):1	213(meal):1	
+12	10(restaurant):1	32(check):1	133(huge):1	147(business):1	159(access):1	305(decorate):1	404(nicely):1	495(bill):1	545(ideal):1	1104(orange):1	1341(ample):1	8747(wrack):1	
+
+<Author>Expatastic
+<Content>Good value, but be prepared to take public transport I really liked this hotel for what we paid. The facilities are really nice, the only downside is that you can't really walk anywhere. There's a tram/bus thing that stops nearby, although it can be a bit tricky guessing where to get off on the way back (or maybe we were just enjoying Amsterdam too much). If you're okay with commuting that way, you're good to go. Oh, but important: the trams don't run very late, so if you want to have a late night, it might not work.  
+<Date>Feb 12, 2008
+<Rating>4	4	4	2	4	4	3	-1	
+<Aspects>
+2	453(okay):1	4386(commute):1	
+5	42(pay):1	81(value):1	379(public):1	460(prepare):1	742(transport):1	
+0	
+16	2(night):1	4(nice):1	7(walk):1	51(enjoy):1	52(bit):1	79(late):2	122(stop):1	149(run):1	211(facility):1	232(nearby):1	308(maybe):1	361(amsterdam):1	469(guess):1	570(tram):2	782(downside):1	3071(tricky):1	
+0	
+0	
+0	
+0	
+
+<Author>SF-Coast-Traveler
+<Content>Quality Hotel with Affordable Rates       View from room  
+<Date>Feb 2, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+4	17(view):1	78(rate):1	187(quality):1	1062(affordable):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>whiteke85
+<Content>Nice hotel, a bit out of the way... About 15 mins from Schipol airport, in quite an industrial area, the hotel is fine. Clean, good value - all you can ask for really. Took about 15 mins by bus to get to the central station. Not a bad thing to say apart from the location ain't great if you want to see all Amsterdam has to offer.  
+<Date>Oct 18, 2007
+<Rating>3	4	4	2	5	4	4	-1	
+<Aspects>
+0	
+2	3(clean):1	81(value):1	
+7	4(nice):1	52(bit):1	95(airport):1	113(fine):1	247(min):1	3256(industrial):1	5301(schipol):1	
+10	1(location):1	50(bad):1	82(station):1	89(offer):1	120(bus):1	168(central):1	247(min):1	361(amsterdam):1	857(apart):1	3302(ai):1	
+0	
+0	
+0	
+0	
+
+<Author>Blaica
+<Content>Good restaurant In total I was there several weeks. The people from the restaurant did much more than their best, good food. Overall service was OK, although there was a hick-up, but the people from the restaurant restored that. Very negative: the beds: too soft!!! Also when you stay in a room you think at night that someone is breaking into your room, but it's just your neighbor that is entering his/her room.  
+<Date>Sep 11, 2007
+<Rating>2	2	2	3	5	4	3	-1	
+<Aspects>
+0	
+0	
+7	2(night):1	11(bed):1	228(break):1	282(negative):1	589(soft):1	601(enter):1	934(neighbour):1	
+0	
+0	
+0	
+9	9(service):1	10(restaurant):3	16(food):1	26(people):2	70(overall):1	75(week):1	123(ok):1	786(total):1	3238(restore):1	
+0	
+
+<Author>scarletNshadow
+<Content>Great at the Tulip Inn We booked this hotel through superbreaks.com and got a great deal 4 nights for the price of 3. This is the 3 star hotel and not to be confused with the 4 star Golden Tulip Art which is right next door. The hotel is around 10 minutes by bus out of city centre, but to be honest its in a great location in that respect because it is really quiet. There is a bus stop just outside of the hotel (come out through the hotel doors and turn right..and its just down a little grass verge).The bus is the number 48 and comes every 15 minutes and is always on time!Reception were great, we arrived at 11am and you're not supposed to be able to check until 2pm but they found us a room straight away.The room was immaculate, quite spacious, lovely bathroom and the shower was fab and steaming hot. They have a tv with limited english channels.. but had bbc 1 and bbc 2 enough for background nois when getting ready to go out.Breakfast is continental and consists of various breads, rolls, croissants, a variety of cold meats and cheeses, scrambled egg, mushrooms and has browns and was really nice, enough to keep you going until lunch time.There is the restaurant which is a la carte. Do not make the mistake of eating in there, it is extremely expensive for what you get, you would be better going to the bar/cafe and having a burger which my partner highly recommended.Drinks in the cafe/bar are quite expensive but then Amsterdam in general is not that cheap, take plenty of euros with you.This was my first time in Amsterdam and was such a great experience that we're going back in April 08 and we will be staying at Tulip Inn Art again.. i would really recommend it to all.  
+<Date>Aug 31, 2007
+<Rating>4	5	5	5	5	5	4	5	
+<Aspects>
+7	15(recommend):1	23(little):1	274(ready):1	2445(background):1	2603(grass):1	2997(bbc):2	7172(verge):1	
+28	2(night):1	5(time):1	15(recommend):1	18(book):1	19(price):1	27(bar):1	44(experience):1	47(eat):1	54(door):1	63(drink):1	103(star):2	110(extremely):1	124(expensive):2	138(highly):1	140(deal):1	143(cheap):1	158(plenty):1	256(euro):1	275(cafe):1	324(inn):2	361(amsterdam):2	789(art):2	895(mistake):1	1006(partner):1	1157(burger):1	1317(golden):1	1419(confuse):1	4251(tulip):3	
+12	13(bathroom):1	61(shower):1	87(lovely):1	111(spacious):1	114(hot):1	116(tv):1	152(english):1	510(limit):1	741(channel):1	894(immaculate):1	1216(fab):1	1760(steam):1	
+13	1(location):1	5(time):1	29(minute):2	41(city):1	54(door):1	58(quiet):1	98(outside):1	101(center):1	120(bus):3	122(stop):1	335(numb):1	1108(honest):1	1389(respect):1	
+0	
+8	32(check):1	53(arrive):1	129(reception):1	171(able):1	620(suppose):1	827(straight):1	7919(2pm):1	7969(11am):1	
+21	4(nice):1	5(time):1	6(breakfast):1	10(restaurant):1	222(cold):1	225(la):1	252(lunch):1	372(continental):1	412(egg):1	413(variety):1	441(cheese):1	497(bread):1	677(meat):1	681(carte):1	813(roll):1	823(various):1	1004(croissant):1	1185(consist):1	1667(brown):1	1674(scramble):1	5021(mushroom):1	
+0	
+
+<Author>sukrita
+<Content>Fabulous, Loved It Very nice hotel more like a 4 star than 3 star. Excellent service, the hotel had kept a package waiting for us that we had asked to be delivered there. They were very friendly and guided us well throughout the city. Check in / out was very quick.Rooms are very modern, bit on the smaller side but very very clean. Bathrooms are very good, large although the door to the toilet is transparent (??)Excellent breakfast and only 15 euros a head so well worth it. Good location, bus stop is just outside hotel and the bus goes straight to city centre. Would definitely reccomend this hotel.  
+<Date>Jul 18, 2007
+<Rating>5	5	5	4	5	5	4	4	
+<Aspects>
+2	59(definitely):1	1513(reccomend):1	
+4	4(nice):1	40(love):1	103(star):2	270(fabulous):1	
+7	3(clean):1	13(bathroom):1	52(bit):1	54(door):1	151(modern):1	330(toilet):1	9523(transparent):1	
+7	1(location):1	41(city):1	98(outside):1	101(center):1	120(bus):2	122(stop):1	827(straight):1	
+0	
+11	9(service):1	12(friendly):1	21(excellent):1	32(check):1	41(city):1	85(wait):1	299(quick):1	445(throughout):1	527(package):1	631(deliver):1	829(guide):1	
+5	6(breakfast):1	21(excellent):1	96(worth):1	256(euro):1	319(head):1	
+0	
+
+<Author>knittycat
+<Content>very good modern hotel Just got back from the Tulip Art in Amsterdam. Yes it is a little way out of the centre but there is a very good bus service, cheap and frequent from outside the hotel to the centraal station. Hotel is modern, clean and very pleasant, showers were excellent. Food in the art cafe was better than any we tried in the city, maybe we were unlucky but we couldn't find much that wasn't fried meat! The locals were extremley friendly and helpful much more so than say Paris or even London. We had a great time even if we did see some things that made us look twice! We also took the train out to Utrecht which was well worth the trip, half an hour on the train, like a miniture Amsterdam.  
+<Date>Mar 9, 2007
+<Rating>5	5	4	3	5	5	5	-1	
+<Aspects>
+13	5(time):1	12(friendly):1	14(helpful):1	20(look):1	151(modern):1	195(local):1	347(twice):1	361(amsterdam):1	403(paris):1	697(london):1	789(art):1	4251(tulip):1	7076(extremley):1	
+0	
+5	3(clean):1	21(excellent):1	61(shower):1	150(pleasant):1	151(modern):1	
+16	9(service):1	23(little):1	33(trip):1	60(hour):1	82(station):1	96(worth):1	98(outside):1	101(center):1	120(bus):1	143(cheap):1	182(train):2	250(yes):1	283(half):1	361(amsterdam):1	1355(frequent):1	2450(centraal):1	
+0	
+0	
+9	16(food):1	41(city):1	253(tried):1	275(cafe):1	308(maybe):1	677(meat):1	789(art):1	1009(fry):1	3952(unlucky):1	
+0	
+
+<Author>OWL364
+<Content>pretty hotel, out of city centre 105Euro/night, booked at venere.LOCATION: out of the city centre. must take 15 min bus ride during day. night bus comes once an hour. not noisy, but a bit inconvenient.ROOM: was clean, not small but not super-spacious. double bed is actually two twin beds put together. bathroom was clean. room is modern. internet is 5euros/hour. restaurant and cafe are over priced...eat ur meals in the city centre. front desk customer service is good. lady at night was helpful with internet. no iron was available at lobby nor in room.  
+<Date>Aug 20, 2006
+<Rating>4	4	4	3	5	3	3	3	
+<Aspects>
+3	52(bit):1	217(noisy):1	2301(inconvenient):1	
+0	
+11	3(clean):2	11(bed):2	13(bathroom):1	55(lobby):1	134(available):1	151(modern):1	179(double):1	180(actually):1	690(twin):1	868(iron):1	970(nor):1	
+9	1(location):1	2(night):1	8(day):1	41(city):1	60(hour):1	101(center):1	120(bus):2	218(ride):1	247(min):1	
+0	
+4	9(service):1	31(front):1	36(desk):1	428(customer):1	
+11	10(restaurant):1	18(book):1	19(price):1	41(city):2	47(eat):1	101(center):2	109(pretty):1	213(meal):1	275(cafe):1	4952(ur):1	6954(venere):1	
+4	2(night):1	14(helpful):1	97(internet):2	521(lady):1	
+
+<Author>carlos999
+<Content>weekender       bedroom  
+<Date>Jun 16, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+1	268(bedroom):1	
+0	
+0	
+0	
+0	
+0	
+

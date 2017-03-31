@@ -1,0 +1,882 @@
+<Author>beejay12
+<Content>Would you choose a hotel because of "friendly" front-desk staff? While looking for a place to stay in Hawaii for 2008 Chrismast vacation, my wife and I noticed one recurrent favorable feature pointed out by reviewers about Aqua Continental (Surf): staff kindliness. I didn't know what they meant until I got there.Upon entering the room on the 9th floor assigned by the Orbitz package deal, my wife recoiled upon being greeted by a c-bug or two. I hurried to the front desk to protest our plight of having to share the room with uninvited guests. Douglas, the attendant, profusely apologized for the distress and assured me a suitable replacement would be available later in the day when the full-occupancy state eased with checkouts. As a way of comforting me, Doug disarmingly feigned his surprise that he, being an expatriate himself from New York, was seeing someone from the same city, noted for, among other things, saturated infestation of this species, who would find this particular bug to be such a stranger.I countered that that was why we had traveled 11 hours across the ocean, to get away from them all for our anniversary, which led him and his associate, Suki, to a furious search for an immediate replacement. To my delight, they informed me of having netted a special upgrade on the 22nd floor.With a new key envelope in hand, I hurried into the elevator. But no 22 button to punch, stopping only at 21. I pressed the only remaining one marked PH and there it was on the top floor a two-room suite with a full-function kitchen and panoramic views. No trace of any little creatures ever trespassing the space.My top highlight of the trip all the way from New York was a side-flight to the Big Island for a view of the lava-oozing volcano, but it turned out an utter flop as it was thoroughly rained out from departure to return. All that I could do was, other than listening to the narrative history and geography lessons from the bus driver, to gaze at the rising flume from miles away, with a camera whose lens was mercilessly pelted with rain drops streaming like tears. To add to my misery from the volcano venture, I returned to Aqua darkened by an historic blackout that had spared Honolulu for eons. The only means to get to my top-floor suite was trudging up step by step lit up by emergency generators. For a moment, it occurred to me the upgrade to penthouse was a curse, of having to scale the extra steps from the original 9th floor. But this downer turned into a source of self-pride when I made it up to the top in one pause-less jaunt at my age.My wife, who had had the wisdom of eschewing the volcano in favor of a neighborhood excursion and returned to the room before the island-wide darkness descended, welcomed me in.My wisdom would be to stop here before my tale gets long enough to vie with a NY Times travelogue. But, yes, Aqua Continental remains with us as the highlight for our journey to the mid-Pacific paradise (even though the helpful front desk could not make our stay perfect with an arrangement to say hello to Barack, whose pre-inauguration vacation coincided with ours just a short distance away).In sum, who among the weary travelers will challenge my weighted observation that a genuine touch of goodwill emanating from the hotel staff, above and beyond their perfunctory concern for their charges, can up the sojourner's satisfaction index by an inestimable factor?  
+<Date>Jan 8, 2009
+<Rating>5	5	4	4	4	4	5	4	
+<Aspects>
+19	5(time):1	39(return):1	122(stop):2	246(mean):1	351(add):1	933(ny):1	1274(historic):1	1395(honolulu):1	1440(venture):1	1735(aqua):1	2142(button):1	2266(spare):1	3184(punch):1	3943(blackout):1	5830(tale):1	6361(volcano):1	7063(darken):1	8545(vie):1	9661(misery):1	
+23	0(staff):1	20(look):1	60(hour):1	68(travel):1	131(vacation):1	184(wife):1	205(ocean):1	354(notice):1	372(continental):1	564(reviewer):1	731(feature):1	804(anniversary):1	904(hawaii):1	922(lead):1	1001(counter):1	1248(search):1	1396(surf):1	1735(aqua):1	1761(immediate):1	2593(replacement):1	2648(associate):1	3251(favorable):1	5309(furious):1	
+65	17(view):2	23(little):1	24(floor):4	31(front):1	33(trip):1	36(desk):1	39(return):2	91(guest):1	108(suite):2	118(top):2	128(extra):1	140(deal):1	157(light):1	163(upgrade):2	184(wife):2	202(welcome):1	208(special):1	210(space):1	246(mean):1	342(island):1	366(step):3	415(greet):1	421(neighbourhood):1	424(york):1	461(kitchen):1	520(share):1	527(package):1	581(rain):1	601(enter):1	670(moment):1	734(excursion):1	817(inform):1	882(mark):1	898(thoroughly):1	1025(delight):1	1031(departure):1	1141(highlight):1	1270(original):1	1391(remain):1	1521(favor):1	1722(assign):1	1843(press):1	2076(net):1	2265(hurry):1	2283(occur):1	2428(scale):1	2561(emergency):1	3288(orbitz):1	3402(panoramic):1	3425(penthouse):1	3680(flop):1	4486(creature):1	5180(9th):2	5328(utter):1	5376(darkness):1	5441(protest):1	5920(generator):1	6305(trace):1	6361(volcano):2	6381(22nd):1	6756(descend):1	7981(curse):1	8762(trudge):1	9148(two-room):1	10535(top-floor):1	
+25	41(city):1	120(bus):1	199(surprise):1	297(note):1	424(york):1	563(driver):1	581(rain):1	602(bug):1	662(drop):1	692(mile):1	702(comfort):1	938(particular):1	997(listen):1	1058(strange):1	1343(lesson):1	1436(rise):1	1490(history):1	1605(tear):1	1646(camera):1	3714(stream):1	5443(gaze):1	6706(infestation):1	9228(lens):1	10135(species):1	10501(saturate):1	
+0	
+57	0(staff):2	8(day):1	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	74(perfect):1	79(late):1	115(distance):1	118(top):1	131(vacation):1	134(available):1	136(charge):1	144(short):1	167(choose):1	250(yes):1	267(traveler):1	279(touch):1	372(continental):1	496(concern):1	505(age):1	658(checkout):1	738(beyond):1	748(Paradise):1	843(ours):1	1141(highlight):1	1349(assure):1	1362(journey):1	1391(remain):1	1415(arrangement):1	1446(attendant):1	1485(apologize):1	1519(hello):1	1582(weight):1	1651(sum):1	1655(factor):1	1708(challenge):1	1735(aqua):1	1967(suitable):1	2057(ease):1	2220(genuine):1	2593(replacement):1	2863(satisfaction):1	3186(weary):1	3197(source):1	3337(observation):1	4633(front-desk):1	5019(downer):1	5775(distress):1	6596(jaunt):1	6774(profusely):1	6890(coincide):1	8843(emanate):1	9913(goodwill):1	10631(perfunctory):1	11894(douglas):1	12343(index):1	
+5	216(elevator):1	339(key):1	377(hand):1	2265(hurry):1	5172(envelope):1	
+0	
+
+<Author>gmalorda
+<Content>PLEASANT SURPRISE My husband and I stayed at this hotel on our vacation with friends. I was very pleasantly surprised and enjoyed our stay there very much. The staff were very friendly and accomodating. The room was clean and kept that way. We had everything we needed in it. This hotel is in a really good location, not far (2 blocks)from the beach and we enjoyed walking and after a few hours there we did not get lost at all. This is a little older hotel but it is kept up. I do not agree with the negative reviews I have read. If your looking for a 5 star this is not that, but it is everything a person would need if you want to save money which in turn gives you more to spend elsewhere! I would definately stay there again.  
+<Date>Dec 10, 2008
+<Rating>5	4	3	5	4	5	4	5	
+<Aspects>
+9	23(little):1	37(review):1	51(enjoy):1	88(read):1	199(surprise):1	282(negative):1	410(definately):1	473(agree):1	747(pleasantly):1	
+15	0(staff):1	12(friendly):1	20(look):1	64(spend):1	80(money):1	103(star):1	105(husband):1	131(vacation):1	146(friend):1	150(pleasant):1	193(person):1	199(surprise):1	425(save):1	549(accomodate):1	646(elsewhere):1	
+1	3(clean):1	
+7	1(location):1	7(walk):1	30(beach):1	51(enjoy):1	60(hour):1	100(bloc):1	596(lose):1	
+0	
+0	
+0	
+0	
+
+<Author>monkeybum5
+<Content>Won't be back Coffs Harbour AustraliaDATE: 8/10/2008-24/10/2008Won't be BackWe will not be staying here again. The room was not cleaned very well and the bin in the kitchen was only empteed every 2nd day. Room was very small and when you oened the door you had to push on it with your hip and then when it did open you fell straight onto the bed. There was a connecting door between our room and another room and everytime somebody stayed in the other room they tried to open the door. A sign on the interconnecting door would have been a good idea. The air-con from above leaked all night onto ours and this was very anoying. The mini fridge made weird and wonderful noises and we thought it was going to blow up..We stayed here for 15 days. The room across the hall had a leek and in the hall it was all wet. To dry it out they put a blower on for 3 days which really was anoying. Bathroom very small and lights not in a good place. Staff were nice. Lift did ot work properly on some occasions and stopped at different floors for no reason and then wouod not move. Walls very thin. Bathroom looked liked it had been patched up with silicon. Rang our agent when we arrived back to Australia and told him not to recommend this hotel to anyone. Room for lots of improvement.  
+<Date>Dec 4, 2008
+<Rating>1	1	1	2	1	2	2	-1	
+<Aspects>
+15	8(day):2	15(recommend):1	53(arrive):1	54(door):1	69(tell):1	449(sign):1	487(wo):1	561(harbor):1	639(idea):1	766(agent):1	1150(ring):1	1257(dry):1	1530(australia):1	4949(interconnect):1	9576(blower):1	
+0	
+34	2(night):1	3(clean):1	8(day):1	11(bed):1	13(bathroom):2	20(look):1	24(floor):1	38(lot):1	54(door):3	122(stop):1	157(light):1	207(move):1	253(tried):1	374(reason):1	461(kitchen):1	587(fall):1	591(lift):1	616(hall):2	827(straight):1	841(connect):1	843(ours):1	871(occasion):1	1032(wet):1	1041(push):1	1144(properly):1	1287(leak):1	1326(2nd):1	1486(improvement):1	1491(hip):1	1607(everytime):1	3059(bin):1	3349(air-con):1	3518(patch):1	3687(ot):1	
+2	183(wall):1	754(thin):1	
+0	
+2	0(staff):1	4(nice):1	
+6	48(wonderful):1	94(noise):1	318(fridge):1	448(mini):1	1146(blow):1	1611(weird):1	
+0	
+
+<Author>roaminharry
+<Content>Poor Choice Only one member of the evening staff was helpful, the others acted as if we were a nusiance. While we didn't expect a whole lot for the low price, this hotel was way below par! I have stayed in many low priced hotels in Honolulu but their quality was substantially better. This hotel doesn't even provide the simple amenities such as coffee, soap, etc. on a daily basis. We didn't even get clean towels every day (they did take the dirty ones). The small air conditioner sounded like a Mack Truck every time it cycled on. This is the first time I've slept on a single bed in more than 40 years, talk about uncomfortable. We only stayed there for 3 days of our time!This hotel is way past the need for renovation. The kitchen area was jury rigged and unfinished, the sink wasn't even functional. The enterance light switch was not functional either.Hawai'i was beautiful, this hotel was not!  
+<Date>Nov 20, 2008
+<Rating>1	1	1	3	2	2	2	1	
+<Aspects>
+4	5(time):1	8(day):1	45(beautiful):1	10687(hawai):1	
+14	0(staff):1	14(helpful):1	19(price):2	38(lot):1	62(expect):1	107(choice):1	187(quality):1	331(poor):1	513(low):2	585(below):1	1395(honolulu):1	1666(par):1	2237(act):1	6144(substantially):1	
+30	5(time):2	11(bed):1	73(etc):1	90(coffee):1	104(sleep):1	153(provide):1	157(light):1	164(air):1	291(amenity):1	304(single):1	360(daily):1	371(talk):1	409(sound):1	419(past):1	461(kitchen):1	509(sink):1	613(simple):1	687(renovation):1	856(uncomfortable):1	888(switch):1	965(soap):1	1083(conditioner):1	1348(functional):2	1507(truck):1	1527(basis):1	3813(cycle):1	5489(jury):1	6971(unfinished):1	7865(enterance):1	8916(rig):1	
+0	
+4	3(clean):1	8(day):1	125(towel):1	323(dirty):1	
+0	
+0	
+0	
+
+<Author>NZFreespirits
+<Content>Brilliant Budget Hotel For a budget hotel in Waikiki you can't go wrong. Our booking was for fifteen days and we are on a tight budget. After reading the reviews in Trip Advisor we weren't expecting too much but we were pleasantly surprised to find that we couldn't have chosen better. Sure it's not in the best of conditions and sure we could find fault if we wanted to but we didn't expect 5 star quality for a 1 star price.For the price it does have an excellent location +/- 200 m from the beach, bus stop next door to the hotel (you can travel all round the island for$2.00 from here on The Bus). Free Wi Fi, safe, microwave, coffee maker and an in house guest laundry met our requirements and helped keep costs down. The front desk was extremely helpful, especially Susanna, house keeping kept our room clean clean and tidy and all in all we had a pleasant trouble free stay.  
+<Date>Nov 17, 2008
+<Rating>4	4	3	5	4	4	4	4	
+<Aspects>
+12	33(trip):1	37(review):1	62(expect):1	88(read):1	167(choose):1	199(surprise):1	427(wrong):1	429(budget):2	472(waikiki):1	701(advisor):1	747(pleasantly):1	793(brilliant):1	
+6	19(price):1	62(expect):1	103(star):2	187(quality):1	263(condition):1	517(fault):1	
+12	3(clean):2	14(helpful):1	31(front):1	36(desk):1	46(free):1	110(extremely):1	126(especially):1	150(pleasant):1	281(house):1	569(trouble):1	1100(tidy):1	11643(susanna):1	
+9	1(location):1	19(price):1	21(excellent):1	30(beach):1	54(door):1	68(travel):1	120(bus):2	122(stop):1	342(island):1	
+0	
+0	
+19	8(day):1	18(book):1	46(free):1	90(coffee):1	91(guest):1	92(help):1	137(safe):1	175(cost):1	196(meet):1	281(house):1	429(budget):1	820(microwave):1	996(maker):1	1075(laundry):1	1399(tight):1	2642(requirement):1	4856(fifteen):1	5987(wi):1	6239(fi):1	
+0	
+
+<Author>mahalo544
+<Content>Very nice hotel. Service, location, price excellent Third time I have stayed here in three years. Service is always excellent and you can't beat the price or location. The Aqua Continental is only a couple blocks from the beach and shopping. Tons of nice restaurants nearby as well. The service was excellent as usual. When I asked for something, it was taken care of immediately. Yeah the rooms are small but they are clean and each room comes with a microwave and fridge. The parking is very convienent as you can take the elevator from the garage right to your floor. Most hotels do not have direct access from the garage to your rooms. I will continue to stay here in the future. Mahalo  
+<Date>Nov 13, 2008
+<Rating>4	5	3	5	3	5	4	3	
+<Aspects>
+6	4(nice):1	242(care):1	489(immediately):1	732(future):1	1096(continue):1	5159(mahalo):1	
+7	1(location):2	5(time):1	9(service):2	19(price):2	21(excellent):2	442(beat):1	532(third):1	
+7	3(clean):1	159(access):1	318(fridge):1	803(direct):1	820(microwave):1	936(garage):1	2009(yeah):1	
+6	30(beach):1	49(shop):1	99(couple):1	100(bloc):1	372(continental):1	1735(aqua):1	
+0	
+0	
+12	4(nice):1	9(service):1	10(restaurant):1	21(excellent):1	24(floor):1	66(park):1	216(elevator):1	232(nearby):1	682(usual):1	936(garage):1	967(ton):1	4264(convienent):1	
+0	
+
+<Author>jamieCalifornia
+<Content>Needs Renovation, but Great Location! After reading reviews about the Aqua Continental (actually called the Continental Surf on the building), my husband and I were afraid! But when we got there, we were pleasantly surprised by the decent and clean lobby with friendly staff. However, as we took the elevator up through the halls and into our room, we understood some of the complaints - stained carpet, chipped paint on walls - basically just really old and in need of renovation. But we ran into no roaches or any kind of bugs for that matter, the sheets and towels were clean and the room was basically clean too. It was equipped with a bed, desk, A/C, safe, tv, kitchenette with microwave and mini fridge, and full bath. And for the price, you cannot beat the location - a couple minutes walk to the beach and to the main Waikiki strip with all the shops, restaurants, and resorts. Plus, if you are taking the bus, which we highly recommend especially if you are mostly staying in the Waikiki area, the bus stops close to the hotel diagonally across the street (most bus routes go through Kuhio St.). If you are not too picky about staying at an old, but fairly decent and clean place, this is the place to be for price and location.  
+<Date>Nov 2, 2008
+<Rating>3	3	2	5	3	3	3	-1	
+<Aspects>
+10	37(review):1	67(call):1	88(read):1	105(husband):1	135(build):1	180(actually):1	372(continental):2	1396(surf):1	1544(afraid):1	1735(aqua):1	
+6	1(location):1	3(clean):1	19(price):1	257(decent):1	462(fairly):1	926(picky):1	
+29	1(location):1	3(clean):2	11(bed):1	36(desk):1	116(tv):1	125(towel):1	137(safe):1	149(run):1	183(wall):1	190(complaint):1	216(elevator):1	226(bath):1	318(fridge):1	391(understand):1	396(carpet):1	448(mini):1	479(sheet):1	531(matter):1	602(bug):1	616(hall):1	687(renovation):2	723(stain):1	790(basically):2	806(paint):1	820(microwave):1	884(equip):1	1165(kitchenette):1	1302(chip):1	2357(roach):1	
+25	1(location):1	7(walk):1	10(restaurant):1	15(recommend):1	19(price):1	28(close):1	29(minute):1	30(beach):1	35(street):1	49(shop):1	72(resort):1	99(couple):1	112(main):1	120(bus):3	122(stop):1	126(especially):1	138(highly):1	203(plus):1	442(beat):1	472(waikiki):2	655(st):1	1035(route):1	1379(strip):1	2879(kuhio):1	7477(diagonally):1	
+7	0(staff):1	3(clean):1	12(friendly):1	55(lobby):1	199(surprise):1	257(decent):1	747(pleasantly):1	
+0	
+0	
+0	
+
+<Author>karinkSalzburg
+<Content>good location, good price stayed at the aqua continental for 8 days. first we had a standard room. after discovering a roach in the room, a sleepless night because the AC from above was leaking and dropping down onto ours...which kept us awake all night long - i was ready to move. we good offered a really good deal for the penthouse room. where we stayed for the rest of our stay.the staff was always very helpful. the room was after we moved, very clean, no roaches or bugs anymore. nice kitchen, with fridge and microwave...perfect for travellers as you dont need to spent any money for food which is very expensive in hawaii!!!! the location is brilliant just a few minutes from waiki beach.  
+<Date>Sep 21, 2008
+<Rating>3	5	3	4	3	4	4	3	
+<Aspects>
+1	288(rest):1	
+5	1(location):1	8(day):1	19(price):1	372(continental):1	1735(aqua):1	
+18	2(night):2	3(clean):1	89(offer):1	130(standard):1	140(deal):1	207(move):2	274(ready):1	602(bug):1	662(drop):1	843(ours):1	869(discover):1	956(ac):1	1287(leak):1	1494(awake):1	1853(anymore):1	2357(roach):2	3425(penthouse):1	4250(sleepless):1	
+4	1(location):1	29(minute):1	30(beach):1	793(brilliant):1	
+0	
+2	0(staff):1	14(helpful):1	
+12	4(nice):1	16(food):1	64(spend):1	74(perfect):1	80(money):1	124(expensive):1	267(traveler):1	318(fridge):1	461(kitchen):1	503(dont):1	820(microwave):1	904(hawaii):1	
+0	
+
+<Author>turtlem36
+<Content>Great Location..that's it Great Location, one block from Waikiki Beach. Stayed in Penthouse..Overpriced..Rooms not clean, Air-con didn't work, housekeeping forgot to replace towels everyday, ceiling fan didn't work, oven didn't work...Not one wake up call came through. Better hotels in same street for same price.Don't stay here. Not family friendly..  
+<Date>Aug 25, 2008
+<Rating>2	1	1	3	1	3	1	3	
+<Aspects>
+2	12(friendly):1	106(family):1	
+3	19(price):1	35(street):1	727(overprice):1	
+13	3(clean):1	67(call):1	125(towel):1	367(housekeeping):1	397(forget):1	528(ceiling):1	554(wake):1	605(everyday):1	661(fan):1	912(replace):1	2916(oven):1	3349(air-con):1	3425(penthouse):1	
+4	1(location):2	30(beach):1	100(bloc):1	472(waikiki):1	
+0	
+0	
+0	
+0	
+
+<Author>Bonustrack
+<Content>People stop complaining I first off would like to say this place is not the Ritz, but saying that you absolutely get what you pay for. Most rooms are around 80.00. You definatly get your 80.00 worth. It is 2 blocks away from the beach and all the nice restaurants and clubs to me thats worth 80.00 alone. The rooms are small but its Hawaii get out of the room and lay on a beach. The bathroom was clean and the TV worked just fine. The fact they didn't use a key card really didn't matter. The door closed and the keyworked , I think that is what is suppose to do right? The view is not too bad some are ocean . I was there for a work conference and stayed at a 400 a night hotel the rest of my trip and the view was only a tiny bit better. I think the service was good and were accommodating with leaving my stuff there all day. Lastly I am a travel agent and I would recommend this hotel to anyone who wants to be two blocks from the beach but doesn't want to spend more then 100.00  
+<Date>Jul 30, 2008
+<Rating>3	5	2	5	4	3	3	-1	
+<Aspects>
+8	17(view):1	50(bad):1	96(worth):1	205(ocean):1	292(card):1	339(key):1	531(matter):1	2993(definatly):1	
+11	8(day):1	9(service):1	26(people):1	42(pay):1	43(leave):1	122(stop):1	189(absolutely):1	241(complain):1	480(stuff):1	624(accommodate):1	825(ritz):1	
+4	3(clean):1	13(bathroom):1	113(fine):1	116(tv):1	
+19	2(night):1	15(recommend):1	17(view):1	28(close):1	30(beach):2	33(trip):1	52(bit):1	54(door):1	64(spend):1	68(travel):1	100(bloc):1	288(rest):1	338(tiny):1	620(suppose):1	696(lay):1	766(agent):1	794(conference):1	904(hawaii):1	2322(lastly):1	
+0	
+0	
+7	4(nice):1	10(restaurant):1	30(beach):1	96(worth):1	100(bloc):1	212(club):1	1198(thats):1	
+0	
+
+<Author>fspong
+<Content>CSI wasn't done yet? Our room had stab marks/stains in drywall and a blood stain on the carpet where someone had been stabbed. Couldn't they have cleaned up? Perhaps some spackle over the knife stab holes? Very noisy garbage trucks driving by in the morning was frustrating. Patio and main door locks substandard. Good thing it was just one night! Staff acted like they wished they were somewhere else. After one night, so did we.  
+<Date>Jul 29, 2008
+<Rating>1	1	1	3	1	2	1	1	
+<Aspects>
+14	2(night):2	54(door):1	56(morning):1	112(main):1	217(noisy):1	298(drive):1	774(lock):1	973(patio):1	1218(hole):1	1507(truck):1	1574(frustrate):1	1650(garbage):1	4298(knife):1	4341(substandard):1	
+0	
+4	396(carpet):1	723(stain):1	2718(blood):1	10935(drywall):1	
+0	
+1	3(clean):1	
+4	0(staff):1	170(else):1	384(wish):1	2237(act):1	
+0	
+0	
+
+<Author>FrequentTraveler079
+<Content>Don't Stay Here This hotel was so run-down that as soon as we got into our room, we decided that we wouldn't stay there and called our travel agent to book us somewhere else. The name of the hotel (on the building) wasn't the same as what we had on our confirmation, even though it was the same place. The front door was broken and we had to slide the automatic door open by hand. The staff was rude, the elevator up to the room was small and unstable, the key to the room was a traditional key (metal/not a key card). To get into the room, you had to literally put your shoulder into it, as the door was misalligned. The bed was VERY small and was right next to the tile floor, which didn't seem safe. On top of all that, the window air conditioner was broken. We were so disappointed in the place that we decided to lose our $80 for the night and stay somewhere else. Sometimes it is worth it to pay more money for a decent hotel. Staying here would have ruined our vacation!  
+<Date>Jul 17, 2008
+<Rating>1	1	1	2	1	1	1	1	
+<Aspects>
+8	2(night):1	135(build):1	154(disappoint):1	170(else):1	219(decide):1	295(name):1	596(lose):1	1641(confirmation):1	
+7	42(pay):1	80(money):1	96(worth):1	131(vacation):1	257(decent):1	560(sometimes):1	1243(ruin):1	
+20	11(bed):1	18(book):1	24(floor):1	54(door):1	67(call):1	68(travel):1	118(top):1	119(window):1	137(safe):1	164(air):1	170(else):1	219(decide):1	228(break):1	418(soon):1	665(literally):1	766(agent):1	846(tile):1	1083(conditioner):1	2323(rundown):1	2832(shoulder):1	
+0	
+0	
+6	31(front):1	54(door):2	228(break):1	377(hand):1	1142(slide):1	3444(automatic):1	
+8	0(staff):1	216(elevator):1	292(card):1	339(key):3	392(rude):1	1241(traditional):1	2720(metal):1	12108(unstable):1	
+0	
+
+<Author>tropicalpoet
+<Content>Loved the Aqua Continental at Waikiki I spent three fabulous weeks at the Aqua Continental. David and Suki at the front desk were models of great service and cordiality who made me want to come back as soon as I could. The price of the very clean room was also terrific. But mostly, mahalo to David and Suki for their first class treatment of me and the other guests.  
+<Date>Jul 11, 2008
+<Rating>5	5	4	5	5	5	5	5	
+<Aspects>
+12	40(love):1	64(spend):1	75(week):1	91(guest):1	270(fabulous):1	372(continental):2	470(class):1	472(waikiki):1	1147(treatment):1	1735(aqua):2	1956(david):1	5159(mahalo):1	
+3	3(clean):1	19(price):1	699(terrific):1	
+0	
+0	
+0	
+6	9(service):1	31(front):1	36(desk):1	418(soon):1	1956(david):1	3930(model):1	
+0	
+0	
+
+<Author>zoetropezsh
+<Content>Satisfied! thanks to suzanna. we received an upgrade to an ocean view room on the 19th floor! good view to check out the waves from the room. david (concierge) has great people skills and customer service skills. room was small but clean. no mildew smell. didn't see bugs. sheets are clean with an under padding. A/C working. good hot/cold water pressure. good size cable tv with working channels, microwave, coffee maker, hairdryer, iron, iron stand, free safety deposit box and free daily newspaper. beach is 3 blocks away! dining, some attractions, bus stops, shops are all walking distances. no need to rent a car. woman concierge and security guy on duty night of 6/17 gave us a bus schedule to hanauma bay. our luggage were safely kept till we departed. check-out was noon. departure was 6pm. we were able to still roam around with no luggage hassles. suggestions for change: carpet in elevator, hallway and room. we appreciate the above-average customer service we received!  
+<Date>Jul 4, 2008
+<Rating>3	4	3	5	3	5	5	-1	
+<Aspects>
+10	57(water):1	114(hot):1	121(car):1	271(thank):1	602(bug):1	686(pressure):1	899(satisfy):1	1030(rend):1	1031(departure):1	7686(6pm):1	
+0	
+40	2(night):1	3(clean):1	17(view):2	24(floor):1	32(check):1	46(free):2	83(size):1	90(coffee):1	116(tv):1	120(bus):1	161(change):1	163(upgrade):1	204(concierge):1	205(ocean):1	216(elevator):1	302(receive):1	360(daily):1	368(guy):1	396(carpet):1	444(stand):1	484(cable):1	566(woman):1	580(hallway):1	641(security):1	671(bay):1	741(channel):1	820(microwave):1	836(wave):1	868(iron):2	921(suggestion):1	945(box):1	996(maker):1	1196(schedule):1	1325(duty):1	1372(newspaper):1	1448(safety):1	1493(hairdryer):1	1603(deposit):1	2149(19th):1	6120(hanauma):1	
+9	7(walk):1	30(beach):1	49(shop):1	100(bloc):1	115(distance):1	120(bus):1	122(stop):1	316(dine):1	350(attraction):1	
+5	3(clean):1	231(smell):1	479(sheet):1	1876(mildew):1	2427(pad):1	
+8	9(service):1	26(people):1	204(concierge):1	428(customer):1	658(checkout):1	1309(noon):1	1956(david):1	2611(skill):2	
+12	9(service):1	171(able):1	249(luggage):2	302(receive):1	428(customer):1	500(appreciate):1	979(till):1	1193(hassle):1	1814(depart):1	2958(roam):1	3347(safely):1	7724(above-average):1	
+0	
+
+<Author>Chajuram
+<Content>Nice hotel close to beach This is an extremely inexpensive hotel very close to the beach. The room is small, but we had a direct view of the ocean. I see some not so great reviews, but I think it is great for the price you pay. Also, it is just a block from the beach. There are a number of restaurants and and shopping (at the International Market Place). The staff was helpful and very nice to us.  
+<Date>Jun 22, 2008
+<Rating>5	5	3	5	3	5	5	3	
+<Aspects>
+0	
+3	19(price):1	37(review):1	42(pay):1	
+3	17(view):1	205(ocean):1	803(direct):1	
+11	4(nice):1	10(restaurant):1	28(close):2	30(beach):3	49(shop):1	100(bloc):1	110(extremely):1	264(market):1	335(numb):1	903(international):1	1117(inexpensive):1	
+0	
+3	0(staff):1	4(nice):1	14(helpful):1	
+0	
+0	
+
+<Author>cmcinca
+<Content>A bit less than expected - even for the great price I booked the Aqua Continental with my eyes wide open - I realized that I was getting a bargain rate and an okay hotel. Upon arrival we were quickly checked-in, given a room with an awesome view of the water. However, be aware that the windows are small windows placed above the half-way mark on the wall - so you will have to stand to enjoy your view. As expected, the room was very small, and so was the bathroom. The room was clean and basic - the TV was of an adequate size. The bathroom was also small. The shower head had a stream of water squirting sideways that would get the sink area wet if the curtain wasn't pulled during showers.What was very disappointing to me was the fact that over the course of a 5 night stay, the elevator alarms went off at least four times. This would be loud and annoying for about 7-8 minutes. Mind you, we were only in the room to basically sleep - so I don't know how many times they had this problem after we had checked out.The front desk was of minimal help the one time that I needed an actual answer. When I called down to see about receiving a fax and asked how much it would cost, they told me, We gave you a rate card when you checked in - I asked, can't you just tell me? To which I was told, Then I would have to go and check. Also, the three times that I specifically looked to see which front desk attendant was helping me, none had name tags. I suggest that the employees wear nametags - this might improve service.All in all an okay stay - but I would definately look to stay elsewhere next time on account of the elevator issues and the one employee issue I did have.  
+<Date>Jun 17, 2008
+<Rating>3	3	3	5	3	2	3	3	
+<Aspects>
+3	29(minute):1	416(loud):1	695(annoy):1	
+19	18(book):1	19(price):1	32(check):1	52(bit):1	62(expect):1	67(call):1	69(tell):2	78(rate):2	175(cost):1	292(card):1	302(receive):1	372(continental):1	453(okay):1	607(realize):1	759(bargain):1	860(wide):1	977(eye):1	1735(aqua):1	2536(fax):1	
+26	3(clean):1	5(time):1	13(bathroom):2	17(view):1	32(check):1	57(water):2	61(shower):2	62(expect):1	83(size):1	104(sleep):1	116(tv):1	224(arrival):1	294(mind):1	319(head):1	348(awesome):1	352(basic):1	390(adequate):1	471(quickly):1	509(sink):1	743(curtain):1	790(basically):1	858(pull):1	1032(wet):1	3714(stream):1	5223(checked-in):1	5332(sideways):1	
+8	17(view):1	51(enjoy):1	119(window):2	183(wall):1	444(stand):1	832(aware):1	882(mark):1	9114(half-way):1	
+0	
+15	5(time):2	20(look):1	31(front):2	32(check):1	36(desk):2	69(tell):1	92(help):2	295(name):1	573(none):1	669(answer):1	1446(attendant):1	1536(actual):1	1615(minimal):1	1810(specifically):1	2395(tag):1	
+17	2(night):1	5(time):2	9(service):1	20(look):1	154(disappoint):1	216(elevator):2	265(issue):2	293(course):1	410(definately):1	434(wear):1	452(suggest):1	453(okay):1	608(employee):2	646(elsewhere):1	1217(improve):1	1380(alarm):1	1730(account):1	
+0	
+
+<Author>1simon
+<Content>Run Fast From This Hotel Oh MY GOD This was the BIGGEST MISTAKE i have ever made. I am a Travel Agent and i am so sorry i stayed at this property. We checked in and was disapointed from the start the property is very old, the rooms are small and smell of mildew. We were woken up at 3:30 am by someone setting off the fire sprinkler system on the 12th floor which we were on and flooded the whole floor we had to walk down 12 flights of stairs just to wait outside the motel from hell for an hour before we were allowed to get our bags and moved to another room. The next morning i contacted our tour company and had them move us they moved us to the Aqua Wave which is in the same family only 3 blocks away and incredible we love that hotel the staff is freindly it's clean and we felt safe. And we did not find condom wrappers in the elevator like we did at the Aqua Continental i Will never ever ever book clients to stay at the Aqua Continental i can promise you that. It's not worth the hassle to go thru. And all this happened on our fist night there.  
+<Date>Jun 12, 2008
+<Rating>1	1	1	5	1	2	2	1	
+<Aspects>
+10	2(night):1	96(worth):1	149(run):1	382(happen):1	499(fast):1	895(mistake):1	1193(hassle):1	1231(thru):1	1522(god):1	6175(fist):1	
+6	32(check):1	165(start):1	214(property):1	231(smell):1	1876(mildew):1	2513(disapoint):1	
+19	7(walk):1	24(floor):2	60(hour):1	85(wait):1	98(outside):1	207(move):1	233(flight):1	234(set):1	290(bag):1	359(allow):1	518(system):1	554(wake):1	568(stair):1	991(motel):1	1262(fire):1	1918(hell):1	1927(flood):1	1955(12th):1	8389(sprinkler):1	
+0	
+0	
+16	0(staff):1	3(clean):1	34(feel):1	40(love):1	56(morning):1	100(bloc):1	106(family):1	137(safe):1	181(tour):1	207(move):2	713(contact):1	718(incredible):1	760(company):1	836(wave):1	1735(aqua):1	2779(freindly):1	
+12	18(book):1	68(travel):1	214(property):1	216(elevator):1	372(continental):2	766(agent):1	891(sorry):1	975(promise):1	1735(aqua):2	1952(client):1	5848(condom):1	6956(wrapper):1	
+0	
+
+<Author>transporter321
+<Content>Nice hotel with friendly staff Thanks you for a wonderful stay, great view of Waikiki beach, walking distant to everything. It's an older hotel but clean and safe. The staff was awesome with Susana and Adel in the front desk, and Bernadette with the room service. I will recommend this hotel to my friends. Hope to see ya'll next time. MAHALO!!  
+<Date>Jun 9, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	5(time):1	15(recommend):1	146(friend):1	328(hope):1	3768(ya):1	5159(mahalo):1	
+0	
+0	
+10	0(staff):1	4(nice):1	7(walk):1	12(friendly):1	17(view):1	30(beach):1	48(wonderful):1	271(thank):1	472(waikiki):1	3263(distant):1	
+2	3(clean):1	137(safe):1	
+5	0(staff):1	9(service):1	31(front):1	36(desk):1	348(awesome):1	
+0	
+0	
+
+<Author>whomever
+<Content>best value in waikiki stayed here for 10 days- when you book it on the hotel website, check for deals. i got the deal of getting fifth night free when you book 4 nights. it beat any prices on expedia, kayak and other websites. my room was on the 14th floor with a view of waikiki. room was adequate size for 1 person, would probably feel small for 2 people. it had 2 single beds, micro, fridge, chair, air conditioner, cable tv with 40 channels, phone, good lighting, decent bathroom. excellent waikiki location, one block to a bus stop- you can easily take a bus downtown, to uss arizona, airport, around the island, etc. fare is $2. the hotel room was very clean, maid service was very good, they often left extra toiletries daily. free wifi and laundry in the building. hotel was very quiet at night, but rooms get traffic noise so ask for a room facing north if you want a quieter room. reception desk staff were always nice.  
+<Date>May 23, 2008
+<Rating>4	4	3	5	4	4	4	-1	
+<Aspects>
+0	
+5	19(price):1	262(website):1	442(beat):1	1066(expedia):1	2462(kayak):1	
+36	2(night):1	3(clean):1	9(service):1	11(bed):1	13(bathroom):1	17(view):1	24(floor):1	26(people):1	34(feel):1	43(leave):1	58(quiet):2	83(size):1	94(noise):1	116(tv):1	128(extra):1	157(light):1	164(air):1	178(probably):1	193(person):1	198(chair):1	257(decent):1	296(phone):1	300(maid):1	304(single):1	318(fridge):1	360(daily):1	390(adequate):1	472(waikiki):1	484(cable):1	486(traffic):1	657(toiletry):1	684(North):1	741(channel):1	1083(conditioner):1	1998(14th):1	6196(micro):1	
+14	1(location):1	21(excellent):1	73(etc):1	95(airport):1	100(bloc):1	120(bus):2	122(stop):1	334(downtown):1	342(island):1	438(easily):1	472(waikiki):1	1112(fare):1	3580(arizona):1	10291(uss):1	
+0	
+4	0(staff):1	4(nice):1	36(desk):1	129(reception):1	
+13	2(night):2	8(day):1	18(book):2	32(check):1	46(free):2	81(value):1	135(build):1	140(deal):2	262(website):1	472(waikiki):1	1075(laundry):1	1268(wifi):1	1832(fifth):1	
+0	
+
+<Author>BROYTRAVEL
+<Content>loved it We stayed there for 3 nights. It was a very comfortable room with a micro-fridge. We were upgraded to an ocean view in the 17 th floor. The view was awesome.It was very clean.Very close to the beach. The CSR David was very nice and very professional. We also received complimentary parking for 1 night.  
+<Date>May 14, 2008
+<Rating>4	5	4	5	4	5	5	4	
+<Aspects>
+7	2(night):1	4(nice):1	17(view):1	40(love):1	348(awesome):1	501(professional):1	1956(david):1	
+0	
+6	17(view):1	24(floor):1	25(comfortable):1	163(upgrade):1	205(ocean):1	2505(th):1	
+6	2(night):1	28(close):1	30(beach):1	66(park):1	302(receive):1	345(complimentary):1	
+1	3(clean):1	
+0	
+0	
+0	
+
+<Author>NewPalGal
+<Content>Looking Good!!! I stayed at this hotel last year and the experience was nice, so I returned this year. When I walked into the lobby I was so surprised to see that it had been totally updated. New furniture with a tropical feel, new rugs and beautiful plants. My room had been updated as well with wonderful tropical spreads that made the room have a your on vacation feel to it. Melissa at the front desk was a breath of fresh air with her smile, she always spoke to us and made sure everything was just right to our liking. Thank you Melissa.  
+<Date>Apr 23, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+3	20(look):1	271(thank):1	10528(melissa):1	
+9	4(nice):1	34(feel):1	39(return):1	44(experience):1	48(wonderful):1	131(vacation):1	725(update):1	812(tropical):1	1203(spread):1	
+6	34(feel):1	45(beautiful):1	440(furniture):1	812(tropical):1	1906(plant):1	3016(rug):1	
+5	7(walk):1	55(lobby):1	199(surprise):1	611(totally):1	725(update):1	
+0	
+8	31(front):1	36(desk):1	127(speak):1	164(air):1	197(fresh):1	387(smile):1	2214(breath):1	10528(melissa):1	
+0	
+0	
+
+<Author>JimmeeK
+<Content>Affordable, clean and has a great location to everything After reading some of the reviews for this hotel we were a little worried. But none of our fears became a reality. There were and are no prositutes inside or ouside of the hotel. I think maybe some of the confusion is there is a public transit station outside to the right of the hotel's front door that runs late at night and it is dark. But the hotel itself is well lighted. Actually found that the bus route so close was a nice added feature. It is very close to everything (beach, restruants, shopping) and the staff was very friendly. Our room was cleaned each day and we had no bugs or problems. The staff went out of their way to be friendly and help us. Our room was very clean and yes it is outdated and small but it is clean. If you want large rooms with the best decor and every luxury then this is not the hotel for you. If you want a clean reasonable hotel with friendly staff and a great location then book it with no fears. For you gay travelers this hotel does not discriminate. But this is not the Hilton or the Hyatt. We had a view of Diamnod Head from one window and the ocean from the other. We would have no problems staying there again!  
+<Date>Apr 23, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	267(traveler):1	477(hilton):1	573(none):1	924(hyatt):1	2022(fear):1	2260(reality):1	2552(gay):1	7012(discriminate):1	
+0	
+14	3(clean):3	8(day):1	17(view):1	119(window):1	157(light):1	205(ocean):1	250(yes):1	269(decor):1	319(head):1	408(inside):1	437(luxury):1	602(bug):1	1549(outdated):1	11142(ouside):1	
+34	0(staff):2	1(location):2	2(night):1	3(clean):2	4(nice):1	12(friendly):2	18(book):1	23(little):1	28(close):2	30(beach):1	31(front):1	37(review):1	49(shop):1	54(door):1	79(late):1	82(station):1	88(read):1	98(outside):1	120(bus):1	149(run):1	180(actually):1	273(reasonable):1	308(maybe):1	351(add):1	379(public):1	459(dark):1	731(feature):1	885(worried):1	1035(route):1	1062(affordable):1	2015(transit):1	2022(fear):1	2831(confusion):1	11405(restruants):1	
+0	
+3	0(staff):1	12(friendly):1	92(help):1	
+0	
+0	
+
+<Author>LoveThoseWaves
+<Content>Perfect! A friend told us about this hotel, explaining it was an older hotel and that some remodeling was being done at the time of their stay, but they said that they had such a wonderful time and was treated so well that we thought we would give it a try. They were right, the room was all that we needed, the location perfect for beach going, food, and entertainment. The staff went beyond just being employees but became forever friends to us. When I return to Hawaii in a few years I will stay again.  
+<Date>Feb 7, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+11	5(time):2	39(return):1	48(wonderful):1	69(tell):1	74(perfect):1	76(try):1	146(friend):1	320(treat):1	768(explain):1	904(hawaii):1	1238(remodel):1	
+0	
+0	
+5	1(location):1	16(food):1	30(beach):1	74(perfect):1	340(entertainment):1	
+0	
+5	0(staff):1	146(friend):1	608(employee):1	738(beyond):1	1643(forever):1	
+0	
+0	
+
+<Author>Jennifer6130
+<Content>convience I stayed at this hotel the 2nd time of my travel. I like the location and the convience it gives. 2 blocks from the most famous Waikiki beach and numerous good eatery, many culture restaurants to test your taste bulb. I found Korean deli, Japanese sushi bar , vietnamese flavor and more..........The bus stop is just around the walking block and ready for a busy day to different destination.The hotel has a good functional elevator which does not take too long to get me to 11 th floor.The front staffs are very frienly and helpful. If I have further issue, I go to the hotel manager: Lendy ma who is ready to answer all your questions.I really enjoy my stay and will come back!!!!  
+<Date>Jan 28, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	5(time):1	51(enjoy):1	68(travel):1	1326(2nd):1	7878(convience):1	
+0	
+0	
+27	1(location):1	7(walk):1	8(day):1	10(restaurant):1	27(bar):1	30(beach):1	100(bloc):2	120(bus):1	122(stop):1	220(busy):1	274(ready):1	439(taste):1	472(waikiki):1	559(japanese):1	971(numerous):1	1092(destination):1	1296(famous):1	1497(culture):1	1632(sushi):1	1779(eatery):1	1928(deli):1	2147(flavor):1	2458(bulb):1	2922(test):1	5436(korean):1	6978(vietnamese):1	7878(convience):1	
+0	
+9	0(staff):1	14(helpful):1	31(front):1	258(manager):1	265(issue):1	274(ready):1	394(question):1	669(answer):1	3999(ma):1	
+4	24(floor):1	216(elevator):1	1348(functional):1	2505(th):1	
+0	
+
+<Author>arkieatlanta
+<Content>Great location in wiakiki For a discount hotel we liked the Aqua Continental. It is in a great location in Waikiki only three blocks from the beach. The room had a refrigerator, microwave and sink. There is also onsite parking available for a charge. The staff was great .  
+<Date>Dec 31, 2007
+<Rating>4	4	3	5	3	3	5	2	
+<Aspects>
+0	
+4	1(location):1	372(continental):1	864(discount):1	1735(aqua):1	
+3	509(sink):1	820(microwave):1	916(refrigerator):1	
+8	1(location):1	30(beach):1	66(park):1	100(bloc):1	134(available):1	136(charge):1	472(waikiki):1	2629(onsite):1	
+0	
+1	0(staff):1	
+0	
+0	
+
+<Author>michaelwarehouse
+<Content>No internet If promised high-speed internet is a part of why you consider this hotel, consider something else. The connection is on and off. When it is on, the speed is like coming from dialed modem. Contacting front desk is useless. They only apologize and send a guy to reload the router. Doesn't help. They also offer a dial modem for $100 which is useless too.  
+<Date>Dec 21, 2007
+<Rating>2	2	2	5	1	2	3	1	
+<Aspects>
+5	89(offer):1	92(help):1	2488(useless):1	3250(dial):1	7055(modem):1	
+0	
+0	
+0	
+0	
+4	31(front):1	36(desk):1	713(contact):1	2488(useless):1	
+0	
+13	97(internet):2	170(else):1	248(consider):2	368(guy):1	447(send):1	932(connection):1	975(promise):1	1170(speed):1	1485(apologize):1	3250(dial):1	3436(high-speed):1	7055(modem):1	9645(router):1	
+
+<Author>Jennifer6130
+<Content>Location, Location, Location On August 07 My mom  I stayed at the hotel for 8 days. we were greeted with friendly staff who even offered free safety box . We were staying at 19 th floor where we have very nice city view and the room is quiet and clean. This hotel is just 2 blocks from the paradise waikiki beach and has numerous good and reasonable priced restaurants within walking distance. If we have any questions about the attraction or shopping tips, we talk to the hotel manager, Lendy who is very helpful and resourceful. One time she even provides many valuable info avout the PCC and Cove paradise dance show. the room got cleaned daily and we have ample toiletie and bath towels through the whole time we stay. The air conditioner is a little noisy , yet it keeps us very comfortably cool. The elevator is amazingly quick , unlike some reviews that I read before I show up. Consider we 're on 19 th floor and we don't have to wait long for the elevator . We feel very secure and usually come back to the hotel after 10:00 P.M. without feeling scared.One suggestion to the hotel owner: The hotel needs some cosemic touch up, e.g new carpet through the hallway outside the elevator, new paint inside the room that will brighten up the room and have more decor wall painting etc...  
+<Date>Nov 29, 2007
+<Rating>4	4	3	4	3	4	4	3	
+<Aspects>
+12	5(time):1	34(feel):2	153(provide):1	399(usually):1	748(Paradise):1	757(dance):1	1034(secure):1	1360(info):1	1466(p.m):1	1711(scare):1	1935(valuable):1	5528(cove):1	
+0	
+31	3(clean):2	4(nice):1	5(time):1	17(view):1	23(little):1	24(floor):1	41(city):1	58(quiet):1	73(etc):1	98(outside):1	125(towel):1	164(air):1	183(wall):1	216(elevator):1	217(noisy):1	226(bath):1	269(decor):1	278(cool):1	279(touch):1	360(daily):1	396(carpet):1	408(inside):1	580(hallway):1	672(owner):1	806(paint):2	921(suggestion):1	1083(conditioner):1	1341(ample):1	2155(comfortably):1	2505(th):1	8054(brighten):1	
+21	1(location):3	7(walk):1	8(day):1	10(restaurant):1	14(helpful):1	19(price):1	30(beach):1	49(shop):1	100(bloc):1	115(distance):1	194(tip):1	258(manager):1	273(reasonable):1	350(attraction):1	371(talk):1	394(question):1	472(waikiki):1	748(Paradise):1	971(numerous):1	1855(mom):1	12782(resourceful):1	
+0	
+7	0(staff):1	12(friendly):1	46(free):1	89(offer):1	415(greet):1	945(box):1	1448(safety):1	
+10	24(floor):1	37(review):1	85(wait):1	88(read):1	216(elevator):2	248(consider):1	299(quick):1	1163(unlike):1	1846(amazingly):1	2505(th):1	
+0	
+
+<Author>hollzballz
+<Content>Great Place with Great people My boyfriend and I stayed at this motel the week of oct 25 and we both really enjoyed our stay... The Employees were very nice, and made you feel welcome!  
+<Date>Nov 28, 2007
+<Rating>4	3	3	5	3	4	4	5	
+<Aspects>
+10	4(nice):1	26(people):1	34(feel):1	51(enjoy):1	75(week):1	202(welcome):1	608(employee):1	763(boyfriend):1	991(motel):1	1851(oct):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>TravelBunches
+<Content>Friendly, Clean, and Everything you would need. Continental Surf is right in the middle of the action at Waikiki. My room was clean and the staff was more than helpful in every aspect. The view from the room was not only with ocean view, but city and mountains as well. Susanna was over the top with setting up our transportation needs. We will stay there again when we return to Hawaii.  
+<Date>Nov 17, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+7	39(return):1	325(middle):1	372(continental):1	472(waikiki):1	904(hawaii):1	958(action):1	1396(surf):1	
+0	
+8	0(staff):1	3(clean):1	14(helpful):1	17(view):2	41(city):1	205(ocean):1	1255(aspect):1	1509(mountain):1	
+4	118(top):1	234(set):1	728(transportation):1	11643(susanna):1	
+2	3(clean):1	12(friendly):1	
+0	
+0	
+0	
+
+<Author>trudyrou
+<Content>Loved this Hotel This hotel was reasonably priced. The location is superb for the beach and activities. The staff was most helpful and cheerful at all times. The rooms were clean and well maintained. We would definetly go back and stay there.  
+<Date>Nov 6, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+1	1964(definetly):1	
+3	19(price):1	40(love):1	578(reasonably):1	
+0	
+4	1(location):1	30(beach):1	357(activity):1	407(superb):1	
+2	3(clean):1	562(maintain):1	
+4	0(staff):1	5(time):1	14(helpful):1	1720(cheerful):1	
+0	
+0	
+
+<Author>rwalker66
+<Content>Don't stay here!       View from my room.  
+<Date>Oct 26, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+1	17(view):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>MauiWorldTravelers
+<Content>Never again I was looking for a budget-priced room in Waikiki for 2 nights (mainly to sleep in after partying into the early morning hours). Didn't expect it to be this hopeless.If you have a car, make sure you're not traveling alone. There is no porte-cochere or even a small area to pull off to the side of Kuhio Ave. to check in. The parking garage is accessible only by gate code, which you receive after you check in and pay $18/day. (Note: Pay for only 1 night of parking! The gate code didn't change, nor did the check the dates on the reciept).You receive 2 keys, one for the door, one for the safe.Got a room on the 9th floor. Apparently, my friend who was in a room on the 12th floor, claims his room was nicer than mine.The central AC isn't working, so the window units were put in, which kept the room very cold. Pulled off the bedspread, which revealed an old, orange wool blanket. Luckily, the sheets were clean!The bathroom is okay. No place to cleanly store the soap bar. Water pressure was strong and the drain wasn't clogged (very surprised). Basin area is very small. Shampoo, conditioner and lotion provided.Drawer which stores the phone books was dirty and had left over food particles inside. The phone looked totally disgusting. The lights over the desk wasn't working.Tried to cash a check. They don't do it.I've stayed at some Motel 6's in the mainland, which were half the price of the Aqua Continental and were so much cleaner.If you're on a budget and don't care about a clean, fresh-feeling type of room, this place is for you. I'm going to do my homework a little bit better next time!  
+<Date>Oct 2, 2007
+<Rating>1	1	1	5	1	2	1	1	
+<Aspects>
+22	5(time):1	20(look):1	23(little):1	52(bit):1	54(door):1	57(water):1	62(expect):1	68(travel):1	121(car):1	137(safe):1	199(surprise):1	296(phone):1	302(receive):1	339(key):1	611(totally):1	686(pressure):1	893(strong):1	1152(disgust):1	1489(drain):1	3685(clog):1	4434(homework):1	8028(hopeless):1	
+11	2(night):1	3(clean):1	19(price):1	42(pay):1	66(park):1	283(half):1	297(note):1	372(continental):1	991(motel):1	1735(aqua):1	3552(mainland):1	
+42	2(night):1	3(clean):1	4(nice):1	13(bathroom):1	20(look):1	24(floor):2	27(bar):1	36(desk):1	56(morning):1	60(hour):1	104(sleep):1	119(window):1	146(friend):1	153(provide):1	157(light):1	168(central):1	222(cold):1	242(care):1	255(store):1	363(party):1	389(type):1	429(budget):1	453(okay):1	472(waikiki):1	858(pull):1	863(apparently):1	956(ac):1	965(soap):1	980(unit):1	1051(shampoo):1	1077(claim):1	1083(conditioner):1	1104(orange):1	1177(mainly):1	1269(mine):1	1369(blanket):1	1873(lotion):1	1955(12th):1	2278(bedspread):1	4381(reveal):1	5180(9th):1	9101(wool):1	
+5	32(check):1	858(pull):1	1433(ave):1	2813(basin):1	2879(kuhio):1	
+12	3(clean):1	16(food):1	18(book):1	43(leave):1	255(store):1	296(phone):1	323(dirty):1	408(inside):1	479(sheet):1	1200(luckily):1	1426(drawer):1	11456(particle):1	
+9	32(check):2	161(change):1	253(tried):1	511(date):1	970(nor):1	992(gate):1	1082(cash):1	2161(code):1	11644(reciept):1	
+8	32(check):1	42(pay):1	66(park):1	302(receive):1	936(garage):1	992(gate):1	1342(accessible):1	2161(code):1	
+0	
+
+<Author>LasVegasTraveller
+<Content>It is not as bad as I expected We somehow got booked into this hotel through a travel agent. There were very bad review on this hotel so I was worried getting to this hotel, yet we both thought it was fine.Location was excellent. There is a good access to restaurants and stores nearby. It is about a block away from the beach. I thought the room was clean and very accomodating for what we paid for this hotel room. The only problem that I had with this hotel was that friendliness of the clerks. I found them very offensive in different ways. I tried to ask how to get around town, yet many of them gave me a bad attitude. It felt like front desk clerks were trying to avoid a lot of customer interactions. If you do not mind bad customer service, check out this hotel. It is worth your money, except parking which is incredibly expensive.  
+<Date>Sep 1, 2007
+<Rating>3	4	3	5	4	1	1	2	
+<Aspects>
+10	37(review):1	50(bad):2	113(fine):1	239(town):1	253(tried):1	788(clerk):1	821(attitude):1	885(worried):1	1754(friendliness):1	4350(offensive):1	
+9	3(clean):1	42(pay):1	66(park):1	80(money):1	96(worth):1	124(expensive):1	337(except):1	549(accomodate):1	807(incredibly):1	
+0	
+4	1(location):1	21(excellent):1	30(beach):1	100(bloc):1	
+0	
+13	9(service):1	31(front):1	32(check):1	34(feel):1	36(desk):1	38(lot):1	50(bad):1	76(try):1	294(mind):1	428(customer):2	436(avoid):1	788(clerk):1	3428(interaction):1	
+10	10(restaurant):1	18(book):1	50(bad):1	62(expect):1	68(travel):1	159(access):1	232(nearby):1	255(store):1	766(agent):1	2017(somehow):1	
+0	
+
+<Author>Chowkitty
+<Content>Worst Hotel I have ever stayed at The staff when we checked in were not helpful. The room wassmelly and the carpet was in bad shape. The sinks, fridge andfloors were not sanitary. The cups were not sterile, in fact they had lipstick on them from the previous guest. The replacements I requested were also dirty they had been used for someones ash trays in the past. The bedding was too small for the bed and had cigerette burns in the sheets. There were cockroaches crawling around in the elevators and hall ways. The noise from others woke us up through out the night. The maids used dirty towels to wipe out the tumblers each day and just smeared the dirt around. I will never stay in this hotel or any other offered by this company. This was my second trip to Oahu and it was supposed to be a comfortable one!!. The parking at the hotel was $18.00 per day and was not mentioned on their website or any other on the web. Just picking up the phone cost a dollar per time, local or not. Having worked as a manager to hotels in the past I found it less than satisfactory and not even close to health code standards!!!! Very disapointing!!!!!  
+<Date>Aug 2, 2007
+<Rating>1	1	1	2	1	1	1	2	
+<Aspects>
+13	2(night):1	25(comfortable):1	33(trip):1	91(guest):1	94(noise):1	373(previous):1	554(wake):1	620(suppose):1	800(cup):1	1673(oahu):1	2513(disapoint):1	3811(sterile):1	6641(lipstick):1	
+6	5(time):1	175(cost):1	195(local):1	266(pick):1	296(phone):1	430(dollar):1	
+9	11(bed):2	50(bad):1	318(fridge):1	396(carpet):1	479(sheet):1	509(sink):1	1226(shape):1	1289(burn):1	6041(sanitary):1	
+12	8(day):1	28(close):1	66(park):1	130(standard):1	244(mention):1	258(manager):1	262(website):1	419(past):1	1019(web):1	1736(health):1	2059(satisfactory):1	2161(code):1	
+13	8(day):1	125(towel):1	148(request):1	300(maid):1	323(dirty):2	419(past):1	1767(tray):1	2004(dirt):1	2593(replacement):1	2969(wipe):1	5471(ash):1	7809(smear):1	12833(tumbler):1	
+4	0(staff):1	14(helpful):1	32(check):1	50(bad):1	
+4	216(elevator):1	616(hall):1	2110(cockroach):1	2371(crawl):1	
+2	89(offer):1	760(company):1	
+
+<Author>bedegh
+<Content>Great Room Room was great ..Coming to Hawaii next year I want the same room again--walking distance of everything......No problems..........Aqua is Great.............  
+<Date>Jul 8, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+1	1735(aqua):1	
+0	
+3	7(walk):1	115(distance):1	904(hawaii):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Adwina
+<Content>Location! Location! Location! Excellent Location! Small Beds. Small Rooms. Clean.We were able to do much more during our stay because of the money that we saved.  
+<Date>Jul 1, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	80(money):1	171(able):1	425(save):1	
+0	
+1	11(bed):1	
+2	1(location):4	21(excellent):1	
+1	3(clean):1	
+0	
+0	
+0	
+
+<Author>RatherBeDiving
+<Content>A step above a hostel, but for one night it was okay       The view from our room  
+<Date>May 4, 2007
+<Rating>2	2	1	2	2	3	3	-1	
+<Aspects>
+0	
+0	
+5	2(night):1	17(view):1	366(step):1	453(okay):1	1560(hostel):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>mjgriffy
+<Content>Saving Money is not *this* important I have stayed in a dozen different Waikiki hotels, and I am really not a picky guest (I believe you get what you pay for). But, for my money, the Continental would be my very last choice. The bad: Dark dank rooms with dirty carpet and old finishes. No lanai (balcony) on any of the rooms. Poor ventilation. Non-working lobby facilities. Etc etc. And yes, there are many friendly and lovely ladies outside, just trying to make a living.On the bright side: The location is great, central Waikiki, on the busline, walking distance to the beach, the park, zoo, IMP. But, for an additional $20 you can do so much better. Never pay more than $75/nt for this property, and then only stay here as a last resort. Otherwise, be forewarned: 鈥淲e told you so鈥︹€?As always; I travel to Waikiki several times a year, I can advise that Waikiki is a nice tropical urban adventure. The city comes with the negatives of a big city, along with the overwhelming benefits of a beautiful beachfront resort. Generally, everything in Waikiki is 鈥渁 little tired鈥?although there have been continuous improvements in the last few years. If you are traveling solo, take Roberts Hawaii from the airport for $10 (no rsvr rqd).Two or more people, take a taxi from the airport to the hotel (should be under $30). In Waikiki, nearly everything is walking distance or a short shuttle/bus away. If you need a car for the day, you can rent one in Waikiki.  
+<Date>Mar 2, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+22	4(nice):1	5(time):1	8(day):1	23(little):1	68(travel):1	69(tell):1	73(etc):2	121(car):1	331(poor):1	454(tire):1	472(waikiki):4	508(otherwise):1	663(advise):1	812(tropical):1	835(additional):1	1030(rend):1	1486(improvement):1	1861(adventure):1	2667(ventilation):1	2673(urban):1	4083(forewarn):1	5329(continuous):1	
+12	42(pay):2	72(resort):1	80(money):2	91(guest):1	107(choice):1	214(property):1	312(believe):1	372(continental):1	425(save):1	472(waikiki):1	926(picky):1	1874(dozen):1	
+13	50(bad):1	68(travel):1	95(airport):1	191(balcony):1	323(dirty):1	396(carpet):1	459(dark):1	772(finish):1	904(hawaii):1	1741(lanai):1	3526(solo):1	5405(dank):1	11810(roberts):1	
+29	1(location):1	7(walk):2	12(friendly):1	26(people):1	30(beach):1	41(city):2	45(beautiful):1	66(park):1	72(resort):1	76(try):1	87(lovely):1	95(airport):1	98(outside):1	115(distance):2	144(short):1	168(central):1	185(taxi):1	206(live):1	250(yes):1	282(negative):1	321(shuttle):1	472(waikiki):2	521(lady):1	880(bright):1	896(nearly):1	1511(zoo):1	1524(benefit):1	1992(overwhelm):1	2572(beachfront):1	
+0	
+0	
+3	55(lobby):1	211(facility):1	9206(non-work):1	
+0	
+
+<Author>steveandrewMontreal
+<Content>Great little Hotel! Aloha!....Great small hotel...prime location,CHEAP,nice modern small rooms with all that is needed,even wireless internet connection in every room...awesome! Just bring your laptop people!Only one downside is no balconies...but hey!..u are in Hawaii...just go outside! lol! :)I will def. go back ,nice staff too!Mahalo!  
+<Date>Jan 20, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	23(little):1	26(people):1	142(bring):1	1111(laptop):1	2200(aloha):1	2431(lol):1	2802(def):1	5159(mahalo):1	
+0	
+3	191(balcony):1	782(downside):1	1367(hey):1	
+2	98(outside):1	904(hawaii):1	
+0	
+2	0(staff):1	4(nice):1	
+0	
+9	1(location):1	4(nice):1	97(internet):1	143(cheap):1	151(modern):1	348(awesome):1	717(wireless):1	932(connection):1	1774(prime):1	
+
+<Author>sassielas
+<Content>Loved my stay!!       View from Aqua Continental Hotel Room  
+<Date>Nov 21, 2006
+<Rating>4	5	4	5	5	5	5	4	
+<Aspects>
+1	40(love):1	
+0	
+3	17(view):1	372(continental):1	1735(aqua):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>OneGuy
+<Content>Not bad at all Had I followed the previous negative reviews, I would not have stayed at this hotel this past August. Since I read that this hotel has been taken over by Aqua resorts and I was under a tight budget, I decided to give it a shot. The location was right on the bus line and right at the center of Waikiki, which is perfect since I didn't rent a car. I was pleasantly surprised when I checked in. There are only 2 elevators, but the wait was not long. The room was small but good enough for a single person. It has a microwave and a refrigerator. There were plenty of towels, more than I needed. The shower was pretty good. I believe the room wall has been repainted and decorated with some art painting. You can check out the room here:www.tripadvisor.com/Hotel_Review-g60982-d114032-Reviews-Aqua_Continental-Honolulu_Oahu_Hawaii.htmlI didn't smell anything bad like other reviewers have mentioned. I didn't see any bugs at all. I stayed on 12th floor in a room with one queen bed and a table with a chair. It has a relatively new window AC unit which kept the room cool enough in the middle of summer. The room was pretty clean because the maid came in to clean my room every day. Don't get me wrong. This is no 2 stars hotels. It still uses the traditional key to open the door, but who cares. The hotel was fully booked (100%) when I checked out.I have few minor complaints. The cable is kind of suck because it doesn't have CNN, CNBC, FOX, ESPN which I watch quite often. There is no internet access inside the room if you have a laptop. I saw people using the internet at the lobby level, but I doubt if it was free. There is no continental breakfast except free coffee every morning at the main lobby. Other than those minor inconveniences, I have no problem with this hotel at all considering that I only paid $60+tax/night in mid August. The reason I don't have a lot of complaint may be the fact that I'm not a picky person when come to hotel stay. My philosophy is that the hotel is simply a place for you to rest and sleep, and you are not supposed to spend a lot of time in your hotel room. I do NOT need luxury stuffs like: swiming pool, indoor gym, big room with couches or sofas, in room hair dryer (I brought my own) and shirt iron, free daily in-room coffee, mini-bar, newspaper delivered to front door (you have to go down to the lobby to pickup newspaper if you want). These amenities are not important to me. If you need these amenities, stay at some other hotels which cost you a lot hec more.Oh, some reviewers said to beware of the prostitutes on the street outside or even in the hotel. That's nonsense. I didn't see any of such things. I don't know what the hec they're talking about. I probably wouldn't have been able to distinguish who is who, anyway. How the hec would one know? In general, I don't mind coming back to this hotel again unless I want to spend a lot of time on the internet and watch TV. In which case I'd probably want to stay at Aqua Palm or something like that.  
+<Date>Sep 22, 2006
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+41	37(review):1	38(lot):1	50(bad):1	54(door):1	72(resort):1	88(read):1	171(able):1	178(probably):2	190(complaint):2	193(person):1	219(decide):1	242(care):1	245(watch):1	282(negative):1	291(amenity):1	339(key):1	371(talk):1	373(previous):1	374(reason):1	417(anyway):1	419(past):1	427(wrong):1	429(budget):1	482(follow):1	484(cable):1	602(bug):1	720(minor):1	820(microwave):1	916(refrigerator):1	926(picky):1	987(palm):1	1241(traditional):1	1399(tight):1	1735(aqua):2	1778(shoot):1	1902(suck):1	2101(cnn):1	5930(fox):1	5955(nonsense):1	6172(espn):1	6208(distinguish):1	
+10	38(lot):1	42(pay):1	103(star):1	175(cost):1	248(consider):1	291(amenity):1	720(minor):1	798(tax):1	1313(mid):1	1431(inconvenience):1	
+47	3(clean):2	5(time):2	8(day):1	11(bed):1	24(floor):1	32(check):1	38(lot):2	50(bad):1	61(shower):1	64(spend):2	97(internet):2	104(sleep):1	109(pretty):2	116(tv):1	119(window):1	159(access):1	183(wall):1	193(person):1	198(chair):1	229(table):1	231(smell):1	244(mention):1	245(watch):1	278(cool):1	288(rest):1	294(mind):1	300(maid):1	304(single):1	305(decorate):1	312(believe):1	325(middle):1	405(unless):1	408(inside):1	488(simply):1	543(Queen):1	564(reviewer):1	620(suppose):1	789(art):1	806(paint):1	853(summer):1	913(relatively):1	956(ac):1	980(unit):1	1111(laptop):1	1955(12th):1	6657(repaint):1	8960(philosophy):1	
+13	1(location):1	35(street):1	74(perfect):1	98(outside):1	101(center):1	120(bus):1	121(car):1	188(line):1	472(waikiki):1	564(reviewer):1	737(beware):1	1030(rend):1	3230(prostitute):1	
+0	
+4	18(book):1	32(check):2	199(surprise):1	747(pleasantly):1	
+38	6(breakfast):1	22(pool):1	26(people):1	31(front):1	46(free):3	54(door):1	55(lobby):3	56(morning):1	85(wait):1	90(coffee):2	97(internet):1	112(main):1	125(towel):1	142(bring):1	158(plenty):1	166(own):1	216(elevator):1	306(level):1	337(except):1	360(daily):1	372(continental):1	437(luxury):1	480(stuff):1	523(gym):1	631(deliver):1	729(hair):1	842(sofa):1	868(iron):1	952(doubt):1	1192(couch):1	1209(dryer):1	1301(in-room):1	1338(mini-bar):1	1372(newspaper):2	1680(indoor):1	1844(shirt):1	2258(pickup):1	7598(swime):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Horrible Nightmare       room with a view  
+<Date>Feb 28, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+0	
+0	
+3	17(view):1	544(horrible):1	1534(nightmare):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>I've stayed in worse hotels, but not often.       Mauka view  
+<Date>Feb 6, 2006
+<Rating>2	2	2	-1	2	-1	1	-1	
+<Aspects>
+2	17(view):1	50(bad):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Worst Hotel On The Entire Island!!!!! Like Sleeping In A Dumpster!!!! I would rate this hotel less than terrible, but the site wont let me. SAVE YOUR MONEY...LOOK ELSEWHERE...DONT BOTHER WITH THIS HOTEL...YOU HAVE BEEN WARNED!!!!!First, I park my rental in the hotel parking garage, i walk through the entrance and smell this horrid sewer smell...I AM NOT JOKING! I check-in and am informed i must pay $15 PER DAY, to park my car in the hotel parking garage...ABSOLUTELY ABSURD!!! I get to my closet sized room, and try to check my e-mail..(the hotel advertises free high speed internet on the web)....I cant connect to the web...i go back down to the lobby in an elevator that sounds and rides like it is going to collapse at any given moment...and ask how to get on the net....they inform me i must pay to use one of the 4 computers they have in the lobby...at $6 PER HOUR!! At this point another guest comes out of the elevator and informs the clerk that her room had not been cleaned that day and they were out of toiletries and towels...they clerk had none to give....I was extremely tempted at this point to ask for my money back and find another hotel... I should have...my room got cleaned 1 time in 4 nights!!!MY MISTAKE...I REALLY AND TRULY SHOULD HAVE!!! This was my first trip to Hawaii, and this hotel ruined my entire stay!!! THIS HOTEL IS UNFIT FOR A DISEASED HOOKER!!!!!  
+<Date>Jan 6, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+17	20(look):1	33(trip):1	50(bad):1	80(money):1	307(bother):1	329(entire):2	342(island):1	425(save):1	476(truly):1	503(dont):1	646(elsewhere):1	679(warn):1	895(mistake):1	904(hawaii):1	1243(ruin):1	4905(hooker):1	10017(unfit):1	
+0	
+6	32(check):1	76(try):1	83(size):1	104(sleep):1	565(closet):1	5167(dumpster):1	
+13	7(walk):1	66(park):2	78(rate):1	192(site):1	231(smell):2	432(terrible):1	490(entrance):1	936(garage):1	963(rental):1	1175(joke):1	1820(wont):1	3882(sewer):1	4509(horrid):1	
+0	
+9	8(day):1	42(pay):1	66(park):2	121(car):1	189(absolutely):1	286(check-in):1	817(inform):1	936(garage):1	5507(absurd):1	
+14	2(night):1	3(clean):2	5(time):1	8(day):1	80(money):1	91(guest):1	110(extremely):1	125(towel):1	216(elevator):1	573(none):1	657(toiletry):1	788(clerk):2	817(inform):1	3086(tempt):1	
+18	42(pay):1	46(free):1	55(lobby):2	60(hour):1	97(internet):1	216(elevator):1	218(ride):1	409(sound):1	555(computer):1	670(moment):1	817(inform):1	841(connect):1	910(advertise):1	1019(web):2	1145(cant):1	1170(speed):1	2076(net):1	5350(collapse):1	
+
+<Author>flansy
+<Content>It was just fine We stayed for five nights at this hotel over the New Year holiday. This was not the nicest hotel I have ever stayed in, however it is also not the most expensive hotel I have ever stayed in. The advertisement photos are misleading, and I would liken this hotel to a Motel 6 or other budget hotel. However, the location was amazing. I鈥檓 impressed you can stay this close to the beach for as cheap as we did. We had a rental car and were able to find parking every night regardless of how late we stayed out. The front desk was a little slow, but then again everything seemed a little slower and little more relaxed on the island.The room had a full size bed, normal sized bathtub over shower, TV, good air conditioning, microwave and a mini-fridge. Considering this was a place to store our belongings, sleep and shower, this place was right on the money for us. You could stay at a nicer place, and if you鈥檙e the kind of person who spends a great deal of their vacation in their room then choose another hotel. If you want to save your money for food, souvenirs, and activities and be right by everything this could be the hotel for you. Just keep in mind it is small and basic, but we really didn鈥檛 need more.  
+<Date>Jan 4, 2006
+<Rating>3	4	2	-1	3	-1	3	-1	
+<Aspects>
+8	2(night):1	113(fine):1	223(holiday):1	429(budget):1	761(photo):1	991(motel):1	2221(mislead):1	11465(liken):1	
+7	4(nice):2	64(spend):1	124(expensive):1	131(vacation):1	140(deal):1	167(choose):1	193(person):1	
+15	11(bed):1	61(shower):2	80(money):1	83(size):2	104(sleep):1	116(tv):1	164(air):1	248(consider):1	255(store):1	263(condition):1	820(microwave):1	878(normal):1	1023(bathtub):1	2426(belongings):1	2828(mini-fridge):1	
+16	1(location):1	2(night):1	28(close):1	30(beach):1	66(park):1	79(late):1	121(car):1	143(cheap):1	145(amaze):1	171(able):1	294(mind):1	343(impress):1	352(basic):1	963(rental):1	1022(didn):1	2012(regardless):1	
+0	
+6	23(little):3	31(front):1	36(desk):1	160(relax):1	342(island):1	455(slow):2	
+5	16(food):1	80(money):1	357(activity):1	425(save):1	2504(souvenirs):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>We were robbed! Hated this hotel. The rooms were small and reminded us of our college dorms but worse! We returned from having spent a lovely day on the windward side of the island only to find my suitcase stolen from our hotel room. Management didn't do anything about it. I did not get reinbursed for the stolen items. We asked the manager to call the police and all the police officer did was write out a report. Every souvenir for relatives and friends along with ten rolls of film was in the suitcase that was stolen from the room. There was no sign of forced entry so whoever broke into the room must have had a key. Which lead us to believe it was a staff member. We spoke to a local who works at Macy's at the mall and he confirmed Continental Surf has had problems with theft. Tourists are better off staying at The Breakers where prices are reasonable and the staff friendly.  
+<Date>Dec 9, 2005
+<Rating>1	1	1	-1	3	-1	1	-1	
+<Aspects>
+2	1110(hate):1	3005(rob):1	
+6	0(staff):1	12(friendly):1	19(price):1	209(tourist):1	273(reasonable):1	3744(breaker):1	
+22	8(day):1	39(return):1	50(bad):1	64(spend):1	87(lovely):1	146(friend):1	228(break):1	339(key):1	342(island):1	449(sign):1	813(roll):1	974(suitcase):2	1187(steal):2	1285(remind):1	1550(force):1	1649(entry):1	1925(college):1	2259(relative):1	2345(film):1	3385(souvenir):1	3388(whoever):1	11809(windward):1	
+8	127(speak):1	195(local):1	372(continental):1	643(mall):1	982(confirm):1	1396(surf):1	2370(macy):1	3465(theft):1	
+0	
+10	0(staff):1	67(call):1	258(manager):1	312(believe):1	344(write):1	525(management):1	838(report):1	922(lead):1	1409(police):2	4282(officer):1	
+2	519(item):1	1187(steal):1	
+0	
+
+<Author>CyberChar
+<Content>3 yrs later        Newly renovated bathroom - not sure about the plumbing!  
+<Date>Nov 17, 2005
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+0	
+0	
+6	13(bathroom):1	79(late):1	533(renovate):1	1189(newly):1	2107(plumb):1	3365(yrs):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Shimsoolbo
+<Content>Hawaii in the heaven,Continental Surf hotel in the hell       The room we stayed  
+<Date>Oct 24, 2005
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+0	
+0	
+5	372(continental):1	904(hawaii):1	1363(heaven):1	1396(surf):1	1918(hell):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Worst Vacation of my life! I was one of about 75 girls who were taken to Hawaii with all the money that we raised by selling girl scout cookies and doing SOOO many other fundraisers! We were all exhausted by the time we got to the hotel with the 20 hour flight we just wanted a room to relax in and hang out. That wasnt going to happen that night though. We got our keys after about an hour and they were short about 5 rooms even though we booked this far ahead of time! I went up to my room with my 2 friends who i was sharing a room with and we tried to open the door but it wouldnt open! It looked like someone had broken into the room with a crowbar which REALLY scared me since i was thousands of miles away from home without my parents! To get into the room one of us had to turn the knob and then another person literally had to run into the door and hit it with your shoulder to get into it! Not that that was bad enough when we went in it was all moldy and musty! The windows were shut and you cant open them. And the room was very creepy, it seemed like someone had died in that room. The whole place was dirty! We tried to get another room but they didnt have anymore. We were unhappy with this hotel so we put all of our stuff in the rooms and we left to find another hotel. We couldnt get another one for that night so we went back and there was a strange bottle with a blue substance in it that wasnt there when we left. The beds they give you to sleep on are very uncomfortable. Not one person in my room slept the whole night. When we got up in the morning all of our backs hurt and we only had another long day of walking ahead of us. We left the next day and went to the Pacific Beach Hotel! That hotel was awesome and i would highly recommend that if you are staying in Wikiki Beach  
+<Date>Sep 16, 2005
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+20	2(night):2	43(leave):1	50(bad):1	80(money):1	238(bottle):1	382(happen):1	606(sell):1	625(girl):2	694(blue):1	904(hawaii):1	1016(musty):1	1058(strange):1	1173(cookie):1	1339(wasnt):2	1528(couldnt):1	2046(moldy):1	2055(raise):1	2679(sooo):1	4309(substance):1	9139(scout):1	
+3	50(bad):1	131(vacation):1	426(life):1	
+42	2(night):1	5(time):2	11(bed):1	18(book):1	20(look):1	43(leave):1	54(door):2	60(hour):2	104(sleep):2	119(window):1	141(home):1	144(short):1	146(friend):1	149(run):1	160(relax):1	193(person):2	228(break):1	233(flight):1	253(tried):2	339(key):1	478(hang):1	480(stuff):1	520(share):1	626(didnt):1	665(literally):1	692(mile):1	775(hit):1	856(uncomfortable):1	976(ahead):1	1086(shut):1	1145(cant):1	1197(parent):1	1264(die):1	1711(scare):1	1769(exhaust):1	1849(wouldnt):1	1853(anymore):1	2382(unhappy):1	2832(shoulder):1	3499(creepy):1	3752(thousand):1	4128(knob):1	
+11	7(walk):1	8(day):2	15(recommend):1	30(beach):2	43(leave):1	56(morning):1	138(highly):1	348(awesome):1	976(ahead):1	1575(pacific):1	2320(hurt):1	
+1	323(dirty):1	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>yuck I came to Hawaii with a Girl Scout trip and we stayed one night at this hotel. The rooms are very small, smell wierd, and were dirty. Our toilet didn't even work. After over 20 hours of traveling with the time change, the last thing we wanted to deal with, was bugs in our room, and toilets that didn't work. The next morning we went to the Pacific Beach Hotel which was a few blocks down.I HIGHLY reccomend that hotel, we had no problems at all and the staff was very friendly  
+<Date>Aug 17, 2005
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	2(night):1	33(trip):1	330(toilet):1	625(girl):1	904(hawaii):1	3151(yuck):1	9139(scout):1	
+0	
+7	5(time):1	60(hour):1	68(travel):1	140(deal):1	161(change):1	330(toilet):1	602(bug):1	
+4	30(beach):1	56(morning):1	100(bloc):1	1575(pacific):1	
+3	231(smell):1	323(dirty):1	5503(wierd):1	
+4	0(staff):1	12(friendly):1	138(highly):1	1513(reccomend):1	
+0	
+0	
+
+<Author>sarahc123
+<Content>Clean rooms, great location, excellent value! We stayed here for 2 nights last week and were extremely happy with our room. We paid around $50 a night and got a very clean, comfortable room with a quiet and powerful air conditioner and a little kitchenette. Yes, the room was extremely small, but that's what $50 a night gets you. Plus, it's not like you're going to spend a lot of time in your room when you're in Honolulu! Based on some of the other (negative) reviews, I'm wondering if rooms on certain floors have been renovated and others not, because our room was very pleasant without a single insect to be seen. We were on the 16th floor. When making a reservation here, maybe one should consider asking if some rooms are newer than others, as many budget hotels have some newer/nicer rooms and some older/worse rooms. We found the front desk staff very helpful and pleasant, without exception. We got extra coffee for our room free of charge and they happily stored our luggage in a secure spot for a full day - the front desk guys wouldn't even let us help them carry it, and we had a lot of stuff! True, there can be line ups at the front desk, but in my experience, this is common even in really nice hotels. The location was excellent - only a few minutes to the beach, the bus (to Diamond Head, Hanauma Bay, Chinatown, etc), restaurants, and shops. Our biggest complaint about this place was the elevator. It took FOREVER to come - we once waited 10 minutes for it to arrive, and a 5 minute wait was the norm. And, there is no staircase (apparently there is an emergency exit staircase, but it is not available for use). The desk staff said that one of the elevators was broken and they were getting it fixed, so maybe that would solve the problem (although we noticed it was still slow even when both elevators seemed to be running). Anyway, even with the elevator problem, we were really pleased with this place. To get a clean, quiet, comfortable place in Waikiki for $50 a night is a fantastic bargain and I would put up with a lot more than a slow elevator for that price!!  
+<Date>Aug 5, 2005
+<Rating>4	5	3	-1	5	-1	4	-1	
+<Aspects>
+0	
+4	1(location):1	3(clean):1	21(excellent):1	81(value):1	
+38	2(night):3	3(clean):1	5(time):1	23(little):1	24(floor):2	25(comfortable):1	37(review):1	38(lot):1	42(pay):1	58(quiet):1	64(spend):1	75(week):1	110(extremely):2	134(available):1	150(pleasant):1	155(happy):1	156(reservation):1	164(air):1	203(plus):1	248(consider):1	250(yes):1	282(negative):1	284(base):1	304(single):1	308(maybe):1	429(budget):1	533(renovate):1	863(apparently):1	946(wonder):1	1083(conditioner):1	1165(kitchenette):1	1354(exit):1	1395(honolulu):1	2026(powerful):1	2029(16th):1	2119(staircase):2	2360(insect):1	2561(emergency):1	
+13	1(location):1	10(restaurant):1	21(excellent):1	29(minute):1	30(beach):1	49(shop):1	73(etc):1	120(bus):1	319(head):1	671(bay):1	1132(chinatown):1	1137(diamond):1	6120(hanauma):1	
+0	
+38	0(staff):2	4(nice):1	8(day):1	14(helpful):1	29(minute):2	31(front):3	36(desk):4	38(lot):1	44(experience):1	46(free):1	53(arrive):1	85(wait):2	90(coffee):1	92(help):1	128(extra):1	136(charge):1	149(run):1	150(pleasant):1	188(line):1	216(elevator):2	228(break):1	249(luggage):1	255(store):1	308(maybe):1	317(spot):1	354(notice):1	368(guy):1	455(slow):1	480(stuff):1	494(fix):1	824(carry):1	830(common):1	1034(secure):1	1128(exception):1	1642(happily):1	1643(forever):1	2094(solve):1	2529(norm):1	
+14	2(night):1	3(clean):1	19(price):1	25(comfortable):1	38(lot):1	58(quiet):1	86(fantastic):1	173(please):1	190(complaint):1	216(elevator):3	417(anyway):1	455(slow):1	472(waikiki):1	759(bargain):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Worst hotel experience This was the worst hotel experience I have ever had. I stayed at this hotel for five days and each day just got worse. On the first day, they did not have the room that we've prepaid for available. So on the second day, they made all the guests change rooms, which was extremely inconvenient. A lot of the guests we spoke w/ agreed that the management and rooms were terrible. The rooms were small and dirty. The bedsheets and towels had stains on it as if they were never washed. Both rooms that I stayed in had tiny bugs crawling all over the tables and walls. I was scared to take off my shoes the entire time in the room b/c the carpets was so filthy. If you're looking for a nice stay in Hawaii, I would not recommend this hotel for you.  
+<Date>Jul 18, 2005
+<Rating>1	1	1	-1	1	-1	2	-1	
+<Aspects>
+6	4(nice):1	8(day):2	15(recommend):1	20(look):1	50(bad):1	904(hawaii):1	
+5	8(day):1	44(experience):2	50(bad):2	134(available):1	2559(prepay):1	
+25	5(time):1	8(day):1	38(lot):1	91(guest):2	110(extremely):1	125(towel):1	127(speak):1	161(change):1	183(wall):1	229(table):1	329(entire):1	338(tiny):1	396(carpet):1	432(terrible):1	473(agree):1	525(management):1	602(bug):1	723(stain):1	811(wash):1	1191(shoe):1	1320(filthy):1	1711(scare):1	2301(inconvenient):1	2371(crawl):1	5338(bedsheets):1	
+0	
+1	323(dirty):1	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very Friendly Place!       Luau in Waikiki Beach  
+<Date>Jun 19, 2005
+<Rating>4	5	3	-1	5	-1	5	-1	
+<Aspects>
+1	12(friendly):1	
+0	
+0	
+3	30(beach):1	472(waikiki):1	4621(luau):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Stay elsewhere, You're worth it! Worst experience ever! and we're from Hawaii. My husband is 6'3 and they only had doubles or twin size beds. Do not expect much as far as service. We asked for an extra pillow 6 times-it didn't show up till the next day. The front desk have no concept of customer service or capable of multi tasking. There is always a line to just turn your key in. Parking garage is a nightmare too. Tight spaces and inconvenient to access. We decided we were worth more and left after a grueling 4 nites. Found a place with an oceanview.  
+<Date>Jun 8, 2005
+<Rating>1	2	1	-1	2	-1	1	-1	
+<Aspects>
+14	8(day):1	43(leave):1	96(worth):2	128(extra):1	188(line):1	219(decide):1	303(pillow):1	339(key):1	646(elsewhere):1	904(hawaii):1	979(till):1	1895(nite):1	2383(oceanview):1	10836(grueling):1	
+2	44(experience):1	50(bad):1	
+9	11(bed):1	83(size):1	105(husband):1	159(access):1	179(double):1	210(space):1	690(twin):1	1399(tight):1	2301(inconvenient):1	
+0	
+0	
+8	9(service):1	31(front):1	36(desk):1	428(customer):1	2354(concept):1	3592(task):1	5081(capable):1	5171(multi):1	
+5	9(service):1	62(expect):1	66(park):1	936(garage):1	1534(nightmare):1	
+0	
+
+<Author>sallyhess
+<Content>perfect layover hotel Stayed here for one night at a rate of 51us including tax. Needed a place quickly for a layover from Sydney to Las Vegas. I had a view of diamond head and pacific front ocean, also a stocked kitchenette. Got this deal at the airport and the bus stops right outside the hotel which is located right up from the Hyatt. A great location, yes I saw some what looked like small flees but for 48 a night and tax I'll share. Also the bathroom was full size with tub and I would stay there again  
+<Date>May 26, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	2(night):1	71(include):1	74(perfect):1	78(rate):1	471(quickly):1	798(tax):1	809(sydney):1	834(las):1	1860(vegas):1	3917(layover):2	
+0	
+11	13(bathroom):1	17(view):1	31(front):1	83(size):1	205(ocean):1	311(tub):1	319(head):1	599(stock):1	1137(diamond):1	1165(kitchenette):1	1575(pacific):1	
+14	1(location):1	2(night):1	20(look):1	84(locate):1	95(airport):1	98(outside):1	120(bus):1	122(stop):1	140(deal):1	250(yes):1	520(share):1	798(tax):1	924(hyatt):1	6726(flee):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Okay for the price, but with problems This hotel was okay in all, although the room that I was in had some kind of parasites that bit me in 15 times. There were also bugs in the bathroom and bed. You can see the bugs crawl around in the bathroom all around the place. This hotel could have been a little better with being clean.  
+<Date>Apr 1, 2005
+<Rating>2	3	2	-1	1	-1	3	-1	
+<Aspects>
+0	
+5	5(time):1	19(price):1	52(bit):1	453(okay):2	7661(parasite):1	
+4	11(bed):1	13(bathroom):2	602(bug):2	2371(crawl):1	
+0	
+2	3(clean):1	23(little):1	
+0	
+0	
+0	
+
+<Author>aussietraveller31
+<Content>Good value We stayed at the Continental Surf Hotel in November 2004. The room was clean and comfortable. The bed was soft and a little uncomfortable. The bathroom was very small. The room was cleaned every day - I suggest if you want to sleep in a little you display the do not disturb sign, the cleaner starts cleaning about 8am.The air conditioning in the room was excellant (very quiet)It would have been good if the hotel had supplied a cleaning cloth and dish washing detergent and dishes for the kitchen sink area.The hotel is located in an excellant location only a 2 min walk to the beach and on a bus route.The staff at the hotel were very friendly expecially the girls on reception.We reported a small plumbing problem and it was attended to and repaired within 15 minutes.Our overall experience of the hotel was it was great value for money and if we were on a budget again and wanted to stay in Waikiki we would stay again. Don't be put off by the bad reviews - you get what you pay for - don't expect a fancy hotel for a budget price - excellent value for money.  
+<Date>Nov 28, 2004
+<Rating>4	5	2	-1	3	-1	3	-1	
+<Aspects>
+0	
+16	19(price):1	21(excellent):1	37(review):1	42(pay):1	44(experience):1	50(bad):1	62(expect):1	70(overall):1	80(money):2	81(value):3	372(continental):1	429(budget):2	472(waikiki):1	796(fancy):1	999(november):1	1396(surf):1	
+31	3(clean):5	8(day):1	11(bed):1	13(bathroom):1	23(little):2	25(comfortable):1	29(minute):1	58(quiet):1	104(sleep):1	164(air):1	165(start):1	263(condition):1	449(sign):1	452(suggest):1	461(kitchen):1	509(sink):1	589(soft):1	811(wash):1	816(dish):2	826(attend):1	838(report):1	856(uncomfortable):1	859(supply):1	1067(disturb):1	1398(repair):1	1864(cloth):1	1917(display):1	2107(plumb):1	2786(excellant):1	5565(detergent):1	7545(8am):1	
+8	1(location):1	7(walk):1	30(beach):1	84(locate):1	120(bus):1	247(min):1	1035(route):1	2786(excellant):1	
+0	
+5	0(staff):1	12(friendly):1	129(reception):1	625(girl):1	5589(expecially):1	
+0	
+0	
+
+<Author>newface
+<Content>What a bargain!! Japenese Massage Therapy Treatment Room in the lobby? Yes, i read the reviews here and i stayed 5 days at 45dollars a nite plus 6 dollars a day for parking. In spite of those reviews..my room was super clean, fridge, air conditioner were excellent, as was the view, new microwave..half block from a city bus stop, a block and a half from the shore of waikiki beach, its in the middle of some grand hotels..i felt safe..i have no complaints. Could even stay there again and recommend it, but rmember, its a budget hotel..  
+<Date>Oct 12, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	15(recommend):1	34(feel):1	37(review):1	137(safe):1	190(complaint):1	429(budget):1	3000(spite):1	
+9	8(day):2	37(review):1	66(park):1	88(read):1	203(plus):1	250(yes):1	430(dollar):1	759(bargain):1	1895(nite):1	
+8	3(clean):1	17(view):1	21(excellent):1	164(air):1	318(fridge):1	464(super):1	820(microwave):1	1083(conditioner):1	
+10	30(beach):1	41(city):1	100(bloc):2	120(bus):1	122(stop):1	283(half):2	325(middle):1	365(grand):1	472(waikiki):1	1695(shore):1	
+0	
+0	
+5	55(lobby):1	730(massage):1	1147(treatment):1	5640(japenese):1	6848(therapy):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Skip this hotel! We had booked this hotel over the Internet while on the Big Island of Hawaii, and therefore had not seen it first. We didn't want to spend a lot , but did want something fairly decent. We arrived at this hotel, where there was construction right outside the front door - not a problem, we wouldn't hear it as we would not be there most of the time. The first room that we stayed in had some sort bodily fluids on the comforter, and pubic hair on the walls. The room that they transferred us to had dirt and hair on the plate where the water glasses were held. The third room (we just wanted somewhere to sleep by then) was fine, but that was enough, so we found another hotel, which was 100 times better, just down the road and not much more expensive. This hotel did have a great view, and they do give you a free cup of coffee in the morning, if you dare to use the cups.  
+<Date>Jul 28, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	1429(skip):1	
+0	
+23	5(time):1	38(lot):1	57(water):1	64(spend):1	104(sleep):1	113(fine):1	124(expensive):1	183(wall):1	230(road):1	257(decent):1	327(glass):1	462(fairly):1	532(third):1	557(sort):1	593(hold):1	729(hair):2	1002(plate):1	1021(transfer):1	1694(comforter):1	2004(dirt):1	6769(pubic):1	7310(fluid):1	12710(bodily):1	
+7	5(time):1	31(front):1	53(arrive):1	54(door):1	98(outside):1	132(hear):1	583(construction):1	
+0	
+0	
+10	17(view):1	18(book):1	46(free):1	56(morning):1	90(coffee):1	97(internet):1	342(island):1	800(cup):2	904(hawaii):1	3275(dare):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Ok if you're on a budget! Like other reviewers mentioned before me, I was a little hesitant about staying at this place. There're reasons for that.....the room is semi-wet and smells moldy. (I brought an air freshener to neutralize that.) There's no guaranteed parking if you rented a car. I had to hassle with them to guarantee me parking every day of my trip. The electricity went out and it could not be fixed. I had to move all of my belonging in the middle of the night to another room. If you're on a budget, this would be the ideal place to go. The staff are approachable and accomodating. It is a quaint small room with microwave, bathroom, cable tv, etc. It's within walking distance to the beautiful beach of Waikiki, the International Market Place, and numerous restaurants/stores/shops. This trip was still great regardless of where you stay......Make the best of your trip where ever you are.  
+<Date>Jul 8, 2004
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	23(little):1	33(trip):2	123(ok):1	244(mention):1	429(budget):2	494(fix):1	545(ideal):1	564(reviewer):1	2012(regardless):1	2712(electricity):1	2898(hesitant):1	
+3	0(staff):1	549(accomodate):1	4800(approachable):1	
+16	2(night):1	13(bathroom):1	73(etc):1	116(tv):1	142(bring):1	164(air):1	207(move):1	231(smell):1	325(middle):1	374(reason):1	484(cable):1	820(microwave):1	1295(quaint):1	2046(moldy):1	2927(belong):1	4101(freshener):1	
+16	7(walk):1	8(day):1	30(beach):1	33(trip):1	45(beautiful):1	66(park):2	115(distance):1	121(car):1	264(market):1	472(waikiki):1	903(international):1	971(numerous):1	1097(rent):1	1193(hassle):1	1471(guarantee):2	3920(restaurants):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very Good Place to Stay Whilst on a Budget I stayed at the Continental Surf Hotel in the last week of May 2004.My friend had already booked this hotel and I was a little worried after reading other reviews on this site but I was pleasantly surprised.My room was spacious with 2 single beds (for one person), clean, it had cable TV, the bathroom was a decent size and also very clean.The staff were divine and helpful, they had a little shop in the lobby where you could book day tours - which we did so. The hotel is situated two blocks from the beach which is very handy. A little tip, to avoid crowds on the beach, go around 5pm (obviously you can do your day trips during the day), you wont get the harshness of the sun, the beach is practically empty and there are no annoying people on annoying pink lilos' bumping into people and surfers' alike! Believe me, if you've been there before you'll know what I'm talking about!The particular area of beach that I am talking of is situated in front of the police station/surf kiosk/and the Sheraton Moana Surfrider Hotel, (another tip SMSH has a wonderful bistro and cafe!!).Friends and I stayed at the Continental for a little over a week and did not want to go home. I cannot recommend this place enough to anyone wishing to go to Waikiki on a budget. I dont understand the negative remarks that are being stated on this board for this hotel. My friends and I enjoyed our stay, so much so that we are planning to go back in September 2004.Kind regards,AB  
+<Date>Jun 23, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+23	15(recommend):1	23(little):1	51(enjoy):1	75(week):2	141(home):1	146(friend):2	221(plan):1	282(negative):1	312(believe):1	371(talk):1	372(continental):2	384(wish):1	391(understand):1	429(budget):2	472(waikiki):1	503(dont):1	600(board):1	877(whilst):1	930(regard):1	972(september):1	1396(surf):1	3429(remark):1	6251(ab):1	
+0	
+10	3(clean):2	11(bed):1	13(bathroom):1	83(size):1	111(spacious):1	116(tv):1	193(person):1	257(decent):1	304(single):1	484(cable):1	
+42	8(day):2	18(book):1	23(little):2	26(people):2	30(beach):4	31(front):1	33(trip):1	37(review):1	48(wonderful):1	82(station):1	88(read):1	100(bloc):1	146(friend):1	192(site):1	194(tip):2	199(surprise):1	275(cafe):1	313(crowd):1	371(talk):1	420(sun):1	436(avoid):1	574(situate):2	695(annoy):2	747(pleasantly):1	755(handy):1	781(obviously):1	810(empty):1	885(worried):1	938(particular):1	1013(sheraton):1	1409(police):1	1820(wont):1	1850(practically):1	1901(moana):1	2121(pink):1	2162(bump):1	2585(bistro):1	3330(kiosk):1	3586(surfrider):1	3764(alike):1	3926(surfer):1	7134(5pm):1	
+0	
+0	
+9	0(staff):1	8(day):1	14(helpful):1	18(book):1	23(little):1	49(shop):1	55(lobby):1	181(tour):1	3481(divine):1	
+0	
+
+<Author>cappu
+<Content>Klein und fein       Wenn man in die Berge f盲hrt kann man solch sch枚ne Aussichten haben.  
+<Date>Dec 4, 2008
+<Rating>2	3	3	1	3	5	4	3	
+<Aspects>
+4	1264(die):1	7183(rt):1	9898(sch):1	11428(und):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>k-ramel08
+<Content>Bon h么tel !!!       NOtre chambre  
+<Date>Mar 13, 2008
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+4	752(el):1	2154(notre):1	3576(bon):1	3867(chambre):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

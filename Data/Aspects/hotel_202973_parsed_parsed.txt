@@ -1,0 +1,742 @@
+<Author>gr-mj
+<Content>Really horrible       electrical wires  
+<Date>Sep 23, 2008
+<Rating>1	1	1	5	1	3	3	-1	
+<Aspects>
+3	544(horrible):1	1904(wire):1	2555(electrical):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>LoveToTravel1962
+<Content>Just as advertised This is a good mid-range hotel. The bedroom was decent sized and clean, if a little under lit (dark) inside. The bathroom was small, with a tiny shower. We are average sized people and if one of you sits on the toilet, your elbow touches the glass of the shower stall. When you are in the shower, you have to turn off the water between shampooing your hair and soaping your body, because there is no room to move, to get out of the spray of the shower while in the glass enclosure. The pool area could use a little upkeep and landscape work, but the pool itself was clean. All that being said, the front desk people were extremely nice and eager to please. Breakfast was pretty good with a selection of hot and cold items to choose from. The hotel is well located. 2 blocks from the train station and about 1 mile from the Accademie and Uffizi Gallery. There is a good, moderately priced pizza/pasta restaurant almost across the street from the hotel. The hotel's own restaurant was ok, but kind of high priced for the type of restaurant it is.  
+<Date>Sep 19, 2008
+<Rating>3	3	3	4	3	4	4	-1	
+<Aspects>
+2	910(advertise):1	5434(mid-range):1	
+8	10(restaurant):3	19(price):2	35(street):1	123(ok):1	166(own):1	389(type):1	678(pizza):1	3195(moderately):1	
+27	3(clean):1	13(bathroom):1	23(little):1	26(people):1	57(water):1	61(shower):4	83(size):2	157(light):1	169(sit):1	207(move):1	227(average):1	257(decent):1	268(bedroom):1	279(touch):1	327(glass):2	330(toilet):1	338(tiny):1	408(inside):1	459(dark):1	729(hair):1	965(soap):1	1051(shampoo):1	1099(spray):1	1352(body):1	1701(stall):1	6187(elbow):1	6568(enclosure):1	
+7	82(station):1	84(locate):1	100(bloc):1	182(train):1	692(mile):1	1794(gallery):1	1940(uffizi):1	
+5	3(clean):1	22(pool):2	23(little):1	1496(landscape):1	4642(upkeep):1	
+7	4(nice):1	26(people):1	31(front):1	36(desk):1	110(extremely):1	173(please):1	1604(eager):1	
+7	6(breakfast):1	109(pretty):1	114(hot):1	167(choose):1	222(cold):1	333(selection):1	519(item):1	
+0	
+
+<Author>sandritacollazo
+<Content>Really Bad The worst hotel I've ever been!!!Not clean, smells bad including carpet and matress!The only good is that is close to train station!  
+<Date>Sep 5, 2008
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	50(bad):2	
+0	
+0	
+3	28(close):1	82(station):1	182(train):1	
+6	3(clean):1	50(bad):1	71(include):1	231(smell):1	396(carpet):1	3298(matress):1	
+0	
+0	
+0	
+
+<Author>stefzk
+<Content>Great View, Great Location This hotel had a very authentic Italian feel. The staff was very warm and helpful, and even helped us book a couple of day trips to Pisa, and to Siena. It was very near the train station and bus stops to get to the day trips which was also nice. The food was amazing, and we even ended up with a room with an unexpected view!  
+<Date>Aug 26, 2008
+<Rating>5	4	5	5	5	4	5	3	
+<Aspects>
+0	
+0	
+4	16(food):1	17(view):1	145(amaze):1	2372(unexpected):1	
+13	1(location):1	4(nice):1	8(day):1	17(view):1	33(trip):1	34(feel):1	82(station):1	102(near):1	120(bus):1	122(stop):1	182(train):1	358(italian):1	1886(authentic):1	
+0	
+10	0(staff):1	8(day):1	14(helpful):1	18(book):1	33(trip):1	92(help):1	99(couple):1	236(warm):1	3810(pisa):1	5325(siena):1	
+0	
+0	
+
+<Author>maggie23
+<Content>Great hotel in Florence Have just had a great three nights stay at Croce di Malta The hotel although near to the railway station is in a very quiet location and within easy walking distance of all the main attractions. It is five minutes walk to the departure point of the many bus excursions. across the road are shops to buy water,(needed as everyday was very hot) wine etc. There are also plenty of places to eat near buy and there is the local market and indoor food market within a 10 minute walk both are a must.The hotel staff could not be more helpful and any query we had was answered without any hesitation and if directions asked a map produced and the places and route marked on it. The breakfast was very nice and again the staff very good. We had a junior suite which was on two floors with a sitting room downstairs with television and up stairs to the bedroom with another television. The air conditioning was wonderful and needed because of the heat. Everywhere was very clean. some of the rooms had a balcony. There is also a roof garden with bar but we did not use that there is also a swimming pool and seating area on the ground floor. The only problem we had was with the bathroom which was very small but we managed. it was a very welcoming place to return to after a long day sightseeing. i would stay here again without hesitation  
+<Date>Aug 8, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+1	1373(hesitation):1	
+0	
+15	13(bathroom):1	24(floor):1	48(wonderful):1	108(suite):1	164(air):1	169(sit):1	191(balcony):1	263(condition):1	268(bedroom):1	539(heat):1	568(stair):1	645(manage):1	691(downstairs):1	964(junior):1	1158(television):2	
+36	1(location):1	2(night):1	7(walk):3	8(day):1	16(food):1	29(minute):2	39(return):1	47(eat):1	49(shop):1	57(water):1	58(quiet):1	73(etc):1	82(station):1	93(easy):1	102(near):2	112(main):1	114(hot):1	115(distance):1	120(bus):1	158(plenty):1	195(local):1	202(welcome):1	230(road):1	251(wine):1	264(market):2	280(buy):2	346(florence):1	350(attraction):1	605(everyday):1	640(sight-see):1	734(excursion):1	1031(departure):1	1680(indoor):1	2002(railway):1	3881(di):1	4811(croce):1	
+1	3(clean):1	
+12	0(staff):2	4(nice):1	6(breakfast):1	14(helpful):1	395(direction):1	669(answer):1	724(map):1	882(mark):1	1035(route):1	1373(hesitation):1	2538(produce):1	3041(query):1	
+8	22(pool):1	24(floor):1	27(bar):1	261(swim):1	310(garden):1	504(seat):1	636(roof):1	706(grind):1	
+0	
+
+<Author>alanjgreenhalgh
+<Content>My favorite hotel in Florence I have been to Florence 14 times and stayed here 11 times. It is a wonderful place to stay. The front desk people are great. There is a swimming pool in its charming back garden, a lovely lobby, very nice rooms (some with balconies), and a sumptuous breakfast room. The hotel is a 10 minutes walk from the train station. As you exit the station take the left exit, cross the street, and walk to via della Scala. There are many restaurants nearby, and the Uffizi and Accademia a 15 - 20 min walk. The Arno is a short walk.  
+<Date>Jun 4, 2008
+<Rating>5	5	4	5	5	5	5	-1	
+<Aspects>
+4	5(time):2	48(wonderful):1	346(florence):2	376(favourite):1	
+0	
+0	
+18	7(walk):4	10(restaurant):1	29(minute):1	35(street):1	43(leave):1	82(station):2	144(short):1	182(train):1	232(nearby):1	247(min):1	512(via):1	1228(cross):1	1354(exit):2	1940(uffizi):1	2117(arno):1	2806(accademia):1	4266(della):1	8971(scala):1	
+0	
+3	26(people):1	31(front):1	36(desk):1	
+10	4(nice):1	6(breakfast):1	22(pool):1	55(lobby):1	87(lovely):1	191(balcony):1	261(swim):1	310(garden):1	332(charm):1	4321(sumptuous):1	
+0	
+
+<Author>Staidthere
+<Content>What a great way to see Florence       Room 411 was large  
+<Date>May 30, 2008
+<Rating>4	5	5	5	5	5	5	4	
+<Aspects>
+0	
+0	
+1	346(florence):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Husker49
+<Content>Liked this hotel We had one of the larger rooms in this hotel and it was the best room we had during our Italian tour. The room was spacious and well furnished. The room interior and bathroom was modern by European standards. Unlike many hotels, it had three english-speaking stations on the TV. The location was outstanding - very close to shopping, siteseeing, restaurants, and two blocks from the train terminal. We had a very nice experience here and found the staff accomodating. We found none of the problems discussed by the negative reviews on this website. The only negative issue we had was that since our room was on the street side, it was noisy at night. Otherwise, a great experience.  
+<Date>May 27, 2008
+<Rating>4	4	4	5	4	4	4	-1	
+<Aspects>
+0	
+5	0(staff):1	4(nice):1	44(experience):2	508(otherwise):1	549(accomodate):1	
+18	2(night):1	13(bathroom):1	35(street):1	82(station):1	111(spacious):1	116(tv):1	130(standard):1	151(modern):1	181(tour):1	217(noisy):1	265(issue):1	282(negative):1	358(italian):1	582(european):1	787(furnish):1	1026(interior):1	1163(unlike):1	4788(english-speake):1	
+14	1(location):1	10(restaurant):1	28(close):1	37(review):1	49(shop):1	100(bloc):1	182(train):1	262(website):1	282(negative):1	534(outstanding):1	573(none):1	1261(terminal):1	2690(discuss):1	7501(siteseeing):1	
+0	
+0	
+0	
+0	
+
+<Author>mrsgeorgie
+<Content>Not bad, but small room!!! The Hotel is nice..it has a nice bar area with a piano..breakfast is okay...the room was tiny...tiny ..tiny. However, every room in this hotel is different. If you're lucky, you'll get one of the bigger rooms.Our shower was very small..but like I said..every room is different.It wouldn't hurt to put a call in and make a special request.Location was great..Staff was pleasant.Good stay.  
+<Date>Apr 8, 2008
+<Rating>3	3	3	4	5	3	5	-1	
+<Aspects>
+2	4(nice):1	338(tiny):1	
+0	
+6	6(breakfast):1	50(bad):1	61(shower):1	338(tiny):2	453(okay):1	797(lucky):1	
+1	1(location):1	
+0	
+6	0(staff):1	67(call):1	148(request):1	150(pleasant):1	208(special):1	2320(hurt):1	
+3	4(nice):1	27(bar):1	2016(piano):1	
+0	
+
+<Author>L1982013
+<Content>Would Stay Again Great location and great staff. The hotel restaurant was very good as well. The only downside was that we were in a room that was on the main street and the windows were very thin and we could hear EVERYTHING. However, the hotel was very clean with nice aspects (pool, rooftop bar, etc). Would stay again.  
+<Date>Nov 21, 2007
+<Rating>4	4	3	5	4	5	5	3	
+<Aspects>
+0	
+0	
+6	35(street):1	112(main):1	119(window):1	132(hear):1	754(thin):1	782(downside):1	
+2	0(staff):1	1(location):1	
+7	3(clean):1	4(nice):1	22(pool):1	27(bar):1	73(etc):1	1063(rooftop):1	1255(aspect):1	
+0	
+1	10(restaurant):1	
+0	
+
+<Author>piero1
+<Content>We'll go back to the Croce di Malta Hotel We had a reception room and mezzanine bedroom for four days early November 2007. Our window opened onto a romantic tuscan terrace. Everything was well maintained and spotlessly clean. Staff members were a joy to deal with. Judging by the substantial breakfasts which some of our fellow guests were consuming I don't think we could criticise the management for being mean with food. When we looked hard we did discover the odd spot of mold on the bathroom wall and sometimes we could discern a musty smell. I have to say we would not have noticed these minor defaults had it not been that they were mentioned in some of your earlier reviews. The biggest surprise came at the end of our stay when we got the Bill. This was well below our calculations. We will definitely use this hotel again, which is more than I can say for a few of the top namers I've stayed at elsewhere in Europe.  
+<Date>Nov 8, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	37(review):1	59(definitely):1	118(top):1	199(surprise):1	244(mention):1	354(notice):1	495(bill):1	585(below):1	646(elsewhere):1	700(europe):1	720(minor):1	7552(default):1	
+0	
+23	8(day):1	13(bathroom):1	20(look):1	119(window):1	129(reception):1	162(hard):1	183(wall):1	231(smell):1	268(bedroom):1	317(spot):1	560(sometimes):1	673(terrace):1	707(romantic):1	869(discover):1	999(november):1	1016(musty):1	1088(odd):1	1138(mold):1	2855(tuscan):1	3881(di):1	4811(croce):1	5224(mezzanine):1	5447(discern):1	
+0	
+3	3(clean):1	562(maintain):1	1094(spotlessly):1	
+3	0(staff):1	140(deal):1	2486(joy):1	
+10	6(breakfast):1	16(food):1	91(guest):1	246(mean):1	525(management):1	1742(fellow):1	2389(judge):1	2970(substantial):1	3310(consume):1	4864(criticize):1	
+0	
+
+<Author>american36
+<Content>not great just ok       view from room  
+<Date>Sep 13, 2007
+<Rating>2	3	3	4	3	4	2	3	
+<Aspects>
+0	
+0	
+2	17(view):1	123(ok):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Ness90
+<Content>Real character and charm in Florence We really liked this hotel!! and feel that some of the reviews are totally unfair. The hotel is a very old convent building and although our room (and bathroom) was quite small it had real character with very high ceilings and lovely old furniture. It was also spotlessly clean. We asked for, and got, a room with a balcony overlooking the pool which was a lovely quiet place for pre-dinner drinks. The pool area with sunbeds woud have been used more if we hadn't chosen three rainy days in August to visit Florence, but when we did sit down there a lifeguard/barman was always on duty.We also telephoned to say we would be arriving late and were greeted by name by the very friendly and helpful receptionist.Perhaps the people who didn't like this hotel are used to the big soulless modern chains, whereas we thought this hotel typified the charm of Florence, and was perfectly situated for sight-seeing.However, although the breakfast was a perfectly nice continental breakfast, dinner in the restaurant was very ordinary - do try the 13 Gobbis just around the corner.  
+<Date>Aug 28, 2007
+<Rating>4	3	3	4	3	4	4	-1	
+<Aspects>
+4	240(real):1	332(charm):1	346(florence):1	1049(character):1	
+0	
+28	8(day):1	13(bathroom):1	22(pool):2	34(feel):1	37(review):1	58(quiet):1	63(drink):1	65(visit):1	87(lovely):2	135(build):1	167(choose):1	169(sit):1	191(balcony):1	240(real):1	260(overlook):1	346(florence):1	440(furniture):1	528(ceiling):1	611(totally):1	1049(character):1	1325(duty):1	2300(rainy):1	2826(sunbed):1	4435(unfair):1	4849(lifeguard):1	6611(pre-dinner):1	6736(convent):1	7184(woud):1	
+10	26(people):1	151(modern):1	332(charm):1	346(florence):1	574(situate):1	595(perfectly):1	627(chain):1	640(sight-see):1	3517(whereas):1	6621(soulless):1	
+2	3(clean):1	1094(spotlessly):1	
+8	12(friendly):1	14(helpful):1	53(arrive):1	79(late):1	295(name):1	415(greet):1	855(receptionist):1	1692(telephone):1	
+9	4(nice):1	6(breakfast):2	10(restaurant):1	76(try):1	117(dinner):1	200(corner):1	372(continental):1	595(perfectly):1	2025(ordinary):1	
+0	
+
+<Author>bratrph
+<Content>stay somewhere else The one good thing about this hotel is the location. That's it. Small dark rooms with no AC. My husband woke up sweating every morning. We asked the front desk 3 times for help with the AC. On our first night there no lights worked in the room. The bathroom was comical..be prepared to get bruised while showering, can't move an arm without smacking into the wall.  
+<Date>Aug 16, 2007
+<Rating>2	2	1	4	3	3	2	-1	
+<Aspects>
+4	56(morning):1	105(husband):1	554(wake):1	2514(sweat):1	
+0	
+13	2(night):1	13(bathroom):1	61(shower):1	157(light):1	183(wall):1	207(move):1	459(dark):1	460(prepare):1	956(ac):1	1726(arm):1	3069(smack):1	6837(comical):1	6897(bruise):1	
+2	1(location):1	170(else):1	
+0	
+5	5(time):1	31(front):1	36(desk):1	92(help):1	956(ac):1	
+0	
+0	
+
+<Author>dma
+<Content>location isn't everything We were booked into this hotel by the tour company. Yes, it's across the street from Santa Maria Novella, but location isn't everything. The orange paint on the walls was nightmarish. The bathroom flooded with the first shower. The strange tub/shower pan was slippery and we were very careful to avoid falling. We were on the first floor and the street noise was quite loud. The AC couldn't keep up with this July's intense heat. And yes, there was a musty odor in the halls. The only good news for this hotel is the pool.I gave the tour company an earfull. There are many lovely hotels in Florence. I wouldn't recommend this one.  
+<Date>Aug 12, 2007
+<Rating>1	1	1	3	1	2	1	-1	
+<Aspects>
+19	15(recommend):1	22(pool):1	87(lovely):1	250(yes):1	311(tub):1	346(florence):1	436(avoid):1	539(heat):1	587(fall):1	616(hall):1	897(careful):1	956(ac):1	1016(musty):1	1058(strange):1	1628(odor):1	1725(news):1	2125(pan):1	2857(slippery):1	4489(intense):1	
+0	
+7	13(bathroom):1	24(floor):1	35(street):1	61(shower):1	94(noise):1	416(loud):1	1927(flood):1	
+12	1(location):2	18(book):1	35(street):1	181(tour):1	183(wall):1	250(yes):1	760(company):1	806(paint):1	1104(orange):1	1510(santa):1	1833(mare):1	3407(novella):1	
+0	
+0	
+0	
+2	181(tour):1	760(company):1	
+
+<Author>4stones
+<Content>A HUGE disappointment When we arrived at the Hotel we were assigned 2 rooms on the first floor. Upon entering the rooms one had the A/C fan running full speed. The other room the A/C wasn't working. The rooms both had a very foul odor of mold and mildew. We asked to be moved. The staff wasn't happy about doing so but complied and we were given rooms on the 3rd floor. No odor, but in need of a good scrubbing. Our small children were excited to have a pool. It was also run down and in need of cleaning. No bar was ever open at the motel. If you wanted a drink you had to get it from the life guard at the pool! The grounds around the pool are run down and not cared for. The roof top bar is a joke.(when it was open) This place has a lot of potential. It needs a lot of work to be considered a 4 star. The cold breakfast was the worst we have ever had and we have stayed in 7, 4-5 star hotels through out Italy. This place needs to be reavaluated.The decor is severly out dated. The location was the only thing it has going for it.  
+<Date>Jul 20, 2007
+<Rating>1	1	1	4	1	2	2	-1	
+<Aspects>
+9	22(pool):1	38(lot):1	149(run):1	207(move):1	242(care):1	285(ground):1	1628(odor):1	1995(potential):1	3706(scrub):1	
+7	6(breakfast):1	38(lot):1	50(bad):1	103(star):2	222(cold):1	248(consider):1	900(italy):1	
+20	0(staff):1	24(floor):2	53(arrive):1	133(huge):1	149(run):1	155(happy):1	269(decor):1	511(date):1	601(enter):1	661(fan):1	866(disappointment):1	1138(mold):1	1170(speed):1	1628(odor):1	1722(assign):1	1876(mildew):1	2097(3rd):1	4058(foul):1	7151(comply):1	11466(severly):1	
+4	1(location):1	22(pool):1	277(child):1	1136(excite):1	
+2	3(clean):1	149(run):1	
+0	
+9	22(pool):1	27(bar):2	63(drink):1	118(top):1	426(life):1	636(roof):1	991(motel):1	1175(joke):1	1762(guard):1	
+0	
+
+<Author>tracycuvin
+<Content>Don't stay here! We stayed at this hotel for 4 horrible nights at the end ofour otherwise enjoyable stay in Italy. The room was verysmall, especially the bathroom. The toilet leaked andthe air conditioning could only be turned on by your key cardto the room. The air conditioning did not work well at all.The worst part was the mosquitos that kept getting in ourroom through the window. We had huge welts from themand got a terrible sleep each night. Very disappointed andwill never go there again.Tracy- New Jersey  
+<Date>Jul 18, 2007
+<Rating>1	1	1	2	1	3	1	1	
+<Aspects>
+7	2(night):1	154(disappoint):1	508(otherwise):1	544(horrible):1	567(enjoyable):1	900(italy):1	3248(jersey):1	
+0	
+16	2(night):1	13(bathroom):1	50(bad):1	104(sleep):1	119(window):1	126(especially):1	133(huge):1	164(air):2	263(condition):2	330(toilet):1	339(key):1	432(terrible):1	1054(mosquito):1	1287(leak):1	8890(welt):1	10994(andthe):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>QA1
+<Content>NEVER AGAIN This place was terrible and wouldn't have been my choice of hotel (was chosen by my tour company). The hotel had a foul smell of mould. The air conditioning could only be turned off via reception and no matter how many times we told them to keep it off for our stay it would continually be turned back on. The buffet breakfast was disappointing, no hot food. The key card constantly stopped working to the room which meant extra trips to reception to get the master key to access the room.  
+<Date>Jun 2, 2007
+<Rating>1	1	3	2	1	3	3	-1	
+<Aspects>
+0	
+5	107(choice):1	167(choose):1	181(tour):1	432(terrible):1	760(company):1	
+17	5(time):1	33(trip):1	69(tell):1	122(stop):1	128(extra):1	129(reception):2	159(access):1	164(air):1	246(mean):1	263(condition):1	292(card):1	339(key):2	512(via):1	531(matter):1	995(constantly):1	2337(master):1	3831(continually):1	
+0	
+3	231(smell):1	1138(mold):1	4058(foul):1	
+0	
+5	6(breakfast):1	16(food):1	77(buffet):1	114(hot):1	154(disappoint):1	
+0	
+
+<Author>LucianoValentino
+<Content>Not Again We were put into this hotel by a tour company whose services I do not intend to use again. The room was extremely small and the shower compartment was a tub with the shower head in the center which may a good shower next to impossible. The food service was good according to European standards but not to our needs (I'm a diabetic). Service was poor.  
+<Date>May 5, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+7	61(shower):3	101(center):1	110(extremely):1	311(tub):1	319(head):1	1169(impossible):1	8961(compartment):1	
+0	
+0	
+0	
+10	9(service):3	16(food):1	130(standard):1	181(tour):1	331(poor):1	582(european):1	760(company):1	1862(intend):1	2019(accord):1	12414(diabetic):1	
+0	
+
+<Author>zetts
+<Content>Great location We stayed here with a tour group and had a room overlooking the street. It was everything I could have asked for -- lots of restaurants in the area, snack shops, could walk to all the places we wanted to stay. Very helpful staff -- we had trouble with the internet and they helped us log on and use the connection. Would recommend this to anyone. Lovely garden and good restaurant.  
+<Date>Apr 19, 2007
+<Rating>4	4	4	5	4	4	4	4	
+<Aspects>
+1	15(recommend):1	
+0	
+0	
+9	1(location):1	7(walk):1	10(restaurant):1	35(street):1	38(lot):1	49(shop):1	181(tour):1	260(overlook):1	406(snack):1	
+0	
+0	
+3	10(restaurant):1	87(lovely):1	310(garden):1	
+7	0(staff):1	14(helpful):1	92(help):1	97(internet):1	569(trouble):1	932(connection):1	3437(log):1	
+
+<Author>cwhoffma
+<Content>Filthy and Smells The hotel building should be gutted or torn down.It has significant plumbing/sewage problems which produces a strong odor throughout the East wing of the building.Exterior/street rooms are also very noisy....  
+<Date>Apr 11, 2007
+<Rating>1	1	1	2	1	2	2	-1	
+<Aspects>
+8	135(build):1	445(throughout):1	893(strong):1	948(east):1	1515(wing):1	1628(odor):1	2362(significant):1	2538(produce):1	
+0	
+2	217(noisy):1	1828(exterior):1	
+0	
+5	135(build):1	231(smell):1	1320(filthy):1	1605(tear):1	4650(gut):1	
+0	
+0	
+0	
+
+<Author>jinxyminxy
+<Content>Some of these reviews are unfair       our hotel room  
+<Date>Apr 9, 2007
+<Rating>4	4	4	5	5	5	5	5	
+<Aspects>
+0	
+0	
+2	37(review):1	4435(unfair):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>TravelJunkie6987
+<Content>Excellent Location/Hotel       Florence  
+<Date>Apr 5, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+3	1(location):1	21(excellent):1	346(florence):1	
+0	
+0	
+0	
+0	
+
+<Author>Suzy52
+<Content>Good base for sight seeing Situated round the corner from the bus terminus was handy. We were given a large double room - parquet flooring, wooden furniture and a view of the street outside. Beware the shower in the bathroom, as the curtain that surround it is not long enough to stop the water flooding the floor so usually the floor is soaking wet!It does get cold at night - we went in Dec, so i used up all the blankets as the heating switches itself off at night.The breakfast was tasty - a buffet full of a selection of sweet pastries, breads, cereals etc.The hotel is within walking distance of everything but far enough not to be on the main drag.  
+<Date>Mar 13, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	2(night):2	222(cold):1	539(heat):1	888(switch):1	1369(blanket):1	1508(dec):1	
+0	
+19	13(bathroom):1	17(view):1	24(floor):3	35(street):1	57(water):1	61(shower):1	98(outside):1	122(stop):1	179(double):1	399(usually):1	440(furniture):1	667(surround):1	737(beware):1	743(curtain):1	1032(wet):1	1468(soak):1	1756(wooden):1	1927(flood):1	11053(parquet):1	
+7	120(bus):1	200(corner):1	284(base):1	411(sight):1	574(situate):1	755(handy):1	4690(terminus):1	
+0	
+0	
+13	6(breakfast):1	7(walk):1	73(etc):1	77(buffet):1	112(main):1	115(distance):1	333(selection):1	497(bread):1	529(cereal):1	652(pastry):1	950(sweet):1	984(tasty):1	1699(drag):1	
+0	
+
+<Author>RobertoJ
+<Content>An OK hotel for our needs I cannot say this was the best hotel we stayed at in Italy, but it was OK for our needs. The hotel was only 5 minutes away from the main train station and the walk to the sites was not that bad. The bathrooms were small but my wife and I stayed in room 130 (end of the hall) and the bath on the first floor had a tub and we used it at the primary one. The bath on the 2nd level was very tight and used it only when needed. The breakfast was adequate. Very similar to one at a fancier hotel in Rome we went to later that week. The staff seem good. We did not go to Florence in order to stay in a spacious room. Just a decent place to sleep and stay. Unless something else comes along, then next time we go, I would consider this hotel again.  
+<Date>Feb 25, 2007
+<Rating>2	3	3	4	3	4	3	-1	
+<Aspects>
+15	5(time):1	75(week):1	79(late):1	123(ok):2	170(else):1	226(bath):1	248(consider):1	306(level):1	405(unless):1	796(fancy):1	874(similar):1	900(italy):1	1326(2nd):1	1399(tight):1	2185(rome):1	
+0	
+11	13(bathroom):1	24(floor):1	104(sleep):1	111(spacious):1	184(wife):1	226(bath):1	257(decent):1	311(tub):1	346(florence):1	616(hall):1	4116(primary):1	
+7	7(walk):1	29(minute):1	50(bad):1	82(station):1	112(main):1	182(train):1	192(site):1	
+0	
+1	0(staff):1	
+2	6(breakfast):1	390(adequate):1	
+0	
+
+<Author>Happy-reader
+<Content>Nice hotel When I first arrived here, I was pretty impressed. I had not read any reviews (as I didn't discover trip advisor until after I booked and paid for this and didn't want to be disappointed before I arrived!) and so was quite happy as the hotel seems quite lovely. Nice foyer etc, and the room looked pretty great, with a little lounge area downstairs and the bedroom upstairs which was pretty cool. However, I'm not sure where all the rooms are located, but our window was over a very busy road and it was quite noisy with me getting little sleep the first night we were there. I would imagine that a room towards the back of the hotel would be much better and then the only bad thing I would say about this place is the breakfast! Very ordinary after being at two other hotels in Italy that provided not only more, but much nicer. The 3 staff of girls that basically just stood and watched us eat (nothing else for them to do it seems!) got a little annoying after a while! We didn't ask for our room to be changed, as we were only here 2 nights, so I'm not sure how they would have been if we asked. I would have to imagine the noise has been something that would have been complained about before. So, not the worst hotel by any means, but not the best.  
+<Date>Feb 9, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+16	4(nice):2	23(little):1	50(bad):1	53(arrive):1	87(lovely):1	94(noise):1	109(pretty):1	153(provide):1	155(happy):1	241(complain):1	246(mean):1	343(impress):1	695(annoy):1	733(imagine):1	900(italy):1	2025(ordinary):1	
+9	18(book):1	33(trip):1	37(review):1	42(pay):1	53(arrive):1	88(read):1	154(disappoint):1	701(advisor):1	869(discover):1	
+23	2(night):2	4(nice):1	6(breakfast):1	20(look):1	23(little):2	50(bad):1	73(etc):1	84(locate):1	104(sleep):1	109(pretty):2	119(window):1	161(change):1	217(noisy):1	220(busy):1	230(road):1	237(lounge):1	268(bedroom):1	278(cool):1	691(downstairs):1	733(imagine):1	959(towards):1	1358(upstairs):1	1931(foyer):1	
+0	
+0	
+7	0(staff):1	47(eat):1	170(else):1	245(watch):1	444(stand):1	625(girl):1	790(basically):1	
+0	
+0	
+
+<Author>Byram
+<Content>Awful hotel! I should have paid attention to the reviews, but my travel agent said I would not have a problem with this hotel. It was a dingy, dirty hotel. Terrible location. The bathroom was so small that you could not use the toilet unless your feet were in the shower stall. This hotel definitely has a sewer odor in the rooms at times and in the hallways. There were stains on the ceiling and carpets, breakfast was terrible. I could go on, but I iwll only say do not waste your money on this place. It ruined our stay in Florence.  
+<Date>Oct 3, 2006
+<Rating>1	1	1	1	1	3	2	1	
+<Aspects>
+5	80(money):1	346(florence):1	736(awful):1	928(waste):1	1243(ruin):1	
+5	37(review):1	42(pay):1	68(travel):1	726(attention):1	766(agent):1	
+16	5(time):1	6(breakfast):1	13(bathroom):1	59(definitely):1	61(shower):1	330(toilet):1	396(carpet):1	402(foot):1	405(unless):1	432(terrible):1	528(ceiling):1	580(hallway):1	723(stain):1	1628(odor):1	1701(stall):1	3882(sewer):1	
+2	1(location):1	432(terrible):1	
+2	323(dirty):1	1749(dingy):1	
+0	
+0	
+0	
+
+<Author>Mermaid5
+<Content>Superb service from the staff I've got to admit that I was worried about this hotel when I read some of the other reviews here! When we arrived at the Croce Di Malta, the receptionist told us that we were being moved to another hotel as the water main had burst outside and there was no water in our room. She had everything arranged and we checked in at a similar standard of a hotel 100 yards down the road with no hassle at all.The next day she arranged for our baggage to be picked up whilst we were sightseeing and our rooms were waiting for us when we got back that evening. Our aircon leaked, but they sent someone up within a few minutes to fix it and they also cleaned the carpet while they were there.The rooms were nice and clean, with lots of character and comfy beds. We were on the back of the building so it was nice  peaceful. Breakfast was good, with a choice of most things except fresh fruit. Staff were good at finding you a table even when everywhere looked full.During our stay, one of our group had to call the doctor out. The receptionist arranged it and a doctor arrived very quicklly. As we didn't have enough cash to pay the doctor, the receptionist lent us the money!When we came to check out, the receptionist was again very helpful, calling us a taxi and not quibbling over the bill when we found some items on it that we hadn't had.I was impressed by this hotel - the staff were amazing, going much further than they had to to help and sorting out problems as quickly as they could.My one tip for this hotel would be to try the roof bar, it is a great place to see the sunset.  
+<Date>Sep 29, 2006
+<Rating>4	5	5	5	5	5	5	-1	
+<Aspects>
+5	4(nice):1	67(call):1	135(build):1	1036(peaceful):1	1875(doctor):1	
+5	6(breakfast):1	107(choice):1	197(fresh):1	215(fruit):1	337(except):1	
+19	3(clean):2	4(nice):1	8(day):1	11(bed):1	29(minute):1	38(lot):1	85(wait):1	266(pick):1	396(carpet):1	447(send):1	475(comfy):1	494(fix):1	640(sight-see):1	680(arrange):1	877(whilst):1	1049(character):1	1287(leak):1	1783(baggage):1	2257(aircon):1	
+0	
+0	
+42	0(staff):3	9(service):1	14(helpful):1	20(look):1	32(check):2	37(review):1	42(pay):1	53(arrive):2	57(water):2	67(call):1	69(tell):1	80(money):1	88(read):1	92(help):1	98(outside):1	112(main):1	130(standard):1	145(amaze):1	185(taxi):1	207(move):1	229(table):1	230(road):1	343(impress):1	407(superb):1	471(quickly):1	495(bill):1	519(item):1	557(sort):1	680(arrange):2	855(receptionist):4	874(similar):1	885(worried):1	1082(cash):1	1193(hassle):1	1282(admit):1	1307(yard):1	1875(doctor):2	3293(lend):1	3638(quibble):1	3881(di):1	4811(croce):1	5404(burst):1	
+5	27(bar):1	76(try):1	194(tip):1	636(roof):1	1246(sunset):1	
+0	
+
+<Author>Vania77
+<Content>Beautiful city, horrible hotel We stayed here for three nights during a tour of Italy expecting to find a four star hotel, instead what we found was barely deserving of a two star rating.Ok so where to start? Maybe the dark, dingy room, the pathetic excuse for a bathroom, or the hotel bar which was never open?Lets start with the room. Small, dark, noisy, the walls so thin you could hear everything next door. The furniture was so rickety that if you attepted to put anything on the bedside table (stuck to the wall) it would slide off. There was obviously also a condensation problem in the hotel which made the room smell very 'funny' indeed.Next the bathroom. So small and dark you could barely see what you were doing. The shower so tiny that if I couldn't lean down to wash my feet. The water pressure virtually non existant and the shower head had seen much better days.I agree with the other reviewers about the location of the hotel as well, definitely not somewhere to stay if you are hesitant about walking around alone. I was with my husband so it wasn't too bad but the area is decidedly unwholesome. Not somewhere for female travellers.The other downside is that the hotel advertises a roof top bar. This was never once open whilst we were there for the three days. In fact even the hotel bar was never open. The only positive was the presence of a pool where you could cool off in the afternoon, but even the pool area was not very well kept.All in all go to Florence, the city is stunning, but do not under any circumstances stay in this hotel!  
+<Date>Jul 28, 2006
+<Rating>1	1	1	2	2	3	1	-1	
+<Aspects>
+16	8(day):1	22(pool):2	41(city):1	50(bad):1	105(husband):1	267(traveler):1	278(cool):1	346(florence):1	364(afternoon):1	458(positive):1	877(whilst):1	988(stun):1	1714(female):1	3043(circumstance):1	3096(presence):1	6416(decidedly):1	
+2	123(ok):1	165(start):2	
+30	8(day):1	13(bathroom):2	27(bar):1	57(water):1	61(shower):2	183(wall):1	229(table):1	231(smell):1	308(maybe):1	319(head):1	338(tiny):1	402(foot):1	440(furniture):1	459(dark):1	686(pressure):1	688(stick):1	781(obviously):1	811(wash):1	990(indeed):1	1142(slide):1	1156(funny):1	1749(dingy):1	1892(virtually):1	1965(excuse):1	2298(bedside):1	3397(lean):1	3704(pathetic):1	6263(rickety):1	6613(condensation):1	7323(existant):1	
+13	1(location):1	7(walk):1	54(door):1	59(definitely):1	132(hear):1	183(wall):1	217(noisy):1	459(dark):2	473(agree):1	564(reviewer):1	754(thin):1	1020(barely):1	2898(hesitant):1	
+0	
+0	
+17	2(night):1	27(bar):2	41(city):1	45(beautiful):1	62(expect):1	78(rate):1	103(star):2	118(top):1	181(tour):1	353(instead):1	544(horrible):1	636(roof):1	782(downside):1	900(italy):1	910(advertise):1	1020(barely):1	1072(deserve):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Poor, poor service Summary: A/C did work, they tried to ignore the problem, and seemed to hide behind poor English to make clear communication possible. The rooms require the key to be inserted in to the wall to activate all power, so we assumed that's why the room was hot. That night I called to the hotel's front desk and asked about air conditioners operation. The clerk replied, Oh, I am sorry, I know there were a few rooms where the a/c was not working, but unfortunately, we are completely booked for the night. I asked if there was a technician who could come and repair the unit. The clerk replied, No, I am sorry, he has gone home for the night. My last request was for, the next morning, to have some one come and look at our room's a/c to see if it could be fixed, or have us moved to another room. The clerk confirm that this would happen.The next day we left early for our tour and returned ~9PM. We asked the front desk about our room and they didn't have any knowledge of a problem or my request to fix the room's a/c. It seemed they were ignoring the problem, hoping for cooler weather and for it to be a non issue, but it was hot in Florence and hotter in our room. We checked the room and it was still warmer than the outside temp of 31 C. When we returned to the front desk, we asked to move to another room, but they said they were full again, even though we did see see people checking out earlier that AM, and that they were sorry. Also, there was no technician on duty, (gone home), however they were going to look for a ventilator (that a fan to you and me). They did offer for us to move to another hotel, but we had an early train to catch the next morning at 7:40AM. That evening we call our local agency contact (Gate 1) as asked him to call the Hotel in the AM to try and fix the problem, or get us a moved to a new room.The next morning we left for Cinque Terra and returned ~8:30 PM, checked our room and it was still hot, and the a/c still didn't work. We went to the front desk and asked about our room. They said, We tried to move you, but the luggage was unpacked, so we could not switch rooms, and now we do not have any rooms available. After some discussions, a room appeared and they gave us a new key to a different room. We were shocked when felt how cool the room was with a properly running Air Conditioner.  
+<Date>Jul 18, 2006
+<Rating>1	2	3	-1	4	-1	1	-1	
+<Aspects>
+15	2(night):1	8(day):1	20(look):1	39(return):1	43(leave):1	141(home):2	181(tour):1	382(happen):1	661(fan):1	788(clerk):2	891(sorry):1	982(confirm):1	1325(duty):1	1811(reply):1	5319(technician):1	
+0	
+53	2(night):1	18(book):1	20(look):1	32(check):1	34(feel):1	39(return):1	43(leave):1	56(morning):2	67(call):2	76(try):1	114(hot):4	134(available):1	148(request):1	149(run):1	164(air):1	183(wall):1	195(local):1	207(move):3	249(luggage):1	253(tried):1	265(issue):1	278(cool):2	328(hope):1	339(key):2	346(florence):1	385(weather):1	393(pm):1	494(fix):2	524(unfortunately):1	541(appear):1	542(completely):1	713(contact):1	722(require):1	788(clerk):1	888(switch):1	891(sorry):1	980(unit):1	992(gate):1	1083(conditioner):1	1144(properly):1	1206(shock):1	1215(ignore):1	1276(power):1	1398(repair):1	1407(assume):1	1811(reply):1	2179(unpack):1	2218(agency):1	3282(discussion):1	4618(activate):1	4664(insert):1	5319(technician):1	12760(terra):1	
+5	56(morning):1	89(offer):1	182(train):1	207(move):1	540(catch):1	
+0	
+18	2(night):1	26(people):1	31(front):4	32(check):2	36(desk):4	39(return):1	67(call):1	98(outside):1	148(request):1	164(air):1	207(move):1	236(warm):1	494(fix):1	891(sorry):1	1083(conditioner):1	2148(knowledge):1	2173(temp):1	2874(operation):1	
+8	9(service):1	152(english):1	253(tried):1	331(poor):3	1195(hide):1	1215(ignore):1	1716(summary):1	2153(communication):1	
+0	
+
+<Author>Global_Traveller037
+<Content>Really Horrible The room was very small. The bathroom was tiny and dirty. It smelled. The airconditioning did not work. Staff was terribly rude. Repeated request to fix the air conditioning fell in to deaf ears. The morning breakfast was stale and simply bad. Originally booked for three nights. We had to leave after one night. Absolute reap off. If you are in Florence to enjoy please please please do not go there.  
+<Date>Jun 21, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+6	2(night):1	43(leave):1	51(enjoy):1	173(please):3	346(florence):1	1250(absolute):1	
+0	
+13	13(bathroom):1	148(request):1	164(air):1	263(condition):1	323(dirty):1	338(tiny):1	494(fix):1	544(horrible):1	587(fall):1	1467(repeat):1	1684(ear):1	1903(airconditione):1	7026(deaf):1	
+0	
+1	231(smell):1	
+3	0(staff):1	392(rude):1	1910(terribly):1	
+8	2(night):1	6(breakfast):1	18(book):1	50(bad):1	56(morning):1	488(simply):1	1300(originally):1	2052(stale):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Hardly deserves 2 stars (and certainly not 4) The first room we were put in was over the lobby and at four in the morning we heard laundry being delivered in the lobby. Also, the floor around the bathroom was damp and moldy. We were moved to another room that was more quiet, but smelled horibly; also, the bathroom was so small that the shower (which itself was small) was right on top of the toilet. By this point, we had given up and just put up with the smell by keeping the windows open. Also, I had called in advance to ask about interent access. I was told that I would have wi-fi access in my room. For the first 3 days of my stay there was no internet access whatsoever; after this there was internet access, but only in the lobby. There are plenty of four star hotels in Florence. I would suggest trying one of the others.  
+<Date>Jun 18, 2006
+<Rating>1	1	1	-1	2	-1	3	-1	
+<Aspects>
+2	76(try):1	452(suggest):1	
+3	103(star):1	158(plenty):1	346(florence):1	
+14	13(bathroom):2	24(floor):1	58(quiet):1	61(shower):1	69(tell):1	118(top):1	119(window):1	159(access):1	207(move):1	231(smell):2	330(toilet):1	1640(damp):1	1827(wi-fi):1	2046(moldy):1	
+0	
+0	
+0	
+8	55(lobby):2	56(morning):1	103(star):1	132(hear):1	631(deliver):1	985(hardly):1	1072(deserve):1	1075(laundry):1	
+8	8(day):1	55(lobby):1	67(call):1	97(internet):2	159(access):3	685(advance):1	1733(whatsoever):1	9994(interent):1	
+
+<Author>magnet1125
+<Content>Just what I expected As part of a 3 city trip, the Croce di Malta was just what the reviews here made me expect.....the rooms were small, with a feeling of age...the bathroom was terrible...a shower that was so small, that one could not bend down to wash ones feet....only one glass supplied ( I was there with my wife) and minimal soap and shampoo.....the staff was not overly friendly, but definitely not rude....the location was good, and Florence itself was wonderful......do not bring travelers checks ( I brought mine in Euros) as they are very difficult to exchange with problems ranging from NO!!! to extremely high percentages (one booth wanted 40%) to change them for real Euros.....Our best experience was dining at Il Latini....fun, fun, fun and great food....they wouldn't take a phone reservation, but we stopped there late in the afternoon and were able to make them at that point....the crowd at 7:30 (one of 2 seatings) was far more than the restaurant could handle, and was yelling at us when our reservation was honored....not to be missed, if possible....  
+<Date>Jun 11, 2006
+<Rating>2	-1	2	-1	3	-1	3	-1	
+<Aspects>
+0	
+0	
+28	0(staff):1	1(location):1	12(friendly):1	13(bathroom):1	33(trip):1	34(feel):1	37(review):1	41(city):1	48(wonderful):1	59(definitely):1	61(shower):1	62(expect):2	184(wife):1	327(glass):1	346(florence):1	392(rude):1	402(foot):1	432(terrible):1	505(age):1	811(wash):1	859(supply):1	965(soap):1	1051(shampoo):1	1345(overly):1	1615(minimal):1	2333(bend):1	3881(di):1	4811(croce):1	
+0	
+0	
+8	32(check):1	142(bring):2	256(euro):1	267(traveler):1	572(difficult):1	714(range):1	1269(mine):1	1514(exchange):1	
+24	10(restaurant):1	16(food):1	44(experience):1	79(late):1	110(extremely):1	122(stop):1	156(reservation):2	161(change):1	171(able):1	176(fun):3	240(real):1	256(euro):1	276(miss):1	296(phone):1	313(crowd):1	316(dine):1	364(afternoon):1	966(handle):1	1376(honor):1	1939(yell):1	2747(booth):1	7629(percentage):1	7777(seating):1	12658(latini):1	
+0	
+
+<Author>sophiehew
+<Content>Convenient location Walking distance to shops and attractions. The hotel service is not that great. Breakfast is horrible since you have to pay extra 15 Euro to get hot breakfast(eggs, meat, etc). Room is typical but clean.I think if you get a good price on the hotel, go for it. Otherwise, I wouldn't pay too much $$ on this hotel.Be sure to check out the Basilica's Dome. It is slightly tiring and claustrophobic but the view on top of the dome is amazing. The real Gates of Paradise is taken apart and reserve in the musuem across the street from the back of the Basilica. If you planning to go to Uffizi, you can buy your tickets online. Otherwise, its 2-3 days waitlisted.Plan a trip to Pisa. To go up the tower, you may want to stay more than 3-4 hours since there is a set time on ticket. Also check out the Duomo. It host the Galileo Galilea pendulum and many artworks.  
+<Date>May 15, 2006
+<Rating>2	2	3	-1	3	-1	2	-1	
+<Aspects>
+5	33(trip):1	221(plan):1	1283(host):1	3210(artwork):1	3810(pisa):1	
+3	19(price):1	42(pay):1	508(otherwise):1	
+14	3(clean):1	5(time):1	17(view):1	60(hour):1	118(top):1	145(amaze):1	234(set):1	378(tower):1	454(tire):1	598(slightly):1	621(ticket):1	628(typical):1	3112(claustrophobic):1	3720(dome):1	
+14	1(location):1	7(walk):1	35(street):1	49(shop):1	115(distance):1	186(convenient):1	240(real):1	350(attraction):1	506(reserve):1	748(Paradise):1	857(apart):1	992(gate):1	8202(musuem):1	8269(basilica):1	
+0	
+6	8(day):1	32(check):2	508(otherwise):1	981(duomo):1	3720(dome):1	8269(basilica):1	
+10	6(breakfast):2	9(service):1	42(pay):1	73(etc):1	114(hot):1	128(extra):1	256(euro):1	412(egg):1	544(horrible):1	677(meat):1	
+5	221(plan):1	280(buy):1	621(ticket):1	822(online):1	1940(uffizi):1	
+
+<Author>A TripAdvisor Member
+<Content>Absolute Ripoff This is a terrible hotel. This is not a 4 star as it claims, more a 2 star.The room was tiny. The air conditioning did not work. It was hot all the time. Request to fix the air conditioning fell into deaf ears. The hotel staff was plain rude and uncooperative. I had originally booked for three nights, but had to leave after one night. The resturant was equally bad and so was the morning breakfast. All of this for $236 a night....Avoid is this hotel at all cost...  
+<Date>May 5, 2006
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+5	5(time):1	114(hot):1	432(terrible):1	1250(absolute):1	5719(ripoff):1	
+5	2(night):1	103(star):2	175(cost):1	436(avoid):1	1077(claim):1	
+8	148(request):1	164(air):2	263(condition):2	338(tiny):1	494(fix):1	587(fall):1	1684(ear):1	7026(deaf):1	
+4	0(staff):1	392(rude):1	1546(plain):1	10603(uncooperative):1	
+0	
+0	
+9	2(night):2	6(breakfast):1	18(book):1	43(leave):1	50(bad):1	56(morning):1	1300(originally):1	1661(resturant):1	1782(equally):1	
+0	
+
+<Author>Bara
+<Content>Hideous! This hotel is certainly NOT 4* (like it claims to be). I've stayed in better 2* hotels. The location is central (close to the rail station) but this is the only positive I can say from our 2 night stay. The room was smelly, old fashioned, and in desperate need of modernisation. The toilet/sink was separate to the shower and barely big enough to turn round and shut the door. There was no bath and the shower was in what can only be described as a dark cupboard. The painted wooden(!) door to the shower was mouldy and decaying, allowing water to seep onto the bedroom floor. The airconditioning was erratic and we could never get the temp right. To top off our stay, the breakfast was so terrible, (anything remotely edible like tinned fruit was 5 euro extra) we paid to eat in a local cafe. We would advise people to avoid this hotel, especially at the prices they quote!  
+<Date>Mar 27, 2006
+<Rating>1	1	1	-1	1	-1	2	-1	
+<Aspects>
+4	806(paint):1	1077(claim):1	1756(wooden):1	6363(hideous):1	
+6	19(price):1	26(people):1	126(especially):1	436(avoid):1	663(advise):1	1856(quote):1	
+24	24(floor):1	54(door):2	57(water):1	61(shower):3	226(bath):1	268(bedroom):1	330(toilet):1	359(allow):1	459(dark):1	474(separate):1	955(describe):1	1020(barely):1	1086(shut):1	1697(smelly):1	1745(fashion):1	1903(airconditione):1	2046(moldy):1	2173(temp):1	2374(cupboard):1	2730(desperate):1	5902(erratic):1	7068(seep):1	7143(modernization):1	8157(decay):1	
+7	1(location):1	2(night):1	28(close):1	82(station):1	168(central):1	458(positive):1	1755(rail):1	
+0	
+0	
+13	6(breakfast):1	42(pay):1	47(eat):1	118(top):1	128(extra):1	195(local):1	215(fruit):1	256(euro):1	275(cafe):1	432(terrible):1	2890(edible):1	3734(tin):1	5027(remotely):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great time in Florence WE HAD 3 FANTASTIC DAYS IN THIS HOTEL. It was our 2nd time in florence and we tried Croce di Malta, the room was very romantic with balcon and inside garden view. After the good dinner in the restaurant we had drinks in the pianobar everyday. GREAT TIME!!!! I think we'll be back in the summer to try the swimming pool.  
+<Date>Feb 4, 2006
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+4	5(time):2	8(day):1	86(fantastic):1	346(florence):1	
+0	
+10	5(time):1	17(view):1	253(tried):1	310(garden):1	346(florence):1	408(inside):1	707(romantic):1	1326(2nd):1	3881(di):1	4811(croce):1	
+0	
+0	
+0	
+8	10(restaurant):1	22(pool):1	63(drink):1	76(try):1	117(dinner):1	261(swim):1	605(everyday):1	853(summer):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>...total rip off! I have just returned from a business trip to Florence where I had difficulty finding a room due to a fashion fair taking place.I found this hotel on the internet and it sounded reasonable from the description but proved to be the complete opposite.My single bed was uncomfotable and had one meagre pillow. The window had a wall only two foot away so it was dark all day.The vent on the ceiling was filthy.The rag rolled walls looked like they had seen a nasty accident!The bathroom was so small that as I sat on the loo my feet were in the shower!All this for 拢143!Never again and I warn others to beware!  
+<Date>Jan 16, 2006
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	528(ceiling):1	679(warn):1	737(beware):1	786(total):1	1182(rip):1	1320(filthy):1	2344(vent):1	
+0	
+21	8(day):1	11(bed):1	13(bathroom):1	33(trip):1	39(return):1	61(shower):1	119(window):1	147(business):1	169(sit):1	183(wall):1	259(due):1	303(pillow):1	304(single):1	346(florence):1	402(foot):2	459(dark):1	739(fair):1	1745(fashion):1	1777(difficulty):1	3927(loo):1	6375(meager):1	
+13	20(look):1	97(internet):1	183(wall):1	273(reasonable):1	409(sound):1	622(complete):1	783(opposite):1	813(roll):1	1554(prove):1	1639(nasty):1	2034(description):1	3213(accident):1	5575(rag):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A lovely pool and spacious rooms I dreaded staying in this hotel after reading some of the reviews but I needn't have worrried. I booked a triple room for my family during the peak holiday season in August at an expremely good price through Expedia. We were allocated what I assume was a suite, with a sitting room and bathroom downstairs and a double and twin bedroom and second bathroom upstairs. The rooms were quiet, clean and comfortable, if not plush, and the air conditioning was fantastic, especially important as we visited during the hottest month of the year. The small pool and courtyard was a big hit with my 6 year old son, as was the ice cream parlour accross the road, and all the major attractions were within easy walking distance, even in the heat.  
+<Date>Nov 21, 2005
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+8	18(book):1	19(price):1	106(family):1	223(holiday):1	610(season):1	1066(expedia):1	1553(triple):1	1710(peak):1	
+27	3(clean):1	13(bathroom):2	22(pool):1	25(comfortable):1	37(review):1	58(quiet):1	65(visit):1	86(fantastic):1	87(lovely):1	88(read):1	108(suite):1	111(spacious):1	114(hot):1	126(especially):1	164(air):1	169(sit):1	179(double):1	263(condition):1	268(bedroom):1	388(month):1	690(twin):1	691(downstairs):1	1358(upstairs):1	1407(assume):1	1847(plush):1	1974(allocate):1	3864(dread):1	
+15	7(walk):1	22(pool):1	93(easy):1	115(distance):1	230(road):1	315(major):1	350(attraction):1	435(courtyard):1	539(heat):1	547(ice):1	612(son):1	775(hit):1	1188(cream):1	2650(accross):1	4061(parlor):1	
+0	
+0	
+0	
+0	
+
+<Author>Bahadir
+<Content>Nothing special Quite central location, not very far from the city centre. Very helpful staff, indeed they tried to improve my stay all along. However there is nothing very special about this hotel, rooms are very average, shower is one of those you can never adjust the warmth, and in fact in one day there was no water at all. But they said it was a general cut, but they did not have any reservoires to maintain the water suuply. The breakfast was terrible. And not very cheap. So overall, a very average hotel and I am not sure if 4-star is a fair reflection of the experience.  
+<Date>Nov 11, 2005
+<Rating>3	2	3	-1	2	-1	5	-1	
+<Aspects>
+0	
+7	44(experience):1	70(overall):1	143(cheap):1	227(average):1	739(fair):1	2254(4-star):1	4324(reflection):1	
+7	8(day):1	57(water):1	61(shower):1	208(special):1	227(average):1	2040(adjust):1	2560(warmth):1	
+5	1(location):1	41(city):1	101(center):1	168(central):1	208(special):1	
+3	57(water):1	562(maintain):1	873(cut):1	
+5	0(staff):1	14(helpful):1	253(tried):1	990(indeed):1	1217(improve):1	
+2	6(breakfast):1	432(terrible):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very nice hotel in a great location Nice hotel in agreat location, just afew steps from the Duomo, Ponte Vecchio and shopping area. Our room was clean and very nice, the staff helpful and the garden with swimming pool wonderful.Croce di Malta will be back again!!  
+<Date>Nov 8, 2005
+<Rating>5	3	4	-1	4	-1	4	-1	
+<Aspects>
+2	3881(di):1	4811(croce):1	
+0	
+8	0(staff):1	3(clean):1	4(nice):1	14(helpful):1	22(pool):1	48(wonderful):1	261(swim):1	310(garden):1	
+9	1(location):2	4(nice):2	49(shop):1	366(step):1	981(duomo):1	1645(ponte):1	1836(vecchio):1	10403(agreat):1	12846(afew):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A nice surprise I was very nervous about this hotel after reading some of the reviews here, but it was part of a tour package, so we figured we'd grin and bear it. What a nice surprise! We didn't have the time (or the weather) for things like the pool, but the hotel is very well located and just fine. My friend and I were two women and we didn't feel unsafe at night - yes, it's near a quiet piazza, but the piazza's surrounded by four star hotels, and we just didn't dawdle on our way to and from the hotel after dark. Right across the street is the fabulous Santa Maria Novella pharmacy and there are plenty of restaurants within about a five minute stroll. I would stay there again.  
+<Date>Oct 31, 2005
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+10	4(nice):2	37(review):1	88(read):1	181(tour):1	199(surprise):2	527(package):1	779(figure):1	1408(nervous):1	1838(bear):1	8307(grin):1	
+12	2(night):1	34(feel):1	58(quiet):1	102(near):1	103(star):1	146(friend):1	250(yes):1	459(dark):1	566(woman):1	667(surround):1	1890(unsafe):1	2116(piazza):2	
+0	
+15	5(time):1	10(restaurant):1	22(pool):1	29(minute):1	35(street):1	84(locate):1	113(fine):1	158(plenty):1	270(fabulous):1	385(weather):1	1056(stroll):1	1510(santa):1	1833(mare):1	2875(pharmacy):1	3407(novella):1	
+0	
+0	
+0	
+0	
+
+<Author>VR91704
+<Content>Very Nice               
+<Date>Oct 25, 2005
+<Rating>3	3	3	-1	3	-1	3	-1	
+<Aspects>
+1	4(nice):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Horrible My husband and I unfortunately allowed Liberty Travel to book our vacation for us, and they steered us to the Croce di Malta, with whom they obviously have some sort of deal. The travel agent assured me it was a great location. However, it turns out it was in a very seedy area, near the train station and aross from the park at Santa Maria Novella. Frommers warned this is a site for frequent drug dealing. We were very uncomfortable walking back at night. The service at the hotel was awful. No one ever smiled. They neglected to give us a wake up call one morning and we slept until 1 p.m. When we complained, the guy at the desk said how do I know you asked for a wake up call? The manager apologized and offered us a drink at their roof deck bar. But - surprise surprise - the roof deck bar was closed every night because their one and only bartender was sick. The breakfasts were the worst we had in italy. It's unfortunate that we stayed four nights there, and we were locked in b/c we prepaid the whole trip. Definitely stay somewhere else!!  
+<Date>Aug 15, 2005
+<Rating>1	1	2	-1	2	-1	1	-1	
+<Aspects>
+3	59(definitely):1	170(else):1	387(smile):1	
+19	2(night):1	18(book):1	33(trip):1	68(travel):1	105(husband):1	131(vacation):1	140(deal):1	359(allow):1	524(unfortunately):1	544(horrible):1	557(sort):1	774(lock):1	781(obviously):1	2559(prepay):1	2663(unfortunate):1	2815(liberty):1	3591(steer):1	3881(di):1	4811(croce):1	
+9	36(desk):1	56(morning):1	67(call):2	104(sleep):1	241(complain):1	368(guy):1	554(wake):2	1466(p.m):1	3543(neglect):1	
+28	1(location):1	2(night):2	7(walk):1	27(bar):1	28(close):1	66(park):1	68(travel):1	82(station):1	102(near):1	140(deal):1	182(train):1	192(site):1	199(surprise):2	636(roof):1	654(sick):1	676(bartender):1	679(warn):1	766(agent):1	856(uncomfortable):1	1349(assure):1	1355(frequent):1	1406(deck):1	1510(santa):1	1833(mare):1	2209(seedy):1	2256(drug):1	3407(novella):1	5542(frommer):1	
+0	
+0	
+12	6(breakfast):1	9(service):1	27(bar):1	50(bad):1	63(drink):1	89(offer):1	258(manager):1	636(roof):1	736(awful):1	900(italy):1	1406(deck):1	1485(apologize):1	
+0	
+
+<Author>Luisalovesitaly
+<Content>Disappointing This hotel was disappointing. While the idea of staying in a renovated 14th century convent seemed charming, we didn't expect the renovations to be so modern with an Asian flair. After staying in more traditional old world Italian charming hotels, this hotel was a surprise. The breakfast was sub par to say the least and most of our party ended up walking a couple doors down to a cafe that was a cross between fast food and a Quikimart to buy cappucinno (the hotel restaurant did not include cappucinno in the breakfast and we had to pay extra - and it wasn't very good). Our room was very spacious, particularly by European standards, but a bit shabby, and the bathroom was tiny and not well appointed. The worst part was that it was in a questionable neighborhood and the front desk advised me not to go out at night (a single female) as it would not be safe. The hotel has privledges at a gym instead of having their own workout room - and the walk to the gym made me nervous. The gym did not provide water or towels and was full of young men lifting weights. My friend and I were the only women and we felt quite conspicuous and out of place. The rooftop seemed lovely but every time I tried to get up there, it was locked and they wouldn't open it for me. The front desk help all spoke English beautifully and they were very helpful - even remembering my room number and name which was lovely. If you choose this hotel, it will be adequate but it will be just a place to park your suitcase and get a few hours sleep - not a place you would want to linger in and soak up the ambiance. They did, however, have a laptop to check out and wireless access which was convenient for checking email.  
+<Date>Apr 25, 2005
+<Rating>2	2	2	-1	3	-1	4	-1	
+<Aspects>
+14	5(time):1	34(feel):1	87(lovely):1	146(friend):1	154(disappoint):2	199(surprise):1	253(tried):1	272(world):1	332(charm):1	358(italian):1	566(woman):1	774(lock):1	1063(rooftop):1	1241(traditional):1	
+0	
+29	13(bathroom):1	52(bit):1	60(hour):1	62(expect):1	66(park):1	104(sleep):1	111(spacious):1	130(standard):1	151(modern):1	167(choose):1	332(charm):1	338(tiny):1	390(adequate):1	533(renovate):1	553(particularly):1	579(appoint):1	582(european):1	639(idea):1	687(renovation):1	957(ambience):1	974(suitcase):1	1319(shabby):1	1328(asian):1	1468(soak):1	1998(14th):1	2171(century):1	4124(linger):1	4272(flair):1	6736(convent):1	
+0	
+0	
+19	2(night):1	14(helpful):1	31(front):2	36(desk):2	50(bad):1	87(lovely):1	92(help):1	127(speak):1	137(safe):1	152(english):1	295(name):1	304(single):1	335(numb):1	375(remember):1	421(neighbourhood):1	663(advise):1	771(beautifully):1	1714(female):1	3391(questionable):1	
+26	6(breakfast):2	7(walk):2	10(restaurant):1	16(food):1	42(pay):1	54(door):1	57(water):1	71(include):1	99(couple):1	125(towel):1	128(extra):1	153(provide):1	166(own):1	275(cafe):1	280(buy):1	353(instead):1	363(party):1	499(fast):1	523(gym):3	591(lift):1	1228(cross):1	1408(nervous):1	1582(weight):1	1666(par):1	1801(workout):1	4020(sub):1	
+5	32(check):2	159(access):1	186(convenient):1	717(wireless):1	1111(laptop):1	
+
+<Author>A TripAdvisor Member
+<Content>Fabulous Hotel My wife and I stayed at this hotel from 3/11/2005 to 3/14/2005. I was worried before we got there because of the bad reviews I had read online about it. I needn't have worried. The room was not small, it consisted of a downstairs lounge area with tv and bathroom and an up-stairs bedroom also with tv and bathroom. The hotel and room were very elegant and not the least bit noisy. The staff were helpful, courteous and almost all spoke English. The breakfast, included, was varied and appetizing. The coffee was vile, but free Cappucinos and Espressos were readily available just by asking. The location is very convenient to the major attractions. I would stay there again.  
+<Date>Mar 23, 2005
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+3	184(wife):1	270(fabulous):1	885(worried):1	
+0	
+9	13(bathroom):2	52(bit):1	116(tv):2	217(noisy):1	237(lounge):1	268(bedroom):1	691(downstairs):1	986(elegant):1	1185(consist):1	
+4	1(location):1	186(convenient):1	315(major):1	350(attraction):1	
+0	
+5	0(staff):1	14(helpful):1	127(speak):1	152(english):1	483(courteous):1	
+11	6(breakfast):1	46(free):1	71(include):1	90(coffee):1	134(available):1	1578(varied):1	2324(espresso):1	2715(readily):1	5390(appetizing):1	7442(cappucinos):1	8861(vile):1	
+5	37(review):1	50(bad):1	88(read):1	822(online):1	885(worried):1	
+
+<Author>JohnandSandy
+<Content>Not bad but definitely not four star The hotel itself and some travel groups rate this as a four star hotel but it is definitely no better than a three star rating. Our stay in Feb.2005 was okay because we asked for an inside room on the upper floor where it was quiet and roomy enough for two. The included breakfast was modest at best with a very limited selection and of mediocre quality. Its advantage is it's very close to the main train station, the intercity bus station, Santa Maria Novella and centrally located within easy walk to downtown Florence.  
+<Date>Mar 3, 2005
+<Rating>3	4	3	-1	4	-1	3	-1	
+<Aspects>
+0	
+12	6(breakfast):1	50(bad):1	59(definitely):2	68(travel):1	71(include):1	78(rate):2	103(star):3	187(quality):1	333(selection):1	510(limit):1	1340(mediocre):1	2553(modest):1	
+7	24(floor):1	58(quiet):1	408(inside):1	453(okay):1	1258(feb):1	1333(upper):1	1353(roomy):1	
+16	7(walk):1	28(close):1	82(station):2	84(locate):1	93(easy):1	112(main):1	120(bus):1	182(train):1	334(downtown):1	346(florence):1	867(advantage):1	879(centrally):1	1510(santa):1	1833(mare):1	3407(novella):1	12254(intercity):1	
+0	
+0	
+0	
+0	
+
+<Author>houseofpayne
+<Content>Nice but not greate The hotel was very close to the train station and near many sites. The staff were very friendly. One complaint was the noise for the street, I needed to use ear plugs to sleep at night. The room was small but clean.  
+<Date>Jan 8, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+8	2(night):1	3(clean):1	35(street):1	94(noise):1	104(sleep):1	190(complaint):1	1174(plug):1	1684(ear):1	
+7	4(nice):1	28(close):1	82(station):1	102(near):1	182(train):1	192(site):1	3572(greate):1	
+0	
+2	0(staff):1	12(friendly):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Small, Dingy and Disgusting We picked the Croce Di Malta because of its close proximity to the train station. Our travel agent assured us it was a three star hotel. What a mistake. Although the lobby is somewhat presentable, the room that we stayed in was a complete disaster. It was, by far the smallest, of all the hotel rooms that we stayed in while in Italy. We had trouble finding space to put our luggage.There were these large wooden beams protruding from the walls and ceiling, giving it a real farm/barnyard feel. Looks like contractors had come in to do some work and weren't paid enough to finish the job. The carpet was dark, old and needed to be replaced. The furniture was in poor shape and very rickety. My night table was attached to the wall and was so loose that it sloped down at an angle. If you tried to put, say a pen on it, it would roll off onto the floor. The beds were atrocious. We found a spider and a hard shelled insect in between the linens in the span of our three day stay there. Please, please, please skip the Crotch Di Malta as my wife and I called it. Breakfasts are skimpy and among the worst we'd had in Italy. You will get charged extra if you want to eat their scrambled eggs and fruit salad, so beware. There is also an area diagonally from the Crotch that gets pretty seedy at night by the church. Florence is a great city, by far our favorite in Italy. Do yourself a favor and enjoy this great city while staying in a better hotel. Skip the Crotch and warn all of your friends too!  
+<Date>Jul 29, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+20	2(night):1	41(city):2	51(enjoy):1	67(call):1	109(pretty):1	146(friend):1	173(please):3	184(wife):1	346(florence):1	376(favourite):1	576(yourself):1	679(warn):1	895(mistake):1	900(italy):1	1429(skip):2	1521(favor):1	1731(church):1	2209(seedy):1	3881(di):1	7477(diagonally):1	
+9	20(look):1	42(pay):1	68(travel):1	103(star):1	481(job):1	766(agent):1	772(finish):1	1349(assure):1	8532(contractor):1	
+22	11(bed):1	24(floor):1	55(lobby):1	210(space):1	249(luggage):1	253(tried):1	331(poor):1	396(carpet):1	440(furniture):1	459(dark):1	569(trouble):1	622(complete):1	651(somewhat):1	813(roll):1	900(italy):1	912(replace):1	1226(shape):1	2355(disaster):1	3271(pen):1	5676(atrocious):1	6263(rickety):1	7654(presentable):1	
+23	2(night):1	28(close):1	34(feel):1	82(station):1	182(train):1	183(wall):2	229(table):1	240(real):1	266(pick):1	528(ceiling):1	1114(proximity):1	1152(disgust):1	1224(attach):1	1749(dingy):1	1756(wooden):1	2234(loose):1	3635(angle):1	3688(beam):1	3881(di):1	4467(slope):1	4563(farm):1	4811(croce):1	12737(protrude):1	
+7	8(day):1	162(hard):1	630(linen):1	2360(insect):1	2424(shell):1	4534(spider):1	5127(span):1	
+8	47(eat):1	128(extra):1	136(charge):1	215(fruit):1	412(egg):1	737(beware):1	909(salad):1	1674(scramble):1	
+4	6(breakfast):1	50(bad):1	900(italy):1	6149(skimpy):1	
+0	
+
+<Author>Smanth
+<Content>Quaint and Lovely I went here in August 2003 and I loved it! The hotel was really well located, very central. The rooms were small but still fine and any rooms with a balcony were really pretty...the pool is refreshing and the gardens are small but in a lovely courtyard so it's nice to sit with a glass of prosecco in the afternoon, inbetween going for a dip in the pool. All of the staff were really friendly and helpful and the bar on the roof was LOVELY and had STUNNING views of Florence. If it's a special occasion, then I'd suggest taking a champagne breakfast up there as it's really very relaxing. All in all, a GREAT hotel - not QUITE worthy of a 4 star..but definitely high 3 star! I would DEFINITELY go back!  
+<Date>Jul 21, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	40(love):1	59(definitely):1	87(lovely):1	1295(quaint):1	
+3	59(definitely):1	103(star):2	2923(worthy):1	
+15	4(nice):1	22(pool):2	87(lovely):1	109(pretty):1	113(fine):1	169(sit):1	191(balcony):1	310(garden):1	327(glass):1	364(afternoon):1	435(courtyard):1	1271(refresh):1	2272(dip):1	7160(prosecco):1	7500(inbetween):1	
+2	84(locate):1	168(central):1	
+0	
+9	0(staff):1	12(friendly):1	14(helpful):1	17(view):1	27(bar):1	87(lovely):1	346(florence):1	636(roof):1	988(stun):1	
+6	6(breakfast):1	160(relax):1	208(special):1	452(suggest):1	770(champagne):1	871(occasion):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nice! nice! nice! We spent 6 days last may in this hotel. The service was wonderful. our room was on the 4th floor with a magic view. The restaurant inside was great... the best steak of my life.   
+<Date>Jun 4, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	4(nice):3	8(day):1	64(spend):1	
+0	
+4	17(view):1	24(floor):1	845(4th):1	2023(magic):1	
+0	
+0	
+0	
+6	9(service):1	10(restaurant):1	48(wonderful):1	408(inside):1	426(life):1	660(steak):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>The most disgusting hotel experience youll ever have Trip Advisor needs a category below Terrible to summarise this disgustingly inadequate 1 star flea hole. DO NOT STAY THERE. TELL YOUR FRIENDS. TELL PEOPLE YOU DONT KNOW. DO. NOT. STAY. THERE. I'll be brief - pathetic 70's style lobby (bad 70's DIY decor, not funky), ceiling heights from the set of Being John Malkovich, horrific wallpaper, bathrooms the size of a locker - unsafe if youre over 4ft, cracked shower which leaked all over tacky blue lamenate flooring, no room service, no access to roof top, the worst swimming pool Ive ever seen, so noisy you cant sleep, and in an area so teaming with undesirables (worse than bums) that my wife couldnt leave on her own after 7pm. ABSOLUTELY PATHETIC.I want to know who gave this hole a four star rating?  
+<Date>May 21, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	26(people):1	69(tell):2	146(friend):1	189(absolutely):1	503(dont):1	3704(pathetic):1	
+15	33(trip):1	44(experience):1	78(rate):1	103(star):2	432(terrible):1	585(below):1	701(advisor):1	1152(disgust):1	1218(hole):2	2011(category):1	2289(flea):1	3610(inadequate):1	4976(summarize):1	7828(youll):1	8517(disgustingly):1	
+43	9(service):1	13(bathroom):1	22(pool):1	24(floor):1	43(leave):1	50(bad):3	55(lobby):1	61(shower):1	83(size):1	104(sleep):1	118(top):1	159(access):1	166(own):1	184(wife):1	217(noisy):1	234(set):1	261(swim):1	269(decor):1	326(style):1	528(ceiling):1	636(roof):1	694(blue):1	1008(team):1	1145(cant):1	1287(leak):1	1411(crack):1	1516(funky):1	1528(couldnt):1	1890(unsafe):1	2036(brief):1	2093(wallpaper):1	2279(height):1	2359(john):1	2406(tacky):1	2839(ive):1	3446(locker):1	3704(pathetic):1	3824(bum):1	4332(horrific):1	5506(youre):1	7420(undesirable):1	7996(7pm):1	11219(diy):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>GabiundMathi
+<Content>Tolles Ambiente       unser Zimmer Nr.210  
+<Date>Aug 14, 2007
+<Rating>4	4	4	5	3	4	4	3	
+<Aspects>
+3	3848(toll):1	9279(zimmer):1	9711(nr):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

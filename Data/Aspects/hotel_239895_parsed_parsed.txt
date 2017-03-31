@@ -1,0 +1,392 @@
+<Author>van_ricer
+<Content>Not bad I was just spending a few hours in Seattle before my flight left. I arrived late and the staff was very friendly. The room was not amazing but it was acceptable for what I needed. The bed sheets looked clean, bathroom was usable and the price was not bad. If it was an extended vacation I would not suggest it, but it was very close to the airport and resturants.  
+<Date>Sep 3, 2008
+<Rating>3	3	3	4	3	3	3	3	
+<Aspects>
+0	
+0	
+15	3(clean):1	11(bed):1	13(bathroom):1	19(price):1	20(look):1	43(leave):1	50(bad):2	60(hour):1	64(spend):1	145(amaze):1	233(flight):1	479(sheet):1	762(seattle):1	1214(acceptable):1	5536(usable):1	
+6	28(close):1	95(airport):1	131(vacation):1	452(suggest):1	1303(extend):1	1565(resturants):1	
+0	
+4	0(staff):1	12(friendly):1	53(arrive):1	79(late):1	
+0	
+0	
+
+<Author>GTHO
+<Content>Not Good This motel was a disappointment. Desk clerk was not friendly or helpful, room was load and smelled kind of moldy. On-line photo looked promising, but inside it's sub par.  
+<Date>Sep 1, 2008
+<Rating>1	1	1	2	1	2	1	2	
+<Aspects>
+2	866(disappointment):1	991(motel):1	
+0	
+14	12(friendly):1	14(helpful):1	20(look):1	36(desk):1	231(smell):1	408(inside):1	761(photo):1	788(clerk):1	886(load):1	975(promise):1	1666(par):1	2046(moldy):1	3206(on-line):1	4020(sub):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>volnak
+<Content>Very Good Hotel I stayed at the hotel one night before an international journey. It was a very good hotel very close to the airport, with lots of restaurants within walking distance. The room was very clean, the bed was comfortable and the bathroom was clean. Customer service was great. There is excellent city bus transportation in the area. This is a very good hotel, and I will certainly stay here again the next time I fly out of Seattle.  
+<Date>Aug 7, 2008
+<Rating>4	4	5	5	5	5	5	3	
+<Aspects>
+6	2(night):1	5(time):1	614(fly):1	762(seattle):1	903(international):1	1362(journey):1	
+0	
+4	3(clean):2	11(bed):1	13(bathroom):1	25(comfortable):1	
+10	7(walk):1	10(restaurant):1	21(excellent):1	28(close):1	38(lot):1	41(city):1	95(airport):1	115(distance):1	120(bus):1	728(transportation):1	
+0	
+0	
+2	9(service):1	428(customer):1	
+0	
+
+<Author>unreal99
+<Content>terrible paid for 3 nights on internet got thier the room was dirty service was bad walked in room stayed 5 minutes and left went to comfort suites paid for another 3 nights but much cleaner and comfortable a real sh it hole  
+<Date>Jul 30, 2008
+<Rating>1	1	1	4	1	1	1	-1	
+<Aspects>
+0	
+0	
+18	2(night):2	3(clean):1	7(walk):1	9(service):1	25(comfortable):1	29(minute):1	42(pay):2	43(leave):1	50(bad):1	97(internet):1	108(suite):1	240(real):1	323(dirty):1	432(terrible):1	702(comfort):1	1218(hole):1	3018(thier):1	11589(sh):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>westmorland
+<Content>Good standard motel Stayed here at the start end end of our Northwest States tour.Good clean rooms if not a bit 'worn' and perhaps in need of a little updating. Bathrooms very small but clean and adequate.Breakfast included in price- Juice, baguels, toast cereals, and do it yourself waffles. Airport shuttle was good and left on time (runs every half hour) only a few mins from airport.  
+<Date>May 22, 2008
+<Rating>2	2	2	4	4	3	-1	4	
+<Aspects>
+0	
+5	130(standard):1	165(start):1	181(tour):1	991(motel):1	5759(Northwest):1	
+7	3(clean):2	13(bathroom):1	23(little):1	52(bit):1	390(adequate):1	434(wear):1	725(update):1	
+8	5(time):1	43(leave):1	60(hour):1	95(airport):2	149(run):1	247(min):1	283(half):1	321(shuttle):1	
+0	
+0	
+8	6(breakfast):1	19(price):1	71(include):1	362(juice):1	529(cereal):1	576(yourself):1	875(toast):1	1557(waffle):1	
+0	
+
+<Author>girluncensored
+<Content>Great hotel, easy to find location       The jacuzzi from the bedroom through the window  
+<Date>Apr 27, 2008
+<Rating>5	4	4	4	4	5	4	-1	
+<Aspects>
+0	
+0	
+5	1(location):1	93(easy):1	119(window):1	268(bedroom):1	808(jacuzzi):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>robstrash
+<Content>Acceptable stay near airport We stayed here 2 nights - once on arrival and night before leaving Seattle. While I wouldn't say it was a nice hotel, it wasn't bad either. I didn't feel unsafe and the room was acceptable - it wasn't dirty or anything. The hallway did stink of smoke, but the room was fine (one side of hallway is smoking, other side non-smoking). It does have free parking, free wireless internet, and free breakfast (toast, bland waffle, 2 types of cereal, juice/milk). It was an acceptable motel if you arrive late into SEA or have an early flight. We didn't use shuttle so can't comment on that. It was odd having them run your credit card and having that be your receipt - can't say I have seen that ever at a motel. If you want something nicer in the area, be prepared to spend at least $40 a night more than this place.  
+<Date>Mar 28, 2008
+<Rating>3	3	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	2(night):1	4(nice):2	50(bad):1	64(spend):1	149(run):1	292(card):1	460(prepare):1	659(credit):1	991(motel):1	1088(odd):1	2725(receipt):1	
+0	
+12	2(night):2	43(leave):1	53(arrive):1	79(late):1	95(airport):1	102(near):1	224(arrival):1	233(flight):1	758(sea):1	762(seattle):1	991(motel):1	1214(acceptable):2	
+2	321(shuttle):1	356(comment):1	
+9	34(feel):1	113(fine):1	323(dirty):1	468(smoke):2	580(hallway):2	978(nonsmoking):1	1214(acceptable):1	1796(stink):1	1890(unsafe):1	
+0	
+11	6(breakfast):1	46(free):3	66(park):1	97(internet):1	362(juice):1	389(type):1	529(cereal):1	717(wireless):1	875(toast):1	1557(waffle):1	1819(bland):1	
+0	
+
+<Author>craig_traveler
+<Content>Never again if I can help it. One of the worst I've ever stayed in. Arrived at 12:00 noon to a desolate hotel with an empty parking lot and was told that no rooms were available until 2pm. Exterior of the hotel is in need of significant repair especially side facing International Blvd. Hotel is also directly under the flight path of SeaTac Airport and rooms appear not to be soundproofed. Room is old and dated. No closet, only a metal bar with hangers. Work desk was a wobbly and squeky table with a chair that was too low to the ground, and didn't contain a phone. Wall mounted aircon/heat noisy. Hotel claims free wofi, but signal is very week and it tool forever to establish a connection. Only pros are in-room microwave and fridge. Gym was a converted guest room on the first floor with three pieces of equipment, one of which didn't work.Blanket on bed was fraying around the edges and so thin you could almost see through it. Unless you get a very good deal bidding on Priceline, search elsewhere.  
+<Date>Mar 9, 2008
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	50(bad):1	92(help):1	
+6	140(deal):1	405(unless):1	646(elsewhere):1	1069(priceline):1	1248(search):1	3383(bid):1	
+50	11(bed):1	24(floor):1	36(desk):1	38(lot):1	53(arrive):1	66(park):1	69(tell):1	91(guest):1	95(airport):1	126(especially):1	134(available):1	183(wall):1	198(chair):1	217(noisy):1	229(table):1	233(flight):1	296(phone):1	318(fridge):1	383(directly):1	511(date):1	513(low):1	523(gym):1	541(appear):1	706(grind):1	754(thin):1	810(empty):1	820(microwave):1	903(international):1	941(piece):1	1190(edge):1	1211(equipment):1	1249(pro):1	1301(in-room):1	1309(noon):1	1369(blanket):1	1398(repair):1	1545(contain):1	1612(path):1	1828(exterior):1	1852(soundproof):1	2079(convert):1	2257(aircon):1	2362(significant):1	2767(blvd):1	2794(mount):1	4894(fray):1	5134(seatac):1	7919(2pm):1	8386(desolate):1	10655(wobbly):1	
+4	27(bar):1	565(closet):1	2506(hanger):1	2720(metal):1	
+0	
+0	
+0	
+8	46(free):1	75(week):1	932(connection):1	1077(claim):1	1643(forever):1	2974(signal):1	4619(establish):1	5249(tool):1	
+
+<Author>Soccer0Team0Manager
+<Content>Suitable as an airport hotel We needed a one-night stopover near Seattle's Seatac Airport. While this hotel was nothing special, the front desk staff was helpful and courteous, and the place was clean, comfortable, affordable, and more than adequate for our purposes. We had a large group, and the shuttle bus driver made extra trips to accommodate us, which really helped.  
+<Date>Jan 30, 2008
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+0	
+0	
+7	95(airport):2	102(near):1	762(seattle):1	1967(suitable):1	2364(stopover):1	4991(one-night):1	5134(seatac):1	
+7	33(trip):1	92(help):1	120(bus):1	128(extra):1	321(shuttle):1	563(driver):1	624(accommodate):1	
+0	
+11	0(staff):1	3(clean):1	14(helpful):1	25(comfortable):1	31(front):1	36(desk):1	208(special):1	390(adequate):1	483(courteous):1	1062(affordable):1	1428(purpose):1	
+0	
+0	
+
+<Author>bobemac
+<Content>Whoa Nelly My first visit to a Day's Inn in 25 years. I got this one onHotwire, and was upset based on TA's reports. This is not a bad property for a two * hotel.My room was 216. It was clean, everything worked,the bathroom was painted, the floor was new, and theshower had plenty of hot water. The front desk clerk/manager Angel was friendly and efficient.She rebooted the wireless router for me, and I had greatInternet access for free. The breakfast had a waffle maker, cereal, juice, coffee, yogurt,and mini bagels. There were two kind of muffins. I used the airport shuttle, and it took 19 minutes for a pickup.Drivers were friendly. The exercise area has one non working bike, but the othertwo machines performed well. In review. Motel was clean, everything worked, it was as sound proof as any airport property. I suggest a lower floor, if you are a light sleeper. I was set for the 4th floor, but they changed me to the second. Friendly employees. This is a solid choice, contrary to other reviews.  
+<Date>Oct 26, 2007
+<Rating>3	4	3	4	4	4	4	5	
+<Aspects>
+13	8(day):1	12(friendly):2	37(review):1	65(visit):1	284(base):1	324(inn):1	563(driver):1	608(employee):1	838(report):1	1220(upset):1	1260(muffin):1	2740(ta):1	8627(nelly):1	
+4	37(review):1	107(choice):1	1617(solid):1	2419(contrary):1	
+19	3(clean):2	13(bathroom):1	24(floor):3	57(water):1	95(airport):1	114(hot):1	157(light):1	158(plenty):1	161(change):1	214(property):1	234(set):1	409(sound):1	452(suggest):1	777(lour):1	806(paint):1	845(4th):1	991(motel):1	1299(sleeper):1	1973(proof):1	
+4	29(minute):1	95(airport):1	321(shuttle):1	2258(pickup):1	
+0	
+6	12(friendly):1	31(front):1	36(desk):1	401(efficient):1	788(clerk):1	3667(angel):1	
+11	6(breakfast):1	50(bad):1	90(coffee):1	214(property):1	362(juice):1	448(mini):1	529(cereal):1	927(yogurt):1	996(maker):1	1370(bagels):1	1557(waffle):1	
+8	46(free):1	159(access):1	493(machine):1	717(wireless):1	1459(exercise):1	1479(bike):1	2763(perform):1	9645(router):1	
+
+<Author>serenajones
+<Content>They overcharged and tried to get over on me I should've visited first but I read decent reviews about this place and then booked a room for some out of town guests that my company was hosting. They checked out early b/c they thought it was not clean and smelled bad. Then Days Inn mistakenly overcharged my credit card for an extra night's stay--- 2 nights after my guests had checked out. I called twice and spoke to staff asking them where the extra charge came from and they said they didn't know but would have someone call back...NEVER HAPPENED. Finally had to dispute the charge with my credit card company. After 2 months of phone calls, letters, faxes and hassles, I finally got my money back.  
+<Date>Oct 23, 2007
+<Rating>1	1	-1	-1	-1	-1	1	-1	
+<Aspects>
+8	67(call):1	80(money):1	296(phone):1	341(finally):1	388(month):1	1193(hassle):1	1972(letter):1	2536(fax):1	
+0	
+11	18(book):1	37(review):1	65(visit):1	88(read):1	91(guest):1	239(town):1	253(tried):1	257(decent):1	760(company):1	1283(host):1	3155(overcharge):1	
+0	
+4	3(clean):1	32(check):1	50(bad):1	231(smell):1	
+19	0(staff):1	2(night):2	8(day):1	32(check):1	67(call):2	91(guest):1	127(speak):1	128(extra):2	136(charge):2	292(card):2	324(inn):1	341(finally):1	347(twice):1	382(happen):1	659(credit):2	760(company):1	3155(overcharge):1	4041(dispute):1	6019(mistakenly):1	
+0	
+0	
+
+<Author>BabyDuckOhio
+<Content>Noisy and Run Down We chose this hotel because of its proximity to the airport and the fact that it provided shuttle service. We should have taken the hint that this wasn't going to be a pleasant experience when we called the hotel twice and still waited 45 minutes for a shuttle to come pick us up (less than a 5 minute ride away!). Once we were finally dropped off, our room still wasn't ready, despite calling the hotel two hours earlier receiving confirmation that they would have a room ready when we arrived. The lady manning the front desk said it would be another hour or hour and a half before our room would be ready and that we should go shopping or something (?). My husband was ill so I told her we'd wait in the lobby instead. Within 5 minutes she found us a room. Amazing!The front desk staff appears to be overworked, at least I would like to attibute her uncaring attitude to this reason. We tried to use the computer in the lobby to check the net and when we couldn't get a connection, she replied, it's down. Duh! My husband took the initiative and rebooted it. Problem solved. After we finally got into the room, we noticed that our window was open and wouldn't shut, obviously pushed too far from either the maid or the previous guest. The front desk did send someone to fix it. While the maid did the best she could cleaning the room, the wallpaper was coming off the walls and had marks on it as well as the carpet raveling at the seams. This hotel has seen better times in the past...We had a 6:45 a.m. flight the next morning. After telling us the shuttle ONLY runs on the hour and half hour we decided to get a wake up call at 3:30 am so we could take the 4:00 shuttle. We arrived at the front desk at 3:50 a.m. to see the same lady who was there the morning, afternoon, and evening when we arrived still at the front desk! The shuttle was gone already! When we confronted her with the rules about shuttle times that she gave us the day before, she said, Well, the van was in an accident. Ok, but I still didn't see the relevance to the van leaving early. When the van finally arrived, it was the same van as yesterday, with the same dent in the door as yesterday. Any answer to get us off her back, I guess! Thank heavens we planned well and had plenty of time to get thru the airport security, etc. The biggest problem with this hotel is that it's like living in a college dorm room. You can hear every person in the hallway and every door being open or shut. It's EXTREMELY noisy! On top of this, I believe the hotel is situated at the end of an airport taxi way or run up area because all night we could hear loud blasts from plane engines. I expected to hear general take off noise since we were close to the airport, but this was ridiculous! Needless to say, we did not sleep at all... Next time we will pay a few dollars more and get an upgraded hotel!  
+<Date>Aug 20, 2007
+<Rating>1	1	1	2	2	1	-1	1	
+<Aspects>
+21	43(leave):1	53(arrive):1	54(door):2	105(husband):1	110(extremely):1	123(ok):1	132(hear):1	145(amaze):1	193(person):1	217(noisy):1	341(finally):1	469(guess):1	580(hallway):1	669(answer):1	1086(shut):1	1223(van):3	2094(solve):1	2447(yesterday):2	6601(dent):1	6788(duh):1	9254(initiative):1	
+16	5(time):1	29(minute):2	42(pay):1	44(experience):1	67(call):1	85(wait):1	104(sleep):1	150(pleasant):1	163(upgrade):1	218(ride):1	266(pick):1	321(shuttle):1	347(twice):1	430(dollar):1	1356(needless):1	2042(hint):1	
+39	3(clean):1	5(time):2	29(minute):1	53(arrive):1	56(morning):1	60(hour):1	67(call):1	73(etc):1	91(guest):1	95(airport):1	119(window):1	158(plenty):1	183(wall):1	206(live):1	221(plan):1	233(flight):1	271(thank):1	274(ready):2	300(maid):2	302(receive):1	341(finally):2	354(notice):1	373(previous):1	396(carpet):1	419(past):1	498(despite):1	641(security):1	662(drop):1	781(obviously):1	882(mark):1	1041(push):1	1086(shut):1	1231(thru):1	1363(heaven):1	1641(confirmation):1	1925(college):1	2093(wallpaper):1	3814(dorm):1	7050(seam):1	
+34	2(night):1	5(time):1	8(day):1	9(service):1	28(close):1	60(hour):2	62(expect):1	67(call):1	69(tell):1	94(noise):1	95(airport):3	118(top):1	132(hear):2	149(run):3	153(provide):1	167(choose):1	185(taxi):1	217(noisy):1	219(decide):1	283(half):1	312(believe):1	321(shuttle):5	416(loud):1	554(wake):1	574(situate):1	968(plane):1	1114(proximity):1	1223(van):1	1279(blast):1	1533(ridiculous):1	1835(rule):1	3213(accident):1	4036(engine):1	4617(confront):1	
+0	
+18	0(staff):1	31(front):5	36(desk):5	49(shop):1	53(arrive):2	56(morning):1	60(hour):2	274(ready):1	283(half):1	364(afternoon):1	374(reason):1	447(send):1	494(fix):1	521(lady):2	541(appear):1	821(attitude):1	5083(overwork):1	5873(uncaring):1	
+6	55(lobby):1	69(tell):1	85(wait):1	105(husband):1	353(instead):1	1657(ill):1	
+7	32(check):1	55(lobby):1	253(tried):1	555(computer):1	932(connection):1	1811(reply):1	2076(net):1	
+
+<Author>pcchicago
+<Content>Sleepless in Seattle We stayed here one night and left for the airport early because we couldn't wait to get out. The motel was shabby and not too clean. Plumbing noises and slamming doors left two of the three of us awake for most of the night. Food and supplies in the breakfast room were constantly running out and were replaced slowly. There was no fruit to be had. The computer in the lobby was not allowing access to the internet and the receptionist was completely uninterested in doing anything about it. (She was busy doing other tasks even when guests were trying to transact business.) The airport shuttle was a positive feature.  
+<Date>Aug 16, 2007
+<Rating>1	2	2	4	2	3	1	1	
+<Aspects>
+8	2(night):1	43(leave):1	54(door):1	94(noise):1	215(fruit):1	1494(awake):1	2008(slam):1	2107(plumb):1	
+0	
+6	2(night):1	43(leave):1	85(wait):1	95(airport):1	762(seattle):1	4250(sleepless):1	
+9	76(try):1	91(guest):1	95(airport):1	147(business):1	220(busy):1	321(shuttle):1	458(positive):1	731(feature):1	3592(task):1	
+3	3(clean):1	991(motel):1	1319(shabby):1	
+0	
+7	6(breakfast):1	16(food):1	149(run):1	859(supply):1	912(replace):1	995(constantly):1	3340(slowly):1	
+8	55(lobby):1	97(internet):1	159(access):1	359(allow):1	542(completely):1	555(computer):1	855(receptionist):1	4817(uninterest):1	
+
+<Author>tmi007
+<Content>Wouldn't stay here again The only great thing about this place is that it is close to the airport. There was a broken window/door between the bedroom and the bathroom so nothing was private. The service was not friendly or fast and the rates published at the hotel were cheaper than what we got on hotel.com  
+<Date>Aug 8, 2007
+<Rating>2	2	2	3	2	1	1	1	
+<Aspects>
+0	
+7	9(service):1	12(friendly):1	78(rate):1	143(cheap):1	499(fast):1	5651(publish):1	10330(hotel.com):1	
+5	13(bathroom):1	119(window):1	228(break):1	268(bedroom):1	492(private):1	
+2	28(close):1	95(airport):1	
+0	
+0	
+0	
+0	
+
+<Author>jparet
+<Content>Not a 3 star When I booked this, it was rated as a 3 star hotel. Far from it. It is dirty, the carpets need to be replaced, the walls have never been washed, and it looks like previously my room had an attempted break in. The door frame has obviously been damaged by someone trying to force it open. The curtain was broken. When my wife rubbed a white wet towel on the floor the towel became black. nasty nasty nasty.one very positive part of the stay. the staff are very friendly, helpful, and go out of their way to take care of you. the problem is,no matter how nice the people are, there is nothing worse than a dirty, cheap hotel that needs to be torn down and rebuilt.  
+<Date>Jul 19, 2007
+<Rating>1	1	1	3	1	5	5	3	
+<Aspects>
+10	54(door):1	76(try):1	228(break):1	458(positive):1	743(curtain):1	781(obviously):1	1550(force):1	1639(nasty):3	2030(damage):1	2339(frame):1	
+3	18(book):1	78(rate):1	103(star):2	
+16	20(look):1	24(floor):1	125(towel):2	183(wall):1	184(wife):1	228(break):1	323(dirty):1	396(carpet):1	466(white):1	811(wash):1	912(replace):1	1007(black):1	1032(wet):1	1119(attempt):1	1122(previously):1	4762(rub):1	
+0	
+8	4(nice):1	26(people):1	50(bad):1	143(cheap):1	323(dirty):1	531(matter):1	1605(tear):1	4907(rebuild):1	
+4	0(staff):1	12(friendly):1	14(helpful):1	242(care):1	
+0	
+0	
+
+<Author>cozywintersnow
+<Content>Absolutely HORRIBLE!! I will never, in my life, stay at a Days Inn. This has to be the worst hotel I have stayed in. When I first arrived I noticed the rundown and dirty parking lot, completely unsecure. When I entered the lobby I wasn't even greeted by the woman behind the desk. She was rude, seemed bored and didn't even welcome me to the hotel. Going down the hallway to find my room I noticed two men, dressed in street clothes, pushing the maid carts. I imagine they work there, but they had no nametags or uniform that would identifiy them from the guy down the street. The room smelled of cheap everywhere I looked. There were no shampoo, or soaps, the TV remote didn't work, the beds were hard and the linens thin as paper. The carpet was dirty and there ants underneath the sink. Ugh!! I almost felt dirty staying there. Because I booked my room through one of the discount sites, i could not get a refund. I was so angry that I had to stay there or lose my $112. No way I would ever go back! HORRIBLE!!  
+<Date>Jul 3, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	8(day):1	50(bad):1	189(absolutely):1	202(welcome):1	324(inn):1	392(rude):1	426(life):1	544(horrible):2	596(lose):1	1098(bore):1	2830(angry):1	4730(ugh):1	
+7	18(book):1	20(look):1	143(cheap):1	192(site):1	231(smell):1	864(discount):1	1492(refund):1	
+17	11(bed):1	35(street):1	116(tv):1	162(hard):1	300(maid):1	354(notice):1	580(hallway):1	630(linen):1	709(clothe):1	754(thin):1	776(paper):1	935(dress):1	965(soap):1	1041(push):1	1051(shampoo):1	1272(remote):1	1322(cart):1	
+4	35(street):1	368(guy):1	733(imagine):1	4860(uniform):1	
+13	34(feel):1	38(lot):1	53(arrive):1	66(park):1	323(dirty):3	354(notice):1	396(carpet):1	509(sink):1	542(completely):1	1675(ant):1	2323(rundown):1	2459(underneath):1	12938(unsecure):1	
+5	36(desk):1	55(lobby):1	415(greet):1	566(woman):1	601(enter):1	
+0	
+0	
+
+<Author>TXKast
+<Content>Look elsewhere We booked this hotel as part of a package without reading reviews. This hotel is located close to the airport, on the same street as the airport. The hotel is plagued by parking troubles, so look out if you are going to rent a car/need car parking. The hotel managers/management try to make some extra bucks by offering hotel parking as park and fly/long-term parking. Guests ended up parking their cars in fire lanes and in handicap spots.Rooms are basic. No microwave/refrigerator in rooms. The TV only showed basic local channels (no CNN etc.). Staff is very friendly and go out of their way to make you feel comfortable. Lobby has a computer with internet to use.If you are looking for an airport hotel, there are other options in similar price range.  
+<Date>Mar 28, 2007
+<Rating>2	2	2	4	2	3	3	3	
+<Aspects>
+0	
+6	19(price):1	20(look):1	95(airport):1	336(option):1	714(range):1	874(similar):1	
+7	73(etc):1	116(tv):1	195(local):1	352(basic):2	741(channel):1	820(microwave):1	2101(cnn):1	
+20	20(look):1	28(close):1	35(street):1	66(park):6	76(try):1	84(locate):1	89(offer):1	91(guest):1	95(airport):2	121(car):3	128(extra):1	317(spot):1	569(trouble):1	614(fly):1	1030(rend):1	1120(buck):1	1262(fire):1	2566(lane):1	3007(handicap):1	4558(plague):1	
+0	
+4	0(staff):1	12(friendly):1	25(comfortable):1	34(feel):1	
+6	18(book):1	20(look):1	37(review):1	88(read):1	527(package):1	646(elsewhere):1	
+3	55(lobby):1	97(internet):1	555(computer):1	
+
+<Author>rorus
+<Content>Last Hotel On Earth Smelly carpets, smelly corridors, smelly linen, suspect stains on the headboard. Stayed in Jacuzzi room. Could hear my wife going to the toilet not pleasant. This place needs to be bulldozed it's awful. And just to make sure we stayed another 2 nights here before we went home. uuughaahha. sends shivers down the spine. On the plus it's very close to airport and staff are friendly and shuttle service is grand. But, when you learn what we learned when you get there that is there is about 20 other hotels in short walking distance to this hotel surrounding it. They can't be any worse than this dump. Only that I live so far away in Ireland. I would actually start a campaign to get this hole of a place shut down. AWFUL AWFUL AWFUL AWFUL. Oh! and did I say that this place is AWFUL!! because it is.You may think how can a place be so bad. Find out at your own Peril.  
+<Date>Nov 29, 2006
+<Rating>1	1	1	2	1	3	3	3	
+<Aspects>
+15	2(night):1	50(bad):2	132(hear):1	141(home):1	150(pleasant):1	166(own):1	184(wife):1	206(live):1	330(toilet):1	447(send):1	736(awful):6	1449(dump):1	3748(ireland):1	10594(shiver):1	10639(peril):1	
+5	165(start):1	180(actually):1	1086(shut):1	1218(hole):1	12690(campaign):1	
+1	808(jacuzzi):1	
+13	0(staff):1	7(walk):1	9(service):1	12(friendly):1	28(close):1	95(airport):1	115(distance):1	144(short):1	203(plus):1	321(shuttle):1	365(grand):1	667(surround):1	703(learn):2	
+8	396(carpet):1	630(linen):1	723(stain):1	1073(corridor):1	1697(smelly):3	1983(suspect):1	2201(earth):1	3408(headboard):1	
+0	
+0	
+0	
+
+<Author>jessy79
+<Content>it's ok It isn't a vey luxery hotel, there were not many facilities. But for the price we paid the hotel was ok. Clean rooms, good hotel/airport shuttle, wireless internet (we were very happy whit that) The complimantery breakfast was allright, coffee, juices, muffins, bagles, cereals, waffles.  
+<Date>Sep 1, 2006
+<Rating>3	4	3	3	4	4	3	4	
+<Aspects>
+0	
+3	19(price):1	42(pay):1	123(ok):1	
+0	
+4	123(ok):1	211(facility):1	5521(vey):1	11107(luxery):1	
+0	
+0	
+13	3(clean):1	6(breakfast):1	90(coffee):1	97(internet):1	155(happy):1	321(shuttle):1	362(juice):1	529(cereal):1	717(wireless):1	1260(muffin):1	1557(waffle):1	10239(allright):1	12809(bagl):1	
+0	
+
+<Author>Insearchof
+<Content>Aweful! This place doesn't have any redeeming qualities. The carpet is terribly stained all over the hotel. As you come out of the elevator the smell of stale smoke permeates the hallway.The beds in the room are hard like cardboard and the linens and blankets felt like sandpaper. The pillows were simply horrible.If you want to sleep comfortably this is not the place to stay. Spend a few dollars more and stay at the Doubletree across the street. That is what I would do if I stayed in Seatac again. The hotel needs to be torn down and they should start from scratch!  
+<Date>Aug 31, 2006
+<Rating>1	1	1	4	1	3	3	-1	
+<Aspects>
+5	303(pillow):1	488(simply):1	544(horrible):1	5134(seatac):1	6437(aweful):1	
+9	35(street):1	64(spend):1	165(start):1	187(quality):1	430(dollar):1	1605(tear):1	2613(scratch):1	3306(doubletree):1	4213(redeem):1	
+12	11(bed):1	34(feel):1	104(sleep):1	162(hard):1	396(carpet):1	630(linen):1	723(stain):1	1369(blanket):1	1910(terribly):1	2155(comfortably):1	5594(cardboard):1	9862(sandpaper):1	
+0	
+0	
+0	
+6	216(elevator):1	231(smell):1	468(smoke):1	580(hallway):1	2052(stale):1	5247(permeate):1	
+0	
+
+<Author>dearsue
+<Content>Keep on driving! The first thing we noticed is the lack of marking for the entry to the Hotel. We drove around the block after missing it. The carpet in the main lobby, stairs and halls were worn and especially stained and dirty.The room had dirty mattress and box springs sides that were exposed due to ill-fitting sheets and lack of matress covers or dust ruffels.The toilet did not flush efficiently, and almost overflowed. Water pipes groaned and squeeked. The door to the room had a gap at the door jam that was easy to peek through!Other than that, the walls were very thin and all ajoining room sounds were clearly heard.I won't be staying there again!  
+<Date>Aug 15, 2006
+<Rating>1	1	2	4	-1	3	-1	3	
+<Aspects>
+15	57(water):1	100(bloc):1	276(miss):1	298(drive):2	330(toilet):1	349(lack):1	354(notice):1	487(wo):1	882(mark):1	1619(flush):1	1649(entry):1	2067(pipe):1	2461(efficiently):1	3460(overflow):1	9126(groan):1	
+0	
+19	54(door):2	55(lobby):1	93(easy):1	112(main):1	126(especially):1	132(hear):1	183(wall):1	323(dirty):1	396(carpet):1	409(sound):1	434(wear):1	568(stair):1	616(hall):1	723(stain):1	754(thin):1	1614(jam):1	2726(gap):1	3908(peek):1	7417(ajoine):1	
+0	
+11	259(due):1	323(dirty):1	349(lack):1	479(sheet):1	552(cover):1	847(mattress):1	945(box):1	1162(spring):1	1845(dust):1	2637(expose):1	3298(matress):1	
+0	
+0	
+0	
+
+<Author>fatboytom
+<Content>Suprised by the breakfast Stayed at the Days Inn on arrival in Seattle at the end of July 06. It's a cheap airport hotel but our experience was good. Yes, you could hear planes taking off but that鈥檚 what you get when you stay minutes away from a runway.We were welcomed with a warm friendly smile upon arrival although we had to catch a cab (only $5) because the shuttle bus only runs ever 30 minutes. Room was clean and spacious with all the facilities you need after a 16-hour flight. Unfortunately the TV didn't have all the channels it promised but that鈥檚 a minor complaint!Breakfast was great, we went down expecting just a pre-packaged muffin and bad coffee so fresh fruit, pastries, cereal, waffles and juice were a pleasant surprise!Would recommend the hotel for those looking for a cheap bed after a long flight rather than travelling straight into Seattle.  
+<Date>Aug 10, 2006
+<Rating>4	4	3	4	3	4	2	3	
+<Aspects>
+5	29(minute):1	132(hear):1	250(yes):1	968(plane):1	4926(runway):1	
+3	44(experience):1	95(airport):1	143(cheap):1	
+17	3(clean):1	11(bed):1	15(recommend):1	20(look):1	68(travel):1	111(spacious):1	116(tv):1	143(cheap):1	190(complaint):1	211(facility):1	233(flight):2	524(unfortunately):1	720(minor):1	741(channel):1	762(seattle):1	827(straight):1	975(promise):1	
+11	12(friendly):1	29(minute):1	120(bus):1	149(run):1	202(welcome):1	224(arrival):1	236(warm):1	321(shuttle):1	380(cab):1	387(smile):1	540(catch):1	
+0	
+0	
+19	6(breakfast):2	8(day):1	50(bad):1	62(expect):1	90(coffee):1	150(pleasant):1	197(fresh):1	199(surprise):1	215(fruit):1	224(arrival):1	324(inn):1	362(juice):1	529(cereal):1	652(pastry):1	762(seattle):1	1260(muffin):1	1557(waffle):1	1738(suprise):1	10634(pre-package):1	
+0	
+
+<Author>TravelerFL
+<Content>Better than expected Having not stayed at this Inn in several years, I was apprehensive, particularly because the rate was very favorable. My checkin was most pleasant, and I found the hotel and room to be in very good condition. The room/bath were clean and comfortable. The continental breakfast was adequate...and the checkout, once again, was a pleasant experience. Yes, it is a basic stay, but the Inn provided everything I needed...and as been stated before, it is very close to the airport, with shuttle provided.  
+<Date>May 15, 2006
+<Rating>4	5	4	-1	4	-1	-1	-1	
+<Aspects>
+6	62(expect):1	78(rate):1	324(inn):1	553(particularly):1	2129(apprehensive):1	3251(favorable):1	
+0	
+5	3(clean):1	25(comfortable):1	150(pleasant):1	263(condition):1	1818(checkin):1	
+7	28(close):1	95(airport):1	153(provide):2	250(yes):1	321(shuttle):1	324(inn):1	352(basic):1	
+0	
+6	6(breakfast):1	44(experience):1	150(pleasant):1	372(continental):1	390(adequate):1	658(checkout):1	
+0	
+0	
+
+<Author>richnindy
+<Content>Servicable If you're stuck at the airport just overnight, as I was (in late, out early), this is quite a servicable place to stay. Nothing fancy, but clean and decent for a night's stay. And you can't beat the location and the quick shuttle to the airport  
+<Date>Sep 1, 2005
+<Rating>3	4	3	-1	3	-1	-1	-1	
+<Aspects>
+0	
+0	
+5	79(late):1	95(airport):1	688(stick):1	1171(overnight):1	10103(servicable):2	
+5	1(location):1	95(airport):1	299(quick):1	321(shuttle):1	442(beat):1	
+4	2(night):1	3(clean):1	257(decent):1	796(fancy):1	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Forget about this one Broken bed, broken furniture, smelly room, unavailable staff. No service.  
+<Date>Jul 11, 2005
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+0	
+0	
+7	0(staff):1	11(bed):1	228(break):2	397(forget):1	440(furniture):1	1697(smelly):1	3703(unavailable):1	
+0	
+0	
+0	
+1	9(service):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>terrible service... could work in a pinch The rooms were very average motel rooms. On close inspection things were dated, but it didn't jump out at you. The bathroom was small.The service at this place was absolutely terrible. Our TV didn't work when we arrived, and when we called the front desk they immediately made it clear this was more our problem than theirs. It took numerous phone calls and 6 hours to get the TV fixed. No one would take responsibility for this problem; someone else was always on the way up to fix it.The breakfast went until 9:30 AM. When we showed up at 9:20 AM everything was gone. We asked them to restock a few things, which they did... but very slowly and very grudgingly. The did not seem concerned about or interested in our plight (9 adults and 3 kids without food). They were also clearly understaffed, which explains why they were so slow.The location is convenient to the airport, but not to downtown, especially with traffic - 45 minutes each way.There is free internet in the lobby, but no printer attached (can't print out boarding passes), which seems inexcusable to me for a hotel at the airport with a free airport shuttle.On the plus side: we paid $51 for a room for 4 adults, there is a free breakfast, and there is a free shuttle.Summary: I might stay here again for a dirt-cheap place to crash before an early morning (or after a late night) flight, but would choose a different place if I were going to stay for more than a few hours.  
+<Date>Jul 11, 2005
+<Rating>2	3	3	-1	3	-1	1	-1	
+<Aspects>
+6	170(else):1	494(fix):1	2118(restock):1	3340(slowly):1	3721(responsibility):1	9553(grudgingly):1	
+14	2(night):1	6(breakfast):1	42(pay):1	46(free):2	56(morning):1	60(hour):1	79(late):1	167(choose):1	203(plus):1	233(flight):1	321(shuttle):1	556(adult):1	1716(summary):1	2192(crash):1	
+16	9(service):1	13(bathroom):1	16(food):1	60(hour):1	67(call):1	116(tv):1	201(kid):1	227(average):1	296(phone):1	432(terrible):1	494(fix):1	496(concern):1	556(adult):1	971(numerous):1	991(motel):1	5003(pinch):1	
+21	1(location):1	28(close):1	29(minute):1	46(free):2	55(lobby):1	95(airport):3	97(internet):1	126(especially):1	186(convenient):1	321(shuttle):1	334(downtown):1	400(pass):1	486(traffic):1	511(date):1	600(board):1	1101(print):1	1224(attach):1	1404(jump):1	2328(printer):1	4230(inspection):1	7233(inexcusable):1	
+0	
+10	31(front):1	36(desk):1	53(arrive):1	67(call):1	116(tv):1	455(slow):1	489(immediately):1	768(explain):1	3093(understaffed):1	3192(theirs):1	
+4	6(breakfast):1	9(service):1	189(absolutely):1	432(terrible):1	
+0	
+
+<Author>emlodge
+<Content>Average place to stay Stayed here one nite after returning from alaska trip. The staff was freindly, place was clean but nothing to write home about. One nite was ok but thats about it. Free shuttle to/from airport  places to eat close by (jack in the box, dennys  7-eleven next store). Complimentary breakfast was not stocked well  was not impressed but made the best out of it.  
+<Date>Jun 8, 2005
+<Rating>3	3	3	-1	3	-1	3	-1	
+<Aspects>
+7	33(trip):1	39(return):1	123(ok):1	227(average):1	1198(thats):1	1895(nite):2	5820(alaska):1	
+0	
+0	
+10	28(close):1	46(free):1	47(eat):1	95(airport):1	255(store):1	321(shuttle):1	945(box):1	2541(jack):1	7111(dennys):1	11974(7-eleven):1	
+5	0(staff):1	3(clean):1	141(home):1	344(write):1	2779(freindly):1	
+0	
+4	6(breakfast):1	343(impress):1	345(complimentary):1	599(stock):1	
+0	
+
+<Author>drw2112
+<Content>Close to airport reasonably priced GREAT DEAL We were only staying one night in Seattle and wanted to catch a Mariners game. This Hotel has a 24 hr shuttle service to the airport that leaves every half hr.They also have a town car and friendly driver who can take you downtown for a much cheaper rate than a cab. The room was pretty spacious and clean and the hotel also had an exercise room and continental breakfast. The staff was extremely helpful and courteous.I would recommend this hotel, we had a nice stay.Also there is a Jack in the Box only a block away which was good, they got great cheeseburgers!!!  
+<Date>Sep 20, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	4(nice):1	15(recommend):1	
+8	12(friendly):1	78(rate):1	121(car):1	143(cheap):1	239(town):1	334(downtown):1	380(cab):1	563(driver):1	
+6	3(clean):1	6(breakfast):1	109(pretty):1	111(spacious):1	372(continental):1	1459(exercise):1	
+15	2(night):1	9(service):1	19(price):1	28(close):1	95(airport):2	140(deal):1	283(half):1	321(shuttle):1	540(catch):1	578(reasonably):1	683(game):1	762(seattle):1	1464(hr):2	1593(leaf):1	7456(mariner):1	
+0	
+4	0(staff):1	14(helpful):1	110(extremely):1	483(courteous):1	
+4	100(bloc):1	945(box):1	2541(jack):1	4756(cheeseburger):1	
+0	
+

@@ -1,0 +1,434 @@
+<Author>Hippohv
+<Content>Excellent for business This is a great hotel for the business traveller. Tastefully renovated rooms, flat screen TV and modern. The room I stayed in was large and bright. Close to the subway and a local supermarket as well as restaurants including Pizza Hut and other international brands. Great breakfast included in rate and a really nice area to sit out in the evening over drinks. Excellent value and much recommended.  
+<Date>Jul 23, 2008
+<Rating>5	5	5	5	5	4	5	5	
+<Aspects>
+0	
+3	15(recommend):1	21(excellent):1	81(value):1	
+7	116(tv):1	151(modern):1	526(screen):1	533(renovate):1	535(flat):1	880(bright):1	1526(tastefully):1	
+13	10(restaurant):1	21(excellent):1	28(close):1	71(include):1	147(business):2	195(local):1	267(traveler):1	370(subway):1	678(pizza):1	883(brand):1	903(international):1	1078(supermarket):1	1236(hut):1	
+0	
+0	
+6	4(nice):1	6(breakfast):1	63(drink):1	71(include):1	78(rate):1	169(sit):1	
+0	
+
+<Author>Kasper68
+<Content>Great Location, bargain price with excellent friendly staffs. I had a choice of staying at swanky five star in the Financial street and more down to earth but comfortable holiday inn. I gave it a try to stay and I am happy i did it. Hotel has just completed renovation and rooms are brand new. Great friendly staffs. And just few minutes walk to Financial street. Will return again after the Olympics!!!  
+<Date>Jul 17, 2008
+<Rating>5	5	5	5	4	5	4	4	
+<Aspects>
+4	39(return):1	76(try):1	155(happy):1	4102(olympics):1	
+15	0(staff):1	1(location):1	12(friendly):1	19(price):1	21(excellent):1	25(comfortable):1	35(street):1	103(star):1	107(choice):1	223(holiday):1	324(inn):1	759(bargain):1	1746(financial):1	2201(earth):1	4803(swanky):1	
+3	622(complete):1	687(renovation):1	883(brand):1	
+4	7(walk):1	29(minute):1	35(street):1	1746(financial):1	
+0	
+2	0(staff):1	12(friendly):1	
+0	
+0	
+
+<Author>WillowTeeside
+<Content>winter break Travelled from U.K to Hong Kong then on to N.Z. and Australia finally arriving in Beijing after 6 weeks of travelling feeling rather weary. Arrived late at the hotel but found the reception desk staff very efficient and extremely helpful. Our executive double room was perfect. Booking in at executive level does not cost much more than normal rates but allows use of the exec. lounge which has many perks. The staff in this lounge were very helpful (A special mention for Sofia)and pleasant at all times contrary to the experiences quoted by one reviewer and the laundry service just brilliant. The food selection is wide enough to suit any palate and the staff are very efficient.Because of the forthcoming Olympic Games the hotel is being updated (as are so many others) but this did not affect our enjoyment at all. I consider this hotel to be very good value for money and will definitely be back.  
+<Date>Jan 13, 2008
+<Rating>5	5	5	3	5	5	5	4	
+<Aspects>
+19	34(feel):1	53(arrive):1	68(travel):2	75(week):1	228(break):1	341(finally):1	683(game):1	725(update):1	1121(kong):1	1123(hong):1	1240(beije):1	1530(australia):1	1599(winter):1	2082(affect):1	2286(olympic):1	3036(enjoyment):1	3186(weary):1	5903(forthcoming):1	8280(u.k):1	
+12	18(book):1	59(definitely):1	78(rate):1	80(money):1	81(value):1	175(cost):1	248(consider):1	306(level):1	359(allow):1	872(executive):1	878(normal):1	4420(exec):1	
+10	0(staff):1	16(food):1	74(perfect):1	179(double):1	333(selection):1	401(efficient):1	860(wide):1	861(suit):1	872(executive):1	6530(palate):1	
+0	
+0	
+8	0(staff):1	14(helpful):1	36(desk):1	53(arrive):1	79(late):1	110(extremely):1	129(reception):1	401(efficient):1	
+16	0(staff):1	5(time):1	9(service):1	14(helpful):1	44(experience):1	150(pleasant):1	208(special):1	237(lounge):2	244(mention):1	564(reviewer):1	793(brilliant):1	1075(laundry):1	1856(quote):1	1914(perk):1	2419(contrary):1	7602(sofia):1	
+0	
+
+<Author>jonorose
+<Content>Good, but stay spoiled by poor service       Kingsize bed  
+<Date>Oct 26, 2007
+<Rating>3	3	4	3	4	2	3	4	
+<Aspects>
+0	
+0	
+5	9(service):1	11(bed):1	331(poor):1	1221(spoil):1	3778(kingsize):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Linda Hotham
+<Content>Great buffet restaurant Stayed in this hotel for three nights at the beginning of October. Lovely room with huge shower. The breakfast buffet was the best we had on our tour of China. Very attentive staff tied your handbag to your chair whilst you browsed the buffet. The swimming pool was downstairs off the bar.Used it once but it was a bit cold. Sockets in bedrooms took English plugs. First time condoms have been included in a mini bar! There is an ATM within easy walking distance also several Western restaurants. Actually went out for a pizza one night. Ate in the hotel another evening, again a fantastic buffet with food from all over the world. Everything from sushi to steaks and pasta. Nice to have a lit up clock radio in the bedroom too.There is a department store close to the hotel and the other side of the main road a market on 4 or 5 floors. Bought some clothes in the market but have to say felt a bit hassled doing so.Felt very safe out and about the hotel.  
+<Date>Oct 18, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	2(night):1	34(feel):1	52(bit):1	137(safe):1	180(actually):1	222(cold):1	678(pizza):1	
+0	
+11	4(nice):1	61(shower):1	87(lovely):1	133(huge):1	152(english):1	157(light):1	268(bedroom):2	1174(plug):1	1291(clock):1	1816(radio):1	4040(socket):1	
+18	7(walk):1	10(restaurant):1	24(floor):1	28(close):1	34(feel):1	52(bit):1	93(easy):1	112(main):1	115(distance):1	230(road):1	255(store):1	264(market):2	280(buy):1	709(clothe):1	1015(western):1	1193(hassle):1	1707(department):1	2405(atm):1	
+0	
+0	
+30	0(staff):1	2(night):1	5(time):1	6(breakfast):1	10(restaurant):1	16(food):1	22(pool):1	27(bar):2	47(eat):1	71(include):1	77(buffet):4	86(fantastic):1	181(tour):1	198(chair):1	261(swim):1	272(world):1	448(mini):1	537(attentive):1	551(begin):1	660(steak):1	691(downstairs):1	877(whilst):1	911(october):1	1143(pasta):1	1159(china):1	1632(sushi):1	3427(tie):1	3888(browse):1	5848(condom):1	6590(handbag):1	
+0	
+
+<Author>baozao
+<Content>Good hotel but maybe give the laundry service a miss!       Bedroom on the 4th floor  
+<Date>Oct 8, 2007
+<Rating>3	4	5	4	5	3	3	3	
+<Aspects>
+0	
+0	
+3	24(floor):1	268(bedroom):1	845(4th):1	
+0	
+0	
+0	
+4	9(service):1	276(miss):1	308(maybe):1	1075(laundry):1	
+0	
+
+<Author>happytrailsnyc
+<Content>A great bargain I chose this hotel because I needed an inexpensive place to stay in unfamiliar territory - a trusted name like Holiday Inn fit the bill, and having a Holiday Inn Downtown Beijing sounded charming. I wasn't disappointed at all, as my expectations were not that high. The rooms are small, clean and basic. The pool was a perk, though I only used it once. The staff at the cafe was cordial, if not overbearing in their attempts to accommodate. Ordering a drink involved three people, but they were all smiling and graciously offered their hospitality quickly. The same goes for the front desk and bellhops - always ready to help.The hotel offered a day excursion to the Great wall, a Jade factory, and a few other places. I think I paid less than $50 for the whole deal - including lunch. Well worth it. Nearby is a supermarket (near the exit of the subway) that had everything I needed at a fraction of the cost of NYC. Smokes were $1 a pack, Evian .50 for 2 liters... amazing. The room had a fridge, so I stocked up on beer too. :)Across the street (near the hospital) is an excellent restaurant. Not fancy by any means, but the food is delicious. A full dinner for two with beer cost about $4.00. Venturing out into the city revealed so many places to eat, but beware - English is hardly spoken.In closing, I recommend the Holiday Inn. I found the weekly rate hard to beat. I think my bill came $150 or so.  
+<Date>Aug 14, 2007
+<Rating>4	5	3	4	3	4	4	3	
+<Aspects>
+16	22(pool):1	41(city):1	47(eat):1	78(rate):1	96(worth):1	127(speak):1	152(english):1	162(hard):1	442(beat):1	495(bill):1	737(beware):1	985(hardly):1	1440(venture):1	1914(perk):1	3988(weekly):1	4381(reveal):1	
+30	0(staff):1	42(pay):1	71(include):1	117(dinner):1	140(deal):1	154(disappoint):1	167(choose):1	175(cost):1	223(holiday):2	252(lunch):1	275(cafe):1	295(name):1	324(inn):2	332(charm):1	334(downtown):1	409(sound):1	431(expectation):1	443(beer):1	495(bill):1	624(accommodate):1	668(fit):1	759(bargain):1	1117(inexpensive):1	1119(attempt):1	1240(beije):1	1402(trust):1	3164(cordial):1	5369(overbear):1	5379(territory):1	5693(unfamiliar):1	
+5	3(clean):1	318(fridge):1	352(basic):1	443(beer):1	599(stock):1	
+22	8(day):1	10(restaurant):1	15(recommend):1	21(excellent):1	28(close):1	35(street):1	89(offer):1	102(near):2	175(cost):1	183(wall):1	223(holiday):1	232(nearby):1	324(inn):1	370(subway):1	558(nyc):1	734(excursion):1	1078(supermarket):1	1354(exit):1	1911(hospital):1	2317(factory):1	3719(fraction):1	7334(jade):1	
+5	145(amaze):1	468(smoke):1	715(pack):1	5282(liter):1	5366(evian):1	
+5	31(front):1	36(desk):1	92(help):1	274(ready):1	4015(bellhops):1	
+12	16(food):1	26(people):1	63(drink):1	89(offer):1	246(mean):1	387(smile):1	471(quickly):1	485(delicious):1	796(fancy):1	1115(hospitality):1	1538(involve):1	3634(graciously):1	
+0	
+
+<Author>Mycra
+<Content>Nice food and location shame the room didn't match. This hotel is conveniently located for the shops and the metro. it is currently undergoing a much needed renovation which was noisy during the day but didn't carry on at night or start early in the morning. The rooms show their age. Ours was ok, the carpet was a bit stained. Others in our group had rooms that were more delapidated and my parents had a room with a window that backed onto a storeroom which they did not notice on arrival at 2 a.m. The food is good. A wide range of styles for breakfast and in the reasonably priced evening buffet. They could do with a non-smoking area or better ventilation in the restaurant. I would be happy to stay there again.  
+<Date>Aug 14, 2007
+<Rating>3	3	3	4	3	4	4	-1	
+<Aspects>
+1	155(happy):1	
+9	2(night):1	8(day):1	56(morning):1	165(start):1	217(noisy):1	687(renovation):1	824(carry):1	2006(currently):1	2086(undergo):1	
+15	1(location):1	4(nice):1	16(food):2	52(bit):1	119(window):1	123(ok):1	224(arrival):1	354(notice):1	396(carpet):1	505(age):1	723(stain):1	843(ours):1	1197(parent):1	1292(shame):1	1476(match):1	
+4	49(shop):1	84(locate):1	235(metro):1	1070(conveniently):1	
+3	10(restaurant):1	978(nonsmoking):1	2667(ventilation):1	
+0	
+7	6(breakfast):1	19(price):1	77(buffet):1	326(style):1	578(reasonably):1	714(range):1	860(wide):1	
+0	
+
+<Author>kevinpng
+<Content>Great Value in Beijing My experience could not be more different to the last review. The room I had was excellent, small but new. The staff were great - limited English but they did their very best to accommodate my needs. The hotel location is not the best, but for the price it is pretty good. Very close to a metro stop and taxis are very cheap by western standards so it was easy to get out and about. Overall, if you are coming to Beijing you could do a lot worse that the Holiday Inn Downtown.  
+<Date>Jul 10, 2007
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+7	38(lot):1	50(bad):1	70(overall):1	223(holiday):1	324(inn):1	334(downtown):1	1240(beije):1	
+11	0(staff):1	1(location):1	19(price):1	37(review):1	44(experience):1	81(value):1	109(pretty):1	152(english):1	510(limit):1	624(accommodate):1	1240(beije):1	
+1	21(excellent):1	
+8	28(close):1	93(easy):1	122(stop):1	130(standard):1	143(cheap):1	185(taxi):1	235(metro):1	1015(western):1	
+0	
+0	
+0	
+0	
+
+<Author>Swede62
+<Content>awful place We stayed at this place for 4 nights last summer. It was awful.The staff are not professional at all. The rooms are small and torn.In one of the two rooms we had, the toilet system was just working from time to time. They tried to repair it 4 times!!!That was on the executive floor in a Holiday Inn Hotel!!!!The only good thing with this hotel is that it is close to the subway.  
+<Date>Jul 4, 2007
+<Rating>1	1	1	3	2	1	1	-1	
+<Aspects>
+3	2(night):1	736(awful):2	853(summer):1	
+0	
+10	5(time):3	24(floor):1	223(holiday):1	253(tried):1	324(inn):1	330(toilet):1	518(system):1	872(executive):1	1398(repair):1	1605(tear):1	
+2	28(close):1	370(subway):1	
+0	
+2	0(staff):1	501(professional):1	
+0	
+0	
+
+<Author>badgrl1313
+<Content>Safe bet for a Holiday Inn!       Here is the Holiday Inn  
+<Date>May 31, 2007
+<Rating>4	4	3	4	4	3	4	4	
+<Aspects>
+4	137(safe):1	223(holiday):2	324(inn):2	1821(bet):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Donnabubble
+<Content>Mmmmm.....will you stay there again! This was our first visit to Beijing, on arrival at the Holiday Inn Downtown Beijing the reception is OK and staff seemed to be quite willing to help. However, the rooms on the other hand......They are quiet tired and look like they need a real overhaul. The rooms are quite a fair size, the bathroom is OK in size too. The view from the rooms we had were not all that great we looked out onto what we could only say was other room!!!! The food was OK. The buffet was good value for money.With the Olympics coming to Beijing in 2008, I hope they can bring this hotel back to form.  
+<Date>May 19, 2007
+<Rating>2	2	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	142(bring):1	328(hope):1	1164(form):1	1240(beije):1	4102(olympics):1	11300(mmmmm):1	
+0	
+11	13(bathroom):1	17(view):1	20(look):2	58(quiet):1	83(size):2	123(ok):1	240(real):1	377(hand):1	454(tire):1	739(fair):1	4053(overhaul):1	
+0	
+0	
+10	0(staff):1	65(visit):1	92(help):1	123(ok):1	129(reception):1	223(holiday):1	224(arrival):1	324(inn):1	334(downtown):1	1240(beije):2	
+5	16(food):1	77(buffet):1	80(money):1	81(value):1	123(ok):1	
+0	
+
+<Author>Jacek_Polska
+<Content>Value for money I have spent 6 nights at Holiday Inn Downtown Beijing in May 2007. Location of the hotel - this is not really city center, but it is reasonably close to it, with cheap taxis and subway 5 minutes away (which by the way costs USD 0.4 to reach any other station). By subway you can reach Tian An Men and Forbidden City in 15 minutes. There are some nice restaurants (in Chinese ones you can expect very poor contact in English).The drive to the airport by taxi is less than one hour and costs about CNY 120 (~USD 15).The room was very nice, reasonable size and clean. The staff was helpful, but as usual there were people that were really outstanding, and on some shifts they were just ok. Nevertheless - they have addressed most of our requests quickly and effectively.What I liked a bit less were:- buffett breakfast, with rather limited selection- english literacy of the staff - for the first time in my life I couldn't easily communicate in English in hotel restaurant of Holiday Inn networkGenerally, I'd say - value for money. If I come to Beijing again I will consider to stay there, although it will not be an obvious choice, and I will check some other options as well.  
+<Date>May 14, 2007
+<Rating>4	4	5	4	4	4	4	-1	
+<Aspects>
+6	29(minute):1	41(city):1	370(subway):1	851(reach):1	2271(forbid):1	8894(tian):1	
+13	2(night):1	32(check):1	64(spend):1	80(money):1	81(value):1	107(choice):1	223(holiday):1	248(consider):1	324(inn):1	334(downtown):1	336(option):1	1240(beije):2	1698(obvious):1	
+4	3(clean):1	4(nice):1	83(size):1	273(reasonable):1	
+16	1(location):1	28(close):1	29(minute):1	41(city):1	60(hour):1	82(station):1	95(airport):1	101(center):1	143(cheap):1	175(cost):2	185(taxi):2	298(drive):1	370(subway):1	578(reasonably):1	851(reach):1	1807(usd):2	
+0	
+18	0(staff):1	4(nice):1	10(restaurant):1	14(helpful):1	26(people):1	62(expect):1	123(ok):1	148(request):1	152(english):1	331(poor):1	471(quickly):1	534(outstanding):1	682(usual):1	713(contact):1	764(chinese):1	1312(address):1	2479(shift):1	4978(effectively):1	
+16	0(staff):1	5(time):1	6(breakfast):1	10(restaurant):1	52(bit):1	80(money):1	81(value):1	152(english):2	223(holiday):1	324(inn):1	333(selection):1	426(life):1	438(easily):1	510(limit):1	1520(communicate):1	2788(buffett):1	
+0	
+
+<Author>my4i03
+<Content>OK I asked the receptionist for a map of Beijing, they gave me a tear-out map from a magazine. I was more impressed at HI Downtown Shanghai, they provided me a real tourist map of Shanghai.Some of the Receptionists still need more training in English and message consolidation - I asked for a room change becuase our AC was not working (it was even colder outside) and the receptionist I asked didn't know that the other receptionist had already booked us a new room. The first receptionist even told us that there are already no rooms available.The same thing happened when another receptionist asked me to call them when we have successfully transferred rooms. So I called, and another receptionst answered and had no idea what I was trying to explain - that we have already transferred rooms - and this took some 3 mins and a lot of broken English before she actually handed the phone to the her co-receptionist who finally understood what I was saying...  
+<Date>May 10, 2007
+<Rating>3	3	3	5	3	4	4	3	
+<Aspects>
+8	153(provide):1	209(tourist):1	240(real):1	334(downtown):1	343(impress):1	724(map):1	1863(hi):1	5280(shanghai):2	
+0	
+0	
+0	
+0	
+32	18(book):1	38(lot):1	67(call):2	69(tell):1	76(try):1	98(outside):1	123(ok):1	134(available):1	152(english):2	161(change):1	180(actually):1	182(train):1	222(cold):1	228(break):1	247(min):1	296(phone):1	341(finally):1	377(hand):1	382(happen):1	391(understand):1	639(idea):1	669(answer):1	724(map):2	768(explain):1	855(receptionist):6	956(ac):1	1021(transfer):2	1240(beije):1	1809(message):1	2202(magazine):1	4030(becuase):1	7018(successfully):1	
+0	
+0	
+
+<Author>winnydpu
+<Content>Good hotel, convenient to the subway The Holiday Inn Downtown is a good value for a Beijing hotel. We found the room to be comfortable, if a bit small. The public areas of the hotel are very nice, although the pool is too small for adult use.We enjoyed the dinning options, and there are a number of western friendly restaurants next door.Access to the subway is one block away, which is very convenient.  
+<Date>Apr 10, 2007
+<Rating>4	4	3	4	3	3	4	3	
+<Aspects>
+0	
+7	81(value):1	186(convenient):1	223(holiday):1	324(inn):1	334(downtown):1	370(subway):1	1240(beije):1	
+2	25(comfortable):1	52(bit):1	
+4	4(nice):1	22(pool):1	379(public):1	556(adult):1	
+0	
+0	
+8	10(restaurant):1	12(friendly):1	51(enjoy):1	54(door):1	335(numb):1	336(option):1	1015(western):1	3090(din):1	
+4	100(bloc):1	159(access):1	186(convenient):1	370(subway):1	
+
+<Author>kenito799
+<Content>Good place, quirky but we liked it Ah, Beijing, what an amazing place. I have certainly stayed in nicer, more modern hotels but I remember our overall experience at the Holiday Inn Downtown very fondly, in keeping with the whole experience in Beijing.First, location: I am not sure what they mean by Downtown--this hotel is on the northwest edge of the second ring road, not far from the zoo (you can walk to the zoo). This is I guess more central than somewhere out beyond the 5th ring road, but it is not in a central business district. However, there is a metro stop a few blocks away, so access to Tiananmen Square, etc, is quite easy. When the new metro line is completed the Olympic stadium will be very easy to access from this hotel. Note that the metro stops running at around 10:30 pm. However, taxis are cheap and plentiful and really are the mainstay of transport for tourists in this sprawling city. The hotel is also on the side of the city closest to the Summer Palace which makes access to that marvelous sight fairly easy.The rooms were clean, towels and toiletries were very good, but bathrooms and furniture were tired and outdated, feeling like an old, unrenovated motel in the US. However, internet access was extremely fast and the English-speaking staff provided very friendly service. Cable TV had many channels in English as well as Chinese. On our first night the concierge wrote directions to a nightlife area which we showed to a taxi driver and we had a great time at a nightclub where an excellent Cuban band was playing Latin hits. There is a cash-exchange machine in the lobby which converts euros or US dollars to RMB for a small fee--very convenient.My only regret is that we didn't have more time in Beijing, a fascinating and beautiful place. I would stay at this hotel again.  
+<Date>Apr 3, 2007
+<Rating>4	4	3	4	4	5	5	5	
+<Aspects>
+13	5(time):1	45(beautiful):1	122(stop):1	145(amaze):1	149(run):1	235(metro):1	297(note):1	393(pm):1	1240(beije):2	1410(regret):1	2464(quirky):1	3417(fascinate):1	4919(ah):1	
+18	4(nice):1	44(experience):2	55(lobby):1	70(overall):1	151(modern):1	186(convenient):1	223(holiday):1	256(euro):1	324(inn):1	334(downtown):1	375(remember):1	430(dollar):1	493(machine):1	584(fee):1	1240(beije):1	2079(convert):1	5251(rmb):1	11898(fondly):1	
+30	3(clean):1	13(bathroom):1	28(close):1	34(feel):1	41(city):1	73(etc):1	93(easy):2	100(bloc):1	116(tv):1	122(stop):1	125(towel):1	139(square):1	152(english):1	159(access):2	235(metro):1	411(sight):1	440(furniture):1	454(tire):1	462(fairly):1	484(cable):1	642(palace):1	657(toiletry):1	741(channel):1	764(chinese):1	853(summer):1	991(motel):1	1549(outdated):1	2187(marvelous):1	4577(tiananmen):1	8562(unrenovate):1	
+36	1(location):1	2(night):1	5(time):1	7(walk):1	21(excellent):1	41(city):1	143(cheap):1	147(business):1	168(central):2	185(taxi):2	204(concierge):1	209(tourist):1	230(road):2	246(mean):1	334(downtown):1	344(write):1	386(play):1	395(direction):1	433(district):1	469(guess):1	563(driver):1	738(beyond):1	742(transport):1	775(hit):1	839(5th):1	1039(plentiful):1	1150(ring):2	1190(edge):1	1305(nightlife):1	1335(band):1	1511(zoo):2	2014(latin):1	2378(nightclub):1	3803(cuban):1	4778(sprawl):1	5759(Northwest):1	
+0	
+0	
+0	
+15	0(staff):1	9(service):1	12(friendly):1	93(easy):1	97(internet):1	110(extremely):1	153(provide):1	159(access):2	188(line):1	235(metro):1	499(fast):1	622(complete):1	2286(olympic):1	2695(stadium):1	4788(english-speake):1	
+
+<Author>onechinatrav
+<Content>Recommended This hotel is not fancy, but the room was clean and well maintained, the staff was very helpful and the location was great. This hotel advertised it is close to the subway and they did not lie. It takes only 5 minutes to walk to the subway. Also, there are restaurants (like McDonalds and Pizza Hut), markets and shopping nearby. In fact, right across the street, there is the Wan Tong? Wholesale Market (take exit D when exiting the subway), which is like the silk market but bigger. If you don't want to eat breakfast at the hotel, there is a 'fast-food' breakfast place across the street that serves dumplings, noodles and warm soy milk (traditional northern Chinese style) that was surprisingly good, satisfying and also very reasonably priced. Overall, we were very pleased with our stay at this hotel.  
+<Date>Apr 2, 2007
+<Rating>5	5	5	5	4	4	4	4	
+<Aspects>
+2	70(overall):1	173(please):1	
+0	
+0	
+17	7(walk):1	10(restaurant):1	28(close):1	29(minute):1	35(street):1	49(shop):1	232(nearby):1	264(market):3	370(subway):3	678(pizza):1	910(advertise):1	1166(lie):1	1236(hut):1	1354(exit):2	2524(mcdonalds):1	4137(silk):1	5813(wan):1	
+7	0(staff):1	1(location):1	3(clean):1	14(helpful):1	15(recommend):1	562(maintain):1	796(fancy):1	
+0	
+18	6(breakfast):2	19(price):1	35(street):1	47(eat):1	174(serve):1	236(warm):1	326(style):1	578(reasonably):1	764(chinese):1	899(satisfy):1	1116(milk):1	1241(traditional):1	1375(surprisingly):1	2865(noodle):1	3335(Northern):1	7276(dumpling):1	7622(soy):1	10607(fast-food):1	
+0	
+
+<Author>reclermo
+<Content>Holiday Inn Beijing is the best value for tourists If you are traveling to Beijing for tourism, then you should definately consider the Holiday Inn Beijing! The staff all speak excellent English and we never had a problem communicating while I was there. The hotel is in a good location to access all the major tourist destinations. I usually do my trip planning on my own; however, in Beijing I would recommed purchasing an organized tour by bus. This was the first time we had taken a tour and it was much better than we had expected. The rooms are comfortable and indicative of a high 2.5* rating. We also used the business centre for Internet access, but I remember the rates being quite expensive. The buffet breakfast each morning was outstanding and a great value considering the very low rates at this hotel. We also ate all of our non-tour meals at the hotel because it offered a great variety of food at low prices. For a laugh, go to their Chinese restaurant and order pigeon, it's actually quite good! There are also a couple of shopping markets close by and there are some larger banks for using ATMs on the main street just outside the front doors. I would highly suggest to any of my friends to stay at the Holiday Inn Beijing for a high level of convenience and value. If you prefer higher end luxury, then there are probably better options, but for less than $100 a night it can't be beat!  
+<Date>Jan 21, 2007
+<Rating>4	5	3	3	4	4	3	3	
+<Aspects>
+9	2(night):1	5(time):1	62(expect):1	178(probably):1	181(tour):1	336(option):1	437(luxury):1	442(beat):1	536(prefer):1	
+21	16(food):1	19(price):1	47(eat):1	68(travel):1	81(value):2	89(offer):1	138(highly):1	146(friend):1	209(tourist):1	213(meal):1	223(holiday):3	248(consider):1	306(level):1	324(inn):3	410(definately):1	413(variety):1	452(suggest):1	513(low):1	925(convenience):1	1240(beije):4	2897(tourism):1	
+3	25(comfortable):1	78(rate):1	9246(indicative):1	
+26	1(location):1	28(close):1	31(front):1	33(trip):1	35(street):1	49(shop):1	54(door):1	98(outside):1	99(couple):1	112(main):1	120(bus):1	159(access):1	166(own):1	181(tour):1	209(tourist):1	221(plan):1	264(market):1	315(major):1	399(usually):1	887(purchase):1	1092(destination):1	1167(organize):1	1225(bank):1	1240(beije):1	3909(recomm):1	6962(atms):1	
+0	
+5	0(staff):1	21(excellent):1	127(speak):1	152(english):1	1520(communicate):1	
+13	6(breakfast):1	10(restaurant):1	56(morning):1	77(buffet):1	78(rate):1	81(value):1	180(actually):1	248(consider):1	513(low):1	534(outstanding):1	764(chinese):1	1245(laugh):1	5951(pigeon):1	
+7	78(rate):1	97(internet):1	101(center):1	124(expensive):1	147(business):1	159(access):1	375(remember):1	
+
+<Author>Paul_Betteridge_61
+<Content>I loved it. The food is very good, the rooms clean and comfortable. There are shops where you can buy all your souveniers, if you do not have time to go to the friendship store. All the staff are friendly, eficient and lots speak very good English. For a bit of fun, try the vegitarien resteraunt. Dishes with names like Shallow stream meandering through a tranquil wood. Very Zen. Great steam room, jacusi and swimming pool. Marvelous supermarket just outside the back door. If buying mens pants beware. I took silk to wash at night. The air conditioning in my room was so good that they would not dry over night. I had to buy 3XL for my 38 waist and they were snug. In the supermarket buy some Sechuan Salt. Add it to the rice, that is the only way to give it any taste. It is NOT 15 minutes to the centre of town. There is a mini bus that takes one in for free but with Beijing trafic it takes an hour to an hour and a quarter. It is fun looking out of the window. Staff also take it and a 'nee how' especially to a child can get you into a mime conversation.I loved it!  
+<Date>Jan 15, 2007
+<Rating>5	4	4	2	4	4	4	-1	
+<Aspects>
+25	2(night):1	40(love):2	52(bit):1	76(try):1	176(fun):1	280(buy):2	295(name):1	351(add):1	439(taste):1	737(beware):1	811(wash):1	816(dish):1	1327(wood):1	1499(rice):1	2103(pant):1	2314(shallow):1	3038(tranquil):1	3714(stream):1	4137(silk):1	5069(resteraunt):1	5222(waist):1	5437(zen):1	5616(meander):1	7364(snug):1	9726(mens):1	
+0	
+10	2(night):1	3(clean):1	16(food):1	20(look):1	25(comfortable):1	119(window):1	164(air):1	176(fun):1	263(condition):1	1257(dry):1	
+17	5(time):1	46(free):1	49(shop):1	54(door):1	60(hour):2	98(outside):1	120(bus):1	255(store):1	280(buy):2	448(mini):1	463(quarter):1	1078(supermarket):2	1240(beije):1	2187(marvelous):1	2225(salt):1	4234(souvenier):1	7270(friendship):1	
+0	
+9	0(staff):2	12(friendly):1	38(lot):1	126(especially):1	127(speak):1	152(english):1	277(child):1	1281(conversation):1	10848(mime):1	
+3	22(pool):1	261(swim):1	1760(steam):1	
+3	29(minute):1	101(center):1	239(town):1	
+
+<Author>babywine
+<Content>Disappointing Although I booked two non-smoking rooms and was confirmed, they were not able to provide as such. After several room changes, the family ended up on two different floors for the first night.Front staff do not smile, and the fb staff in the cafe were downright unfriendly. Weren't rude, just abrupt and unsmiling. Definetly not one of the best hotel I have stayed in.Corridors were long and the ceiling low. Felt like an old hotel that has been added to.Breakfast was very pricey in comparison to other hotels, and the lobby uncomfortable.The only good thing about the hotel were the gorgeous female concierges outside assisting customers with taxis, and the nearby street of all kinds of Chinese cuisines. Had a fanstastic dinner at one of them that served Hunan Provincial food, and the owner there spoke excellent English and was able to recommend some dishes. Makes a change from stabbing in the dark.Definite room for improvement.  
+<Date>Jan 9, 2007
+<Rating>2	1	3	3	4	2	3	2	
+<Aspects>
+10	34(feel):1	161(change):1	351(add):1	392(rude):1	459(dark):1	513(low):1	528(ceiling):1	1073(corridor):1	1964(definetly):1	4726(abrupt):1	
+0	
+12	2(night):1	18(book):1	24(floor):1	106(family):1	153(provide):1	154(disappoint):1	161(change):1	171(able):1	978(nonsmoking):1	982(confirm):1	1486(improvement):1	2369(definite):1	
+11	35(street):1	98(outside):1	185(taxi):1	204(concierge):1	232(nearby):1	428(customer):1	446(gorgeous):1	764(chinese):1	1265(assist):1	1714(female):1	1717(cuisine):1	
+0	
+7	0(staff):2	31(front):1	275(cafe):1	387(smile):1	1487(unfriendly):1	3289(downright):1	8404(fb):1	
+17	6(breakfast):1	15(recommend):1	16(food):1	21(excellent):1	55(lobby):1	117(dinner):1	127(speak):1	152(english):1	171(able):1	174(serve):1	546(pricey):1	672(owner):1	816(dish):1	856(uncomfortable):1	1525(comparison):1	6694(provincial):1	11398(fanstastic):1	
+0	
+
+<Author>Snuffin
+<Content>Fantastic My husband and i have just returned from the Holiday Inn Downtown and had a fantastic stay. We stayed for four nights over the Christmas period and then returned again after returning from Shanghai.The hotel has recently had a complete room refurbishment so they are in tip top condition, the bathrooms do not have baths put do have a great shower and a rain shower.Granted the hotel is not in the center of the city but it is only 5km from the Forbidden city and a taxi only costs about US$2 and the underground is a couple of minutes walk away. Also nearby are a range of Western style restaurants such as Sizzler and McDonalds.In the foyer is a tour desk where greyline tours are available to numerous places and the staff are very willing to help, even booking a train to Xian for us without extra charge.The hotel in my opinion is great value for money and well worth every penny/cent.  
+<Date>Jan 5, 2007
+<Rating>4	4	5	3	5	5	4	5	
+<Aspects>
+10	2(night):1	39(return):3	86(fantastic):2	105(husband):1	223(holiday):1	324(inn):1	334(downtown):1	962(christmas):1	1331(period):1	5280(shanghai):1	
+5	80(money):1	81(value):1	96(worth):1	704(opinion):1	1590(penny):1	
+10	13(bathroom):1	61(shower):2	118(top):1	194(tip):1	226(bath):1	263(condition):1	322(recently):1	581(rain):1	622(complete):1	2253(refurbishment):1	
+10	7(walk):1	29(minute):1	41(city):2	99(couple):1	101(center):1	175(cost):1	185(taxi):1	1085(underground):1	1690(grant):1	2271(forbid):1	
+0	
+13	0(staff):1	18(book):1	36(desk):1	92(help):1	128(extra):1	134(available):1	136(charge):1	181(tour):2	182(train):1	971(numerous):1	1931(foyer):1	12029(xian):1	12687(greyline):1	
+7	10(restaurant):1	232(nearby):1	326(style):1	714(range):1	1015(western):1	2524(mcdonalds):1	11013(sizzler):1	
+0	
+
+<Author>DavyP
+<Content>A little tired but pefectly adequate As other reviewers have said it is quite a way out of the city centre, but it's easy enough for taxi's  the Metro.The hotel is tired and is being re-furbished floor by floor. Our room was fine but like most hotels in China it is noisy from the constant traffic outside. Take ear plugs or ask for a room away from the traffic. The food in the hotel is good whether you eat Chinese or western, the breakfast is particularly good.If you are thinking of staying at this hotel or have already booked don't worry you will enjoy your stay  be quite comfortable, after all you won't be spending much time in the hotel, you will be out enjoying the stes of Beijing  
+<Date>Nov 8, 2006
+<Rating>4	4	3	2	4	4	4	4	
+<Aspects>
+0	
+0	
+5	24(floor):2	454(tire):1	486(traffic):1	1174(plug):1	1684(ear):1	
+15	23(little):1	41(city):1	93(easy):1	98(outside):1	101(center):1	113(fine):1	185(taxi):1	217(noisy):1	235(metro):1	390(adequate):1	454(tire):1	486(traffic):1	564(reviewer):1	1159(china):1	1432(constant):1	
+0	
+0	
+15	5(time):1	6(breakfast):1	16(food):1	18(book):1	25(comfortable):1	47(eat):1	51(enjoy):2	64(spend):1	487(wo):1	553(particularly):1	655(st):1	764(chinese):1	831(worry):1	1015(western):1	1240(beije):1	
+0	
+
+<Author>Balmain2
+<Content>Don't read the negative reports about this hotel We stayed at this hotel for 5 nights at the beginning of September 2006. OK, so it's not in the centre of Beijing - but it's 2 minutes from the underground station, the staff are charming and helpful, the breakfast kept us going all day, our room was large with two 3/4 double beds, there is a Sizzler, Pizza Hut and MacDonalds around the corner plus some very good Chinese Restaurants and best of all it was great value for money. We paid 拢50 a night for a twin room, bed and breakfast. Travel on the underground costs 3Yuan and taxis were cheap enough to use at the end of a long day sightseeing. We would highly recommend this hotel to people who don't have high expectations of a Western 5 star hotel.  
+<Date>Sep 7, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	2(night):1	88(read):1	282(negative):1	551(begin):1	838(report):1	972(september):1	
+6	15(recommend):1	26(people):1	103(star):1	138(highly):1	431(expectation):1	1015(western):1	
+26	0(staff):1	2(night):1	6(breakfast):2	8(day):1	10(restaurant):1	11(bed):2	14(helpful):1	29(minute):1	42(pay):1	80(money):1	81(value):1	82(station):1	101(center):1	123(ok):1	179(double):1	200(corner):1	203(plus):1	332(charm):1	678(pizza):1	690(twin):1	764(chinese):1	1085(underground):1	1236(hut):1	1240(beije):1	7554(macdonalds):1	11013(sizzler):1	
+7	8(day):1	68(travel):1	143(cheap):1	175(cost):1	185(taxi):1	640(sight-see):1	1085(underground):1	
+0	
+0	
+0	
+0	
+
+<Author>AC2002
+<Content>It's OK, but you can probably do better We stayed here three nights (see Coutyard By Marriot Beijing for our other Beijing Hotel experience). The place is under construction right now, but there was no smell of it.Our non-smoking room was large and OK, but definitely aged. Staff came around one afternoon asking to enter and clean the vents. This place will indeed benefit from a renovation.Regarding the pool- I must say that they are small. Think of a standard US Hotel rectangular pool, and imagine two kidney bean shaped pools fitted inside that (with about 4 - 5 feet of separation between the two). Our kids are young so they actually loved the layout, but most adults would consider the pool to be small.We ate the hotel buffet dinner one night. It was decent but uninspiring. We ate breakfast in some local restuarants- actually there are two fine Chinese restaurants just a block away. (Yes, they are mainly for natives, but again, with a menu and some good pointing I think you can do just fine to get good, local food at a local price.). Sizzler is also just down the block. There is also a shopping center just around the corner- we ate in their food court one night, and did some shopping. I think the downtown name is a misnomer, but it's not a terrible location. (Very close to the train station as well).If I were attending the 2008 Olympic games, and this was the only 4 star hotel left, I'd stay in a heartbeat. But during normal time, when there's plenty of hotel capacity in Beijing, I'd shop around and probably stay elsewhere.  
+<Date>Aug 30, 2006
+<Rating>3	3	3	3	3	3	3	3	
+<Aspects>
+4	100(bloc):1	257(decent):1	5274(uninspire):1	11013(sizzler):1	
+21	2(night):1	16(food):1	19(price):1	43(leave):1	44(experience):1	103(star):1	113(fine):1	123(ok):1	178(probably):1	195(local):2	250(yes):1	423(menu):1	683(game):1	826(attend):1	1177(mainly):1	1240(beije):2	1683(heartbeat):1	2286(olympic):1	2390(native):1	2472(marriot):1	10328(coutyard):1	
+17	22(pool):2	59(definitely):1	123(ok):1	130(standard):1	402(foot):1	408(inside):1	505(age):1	668(fit):1	687(renovation):1	733(imagine):1	978(nonsmoking):1	990(indeed):1	1226(shape):1	1524(benefit):1	2550(bean):1	8835(rectangular):1	10045(separation):1	
+29	1(location):1	2(night):1	5(time):1	16(food):1	22(pool):2	28(close):1	40(love):1	47(eat):1	49(shop):3	82(station):1	101(center):1	158(plenty):1	178(probably):1	180(actually):1	182(train):1	200(corner):1	201(kid):1	248(consider):1	295(name):1	334(downtown):1	432(terrible):1	556(adult):1	646(elsewhere):1	878(normal):1	930(regard):1	1068(court):1	1240(beije):1	1453(layout):1	2545(capacity):1	
+7	0(staff):1	3(clean):1	231(smell):1	364(afternoon):1	583(construction):1	601(enter):1	2344(vent):1	
+0	
+12	2(night):1	6(breakfast):1	10(restaurant):1	47(eat):2	77(buffet):1	100(bloc):1	113(fine):1	117(dinner):1	180(actually):1	195(local):1	764(chinese):1	2095(restuarants):1	
+0	
+
+<Author>ngalgano
+<Content>Little far out of CBD Good quality hotel. Only problem is that the Hotel is a little out of Beijing CBD. On a packaged holiday with tour guides and bus/driver at your disposal this does not present a problem but if travelling on own this hotel is a little too far out of centre of town.The Hotel has department stores around it for those who want to shop.The Hotel facilities and the quality of food it provides in its restaraunt is very good.Nice touch about this hotel was the fruit basket in reception for guests.  
+<Date>Aug 30, 2006
+<Rating>4	3	3	2	4	4	3	4	
+<Aspects>
+3	23(little):1	1240(beije):1	2731(cbd):1	
+7	16(food):1	23(little):1	153(provide):1	187(quality):2	211(facility):1	2731(cbd):1	2888(restaraunt):1	
+0	
+14	23(little):1	49(shop):1	68(travel):1	101(center):1	120(bus):1	166(own):1	181(tour):1	223(holiday):1	239(town):1	255(store):1	527(package):1	829(guide):1	1707(department):1	5967(disposal):1	
+0	
+6	4(nice):1	91(guest):1	129(reception):1	215(fruit):1	279(touch):1	1865(basket):1	
+0	
+0	
+
+<Author>BIGBOA
+<Content>Terrible and Unbelievable this is the worst hotel in the Holiday Inn chai that I have ever stayed in and possibly exists.Do not I repeat do not ever ever stay in this tip which they call a hotel unless you are used to the rubbish UK BB hotels in england.My toilet bath tub is bigger that the swiming pool they have ( I cant believe they called a swiming pool ).Absolutely DiaboliqueIf you want agreat hotel In beijing then there is only the one and only North Crown Plaza Beijing Hotel its right up there with the best hotels in the world the service the rooms and everything is 6 stars not 5.This is the first and last time to stay in this Down town rubbish hotel what a waste of my holiday absolutely ruined, I was here till the 01 aug and I could not wait to get out !!Trust me avoid this place like it has a plaque  
+<Date>Aug 1, 2006
+<Rating>1	2	2	3	2	2	2	2	
+<Aspects>
+19	50(bad):1	67(call):1	194(tip):1	223(holiday):1	324(inn):1	405(unless):1	432(terrible):1	436(avoid):1	1178(uk):1	1233(possibly):1	1402(trust):1	1460(unbelievable):1	1467(repeat):1	1970(england):1	2039(exist):1	2380(bb):1	2664(rubbish):1	7164(chai):1	8877(plaque):1	
+9	9(service):1	103(star):1	189(absolutely):1	272(world):1	515(plaza):1	684(North):1	1240(beije):2	3194(crown):1	10403(agreat):1	
+0	
+0	
+0	
+10	5(time):1	85(wait):1	189(absolutely):1	223(holiday):1	239(town):1	928(waste):1	979(till):1	1243(ruin):1	2404(aug):1	2664(rubbish):1	
+8	22(pool):2	67(call):1	226(bath):1	311(tub):1	312(believe):1	330(toilet):1	1145(cant):1	7598(swime):2	
+0	
+
+<Author>tigerpaws
+<Content>Great place to stay My husband and I just returned from a stay at the HOLIDAY INN DOWNTOWN in Beijing and found this hotel very friendly and in a great location. There were American restaurants within the same block as the hotel and we never had a problem flagging down a cab right on the street in front of the hotel. There was a greyline tour office in the lobby where we booked a great tour of the GREAT WALL and MING TOMBS. The breakfast every morning was wonderful and they served american and chinese food. They had a chef who worked at a grill and you could order eggs, pancakes, frenchtoast and he made it right there while you waited. The room was on the small side, but was clean and the bathroom was newlly remodeled in marble and granite. This hotel looks like it is getting ready for the 2008 Olympics and whoever stays here will not be disappointed. dated June 5, 2006  
+<Date>Jun 5, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	20(look):1	154(disappoint):1	274(ready):1	511(date):1	664(june):1	3388(whoever):1	4102(olympics):1	
+0	
+5	3(clean):1	13(bathroom):1	705(marble):1	1238(remodel):1	2793(granite):1	
+14	1(location):1	10(restaurant):1	12(friendly):1	31(front):1	35(street):1	39(return):1	100(bloc):1	105(husband):1	223(holiday):1	324(inn):1	334(downtown):1	380(cab):1	1240(beije):1	2290(flag):1	
+0	
+0	
+19	6(breakfast):1	16(food):1	18(book):1	48(wonderful):1	55(lobby):1	56(morning):1	85(wait):1	174(serve):1	181(tour):2	183(wall):1	412(egg):1	629(grill):1	764(chinese):1	792(office):1	1361(chef):1	1477(pancake):1	6894(tomb):1	7663(ming):1	12687(greyline):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good value makes this hotel above average choice The location of this very American-style older Holiday Inn coupled with its low room rates makes it a good choice for a basic hotel. There are two upgraded Business Floors and a single Executive Floor presumably with even more amenities. My Business Floor room was of average size and very quiet. The bathroom was clean and well maintained, and the air-conditioning was very good. Caution: This may not apply to regular rooms in the hotel. The room was cleaned promptly each morning, and a local English language newspaper was delivered to my door. High speed internet service was US$6 per day. The breakfast buffet for US$11(if not included in yoru room rate) was expensive by Beijing standards, but far exceeded anything you would get in a comparable American hotel, and was well worth the price. The gym was dated and small, and good for only basic workouts. The indoor pool under a Holidome style atrium was small, but very clean. The hotel has a Grayline tour desk, which is also handy, and the subway line, and a full line supermarket in the basement of a large department store are just around the corner. If you feel the need for American food, a new Sizzler is next door. This would be a good economical choice for families on vacation.  
+<Date>Jun 2, 2006
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+14	1(location):1	78(rate):1	81(value):1	99(couple):1	106(family):1	107(choice):3	131(vacation):1	223(holiday):1	227(average):1	324(inn):1	352(basic):1	513(low):1	3423(economical):1	9174(american-style):1	
+20	3(clean):2	13(bathroom):1	24(floor):1	54(door):1	56(morning):1	58(quiet):1	83(size):1	147(business):1	152(english):1	195(local):1	227(average):1	562(maintain):1	631(deliver):1	698(language):1	744(regular):1	1212(promptly):1	1372(newspaper):1	2102(caution):1	2284(air conditioning):1	2954(apply):1	
+20	3(clean):1	22(pool):1	36(desk):1	181(tour):1	188(line):2	200(corner):1	255(store):1	326(style):1	352(basic):1	370(subway):1	511(date):1	523(gym):1	755(handy):1	1078(supermarket):1	1568(basement):1	1680(indoor):1	1707(department):1	1801(workout):1	1968(atrium):1	7956(grayline):1	
+0	
+0	
+15	6(breakfast):1	16(food):1	19(price):1	34(feel):1	54(door):1	71(include):1	77(buffet):1	78(rate):1	96(worth):1	124(expensive):1	130(standard):1	1153(exceed):1	1240(beije):1	1813(comparable):1	11013(sizzler):1	
+11	8(day):1	9(service):1	24(floor):2	97(internet):1	147(business):1	163(upgrade):1	291(amenity):1	304(single):1	872(executive):1	1170(speed):1	4424(presumably):1	
+
+<Author>cuthieruthie
+<Content>Absolute Luxury I really think the other reviewer stayed in a different hotel. Especially considering Sizzlers a fab restaurant is just around the corner. I went on a group tour so we were bused everywhere so I am not sure of the location although it is very close to the underground which brings you right into the centre of Beijing. The hotel was lovely. Pool was clean and nice, Hairdressers were very good and cheap. Breakfast I wasn't to keen on but there was a large choice. Fruit selection was good when available. Only had dinner twice and neither was very good.  
+<Date>May 25, 2006
+<Rating>5	4	4	-1	4	-1	4	-1	
+<Aspects>
+7	87(lovely):1	134(available):1	215(fruit):1	333(selection):1	437(luxury):1	564(reviewer):1	1250(absolute):1	
+8	3(clean):1	4(nice):1	6(breakfast):1	22(pool):1	107(choice):1	143(cheap):1	2641(keen):1	9921(hairdresser):1	
+0	
+8	1(location):1	28(close):1	101(center):1	120(bus):1	142(bring):1	181(tour):1	1085(underground):1	1240(beije):1	
+0	
+0	
+9	10(restaurant):1	117(dinner):1	126(especially):1	200(corner):1	248(consider):1	347(twice):1	1216(fab):1	1275(neither):1	11013(sizzler):1	
+0	
+
+<Author>postiecdnmo
+<Content>Good value Considering the cost of hotels during national week this particular hotel was value for the money. We were able to walk to the zoo as well as local shops.The hotel has a good buffet for breakfast and there is a large variety to choose. Internet averaged $2 american dollars for 10 mins (which is expensive)We found the rooms on the small side but were clean. I would recommend this hotel to families as well to others travelling on a budget.  
+<Date>Jan 11, 2006
+<Rating>4	4	3	-1	4	-1	3	-1	
+<Aspects>
+4	15(recommend):1	68(travel):1	106(family):1	429(budget):1	
+13	3(clean):1	75(week):1	80(money):1	81(value):2	97(internet):1	124(expensive):1	175(cost):1	227(average):1	247(min):1	248(consider):1	430(dollar):1	938(particular):1	2340(national):1	
+0	
+5	7(walk):1	49(shop):1	171(able):1	195(local):1	1511(zoo):1	
+0	
+0	
+4	6(breakfast):1	77(buffet):1	167(choose):1	413(variety):1	
+0	
+
+<Author>samski
+<Content>Dreadful       Hallway  
+<Date>Nov 19, 2005
+<Rating>2	2	1	-1	1	-1	2	-1	
+<Aspects>
+2	580(hallway):1	2895(dreadful):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

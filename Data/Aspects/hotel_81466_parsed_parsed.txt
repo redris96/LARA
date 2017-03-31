@@ -1,0 +1,994 @@
+<Author>binthere-dunit
+<Content>Good place, fab location, gets my vote!       View from our balcony  
+<Date>Nov 19, 2008
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+0	
+2	17(view):1	191(balcony):1	
+3	1(location):1	1216(fab):1	5612(vote):1	
+0	
+0	
+0	
+0	
+
+<Author>jazzymike
+<Content>Decent hotel at Fisherman's Wharf This is the second time we've stayed at the Wharf Inn. It's reasonably priced, very close to Fisherman's Wharf, has free parking for one car, and the rooms are OK. Stay away from the mini-suite on the second floor at the corner of Mason  Bay; it's one of the noisiest hotel rooms I've ever had the pleasure of being moved from. Great view, though. If you want quiet, you have to put up with the view of the adjacent building.  
+<Date>Oct 28, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	5(time):1	17(view):1	257(decent):1	324(inn):1	784(wharf):2	1148(fisherman):1	
+0	
+12	17(view):1	24(floor):1	58(quiet):1	135(build):1	200(corner):1	207(move):1	217(noisy):1	671(bay):1	907(pleasure):1	1061(adjacent):1	5075(mason):1	8038(mini-suite):1	
+9	19(price):1	28(close):1	46(free):1	66(park):1	121(car):1	123(ok):1	578(reasonably):1	784(wharf):1	1148(fisherman):1	
+0	
+0	
+0	
+0	
+
+<Author>keharty
+<Content>Some good points but wouldn't stay again First the good points:The location is excellent, one block up and right between Fisherman's Wharf and Pier 39. The hotel offers free parking and you can continue to use their parking up until 3pm on the day of checkout. The room was large including a couch and the bathroom was good-sized. The room was also clean.Now for the bad:There was no fan except a quiet ceiling fan which meant that every noise was easily heard all night such as doors slamming, people in neighboring rooms and street noise. This made for difficult sleep. Also, we were there when the weather in SF was 80 during the day and the room was very warm and stuffy. No air conditioning or even a wall unit fan for white noise.If you are a heavy sleeper this hotel might be okay but after a long day of walking around we were tired and just wanted a good night's rest and we didn't get that due to the noise. We usually stay in SF a few times a year as we live only an hour away. This was our first time at the Wharf Inn. On previous visits we have stayed at the Handlery on Union Square but their rates this time of year were a bit high for us but it is a great hotel and we've never had the noise problems we had here. I wouldn't stay here again.  
+<Date>Oct 20, 2008
+<Rating>2	2	2	5	3	3	-1	-1	
+<Aspects>
+7	5(time):2	60(hour):1	206(live):1	324(inn):1	399(usually):1	784(wharf):1	802(sf):1	
+0	
+47	2(night):2	3(clean):1	5(time):1	7(walk):1	8(day):2	13(bathroom):1	26(people):1	35(street):1	50(bad):1	52(bit):1	54(door):1	58(quiet):1	65(visit):1	71(include):1	78(rate):1	94(noise):5	104(sleep):1	132(hear):1	139(square):1	164(air):1	183(wall):1	236(warm):1	246(mean):1	259(due):1	263(condition):1	288(rest):1	337(except):1	373(previous):1	385(weather):1	438(easily):1	451(union):1	453(okay):1	454(tire):1	466(white):1	528(ceiling):1	572(difficult):1	661(fan):3	802(sf):1	934(neighbour):1	980(unit):1	1186(heavy):1	1192(couch):1	1299(sleeper):1	1857(stuffy):1	2008(slam):1	4551(good-size):1	4957(handlery):1	
+6	1(location):1	21(excellent):1	100(bloc):1	784(wharf):1	1148(fisherman):1	1456(pier):1	
+0	
+7	8(day):1	46(free):1	66(park):2	89(offer):1	658(checkout):1	1096(continue):1	6855(3pm):1	
+0	
+0	
+
+<Author>2condors
+<Content>Location Location Location This is a great location to see and do all the typical tourist things in San Francisco.The access to the cable car line a few blocks away lets you explore and experience more than just the pier area.As other reviews have stated the garbage trucks do wake you up at 5:30, but that just gets you up and going to be able to enjoy more of what the area has to offer.  
+<Date>Sep 24, 2008
+<Rating>4	4	3	5	4	5	4	3	
+<Aspects>
+7	37(review):1	51(enjoy):1	89(offer):1	171(able):1	554(wake):1	1507(truck):1	1650(garbage):1	
+8	44(experience):1	100(bloc):1	121(car):1	159(access):1	188(line):1	484(cable):1	594(explore):1	1456(pier):1	
+0	
+5	1(location):4	177(san):1	209(tourist):1	355(francisco):1	628(typical):1	
+0	
+0	
+0	
+0	
+
+<Author>comlab
+<Content>Great Location, great price, average Hotel First thing to say is't that the hotel itselfs isn't a 4 star. But if you compare the location and price with the Hotel you have to give 4 stars, because all other hotels in this area are much more expensive. Even the carpark is for free at The Wharf Inn. Negative to say is, that the walls of the Hotel are very thin. we were able to hear the words of our neighbours. We got a room with wall view, but the postive thing was that we didn't hear the street noises. The staff in the lobby was a bit lazy, but friendly. Anyway, the location is great, 10min walk to Pier 39, 2 calbe car stations, and alcatraze curise. The Wharf Inn is very good Hotel to stay some days in San Francisco.  
+<Date>Aug 20, 2008
+<Rating>4	4	3	5	3	3	3	4	
+<Aspects>
+9	8(day):1	132(hear):1	171(able):1	177(san):1	324(inn):1	355(francisco):1	571(word):1	784(wharf):1	934(neighbour):1	
+6	1(location):2	19(price):2	103(star):2	124(expensive):1	227(average):1	381(compare):1	
+0	
+19	1(location):1	7(walk):1	17(view):1	35(street):1	46(free):1	82(station):1	94(noise):1	121(car):1	132(hear):1	183(wall):2	282(negative):1	324(inn):1	417(anyway):1	754(thin):1	784(wharf):1	1456(pier):1	4050(10min):1	4557(carpark):1	7103(postive):1	
+0	
+5	0(staff):1	12(friendly):1	52(bit):1	55(lobby):1	1786(lazy):1	
+0	
+0	
+
+<Author>NancyfromGoldrush
+<Content>Location is the reason. We chose the Wharf Inn for it's location, its reasonable rates( yes, these are extremely reasonable) and the free parking. We seem to be on a budget more often now. We also travel with two teen age grandchildren. Directly across the street from the Wharf Inn is a 7-11 convenience store and a Subway sandwich shop. We always take along reusable bowls and spoons, so we are able to have a quick breakfast of cereal and fruit( found at the 7-11). Subway has many specials and healthy options. These two places saved us a lot in a very expensive , yet not-to-be-missed city.  
+<Date>Aug 7, 2008
+<Rating>4	4	3	5	4	3	-1	-1	
+<Aspects>
+9	68(travel):1	208(special):1	336(option):1	370(subway):1	429(budget):1	505(age):1	2294(healthy):1	4365(teen):1	7302(grandchild):1	
+4	38(lot):1	41(city):1	124(expensive):1	425(save):1	
+0	
+18	1(location):2	35(street):1	46(free):1	49(shop):1	66(park):1	78(rate):1	110(extremely):1	167(choose):1	250(yes):1	255(store):1	273(reasonable):2	324(inn):2	370(subway):1	374(reason):1	383(directly):1	784(wharf):2	925(convenience):1	1071(sandwich):1	
+0	
+0	
+7	6(breakfast):1	171(able):1	215(fruit):1	299(quick):1	529(cereal):1	1366(bowl):1	4029(spoon):1	
+0	
+
+<Author>travellor06
+<Content>Great Location We stayed at the Wharf Inn for 3 nights. The location is the best you can find on the wharf. The room was a little dated but very clean and comfortable. Our room was on the street side, so there was noise, but it was not different than the noises you get from any other city. The free parking was a huge plus.  
+<Date>Jul 26, 2008
+<Rating>4	5	3	5	5	5	5	4	
+<Aspects>
+0	
+0	
+7	3(clean):1	23(little):1	25(comfortable):1	35(street):1	41(city):1	94(noise):2	511(date):1	
+8	1(location):2	2(night):1	46(free):1	66(park):1	133(huge):1	203(plus):1	324(inn):1	784(wharf):2	
+0	
+0	
+0	
+0	
+
+<Author>ditraveling
+<Content>Loved it Clean, safe big room. Booked a King with a balcony. Perfect for the smoker in an all non-smoking hotel. Steps to the wharf. Free parking and a great location were a big part of my picking this place since parking is expensive and hard to find near the wharf. Only slight incovenience was the shower that was either too hot or too cold and kept changing temps.  
+<Date>Jul 24, 2008
+<Rating>4	4	4	5	5	5	5	-1	
+<Aspects>
+2	366(step):1	784(wharf):1	
+0	
+12	3(clean):1	18(book):1	40(love):1	61(shower):1	114(hot):1	137(safe):1	161(change):1	191(balcony):1	222(cold):1	243(king):1	1297(slight):1	2173(temp):1	
+8	1(location):1	46(free):1	66(park):2	102(near):1	124(expensive):1	162(hard):1	266(pick):1	784(wharf):1	
+3	74(perfect):1	978(nonsmoking):1	2226(smoker):1	
+0	
+0	
+0	
+
+<Author>SloBear
+<Content>Clean but Noisy Reasonably clean, great location by attractions but horrifically noisy, both from street traffic and denizens of the hotel itself. Staff was very nice. Room cleaning products very smelly, so be careful if you are sensitive. Parking an issue - not enough spots by the end of the day. Bottom line: because it was so much less expensive than any other property in the area (approximately $100/night less) we would likely stay here again if we couldn't find a better deal elsewhere.  
+<Date>Jun 29, 2008
+<Rating>2	3	2	5	3	5	3	3	
+<Aspects>
+0	
+7	124(expensive):1	140(deal):1	188(line):1	214(property):1	646(elsewhere):1	850(bottom):1	1961(approximately):1	
+0	
+11	1(location):1	3(clean):2	8(day):1	35(street):1	66(park):1	217(noisy):2	265(issue):1	317(spot):1	350(attraction):1	486(traffic):1	578(reasonably):1	
+5	3(clean):1	897(careful):1	1081(product):1	1697(smelly):1	2658(sensitive):1	
+2	0(staff):1	4(nice):1	
+0	
+0	
+
+<Author>Fleedom
+<Content>Great Location This hotel is in a great location. Pier 39 just around the corner with all the Wharf activities. Close to public transport. No fridge but lots of ice available. Complimentary Tea and coffee in lobby 24/7. Room small but comfortable and clean and we had no problems with noise. Free parking in safe area.  
+<Date>Jun 15, 2008
+<Rating>4	4	3	5	4	4	4	-1	
+<Aspects>
+4	200(corner):1	357(activity):1	784(wharf):1	1456(pier):1	
+0	
+3	3(clean):1	25(comfortable):1	94(noise):1	
+7	1(location):2	28(close):1	46(free):1	66(park):1	137(safe):1	379(public):1	742(transport):1	
+0	
+0	
+8	38(lot):1	55(lobby):1	90(coffee):1	134(available):1	301(tea):1	318(fridge):1	345(complimentary):1	547(ice):1	
+0	
+
+<Author>shell612
+<Content>Good Accomodation Quite a good hotel, very close to the Wharf, closer than some of the bigger chain hotels. Clean and comfortable, room small but adequate, bed comfortable and nice toiletries provided. Staff very helpful.  
+<Date>May 24, 2008
+<Rating>4	4	4	4	4	5	4	5	
+<Aspects>
+0	
+4	28(close):2	627(chain):1	780(accomodation):1	784(wharf):1	
+7	3(clean):1	4(nice):1	11(bed):1	25(comfortable):2	153(provide):1	390(adequate):1	657(toiletry):1	
+0	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>stray_chicken
+<Content>Liked the convenience We picked Wharf Inn for its location and free parking. We didn't have much time in San Francisco (just Friday evening and the next morning) so I felt by staying at Fisherman's Wharf we were able to make the best of the time we had. We booked an evening tour of Alcatraz. The departure was just a short walk from he hotel. It was nice to be able to walk and enjoy the shops at night and find a restaurant for breakfast the next morning.The room was pretty good, but nothing fancy We had two queen beds and paid for a rolloway. There was high speed internet. We had a room in the back facing a wall, so there was no view. That was OK . The bathroom was suprisingly large and nice (shower no tub). The management was very helpful in getting us directions both to get to the Alcatraz tour and to the airport in Oakland the next day.The price was a lot more than I have paid for similar rooms in other cities, but it was much cheaper than other rooms in Fishermans Wharf area. Overall, I enjoyed our stay and would stay there again. I just wish I had more time in San Francisco.  
+<Date>May 18, 2008
+<Rating>4	4	4	3	5	5	5	5	
+<Aspects>
+13	5(time):3	34(feel):1	51(enjoy):1	56(morning):1	70(overall):1	123(ok):1	171(able):1	177(san):2	355(francisco):2	384(wish):1	784(wharf):1	923(friday):1	1148(fisherman):1	
+8	19(price):1	38(lot):1	41(city):1	42(pay):1	143(cheap):1	784(wharf):1	874(similar):1	2198(fishermans):1	
+20	4(nice):1	8(day):1	11(bed):1	13(bathroom):1	14(helpful):1	17(view):1	42(pay):1	61(shower):1	95(airport):1	109(pretty):1	181(tour):1	183(wall):1	311(tub):1	395(direction):1	525(management):1	543(Queen):1	796(fancy):1	2211(alcatraz):1	4432(suprisingly):1	6504(oakland):1	
+18	1(location):1	2(night):1	4(nice):1	6(breakfast):1	7(walk):2	10(restaurant):1	46(free):1	49(shop):1	51(enjoy):1	56(morning):1	66(park):1	144(short):1	171(able):1	266(pick):1	324(inn):1	784(wharf):1	925(convenience):1	1031(departure):1	
+0	
+0	
+3	18(book):1	181(tour):1	2211(alcatraz):1	
+2	97(internet):1	1170(speed):1	
+
+<Author>DLMHUGG
+<Content>Just Ok Hotel was old, but clean. Lots of street noise. Close to Fisherman's Wharf. Free parking..but lot filled up and had to double park and leave keys in case they had to move your car.Showers went from scalding hot to freezing cold. They state that non smoking rooms are available. Well...they are all non smoking rooms...so if you are a smoker you have to go out in the cold to smoke. I guess compared to the prices of other places nearby, this was a bargain, but you have some stuff to deal with. Rooms were a little warm...had to sleep with windows open, which made all the street noise that much louder. It was nice to be in walking distance of Fisherman's Wharf and the cable cars.I would probably stay there again, but would go for the Penthouse and take some ear plugs or sominex to help you sleep.Bring your own hairdryer...you have to get one from the front desk and they are not very good. Bring your own hair conditioner too...they don't have any....just shampoo. I have stayed in better places, but it was not that bad.  
+<Date>May 12, 2008
+<Rating>2	2	3	4	4	3	4	-1	
+<Aspects>
+1	50(bad):1	
+7	19(price):1	140(deal):1	232(nearby):1	381(compare):1	469(guess):1	480(stuff):1	759(bargain):1	
+27	23(little):1	31(front):1	35(street):1	36(desk):1	61(shower):1	92(help):1	94(noise):1	104(sleep):2	114(hot):1	119(window):1	134(available):1	142(bring):2	166(own):2	178(probably):1	222(cold):1	236(warm):1	416(loud):1	468(smoke):1	729(hair):1	1051(shampoo):1	1083(conditioner):1	1174(plug):1	1321(freeze):1	1493(hairdryer):1	1684(ear):1	3425(penthouse):1	4825(scald):1	
+18	4(nice):1	7(walk):1	28(close):1	35(street):1	38(lot):2	43(leave):1	46(free):1	66(park):2	94(noise):1	115(distance):1	121(car):2	179(double):1	207(move):1	339(key):1	484(cable):1	491(fill):1	784(wharf):2	1148(fisherman):2	
+5	3(clean):1	123(ok):1	222(cold):1	468(smoke):2	2226(smoker):1	
+0	
+0	
+0	
+
+<Author>Lkohawaii
+<Content>Great location-Basic hotel Great Locations...floors were thin. People below us complained that they coudld hear us jumping on the floors. We were not jumping. Service was exceptional. So close to cable cars and street cars. Will stay here again.  
+<Date>Apr 26, 2008
+<Rating>4	4	3	5	4	5	-1	-1	
+<Aspects>
+1	1404(jump):1	
+0	
+8	1(location):1	24(floor):2	26(people):1	132(hear):1	241(complain):1	585(below):1	754(thin):1	1404(jump):1	
+4	28(close):1	35(street):1	121(car):2	484(cable):1	
+0	
+0	
+2	9(service):1	837(exceptional):1	
+0	
+
+<Author>qbawler311
+<Content>Awful Experience Very noisey, the walls must be paper thin. It seems the Wharf Inn is a popular hang out for late night drunks and hotel room parties. There were loud and obnoxious drunk Mexicans partying until 3AM on a Wednesday night and nobody took care of this problem. It sounded so loud it seemed they were in the room with us. I know people were complaining because I heard other residents asking them to quiet down. Anyway they just eventually passed out I think.The shower in the morning never got hot. Also very poor water pressure.Also they make you sign this agreement when you check in with all kinds of fines listed. This seemed very unprofessional. I strongly recommend staying at a better hotel in the Fisherman Wharf area.I never write bad reviews but I have been back from my vacation for 5 days now and I am still enraged that this poorly maintained/run hotel ruined the end of my vacation.  
+<Date>Mar 24, 2008
+<Rating>1	1	2	5	3	2	2	3	
+<Aspects>
+11	15(recommend):1	57(water):1	331(poor):1	400(pass):1	417(anyway):1	686(pressure):1	784(wharf):1	1148(fisherman):1	1204(eventually):1	1386(strongly):1	3134(unprofessional):1	
+13	8(day):1	37(review):1	44(experience):1	50(bad):1	131(vacation):2	183(wall):1	344(write):1	736(awful):1	754(thin):1	776(paper):1	1243(ruin):1	1635(poorly):1	3008(noisey):1	
+18	2(night):1	26(people):1	56(morning):1	58(quiet):1	61(shower):1	79(late):1	114(hot):1	132(hear):1	241(complain):1	324(inn):1	363(party):1	409(sound):1	416(loud):1	478(hang):1	784(wharf):1	1277(popular):1	1988(resident):1	4127(drunk):1	
+0	
+0	
+5	32(check):1	113(fine):1	449(sign):1	650(list):1	4988(agreement):1	
+9	2(night):1	63(drink):1	242(care):1	363(party):1	416(loud):1	2665(wednesday):1	3226(obnoxious):1	11261(3am):1	11340(mexicans):1	
+0	
+
+<Author>servo999
+<Content>good, but noisy This was a great little hotel down the street from Fisherman's Wharf. The price was fantastic. The clerk was great in helping us find places in interest in San Francisco. My only problem was the noise. Since the hotel was across the street from a 7-11, there is alot of car traffic noise, especially the night we stayed. In the mornings around 6 or 7 am, the street cleaners slam the metal grates down when cleaning the sidewalk. Overall, a hard place to get a good nights sleep. You can't beat this price for San Francisco and you are within walking distance of anything in Fisherman's Wharf, but the noise might be a dealbreaker for you.  
+<Date>Mar 10, 2008
+<Rating>3	3	1	4	3	5	3	2	
+<Aspects>
+5	92(help):1	94(noise):1	177(san):1	355(francisco):1	788(clerk):1	
+10	7(walk):1	19(price):2	86(fantastic):1	94(noise):1	115(distance):1	177(san):1	355(francisco):1	442(beat):1	784(wharf):1	1148(fisherman):1	
+4	2(night):1	70(overall):1	104(sleep):1	162(hard):1	
+18	2(night):1	3(clean):1	23(little):1	35(street):3	56(morning):1	94(noise):1	121(car):1	126(especially):1	217(noisy):1	486(traffic):1	647(alot):1	784(wharf):1	1148(fisherman):1	2008(slam):1	2329(sidewalk):1	2487(cleaner):1	2720(metal):1	7157(grate):1	
+0	
+0	
+0	
+0	
+
+<Author>ColdBeerHere
+<Content>Great value- great location Stayed week of Feb 18 2008. Good hotel for the price Nothing special but it was clean, free parking, and 1/2 block walk to Fishermans Wharf. A short walk will get you to Pier 39 and basically any of the Wharf area attractions. Ghirradelli Sq, cable cars you name it. Plenty of great resturants within walking distance. My only caution would be that you request a room not on Mason Street. First 2 nights we were located on Mason and the street cleaners start around 3:30 AM and sounded as if they were on the balcony. Woke me up 3 times and the bad part was the streets didnt look any cleaner in the morning. Not that they were bad to begin with. Last 2 night we were in the back and not a peep. Staff was very pleseant and helpfull. I would stay again. Price is the best I found in the area.  
+<Date>Mar 4, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	2(night):1	50(bad):1	121(car):1	295(name):1	484(cable):1	551(begin):1	1959(sq):1	4816(peep):1	
+5	1(location):1	19(price):1	75(week):1	81(value):1	1258(feb):1	
+4	35(street):1	148(request):1	2102(caution):1	5075(mason):1	
+30	2(night):1	3(clean):2	5(time):1	7(walk):3	19(price):1	20(look):1	35(street):2	46(free):1	50(bad):1	56(morning):1	66(park):1	84(locate):1	100(bloc):1	115(distance):1	144(short):1	158(plenty):1	165(start):1	191(balcony):1	208(special):1	350(attraction):1	409(sound):1	554(wake):1	626(didnt):1	784(wharf):2	790(basically):1	1456(pier):1	1565(resturants):1	2198(fishermans):1	2487(cleaner):1	5075(mason):1	
+0	
+2	0(staff):1	1478(helpfull):1	
+0	
+0	
+
+<Author>slotzilla
+<Content>Great Motor Hotel The Wharf Inn, San FranciscoStayed Jan. 24-28, 2008Great location! We had an excellent experience at The Wharf Inn. This is an older, but not ancient, Motor Hotel in the style popular in the 60s and 70s. This place was very clean and tidy, well-maintained and comfortable. Unpretentious, The Wharf Inn does not try to be an over-priced luxury hotel, but we did not go to SF to spend time in a jacuzzi! In a city where most of the hotels are very old and the reviews commonly report smallish rooms (Charming) and very tight bathrooms, we felt fortunate to have a room that was spacious enough for two couples to share and was furnished with two comfortable queen-sized beds. The staff was courteous, professional and helpful. You could not ask for a better location--a short block from Fisherman's Wharf and right on a trolley line--also a short walk to a cable car line. A huge plus is FREE parking -- worth $25-$40 a day in the city. Free wireless internet was provided. We originally had planned to stay one night, but we ended up staying there for our whole vacation (5 nights)--No way to do better without paying a lot more.Would definitely stay again and recommend to friends.  
+<Date>Feb 5, 2008
+<Rating>4	5	5	5	5	5	5	5	
+<Aspects>
+9	15(recommend):1	59(definitely):1	146(friend):1	326(style):1	1277(popular):1	2336(motor):1	3356(ancient):1	8819(70s):1	11628(60s):1	
+22	1(location):1	2(night):2	5(time):1	21(excellent):1	38(lot):1	42(pay):1	44(experience):1	64(spend):1	76(try):1	131(vacation):1	177(san):1	221(plan):1	324(inn):3	437(luxury):1	784(wharf):3	802(sf):1	808(jacuzzi):1	1300(originally):1	1462(jan):1	2336(motor):1	3386(over-price):1	5761(unpretentious):1	
+17	11(bed):1	13(bathroom):1	25(comfortable):1	34(feel):1	37(review):1	41(city):1	99(couple):1	111(spacious):1	332(charm):1	520(share):1	787(furnish):1	838(report):1	1399(tight):1	2104(smallish):1	2228(fortunate):1	5385(queen-size):1	10116(commonly):1	
+17	1(location):1	7(walk):1	8(day):1	41(city):1	46(free):1	66(park):1	96(worth):1	100(bloc):1	121(car):1	133(huge):1	144(short):2	188(line):2	203(plus):1	484(cable):1	784(wharf):1	1079(trolley):1	1148(fisherman):1	
+4	3(clean):1	25(comfortable):1	1100(tidy):1	2905(well-maintaine):1	
+4	0(staff):1	14(helpful):1	483(courteous):1	501(professional):1	
+0	
+4	46(free):1	97(internet):1	153(provide):1	717(wireless):1	
+
+<Author>salmonator
+<Content>scary neighbourhood service was good, room was clean tidy and a really good size however the neighbourhood is scary at night and we couldnt wait to check out the next morning......  
+<Date>Jan 17, 2008
+<Rating>2	3	4	2	4	4	4	4	
+<Aspects>
+0	
+0	
+11	2(night):1	3(clean):1	9(service):1	32(check):1	56(morning):1	83(size):1	85(wait):1	421(neighbourhood):2	1100(tidy):1	1528(couldnt):1	1566(scary):2	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Greg5
+<Content>Great Location Great Location, Free Parking, oh yea great location. You are practically right on the Wharf (about 100 yards up a side street) so if you want sea food and an ocean breeze this is the place for you. This is not a new establishment and you are getting what you pay for. Remember the fact that there is free parking, nice bonus! Stayed in the winter time but had great weather, sunny the whole time, great views of Alcatraz and the Golden Gate about 300 yards away from the Hotel. 7-11 right across the street, Trader Joe's up the street and Walgreen's around the corner for all your needs, Food everywhere. Walking distance to everything if you want to put in the effort, easy access to all public transportation, don't need car if you stay in the city. Would stay again.  
+<Date>Dec 15, 2007
+<Rating>5	5	3	5	4	5	5	-1	
+<Aspects>
+9	5(time):2	17(view):1	385(weather):1	992(gate):1	1307(yard):1	1317(golden):1	1599(winter):1	1700(sunny):1	2211(alcatraz):1	
+2	42(pay):1	1473(establishment):1	
+0	
+28	1(location):3	4(nice):1	7(walk):1	16(food):2	35(street):3	41(city):1	46(free):2	66(park):2	93(easy):1	115(distance):1	121(car):1	159(access):1	200(corner):1	205(ocean):1	375(remember):1	379(public):1	728(transportation):1	758(sea):1	784(wharf):1	799(breeze):1	849(bonus):1	1017(effort):1	1307(yard):1	1850(practically):1	3919(joe):1	5061(walgreen):1	5464(trader):1	6597(yea):1	
+0	
+0	
+0	
+0	
+
+<Author>Kiwi029
+<Content>Great location Reviewer: New Zealand The Wharf Inn is in a great location, minutes walk from Pier 39, alcatraz departing point, cable car stop and fabulous restaurants! The room was large with a very comfortable king size bed and was clean and tidy. Our bathroom although clean was just about ready for a revamp. Other than that the staff were friendly and helpful. The free tea, coffee and hot chocolate was great. Value for money was bang on.  
+<Date>Nov 10, 2007
+<Rating>3	3	3	5	4	4	4	3	
+<Aspects>
+0	
+3	80(money):1	81(value):1	1401(bang):1	
+9	3(clean):2	11(bed):1	13(bathroom):1	25(comfortable):1	83(size):1	243(king):1	274(ready):1	1100(tidy):1	5500(revamp):1	
+15	1(location):2	7(walk):1	10(restaurant):1	29(minute):1	121(car):1	122(stop):1	270(fabulous):1	324(inn):1	484(cable):1	564(reviewer):1	784(wharf):1	1456(pier):1	1814(depart):1	2211(alcatraz):1	4735(zealand):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+5	46(free):1	90(coffee):1	114(hot):1	301(tea):1	632(chocolate):1	
+0	
+
+<Author>wanderinkay
+<Content>Bargain value The best parts of my stay at this classic dive of a tourist class motel are the location in Fisherman's Wharf and the friendly, accommodating, unobtrusive service. While normally I would cringe at the price of the room compared to what I actually received, the location of the hotel right off of Pier 41, with easy access to public transportation to get you around downtown, was almost worth the price. You are paying a rate double the value of the room just for the location. I was close to the terminus for the Powell - Hyde cable car line, great access to the F Line Streetcar, Marine Park, Ghiradelli Square, The Cannery and Pier 39 was an easy walk down the street. There are lots of fast food restaurants, noted sit-down restaurants and convenience stores in the area. Boudin's Bakery is right around the corner and is worth all the raves. 7-11 is right across the street for breakfasts on the go as is a Subway for sandwiches, and an IHOP is right down the street.Don't expect much in the way of frills. My room was in the back with no view except half a window facing the room door across from mine. No A/C, just an overhead fan. No bathtub, just a slim shower. (If you have size issues, you might be challenged!) Harsh lighting in the bathroom. Dim lighting in the standard motel room. Dated, standard motel-style furnishings. The mattress was extremely comfortable and up to business class hotel standards and I slept well. There was one overly noisy guest blasting his TV my first night, and staff took care of that for me. No KQED station on the TV --- very strange. I need my public television! Couldn't get the wi-fi to work with my iPhone ( I didn't bring my MacBook).This is a reasonable choice for a place to crash if you must stay on Fisherman's Wharf. All I did was explore San Francisco and Napa and want someplace to sleep that was close enough for me to get to the tours leaving from the Ferry Building every day quickly and without a lot of effort. And that's all I used The Wharf Inn for.  
+<Date>Nov 9, 2007
+<Rating>3	3	3	4	4	4	4	2	
+<Aspects>
+11	62(expect):1	96(worth):1	200(corner):1	324(inn):1	661(fan):1	784(wharf):1	1483(bakery):1	1581(rave):1	2210(frill):1	3176(overhead):1	12916(boudin):1	
+20	1(location):2	9(service):1	12(friendly):1	42(pay):1	78(rate):1	81(value):2	107(choice):1	179(double):1	209(tourist):1	273(reasonable):1	470(class):1	624(accommodate):1	759(bargain):1	784(wharf):2	991(motel):1	1148(fisherman):2	1627(dive):1	1789(classic):1	2192(crash):1	3921(unobtrusive):1	
+52	0(staff):1	2(night):1	8(day):1	13(bathroom):1	17(view):1	25(comfortable):1	28(close):1	38(lot):1	43(leave):1	54(door):1	61(shower):1	82(station):1	83(size):1	91(guest):1	104(sleep):2	110(extremely):1	116(tv):2	119(window):1	130(standard):3	135(build):1	147(business):1	157(light):2	177(san):1	181(tour):1	217(noisy):1	242(care):1	265(issue):1	283(half):1	337(except):1	355(francisco):1	379(public):1	470(class):1	471(quickly):1	511(date):1	594(explore):1	847(mattress):1	870(furnishings):1	991(motel):1	1010(ferry):1	1017(effort):1	1023(bathtub):1	1058(strange):1	1158(television):1	1269(mine):1	1279(blast):1	1345(overly):1	1708(challenge):1	2048(dim):1	3042(someplace):1	4466(harsh):1	4931(napa):1	5772(slim):1	
+33	1(location):1	6(breakfast):1	7(walk):1	19(price):2	28(close):1	35(street):3	66(park):1	93(easy):2	96(worth):1	121(car):1	139(square):1	159(access):2	180(actually):1	188(line):2	302(receive):1	334(downtown):1	370(subway):1	379(public):1	381(compare):1	484(cable):1	728(transportation):1	1071(sandwich):1	1091(normally):1	1456(pier):2	1897(powell):1	2391(streetcar):1	2816(hyde):1	4690(terminus):1	5191(ihop):1	5451(ghiradelli):1	5978(marine):1	6000(cannery):1	9727(cringe):1	
+0	
+0	
+10	10(restaurant):2	16(food):1	38(lot):1	142(bring):1	255(store):1	297(note):1	499(fast):1	925(convenience):1	1827(wi-fi):1	7680(sit-down):1	
+0	
+
+<Author>funfor4
+<Content>great time Great bargain!! Had 4 adults and 2 small children and booked the penthouse suite, awesome!! Had a full kitchen, 2 bedrooms and 2 outdoor patios with seating. One patio overlooked san francisco, beautiful at night and the other you could see the wharf. Nothing fancy, but clean and the front desk staff was very helpful! Wharf is very touristy but with the kids was great!  
+<Date>Nov 6, 2007
+<Rating>4	5	4	5	4	5	4	-1	
+<Aspects>
+7	2(night):1	45(beautiful):1	177(san):1	260(overlook):1	355(francisco):1	784(wharf):1	973(patio):1	
+2	5(time):1	759(bargain):1	
+11	18(book):1	108(suite):1	268(bedroom):1	277(child):1	348(awesome):1	461(kitchen):1	504(seat):1	556(adult):1	901(outdoor):1	3425(penthouse):1	5831(patios):1	
+3	201(kid):1	784(wharf):1	1470(touristy):1	
+0	
+6	0(staff):1	3(clean):1	14(helpful):1	31(front):1	36(desk):1	796(fancy):1	
+0	
+0	
+
+<Author>summafunmum
+<Content>Great value and superb location! My husband and I and our two children stayed at the Wharf Inn for three nights, August 5-7 and had a very positive experience. I made the reservation, about a month prior, based upon reviews from this website and was not disappointed. Our AAA rate was $200 per night and included parking, which is a big plus in San Francisco. Considering the amazing location--directly across the street from Fisherman's Wharf and Pier 39 and walking-distance to pretty much everything you'd want to see--I found this to be an excellent value. The property is what I'd call a motor inn. Our room was huge and, although a bit dated and no-frills, it was clean and the beds were comfortable. We only had a stand-up shower--no tub--but this was not a big deal. There was a large storage alcove in our room, which kept the main living area free of luggage and other clutter. My only complaint would be that it was a bit noisy at night but that would not deter me from staying here again. Simply put, the value is worth putting up with a little annoyance. We took a 1-hour harbor cruise from Pier 39 which cost $55 for our family of four. It was a great deal and I highly recommend it as a good way to start off your trip in San Francisco. Our favorite restaurant was the Stinking Rose (Italian) where we received fun, excellent service from our cheeky waiter and the food was great too! The courteous front desk staff at the Wharf Inn was happy to provide us with maps and directions and there was always excellent, fresh coffee in the lobby, free for the taking. I would recommend this property as a great family-friendly place to stay when visiting San Francisco.  
+<Date>Sep 16, 2007
+<Rating>4	5	3	5	3	4	4	3	
+<Aspects>
+5	2(night):1	52(bit):1	190(complaint):1	217(noisy):1	4539(deter):1	
+26	1(location):1	2(night):1	15(recommend):1	23(little):1	33(trip):1	44(experience):1	81(value):2	96(worth):1	105(husband):1	106(family):1	138(highly):1	140(deal):1	165(start):1	175(cost):1	177(san):1	277(child):1	324(inn):1	355(francisco):1	407(superb):1	458(positive):1	488(simply):1	561(harbor):1	603(cruise):1	784(wharf):1	1456(pier):1	2966(annoyance):1	
+18	3(clean):1	11(bed):1	25(comfortable):1	46(free):1	52(bit):1	61(shower):1	112(main):1	133(huge):1	140(deal):1	206(live):1	249(luggage):1	311(tub):1	511(date):1	1311(storage):1	5026(alcove):1	5540(no-frills):1	5880(clutter):1	9833(stand-up):1	
+25	1(location):1	2(night):1	21(excellent):1	35(street):1	37(review):1	66(park):1	71(include):1	78(rate):1	81(value):1	109(pretty):1	145(amaze):1	154(disappoint):1	156(reservation):1	177(san):1	203(plus):1	248(consider):1	262(website):1	284(base):1	355(francisco):1	383(directly):1	388(month):1	637(prior):1	784(wharf):1	1148(fisherman):1	1456(pier):1	
+0	
+15	0(staff):1	21(excellent):1	31(front):1	36(desk):1	46(free):1	55(lobby):1	90(coffee):1	153(provide):1	155(happy):1	197(fresh):1	324(inn):1	395(direction):1	483(courteous):1	724(map):1	784(wharf):1	
+21	9(service):1	10(restaurant):1	15(recommend):1	16(food):1	21(excellent):1	65(visit):1	67(call):1	176(fun):1	177(san):1	214(property):2	302(receive):1	324(inn):1	355(francisco):1	358(italian):1	376(favourite):1	735(waiter):1	1436(rise):1	1796(stink):1	2336(motor):1	7348(family-friendly):1	8167(cheeky):1	
+0	
+
+<Author>moo_mikey
+<Content>Great Location Great location if you want to be near fisherman's wharf, do the Tram and drive to the GG Bridge. Any hotel that you would want to take your partner to in this location is going to cost +$80. This one cost $130 and inc parking; its surrounded by $250 per night hotels so represents good value. I stopped here 2 years ago and was so impressed that I was happy to rtn. The staff are very helpful. The hotel isn't and dosen't have a new modern feel to it, but it is clean. My top recommendation, Golden Gate State Park (other side of the bridge) visit the top and get that postcard view of the bridge with the city in the background. In the morning you get the mists and in the evening the chance of the sun sinking into the Pacific.  
+<Date>Sep 15, 2007
+<Rating>4	4	3	4	4	4	3	3	
+<Aspects>
+10	56(morning):1	122(stop):1	155(happy):1	343(impress):1	420(sun):1	509(sink):1	633(ago):1	689(chance):1	1575(pacific):1	7505(mist):1	
+9	1(location):1	2(night):1	66(park):1	81(value):1	175(cost):2	667(surround):1	1006(partner):1	2535(represent):1	4043(inc):1	
+0	
+18	1(location):2	17(view):1	41(city):1	65(visit):1	66(park):1	102(near):1	118(top):2	298(drive):1	570(tram):1	577(recommendation):1	740(bridge):3	784(wharf):1	992(gate):1	1148(fisherman):1	1317(golden):1	2445(background):1	3357(postcard):1	9449(gg):1	
+4	3(clean):1	34(feel):1	151(modern):1	6329(dose):1	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>mphenry23
+<Content>Great location, average hotel My husband and I stayed here for our 1st anniversary. Absolutely loved the location - couldn't be better! Right next to Fisherman's Wharf within walking distance of several great restaurants  tourist attractions. The room was kind of small, average and fairly noisy. No real view of the bay and we had to ask the front desk to borrow a hair dryer (which they let us borrow for the length of our stay). Front desk staff friendliness depended on the shift (afternoon/evening staff were very helpful and friendly, whereas day staff tolerated our presence). Parking was great - free with the room! This was a great deal in May  definately worth staying in if you don't have to spend too much time in the room except to sleep. My husband was not crazy about this hotel when we first arrived, but after several days at such a great location and for such a good price, agreed we would stay in this hotel again.  
+<Date>Sep 4, 2007
+<Rating>3	4	3	5	3	3	3	-1	
+<Aspects>
+0	
+9	1(location):2	8(day):1	19(price):1	53(arrive):1	105(husband):2	227(average):1	473(agree):1	804(anniversary):1	1259(crazy):1	
+12	5(time):1	46(free):1	64(spend):1	66(park):1	96(worth):1	104(sleep):1	140(deal):1	217(noisy):1	227(average):1	337(except):1	410(definately):1	462(fairly):1	
+10	1(location):1	7(walk):1	10(restaurant):1	40(love):1	115(distance):1	189(absolutely):1	209(tourist):1	350(attraction):1	784(wharf):1	1148(fisherman):1	
+0	
+20	0(staff):3	8(day):1	12(friendly):1	14(helpful):1	17(view):1	31(front):2	36(desk):2	240(real):1	364(afternoon):1	671(bay):1	729(hair):1	969(depend):1	1209(dryer):1	1754(friendliness):1	1879(length):1	2479(shift):1	2666(borrow):2	3096(presence):1	3517(whereas):1	4239(tolerate):1	
+0	
+0	
+
+<Author>Robert6
+<Content>Good place to stay I stayed here on Monday, August 20, 2007 and it is a nice place to stay. There is no AC but it wasn't needed. The windows are open it was nice. There is a ceiling fan above the bed but I had to turn it off as it got a bit cool that evening. Walking around Fisherman's Wharf that evening, I wished I would have brought my hooded sweatshirt. I wouldn't have guessed I would need a jacket in the summertime but I did. The hotel itself does not have a public computer but they advertise WiFi in the rooms. There is public computer access across the street at a Mexican tacqueria. Don't bother ordering the huevos rancheros. It's only eggs with salsa on top. Get Mexican food in Texas. The hotel offers wash  fold laundry service with pickup and delivery. The ice machine was functioning by the elevator. There is no in-room coffee but coffee and hot chocolate are available 24 hrs in the lobby. There is no hair dryer or bathtub but the shower was nice and the room had nice furnishings--two stuffed chairs and table plus a desk and chair. I should mention that it could have been quieter. There were some people carrying on out in the parking lot in the wee hours and the town comes alive early. Horns honking and somebody on a PA system across the street about 6am. Bus? Trolley? I don't know what that was about. It was not the best night's sleep but being able to walk around Fisherman's Wharf and have the hotel be right there was great. Good luck on sleep. Glad I was tired and went to bed early so I got the sleep I needed anyway.  
+<Date>Sep 3, 2007
+<Rating>4	4	5	5	5	5	5	-1	
+<Aspects>
+8	4(nice):1	307(bother):1	469(guess):1	956(ac):1	1079(trolley):1	1577(monday):1	3375(jacket):1	8922(summertime):1	
+0	
+29	2(night):1	4(nice):3	7(walk):1	11(bed):2	36(desk):1	52(bit):1	58(quiet):1	61(shower):1	104(sleep):3	119(window):1	171(able):1	198(chair):2	203(plus):1	229(table):1	244(mention):1	278(cool):1	417(anyway):1	454(tire):1	480(stuff):1	528(ceiling):1	619(glad):1	661(fan):1	729(hair):1	784(wharf):1	870(furnishings):1	1023(bathtub):1	1055(luck):1	1148(fisherman):1	1209(dryer):1	
+21	7(walk):1	26(people):1	35(street):1	38(lot):1	60(hour):1	66(park):1	120(bus):1	142(bring):1	239(town):1	384(wish):1	518(system):1	784(wharf):1	824(carry):1	1148(fisherman):1	2310(wee):1	2899(alive):1	3100(horn):1	4417(honk):1	6424(p.a):1	7363(6am):1	11326(sweatshirt):1	
+0	
+0	
+24	9(service):1	16(food):1	55(lobby):1	89(offer):1	90(coffee):2	114(hot):1	118(top):1	134(available):1	216(elevator):1	412(egg):1	493(machine):1	547(ice):1	632(chocolate):1	675(mexican):1	811(wash):1	1075(laundry):1	1301(in-room):1	1464(hr):1	1780(function):1	2152(delivery):1	2193(fold):1	2258(pickup):1	2544(salsa):1	3135(texas):1	
+7	35(street):1	159(access):1	379(public):2	555(computer):2	675(mexican):1	910(advertise):1	1268(wifi):1	
+
+<Author>FamilyVacation44
+<Content>Awesome place to stay!! Awesome place to stay. Great location. Great price with perks. Nice clean room and friendly staff. When you step out you are right in middle of the action. The hotel is less than half a block from the waterfront. After spending the whole day on Fishermans Wharf, it's nice to know that your home away from home is just a few steps away. Very nice. The price was very reasonable and it included free parking, which is rare in this neighborhood, and free Wi/Fi. Rooms are very clean and modern. Had problems with hardware in the bathroom and overhead lighting, but these paled in comparison to everything that the hotel had to offer.  
+<Date>Aug 26, 2007
+<Rating>5	5	4	5	5	5	5	-1	
+<Aspects>
+10	4(nice):2	8(day):1	64(spend):1	141(home):2	325(middle):1	348(awesome):2	366(step):2	784(wharf):1	958(action):1	2198(fishermans):1	
+9	19(price):2	46(free):2	66(park):1	71(include):1	273(reasonable):1	421(neighbourhood):1	1914(perk):1	1924(rare):1	5987(wi):1	
+12	0(staff):1	3(clean):2	4(nice):1	12(friendly):1	13(bathroom):1	89(offer):1	151(modern):1	157(light):1	1525(comparison):1	3176(overhead):1	7241(hardware):1	8021(pal):1	
+1	1(location):1	
+0	
+3	100(bloc):1	283(half):1	1859(waterfront):1	
+0	
+0	
+
+<Author>wimberleydlc
+<Content>Accomodations are a little "low rent" Great location, but how about spending some money on upgrades. Like a very old motor inn. We only had a very small shower in the bathroom. The shower only had a soap dish large enough for the small bar of soap. Had to put shampoo on the floor of the shower (no place to set it). Glad we only stayed two nights there.  
+<Date>Aug 25, 2007
+<Rating>3	3	2	4	3	3	3	-1	
+<Aspects>
+4	2(night):1	324(inn):1	619(glad):1	2336(motor):1	
+8	1(location):1	23(little):1	64(spend):1	80(money):1	163(upgrade):1	513(low):1	780(accomodation):1	1030(rend):1	
+8	13(bathroom):1	24(floor):1	27(bar):1	61(shower):3	234(set):1	816(dish):1	965(soap):2	1051(shampoo):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>kcann
+<Content>Pier 39 Gem Small hotel located across from Pier 39, and some of the best restaurants on the wharf. The rooms are a bit retro but very clean. And the best part is...parking is free! The lot is small, but secure. Very close to buses, shopping, cable cars, and North Beach.  
+<Date>Aug 9, 2007
+<Rating>5	5	4	5	5	5	4	-1	
+<Aspects>
+0	
+0	
+3	3(clean):1	52(bit):1	4079(retro):1	
+16	10(restaurant):1	28(close):1	30(beach):1	38(lot):1	46(free):1	49(shop):1	66(park):1	84(locate):1	120(bus):1	121(car):1	484(cable):1	684(North):1	784(wharf):1	805(gem):1	1034(secure):1	1456(pier):2	
+0	
+0	
+0	
+0	
+
+<Author>got2getawayToronto
+<Content>Great Accommodation, would stay again..highly reccomend ! Great accommodation, very clean, walking distance to everything! Cable cars nearby also. Free parking, free coffee in lobby 24 hrs. Friendly and knowledgeable staff. Be sure to walk to nearby North Beach (Little Italy) for dining. Michaelangelo's and Rose Pistole are a good choice. San Francisco Comprehensive Shuttle Tours provided an excellent tour!  
+<Date>Aug 9, 2007
+<Rating>5	4	5	5	5	5	5	-1	
+<Aspects>
+5	121(car):1	138(highly):1	232(nearby):1	484(cable):1	1513(reccomend):1	
+7	3(clean):1	7(walk):1	107(choice):1	115(distance):1	721(accommodation):2	1436(rise):1	7089(michaelangelo):1	
+0	
+14	7(walk):1	21(excellent):1	23(little):1	30(beach):1	153(provide):1	177(san):1	181(tour):2	232(nearby):1	316(dine):1	321(shuttle):1	355(francisco):1	684(North):1	900(italy):1	4693(comprehensive):1	
+0	
+3	0(staff):1	12(friendly):1	1160(knowledgeable):1	
+5	46(free):2	55(lobby):1	66(park):1	90(coffee):1	1464(hr):1	
+0	
+
+<Author>BoogieWoo
+<Content>Perfect for our family The Wharf Inn was a great property for our San Francisco vacation. Our group was 2 parents and 3 teenage children. We booked a family room (suite?) which had one room with two queen beds, and a separate sitting room with a sofa sleeper (this was noted to be out of order for the bed, so a rollaway was already in the room). Each room had a TV. It was a corner room on the 2nd floor so we had views in both directions. Yes, it is a noisy area but that is the only drawback. We could walk to everything in the FW and Embarcadero area. The rooms were very clean and felt roomy, the staff was friendly, and the always-available coffee and cocoa pleased us all.  
+<Date>Jul 26, 2007
+<Rating>4	4	4	4	4	4	3	-1	
+<Aspects>
+6	217(noisy):1	250(yes):1	277(child):1	1197(parent):1	1344(drawback):1	1837(teen-age):1	
+8	74(perfect):1	106(family):1	131(vacation):1	177(san):1	214(property):1	324(inn):1	355(francisco):1	784(wharf):1	
+25	0(staff):1	3(clean):1	11(bed):2	12(friendly):1	17(view):1	18(book):1	24(floor):1	34(feel):1	90(coffee):1	106(family):1	108(suite):1	116(tv):1	169(sit):1	173(please):1	200(corner):1	297(note):1	395(direction):1	474(separate):1	543(Queen):1	842(sofa):1	1299(sleeper):1	1326(2nd):1	1353(roomy):1	2208(cocoa):1	2952(rollaway):1	
+2	7(walk):1	2941(embarcadero):1	
+0	
+0	
+0	
+0	
+
+<Author>khout
+<Content>Excellent Hotel Nice, clean hotel, friendly staff and free parking at a great price! Also, the hotel is within walking distance to everything so you don't have to drive anywhere. There is no airconditioning, but it is very cool at night so that was not an issue. My husband and I really enjoyed our stay here and we would definently go back.  
+<Date>Jul 22, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+3	51(enjoy):1	105(husband):1	12708(definently):1	
+8	0(staff):1	3(clean):1	4(nice):1	12(friendly):1	19(price):1	21(excellent):1	46(free):1	66(park):1	
+4	2(night):1	265(issue):1	278(cool):1	1903(airconditione):1	
+3	7(walk):1	115(distance):1	298(drive):1	
+0	
+0	
+0	
+0	
+
+<Author>jmk1985
+<Content>Great Location Nice Location convienient to the Wharf and all the activities. Went as a couple and had a blast. Not the nicest hotel. Kind of like an old motor inn. Clean and a little noisy. The location more than makes up for it though.  
+<Date>Jul 20, 2007
+<Rating>4	4	4	5	4	4	4	-1	
+<Aspects>
+5	4(nice):1	99(couple):1	324(inn):1	1279(blast):1	2336(motor):1	
+0	
+0	
+5	1(location):3	4(nice):1	357(activity):1	784(wharf):1	4889(convienient):1	
+3	3(clean):1	23(little):1	217(noisy):1	
+0	
+0	
+0	
+
+<Author>MooreTime
+<Content>Great Location; not much else ... The Wharf in is in a great location. The rooms are small, but clean and there is NO air conditioning. There is a nice breeze that comes into the rooms when doors and windows are open, but this also brings in all the traffic and people noise. The Inn is on a very busy intersection. We stayed in the Junior Suite because this was all that was available. It was billed as having a balcony - well, what it has is a 2 foot wide opening that you can not fit a chair onto. I would call this just another door to leave open to get the breeze. I would not stay in the the Warf in again; too many other nice hotels for the same value in the same location.  
+<Date>Jun 26, 2007
+<Rating>3	3	3	5	3	2	3	-1	
+<Aspects>
+4	43(leave):1	54(door):1	67(call):1	799(breeze):1	
+4	1(location):1	4(nice):1	81(value):1	4453(warf):1	
+20	3(clean):1	4(nice):1	26(people):1	54(door):1	94(noise):1	108(suite):1	119(window):1	134(available):1	142(bring):1	164(air):1	191(balcony):1	198(chair):1	263(condition):1	402(foot):1	486(traffic):1	495(bill):1	668(fit):1	799(breeze):1	860(wide):1	964(junior):1	
+6	1(location):2	170(else):1	220(busy):1	324(inn):1	784(wharf):1	3615(intersection):1	
+0	
+0	
+0	
+0	
+
+<Author>nekobaby
+<Content>Awesome location, good room size Stayed two nights at the Wharf Inn and had a very positive experience. The rooms were huge and the beds were very comfortable. The location is blocks from Fisherman's Wharf and, with awful San Francisco parking, this hotel includes parking with your room rate.  
+<Date>Jun 17, 2007
+<Rating>4	-1	5	5	4	3	4	4	
+<Aspects>
+0	
+0	
+11	1(location):1	2(night):1	11(bed):1	25(comfortable):1	44(experience):1	83(size):1	133(huge):1	324(inn):1	348(awesome):1	458(positive):1	784(wharf):1	
+10	1(location):1	66(park):2	71(include):1	78(rate):1	100(bloc):1	177(san):1	355(francisco):1	736(awful):1	784(wharf):1	1148(fisherman):1	
+0	
+0	
+0	
+0	
+
+<Author>the3arns
+<Content>Great place to stay Stopped for three days on the way to NZ, and enjoyed immensely. Room pretty good although can get a bit noisy outside, saying that my 5 year old slept perfectly. The reason for 5 is partly for location but mainly for the excellent staff, for example we arrived and I had lost the suitcase keys. the desk guy managed to find a saw and had freed up our possesions before I returned with (superb) coffees from opposite 7-11. Nothing seems to be too much trouble. Will certainly stay again on next trip over to NZ  
+<Date>May 11, 2007
+<Rating>5	5	4	5	5	5	5	5	
+<Aspects>
+7	8(day):1	33(trip):1	51(enjoy):1	122(stop):1	569(trouble):1	4047(immensely):1	7597(nz):2	
+0	
+17	0(staff):1	1(location):1	21(excellent):1	52(bit):1	53(arrive):1	98(outside):1	104(sleep):1	109(pretty):1	217(noisy):1	339(key):1	374(reason):1	595(perfectly):1	596(lose):1	954(example):1	974(suitcase):1	1177(mainly):1	3534(partly):1	
+8	36(desk):1	39(return):1	46(free):1	90(coffee):1	368(guy):1	407(superb):1	645(manage):1	783(opposite):1	
+0	
+0	
+0	
+0	
+
+<Author>billstek
+<Content>Fantastic location, but noisy on streed The Wharf Inn at Fisherman's Wharf San Franciso, CaliforniaWe wanted a place close to all the attractions on the wharf and this was certainly the place. Only 2 blocks to Pier 39 and one block to Fisherman's Wharf made it easy to move around with three small children. Restaurants and gift shops were everywhere. Hotel rooms are modest but clean and very affordable compared to others nearby. Parking is free, which is unusual for any hotel in this area.One problem is the noise level. Floors are creaky so if you want a quieter room, ask for the top floor. Also, some of the rooms are on the street side across from the 7-11 and I can tell you that you should avoid them unless you are a sound sleeper. There is activity of one kind or another late into the evening and even during the night. Mornings start at 7 with sounds of very noisy trucks outside and workers shouting.If you are on a budget and want a safe and convenient place to stay, the Wharf Inn can't be beat ! Just bring your earplugs.  
+<Date>Apr 19, 2007
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	2(night):1	79(late):1	94(noise):1	137(safe):1	142(bring):1	186(convenient):1	306(level):1	324(inn):1	357(activity):1	429(budget):1	442(beat):1	784(wharf):1	1771(earplugs):1	
+8	56(morning):1	98(outside):1	165(start):1	217(noisy):1	409(sound):1	1125(worker):1	1507(truck):1	2146(shout):1	
+15	3(clean):1	24(floor):2	35(street):1	58(quiet):1	69(tell):1	118(top):1	232(nearby):1	381(compare):1	405(unless):1	409(sound):1	436(avoid):1	1062(affordable):1	1299(sleeper):1	2553(modest):1	6127(creaky):1	
+21	1(location):1	10(restaurant):1	28(close):1	46(free):1	49(shop):1	66(park):1	86(fantastic):1	93(easy):1	100(bloc):2	177(san):1	207(move):1	217(noisy):1	277(child):1	324(inn):1	350(attraction):1	784(wharf):4	852(gift):1	1148(fisherman):2	1456(pier):1	1610(unusual):1	8625(franciso):1	
+0	
+0	
+0	
+0	
+
+<Author>nanarn
+<Content>St Patricks get a way We stayed here for a long St. Patty's day get away for 4 sisters and Mom. Mom found this place in her AAA book and it was a great find. Good price, great location, and a fantastic time had by all. The rooms are clean and good size, bathrooms clean, but dated, and one AM with 5 girls getting ready we did blow a fuse by using 2 hair dryers(the front desk got it fixed in record time,must not have been the first time that happened). No hair dryers, no refrig, no coffee maker (free coffee and hot water 24/7 in front office). Walls were thin and it could be noisy from the other guests, and the street. The front desk people were outstanding and sooo friendly. They let some friends that had come to visit for the day park their cars without cost(twice). I would stay here again for the price and location.  
+<Date>Apr 11, 2007
+<Rating>4	4	3	5	4	5	-1	-1	
+<Aspects>
+7	8(day):1	655(st):1	892(sister):1	940(St):1	1855(mom):1	7031(patricks):1	7317(patty):1	
+11	1(location):2	5(time):1	8(day):1	19(price):2	65(visit):1	66(park):1	86(fantastic):1	121(car):1	146(friend):1	175(cost):1	347(twice):1	
+16	3(clean):2	5(time):2	13(bathroom):1	31(front):1	36(desk):1	83(size):1	274(ready):1	382(happen):1	494(fix):1	511(date):1	625(girl):1	729(hair):1	1146(blow):1	1209(dryer):1	2251(record):1	6921(fuse):1	
+5	35(street):1	91(guest):1	183(wall):1	217(noisy):1	754(thin):1	
+0	
+15	12(friendly):1	26(people):1	31(front):2	36(desk):1	46(free):1	57(water):1	90(coffee):2	114(hot):1	534(outstanding):1	729(hair):1	792(office):1	996(maker):1	1209(dryer):1	2679(sooo):1	5354(refrig):1	
+2	18(book):1	1855(mom):1	
+0	
+
+<Author>ColinMac
+<Content>OK, but nothing special My wife and I stayed here for two nights, using the hotel as a base to explore San Francisco. I guess the hotel is reasonably cheap by San Francisco standards, but I would have hoped for a little more. For example, if you want a hair dryer you have to go down to reception and borrow one, and the room has no fridge or coffee maker.The area around the hotel is, of course, Tourist Central and can be busy and noisy, as well as attracting more than its fair share of homeless beggars, but the convenience for Fisherman's Wharf and Alcatraz can't be denied.There isn't anything in particular wrong with the hotel, but I wouldn't especially aim to stay here again if I was back in SF.  
+<Date>Mar 29, 2007
+<Rating>3	3	2	3	4	4	3	-1	
+<Aspects>
+13	2(night):1	123(ok):1	126(especially):1	177(san):1	184(wife):1	208(special):1	284(base):1	355(francisco):1	427(wrong):1	594(explore):1	802(sf):1	938(particular):1	3267(aim):1	
+8	23(little):1	130(standard):1	143(cheap):1	177(san):1	328(hope):1	355(francisco):1	469(guess):1	578(reasonably):1	
+23	90(coffee):1	129(reception):1	168(central):1	209(tourist):1	217(noisy):1	220(busy):1	293(course):1	318(fridge):1	520(share):1	729(hair):1	739(fair):1	784(wharf):1	925(convenience):1	954(example):1	996(maker):1	1148(fisherman):1	1209(dryer):1	1567(homeless):1	2211(alcatraz):1	2452(attract):1	2666(borrow):1	3067(deny):1	4682(beggar):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>bfoyuk
+<Content>Great base for a city break My husband  I travelled from the UK to do a road trip around California, with our first stop being San Francisco. We pre-booked this hotel, as the last thing we needed after a long flight was to try  find a hotel. We loved San Franciso  the Fisherman's Wharf area is amazing, but unfortunately the majority of hotels in this area are quite pricey. The Whaf Inn was a very reasonable price  we were not disappointed. The room was very spacious, with a very large bed, a sofa, table, TV  cabinet and the bathroom was roomy too. The bed was comfortable - we had no problems falling asleep after a long day of sightseeing! The room was clean too. We also felt safe in this area of San Francisco, we had no thoughts of walking around our hotel at night. The only negative point was the view - just looked out onto a brick wall, but when you're in SF, you're not going to stay in your room much! The hotel receptionist was helpful in pointing us in the right direction  free coffee too! Would stay again, value for money!  
+<Date>Mar 13, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	33(trip):1	41(city):1	68(travel):1	105(husband):1	122(stop):1	177(san):1	228(break):1	230(road):1	284(base):1	355(francisco):1	1178(uk):1	1656(california):1	
+15	19(price):1	40(love):1	80(money):1	81(value):1	145(amaze):1	154(disappoint):1	177(san):1	273(reasonable):1	324(inn):1	524(unfortunately):1	546(pricey):1	784(wharf):1	1148(fisherman):1	1584(majority):1	8625(franciso):1	
+23	3(clean):1	8(day):1	11(bed):2	13(bathroom):1	17(view):1	20(look):1	25(comfortable):1	76(try):1	111(spacious):1	116(tv):1	183(wall):1	229(table):1	233(flight):1	282(negative):1	587(fall):1	640(sight-see):1	802(sf):1	842(sofa):1	1353(roomy):1	2003(brick):1	2123(asleep):1	2563(cabinet):1	4507(pre-booke):1	
+6	2(night):1	7(walk):1	34(feel):1	137(safe):1	177(san):1	355(francisco):1	
+0	
+5	14(helpful):1	46(free):1	90(coffee):1	395(direction):1	855(receptionist):1	
+0	
+0	
+
+<Author>Bergspitz
+<Content>Good location, but.. I stayed there for 3 nights. The location is perfect and could not be better. The first night, we slept very well. During the next night the problems started because they accommodated a class with young students in 20 rooms. So it was almost impossible to sleep during the next 2 nights.For the price I paid, I couldn't accept this noise during the nights.As I complained in the morning at the reception, the lady was very arrogant, unfriendly and rude to me.I was several times in San Francisco and I can't accept such answers. So it was the last time I visited the Wharf Inn.  
+<Date>Oct 10, 2006
+<Rating>2	2	4	5	5	1	4	-1	
+<Aspects>
+9	2(night):1	5(time):2	65(visit):1	177(san):1	324(inn):1	355(francisco):1	669(answer):1	784(wharf):1	1247(accept):1	
+9	2(night):2	19(price):1	42(pay):1	94(noise):1	165(start):1	470(class):1	624(accommodate):1	1247(accept):1	2020(student):1	
+3	2(night):2	104(sleep):2	1169(impossible):1	
+2	1(location):2	74(perfect):1	
+0	
+7	56(morning):1	129(reception):1	241(complain):1	392(rude):1	521(lady):1	1487(unfriendly):1	3329(arrogant):1	
+0	
+0	
+
+<Author>doormold
+<Content>Don't Let the Exterior Fool You! Great Hotel! Don鈥檛 be fooled by the hotel鈥檚 exterior. This is fantastic place to stay! My husband and I are San Francisco natives, and we make it 鈥渉ome鈥?once or twice a year. This hotel is easy to get to, convenient to all Fisherman鈥檚 Wharf sights (especially on foot), and a great value for the money (AAA discount helped, too!). We last stayed here over 2006 Labor Day weekend. The hotel staff was very friendly, both checking in and out. We had seven people in a two queen room. Even with the addition of a rollaway bed we had plenty of room for us AND all of our junk. The hotel allowed us to remain parked in the lot for FREE even after checking out. Oh yeah, their online reservation system is very user friendly. Great (but older) accommodations!  
+<Date>Oct 3, 2006
+<Rating>4	4	3	5	4	5	4	-1	
+<Aspects>
+13	8(day):1	86(fantastic):1	105(husband):1	172(weekend):1	177(san):1	347(twice):1	355(francisco):1	908(don):1	1828(exterior):2	2098(fool):2	2390(native):1	3131(labor):1	11322(ome):1	
+12	80(money):1	81(value):1	92(help):1	93(easy):1	126(especially):1	186(convenient):1	402(foot):1	411(sight):1	721(accommodation):1	784(wharf):1	864(discount):1	1148(fisherman):1	
+7	11(bed):1	26(people):1	158(plenty):1	543(Queen):1	918(addition):1	2952(rollaway):1	4293(junk):1	
+6	32(check):1	38(lot):1	46(free):1	66(park):1	359(allow):1	1391(remain):1	
+0	
+3	0(staff):1	12(friendly):1	32(check):1	
+0	
+6	12(friendly):1	156(reservation):1	518(system):1	822(online):1	2009(yeah):1	2756(user):1	
+
+<Author>808traveler
+<Content>Best place to stay in San Francisco! If you are going to San Francisco for vacation, this is the place to stay. For the price (paid $600 for 4 nights) and location, not to mention FREE PARKING, it's a no brainer. The staff were very helpful (fixed our broken desk lamp as soon as it was reported). The room was a bit small but still contained a semi walk in closet and a good sized bathroom. The room was clean and semi secured since you needed your room key to access the elevator. The location is IDEAL. Pier 39 / Alcatraz ferries were about a block away and the wharf area (Embarcadero) was a half block walk from the hotel. 7-11 is right across the street and IHOP is one block down. There are many places to eat within close proximity of the hotel. The cable car turnarounds are also close by (Mason / Powell about three blocks away, Mason / Hyde about five blocks away). Lombard Street, Coit Tower, and Ghirardelli Square are also within a mile or so distance from the hotel.  
+<Date>Sep 30, 2006
+<Rating>5	5	3	5	4	5	5	-1	
+<Aspects>
+2	177(san):1	355(francisco):1	
+11	1(location):1	2(night):1	19(price):1	42(pay):1	46(free):1	66(park):1	131(vacation):1	177(san):1	244(mention):1	355(francisco):1	10742(brainer):1	
+15	7(walk):1	13(bathroom):1	35(street):1	52(bit):1	83(size):1	115(distance):1	139(square):1	378(tower):1	565(closet):1	692(mile):1	1545(contain):1	2782(lombard):1	4393(coit):1	5499(semi):1	6391(ghirardelli):1	
+21	1(location):1	7(walk):1	28(close):2	35(street):1	47(eat):1	100(bloc):5	121(car):1	283(half):1	484(cable):1	545(ideal):1	784(wharf):1	1010(ferry):1	1114(proximity):1	1456(pier):1	1897(powell):1	2211(alcatraz):1	2816(hyde):1	2941(embarcadero):1	4161(turnaround):1	5075(mason):2	5191(ihop):1	
+0	
+8	0(staff):1	14(helpful):1	36(desk):1	228(break):1	418(soon):1	494(fix):1	838(report):1	1622(lamp):1	
+6	3(clean):1	159(access):1	216(elevator):1	339(key):1	1034(secure):1	5499(semi):1	
+0	
+
+<Author>BackN66
+<Content>Well Worth It! The location can not be beat. The rooms were very clean. The staff was hospitable and courteous. We were there during the heat wave in Mid July. The rooms do not have air conditioning, but with a ceiling fan, it was no problem at nite. Free parking is an added bonus. You are right on the street, so it is a little noisy until late, but falling asleep was easy because we were on the move all day. We will definitely stay here again on our next trip.  
+<Date>Aug 1, 2006
+<Rating>4	4	4	5	5	4	4	3	
+<Aspects>
+6	33(trip):1	59(definitely):1	96(worth):1	539(heat):1	836(wave):1	1313(mid):1	
+0	
+15	3(clean):1	8(day):1	23(little):1	35(street):1	79(late):1	93(easy):1	164(air):1	207(move):1	217(noisy):1	263(condition):1	528(ceiling):1	587(fall):1	661(fan):1	1895(nite):1	2123(asleep):1	
+6	1(location):1	46(free):1	66(park):1	351(add):1	442(beat):1	849(bonus):1	
+0	
+3	0(staff):1	483(courteous):1	2743(hospitable):1	
+0	
+0	
+
+<Author>Alexandria-family
+<Content>Great location and very nice hotel We could see Alcatraz Island from our balcony and walk to Pier 39 in  5 mins. Does not get better than that for the price. Comfortable room, easy walk to everything. Free parking and coffee. Staff friendly and helpful. Book your trip to Alcatraz in advance. We could not go as all trips were booked for the next few days. Did the harbor cruise, however. Walked on the GG bridge and saw dolphins playing in the water below. Kids loved the cable cars.  
+<Date>Jul 13, 2006
+<Rating>4	5	5	-1	5	-1	5	-1	
+<Aspects>
+6	40(love):1	121(car):1	201(kid):1	484(cable):1	561(harbor):1	603(cruise):1	
+1	19(price):1	
+3	7(walk):1	25(comfortable):1	93(easy):1	
+14	1(location):1	4(nice):1	7(walk):2	57(water):1	191(balcony):1	247(min):1	342(island):1	386(play):1	585(below):1	740(bridge):1	1456(pier):1	2211(alcatraz):1	2402(dolphin):1	9449(gg):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+8	8(day):1	18(book):2	33(trip):2	46(free):1	66(park):1	90(coffee):1	685(advance):1	2211(alcatraz):1	
+0	
+
+<Author>epirates
+<Content>Great Deal Accomodations in San Francisco are usually pretty high priced but the Wharf Inn is very reasonable. We actually rented the pent house which is the top floor. It was niced except the elevator only went to the 3rd. floor and you had to walk up another flight of stairs to your door. It had a kitchen, dining room, living room, 2 bedrooms and a bathroom. The furnishing were pretty nice. There were two patios; one off of the dining room that had views of the Coit Tower and other buildings and another patio off of the living room which looked over Fisherman's Wharf.The staff was very nice and friendly. You were in walking distance to Pier 39, Ghiradelli Square and many more attractions and restaurants. Across the street is a 7-11 so you can pick up drinks, snacks or whatever and walk right back to your hotel.Great place - reasonably priced.  
+<Date>Jun 28, 2006
+<Rating>4	4	3	-1	3	-1	3	-1	
+<Aspects>
+0	
+11	19(price):2	109(pretty):1	140(deal):1	177(san):1	273(reasonable):1	324(inn):1	355(francisco):1	399(usually):1	578(reasonably):1	780(accomodation):1	784(wharf):1	
+32	4(nice):1	7(walk):2	10(restaurant):1	13(bathroom):1	17(view):1	20(look):1	24(floor):2	54(door):1	109(pretty):1	115(distance):1	118(top):1	139(square):1	180(actually):1	206(live):2	233(flight):1	268(bedroom):1	281(house):1	316(dine):2	350(attraction):1	378(tower):1	461(kitchen):1	568(stair):1	745(building):1	784(wharf):1	787(furnish):1	973(patio):1	1097(rent):1	1148(fisherman):1	1456(pier):1	4393(coit):1	5451(ghiradelli):1	5831(patios):1	
+6	7(walk):1	35(street):1	63(drink):1	266(pick):1	406(snack):1	937(whatever):1	
+0	
+3	0(staff):1	4(nice):1	12(friendly):1	
+4	4(nice):1	216(elevator):1	337(except):1	2097(3rd):1	
+0	
+
+<Author>Beachy50
+<Content>Wharf Inn, only steps away from everything!       Part of view from room at Wharf Inn  
+<Date>Jun 7, 2006
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+3	324(inn):1	366(step):1	784(wharf):1	
+0	
+3	17(view):1	324(inn):1	784(wharf):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Pleasantly surprised I found this hotel from an internet search. I was looking for a moderately priced hotel that was close to Fisherman's Wharf. Admittedly, I was a bit nervous because the hotel did look somewhat outdated. The other reviews I read were mixed as well. I was pleasantly surprised and happy when this hotel turned out to be just what I was looking for. We really loved the free parking, and the hotel was able to accommodate our 10:30 a.m. check-in without me giving them prior notice. It appears that they have recently added ceiling fans to compensate for no air conditioning in the rooms. I found the room temperature to be quite comfortable. Although there is no coffee service in the rooms, they do offer coffee in the hotel lobby. All in all, we would definitely stay here again. If you're looking for a basic room and are traveling on a budget, give it a try.  
+<Date>May 20, 2006
+<Rating>3	4	3	-1	5	-1	4	-1	
+<Aspects>
+13	20(look):2	37(review):1	52(bit):1	59(definitely):1	88(read):1	155(happy):1	199(surprise):1	609(mix):1	651(somewhat):1	747(pleasantly):1	1408(nervous):1	1549(outdated):1	3051(admittedly):1	
+6	19(price):1	20(look):1	28(close):1	784(wharf):1	1148(fisherman):1	3195(moderately):1	
+15	20(look):1	25(comfortable):1	68(travel):1	76(try):1	164(air):1	263(condition):1	322(recently):1	351(add):1	352(basic):1	429(budget):1	528(ceiling):1	541(appear):1	661(fan):1	944(temperature):1	2243(compensate):1	
+0	
+0	
+8	40(love):1	46(free):1	66(park):1	171(able):1	286(check-in):1	354(notice):1	624(accommodate):1	637(prior):1	
+4	9(service):1	55(lobby):1	89(offer):1	90(coffee):2	
+4	97(internet):1	199(surprise):1	747(pleasantly):1	1248(search):1	
+
+<Author>A TripAdvisor Member
+<Content>Great price and great location! Our five-member family spent two days at the Wharf Inn just prior to Christmas, 2005. We asked for, and received, two adjoining rooms, one with a king bed and the other with two queens. The staff was very helpful with the original bookings - I asked a lot of questions through several E-mails, and always received a prompt and courteous response - and they were friendly and welcoming when we arrived. The rooms were spacious and clean, and the parking was free in a secured lot beside the building. I had read one review that complained about the noise from the street. Given the fact that the hotel is within two short blocks of the waterfront, in a busy tourist area, I didn't feel that it was excessive. It was rather exciting to wake up and hear the sounds of a large city, and rather added to the anticipation we felt about the whole experience of being there! The convenient location was just a short walk from such waterfront sites as Pier 39, the ferry terminal, and Ghirardelli square, and we were also easily able to take buses to many other parts of the city. Although there was no on-site restaurant, there was a large family-friendly IHOP within a block of the hotel. So if you aren't concerned about a lot of frills and just want a clean and safe hotel room in a great location, this might be the spot you are looking for.  
+<Date>Jan 1, 2006
+<Rating>4	4	4	-1	3	-1	3	-1	
+<Aspects>
+7	8(day):1	64(spend):1	106(family):1	324(inn):1	637(prior):1	784(wharf):1	962(christmas):1	
+11	1(location):1	19(price):1	34(feel):1	41(city):1	44(experience):1	132(hear):1	351(add):1	409(sound):1	554(wake):1	1136(excite):1	8056(anticipation):1	
+19	1(location):1	3(clean):2	11(bed):1	20(look):1	38(lot):2	46(free):1	66(park):1	111(spacious):1	135(build):1	137(safe):1	243(king):1	302(receive):1	317(spot):1	496(concern):1	543(Queen):1	1034(secure):1	1350(beside):1	1412(adjoin):1	2210(frill):1	
+29	1(location):1	7(walk):1	10(restaurant):1	34(feel):1	35(street):1	37(review):1	41(city):1	88(read):1	94(noise):1	100(bloc):2	120(bus):1	139(square):1	144(short):2	171(able):1	186(convenient):1	192(site):1	209(tourist):1	220(busy):1	241(complain):1	438(easily):1	1010(ferry):1	1261(terminal):1	1456(pier):1	1859(waterfront):2	2484(on-site):1	3088(excessive):1	5191(ihop):1	6391(ghirardelli):1	7348(family-friendly):1	
+0	
+13	0(staff):1	12(friendly):1	14(helpful):1	38(lot):1	53(arrive):1	202(welcome):1	302(receive):1	394(question):1	483(courteous):1	1208(prompt):1	1270(original):1	1330(response):1	2531(booking):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>watch for bait  We first stayed here in March 2002 and it was excellent - great location, free parking, friendly staff, great rooms(large, clean, bright). That is the last of the good news!!We returned April 2005 and were terribly disappointed and will NOT stay here again! We booked 2 Deluxe Queen rooms which were supposed to have 2 queen beds in an extra large room; as opposed to the regular sized room with 2 queens. We were hoping to get the same type rooms we had before. I confirmed the reservation with a credit card because we had an 11pm arrival from the airport. We were given 2 rooms that were on an interior corridor up against the brick wall above and along a parking ramp. I think the worst 2 locations in the inn! The rooms were so tight you could barely walk around the 2 queen beds and the bathroom was a small closet and had no tub to bathe our children. There was no place to open our suitcases, no A/C, and NO ventilation if we did open the door because we were up against a brick wall. The room was musty and smelled. The whole experience was dark, dingy and damp!! Terrible for young children and allergies. In addition, we had requested non-smoking rooms and these rooms definitely smelled like smoke!! When I went to the front desk to request different rooms, they said we were out of luck. They said rooms are assigned based on first come/first served, regardless of the type of room you select in your reservation and regardless if you guarantee it with a credit card or not!! They said no other rooms were available and offered no compensation OR compassion. They said their advertisement of a Deluxe Queen was actually no different than their Standard Queen, just the price. I was told a reservation guaranteed a room, not a specific type of room. So why the different price levels!! So we reserved a larger room for a larger price and were stuck with a much lesser room with no reduction in price -- all because we were at the mercy of the airline schedule and arrived later than other guests. Perhaps the Wharf Inn changed management from 2002, because the staff in 2005 were not nearly as friendly or helpful as they were in our first visit. In spite of the free parking and location, we will pay more to stay at a more professional establishment. They don't provide what they advertise.  
+<Date>Oct 15, 2005
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+9	39(return):1	153(provide):1	154(disappoint):1	277(child):1	432(terrible):1	910(advertise):1	1725(news):1	1910(terribly):1	3491(allergy):1	
+10	19(price):2	44(experience):1	130(standard):1	180(actually):1	306(level):1	459(dark):1	543(Queen):2	648(deluxe):1	1640(damp):1	1749(dingy):1	
+56	7(walk):1	11(bed):2	13(bathroom):1	18(book):1	19(price):2	53(arrive):1	54(door):1	69(tell):1	79(late):1	83(size):1	89(offer):1	91(guest):1	95(airport):1	128(extra):1	134(available):1	156(reservation):3	174(serve):1	183(wall):1	224(arrival):1	231(smell):1	277(child):1	284(base):1	292(card):2	311(tub):1	328(hope):1	389(type):3	506(reserve):1	543(Queen):4	565(closet):1	620(suppose):1	648(deluxe):1	659(credit):2	688(stick):1	744(regular):1	974(suitcase):1	982(confirm):1	1016(musty):1	1020(barely):1	1196(schedule):1	1294(select):1	1336(airline):1	1399(tight):1	1471(guarantee):2	1722(assign):1	1848(specific):1	1896(bathe):1	2003(brick):1	2012(regardless):2	2401(oppose):1	2667(ventilation):1	2885(compensation):1	4295(lesser):1	5635(reduction):1	6840(11pm):1	9307(mercy):1	10936(compassion):1	
+22	0(staff):1	1(location):3	3(clean):1	12(friendly):1	21(excellent):1	42(pay):1	46(free):2	50(bad):1	66(park):3	183(wall):1	245(watch):1	324(inn):1	501(professional):1	615(march):1	880(bright):1	1026(interior):1	1073(corridor):1	1473(establishment):1	2003(brick):1	3000(spite):1	3852(ramp):1	5518(bait):1	
+6	59(definitely):1	148(request):1	231(smell):1	468(smoke):1	918(addition):1	978(nonsmoking):1	
+13	0(staff):1	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	65(visit):1	148(request):1	161(change):1	324(inn):1	525(management):1	784(wharf):1	896(nearly):1	1055(luck):1	
+0	
+0	
+
+<Author>Pappy101
+<Content>The Perfect Location We stayed at the Wharf Inn after several trips to San Francisco because of the location. You just can't beat it for the price and the free parking. You could stay at the Raddison which is right across the street, but expect to pay about $30-40 more then add $28 a day for parking, just not worth it. Now for some details, the rooms are very spacious, compared to the other 3 hotels that we have stayed in, and are clean. Although they do not advertise it, you can get free wireless internet service with no problem at the hotel. The desk staff was very friendly and knowledgable with any info. you may need for sightseeing and locations. The only problem that I could tell anyone about is that there is no air-conditioning in the rooms, while this may not sound like a problem due to the average temps in SFO being in the 50's and 60's, it is. There is only a very small window about 2x2 and it's located at the bottom of windows and behind the curtains. My solution was to buy a small powerfull fan for about $12 and put it in the window so we could get some outside (cool) air. If you want to be right in the heart of everything that SFO has to offer, then you will not find a better bargain. Most all hotels in this area are at least +$230 a night. So my suggestion is to book this on early, get a little window fan and use the money you save to enjoy all the wonderful fruits that SFO has to offer. If you need any more info on SFO or this hotel, I'd be glad to answer, just E-Mail me.  
+<Date>Oct 9, 2005
+<Rating>4	5	3	-1	4	-1	5	-1	
+<Aspects>
+5	2(night):1	619(glad):1	669(answer):1	1360(info):1	2991(sfo):1	
+8	19(price):1	46(free):1	66(park):1	89(offer):1	442(beat):1	450(heart):1	759(bargain):1	2991(sfo):1	
+27	3(clean):1	18(book):1	23(little):1	48(wonderful):1	51(enjoy):1	69(tell):1	80(money):1	89(offer):1	98(outside):1	111(spacious):1	119(window):2	164(air):1	215(fruit):1	227(average):1	259(due):1	278(cool):1	280(buy):1	381(compare):1	409(sound):1	425(save):1	592(detail):1	661(fan):2	921(suggestion):1	2173(temp):1	2284(air conditioning):1	2800(solution):1	2991(sfo):2	
+20	1(location):3	8(day):1	33(trip):1	35(street):1	42(pay):1	62(expect):1	66(park):1	74(perfect):1	84(locate):1	96(worth):1	119(window):2	177(san):1	324(inn):1	351(add):1	355(francisco):1	640(sight-see):1	743(curtain):1	784(wharf):1	850(bottom):1	10522(raddison):1	
+0	
+5	0(staff):1	12(friendly):1	36(desk):1	1160(knowledgeable):1	1360(info):1	
+0	
+5	9(service):1	46(free):1	97(internet):1	717(wireless):1	910(advertise):1	
+
+<Author>A TripAdvisor Member
+<Content>Great hotel! We stayed here from 11th - 14th Sept and enjoyed our stay. All the staff at the Wharf Inn are extremely helpful and Bill made us feel very welcome when we checked in. There is free parking, plus free coffee and newspapers in reception. The staff also printed directions for us from the internet and booked us on city tours - nothing was too much trouble.The location of the hotel is great, yes it is noisy at night, but that is because of the location! You can't book into a hotel right next to the Wharf and then expect it to be silent at night. We didn't find the noise too much bother, we stayed in a room on the road front and slept well each night.The room was newly furnished and decorated, very large and clean.If I was going back to San Francisco I would definitely book in here again and would recommend it to others. If you think that street noise will bother you just ask for a room at the back - I'm sure that Bill and his staff would be more than willing to accommodate you.  
+<Date>Oct 7, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+4	51(enjoy):1	1804(sept):1	1899(11th):1	1998(14th):1	
+6	0(staff):1	35(street):1	94(noise):1	307(bother):1	495(bill):1	624(accommodate):1	
+10	2(night):1	3(clean):1	31(front):1	94(noise):1	104(sleep):1	230(road):1	305(decorate):1	307(bother):1	787(furnish):1	1189(newly):1	
+4	1(location):2	2(night):1	217(noisy):1	250(yes):1	
+0	
+16	0(staff):2	14(helpful):1	18(book):1	32(check):1	34(feel):1	41(city):1	97(internet):1	110(extremely):1	181(tour):1	202(welcome):1	324(inn):1	395(direction):1	495(bill):1	569(trouble):1	784(wharf):1	1101(print):1	
+15	2(night):1	15(recommend):1	18(book):2	46(free):2	59(definitely):1	62(expect):1	66(park):1	90(coffee):1	129(reception):1	177(san):1	203(plus):1	355(francisco):1	784(wharf):1	1372(newspaper):1	4005(silent):1	
+0	
+
+<Author>tojoe72
+<Content>Good Value !!!! Hey, its not the Ritz or the 4-Season's, but for $122.00 a night with free parking you just cannot go wrong. Our room was newly renovated and spanking neat and clean. It is just blocks from the Wharf and Giardelli Square. Free coffee and a newspaper are also provided. It is family run and everyone is helpful with directions and recomendations. As for the no A/C well I guess that could be a problem, but so far now I have stayed here twice and with the temps topping out at only 65, the temps were no problem. I myself cannot stand stuffiness but I found it comfortable. As for the noise the key is to get a room in the rear of the motel off the street, this has worked twice and we have had no problem with excessive noise.Again, it is not luxory, but good, clean rooms for a good value  
+<Date>Sep 15, 2005
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+12	14(helpful):1	25(comfortable):1	106(family):1	118(top):1	149(run):1	347(twice):1	395(direction):1	444(stand):1	469(guess):1	2173(temp):2	5539(recomendation):1	10769(stuffiness):1	
+2	3(clean):1	81(value):2	
+15	3(clean):1	35(street):1	94(noise):2	100(bloc):1	139(square):1	339(key):1	347(twice):1	533(renovate):1	784(wharf):1	991(motel):1	1189(newly):1	1286(neat):1	2007(rear):1	3088(excessive):1	9565(spank):1	
+6	2(night):1	46(free):1	66(park):1	427(wrong):1	825(ritz):1	1367(hey):1	
+0	
+0	
+4	46(free):1	90(coffee):1	153(provide):1	1372(newspaper):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Ok...as long as you don't need to sleep! We just got back from a stay at the Wharf Inn in Fishermans Wharf. We had requested a Queen/Queen non smoking room as one member of our family has a severe allergy to environmental tobacco smoke and were very pleased to find that they had reserved this for us ahead of time. They were also happy to give us our room at 12.30pm even though officially check-in was not until after 3pm, which meant we could park and do some sight seeing. Check-in staff were helpful and friendly and there was coffee and hot chocolate available in the lobby. Great when coming in from the chilly SF air.First the good stuff. The location of the hotel is excellent (1 block from the Alcatraz ferry terminal and very close to Pier 39 + restaurants) and at $134 per night was good value for this area of San Francisco. They also throw in free parking which usually costs $25-$30 per night at other hotels in the area. The room was comfortable and clean with a huge closet and looked to have been recently remodelled. The bathroom, although quite small, also looked fairly new. We requested extra pillows and these were delivered almost immediately.Now the not-so-good stuff. We knew ahead of time that this hotel didn't have air conditioning but didn't think that it would be a problem in San Francisco in September. We were wrong. Even with temperatures of 65F during the day and mid 50's at night the room felt hot and stuffy. The ceiling fan didn't cool much. During the afternoon we could compensate by leaving our door open when we were in the room but obviously we could not do this at night. We left the very small window open but this didn't improve the air flow or heat situation and it worsened the second problem...noise. This hotel is NOISY.OK it's a location issue and not their fault but the traffic noise did not abate all night and it was LOUD. Then, starting at 5pm, in come all the delivery trucks into the area. Between the heat and all the noise no-one slept much at all...we were a very sorry, cranky lot in the morning. Luckily we were only passing through and were only there for one night.Unless they install air-conditioners I would never stay in this hotel in the summer months. It is a fairly nice property for the area with friendly staff and excellent customer service but it isn't conducive to a restful stay. We might possibly stay here again for a short trip but only if we cannot get one of our usual deals through Priceline (usually we get the Sheraton for $65-85). Hope this helps!  
+<Date>Sep 10, 2005
+<Rating>3	4	3	-1	4	-1	5	-1	
+<Aspects>
+15	2(night):1	92(help):1	217(noisy):1	278(cool):1	324(inn):1	328(hope):1	400(pass):1	427(wrong):1	480(stuff):2	528(ceiling):1	661(fan):1	784(wharf):2	1200(luckily):1	2198(fishermans):1	8746(not-so-good):1	
+17	2(night):1	33(trip):1	46(free):1	66(park):1	140(deal):1	144(short):1	165(start):1	175(cost):1	399(usually):2	682(usual):1	917(throw):1	1013(sheraton):1	1069(priceline):1	1233(possibly):1	1507(truck):1	2152(delivery):1	7134(5pm):1	
+58	2(night):2	3(clean):1	5(time):2	8(day):1	13(bathroom):1	20(look):2	25(comfortable):1	34(feel):1	38(lot):1	43(leave):2	54(door):1	56(morning):1	94(noise):2	104(sleep):2	106(family):1	114(hot):1	119(window):1	123(ok):1	133(huge):1	148(request):1	164(air):3	173(please):1	177(san):1	263(condition):1	322(recently):1	355(francisco):1	364(afternoon):1	388(month):1	405(unless):1	462(fairly):1	468(smoke):2	506(reserve):1	539(heat):2	565(closet):1	781(obviously):1	802(sf):1	853(summer):1	890(situation):1	891(sorry):1	944(temperature):1	972(september):1	976(ahead):2	1217(improve):1	1238(remodel):1	1313(mid):1	1857(stuffy):1	1942(flow):1	2243(compensate):1	2622(chilly):1	2691(install):1	3491(allergy):1	3657(severe):1	3693(no-one):1	5139(tobacco):1	5959(cranky):1	6476(air-conditioner):1	9003(queen):1	9239(environmental):1	
+19	1(location):2	2(night):2	10(restaurant):1	21(excellent):1	28(close):1	81(value):1	94(noise):1	100(bloc):1	123(ok):1	177(san):1	265(issue):1	355(francisco):1	416(loud):1	486(traffic):1	517(fault):1	1010(ferry):1	1261(terminal):1	1456(pier):1	2211(alcatraz):1	
+0	
+21	0(staff):1	12(friendly):1	14(helpful):1	55(lobby):1	66(park):1	90(coffee):1	114(hot):1	128(extra):1	134(available):1	148(request):1	155(happy):1	246(mean):1	286(check-in):2	303(pillow):1	393(pm):1	411(sight):1	489(immediately):1	631(deliver):1	632(chocolate):1	6162(officially):1	6855(3pm):1	
+10	0(staff):1	4(nice):1	9(service):1	12(friendly):1	21(excellent):1	214(property):1	428(customer):1	462(fairly):1	3076(restful):1	5858(conducive):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Avoid it.... Based on the glowing reviews here I booked a three night stay as part of an extended family vacation. As anyone who tries to stay in San Francisco knows, it is exceedingly difficult to find a hotel with free parking and queen beds (traveling with teens!). Upon arrival the look on everyone's face pretty much told me I had made a mistake. Let's start with good: Location is really steps from Pier 39, parking is free. Now the bad: This is hotel has no AC, which considering the temps in the bay area should be no problem. However, the rooms have only one teeny-tiny window (about 1ft square) to allow air into the room. The overhead fan doesn't do much to help pull fresh air in either. As a result the rooms are roasting hot, even when the high temp for the day is 69 degrees. And the location is extremely noisy. Our third floor room faced the Sheraton and we could hear every bus, every car, constant noise day and night. I'm used to having some noise in a hotel room.. but this was ridiculous. In short, we checked out after one night an moved to a hotel out of the city. Oh yes, the elevator broke that night also. The management was very understanding and helpful... but there really isn't much they can do to make up for this hotels shortcomings. If you really must stay in the city, try finding a deal at a higher class hotel through hotwire and then pay for the parking.  
+<Date>Aug 20, 2005
+<Rating>2	2	1	-1	2	-1	4	-1	
+<Aspects>
+11	20(look):1	50(bad):1	69(tell):1	109(pretty):1	224(arrival):1	248(consider):1	671(bay):1	895(mistake):1	956(ac):1	1533(ridiculous):1	2173(temp):1	
+16	2(night):1	18(book):1	37(review):1	41(city):1	42(pay):1	66(park):1	76(try):1	106(family):1	131(vacation):1	140(deal):1	284(base):1	436(avoid):1	470(class):1	1303(extend):1	1824(hotwire):1	2846(glow):1	
+35	2(night):1	8(day):2	11(bed):1	24(floor):1	46(free):1	66(park):1	68(travel):1	76(try):1	92(help):1	94(noise):2	114(hot):1	119(window):1	120(bus):1	121(car):1	132(hear):1	139(square):1	164(air):2	177(san):1	197(fresh):1	355(francisco):1	359(allow):1	532(third):1	543(Queen):1	572(difficult):1	661(fan):1	858(pull):1	1013(sheraton):1	1109(result):1	1252(degree):1	1432(constant):1	2173(temp):1	2697(teens):1	2877(roast):1	3176(overhead):1	4406(exceedingly):1	
+8	1(location):2	46(free):1	66(park):1	110(extremely):1	165(start):1	217(noisy):1	366(step):1	1456(pier):1	
+0	
+9	2(night):1	14(helpful):1	32(check):1	41(city):1	144(short):1	207(move):1	391(understand):1	525(management):1	4259(shortcoming):1	
+4	2(night):1	216(elevator):1	228(break):1	250(yes):1	
+0	
+
+<Author>ishouldbediving
+<Content>Hotel close to Pier 39       View from our balcony at the Wharff Inn  
+<Date>Aug 19, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+5	17(view):1	28(close):1	191(balcony):1	324(inn):1	1456(pier):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Room - Great Price - Great Location! Because of the great location and the great deal we got on the room, I was a little concerned at what we might actually encounter when we arrived. We were very pleasantly surprised. Everything looked new and clean. One block from Fisherman's Wharf; free parking; very friendly, knowlegeable staff; a clean, comfortable room -- what more can you ask for? We will definitely stay here again.  
+<Date>Aug 18, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+3	59(definitely):1	199(surprise):1	747(pleasantly):1	
+2	1(location):1	19(price):1	
+17	0(staff):1	1(location):1	3(clean):1	12(friendly):1	23(little):1	25(comfortable):1	46(free):1	53(arrive):1	66(park):1	100(bloc):1	140(deal):1	180(actually):1	496(concern):1	693(encounter):1	784(wharf):1	1148(fisherman):1	12271(knowlegeable):1	
+0	
+2	3(clean):1	20(look):1	
+0	
+0	
+0	
+
+<Author>cantstayhome
+<Content>Stayed here three times now! I've visited San Francisco many times and have stayed at the Wharf Inn for three of those times. You can't beat the location for access to fisherman's wharf, cable cars, shopping, boat tours, etc. The rooms are clean and comfortable. No A/C but San Francisco weather is never too hot for me. I've noticed several people complain about noise, but I can't remember it ever being a problem. All 3 times I had a room overlooking the street, and I loved to stand on the balcony and take in all the commotion down on the street. As far as noise, what I remember is a wood-wind quartet that you could hear playing on the corner at all times of day. Coupled with the smell of the ocean and wharf, it definately holds many fond memories of one of the most beautiful cities on earth. Parking is free, and getting to any main street is no problem from this location. I plan on staying here again next time.  
+<Date>Jul 26, 2005
+<Rating>4	4	3	-1	-1	-1	5	-1	
+<Aspects>
+18	5(time):5	8(day):1	26(people):1	65(visit):1	94(noise):2	114(hot):1	132(hear):1	177(san):2	200(corner):1	221(plan):1	241(complain):1	324(inn):1	354(notice):1	355(francisco):2	375(remember):2	385(weather):1	386(play):1	784(wharf):1	
+0	
+9	3(clean):1	5(time):1	25(comfortable):1	35(street):2	40(love):1	191(balcony):1	260(overlook):1	444(stand):1	7753(commotion):1	
+15	1(location):2	35(street):1	46(free):1	49(shop):1	66(park):1	73(etc):1	112(main):1	121(car):1	159(access):1	181(tour):1	442(beat):1	484(cable):1	674(boat):1	784(wharf):1	1148(fisherman):1	
+11	41(city):1	45(beautiful):1	99(couple):1	205(ocean):1	231(smell):1	410(definately):1	593(hold):1	784(wharf):1	1631(memory):1	2201(earth):1	3960(fond):1	
+0	
+0	
+0	
+
+<Author>skpr77
+<Content>Good value, good location, below average service This is a decent budget hotel with free parking. We reserved 2 non smoking rooms and I arrived early to attempt to guarantee myself that. When I arrived I was told all non smoking rooms were already taken. So I checked in and proceeded to the first room and it smelled like an ashtray. I went to the 2nd room and it was even worse. I went back down to the front desk and asked them if I could check a couple of the other rooms that were currently vacant. I did that and picked a smoking room that was alright. But unfortunately my original room was the better of the rest so I had to take it. These rooms had louvered windows on the bottom and the top, but without any screens. So after touring the Fisherman's Wharf area, and in the evening having multiple run-in's with the rodents while they scurry looking for food, I had to close the bottom windows because I didn't want to take any chances of one of them taking a midnight stroll into my room. I want to stress that the hotel property itself was fairly clean and that the rodents do not reside anywhere on the property. So the room was always stuffy and the air doesn't circulate like it should. We were told the hotel had hair dryers. When we arrived we couldn't locate them, so we called the front desk and they gave us one and just told us to return it when we checked out. But a couple of times, they called our room asking us if we were done with the hair dryer. The manager at the front desk was very friendly and helpful, and overall it is a decent place to stay. But the overwhelming smell of smoke in the room, really turned me off. I do recommend staying here.  
+<Date>Jun 18, 2005
+<Rating>3	5	3	-1	3	-1	3	-1	
+<Aspects>
+1	15(recommend):1	
+0	
+47	3(clean):1	5(time):1	16(food):1	20(look):1	28(close):1	32(check):1	50(bad):1	53(arrive):2	67(call):1	69(tell):2	99(couple):1	118(top):1	119(window):2	164(air):1	181(tour):1	214(property):2	231(smell):1	266(pick):1	288(rest):1	462(fairly):1	468(smoke):3	506(reserve):1	524(unfortunately):1	526(screen):1	689(chance):1	729(hair):2	784(wharf):1	850(bottom):2	1044(midnight):1	1056(stroll):1	1119(attempt):1	1148(fisherman):1	1209(dryer):2	1270(original):1	1326(2nd):1	1471(guarantee):1	1732(multiple):1	1753(stress):1	1857(stuffy):1	2130(all right):1	2150(proceed):1	4814(ashtray):1	6177(reside):1	6211(circulate):1	6501(rodent):2	7234(scurry):1	11240(louvered):1	
+9	1(location):1	9(service):1	46(free):1	66(park):1	81(value):1	227(average):1	257(decent):1	429(budget):1	585(below):1	
+3	231(smell):1	468(smoke):1	1992(overwhelm):1	
+16	12(friendly):1	14(helpful):1	31(front):3	32(check):2	36(desk):3	39(return):1	53(arrive):1	67(call):1	69(tell):1	70(overall):1	84(locate):1	99(couple):1	257(decent):1	258(manager):1	2006(currently):1	4385(vacant):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good Value I've stayed in many different hotels/motels in SF and unless you want to shell out the big bucks, most of them are about the same. But I have to say that The Wharf Inn was an exceptional value. We were there for New Year's Eve. The room was spacious, had brand new furnishings, including new carpet. The bathroom was a little small, but could accomodate two people in front of the vanity easily. And the free parking is a definite bonus. Almost every lodging in SF charges an additional $20-$30 for parking. If you want luxury look to one of the truly luxurious hotels in the city, if you want good value in a touristy place, the Wharf Inn is a good bet.  
+<Date>Jan 4, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	1787(eve):1	
+16	20(look):1	41(city):1	81(value):3	324(inn):2	405(unless):1	437(luxury):1	476(truly):1	708(luxurious):1	784(wharf):2	802(sf):1	837(exceptional):1	1120(buck):1	1470(touristy):1	1821(bet):1	2424(shell):1	6652(hotels):1	
+12	13(bathroom):1	23(little):1	26(people):1	31(front):1	71(include):1	111(spacious):1	396(carpet):1	438(easily):1	549(accomodate):1	870(furnishings):1	883(brand):1	2127(vanity):1	
+8	46(free):1	66(park):2	136(charge):1	802(sf):1	835(additional):1	849(bonus):1	1878(lodge):1	2369(definite):1	
+0	
+0	
+0	
+0	
+
+<Author>Holakjs
+<Content>Great front desk! I had lived on Sutter St. and worked in the Financial District some years so, for a change, I wanted to stay in the really touristy part of the City. Therefore, we went to the Wharf area, and the Wharf Inn is great for location and service. The reason I am writing this review because the front desk staff, whoever was on, was friendly and knowledgeable. Our stay there was August 2003, but after several trips here and aboard since then, this staff is memorable. Of course, great city, great location...not all the amenities, but I would return just to get that kind of concern and info at that location. The Buena Vista, known for creating its Irish Coffee drink, is just a 5-minute walk away. Also the cable car is right across the the BV.  
+<Date>Dec 11, 2004
+<Rating>4	5	4	-1	4	-1	5	-1	
+<Aspects>
+2	121(car):1	484(cable):1	
+0	
+0	
+17	1(location):3	9(service):1	39(return):1	41(city):2	161(change):1	206(live):1	291(amenity):1	293(course):1	324(inn):1	433(district):1	496(concern):1	655(st):1	784(wharf):2	1360(info):1	1470(touristy):1	1746(financial):1	5703(sutter):1	
+0	
+12	0(staff):2	12(friendly):1	31(front):2	33(trip):1	36(desk):2	37(review):1	344(write):1	374(reason):1	1160(knowledgeable):1	1205(memorable):1	3388(whoever):1	9582(aboard):1	
+8	7(walk):1	63(drink):1	90(coffee):1	1696(create):1	2347(irish):1	2678(vista):1	4470(buena):1	4828(5-minute):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great location and free parking! We stayed there for a weekend in October. The staff was very courtious and helpful. The rooms were clean and the size was fine. The site was perfect for our visit to Fishermans Warf, could not get any closer. This is an excellent place for the money if your not looking for fancy room service or special amenities. There are plenty of places to eat and play with in a few steps. The free parking was a welcomed surprise, considering the rates of the near-by hotels are insulting.  
+<Date>Dec 7, 2004
+<Rating>4	4	3	-1	4	-1	4	-1	
+<Aspects>
+6	47(eat):1	158(plenty):1	172(weekend):1	366(step):1	386(play):1	911(october):1	
+0	
+10	3(clean):1	9(service):1	20(look):1	21(excellent):1	80(money):1	83(size):1	113(fine):1	208(special):1	291(amenity):1	796(fancy):1	
+15	1(location):1	28(close):1	46(free):2	65(visit):1	66(park):2	74(perfect):1	78(rate):1	192(site):1	199(surprise):1	202(welcome):1	248(consider):1	2198(fishermans):1	2809(insult):1	4453(warf):1	9310(near-by):1	
+0	
+3	0(staff):1	14(helpful):1	6116(courtious):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>very good value We felt fortunate to have selected the Wharf Inn as a homebase for a fast-forward overnight visit to San Francisco. The staff was courteous and helpful, and the room clean with comfortable bed and linens. The room appeared to have been remodeled within the last year or so. The most attractive features of this establishment include a convenient location and free-parking. Our streetview room was indeed somewhat noisy. While I would certainly not recommend this facility for a romantic getaway, it suits quite nicely as a gateway to the beauty and excitement of the city.  
+<Date>Nov 18, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+11	34(feel):1	65(visit):1	81(value):1	177(san):1	324(inn):1	355(francisco):1	784(wharf):1	1171(overnight):1	1294(select):1	2228(fortunate):1	12095(homebase):1	
+22	0(staff):1	3(clean):1	11(bed):1	14(helpful):1	15(recommend):1	25(comfortable):1	41(city):1	211(facility):1	217(noisy):1	404(nicely):1	483(courteous):1	541(appear):1	630(linen):1	651(somewhat):1	707(romantic):1	861(suit):1	990(indeed):1	1089(getaway):1	1238(remodel):1	1595(beauty):1	3636(excitement):1	4530(gateway):1	
+6	1(location):1	71(include):1	186(convenient):1	731(feature):1	1154(attractive):1	1473(establishment):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Location for the Money Our visit to San Francisco was in the middle of September, 2004. Simple, but clean, this hotel afforded a great location for the money--a block in from the Bay right between Fisherman's Wharf and Pier 39. Even my elderly mother with arthritic feet had no trouble walking to the attractions along waterfront. Other reviews claimed much noise--to us it was no more noise than any other city. The biggest drawback was no air conditioning. My sister, mother and I were concerned when we opened the door to what felt like an oven. But after airing the room out by keeping the door open and putting on the ceiling fan, it cooled down enough and afforded a pleasant night's sleep on comfortable beds. There were several convenience stores directly across the street--one provided a good breakfast.  
+<Date>Sep 22, 2004
+<Rating>3	4	2	-1	4	-1	3	-1	
+<Aspects>
+10	34(feel):1	37(review):1	41(city):1	54(door):1	94(noise):2	496(concern):1	892(sister):1	1077(claim):1	1359(mother):1	2916(oven):1	
+0	
+13	2(night):1	11(bed):1	25(comfortable):1	54(door):1	104(sleep):1	150(pleasant):1	164(air):2	263(condition):1	278(cool):1	528(ceiling):1	661(fan):1	1344(drawback):1	1452(afford):1	
+28	1(location):2	3(clean):1	6(breakfast):1	7(walk):1	35(street):1	65(visit):1	80(money):2	100(bloc):1	153(provide):1	177(san):1	255(store):1	325(middle):1	350(attraction):1	355(francisco):1	383(directly):1	402(foot):1	569(trouble):1	613(simple):1	671(bay):1	784(wharf):1	925(convenience):1	972(september):1	1148(fisherman):1	1359(mother):1	1452(afford):1	1456(pier):1	1859(waterfront):1	2784(elderly):1	
+0	
+0	
+0	
+0	
+
+<Author>randallboy
+<Content>great location, great stafff, free parking We stayed three days and two nights at the Wharf Inn, in June, 2004. The staff was great and helpful. Best of all, the hotel is located in the middle of Fisherman's Wharf. The room rates are reasonable, especially if you factor in the free parking for guests, which saves at least $25 a day. The staff allowed my family to park prior to checkin time, so we could check out the sights. The boat for the Alcatraz tour is two blocks from the hotel, and this tour is a must see. I would stay there again, especially if I wanted to visit the Fisherman's Wharf, Cable Car Museum and Alcatraz.  
+<Date>Sep 1, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	100(bloc):1	181(tour):2	674(boat):1	2211(alcatraz):1	
+0	
+9	8(day):1	46(free):1	66(park):1	78(rate):1	91(guest):1	126(especially):1	273(reasonable):1	425(save):1	1655(factor):1	
+18	1(location):1	2(night):1	8(day):1	46(free):1	65(visit):1	66(park):1	84(locate):1	121(car):1	126(especially):1	324(inn):1	325(middle):1	484(cable):1	507(museum):1	664(june):1	784(wharf):3	1148(fisherman):2	2211(alcatraz):1	9268(stafff):1	
+0	
+10	0(staff):2	5(time):1	14(helpful):1	32(check):1	66(park):1	106(family):1	359(allow):1	411(sight):1	637(prior):1	1818(checkin):1	
+0	
+0	
+
+<Author>smayle
+<Content>Too noisy!!! Stayed for one night and that was enough. The hotel itself was okay,older, but clean, but as the other reviewer stated, the noise is horrible. The longshoremans union hall is across the street, and there seem to be quite a few people just milling about...The muni bus and tour busses are always going by too. This is okay for one night, but after that I would be ready to pull out my hair!!!  
+<Date>Aug 24, 2004
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	2(night):1	217(noisy):1	
+0	
+5	2(night):1	274(ready):1	453(okay):1	729(hair):1	858(pull):1	
+8	26(people):1	35(street):1	120(bus):2	181(tour):1	451(union):1	616(hall):1	2181(muni):1	4125(mill):1	
+5	3(clean):1	94(noise):1	453(okay):1	544(horrible):1	564(reviewer):1	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great value! Sure, the accomodations are somewhat bare bones, but the perks more than make up for any lack of luxury: location (especially), free parking, ceiling fans, coffee and newspapers. If you're the type of traveler who uses a room only as a home base and a place to sleep, you'll love the Wharf Inn. If your idea of a vacation is to spend it in the hotel, you might be happier elsewhere. Hint: Request a room at the back of the building to avoid street noise.  
+<Date>Jul 27, 2004
+<Rating>4	5	3	-1	4	-1	3	-1	
+<Aspects>
+0	
+6	64(spend):1	81(value):1	131(vacation):1	155(happy):1	639(idea):1	646(elsewhere):1	
+14	35(street):1	40(love):1	94(noise):1	104(sleep):1	135(build):1	141(home):1	148(request):1	267(traveler):1	284(base):1	324(inn):1	389(type):1	436(avoid):1	784(wharf):1	2042(hint):1	
+0	
+0	
+0	
+15	1(location):1	46(free):1	66(park):1	90(coffee):1	126(especially):1	349(lack):1	437(luxury):1	528(ceiling):1	651(somewhat):1	661(fan):1	780(accomodation):1	1372(newspaper):1	1914(perk):1	2235(bare):1	3929(bone):1	
+0	
+
+<Author>plcjc
+<Content>Nice but take ear plugs Great location, friendly staff, great price.Use ear plugs if you want to get any sleep as from most rooms you hear the delivery trucks all through the night.  
+<Date>Jul 26, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+7	0(staff):1	1(location):1	4(nice):1	12(friendly):1	19(price):1	1174(plug):1	1684(ear):1	
+7	2(night):1	104(sleep):1	132(hear):1	1174(plug):1	1507(truck):1	1684(ear):1	2152(delivery):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Clean, Friendly  We just got back from a weekend stay at The Wharf Inn. The staff could not have been nicer or more helpful. The room was very clean. I do agree with previous opinions about it being a little too warm, however.This is a great place to stay if you are looking for basic, affordable lodging right in the middle of all the great SF tourist attractions.The free parking is a great feature. Most other hotels charge $30 - $38 per day, which is something people may forget to consider.  
+<Date>Jun 28, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+13	20(look):1	23(little):1	209(tourist):1	236(warm):1	325(middle):1	350(attraction):1	352(basic):1	373(previous):1	473(agree):1	704(opinion):1	802(sf):1	1062(affordable):1	1878(lodge):1	
+0	
+1	3(clean):1	
+3	46(free):1	66(park):1	731(feature):1	
+5	3(clean):1	12(friendly):1	172(weekend):1	324(inn):1	784(wharf):1	
+8	0(staff):1	4(nice):1	8(day):1	14(helpful):1	26(people):1	136(charge):1	248(consider):1	397(forget):1	
+0	
+0	
+
+<Author>Coco1231
+<Content>Don't Bother! It continually went downhill. The room we got was dated, small  smelled from all the air freshener for smokers. (we had asked for non-smoking) Afer leaving the door open, it was still so bad I insisted they change our room. That one wasn't much better but didn't smell. When we took showers, it was intermittent Hot then Cold - never just right. We found nothing we read on the internet that said it had all these features, amenities,  more - they must have stayed elsewhere. It is a great location for touring Fishherman's Wharf (insist on a room away from the street if noise bothers you). For 1 night maybe but our advice is spend a little more  stay somewhere else - you'll be much happier!  
+<Date>Jun 14, 2004
+<Rating>1	1	1	-1	2	-1	2	-1	
+<Aspects>
+10	2(night):1	23(little):1	64(spend):1	155(happy):1	170(else):1	307(bother):1	308(maybe):1	575(advice):1	2983(downhill):1	3831(continually):1	
+0	
+10	43(leave):1	50(bad):1	54(door):1	61(shower):1	114(hot):1	161(change):1	222(cold):1	978(nonsmoking):1	1495(insist):1	8294(intermittent):1	
+7	1(location):1	35(street):1	94(noise):1	181(tour):1	307(bother):1	784(wharf):1	1495(insist):1	
+5	164(air):1	231(smell):2	511(date):1	2226(smoker):1	4101(freshener):1	
+0	
+0	
+5	88(read):1	97(internet):1	291(amenity):1	646(elsewhere):1	731(feature):1	
+

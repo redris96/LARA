@@ -1,0 +1,882 @@
+<Author>darrenmcc
+<Content>Excellent for a longer break Third stay here and will definitely give repeat business. Reception staff were all great, very friendly and chatty - got checked in within about two minutes, no fuss. Room was up high with a great view of Anhalter Bhf, very clean and tidy. Kitchenette is a great money-saver on restaurants. TV has been replaced with a widescreen flat-panel, but no Suite Box yet - this will just add to the experience.  
+<Date>Dec 13, 2008
+<Rating>5	5	5	5	3	5	-1	3	
+<Aspects>
+0	
+0	
+8	44(experience):1	108(suite):1	116(tv):1	351(add):1	912(replace):1	945(box):1	8451(widescreen):1	9030(flat-panel):1	
+6	21(excellent):1	59(definitely):1	147(business):1	228(break):1	532(third):1	1467(repeat):1	
+4	3(clean):1	17(view):1	1100(tidy):1	8081(anhalter):1	
+7	0(staff):1	12(friendly):1	29(minute):1	32(check):1	129(reception):1	2205(fuss):1	5368(chatty):1	
+2	10(restaurant):1	1165(kitchenette):1	
+0	
+
+<Author>backtoback
+<Content>Nice place.. We reserved 2 rooms under the special rate, which meant that we could not amend or cancel our booking and we had to pay upfront by credit card. This we thought was fine as we saw no reason to cancel. However, one of the travellers with us missed his flight and so we only needed one room.Upon check in I explained this (11pm by the way) to the man who saw to us. He tried to book us in, but had problems - I think he was new. So a more senior worker came to assist. Firstly she told us that we had not paid, only reserved the rooms with my card and then tried to have a go at me for not cancelling the second room earlier so she could have sold it on. However, one minute later she discovered that we had actually paid for the room and whether we had one or two rooms was neither here nor there as they were both paid for. She was not the most friendliest of people and her customer service skills leave alot to be desired!However, on a more positive note we really loved our room, it was spacious, nicely decorated and had everything (plus more) for a weekend break. We never saw that lady again, and all the staff afterwards were helpful and friendly (especially when I got blisters from walking for 14 hours!!)We never ate the breakfast at the hotel after reading about and then seeing the odd way it was served. We ate at the Stresemann cafe across the road, which was much cheaper and lovely!Location of the hotel is great! 700m to Potsdamer Platz and a 5min walk to Checkpoint Charlie.Nice addition - a chocolate Santa was placed on our door on the saturday as it was Niklaustag.Overall, if youre in town for the weeked, want to be central, want somewhere reasonably cheap without having to resort to a hostel then this place is perfect!  
+<Date>Dec 10, 2008
+<Rating>4	4	5	5	4	2	2	-1	
+<Aspects>
+12	4(nice):2	54(door):1	113(fine):1	374(reason):1	632(chocolate):1	818(saturday):1	918(addition):1	1065(cancel):1	1125(worker):1	1265(assist):1	1510(santa):1	2990(senior):1	
+27	29(minute):1	42(pay):3	47(eat):1	69(tell):1	70(overall):1	72(resort):1	74(perfect):1	79(late):1	87(lovely):1	143(cheap):2	168(central):1	180(actually):1	230(road):1	239(town):1	253(tried):1	275(cafe):1	292(card):1	506(reserve):1	578(reasonably):1	606(sell):1	869(discover):1	970(nor):1	1065(cancel):1	1275(neither):1	1560(hostel):1	2140(firstly):1	5506(youre):1	
+12	40(love):1	111(spacious):1	172(weekend):1	203(plus):1	228(break):1	233(flight):1	267(traveler):1	276(miss):1	297(note):1	305(decorate):1	404(nicely):1	458(positive):1	
+15	0(staff):1	1(location):1	7(walk):2	12(friendly):1	14(helpful):1	60(hour):1	126(especially):1	521(lady):1	2598(afterwards):1	2705(platz):1	2876(charlie):1	3577(5min):1	3596(checkpoint):1	3819(potsdamer):1	6683(blister):1	
+0	
+3	32(check):1	768(explain):1	6840(11pm):1	
+25	6(breakfast):1	9(service):1	12(friendly):1	18(book):2	26(people):1	42(pay):1	43(leave):1	47(eat):1	78(rate):1	88(read):1	174(serve):1	208(special):1	246(mean):1	253(tried):1	292(card):1	428(customer):1	506(reserve):1	647(alot):1	659(credit):1	1065(cancel):1	1088(odd):1	1219(desire):1	2611(skill):1	4911(upfront):1	7316(amend):1	
+0	
+
+<Author>Travels_a_lot_1108
+<Content>Overall stay was Okay! This was a decent hotel. My initial impression was great. I liked the look of the hotel and rooms. They were rather stylish. The only cons were the beds and the breakfast. The beds were not very comfortable and the breakfast was overpriced. I recommend getting breakfast across the street at the cafe. They have a very good breakfast at a great price. Customer service was hit or miss. There was one guy who was very helpful when I asked questions but the rest of the staff had poor customer service skills. Don't expect to get a whole lot of help if you have a question and you won't be disappointed. I liked the location of the hotel. It was across the street from an S-Bahn entrance which made it extremely convenient to get around. The price of the rooms were good but don't plan on sleeping that great while you are there. There are other hotels next door. I recommend checking those out first if comfort is important.  
+<Date>Nov 25, 2008
+<Rating>3	3	2	4	4	2	2	2	
+<Aspects>
+13	38(lot):1	54(door):1	62(expect):1	70(overall):1	92(help):1	154(disappoint):1	257(decent):1	394(question):1	453(okay):1	487(wo):1	848(impression):1	961(stylish):1	2074(initial):1	
+5	6(breakfast):2	11(bed):1	19(price):1	25(comfortable):1	727(overprice):1	
+7	6(breakfast):1	11(bed):1	19(price):1	20(look):1	104(sleep):1	221(plan):1	840(Con):1	
+6	1(location):1	35(street):1	110(extremely):1	186(convenient):1	490(entrance):1	2821(s-bahn):1	
+0	
+12	0(staff):1	9(service):1	14(helpful):1	15(recommend):1	32(check):1	288(rest):1	331(poor):1	368(guy):1	394(question):1	428(customer):1	702(comfort):1	2611(skill):1	
+8	6(breakfast):1	9(service):1	15(recommend):1	35(street):1	275(cafe):1	276(miss):1	428(customer):1	775(hit):1	
+0	
+
+<Author>eurogaltng
+<Content>Great Hotel! We spent 4 nights at this hotel and really liked it. The location was great. The S-bahn stop is really close. Potsdamer Platz is a 10-15 mintue walk. The hotel was nice and clean and modern. We had a room for 4 people and it was huge. A big bathroom, seperate toilet, small kitchen area with fridge and microwave. We had control over the heating in our room which is also a plus. It had everything we needed for our stay. We will definatly stay here again the next time we're in Berlin.  
+<Date>Nov 10, 2008
+<Rating>5	4	4	3	4	3	3	3	
+<Aspects>
+5	2(night):1	5(time):1	64(spend):1	746(berlin):1	2993(definatly):1	
+0	
+11	13(bathroom):1	26(people):1	133(huge):1	203(plus):1	318(fridge):1	330(toilet):1	461(kitchen):1	539(heat):1	820(microwave):1	865(control):1	1416(seperate):1	
+7	1(location):1	7(walk):1	28(close):1	122(stop):1	2705(platz):1	2821(s-bahn):1	3819(potsdamer):1	
+3	3(clean):1	4(nice):1	151(modern):1	
+0	
+0	
+0	
+
+<Author>Dub26
+<Content>Would def stay there again! We stayed in the Suitehotel for 4 nights and found it great value for money. The rooms were huge and very comfortable. The room was a double but 3/4 people could have stayed there! I have to say the breakfasts were a little strange, with it being served in plastic containers. At 12 euro each, we decided to give it a miss! There's a restaurant directly across the road which does a nicer breakfast for less. The Italian just at the corner is fantastic and def worth a visit! The service was good, and there's free WiFi in the lobby. Only downside was that the rooms were unbelievably hot. There was no air con and if we opened the windows we heard everything from the streets below. Overall, I can't wait to come back to Berlin and I will definitely be staying in the Suitehotel again. Excellent value for money!  
+<Date>Oct 26, 2008
+<Rating>4	5	4	3	5	4	4	3	
+<Aspects>
+9	65(visit):1	86(fantastic):1	96(worth):1	200(corner):1	219(decide):1	256(euro):1	276(miss):1	358(italian):1	2802(def):2	
+3	21(excellent):1	80(money):1	81(value):1	
+20	2(night):1	25(comfortable):1	26(people):1	35(street):1	59(definitely):1	70(overall):1	80(money):1	81(value):1	85(wait):1	114(hot):1	119(window):1	132(hear):1	133(huge):1	164(air):1	179(double):1	585(below):1	746(berlin):1	782(downside):1	840(Con):1	2590(unbelievably):1	
+0	
+0	
+0	
+14	4(nice):1	6(breakfast):2	9(service):1	10(restaurant):1	23(little):1	46(free):1	55(lobby):1	174(serve):1	230(road):1	383(directly):1	1058(strange):1	1268(wifi):1	1347(plastic):1	3379(container):1	
+0	
+
+<Author>TravelingMx
+<Content>Great choice! nice quality/price ratio and excellent location!       Bed  
+<Date>Oct 1, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+0	
+6	1(location):1	4(nice):1	21(excellent):1	107(choice):1	187(quality):1	4660(ratio):1	
+1	11(bed):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Zundappzundapp
+<Content>Brilliant! This is a modern chain hotel, but the size and quality of the rooms is well above the average. There is an underground car park below the hotel (which is very useful in Berlin!).We stayed for two nights, and the central location made it easy to get around all the major sights. Highly recommended is the Cafe Stressemann just round the corner - sort of old fashioned with great food and ambience - and not expensive!Breakfast in the hotel is a little unusual. It's a help yourself affair in a lounge area and everything comes in little plastic containers kept in chill cabinets. Sometimes you weren't quite sure what it was in the little plastic cups.....All in all a superb hotel to stay in when visiting a very interesting city.  
+<Date>Aug 21, 2008
+<Rating>4	4	5	5	5	3	4	3	
+<Aspects>
+8	23(little):1	41(city):1	65(visit):1	407(superb):1	560(sometimes):1	793(brilliant):1	800(cup):1	1347(plastic):1	
+0	
+14	23(little):1	83(size):1	92(help):1	151(modern):1	187(quality):1	227(average):1	237(lounge):1	576(yourself):1	627(chain):1	1347(plastic):1	1397(chill):1	2563(cabinet):1	3379(container):1	3546(affair):1	
+12	1(location):1	2(night):1	66(park):1	93(easy):1	121(car):1	168(central):1	315(major):1	411(sight):1	585(below):1	746(berlin):1	1085(underground):1	1232(useful):1	
+0	
+0	
+12	6(breakfast):1	15(recommend):1	16(food):1	23(little):1	124(expensive):1	138(highly):1	200(corner):1	275(cafe):1	557(sort):1	957(ambience):1	1610(unusual):1	1745(fashion):1	
+0	
+
+<Author>worldtrvlr8
+<Content>Great Choice, Great Location This hotel is in a great location, within walking distance of Potsdamer Platz, Checkpoint Charlie Museum, Unter den Linden sights, etc. Our room was very spacious, especially by European standards. There were three of us and the bed arrangement (king plus another twin) was perfect. We liked having the toilet and small sink completely separated from the larger bathroom with tub, shower stall and sink. Everything was spotlessly clean. We didn't bother with the breakfast, but there was free coffee along with croissants or rolls in the lobby. The restaurant directly across the street has a good breakfast for less than 5 euros. Computers in the lobby are a nice touch. I would highly recommend this hotel, especially if you need to fit more than two people in a room.  
+<Date>Aug 4, 2008
+<Rating>4	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+22	11(bed):1	13(bathroom):1	15(recommend):1	26(people):1	61(shower):1	74(perfect):1	111(spacious):1	126(especially):2	130(standard):1	138(highly):1	203(plus):1	243(king):1	311(tub):1	330(toilet):1	474(separate):1	509(sink):2	542(completely):1	582(european):1	668(fit):1	690(twin):1	1415(arrangement):1	1701(stall):1	
+14	1(location):2	7(walk):1	73(etc):1	107(choice):1	115(distance):1	411(sight):1	507(museum):1	2705(platz):1	2876(charlie):1	3596(checkpoint):1	3819(potsdamer):1	4143(den):1	4599(linden):1	4742(unter):1	
+2	3(clean):1	1094(spotlessly):1	
+0	
+11	6(breakfast):2	10(restaurant):1	35(street):1	46(free):1	55(lobby):1	90(coffee):1	256(euro):1	307(bother):1	383(directly):1	813(roll):1	1004(croissant):1	
+4	4(nice):1	55(lobby):1	279(touch):1	555(computer):1	
+
+<Author>soyyo
+<Content>Comfortable and stylish Suitehotel offers stylish and very comfortable accommodations at reasonable rates. The rooms are huge (specially for a solo traveler) and very well appointed. The staff is friendly and knowledgeable.Two caveats, however. One is that the breakfast is incredibly overpriced and pretty bad. The coffees are good, but the rest of the food, offered in little plastic cups, borders on gross. The free cake is better. At E.12, it's almost offensive.The other is that you should bring your own shampoo and conditioner - they only offer a combination shower gel/shampoo that doesn't work very well.  
+<Date>Jul 1, 2008
+<Rating>4	4	5	3	4	4	4	4	
+<Aspects>
+2	3713(caveat):1	4350(offensive):1	
+5	6(breakfast):1	50(bad):1	109(pretty):1	727(overprice):1	807(incredibly):1	
+18	25(comfortable):2	61(shower):1	78(rate):1	89(offer):2	126(especially):1	133(huge):1	142(bring):1	166(own):1	267(traveler):1	273(reasonable):1	579(appoint):1	721(accommodation):1	961(stylish):2	1051(shampoo):1	1083(conditioner):1	1929(combination):1	2415(gel):1	3526(solo):1	
+0	
+0	
+3	0(staff):1	12(friendly):1	1160(knowledgeable):1	
+11	16(food):1	23(little):1	46(free):1	89(offer):1	90(coffee):1	288(rest):1	800(cup):1	1029(cake):1	1347(plastic):1	1797(gross):1	2701(border):1	
+0	
+
+<Author>kiwi4ever
+<Content>Very Impressed We have just stayed at this hotel for three nights and are so impressed. Probably one of the nicest, most modern rooms and spotlessly clean. Just across the road from the Anhalter station or a short taxi ride from the Hauptbahnhof.Just a short walk to Checkpoint Charlie and even a shorter to the remaining 200 metres of the Wall. Potsdammer Platz is also within walking distance.Very good Italian restaurant (Ristorante Marinelli) on the corner in the hotel building.  
+<Date>Jun 20, 2008
+<Rating>5	5	5	4	5	5	4	5	
+<Aspects>
+2	2(night):1	343(impress):2	
+0	
+5	3(clean):1	4(nice):1	151(modern):1	178(probably):1	1094(spotlessly):1	
+16	7(walk):2	82(station):1	115(distance):1	144(short):3	183(wall):1	185(taxi):1	218(ride):1	230(road):1	1194(metre):1	1391(remain):1	2705(platz):1	2876(charlie):1	3596(checkpoint):1	6728(hauptbahnhof):1	8081(anhalter):1	12315(potsdammer):1	
+0	
+0	
+5	10(restaurant):1	135(build):1	200(corner):1	358(italian):1	8244(ristorante):1	
+0	
+
+<Author>grace_k_m
+<Content>Great place to spend a few nights in! My cousin and I stayed in this hotel for 2 nights and we were satisfied with this place, very near an undergroun station.The check-in staff was friendly and helpful in giving us tips on what to eat wand where to go. The room, suite rather, was bright and colourful. It was big and clean. The bathroom was amazingly clean as well. A micowave oven was also present in the room. Overall, it was a plesant stay at the Suitehotel!  
+<Date>Jun 5, 2008
+<Rating>5	4	5	4	4	4	4	-1	
+<Aspects>
+2	2(night):1	64(spend):1	
+0	
+9	3(clean):1	13(bathroom):1	70(overall):1	108(suite):1	880(bright):1	1846(amazingly):1	2489(colorful):1	2916(oven):1	5680(plesant):1	
+5	2(night):1	82(station):1	102(near):1	899(satisfy):1	3715(cousin):1	
+1	3(clean):1	
+6	0(staff):1	12(friendly):1	14(helpful):1	47(eat):1	194(tip):1	286(check-in):1	
+0	
+0	
+
+<Author>MetropolitanBelgium
+<Content>Excellent value for money       bathroom  
+<Date>Jun 2, 2008
+<Rating>4	4	5	5	5	5	5	4	
+<Aspects>
+0	
+0	
+4	13(bathroom):1	21(excellent):1	80(money):1	81(value):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Lucky13s
+<Content>Where East met West We have just returned from a 4 night stay at the SuiteHotel in Berlin. This is part of the Accor chain and the Etap and Ibis were adjacent. Conviently situated for Anhalter Bahnhof underground this is certainly not on Potsdamer Platz, as the details suggested and is not the best area in the city. The surrounding area is a bit run down.The room was large and would sleep an extra 2 people on a rollaway and the sofa for an additional charge. The bathroom had bath and a separate shower and as in most Accor hotels the loo was separate. I booked this hotel thinking it had some cooking facilities which allows us extra flexibility; while it had a useful fridge, a kettle and a microwave it certainly is not for self caterers as there was no other eqipment-impossible to do even breakfast with a McDonalds style coffee cup and spatula which came with the 2 sachets of coffee and 2 tea bags left each day. I need to do my research better!The buffet breakfast in the hotel was a reasonable 11 euros but we recommend the Cafe Stresseman opposite where the SuperFruhstuck was excellent value at 4.85. The staff there were very friendly too.Tips for Berlin: Public transport is brilliant. Buy a day ticket or 2/3 day pass for complete freedom. Unless you want to travel outside the city an AB ticket is fine but ABC will get you to Pottsdam which is well worth a visit. If you want to see more than one of the museums on Museum Island buy a Tour card not the Welcome Berlin card; we got it wrong and were frustrated that the more expensive card did not provide the discounts we wanted. The Egyptian gallery was fabulous, not just the Nefertiti head.A visit to the house where the 1943 Wannsee meeting took place to discuss the Final Solution is an interesting and moving experience. A bus from the station-was it 114?- takes you to the door and back and entrance to the exhibition is free. You could stop off at Grunewald and spend a few minutes on Platform 17 where the Jewish transports left Berlin for the camps. This was an unexpected and poignant find.Enjoyed Berlin and its fascinating history; the hotel was a bit of a disappointment after our last German experience.  
+<Date>Jun 1, 2008
+<Rating>3	3	3	2	4	3	3	-1	
+<Aspects>
+16	8(day):2	270(fabulous):1	280(buy):1	319(head):1	400(pass):1	621(ticket):1	622(complete):1	627(chain):1	1024(research):1	1061(adjacent):1	1794(gallery):1	2372(unexpected):1	3652(freedom):1	3757(ibis):1	6275(accor):1	7576(egyptian):1	
+26	44(experience):2	51(enjoy):1	52(bit):1	65(visit):1	124(expensive):1	153(provide):1	181(tour):1	196(meet):1	202(welcome):1	207(move):1	280(buy):1	281(house):1	292(card):3	342(island):1	427(wrong):1	507(museum):2	746(berlin):2	864(discount):1	866(disappointment):1	1337(final):1	1382(german):1	1490(history):1	1574(frustrate):1	2690(discuss):1	2800(solution):1	3417(fascinate):1	
+19	2(night):1	13(bathroom):1	26(people):1	39(return):1	61(shower):1	104(sleep):1	128(extra):1	136(charge):1	196(meet):1	226(bath):1	474(separate):2	746(berlin):1	835(additional):1	842(sofa):1	948(east):1	953(west):1	2952(rollaway):1	3927(loo):1	6275(accor):1	
+35	29(minute):1	41(city):2	43(leave):1	52(bit):1	64(spend):1	65(visit):1	68(travel):1	96(worth):1	98(outside):1	113(fine):1	120(bus):1	122(stop):1	149(run):1	194(tip):1	379(public):1	405(unless):1	452(suggest):1	574(situate):1	592(detail):1	621(ticket):1	667(surround):1	742(transport):2	746(berlin):2	793(brilliant):1	1085(underground):1	2051(abc):1	2087(camp):1	2705(platz):1	3509(platform):1	3819(potsdamer):1	6251(ab):1	6785(jewish):1	6934(bahnhof):1	8081(anhalter):1	9879(conviently):1	
+0	
+6	0(staff):1	12(friendly):1	46(free):1	54(door):1	490(entrance):1	4808(exhibition):1	
+29	6(breakfast):2	8(day):1	15(recommend):1	18(book):1	21(excellent):1	43(leave):1	77(buffet):1	81(value):1	90(coffee):2	128(extra):1	211(facility):1	256(euro):1	273(reasonable):1	275(cafe):1	290(bag):1	301(tea):1	318(fridge):1	326(style):1	359(allow):1	550(cook):1	783(opposite):1	800(cup):1	820(microwave):1	1232(useful):1	1314(self):1	1944(kettle):1	2524(mcdonalds):1	5963(flexibility):1	6547(sachet):1	
+0	
+
+<Author>daSVGrouch
+<Content>Turn down the hallway lights A Mercure hotel that was overbooked sent me to this hotel. The room layout is interesting. As I entered, there was a WC on my right, and about 4 meters around the corner to the right was the bathroom with both a tub and shower, and of course the sink. They publicly pride themselves on separating the tub and shower, but fail to mention the distance to the WC. The bed was very firm, and covered with a single comforter. The television was a challenge to operate with the remote or the front panel buttons. Two pieces of chocolate, assorted tea bags and coffees rounded out the welcoming. Some floors have Vodafone WLAN, but most do not. I found myself sitting in front of the fire escape door two floors up from my reserved room to access my mail. The hallway lights are extremely bright. If you are having trouble reading in your room, step out into the hallway. Somebody needs to talk about conservation.A continental breakfast was included. It consisted of cereal and some small tubs of protein and fruit. Make sure you let the automated coffee maker fully complete its task or you will be sprayed with coffee. The room is a bit spartan, and better internet coverage is needed, but otherwise this hotel is OK.  
+<Date>Mar 8, 2008
+<Rating>3	3	3	-1	4	4	3	1	
+<Aspects>
+2	371(talk):1	9008(conservation):1	
+0	
+53	11(bed):1	13(bathroom):1	24(floor):2	31(front):2	52(bit):1	54(door):1	61(shower):2	88(read):1	97(internet):1	110(extremely):1	115(distance):1	123(ok):1	157(light):2	159(access):1	169(sit):1	200(corner):1	244(mention):1	293(course):1	304(single):1	311(tub):2	366(step):1	447(send):1	474(separate):1	506(reserve):1	508(otherwise):1	509(sink):1	552(cover):1	569(trouble):1	580(hallway):3	601(enter):1	880(bright):1	1059(themselves):1	1158(television):1	1194(metre):1	1262(fire):1	1272(remote):1	1368(firm):1	1453(layout):1	1576(fail):1	1601(escape):1	1623(operate):1	1694(comforter):1	1708(challenge):1	2068(overbooke):1	2134(panel):1	2142(button):1	2446(mail):1	2843(pride):1	3662(spartan):1	3976(wc):2	4518(mercure):1	7752(coverage):1	10937(wlan):1	
+5	215(fruit):1	311(tub):1	529(cereal):1	1185(consist):1	7692(protein):1	
+0	
+0	
+16	6(breakfast):1	71(include):1	90(coffee):3	202(welcome):1	290(bag):1	301(tea):1	372(continental):1	622(complete):1	632(chocolate):1	941(piece):1	996(maker):1	1099(spray):1	3592(task):1	3923(round):1	3968(assorted):1	5699(automate):1	
+0	
+
+<Author>CTJohn
+<Content>Great hotel/ hard bed We stayed at this hotel for seven nights in December. The location is great, neat Potsdamer Platz and Friedreichstrasse. It was an easy walk to all the major sights in eastern Berlin.The hotel is relatively new and is extremely clean and well run. The staff is very polite and friendly and the desk personnel will do anything you ask. The only negative is that the beds are VERY hard- like sleeping on a futon. If you are used to conventional matresses, you may find this uncomfortable. In fact we slept poorly for the first three nights. If you are used to a hard bed or futon you will love the hotel. I would hesitate staying again simply because of the bed.  
+<Date>Dec 12, 2007
+<Rating>4	5	2	5	5	5	5	5	
+<Aspects>
+3	856(uncomfortable):1	3298(matress):1	8246(conventional):1	
+0	
+11	2(night):2	11(bed):4	40(love):1	104(sleep):2	162(hard):3	282(negative):1	488(simply):1	902(hesitate):1	993(december):1	1635(poorly):1	7961(futon):2	
+10	1(location):1	7(walk):1	93(easy):1	315(major):1	411(sight):1	746(berlin):1	1286(neat):1	2705(platz):1	3004(eastern):1	3819(potsdamer):1	
+4	3(clean):1	110(extremely):1	149(run):1	913(relatively):1	
+5	0(staff):1	12(friendly):1	36(desk):1	422(polite):1	1457(personnel):1	
+0	
+0	
+
+<Author>PallasParis
+<Content>Great room, would go back I liked very much the room and the location but can鈥檛 say I loved the hotel.Indeed, I don鈥檛 care very much for the nonchalant and superior attitude of the hotel young receptionists or the 鈥渕odern鈥?breakfast that had me queuing for supermarket-like items. I also didn鈥檛 like the smoke smell in the corridors of 鈥渘on-smoking鈥?floors. The room, however, was fantastic and smoke-free ! It had a double comfortable bed, although a single room. I really enjoyed the room, quite large by European standards, a real suite, where you can separate the 鈥渓iving room鈥?from the bedroom. The bathroom was great, both a shower and the most comfortable bathtub I鈥檝e ever lain in, lots of room. The WC is separate. The water rooms have a boat decoration with wooden floors. Closets are narrow but there鈥檚 two of them, so no problem in hanging all of your clothes. The office desk is quite large, all the furniture is on wheels so you can move things around and you have a couch to lie on and relax while watching TV. The subway is just around the corner. They didn't want to take my ACCOR card...but in general, I鈥檒l certainly go back when in Berlin.  
+<Date>Dec 4, 2007
+<Rating>4	4	5	4	3	2	2	3	
+<Aspects>
+7	200(corner):1	292(card):1	370(subway):1	474(separate):1	746(berlin):1	3976(wc):1	6275(accor):1	
+0	
+35	1(location):1	11(bed):1	13(bathroom):1	24(floor):1	25(comfortable):2	36(desk):1	38(lot):1	40(love):1	51(enjoy):1	57(water):1	61(shower):1	86(fantastic):1	108(suite):1	116(tv):1	130(standard):1	160(relax):1	179(double):1	207(move):1	240(real):1	245(watch):1	268(bedroom):1	304(single):1	440(furniture):1	474(separate):1	582(european):1	674(boat):1	792(office):1	1023(bathtub):1	1166(lie):2	1192(couch):1	1580(decoration):1	1756(wooden):1	2495(wheel):1	2839(ive):1	7514(smoke-free):1	
+4	478(hang):1	565(closet):1	709(clothe):1	1207(narrow):1	
+5	24(floor):1	231(smell):1	468(smoke):1	1022(didn):1	1073(corridor):1	
+10	6(breakfast):1	242(care):1	519(item):1	785(superior):1	821(attitude):1	855(receptionist):1	908(don):1	990(indeed):1	1463(queue):1	11900(nonchalant):1	
+0	
+0	
+
+<Author>bulldog19
+<Content>Fab hotel amazing staff great location Stayed here beginning of Nov, superb. Was in an excellent position only 5 min walk from potsdamer platz, 5 mins from checkpoint charlie, 15 mins from bradenburg gate and reichstag. Rooms are modern but really spacious with lovely bathroom and super comfartable bed. Staff were very helpful.  We are going back, if you want a reasonably priced hotel in Berlin then this is perfect.  
+<Date>Nov 19, 2007
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+0	
+4	19(price):1	74(perfect):1	578(reasonably):1	746(berlin):1	
+6	11(bed):1	13(bathroom):1	87(lovely):1	111(spacious):1	151(modern):1	464(super):1	
+17	0(staff):1	1(location):1	7(walk):1	21(excellent):1	145(amaze):1	247(min):3	407(superb):1	551(begin):1	992(gate):1	1093(position):1	1216(fab):1	1763(nov):1	2705(platz):1	2876(charlie):1	3596(checkpoint):1	3819(potsdamer):1	4598(reichstag):1	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>JonnyLux
+<Content>Suite idea - give it a go! OK, so it's a bland chain hotel, but at least it's a bland chain hotelwith a difference. I really like the suite concept; when you're awayfrom home for more than just a night or two, you really begin to appreciate the extra space and options that the Suitehotel offers you.Location is excellent as well - less than 10 minutes walk away from (the incredible) Potsdamer Platz and about 15 from the Brandenburg Gate. I'd stay there again.  
+<Date>Nov 10, 2007
+<Rating>3	4	5	4	4	3	3	4	
+<Aspects>
+4	123(ok):1	627(chain):2	819(difference):1	1819(bland):2	
+0	
+11	2(night):1	89(offer):1	108(suite):2	128(extra):1	141(home):1	210(space):1	336(option):1	500(appreciate):1	551(begin):1	639(idea):1	2354(concept):1	
+9	1(location):1	7(walk):1	21(excellent):1	29(minute):1	718(incredible):1	992(gate):1	2705(platz):1	3550(brandenburg):1	3819(potsdamer):1	
+0	
+0	
+0	
+0	
+
+<Author>proodle
+<Content>Functional with a great location Great location - just 5 minutes walk to Potsdamer Platz and very near a underground station and bus links. A very large room - a rather odd set-up (microwave, separate airline-style toilet, sliding blinds to divide your room into a sleeping and living area) but functional.Unfortunately no restaurant in the hotel, but they said I could go next door to the Ibis hotel. Also no free wifi access.Would recommend to those who want a basic room in a central location...but without any frills.  
+<Date>Oct 25, 2007
+<Rating>2	4	3	5	3	3	3	3	
+<Aspects>
+0	
+0	
+16	1(location):1	15(recommend):1	104(sleep):1	168(central):1	206(live):1	330(toilet):1	352(basic):1	474(separate):1	820(microwave):1	1088(odd):1	1142(slide):1	1348(functional):1	1839(blind):1	2210(frill):1	3395(divide):1	4117(set-up):1	
+11	1(location):2	7(walk):1	29(minute):1	82(station):1	102(near):1	120(bus):1	1085(underground):1	1348(functional):1	1727(link):1	2705(platz):1	3819(potsdamer):1	
+0	
+0	
+4	10(restaurant):1	54(door):1	524(unfortunately):1	3757(ibis):1	
+3	46(free):1	159(access):1	1268(wifi):1	
+
+<Author>Jerseymick
+<Content>Decent Hotel what did the job       view from hotel room  
+<Date>Oct 12, 2007
+<Rating>3	3	4	4	4	3	3	-1	
+<Aspects>
+0	
+0	
+3	17(view):1	257(decent):1	481(job):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>My-View-on-things
+<Content>Like having a Whopper meal       evening shot of hotel entrance  
+<Date>Sep 25, 2007
+<Rating>3	3	4	4	3	3	3	3	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+3	213(meal):1	490(entrance):1	1778(shoot):1	
+0	
+0	
+
+<Author>jonev
+<Content>impressed by the Suitehotel Our stay was only for a few days, but we found everything to be as advertised on the hotel website. We found the size of the room more than adequate, and the decor was very modern. All areas of the hotel were very clean. The location was excellent for sightseeing, only about 5 minutes walk to the city centre. We would certainly stay here again.  
+<Date>Sep 25, 2007
+<Rating>4	5	4	5	5	4	3	3	
+<Aspects>
+0	
+0	
+8	8(day):1	83(size):1	151(modern):1	262(website):1	269(decor):1	343(impress):1	390(adequate):1	910(advertise):1	
+7	1(location):1	7(walk):1	21(excellent):1	29(minute):1	41(city):1	101(center):1	640(sight-see):1	
+1	3(clean):1	
+0	
+0	
+0	
+
+<Author>minibargrrl
+<Content>Good location, Huge rooms, Community A/C We stayed at the Suitehotel for four nighs in July 2007. The rooms are well appointed and very large by European standards. The first night, we stayed on the street side, which wa s big mistake. unfortunately, the air conditioning system is on an all-hotel timer, so it won't turn on unless the lobby (lowest floor of the hotel) is at least 75 degrees. Unfortunately, if the lobby is 75, the third florr is 90 degrees! If youopen your window for circulation, you are bit by serious bugs and the street noise is so loud!We asked for a quieter room (the people at the front desk were accomadating) and we were so much happier onthe courtyard side It was cooler on th efirst floor and much quiter - yay!There is a nice assortment of snacks in the lobby and free internet on the two computers. Great water pressure in the showers and bathubs too!Great location, close to the metro, restaurants, and the train station.  
+<Date>Sep 17, 2007
+<Rating>4	4	4	4	4	4	4	4	
+<Aspects>
+0	
+0	
+40	1(location):1	24(floor):2	26(people):1	31(front):1	35(street):1	36(desk):1	52(bit):1	55(lobby):1	57(water):1	58(quiet):1	61(shower):1	94(noise):1	119(window):1	130(standard):1	133(huge):1	155(happy):1	164(air):1	263(condition):1	278(cool):1	405(unless):1	416(loud):1	435(courtyard):1	487(wo):1	513(low):1	518(system):1	524(unfortunately):1	579(appoint):1	582(european):1	602(bug):1	686(pressure):1	1252(degree):1	1469(serious):1	2505(th):1	3502(community):1	3614(accomadate):1	4108(timer):1	6352(circulation):1	6833(quiter):1	9107(yay):1	10030(onthe):1	
+10	1(location):1	2(night):1	10(restaurant):1	28(close):1	35(street):1	82(station):1	182(train):1	235(metro):1	895(mistake):1	4851(wa):1	
+0	
+0	
+4	55(lobby):1	524(unfortunately):1	532(third):1	1252(degree):1	
+7	4(nice):1	46(free):1	55(lobby):1	97(internet):1	406(snack):1	555(computer):1	2761(assortment):1	
+
+<Author>jasondoes1
+<Content>Excelent hotel, great value. Perfect base for sightseeing Stayed 4 nights (infact I am writing this reveiw on the 3rd night using the hotel free internet access). The hotel is located about 600m from postdamer platz but the anhalter ubhan station is directly outside the hotel if you dont fancy the walk. There is also a bus route that passes directly past the hotel which takes you to the k眉fenstendamm shopping area and also the zoo (which i can recomend)The room is bright, cheerful and and well appointed, although the room contains a microwave and a fridge there are no actual plates or cutlery provided in the room (although I have noticed in the hotel guide that this can be provided). Having a seperate toilet to the bath/shower area is fantastic, although the toilet itself is contained within a small pre-fabricated pod so guests of a large size may find this a cramped space, also those of a closterphobic nature may need to leave the toilet door open. This is a very quiet and relaxed hotel, our room overlooks the main road - stressmanstra脽e so having the window open can provide some noise. THere is a small area in the hotel lobby where zou can buy snacks, there is also a Aldi supermarket located round the corner although this is a very low class supermarket but handy for fruit, drinks and snacks.  
+<Date>Sep 15, 2007
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+0	
+2	81(value):1	3835(excelent):1	
+21	43(leave):1	54(door):1	58(quiet):1	83(size):1	86(fantastic):1	91(guest):1	94(noise):1	112(main):1	119(window):1	153(provide):1	160(relax):1	210(space):1	226(bath):1	230(road):1	260(overlook):1	330(toilet):3	1080(cramp):1	1416(seperate):1	1545(contain):1	1986(nature):1	7361(pod):1	
+38	7(walk):1	49(shop):1	55(lobby):1	63(drink):1	82(station):1	84(locate):2	98(outside):1	120(bus):1	153(provide):2	200(corner):1	215(fruit):1	280(buy):1	318(fridge):1	354(notice):1	383(directly):2	400(pass):1	406(snack):2	419(past):1	470(class):1	503(dont):1	513(low):1	579(appoint):1	755(handy):1	796(fancy):1	820(microwave):1	829(guide):1	880(bright):1	1002(plate):1	1035(route):1	1078(supermarket):2	1420(recomend):1	1511(zoo):1	1536(actual):1	1545(contain):1	1720(cheerful):1	2705(platz):1	3182(cutlery):1	8081(anhalter):1	
+0	
+0	
+0	
+11	2(night):2	46(free):1	74(perfect):1	97(internet):1	159(access):1	284(base):1	344(write):1	640(sight-see):1	2097(3rd):1	4096(infact):1	10350(reveiw):1	
+
+<Author>HappyTravels00
+<Content>Great Location and Clean!! Very clean, rooms looked like a room on a cruise ship. Lots of electrical outlets, separate toilet from bathroom. Comfy bed. Bring bar soap as they only have liquid soap to cleanse. Extremely quiet and in walking distance of Postdamer, Checkpoint Charlies and some great restaurants. We ate at Block House one night and across the street for breakfast. Quiet street but close to anything. Only 85 Euro per night for Labor Day weekend. Ingmar, the night concierge was friendly, gracious and so helpful.  
+<Date>Sep 4, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	2(night):1	8(day):1	172(weekend):1	256(euro):1	3131(labor):1	
+0	
+28	2(night):1	3(clean):1	6(breakfast):1	7(walk):1	10(restaurant):1	11(bed):1	13(bathroom):1	20(look):1	27(bar):1	35(street):1	38(lot):1	47(eat):1	58(quiet):1	100(bloc):1	110(extremely):1	115(distance):1	142(bring):1	281(house):1	330(toilet):1	474(separate):1	475(comfy):1	603(cruise):1	965(soap):2	1392(ship):1	1689(outlet):1	2555(electrical):1	3596(checkpoint):1	3838(liquid):1	
+5	1(location):1	3(clean):1	28(close):1	35(street):1	58(quiet):1	
+0	
+5	2(night):1	12(friendly):1	14(helpful):1	204(concierge):1	1501(gracious):1	
+0	
+0	
+
+<Author>Mathematica
+<Content>Good value base for sightseeing As other reviews say, well located - the M41 bus from the Hauptbanhoft stops close by, passing many of the main sights as it goes. The studio appartment style of room gave more space than normal for the price, and although the kitchenette / bathroom facilities are clearly a prefabricated pod, they were comfortable, with both a bath and a shower. It made a pleasant change to be able to make our own coffee. There is also a reasonable sized (though again, plasticy), table to sit at.Colour scheme in room and corridors bright and cheerful.Breakfast is odd - lots of plastic pots with little selections of fruit / cheese / breads etc in, but also some unpackaged stuff. Claims to be cleverly nutritionally balanced, but I prefer the normal buffet.Computer use is free, but they get busy.Warning on arrival: The location is not actually Potsdamer Platz - but a block a way from the glass skyscrapers, in a pleasant street opposite Anhalter S bahn. We did not think the free drink voucher to encourage you to have a meal at the Ibis restaurant next door made up for slow service and mediocre food there - the Italian in the other direction was better.  
+<Date>Sep 1, 2007
+<Rating>4	4	4	5	3	2	3	4	
+<Aspects>
+0	
+0	
+22	13(bathroom):1	19(price):1	25(comfortable):1	61(shower):1	83(size):1	169(sit):1	210(space):1	211(facility):1	226(bath):1	229(table):1	273(reasonable):1	326(style):1	878(normal):1	880(bright):1	942(color):1	1073(corridor):1	1165(kitchenette):1	1445(studio):1	1720(cheerful):1	3359(scheme):1	5034(appartment):1	7361(pod):1	
+25	1(location):1	28(close):1	35(street):1	37(review):1	81(value):1	84(locate):1	100(bloc):1	112(main):1	120(bus):1	122(stop):1	150(pleasant):1	180(actually):1	224(arrival):1	284(base):1	327(glass):1	400(pass):1	411(sight):1	640(sight-see):1	679(warn):1	783(opposite):1	2705(platz):1	3406(bahn):1	3819(potsdamer):1	4476(skyscraper):1	8081(anhalter):1	
+0	
+0	
+37	6(breakfast):1	9(service):1	10(restaurant):1	16(food):1	23(little):1	38(lot):1	46(free):2	54(door):1	63(drink):1	73(etc):1	90(coffee):1	150(pleasant):1	161(change):1	166(own):1	171(able):1	213(meal):1	215(fruit):1	220(busy):1	333(selection):1	358(italian):1	395(direction):1	441(cheese):1	455(slow):1	480(stuff):1	497(bread):1	536(prefer):1	878(normal):1	1077(claim):1	1088(odd):1	1340(mediocre):1	1347(plastic):1	1447(pot):1	1750(voucher):1	2241(encourage):1	2425(balance):1	3757(ibis):1	7228(cleverly):1	
+0	
+
+<Author>Whiskyhunter
+<Content>All you could ever want for a reasonably priced hotel! We were on a sampler break of two nights and wanted somewhere reasonably priced and fairly central but not a fleapit! We found just the place. We booked online and found that the Accor Hotels website had the cheapest prices and paid about 拢53/night for a double. The hotel itself is located on a street with several other Accor Hotels. The Suitehotel is located directly accross the road fron the Anhalstr Str. U-bahn station so access is excellent. Incidentally, individual trips on public transport are 1.1 Euros but an all day tiket valid for all the different types of public transport is only 6.2 Euros so make sure you get one of these if you're making more than two trips! The hotel is modern, clean and tidy, and looks quite new. The receptionists all spoke good english, though not all were german. The room itself was spotless and a good size. The toilet is separate from the bathroom, which had both bath and separate shower cubicle. There was also a kettle with tea/coffee and a microwave oven - handy if you are on a tight budget. We'd got a triple room for the same price when we booked which gave us quite a lot of extra space I expect. We only tried the bar in the hotel (which can be recommended!) and did not eat there. The menu looked alright but we fancied something a little more 'local' out in the city. Breakfast is pricey. They do an all you can eat buffet for 12 Euros. Needless to say we skipped this! There is actually a bar/cafe directly accross the street which sells set breakfast at 8 Euros and if you venture into town you can get some impressively large piles of food and a coffee for about the same, and there are many cheaper options.I can't fault this place and would not have batted an eyelid if I'd been charged twice as much for the same quality elsewhere (it would be uncompetative if more expensive in Berlin). Highly recommended!  
+<Date>Aug 24, 2007
+<Rating>5	5	5	4	5	4	4	-1	
+<Aspects>
+12	15(recommend):1	20(look):1	23(little):1	41(city):1	47(eat):1	138(highly):1	195(local):1	423(menu):1	796(fancy):1	1356(needless):1	1429(skip):1	2130(all right):1	
+24	2(night):1	6(breakfast):1	18(book):1	19(price):3	42(pay):1	124(expensive):1	136(charge):1	143(cheap):1	168(central):1	179(double):1	187(quality):1	228(break):1	262(website):1	347(twice):1	462(fairly):1	517(fault):1	546(pricey):1	578(reasonably):2	646(elsewhere):1	746(berlin):1	822(online):1	4706(bat):1	6275(accor):1	12389(sampler):1	
+21	13(bathroom):1	18(book):1	19(price):1	38(lot):1	61(shower):1	62(expect):1	83(size):1	84(locate):1	128(extra):1	210(space):1	226(bath):1	230(road):1	330(toilet):1	383(directly):1	474(separate):2	548(spotless):1	1553(triple):1	2650(accross):1	3617(cubicle):1	6114(fron):1	11092(str):1	
+16	8(day):1	21(excellent):1	33(trip):2	35(street):1	82(station):1	84(locate):1	159(access):1	256(euro):2	379(public):2	389(type):1	742(transport):2	1596(individual):1	2164(u-bahn):1	4438(valid):1	4593(incidentally):1	6275(accor):1	
+4	3(clean):1	20(look):1	151(modern):1	1100(tidy):1	
+4	127(speak):1	152(english):1	855(receptionist):1	1382(german):1	
+28	6(breakfast):1	15(recommend):1	16(food):1	27(bar):2	35(street):1	47(eat):1	77(buffet):1	90(coffee):1	143(cheap):1	180(actually):1	234(set):1	239(town):1	253(tried):1	256(euro):2	301(tea):1	336(option):1	383(directly):1	429(budget):1	606(sell):1	755(handy):1	820(microwave):1	1399(tight):1	1440(venture):1	1944(kettle):1	2650(accross):1	2886(pile):1	2916(oven):1	10240(impressively):1	
+0	
+
+<Author>Vince777
+<Content>Good value hotel As said in the others reviews, this hotel has spacious rooms, a nice location across the subway and 10mn walk to Posdamer Platz. I would definitively recommand it! The free croissants in the morning are good! The only negative point is the elevators which are very slow; Try to get a room in the first floor because you probably will have to use the stairs sometimes!  
+<Date>Aug 22, 2007
+<Rating>4	4	4	4	3	3	4	4	
+<Aspects>
+2	5778(recommand):1	7253(definitively):1	
+0	
+8	24(floor):1	76(try):1	178(probably):1	216(elevator):1	282(negative):1	455(slow):1	560(sometimes):1	568(stair):1	
+8	1(location):1	4(nice):1	7(walk):1	37(review):1	81(value):1	111(spacious):1	370(subway):1	2705(platz):1	
+0	
+0	
+3	46(free):1	56(morning):1	1004(croissant):1	
+0	
+
+<Author>scudman
+<Content>Solid Excellent, clean, well-located hotel. The room was pretty much perfect and the bathroom was spotless. Location is a quick waltz from the Potsdamer Platz and many other famous sights in Berlin. Very friendly staff and decent continental breakfast. Terrible smoke in the lobby was the only negative.  
+<Date>Jul 24, 2007
+<Rating>4	4	5	4	5	5	4	-1	
+<Aspects>
+0	
+0	
+4	13(bathroom):1	74(perfect):1	109(pretty):1	548(spotless):1	
+11	1(location):1	3(clean):1	21(excellent):1	299(quick):1	411(sight):1	746(berlin):1	1296(famous):1	1617(solid):1	2705(platz):1	3819(potsdamer):1	3858(well-locate):1	
+4	55(lobby):1	282(negative):1	432(terrible):1	468(smoke):1	
+5	0(staff):1	6(breakfast):1	12(friendly):1	257(decent):1	372(continental):1	
+0	
+0	
+
+<Author>Andrew_McQuilly
+<Content>A word of warning I had booked a room through the company's own web-site, and specified a room with three beds when booking a triple. The written email confirmation stated a room with a double and two singles.Me and my two companions arrived at 10:30 at night and were given the room key, where we discovered that there was a double and a single bed.On querying this at reception, I was told that they only received information on the number of occupants and allocated a room accordingly (a triple in this case rather than a quad in the case of a double and two singles). Although I presented the written email confirmation, the receptionist told me they were fully booked and the best they could do was to provide some additional blankets.I felt the receptionists response was poor and asked to see the manager.The manager couldn't have been more helpful. He phoned around other Accor hotels around Berlin and transferred our booking to the Novotel Tiergarten at no extra charge (two twin rooms), and gave us a free drink while we waited for the free taxi transfer.The manager's response and attitude was excellent.However, I felt let down that a. either the booking system doesn't provide you with the room that you think you booked, or the receptionist just lied because they'd given our room to someone else.b. the suitehotel's rooms looked great and there was a really nice atmosphere in the bar - and we were transfered to a 'better' (more starchy and less fun) hotel. Kind of like getting a steak after you'd been craving that cheeseburger you'd ordered.In fairness, this hotel deserves more than one tripadvisor star, but I wanted to get your attention - if you think you might need to, make sure you send an email to confirm exactly what you have booked.  
+<Date>Jul 9, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+24	2(night):1	4(nice):1	11(bed):2	18(book):2	20(look):1	27(bar):1	53(arrive):1	166(own):1	176(fun):1	179(double):2	304(single):2	339(key):1	344(write):1	414(atmosphere):1	571(word):1	679(warn):1	760(company):1	869(discover):1	1553(triple):1	1641(confirmation):1	2998(companion):1	3449(specify):1	5758(web-site):1	6716(transfere):1	
+14	18(book):1	46(free):2	63(drink):1	85(wait):1	128(extra):1	136(charge):1	185(taxi):1	296(phone):1	690(twin):1	746(berlin):1	1021(transfer):2	3002(novotel):1	5916(tiergarten):1	6275(accor):1	
+0	
+30	14(helpful):1	18(book):3	21(excellent):1	34(feel):2	69(tell):2	129(reception):1	153(provide):2	170(else):1	179(double):1	258(manager):3	302(receive):1	304(single):1	331(poor):1	335(numb):1	344(write):1	518(system):1	649(information):1	821(attitude):1	835(additional):1	855(receptionist):3	1166(lie):1	1330(response):2	1369(blanket):1	1553(triple):1	1641(confirmation):1	1974(allocate):1	3041(query):1	3200(quad):1	3265(occupant):1	3508(accordingly):1	
+12	18(book):1	103(star):1	447(send):1	586(exactly):1	597(tripadvisor):1	660(steak):1	726(attention):1	982(confirm):1	1072(deserve):1	4072(fairness):1	4648(crave):1	4756(cheeseburger):1	
+0	
+
+<Author>newyorkanya
+<Content>Perfect Choice for a Cheap Stay This is probably the nicest hotel at this price/category I have ever stayed at. It麓s brand new and clean and centrally located. The staff are nice and there are two fast computers (with printers!) right in the lobby which are on 24 hours. As well, there are some great touches: delicious croissants and coffee in the lobby for morning take-away, bedside lamps and a kettle bedrooms. Breakfast is self-serve from a cafeteria area in the lobby but is fine (nothing fancy: stuff like cereal, coffee, yogurt, cheese and fresh bread rolls).It麓s a 2 minute walk to one of the museums, a 7 minute walk to Potsdamer Platz where there are loads of movies and cafes and about 10 minutes to Fredrich Strasser which has some great shopping and is near various classic Berlin restaurants and cafes. I came here for work but may well come back for a vacation.  
+<Date>Jul 5, 2007
+<Rating>5	5	5	5	5	5	4	5	
+<Aspects>
+0	
+7	4(nice):1	19(price):1	74(perfect):1	107(choice):1	131(vacation):1	143(cheap):1	178(probably):1	
+11	55(lobby):1	56(morning):1	90(coffee):1	268(bedroom):1	279(touch):1	485(delicious):1	1004(croissant):1	1622(lamp):1	1944(kettle):1	2298(bedside):1	9803(take-away):1	
+18	3(clean):1	7(walk):2	10(restaurant):1	29(minute):3	49(shop):1	84(locate):1	102(near):1	275(cafe):2	507(museum):1	746(berlin):1	823(various):1	879(centrally):1	883(brand):1	886(load):1	989(movie):1	1789(classic):1	2705(platz):1	3819(potsdamer):1	
+0	
+0	
+15	6(breakfast):1	55(lobby):2	60(hour):1	90(coffee):1	113(fine):1	197(fresh):1	441(cheese):1	480(stuff):1	497(bread):1	529(cereal):1	796(fancy):1	813(roll):1	927(yogurt):1	3995(cafeteria):1	5948(self-serve):1	
+5	0(staff):1	4(nice):1	499(fast):1	555(computer):1	2328(printer):1	
+
+<Author>Dubskin
+<Content>cheap I stayed for three nights at the Suitehotel during a work trip to Berlin. It is part of an almost entire street full of Accor Hotel brands. From the budget option Etap to IBIS and then the Suitehotel (being the most 鈥渦pmarket鈥?one). The room was booked directly with the hotel at the very good rate of 鈧?0/night including breakfast (or what passes as breakfast at the hotel but more about that later).I was a bit taken aback when the receptionist told me 鈥渁t the Suitehotel you always pay in advance鈥? Well as customer I tend to pay once I received the appropriate service. That鈥檚 why normally hotels take an imprint of you credit card but the Suitehotel insists on full payment upfront. Strange tactics but I guess they are catering to the lower end of the market鈥?The room itself was large(ish) containing a desk, sofa and bed. In addition it had a fridge (normal mini bar size), microwave and sink.I have to admit that I failed to see anything that resembled any hotel suite I have ever stayed in but I guess for 鈧?0 one can鈥檛 expect too much. The strangest part of the room was the prefabricatedplastic pod in the room that contained the bathroom, toilet and kitchen element. It was something straight of outer space. The plasticky walls made the whole thing feel cheap. Not a good design. The kitchen element was lacking any plates or cutlery and there was no suggestion as to where you could get it.The bed was large but unfortunately covered in nylon bed linen. Thereis no excuse these days for nylon, ever! The biggest let down with regard to the room however was the air-conditioning. Despite being set to the lowest temperature it failed to cool the room to an adequate level. My suspicion is that this is just a fan rather than aircon system. During my stay it was 32c in Berlin so aircon was a must. Opening the windows at night was not an option either as there is a bar/nightclub entrance at the back of the hotel with people causing all sorts of noise all night long.As I mentioned breakfast was included in the rate and what the Suitehotel tries to pass off as breakfast was a complete mess. They are obviously trying to be innovative but it doesn鈥檛 work so food comes in miniscule prepared plastic pots containing odd combinations like chorizo with pepper salad etc. You end up with a mountain of plastic refuse and still feel hungry. The breakfast area is also far too small to cater for the number of hotel guest so trying to get a seat was a nightmare. Usually breakfast in German hotels is great but this was very unsatisfactory.Having said all that the hotel is very cheap, clean and well linked by public transport. The area it is in is a bit dead but the S-Bahn from Anhalter Bahnhof or S and U-Bahn from Potsdamer Platz take you to the more interesting areas of Berlin.  
+<Date>Jul 2, 2007
+<Rating>2	4	2	3	3	3	3	-1	
+<Aspects>
+17	8(day):1	34(feel):1	52(bit):1	516(design):1	746(berlin):1	1103(refuse):1	1347(plastic):1	1381(hungry):1	1509(mountain):1	1621(dead):1	1965(excuse):1	2164(u-bahn):1	2705(platz):1	2821(s-bahn):1	3819(potsdamer):1	6934(bahnhof):1	8081(anhalter):1	
+3	34(feel):1	143(cheap):1	183(wall):1	
+73	2(night):3	6(breakfast):2	11(bed):3	13(bathroom):1	26(people):1	27(bar):1	33(trip):1	36(desk):1	62(expect):1	71(include):1	76(try):1	78(rate):1	94(noise):1	108(suite):1	119(window):1	143(cheap):1	210(space):1	234(set):1	244(mention):1	264(market):1	278(cool):1	292(card):1	306(level):1	330(toilet):1	336(option):2	349(lack):1	390(adequate):1	400(pass):1	429(budget):1	461(kitchen):2	469(guess):2	490(entrance):1	498(despite):1	513(low):1	518(system):1	524(unfortunately):1	552(cover):1	557(sort):1	622(complete):1	630(linen):1	659(credit):1	661(fan):1	746(berlin):2	777(lour):1	827(straight):1	842(sofa):1	921(suggestion):1	930(regard):1	943(cause):1	944(temperature):1	1000(cater):1	1002(plate):1	1058(strange):2	1091(normally):1	1282(admit):1	1495(insist):1	1545(contain):2	1576(fail):2	1644(mess):1	2257(aircon):2	2284(air conditioning):1	2645(payment):1	3182(cutlery):1	3232(element):2	3497(resemble):1	3757(ibis):1	4244(ish):1	4591(outer):1	4911(upfront):1	7361(pod):1	8510(suspicion):1	8895(tactic):1	8933(imprint):1	
+16	3(clean):1	6(breakfast):1	35(street):1	76(try):1	91(guest):1	143(cheap):1	329(entire):1	335(numb):1	379(public):1	504(seat):1	742(transport):1	883(brand):1	1000(cater):1	1534(nightmare):1	1727(link):1	6275(accor):1	
+0	
+11	9(service):1	42(pay):2	52(bit):1	69(tell):1	302(receive):1	428(customer):1	685(advance):1	855(receptionist):1	1053(tend):1	2421(appropriate):1	6133(aback):1	
+33	6(breakfast):3	16(food):1	18(book):1	27(bar):1	71(include):1	73(etc):1	76(try):1	78(rate):1	79(late):1	83(size):1	318(fridge):1	383(directly):1	399(usually):1	400(pass):1	448(mini):1	460(prepare):1	509(sink):1	781(obviously):1	820(microwave):1	878(normal):1	909(salad):1	918(addition):1	1088(odd):1	1347(plastic):1	1382(german):1	1447(pot):1	1545(contain):1	1929(combination):1	2924(doesn):1	4447(pepper):1	5317(miniscule):1	6408(unsatisfactory):1	7432(innovative):1	
+0	
+
+<Author>Ohjustpeachy
+<Content>Sweet Suite! The room at suitehotel potsdamer is one of the best designed hotel rooms I've ever stayed in! The layout was really well thought out and meant the room could be shared by four people comfortably and with some privacy! There were only two of us but we had fun rearranging the layout (i know it's a tad nerdy), we were very comfortable and couldn't have asked for me from a hotel room.  
+<Date>Jul 2, 2007
+<Rating>5	5	4	4	5	5	-1	-1	
+<Aspects>
+0	
+0	
+14	25(comfortable):1	26(people):1	108(suite):1	176(fun):1	246(mean):1	516(design):1	520(share):1	950(sweet):1	1183(privacy):1	1453(layout):2	2155(comfortably):1	2429(tad):1	3819(potsdamer):1	7455(rearrange):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>AnnskyDoodle
+<Content>excellent position this hotel is ideally placed to view all the sights on foot. The hotel is exceptionally clean, the rooms are large with a seperate toilet from the bathroom. Rooms have a small fridge which is replenished daily with bottled water, a microwave and a kettle. The only fault is that the cleaning staff do not leave enough tea or coffee sachets in your room, although reception staff will give you extra. There is a bar in the reception area where you are given a large bowl of snacks(peanuts etc) with your drinks. The young staff cant do enough for you they are excellent. As we arrived very early on the Saturday morning they looked aafter our luggage until we could get into our room, leaving us free to explore. There is free interenet access on two computers in the reception area. We got an excellent deal by booking direct. I would thoroughly recommend this hotel and for me it gets a five star rating.  
+<Date>Jun 12, 2007
+<Rating>5	4	5	5	5	5	5	3	
+<Aspects>
+0	
+4	15(recommend):1	78(rate):1	103(star):1	898(thoroughly):1	
+20	3(clean):1	13(bathroom):1	20(look):1	43(leave):1	46(free):1	53(arrive):1	56(morning):1	57(water):1	238(bottle):1	249(luggage):1	318(fridge):1	330(toilet):1	360(daily):1	594(explore):1	818(saturday):1	820(microwave):1	1242(exceptionally):1	1416(seperate):1	1808(replenish):1	1944(kettle):1	
+6	17(view):1	21(excellent):1	402(foot):1	411(sight):1	1093(position):1	1800(ideally):1	
+0	
+11	0(staff):3	3(clean):1	21(excellent):1	43(leave):1	90(coffee):1	128(extra):1	129(reception):1	301(tea):1	517(fault):1	1145(cant):1	6547(sachet):1	
+11	18(book):1	21(excellent):1	27(bar):1	63(drink):1	73(etc):1	129(reception):1	140(deal):1	406(snack):1	803(direct):1	1366(bowl):1	3433(peanut):1	
+5	46(free):1	129(reception):1	159(access):1	555(computer):1	11557(interenet):1	
+
+<Author>TheChapman
+<Content>Fantastic budget hotel 16 of us went to Berlin on a stag do from 1-4 June.Hotel was really good quality for the price. I booked 3 weekend package rooms which were really cheap (拢60 per night for the room). When we turned up at the hotel they wanted an extra E10 each night for a 4th person supplement. This was despite the fact that I had phoned the hotel to confirm that i would not be charged any more when we arrived. Luckily, after a bit of arguing the hotel agreed not to charge me any extra for these rooms as i had already paid in full.Unfortunately, I had also booked another room on a more expensive rate (as they had run out of cheap rooms) which i paid for at the end of our stay. The hotel again wanted to charge me an extra E10 per night for the 4th person but this time they would not back down and charged me. This was despite me having phoned up to confirm I wouldnt be charged! This was very disappointing.However, the rooms were still cheap and therefore we didn't let it affect our holiday. Just beware if you are thinking of booking this hotel that there is supposed to be a 4th person supplement.The rooms were massive with 1 double, a couch bed and a pull out bed. There was also a pull out divider in the middle of the room to seperate the sleeping areas.The bar area of the hotel was nice and beer was on tap 24 hours. it is located opposite Anhalter Bahnhof U station and is 10 mins walk to Potsdamer Platz - so a very central and handy location.A word of warning, DO NOT go to the Stresseman cafe opposite the hotel entrance. We waited 30 mins to be asked what we wanted to drink and another hour before food started to arrive. After 90 mins we were still missing 2 drinks and most of our food so we left. The staff seemed surprised at our decision to leave! Unbelievable. Oh, and the food that did arrive was rubbish. There is a little kebab shop called Bistro ?something? diagonally across the road from the hotel. They did really nice kebabs, burgers, etc.If you want to do something a bit different go to Spindler  Klatt restaurant / bar. You get your food served on beds whilst listening to cool tunes. Theres also an outdoor bar overlooking the river with more beds. And dont worry if it gets a little cold, the staff give you blankets. Its similar to Superclub in Amsterdam (but not quite as good).On the friday we tried to go to Berghain but they wouldnt let us in - told us we wouldnt get in anywhere in such a big group. On the sat we split up and went to Tresor. Amazing club set in an abandoned building. Dirty techno played all night and the locals were all off their heads. Definitely one of the best clubs Ive ever been to.  
+<Date>Jun 5, 2007
+<Rating>4	5	3	4	4	4	3	-1	
+<Aspects>
+20	2(night):1	69(tell):1	86(fantastic):1	128(extra):1	154(disappoint):1	169(sit):1	193(person):1	230(road):1	253(tried):1	429(budget):1	664(june):1	746(berlin):1	845(4th):1	923(friday):1	1460(unbelievable):1	1849(wouldnt):2	2368(split):1	4441(stag):1	5178(supplement):1	7477(diagonally):1	
+20	2(night):1	18(book):2	19(price):1	42(pay):2	52(bit):1	78(rate):1	124(expensive):1	128(extra):1	136(charge):1	143(cheap):3	149(run):1	172(weekend):1	187(quality):1	223(holiday):1	473(agree):1	524(unfortunately):1	527(package):1	1200(luckily):1	1894(argue):1	2082(affect):1	
+13	11(bed):3	27(bar):1	104(sleep):1	179(double):1	260(overlook):1	325(middle):1	710(river):1	858(pull):2	901(outdoor):1	1192(couch):1	1329(massive):1	1416(seperate):1	8032(divider):1	
+21	1(location):1	7(walk):1	23(little):1	49(shop):1	67(call):1	82(station):1	84(locate):1	168(central):1	247(min):1	275(cafe):1	490(entrance):1	571(word):1	679(warn):1	755(handy):1	783(opposite):2	2585(bistro):1	2705(platz):1	3819(potsdamer):1	6934(bahnhof):1	8081(anhalter):1	10722(kebab):1	
+6	2(night):1	195(local):1	319(head):1	323(dirty):1	386(play):1	5773(techno):1	
+20	0(staff):2	2(night):1	5(time):1	23(little):1	43(leave):1	53(arrive):1	128(extra):1	136(charge):4	193(person):1	199(surprise):1	222(cold):1	296(phone):2	498(despite):2	503(dont):1	831(worry):1	845(4th):1	982(confirm):2	1369(blanket):1	1539(decision):1	1849(wouldnt):1	
+41	4(nice):2	10(restaurant):1	11(bed):1	16(food):4	18(book):1	27(bar):2	43(leave):1	52(bit):1	53(arrive):2	59(definitely):1	60(hour):2	63(drink):2	73(etc):1	85(wait):1	135(build):1	145(amaze):1	165(start):1	174(serve):1	193(person):1	212(club):2	234(set):1	247(min):2	276(miss):1	278(cool):1	361(amsterdam):1	443(beer):1	620(suppose):1	737(beware):1	845(4th):1	874(similar):1	877(whilst):1	997(listen):1	1157(burger):1	1504(tap):1	2664(rubbish):1	2839(ive):1	3598(tune):1	4480(abandon):1	5178(supplement):1	11238(kebabs):1	12231(superclub):1	
+0	
+
+<Author>J0123
+<Content>Good value hotel with large bedrooms We have just returned from a four night stay at this hotel and were very pleased with our choice. We booked through the Accor website and the fourth night stay was half price. The rooms are a very good size with a standard layout of a king size bed and a single bed. There is a type of screen that can be pulled over to divide the room. Some people might find the mattress a little hard but we had no problems. The toilet and bathroom are separate and there is a separate shower as well as a shower spray with the bath. There is plenty of storage and hanging space. There was a bonus of a kettle, microwave and fridge and small sink. However they only provide paper cups so would be worth taking your own cups and plastic spoons plus a few extra teabags and coffee! There is a small supermarket around the corner for stocking up the fridge!The room was very clean and once the window was closed we were not disturbed by noise from inside or outside the hotel. There is air conditioning but it was not that efficient.The reception staff were efficient and friendly and when we had a small leak in our kitchen area sink it was dealt with by the time we came back to the hotel that afternoon.You could have free croissants and coffee/tea in the foyer but we used the Bistro Stressemann for breakfast, just across the road on the corner. Excellent breakfast served up to 4pm for about 4 euros. As to position, the hotel is pretty central, one stop on the underground to Potsdamer Platz, and walking distance to Checkpoint Charlie. There are also buses near the hotel for getting about. We bought a 3 day transport pass for Berlin, well worth the money and it also gave you discount to get into museums etc. Do visit the VanDeWi department store and the amazing food floor! We would recommend Potsdamer Platz for a large choice of restaurants to eat in the evening.  
+<Date>Jun 3, 2007
+<Rating>4	4	4	4	5	4	4	3	
+<Aspects>
+4	23(little):1	26(people):1	162(hard):1	847(mattress):1	
+6	10(restaurant):1	15(recommend):1	47(eat):1	107(choice):1	2705(platz):1	3819(potsdamer):1	
+42	2(night):1	3(clean):1	11(bed):2	13(bathroom):1	16(food):1	24(floor):1	28(close):1	39(return):1	61(shower):2	65(visit):1	81(value):1	83(size):2	94(noise):1	98(outside):1	107(choice):1	119(window):1	130(standard):1	145(amaze):1	158(plenty):1	164(air):1	173(please):1	210(space):1	226(bath):1	243(king):1	255(store):1	263(condition):1	268(bedroom):1	304(single):1	330(toilet):1	389(type):1	401(efficient):1	408(inside):1	474(separate):2	478(hang):1	526(screen):1	858(pull):1	1067(disturb):1	1099(spray):1	1311(storage):1	1453(layout):1	1707(department):1	3395(divide):1	
+31	7(walk):1	8(day):1	73(etc):1	80(money):1	96(worth):1	102(near):1	109(pretty):1	115(distance):1	120(bus):1	122(stop):1	168(central):1	200(corner):1	280(buy):1	318(fridge):2	400(pass):1	507(museum):1	509(sink):1	599(stock):1	742(transport):1	746(berlin):1	820(microwave):1	849(bonus):1	864(discount):1	1078(supermarket):1	1085(underground):1	1093(position):1	1944(kettle):1	2705(platz):1	2876(charlie):1	3596(checkpoint):1	3819(potsdamer):1	
+0	
+10	0(staff):1	5(time):1	12(friendly):1	129(reception):1	140(deal):1	364(afternoon):1	401(efficient):1	461(kitchen):1	509(sink):1	1287(leak):1	
+29	2(night):1	6(breakfast):2	18(book):1	19(price):1	21(excellent):1	46(free):1	90(coffee):2	96(worth):1	128(extra):1	153(provide):1	166(own):1	174(serve):1	200(corner):1	203(plus):1	230(road):1	256(euro):1	262(website):1	283(half):1	776(paper):1	800(cup):2	1004(croissant):1	1347(plastic):1	1579(fourth):1	1931(foyer):1	2585(bistro):1	4029(spoon):1	6275(accor):1	7881(4pm):1	9313(teabags):1	
+0	
+
+<Author>bgosma
+<Content>Good hotel, great location! I spent a weekend with two friends in one of their family rooms. The room was exactly as it was featured on the website of the hotel. One big double bed and an extra bed. We had a fridge in the room, and plenty of space. The toilet and bathroom were separated which was convinient for the three of us. Breakfast of coffee/tea and croissants (all you could eat!) was free with the room. Internet was also free downstairs. The staff was very friendly. We borrowed some umbrellas from the front desk on the first day for free, which was a nice detail... bright pink umbrellas! :)The location is excellent, you can walk to the Brandenburg Gate in 15 minutes, and there is a subway stop just 20 metres away from the hotel door.Highly recommended!  
+<Date>May 14, 2007
+<Rating>4	5	5	4	4	5	4	3	
+<Aspects>
+2	15(recommend):1	138(highly):1	
+0	
+20	11(bed):2	13(bathroom):1	46(free):2	64(spend):1	97(internet):1	106(family):1	128(extra):1	146(friend):1	158(plenty):1	172(weekend):1	179(double):1	210(space):1	262(website):1	318(fridge):1	330(toilet):1	474(separate):1	586(exactly):1	691(downstairs):1	731(feature):1	5866(convinient):1	
+10	1(location):2	7(walk):1	21(excellent):1	29(minute):1	54(door):1	122(stop):1	370(subway):1	992(gate):1	1194(metre):1	3550(brandenburg):1	
+0	
+12	0(staff):1	4(nice):1	8(day):1	12(friendly):1	31(front):1	36(desk):1	46(free):1	592(detail):1	880(bright):1	1140(umbrella):2	2121(pink):1	2666(borrow):1	
+4	6(breakfast):1	47(eat):1	90(coffee):1	1004(croissant):1	
+0	
+
+<Author>marcstrauch
+<Content>Stylish low-end hotel       The hotel room  
+<Date>May 13, 2007
+<Rating>3	3	2	4	4	4	3	3	
+<Aspects>
+0	
+0	
+2	961(stylish):1	11970(low-end):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Ixus
+<Content>Ideal base for sight-seeing Arriving late at night was not a problem. The staff were friendly enough. We were very surprised by the size of the rooms. A lot more space than most European hotels. Good shower and bath and toilet was separate to bathroom which was handy. Nice to have a fridge in the room as well. It was also very quiet as we didn't hear noise from other rooms. It's a great location for sightseeing. It's a 5 minute walk from Potsdamer Platz which has lots of shops etc for everything and Checkpoint Charlie. On the downsides the air-conditioning in our room wasn't working and if you have the windows open the buses can be a tad annoying during the night.Staff didn't seem to be too knowledgeable about the area. We wanted to go to see a Doctor/outpatients and they didn't know where the closest were and also weren't too helpful re pharmacists close by.On the whole we would definitely stay there again as we booked through the hotel's website and it was a bargain for 3 nights. Would also reccommend Bistro Stressemann across the road from the hotel for a breakfast or a late night drink and would highly reccommend a restaurant called Vapiano at Potsdamer Platz (it was so good we ate there two nights) for pizza/pasta/salads.  
+<Date>May 10, 2007
+<Rating>4	5	4	4	5	3	2	-1	
+<Aspects>
+0	
+0	
+23	2(night):1	4(nice):1	13(bathroom):1	38(lot):1	58(quiet):1	61(shower):1	83(size):1	94(noise):1	119(window):1	120(bus):1	132(hear):1	199(surprise):1	210(space):1	226(bath):1	318(fridge):1	330(toilet):1	474(separate):1	582(european):1	695(annoy):1	755(handy):1	782(downside):1	2284(air conditioning):1	2429(tad):1	
+19	1(location):1	2(night):1	7(walk):1	14(helpful):1	28(close):2	29(minute):1	38(lot):1	49(shop):1	53(arrive):1	73(etc):1	79(late):1	284(base):1	545(ideal):1	640(sight-see):2	1875(doctor):1	2705(platz):1	2876(charlie):1	3596(checkpoint):1	3819(potsdamer):1	
+0	
+3	0(staff):2	12(friendly):1	1160(knowledgeable):1	
+18	2(night):3	6(breakfast):1	10(restaurant):1	18(book):1	47(eat):1	59(definitely):1	63(drink):1	67(call):1	79(late):1	138(highly):1	230(road):1	262(website):1	678(pizza):1	759(bargain):1	2111(reccommend):2	2585(bistro):1	2705(platz):1	3819(potsdamer):1	
+0	
+
+<Author>Clerkenwell
+<Content>Quirky This was my fourth trip to Berlin in under 2 years. And my second stag weekend. This time, we decided to go for a cheap and functional hotel (and the fact that all the fancy ones were booked out for the Treaty of Rome anniversary celebrations).The first excellent thing about the place is the location, across the road from the S Bahn station. This gave us good access to all the sights. The hotel may claim to be at Postdamer Platz but in reality, it is one stop further south. This wasn't a problem as we were still fairly central and only a 15 minute cab ride back from Mitte in the late evening.Check-in was fast and efficient. The room were ready on our arrival at 1045, so we were able to move in straight away. The room rate doesn't include breakfast and we didn't try it so, I can't comment. The bar was fine and drinks were available into the small hours.We had a 3 person room with 2 occupants. The room was huge, with lots of storage space and basic facilities to prepare beverages (a sink  a fridge). One large double bed and once single. There is a separate WC and bathroom. All smart, clean and obviously pre-fab. This didn't matter as the hotel did maintain a quirky character to itself.Internet access was extra and at a ridiculous price but I'm getting used to this in most hotels.Would I go again? Possibly; there are a lot of hotels in Berlin and it isn't difficult to get something a lot more sophisticated for less than 50 Euros more. I would, however, recommend it to people who are on a strict budget.  
+<Date>Apr 28, 2007
+<Rating>4	5	4	4	4	5	4	4	
+<Aspects>
+20	15(recommend):1	26(people):1	33(trip):1	38(lot):2	122(stop):1	172(weekend):1	256(euro):1	429(budget):1	572(difficult):1	746(berlin):2	769(south):1	1077(claim):1	1233(possibly):1	1579(fourth):1	2260(reality):1	2464(quirky):1	2705(platz):1	3165(sophisticated):1	4394(strict):1	4441(stag):1	
+9	5(time):1	18(book):1	143(cheap):1	219(decide):1	796(fancy):1	804(anniversary):1	1348(functional):1	2185(rome):1	2510(celebration):1	
+28	6(breakfast):1	11(bed):1	13(bathroom):1	38(lot):1	71(include):1	76(try):1	78(rate):1	133(huge):1	171(able):1	179(double):1	193(person):1	207(move):1	210(space):1	211(facility):1	224(arrival):1	274(ready):1	304(single):1	318(fridge):1	352(basic):1	356(comment):1	460(prepare):1	474(separate):1	509(sink):1	827(straight):1	1311(storage):1	1334(beverage):1	3265(occupant):1	3976(wc):1	
+5	1(location):1	21(excellent):1	82(station):1	230(road):1	3406(bahn):1	
+7	3(clean):1	531(matter):1	562(maintain):1	781(obviously):1	1049(character):1	1687(smart):1	2464(quirky):1	
+9	29(minute):1	79(late):1	168(central):1	218(ride):1	380(cab):1	401(efficient):1	462(fairly):1	499(fast):1	4198(mitte):1	
+5	27(bar):1	60(hour):1	63(drink):1	113(fine):1	134(available):1	
+6	19(price):1	97(internet):1	128(extra):1	159(access):2	411(sight):1	1533(ridiculous):1	
+
+<Author>Notacceptable
+<Content>Loved the Stuitehotel We stayed eight nights at the Suitehotel and liked it a lot! It is well-located as Bus 41 stops across the street and goes to major sights such as the Brandenburg Gate and Reichstag as well as the new Hauptbanhof. Potsdamer Platz and its nearby art museums are walkable. The rooms are immaculate and well-designed with room for clothes, travel materials, and suitcases. Lights are good for reading. We even washed/dried our clothes here without charge. The single computer terminal in the lobby is busy but accessible for checking e-mails if you are patient. A small supermarket is around the corner for vittels to stash in your refrigerator. If you don't like the complimentary morning coffee/croissant, you can prepare your own. Many courtesies were provided by the friendly staff, e.g., one tracked down a hard-to-find chocolate shop for us. Plus--all this and the price is right! When we return to Berlin, the Stuitehotel will be our choice.  
+<Date>Apr 9, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+5	19(price):1	39(return):1	107(choice):1	203(plus):1	746(berlin):1	
+11	2(night):1	38(lot):1	40(love):1	68(travel):1	88(read):1	157(light):1	709(clothe):1	894(immaculate):1	974(suitcase):1	2681(material):1	6974(well-design):1	
+26	0(staff):1	12(friendly):1	35(street):1	49(shop):1	120(bus):1	122(stop):1	153(provide):1	200(corner):1	232(nearby):1	315(major):1	411(sight):1	507(museum):1	632(chocolate):1	789(art):1	916(refrigerator):1	992(gate):1	1078(supermarket):1	1728(courtesy):1	1766(track):1	2197(walkable):1	2705(platz):1	3550(brandenburg):1	3819(potsdamer):1	3858(well-locate):1	4598(reichstag):1	6241(stash):1	
+0	
+2	136(charge):1	709(clothe):1	
+5	56(morning):1	90(coffee):1	166(own):1	345(complimentary):1	460(prepare):1	
+8	32(check):1	55(lobby):1	220(busy):1	304(single):1	555(computer):1	1261(terminal):1	1342(accessible):1	1882(patient):1	
+
+<Author>BelfastFamily04
+<Content>Great stay My sister and my 2 sons have just returned from a wonderful 5 day stay in Berlin. I would agree with other reviews, the hotel is excellent value for money. We shared one room but the partitions were great for added privacy. The availibility of a fridge and kettle made it economical and convenient to have drinks in the room and make small meals when necessary. We were able to bring croissants and bread, which were available for breakfast, to our room. The staff were extremely helpful at all times. The beds were quite firm and the pillows small but there were no complaints as we were tired after all the sightseeing. The hotel is ideally situated with many sights within walking distance. I would definitely stay there again and recommend it to anyone.  
+<Date>Feb 24, 2007
+<Rating>4	5	4	5	5	5	5	3	
+<Aspects>
+8	8(day):1	15(recommend):1	39(return):1	48(wonderful):1	59(definitely):1	612(son):1	746(berlin):1	892(sister):1	
+5	21(excellent):1	37(review):1	80(money):1	81(value):1	473(agree):1	
+4	351(add):1	520(share):1	1183(privacy):1	5264(partition):1	
+11	7(walk):1	11(bed):1	115(distance):1	190(complaint):1	303(pillow):1	411(sight):1	454(tire):1	574(situate):1	640(sight-see):1	1368(firm):1	1800(ideally):1	
+0	
+4	0(staff):1	5(time):1	14(helpful):1	110(extremely):1	
+12	6(breakfast):1	63(drink):1	134(available):1	142(bring):1	171(able):1	186(convenient):1	213(meal):1	318(fridge):1	497(bread):1	1004(croissant):1	1944(kettle):1	3423(economical):1	
+0	
+
+<Author>fmy
+<Content>Loved the Suitehotel We picked this hotel for the New Year's holiday as the location was convenient to the big Silvester party at the Gate. We were more than pleased with the hotel and the rooms. Positives:The hotel has a little bar in the lobby, and free computer station with internet (just one).The room was very spacious, and it includes a large TV, microwave, little refrigerator, a separate sofa-bed and desk/eat-in area. The decor is modern.For the price (94E) we thought it was a great value. More so is the fact the hotel will honor their weekend special price (53E) deals found on the website even during holidays!The area was great, not noisy at all, in front of both a bus stop and the U-bahn. Straight shot to Postdamer Platz, and the Bradenburg Gate. Supermarket around the corner, checkpoint Charlie walking distance.Not-so-positive:The bed is a little too firm for my taste but my husband loved it. The only other thing for me was the pillows which were very small, but we did not request others. I would think that if you ask you might get a different kind of pillow or extra.Overall we would definitely stay again.  
+<Date>Feb 2, 2007
+<Rating>4	5	4	4	4	4	4	3	
+<Aspects>
+8	59(definitely):1	70(overall):1	128(extra):1	303(pillow):1	827(straight):1	992(gate):1	1778(shoot):1	2705(platz):1	
+8	19(price):2	81(value):1	140(deal):1	172(weekend):1	208(special):1	223(holiday):1	262(website):1	1376(honor):1	
+19	1(location):1	23(little):1	36(desk):1	40(love):1	71(include):1	111(spacious):1	116(tv):1	151(modern):1	173(please):1	186(convenient):1	223(holiday):1	266(pick):1	269(decor):1	363(party):1	474(separate):1	820(microwave):1	916(refrigerator):1	992(gate):1	11080(sofa-b):1	
+18	7(walk):1	11(bed):1	23(little):1	31(front):1	40(love):1	105(husband):1	120(bus):1	122(stop):1	148(request):1	200(corner):1	217(noisy):1	303(pillow):1	439(taste):1	1078(supermarket):1	1368(firm):1	2164(u-bahn):1	2876(charlie):1	3596(checkpoint):1	
+0	
+0	
+0	
+8	23(little):1	27(bar):1	46(free):1	55(lobby):1	82(station):1	97(internet):1	458(positive):1	555(computer):1	
+
+<Author>Charlie_Lon
+<Content>Good Value       Room  
+<Date>Jan 29, 2007
+<Rating>4	5	4	4	3	4	3	-1	
+<Aspects>
+0	
+1	81(value):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>HarryCornet
+<Content>Exceptional Value for Money I can thoroughly recommend this hotel. As already mentioned the rooms are large with a double bed and the settee bed is quite comfortable too. Just to add, the restaurant / bar opposite is well worth a visit with a good selection of beers and a reasonable food menu throughout the day. We had breakfast here after availing ourselves of the free coffee and croisants in the hotel first!The hotel is in a great location within walking distance of many of the sights. There is a train station within 100 yards.However, can I suggest that you leave a little bit earlier to get your train tickets as there is only one ticket machine on each platform and there was often a few people in front of us and one occassion we stood waiting and missed three trains!  
+<Date>Jan 25, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+5	15(recommend):1	80(money):1	81(value):1	837(exceptional):1	898(thoroughly):1	
+5	11(bed):2	25(comfortable):1	179(double):1	244(mention):1	7869(settee):1	
+7	1(location):1	7(walk):1	82(station):1	115(distance):1	182(train):1	411(sight):1	1307(yard):1	
+0	
+14	23(little):1	26(people):1	31(front):1	43(leave):1	52(bit):1	85(wait):1	182(train):2	276(miss):1	444(stand):1	452(suggest):1	493(machine):1	621(ticket):2	3509(platform):1	4992(occassion):1	
+19	6(breakfast):1	8(day):1	10(restaurant):1	16(food):1	27(bar):1	46(free):1	65(visit):1	90(coffee):1	96(worth):1	273(reasonable):1	333(selection):1	351(add):1	423(menu):1	443(beer):1	445(throughout):1	767(ourselves):1	783(opposite):1	3122(avail):1	12355(croisants):1	
+0	
+
+<Author>pitufala
+<Content>EXCELLENT beautiful room all i gotta say that it is an excellent concept of a hotel chain. there is a review from this guy describing the room, i definately agree with him. the room was beautiful, it feels like a studio, really funky design. they give you free croissants and coffee, tea in the morning and free 15 minute massages on thursdays which left my husband really relaxed. the location was good too! very happy and reasonable price! definately stay there!  
+<Date>Jan 19, 2007
+<Rating>5	5	-1	4	5	5	5	5	
+<Aspects>
+1	410(definately):1	
+3	19(price):1	155(happy):1	273(reasonable):1	
+14	21(excellent):2	34(feel):1	37(review):1	45(beautiful):2	368(guy):1	410(definately):1	473(agree):1	516(design):1	627(chain):1	955(describe):1	1445(studio):1	1516(funky):1	2354(concept):1	3985(gotta):1	
+1	1(location):1	
+0	
+0	
+11	29(minute):1	43(leave):1	46(free):2	56(morning):1	90(coffee):1	105(husband):1	160(relax):1	301(tea):1	730(massage):1	1004(croissant):1	8168(thursdays):1	
+0	
+
+<Author>polina36
+<Content>very confortable stay We visited berlin (my husband and a 4,5 years old boy) from 6th to 10th of december and stayed at the suitehotel. The location is very good with an s-bahn just across the street and potzdamer platz about 10 min walking (very pleasant with such a good weather). Nearby, there are two restaurants (one italian and one german) which we didn' t visited, but looked pretty nice. The hotel has a modern feeling and the staff -especially the young man- are polite and helpful. The rooms are as the previous reviewers described them - spacious, clean with a bit hard beds (not really a problem). There are croissants, rolls and coffee offered in the morning, but as one day we went for breakfast at about 11 o' clock the whole breakfast  place was very messy and dirty (tables with plates and cups, full ashtrays etc). However, this was very minor comparing to the overall good experience. Berlin is a wonderful city and Suitehotel perfect for families.  
+<Date>Dec 11, 2006
+<Rating>4	5	4	4	4	4	4	3	
+<Aspects>
+0	
+4	44(experience):1	70(overall):1	381(compare):1	720(minor):1	
+20	3(clean):1	11(bed):1	41(city):1	48(wonderful):1	52(bit):1	65(visit):1	74(perfect):1	105(husband):1	106(family):1	111(spacious):1	162(hard):1	373(previous):1	564(reviewer):1	746(berlin):2	881(boy):1	955(describe):1	993(december):1	1592(10th):1	1869(6th):1	2435(confortable):1	
+8	1(location):1	7(walk):1	35(street):1	150(pleasant):1	247(min):1	385(weather):1	2705(platz):1	2821(s-bahn):1	
+0	
+6	0(staff):1	14(helpful):1	34(feel):1	126(especially):1	151(modern):1	422(polite):1	
+24	4(nice):1	6(breakfast):2	8(day):1	10(restaurant):1	20(look):1	56(morning):1	65(visit):1	73(etc):1	89(offer):1	90(coffee):1	109(pretty):1	229(table):1	232(nearby):1	323(dirty):1	358(italian):1	800(cup):1	813(roll):1	1002(plate):1	1004(croissant):1	1022(didn):1	1291(clock):1	1382(german):1	4555(messy):1	5793(ashtrays):1	
+0	
+
+<Author>Trillian75
+<Content>A very smart hotel! This is a very smart hotel in the sence that it has very good locations, good rooms and are at a reasonable price. It is only a short walk away from Checkpoint Charlie and Brandenburger tor. The room was quite big, with both a little chitchen and seating area, and the bathroom had a separate shower and bath. Yes the beds are quite hard, but after a long days walk it doesn't mather that much. Also great that you can buy your breakfast and put it in the refridgerator in the room. Stay here if you want to spend your money on something other than expencive hotels.  
+<Date>Oct 30, 2006
+<Rating>4	4	4	4	4	3	4	3	
+<Aspects>
+4	64(spend):1	80(money):1	1687(smart):1	11448(expencive):1	
+5	1(location):1	19(price):1	273(reasonable):1	1687(smart):1	12213(sence):1	
+11	7(walk):1	8(day):1	11(bed):1	13(bathroom):1	23(little):1	61(shower):1	162(hard):1	226(bath):1	250(yes):1	474(separate):1	504(seat):1	
+6	7(walk):1	144(short):1	2876(charlie):1	3596(checkpoint):1	7892(tor):1	9714(brandenburger):1	
+0	
+0	
+3	6(breakfast):1	280(buy):1	3851(refridgerator):1	
+0	
+
+<Author>janny1
+<Content>Great family rooms I stayed here with my husband and two teenage sons for four nights and we had a fantastic time.The hotel is basically a more upmarket version of an Ibis - so good design, clean and excellent value for money. Its a pretty good price anyway - but they have a standard package for 4 nights - 4th night half price and 7 nights - 7th night free which makes it pretty unbeatable. As our children were over 12 we couldn't book direct on the website but had no problems booking through the call centre.The room was spacious, bathroom was spotlessly clean with large bath and separate walk in shower and good towels. Separate toilet was also good with four of us sharing a room - meant less queueing for the bathroom. Great to have a kettle and microwave in the room. Screen to divide room was useful if one of us wanted to read late. One small niggle - they could do with better pillows, and the pullout bed wasn't very comfortable.Free croissants, tea/coffee and hot chocolate available in hotel lounge at breakfast time. Staff very friendly and helpful - although as everything worked perfectly we didn't have much need to call on them! We tried the Italian restaurant on the corner and Cafe Stresemann across the street - both very good and cheap compared with UK restaurants. There are also more restaurants if you turn left out of the hotel and left again past Aldi which looked quite nice but we didn't have time to try them.Very convenient for public transport - just across street from Anhalter Bahnhof S-Bahn, direct bus to Kurfurstendamm (M29) and to the Hauptbahnhof. Public transport is v good and cheap - can get a day ticket for group of up to 5 adults for 14.80 euros. Berlin is also very flat so its easy to walk to most places - 5-10 mins walk from Potsdamer Platz, 20 mins from Brandenburg Gate, 10-15 mins Checkpoint Charlie.  
+<Date>Oct 28, 2006
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+0	
+20	2(night):4	3(clean):1	19(price):2	21(excellent):1	46(free):1	80(money):1	81(value):1	109(pretty):2	130(standard):1	283(half):1	417(anyway):1	516(design):1	527(package):1	790(basically):1	845(4th):1	2303(unbeatable):1	2723(version):1	2951(7th):1	3373(upmarket):1	3757(ibis):1	
+32	2(night):1	3(clean):1	5(time):1	7(walk):1	11(bed):1	13(bathroom):2	25(comfortable):1	61(shower):1	79(late):1	86(fantastic):1	88(read):1	105(husband):1	106(family):1	111(spacious):1	125(towel):1	226(bath):1	246(mean):1	303(pillow):1	330(toilet):1	474(separate):2	520(share):1	526(screen):1	612(son):1	820(microwave):1	1094(spotlessly):1	1232(useful):1	1463(queue):1	1837(teen-age):1	1944(kettle):1	3395(divide):1	3910(niggle):1	5200(pullout):1	
+27	7(walk):2	8(day):1	35(street):1	93(easy):1	120(bus):1	143(cheap):1	186(convenient):1	247(min):3	256(euro):1	379(public):2	535(flat):1	556(adult):1	621(ticket):1	742(transport):2	746(berlin):1	803(direct):1	992(gate):1	2705(platz):1	2821(s-bahn):1	2876(charlie):1	3550(brandenburg):1	3596(checkpoint):1	3819(potsdamer):1	6728(hauptbahnhof):1	6934(bahnhof):1	7565(kurfurstendamm):1	8081(anhalter):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	67(call):1	595(perfectly):1	
+29	4(nice):1	5(time):2	6(breakfast):1	10(restaurant):3	18(book):2	20(look):1	35(street):1	43(leave):2	46(free):1	67(call):1	76(try):1	101(center):1	114(hot):1	134(available):1	143(cheap):1	200(corner):1	237(lounge):1	253(tried):1	262(website):1	275(cafe):1	277(child):1	301(tea):1	358(italian):1	381(compare):1	419(past):1	632(chocolate):1	803(direct):1	1004(croissant):1	1178(uk):1	
+0	
+
+<Author>__
+<Content>Minimalist but Fun This was a fun hotel in a convenient location. The hotel is simply decorated but fun and quite new. The hallway had a bit of a funny smell. The manager was very nice and helpful, though some of the receptionists just look bored to be there. One nice aspect is the croissants and coffee downstairs every morning.  
+<Date>Oct 18, 2006
+<Rating>4	4	4	3	4	3	3	3	
+<Aspects>
+0	
+0	
+3	176(fun):1	305(decorate):1	488(simply):1	
+4	1(location):1	176(fun):2	186(convenient):1	2609(minimalist):1	
+4	52(bit):1	231(smell):1	580(hallway):1	1156(funny):1	
+6	4(nice):1	14(helpful):1	20(look):1	258(manager):1	855(receptionist):1	1098(bore):1	
+6	4(nice):1	56(morning):1	90(coffee):1	691(downstairs):1	1004(croissant):1	1255(aspect):1	
+0	
+
+<Author>sandboy
+<Content>Fantastic Stayed here for five days in August and could not believe the value for money. Congratulations to all involved. Located 500m from Potsdamerplatz, across the road from the U-Bahn Anhalterstr. HUGE room, incredibly clean and modern, great design concept - have already recommended this hotel to eveyone I know who is heading to Berlin. I paid 70 Euros pn through internet; rate the rack rate is around E100 which for what you get is still good value. Could not believe my luck on this one. Possibly the best hotel I have stayed in in Europe. I was one but the room could easily sleep 4 or 5 without feeling crowded. It was like a palace after the shoebox I had in Amsterdam. If in doubt, look no further. Will definitely stay here again. If you want to see photos look at the website - that's exactly what you get.  
+<Date>Sep 26, 2006
+<Rating>5	5	5	5	5	5	5	3	
+<Aspects>
+12	20(look):1	59(definitely):1	312(believe):1	361(amsterdam):1	642(palace):1	700(europe):1	952(doubt):1	1055(luck):1	1233(possibly):1	1538(involve):1	5146(congratulations):1	7872(shoebox):1	
+10	8(day):1	42(pay):1	78(rate):2	80(money):1	81(value):2	86(fantastic):1	97(internet):1	256(euro):1	312(believe):1	1916(rack):1	
+14	3(clean):1	15(recommend):1	34(feel):1	104(sleep):1	133(huge):1	151(modern):1	313(crowd):1	438(easily):1	516(design):1	746(berlin):1	807(incredibly):1	1437(heading):1	2354(concept):1	10453(eveyone):1	
+7	20(look):1	84(locate):1	230(road):1	262(website):1	586(exactly):1	761(photo):1	2164(u-bahn):1	
+0	
+0	
+0	
+0	
+
+<Author>dermdoc1
+<Content>A Great Place to Stay Could not fault this hotel...everything about it was excellent. A well thought out decor of room. Don't miss this hotel. Well done Accor group. Would definitely stay here again.  
+<Date>Sep 18, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	21(excellent):1	59(definitely):1	276(miss):1	517(fault):1	6275(accor):1	
+0	
+1	269(decor):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>jean-s
+<Content>Mostly Great! I only have one bad thing to say about this hotel and that is once again - the beds! Yes they are very uncomfortable and it is a shame because everything else is excellent. Great room, great bathroom, great facilites,(fridge, microwave, kettle etc), great service at reception, great location (2 mins walk from Anhalter Bahnhof, 10 minutes from Potsdamer Platz) Great Italian restaurant adjacent. Great German restaurant over the road (fabulous breakfasts served til 4pm). And finally - great price - 99 euros per night for 3 of us. So I would definitely stay again if I was on a budget - but maybe not on a romantic break. Just get bladdered every night so you are comotosed at bedtime!!!!  
+<Date>Sep 14, 2006
+<Rating>4	4	2	4	4	4	4	-1	
+<Aspects>
+10	21(excellent):1	59(definitely):1	170(else):1	228(break):1	250(yes):1	308(maybe):1	429(budget):1	707(romantic):1	856(uncomfortable):1	1292(shame):1	
+4	2(night):1	19(price):1	256(euro):1	341(finally):1	
+4	2(night):1	11(bed):1	50(bad):1	5535(bedtime):1	
+0	
+0	
+0	
+26	1(location):1	6(breakfast):1	7(walk):1	9(service):1	10(restaurant):2	13(bathroom):1	29(minute):1	73(etc):1	129(reception):1	174(serve):1	230(road):1	247(min):1	270(fabulous):1	318(fridge):1	358(italian):1	820(microwave):1	1061(adjacent):1	1382(german):1	1944(kettle):1	2196(til):1	2705(platz):1	3819(potsdamer):1	3948(facilite):1	6934(bahnhof):1	7881(4pm):1	8081(anhalter):1	
+0	
+
+<Author>Miiky
+<Content>Excellent hotel Very good hotel!I stayed for two nights 鈥?had a very good offer via bookings(--)Room big enough for more than just two. There is a small and handy corner with a sink, microwave and a refrigerator. There was a bottle of water there for me. Free rolls and coffee in the morning. Nice touch. Came into hotel much earlier than I should have as it was a late flight. So exhausted. They were so kind to let me go to room. ZZZZZZZZZZZZZZZZGreat location. Minutes walk to Potsdam. Checkpoint Charlie was so close I missed it the first time. Tube is not far. Tube and trains are great! Brandenburg gate is close. (10-15mins). Went for football. Would recommend this hotel to anyone.  
+<Date>Jul 23, 2006
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+9	4(nice):1	15(recommend):1	21(excellent):1	57(water):1	238(bottle):1	279(touch):1	1769(exhaust):1	2363(football):1	8863(10-15min):1	
+0	
+6	2(night):1	79(late):1	89(offer):1	233(flight):1	512(via):1	2531(booking):1	
+18	1(location):1	5(time):1	7(walk):1	28(close):2	29(minute):1	182(train):1	200(corner):1	276(miss):1	509(sink):1	755(handy):1	820(microwave):1	916(refrigerator):1	992(gate):1	1310(tube):2	2876(charlie):1	3550(brandenburg):1	3596(checkpoint):1	9088(potsdam):1	
+0	
+0	
+4	46(free):1	56(morning):1	90(coffee):1	813(roll):1	
+0	
+
+<Author>diderek
+<Content>Grreat location, modern hotel We also booked on Accor's website and got a pretty good deal. Although it was stated that breakfast was not included, there were free croissants and coffee/tea available in the mornings. The rooms were very spacious and were newly fitted with bathroom amenities and seperate toilet. The fridge, microwave and kettle were also a convenient bonus.Location was easy walking distance to Potsdamer Platz, the wall remnants and chekpoint Charlie. Brandenburg Gate was also not far and everything is super easy to access through the U bahn station right across the street. Couldn't get a better location  we'd definately stay here again.  
+<Date>May 25, 2006
+<Rating>5	4	5	-1	4	-1	4	-1	
+<Aspects>
+0	
+0	
+7	13(bathroom):1	111(spacious):1	291(amenity):1	330(toilet):1	668(fit):1	1189(newly):1	1416(seperate):1	
+23	1(location):3	7(walk):1	18(book):1	35(street):1	82(station):1	93(easy):2	109(pretty):1	115(distance):1	140(deal):1	151(modern):1	159(access):1	183(wall):1	262(website):1	410(definately):1	464(super):1	992(gate):1	2705(platz):1	2876(charlie):1	3406(bahn):1	3550(brandenburg):1	3819(potsdamer):1	6275(accor):1	9009(remnant):1	
+0	
+0	
+12	6(breakfast):1	46(free):1	56(morning):1	71(include):1	90(coffee):1	134(available):1	186(convenient):1	318(fridge):1	820(microwave):1	849(bonus):1	1004(croissant):1	1944(kettle):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great location, big rooms Very good hotel.We stayed for a long weekend, booked via the hotel site 鈥?they had a very good offer for weekends.Room big enough for 4 of us.There is a small and handy corner with a sink, microwave and a refrigerator. Great location. Minutes walk to Potsdam, checkpoint Charlie and the culture forum. We continue walking from there to Brandenburg gate and the Reichstag, so event those are not too far. I鈥檒l recommend this hotel to my friends. There is a nice and VERY friendly Italian restaurant just next to the hotel. Pizza margarita for 4.5 EURO.  
+<Date>May 23, 2006
+<Rating>5	5	5	-1	5	-1	3	-1	
+<Aspects>
+5	15(recommend):1	146(friend):1	256(euro):1	678(pizza):1	3055(margarita):1	
+0	
+1	1(location):1	
+23	1(location):1	7(walk):2	18(book):1	29(minute):1	89(offer):1	172(weekend):2	192(site):1	200(corner):1	509(sink):1	512(via):1	755(handy):1	820(microwave):1	916(refrigerator):1	992(gate):1	1096(continue):1	1106(event):1	1497(culture):1	2876(charlie):1	3080(forum):1	3550(brandenburg):1	3596(checkpoint):1	4598(reichstag):1	9088(potsdam):1	
+0	
+0	
+4	4(nice):1	10(restaurant):1	12(friendly):1	358(italian):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Ultra hard beds. The beds are solid boards with very firm mattresses. It was like sleeping on a concrete floor. The receptionist called them the French beds (Accor group is French). We hardly slept during our 5 night stay and had aching backs. This is a shame as everything else about Suitehotel is great. The spacious well-designed rooms, the bathroom, the staff, the value, the coffee, the whole concept, are all excellent and we were immediate converts until we went to bed. But lack of sleep can ruin a holiday so we won't be staying in a Suitehotel again, in spite of all the advantages.  
+<Date>May 19, 2006
+<Rating>2	4	2	-1	5	-1	3	-1	
+<Aspects>
+0	
+0	
+31	0(staff):1	2(night):1	11(bed):3	13(bathroom):1	21(excellent):1	24(floor):1	81(value):1	90(coffee):1	104(sleep):3	111(spacious):1	162(hard):1	170(else):1	223(holiday):1	349(lack):1	487(wo):1	600(board):1	847(mattress):1	867(advantage):1	985(hardly):1	1243(ruin):1	1292(shame):1	1368(firm):1	1617(solid):1	1761(immediate):1	2079(convert):1	2321(concrete):1	2354(concept):1	2744(ultra):1	3000(spite):1	4054(ache):1	6974(well-design):1	
+0	
+0	
+5	11(bed):1	67(call):1	254(french):2	855(receptionist):1	6275(accor):1	
+0	
+0	
+
+<Author>Sipsina
+<Content>Good Value This is a very good hotel for the money. Our two children stayed in the same room as us for free. The staff are polite and helpful. The rooms are clean, comfortable and modern. This hotel is in a great location for sightseeing, and there's a very handy S-Bahn station just across the road. We had no problems getting about in Berlin. Berlin itself is very interesting and vibrant. The people are pleasant and friendly. The zoo is fantastic; every animal I can think of (including pandas) and all the animals appear to be well looked after. The Reichstag (free and open 'til midnight), Brandenburg Gate, Checkpoint Charlie, Olympia Stadion, Fernsehturm (television tower) etc. are all well worth visiting. The tour buses are really good too with English speaking guides. We really enjoyed ourselves.  
+<Date>May 14, 2006
+<Rating>4	5	4	-1	5	-1	4	-1	
+<Aspects>
+14	12(friendly):1	20(look):1	26(people):1	51(enjoy):1	71(include):1	86(fantastic):1	150(pleasant):1	541(appear):1	746(berlin):2	767(ourselves):1	1511(zoo):1	1990(animal):2	3189(vibrant):1	10180(panda):1	
+2	80(money):1	81(value):1	
+17	3(clean):1	25(comfortable):1	46(free):2	65(visit):1	73(etc):1	96(worth):1	151(modern):1	277(child):1	378(tower):1	992(gate):1	1044(midnight):1	1158(television):1	2196(til):1	2876(charlie):1	3550(brandenburg):1	3596(checkpoint):1	4598(reichstag):1	
+11	1(location):1	82(station):1	120(bus):1	127(speak):1	152(english):1	181(tour):1	230(road):1	640(sight-see):1	755(handy):1	829(guide):1	2821(s-bahn):1	
+0	
+3	0(staff):1	14(helpful):1	422(polite):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Unbeatable value, recommended to everyone       Hotel exterior  
+<Date>Apr 19, 2006
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+0	
+4	15(recommend):1	81(value):1	1828(exterior):1	2303(unbeatable):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Excellent accomodation       The Suite Hotel Potsdamer Plz, Berlinat  
+<Date>Feb 28, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+4	21(excellent):1	108(suite):1	780(accomodation):1	3819(potsdamer):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>minky35
+<Content>Fantastic New Concept       View from 6th Floor  
+<Date>Nov 1, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+5	17(view):1	24(floor):1	86(fantastic):1	1869(6th):1	2354(concept):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>HomingPigeon50
+<Content>Tr茅s bien!       BERLIN Der Reichtag  
+<Date>Sep 29, 2007
+<Rating>5	5	5	5	5	4	5	5	
+<Aspects>
+3	746(berlin):1	4727(bien):1	6885(der):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Muenchen13
+<Content>F眉r Familien ideal und sehr zentral gelegen       Suitehotel Potsdamer Platz  
+<Date>Aug 10, 2007
+<Rating>4	4	4	5	4	4	4	4	
+<Aspects>
+0	
+0	
+5	545(ideal):1	2705(platz):1	3819(potsdamer):1	11428(und):1	12565(sehr):1	
+0	
+0	
+0	
+0	
+0	
+

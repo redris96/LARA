@@ -1,0 +1,798 @@
+<Author>ThreeAREwe
+<Content>Great Hotel  Great Value !       Hotel Novotel near the tram  
+<Date>Dec 28, 2008
+<Rating>4	5	4	5	5	5	3	4	
+<Aspects>
+0	
+1	81(value):1	
+0	
+3	102(near):1	570(tram):1	3002(novotel):1	
+0	
+0	
+0	
+0	
+
+<Author>Swissdiver
+<Content>Far from everything but the RAI Conference Centre I attended a conference at the RAI Centre and although it is 10 to 15 minutes walking distance, the Novotel was the closest from the venue (together with a Holiday Inn). Welcome was normal (although I could not get the upgrade I was entitled to). The room was all right, not very large, but clean with a nice view on the city (that is more than 5 km aways) and the Arena (3.5 km away). Staff was pleasant and ready to help at all time. Did not try the restaurant but the bar is OK (and suffers from no competition as there is nothing around!).In short: given the taxi price in Amsterdam (EUR 7.50 minimum charge - EUR 30 to go downtown), it is to be only used if you have business around or attend a conference at the RAI.  
+<Date>Dec 9, 2008
+<Rating>3	3	3	2	3	3	4	3	
+<Aspects>
+0	
+0	
+6	3(clean):1	4(nice):1	17(view):1	41(city):1	3153(arena):1	7530(aways):1	
+21	7(walk):1	19(price):1	28(close):1	29(minute):1	101(center):2	115(distance):1	136(charge):1	144(short):1	147(business):1	185(taxi):1	223(holiday):1	324(inn):1	334(downtown):1	361(amsterdam):1	794(conference):3	826(attend):2	2124(minimum):1	2190(venue):1	3002(novotel):1	3084(eur):2	7199(rai):3	
+0	
+5	0(staff):1	5(time):1	92(help):1	150(pleasant):1	274(ready):1	
+6	10(restaurant):1	27(bar):1	76(try):1	123(ok):1	1790(suffer):1	3161(competition):1	
+4	163(upgrade):1	202(welcome):1	878(normal):1	3524(entitle):1	
+
+<Author>trb0187
+<Content>Good I am too lazy to read the other posts so I probably repeat them.... Husband  I stayed at the hotel in August for my 22nd birthday. Sure it is far from the city center but that gets you away from the nastiness of Amsterdam. I was happy we were out of the center. Hotel was kept clean. We had the free breakfast, nothing to write home about but it had more options than most European hotels + a cool latte machine.If you are looking to party, this would not be the place but traveling through the days and sightseeing, it was perfect for us! I would def stay again  
+<Date>Dec 3, 2008
+<Rating>4	5	4	2	4	5	5	5	
+<Aspects>
+9	88(read):1	105(husband):1	178(probably):1	644(post):1	765(birthday):1	1467(repeat):1	1786(lazy):1	2802(def):1	6381(22nd):1	
+0	
+0	
+6	8(day):1	20(look):1	68(travel):1	74(perfect):1	363(party):1	640(sight-see):1	
+1	3(clean):1	
+0	
+9	6(breakfast):1	46(free):1	141(home):1	278(cool):1	336(option):1	344(write):1	493(machine):1	582(european):1	4990(latte):1	
+4	41(city):1	101(center):2	155(happy):1	361(amsterdam):1	
+
+<Author>HappyGerman058
+<Content>Nice but not that close to the action Nice clean and confortable rooms, to get to this hotel is somewhat far from the center of the City, but I would say a nice hotel for business purposes  
+<Date>Nov 13, 2008
+<Rating>4	4	5	2	4	5	4	4	
+<Aspects>
+0	
+0	
+0	
+10	3(clean):1	4(nice):3	28(close):1	41(city):1	101(center):1	147(business):1	651(somewhat):1	958(action):1	1428(purpose):1	2435(confortable):1	
+0	
+0	
+0	
+0	
+
+<Author>Jyo16
+<Content>Great expereince for a holiday We visited Amsterdam on May 2008 and were looking for a comfortable value for money proposition for our stay there. We are a family of three and decided to opt for three in one room stay arrangement. I was apprehensive on how comfortable it would be. But we went ahead searched the web and found Novotel close to what we were looking for, good location close to a railway station, not too far from airport and reasonable charges.The hotel is turned out to be a pleasant surprise in man ways. Absolutely no delay in check in, our room was ready. Very Warm service and friednly staff greeted us in the lobby and at the reception. One good restaurant - the coffee shop that served sumptious buffet for breakfast and helpful staff.The room was just right with simple bu comfortable furnishing including a mini fridge, tea/coffee maker. Bathrooms were clean and comfortable.The staff was at all times helpful with tips for local sightseeing as also for helping in our shopping and daily requirements. There was no cause for complaint whatsoever.We paid USD 220 per night for a room including breakfast which we thought excellent value. Overall I would say this is probably one of the best hotel deals we have ever had on holiday and believe me we are all quite fussy on comfort and cleanliness!I strongly recommend this hotel for all families holidaying in Amsterdam, they will not regret  
+<Date>Nov 9, 2008
+<Rating>4	4	4	5	5	5	5	-1	
+<Aspects>
+13	15(recommend):1	25(comfortable):1	106(family):1	150(pleasant):1	190(complaint):1	199(surprise):1	223(holiday):1	361(amsterdam):1	943(cause):1	1386(strongly):1	1410(regret):1	1733(whatsoever):1	2129(apprehensive):1	
+15	2(night):1	6(breakfast):1	20(look):1	21(excellent):1	25(comfortable):1	42(pay):1	65(visit):1	71(include):1	80(money):1	81(value):2	223(holiday):1	361(amsterdam):1	1807(usd):1	7430(expereince):1	7898(proposition):1	
+19	3(clean):1	13(bathroom):1	25(comfortable):2	32(check):1	71(include):1	106(family):1	189(absolutely):1	219(decide):1	274(ready):1	301(tea):1	318(fridge):1	448(mini):1	613(simple):1	787(furnish):1	996(maker):1	1184(opt):1	1351(delay):1	1415(arrangement):1	9051(bu):1	
+22	0(staff):1	1(location):1	5(time):1	14(helpful):1	20(look):1	28(close):2	49(shop):1	82(station):1	92(help):1	95(airport):1	136(charge):1	194(tip):1	195(local):1	273(reasonable):1	360(daily):1	640(sight-see):1	976(ahead):1	1019(web):1	1248(search):1	2002(railway):1	2642(requirement):1	3002(novotel):1	
+8	70(overall):1	140(deal):1	178(probably):1	223(holiday):1	312(believe):1	702(comfort):1	854(cleanliness):1	1867(fussy):1	
+6	0(staff):1	9(service):1	55(lobby):1	129(reception):1	236(warm):1	415(greet):1	
+9	0(staff):1	6(breakfast):1	10(restaurant):1	14(helpful):1	49(shop):1	77(buffet):1	90(coffee):1	174(serve):1	9875(sumptious):1	
+0	
+
+<Author>fabmc
+<Content>Outstanding 4stars Hotel - almost 5stars I booked this hotel with the Novotel web-site www.novotel.com and I got a very convenient special package (called 'Family package', but it's also for singles)with breakfast, transport tickets and free parking at the hotel for about 85 euros per night.The rooms are indeed 4stars and the service is even more (almost 5stars).Breakfast is definitely 5stars, with an incredible selection of cold and warm food.The hotel has 15th floors, but also 4 elevators for customers and good Internet facilities with printer and scanner.The best thing was the nice view of Amsterdam from a 12th floor from a large room window.The location is about 5km from city center (Dam square), but there is always a tram (line 4) waiting for your at just about 2 minutes walk from hotel entrance.Check-in time is 12:00 noon and they do not let you in a minute before.Also when checking out don't forget to show them the printout of your reservation, initially they tried to charge me 30 Euros more than the agreed total price, but after I showed them the printout they gave me the agreed rate and a little discount.I think this is a common awful behavior in Amsterdam: everywhere they try to charge you a little more than what's written on the menu, so just check all prices twice and enjoy Holland!!  
+<Date>Oct 14, 2008
+<Rating>5	5	5	3	5	3	5	4	
+<Aspects>
+0	
+2	9(service):1	990(indeed):1	
+6	4(nice):1	17(view):1	24(floor):1	119(window):1	361(amsterdam):1	1955(12th):1	
+17	2(night):1	6(breakfast):1	18(book):1	46(free):1	66(park):1	67(call):1	106(family):1	186(convenient):1	208(special):1	256(euro):1	304(single):1	527(package):2	534(outstanding):1	621(ticket):1	742(transport):1	3002(novotel):1	5758(web-site):1	
+0	
+36	1(location):1	5(time):1	7(walk):1	19(price):2	23(little):2	29(minute):2	32(check):2	41(city):1	51(enjoy):1	76(try):1	78(rate):1	85(wait):1	101(center):1	136(charge):2	139(square):1	156(reservation):1	188(line):1	253(tried):1	256(euro):1	344(write):1	347(twice):1	361(amsterdam):1	397(forget):1	423(menu):1	473(agree):2	570(tram):1	736(awful):1	786(total):1	830(common):1	864(discount):1	1266(dam):1	1309(noon):1	1439(initially):1	3009(behavior):1	4189(holland):1	6401(printout):2	
+14	6(breakfast):1	16(food):1	24(floor):1	59(definitely):1	97(internet):1	211(facility):1	216(elevator):1	222(cold):1	236(warm):1	333(selection):1	428(customer):1	718(incredible):1	2328(printer):1	4273(15th):1	
+0	
+
+<Author>AlbertandJudy
+<Content>Good stay for events at the convention centre The hotel was very good, nice rooms and friendly staff. Staff were able to speak english and were very helpful with directions. The hotel is located quite far away from the city centre however it is easily accessible by tram (four), which is a 5 minute walk to the tram stop. The tram passes could be purchased at the hotel, which was quite cheap at 6.90 euros for 5 trips (15 strip pass) as each trip uses 3 strips. The breakfast, at first, seems very appealing with a large variety of different foods however after staying at the hotel for a few days the variety just remains the same. The cost of the hotel is relatively similar to hotels closer to the city centre, and would recommend looking for hotels in that direction.  
+<Date>Sep 4, 2008
+<Rating>3	3	4	1	5	5	4	-1	
+<Aspects>
+0	
+16	15(recommend):1	20(look):1	28(close):1	33(trip):2	41(city):1	101(center):1	143(cheap):1	175(cost):1	256(euro):1	395(direction):1	400(pass):2	570(tram):1	874(similar):1	887(purchase):1	913(relatively):1	1379(strip):2	
+6	0(staff):1	4(nice):1	12(friendly):1	101(center):1	1048(convention):1	1106(event):1	
+9	7(walk):1	29(minute):1	41(city):1	84(locate):1	101(center):1	122(stop):1	438(easily):1	570(tram):2	1342(accessible):1	
+0	
+6	0(staff):1	14(helpful):1	127(speak):1	152(english):1	171(able):1	395(direction):1	
+6	6(breakfast):1	8(day):1	16(food):1	413(variety):2	1391(remain):1	1679(appeal):1	
+0	
+
+<Author>ZITTAANDBLUE
+<Content>Amsterdam weekend Stayed at the Novotel 30th August - 1st September. Arrived at Schipol 10.35hrs, bought All-in-one ticket which gave us train to RAI station, all tram and bus transport for 3 days (19.70Euros) each. Checked into hotel just before 12 noon. Very easy, staff on reception were excellent, in our room by 12.10hrs. Room spotless with tea/coffee, minibar, adequate wardrobe and hangers, shelves and dressing-table space all good. Large double bed very comfortable and having stayed here on previous occasions, we found all the bedrooms had been recently upgraded and the rest of the hotel is undergoing work - it will not inconvenience you. The bar is cosy, on the ground floor and will not deter your sleep. The restaurant has a nice atmosphere and good menu for the average appetite - go to Amsterdam if you want anything a la carte, because this menu is nice, good cooking but not O.T.T. and prices are good. Breakfast is brilliant, plenty of hot food, cereals, fruits, yogurts, juices, cold meats, breads and cakes of various types, and piping hot tea or coffee. Many different coffees and teas to suit all taste buds. The staff are all very friendly and the tables and cutlery are spotless. It is a very modern hotel and as others say, it isn't typically Dutch style, but it is so easy to get into town on the no. 4 tram, and much to see on the way, this will always be my choice of hotel. We both look forward to our next visit. Thank you Novotel.  
+<Date>Sep 4, 2008
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+9	20(look):1	65(visit):1	172(weekend):1	271(thank):1	361(amsterdam):1	750(forward):1	972(september):1	2035(30th):1	3002(novotel):2	
+19	4(nice):2	10(restaurant):1	19(price):1	93(easy):1	107(choice):1	151(modern):1	225(la):1	227(average):1	239(town):1	326(style):1	361(amsterdam):1	414(atmosphere):1	423(menu):2	550(cook):1	570(tram):1	681(carte):1	1994(typically):1	2066(dutch):1	4636(appetite):1	
+25	11(bed):1	24(floor):1	25(comfortable):1	27(bar):1	104(sleep):1	163(upgrade):1	179(double):1	210(space):1	268(bedroom):1	288(rest):1	301(tea):1	322(recently):1	373(previous):1	390(adequate):1	548(spotless):1	706(grind):1	749(cozy):1	871(occasion):1	1037(minibar):1	1431(inconvenience):1	1451(wardrobe):1	1484(shelf):1	2086(undergo):1	2506(hanger):1	4539(deter):1	
+13	8(day):1	53(arrive):1	82(station):1	120(bus):1	182(train):1	256(euro):1	280(buy):1	570(tram):1	621(ticket):1	742(transport):1	1464(hr):1	5301(schipol):1	7199(rai):1	
+0	
+11	0(staff):2	12(friendly):1	21(excellent):1	32(check):1	93(easy):1	129(reception):1	229(table):1	548(spotless):1	1309(noon):1	1464(hr):1	3182(cutlery):1	
+21	6(breakfast):1	16(food):1	90(coffee):2	114(hot):2	158(plenty):1	215(fruit):1	222(cold):1	301(tea):2	362(juice):1	389(type):1	439(taste):1	497(bread):1	529(cereal):1	677(meat):1	793(brilliant):1	823(various):1	861(suit):1	927(yogurt):1	1029(cake):1	2067(pipe):1	3785(bud):1	
+0	
+
+<Author>Brooken
+<Content>Good business hotel The hotel is located about 10 minutes on the number 4 tram from Centraal Station or 50/51 subway. It is an great location for business travellers as it is close to the RAI centre and not too bad for lesiure travellers. As it is easy and cheap to get too, but you would not want to go back and forth between the city too often. Get off at the RAI station and it is a five minute walk to the hotel. You can see the Novotel from the tram. The rooms are suprisingly nice considering the look of the building. They are bright, airy and clean. The bathrooms are a good size and new. The lobby is modern and the staff very helpful. After returning to the hotel in the wee hours of the morning it was nice that were security on the door. I would choose something more central if I went back to Amsterdam BUT for a bargin price this was worth the tram ride in and out.  
+<Date>Aug 29, 2008
+<Rating>3	3	4	3	3	4	3	4	
+<Aspects>
+0	
+12	19(price):1	41(city):1	93(easy):1	96(worth):1	143(cheap):1	167(choose):1	168(central):1	218(ride):1	361(amsterdam):1	570(tram):1	1999(forth):1	4608(bargin):1	
+16	3(clean):1	4(nice):2	13(bathroom):1	20(look):1	39(return):1	54(door):1	56(morning):1	60(hour):1	83(size):1	135(build):1	248(consider):1	641(security):1	880(bright):1	1947(airy):1	2310(wee):1	4432(suprisingly):1	
+16	1(location):1	7(walk):1	28(close):1	29(minute):2	50(bad):1	82(station):2	84(locate):1	101(center):1	147(business):2	267(traveler):2	335(numb):1	370(subway):1	570(tram):2	2450(centraal):1	3002(novotel):1	7199(rai):2	
+0	
+4	0(staff):1	14(helpful):1	55(lobby):1	151(modern):1	
+0	
+0	
+
+<Author>mdeboer
+<Content>What a pleasure to stay here I had several lunches here, just because the location is convenient. You can park your car easily and from the hotel it's an easy drive to whereever you need to be in Amsterdam. When I needed an overnight stay, I booked a room. The room was great, large, clean. I had dinner in the hotel as well. The menu is nice enough, not spectactular. What is served, is well prepared. The service was fantastic. I felt very welcome, all the personnel I met were extremely hospitable. Whenever I travel again, I will favour the Novotel chain and hope the quality of service of this one is a standard.  
+<Date>Jul 12, 2008
+<Rating>5	5	4	4	3	4	5	3	
+<Aspects>
+8	4(nice):1	34(feel):1	110(extremely):1	196(meet):1	202(welcome):1	423(menu):1	1457(personnel):1	2743(hospitable):1	
+9	9(service):1	68(travel):1	130(standard):1	187(quality):1	328(hope):1	627(chain):1	1181(whenever):1	1521(favor):1	3002(novotel):1	
+3	3(clean):1	18(book):1	1171(overnight):1	
+11	1(location):1	66(park):1	93(easy):1	121(car):1	186(convenient):1	252(lunch):1	298(drive):1	361(amsterdam):1	438(easily):1	907(pleasure):1	9999(whereever):1	
+0	
+0	
+5	9(service):1	86(fantastic):1	117(dinner):1	174(serve):1	460(prepare):1	
+0	
+
+<Author>Clarenrog
+<Content>Great for access to City Centre Stayed here because partner was working at RAI Centre for a few days. The tram into city centre was a few minute walk, and they run every 10 mins or so, take you right into the heart of Amsterdam for couple of euros. Excellent for access to shopping or sightseeing during the day or restaurants etc at night. Felt very safe even travelling alone. Hotel was good quality. High standard at breakfast with good choice. Rooms clean and well serviced. Quiet bar for drink at night. If going to Amsterdam again would definately stay here.  
+<Date>Jun 4, 2008
+<Rating>4	3	3	3	3	4	4	4	
+<Aspects>
+5	34(feel):1	68(travel):1	137(safe):1	361(amsterdam):1	410(definately):1	
+4	6(breakfast):1	107(choice):1	130(standard):1	187(quality):1	
+2	3(clean):1	9(service):1	
+19	2(night):1	7(walk):1	8(day):1	10(restaurant):1	21(excellent):1	29(minute):1	41(city):1	49(shop):1	73(etc):1	99(couple):1	101(center):1	149(run):1	159(access):1	247(min):1	256(euro):1	361(amsterdam):1	450(heart):1	570(tram):1	640(sight-see):1	
+0	
+0	
+4	2(night):1	27(bar):1	58(quiet):1	63(drink):1	
+6	8(day):1	41(city):1	101(center):2	159(access):1	1006(partner):1	7199(rai):1	
+
+<Author>stacelovestotravel
+<Content>Hotel was OK Like other reviewers, we found the hotel to be comfortable and relatively clean. We stayed for 3 nights. We DID get smoked out in the lobby (apparently the non-smoking law goes into effect July 1, 2008). The breakfast was pretty extensive (and was included in our price). The proximity to the tram was good but the 25 minute commute was a little long. Our room seemed small, even for Novotel, with 2 adults and two young children. Overall, an average experience. Would definitely recommend a trip to Texel Island which is only about an hour's drive from Amsterdam plus a 20 min. ferry ride.  
+<Date>Apr 26, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	2(night):1	15(recommend):1	33(trip):1	59(definitely):1	60(hour):1	203(plus):1	218(ride):1	247(min):1	298(drive):1	342(island):1	361(amsterdam):1	1010(ferry):1	
+8	6(breakfast):1	19(price):1	44(experience):1	70(overall):1	71(include):1	109(pretty):1	227(average):1	1703(extensive):1	
+3	277(child):1	556(adult):1	3002(novotel):1	
+5	23(little):1	29(minute):1	570(tram):1	1114(proximity):1	4386(commute):1	
+11	3(clean):1	25(comfortable):1	55(lobby):1	123(ok):1	468(smoke):1	564(reviewer):1	863(apparently):1	913(relatively):1	978(nonsmoking):1	2191(effect):1	2619(law):1	
+0	
+0	
+0	
+
+<Author>IanrJones10
+<Content>Good Stayed for 2 nights. Nice, clean, comfortable room, friendly staff, nice restaurant. Didn't get smoked out in the lobby. The hotel is about 100m from the RAI station and access to and from Schiphol and the city centre is easy. If you're heading out of Amsterdam then you can take a metro to Amstel, Duivendrecht, Zuid or Sloterdijk rail stations and pick up trains from there. This hotel is a nice, more reasonably priced alternative to the city centre hotels and I would certainly stay here again. To give you some idea it is about a 15 minute metro ride to Centraal Station. If you get off the metro at Waterlooplein then that is down to about 10 or 11 minutes. Even closer to the hotel than the RAI rail/metro station is the terminus of the number 4 tram. Take ride into the centre on this and you'll see a little of Amsterdam at the same time.What you don't get at the Novotel is olde worlde chic. Not an oak beam in sight, and no canal buses or flower markets outside your front door. If that's wahat you want then prepare to pay a premium within the Amsterdam canal ring.  
+<Date>Apr 21, 2008
+<Rating>4	4	3	4	5	5	4	-1	
+<Aspects>
+7	2(night):1	29(minute):1	235(metro):1	1472(chic):1	3002(novotel):1	10104(olde):1	12755(waterlooplein):1	
+12	4(nice):1	19(price):1	41(city):1	42(pay):1	101(center):1	361(amsterdam):1	460(prepare):1	578(reasonably):1	638(canal):1	1150(ring):1	1298(alternative):1	1465(premium):1	
+6	0(staff):1	3(clean):1	4(nice):2	10(restaurant):1	12(friendly):1	25(comfortable):1	
+27	28(close):1	29(minute):1	31(front):1	54(door):1	82(station):3	98(outside):1	120(bus):1	182(train):1	218(ride):1	235(metro):2	264(market):1	266(pick):1	335(numb):1	361(amsterdam):1	411(sight):1	570(tram):1	638(canal):1	639(idea):1	778(flower):1	1437(heading):1	1755(rail):2	2450(centraal):1	3688(beam):1	4653(oak):1	4690(terminus):1	4740(amstel):1	7199(rai):1	
+2	55(lobby):1	468(smoke):1	
+0	
+0	
+11	5(time):1	23(little):1	41(city):1	82(station):1	93(easy):1	101(center):2	159(access):1	218(ride):1	361(amsterdam):1	5725(schiphol):1	7199(rai):1	
+
+<Author>puku
+<Content>Average experience Stayed here for 1 night while on work business. Rooms are standard fare for a Novotel Hotel. Dinner and rooms service were poor. Selection limited. And they charged EUR 10 to use the gym which is a small room about 4metres by 4 metres with 3 cardio machines and a weights machine !! Buffet breakfast was standard and nothing special to write about.  
+<Date>Apr 15, 2008
+<Rating>3	3	3	3	3	3	3	2	
+<Aspects>
+2	333(selection):1	510(limit):1	
+4	2(night):1	44(experience):1	147(business):1	227(average):1	
+10	130(standard):1	136(charge):1	493(machine):2	523(gym):1	1112(fare):1	1194(metre):1	1582(weight):1	3002(novotel):1	3084(eur):1	3621(cardio):1	
+0	
+0	
+0	
+8	6(breakfast):1	9(service):1	77(buffet):1	117(dinner):1	130(standard):1	208(special):1	331(poor):1	344(write):1	
+0	
+
+<Author>wareinbelgium
+<Content>It was what we expected.       Hotel  
+<Date>Mar 29, 2008
+<Rating>4	4	3	3	4	5	4	3	
+<Aspects>
+1	62(expect):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>EuroTripsrus
+<Content>Convenient location We were booked at this hotel for 3 nights by Gate 1 Travel. We were very pleased with our stay there. Our room wasn't huge but was more than adequate. The included breakfast was very extensive and of good quality. The desk staff were very courteous and helpful. The location was excellent for us - it is outside the city center - with the beautiful Amstelpark across the street. The RAI station is about a 5 minute walk from the hotel with a direct train link to the airport (15 minutes), train/metro to the city, and excellent tram service to the city. We were very pleased with our stay here.  
+<Date>Mar 28, 2008
+<Rating>4	5	4	4	4	4	4	-1	
+<Aspects>
+1	173(please):2	
+4	6(breakfast):1	71(include):1	187(quality):1	1703(extensive):1	
+2	133(huge):1	390(adequate):1	
+22	1(location):2	2(night):1	7(walk):1	9(service):1	18(book):1	21(excellent):2	29(minute):2	35(street):1	41(city):3	45(beautiful):1	68(travel):1	82(station):1	95(airport):1	98(outside):1	101(center):1	182(train):2	186(convenient):1	570(tram):1	803(direct):1	992(gate):1	1727(link):1	7199(rai):1	
+0	
+4	0(staff):1	14(helpful):1	36(desk):1	483(courteous):1	
+0	
+0	
+
+<Author>rainyday4
+<Content>nice hotel We stayed at this hotel for 2 nights. We had initial problem, my sister and I had booked a twin room but were given a double, when I rang the front desk they just sent up a fold up bed, after going down and talking to them we were given another room. It is a very nice hotel, a short distance by tram from the city centre, we ate there a couple of times, the food was great and the rooms are nice and comfy.  
+<Date>Mar 26, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	2(night):1	4(nice):1	
+0	
+23	4(nice):2	5(time):1	11(bed):1	16(food):1	18(book):1	31(front):1	36(desk):1	41(city):1	47(eat):1	99(couple):1	101(center):1	115(distance):1	144(short):1	179(double):1	371(talk):1	447(send):1	475(comfy):1	570(tram):1	690(twin):1	892(sister):1	1150(ring):1	2074(initial):1	2193(fold):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Bristol2008
+<Content>Nice try Novotel but too far out of Amsterdam Booked late via Cities Direct (who are excellent and I have used before). Wanted to visit Amsterdam, Easter week so not much choice left. Novotel is approx 25 minute tram ride up to Amsterdam City/Central Station so quite far out. The hotel was like a slightly better travel lodge but still 4Star prices for drinks and food. Pleasant staff in restaurant bit stuffy in bar.Tram was approx 400 meters walk to left of front door, next to RAI metro station. Overall OK for hotel but not great location for enjoying the city - especially as weather was cold and wet.  
+<Date>Mar 23, 2008
+<Rating>3	2	3	1	3	4	4	4	
+<Aspects>
+0	
+13	16(food):1	19(price):1	43(leave):1	63(drink):1	65(visit):1	68(travel):1	75(week):1	107(choice):1	361(amsterdam):1	598(slightly):1	1878(lodge):1	2075(easter):1	6082(4star):1	
+0	
+23	1(location):1	7(walk):1	29(minute):1	31(front):1	41(city):2	43(leave):1	51(enjoy):1	54(door):1	70(overall):1	82(station):2	123(ok):1	126(especially):1	218(ride):1	222(cold):1	235(metro):1	361(amsterdam):1	385(weather):1	570(tram):2	1032(wet):1	1194(metre):1	1423(approx):2	3002(novotel):1	7199(rai):1	
+0	
+0	
+16	0(staff):1	4(nice):1	10(restaurant):1	18(book):1	21(excellent):1	27(bar):1	41(city):1	52(bit):1	76(try):1	79(late):1	150(pleasant):1	361(amsterdam):1	512(via):1	803(direct):1	1857(stuffy):1	3002(novotel):1	
+0	
+
+<Author>GoneDivingVA
+<Content>Novotel Amsterdam Leaves Pretty Much Everything to be Desired from the Top Down This hotel has problems from the front door to the rooftop, but mostly with the attitude of its staff.Walking into the lobby is like walking into an ashtray despite the no smoking signs. I could feel the cancer cells forming as I stood there.We called after we arrived in Amsterdam and were told that despite the early arrival time our room would be ready at 9:30. That being the case, we turned down an offer from a family member to use their room at the Holiday Inn (a much smarter booking decision as it turns out) to get a little much-needed rest. When we got to the Novotel, we were told the room was not ready and just needed to be cleaned. At 10am we were told to wait patiently while the desk manager went to a brief management meeting. After he got back at 10:15 we were told the room still just needed to be cleaned and we should be more patient. At this point we were still sitting, or should I say laying full out on sofas?, in the ashtray, I mean lobby, fast asleep. At 11:20, and several return trips to the desk where several large groups had been checked in, our room was finally ready. When we asked to speak with the manager, the desk guy refused until we insisted. At that point the duty manager appeared and in so many words asked what the heck was our problem after having been given a skewed version of the preceding events. I know this because they decided to speak amongst themselves in Dutch, never stopping to consider if any of us spoke Dutch. Unfortunately for them, I speak it fluently. Very uncool, and very poor style.After receiving our dose of verbal abuse, we told him that we wanted to speak with the General Manager who doesn't seem to be available to anyone but his management. It's been 3 days and despite having repeatedly told the duty managers that we expect to hear from the GM, nothing...Customer service here is lousyDirectly above our room is a construction zone that starts every morning at 8am. Another nice touch.Desk staff on the day shift could benefit significantly from custoemr service training. They seem to only be interested in having us charge things to the room. For example, when you ask a simple question, Where is the nearest laundromat?, the answer is you can have the clothes washed here (at exhorbitant rates) and put it on your room. And so forth...Clearly this hotel has training and leadership issues that directly impact the quality of the stay.I would not recommend this hotel, although we have stayed here mutliple times each year for the past 15+ years. This is the 1st bad experience, but by far the most memorable.  
+<Date>Mar 19, 2008
+<Rating>1	2	3	4	3	1	3	3	
+<Aspects>
+28	4(nice):1	5(time):1	15(recommend):1	34(feel):1	102(near):1	122(stop):1	127(speak):3	169(sit):1	219(decide):1	248(consider):1	279(touch):1	326(style):1	331(poor):1	394(question):1	419(past):1	444(stand):1	524(unfortunately):1	613(simple):1	696(lay):1	842(sofa):1	954(example):1	1059(themselves):1	1164(form):1	1583(cell):1	2066(dutch):2	5068(fluently):1	5173(laundromat):1	8577(cancer):1	
+26	8(day):1	9(service):1	44(experience):1	50(bad):1	56(morning):1	62(expect):1	69(tell):1	132(hear):1	165(start):1	182(train):1	187(quality):1	258(manager):1	265(issue):1	383(directly):1	428(customer):1	498(despite):1	583(construction):1	1205(memorable):1	1325(duty):1	1999(forth):1	2227(zone):1	3029(repeatedly):1	4012(gm):1	4236(impact):1	7545(8am):1	12753(leadership):1	
+32	3(clean):2	5(time):1	18(book):1	23(little):1	53(arrive):1	55(lobby):1	67(call):1	69(tell):3	78(rate):1	89(offer):1	106(family):1	136(charge):1	223(holiday):1	224(arrival):1	246(mean):1	274(ready):2	288(rest):1	324(inn):1	361(amsterdam):1	498(despite):1	499(fast):1	669(answer):1	709(clothe):1	811(wash):1	1539(decision):1	1687(smart):1	1882(patient):1	2123(asleep):1	3002(novotel):1	4814(ashtray):1	8309(exhorbitant):1	12325(much-need):1	
+6	7(walk):2	55(lobby):1	449(sign):1	468(smoke):1	498(despite):1	4814(ashtray):1	
+0	
+48	0(staff):2	8(day):1	9(service):1	31(front):1	32(check):1	33(trip):1	36(desk):4	39(return):1	54(door):1	69(tell):2	85(wait):1	109(pretty):1	118(top):1	127(speak):2	134(available):1	182(train):1	196(meet):1	258(manager):4	274(ready):1	302(receive):1	341(finally):1	361(amsterdam):1	368(guy):1	525(management):2	541(appear):1	571(word):1	821(attitude):1	1063(rooftop):1	1103(refuse):1	1106(event):1	1219(desire):1	1325(duty):1	1495(insist):1	1524(benefit):1	1593(leaf):1	2036(brief):1	2479(shift):1	2723(version):1	3002(novotel):1	3085(heck):1	3138(significantly):1	5601(patiently):1	5918(abuse):1	6329(dose):1	7512(10am):1	9038(precede):1	9133(verbal):1	12326(skew):1	
+0	
+0	
+
+<Author>Tiramisu1
+<Content>Location far but good sevice and great breakfast. The Novotel Amsterdam is located near the RAI Convention center and RAI train station. It is a bit far from the city center but accessible through the #4 tram which is only a short walk away. The rooms are overall quite clean and efficient and the shower was excellent. The television was hooked up to the bathroom speaker which was interesting although I can see how it could be annoying. The sound sometimes was louder in the bathroom then in front of the television!The service was excellent for us. We had a problem in which we were charged something from the minibar that we did not eat and when we mentioned it to the front desk, it was instantly cleared. Also, they were very always friendly and welcoming. Breakfast was included in our package and was fantastic for hotel breakfasts. It is a buffet breakfast that consists of the standard fare (cold cuts, cereal etc.) but there were tons of variety (several shelves filled with different kinds of bread for example) There was also a selection of hot food including eggs, sausage, bacon and a rotating dish of pancakes or potatoes. Overall, we had a wonderful experience with this hotel.  
+<Date>Mar 8, 2008
+<Rating>4	5	4	4	4	5	4	-1	
+<Aspects>
+2	12(friendly):1	202(welcome):1	
+3	44(experience):1	48(wonderful):1	70(overall):1	
+14	3(clean):1	13(bathroom):2	21(excellent):1	31(front):1	61(shower):1	70(overall):1	401(efficient):1	409(sound):1	416(loud):1	560(sometimes):1	695(annoy):1	1158(television):2	2145(hook):1	2398(speaker):1	
+18	1(location):1	6(breakfast):1	7(walk):1	41(city):1	52(bit):1	82(station):1	84(locate):1	101(center):2	102(near):1	144(short):1	182(train):1	361(amsterdam):1	570(tram):1	1048(convention):1	1342(accessible):1	3002(novotel):1	5248(sevice):1	7199(rai):2	
+0	
+7	31(front):1	36(desk):1	47(eat):1	136(charge):1	244(mention):1	1037(minibar):1	3181(instantly):1	
+30	6(breakfast):3	9(service):1	16(food):1	21(excellent):1	71(include):2	73(etc):1	77(buffet):1	86(fantastic):1	114(hot):1	130(standard):1	222(cold):1	333(selection):1	412(egg):1	413(variety):1	491(fill):1	497(bread):1	527(package):1	529(cereal):1	816(dish):1	873(cut):1	954(example):1	967(ton):1	1057(bacon):1	1112(fare):1	1185(consist):1	1385(sausage):1	1477(pancake):1	1484(shelf):1	2027(potato):1	4939(rotate):1	
+0	
+
+<Author>Superwoman07
+<Content>Comfy Room We stayed at the Novotel Amsterdam City for 2 nights in late November. Good experience with the hotel- comfy room, etc., but not a location that I would recommend. It is very far out of the city center and you will walk a good 10 minutes from the tram drop off... area felt a little abandoned at night.  
+<Date>Mar 5, 2008
+<Rating>4	4	4	2	4	5	4	3	
+<Aspects>
+0	
+5	1(location):1	15(recommend):1	44(experience):1	73(etc):1	475(comfy):1	
+7	2(night):1	41(city):1	79(late):1	361(amsterdam):1	475(comfy):1	999(november):1	3002(novotel):1	
+10	2(night):1	7(walk):1	23(little):1	29(minute):1	34(feel):1	41(city):1	101(center):1	570(tram):1	662(drop):1	4480(abandon):1	
+0	
+0	
+0	
+0	
+
+<Author>muskrat2
+<Content>No problems The first stop on a three country Gate 1 tour and the best hotel on the trip, it was clean and convenient. Pickup a tram strip at the front desk, go out the front door, take a left and you can't miss Tram #4 which goes to the city center. Once there, find the canal bus (tickets good for a day and 1/2) and ride around the city, getting on and off at the major attractions.The rooms were nice with two single beds that were fairly comfortable, althought a little too hard. The shower only has half of a door, for whatever reason, and it's one giant step getting into the tub. A slight challange for old guys with bad knees. We forgot that European hotels don't furnish wash cloths. Next time we are going to bring some of our old ones and chuck them at the end of the stay.Excellent food and service at thr breakfast buffet.The only negative on the hotel was that we arrived at 9 AM and could not check in until 3 PM--unless we wanted to pay 10 euros per hour. They will allow you to check your luggage and, as mentioned earlier, downtown is easy to get to.We would stay here again.  
+<Date>Mar 1, 2008
+<Rating>4	4	4	4	4	4	5	-1	
+<Aspects>
+3	5(time):1	142(bring):1	7005(chuck):1	
+8	32(check):1	42(pay):1	53(arrive):1	60(hour):1	256(euro):1	282(negative):1	393(pm):1	405(unless):1	
+25	4(nice):1	11(bed):1	23(little):1	25(comfortable):1	50(bad):1	54(door):1	61(shower):1	162(hard):1	283(half):1	304(single):1	311(tub):1	366(step):1	368(guy):1	374(reason):1	397(forget):1	462(fairly):1	582(european):1	787(furnish):1	811(wash):1	937(whatever):1	1297(slight):1	1864(cloth):1	2158(giant):1	3139(knee):1	5429(althought):1	
+8	8(day):1	41(city):1	120(bus):1	218(ride):1	315(major):1	350(attraction):1	621(ticket):1	638(canal):1	
+7	3(clean):1	33(trip):1	122(stop):1	181(tour):1	186(convenient):1	530(country):1	992(gate):1	
+16	31(front):2	32(check):1	36(desk):1	41(city):1	43(leave):1	54(door):1	93(easy):1	101(center):1	244(mention):1	249(luggage):1	276(miss):1	334(downtown):1	359(allow):1	570(tram):2	1379(strip):1	2258(pickup):1	
+6	6(breakfast):1	9(service):1	16(food):1	21(excellent):1	77(buffet):1	8310(thr):1	
+0	
+
+<Author>Seein'_the_world
+<Content>Breakfast buffet was fantastic Okay, but not as nice as in the photos on their website. We heard repeatedly how the Dutch insist on clean windows, yet the window in our room was filthy. The room and bath were clean and the mini-fridge amply stocked. The mattress was thin, lumpy, and hard. The material of the duvet cover irritated my skin and in typical European fashion, there was no top sheet.If too tired to go into town for dinner, I recommend the hotel bar. Not as obscenely expensive as the restaurant, but excellent food and service. We had a delightful server who recommended various Dutch beers for us as well as menu items. Delicious!The staff was friendly and helpful, particularly with our questions about the tram. The breakfast buffet is truly amazing. Thirty years ago when traveling in the Netherlands, breakfast was bread and coffee. The buffet offered eggs, fried rice, beans, fruits, breads, cereal, meats, cheese, and so much more.  
+<Date>Feb 24, 2008
+<Rating>4	3	3	3	4	2	4	-1	
+<Aspects>
+15	118(top):1	162(hard):1	479(sheet):1	485(delicious):1	552(cover):1	582(european):1	628(typical):1	754(thin):1	847(mattress):1	1745(fashion):1	2439(duvet):1	2467(irritate):1	2681(material):1	2746(skin):1	3162(lumpy):1	
+0	
+18	3(clean):2	15(recommend):1	119(window):2	132(hear):1	226(bath):1	423(menu):1	443(beer):1	519(item):1	599(stock):1	823(various):1	1176(delightful):1	1320(filthy):1	1495(insist):1	1540(server):1	2066(dutch):2	2828(mini-fridge):1	3029(repeatedly):1	10144(amply):1	
+6	0(staff):1	12(friendly):1	14(helpful):1	394(question):1	553(particularly):1	570(tram):1	
+0	
+0	
+34	4(nice):1	6(breakfast):3	9(service):1	10(restaurant):1	15(recommend):1	16(food):1	21(excellent):1	27(bar):1	68(travel):1	77(buffet):3	86(fantastic):1	89(offer):1	90(coffee):1	117(dinner):1	124(expensive):1	145(amaze):1	215(fruit):1	239(town):1	262(website):1	412(egg):1	441(cheese):1	453(okay):1	454(tire):1	476(truly):1	497(bread):2	529(cereal):1	633(ago):1	677(meat):1	761(photo):1	1009(fry):1	1499(rice):1	2550(bean):1	4969(netherlands):1	8678(thirty):1	
+0	
+
+<Author>boarder45
+<Content>Loved it and would have no hesitation going back A group of us stayed at the Novotel beginning of February. It was a surprise 40th present for a friend and I am so glad we stayed here. The hotel got wind that it was her birthday - without any prompting they delivered a bottle of wine to her room and when we were having dinner that evening brought a birthday cocktail over for her. This kind of attention in my eyes was so nice and added to the fact that the hotel is lovely, well kept, very clean and the food is brill. It is very close to the tram terminal which will take you into the centre of amsterdam within 10 mins. Also the main rail station RAI is right next to it so very easy to get there from the airport.I would advise anyone to stay here.  
+<Date>Feb 11, 2008
+<Rating>4	5	4	4	4	4	5	3	
+<Aspects>
+10	40(love):1	146(friend):1	199(surprise):1	551(begin):1	619(glad):1	663(advise):1	1230(february):1	1373(hesitation):1	2554(40th):1	3002(novotel):1	
+0	
+0	
+12	28(close):1	82(station):1	93(easy):1	95(airport):1	101(center):1	112(main):1	247(min):1	361(amsterdam):1	570(tram):1	1261(terminal):1	1755(rail):1	7199(rai):1	
+8	3(clean):1	4(nice):1	16(food):1	87(lovely):1	351(add):1	726(attention):1	977(eye):1	5382(brill):1	
+0	
+9	117(dinner):1	142(bring):1	238(bottle):1	251(wine):1	631(deliver):1	716(cocktail):1	765(birthday):2	1168(wind):1	1208(prompt):1	
+0	
+
+<Author>TomBamber
+<Content>Novotel - Business or Pleasure I stay here 3 times a month on business. Primary reason is location tooffice. Hotel is clean, predictable and relatively efficient. If you are coming from the airport, take the train to RAI station then a 5 minute amble - save time and money by not taking a cab at the airport.Limited food options at hotel but bar is fine. Note, you are not in the centre of Amsterdam so you will need to travel to eat out and see the sites - Transport to Amsterdam City centre can be quick and cheap - take the train or tram from RAI station into the Centre. Rates verydepending on occupancy - there are a lot of expositions in Amsterdam.  
+<Date>Jan 7, 2008
+<Rating>3	3	3	3	3	4	3	3	
+<Aspects>
+0	
+0	
+0	
+31	1(location):1	5(time):2	29(minute):1	38(lot):1	41(city):1	47(eat):1	68(travel):1	78(rate):1	80(money):1	82(station):2	95(airport):2	101(center):3	143(cheap):1	147(business):2	182(train):2	192(site):1	297(note):1	299(quick):1	361(amsterdam):3	374(reason):1	380(cab):1	388(month):1	425(save):1	570(tram):1	742(transport):1	907(pleasure):1	3002(novotel):1	3172(occupancy):1	4116(primary):1	7199(rai):2	9876(amble):1	
+4	3(clean):1	401(efficient):1	913(relatively):1	7354(predictable):1	
+0	
+5	16(food):1	27(bar):1	113(fine):1	336(option):1	510(limit):1	
+0	
+
+<Author>tiflove
+<Content>Hotel nice shame about the staff attitude The room was very nice and clean, however on the first day when we asked about public transport, they did not tell usthat they sold the tram tickets. The staff were very keen for us to charge things, giving the impression that they prefer the business traveller to tourists. Public transport was very good.  
+<Date>Jan 3, 2008
+<Rating>3	3	4	3	4	2	1	4	
+<Aspects>
+0	
+0	
+0	
+12	0(staff):1	3(clean):1	4(nice):2	8(day):1	69(tell):1	379(public):2	570(tram):1	606(sell):1	621(ticket):1	742(transport):2	821(attitude):1	1292(shame):1	
+0	
+8	0(staff):1	136(charge):1	147(business):1	209(tourist):1	267(traveler):1	536(prefer):1	848(impression):1	2641(keen):1	
+0	
+0	
+
+<Author>Irenee_Shpak
+<Content>nice hotel quite nice hotel!Novotel is just a quiet, nice, shiny hotel, as all around the world.this one is not the exception.it's really huge, though rooms are really small.for me it was convenient to stay there because it is situated just 10 minutes walk from the RAI congress center!!but for those who are just tourists, i think it's not that comfortable, though there is a tram number 4, that connects the hotel with th city center.the tram goes till 12 at night! so if you go to redlights or will be late on any other reason, you will have to take a taxi, which is round 20 euro...so you choose)the room is simply standard, nothing special.the breakfast is tasty and really huge!the hotel staff is very kind and attentive.  
+<Date>Dec 13, 2007
+<Rating>3	3	3	2	3	5	3	-1	
+<Aspects>
+2	4(nice):2	1128(exception):1	
+0	
+14	4(nice):1	58(quiet):1	79(late):1	130(standard):1	133(huge):1	167(choose):1	185(taxi):1	208(special):1	256(euro):1	272(world):1	374(reason):1	488(simply):1	3002(novotel):1	4826(shiny):1	
+16	2(night):1	7(walk):1	25(comfortable):1	29(minute):1	41(city):1	101(center):2	186(convenient):1	209(tourist):1	335(numb):1	570(tram):2	574(situate):1	841(connect):1	979(till):1	2505(th):1	7199(rai):1	8111(congress):1	
+0	
+2	0(staff):1	537(attentive):1	
+3	6(breakfast):1	133(huge):1	984(tasty):1	
+0	
+
+<Author>dekor
+<Content>Great hotel! Brilliant hotel, me, better half and a friend went there for two nights and have to say one of nicer hotels I have visited!The staff were friendly, helpful, courteous.The room was quaint and comfy and warm. The bathroom was also nice although speakers built into ceiling that play whats on the tv gets a little annoying after a while!We picked this hotel as it is not too far from the city centre but is away from the hustle and bussle. Breakfast was lovely and set us up ready for each day!Would highly recommend this place to anybody!  
+<Date>Nov 25, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+8	2(night):1	4(nice):1	15(recommend):1	65(visit):1	138(highly):1	146(friend):1	283(half):1	793(brilliant):1	
+0	
+13	4(nice):1	13(bathroom):1	23(little):1	116(tv):1	135(build):1	236(warm):1	386(play):1	475(comfy):1	528(ceiling):1	695(annoy):1	1295(quaint):1	2398(speaker):1	4637(whats):1	
+5	41(city):1	101(center):1	266(pick):1	1503(hustle):1	6805(bussle):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	483(courteous):1	
+5	6(breakfast):1	8(day):1	87(lovely):1	234(set):1	274(ready):1	
+0	
+
+<Author>jennicole20
+<Content>Average business hotel Small, but optimally situated rooms. The rooms and bathrooms seem to be recently remodeled or at least very well maintained. The mattresses could use an update!Wireless internet worked much better before the hotel filled up for the conference. The distance to the RAI was a little more than I had hoped but wasn't bad when the weather was pleasent. The #4 tram is nearby and can take you right into the city center as it really isn't walkable from the Novotel. The restaruant had pretty good food and a full menu is available for room service if requested, otherwise a short menu is provided.Check out took over 40 minutes which was a stressful start to the day as the conference started at 8am.  
+<Date>Nov 19, 2007
+<Rating>3	3	4	1	4	4	4	2	
+<Aspects>
+9	23(little):1	50(bad):1	115(distance):1	328(hope):1	385(weather):1	725(update):1	847(mattress):1	3057(pleasent):1	7199(rai):1	
+7	8(day):1	29(minute):1	32(check):1	165(start):2	794(conference):1	3916(stressful):1	7545(8am):1	
+4	13(bathroom):1	322(recently):1	562(maintain):1	1238(remodel):1	
+9	41(city):1	101(center):1	147(business):1	227(average):1	232(nearby):1	570(tram):1	574(situate):1	2197(walkable):1	3002(novotel):1	
+0	
+0	
+10	9(service):1	16(food):1	109(pretty):1	134(available):1	144(short):1	148(request):1	153(provide):1	423(menu):2	508(otherwise):1	7482(restaruant):1	
+4	97(internet):1	491(fill):1	717(wireless):1	794(conference):1	
+
+<Author>Ricardodesantaalbana
+<Content>Efficient and comfortable The checkin was polite and efficient and the room clean and comfortable. I have no complaints about this hotel and the breakfast was excellent; a very comprehensive buffet (rather busy but the staff were excellent). The hotel was in easy walking distance to the RAI convention centre and the RAI station as well as Tram 14 which takes you straight into the city.  
+<Date>Nov 15, 2007
+<Rating>4	5	4	3	4	4	4	3	
+<Aspects>
+0	
+0	
+5	3(clean):1	25(comfortable):2	401(efficient):2	422(polite):1	1818(checkin):1	
+10	7(walk):1	41(city):1	82(station):1	93(easy):1	101(center):1	115(distance):1	570(tram):1	827(straight):1	1048(convention):1	7199(rai):2	
+0	
+0	
+7	0(staff):1	6(breakfast):1	21(excellent):2	77(buffet):1	190(complaint):1	220(busy):1	4693(comprehensive):1	
+0	
+
+<Author>coconutpinksoda
+<Content>Pay as you go I arrived early Sat morning 11/08/07 and was informed check in was an noon. Since the early check in free was 10 euro and hour, I decided to leave my bags. The front desk said I could leave my bags in a room down the hall. I waited by the desk in front of that locked room for 15 mins, but nobody every came. Went back to the front desk and checked in since I was so exhausted. They made 40 euros or about $60 on the transaction.You pay an extra 10 euro a day for the health club.The restaurant food was poor quality. But if you walk across the street to the Holiday Inn their restaurant was far superior.The train station is a block away. Take the #4 light rail to city center (outside of the station/not on platform).Room was great' well designed for a small space and modern, but the add on charges and poor quality food really bring the experience down to an unacceptable level.  
+<Date>Nov 13, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	256(euro):1	5407(transaction):1	
+18	8(day):1	16(food):1	42(pay):1	44(experience):1	128(extra):1	136(charge):1	142(bring):1	151(modern):1	187(quality):1	210(space):1	212(club):1	256(euro):1	306(level):1	331(poor):1	351(add):1	516(design):1	1736(health):1	2230(unacceptable):1	
+0	
+15	7(walk):1	10(restaurant):1	35(street):1	41(city):1	82(station):2	98(outside):1	100(bloc):1	101(center):1	157(light):1	182(train):1	223(holiday):1	324(inn):1	785(superior):1	1755(rail):1	3509(platform):1	
+0	
+20	31(front):3	32(check):3	36(desk):3	42(pay):1	43(leave):2	46(free):1	53(arrive):1	56(morning):1	60(hour):1	85(wait):1	169(sit):1	219(decide):1	247(min):1	256(euro):1	290(bag):2	616(hall):1	774(lock):1	817(inform):1	1309(noon):1	1769(exhaust):1	
+4	10(restaurant):1	16(food):1	187(quality):1	331(poor):1	
+0	
+
+<Author>Seedy
+<Content>Unremarkable Business Hotel This Hotel is a modern building close to the RAI centre in the south of Amsterdam. In many ways it is fairly anonymous, having the usual amenities of the type, but is well run and has a range of shops as part of the complex.It is a little too far from the tourist attractions of central Amsterdam, but should suit business travellers.  
+<Date>Oct 9, 2007
+<Rating>4	4	4	3	4	4	3	5	
+<Aspects>
+0	
+0	
+17	23(little):1	49(shop):1	147(business):1	149(run):1	168(central):1	209(tourist):1	267(traveler):1	291(amenity):1	350(attraction):1	361(amsterdam):1	389(type):1	462(fairly):1	682(usual):1	714(range):1	861(suit):1	1074(complex):1	6346(anonymous):1	
+9	28(close):1	101(center):1	135(build):1	147(business):1	151(modern):1	361(amsterdam):1	769(south):1	6128(unremarkable):1	7199(rai):1	
+0	
+0	
+0	
+0	
+
+<Author>KTBs_Travel
+<Content>At least they were polite Spent two nights in early July on a travel industry rate. Arrived late morning, as do most tourists from the States. We could have checked in early by paying an upcharge of around 25 Euros. We opted to change in the bathrooms and leave our bags with the concierge for the day.I usually have great luck with Accor hotels in Europe, but I won't be booking the Novotel Amsterdam again based solely upon their early check-in surcharge.  
+<Date>Aug 8, 2007
+<Rating>2	2	4	3	3	1	2	3	
+<Aspects>
+10	2(night):1	53(arrive):1	56(morning):1	64(spend):1	68(travel):1	78(rate):1	79(late):1	209(tourist):1	422(polite):1	2635(industry):1	
+0	
+7	8(day):1	13(bathroom):1	43(leave):1	161(change):1	204(concierge):1	290(bag):1	1184(opt):1	
+0	
+0	
+15	18(book):1	32(check):1	42(pay):1	256(euro):1	284(base):1	286(check-in):1	361(amsterdam):1	399(usually):1	487(wo):1	700(europe):1	1055(luck):1	3002(novotel):1	4057(surcharge):1	4543(solely):1	6275(accor):1	
+0	
+0	
+
+<Author>HomerJaySimpson43
+<Content>Nice hotel with convenient access down to the city centre Comfortable hotel with large rooms, updated bathrooms, good food at the restaurant, helpful and friendly staff (english speaking). Location is outside the city center in a business / convention type area called Rai. Tram available 5min from the hotel which travels right through the center of Amsterdam down to the main train station, Centraal.If you prefer to stay where the action is right outside the door, this place is not for you. If you like to take part in the action and then retire to a hotel in a quiet and safe hotel, the Novotel is a good choice.We would not recommend walking to the city center, the tram will get you there for ~1.30 Euros per person. Tickets are conveniently available at the hotel reception desk.TIP #1: Get on and off the tram not at the Station Rai stop, but the one that's one step closer to the hotel where technically the tram service stops and the crew go into a rest building. Advantage when you get on the tram here is that they don't always check for tickets which means that you get a free ride! When you get off here, it's a shorter walk to the hotel.TIP #2: If you decide to take a taxi from Centraal to the hotel, be aware that the taxi drivers at the train station will try to rip you off and overcharge you. It should be 10-15 Euros but the taxis are not metered and they will claim that it's a zone that costs 35-50 Euros. They are lying. Make sure that you settle on a price before you get into the taxi. We got ripped off and paid an extra 20 Euros for the taxi, hopefully our experience is your gain.Overall, Amsterdam is a great place to visit and the Novotel is a good choice of hotel to act as a base to make the most of your trip.  
+<Date>Aug 4, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	1166(lie):1	
+20	33(trip):1	42(pay):1	44(experience):1	58(quiet):1	65(visit):1	70(overall):1	107(choice):2	128(extra):1	137(safe):1	185(taxi):1	256(euro):1	284(base):1	361(amsterdam):1	958(action):1	1182(rip):1	1633(hopefully):1	1920(Act):1	2722(gain):1	3002(novotel):2	3522(retire):1	
+15	0(staff):1	4(nice):1	10(restaurant):1	12(friendly):1	13(bathroom):1	14(helpful):1	16(food):1	25(comfortable):1	41(city):1	101(center):1	127(speak):1	152(english):1	159(access):1	186(convenient):1	725(update):1	
+54	1(location):1	7(walk):2	9(service):1	15(recommend):1	19(price):1	28(close):1	32(check):1	41(city):2	46(free):1	54(door):1	67(call):1	68(travel):1	76(try):1	82(station):3	98(outside):2	101(center):3	112(main):1	122(stop):2	134(available):1	135(build):1	144(short):1	147(business):1	175(cost):1	182(train):2	185(taxi):4	193(person):1	194(tip):2	218(ride):1	219(decide):1	246(mean):1	256(euro):3	288(rest):1	361(amsterdam):1	366(step):1	389(type):1	536(prefer):1	563(driver):1	570(tram):5	621(ticket):1	832(aware):1	867(advantage):1	958(action):1	1048(convention):1	1077(claim):1	1182(rip):1	1194(metre):1	1414(settle):1	1654(crew):1	2227(zone):1	2450(centraal):2	3155(overcharge):1	3577(5min):1	5187(technically):1	7199(rai):2	
+0	
+5	36(desk):1	129(reception):1	134(available):1	621(ticket):1	1070(conveniently):1	
+0	
+0	
+
+<Author>hotcomper
+<Content>We really enjoyed this hotel       Hotel from outside.  
+<Date>Jul 22, 2007
+<Rating>4	4	4	4	4	5	4	4	
+<Aspects>
+0	
+0	
+0	
+2	51(enjoy):1	98(outside):1	
+0	
+0	
+0	
+0	
+
+<Author>Daman1992
+<Content>Great Hotel... Even Greater Breakfast!!!       Picture of Room  
+<Date>Jul 20, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+1	456(picture):1	
+0	
+0	
+0	
+1	6(breakfast):1	
+0	
+
+<Author>prav30
+<Content>Poor Service Overall poor service - we were not satisfied with the room - management did nothing to help. Management was very arrogent. I do not recommend this hotel.  
+<Date>Jul 19, 2007
+<Rating>1	1	1	3	2	3	1	3	
+<Aspects>
+1	15(recommend):1	
+0	
+0	
+0	
+0	
+1	525(management):1	
+6	9(service):2	70(overall):1	92(help):1	331(poor):2	525(management):1	899(satisfy):1	
+0	
+
+<Author>UrbietOrbi
+<Content>Near the RAI I attended a conference at the Convention Center in Amsterdam, called the RAI. I was worried that the Novotel would be quite far as every hotel in the area advertises close to RAI. Despite my worries, I was able to walk to the meetings from the hotel in about 10 minutes. There is a convenient tram stop nearby and a communter rail that will get you in 15 min to the airport (Schipol). If you want to go into town, it's a half hour tram ride, it runs till midnight. While the hotel is well kept and efficient, the staff were a little impersonal, typical of the huge chain hotels in Europe. The other unfortunate aspect is that they do not have rooms for three unrelated people (a couple with child is OK as they have queens with sofa bed). There is no such thing as three beds so my two companions and I took turns sleeping on the floor. The hotel is gracious enough to only add 35 euros per night for the extra person so it was still better than an extra room. Don't even think about having breakfast there, they'll get you for 20 euros. Better walk over to the kiosk at the train station and have a coffee and a pastry.Over all, for the price, I am happy with what I got.  
+<Date>Jul 17, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+2	19(price):1	155(happy):1	
+19	2(night):1	11(bed):2	24(floor):1	26(people):1	99(couple):1	104(sleep):1	123(ok):1	128(extra):2	193(person):1	256(euro):1	277(child):1	351(add):1	543(Queen):1	842(sofa):1	1255(aspect):1	1501(gracious):1	2663(unfortunate):1	2998(companion):1	12714(unrelated):1	
+38	7(walk):2	28(close):1	29(minute):1	60(hour):1	67(call):1	82(station):1	90(coffee):1	95(airport):1	101(center):1	102(near):1	122(stop):1	149(run):1	171(able):1	182(train):1	186(convenient):1	218(ride):1	232(nearby):1	239(town):1	247(min):1	283(half):1	361(amsterdam):1	498(despite):1	570(tram):2	652(pastry):1	794(conference):1	826(attend):1	831(worry):1	885(worried):1	910(advertise):1	979(till):1	1044(midnight):1	1048(convention):1	1755(rail):1	2346(meeting):1	3002(novotel):1	3330(kiosk):1	5301(schipol):1	7199(rai):3	
+0	
+8	0(staff):1	23(little):1	133(huge):1	401(efficient):1	627(chain):1	628(typical):1	700(europe):1	2754(impersonal):1	
+2	6(breakfast):1	256(euro):1	
+0	
+
+<Author>telstock
+<Content>A good all round experience We (that is my wife, 3year old daughter, and I) stayed at the Novotel for 4 nights over the UK bank holiday weekend from 25th 鈥?28th May.We drove by car from Dunkirk to the hotel by car approximately 3.5hrs.The hotel is easily located from the motorway and you cannot miss it as you leave the A10.Plenty of parking spaces although the daily rate is confusing 15 鈥?18 euro鈥檚 per 24 hours advertised on various websites and 9 euro鈥檚 on the tariff card in our room.Whilst on the subject of the car, some years ago I did drive into the centre of Amsterdam 鈥?never again. Too few spaces, parking charges are high, too many driving distractions i.e. Trams; cycle paths; pedestrians; and finally other car users. Take the tram and canal bus or hire a cycle much easier. Whilst the hotel appears to be predominately a business hotel, tourists will not feel out of place. The check in is efficient with polite and helpful staff.The lobby areas and restaurant had a slightly 70鈥檚 feel to it and I don鈥檛 mean this in a negative way considering that a 70鈥檚 revival is very much 鈥榯he in thing鈥?鈥?it was just my personal impression for what is worth.We liked the fact that our child was not charged for the stay, the room had a double bed whilst our daughter slept on the small double sofa bed.The room was clean and without defects, although the carpet looked like it might benefit from quick clean, putting that rather minor point aside the room was very clean and comfortable.We booked the hotel via their own website at a rate of 129 euro鈥檚 per night and this included the breakfast which other user鈥檚 have already commented on 鈥?we could not fault it!The hotel location was fine for us, the area felt safe, the journey by tram into the city is useful as it gives you feel of the general layout and you also pass other parts of the city that you might not see otherwise with interesting shops and restaurants.We had a great time and recommend the hotel, good standard, efficiently run, friendly staff, family friendly 鈥?What more can we say.  
+<Date>May 31, 2007
+<Rating>4	4	3	3	3	4	4	-1	
+<Aspects>
+4	121(car):2	298(drive):1	1464(hr):1	1961(approximately):1	
+11	2(night):1	44(experience):1	172(weekend):1	184(wife):1	223(holiday):1	467(daughter):1	1178(uk):1	1225(bank):1	1943(25th):1	2668(28th):1	3002(novotel):1	
+30	3(clean):3	11(bed):2	20(look):1	25(comfortable):1	60(hour):1	66(park):1	78(rate):1	104(sleep):1	136(charge):1	158(plenty):1	179(double):2	210(space):1	256(euro):2	262(website):1	277(child):1	292(card):1	299(quick):1	360(daily):1	396(carpet):1	467(daughter):1	720(minor):1	823(various):1	842(sofa):1	877(whilst):1	910(advertise):1	1419(confuse):1	1502(aside):1	1524(benefit):1	5152(tariff):1	10740(defect):1	
+37	1(location):1	10(restaurant):1	34(feel):3	41(city):2	43(leave):1	49(shop):1	66(park):1	84(locate):1	93(easy):1	113(fine):1	120(bus):1	121(car):1	136(charge):1	137(safe):1	147(business):1	209(tourist):1	210(space):1	276(miss):1	298(drive):1	341(finally):1	400(pass):1	438(easily):1	508(otherwise):1	541(appear):1	570(tram):3	638(canal):1	877(whilst):1	1232(useful):1	1362(journey):1	1453(layout):1	1556(hire):1	1612(path):1	2403(pedestrian):1	2756(user):1	3813(cycle):2	6578(distraction):1	6918(motorway):1	
+0	
+12	0(staff):2	5(time):1	12(friendly):2	14(helpful):1	15(recommend):1	32(check):1	106(family):1	130(standard):1	149(run):1	401(efficient):1	422(polite):1	2461(efficiently):1	
+23	2(night):1	6(breakfast):1	10(restaurant):1	18(book):1	34(feel):1	55(lobby):1	71(include):1	78(rate):1	96(worth):1	166(own):1	246(mean):1	248(consider):1	256(euro):1	262(website):1	282(negative):1	356(comment):1	512(via):1	517(fault):1	598(slightly):1	711(personal):1	848(impression):1	908(don):1	2756(user):1	
+7	101(center):1	121(car):1	298(drive):1	361(amsterdam):1	633(ago):1	877(whilst):1	2979(subject):1	
+
+<Author>walkrgrl
+<Content>Worth it We stayed here for three days and enjoyed it quite a bit. The hotel was not located in town but that was not an issue, the tram into town is right there (#4) about a block away and we could be in Central Amsterdam in just a few minutes. The train is also there which you can take to Schipol Airport or Leiden if looking for the gardens. The location was great, breakfast was really good and we had it included in our rate. It gave us a chance to really start our day nice. Although we stayed out late every evening we never had an issue or felt unsafe. The twin room was small by our standards here in the states but was perfect for people who are basically in and out on vacation. Bathrooms were new and modern. The staff friendly and helpful.Would definitely stay here again.  
+<Date>May 25, 2007
+<Rating>4	4	3	3	4	3	3	-1	
+<Aspects>
+9	8(day):1	34(feel):1	51(enjoy):1	52(bit):1	59(definitely):1	79(late):1	96(worth):1	265(issue):1	1890(unsafe):1	
+10	4(nice):1	8(day):1	26(people):1	74(perfect):1	130(standard):1	131(vacation):1	165(start):1	689(chance):1	690(twin):1	790(basically):1	
+2	13(bathroom):1	151(modern):1	
+17	1(location):1	6(breakfast):1	20(look):1	29(minute):1	71(include):1	78(rate):1	84(locate):1	95(airport):1	100(bloc):1	168(central):1	182(train):1	239(town):2	265(issue):1	310(garden):1	361(amsterdam):1	570(tram):1	5301(schipol):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>zivbahar
+<Content>The easy way to enjoy yoour vacation       room view  
+<Date>Apr 22, 2007
+<Rating>5	5	5	3	5	3	5	5	
+<Aspects>
+0	
+4	17(view):1	51(enjoy):1	93(easy):1	131(vacation):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>travellingted
+<Content>Recommend this Hotel We spent two nights at the Novotel on a 3 night stay in The Netherlands and would highly recommend it as a hotel, especially if you can get a good deal that includes the substantial buffet breakfast. Rooms are standard for this type of hotel. The hotel is 20 minutes from central amsterdam by the number 4 train, which terminates 2 minutes from the hotel. It is also 2 minutes from Rai train station, where you can catch trains to and from the hotel. Staff were helpful and the reception dest sells strips of tram tickets. The only down side is the distance to central Amsterdam, but the tram ride is reasonably scenic, so this isn't a big deal.  
+<Date>Apr 10, 2007
+<Rating>4	4	4	3	4	5	5	-1	
+<Aspects>
+0	
+0	
+2	130(standard):1	389(type):1	
+15	29(minute):3	82(station):1	115(distance):1	140(deal):1	168(central):2	182(train):3	218(ride):1	335(numb):1	361(amsterdam):2	540(catch):1	570(tram):1	578(reasonably):1	3103(scenic):1	7199(rai):1	10134(terminate):1	
+0	
+8	0(staff):1	14(helpful):1	129(reception):1	570(tram):1	606(sell):1	621(ticket):1	1379(strip):1	7105(dest):1	
+12	2(night):2	6(breakfast):1	15(recommend):2	64(spend):1	71(include):1	77(buffet):1	126(especially):1	138(highly):1	140(deal):1	2970(substantial):1	3002(novotel):1	4969(netherlands):1	
+0	
+
+<Author>SouthjerseyCraig
+<Content>Learn about the tram The hotel is not in Central Amsterdam. It is located near a transit hub several miles away. The best way to reach the attractions is to take the #4 (I believe) tram. Its starting point is about a block and a half from the hote. (walk out the front door, and go to your left. The tram goes to the central rail station in Amsterdam. Eventually there will be a subway line between the hotel's vicinity and downown.I had two different rooms in this hotel. The first, unfortunately, was right by the elevator; the second was nicer. As in all European hotels, the room is small by American standards. It does not have a full shower door, but instead a panel that covers maybe a quarter of the shower. You'll easily get used to it. The restaurant downstairs is a good place for very basic food, and for the free breakfast. You might as well eat there during your stay.The concierge and front desk were very friently. Don't worry: their English is excellent.If you need a transfer back to the airport, the hotel offers one at about 10 euros.  
+<Date>Jan 20, 2007
+<Rating>4	-1	4	3	5	5	4	-1	
+<Aspects>
+9	21(excellent):1	47(eat):1	152(english):1	188(line):1	370(subway):1	438(easily):1	831(worry):1	1204(eventually):1	2232(vicinity):1	
+4	100(bloc):1	165(start):1	283(half):1	5878(hote):1	
+13	54(door):1	61(shower):2	89(offer):1	95(airport):1	130(standard):1	256(euro):1	308(maybe):1	353(instead):1	463(quarter):1	552(cover):1	582(european):1	1021(transfer):1	2134(panel):1	
+18	7(walk):1	31(front):1	43(leave):1	54(door):1	82(station):1	84(locate):1	102(near):1	168(central):2	312(believe):1	350(attraction):1	361(amsterdam):2	570(tram):3	692(mile):1	703(learn):1	851(reach):1	1755(rail):1	2015(transit):1	3027(hub):1	
+0	
+3	31(front):1	36(desk):1	204(concierge):1	
+9	4(nice):1	6(breakfast):1	10(restaurant):1	16(food):1	46(free):1	216(elevator):1	352(basic):1	524(unfortunately):1	691(downstairs):1	
+0	
+
+<Author>CliffordGould
+<Content>Transport and Breakfast at the Novotel We stayed here for 3 nights from 14th to 17th December 2006. Excellent transport links made this a good choice for us - next to tram, bus and train stops, 15 mins from airport, and 20 mins to cross the whole of Amsterdam by the fast and frequent tram No 4. We bought a 48 hour all-in ticket for E10 which took us everywhere except to and from the airport by train. We expected a modern business hotel, which it is, but were pleasantly surprised by the efficient professional friendly service, by the excellent breakfasts included in our E125 double, and a very good evening meal at E35 each including simple drinks. Buffet breakfast had the option of full English, Continental with fine beef, ham and cheeses, lots of fruit and yoghourt and decent strong coffee. Clean, comfortable room, with good lighting. Only real minus was smoking in the reception area. Would be happy to return even though we generally prefer older atmospheric hotels right in the centre of cities. Clifford and Patricia Gould. Somerset, England.  
+<Date>Dec 27, 2006
+<Rating>4	5	4	5	5	5	5	-1	
+<Aspects>
+3	1970(england):1	7365(patricia):1	12756(somerset):1	
+0	
+3	3(clean):1	25(comfortable):1	157(light):1	
+24	2(night):1	6(breakfast):1	21(excellent):1	60(hour):1	95(airport):2	107(choice):1	120(bus):1	122(stop):1	182(train):2	247(min):2	280(buy):1	337(except):1	361(amsterdam):1	499(fast):1	570(tram):2	621(ticket):1	742(transport):2	993(december):1	1228(cross):1	1355(frequent):1	1727(link):1	1998(14th):1	2143(17th):1	3002(novotel):1	
+4	129(reception):1	240(real):1	468(smoke):1	2064(minus):1	
+0	
+30	6(breakfast):2	9(service):1	12(friendly):1	21(excellent):1	38(lot):1	62(expect):1	63(drink):1	71(include):2	77(buffet):1	90(coffee):1	113(fine):1	147(business):1	151(modern):1	152(english):1	179(double):1	199(surprise):1	213(meal):1	215(fruit):1	257(decent):1	336(option):1	372(continental):1	401(efficient):1	441(cheese):1	501(professional):1	613(simple):1	747(pleasantly):1	893(strong):1	927(yogurt):1	1561(ham):1	1572(beef):1	
+6	39(return):1	41(city):1	101(center):1	155(happy):1	536(prefer):1	5215(atmospheric):1	
+
+<Author>Bli_Gus
+<Content>Fairly Good Stayed here for 2 nights in early Dec as part of Kumuka tour. The hotel is located near the RAI Congress centre, and is also conveniently located near the train/tram stations. A trip to the city centre takes approx 20 minutes.The room themselves are above-average size for a European hotel and were comfortable and pleasant. A plus was the tea/coffee maker they provided. Buffet breakfast was good, and staff were quite helpful. Avoid using the internet though, at EUR3 / 15 mins it is quite expensive. Overall a pleasant stay, and if you don't mind travelling by public transport into the city then this hotel is value for money.  
+<Date>Dec 11, 2006
+<Rating>4	4	4	2	4	3	4	2	
+<Aspects>
+0	
+4	97(internet):1	124(expensive):1	247(min):1	436(avoid):1	
+10	2(night):1	25(comfortable):1	83(size):1	150(pleasant):1	181(tour):1	462(fairly):1	582(european):1	1059(themselves):1	1508(dec):1	7724(above-average):1	
+17	41(city):1	68(travel):1	70(overall):1	80(money):1	81(value):1	82(station):1	84(locate):2	101(center):1	102(near):2	150(pleasant):1	182(train):1	294(mind):1	379(public):1	742(transport):1	1070(conveniently):1	7199(rai):1	8111(congress):1	
+0	
+0	
+8	0(staff):1	6(breakfast):1	14(helpful):1	77(buffet):1	153(provide):1	203(plus):1	301(tea):1	996(maker):1	
+5	29(minute):1	33(trip):1	41(city):1	101(center):1	1423(approx):1	
+
+<Author>danipk
+<Content>Good hotel for reasonable prices My brother and I decided to fly to Amsterdam in quite short notice, which is a bit of a problem in the end of August. We needed a hotel with reasonable prices, accessible for wheelchair and preferably in the center. After almost losing hope we found the Novotel which had 2 of the 3. It was a bit out of the center, but it had a trm station near by that took us within 15 minutes to the center of town.The price was good: we found a hot deal ON THE SITE of the hotel, where they claimed to give you an extra discount if you find a cheper price than their's on the internet.The room wasn't very big but fine for us. It was clean and kept up nicely. The bathroom was all set up for disabled. The staff was helpful and polite.We had breakfast only once, through room service. Although it was nice I don't think it was worth the 18.5 Euro per person they took for it.The bottom line: Nothing fancy but suits all your needs if you don't mind being out of the immediate center.2 small things:1. While making the reservation I specified a wheelchair accessible room, but when I called the morning before leaving to make sure all is in order they didn't have it written down.2. At check out they almost charged us for 4 breakbasts altough we had only one. Not on purpose, I'm sure. Just keep out for those things.Enjoy!  
+<Date>Sep 29, 2006
+<Rating>4	3	3	2	4	3	3	-1	
+<Aspects>
+9	4(nice):1	51(enjoy):1	96(worth):1	193(person):1	256(euro):1	328(hope):1	596(lose):1	1428(purpose):1	3002(novotel):1	
+16	19(price):3	52(bit):1	97(internet):1	114(hot):1	128(extra):1	140(deal):1	144(short):1	192(site):1	219(decide):1	273(reasonable):1	354(notice):1	361(amsterdam):1	614(fly):1	864(discount):1	1077(claim):1	2010(brother):1	
+19	13(bathroom):1	43(leave):1	56(morning):1	67(call):1	101(center):1	113(fine):1	156(reservation):1	188(line):1	234(set):1	294(mind):1	344(write):1	796(fancy):1	850(bottom):1	861(suit):1	1342(accessible):1	1761(immediate):1	3327(wheelchair):1	3449(specify):1	3535(disable):1	
+6	29(minute):1	52(bit):1	82(station):1	101(center):2	102(near):1	239(town):1	
+2	3(clean):1	404(nicely):1	
+6	0(staff):1	14(helpful):1	32(check):1	136(charge):1	422(polite):1	7264(altough):1	
+2	6(breakfast):1	9(service):1	
+6	19(price):1	101(center):1	273(reasonable):1	1342(accessible):1	3327(wheelchair):1	6444(preferably):1	
+
+<Author>davehol
+<Content>Globus Tour Stayed during Globus Tour. Tram/ Bus/Train/ station only 5 minutes away. Very helpful staff. Room was nice and clean. We would stay there again.  
+<Date>Aug 19, 2006
+<Rating>4	4	4	3	4	5	3	-1	
+<Aspects>
+0	
+0	
+2	3(clean):1	4(nice):1	
+6	29(minute):1	82(station):1	120(bus):1	181(tour):2	570(tram):1	5104(globus):2	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>rich_and_lisa
+<Content>Good budget hotel We have just returned from a weekend break in Amsterdam where we stayed at the Novotel. We had already read other comments on Tripadvisor to gain an understanding of the hotel and checked on the map so realised its location was slightly out of the centre (for info: there is a tram (No 4) that provides a frequent service into the centre of Amsterdam and the number 51 train to central station, centre of Amsterdam, from RAI.).Upon arrival it is very easy to travel from the airport to this hotel by train and takes under 10 minutes and only 2 stops. The hotel is only a 2-minute walk from the RAI station.Our first impressions of the hotel from the outside was that it did look like an office block, however to be fair it is located within the trade centre area. Inside 鈥?its clean fairly modern and noticeably refurbished within recent years. We found the reception staff were friendly and helpful whilst we were checking in. We had asked for a nice room (as it was a special occasion), which was accommodated on the 10th floor, this floor also seemed to be newly refurbished. The room was modern/contemporary and clean.The low points of this hotel is the lax response on service, e.g. asking for an iron/board, took around 40 minutes and 2 calls to chase this up before it arrived.Room service 鈥?again the call rang off and we had to try again and again before speaking with someone, though in saying that when the food arrived it was good. We found the general staff within the hotel were very much there to do a job as opposed to making you feel welcomed.On our last day as we were flying out in the afternoon we decided to eat before heading off to the airport. We went down to the caf茅/restaurant to get something to eat. Although we arrived during a busy period we still had to search for the waiting staff to take our order. We then waited on our food; this was then delivered wrong around 35 minutes later. No apology was given and to be honest the staff seemed untrained in dealing with problems. We told the waitress what we had ordered and off they went. We then got the revised food another 20 minutes later, which was swimming in grease and to be honest, inedible. We didn鈥檛 want to make a big deal out of it, as we really had to go so we went to pay and were confronted by the waitress asking us 鈥渘ot to be angry鈥??We paid and left.In summary 鈥?we experienced poor service especially in the caf茅/restaurant. The location is out of the centre but is easily accessible by tram/train as also noted by other 'trip advisors'. If you can get a good deal, this is a hotel to be considered if your travelling on a budget.  
+<Date>Aug 6, 2006
+<Rating>3	3	4	3	3	3	2	-1	
+<Aspects>
+9	39(return):1	68(travel):1	140(deal):1	172(weekend):1	228(break):1	248(consider):1	361(amsterdam):1	429(budget):2	3002(novotel):1	
+2	42(pay):1	43(leave):1	
+21	3(clean):2	4(nice):1	8(day):1	24(floor):2	47(eat):1	95(airport):1	151(modern):2	208(special):1	219(decide):1	364(afternoon):1	408(inside):1	462(fairly):1	614(fly):1	624(accommodate):1	871(occasion):1	1064(recent):1	1189(newly):1	1253(refurbish):2	1437(heading):1	1592(10th):1	6874(noticeably):1	
+48	0(staff):1	1(location):2	7(walk):1	9(service):1	20(look):1	29(minute):1	32(check):1	33(trip):1	68(travel):1	82(station):2	84(locate):1	88(read):1	93(easy):1	95(airport):1	98(outside):1	100(bloc):1	101(center):5	122(stop):1	140(deal):1	153(provide):1	168(central):1	182(train):2	224(arrival):1	297(note):1	335(numb):1	356(comment):1	361(amsterdam):2	391(understand):1	438(easily):1	570(tram):2	597(tripadvisor):1	598(slightly):1	607(realize):1	701(advisor):1	724(map):1	739(fair):1	792(office):1	848(impression):1	1108(honest):1	1342(accessible):1	1355(frequent):1	1360(info):1	1547(apology):1	2044(trade):1	2722(gain):1	7199(rai):2	8615(untrained):1	11591(2-minute):1	
+0	
+28	0(staff):3	12(friendly):1	14(helpful):1	16(food):1	29(minute):1	32(check):1	34(feel):1	42(pay):1	53(arrive):1	69(tell):1	79(late):1	85(wait):2	129(reception):1	140(deal):1	202(welcome):1	220(busy):1	427(wrong):1	481(job):1	631(deliver):1	877(whilst):1	1022(didn):1	1248(search):1	1331(period):1	1387(waitress):2	2401(oppose):1	2830(angry):1	3687(ot):1	4617(confront):1	
+26	9(service):3	10(restaurant):2	16(food):2	29(minute):2	44(experience):1	47(eat):1	53(arrive):2	67(call):2	76(try):1	79(late):1	126(especially):1	127(speak):1	261(swim):1	331(poor):1	513(low):1	868(iron):1	1108(honest):1	1150(ring):1	1330(response):1	1716(summary):1	2532(caf):2	3003(chase):1	3198(lax):1	4265(inedible):1	4994(grease):1	12327(revise):1	
+0	
+
+<Author>TravellerGuyUK
+<Content>A good hotel, great for a weekend break We get travel concessions and were looking at the various hotels we can use. The Novotel had vacancies at a very good rate so decided to go there even though it looked quite far from the centre.The rooms have been refurbished to the new Novotel standard, which meant they were clean, contemporary and very comfortable. The standard is very good and you certainly get a good night's rest.It isn't central, but you can get from Schipol to the RAI station in about 10 mins which is convenient and to the centre its a direct tram line which runs until around 1am which is more than enough.I'm not sure how much the full price would be, but if you are happy with the price you get, you won't be disappointed with staying here.  
+<Date>Jul 20, 2006
+<Rating>4	5	5	3	5	4	4	4	
+<Aspects>
+9	2(night):1	20(look):1	68(travel):1	130(standard):1	172(weekend):1	228(break):1	288(rest):1	823(various):1	8238(concession):1	
+4	19(price):2	154(disappoint):1	155(happy):1	487(wo):1	
+7	3(clean):1	25(comfortable):1	130(standard):1	246(mean):1	1253(refurbish):1	1475(contemporary):1	3002(novotel):1	
+12	82(station):1	101(center):1	149(run):1	168(central):1	186(convenient):1	188(line):1	247(min):1	570(tram):1	803(direct):1	5301(schipol):1	7199(rai):1	8726(1am):1	
+0	
+0	
+0	
+6	20(look):1	78(rate):1	101(center):1	219(decide):1	3002(novotel):1	5498(vacancy):1	
+
+<Author>limelight_orange
+<Content>Good Hotel Have been staying at this hotel for quite a long time, and the last time was in Dec 2005. It was a good and big hotel. Easily reached by train and tram. Reaching the city centre was easy, there's a tram around (few walks away). The rooms are medium sized, quite clean, the staffs are quite friendly. Breakfast was good and a lot of variety. The neighborhood was quiet since it wasn't located in the prime area.  
+<Date>May 11, 2006
+<Rating>4	3	3	-1	3	-1	3	-1	
+<Aspects>
+2	5(time):2	1508(dec):1	
+0	
+9	0(staff):1	3(clean):1	12(friendly):1	58(quiet):1	83(size):1	84(locate):1	421(neighbourhood):1	1774(prime):1	2762(medium):1	
+8	7(walk):1	41(city):1	93(easy):1	101(center):1	182(train):1	438(easily):1	570(tram):2	851(reach):2	
+0	
+0	
+3	6(breakfast):1	38(lot):1	413(variety):1	
+0	
+
+<Author>EdmTraveller101
+<Content>Nice, clean hotel, but out of central Amsterdam Stayed at this hotel as part of a European tour for one night in March 2005. As I was travelling with a friend, we requested two single beds, however, what we got was one single bed and a sofa type bed for the second person. The room was exceptionally clean but very small and cramped. The single bed was comfortable, however, the sofa bed was not and would not have wanted to spend more than the one night on it.The bathroom was well appointed with a tub/shower and room to move around in. Our breakfast the following morning was included, but consisted of the usual; breads, cereals, yogurt, coffee and juice. The hotel also has a very nice bar on the main floor and the service was great there. Met some locals from the city and they were very nice to chat with. My only real complaint about this hotel is that it is quite far from central Amsterdam and could be a problem to see all the sights from. While there we did tour the canals and the infamous red light district, however, if you want to be in the centre of the city I would not recommend the hotel. If you're looking for somewhere quiet to stay away from the hustle and bustle, then it's a great choice.  
+<Date>May 8, 2006
+<Rating>3	-1	3	-1	4	-1	4	-1	
+<Aspects>
+10	4(nice):1	41(city):1	168(central):1	190(complaint):1	195(local):1	196(meet):1	240(real):1	361(amsterdam):1	411(sight):1	1629(chat):1	
+5	20(look):1	58(quiet):1	107(choice):1	1107(bustle):1	1503(hustle):1	
+27	2(night):1	3(clean):1	11(bed):5	13(bathroom):1	15(recommend):1	25(comfortable):1	41(city):1	64(spend):1	68(travel):1	101(center):1	146(friend):1	148(request):1	157(light):1	181(tour):1	193(person):1	207(move):1	304(single):3	311(tub):1	389(type):1	433(district):1	579(appoint):1	590(red):1	638(canal):1	842(sofa):2	1080(cramp):1	1242(exceptionally):1	5045(infamous):1	
+0	
+8	2(night):1	3(clean):1	4(nice):1	168(central):1	181(tour):1	361(amsterdam):1	582(european):1	615(march):1	
+0	
+16	4(nice):1	6(breakfast):1	9(service):1	24(floor):1	27(bar):1	56(morning):1	71(include):1	90(coffee):1	112(main):1	362(juice):1	482(follow):1	497(bread):1	529(cereal):1	682(usual):1	927(yogurt):1	1185(consist):1	
+0	
+
+<Author>arrowflight
+<Content>Bahaus Chic in Tulipville         
+<Date>Apr 29, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	1472(chic):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>bluelobster1
+<Content>Great Room, Great Price, even Greater Breakfast!! This hotel was great. After seeing some of the hotels in the city centre I knew I had made the right choice. It is out of the centre but there is a tram right outside which takes you right into the centre and it runs until the small hours. Trams are frequent and you can get on while the driver is usually chain smoking outside. This hotel is also only 2 train stops from the airport which is handy for the budget traveller. Larger then most downtown hotels it had large rooms with a bath, cable tv, minibar and a safe. Buffet breakfast is excellent value. Staff were friendly and helpful (especially Cruz)Would I stop here again??..... Yes.... no question, and intend to do so later this year!!!  
+<Date>Apr 23, 2006
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+4	79(late):1	250(yes):1	394(question):1	1862(intend):1	
+5	6(breakfast):1	19(price):1	41(city):1	101(center):1	107(choice):1	
+6	116(tv):1	137(safe):1	226(bath):1	334(downtown):1	484(cable):1	1037(minibar):1	
+16	60(hour):1	95(airport):1	98(outside):2	101(center):2	122(stop):1	149(run):1	182(train):1	267(traveler):1	399(usually):1	429(budget):1	468(smoke):1	563(driver):1	570(tram):2	627(chain):1	755(handy):1	1355(frequent):1	
+0	
+6	0(staff):1	12(friendly):1	14(helpful):1	122(stop):1	126(especially):1	7928(cruz):1	
+4	6(breakfast):1	21(excellent):1	77(buffet):1	81(value):1	
+0	
+
+<Author>henri1710
+<Content>Far, but certainly worth it Due to my montly meeting in Amsterdam, I am quite familiar with the city and have stayed in several hotels before.This hotel is quite perfect for someone who doesn't mind being far out, but the service from front desk to housekeeping is very good and rooms recently refurbished.Breakfast was a typical buffet and quite good.For all it's worth, this hotel only ranks below the Hotel Jolly Carlton and the Rennaisance having stayed 9 differents hotel in Amsterdam, at least for now my preference is limited to 3 hotels.As said earlier for whom city center is not an importance, I would highly recommended this hotel.  
+<Date>Apr 19, 2006
+<Rating>4	3	4	-1	4	-1	4	-1	
+<Aspects>
+12	41(city):1	96(worth):2	196(meet):1	259(due):1	361(amsterdam):2	510(limit):1	585(below):1	1518(carlton):1	1795(rank):1	2081(familiar):1	2268(preference):1	4713(jolly):1	
+0	
+8	9(service):1	31(front):1	36(desk):1	74(perfect):1	294(mind):1	322(recently):1	367(housekeeping):1	1253(refurbish):1	
+0	
+0	
+0	
+3	6(breakfast):1	77(buffet):1	628(typical):1	
+5	15(recommend):1	41(city):1	101(center):1	138(highly):1	5610(importance):1	
+
+<Author>franklin9176
+<Content>Perfect for a get away... We went here via a commerical travel agency (online). The location is approximatley 25 minutes via tram to the downtown city. The hotel is WORTH staying at -- clean, beautiful (recently redone), breakfast is HUGE, managment were fabulous. RECOMMEND!! The price was very very reasonable! Taxi ride is approximatley 20 Euros from the downtown to the hotel FYI.  
+<Date>Nov 30, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	15(recommend):1	
+2	19(price):1	273(reasonable):1	
+0	
+10	1(location):1	29(minute):1	41(city):1	185(taxi):1	218(ride):1	256(euro):1	334(downtown):2	512(via):1	570(tram):1	3091(fyi):1	
+9	3(clean):1	6(breakfast):1	45(beautiful):1	96(worth):1	133(huge):1	270(fabulous):1	322(recently):1	2795(redo):1	5141(managment):1	
+0	
+0	
+5	68(travel):1	74(perfect):1	512(via):1	822(online):1	2218(agency):1	
+
+<Author>yasi
+<Content>Very nice hotel Even its far away from the city center, there is direct tram line just in front of hotel. Its bit expensive regarding where its located but very spacious room, clean and nice setting. The breakfast is very good. At least a buffet not continental one where you have only one croissant and butterjam. Very helpfull reception.  
+<Date>Nov 18, 2005
+<Rating>4	3	4	-1	4	-1	5	-1	
+<Aspects>
+0	
+8	3(clean):1	4(nice):1	52(bit):1	84(locate):1	111(spacious):1	124(expensive):1	234(set):1	930(regard):1	
+0	
+7	4(nice):1	31(front):1	41(city):1	101(center):1	188(line):1	570(tram):1	803(direct):1	
+0	
+2	129(reception):1	1478(helpfull):1	
+4	6(breakfast):1	77(buffet):1	372(continental):1	1004(croissant):1	
+0	
+
+<Author>mnik2006
+<Content>OK hotel, could be cleaner, beware of hidden taxes! The hotel is ok, a bit pricey for its category and it is not very well connected to the center (walking not recommended).The room is ok, the sofa in the room could have been cleaner (dust) and the bed covers were old and started to wear away. They also charged us a hidden tax which made the stay even more pricey. The hotel plays on confusion as the reservation receipt says something on the lines of:- Tax A, 12.23 Euro included- Tax B, 23.33 Euro included- Tax for sdkjfh and dsj is 14%so you don't know if the third line is describing tax A or tax B or if it is another tax and if it is included or not in the bill. It wasn't a huge amount but you feel a bit cheated when they pull some extra tax while checking you out.  
+<Date>Nov 6, 2005
+<Rating>3	3	4	-1	3	-1	4	-1	
+<Aspects>
+0	
+11	7(walk):1	15(recommend):1	52(bit):1	101(center):1	123(ok):1	136(charge):1	546(pricey):2	798(tax):1	841(connect):1	1195(hide):1	2011(category):1	
+8	3(clean):1	11(bed):1	123(ok):1	165(start):1	434(wear):1	552(cover):1	842(sofa):1	1845(dust):1	
+0	
+5	3(clean):1	123(ok):1	737(beware):1	798(tax):1	1195(hide):1	
+19	32(check):1	34(feel):1	52(bit):1	71(include):3	128(extra):1	133(huge):1	156(reservation):1	188(line):2	256(euro):2	386(play):1	495(bill):1	532(third):1	666(amount):1	798(tax):7	858(pull):1	955(describe):1	2725(receipt):1	2831(confusion):1	3934(cheat):1	
+0	
+0	
+

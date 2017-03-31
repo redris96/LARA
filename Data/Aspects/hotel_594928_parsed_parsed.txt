@@ -1,0 +1,686 @@
+<Author>nikoze
+<Content>superb service       BBQ Dinner 2  
+<Date>Jan 6, 2009
+<Rating>4	4	5	4	5	3	4	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+4	9(service):1	117(dinner):1	407(superb):1	2072(bbq):1	
+0	
+
+<Author>Malino
+<Content>Stylish boutique villa hotel on a budget       bedroom  
+<Date>Dec 11, 2008
+<Rating>4	5	4	4	4	4	4	-1	
+<Aspects>
+0	
+0	
+5	268(bedroom):1	429(budget):1	623(boutique):1	712(villa):1	961(stylish):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Suzie26_8
+<Content>The Elysian - Heaven on Earth From the moment we began our 9 day holiday at the Elysian, in a 1 bedroom villa we knew we were in Paradise. We were in villa 12B which was just in-front of the main pool. A great position!It was my 4th trip to Bali and my partner's 1st. The villa and its surrounds were mesmerizing. The staff were very friendly and attentive. The villa pool was the perfect temperature as was the room. The air conditioning was very powerful. They attended to our requests promptly and with kindness. On 1 occasion when John had a headache, 1 staff member climbed a tree to pick a coconut for him to drink for medicinal purposes. 2 hours later, he was a rejuvenated man.With a great variety of meals and snacks at the restaurant and a superb breakfast, we have found the villa and restaurant of our dreams. The coffee latte is a must have.We will only now stay at The Elysian and plan to do so mid 2009.They have a great little gift shop with an exquisite choice of silver jewellery. I purchased a ring and pair of earrings which so many people have commented on here in Melbourne.I visited their day spa 2 times and was not disappointed. The chocolate scrub is a treatment you will never forget.There is always a surprise around the corner at the Elysian. They prepare the room at night for you as well as leave the most delicious chocolates for you to enjoy. There is a great selection of music to enjoy as well as endless TV channels. The mini bar had a great selection and was not overly priced.We wish we were still there. OhhhhhThe bed was perfect. It was King size and so comfortable.The bathroom and shower always had plenty of hot water and essentials.ie: body wash, toothbrush, shaver. Everything you need.We can't say enough about the service. It was 5 star ++++.The safe in the room was easy to operate. The Security on the premises was operational -24/7. We thought the location was ideal. 5 mins walk to the beach. Hardly any traffic on the backstreats. We enjoyed exploring.The newspaper was always delivered each morning as was a detailed description of the weather forecast and suggestions for dining.On 2 occasions we received invitations to some private functions they arranged for guests, free of charge. Unfortunately we missed them as were busy.When I mentioned that I liked the Indonesian music on the iPod, a staff member copied it onto a cd for me.We could go on and on......We recommend this villa to any age group. Thank-you to all the staff for a holiday we will never forget. See you all next year.Suzie and John  
+<Date>Nov 11, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+32	5(time):1	8(day):1	15(recommend):1	33(trip):1	51(enjoy):1	60(hour):1	65(visit):1	79(late):1	154(disappoint):1	199(surprise):1	200(corner):1	221(plan):1	314(spa):1	384(wish):1	397(forget):1	505(age):1	594(explore):1	632(chocolate):1	712(villa):1	811(wash):1	814(bali):1	845(4th):1	1006(partner):1	1147(treatment):1	1313(mid):1	1352(body):1	2359(john):1	2471(toothbrush):1	3706(scrub):1	8317(shaver):1	10648(rejuvenate):1	12455(elysian):2	
+6	19(price):1	27(bar):1	103(star):1	333(selection):1	448(mini):1	1345(overly):1	
+50	2(night):1	8(day):1	11(bed):1	13(bathroom):1	22(pool):1	25(comfortable):1	26(people):1	43(leave):1	51(enjoy):2	57(water):1	61(shower):1	74(perfect):2	83(size):1	93(easy):1	114(hot):1	116(tv):1	137(safe):1	158(plenty):1	164(air):1	223(holiday):1	243(king):1	263(condition):1	268(bedroom):1	333(selection):1	356(comment):1	398(music):1	460(prepare):1	485(delicious):1	551(begin):1	632(chocolate):1	641(security):1	670(moment):1	712(villa):2	741(channel):1	748(Paradise):1	887(purchase):1	944(temperature):1	1150(ring):1	1363(heaven):1	1623(operate):1	1989(premiss):1	2026(powerful):1	2201(earth):1	2207(pair):1	2496(essential):1	2498(endless):1	5893(operational):1	6140(melbourne):1	8642(earring):1	12455(elysian):2	
+21	1(location):1	7(walk):1	23(little):1	30(beach):1	49(shop):1	107(choice):1	220(busy):1	247(min):1	276(miss):1	486(traffic):1	524(unfortunately):1	545(ideal):1	667(surround):1	712(villa):1	852(gift):1	985(hardly):1	1093(position):1	2261(jewellery):1	2400(silver):1	2751(exquisite):1	10061(mesmerize):1	
+0	
+36	0(staff):4	12(friendly):1	22(pool):1	46(free):1	63(drink):1	91(guest):1	112(main):1	136(charge):1	148(request):1	223(holiday):1	244(mention):1	266(pick):1	302(receive):1	397(forget):1	398(music):1	492(private):1	537(attentive):1	680(arrange):1	712(villa):1	826(attend):1	828(tree):1	871(occasion):2	1212(promptly):1	1424(climb):1	1428(purpose):1	1729(cd):1	1780(function):1	1938(coconut):1	2245(copy):1	2353(ipod):1	2359(john):1	3421(kindness):1	3482(indonesian):1	3886(headache):1	7178(invitation):1	8486(thank-you):1	
+20	6(breakfast):1	9(service):1	10(restaurant):2	56(morning):1	90(coffee):1	213(meal):1	316(dine):1	385(weather):1	406(snack):1	407(superb):1	413(variety):1	592(detail):1	631(deliver):1	712(villa):1	921(suggestion):1	1256(dream):1	1372(newspaper):1	2034(description):1	4110(forecast):1	4990(latte):1	
+0	
+
+<Author>john1584
+<Content>Wonderfull  I would like to say thank you for all the elysian staff, cause they made our stay memorible and all of the staff was very friendly  helpfull. They arranged our Dinner be come a romantic candle lite Dinner that make our honeymoon so Special at the elysian. I recommand to all of you if you like to have honeymoon to stay at the elysian. and front office staff were execellent , the food was delicious. I'll be back to the elysia for the next trip in Bali.  
+<Date>Oct 27, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+2	33(trip):1	814(bali):1	
+9	117(dinner):2	208(special):1	502(honeymoon):2	680(arrange):1	707(romantic):1	1854(candle):1	5225(lite):1	5778(recommand):1	12455(elysian):2	
+0	
+0	
+0	
+12	0(staff):3	12(friendly):1	16(food):1	31(front):1	271(thank):1	485(delicious):1	792(office):1	943(cause):1	1478(helpfull):1	2901(wonderfull):1	9240(execellent):1	12455(elysian):1	
+0	
+0	
+
+<Author>chilloutkoala
+<Content>Elysian Nasty Surprise       Elysian Romantic huh  
+<Date>Oct 26, 2008
+<Rating>2	4	5	4	5	2	4	5	
+<Aspects>
+5	199(surprise):1	707(romantic):1	1639(nasty):1	5523(huh):1	12455(elysian):2	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>cpmt77
+<Content>Just love Seminyak We have just returned from 7 nights at Elysian Villas. The breakfast everyday was great. Tasty Eggs Benedict with a very good flat white coffee and a selection of freshly squeezed fruit juices. All the staff including: room service, restaurant, reception, ground and security staff were very helpful and friendly. Access available to laptops/internet in the restaurant and reception. Comfortable villas - although private you could still hear conversations from neighbouring villas. Access to the Elysian is via a long laneway at the side of the Oberoi which is a bit of a trek on a hot day. But once you are out of the laneway you are in a great location close to the classy Ku De Ta where you can enjoy a relaxing cocktail while watching the sun go down and sipping a cocktail. We had two great meals at Ultimo in Seminyak - best pasta and beef carpaccio and great service. Also had a great meal at La Luciola - fantastic setting - but if you like a nice bottle of wine with dinner be prepared to pay top dollar. The only negative thing about the villa was the fact that the sunbed was in direct sunlight - no shade at all. We have been to Bali a few times but this time we hired a motor bike and it was the best fun. Only AU$6.00 a day and we went everywhere on it. If you want a great massage opt for the couples room at Bodyworks just around the corner from the Villas. So relaxing!  
+<Date>Oct 24, 2008
+<Rating>4	4	4	3	5	5	5	5	
+<Aspects>
+20	2(night):1	5(time):2	8(day):1	25(comfortable):1	39(return):1	40(love):1	132(hear):1	160(relax):1	176(fun):1	492(private):1	712(villa):3	814(bali):1	934(neighbour):1	1281(conversation):1	1479(bike):1	1556(hire):1	2336(motor):1	3116(seminyak):1	8563(au$):1	12455(elysian):1	
+12	4(nice):1	42(pay):1	86(fantastic):1	117(dinner):1	118(top):1	213(meal):1	225(la):1	234(set):1	238(bottle):1	251(wine):1	430(dollar):1	460(prepare):1	
+6	282(negative):1	712(villa):1	795(shade):1	803(direct):1	2826(sunbed):1	4390(sunlight):1	
+11	1(location):1	28(close):1	51(enjoy):1	160(relax):1	245(watch):1	420(sun):1	716(cocktail):2	1488(classy):1	2714(sip):1	2740(ta):1	3034(ku):1	
+0	
+4	10(restaurant):1	129(reception):1	134(available):1	159(access):1	
+26	0(staff):2	6(breakfast):1	9(service):2	10(restaurant):1	12(friendly):1	14(helpful):1	71(include):1	90(coffee):1	129(reception):1	213(meal):1	215(fruit):1	333(selection):1	362(juice):1	412(egg):1	466(white):1	535(flat):1	605(everyday):1	641(security):1	706(grind):1	984(tasty):1	1143(pasta):1	1572(beef):1	1775(freshly):1	1963(squeeze):1	3116(seminyak):1	6189(benedict):1	
+13	8(day):1	52(bit):1	99(couple):1	114(hot):1	159(access):1	200(corner):1	512(via):1	712(villa):1	730(massage):1	1184(opt):1	2910(trek):1	5712(oberoi):1	12455(elysian):1	
+
+<Author>cttraveler07
+<Content>Perfect getaway for relaxing honeymoon We booked the Honeymoon Package at the Elysian after hearing great things about the resort. We loved our stay! From the moment we were picked up from the airport to when we left, the service was extremely pleasant and courteous. The concierge was very knowledgeable and helpful in recommending good restaurants, a surf lesson, and a place to get a haircut. We stayed in a 1 bedroom villa. It was quiet, clean, private, and very spacious. Room service was always prompt. The villa's private plunge pool was a little chilly, but still nice to have. There is also a nice hotel pool with daybeds poolside to relax. The food at the hotel restaurant was not bad. We had dinner there one night, and also a candlelit dinner delivered to our villa as part of our package. We had breakfast there every morning, with many food options to choose from and fresh fruit juices. They also made good mixed drinks at the bar.We had a couple's massage treatment at their spa as part of our package too, and it was wonderful! I highly recommend it. The hotel does have a scheduled shuttle service that will take you to the beach or to places in Kuta. But if you miss the shuttle times, a taxi ride to surrounding areas is very cheap, around 2 dollars. Yes, the hotel is a little tucked away in the side streets, but since it was so easy to get taxis, we did not mind that at all. If anything, it was nice to return home at night to the peace and quiet of our hotel.Also, if you need to exchange money, the concierge will call the money changer to come and deliver the money in person, for no extra charge. It's a great service because I was told that there are a lot of street places that are potentially shady and give counterfeit money or do not give you the best rate. So either use an ATM machine, or exchange with the person the hotel calls for.The Elysian is right near Ku De Ta, which is one of the most popular restuarants in Seminyak. The food is pretty good there, and there is a lot of lounge areas and different bars if you want to hang out after dinner. Overall, a wonderful experience, and a good value for what you are getting. We would definitely go there again!  
+<Date>Oct 22, 2008
+<Rating>5	4	5	4	5	5	5	5	
+<Aspects>
+18	4(nice):1	15(recommend):1	22(pool):1	23(little):1	40(love):1	59(definitely):1	102(near):1	138(highly):1	492(private):1	712(villa):1	1277(popular):1	2095(restuarants):1	2622(chilly):1	2740(ta):1	3034(ku):1	3116(seminyak):1	3144(plunge):1	12455(elysian):1	
+13	18(book):1	44(experience):1	48(wonderful):1	70(overall):1	72(resort):1	74(perfect):1	81(value):1	132(hear):1	160(relax):1	502(honeymoon):2	527(package):1	1089(getaway):1	12455(elysian):1	
+30	2(night):1	3(clean):1	4(nice):2	9(service):2	10(restaurant):1	14(helpful):1	15(recommend):1	22(pool):1	39(return):1	43(leave):1	58(quiet):2	95(airport):1	110(extremely):1	111(spacious):1	141(home):1	150(pleasant):1	160(relax):1	204(concierge):1	266(pick):1	268(bedroom):1	483(courteous):1	492(private):1	670(moment):1	712(villa):1	1160(knowledgeable):1	1208(prompt):1	1343(lesson):1	1396(surf):1	1430(poolside):1	1517(peace):1	
+24	5(time):1	9(service):2	23(little):1	30(beach):1	35(street):2	38(lot):1	69(tell):1	78(rate):1	80(money):1	93(easy):1	143(cheap):1	185(taxi):2	218(ride):1	250(yes):1	276(miss):1	294(mind):1	321(shuttle):2	430(dollar):1	667(surround):1	1196(schedule):1	1885(kuta):1	2091(tuck):1	2543(shady):1	5242(potentially):1	
+0	
+9	67(call):1	80(money):3	128(extra):1	136(charge):1	193(person):1	204(concierge):1	631(deliver):1	1514(exchange):1	9581(changer):1	
+23	2(night):1	6(breakfast):1	10(restaurant):1	16(food):3	27(bar):2	38(lot):1	50(bad):1	56(morning):1	63(drink):1	109(pretty):1	117(dinner):3	167(choose):1	197(fresh):1	215(fruit):1	237(lounge):1	336(option):1	362(juice):1	478(hang):1	527(package):1	609(mix):1	631(deliver):1	712(villa):1	11284(candlelit):1	
+11	48(wonderful):1	67(call):1	99(couple):1	193(person):1	314(spa):1	493(machine):1	527(package):1	730(massage):1	1147(treatment):1	1514(exchange):1	2405(atm):1	
+
+<Author>mrsellison
+<Content>Honeymoon paradise We spent two weeks here on our honeymoon and it was fantastic. The private villas are brilliant and you are completely hidden from view. The whole complex is spotlessly clean and well thought out. The furniture, decor and layout are of a very high standard and make for a very relaxing experience. The staff cannot be faulted. They are extremely attentive and friendly. Every little detail has been thought of. Seminyak itself has a few nice restaurants but avoid Ultimo as I got food poisoning...although it was always buzzing so maybe I was just unlucky. Zappaz has some great live bands. Sunset cocktails at Ku De Ta are a must.Previous reviews say it is a taxi ride or a 15-20 min walk into the restaurant area but there is a hidden shortcut directly opposite The Elysian entrance that takes you to the heart of the restaurant strip in about 5 minutes. The walk to the beach is also only about 5-10 mins. Try to hire a jeep (or car and driver if you're chicken!) and travel the coast trying out the different beaches. Padang Padang was awesome and we were lucky enough to see a ceremony on the beach. Remember to get an international drivers licence before you go as the police love stopping tourists and taking bribes!Security in Bali is first class and all the resorts and restuarants have their own security guards. We felt very safe.I think our honeymoon would have been brilliant wherever we went but the Elysian made it a holiday to remember forever.  
+<Date>Oct 16, 2008
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+33	12(friendly):1	17(view):1	23(little):1	34(feel):1	40(love):1	76(try):1	110(extremely):1	121(car):1	122(stop):1	137(safe):1	206(live):1	209(tourist):1	375(remember):1	492(private):1	537(attentive):1	542(completely):1	563(driver):2	592(detail):1	712(villa):1	716(cocktail):1	793(brilliant):1	903(international):1	949(chicken):1	1195(hide):1	1246(sunset):1	1335(band):1	1409(police):1	1556(hire):1	2740(ta):1	3034(ku):1	3840(jeep):1	4464(license):1	7836(bribe):1	
+11	64(spend):1	75(week):1	86(fantastic):1	223(holiday):1	375(remember):1	502(honeymoon):3	748(Paradise):1	793(brilliant):1	1643(forever):1	2334(wherever):1	12455(elysian):1	
+13	44(experience):1	72(resort):1	130(standard):1	160(relax):1	166(own):1	269(decor):1	440(furniture):1	470(class):1	641(security):2	814(bali):1	1453(layout):1	1762(guard):1	2095(restuarants):1	
+23	7(walk):2	10(restaurant):2	29(minute):1	30(beach):3	37(review):1	68(travel):1	76(try):1	185(taxi):1	218(ride):1	247(min):2	348(awesome):1	373(previous):1	383(directly):1	450(heart):1	490(entrance):1	783(opposite):1	797(lucky):1	1195(hide):1	1379(strip):1	1682(coast):1	3565(ceremony):1	10039(shortcut):1	12455(elysian):1	
+3	3(clean):1	1074(complex):1	1094(spotlessly):1	
+2	0(staff):1	517(fault):1	
+9	4(nice):1	10(restaurant):1	16(food):1	308(maybe):1	436(avoid):1	2000(buzz):1	3021(poison):1	3116(seminyak):1	3952(unlucky):1	
+0	
+
+<Author>G0rdyb0y
+<Content>Happy Honeymoon After 2 hours getting through customs at the airport, and being ripped off by luggage carriers taking advantage of us not quite figuring out the exchange rate, our first impressions of Bali were not great.Add to this the publicised car from the elysian that never turned up for transfer, and a 2 hour wait for entry to our villa and things weren't going too well.However, the magical villas at the Elysian made it all better. We had a wonderful relaxing 10 days by our private pool and loved every minute. The staff are all laid back and genuinely nice and amiable people. We recommend a spa day and food in the restaurant was brilliant with a peaceful atmosphere.The location was a wee bit out the way with treacherous roads and wild dog gauntlets to get anywhere, but with paradise by the pool in our own wee villa, we didn't need to go anywhere else.  
+<Date>Sep 27, 2008
+<Rating>4	5	5	2	5	2	4	5	
+<Aspects>
+10	8(day):1	22(pool):1	29(minute):1	40(love):1	48(wonderful):1	160(relax):1	492(private):1	712(villa):1	2592(magical):1	12455(elysian):1	
+14	60(hour):1	78(rate):1	95(airport):1	155(happy):1	249(luggage):1	502(honeymoon):1	779(figure):1	814(bali):1	848(impression):1	867(advantage):1	1182(rip):1	1514(exchange):1	1966(custom):1	6257(carrier):1	
+0	
+13	1(location):1	22(pool):1	52(bit):1	166(own):1	170(else):1	230(road):1	712(villa):1	748(Paradise):1	1126(dog):1	2310(wee):2	2661(wild):1	10338(gauntlet):1	11124(treacherous):1	
+0	
+14	0(staff):1	4(nice):1	26(people):1	60(hour):1	85(wait):1	121(car):1	351(add):1	696(lay):1	712(villa):1	1021(transfer):1	1649(entry):1	1950(genuinely):1	9525(amiable):1	12455(elysian):1	
+8	8(day):1	10(restaurant):1	15(recommend):1	16(food):1	314(spa):1	414(atmosphere):1	793(brilliant):1	1036(peaceful):1	
+0	
+
+<Author>chilly18
+<Content>Relaxing honeymoon We arrived in Bali for our 12-day honeymoon and were greeted by a driver from the Elysian who gave us a cool washcloth and cold bottle of water as he drove us in the air-conditioned car (with seatbelts! which we later realized is not the norm in Bali) back to the Elysian. We were greeted with our welcome drinks (a delicious lime and ginger fizz) and taken immediately to our villa. Our mouths dropped open when we saw the villa. It had a pool, a place to lounge next to the pool, a sitting room with Bose ipod speakers, and a bedroom with comfortable king bed and tv with lots of channels. Obviously we wanted to see a lot of Bali, but we were also happy to relax and hang out at the hotel or even in our villa for long stretches of time because it was so relaxing and well-equipped. There is also a good selection of DVDs to borrow from the hotel if you want to watch a movie in your room at night or on a rainy day. When we arrived, a flower bath had been prepared for us, but as other reviews have mentioned the bathtub is a little disappointing. It is so large that it takes forever to fill up and the water is not very hot. In addition, the villa's private plunge pool is also pretty cold. I dipped my legs in sometimes to cool off, but never succeeded in spending more than a few seconds fully submerged before getting out because it was so cold. The main pool, however, was a bit warmer, so we ended up hanging out there our last few days at the hotel. The lounge couches by the main pool are really fun and you can easily spend a few hours there reading and sunning. The temperature in the villa was very pleasant because there were the options of a ceiling fan, air conditioner, and/or opening the large doors to get in a breeze. They made-up the room once in the morning and again in the evening for turn-down service. A special treat was the chocolate they left on the nightstands each night before bed. We loved the friendly staff here who were always helpful with any question we had. We arranged a driver from the hotel to take us on a day-long tour around the island, and he was great. We visited a lot of temples and learned a lot about Bali. If you arrange a tour through the hotel, they have a variety of options of varying hours and locations for whatever you are in the mood to see. The Elysian also arranged a dinner for us at a restaurant at Jimbaran Bay. It was a gorgeous sunset and incredibly romantic setting, but the food was a little disappointing and over-priced. There are many restaurants to choose from there, but we just went to the one the hotel sent us to, and were disappointed (but you should still definitely go to Jimbaran Bay for sunset-- just maybe ask around about the best restaurants).Our honeymoon package came with 2 hours of spa treatments, which we split between an hour massage and an hour body mask/scrub. Both were really nice and relaxing. The spa, itself, is small but clean and simple. The treatments were definitely a highlight of our time at the Elysian. We also enjoyed the romantic candlelight dinner set up in our villa.The location of the Elysian is quite nice. It is right next door to the Oberoi hotel (and Ku de ta restaurant, which is a bit snobby but fun to visit to take in the scene and the sunset -- drinks are good too but service was really slow). The Elysian is also fairly close to the main street of Seminyak-- it would be a quick cab ride in and we walked one day and it took about 15-20 minutes. It's definitely worth browsing the shops there. Even though the Elysian isn't directly on the beach it still felt close enough (we are not really beach people so we didn't feel the need to lay on the beach all day). There was one minor glitch, which luckily was averted. It's a complicated situation, but basically the hotel claimed that we had booked more nights than we had (we had accidentally booked them but immediately cancelled once we realized)... we thought our cancellation had been processed 5 months ago when we originally booked, but when we went to check out on our last day there, they said oh actually you are still booked to stay for 6 more nights and it's too late to cancel. It's not worth explaining the whole thing, but in the end they did cancel it for us and didn't charge us any extra. If this situation hadn't worked out it would have been very frustrating and tainted our experience at the hotel, but luckily it all worked out. All in all, the Elysian is a wonderful place to stay in Bali. It is intimate and relaxed, and because many people stay in their villas it never feels crowded. The facilities are good and everything was clean-- the breakfast is huge with lots of choices-- and the hotel staff is all extremely friendly (we had to get used to the hands-together bowing motion that everyone uses to greet each other). It truly felt like a unique Balinese experience, and we're glad we chose there over some of the larger international hotels.  
+<Date>Sep 19, 2008
+<Rating>4	4	5	4	4	5	5	5	
+<Aspects>
+53	4(nice):1	5(time):1	8(day):1	22(pool):2	26(people):1	34(feel):1	38(lot):3	48(wonderful):1	52(bit):1	57(water):1	64(spend):1	65(visit):1	79(late):1	109(pretty):1	112(main):1	114(hot):1	155(happy):1	160(relax):4	181(tour):1	222(cold):2	236(warm):1	278(cool):1	313(crowd):1	342(island):1	478(hang):2	491(fill):1	492(private):1	560(sometimes):1	563(driver):1	607(realize):1	662(drop):1	680(arrange):1	703(learn):1	712(villa):4	720(minor):1	781(obviously):1	814(bali):4	918(addition):1	1200(luckily):1	1421(leg):1	1586(stretch):1	1643(forever):1	1812(intimate):1	2272(dip):1	2470(mouth):1	2529(norm):1	2626(temple):1	3121(glitch):1	3144(plunge):1	3542(well-equip):1	5717(succeed):1	12103(submerge):1	12455(elysian):2	
+36	16(food):1	23(little):1	34(feel):1	44(experience):2	53(arrive):1	57(water):1	121(car):1	154(disappoint):1	160(relax):1	167(choose):1	222(cold):1	234(set):1	238(bottle):1	278(cool):1	298(drive):1	415(greet):1	446(gorgeous):1	476(truly):1	502(honeymoon):2	563(driver):1	619(glad):1	707(romantic):1	807(incredibly):1	814(bali):1	890(situation):1	903(international):1	1027(unique):1	1200(luckily):1	1246(sunset):1	1574(frustrate):1	2056(balinese):1	2466(washcloth):1	3114(air-conditioned):1	3386(over-price):1	6680(taint):1	12455(elysian):1	
+58	2(night):2	5(time):1	8(day):1	9(service):1	11(bed):2	22(pool):2	23(little):1	25(comfortable):1	37(review):1	38(lot):1	43(leave):1	51(enjoy):1	53(arrive):1	54(door):1	56(morning):1	59(definitely):1	116(tv):1	117(dinner):1	150(pleasant):1	154(disappoint):1	164(air):1	169(sit):1	208(special):1	226(bath):1	234(set):1	237(lounge):1	243(king):1	244(mention):1	245(watch):1	268(bedroom):1	320(treat):1	333(selection):1	336(option):1	460(prepare):1	528(ceiling):1	632(chocolate):1	661(fan):1	707(romantic):1	712(villa):2	741(channel):1	778(flower):1	799(breeze):1	944(temperature):1	989(movie):1	1023(bathtub):1	1083(conditioner):1	1141(highlight):1	1147(treatment):1	2300(rainy):1	2353(ipod):1	2398(speaker):1	2666(borrow):1	3316(turn-down):1	3918(dvds):1	4031(bose):1	7304(nightstands):1	7982(candlelight):1	12455(elysian):1	
+34	1(location):2	3(clean):1	4(nice):1	7(walk):1	8(day):2	26(people):1	28(close):2	29(minute):1	30(beach):3	34(feel):2	35(street):1	49(shop):1	59(definitely):1	60(hour):1	96(worth):1	112(main):1	181(tour):1	218(ride):1	299(quick):1	314(spa):1	336(option):1	380(cab):1	383(directly):1	413(variety):1	462(fairly):1	613(simple):1	680(arrange):1	696(lay):1	937(whatever):1	2018(vary):1	2132(mood):1	3116(seminyak):1	3888(browse):1	12455(elysian):3	
+0	
+28	0(staff):1	2(night):2	8(day):1	12(friendly):1	14(helpful):1	18(book):4	32(check):1	40(love):1	79(late):1	96(worth):1	128(extra):1	136(charge):1	180(actually):1	388(month):1	394(question):1	489(immediately):1	607(realize):1	633(ago):1	768(explain):1	790(basically):1	890(situation):1	1065(cancel):3	1077(claim):1	1222(process):1	1300(originally):1	2621(cancellation):1	3972(accidentally):1	4246(complicate):1	
+52	0(staff):1	3(clean):1	6(breakfast):1	9(service):1	10(restaurant):4	12(friendly):1	22(pool):1	38(lot):1	52(bit):1	54(door):1	59(definitely):1	60(hour):1	63(drink):2	64(spend):1	65(visit):1	88(read):1	107(choice):1	110(extremely):1	112(main):1	117(dinner):1	133(huge):1	154(disappoint):1	167(choose):1	176(fun):2	202(welcome):1	211(facility):1	237(lounge):1	308(maybe):1	415(greet):2	420(sun):1	438(easily):1	447(send):1	455(slow):1	485(delicious):1	489(immediately):1	671(bay):2	680(arrange):1	712(villa):1	1192(couch):1	1246(sunset):2	1588(scene):1	2740(ta):1	3034(ku):1	3983(jimbaran):2	4186(motion):1	4319(lime):1	4669(snobby):1	5712(oberoi):1	6284(ginger):1	6297(bow):1	10182(fizz):1	12455(elysian):1	
+9	60(hour):3	314(spa):1	502(honeymoon):1	527(package):1	730(massage):1	1147(treatment):1	1352(body):1	2368(split):1	3480(mask):1	
+
+<Author>pinktori71
+<Content>A bit of Style...no substance.. We arrived at Eleysian Villas at the end of our Bali holiday after having a fabulous stay at Disini villas in Seminyak at the begining of our trip.Firstly, our transfer never turned up and we ended up taking a cab to the hotel, no big deal the cab was cheap. When we arrived at 3.30pm...our room was not ready. We asked to sit by the pool and to be notified when it was ready...this was obviously too confusing...and we just were left and ignored at the pool.Room was ok. The pool was a bit gloomy compared with Disini. The bath was useless....you could fill it up by about 5cms...or spend 4 hours filling it, by then it would be cold and such a waste of water.Breakfast service was slow and not a lot of intiative shown by wait staff. I am not surpsrised the other reviewer below was disappointed with there full board deal, there was no way we'd eat in the restaurant...as sadly it was always empty.We did point out all of this ad hoc things to management who were very apologetic etc. I wouldn't stay here again unless I got absolute rock bottom rates.  
+<Date>Sep 2, 2008
+<Rating>3	3	3	4	3	3	2	3	
+<Aspects>
+34	22(pool):3	33(trip):1	43(leave):1	52(bit):2	53(arrive):1	57(water):1	60(hour):1	64(spend):1	78(rate):1	169(sit):1	222(cold):1	223(holiday):1	226(bath):1	270(fabulous):1	274(ready):1	326(style):1	381(compare):1	405(unless):1	491(fill):2	712(villa):2	773(rock):1	781(obviously):1	814(bali):1	850(bottom):1	928(waste):1	1215(ignore):1	1250(absolute):1	1419(confuse):1	2488(useless):1	2760(notify):1	3116(seminyak):1	4309(substance):1	4374(gloomy):1	5883(begine):1	
+5	140(deal):1	143(cheap):1	380(cab):2	1021(transfer):1	2140(firstly):1	
+4	53(arrive):1	123(ok):1	274(ready):1	393(pm):1	
+0	
+0	
+10	0(staff):1	6(breakfast):1	9(service):1	38(lot):1	73(etc):1	85(wait):1	455(slow):1	525(management):1	2483(apologetic):1	3538(ad):1	
+9	10(restaurant):1	47(eat):1	140(deal):1	154(disappoint):1	564(reviewer):1	585(below):1	600(board):1	810(empty):1	2135(sadly):1	
+0	
+
+<Author>Netherlands
+<Content>A hidden gem in trendy Seminyak. We stayed in this lovely hotel 8 nights and it was absolutely great. The rooms are very big (we stayed in a 1 bedroom villa) the sitting room is great and attached to the private swimming pool. Bathroom is very clean and spacious. Free wireless internet and a bose i Pod makes this please even more luxurious. I travelled the world and went to many high end hotels but this is certain one I will remember. And about rats ? I haven't seen one but ehh this is the jungle where the front reception doesn't have contact with those animals. Highly highly recommended !!!!  
+<Date>Aug 29, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+9	2(night):1	15(recommend):1	68(travel):1	87(lovely):1	138(highly):2	189(absolutely):1	272(world):1	375(remember):1	3220(rat):1	
+0	
+10	3(clean):1	13(bathroom):1	22(pool):1	111(spacious):1	169(sit):1	261(swim):1	268(bedroom):1	492(private):1	712(villa):1	1224(attach):1	
+0	
+0	
+5	31(front):1	129(reception):1	713(contact):1	1990(animal):1	3083(jungle):1	
+4	805(gem):1	1195(hide):1	1413(trendy):1	3116(seminyak):1	
+7	46(free):1	97(internet):1	173(please):1	708(luxurious):1	717(wireless):1	4031(bose):1	7361(pod):1	
+
+<Author>mikelynn
+<Content>great stay at great villa We had a lovely week at the Elysian. Our villa was no.23. It was immaculate inside and out. We had the sun from morning until about 2.00pm although you had to move the sunlonger about a bit to stay in it. The villa pool is a good size and you can swim in it, it is a bit cool but you easily get used to it. the villa itself is spacious, with a Bose ipod dock which is great. The bed is comfortable and the bathroom fine. The tv has plenty of channels form a variety of countries. There is also an safe in the wardrobe which is very useful. i would have liked an iron and ironing board but hey you cannot have everything.Unlike the previous reviewer, at breakfast we always got what we wanted and found everything good and plentiful. We never saw any rodents at the hotel either, saw a few in Ubud though!The hotel tours were expensive but very comfortable for us with just us in the car for our half day tour, we liked the privacy of it all.The hotel has four laptops/computers which you can access free of charge to keep in contact with the rest of the world.The hotel does not have a bar area but you can have a drink and sit near(ish) to the pool area. Compared to outside the hotel drinks are expensive.We found the staff to be very friendly, hard working and efficient. Although breakfast service could be a bit slow if it was full.To get to bars, restaurants and shops of Seminyak you have to walk down a narrow path avoiding cars, scooters and wild dogs. Better to order a taxi which will cost about 15,000 rupiah and is well worth it unless you want to walk off your evening meal. There are a good choice of restaurants in local area.  
+<Date>Aug 22, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+21	52(bit):1	56(morning):1	75(week):1	87(lovely):1	111(spacious):1	137(safe):1	207(move):1	393(pm):1	420(sun):1	600(board):1	712(villa):3	868(iron):2	1232(useful):1	1367(hey):1	1451(wardrobe):1	1871(ubud):1	2338(dock):1	2353(ipod):1	4031(bose):1	6501(rodent):1	12455(elysian):1	
+13	8(day):1	10(restaurant):1	25(comfortable):1	63(drink):1	98(outside):1	107(choice):1	121(car):1	124(expensive):2	181(tour):2	195(local):1	283(half):1	381(compare):1	1183(privacy):1	
+19	11(bed):1	13(bathroom):1	22(pool):1	25(comfortable):1	52(bit):1	83(size):1	113(fine):1	116(tv):1	158(plenty):1	261(swim):1	278(cool):1	408(inside):1	413(variety):1	438(easily):1	530(country):1	712(villa):1	741(channel):1	894(immaculate):1	1164(form):1	
+18	7(walk):2	10(restaurant):1	27(bar):1	49(shop):1	96(worth):1	121(car):1	175(cost):1	185(taxi):1	213(meal):1	405(unless):1	436(avoid):1	1126(dog):1	1207(narrow):1	1612(path):1	2661(wild):1	3116(seminyak):1	4566(scooter):1	6383(rupiah):1	
+0	
+10	0(staff):1	12(friendly):1	46(free):1	136(charge):1	159(access):1	162(hard):1	272(world):1	288(rest):1	401(efficient):1	713(contact):1	
+14	6(breakfast):2	9(service):1	22(pool):1	27(bar):1	52(bit):1	63(drink):1	102(near):1	169(sit):1	373(previous):1	455(slow):1	564(reviewer):1	1039(plentiful):1	1163(unlike):1	4244(ish):1	
+0	
+
+<Author>Noah99
+<Content>Bad luck? I am very surprised about all the positive reviews that this place is getting, so maybe we were just very unlucky during our stay here. We took a special Honeymoon package and everything went wrong what could go wrong. Our room was not ready when we arrived in the afternoon and when we were allowed to come in a romantic flower bath was awaiting us. In fact they filled the bath with 5 centimeters of cold water and put some flowers in. We could still laugh about this. The irritations started that at breakfast they always ran out of items. No croissants, no yoghurts and so on. But the highlight of our stay should have been a special prepared candle light dinner in our villa. And what a dinner it was. Not only was the food of a very low quality, but the three meal course was served at the same time. Maybe they expected that I could make the meat tender by dipping it into the soup?Luckily they didn't give us much time to complain about the food, because then the entertainment started with a rat running loose in the villa. We called housekeeping and when the two brave guys arrived they immediately turned all the furniture upside down while chasing the rat. We had a great view of this from our dining table. After 20 minutes they caught the rat and as a climax to our romantic dinner they killed it in front of us. That evening there was no manager in the house so all we had to do with was an apology from the waitress. The next morning during another spartan breakfast a manager came to us and apologized and offered us a bottle of wine as compensation. Thanks a lot.  
+<Date>Aug 14, 2008
+<Rating>1	1	4	3	1	2	1	-1	
+<Aspects>
+18	17(view):1	37(review):1	38(lot):1	50(bad):1	57(water):1	199(surprise):1	222(cold):1	226(bath):1	229(table):1	271(thank):1	308(maybe):1	316(dine):1	458(positive):1	491(fill):1	778(flower):1	1055(luck):1	1245(laugh):1	3952(unlucky):1	
+17	5(time):1	6(breakfast):1	16(food):1	149(run):2	165(start):2	208(special):1	241(complain):1	340(entertainment):1	427(wrong):2	502(honeymoon):1	519(item):1	527(package):1	712(villa):1	1200(luckily):1	2234(loose):1	3220(rat):1	5982(irritation):1	
+24	53(arrive):2	67(call):1	117(dinner):1	157(light):1	208(special):1	226(bath):1	274(ready):1	359(allow):1	364(afternoon):1	367(housekeeping):1	368(guy):1	440(furniture):1	460(prepare):1	489(immediately):1	707(romantic):1	712(villa):1	778(flower):1	1141(highlight):1	1854(candle):1	2742(await):1	3003(chase):1	3220(rat):1	3613(upside):1	4677(brave):1	
+0	
+0	
+11	29(minute):1	31(front):1	117(dinner):1	258(manager):1	281(house):1	540(catch):1	707(romantic):1	1387(waitress):1	1547(apology):1	2070(kill):1	3220(rat):1	
+25	5(time):1	6(breakfast):1	16(food):1	56(morning):1	62(expect):1	89(offer):1	117(dinner):1	174(serve):1	187(quality):1	213(meal):1	238(bottle):1	251(wine):1	258(manager):1	293(course):1	308(maybe):1	513(low):1	677(meat):1	927(yogurt):1	1004(croissant):1	1485(apologize):1	1772(soup):1	2272(dip):1	2623(tender):1	2885(compensation):1	3662(spartan):1	
+0	
+
+<Author>Puddy-Toad
+<Content>Absolutely loved our stay       the pool by night  
+<Date>Jul 22, 2008
+<Rating>5	5	4	4	5	5	5	4	
+<Aspects>
+4	2(night):1	22(pool):1	40(love):1	189(absolutely):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>brandenburg5
+<Content>nicest place to stay in Bali - probably! We stayed for five nights at the Elysian, and absolutely loved it. Annie is a very helpful concierge (do ask her to get the money-changer to come to your villa - so secure and a good rate too). She has the best restaurant tips too.The Elysian restaurant is very good though the menu is a little limited. It was always a little quiet - maybe they should publicize it a bit more.The villa had a large living room/kitchen, and a large bedroom, and a really nice bathroom. Just ask for wifi and they will set it up in your villa - no charge. It is a short walk to Ku de Ta but we found that restaurant a little disappointing; the service was poor. We much preferred La Lucciola, just another 10 minutes further along the beach, where you can sip an excellent cocktail while watching the sunset and then have a fantastic Italian dinner. Service is excellent there.The new restaurant in Seminyak is Sarong - very elegant pan-asian food, fantastic cocktails (try the chargrilled tomato Thai bloody mary). Ask Annie to book a table as the place does fill up.The waves in Seminyak are very powerful - great for the surfers but a little daunting to the average person. Also there are no trees along the beach so you need to hire an umbrella if you want shade - bargain hard with those guys who put out the sun-loungers!Final tip: the Bluebird taxi company is the most reliable and the drivers don't try to overcharge. Ask reception or Annie to call you a Bluebird instead of flagging a taxi down on the main road.  
+<Date>Jul 17, 2008
+<Rating>5	5	5	3	5	5	5	4	
+<Aspects>
+15	2(night):1	4(nice):1	23(little):1	40(love):1	178(probably):1	189(absolutely):1	193(person):1	227(average):1	814(bali):1	836(wave):1	2026(powerful):1	3116(seminyak):1	3926(surfer):1	5348(daunt):1	12455(elysian):1	
+0	
+9	4(nice):1	13(bathroom):1	23(little):1	52(bit):1	58(quiet):1	206(live):1	268(bedroom):1	308(maybe):1	712(villa):1	
+26	21(excellent):1	29(minute):1	30(beach):1	67(call):1	76(try):1	86(fantastic):1	112(main):1	117(dinner):1	129(reception):1	185(taxi):2	194(tip):1	225(la):1	230(road):1	245(watch):1	353(instead):1	358(italian):1	536(prefer):1	563(driver):1	716(cocktail):1	760(company):1	1246(sunset):1	1337(final):1	2290(flag):1	2416(reliable):1	2714(sip):1	3155(overcharge):1	
+0	
+8	14(helpful):1	78(rate):1	136(charge):1	204(concierge):1	234(set):1	712(villa):2	1034(secure):1	1268(wifi):1	
+36	7(walk):1	9(service):2	10(restaurant):4	16(food):1	18(book):1	21(excellent):1	23(little):2	30(beach):1	76(try):1	86(fantastic):1	144(short):1	154(disappoint):1	162(hard):1	194(tip):1	229(table):1	331(poor):1	368(guy):1	423(menu):1	491(fill):1	510(limit):1	716(cocktail):1	759(bargain):1	795(shade):1	828(tree):1	986(elegant):1	1140(umbrella):1	1556(hire):1	2393(thai):1	2740(ta):1	3034(ku):1	3116(seminyak):1	3174(tomato):1	3725(mary):1	3938(bloody):1	11861(sarong):1	12455(elysian):1	
+0	
+
+<Author>Steve_and_Mel
+<Content>Very relaxing       The pool  
+<Date>Jul 9, 2008
+<Rating>5	5	5	4	5	5	4	5	
+<Aspects>
+2	22(pool):1	160(relax):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>UKtraveller33
+<Content>Delightfull private villa First impressions were not good. Our airport pickup never materialised (so we had to take a taxi - no great hardship at 拢4!), and the reception area seems to merge seamlessly into the car park (an open air style is all very well, but it needs some potted plants or something to provide some separation.) However, otherwise our stay was brilliant.We had booked a one bedroom villa (and had not realised that it came with a private pool), but were actually given the two bedroom villa (there is only one in the hotel). So we had a 14m pool and a huge lounge. The room was very well equipped, complete with small kitchen, great audio-visual kit, lovely patio, and that pool. There is wifi in the reception are - would have been nice to have wifi in the room as well.Villa facilities are such that most people do not use the main pool or the restaurant, so the place can seem very quiet.The hotel is not on the beachfront, but is on a rather grotty narrow lane behind the Oberoi. But you are not missing much - the beach is a pretty unappealing strip of grey gritty sand. The inside of the Elysian is much nicer!Annie was an excellent concierge, with plenty of advice over restaurants, trips out, etc. She even organised a driver for our hire car. (If you are thinking of hiring a hire car before you arrive, do not bother. You can get one just as cheap when you are there, and take one with a driver - it's a lot less trouble, what with a lack of roadsigns, police looking for bribes, etc).We only found out about the Elysian after reading reviews on Tripadvisor of hotels in Ubud. It was a great find. Strongly recommended.  
+<Date>Jun 25, 2008
+<Rating>5	5	5	3	4	4	5	3	
+<Aspects>
+15	15(recommend):1	37(review):1	53(arrive):1	88(read):1	121(car):2	307(bother):1	508(otherwise):1	563(driver):1	597(tripadvisor):1	793(brilliant):1	1167(organize):1	1386(strongly):1	1556(hire):3	1871(ubud):1	12455(elysian):1	
+9	20(look):1	38(lot):1	73(etc):1	143(cheap):1	349(lack):1	563(driver):1	569(trouble):1	1409(police):1	7836(bribe):1	
+28	4(nice):2	18(book):1	22(pool):2	66(park):1	87(lovely):1	121(car):1	129(reception):2	153(provide):1	164(air):1	180(actually):1	268(bedroom):2	326(style):1	408(inside):1	461(kitchen):1	492(private):2	607(realize):1	622(complete):1	712(villa):3	848(impression):1	884(equip):1	973(patio):1	1268(wifi):2	1447(pot):1	1906(plant):1	2773(kit):1	10045(separation):1	12455(elysian):1	12608(merge):1	
+18	30(beach):1	95(airport):1	109(pretty):1	185(taxi):1	276(miss):1	522(sand):1	1207(narrow):1	1379(strip):1	2258(pickup):1	2335(grey):1	2566(lane):1	2572(beachfront):1	5409(grotty):1	5712(oberoi):1	6574(unappealing):1	7968(gritty):1	8437(hardship):1	8662(materialize):1	
+0	
+7	10(restaurant):1	21(excellent):1	33(trip):1	73(etc):1	158(plenty):1	204(concierge):1	575(advice):1	
+9	10(restaurant):1	22(pool):2	26(people):1	58(quiet):1	112(main):1	133(huge):1	211(facility):1	237(lounge):1	712(villa):1	
+0	
+
+<Author>SajMit
+<Content>If its Bali it has to be The Elysian From the moment we stepped out of the Denpasar airport, the wonders of Bali were introduced to us by the kind staff from the Elysian who came to pick us up in a brand new hotel SUV. Cold towels, a cool drink of water and an introductory video of our hotel followed while we were being driven to The Elysian. Once there we were welcomed by wonderful Balinese staff, given an express check in, offered our welcome drink and then taken to our villa.....as the doors of our private villa opened we were all smiles to see our very own private pool, a very spacious and comfortable living room, a large bathroom with a sunken tub, a well appointed bedroom with a DVD player and an Ipod deck with all our favourite 80's retro songs waiting to welcome us. ( I had emailed Orisca (from the Elysian office) earlier and requested her for our choice of music. She downloaded every best song of ours and helped revive beautiful memories.)The next 7 days was nothing short of a fairytale. We were served the most delicious American breakfast, made to order to our requirements, in the comfort of our room and even organized a dream romantic BBQ evening for my lovely wife which was planned to perfection by Annie, the PR head at the hotel, who will go out of her way to smile and make you feel like you are the most important guest at the hotel. She does it to everyone, so you can imagine how good she is. There were heart shaped floating flower decorations in our pool, candles in and around our garden and pool, a personal chef and the ever smiling Devyani who waited on us through the evening and served us so very diligently.We took a day trip to Ubud one day for which once again the hotel arrangements were excellent. We ordered room service a couple of times (Bali has many many excellent restaurants so eating at the hotel isn't necessarily the most prudent decision), and the food was very good. All in all, we strongly recommend this hotel and guarantee that for the price, it will be very very hard to enjoy a more complete holiday anywhere else in the world.  
+<Date>Jun 23, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+8	45(beautiful):1	92(help):1	733(imagine):1	843(ours):1	1631(memory):1	2474(song):1	6654(download):1	9536(revive):1	
+10	15(recommend):1	19(price):1	51(enjoy):1	162(hard):1	170(else):1	223(holiday):1	272(world):1	622(complete):1	1386(strongly):1	1471(guarantee):1	
+55	0(staff):2	8(day):1	13(bathroom):1	22(pool):3	25(comfortable):1	32(check):1	48(wonderful):1	54(door):1	63(drink):1	85(wait):2	89(offer):1	95(airport):1	111(spacious):1	144(short):1	166(own):1	174(serve):1	202(welcome):3	206(live):1	266(pick):1	268(bedroom):1	310(garden):1	311(tub):1	366(step):1	376(favourite):1	387(smile):2	450(heart):1	492(private):2	579(appoint):1	670(moment):1	711(personal):1	712(villa):2	778(flower):1	814(bali):2	883(brand):1	946(wonder):1	1076(player):1	1124(express):1	1226(shape):1	1361(chef):1	1364(dvd):1	1406(deck):1	1580(decoration):1	1630(float):1	1854(candle):1	2056(balinese):1	2353(ipod):1	2474(song):1	3544(introduce):1	4079(retro):1	4275(sunken):1	5439(suv):1	8117(denpasar):1	12338(diligently):1	12455(elysian):2	12840(fairytale):1	
+0	
+0	
+6	107(choice):1	148(request):1	398(music):1	792(office):1	1559(e-mail):1	12455(elysian):1	
+41	5(time):1	6(breakfast):1	8(day):2	9(service):1	10(restaurant):1	16(food):1	21(excellent):2	33(trip):1	34(feel):1	47(eat):1	57(water):1	63(drink):1	87(lovely):1	91(guest):1	99(couple):1	125(towel):1	174(serve):1	184(wife):1	221(plan):1	222(cold):1	278(cool):1	298(drive):1	319(head):1	387(smile):1	482(follow):1	485(delicious):1	702(comfort):1	707(romantic):1	814(bali):1	1167(organize):1	1256(dream):1	1415(arrangement):1	1539(decision):1	1871(ubud):1	2072(bbq):1	2269(perfection):1	2463(video):1	2642(requirement):1	2817(necessarily):1	11756(introductory):1	12455(elysian):1	
+0	
+
+<Author>frandaz
+<Content>Perfect place to spend time with someone special       The very comfortable bed  
+<Date>May 24, 2008
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+0	
+0	
+6	5(time):1	11(bed):1	25(comfortable):1	64(spend):1	74(perfect):1	208(special):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>10179k79
+<Content>perfect relaxation The Elysian is a perfect destination if you want to lock yourself away from the world and just relax, read, watch movies, listen to music, and lie in the sun with complete privacy -- without having to worry about filling up your refrigerator or making your bed. The design of the villas is contemporary, fresh, and clean without the usual folkloristic touches. Staff is extremely nice and does everything to make the stay perfect.Food is okay but gets bland quickly due to lack of seasoning and variety. Restaurant only has two CDs (Norah Jones and Sade) which are played constantly at breakfast, lunch, and dinner every day. Spa staff needs to be trained more professionally (chat with each other during treatments).Despite the drawbacks, the Elysian can be highly recommended if you want total seclusion. Value for money is excellent.  
+<Date>May 19, 2008
+<Rating>4	5	5	4	5	5	4	5	
+<Aspects>
+7	15(recommend):1	138(highly):1	498(despite):1	786(total):1	1344(drawback):1	7274(seclusion):1	12455(elysian):1	
+3	21(excellent):1	80(money):1	81(value):1	
+21	11(bed):1	74(perfect):2	88(read):1	160(relax):1	245(watch):1	272(world):1	398(music):1	420(sun):1	491(fill):1	576(yourself):1	622(complete):1	774(lock):1	831(worry):1	916(refrigerator):1	989(movie):1	997(listen):1	1092(destination):1	1166(lie):1	1183(privacy):1	1662(relaxation):1	12455(elysian):1	
+6	0(staff):1	182(train):1	314(spa):1	1147(treatment):1	1629(chat):1	3880(professionally):1	
+7	3(clean):1	197(fresh):1	279(touch):1	516(design):1	682(usual):1	712(villa):1	1475(contemporary):1	
+4	0(staff):1	4(nice):1	74(perfect):1	110(extremely):1	
+17	6(breakfast):1	8(day):1	10(restaurant):1	16(food):1	117(dinner):1	252(lunch):1	259(due):1	349(lack):1	386(play):1	413(variety):1	453(okay):1	471(quickly):1	610(season):1	995(constantly):1	1819(bland):1	5230(cds):1	5648(jone):1	
+0	
+
+<Author>Norn
+<Content>A true romantic holiday       The Villa  
+<Date>May 13, 2008
+<Rating>5	5	5	4	5	5	5	3	
+<Aspects>
+3	223(holiday):1	707(romantic):1	712(villa):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>feewee
+<Content>Loved it, loved everything about it...       private pool  
+<Date>May 10, 2008
+<Rating>5	5	5	5	4	5	4	4	
+<Aspects>
+3	22(pool):1	40(love):2	492(private):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>LitteMay
+<Content>Above Average       Private Plunge Pool in the villa  
+<Date>May 2, 2008
+<Rating>4	5	4	3	4	4	4	5	
+<Aspects>
+5	22(pool):1	227(average):1	492(private):1	712(villa):1	3144(plunge):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>JoopNetherlands
+<Content>Total relaxation on wonderful design villa       Living room at 2 bedroom villa  
+<Date>Apr 29, 2008
+<Rating>5	5	5	3	4	4	4	5	
+<Aspects>
+0	
+0	
+7	48(wonderful):1	206(live):1	268(bedroom):1	516(design):1	712(villa):2	786(total):1	1662(relaxation):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>VikingSydney
+<Content>Loved the peace and the environment I recently stayed at the Elysian and must commend the most friendly smiling staff in making my stay a very relaxing and most pampered stay I have had for years. I have travelled to numerous places but must say that my stay at the Elysian tops them all. Keep up the good work.  
+<Date>Mar 18, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+4	68(travel):1	118(top):1	971(numerous):1	12455(elysian):1	
+0	
+0	
+0	
+0	
+11	0(staff):1	12(friendly):1	40(love):1	160(relax):1	322(recently):1	387(smile):1	1517(peace):1	1712(environment):1	1815(pamper):1	4080(commend):1	12455(elysian):1	
+0	
+0	
+
+<Author>netaholic
+<Content>Deserves to be No. 1 Had everything. Villas were great, modern and very well set out. Free internet in rooms. Great villa pools.Breakfast was excellent, quality and quantity.Seminyak great for restaurants so plenty of places to go at night. Local shopping is pretty good too.Staff were fantastic particularly Annie Dean.The lane out front of the resort is hard work but can use shuttle or get taxi's everywhere.  
+<Date>Mar 10, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+4	22(pool):1	151(modern):1	234(set):1	712(villa):2	
+4	6(breakfast):1	21(excellent):1	187(quality):1	3560(quantity):1	
+2	46(free):1	97(internet):1	
+9	31(front):1	49(shop):1	72(resort):1	109(pretty):1	162(hard):1	185(taxi):1	195(local):1	321(shuttle):1	2566(lane):1	
+0	
+4	0(staff):1	86(fantastic):1	553(particularly):1	6060(dean):1	
+5	2(night):1	10(restaurant):1	158(plenty):1	1072(deserve):1	3116(seminyak):1	
+0	
+
+<Author>Surfguy_Bookgirl
+<Content>Very nice. Very romantic A great romantic fling... Right behind the Oberoi Hotel, but about 200m walk to beach. Great and private villas with lap pool.  
+<Date>Feb 13, 2008
+<Rating>4	4	5	3	5	5	5	5	
+<Aspects>
+5	4(nice):1	22(pool):1	492(private):1	712(villa):1	2432(lap):1	
+0	
+0	
+4	7(walk):1	30(beach):1	707(romantic):2	5712(oberoi):1	
+0	
+0	
+0	
+0	
+
+<Author>Lissyhoop
+<Content>perfect..... My husband and myself spent 6 wonderful nights at The Elysian in January as part of our two week honeymoon. It was perfect, we could not fault anything. l have been to Bali about 15 times over the 20 years, l have stayed all over the island but l can't think of anywhere that could surpass the Elysian for a romantic and private escape. All the staff were welcoming, always smiling and so helpful and prompt with any request we had for them. Our villa was divine, we never wanted to leave.It was my husband's birthday during our stay and Annie (guest liasion) arranged for a cake and candles to be delivered to our villa...it was no trouble and such a lovely surprise! Location was great, within walking distance or a very cheap cab ride to everything and being down the laneway only added to the whole Bali experience for us....no crazy traffic zooming past at all hours and it is why we chose to stay in Seminyak and not in Kuta or Legian! My only fear is that everywhere we go from now on, we will compare to our perfect stay at Elysian, and l worry that no where else will be up to scratch! We will go back and we can't wait!!!  
+<Date>Feb 10, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+18	5(time):1	43(leave):1	74(perfect):2	170(else):1	342(island):1	381(compare):1	492(private):1	517(fault):1	707(romantic):1	712(villa):1	814(bali):1	831(worry):1	1601(escape):1	2022(fear):1	2613(scratch):1	3204(surpass):1	3481(divine):1	12455(elysian):2	
+9	2(night):1	48(wonderful):1	64(spend):1	74(perfect):1	75(week):1	105(husband):1	502(honeymoon):1	1018(january):1	12455(elysian):1	
+0	
+18	1(location):1	7(walk):1	44(experience):1	60(hour):1	115(distance):1	143(cheap):1	167(choose):1	218(ride):1	351(add):1	380(cab):1	419(past):1	486(traffic):1	814(bali):1	1259(crazy):1	1885(kuta):1	3116(seminyak):1	3570(legian):1	7808(zoom):1	
+0	
+7	0(staff):1	14(helpful):1	85(wait):1	148(request):1	202(welcome):1	387(smile):1	1208(prompt):1	
+11	87(lovely):1	91(guest):1	105(husband):1	199(surprise):1	569(trouble):1	631(deliver):1	680(arrange):1	712(villa):1	765(birthday):1	1029(cake):1	1854(candle):1	
+0	
+
+<Author>Dorg
+<Content>Absolutely loved our Elysian experience We just landed back in Sydney this morning after 6 nights at the beautiful Elysian. We were recommended this villa resort by friends who regularly frequent Bali and had seen it being built on their last trip, so coupled with the wonderful reviews we read on TripAdvisor, we decided to book our stay.We were met at the aiport by Wayang, a friendly guy with a big smile, who drove us in air-conditioned comfort (and provided us with cold, wet towels and chilled water to accompany us on the ride) to the Elysian.Unlike the reviewer below, even though the reception area was simple, we were suitably impressed and enjoyed our welcome drink on arrival.We were then shown to our villa, which certainly matched, let alone exceeded, our expectations. The villa was true to the pictures and description we had seen on their website.We thought the private pool was a perfect size for 2 - and the villa itself is light, airy and has high ceilings. We loved the size of the bathroom and the shower area. We also loved being provided with an iPod full of tunes that we could put on to the iPod deck provided. Nice touch.Everyone we encountered at the villas were extremely helpful, friendly and efficient. We wandered down to Ku De Ta most nights for pre-dinner drinks and then on to a variey of nearby restaurants. We would highly recommend La Lucciola which is just a bit further on from Ku De Ta on the same road. Also on this road is BodyWorks which is the best massage place in Seminyak (in our opinion). Amazing massage, facial, and other treatment options...in beautiful surrounds.We chose to organise our own private driver for a trip to Ubud, for white water rafting, but the Elysian can arrange this for you at a cost of US$50 for 4 hours.The staff are capable and more than happy to assist you with any request or query.We really enjoyed our stay and recommend the Elysian to any couple wanting some quiet luxury in the heart of Seminyak.Wish we were back there now....  
+<Date>Feb 4, 2008
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+21	4(nice):1	12(friendly):1	14(helpful):1	15(recommend):1	40(love):1	52(bit):1	110(extremely):1	138(highly):1	153(provide):2	225(la):1	230(road):1	279(touch):1	384(wish):1	401(efficient):1	693(encounter):1	712(villa):1	1406(deck):1	2353(ipod):2	2740(ta):1	3034(ku):1	3598(tune):1	
+26	2(night):1	33(trip):1	40(love):1	44(experience):1	45(beautiful):1	56(morning):1	57(water):1	60(hour):1	166(own):1	167(choose):1	175(cost):1	189(absolutely):1	431(expectation):1	466(white):1	492(private):1	563(driver):1	680(arrange):1	712(villa):1	809(sydney):1	1153(exceed):1	1167(organize):1	1346(land):1	1476(match):1	1871(ubud):1	3370(raft):1	12455(elysian):3	
+45	12(friendly):1	13(bathroom):1	15(recommend):1	22(pool):1	40(love):1	51(enjoy):2	57(water):1	58(quiet):1	61(shower):1	63(drink):1	74(perfect):1	83(size):2	99(couple):1	125(towel):1	129(reception):1	153(provide):1	157(light):1	196(meet):1	202(welcome):1	218(ride):1	222(cold):1	224(arrival):1	298(drive):1	343(impress):1	368(guy):1	387(smile):1	437(luxury):1	450(heart):1	492(private):1	528(ceiling):1	564(reviewer):1	585(below):1	613(simple):1	702(comfort):1	712(villa):1	1032(wet):1	1163(unlike):1	1397(chill):1	1947(airy):1	2660(accompany):1	3114(air-conditioned):1	3116(seminyak):1	6053(aiport):1	8287(suitably):1	12455(elysian):2	
+4	262(website):1	456(picture):1	712(villa):1	2034(description):1	
+0	
+6	0(staff):1	148(request):1	155(happy):1	1265(assist):1	3041(query):1	5081(capable):1	
+24	2(night):1	10(restaurant):1	15(recommend):1	18(book):1	33(trip):1	37(review):1	48(wonderful):1	63(drink):1	72(resort):1	88(read):1	99(couple):1	135(build):1	146(friend):1	219(decide):1	232(nearby):1	597(tripadvisor):1	712(villa):1	814(bali):1	1355(frequent):1	1562(wander):1	1881(regularly):1	2740(ta):1	3034(ku):1	6611(pre-dinner):1	
+10	45(beautiful):1	145(amaze):1	230(road):1	336(option):1	667(surround):1	704(opinion):1	730(massage):2	1147(treatment):1	3116(seminyak):1	3582(facial):1	
+
+<Author>greendalef
+<Content>A Good Choice For Couples. We stayed at the Elysian over the Xmas and New Year period and had a wonderful time. Booked direct withe hotel on website and arranged VIP pick up at airport ($45pp). This worked perfectly apart from Qatar Airways deciding to offload my Business class luggage last. Side step the touts and into the aircon vehicle for drive to hotel. First impressions are not much - the reception is a very ordinary affair - absolutely no wow factor. Drink, cold towel and check in smoothly done, then show to villa.The villa is wonderful. No description needed as wysiwyg on website and reviewers photos that show perfectly rooms and pool in the villas. Very hard to be critical of any aspect of the villa other than the Broadband service in villa is dire. If you are relying on voip to talk to family back home you will be sadly disappointed. Breakfast, cleaning, facilities all top notch.Bali itself was not at its best over Xmas. The western monsoon blew leaving the beach in a dreadful state. Venturing out on foot to the local spots is easy to do. Some directions: For Ku De Ta turn left out of the drive and keep following in the lane all the way down for 10 mins and you arrive at the entrance to Ku De TA and Oberoi. The worst (and most expensive) Pina Colada i had in Bali was at Ku De Ta it had enough ice to sink the Titanic.For Seminyak (square) bars  restaurants is a 5 min walk if you do your homework on google earth and work the route out. Come out of the drive, turn left and after 5 paces immediately right (it is the lane that is block paved in grey. Just follow this round past the guy with the most scarecrows per sq/in you will ever see brings you to a line of very nice suites/villas that lead onto bars and restaurants.Turning right out of the drive walk down hill for 5 mins until road really narrows to single lane at houses. Turning right here gives another access point to the beach if you want to avoid the bums and hawkers at Ku De Ta. If you don't turn right, keep going straight past the back entrance to Sofitel until you come to road (you can't miss it, there was always guys sitting there offering taxis.. Turn left and that will lead up to lots of bars and restaurants including Bahiana.In conclusion The Elysian is a terrific place for couples of all ages and genders. It has an ambiance that gets you in relaxed and in the holiday mood perfectly.  
+<Date>Jan 30, 2008
+<Rating>5	5	5	4	5	3	5	2	
+<Aspects>
+35	5(time):1	43(leave):1	48(wonderful):2	93(easy):1	99(couple):1	100(bloc):1	106(family):1	141(home):1	154(disappoint):1	160(relax):1	195(local):1	223(holiday):1	298(drive):1	317(spot):1	371(talk):1	402(foot):1	489(immediately):1	505(age):1	595(perfectly):1	699(terrific):1	712(villa):1	814(bali):1	957(ambience):1	1331(period):1	1440(venture):1	2089(conclusion):1	2132(mood):1	2135(sadly):1	2291(pace):1	2327(rely):1	2335(grey):1	2566(lane):1	3208(xmas):2	5564(pave):1	12455(elysian):2	
+11	50(bad):1	99(couple):1	107(choice):1	124(expensive):1	509(sink):1	547(ice):1	814(bali):1	2038(pina):1	2740(ta):1	3034(ku):1	3171(colada):1	
+43	4(nice):1	7(walk):1	10(restaurant):1	22(pool):1	27(bar):1	129(reception):1	142(bring):1	147(business):1	188(line):1	189(absolutely):1	219(decide):1	230(road):1	247(min):1	249(luggage):1	262(website):1	281(house):1	298(drive):2	304(single):1	366(step):1	368(guy):1	419(past):1	470(class):1	482(follow):1	564(reviewer):1	595(perfectly):2	712(villa):1	756(hill):1	761(photo):1	848(impression):1	857(apart):1	862(wow):1	922(lead):1	1207(narrow):1	1655(factor):1	1951(vehicle):1	1959(sq):1	2025(ordinary):1	2034(description):1	2257(aircon):1	2566(lane):1	3546(affair):1	4139(tout):1	6138(airway):1	
+29	18(book):1	30(beach):2	43(leave):1	89(offer):1	95(airport):1	159(access):1	169(sit):1	185(taxi):1	230(road):1	262(website):1	266(pick):1	276(miss):1	368(guy):1	419(past):1	436(avoid):1	490(entrance):1	680(arrange):1	803(direct):1	827(straight):1	1015(western):1	1146(blow):1	1417(sofitel):1	1555(vip):1	2740(ta):1	2895(dreadful):1	3034(ku):1	3824(bum):1	4313(hawker):1	10880(monsoon):1	
+0	
+11	43(leave):1	53(arrive):1	247(min):1	298(drive):1	395(direction):1	482(follow):1	490(entrance):1	2566(lane):1	2740(ta):2	3034(ku):2	5712(oberoi):1	
+30	3(clean):1	6(breakfast):1	7(walk):1	9(service):1	10(restaurant):2	27(bar):2	32(check):1	38(lot):1	43(leave):1	63(drink):1	71(include):1	118(top):1	125(towel):1	139(square):1	162(hard):1	211(facility):1	222(cold):1	247(min):1	712(villa):3	922(lead):1	1035(route):1	1227(notch):1	1255(aspect):1	2201(earth):1	2267(smoothly):1	2825(broadband):1	3116(seminyak):1	3452(critical):1	4063(dire):1	4434(homework):1	
+0	
+
+<Author>barten
+<Content>Awful experience at the elysian.... We arrived in the evening after staying in fabulous places in Bangkok and Singapore we thought we could chill for a few nights before our long journey back to Europe and home.We love Asia for the servic and style.... very much lacking here.Apart from being disappointed in Bali after not being there for 5 years we found it very dirty and the service in the shops was a little lacking i.e. none.We shall never go again as it ruined our holiday.The management at the hotal was non existent and we could not even pay our hotel bill in Euros a major currency they would only except the US dollar / they did promise us that ythey would change this but that remains to be seen.There was only 1 waiter who made our stay bearable.We do not want to say more as it is not fair but booking this hotel through the Design hotels of the world where we have stayed at very many it does not deserv to be reprisented by them as we are now dubious of booking with them again.  
+<Date>Jan 29, 2008
+<Rating>1	3	2	2	3	1	3	3	
+<Aspects>
+6	40(love):1	223(holiday):1	326(style):1	349(lack):1	1243(ruin):1	2108(asia):1	
+25	2(night):1	42(pay):1	44(experience):1	53(arrive):1	141(home):1	161(change):1	256(euro):1	270(fabulous):1	315(major):1	337(except):1	430(dollar):1	495(bill):1	525(management):1	700(europe):1	736(awful):1	960(singapore):1	975(promise):1	1362(journey):1	1391(remain):1	1397(chill):1	3654(currency):1	4475(existent):1	4792(bangkok):1	8943(hotal):1	12455(elysian):1	
+5	18(book):2	272(world):1	516(design):1	739(fair):1	5351(dubious):1	
+0	
+9	9(service):1	23(little):1	49(shop):1	154(disappoint):1	323(dirty):1	349(lack):1	573(none):1	814(bali):1	857(apart):1	
+2	735(waiter):1	4297(bearable):1	
+0	
+0	
+
+<Author>Distracted
+<Content>A wonderful stay at The Elysian       From the bedroom...  
+<Date>Jan 27, 2008
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+3	48(wonderful):1	268(bedroom):1	12455(elysian):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Martin3
+<Content>Sylish Place Stayed here for 4 nights as part of our honeymoon, having read many many reviews of villas in Seminyak.A very stylish place, the villa itself is large, with very high ceilings and massive doors. The bed is very comfortable and equipped with flat screen TV. The plunge pool is big enough to swim in.Breakfast is served in a pretty setting next to the pool, where you have a free laptop and wifi at your disposal.We opted for the romantic dinner (seafood BBQ) on the last night, and they open all the vast windows of the villa and serve dinner outside with lots of candles, creating a very pretty space. They come and set it up whenever you like inside the villa, and a waitress and cook tend to your needs. A very discreet service that was a highlight of the honeymoon. Once they have done they leave you to it.Only downside, is that the villa is a ten minute walk down an alley effectively, but is only 10 mins from the beach going in next to the KuDeTa restaurant.Kuta is 20 mins by taxi or a relaxing 50-60 minute walk along the beach, very nice around the time of the sunset (leave Kuta at say 5.30pm to get nice walk, sunset and back before it gets too dark).  
+<Date>Oct 10, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	43(leave):1	54(door):1	528(ceiling):1	712(villa):1	961(stylish):1	1329(massive):1	
+9	2(night):1	9(service):1	37(review):1	88(read):1	502(honeymoon):2	712(villa):1	1141(highlight):1	3116(seminyak):1	4022(discreet):1	
+13	11(bed):1	25(comfortable):1	116(tv):1	234(set):1	408(inside):1	526(screen):1	535(flat):1	550(cook):1	712(villa):1	884(equip):1	1053(tend):1	1181(whenever):1	1387(waitress):1	
+19	4(nice):2	5(time):1	7(walk):3	10(restaurant):1	29(minute):2	30(beach):2	43(leave):1	160(relax):1	185(taxi):1	247(min):2	393(pm):1	459(dark):1	712(villa):1	782(downside):1	1246(sunset):2	1671(alley):1	1885(kuta):2	4978(effectively):1	12246(kudeta):1	
+0	
+0	
+25	2(night):1	6(breakfast):1	22(pool):2	38(lot):1	46(free):1	98(outside):1	109(pretty):2	117(dinner):2	119(window):1	174(serve):2	210(space):1	234(set):1	261(swim):1	707(romantic):1	712(villa):1	815(seafood):1	1111(laptop):1	1184(opt):1	1268(wifi):1	1696(create):1	1854(candle):1	2072(bbq):1	2476(vast):1	3144(plunge):1	5967(disposal):1	
+0	
+
+<Author>jimmybyronbay
+<Content>fantastic from start to finish juat had a week at the elysian , choose it after reading reviews on tripadvisor. My friend and i had one villa each , next to each other. We had the hotel pick us up at the airport , paid the $30 for the vip pick up service ,,,highly recommend you do this. Bali often lands 7 planes in short succession , meaning that there will be upwards of 2000 people going thr customs. which could mean an hour or so standing in the cue. With the vip service you email the elysian a copy of your passport , they pay the visa fee for you , a guy from the airport meets you shortly after getting off the plane and then leads you straight past the 2000 people in the cue ! Through the crew line in fact. This was a great start to the holiday.car picked us up , cool drink , cool towell , very easy check in a staff member shows you all the features of the room quickly and efficiently. Great ipod set up , cool tunes, room service great , food very good , breakfast also very good and a great variety. Coffee was not to bad either , which some times is a challenge. Great fresh juices at any time of the day. they also lent us some push bikes which was great.Another plus was the flexible cleaning times , jsut let them know when you want it done , none of this im coming now attitude of some hotels . would definatly book again , especially with the vip pick up.  
+<Date>Sep 17, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+19	26(people):1	60(hour):1	144(short):1	146(friend):1	188(line):1	246(mean):2	444(stand):1	712(villa):1	814(bali):1	968(plane):1	1041(push):1	1346(land):1	1479(bike):1	1654(crew):1	1966(custom):1	3293(lend):1	6086(upwards):1	8310(thr):1	10062(cue):1	
+30	9(service):2	15(recommend):1	26(people):1	37(review):1	42(pay):2	75(week):1	86(fantastic):1	88(read):1	95(airport):2	138(highly):1	165(start):2	167(choose):1	196(meet):1	223(holiday):1	266(pick):2	368(guy):1	419(past):1	584(fee):1	597(tripadvisor):1	772(finish):1	827(straight):1	922(lead):1	968(plane):1	1555(vip):2	1975(passport):1	2245(copy):1	2465(shortly):1	3476(visa):1	10062(cue):1	12455(elysian):2	
+0	
+0	
+7	3(clean):1	5(time):1	203(plus):1	573(none):1	821(attitude):1	3915(flexible):1	11844(jsut):1	
+10	0(staff):1	32(check):1	63(drink):1	93(easy):1	121(car):1	266(pick):1	278(cool):2	471(quickly):1	731(feature):1	2461(efficiently):1	
+20	5(time):2	6(breakfast):1	8(day):1	9(service):1	16(food):1	18(book):1	50(bad):1	90(coffee):1	126(especially):1	197(fresh):1	234(set):1	266(pick):1	278(cool):1	362(juice):1	413(variety):1	1555(vip):1	1708(challenge):1	2353(ipod):1	2993(definatly):1	3598(tune):1	
+0	
+
+<Author>wally1
+<Content>elysian villas just back from Bali and stayed at the Elysian..many, many thanks Epicurian for the recommendation, we really enjoyed it and can definately recommend these villas, liked having the main pool with the Bales/Cabanas as an option as well as your private villa pool. Great Villas, great complex, good staff and food. Also checked out The Villas which I think are looking a bit tired and also had a tour around Villa Kubu which is still looking good, although, of course no main pool in both of those villas just a private one in your villa. So my recommendation is go The Elysian!!Also, for Batt...I flew Garuda which was ok (as economy always is) you were right still ashtrays in the plane which means planes are getting pretty old, but everything went smoothly!!cheers  
+<Date>Aug 11, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+21	15(recommend):1	22(pool):2	51(enjoy):1	109(pretty):1	112(main):1	123(ok):1	246(mean):1	271(thank):1	336(option):1	410(definately):1	492(private):1	577(recommendation):2	614(fly):1	712(villa):3	814(bali):1	968(plane):2	2267(smoothly):1	3075(cheer):1	3319(economy):1	5793(ashtrays):1	12455(elysian):3	
+0	
+0	
+0	
+0	
+13	0(staff):1	16(food):1	20(look):2	22(pool):1	32(check):1	52(bit):1	112(main):1	181(tour):1	293(course):1	454(tire):1	492(private):1	712(villa):5	1074(complex):1	
+0	
+0	
+
+<Author>DLPA
+<Content>Really nice. Booked a 3 night 4 day stay and what a wonderful stay. These villas are modern and so private - a really great getaway. Location was fantastic, with only a 10 minute walk to Ku De Ta - still the best bar in Bali after all these years, and that gorgeous beach outside it. It's a bit far to walk for shops but Seminyak is a very trendy upcoming area for boutiques so it's great to hop in a cab out to the local area and have a walk around. Cabs are very cheap!Service in this hotel was excellent, staff were friendly and accommodating, and also very helpful in hiring drivers for private tours around the island (for affordable rates!) and reliable taxis (Bluebird taxis are the best!). The hotel also provided an in-villa dinner inclusive of my package which was beautiful. When we got back to the villa from a day of shopping, we found it candle-lit and set up for a romantic poolside dinner. Breakfast could also be arranged in the villa at all hours in the morning, which was great if you want to have an early start to catch sunrise over Mt. Batur.Only downsides to the place was the pool - it was freezing cold and be careful not to jump around too much in it coz the corners are sharp and can severely injure you!, the spa - the therapist that massaged me was sick which didn't make the atmosphere too pleasant, and the food from the hotel restaurant - which was only mediocre. These were minor things in comparison though, and would not stop me from returning again, or recommending it to my friends!The transfer service from the airport is fantastic - the service was first class and very punctual.A highly recommended place to stay in Bali.  
+<Date>Aug 7, 2007
+<Rating>5	4	5	4	5	5	5	3	
+<Aspects>
+24	4(nice):1	15(recommend):2	22(pool):1	39(return):1	122(stop):1	138(highly):1	146(friend):1	151(modern):1	200(corner):1	222(cold):1	492(private):1	712(villa):1	720(minor):1	782(downside):1	814(bali):1	897(careful):1	1089(getaway):1	1321(freeze):1	1404(jump):1	1525(comparison):1	3469(sharp):1	4910(severely):1	6823(injure):1	7048(coz):1	
+24	0(staff):1	6(breakfast):1	9(service):1	12(friendly):1	14(helpful):1	21(excellent):1	56(morning):1	60(hour):1	78(rate):1	143(cheap):1	165(start):1	181(tour):1	342(island):1	380(cab):1	492(private):1	540(catch):1	563(driver):1	624(accommodate):1	680(arrange):1	712(villa):1	1062(affordable):1	1556(hire):1	2528(sunrise):1	4291(mt):1	
+6	9(service):2	86(fantastic):1	95(airport):1	470(class):1	1021(transfer):1	6973(punctual):1	
+28	1(location):1	7(walk):3	8(day):1	27(bar):1	29(minute):1	30(beach):1	49(shop):2	52(bit):1	86(fantastic):1	98(outside):1	117(dinner):1	185(taxi):2	195(local):1	234(set):1	380(cab):1	446(gorgeous):1	707(romantic):1	712(villa):1	814(bali):1	1151(hop):1	1413(trendy):1	1430(poolside):1	2416(reliable):1	2740(ta):1	3034(ku):1	3116(seminyak):1	3286(boutiques):1	5840(upcoming):1	
+0	
+0	
+18	2(night):1	8(day):1	10(restaurant):1	16(food):1	18(book):1	45(beautiful):1	48(wonderful):1	117(dinner):1	150(pleasant):1	153(provide):1	314(spa):1	414(atmosphere):1	527(package):1	654(sick):1	730(massage):1	833(inclusive):1	1340(mediocre):1	5128(therapist):1	
+0	
+
+<Author>377
+<Content>LOVE this place!!!! This place really deserves all the great reviews it gets. Facility is top notch and service is as good as it gets, absolutely the best. The place is new (2 years old in 2007) and was designed by a highly regarded architect. I like the look, dramatic entrances, lots of vertical space, teak everywhere, but it looks more like Danish Modern than Balinese. The location is a 4 minute walk to the beach on a narrow road, not perfect but not bad either. The grounds are beautifully landscaped in lush tropical plants. Every villa has a gorgeous ultra clean pool that is very usable for swimming laps. The fixtures are top quality, from faucets and door handles to lighting. The villas are spacious, private and romantic. They are spotless. None of that typical tropical musty mildew room smell here. The beds are big and have good mattresses, you will sleep well. Hard to say what could be done to improve the place. The staff is genuinely friendly, very attentive without being obtrusive and extremely helpful. They aren't happy until you are and go to great lengths to insure that your guest experience is a good one. I needed some batik shirts altered and they found me an excellent tailor that was lightning fast and very reasonably priced. They are on duty at all hours and you can get a light bulb promptly replaced in the middle of the night of you wish or have a fresh mango smoothie delivered to your room at 3 AM. The restaurant is a real sleeper, an undiscovered gem with food and service that rivals the trendy places outside the gates. Great food, gorgeous poolside location and reasonable prices. All food is prepared poolside in a very clean and well equipped kitchen. Don't be afraid to ask for something slightly off the menu. If they have the ingredients they will make it for you. You never find yourself looking for a waiter, they pay attention and take care of things before you need to ask. The included breakfasts are top notch, better than I had at much more expensive places in Bali. Want a second Latte? A little more fruit? No problem and no extra charge. I like to drink a lot of bottled water and its all free at the Elysian. Annie Dean is in charge of Guest Experience and she takes her job seriously. The staff is very guest oriented and really take pride in their work, all of them: housekeeping, engineering, reservations, gardening, front desk, security and restaurant. The place is remarkably bug free which worries me a bit as the only way this could be accomplished in Bali is through liberal use of insecticides, but you will never find roaches, bed bugs and only an occasional mosquito here. I'd rather have some insecticide than Dengue Fever. I stayed at the pricey Pita Maha in Obud and found a couple of pesky roaches in the otherwise clean room. I like bug free rooms and that is what you get at the Elysian. When you check out there is no hassle with incorrect room charges, my bill was error free. I planned only one stay here but canceled other plans and came back during the second week of our trip. My only regret in writing such a love letter review is that it will make it tougher for us to get reservations in the future. Looking forward to our next visit. Mark and Sara  
+<Date>Aug 6, 2007
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+33	20(look):1	23(little):1	33(trip):1	40(love):1	65(visit):1	75(week):1	111(spacious):1	138(highly):1	162(hard):1	215(fruit):1	221(plan):2	285(ground):1	492(private):1	516(design):1	548(spotless):1	707(romantic):1	712(villa):1	750(forward):1	771(beautifully):1	812(tropical):1	882(mark):1	930(regard):1	1065(cancel):1	1217(improve):1	1496(landscape):1	1906(plant):1	1937(lush):1	3691(ingredient):1	4990(latte):1	5304(fever):1	6022(architect):1	7647(sara):1	11335(insecticide):1	
+48	1(location):1	3(clean):1	6(breakfast):1	16(food):1	19(price):2	20(look):1	21(excellent):1	42(pay):1	44(experience):2	54(door):1	71(include):1	91(guest):2	99(couple):1	118(top):2	124(expensive):1	136(charge):1	155(happy):1	157(light):1	187(quality):1	242(care):1	273(reasonable):1	446(gorgeous):1	481(job):1	499(fast):1	508(otherwise):1	546(pricey):1	576(yourself):1	578(reasonably):1	726(attention):1	735(waiter):1	814(bali):1	966(handle):1	1227(notch):1	1430(poolside):1	1441(seriously):1	1541(fixture):1	1844(shirt):1	1879(length):1	2357(roach):1	2823(faucet):1	5760(insure):1	6060(dean):1	6169(tailor):1	7711(alter):1	7972(lightning):1	9805(pita):1	10162(pesky):1	10699(maha):1	
+48	2(night):1	11(bed):2	20(look):2	38(lot):1	46(free):2	52(bit):1	60(hour):1	104(sleep):1	151(modern):1	157(light):1	197(fresh):1	210(space):1	231(smell):1	325(middle):1	384(wish):1	423(menu):1	490(entrance):1	573(none):1	598(slightly):1	602(bug):3	628(typical):1	631(deliver):1	812(tropical):1	814(bali):1	831(worry):1	847(mattress):1	912(replace):1	1016(musty):1	1054(mosquito):1	1212(promptly):1	1325(duty):1	1544(afraid):1	1876(mildew):1	2056(balinese):1	2357(roach):1	2418(occasional):1	2458(bulb):1	2675(danish):1	3619(mango):1	4395(remarkably):1	5038(accomplish):1	5113(dramatic):1	6692(smoothie):1	7191(vertical):1	8675(liberal):1	10460(teak):1	11335(insecticide):1	12455(elysian):1	
+8	1(location):1	7(walk):1	29(minute):1	30(beach):1	50(bad):1	74(perfect):1	230(road):1	1207(narrow):1	
+8	3(clean):1	22(pool):1	261(swim):1	446(gorgeous):1	712(villa):1	2432(lap):1	2744(ultra):1	5536(usable):1	
+33	0(staff):2	10(restaurant):1	12(friendly):1	14(helpful):1	31(front):1	32(check):1	36(desk):1	37(review):1	40(love):1	46(free):1	91(guest):1	110(extremely):1	128(extra):1	136(charge):2	156(reservation):2	310(garden):1	344(write):1	367(housekeeping):1	495(bill):1	537(attentive):1	641(security):1	732(future):1	1193(hassle):1	1410(regret):1	1665(tough):1	1950(genuinely):1	1972(letter):1	2385(orient):1	2628(error):1	2843(pride):1	3328(engineer):1	3760(incorrect):1	7385(obtrusive):1	
+27	3(clean):1	9(service):2	10(restaurant):1	16(food):2	37(review):1	38(lot):1	46(free):1	57(water):1	63(drink):1	98(outside):1	118(top):1	189(absolutely):1	211(facility):1	238(bottle):1	240(real):1	460(prepare):1	461(kitchen):1	805(gem):1	884(equip):1	992(gate):1	1072(deserve):1	1227(notch):1	1299(sleeper):1	1413(trendy):1	1430(poolside):1	4559(rival):1	12455(elysian):1	
+0	
+
+<Author>Oceansaparttravel
+<Content>Amazing Villa Complex I booked direct with the hotel and got an amazing rate for my 5 night stay during June.The location is only a 5 min walk to the beach and the restaurants. I thought this might have been a downfall before we arrived but because Seminyak beach isn't amazing you don't really have to stay on it to have an amazing time.The staff were incredibly friendly 24 hours a day and were extremely helpful when we needed to book flights over to Lombok. We only ate breakfast in the complex but each morning it was great. They play chillout music and the size of the portions are enough to keep you going till the evening.My wife had a massage for 3 hours which she said was wonderful and fairly priced. Be aware that if you are only staying for a few nights it's worthwhile booking in advance as they are quite busy.Overall a very friendly place with fantastic rooms and peaceful atmosphere.  
+<Date>Jul 26, 2007
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+0	
+5	12(friendly):1	70(overall):1	86(fantastic):1	414(atmosphere):1	1036(peaceful):1	
+15	0(staff):1	8(day):1	12(friendly):1	14(helpful):1	18(book):1	60(hour):1	83(size):1	110(extremely):1	233(flight):1	386(play):1	398(music):1	807(incredibly):1	979(till):1	1450(portion):1	11207(lombok):1	
+16	1(location):1	2(night):1	5(time):1	7(walk):1	10(restaurant):1	18(book):1	30(beach):2	53(arrive):1	145(amaze):2	220(busy):1	247(min):1	685(advance):1	832(aware):1	2757(worthwhile):1	3116(seminyak):1	3136(downfall):1	
+0	
+0	
+11	2(night):1	6(breakfast):1	18(book):1	47(eat):1	56(morning):1	78(rate):1	145(amaze):2	664(june):1	712(villa):1	803(direct):1	1074(complex):2	
+6	19(price):1	48(wonderful):1	60(hour):1	184(wife):1	462(fairly):1	730(massage):1	
+
+<Author>FreqFlyer23
+<Content>Wonderful Layover We spent one night at this small luxurious boutique hotel in transit from another part of Indonesia, and wished we could have extended our stay there. We chose it because of the very positive reviews and its proxmity to the airport -- a 10-15 min trip and we were not disappointed.The hotel is quiet with a lovely pool, spa and a very good restaurant. The pool villas are very private, spacious, very tastefully decorated (western contemporary), and have wireless internet and an ipod stereo system. The bathrooms were large and well appointed. Although the hotel is not on a beach, I really liked the location. It is within walking distance to the beach, great shopping and lots of restaurants including Ku de ta (Food is overrated but the ambiance (very Hollywood) and setting (right on the water) is worth the visit if you like trendy LA-style restaurants.)Possible downsides: If you are looking for an accommodation that is in the traditional Balinese style, then you might want to choose another hotel. This hotel is very western in appearance and amenities. For example, we had apples, bananas and oranges imported from the US in the fruit basket in our room. It is best for couples -- I wouldn't recommend it for families with small children.  
+<Date>Jul 5, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	291(amenity):1	1015(western):1	2312(appearance):1	
+7	20(look):1	167(choose):1	326(style):1	721(accommodation):1	782(downside):1	1241(traditional):1	2056(balinese):1	
+21	10(restaurant):1	13(bathroom):1	22(pool):1	33(trip):1	37(review):1	58(quiet):1	87(lovely):1	95(airport):1	154(disappoint):1	167(choose):1	215(fruit):1	247(min):1	314(spa):1	458(positive):1	579(appoint):1	905(apple):1	954(example):1	1104(orange):1	1388(banana):1	1865(basket):1	5532(import):1	
+33	1(location):1	2(night):1	7(walk):1	10(restaurant):2	15(recommend):1	16(food):1	30(beach):2	38(lot):1	48(wonderful):1	49(shop):1	57(water):1	64(spend):1	65(visit):1	71(include):1	96(worth):1	99(couple):1	106(family):1	115(distance):1	234(set):1	277(child):1	384(wish):1	623(boutique):1	708(luxurious):1	957(ambience):1	1303(extend):1	1413(trendy):1	1438(hollywood):1	2015(transit):1	2575(overrate):1	2740(ta):1	3034(ku):1	3917(layover):1	5531(indonesia):1	
+0	
+0	
+0	
+13	22(pool):1	97(internet):1	111(spacious):1	305(decorate):1	492(private):1	518(system):1	712(villa):1	717(wireless):1	1015(western):1	1475(contemporary):1	1526(tastefully):1	2353(ipod):1	3266(stereo):1	
+
+<Author>Topcliff
+<Content>Honeymoon heaven We have just arrived back in England after an amazing honeymoon. We stayed in Singapore fo three nights then flew onto Bali staying at the Elysian for 10 nights. We have stayed in many hotels/resorts in the far east and this is by far the best we`ve ever been to. We wanted to stay somewhere special for our honeymoon and the Elysian met our expectations and more. The staff were so helpful and friendly a real asset. Our villa was out of this world, when we arrived quite late at night, we were ascorted there and were greeted with roses and a bath filled with petals. Our living room was stylishly decorated with excellent personal touches(ipod, straw hat!) our bedroom was cosy again with lovely coordinating decor, bathroom was modern and extremely clean. Our villa was cleaned twice a day and room service available 24 hours a day. With staying at the Elysian for our honeymoon we had extra perks such as two free massages one in the spa and the other in the comfort of the villa. Romantic evening meal and lunch.The hotel also had cars where drivers were available to take you on day trips (for a price but v reasonable). Ubud is a must to see the culture of Bali.All in all we had the best honeymoon anyone could ever ask for with thanks to the Elysian villas, we would highly recommend to everyone.  
+<Date>Jun 21, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+23	2(night):3	53(arrive):1	79(late):1	213(meal):1	226(bath):1	252(lunch):1	272(world):1	415(greet):1	491(fill):1	614(fly):1	707(romantic):1	712(villa):1	814(bali):2	948(east):1	960(singapore):1	1497(culture):1	1871(ubud):1	3130(petal):1	4777(rose):1	4923(fo):1	5548(ve):1	6652(hotels):1	12455(elysian):1	
+20	8(day):1	15(recommend):1	19(price):1	33(trip):1	53(arrive):1	121(car):1	134(available):1	138(highly):1	145(amaze):1	196(meet):1	208(special):1	271(thank):1	273(reasonable):1	431(expectation):1	502(honeymoon):4	563(driver):1	712(villa):1	1363(heaven):1	1970(england):1	12455(elysian):2	
+24	3(clean):2	8(day):2	9(service):1	13(bathroom):1	21(excellent):1	60(hour):1	87(lovely):1	110(extremely):1	134(available):1	151(modern):1	206(live):1	268(bedroom):1	269(decor):1	279(touch):1	305(decorate):1	347(twice):1	711(personal):1	712(villa):1	749(cozy):1	2175(hat):1	2353(ipod):1	3393(straw):1	5297(coordinate):1	5435(stylishly):1	
+0	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	240(real):1	3023(asset):1	
+0	
+9	46(free):1	128(extra):1	314(spa):1	502(honeymoon):1	702(comfort):1	712(villa):1	730(massage):1	1914(perk):1	12455(elysian):1	
+
+<Author>jarbebe
+<Content>Gorgeous Villa       Villa (Pool)  
+<Date>May 31, 2007
+<Rating>5	5	5	3	5	5	5	3	
+<Aspects>
+3	22(pool):1	446(gorgeous):1	712(villa):2	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>MarieK2.
+<Content>Utter Bliss How we wish we had had more time!! First found this place online then, after reading other TripAdvisor reviews, we booked in for three nights - far too few. This is a tiny resort that is hidden up a peaceful lane but still close to the beach and some of Seminyak's best restaurants. But we hardly ventured out as it's very hard to leave a villa that is so delightful. The space is huge, the facilities great and best pof all, they are completely private. A high wall and plenty of beautiful tropical plants ring your private pool and deck. You can see no one and no one can see you. Utterly, completely blissful.  
+<Date>May 15, 2007
+<Rating>5	4	5	5	5	4	4	4	
+<Aspects>
+7	5(time):1	384(wish):1	542(completely):1	2982(bliss):1	3935(utterly):1	5328(utter):1	7864(blissful):1	
+0	
+11	43(leave):1	133(huge):1	162(hard):1	210(space):1	211(facility):1	492(private):1	542(completely):1	712(villa):1	985(hardly):1	1176(delightful):1	1440(venture):1	
+18	10(restaurant):1	22(pool):1	28(close):1	30(beach):1	45(beautiful):1	72(resort):1	158(plenty):1	183(wall):1	338(tiny):1	492(private):1	812(tropical):1	1036(peaceful):1	1150(ring):1	1195(hide):1	1406(deck):1	1906(plant):1	2566(lane):1	3116(seminyak):1	
+0	
+0	
+6	2(night):1	18(book):1	37(review):1	88(read):1	597(tripadvisor):1	822(online):1	
+0	
+
+<Author>cad0
+<Content>Expectations Exceeded We have just returned (this morning) from a wonderful 12 night holiday in Bali, including 5 nights at the Elysian. I can only reiterate the sentiments that many have shared regarging the general friendliness and helpfulness of the staff. The amenity of the villas themselves, aslo, was first class. Particularly liked the loan ipod and enjoyed the 'chill' mix. We knew about the ipod dock and so had bought our own ipod but ended up listening to the hotels most of the time.I also very much liked the WiFi access and the several laptops / PCs that guets could use to stay in touch.The location is only OK, although it is very cnetral. Others have mentioned the lack of access to the beach, and if I was to say anything against the place, it would be the 10/15 minute walk to either Jl Dyana Pura or Jl Laksmana for the restaurants.But on balance, we will definitely be back. This place exceeded our expectations.  
+<Date>Apr 25, 2007
+<Rating>5	5	5	3	5	5	5	5	
+<Aspects>
+18	5(time):1	51(enjoy):1	59(definitely):1	166(own):1	280(buy):1	291(amenity):1	470(class):1	553(particularly):1	609(mix):1	712(villa):1	997(listen):1	1059(themselves):1	1397(chill):1	2338(dock):1	2353(ipod):3	2425(balance):1	4623(loan):1	12341(aslo):1	
+10	2(night):2	39(return):1	48(wonderful):1	56(morning):1	71(include):1	223(holiday):1	431(expectation):2	814(bali):1	1153(exceed):2	12455(elysian):1	
+0	
+9	1(location):1	7(walk):1	10(restaurant):1	29(minute):1	30(beach):1	123(ok):1	159(access):1	244(mention):1	349(lack):1	
+0	
+6	0(staff):1	520(share):1	1754(friendliness):1	3872(helpfulness):1	6017(reiterate):1	8685(sentiment):1	
+0	
+5	159(access):1	279(touch):1	1111(laptop):1	1268(wifi):1	5208(pcs):1	
+
+<Author>LimMIE
+<Content>Fantastic Place to Unwind We stayed at the Elysian for 3 nights and we want to share how pleasant the experience was.Excellent:1) Friendly and helpful staff2) Comfortable / spacious villas3) Fantastic breakfast!!4) Good variety of in-villa amenities (they provide flip-flops / bottled water / full set of toiletries, so don't bother brining your own)5) A 10-minute walk away from Ku-de-ta and the rest of Seminyak (shopping, food, etc).6) Value for money! (we paid USD185+++ per night)7) Super experience with the in-villa candlelight dinner8) 40 channels to watch!9) Great bathtub / shower concept.Things to note:1) To get to the beach, you need to take a 15-minute walk out a small road.2) the deck-chairs in the villas are not adjustable - it's in permanent semi-reclining position3) The villas have pretty high walls, so you will either get the morning sun or evening sun to tan.4) A Blue-Bird taxi will get you to the airport for 60,000Rps. You can ask the front desk to book the taxi for you.5) Even after checking-out (in the afternoon), housekeeping gladly provided towels, bath-foam, etc for us to take a shower prior to catching our flight at night.  
+<Date>Apr 20, 2007
+<Rating>5	5	5	4	5	5	5	3	
+<Aspects>
+0	
+12	2(night):2	42(pay):1	44(experience):2	86(fantastic):1	150(pleasant):1	245(watch):1	464(super):1	520(share):1	741(channel):1	2807(unwind):1	7982(candlelight):1	12455(elysian):1	
+17	2(night):1	18(book):1	31(front):1	36(desk):1	61(shower):2	73(etc):1	125(towel):1	153(provide):1	185(taxi):1	233(flight):1	364(afternoon):1	367(housekeeping):1	540(catch):1	637(prior):1	1023(bathtub):1	2176(gladly):1	2354(concept):1	
+33	7(walk):2	16(food):1	30(beach):1	49(shop):1	56(morning):1	57(water):1	73(etc):1	80(money):1	81(value):1	95(airport):1	109(pretty):1	153(provide):1	166(own):1	183(wall):1	185(taxi):1	230(road):1	234(set):1	238(bottle):1	288(rest):1	291(amenity):1	297(note):1	307(bother):1	413(variety):1	420(sun):2	657(toiletry):1	712(villa):2	2274(tan):1	3116(seminyak):1	4271(10-minute):1	4377(adjustable):1	5102(permanent):1	6836(15-minute):1	8270(flip-flop):1	
+0	
+7	6(breakfast):1	12(friendly):1	14(helpful):1	21(excellent):1	25(comfortable):1	86(fantastic):1	111(spacious):1	
+0	
+0	
+
+<Author>beverage10
+<Content>Honeymoon Heaven       The bed of comfort!  
+<Date>Dec 11, 2006
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+0	
+4	11(bed):1	502(honeymoon):1	702(comfort):1	1363(heaven):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>KLM24
+<Content>Exquiste Elysian       Inside Out  
+<Date>Oct 17, 2006
+<Rating>5	5	5	3	5	5	5	-1	
+<Aspects>
+0	
+0	
+2	408(inside):1	12455(elysian):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>song1
+<Content>Great holiday       Bedroom  
+<Date>Aug 13, 2006
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+0	
+0	
+2	223(holiday):1	268(bedroom):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Janeira
+<Content>Per Noi 猫 il migliore!       one bedroom villa  
+<Date>Oct 3, 2008
+<Rating>5	3	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+2	268(bedroom):1	712(villa):1	
+0	
+0	
+0	
+0	
+0	
+

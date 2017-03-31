@@ -1,0 +1,574 @@
+<Author>christileah
+<Content>A nice hotel We thought that this hotel was very nice. It was a little walk to get down into the city center or over to the train station (where we were coming and going from the city), but it was quiet and the rooms were nice. They looked like they had recently been redone and seemed very contemporary. The bathroom was clean and bright, but only had a shower, there was no bathtub. The bed was large, but was two twin sized beds pushed together. Some of the staff were friendly and helpful, some were not. The breakfast was ok, but nothing to brag about. It was the typical pastries and meat/cheese tray. It was fresh though and the staff who served the beverages was friendly. We enjoyed our stay, but there are plenty of hotels in the city center. If you are looking to be in the middle of the action, this is not the hotel to stay at.  
+<Date>Nov 17, 2008
+<Rating>3	3	4	3	4	3	3	3	
+<Aspects>
+7	4(nice):2	20(look):2	322(recently):1	325(middle):1	958(action):1	1475(contemporary):1	2795(redo):1	
+0	
+9	3(clean):1	11(bed):2	13(bathroom):1	61(shower):1	83(size):1	690(twin):1	880(bright):1	1023(bathtub):1	1041(push):1	
+8	4(nice):1	7(walk):1	23(little):1	41(city):2	58(quiet):1	82(station):1	101(center):1	182(train):1	
+0	
+6	0(staff):2	12(friendly):2	14(helpful):1	174(serve):1	197(fresh):1	1334(beverage):1	
+7	6(breakfast):1	123(ok):1	628(typical):1	652(pastry):1	677(meat):1	1767(tray):1	4779(brag):1	
+4	41(city):1	51(enjoy):1	101(center):1	158(plenty):1	
+
+<Author>alexspb76
+<Content>Good value for money We stayed in Florence for 3 days. The hotel is within the walking distance from the center of the city. The stuff was very friendly and helpfull. I needed an internet connection - the hotel provides wifi for very reasonable price - it was only 15 Euro for the whole stay.The breakfast was ok.Overall it was a pleasant stay.  
+<Date>Oct 9, 2008
+<Rating>4	4	4	4	4	5	5	5	
+<Aspects>
+5	12(friendly):1	70(overall):1	150(pleasant):1	480(stuff):1	1478(helpfull):1	
+4	8(day):1	80(money):1	81(value):1	346(florence):1	
+0	
+4	7(walk):1	41(city):1	101(center):1	115(distance):1	
+0	
+0	
+2	6(breakfast):1	123(ok):1	
+7	19(price):1	97(internet):1	153(provide):1	256(euro):1	273(reasonable):1	932(connection):1	1268(wifi):1	
+
+<Author>TravelingThruEurope
+<Content>Would Stay In City Center We just returned from a four night stay at the La Fortezza. The hotel staff was very nice and accommodating, particularly when we needed a room change due to excessive noise in the rooms around us. Even after the room change, we could still hear noise. This is not a hotel for people who are light sleepers! The hotel and room was clean, but had an inappropriate, modern feel to it. The breakfast was decent (not a lot of selection), but the young lady who managed the breakfast room was outstanding. She was so polite and courteous, even when the room was packed with guests. If we were to return to Florence, we would select a hotel in city center, not on the outskirts. We choose not to utilize public transport so after walking all day, we found it inconvenient to walk 30-45 minutes back to the hotel. Staying in the heart of Florence would have given a much more authentic experience.  
+<Date>Sep 29, 2008
+<Rating>2	1	3	1	3	5	5	2	
+<Aspects>
+0	
+12	0(staff):1	4(nice):1	44(experience):1	94(noise):1	161(change):1	259(due):1	346(florence):1	450(heart):1	553(particularly):1	624(accommodate):1	1886(authentic):1	3088(excessive):1	
+21	3(clean):1	6(breakfast):2	26(people):1	34(feel):1	38(lot):1	91(guest):1	94(noise):1	132(hear):1	151(modern):1	157(light):1	161(change):1	257(decent):1	333(selection):1	422(polite):1	483(courteous):1	521(lady):1	534(outstanding):1	645(manage):1	715(pack):1	1299(sleeper):1	5934(inappropriate):1	
+8	7(walk):2	8(day):1	29(minute):1	167(choose):1	379(public):1	742(transport):1	2301(inconvenient):1	3022(utilize):1	
+0	
+0	
+0	
+8	2(night):1	39(return):2	41(city):2	101(center):2	225(la):1	346(florence):1	1294(select):1	4398(outskirts):1	
+
+<Author>zoberonn
+<Content>Comfy and modern Though it was our first time to book a hotel through internet, we found something really far above our expectations. The location is ideal. A 20 minutes walk from the city center or in just 5 minutes by bus, in a peaceful neighborhood.The room was a total worth of money. Big, comfortable and very clean it really made us feel like home. There was always hot water and clean towels.The hotel stuff was very polite and helpful, always willing to help and very well informed for getting around the town. Their english was outstanding..The breakfast was very good without though a great variety.We totally recommend it for a long or a short stay  
+<Date>Sep 20, 2008
+<Rating>5	4	5	3	5	4	4	-1	
+<Aspects>
+5	15(recommend):1	144(short):1	152(english):1	534(outstanding):1	611(totally):1	
+6	5(time):1	18(book):1	97(internet):1	151(modern):1	431(expectation):1	475(comfy):1	
+3	80(money):1	96(worth):1	786(total):1	
+9	1(location):1	7(walk):1	29(minute):2	41(city):1	101(center):1	120(bus):1	421(neighbourhood):1	545(ideal):1	1036(peaceful):1	
+7	3(clean):2	25(comfortable):1	34(feel):1	57(water):1	114(hot):1	125(towel):1	141(home):1	
+6	14(helpful):1	92(help):1	239(town):1	422(polite):1	480(stuff):1	817(inform):1	
+2	6(breakfast):1	413(variety):1	
+0	
+
+<Author>SpanishTraveller27
+<Content>Nice, modern hotel       Hotel La Fortezza  
+<Date>Aug 22, 2008
+<Rating>4	4	4	3	4	3	3	-1	
+<Aspects>
+3	4(nice):1	151(modern):1	225(la):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>GalwayMoe
+<Content>Would probably return We stayed here in March 2008. I had heard great things about the hotel on this page but was a little dissapointed (that's not to say the experience was bad) The room was good for a 3 star and it was nice to have a fridge and safe but we were allocated a room on the ground floor. The wall outside was so high that it was really dark. It was also v noisy (beside the breakfast room: they would begin to set this up about 6.30 am). I feel you would have a much better experience if you booked a room on one of the upper floors. All in all, I would return. Noise was not a problem and th waiter, when we were there anyway, was so funny. He only had to make coffee and clear tables but was always way way behind. I tipped him on leaving for entertainment value alone.(most days we got no coffee!!)  
+<Date>Aug 20, 2008
+<Rating>3	4	4	4	5	4	3	3	
+<Aspects>
+3	39(return):2	178(probably):1	615(march):1	
+17	4(nice):1	23(little):1	24(floor):1	43(leave):1	44(experience):1	50(bad):1	81(value):1	103(star):1	132(hear):1	137(safe):1	194(tip):1	318(fridge):1	340(entertainment):1	706(grind):1	1371(dissapoint):1	1974(allocate):1	2414(page):1	
+10	6(breakfast):1	18(book):1	24(floor):1	34(feel):1	44(experience):1	217(noisy):1	234(set):1	551(begin):1	1333(upper):1	1350(beside):1	
+3	98(outside):1	183(wall):1	459(dark):1	
+0	
+5	94(noise):1	417(anyway):1	735(waiter):1	1156(funny):1	2505(th):1	
+3	8(day):1	90(coffee):2	229(table):1	
+0	
+
+<Author>Italia50
+<Content>Clean, comfortable and friendly! Four of us stayed here and four of us loved it. What great value for money. Rooms are clean, comfortable and well decorated. The staff are very friendly and helpful; the location is safe and within 20 minutes walk of the major attractions. We thought we might be some way out at first but were so pleased that we had walked everywhere from the hotel, we felt like we knew Florence well by the end of stay.  
+<Date>May 28, 2008
+<Rating>5	4	4	3	4	5	4	-1	
+<Aspects>
+1	40(love):1	
+2	80(money):1	81(value):1	
+3	3(clean):1	25(comfortable):1	305(decorate):1	
+12	0(staff):1	1(location):1	7(walk):2	12(friendly):1	14(helpful):1	29(minute):1	34(feel):1	137(safe):1	173(please):1	315(major):1	346(florence):1	350(attraction):1	
+3	3(clean):1	12(friendly):1	25(comfortable):1	
+0	
+0	
+0	
+
+<Author>travelergirl08
+<Content>Loved it!       nearby park  
+<Date>Apr 1, 2008
+<Rating>4	4	4	3	4	5	4	-1	
+<Aspects>
+1	40(love):1	
+0	
+0	
+2	66(park):1	232(nearby):1	
+0	
+0	
+0	
+0	
+
+<Author>Binibubbles
+<Content>Little haven       breakfast buffet  
+<Date>Mar 20, 2008
+<Rating>5	5	5	3	5	5	5	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+4	6(breakfast):1	23(little):1	77(buffet):1	2412(haven):1	
+0	
+
+<Author>vancof86
+<Content>Stylish, clean and great customer service This was a great hotel. It was decorated very stylishly, nice clean room, modern decor. The staff was very helpful and friendly. It's a bit outside of central Florence, but close to the train station. The hotel staff recommended a great local restaurant around the corner called Chirola our first night. They had great food (we had carbonara and a huge calzone, and really good house wine- Chirola tuscan red varietal) with a nice atmosphere. A very pleasant experience.  
+<Date>Feb 23, 2008
+<Rating>4	-1	5	3	5	4	4	3	
+<Aspects>
+0	
+2	44(experience):1	150(pleasant):1	
+6	3(clean):1	4(nice):1	151(modern):1	269(decor):1	305(decorate):1	5435(stylishly):1	
+7	28(close):1	52(bit):1	82(station):1	98(outside):1	168(central):1	182(train):1	346(florence):1	
+4	3(clean):1	9(service):1	428(customer):1	961(stylish):1	
+9	0(staff):2	2(night):1	10(restaurant):1	12(friendly):1	14(helpful):1	15(recommend):1	67(call):1	195(local):1	200(corner):1	
+8	4(nice):1	16(food):1	133(huge):1	251(wine):1	281(house):1	414(atmosphere):1	590(red):1	2855(tuscan):1	
+0	
+
+<Author>fred_moose
+<Content>Solid Choice La Fortezza is a clean, comfortable, somewhat stylish hotel about 20 minutes walk from the main tourist areas of Florence. The staff is extremely helpful - the manager spent 20 minutes with us calling restaurants for a New Year's Eve reservation. The location is nice, but not very convenient. It's a great value for money, and if you don't mind the extra walking or bus fare, you get a nicer hotel for less money than you would in town.  
+<Date>Jan 13, 2008
+<Rating>4	4	4	2	5	4	4	4	
+<Aspects>
+0	
+12	3(clean):1	7(walk):1	25(comfortable):1	29(minute):1	107(choice):1	112(main):1	209(tourist):1	225(la):1	346(florence):1	651(somewhat):1	961(stylish):1	1617(solid):1	
+0	
+11	1(location):1	4(nice):2	7(walk):1	80(money):2	81(value):1	120(bus):1	128(extra):1	186(convenient):1	239(town):1	294(mind):1	1112(fare):1	
+0	
+10	0(staff):1	10(restaurant):1	14(helpful):1	29(minute):1	64(spend):1	67(call):1	110(extremely):1	156(reservation):1	258(manager):1	1787(eve):1	
+0	
+0	
+
+<Author>AlreadyMissingRome
+<Content>Value For Money Hotel La Fortezza is located near the Florence train terminal, in a nice and quite street, near a very nice park. It is about 20-30 minutes walk to the southern part of town, where most major attractions are located, but the way is pleasant and offers a glimpse of the non-tourist life of Florence. Hotel staff is helpful with maps and tips, rooms ok, some with a small garden attached. Breakfast is fine, with the usual variety. Although Florence is filled with hotels near the main attractions, La Fortezza offers comfortable prices and a getaway from the never-ending tourist commotion. All-in-all, a great choice for the young at heart who save their money for spending in Florence鈥?great leather markets.  
+<Date>Nov 4, 2007
+<Rating>3	5	3	3	3	4	-1	-1	
+<Aspects>
+0	
+20	19(price):1	25(comfortable):1	64(spend):1	80(money):1	89(offer):1	102(near):1	107(choice):1	112(main):1	209(tourist):1	225(la):1	264(market):1	346(florence):2	350(attraction):1	425(save):1	450(heart):1	491(fill):1	1089(getaway):1	2729(leather):1	5121(all-in-all):1	7753(commotion):1	
+7	0(staff):1	14(helpful):1	123(ok):1	194(tip):1	310(garden):1	724(map):1	1224(attach):1	
+22	4(nice):2	7(walk):1	29(minute):1	35(street):1	66(park):1	80(money):1	81(value):1	84(locate):2	89(offer):1	102(near):2	150(pleasant):1	182(train):1	225(la):1	239(town):1	315(major):1	346(florence):2	350(attraction):1	426(life):1	1261(terminal):1	2502(southern):1	3762(glimpse):1	12379(non-tourist):1	
+0	
+0	
+4	6(breakfast):1	113(fine):1	413(variety):1	682(usual):1	
+0	
+
+<Author>adriananyc
+<Content>Very Nice Modern Hotel - a bit of a hike Hotel was very nice -modern and clean. By far the largest room and bathroom of our entire stay in Italy. Staff - Breakfast room attendant was a wonderful young lady, vert attentive and offered seconds on the cappucino :)Reception - So-so, I have no idea why we encounter so many aloof folks working reception at Italian hotels. Did not make us feel especially warm. Also was the only hotel where no one helped (or offered to help) with our bags.Location - It is about a 10 min brisk walk to get to the center of the city. We got used to the walk, but with the narrow streets, motorcycles and cobblestones - it felt longer when we were trudging back in the evening. 10 minute walk to train station as well.Overall for the price and quality, I would definitely stay there again because it was quite peaceful and nice to be a little removed from the obvious of Florence  
+<Date>Oct 30, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	34(feel):1	89(offer):1	92(help):2	126(especially):1	236(warm):1	290(bag):1	
+10	4(nice):1	19(price):1	23(little):1	59(definitely):1	70(overall):1	187(quality):1	346(florence):1	1036(peaceful):1	1135(remove):1	1698(obvious):1	
+3	13(bathroom):1	329(entire):1	900(italy):1	
+15	1(location):1	7(walk):3	29(minute):1	34(feel):1	35(street):1	41(city):1	82(station):1	101(center):1	182(train):1	247(min):1	1207(narrow):1	4542(brisk):1	5449(motorcycle):1	5837(cobblestone):1	8762(trudge):1	
+5	3(clean):1	4(nice):2	52(bit):1	151(modern):2	1705(hike):1	
+15	0(staff):1	6(breakfast):1	48(wonderful):1	89(offer):1	129(reception):2	358(italian):1	521(lady):1	537(attentive):1	639(idea):1	693(encounter):1	1050(folk):1	1446(attendant):1	1883(so-so):1	4178(cappucino):1	4904(aloof):1	
+0	
+0	
+
+<Author>jasmyne
+<Content>Great little boutique hotel in Florence The La Fortezza hotel is located about 15 minutes away from the Florence train station and my boyfriend and I chose the hotel because we were going to be taking a train to Venice from Florence and wanted to be near the station. We only brought carry on suitcases with us and we were able to walk to the La Fortezza quite comfortably with our luggage in less than 20 minutes. The hotel is a gem if you are looking to stay in Florence without the hustle bustle of all the other tourists. It's a little off the beaten path from the main attractions (Duomo, Uffizi, Accadamia). It did take us about 25-30 minutes to walk to those areas and about 20 minutes to walk to the marketplace where they had all the street vendors but the walk is totally doable and we came back around midnight on both of the nights we stayed in Florence and the streets were quiet but felt quite safe. The breakfast was your typical Italian fare with cappucino, cereal, and breakfast pastries. We were extremely impressed with the size and quality of our room and bathroom as we were given a triple and a corner room so it was massive compared to our tiny room in Rome (see my review of the Hotel Corot). The furniture was modern with hardwood floors, great lighting fixtures, and a large tv. Our bathroom was also spacious and comfortable despite not having a bathtub. We really enjoyed the tranquility of the area and our stay at this hotel and I would easily recommend it to all my friends if they were staying in Florence.  
+<Date>Oct 22, 2007
+<Rating>5	4	5	4	5	4	4	-1	
+<Aspects>
+13	15(recommend):1	23(little):1	51(enjoy):1	112(main):1	146(friend):1	346(florence):1	350(attraction):1	438(easily):1	442(beat):1	981(duomo):1	1612(path):1	1940(uffizi):1	3458(tranquility):1	
+0	
+23	13(bathroom):2	24(floor):1	25(comfortable):1	37(review):1	83(size):1	110(extremely):1	111(spacious):1	116(tv):1	151(modern):1	157(light):1	187(quality):1	200(corner):1	338(tiny):1	343(impress):1	381(compare):1	440(furniture):1	498(despite):1	1023(bathtub):1	1329(massive):1	1541(fixture):1	1553(triple):1	2185(rome):1	4044(hardwood):1	
+28	2(night):1	7(walk):3	20(look):1	23(little):1	29(minute):3	34(feel):1	35(street):2	58(quiet):1	82(station):2	84(locate):1	102(near):1	137(safe):1	167(choose):1	182(train):2	209(tourist):1	225(la):1	346(florence):5	611(totally):1	623(boutique):1	763(boyfriend):1	805(gem):1	1044(midnight):1	1107(bustle):1	1251(vendor):1	1498(venice):1	1503(hustle):1	2861(marketplace):1	6337(doable):1	
+0	
+0	
+16	6(breakfast):2	7(walk):1	29(minute):1	142(bring):1	171(able):1	225(la):1	249(luggage):1	358(italian):1	529(cereal):1	628(typical):1	652(pastry):1	824(carry):1	974(suitcase):1	1112(fare):1	2155(comfortably):1	4178(cappucino):1	
+0	
+
+<Author>mad4travel
+<Content>Pretty good Pretty good hotel, comfortable spacious rooms with a modern design. There is a laptop and cheap internet access in the room which I thought was good.My room was fine but my friends room stank of cigarette smoke even though it was a non smoking room. There were also mosquitos in the room probably from the hotel opening the windows to let out the smoke smell.Breakfast was ok with a good choice of cereals, fruit, bread ham and Cheese. Coffee was fantastic.There was also no english speaking channels on TV except CNN and EurosportThe only downside to this hotel is its distance to the centre. It is a 25 min walk to the Duomo (we timed it) and 15 mins to the station. This is not too bad but if you are doing it twice a day (once to sightsee and one to go out to Dinner)thats nearly 2 hours walking on top of walking around Florence all day and it can be pretty tiring. The plus side of this is that it is very quiet and I can imagine that things would be a lot noisier from people and cars if you were directly in the centre.on the whole I would probably see if I could find a similar hotel nearer the centre next time  
+<Date>Oct 9, 2007
+<Rating>3	4	4	2	5	4	4	5	
+<Aspects>
+0	
+0	
+31	25(comfortable):1	26(people):1	38(lot):1	58(quiet):1	101(center):2	109(pretty):2	111(spacious):1	113(fine):1	115(distance):1	116(tv):1	119(window):1	121(car):1	127(speak):1	146(friend):1	151(modern):1	152(english):1	178(probably):1	203(plus):1	217(noisy):1	231(smell):1	337(except):1	383(directly):1	468(smoke):3	516(design):1	733(imagine):1	741(channel):1	782(downside):1	1054(mosquito):1	1365(cigarette):1	1796(stink):1	2101(cnn):1	
+17	5(time):1	7(walk):3	8(day):2	50(bad):1	60(hour):1	82(station):1	109(pretty):1	117(dinner):1	118(top):1	247(min):2	346(florence):1	347(twice):1	454(tire):1	640(sight-see):1	896(nearly):1	981(duomo):1	1198(thats):1	
+0	
+0	
+10	6(breakfast):1	86(fantastic):1	90(coffee):1	107(choice):1	123(ok):1	215(fruit):1	441(cheese):1	497(bread):1	529(cereal):1	1561(ham):1	
+9	5(time):1	97(internet):1	101(center):1	102(near):1	143(cheap):1	159(access):1	178(probably):1	874(similar):1	1111(laptop):1	
+
+<Author>Amyzza
+<Content>Loved it! I travelled to Florence by myself, so I booked a single room, and the only mention I could say against is that it was a bit tiny, but otherwise lovely. It was spotless, with a comfortable bed, TV, a minibar... The bathroom was large and very clean, too. I had anything I needed to have a great three-night stay.About breakfast, it was included in the price, and I have to say that I've never ever had such a tasty and delicious coffee! Also the buffet was great, not too large, but it included anything I would take for breakfast (if you're used to the large, english-type breakfast I would not recommend as I don't remember seeing eggs or sausages, but that was no problem for me at all).The location is very good as well. It's just about ten minutes away to the Galleria dell'Accademia where the David is exposed, and twenty minutes away from the train station (and by the way, the station area stinks like HELL so I wouldn't stay there, it might seem convenient but the hotels look horrible and I'm quite sure you can even smell that inside the buildings).To sum up, I'd definitely stay there again when I go back to Florence. It's great value and great quality, way higher than the 3-star italian standards  
+<Date>Sep 11, 2007
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+5	40(love):1	59(definitely):1	346(florence):1	1651(sum):1	7022(three-night):1	
+5	81(value):1	130(standard):1	187(quality):1	358(italian):1	2814(3-star):1	
+16	3(clean):1	11(bed):1	13(bathroom):1	18(book):1	25(comfortable):1	52(bit):1	68(travel):1	87(lovely):1	116(tv):1	244(mention):1	304(single):1	338(tiny):1	346(florence):1	508(otherwise):1	548(spotless):1	1037(minibar):1	
+18	1(location):1	20(look):1	29(minute):2	82(station):2	182(train):1	186(convenient):1	231(smell):1	408(inside):1	544(horrible):1	745(building):1	1796(stink):1	1918(hell):1	1956(david):1	2637(expose):1	2806(accademia):1	3415(galleria):1	5460(twenty):1	6983(dell):1	
+0	
+0	
+11	6(breakfast):3	15(recommend):1	19(price):1	71(include):2	77(buffet):1	90(coffee):1	375(remember):1	412(egg):1	485(delicious):1	984(tasty):1	1385(sausage):1	
+0	
+
+<Author>gmfromnearlondon
+<Content>good, bit far out but good value and quet I stayed for 4 nights with my mother on our trip to florence.The hotel staff were very friendly and helpfull at all times.The room was always clean and comfortable but my matress was broken!!In each room there is a laptop so you can use the internet (various price plans - either 0.25 euro a min, or 3euro to register then 0.05 euro a min, or 10 euro and nothing to pay after.) Laptops also have office type programs on and dvd drive. The laptops will not let you use a memory card reader to view your photos but there is one built in, it did not take my card though|the breakfast was good, bit buffett and in the italian style very sweet. Usual rolls, ham, cheese, tinned fruit, yogurt, pastries and ceirial. The coffee and juice was poor though. Interestingly each day there was a new type of cake also on offer, a chocolate tart, a sponge cake, and many more!!!The hotel has open but secure parking,The area was very safe and clean and very quet, It is about a 25 min walk to the Duomo though!! Fine for me but it got annoying.If i came to florence again i would stay there again.  
+<Date>Sep 8, 2007
+<Rating>4	4	3	2	5	5	5	4	
+<Aspects>
+3	113(fine):1	346(florence):1	695(annoy):1	
+15	2(night):1	19(price):1	33(trip):1	42(pay):1	52(bit):1	81(value):1	97(internet):1	221(plan):1	247(min):2	256(euro):3	346(florence):1	823(various):1	1111(laptop):1	1359(mother):1	2833(register):1	
+4	3(clean):1	25(comfortable):1	228(break):1	3298(matress):1	
+7	3(clean):1	7(walk):1	66(park):1	137(safe):1	247(min):1	981(duomo):1	1034(secure):1	
+0	
+10	0(staff):1	5(time):1	12(friendly):1	298(drive):1	389(type):1	792(office):1	1111(laptop):1	1364(dvd):1	1478(helpfull):1	1531(program):1	
+32	6(breakfast):1	8(day):1	17(view):1	52(bit):1	89(offer):1	90(coffee):1	135(build):1	215(fruit):1	292(card):2	326(style):1	331(poor):1	358(italian):1	362(juice):1	389(type):1	441(cheese):1	632(chocolate):1	652(pastry):1	682(usual):1	761(photo):1	813(roll):1	927(yogurt):1	950(sweet):1	1029(cake):2	1111(laptop):1	1561(ham):1	1631(memory):1	2788(buffett):1	3492(reader):1	3734(tin):1	5525(interestingly):1	6256(sponge):1	6895(tart):1	
+0	
+
+<Author>la sposa
+<Content>A tranquil  This was my third stay in La Fortezza, indeed my third trip to Florence and I don't think that I'll ever stay anywhere else when I go there again.It's such a great hotel and although people do go on (here) about it being a bit of a walk to the centre of town it's really not that far and a bit of exercise is good for you. It's not as it it is uphill or involves walking through less desirable neighbourhoods. I would only say that the hotel's location would be a problem if you have trouble with your mobility, but then there is always the option of a taxi or the bus.As has already been described the decor is very up to date, with a typical Italian flair. The rooms are spotlessly clean and do contain everything you could need such as mini-bar, TV, phone, desk and safe and they now also include a laptop with webaccess (payable).The breakfast involves a decent selection of cereals, cakes, bread rolls, yoghurts, cheese, ham and fruit with juices, water and tea or coffee to drink. It is included in the room rate.The staff are very attentive without being overbearing which is pleasant and their English is excellent.I guess the only thing that this hotel is lacking is a bar. There is a lounge where they will get you a coffee if you request it, but no bar which would have been good for us on our last visit as we were over in Florence to get married and had a number of friends and family staying in the hotel with us and it would have been great to meet up over apertivo before we headed out.One last thing. I noticed that a previous reviewer quoted the taxi price to the main station (Santa Maria Novella) as being 13 Euros. Although I've not got a taxi to the station this seems a little steep to me as it's only about 1-2kms away and when I got a taxi from the hotel over to the other side of the Arno in heavy traffic it was only 7 Euros, so I think that they were ripped off (not that I think this happens often as taxis are metered there). It probably is an idea to get a taxi from the station to the hotel if you arrive with a lot of baggage, but if you bags are portable then the walk is only about 15 mins and is not that complicated.  
+<Date>Aug 30, 2007
+<Rating>5	5	4	4	5	5	4	4	
+<Aspects>
+7	33(trip):1	170(else):1	225(la):1	346(florence):1	532(third):2	990(indeed):1	3038(tranquil):1	
+0	
+18	3(clean):1	36(desk):1	71(include):2	78(rate):1	116(tv):1	137(safe):1	269(decor):1	296(phone):1	358(italian):1	511(date):1	628(typical):1	955(describe):1	1094(spotlessly):1	1111(laptop):1	1338(mini-bar):1	1545(contain):1	4272(flair):1	11509(payable):1	
+44	1(location):1	7(walk):3	19(price):1	23(little):1	26(people):1	38(lot):1	52(bit):2	53(arrive):1	82(station):3	101(center):1	112(main):1	120(bus):1	178(probably):1	185(taxi):6	239(town):1	247(min):1	256(euro):2	290(bag):1	336(option):1	354(notice):1	373(previous):1	382(happen):1	421(neighbourhood):1	486(traffic):1	564(reviewer):1	569(trouble):1	639(idea):1	1060(steep):1	1182(rip):1	1186(heavy):1	1194(metre):1	1459(exercise):1	1510(santa):1	1538(involve):1	1783(baggage):1	1833(mare):1	1856(quote):1	2117(arno):1	3407(novella):1	3597(uphill):1	4037(desirable):1	4107(portable):1	4246(complicate):1	4304(mobility):1	
+0	
+6	0(staff):1	21(excellent):1	150(pleasant):1	152(english):1	537(attentive):1	5369(overbear):1	
+30	6(breakfast):1	27(bar):2	57(water):1	63(drink):1	65(visit):1	90(coffee):2	106(family):1	146(friend):1	148(request):1	196(meet):1	215(fruit):1	237(lounge):1	257(decent):1	301(tea):1	319(head):1	333(selection):1	335(numb):1	346(florence):1	349(lack):1	362(juice):1	441(cheese):1	469(guess):1	497(bread):1	529(cereal):1	813(roll):1	927(yogurt):1	1029(cake):1	1538(involve):1	1561(ham):1	1743(married):1	
+0	
+
+<Author>careca
+<Content>Nice enjoyable stay We visited Florence and stayed at the La Fortezza for 6 nites between 31 July to 5 Aug. 2007. The staff were friendly and helpful - the check in was swift as the room was ready for us - and it was clean and cool - just what was needed after a journey. We asked them to pre- book the Uffizi gallery tickets and when we got back from touring in the evening, we were presented with our number which we took to collect and pay for our pre-booked tickets which eliminated the need to queue to get in. On the last nite before leaving the next day as it was going to be Sunday, we asked for the receptionist to book a taxi to collect and drop us/luggage at the SMN station fo our onward journey to Pisa.The room and surrondings were always clean .In the room we were provided with the usual supply of towels and complimentary basket of soap, body lotion, shoe shine sponge etc. The breakfast was also fine and consists of tea, coffee, cereals,yougurts, fruit salad, juice etc.- there was nothing cooked as such but we were grateful to have something to eat before setting off for the day.There are several places outside which we could buy a proper cooked breakfast if we needed to.Overall. it was an excellent stay as there is not one complaint to make of the hotel staff or facilities. I find cluelessreview here as hard to believe ..it had me worried as to what kind of hotel will be going to ...but I am so glad it an excellent place to stay where The hotel staff were always willing to serve us as thier visitors.  
+<Date>Aug 11, 2007
+<Rating>5	4	3	3	3	4	4	4	
+<Aspects>
+10	4(nice):1	65(visit):1	70(overall):1	162(hard):1	225(la):1	312(believe):1	346(florence):1	567(enjoyable):1	1895(nite):1	2404(aug):1	
+12	18(book):1	42(pay):1	181(tour):1	335(numb):1	621(ticket):2	1463(queue):1	1794(gallery):1	1889(collect):1	1940(uffizi):1	2422(pre):1	4399(eliminate):1	4507(pre-booke):1	
+14	3(clean):1	73(etc):1	125(towel):1	153(provide):1	345(complimentary):1	682(usual):1	859(supply):1	965(soap):1	1191(shoe):1	1352(body):1	1865(basket):1	1873(lotion):1	2349(shine):1	6256(sponge):1	
+24	0(staff):1	6(breakfast):1	8(day):1	18(book):1	21(excellent):1	43(leave):1	82(station):1	98(outside):1	185(taxi):1	190(complaint):1	211(facility):1	280(buy):1	550(cook):1	662(drop):1	844(sunday):1	855(receptionist):1	1362(journey):1	1719(proper):1	1889(collect):1	1895(nite):1	3810(pisa):1	4923(fo):1	6901(smn):1	7984(onward):1	
+0	
+15	0(staff):2	3(clean):1	12(friendly):1	14(helpful):1	21(excellent):1	32(check):1	174(serve):1	274(ready):1	278(cool):1	619(glad):1	885(worried):1	951(visitor):1	1362(journey):1	3018(thier):1	4245(swift):1	
+15	6(breakfast):1	8(day):1	47(eat):1	73(etc):1	90(coffee):1	113(fine):1	215(fruit):1	234(set):1	301(tea):1	362(juice):1	529(cereal):1	550(cook):1	909(salad):1	1185(consist):1	2457(grateful):1	
+0	
+
+<Author>louisejwalsh
+<Content>Enjoyable stay in the La Fortezza-Mau We spent four nights in La Fortezza hotel.We were very impressed .The staff were extremely helpful.They showed us a map of the areas of interest on the first day.In the evenings if we wanted to book a restaurant ,they would book it for us.If we required a taxi ,they would ring one for us.The hotel is situated about a 10/15 minute walk from the centre of Florence.Now I myself do not particulary enjoy walking ,however I enjoyed it thoroughly.A trip to Florence is very much a walking holiday.We found the location of the hotel perfect.It will take a day of so to get your bearings .The food in the morning was the usual continental breakfast,which set us up until lunchtime.I was also delighted to find that they do herbel teas ,which was a nice touch,as they do not serve this in every hotel.The bedrooms were spoltless and airy.We had a lovely stay at the hotel,and we would class ourselves as being quite particular.We will be recommending this hotel to any friends thinking of staying in Florence.Louise Maurice -from Ireland  
+<Date>Jun 1, 2007
+<Rating>4	4	5	4	5	5	4	5	
+<Aspects>
+17	2(night):1	8(day):2	15(recommend):1	64(spend):1	87(lovely):1	146(friend):1	225(la):2	343(impress):1	346(florence):1	470(class):1	567(enjoyable):1	724(map):1	767(ourselves):1	938(particular):1	3748(ireland):1	4344(bearing):1	9776(louise):1	
+0	
+2	268(bedroom):1	1947(airy):1	
+15	1(location):1	7(walk):3	29(minute):1	33(trip):1	51(enjoy):2	74(perfect):1	101(center):1	185(taxi):1	223(holiday):1	346(florence):2	574(situate):1	722(require):1	898(thoroughly):1	1150(ring):1	5462(particulary):1	
+0	
+3	0(staff):1	14(helpful):1	110(extremely):1	
+15	4(nice):1	6(breakfast):1	10(restaurant):1	16(food):1	18(book):2	56(morning):1	174(serve):1	234(set):1	279(touch):1	301(tea):1	372(continental):1	682(usual):1	1003(evening):1	1025(delight):1	3990(lunchtime):1	
+0	
+
+<Author>Critics_Critic
+<Content>Hotel Manager and Staff, Great We based our selection of Hotels in Europe on the reviews in Tripadvisor. The La Fortezza Hotel in Florence received an average of 4 Stars from reviewers in Tripadvisor and is classified as a 3 Star Hotel. We arrived, the Front Desk Staff were very nice, the lobby was as described, and the room was O.K. Our first night there was a problem with the hot water, and the shower head was broken. We advised the front desk, and upon our return the following afternoon from touring, everything was fixed, there was plenty of hot water, and the Manager delivered 2 bottles of Italian wine with an apology card, and an offer for an additional nights stay in the future at no charge. It is easy to complain about a hotel, but to correct a problem as quickly as they did was very impressive. If you are looking for a nice 3 Star Hotel, at a good location, with a very friendly staff, clean bathroom, descent bed and a reasonable price. We have no qualms recommending La Fortezza Hotel. They made good on whatever minor problems we had, and that is what counts! They cared.  
+<Date>May 17, 2007
+<Rating>4	2	3	4	4	5	5	-1	
+<Aspects>
+12	15(recommend):1	93(easy):1	225(la):1	241(complain):1	242(care):1	471(quickly):1	720(minor):1	920(impressive):1	937(whatever):1	1263(correct):1	1781(Count):1	5899(qualm):1	
+8	103(star):2	225(la):1	227(average):1	302(receive):1	346(florence):1	564(reviewer):1	597(tripadvisor):1	6490(classified):1	
+24	0(staff):2	1(location):1	2(night):1	3(clean):1	4(nice):2	11(bed):1	12(friendly):1	13(bathroom):1	19(price):1	20(look):1	31(front):1	36(desk):1	53(arrive):1	55(lobby):1	57(water):1	61(shower):1	103(star):1	114(hot):1	228(break):1	273(reasonable):1	319(head):1	955(describe):1	2540(o.k):1	6525(descent):1	
+0	
+0	
+29	0(staff):1	2(night):1	31(front):1	36(desk):1	37(review):1	39(return):1	57(water):1	89(offer):1	114(hot):1	136(charge):1	158(plenty):1	181(tour):1	238(bottle):1	251(wine):1	258(manager):2	284(base):1	292(card):1	333(selection):1	358(italian):1	364(afternoon):1	482(follow):1	494(fix):1	597(tripadvisor):1	631(deliver):1	663(advise):1	700(europe):1	732(future):1	835(additional):1	1547(apology):1	
+0	
+0	
+
+<Author>andyandanne
+<Content>loved the hotel we have just returned from a 3 day trip to florence and to la fortezza hotel,we found this hotel excellent, the room was clean, lovely, had safe with no charge. Though it was about 15mins to the centre of town this was no problem and we found it easy to get around, the hotel was in a quiet area so no noise at night. Breakfast was good with the normal european menu but still lots of it. Staff were very friendly. Taxi from train station was approx 7 euros, but we found we could walk there for our return journey. I would definately go back to this hotel.  
+<Date>May 14, 2007
+<Rating>4	4	4	3	4	4	3	4	
+<Aspects>
+1	410(definately):1	
+0	
+18	2(night):1	3(clean):1	8(day):1	21(excellent):1	33(trip):1	39(return):1	40(love):1	58(quiet):1	87(lovely):1	93(easy):1	94(noise):1	101(center):1	136(charge):1	137(safe):1	225(la):1	239(town):1	346(florence):1	5013(15min):1	
+8	7(walk):1	39(return):1	82(station):1	182(train):1	185(taxi):1	256(euro):1	1362(journey):1	1423(approx):1	
+0	
+2	0(staff):1	12(friendly):1	
+5	6(breakfast):1	38(lot):1	423(menu):1	582(european):1	878(normal):1	
+0	
+
+<Author>ronski2007
+<Content>loved it! We stayed in La Fortezza hotel for 2 nights. The room is very nice and clean. The breakfast was very good. Its quite a walk from the termini station (esp with your luggage) or to other sites but there is a bus stop near the hotel (forgot the bus# sorry) or you can take a cab. The staff is friendly and hotel is located in a quiet area. We would definitely stay in this hotel again.  
+<Date>Apr 17, 2007
+<Rating>4	4	4	4	5	4	4	3	
+<Aspects>
+4	2(night):1	40(love):1	59(definitely):1	225(la):1	
+0	
+6	0(staff):1	3(clean):1	4(nice):1	12(friendly):1	58(quiet):1	84(locate):1	
+12	7(walk):1	82(station):1	102(near):1	120(bus):2	122(stop):1	192(site):1	249(luggage):1	380(cab):1	397(forget):1	891(sorry):1	2624(esp):1	4690(terminus):1	
+0	
+0	
+1	6(breakfast):1	
+0	
+
+<Author>la_sposaNY
+<Content>A great hotel We stated at La Fortezza for four nights back in October. I have only good things to say about this hotel. The rooms are clean and spacious. As others have mentioned, it is a five to ten minute walk from the hotel to the center of the city but it is a lovely way to see Florence. Plus, it is worth the benefit of staying in a quieter section of the city. The staff at this hotel are exceptional. From making reservations at the academy to advising us about day tours, they were incredibly helpful no matter who was at the front desk.We found this to be a great hotel for a very reasonable price and I would definitely stay here again.  
+<Date>Jan 15, 2007
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+3	2(night):1	225(la):1	911(october):1	
+3	19(price):1	59(definitely):1	273(reasonable):1	
+8	3(clean):1	41(city):1	58(quiet):1	96(worth):1	111(spacious):1	203(plus):1	947(section):1	1524(benefit):1	
+7	7(walk):1	29(minute):1	41(city):1	87(lovely):1	101(center):1	244(mention):1	346(florence):1	
+0	
+12	0(staff):1	8(day):1	14(helpful):1	31(front):1	36(desk):1	156(reservation):1	181(tour):1	531(matter):1	663(advise):1	807(incredibly):1	837(exceptional):1	5912(academy):1	
+0	
+0	
+
+<Author>sjmacdee
+<Content>Very Nice Hotel If you are a true traveler and know you should stay cheap in Europe, this is the place for you. It is very reasonable and very nice.The rooms are much bigger than I expect for Europe, they are clean and actually have someplace to store your suitcases and lots of closet space. The baths are large and very clean and the hotel is in a quiet part of the city. The staff is excellent and was a great help to us.It is about a ten minute walk to the sites, five minutes to the train station and has several excellent restaurants within two blocks.The only problem I had was the pillows. They are hard. If you are like me and like a soft pillow, bring your own.This is an above average hotel with a very nice staff. Highly recommended.  
+<Date>Jan 5, 2007
+<Rating>4	5	5	3	5	5	5	-1	
+<Aspects>
+9	4(nice):1	15(recommend):1	138(highly):1	142(bring):1	162(hard):1	166(own):1	273(reasonable):1	303(pillow):2	589(soft):1	
+4	4(nice):1	143(cheap):1	267(traveler):1	700(europe):1	
+13	3(clean):2	38(lot):1	41(city):1	58(quiet):1	62(expect):1	180(actually):1	210(space):1	226(bath):1	255(store):1	565(closet):1	700(europe):1	974(suitcase):1	3042(someplace):1	
+8	7(walk):1	10(restaurant):1	21(excellent):1	29(minute):2	82(station):1	100(bloc):1	182(train):1	192(site):1	
+0	
+5	0(staff):2	4(nice):1	21(excellent):1	92(help):1	227(average):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Fab Hotel We have just arrived back home after staying in La Fortezza for 4 nights,  I would recommend it to anyone. The rooms are a nice balance of both traditional  modern  the staff are very helpful should you need anything.It is situated in a very nice area,which is quiet enough for you to get a good nights sleep,but not so quiet that theres no-one around, as you have easy access to a main road (if you're driving)  there is a bus stop where the number 4 or 20 bus which will take you into the city centre.The only bad thing about this Hotel is its quite a walk from the city centre (especially with a suitcase) but if you're staying for a few days you soon get used to the short-cuts.  
+<Date>Jun 19, 2006
+<Rating>4	5	5	-1	5	-1	5	-1	
+<Aspects>
+6	2(night):1	15(recommend):1	53(arrive):1	141(home):1	225(la):1	1216(fab):1	
+0	
+27	0(staff):1	2(night):1	4(nice):2	7(walk):1	8(day):1	14(helpful):1	41(city):2	50(bad):1	58(quiet):2	93(easy):1	101(center):2	104(sleep):1	112(main):1	120(bus):2	122(stop):1	126(especially):1	151(modern):1	159(access):1	230(road):1	298(drive):1	335(numb):1	418(soon):1	574(situate):1	974(suitcase):1	1241(traditional):1	2425(balance):1	3693(no-one):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>travellers_from_oz
+<Content>Great hotel, away from tourist area though We stayed in La Fortezza for two nights while in Florence in mid February.The hotel is about a ten minute walk from the main train station, which wasn't far for us but might be for others without backpacks.It is in a quiet area, and while we walked to the Duomo, Uffizi, Ponte Vecchio etc, it was a nice walk for us but again might be too far for others. Galleria dell'Accademia is the closest attraction. However, you don't have to put up with tourists, leather sellers, illegal bag sellers, markets etc right outside the hotel either, and the area is a bit nicer than those further in so it really depends what you are after. For us, it was lovely to be in a quieter area and have a nice walk each morning.Positives:*I loved the interior- the lobby, reception area and sitting room are beautiful, decadent and classically 'Italian', yet the breakfast room and bedrooms are brightly coloured with simple minimalistic furniture. Our room was bright lime green. It's a real contrast and gives you a shock at first, but I really loved it. It is very well presented.*Staff are very pleasant and helpful, they have some maps, tour information, and a small room to lock luggage in. *Very good breakfast- a variety of cereal, breads, cakes and pastries, juices and fresh coffee.*Comfortable beds give you a good night of sleep*Rooms are cleaned very well*Bathrooms are an ok size, and the shower is good.*There is a good restaurant around the corner (heading back toward the train station), they might be able to tell you the name at the front desk, which has great food at good prices. If you stay here, try this restaurant if you want good Italian food and are on a budget.*We booked over the internet and paid about 75 euro/night, which we thought was a very good price for what we got.Not so good:*If you want to be closer to the centre of the tourist area, this might not be the place for you.*It took a bit of walking to find other restaurants (apart from the great one above).This hotel suited me because I prefer a quieter, beautiful hotel away from the markets/street sellers/tourists. But if you want to be in the middle of all the action, perhaps somewhere closer might be better.But I would definitely stay here again if I return to Florence.  
+<Date>Apr 8, 2006
+<Rating>5	5	5	-1	4	-1	4	-1	
+<Aspects>
+12	2(night):1	39(return):1	40(love):1	59(definitely):1	209(tourist):1	225(la):1	240(real):1	346(florence):2	1206(shock):1	1230(february):1	1313(mid):1	2835(contrast):1	
+5	18(book):1	19(price):1	42(pay):1	97(internet):1	256(euro):1	
+41	2(night):1	3(clean):1	4(nice):2	6(breakfast):1	7(walk):3	11(bed):1	13(bathroom):1	25(comfortable):1	40(love):1	45(beautiful):2	55(lobby):1	56(morning):1	58(quiet):3	61(shower):1	73(etc):1	83(size):1	87(lovely):1	104(sleep):1	123(ok):1	129(reception):1	169(sit):1	268(bedroom):1	358(italian):1	440(furniture):1	458(positive):1	536(prefer):1	613(simple):1	861(suit):1	880(bright):1	942(color):1	981(duomo):1	1005(green):1	1026(interior):1	1645(ponte):1	1836(vecchio):1	1940(uffizi):1	4319(lime):1	5337(brightly):1	5981(minimalistic):1	6158(decadent):1	12168(classically):1	
+36	4(nice):1	7(walk):2	10(restaurant):2	16(food):1	19(price):1	28(close):3	29(minute):1	31(front):1	36(desk):1	52(bit):2	69(tell):1	73(etc):1	82(station):2	98(outside):1	101(center):1	112(main):1	171(able):1	182(train):2	200(corner):1	209(tourist):2	264(market):1	290(bag):1	295(name):1	325(middle):1	350(attraction):1	857(apart):1	958(action):1	969(depend):1	1437(heading):1	2729(leather):1	2806(accademia):1	3415(galleria):1	5055(seller):2	6321(illegal):1	6983(dell):1	7586(backpacks):1	
+0	
+8	0(staff):1	14(helpful):1	150(pleasant):1	181(tour):1	249(luggage):1	649(information):1	724(map):1	774(lock):1	
+14	6(breakfast):1	10(restaurant):1	16(food):1	76(try):1	90(coffee):1	197(fresh):1	358(italian):1	362(juice):1	413(variety):1	429(budget):1	497(bread):1	529(cereal):1	652(pastry):1	1029(cake):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Give it a go youll be more than satisfied We have just arrived home from the fore mentioned La Fortezza Hotel in downtown Florence. Located in relatively close proximity to the old town centre it is a ideal location for those of us who like to sleep in peace. The hotel itself proved to be excellent value off peak Jan very comfortable, i might add not a place to see the old Florence internally but instead we were pleasantly surprised with a bright clean modern interior fused with the external look of an early 1900's villa.We opted for a bed and breakfast package this proving to be one of the only faults i could pick as the sparse continental style breakfast proved reminisant of MacDonald鈥檚 fused with plastic figurines. To counter this take a stroll down the street to one of Florence鈥檚 many beautiful cafes. To sum up La Fortezza Hotel provides safe clean budget accommodation friendly service that inspires a return visit .  
+<Date>Jan 29, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	53(arrive):1	141(home):1	225(la):1	244(mention):1	334(downtown):1	346(florence):1	899(satisfy):1	7828(youll):1	11499(fore):1	
+31	3(clean):2	9(service):1	12(friendly):1	20(look):1	21(excellent):1	25(comfortable):1	39(return):1	65(visit):1	81(value):1	137(safe):1	151(modern):1	153(provide):1	199(surprise):1	225(la):1	346(florence):1	351(add):1	353(instead):1	429(budget):1	712(villa):1	721(accommodation):1	747(pleasantly):1	880(bright):1	1026(interior):1	1462(jan):1	1554(prove):1	1651(sum):1	1710(peak):1	3625(inspire):1	4299(external):1	6921(fuse):1	11215(internally):1	
+12	6(breakfast):2	11(bed):1	266(pick):1	326(style):1	372(continental):1	517(fault):1	527(package):1	1184(opt):1	1347(plastic):1	1554(prove):2	3459(sparse):1	6921(fuse):1	
+16	1(location):1	28(close):1	35(street):1	45(beautiful):1	84(locate):1	101(center):1	104(sleep):1	239(town):1	275(cafe):1	346(florence):1	545(ideal):1	913(relatively):1	1001(counter):1	1056(stroll):1	1114(proximity):1	1517(peace):1	
+0	
+0	
+0	
+0	
+
+<Author>CurtisTalls
+<Content>La Fortezza a hotel in Firenze       The Double Room  
+<Date>Oct 31, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+3	179(double):1	225(la):1	3062(firenze):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Seventies time warp room The hotel is near the train central station but a bit far from the Touristic centre (but achievable by walking). The reception is quite Italian renaissance style but our room was from another world!!! Our room had lime green colour walls and the bathroom was entirely red!!!! However the room was clean and a breakfast buffet is included as part of the price. Just another thing that striked us: the cleaning lady moved our possessions around the room when she tied it up which we didnt like.  
+<Date>Sep 25, 2005
+<Rating>3	4	3	-1	4	-1	3	-1	
+<Aspects>
+0	
+0	
+19	3(clean):1	13(bathroom):1	129(reception):1	183(wall):1	207(move):1	272(world):1	326(style):1	358(italian):1	521(lady):1	590(red):1	626(didnt):1	942(color):1	1005(green):1	1957(strike):1	2028(renaissance):1	2069(entirely):1	3427(tie):1	4319(lime):1	7856(possession):1	
+11	5(time):1	7(walk):1	52(bit):1	82(station):1	101(center):1	102(near):1	168(central):1	182(train):1	4163(touristic):1	7470(warp):1	10475(seventy):1	
+0	
+0	
+5	3(clean):1	6(breakfast):1	19(price):1	71(include):1	77(buffet):1	
+0	
+
+<Author>Maceoid
+<Content>Tough on the feet...but worth it We spent three nights here and thoroughly enjoyed it. Our room was on the bottom floor but was very quiet and had ah-u-g-e, modern bathroom. The rooms had obviously been recently refurbished and the air conditioning was fantastic - very quiet but oh so cold; essential for Italy in July. Maid service was great - new towels and room tidied every day - and although we only made breakfast once (the nightlife was so good!) it had the usual European continental collection of rolls, coffee, yoghurt, fruit and cereal. The staff were also excellent - tolerating our (very) bad Italian and managing to be cheery at all times. The only downside with the hotel is its distance from the city centre. It's a good 15-minute walk to the Duomo, which becomes a bit wearing after tramping round the ruins all day. If it's hot and you've got bags don't try and walk it from the station - a taxi is about seven euros.However, the hotel is on the No.13 bus route, which is a circle which takes you through the centre and to the top of the hill over the river (Piazza Michelangelo) and back to the station. It goes every 15 minutes and it's worth picking up a 24-hour ticket from the Tabacchi and just hopping on and off. Unfortunately there were no bus maps available but we'd recommend this as a great way of getting round Florence - so easy and such good fun. Make sure you DO buy a ticket though - we saw plenty of inspectors and the feeble shrugs and claims of 'I'm just a tourist' cut no ice...you'll get fined.To sum up: BAD - location. GOOD - everything else!  
+<Date>Aug 3, 2005
+<Rating>4	4	5	-1	5	-1	5	-1	
+<Aspects>
+23	2(night):1	29(minute):1	51(enjoy):1	64(spend):1	96(worth):2	113(fine):1	158(plenty):1	170(else):1	209(tourist):1	266(pick):1	280(buy):1	402(foot):1	547(ice):1	621(ticket):2	873(cut):1	898(thoroughly):1	1077(claim):1	1151(hop):1	1665(tough):1	3678(shrug):1	3743(24-hour):1	9425(inspector):1	11319(feeble):1	
+0	
+14	13(bathroom):1	24(floor):1	58(quiet):2	86(fantastic):1	151(modern):1	164(air):1	222(cold):1	263(condition):1	322(recently):1	781(obviously):1	850(bottom):1	900(italy):1	1253(refurbish):1	2496(essential):1	
+33	1(location):1	7(walk):2	8(day):1	15(recommend):1	50(bad):1	52(bit):1	76(try):1	82(station):2	93(easy):1	101(center):1	114(hot):1	118(top):1	120(bus):2	134(available):1	176(fun):1	185(taxi):1	256(euro):1	290(bag):1	346(florence):1	434(wear):1	524(unfortunately):1	710(river):1	724(map):1	756(hill):1	981(duomo):1	1035(route):1	1243(ruin):1	1651(sum):1	2116(piazza):1	2126(circle):1	3243(michelangelo):1	6836(15-minute):1	9459(tramp):1	
+0	
+8	0(staff):1	5(time):1	21(excellent):1	50(bad):1	358(italian):1	645(manage):1	4140(cheery):1	4239(tolerate):1	
+16	6(breakfast):1	8(day):1	9(service):1	90(coffee):1	125(towel):1	215(fruit):1	300(maid):1	372(continental):1	529(cereal):1	582(european):1	682(usual):1	813(roll):1	927(yogurt):1	1100(tidy):1	1305(nightlife):1	2694(collection):1	
+4	41(city):1	101(center):1	115(distance):1	782(downside):1	
+
+<Author>A TripAdvisor Member
+<Content>Far from main tourist attractions (e.g. Uffizi Gallery, PiazzaDuomo) Stayed at La Fortezza for two nights on June 5-6, 2005. Our room rate was 98 euros a night including breakfast. It took 25 minutes (15 minutes without luggage) with luggage to walk to this hotel from the Stazione Centrale Di Santa Maria Novella (main railway station). If you're planning on walking to the hotel from the train station, print a map of the hotel location beforehand. If you do not want to walk to the hotel and prefer to take a bus, take Bus #13 from the train station. The hotel is in a quiet neighborhood away from the main attractions. There is a restaurant and a bar about one block from the hotel. (Note: Most of the restaurants and museums are closed on Mondays.) Ask the front desk clerk for directions to the closest restaurants that are open. There are a few restaurants open on Mondays that is approximately 1/2 mile from La Fortezza. The hotel is clean and the hotel staff is friendly and helpful. Hotel guest can use the computer located in the lobby next to the front desk for a fee. Our room no. 86 was on the first floor, near the front desk and elevator. It had a king size bed and television. It also has a small refrigerator with sodas, liquor, juice, bottled water (gas  non-gas) cookies and crackers which is not free. Drank one can of soda and it cost 3 euros. The bathroom is clean and has a shower only and a blow dryer. The breakfast room is located one floor below the lobby floor. Breakfast consist of cereals, croissants and assorted danish, bread rolls, cold ham, yogurt, canned fruits, juice, bottled water (mineral and sparkling) and coffee (cappucino, cafe americano, espresso). On our first day, we asked the front desk to call a taxi to take us to Uffizi Gallery which cost 15 euros. The taxi arrived within 3 minutes and the taxi meter showed 6 euros. If you are on a low budget take the bus to the different tourist attractions. There is a bus stop very close to the hotel. Ask the front desk where to purchase bus ticket (biglietto in Italian) and which bus to take. There are various kinds of bus tickets. There is ticket valid for 60 minutes; ticket valid for 3 hours; multiple ordinary (4 one hour tickets); ticket valid for 24 hours; ticket valid for 2 days; ticket valid for 3 days; ticket valid for 7 days; multi-day tickets; and Volainbus ticket which is sold on board for 4,00 euros. The ticket states: Ticket must be stamped on entry and exhibited on request. There is a ticket stamping machine inside the bus. (Note: I suggest to go the website for getting around by bus in Florence. The website provides Timetables, Routes and Maps. Print these different guides before you take a trip to Florence because hotels and bus sales points do not have it.) A taxi from the hotel to the main railway station cost around 13 euros. (Note: It is difficult to find available taxis at night time.)  
+<Date>Jun 12, 2005
+<Rating>3	3	4	-1	4	-1	3	-1	
+<Aspects>
+8	2(night):1	112(main):1	209(tourist):1	225(la):1	350(attraction):1	664(june):1	1794(gallery):1	1940(uffizi):1	
+4	63(drink):1	175(cost):1	256(euro):1	1308(soda):1	
+31	2(night):1	3(clean):1	6(breakfast):2	11(bed):1	13(bathroom):1	24(floor):3	31(front):1	36(desk):1	55(lobby):1	58(quiet):1	61(shower):1	71(include):1	78(rate):1	83(size):1	84(locate):1	102(near):1	112(main):1	120(bus):1	216(elevator):1	243(king):1	256(euro):1	350(attraction):1	408(inside):1	421(neighbourhood):1	493(machine):1	585(below):1	621(ticket):1	1146(blow):1	1158(television):1	1209(dryer):1	3605(stamp):1	
+68	1(location):1	2(night):1	5(time):1	7(walk):3	8(day):4	10(restaurant):1	28(close):2	29(minute):4	31(front):1	33(trip):1	36(desk):1	46(free):1	53(arrive):1	57(water):1	60(hour):3	67(call):1	82(station):4	112(main):2	120(bus):7	122(stop):1	134(available):1	175(cost):2	182(train):2	185(taxi):5	209(tourist):1	221(plan):1	238(bottle):1	249(luggage):2	256(euro):4	262(website):1	297(note):3	346(florence):2	350(attraction):1	362(juice):1	429(budget):1	452(suggest):1	507(museum):1	513(low):1	536(prefer):1	572(difficult):1	600(board):1	606(sell):1	621(ticket):10	724(map):1	823(various):1	829(guide):1	916(refrigerator):1	1101(print):2	1173(cookie):1	1194(metre):1	1308(soda):1	1390(liquor):1	1510(santa):1	1723(sale):1	1732(multiple):1	1794(gallery):1	1833(mare):1	1940(uffizi):1	2002(railway):2	2025(ordinary):1	2632(gas):1	3180(beforehand):1	3294(cracker):1	3407(novella):1	3881(di):1	4438(valid):6	6900(centrale):1	8206(mondays):1	
+4	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	
+19	10(restaurant):1	28(close):1	31(front):3	36(desk):3	55(lobby):1	84(locate):1	91(guest):1	120(bus):2	148(request):1	358(italian):1	395(direction):1	555(computer):1	584(fee):1	621(ticket):3	788(clerk):1	887(purchase):1	1649(entry):1	3605(stamp):1	4958(exhibit):1	
+29	6(breakfast):1	10(restaurant):2	27(bar):1	57(water):1	90(coffee):1	100(bloc):1	215(fruit):1	222(cold):1	225(la):1	238(bottle):1	275(cafe):1	362(juice):1	497(bread):1	529(cereal):1	692(mile):1	813(roll):1	927(yogurt):1	1004(croissant):1	1185(consist):1	1561(ham):1	1919(sparkle):1	1961(approximately):1	2324(espresso):1	2675(danish):1	3887(mineral):1	3968(assorted):1	4178(cappucino):1	7687(americano):1	8206(mondays):1	
+5	153(provide):1	262(website):1	724(map):1	1035(route):1	6466(timetable):1	
+
+<Author>A TripAdvisor Member
+<Content>Very Impressed - So quiet! We recently stayed at La Fortezza in mid-May, on our first trip to Europe! We did not use a travel agent to plan, simply winged it in choosing hotels for our trip by using reviews here and elsewhere. Had no problem with the hotel honoring our quoted price at time of check-out. Our room was on the first floor - it was adequate, not large, but definitely enough for us, as we didn't spend much time there except to sleep! Florence is a small enough city that you can pretty much walk anywhere you want, so we didn't find the location a problem at all. It is close enough to the train station that you really don't even need to take a taxi from there to the hotel...maybe a ten minute walk. It is a very nice residential neighborhood, safe and QUIET! We also weren't too excited about breakfast - later spent time at a hotel in Rome where the breakfast was much better, but we also paid more for our hotel in Rome, so I have to say that you get what you pay for! All in all, my husband and I would recommend this hotel to our family members, and we'd stay there again in the future!  
+<Date>Jun 7, 2005
+<Rating>4	4	4	-1	5	-1	4	-1	
+<Aspects>
+17	15(recommend):1	33(trip):2	37(review):1	68(travel):1	105(husband):1	106(family):1	167(choose):1	221(plan):1	225(la):1	322(recently):1	488(simply):1	646(elsewhere):1	700(europe):1	732(future):1	766(agent):1	1515(wing):1	9064(mid-may):1	
+7	5(time):1	6(breakfast):2	42(pay):2	64(spend):1	79(late):1	1136(excite):1	2185(rome):2	
+13	4(nice):1	5(time):1	24(floor):1	58(quiet):2	59(definitely):1	64(spend):1	104(sleep):1	137(safe):1	337(except):1	343(impress):1	390(adequate):1	421(neighbourhood):1	1537(residential):1	
+11	1(location):1	7(walk):2	28(close):1	29(minute):1	41(city):1	82(station):1	109(pretty):1	182(train):1	185(taxi):1	308(maybe):1	346(florence):1	
+0	
+5	5(time):1	19(price):1	658(checkout):1	1376(honor):1	1856(quote):1	
+0	
+0	
+
+<Author>fuzzhead
+<Content>Beautiful! Great hotel overall. The decor is beautiful, and the whole hotel is spotless. The rooms and bathrooms are fairly big, compared to the other rooms we had in Italy. The front desk staff was very friendly and helpful. The breakfast was good. The hotel isn't right in the middle of the main tourist attractions, but we really liked that. It's not a far walk to the Duomo, or anywhere else in Florence, for that matter. I would recommend this hotel to others, and I would stay here again.  
+<Date>Jun 1, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+7	15(recommend):1	45(beautiful):1	70(overall):1	112(main):1	209(tourist):1	325(middle):1	350(attraction):1	
+0	
+7	13(bathroom):1	45(beautiful):1	269(decor):1	381(compare):1	462(fairly):1	548(spotless):1	900(italy):1	
+5	7(walk):1	170(else):1	346(florence):1	531(matter):1	981(duomo):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	
+1	6(breakfast):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Quiet location 20 mins walk from the Duomo Loved this hotel the moment we entered. It's obviously been re-decorated in the last few years and to a high standard. Only 3 floors, with free buffet breakfast on the G, or Garden, floor which is one below pavement level. 20 mins walk from the railway station with luggage, 15 without. And 20 min stroll to the Duomo. Very quiet location. If you want a good impression of the hotel, look at it's website - this is what it's like!!  
+<Date>May 18, 2005
+<Rating>4	4	5	-1	4	-1	4	-1	
+<Aspects>
+3	247(min):1	981(duomo):1	1056(stroll):1	
+0	
+4	1(location):1	58(quiet):1	130(standard):1	781(obviously):1	
+14	1(location):1	7(walk):2	20(look):1	40(love):1	58(quiet):1	82(station):1	247(min):2	249(luggage):1	262(website):1	601(enter):1	670(moment):1	848(impression):1	981(duomo):1	2002(railway):1	
+0	
+0	
+8	6(breakfast):1	24(floor):2	46(free):1	77(buffet):1	306(level):1	310(garden):1	585(below):1	4479(pavement):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Clean and quiet hotel recently spent 5 nights at this hotel for sightseeing. The hotel is well furnished, very clean/bright with helpful staff - has internet in foyer. The room we had on first floor is not large but adequate (one plastic chair), air conditioned (can be altered by computer from front desk to suit), mini bar, wooden floor, modern smallish bathroom with good shower only, big towels and most of all quiet. Staff recommended restaurants, which were good - Il Latino being the best if expensive (all eat together, no idea of cost due to queue to get in but worked out 拢30 each!) Breakfast was a disappointment. The lower ground room is very modern and looks like a children's nursery, bright coloured plastic chairs and tables pretty souless but kept in spotless order by a young waitress. Typical dull continental breakfast, dry rolls, pastries, tinned fruit salad, sickly sweet squash - no fresh fruit, juice, eggs. Could do a lot better for the price. Hotel is walkable from the station but I would dispute the 10 mins from sights. It was very hot when we came, the roads nearby are very busy (its the ringroad and seemed to have an accident there most days!! endless sirens) and it was pretty crowded so it took us about 30 mins to get from Uffizi back. As we were on the go all day it was an effort to walk back in the heat to the hotel, change and then go back out again to find somewhere to eat - so we didnt!! Yes you could get taxi. Summer would be worse. Would be better obviously if the hotel did evening meals - there must be a market here I feel. I think I would look for somewhere slightly nearer - but with many of the reviews on TripAdvisor saying the rooms nearer are much noisier you have a choice!! If you are fitter than us and dont mind the breakfast then its a lovely place to stay  
+<Date>May 9, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	50(bad):1	109(pretty):1	247(min):1	313(crowd):1	853(summer):1	1940(uffizi):1	2282(siren):1	2498(endless):1	
+12	0(staff):1	10(restaurant):1	15(recommend):1	19(price):1	38(lot):1	47(eat):1	124(expensive):1	175(cost):1	259(due):1	639(idea):1	1463(queue):1	8879(latino):1	
+47	0(staff):1	2(night):1	3(clean):2	13(bathroom):1	14(helpful):1	20(look):2	24(floor):2	27(bar):1	31(front):1	36(desk):1	37(review):1	58(quiet):2	61(shower):1	64(spend):1	97(internet):1	102(near):2	107(choice):1	109(pretty):1	125(towel):1	151(modern):2	164(air):1	198(chair):2	217(noisy):1	229(table):1	263(condition):1	277(child):1	322(recently):1	390(adequate):1	448(mini):1	548(spotless):1	555(computer):1	597(tripadvisor):1	598(slightly):1	640(sight-see):1	706(grind):1	777(lour):1	787(furnish):1	861(suit):1	880(bright):1	942(color):1	1347(plastic):2	1387(waitress):1	1756(wooden):1	1931(foyer):1	2104(smallish):1	7711(alter):1	10887(souless):1	
+23	7(walk):1	8(day):2	34(feel):1	47(eat):1	82(station):1	114(hot):1	161(change):1	185(taxi):1	213(meal):1	220(busy):1	230(road):1	232(nearby):1	247(min):1	250(yes):1	264(market):1	411(sight):1	539(heat):1	626(didnt):1	781(obviously):1	1017(effort):1	2197(walkable):1	3213(accident):1	4041(dispute):1	
+0	
+0	
+21	6(breakfast):3	87(lovely):1	197(fresh):1	215(fruit):2	294(mind):1	362(juice):1	372(continental):1	412(egg):1	503(dont):1	628(typical):1	652(pastry):1	668(fit):1	813(roll):1	866(disappointment):1	909(salad):1	950(sweet):1	1257(dry):1	2689(dull):1	3734(tin):1	5235(squash):1	11999(sickly):1	
+0	
+
+<Author>MaggieJ
+<Content>Excellent Value Convenient location, very clean, comfortable, with a modern, interesting design. Pleasant 10-15 mins walk to the main tourist sites and station. The room was at the back of the hotel and lovely and quiet. Breakfast, reception and domestic staff were all very friendly and helpful. Fresh coffee is made for you at breakfast and the buffet well stocked. It was excellent value for money for such a popular town. Mosquitos were unfortunately abundant in October, and you needed the windows open to cool down the room at night - so remember Mosquito repellant or ask that the air conditioning be available, including during the night.  
+<Date>Mar 27, 2005
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+0	
+11	1(location):1	3(clean):1	21(excellent):2	25(comfortable):1	80(money):1	81(value):2	151(modern):1	186(convenient):1	239(town):1	516(design):1	1277(popular):1	
+15	2(night):2	58(quiet):1	71(include):1	87(lovely):1	119(window):1	134(available):1	164(air):1	263(condition):1	278(cool):1	375(remember):1	524(unfortunately):1	911(october):1	1054(mosquito):2	2858(repellent):1	3219(abundant):1	
+7	7(walk):1	82(station):1	112(main):1	150(pleasant):1	192(site):1	209(tourist):1	247(min):1	
+0	
+6	0(staff):1	6(breakfast):1	12(friendly):1	14(helpful):1	129(reception):1	4357(domestic):1	
+5	6(breakfast):1	77(buffet):1	90(coffee):1	197(fresh):1	599(stock):1	
+0	
+
+<Author>tourist05
+<Content>Loved the La Fortezza for its high tech appeal We stayed at the La Fortezza during the second week of March 2005 for two days. We had based our choice on Tripadvisor reviews and we were not disappointed. The hotel gets its name from the nearby fort (translates to La Fortezza in Italian), now used as a convention centre. The fort also serves as a handy landmark as everyone in Florence knows where it is. The hotel location was far enough away (10 minutes walk) from the hustle and bustle of the towncentre to be a quiet refuge to return to at the end of the day.The lobby and reception area of the hotel appeared to be freshly decorated in discreet pastel colours, and our room had a high tech and colourful look to it with modern Italian design in the bed (red), the chairs (green) and the bathroom (red tiles). Our room had electronic card access, faced the rear courtyard, and was very quiet. The shower in the bathroom was a real treat, guaranteed to wake one up at any time of the day.A very generous breakfast was served on the ground floor breakfast room: meat, cheese, cereal. yoghurt, fruit juice, crossoints, choice of hot drinks. The front desk staff spoke fluent English and were very patient and helpful in providing maps and directions. We had arrived in a car and were very relieved to find secure parking at the rear of the hotel (10 Euros per day, with in and out privileges). With the excellent directions from the front desk staff, we discovered that the hotel is very handy to the Autostrade as well. We had a good promotional rate prepaid in US dollars plus we paid on site for the parking. All in all, the hotel was a real find. Highly recommended.  
+<Date>Mar 24, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+10	8(day):1	15(recommend):1	40(love):1	75(week):1	138(highly):1	225(la):2	240(real):1	615(march):1	1679(appeal):1	3836(tech):1	
+13	37(review):1	42(pay):1	66(park):1	78(rate):1	107(choice):1	154(disappoint):1	192(site):1	203(plus):1	284(base):1	430(dollar):1	597(tripadvisor):1	2559(prepay):1	6153(promotional):1	
+33	5(time):1	8(day):1	11(bed):1	13(bathroom):2	20(look):1	55(lobby):1	58(quiet):1	61(shower):1	129(reception):1	151(modern):1	159(access):1	198(chair):1	240(real):1	292(card):1	305(decorate):1	320(treat):1	358(italian):1	435(courtyard):1	516(design):1	541(appear):1	554(wake):1	590(red):2	846(tile):1	942(color):1	1005(green):1	1471(guarantee):1	1775(freshly):1	2007(rear):1	2489(colorful):1	2578(electronic):1	3836(tech):1	4022(discreet):1	9562(pastel):1	
+17	1(location):1	7(walk):1	8(day):2	29(minute):1	39(return):1	53(arrive):1	58(quiet):1	66(park):1	121(car):1	256(euro):1	1034(secure):1	1107(bustle):1	1503(hustle):1	2007(rear):1	2615(privilege):1	3351(relieve):1	5573(refuge):1	
+0	
+14	0(staff):2	14(helpful):1	21(excellent):1	31(front):2	36(desk):2	127(speak):1	152(english):1	153(provide):1	395(direction):2	724(map):1	755(handy):1	869(discover):1	1882(patient):1	2037(fluent):1	
+18	6(breakfast):2	24(floor):1	63(drink):1	107(choice):1	114(hot):1	174(serve):2	215(fruit):1	346(florence):1	362(juice):1	441(cheese):1	529(cereal):1	677(meat):1	706(grind):1	755(handy):1	927(yogurt):1	1523(generous):1	2797(landmark):1	3047(fort):1	
+8	101(center):1	225(la):1	232(nearby):1	295(name):1	358(italian):1	1048(convention):1	3047(fort):1	3629(translate):1	
+
+<Author>A TripAdvisor Member
+<Content>Class and Courtesy This is a beautiful and charming hotel. The design is classy and the staff curtious and friendly. The location is in a quiet neighborhood, but it is still located close to the center. I couldn't have asked for a nicer stay!  
+<Date>Feb 24, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	4(nice):1	45(beautiful):1	332(charm):1	470(class):1	1728(courtesy):1	
+0	
+0	
+6	1(location):1	28(close):1	58(quiet):1	84(locate):1	101(center):1	421(neighbourhood):1	
+0	
+5	0(staff):1	12(friendly):1	516(design):1	1488(classy):1	6563(curtious):1	
+0	
+0	
+
+<Author>Anpeca
+<Content>Tranquilidad y calidad a unos pasos del centro.       Habitaci贸n doble n潞 53  
+<Date>Nov 11, 2008
+<Rating>5	5	4	5	5	4	5	-1	
+<Aspects>
+3	1482(del):1	4879(centro):1	6135(habitaci):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>petunia22
+<Content>Totalmente lo que esperaba!       ba帽o  
+<Date>Oct 8, 2007
+<Rating>5	4	5	5	5	3	5	4	
+<Aspects>
+3	1969(lo):1	4791(que):1	5177(baa):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

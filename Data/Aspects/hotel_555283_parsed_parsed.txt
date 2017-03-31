@@ -1,0 +1,630 @@
+<Author>Mcgeesies
+<Content>Perfect Price, Perfect Place If you are looking for a hotel with a large room and a view, don鈥檛 look here. If you simply want a clean and comfortable place to come back to at night you鈥檒l be content enough. We got a good price on this hotel by bidding on Priceline. It was easy to get to, easy to pay for and conveniently located, provided you don鈥榯 need the city at your doorstep. Most of all clean and comfortable. The staff was helpful and all spoke English if you need it. At first this hotel may look a little out of the way, but it's only a block or two from restaurants and a store. The Spittlemarkt station is a short block from the hotel. When you leave the station go south/west. Or you should see a large gray building with blue balconies when you emerge from the station. Start walking towards that and hang a right. Really close. It was also easy getting to the hotel from TXL airport. We took the X9 bus to the U2 line and went directly to Spittlemarkt. The hotel charges $16 - $18 for breakfast but there are many other option in the area. If you go south on Axel Springer for a couple of blocks (towards the Jewish Museum) you will find quite a few reasonably priced cafes. Liepziger Str has plenty of bakeries, cafes and restaurants. There鈥檚 a Lidl market only a block or two from the hotel. If you go north, cross Liepziger Str near the river you鈥檒l find an assortment of cafes and a nice little shopping area.  
+<Date>Oct 24, 2008
+<Rating>5	5	5	4	5	5	4	-1	
+<Aspects>
+0	
+26	7(walk):1	17(view):1	19(price):3	20(look):2	41(city):1	42(pay):1	74(perfect):2	84(locate):1	93(easy):2	99(couple):1	100(bloc):1	153(provide):1	165(start):1	275(cafe):1	478(hang):1	507(museum):1	578(reasonably):1	769(south):1	908(don):2	959(towards):2	1069(priceline):1	1070(conveniently):1	2071(doorstep):1	3383(bid):1	6785(jewish):1	8221(axel):1	
+9	82(station):1	93(easy):1	95(airport):1	135(build):1	191(balcony):1	694(blue):1	2335(grey):1	7492(emerge):1	12067(txl):1	
+21	4(nice):1	23(little):1	28(close):1	43(leave):1	49(shop):1	82(station):2	100(bloc):2	102(near):1	120(bus):1	144(short):1	188(line):1	264(market):1	275(cafe):1	383(directly):1	684(North):1	710(river):1	769(south):1	1228(cross):1	2761(assortment):1	10247(u2):1	11092(str):1	
+5	2(night):1	3(clean):2	25(comfortable):2	488(simply):1	2688(content):1	
+7	0(staff):1	6(breakfast):1	14(helpful):1	127(speak):1	136(charge):1	152(english):1	336(option):1	
+9	10(restaurant):2	20(look):1	23(little):1	100(bloc):1	158(plenty):1	255(store):1	275(cafe):1	1483(bakery):1	11092(str):1	
+0	
+
+<Author>Mesocog
+<Content>Great Hotel - Friendly Staff Our previous experience in Berlin in 2006 was not all that great. We had booked a room during the world cup through h*tels.com and when we arrived it looked like the proprietors (greedy harpies btw) had painted a crack house and called it a hotel. So I had some mild trepidation on returning to Berlin. Of course, we went with a large chain this time, and I was quite pleased with the Courtyard Marriott. This place looks brand new. I am always amazed with the German work ethic. I saw one of the staff outside with a tub pulling grass that had grown too high between the cobbles. That attention to detail is a luxury in europe really. Let me break down the Pros/Cons for you: PROS: Amazingly friendly staff. They went above and beyond to orient us to the area and point out locations. Anytime we had a question about the area they pulled out a map and started making notes for us so we could get around. Great English too.Clean (as in brand new) appearance. I couldn't find any blemishes in our room and I am as critical as it gets (6th floor btw ). Quiet area. Walking distance to Checkpoint Charlie. Not too far from Spittelmarkt UBahn (subway) stop (maybe 3-4 minutes). You are only a few stops from Potsdamer Platz which is a great place for food, drinks and of course the big live shows. CONSThe immediate area feels a bit vacant. So, it's very quiet (which is good), but you have to walk a few minutes to get into an area with lots of food/shops. Also, it is not as well lit as I would have liked at night, but it didn't feel unsafe or anything like that. The breakfast options in the hotel were a bit too pricey for me. However, I am cheap (and the dollar is near worthless) so maybe that's not a problem for you. The contintenal was 14 euros, the full buffet 18 euros. My only problem was the lack of an a-la-carte menu for the breakfast. We just wanted coffee and a croissante. Anyway, we had coffee and they didn't even charge us for that b/c we didn't have the breakfast. We walked a few minutes to Friedrichstasse and had a coffee and bread at the coffeeshop company so no major problem there. I would suggest this place to anyone who wants to see some shows over at Potsdamer platz, or just wants to make sure they get a nice clean place with friendly staff.  
+<Date>Oct 13, 2008
+<Rating>4	4	4	4	5	5	5	-1	
+<Aspects>
+23	20(look):1	29(minute):1	34(feel):1	39(return):1	52(bit):1	122(stop):1	145(amaze):1	152(english):1	308(maybe):1	370(subway):1	437(luxury):1	592(detail):1	700(europe):1	726(attention):1	746(berlin):1	883(brand):1	1382(german):1	1761(immediate):1	3928(mild):1	4385(vacant):1	5556(trepidation):1	9653(ubahn):1	12214(ethic):1	
+20	0(staff):1	6(breakfast):1	12(friendly):1	44(experience):1	52(bit):1	102(near):1	143(cheap):1	165(start):1	297(note):1	308(maybe):1	336(option):1	373(previous):1	394(question):1	430(dollar):1	546(pricey):1	724(map):1	746(berlin):1	858(pull):1	1677(anytime):1	6413(worthless):1	
+31	2(night):1	5(time):1	7(walk):1	16(food):1	18(book):1	20(look):1	24(floor):1	29(minute):1	34(feel):1	38(lot):1	53(arrive):1	58(quiet):2	67(call):1	157(light):1	173(please):1	272(world):1	281(house):1	293(course):1	435(courtyard):1	618(marriott):1	627(chain):1	800(cup):1	806(paint):1	1411(crack):1	1869(6th):1	1890(unsafe):1	2713(btw):2	3452(critical):1	4785(proprietor):1	7469(greedy):1	11932(blemish):1	
+20	0(staff):1	1(location):1	7(walk):2	29(minute):1	90(coffee):1	98(outside):1	115(distance):1	311(tub):1	315(major):1	497(bread):1	738(beyond):1	760(company):1	858(pull):1	1659(grow):1	2385(orient):1	2603(grass):1	2876(charlie):1	3596(checkpoint):1	6989(cobble):1	9185(coffeeshop):1	
+9	0(staff):1	3(clean):2	4(nice):1	12(friendly):1	452(suggest):1	883(brand):1	2312(appearance):1	2705(platz):1	3819(potsdamer):1	
+5	0(staff):1	12(friendly):1	228(break):1	1249(pro):1	1846(amazingly):1	
+16	6(breakfast):2	16(food):1	63(drink):1	77(buffet):1	90(coffee):2	122(stop):1	136(charge):1	206(live):1	256(euro):2	293(course):1	349(lack):1	417(anyway):1	423(menu):1	2705(platz):1	3819(potsdamer):1	5422(a-la-carte):1	
+0	
+
+<Author>Mano40
+<Content>Very special care for handicapped person I just returned from a one week stay at this great hotel. I was with my mother who has trouble walking and is using a wheel chair for longer distances. With my booking for the hotel I had requested a room for disabled visitors and we got a very nice room with a very large bathroom with a shower and toilet specially equiped for the handicaped (supporting bars next to the toilet and special bars for a good grip in the shower). The staff of the hotel was very, very friendly and always taking good care of us. I would sure advise this hotel for any handicaped visitor of Berlin. Close to the hotel (3-5 minutes walk) is the metrostation (subway)(station name: spittelmarkt) even though the metromaps of Berlin state this metro station as not prepared for the handicapped (no lift/elevator) we found that it does have a lift and were able to use this station when traveling by metro through Berlin!  
+<Date>Sep 27, 2008
+<Rating>5	5	4	4	4	5	5	3	
+<Aspects>
+9	39(return):1	75(week):1	193(person):1	208(special):1	242(care):1	663(advise):1	746(berlin):1	951(visitor):1	3007(handicap):1	
+0	
+20	4(nice):1	7(walk):1	13(bathroom):1	18(book):1	27(bar):2	61(shower):2	115(distance):1	126(especially):1	148(request):1	198(chair):1	208(special):1	330(toilet):2	569(trouble):1	951(visitor):1	1359(mother):1	2448(support):1	2495(wheel):1	2976(equipe):1	3535(disable):1	7181(grip):1	
+13	7(walk):1	28(close):1	29(minute):1	68(travel):1	82(station):3	171(able):1	235(metro):2	295(name):1	370(subway):1	460(prepare):1	591(lift):2	746(berlin):2	3007(handicap):1	
+0	
+3	0(staff):1	12(friendly):1	242(care):1	
+0	
+0	
+
+<Author>pauloregon
+<Content>Solid business hotel near U-bahn My colleagues stayed at the Marriott downtown and I ended up at the Courtyard by Marriott for a recent business trip. Hotel is clean and updated. Wired LAN in the rooms is expensive, but access for 1hr at a time is free. The hotel is a short walk from the U2 U-bahn line, Spittelmarkt station. This made getting around town very easy. Workout room is very small with just a small selection of treadmills and stair climbers, but better than nothing. Hotel staff was helpful with maps and even have some jogging/running route suggestions.  
+<Date>Sep 16, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	93(easy):1	239(town):1	
+6	5(time):1	46(free):1	124(expensive):1	159(access):1	1904(wire):1	5308(lan):1	
+14	33(trip):1	102(near):1	147(business):2	333(selection):1	334(downtown):1	435(courtyard):1	568(stair):1	618(marriott):2	1064(recent):1	1617(solid):1	1801(workout):1	1991(colleague):1	2164(u-bahn):1	2212(treadmill):1	
+6	7(walk):1	82(station):1	144(short):1	188(line):1	2164(u-bahn):1	10247(u2):1	
+2	3(clean):1	725(update):1	
+5	0(staff):1	14(helpful):1	724(map):1	921(suggestion):1	1035(route):1	
+0	
+0	
+
+<Author>Fitzcaraldo
+<Content>Outstanding customer service when needed Friendly welcome. Pleasant place, just as would be expected. Bit expensive on the broadband front.My colleague was expecting a parcel to be delviered by the courier company on the day of departure. It failed to appear by the time of departure, in fact the hotel thought that it had been given to the wrong guest. However at the airport, the hotel discovered it and arranged a taxi to take the parcel to us, while we were waiting at the gate. They pulled out the stops - excellent.  
+<Date>Jul 20, 2008
+<Rating>4	-1	4	4	4	4	5	2	
+<Aspects>
+11	5(time):1	21(excellent):1	62(expect):1	91(guest):1	122(stop):1	150(pleasant):1	427(wrong):1	541(appear):1	858(pull):1	1031(departure):1	1576(fail):1	
+4	31(front):1	52(bit):1	124(expensive):1	2825(broadband):1	
+0	
+7	85(wait):1	95(airport):1	185(taxi):1	680(arrange):1	869(discover):1	992(gate):1	10854(parcel):1	
+0	
+0	
+5	9(service):1	12(friendly):1	202(welcome):1	428(customer):1	534(outstanding):1	
+7	8(day):1	62(expect):1	760(company):1	1031(departure):1	1991(colleague):1	10854(parcel):1	12117(courier):1	
+
+<Author>JohnFromCincinnati
+<Content>Great Hotel This is a modern new hotel in the former East Berlin. It is located in a quiet residential area. Don't expect restaurants or shops nearby, but it is close to U-Bahn. If you don't mind a walk, Unter der Linden is 10 minutes away, big shopping center on Potsdamer Platz is 15 minutes away. Rooms are big by European standards. More like standard Marriott rooms.I've paid 50 euros per night via Priceline, which is a steal for this place.  
+<Date>Jul 8, 2008
+<Rating>5	5	5	4	5	5	-1	-1	
+<Aspects>
+4	151(modern):1	746(berlin):1	948(east):1	2285(former):1	
+6	2(night):1	42(pay):1	256(euro):1	512(via):1	1069(priceline):1	1187(steal):1	
+6	58(quiet):1	84(locate):1	130(standard):2	582(european):1	618(marriott):1	1537(residential):1	
+15	7(walk):1	10(restaurant):1	28(close):1	29(minute):2	49(shop):2	62(expect):1	101(center):1	232(nearby):1	294(mind):1	2164(u-bahn):1	2705(platz):1	3819(potsdamer):1	4599(linden):1	4742(unter):1	6885(der):1	
+0	
+0	
+0	
+0	
+
+<Author>brynspot
+<Content>Better than Expected Hotel The hotel is clean and the staff is very helpful and friendly. The immediate location doesn't look like much but it is a much shorter walk than expected to Museum Island in one direction and Checkpoint Charlie in the other. The hotel restaurant is pretty bad - good desserts, though. I would definitely recommend this hotel.  
+<Date>Apr 27, 2008
+<Rating>4	4	4	4	5	5	4	-1	
+<Aspects>
+2	15(recommend):1	59(definitely):1	
+0	
+0	
+11	1(location):1	7(walk):1	20(look):1	62(expect):1	144(short):1	342(island):1	395(direction):1	507(museum):1	1761(immediate):1	2876(charlie):1	3596(checkpoint):1	
+5	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	62(expect):1	
+0	
+4	10(restaurant):1	50(bad):1	109(pretty):1	1180(dessert):1	
+0	
+
+<Author>ColoColo
+<Content>Great hotel in Berlin As others have pointed out, the hotel's area is not the liveliest; but it's only 2-3 minutes walk to an underground station; and a pleasant 10 mins walk to different attractions in the Mitte area. Rooms look fresh, new and relatively big for European standards. I had breakfast and it's your usual breakfast buffet you'd find in any Marriott.Overall, good centrally located hotel. Very good value for money; would definately stay here again.  
+<Date>Mar 21, 2008
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+0	
+3	80(money):1	81(value):1	410(definately):1	
+5	20(look):1	130(standard):1	197(fresh):1	582(european):1	913(relatively):1	
+13	7(walk):2	29(minute):1	70(overall):1	82(station):1	84(locate):1	150(pleasant):1	247(min):1	350(attraction):1	746(berlin):1	879(centrally):1	1085(underground):1	1600(lively):1	4198(mitte):1	
+0	
+0	
+4	6(breakfast):2	77(buffet):1	618(marriott):1	682(usual):1	
+0	
+
+<Author>Ophelia89
+<Content>Great modern rooms in decent locale This was the 3rd hotel I have stayed at in Berlin this month, and it was definitely the nicest. The rooms are modern, clean, quiet and comfortable. I thought the property was brand new, based in it's sparkling appearance, but the staff told me it is in fact almost 3 years old.There's a decent, casual restaurant on the property, and a 24 hour gift shop with sodas, snacks, small souvenirs etc.The location is decent for E. Berlin sightseeing (10-20 minute walk to most sights) and one can walk to the Tiergarten, and even W. Berlin sights if one is so inclined.  
+<Date>Mar 14, 2008
+<Rating>5	4	5	4	5	5	4	5	
+<Aspects>
+0	
+0	
+11	3(clean):1	4(nice):1	25(comfortable):1	58(quiet):1	59(definitely):1	151(modern):2	257(decent):1	388(month):1	746(berlin):1	2097(3rd):1	4349(locale):1	
+19	1(location):1	7(walk):2	10(restaurant):1	29(minute):1	49(shop):1	60(hour):1	73(etc):1	214(property):1	257(decent):2	406(snack):1	411(sight):2	640(sight-see):1	746(berlin):2	852(gift):1	1308(soda):1	1981(casual):1	2504(souvenirs):1	3642(incline):1	5916(tiergarten):1	
+0	
+0	
+7	0(staff):1	69(tell):1	214(property):1	284(base):1	883(brand):1	1919(sparkle):1	2312(appearance):1	
+0	
+
+<Author>starter1
+<Content>US Hotel Standards in a Berlin Location I've read many of the other reviews on this hotel and did before booking this one. Most of them held a small piece of truth for me. I always use these reviews looking for the more objective things versus the subjective things. I found the hotel to be excellent...up to the quality of the Courtyard Marriotts I have stayed in-in the US. It was particularly nice for European standards. I did not eat the breakfast but the prices seemed a little bit steep when I saw them. I ate dinner in the restaurant and it was good. The front desk staff was friendly...but I have always believed your attitude makes a difference when dealing with all people. I used the U-Bahn station which was about a 2 minute walk. I stayed in Berlin Thursday night through Sunday morning. I stayed out late on Friday night and Saturday night. The U-Bahn line is open all night on the weekends. My only caution here, much like I read in some of the other reviews...is to get to the local U-Bahn station, you have to walk through what appears to be a couple abandoned buildings. I felt OK about this as I am a male. If I were a female wanting to use the subway late at night....I would not feel too comfortable walking to the station alone. It's probably safe, but I would advise my female friends to stay at a hotel in a more tourist populated area. Of cousre, if you are a woman and going to use a cab, then it's not an issue late at night. I get the feeling this street is transitioning and eventually will be a great street with more restaurants, etc. Given that, I was very satisfied with this hotel. It's a pretty easy walk to get to Checkpoint Charlie Museum which is one of the big tourist attractions(about a 10 minute walk). There is also a Starbucks there and you can catch the Circle Site seeing tour bus which I recommend. You can get off and on the bus at 15 different stops. Cab ride from Tegel airport is approx. 19-22 euros depending on the time of day it is.  
+<Date>Feb 19, 2008
+<Rating>5	4	5	3	5	5	5	-1	
+<Aspects>
+38	2(night):5	4(nice):1	5(time):1	8(day):1	20(look):1	34(feel):1	37(review):1	56(morning):1	79(late):2	123(ok):1	130(standard):1	137(safe):1	146(friend):1	172(weekend):1	178(probably):1	188(line):1	209(tourist):1	256(euro):1	265(issue):1	380(cab):1	553(particularly):1	566(woman):1	582(european):1	663(advise):1	746(berlin):1	818(saturday):1	844(sunday):1	899(satisfy):1	923(friday):1	969(depend):1	1714(female):1	1823(thursday):1	2164(u-bahn):1	2295(male):1	3924(versus):1	5217(populate):1	5303(objective):1	8005(subjective):1	
+10	6(breakfast):1	19(price):1	21(excellent):1	23(little):1	47(eat):1	52(bit):1	187(quality):1	435(courtyard):1	1060(steep):1	4858(marriotts):1	
+5	95(airport):1	218(ride):1	380(cab):1	1423(approx):1	4795(tegel):1	
+44	1(location):1	2(night):1	7(walk):5	10(restaurant):1	15(recommend):1	18(book):1	25(comfortable):1	29(minute):2	34(feel):2	35(street):2	37(review):2	73(etc):1	79(late):1	82(station):3	88(read):2	93(easy):1	99(couple):1	109(pretty):1	120(bus):2	122(stop):1	130(standard):1	181(tour):1	192(site):1	195(local):1	209(tourist):1	350(attraction):1	370(subway):1	507(museum):1	540(catch):1	541(appear):1	593(hold):1	745(building):1	746(berlin):1	939(starbucks):1	941(piece):1	1204(eventually):1	1714(female):1	2102(caution):1	2126(circle):1	2164(u-bahn):2	2558(truth):1	2876(charlie):1	3596(checkpoint):1	4480(abandon):1	
+0	
+9	0(staff):1	12(friendly):1	26(people):1	31(front):1	36(desk):1	140(deal):1	312(believe):1	819(difference):1	821(attitude):1	
+3	10(restaurant):1	47(eat):1	117(dinner):1	
+0	
+
+<Author>halopes
+<Content>Very nice hotel I stayed at this hotel for 5 nights during February. Location is ok, but not excellent; you are in the middle of nowhere - subway is very near, though. Breakfast was very good. Rooms were big and extremely clean. Beds and sheets were very confortable. Windows blocked every single noise from the outside. Staff was very kind and helpful. Lounge/bar area is ok but not unique. The building looks fairly new and I have nothing to point. I would definitely return to this hotel and I recommend it to anyone who is willing to pay it.  
+<Date>Feb 18, 2008
+<Rating>4	4	4	3	5	4	4	5	
+<Aspects>
+3	2(night):1	4(nice):1	1230(february):1	
+4	15(recommend):1	39(return):1	42(pay):1	59(definitely):1	
+13	3(clean):1	11(bed):1	20(look):1	94(noise):1	98(outside):1	110(extremely):1	119(window):1	135(build):1	304(single):1	462(fairly):1	479(sheet):1	1898(block):1	2435(confortable):1	
+6	1(location):1	21(excellent):1	102(near):1	123(ok):1	325(middle):1	370(subway):1	
+0	
+2	0(staff):1	14(helpful):1	
+4	6(breakfast):1	123(ok):1	237(lounge):1	1027(unique):1	
+0	
+
+<Author>SeattleRedBear
+<Content>Amazing value from Priceline Four night stay which we pricelined at the amazing rate of $48/night!!!! The same price that we had been paying for youth hostels in Munich and Salzburg!!Location: In the Mitte, not a whole lot in terms of retail in the immediate vicinity (seemed to be mostly office buildings and empty lots) but only one block from the Spittelmarkt U-Bahn station, so very convenient to get around. Breakfast did not come with the Priceline rate and was pretty pricey otherwise, so we ended up breakfasting at cafes in the Potsdammer Platz area. Hotel parking was also expensive so I ended up parking the rental car on the street in the Templehof neighborhood and leaving it there for a couple days.Obviously a newly built, well-maintained Courtyard Marriott. Checkin was easy (reception almost gave us breakfast for free until I asked her to check again) and reception was very friendly (giving us a call to the room when partner left his travel documents at the desk). Room was large by European standards and well-furnished. Windows opened and our room was high up above the courtyard so very quiet. The bathroom was one open room with a shower alcove. Reminded me of bathrooms in Bulgaria (which generally don't have any separation between shower and rest of bathroom). Bathroom was quite large and a shower curtain separated the shower area from the rest of the bathroom so wasn't a problem. Oh, so comfortable beds. Linens were like new although not as luxurious as the Mercure we had stayed at a few days earlier. Complimentary bottle of water was a nice touch and the coffee/tea service was replenished every day. We noted the sauna and exercise room on our floor but frankly didn't have time as we were out running around all day and night and getting back to the room late.  
+<Date>Jan 9, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+10	2(night):1	19(price):1	42(pay):1	78(rate):1	81(value):1	145(amaze):2	1069(priceline):2	1560(hostel):1	3525(youth):1	9538(munich):1	
+31	2(night):1	5(time):1	8(day):1	11(bed):1	13(bathroom):5	24(floor):1	25(comfortable):1	58(quiet):1	61(shower):4	79(late):1	119(window):1	130(standard):1	135(build):1	149(run):1	288(rest):2	297(note):1	435(courtyard):2	474(separate):1	582(european):1	618(marriott):1	743(curtain):1	781(obviously):1	1189(newly):1	1285(remind):1	1422(sauna):1	1459(exercise):1	2109(frankly):1	2905(well-maintaine):1	5026(alcove):1	7415(well-furnish):1	10045(separation):1	
+23	1(location):1	8(day):1	35(street):1	38(lot):2	43(leave):1	66(park):2	82(station):1	99(couple):1	100(bloc):1	121(car):1	124(expensive):1	186(convenient):1	421(neighbourhood):1	745(building):1	792(office):1	810(empty):1	963(rental):1	1011(term):1	1761(immediate):1	2164(u-bahn):1	2232(vicinity):1	4198(mitte):1	4459(retail):1	
+4	8(day):1	630(linen):1	708(luxurious):1	4518(mercure):1	
+13	6(breakfast):1	12(friendly):1	32(check):1	36(desk):1	43(leave):1	46(free):1	67(call):1	68(travel):1	93(easy):1	129(reception):2	1006(partner):1	1818(checkin):1	3699(document):1	
+18	4(nice):1	6(breakfast):2	8(day):1	9(service):1	57(water):1	78(rate):1	90(coffee):1	109(pretty):1	238(bottle):1	275(cafe):1	279(touch):1	345(complimentary):1	508(otherwise):1	546(pricey):1	1069(priceline):1	1808(replenish):1	2705(platz):1	12315(potsdammer):1	
+0	
+
+<Author>Windsor999
+<Content>Christmas time in Berlin Booked two rooms for myself and friends. We stayed a week here while vacationing at the Christmas Markets in Berlin. It was very new, the beds were comfortable and they not only offered real King Size beds but also an ice machine in the halls and a refrigerator in the room! The property is very close to the Spittle Markt U-Bahn stop. The neighborhood is 2 blocks from really anything noteworthy.The resturant food was great but the service was spotty at best and we had 2 confrontations with the staff....  
+<Date>Dec 19, 2007
+<Rating>4	4	4	3	5	5	4	3	
+<Aspects>
+3	100(bloc):1	421(neighbourhood):1	8233(noteworthy):1	
+5	75(week):1	131(vacation):1	264(market):1	746(berlin):1	962(christmas):1	
+15	5(time):1	11(bed):2	18(book):1	25(comfortable):1	83(size):1	89(offer):1	146(friend):1	240(real):1	243(king):1	493(machine):1	547(ice):1	616(hall):1	746(berlin):1	916(refrigerator):1	962(christmas):1	
+5	28(close):1	122(stop):1	214(property):1	2164(u-bahn):1	7850(markt):1	
+0	
+6	0(staff):1	9(service):1	16(food):1	1661(resturant):1	3513(spotty):1	12819(confrontation):1	
+0	
+0	
+
+<Author>Sletvol
+<Content>Great Hotel, service OK.       The bed  
+<Date>Nov 3, 2007
+<Rating>4	5	5	3	5	4	3	5	
+<Aspects>
+0	
+0	
+1	11(bed):1	
+0	
+0	
+0	
+2	9(service):1	123(ok):1	
+0	
+
+<Author>ScratchyBadger
+<Content>Modern Hotel fairly well located for sightseeing Stayed here for 5 nights on sightseeing holiday of Berlin.The hotel sits on the site of the former Berlin Wall and a 15 minute walk away from Checkpoint Charlie. Underground station nearby too. The immediate area around the hotel is not appealing, but for the price, it is well located for those who prefer to walk to the sights. A more expenisive Marriott is better located but is twice the cost!The hotel itself is understandably modern and has underground secure parking for residents. The rooms are comfortable and the shower was pretty good too. Breakfast is a good quality hot and cold buffet.However, it was strange that guests are charged to use the communal internet computers.If you're here for the sightseeing, then this is a pretty reasonable hotel to stay.  
+<Date>Oct 25, 2007
+<Rating>3	4	3	3	4	3	3	-1	
+<Aspects>
+0	
+4	84(locate):1	175(cost):1	347(twice):1	618(marriott):1	
+3	25(comfortable):1	61(shower):1	109(pretty):1	
+29	2(night):1	7(walk):2	19(price):1	29(minute):1	66(park):1	82(station):1	84(locate):2	109(pretty):1	151(modern):2	169(sit):1	183(wall):1	192(site):1	223(holiday):1	232(nearby):1	273(reasonable):1	411(sight):1	462(fairly):1	536(prefer):1	640(sight-see):3	746(berlin):2	1034(secure):1	1085(underground):2	1679(appeal):1	1761(immediate):1	1988(resident):1	2285(former):1	2876(charlie):1	3596(checkpoint):1	7873(understandably):1	
+0	
+0	
+5	6(breakfast):1	77(buffet):1	114(hot):1	187(quality):1	222(cold):1	
+6	91(guest):1	97(internet):1	136(charge):1	555(computer):1	1058(strange):1	3249(communal):1	
+
+<Author>climber_in_CH
+<Content>Wanted to stay in this bed! We were very pleased to base our 3-day Berlin sightseeing trip from this hotel. Like most of Berlin, it appears new and the room and furnishings were in excellent condition. The Spittelmarkt U-bahn is a 5 minute walk away and this location, on a very quiet street, allowed three restful nights after long days of touring. The bed was so comfortable, I didn't want to get up! We had the hotel breakfast buffet one morning and found the usual range of items. Service was slow, but we ate at a very busy time, I think the tour groups were about to depart. We appreciated the generous room size and the natural light from the 'wall of windows.' The only improvement I could suggest would be a larger shower door for the tub.  
+<Date>Oct 16, 2007
+<Rating>5	5	5	4	5	5	5	3	
+<Aspects>
+0	
+0	
+19	11(bed):2	21(excellent):1	25(comfortable):1	54(door):1	61(shower):1	83(size):1	119(window):1	157(light):1	183(wall):1	263(condition):1	311(tub):1	452(suggest):1	500(appreciate):1	541(appear):1	746(berlin):1	870(furnishings):1	1486(improvement):1	1523(generous):1	1543(natural):1	
+23	1(location):1	2(night):1	5(time):1	7(walk):1	8(day):1	9(service):1	29(minute):1	33(trip):1	35(street):1	47(eat):1	58(quiet):1	173(please):1	181(tour):2	220(busy):1	284(base):1	359(allow):1	455(slow):1	640(sight-see):1	746(berlin):1	1814(depart):1	2164(u-bahn):1	3076(restful):1	5311(3-day):1	
+0	
+0	
+6	6(breakfast):1	56(morning):1	77(buffet):1	519(item):1	682(usual):1	714(range):1	
+0	
+
+<Author>happyworldtraveller
+<Content>Poor service at the front desk Overall, the rooms are alright at the Courtyard however our stay was overshadowed by the poor service. My husband and I arrived at the hotel early in the morning (at approx 10am) after travelling from Venice...so we were quite exhausted with the plane and then subway/train travel from the airport. We requested to check-in early however were told that we had to wait for the next available room. We both asked the lady at the front desk (I should have got her name so that i could've complained to hotel management) to call us from the lobby if our room was ready since we had just taken an early flight from Venice (6am) and needed to freshen up so we could walk around the city. After 1 1/2 hours of waiting, we went to the front desk and asked again but there were no rooms available still...even though we found out that the first lady at the front desk didn't really put a rush on the request! Then about 3 hours later after we saw many people check-in, we asked the front desk again and apparently they had our key just sitting there on the table!!!!! We thought it was very poor service that no one bothered to tell us the room was ready even though there were full aware that we set up 'camp' and were lying on their couches in the lobby!! Then when we got our 2 suitcases out of storage, no one bothered to ask if we needed any help. Everyday we saw a man standing outside the hotel acting like a security guard but not even bothering to assist with luggage or even open the door!! Overall, this was very poor service...and throughout my 7 weeks of consecutive travelling...i found this hotel to be the worst service in europe. I even stayed in 2-star hotels that had better customer service than this hotel. So be aware when booking, and don't be fooled by any low prices. Plus, this hotel is out of the way of the main tourist areas....so not really worth it if you want to stay in the central downtown district.  
+<Date>Sep 1, 2007
+<Rating>1	1	3	1	3	1	1	-1	
+<Aspects>
+7	96(worth):1	112(main):1	168(central):1	203(plus):1	209(tourist):1	334(downtown):1	433(district):1	
+8	9(service):1	18(book):1	19(price):1	428(customer):1	513(low):1	832(aware):1	2098(fool):1	5239(2-star):1	
+23	9(service):2	31(front):1	36(desk):1	53(arrive):1	56(morning):1	68(travel):2	70(overall):1	92(help):1	95(airport):1	105(husband):1	307(bother):1	331(poor):2	370(subway):1	435(courtyard):1	968(plane):1	974(suitcase):1	1311(storage):1	1423(approx):1	1498(venice):1	1769(exhaust):1	2130(all right):1	7512(10am):1	7639(overshadow):1	
+0	
+0	
+28	7(walk):1	26(people):1	31(front):4	36(desk):4	41(city):1	55(lobby):1	60(hour):2	67(call):1	69(tell):1	79(late):1	85(wait):2	134(available):2	148(request):2	169(sit):1	229(table):1	233(flight):1	241(complain):1	274(ready):1	286(check-in):2	295(name):1	339(key):1	521(lady):2	525(management):1	863(apparently):1	1244(rush):1	1498(venice):1	2844(freshen):1	7363(6am):1	
+27	9(service):3	50(bad):1	54(door):1	55(lobby):1	68(travel):1	69(tell):1	70(overall):1	75(week):1	98(outside):1	234(set):1	249(luggage):1	274(ready):1	307(bother):2	331(poor):2	444(stand):1	445(throughout):1	605(everyday):1	641(security):1	700(europe):1	832(aware):1	1166(lie):1	1192(couch):1	1265(assist):1	1762(guard):1	2087(camp):1	2237(act):1	6141(consecutive):1	
+0	
+
+<Author>javl
+<Content>A definite YES! Stayed here with my family for two weeks in July on business. We like Courtyard hotels for vacations in the US and liked this one very much, too. The location is great: it's tucked in an old East Berlin neighborhood of tall apartment buildings that had overlooked the wall, so it is interesting and reminds you that not all is glitz and glamour, and the Berliners you pass in the neighborhood are friendly. Checkpoint Charlie is a short distance away. Subway is only a block away--on the main U2 line that brings you just about anywhere. It is a 10 minute walk to the Gendarmenmarkt and another 5 to Unter den Linden. Hotel is immaculate and comfortable and quiet. Staff is very friendly and always willing to help you improve your German (rather than looking at you in disdain and then answering in English!). It is a great deal. They were great about setting up a roll-away bed for our son, and the maids would arrange his stuffed animals in a very sweet way and even wrote Danke on the note pad because we left a tip everyday.We had only a couple negative experiences in two weeks: (1) when we arrived on a day of 95 degree F heat, they said our room would not be ready until 3:00, at which time it was guaranteed. We understood and so had lunch in the pleasant restaurant there. But at 3:00 there was still no room to be had and the receptionist was very nervous about that. Someone senior to her then suddenly found a room which was king bed, non-smoking, and quiet, as you requested. What she didn't say was that the AC wasn't working, which I suspect (but cannot prove of course) she knew. So we spent a horrible night there. The next night they moved us to another room; the AC was barely working there, so we had another awful night. On the third day they moved us to yet another room, which was cool and comfortable and where we remained happily for the rest of the stay. (2) although I thought I had double-checked the bill at check-out, I realized that someone had charged breakfast to our room for 48 Euros. But through Customer Service's help back here in the States, that has been corrected and we should be receiving credit.Advice: (1) we found the breakfast to be outrageously expensive. For 12 Euros ($17) you got the cheapest buffet, which was just rolls and jams, and coffee, and cheeses (not my personal favorite at breakfast)--but not cereals or juice, and certainly not anything hot. Not including juice in a buffet was just too cheap. Since all my son ate was one little broetchen with butter, the waitress was kind enough not to charge him 12 E. But after that we filled the little refridgerator in our room with juice, milk and jam; we went around the corner to the local bakery to get fresh rolls for 1.40 Euros (and the man there was super friendly and would also give tips for my German and Berlin slang); and then we got coffee from the machine in the lobby for 1.50 euros. Much cheaper, and much less fattening! We also discovered that a 10 minute walk brought you to Einstein KAffee on the Gendarmenmarkt, where you can get a big creamy latte and a croissant for 4.50 Euros.(2) The refridgerator was one reason we chose the hotel, since we were going to be there a while with a child. The other reason was the laundry facilities which had been listed on the web site. In the US, Courtyard hotels have washers/dryers. Unfortunately, in this case that meant sending your laundry out for 8 euros a shirts and 80 cents per pair of underwear. With no coin-operated facilities to be found, we wound up washing a lot by hand.(3) The restaurant we didn't use too much, because we wanted to go to different neighborhoods throughout Berlin, but when we did go there we were pleased--the food was very fresh and tasty and actually reasonable (unlike the breakfast). The small Greek salad was a delicious meal in itself. The wait staff is especially friendly.(4) The website had also originally said free wireless in lobby. That didn't prove to be the case (they have computers, but you have to pay). But what the hotel does offer is free slow connection in your room, which was great, especially in comparison to how much another hotel chain charged us in Munich. It made it difficult to upload some business files, in which case we had to pay a little for the faster connection, but for checking emails and news it was great.  
+<Date>Aug 26, 2007
+<Rating>5	5	5	4	5	4	5	5	
+<Aspects>
+16	2(night):1	64(spend):1	100(bloc):1	112(main):1	140(deal):1	142(bring):1	188(line):1	250(yes):1	293(course):1	370(subway):1	544(horrible):1	956(ac):1	1554(prove):1	1983(suspect):1	2369(definite):1	10247(u2):1	
+18	5(time):1	6(breakfast):1	8(day):1	44(experience):1	53(arrive):1	75(week):1	99(couple):1	124(expensive):1	131(vacation):1	143(cheap):1	274(ready):1	282(negative):1	435(courtyard):1	539(heat):1	575(advice):1	1252(degree):1	1471(guarantee):1	4403(outrageously):1	
+53	2(night):2	8(day):1	11(bed):2	25(comfortable):2	43(leave):1	46(free):1	58(quiet):2	89(offer):1	126(especially):1	136(charge):1	148(request):1	194(tip):1	207(move):2	234(set):1	243(king):1	246(mean):1	256(euro):1	278(cool):1	288(rest):1	297(note):1	300(maid):1	344(write):1	435(courtyard):1	447(send):1	455(slow):1	480(stuff):1	524(unfortunately):1	532(third):1	605(everyday):1	612(son):1	627(chain):1	680(arrange):1	736(awful):1	894(immaculate):1	932(connection):1	950(sweet):1	956(ac):1	978(nonsmoking):1	1020(barely):1	1075(laundry):1	1391(remain):1	1525(comparison):1	1642(happily):1	1844(shirt):1	1888(cent):1	1990(animal):1	2207(pair):1	2427(pad):1	2990(senior):1	3296(suddenly):1	6481(roll-away):1	6725(underwear):1	9538(munich):1	
+47	1(location):1	7(walk):2	12(friendly):1	29(minute):2	38(lot):1	75(week):1	106(family):1	142(bring):1	147(business):1	183(wall):1	192(site):1	211(facility):2	213(meal):1	256(euro):1	260(overlook):1	374(reason):1	377(hand):1	400(pass):1	421(neighbourhood):2	485(delicious):1	650(list):1	745(building):1	746(berlin):1	751(apartment):1	811(wash):1	869(discover):1	909(salad):1	948(east):1	1004(croissant):1	1019(web):1	1075(laundry):1	1168(wind):1	1285(remind):1	1626(tall):1	2091(tuck):1	4143(den):1	4599(linden):1	4742(unter):1	4990(latte):1	5346(greek):1	5854(glamour):1	6887(berliner):1	6889(glitz):1	8186(creamy):1	8649(gendarmenmarkt):2	11741(coin-operate):1	11820(einstein):1	
+0	
+24	0(staff):2	6(breakfast):1	12(friendly):2	20(look):1	85(wait):1	92(help):1	115(distance):1	126(especially):1	136(charge):1	144(short):1	152(english):1	256(euro):1	495(bill):1	607(realize):1	658(checkout):1	669(answer):1	855(receptionist):1	1217(improve):1	1382(german):1	1408(nervous):1	2876(charlie):1	3596(checkpoint):1	11941(double-check):1	12115(disdain):1	
+59	6(breakfast):2	9(service):1	10(restaurant):2	12(friendly):1	16(food):1	23(little):2	46(free):1	47(eat):1	55(lobby):2	71(include):1	77(buffet):2	90(coffee):2	92(help):1	114(hot):1	136(charge):1	143(cheap):2	150(pleasant):1	167(choose):1	173(please):1	180(actually):1	194(tip):1	195(local):1	197(fresh):2	200(corner):1	252(lunch):1	256(euro):3	262(website):1	273(reasonable):1	277(child):1	302(receive):1	362(juice):3	374(reason):1	376(favourite):1	391(understand):1	421(neighbourhood):1	428(customer):1	441(cheese):1	445(throughout):1	464(super):1	491(fill):1	493(machine):1	529(cereal):1	612(son):1	659(credit):1	711(personal):1	717(wireless):1	746(berlin):2	813(roll):2	984(tasty):1	1116(milk):1	1163(unlike):1	1263(correct):1	1300(originally):1	1382(german):1	1387(waitress):1	1483(bakery):1	1614(jam):2	2183(butter):1	3851(refridgerator):2	
+12	23(little):1	32(check):1	42(pay):2	147(business):1	499(fast):1	555(computer):1	572(difficult):1	932(connection):1	1554(prove):1	1725(news):1	3110(file):1	8665(upload):1	
+
+<Author>jabg
+<Content>Excellent stay in berlin Stayed here for four nights at the end of july. Room was spacious and extremely quiet. Arrived early (normal check-in time is 3pm) but still could check in. Beds and pillow were extremely comfortable. Nice shower (which could have been a little hotter). At the end of the stay you can leave your luggage in a storage room. Overall i am very pleased  
+<Date>Aug 5, 2007
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+5	2(night):1	21(excellent):1	70(overall):1	173(please):1	746(berlin):1	
+0	
+13	4(nice):1	11(bed):1	23(little):1	25(comfortable):1	43(leave):1	58(quiet):1	61(shower):1	110(extremely):2	111(spacious):1	114(hot):1	249(luggage):1	303(pillow):1	1311(storage):1	
+0	
+0	
+6	5(time):1	32(check):1	53(arrive):1	286(check-in):1	878(normal):1	6855(3pm):1	
+0	
+0	
+
+<Author>Lonetraveler2004
+<Content>A nice hotel with a great staff i stayed at this hotel for 4 nights as a part of a Grand Circle tour.Things started out on a bad note since SAS lost my luggage. The hotel staff did everything possible to make up for the inconvience and made repeated calls in an attempt to locate the missing luggage!The room was very nice and quiet. The hotel is well located for touring Berlin with subway and surface transit very close. I found that it was also possible to walk to and from some of the best tourist areas.The hotel restuarant was first quality with great service and food. all and all one of the best hotels on my 26 day tour!  
+<Date>Jul 19, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+2	8(day):1	181(tour):1	
+6	50(bad):1	165(start):1	249(luggage):1	297(note):1	596(lose):1	5974(sas):1	
+2	4(nice):1	58(quiet):1	
+16	0(staff):1	7(walk):1	28(close):1	67(call):1	84(locate):2	181(tour):1	209(tourist):1	249(luggage):1	276(miss):1	370(subway):1	746(berlin):1	1119(attempt):1	1467(repeat):1	2015(transit):1	2534(surface):1	6968(inconvience):1	
+0	
+6	0(staff):1	2(night):1	4(nice):1	181(tour):1	365(grand):1	2126(circle):1	
+4	9(service):1	16(food):1	187(quality):1	2114(restuarant):1	
+0	
+
+<Author>michrist
+<Content>Perfect stay       Room 101  
+<Date>Jul 10, 2007
+<Rating>5	5	5	3	5	5	5	5	
+<Aspects>
+0	
+0	
+1	74(perfect):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>DoubleDutch99
+<Content>Perfect! We read a lot of good things about this hotel, but that was only after we booked this in Feb 2007. To be honest, we merely booked it on two criteria price and location. But what a gem this place is! We were more than surprised by the very pleasant staff that were very helpfull. The rooms were spotless and well sized. The bed was very comfortable and also the desk and wardrobes are very spacious. Taking a shower in the bath-tub was a bit cramped for space, but this was the only downside I guess.The location of the hotel is almost perfect. In a quiet street just south op Leipziger Strasse and a 3 minute walk to the U Bahn Station Spittelmarkt. From there is only 2 or 3 stops to either the Friedrichstrasse and Gendarmenmarkt or Alexanderplatz the other way. Plenty of nice restauarants in the area but avoid Nikolaiviertel.  
+<Date>Jun 12, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+9	4(nice):1	74(perfect):1	122(stop):1	158(plenty):1	436(avoid):1	3674(alexanderplatz):1	5646(friedrichstrasse):1	8649(gendarmenmarkt):1	9374(restauarants):1	
+6	1(location):1	18(book):1	19(price):1	1108(honest):1	3378(merely):1	4755(criterion):1	
+14	11(bed):1	25(comfortable):1	36(desk):1	52(bit):1	61(shower):1	83(size):1	111(spacious):1	210(space):1	469(guess):1	548(spotless):1	782(downside):1	1080(cramp):1	1451(wardrobe):1	11484(bath-tub):1	
+11	1(location):1	7(walk):1	29(minute):1	35(street):1	58(quiet):1	74(perfect):1	82(station):1	769(south):1	3406(bahn):1	5358(strasse):1	7749(op):1	
+0	
+4	0(staff):1	150(pleasant):1	199(surprise):1	1478(helpfull):1	
+5	18(book):1	38(lot):1	88(read):1	805(gem):1	1258(feb):1	
+0	
+
+<Author>bmcecjb
+<Content>Clean, close to subway and tasy local restaurants Stayed here for a week of vacation with family. The hotel is clean, the restaurant serves good entrees, and the servers are fluent in English. Getting to the hotel from Tegel Airport was an adventure, though. The man at the airport selling bus tickets was disdainful and not at all helpful with directions on the required transfers. It would be very helpful if the hotel website gave specific instructions when using the buses. (There's a substantial cost difference between the bus, 2.10 euros vs. taxi, 45 euros.) Not all of us have an expense account!My only complaint is that the maid service was early each morning, sometimes at 7:45. But they are efficient!  
+<Date>Jun 7, 2007
+<Rating>4	3	4	3	5	3	3	3	
+<Aspects>
+3	401(efficient):1	1730(account):1	2058(expense):1	
+8	3(clean):1	10(restaurant):1	28(close):1	75(week):1	106(family):1	131(vacation):1	195(local):1	370(subway):1	
+3	95(airport):1	1861(adventure):1	4795(tegel):1	
+17	14(helpful):2	95(airport):1	120(bus):3	175(cost):1	185(taxi):1	256(euro):2	262(website):1	395(direction):1	606(sell):1	621(ticket):1	722(require):1	819(difference):1	1021(transfer):1	1848(specific):1	2386(instruction):1	2655(vs):1	2970(substantial):1	
+0	
+0	
+12	3(clean):1	9(service):1	10(restaurant):1	56(morning):1	152(english):1	174(serve):1	190(complaint):1	300(maid):1	560(sometimes):1	1540(server):1	2037(fluent):1	2451(entree):1	
+0	
+
+<Author>astle
+<Content>Very nice hotel Very new and nice hotel with a very reasonable price. The rooms were spotless and the front desk quite attentive. The hotel was located a bit on the edge of all the tourist action. Even though the U-Bahn was relatively close, it had many stops - and was quite secluded as well. It was easier to just walk to Potsdamer Platz and beyond.  
+<Date>Jun 3, 2007
+<Rating>4	5	5	2	5	4	5	-1	
+<Aspects>
+0	
+3	4(nice):2	19(price):1	273(reasonable):1	
+0	
+15	7(walk):1	28(close):1	52(bit):1	84(locate):1	93(easy):1	122(stop):1	209(tourist):1	738(beyond):1	913(relatively):1	958(action):1	1190(edge):1	2164(u-bahn):1	2273(seclude):1	2705(platz):1	3819(potsdamer):1	
+0	
+4	31(front):1	36(desk):1	537(attentive):1	548(spotless):1	
+0	
+0	
+
+<Author>doggone31
+<Content>Great location, very nice hotel This new hotel is a 5 minute walk from the S-bahn line. Front desk staff were very friendly, spoke excellent English and responded to my request for an extra blanket very pleasantly. Rooms are a good size by European standards and very nicely appointed with windows that open. The free bottle of water in the fridge was a nice touch. Bathroom was large and, apart from the strange shower door, was nice, although the bathroom door didn't close as easily as it should have. Exercise room was a good size although there wasn't really much in the way of weight equipment. The sauna is excellent - very hot and a nice size. My only complaint is that we couldn't check in early and for security reasons they won't store luggage so we had to take the S-bahn to Alexanderplatz Bahnhof and store our luggage there for the day. Don't go to the Hauptbahnhof as the front desk recommends - it's farther away and costs a Euro more for the lockers.  
+<Date>May 22, 2007
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+0	
+0	
+20	4(nice):2	13(bathroom):2	21(excellent):1	28(close):1	54(door):2	61(shower):1	83(size):3	114(hot):1	119(window):1	130(standard):1	404(nicely):1	438(easily):1	579(appoint):1	582(european):1	857(apart):1	1058(strange):1	1211(equipment):1	1422(sauna):1	1459(exercise):1	1582(weight):1	
+6	1(location):1	4(nice):1	7(walk):1	29(minute):1	188(line):1	2821(s-bahn):1	
+0	
+17	0(staff):1	12(friendly):1	15(recommend):1	21(excellent):1	31(front):2	36(desk):2	127(speak):1	128(extra):1	148(request):1	152(english):1	175(cost):1	256(euro):1	747(pleasantly):1	1369(blanket):1	1587(respond):1	3446(locker):1	6728(hauptbahnhof):1	
+17	4(nice):1	8(day):1	32(check):1	46(free):1	57(water):1	190(complaint):1	238(bottle):1	249(luggage):2	255(store):2	279(touch):1	318(fridge):1	374(reason):1	487(wo):1	641(security):1	2821(s-bahn):1	3674(alexanderplatz):1	6934(bahnhof):1	
+0	
+
+<Author>kelvrp
+<Content>Very Nice Room but a few problems. I stayed here for 7 nights in April. I booked a non smoking king size bed room and also foam pillows and a high floor, which I received. The pillows were excellent (normal large flat square German pillows I find a nightmare). The room itself was very clean, large and comfortable. However on the fist night I broke the galss in the bathroom. I picked up the largest pieces of glass and told reception so the housekeeping staff would be aware and not get cut. However there were still small shards of glass on the floor that evening and in fact I kept finding them on the floor all week. So I could only use the bathroom with shoes on.My only other criticism was lack of space at breakfast- the hotel had large groups staying who all breakfasted together and so filled the restaurant and it was not possible to get at the three times I had chosen (both early 0700 and late 0845 and 0915).The market system instead of a mini-bar was cheaper but not so convenient, but the tea bags etc in the room were replaced everyday- which is not always the case with hotels offering tea and coffee making in the room,so I was impressed by that.  
+<Date>Apr 30, 2007
+<Rating>4	4	4	3	2	3	3	-1	
+<Aspects>
+1	2(night):1	
+0	
+25	2(night):1	3(clean):1	4(nice):1	11(bed):1	13(bathroom):2	18(book):1	21(excellent):1	24(floor):3	25(comfortable):1	75(week):1	83(size):1	139(square):1	228(break):1	243(king):1	302(receive):1	303(pillow):3	327(glass):1	468(smoke):1	535(flat):1	878(normal):1	1191(shoe):1	1382(german):1	1534(nightmare):1	3467(foam):1	6175(fist):1	
+0	
+0	
+9	0(staff):1	69(tell):1	129(reception):1	266(pick):1	327(glass):1	367(housekeeping):1	832(aware):1	873(cut):1	941(piece):1	
+23	5(time):1	6(breakfast):2	10(restaurant):1	73(etc):1	79(late):1	89(offer):1	90(coffee):1	143(cheap):1	167(choose):1	186(convenient):1	210(space):1	264(market):1	290(bag):1	301(tea):2	343(impress):1	349(lack):1	353(instead):1	491(fill):1	518(system):1	605(everyday):1	912(replace):1	1338(mini-bar):1	2049(criticism):1	
+0	
+
+<Author>triptraveler
+<Content>Great Hotel       The Bath  
+<Date>Apr 24, 2007
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+1	226(bath):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>zuribairn
+<Content>perfect for a weekend hotel is close to the underground which makes it easily accessible for all tourist locations. Although there is nothing much to see locally, the hotel is within walking distance to Checkpoint Charlie (5 mins).Rooms were bright and clean, and service was good. In fact, nothing bad to report about this hotel. Good for a weekend!  
+<Date>Mar 22, 2007
+<Rating>4	3	4	2	5	4	4	-1	
+<Aspects>
+3	50(bad):1	172(weekend):1	838(report):1	
+0	
+3	3(clean):1	9(service):1	880(bright):1	
+14	1(location):1	7(walk):1	28(close):1	74(perfect):1	115(distance):1	172(weekend):1	209(tourist):1	247(min):1	438(easily):1	1085(underground):1	1342(accessible):1	2876(charlie):1	3231(locally):1	3596(checkpoint):1	
+0	
+0	
+0	
+0	
+
+<Author>jyoung3381
+<Content>Great Value Never having been to Berlin and wanting to see the difference between east and west Berlin, we booked the Courtyard. It was an inexpensive taxi ride from Templehof and the hotel had great weekend rates. The old berlin wall ran directly front of the hotel and is marked by cobblestones in the pavement. We followed the cobblestones and experienced the difference in building construction and design between the east and west. Since the Courtyard was in the east there is not a plethora of places to eat, especially on the weekend. Checkpoint Charlie is a 5-10 minute walk with more than enough places to eat. The Courtyard itself is well designed and constructed. The staff are very helpful. If you want to be in the heart of the action this is not the place to be. If you want to be near a metro stop and museum island and experience the east berlin transition, this is the place to be. Before we arrived we wrote down the directions from the airport to the hotel from the Marriott website. This was very helpful to the taxi driver since the Courtyard is a bit difficult to find the first time. It also ensured we went directly to the hotel.  
+<Date>Mar 7, 2007
+<Rating>5	5	5	3	5	5	5	5	
+<Aspects>
+4	383(directly):1	450(heart):1	958(action):1	1293(ensure):1	
+19	18(book):1	44(experience):2	81(value):1	102(near):1	122(stop):1	135(build):1	235(metro):1	342(island):1	435(courtyard):1	482(follow):1	507(museum):1	516(design):1	583(construction):1	746(berlin):3	819(difference):2	948(east):3	953(west):2	5837(cobblestone):1	6761(transition):1	
+8	47(eat):1	126(especially):1	172(weekend):1	435(courtyard):2	516(design):1	948(east):1	4627(construct):1	6643(plethora):1	
+30	5(time):1	7(walk):1	14(helpful):1	29(minute):1	31(front):1	47(eat):1	52(bit):1	53(arrive):1	78(rate):1	95(airport):1	149(run):1	172(weekend):1	183(wall):1	185(taxi):2	218(ride):1	262(website):1	344(write):1	383(directly):1	395(direction):1	435(courtyard):1	563(driver):1	572(difficult):1	618(marriott):1	746(berlin):1	882(mark):1	1117(inexpensive):1	2876(charlie):1	3596(checkpoint):1	4479(pavement):1	5837(cobblestone):1	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+0	
+
+<Author>Veritas_Vir
+<Content>Excellent hotel       Marriott Courtyard Berlin City Centre - 18-02-07  
+<Date>Mar 4, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+6	21(excellent):1	41(city):1	101(center):1	435(courtyard):1	618(marriott):1	746(berlin):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>TrippinPippin
+<Content>Show room new Courtyards are considered the economic Marriott brand but you wouldn't sense that at this hotel. I suspect it is very new: the lobby gleams, the rooms sparkle. The location was great. It's in the former East Berlin so there is lots of construction all around but noise was never an issue.  The staff was extremely accommodating and helpful. From this location you can easily walk to Checkpoint Charlie and Alexander Platz is only a couple of subway stops.  
+<Date>Feb 17, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	38(lot):1	94(noise):1	265(issue):1	583(construction):1	746(berlin):1	948(east):1	2285(former):1	
+4	0(staff):1	14(helpful):1	110(extremely):1	624(accommodate):1	
+6	248(consider):1	435(courtyard):1	618(marriott):1	883(brand):1	1102(sense):1	7366(economic):1	
+10	1(location):2	7(walk):1	99(couple):1	122(stop):1	370(subway):1	438(easily):1	2705(platz):1	2876(charlie):1	3596(checkpoint):1	6023(alexander):1	
+0	
+0	
+4	55(lobby):1	1919(sparkle):1	1983(suspect):1	6799(gleam):1	
+0	
+
+<Author>Redeyes1
+<Content>Good Value and centrally located We arrived before lunchtime due to our flight times but didn't have to wait for a room. The hotel is well situated only a couple of minutes walk from the Spittalmarkt U-Bahn station though I suggest you look carefully at the map as the Hotel is behind a large block of flats. But don't let this put you off. Its a fairly new, very clean well managed hotel with friendly and helpful staff. Typically Marriott. There are a few shops in the immediate vicinity and thankfully a bar that sells food. Our only meal at the hotel was breakfast which, while good in content, was very expensive.The hotel is next to Leipziger Strasse, the main thoroughfare between Potsdammer Platz (20 Mins Walk) and Alexander Platz (15 mins). Moreover, it is ideally situated for sightseeing on foot as the Brandenburg gate is only 15 mins walk , Checkpoint Charlie 10 mins and Museums Insel 15 mins.Overall we enjoyed our stay and would definately return.  
+<Date>Feb 15, 2007
+<Rating>4	4	4	4	4	4	5	4	
+<Aspects>
+6	39(return):1	51(enjoy):1	70(overall):1	410(definately):1	618(marriott):1	1994(typically):1	
+4	6(breakfast):1	124(expensive):1	213(meal):1	2688(content):1	
+15	0(staff):1	3(clean):1	5(time):1	12(friendly):1	14(helpful):1	53(arrive):1	81(value):1	84(locate):1	85(wait):1	233(flight):1	259(due):1	462(fairly):1	645(manage):1	879(centrally):1	3990(lunchtime):1	
+28	7(walk):3	20(look):1	29(minute):1	82(station):1	99(couple):1	100(bloc):1	112(main):1	247(min):5	402(foot):1	452(suggest):1	507(museum):1	535(flat):1	574(situate):2	640(sight-see):1	724(map):1	992(gate):1	1800(ideally):1	2164(u-bahn):1	2523(carefully):1	2705(platz):2	2876(charlie):1	3550(brandenburg):1	3596(checkpoint):1	4006(moreover):1	5203(thoroughfare):1	5358(strasse):1	6023(alexander):1	12315(potsdammer):1	
+0	
+0	
+7	16(food):1	27(bar):1	49(shop):1	606(sell):1	1761(immediate):1	1893(thankfully):1	2232(vicinity):1	
+0	
+
+<Author>ksosay2003
+<Content>excellent stay Stayed for 10 days - All my needs were catered too. Staff was friendly, helpful and extremely knowledgeable about directions and sights, always handing over maps and brochures. I bought a one week transportation pass for next to nothing (at the desk staff's recommendation) and had unlimited access to S-bahn, U-bahn and buses. The hotel is centrally located to several major lines and walking back late at night was never concerning as the area is very safe.There is a handy grocery store right around the corner - for just a few Euros, I kept the fridge in my room well stocked with cream, sandwich fixings and snacks making staying on budget much easier.The rooms were large and immaculate with nice city views and windows that actually opened.  
+<Date>Feb 11, 2007
+<Rating>5	4	5	5	5	5	5	3	
+<Aspects>
+3	8(day):1	21(excellent):1	1000(cater):1	
+0	
+6	4(nice):1	17(view):1	41(city):1	119(window):1	180(actually):1	894(immaculate):1	
+21	0(staff):1	2(night):1	7(walk):1	36(desk):1	75(week):1	79(late):1	84(locate):1	120(bus):1	137(safe):1	159(access):1	188(line):1	280(buy):1	315(major):1	400(pass):1	496(concern):1	577(recommendation):1	728(transportation):1	879(centrally):1	2077(unlimited):1	2164(u-bahn):1	2821(s-bahn):1	
+0	
+10	0(staff):1	12(friendly):1	14(helpful):1	110(extremely):1	377(hand):1	395(direction):1	411(sight):1	724(map):1	1160(knowledgeable):1	2001(brochure):1	
+13	93(easy):1	200(corner):1	255(store):1	256(euro):1	318(fridge):1	406(snack):1	429(budget):1	599(stock):1	755(handy):1	1071(sandwich):1	1188(cream):1	1199(grocery):1	9060(fixing):1	
+0	
+
+<Author>Trusse
+<Content>Typical Marriott This hotel is a typical Marriott brand with wonderful service and nice big rooms, especially for European hotels. However, don't be fooled by the name City Center. This hotel is not as close as other hotels are to the tourist sites, so unless you are staying for business or you MUST use Marriott points, you should consider something closer. There are no stores or restaurants within a half a mile and the walk home from siteseeing in the evening is brutal. However, if you are comfortable using public transit the closest U-Bahn (Metro) stop is a 5-10 min walk. Some good points: quite at night, very comfy beds, good service, and very clean rooms.Some bad points: not the best location.  
+<Date>Feb 2, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+12	2(night):1	3(clean):1	4(nice):1	9(service):2	11(bed):1	48(wonderful):1	126(especially):1	475(comfy):1	582(european):1	618(marriott):2	628(typical):2	883(brand):1	
+24	1(location):1	7(walk):2	10(restaurant):1	25(comfortable):1	28(close):3	50(bad):1	122(stop):1	141(home):1	147(business):1	192(site):1	209(tourist):1	235(metro):1	247(min):1	248(consider):1	255(store):1	283(half):1	379(public):1	405(unless):1	618(marriott):1	692(mile):1	2015(transit):1	2164(u-bahn):1	5768(brutal):1	7501(siteseeing):1	
+0	
+0	
+0	
+4	41(city):1	101(center):1	295(name):1	2098(fool):1	
+
+<Author>Connecting passengers
+<Content>A relaxing place to be in Berlin I stayed in this hotel for four nights.First I came by bus from Tegel airport by TXT bus to Friedrichstrasse ( 2,80 鈧? . Then I took metro (U-bahn) from Stadtmitte to Spittal Markt 1,20 鈧?I had only one suitcase so this was easy and cheap. But if there are more than one person coming taxi is a good choice too (18鈧? There are lots of taxis available in Berlin and I have to say that drivers were friendly and honest which is not the case in so many cities. New MB taxis have a meter in the inside mirror.Ok i came by U Bahn and I asked people about Axel Springer Strasse. There is a big building of Axel Springer (Morgenposten etc) and if you ask only that street you might get quite far away from your hotel. The hotel really is near Spittal Markt metro station but there is not any sign of Marriott to show that you have to walk through between some buildings at very near. The first impression to me was that the hotel is in the middle of nowhere which is of course not the case. There are both Check Point Charlie and the high radiotower of east side city easily reachable also by walking.The staff of the hotel was very friendly and helpful. I got an imppression that the staff of this hotelreally liked their work. The first impression of this quite new scandinavic looking building was a little bit clinical and while walking to my room I got the feeling that some doctors could walk here wearing white mantles! But in my room I really enjoyed the cleanliness of the new hotel. Even sheet felt that I was the first to use them. During my whole 4 night stay I did not find anything to complain. I wanted mainly to have rest in this very quiet hotel and I went to sleep early. That is why the reception staff begun to say to me good night after 7 PM!I used a refrigerator in the room and I bought everything from the shop nearby.I think this hotel is my choice again when I'll visit next time in Berlin and meet also very friendly people of the city.  
+<Date>Feb 1, 2007
+<Rating>5	5	5	4	-1	5	5	-1	
+<Aspects>
+14	2(night):2	26(people):1	34(feel):1	123(ok):1	160(relax):1	241(complain):1	293(course):1	325(middle):1	479(sheet):1	746(berlin):1	848(impression):1	3406(bahn):1	5358(strasse):1	8221(axel):1	
+15	5(time):1	12(friendly):1	26(people):1	41(city):1	65(visit):1	93(easy):1	107(choice):1	143(cheap):1	196(meet):1	235(metro):1	746(berlin):1	974(suitcase):1	2164(u-bahn):1	7850(markt):1	12247(stadtmitte):1	
+31	7(walk):3	20(look):1	23(little):1	32(check):1	34(feel):1	41(city):1	49(shop):1	51(enjoy):1	52(bit):1	58(quiet):1	104(sleep):1	135(build):1	185(taxi):1	232(nearby):1	280(buy):1	288(rest):1	408(inside):1	434(wear):1	438(easily):1	466(white):1	848(impression):1	854(cleanliness):1	916(refrigerator):1	948(east):1	1129(mirror):1	1177(mainly):1	1194(metre):1	1875(doctor):1	2876(charlie):1	7319(clinical):1	7605(reachable):1	
+26	7(walk):1	12(friendly):1	35(street):1	38(lot):1	41(city):1	73(etc):1	82(station):1	95(airport):1	102(near):2	107(choice):1	120(bus):2	134(available):1	135(build):1	185(taxi):2	193(person):1	235(metro):1	449(sign):1	563(driver):1	618(marriott):1	745(building):1	746(berlin):1	1108(honest):1	4795(tegel):1	5646(friedrichstrasse):1	7850(markt):1	8221(axel):1	
+0	
+7	0(staff):3	2(night):1	12(friendly):1	14(helpful):1	129(reception):1	393(pm):1	551(begin):1	
+0	
+0	
+
+<Author>chicca62
+<Content>great 2 day stay Perfect stay at the Courtyard Berlin City Center. Quiet location (about 5 minutus on foot from the famous Charlie check point), spotless rooms, great breakfast and only 90 euro per night (breakfast included)... Room was reserved thru the Marriott website.Our room was very spacious: 2 queen size beds+ sofa bed (almost king size) for my child. Staff was kind and helpful.  Oleo Pazzo Restaurant inside the hotel is very, very good and not expensive. I would recommend the Courtyard Berlin City Center and the Oleo Pazzo restaurant to everybody.  
+<Date>Jan 26, 2007
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+0	
+3	10(restaurant):1	124(expensive):1	408(inside):1	
+15	8(day):1	10(restaurant):1	11(bed):2	15(recommend):1	41(city):2	74(perfect):1	83(size):2	101(center):2	111(spacious):1	243(king):1	277(child):1	435(courtyard):2	543(Queen):1	746(berlin):2	842(sofa):1	
+0	
+0	
+2	0(staff):1	14(helpful):1	
+15	1(location):1	2(night):1	6(breakfast):2	32(check):1	58(quiet):1	71(include):1	256(euro):1	262(website):1	402(foot):1	506(reserve):1	548(spotless):1	618(marriott):1	1231(thru):1	1296(famous):1	2876(charlie):1	
+0	
+
+<Author>TerryThomas
+<Content>Could Have Been Better... Somewhat nice hotel... However, I expected more. Breakfast was a let down as well as the hairs under the sheets. Luckily, there's plenty hotels to choose from in Berlin...  
+<Date>Jan 23, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	4(nice):1	62(expect):1	158(plenty):1	167(choose):1	651(somewhat):1	746(berlin):1	1200(luckily):1	
+0	
+3	6(breakfast):1	479(sheet):1	729(hair):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>ReizigerDrenthe
+<Content>Great hotel We stayed in this nice, new and immaculate hotel for three nights. Staff was very friendly and warm hearted and assisted us without asking. We asked for a quiet non smoking room and we got it. Breakfast offered a wide choice and every (fresh) item tasted good. A two minute walk to the underground makes this the ideal hotel to explore Berlin.  
+<Date>Dec 19, 2006
+<Rating>5	5	5	4	5	4	5	3	
+<Aspects>
+3	2(night):1	4(nice):1	894(immaculate):1	
+7	6(breakfast):1	89(offer):1	107(choice):1	197(fresh):1	439(taste):1	519(item):1	860(wide):1	
+2	58(quiet):1	468(smoke):1	
+6	7(walk):1	29(minute):1	545(ideal):1	594(explore):1	746(berlin):1	1085(underground):1	
+0	
+5	0(staff):1	12(friendly):1	236(warm):1	450(heart):1	1265(assist):1	
+0	
+0	
+
+<Author>pghpeople
+<Content>This one should move to the top of the list! Stayed at the Courtyard Marriott for five nights. Excellent location near U-Bahn. Easy to walk to many other locations. On a quiet street just off of a busy one. The hotel is very new. Stayed on the second floor , which is a non- smoking floor. Wellness center is on the same floor. The room was large. It had a fridge and safe contained in a cabinet with a electric hot water pot on top. Mugs and intant coffee and tea provided. It also had an extremely comfortable bed. My husband has chronic back problems and has been known to sleep on the floor. He thought it was heavenly. Clean crisp linens. Two bedside lamps--one halogen are attached to the headboard. The bathroom was tile and granite and spotless! The room also contained a nice reading chair, plenty of wardrobe space with an iron and board. The room was simple and stylish and really quiet. Never heard anything from the halls or walls.The staff as mentioned by other reviewers were very friendly. Even walked out the door the first day to get us going in the right direction. When they asked how are stay went they meant it. The hotel had the ammenities we liked without the ones we really don't care to use(valets,room service). They do have sleek chrome luggage trolleys that you can use to take your luggage up.Had breakfast in the restaurant the first morning as part of our package. Very nice--many choices. If you like to have a large breakfast book one of the packages that include it. Other wise it about 18 E.The other mornings we grabbed something in the room. There are two markets within a couple of blocks. Also quite a few local restaurants. The neighborhood is partly residential.A taxi from the airport was 18E. Booked a transfer with German Transfers and they cancelled on us. It would have been the same price and I would have saved the half hour it took me to book it.Most definately would stay here again.  
+<Date>Nov 19, 2006
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+9	118(top):1	207(move):1	246(mean):1	410(definately):1	421(neighbourhood):1	650(list):1	1537(residential):1	1609(heavenly):1	3534(partly):1	
+7	4(nice):1	18(book):1	19(price):1	60(hour):1	107(choice):1	283(half):1	425(save):1	
+41	2(night):1	4(nice):1	9(service):1	11(bed):1	13(bathroom):1	24(floor):4	25(comfortable):1	56(morning):1	58(quiet):1	88(read):1	101(center):1	104(sleep):1	105(husband):1	110(extremely):1	158(plenty):1	198(chair):1	210(space):1	242(care):1	435(courtyard):1	457(valet):1	468(smoke):1	548(spotless):1	600(board):1	613(simple):1	618(marriott):1	846(tile):1	868(iron):1	961(stylish):1	1139(grab):1	1224(attach):1	1451(wardrobe):1	1545(contain):1	1622(lamp):1	1676(wise):1	2231(ammenity):1	2298(bedside):1	2793(granite):1	3408(headboard):1	6418(wellness):1	11384(chronic):1	12294(halogen):1	
+20	1(location):2	7(walk):2	8(day):1	21(excellent):1	35(street):1	54(door):1	58(quiet):1	93(easy):1	95(airport):1	99(couple):1	100(bloc):1	102(near):1	132(hear):1	183(wall):1	185(taxi):1	220(busy):1	264(market):1	395(direction):1	616(hall):1	2164(u-bahn):1	
+3	3(clean):1	630(linen):1	2293(crisp):1	
+4	0(staff):1	12(friendly):1	244(mention):1	564(reviewer):1	
+27	6(breakfast):2	10(restaurant):2	18(book):2	56(morning):1	57(water):1	71(include):1	90(coffee):1	114(hot):1	118(top):1	137(safe):1	153(provide):1	195(local):1	249(luggage):2	301(tea):1	318(fridge):1	527(package):2	1021(transfer):2	1065(cancel):1	1079(trolley):1	1382(german):1	1447(pot):1	1545(contain):1	2224(mug):1	2246(electric):1	2563(cabinet):1	2616(sleek):1	7147(chrome):1	
+0	
+
+<Author>CallerDale
+<Content>Great place to stay Listen, There is not to much going on right outside the door, and when I go to a hotel, I like it quiet.This hotel is located a couple of blocks off of the main drag, and just a block or so from the subway.When I return to Berlin I wouldn't stay anywhere else.It's new, the staff is helpfull, it's clean, quiet, and easy to get to the subway. I thought it was reasonably priced too!  
+<Date>Oct 28, 2006
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+3	39(return):1	170(else):1	746(berlin):1	
+2	19(price):1	578(reasonably):1	
+9	0(staff):1	3(clean):1	54(door):1	58(quiet):2	93(easy):1	98(outside):1	370(subway):1	997(listen):1	1478(helpfull):1	
+6	84(locate):1	99(couple):1	100(bloc):2	112(main):1	370(subway):1	1699(drag):1	
+0	
+0	
+0	
+0	
+
+<Author>dzohar
+<Content>Comfortable tour base We stayed for a week at this Marriott hotel on Axel Springer Strs. Located exactly on the former East/West border it is in a good location for seeing the city of Berlin. Just 5 minutes to the underground train, 20 minutes walk to the Museum island. There is a very reasonable Italian restaurant across the road.On Leipziger Strs nearby there is a supermarket, and Turkish donerkebab stands. The hotel was clean, comfortable, quiet, well-run, with a very good breakfast. I would recommend it.From: An Israeli visitor to Berlin.  
+<Date>Oct 28, 2006
+<Rating>5	5	5	4	5	5	5	-1	
+<Aspects>
+9	15(recommend):1	25(comfortable):1	75(week):1	181(tour):1	284(base):1	618(marriott):1	746(berlin):1	951(visitor):1	8221(axel):1	
+0	
+5	3(clean):1	6(breakfast):1	25(comfortable):1	58(quiet):1	5896(well-run):1	
+18	1(location):1	7(walk):1	29(minute):2	41(city):1	84(locate):1	182(train):1	232(nearby):1	342(island):1	444(stand):1	507(museum):1	586(exactly):1	746(berlin):1	948(east):1	1078(supermarket):1	1085(underground):1	2285(former):1	2701(border):1	6322(turkish):1	
+0	
+0	
+4	10(restaurant):1	230(road):1	273(reasonable):1	358(italian):1	
+0	
+
+<Author>apfelwein
+<Content>Excellent hotel The Marriot Courtyard is an excellent hotel in a very convenient but quiet location (very close to the Ministry of Foreign Affairs and the Palast der Rebublik). The closest underground station is just around the corner.The hotel is very new and the design is warm and welcoming. The staff at the reception were friendly at all times.The rooms were wonderful, one of the best hotel rooms I have seen. Very comfortable beds and an excellent shower.The hotel has a 24 hour shop that sells snacks, sandwiches, salads and beverages (alcoholic and non-alcoholic). The breakfast buffet is also very good with a wide selection of warm and cold food.I would definitely stay here again.  
+<Date>Oct 27, 2006
+<Rating>5	4	5	5	5	5	5	5	
+<Aspects>
+4	59(definitely):1	202(welcome):1	236(warm):1	516(design):1	
+0	
+14	1(location):1	11(bed):1	21(excellent):3	25(comfortable):1	28(close):1	48(wonderful):1	58(quiet):1	61(shower):1	186(convenient):1	435(courtyard):1	2375(foreign):1	2472(marriot):1	3546(affair):1	6885(der):1	
+13	28(close):1	49(shop):1	60(hour):1	82(station):1	200(corner):1	406(snack):1	606(sell):1	909(salad):1	1071(sandwich):1	1085(underground):1	1334(beverage):1	3040(alcoholic):1	5637(nonalcoholic):1	
+0	
+4	0(staff):1	5(time):1	12(friendly):1	129(reception):1	
+7	6(breakfast):1	16(food):1	77(buffet):1	222(cold):1	236(warm):1	333(selection):1	860(wide):1	
+0	
+
+<Author>onesmileygirl
+<Content>A great find in Berlin! We spent three days at the Berlin Courtyard and really enjoyed it. The rooms are large, clean and quiet. And as an added bonus, the rooms include a refridgerator. A definate plus because the hotel is very close to a grocery store. The front desk staff was incredibly helpful and friendly. Finally, the location was perfect for sightseeing. It was only about two blocks to Checkpoint Charlie. The only negative to the hotel was the high cost of internet access for the lobby computers. Bring your own computer or go to an internet cafe.  
+<Date>Sep 14, 2006
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+1	746(berlin):1	
+0	
+11	3(clean):1	8(day):1	51(enjoy):1	58(quiet):1	64(spend):1	71(include):1	351(add):1	435(courtyard):1	746(berlin):1	849(bonus):1	3851(refridgerator):1	
+9	1(location):1	28(close):1	74(perfect):1	203(plus):1	255(store):1	341(finally):1	640(sight-see):1	1199(grocery):1	6739(definate):1	
+0	
+9	0(staff):1	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	100(bloc):1	807(incredibly):1	2876(charlie):1	3596(checkpoint):1	
+0	
+9	55(lobby):1	97(internet):2	142(bring):1	159(access):1	166(own):1	175(cost):1	275(cafe):1	282(negative):1	555(computer):2	
+
+<Author>tigger70
+<Content>Spitzenhotel in zentraler Lage       Lobby  
+<Date>Dec 6, 2008
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+0	
+2	55(lobby):1	11750(lage):1	
+0	
+
+<Author>Lilic94
+<Content>tip top pour un WE       sdb3  
+<Date>Mar 31, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	118(top):1	194(tip):1	1764(pour):1	2292(un):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

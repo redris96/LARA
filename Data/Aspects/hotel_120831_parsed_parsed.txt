@@ -1,0 +1,868 @@
+<Author>Gumbo425
+<Content>The doubletree is fading Just returned from an overnight stay at the Doubletree Hotel in New Orleans. This hotel has one of the best locations in the city -across the street from Harrah's Casino and just 2 blocks to the French Quarter. If you arrive by car, chances are the hotel's valet parking lot will be full (it's very small) and you'll have to park a block away. The hotel validates, so the parking is free or heavily discounted.The front dest staff is very friendly and accommodating and check in was quick and efficient. The lobby is relatively small.Our room was very small and cramped - reminded me of those New York City hotels. One of the first things we noticed was that the window had no drapes - only shears. So if you don't sleep soundly, you'll waken with the sun pouring into your room. Also, with the lights on at night, guests at the hotel right next door has a pretty good view into your room through the shear curtains.There was no coffee packs for the in-room coffemaker (one of those ridiculous coffemakers that only makes one or two cups at a time instead of a little pot). We called housekeeping and the maid came up with one packet of decaf coffe, explaining the hotel was out of coffee.The ice machine on our floor did not work. Neither did the one on the floor below ours. Had to go down two floors to get ice.The smoke alarm in our room was partially hanging off the wall.Also, the widow is apparently not very well sealed - you can hear every bit of noise outside. And, there are railroad tracks less than 2 blocks away . Trains passing by blow their horn at all hours of the day and night. Bring ear plugs if you're a light sleeper.The bathroom countertop in the tiny bathroom is very low. The TV was still the old tube-type screen, but with decent reception on most channels.In-room wireless internet is available for a charge.On the positive side, the bed was comfortable and the A/C worked well.  
+<Date>Dec 14, 2008
+<Rating>2	2	2	5	2	5	3	3	
+<Aspects>
+8	39(return):1	100(bloc):1	588(orleans):1	1171(overnight):1	1766(track):1	3013(fade):1	3306(doubletree):2	7419(railroad):1	
+5	46(free):1	66(park):1	864(discount):1	2836(heavily):1	5275(validate):1	
+57	2(night):1	11(bed):1	13(bathroom):2	17(view):1	24(floor):3	25(comfortable):1	41(city):1	54(door):1	67(call):1	90(coffee):1	91(guest):1	97(internet):1	104(sleep):1	109(pretty):1	116(tv):1	119(window):1	129(reception):1	134(available):1	136(charge):1	142(bring):1	157(light):2	183(wall):1	257(decent):1	300(maid):1	338(tiny):1	354(notice):1	367(housekeeping):1	420(sun):1	424(york):1	458(positive):1	468(smoke):1	478(hang):1	493(machine):1	513(low):1	526(screen):1	547(ice):2	585(below):1	717(wireless):1	743(curtain):1	768(explain):1	843(ours):1	1080(cramp):1	1174(plug):1	1275(neither):1	1285(remind):1	1299(sleeper):1	1380(alarm):1	1684(ear):1	1764(pour):1	2501(drape):1	3101(packet):1	3297(coffe):1	3500(partially):1	5546(soundly):1	5832(countertop):1	6364(decaf):1	8100(waken):1	
+30	1(location):1	2(night):1	8(day):1	35(street):1	38(lot):1	41(city):1	52(bit):1	53(arrive):1	55(lobby):1	60(hour):1	66(park):2	94(noise):1	98(outside):1	100(bloc):2	121(car):1	132(hear):1	182(train):1	254(french):1	400(pass):1	457(valet):1	463(quarter):1	538(casino):1	689(chance):1	863(apparently):1	913(relatively):1	1146(blow):1	2860(seal):1	3100(horn):1	3292(harrah):1	12513(widow):1	
+0	
+8	0(staff):1	12(friendly):1	31(front):1	32(check):1	299(quick):1	401(efficient):1	624(accommodate):1	7105(dest):1	
+10	5(time):1	23(little):1	90(coffee):1	353(instead):1	715(pack):1	800(cup):1	1301(in-room):1	1447(pot):1	1533(ridiculous):1	11630(coffemaker):2	
+0	
+
+<Author>EarplugLover
+<Content>Wow! What Accurate Reviews! It was hard for me to believe, but the previous reviewers totally weren't making it up! Here's the checklist:Paper-thin walls with loud neighbors: check. Toilets that sound like 747s: check. Sloppy housekeeping: check (found trash behind a chair - ew!). Weird room damage: check. Claustrophobia inducing rooms and baths: check. Non-functioning thermostat: check. Falling towel bars: check (and beware!). The staff wasn't quite as heinous as others have described them. We found the front desk personnel and valets to be quite helpful, but based on other travelers' advice, we skipped room service and kept our expectations low.The only reason we stayed at the Doubletree was because the room was comped by Harrah's, and all their other hotel partners were full. Frankly, it's the only reason I'd stay there again. In a down economy, free is good, but of course, that old adage, you get what you pay for is so true.If you do end up stuck at the Doubletree, bring earplugs so you can get a good night's sleep. Hey, at least the Hilton-style beds are very, very comfortable.  
+<Date>Dec 13, 2008
+<Rating>2	3	2	5	2	4	-1	3	
+<Aspects>
+10	37(review):1	162(hard):1	312(believe):1	373(previous):1	374(reason):1	564(reviewer):1	611(totally):1	862(wow):1	1785(accurate):1	2109(frankly):1	
+4	42(pay):1	46(free):1	293(course):1	3319(economy):1	
+24	2(night):1	11(bed):1	25(comfortable):1	32(check):3	104(sleep):1	142(bring):1	198(chair):1	226(bath):1	367(housekeeping):1	374(reason):1	688(stick):1	1006(partner):1	1367(hey):1	1611(weird):1	1771(earplugs):1	1793(trash):1	2030(damage):1	2942(comp):1	3292(harrah):1	3306(doubletree):2	5791(sloppy):1	6714(ew):1	10750(induce):1	11308(claustrophobia):1	
+5	32(check):1	183(wall):1	416(loud):1	934(neighbour):1	6080(paper-thin):1	
+0	
+19	0(staff):1	9(service):1	14(helpful):1	31(front):1	32(check):2	36(desk):1	267(traveler):1	284(base):1	330(toilet):1	409(sound):1	431(expectation):1	457(valet):1	513(low):1	575(advice):1	955(describe):1	1429(skip):1	1457(personnel):1	2547(thermostat):1	11612(non-functione):1	
+5	27(bar):1	32(check):1	125(towel):1	587(fall):1	737(beware):1	
+0	
+
+<Author>customersdomatter
+<Content>A 30.00 difference make a whole lotta difference!!!! I was scheduled to be in new orleans for bayou classic weekend which happened to be thanksgiving weekend. After searching for hotels I decided me and my best friend would stay at the Marriott which is where I always stay when I am in New Orleans and i love it. However after us discussing what events we would take part in we wanted to find a room within the same price range but closer to Harrah's. I contacted Doubletree and was quoted a price of a 30.00 cheaper rate combined for both nights. I was advised that a deposit equilavent to 1 night's stay and that it was non refundable but it would gurantee your room requested.My requested promised room was a double queen bed room. I was also advised that there is parking available at a rate of 35.00. Now i should have taken into consideration that even reservations wasn't all that courteous but I let it ride thinkin that they had a busy day maybe? I can't blame the congestion of the city on the hotel but when I arrived to valet there was no one who you would think is vale since there is no specific attire or signs worn? I then asked somebody i seen with keys where do I go to valet and was then told they were not valeting anymore since it was full. I asked where am I suppose to park and I was told where to so that took another 30 minutes. After walking with my luggage through a parking garage, thru the mall, cross thru Harrah's front walkway and to the hotel me and my friend waited in line. We were finally acknoledged with do you have a reservation I stated yes and provided the needed information. The representative then stated that her co worker will finish heloing me . Now correct me if I am wrong if I have already paid one night prior to arrival and have a set reservation you would think it would be a speedy process. That is not the case the lady was typing and clicking for 15 minutes, then gave us our keys, and told us our room number. No thanks you, didn't ask any questions while she was typing, nothing. When me and my friend arrive to our room to our suprise it is a 1 queen size bed room! I contacted front desk and was told that my deposit does not guarantee bedding arrangments it just promises you a room and after requesting the supervisor I was told they were gone for the day. This was a HUGE inconvience seeing it as there are 2 woman with plenty of items cramped in a room. Front desk stated they would seend a roll bed up to our room but i was puzzled as to where would it fit seeing as to how small the room was. Housekeeping broght the bed and she was the friendliest of the whole staff. She didn't undrestand why it was requested because it was NO WHERE for the pull out bed to fit. There was no apology from front desk nor did she advise us when we was down stairs that our room was a single. I contacted corporate the next day and was told that my reservation was modified right when i checked in and no explanation was given. I filed a complaint report which is currently in progress of being taken care of. All of the reviews about un friendly staff, thin walls ecause i could hear conversations even while i was talking, you can also smell somebody using the restroom as if the air vents was connected to their toilets, and the doors open and close as if it is your door. I was disgusted and [-] that my weekend was in a cramped hotel with bad service and hope that management fixes the problem because unhappy guess don't return they just add up.  
+<Date>Dec 2, 2008
+<Rating>1	1	1	5	2	1	2	1	
+<Aspects>
+26	40(love):1	146(friend):1	172(weekend):2	190(complaint):1	219(decide):1	242(care):1	271(thank):1	382(happen):1	389(type):1	394(question):1	588(orleans):2	618(marriott):1	772(finish):1	819(difference):2	838(report):1	1125(worker):1	1196(schedule):1	1248(search):1	1789(classic):1	2006(currently):1	2160(representative):1	2309(thanks-giving):1	3110(file):1	3656(progress):1	4312(co):1	10664(bayou):1	
+22	2(night):2	19(price):2	28(close):1	42(pay):1	78(rate):1	143(cheap):1	156(reservation):1	224(arrival):1	234(set):1	427(wrong):1	637(prior):1	713(contact):1	714(range):1	1106(event):1	1222(process):1	1263(correct):1	1856(quote):1	2316(combine):1	2690(discuss):1	3292(harrah):1	3306(doubletree):1	3632(speedy):1	
+54	0(staff):2	2(night):1	11(bed):5	12(friendly):2	28(close):1	29(minute):1	31(front):2	36(desk):2	37(review):1	53(arrive):1	54(door):2	69(tell):1	83(size):1	132(hear):1	133(huge):1	146(friend):1	148(request):3	158(plenty):1	164(air):1	179(double):1	183(wall):1	231(smell):1	304(single):1	330(toilet):1	335(numb):1	339(key):1	367(housekeeping):1	371(talk):1	389(type):1	519(item):1	521(lady):1	543(Queen):2	566(woman):1	568(stair):1	663(advise):2	668(fit):2	754(thin):1	813(roll):1	841(connect):1	858(pull):1	970(nor):1	975(promise):1	1080(cramp):1	1281(conversation):1	1547(apology):1	1603(deposit):1	1738(suprise):1	2292(un):1	2344(vent):1	3679(restroom):1	4774(puzzle):1	5490(click):1	6968(inconvience):1	7322(refundable):1	
+26	7(walk):1	8(day):1	29(minute):1	31(front):1	66(park):3	69(tell):1	78(rate):1	85(wait):1	134(available):1	146(friend):1	156(reservation):1	188(line):1	218(ride):1	220(busy):1	249(luggage):1	308(maybe):1	483(courteous):1	620(suppose):1	643(mall):1	663(advise):1	936(garage):1	1228(cross):1	1231(thru):2	1748(walkway):1	2583(consideration):1	3292(harrah):1	
+12	41(city):1	53(arrive):1	69(tell):1	339(key):1	434(wear):1	449(sign):1	457(valet):3	1848(specific):1	1853(anymore):1	2219(blame):1	5906(attire):1	5949(congestion):1	
+21	8(day):2	11(bed):1	31(front):1	32(check):1	36(desk):1	69(tell):3	148(request):1	153(provide):1	156(reservation):2	250(yes):1	341(finally):1	649(information):1	713(contact):2	975(promise):1	1471(guarantee):1	1603(deposit):1	1802(corporate):1	2693(explanation):1	3201(supervisor):1	9259(modify):1	10791(arrangment):1	
+12	9(service):1	39(return):1	50(bad):1	172(weekend):1	328(hope):1	351(add):1	469(guess):1	494(fix):1	525(management):1	1080(cramp):1	1152(disgust):1	2382(unhappy):1	
+0	
+
+<Author>OregonMember
+<Content>Good Location I attended a conference in New Orleans and the DoubleTree Hotel was one of several hotels being utilized (with a conference rate).The hotel is next to the Harrah's Casino and on the other side of Canal Street and the French Quarter. It is also a short walk to the river, the shops in the RiverWalk, and the aquarium. Being near the French Quarter and its restaurants, galleries and shops without dealing with the noise that sometimes comes with a hotel in the Quarter was the primary reason for choosing the DoubleTree.The standard room is rather small, particularly the bathroom - the bathroom door opens and misses the toilet by a couple of inches. But the room was clean and nicely decorated. The staff were friendly and helpful, with one exception: room service. On our last evening in town - with an early departure the next morning - my wife and I decided to stay in and order from room service. We were told it would be 30-40 minutes; an hour later I called and was told they had the wrong room number - did I still want the order? Since we were pretty hunger, I said Yes. Unfortunately, when the it finally arrived, the food was cold. On another occasion, I ordered a sandwich and beer; the beer was unopened and required a bottle opener which required another call to room service for an opener. The room service staff just didn't seem to have their act together.Overall, I liked the location, the room was clean, and the rate seemed reasonable (approx. $150.00/night). I just wouldn't order room service.  
+<Date>Aug 13, 2008
+<Rating>3	3	2	4	3	3	2	-1	
+<Aspects>
+4	2(night):1	109(pretty):1	250(yes):1	8313(hunger):1	
+0	
+41	0(staff):2	1(location):1	3(clean):2	9(service):5	12(friendly):1	13(bathroom):2	14(helpful):1	29(minute):1	54(door):1	56(morning):1	60(hour):1	67(call):2	69(tell):2	70(overall):1	78(rate):1	79(late):1	99(couple):1	130(standard):1	184(wife):1	219(decide):1	238(bottle):1	239(town):1	273(reasonable):1	276(miss):1	305(decorate):1	330(toilet):1	335(numb):1	404(nicely):1	427(wrong):1	443(beer):2	553(particularly):1	722(require):2	871(occasion):1	1031(departure):1	1071(sandwich):1	1128(exception):1	1423(approx):1	1688(inch):1	1920(Act):1	4241(opener):2	12982(unopened):1	
+28	1(location):1	7(walk):1	10(restaurant):1	35(street):1	49(shop):2	78(rate):1	94(noise):1	102(near):1	140(deal):1	144(short):1	167(choose):1	254(french):2	374(reason):1	463(quarter):3	538(casino):1	560(sometimes):1	588(orleans):1	638(canal):1	710(river):1	794(conference):2	826(attend):1	1794(gallery):1	2157(aquarium):1	3022(utilize):1	3292(harrah):1	3306(doubletree):2	3556(riverwalk):1	4116(primary):1	
+0	
+0	
+5	16(food):1	53(arrive):1	222(cold):1	341(finally):1	524(unfortunately):1	
+0	
+
+<Author>traveltimenc
+<Content>Lost and found My daughter stayed here on a recent group trip and left her orthodontic retainer in the room. We never thought we would see it again, but management called and kindly shipped it to our home UPS. According to my daughter, the beds were extremely comfortable and the location was great, a block down from the Ritz Carlton.Thanks Doubletree. We'll be back.  
+<Date>Aug 2, 2008
+<Rating>4	3	3	4	3	-1	5	-1	
+<Aspects>
+2	271(thank):1	3306(doubletree):1	
+0	
+13	1(location):1	11(bed):1	25(comfortable):1	33(trip):1	43(leave):1	100(bloc):1	110(extremely):1	467(daughter):2	596(lose):1	825(ritz):1	1064(recent):1	1518(carlton):1	2019(accord):1	
+0	
+0	
+5	67(call):1	141(home):1	525(management):1	1392(ship):1	2509(kindly):1	
+0	
+0	
+
+<Author>olddixiedarling
+<Content>Love the double treee I am from New Orleans and i come back every chance i get and always stay at Doubletree. I can't believe reading these reviews. How could they have had such rotten expierences.? My last stay was during Katrina needless to say the timing could have been better. The staff was excellent  if it would have not been for one very nice young man (staff) who found me a ride to the airport who knows what would have happened to me. I feel he may have saved my life. I have stayed at this hotel ten or more times over the years never had one compliant. These people are mistaken giving those reviews. I would'nt stay any other place else. I had a stroke in September 2007 and another one in January 2008 and it is my dream to get a chance to go back to New Orleans and stay at the Doubletree. Pat Wray2707 Garland Wichita, KS. 67204316-832-0111  
+<Date>Jul 6, 2008
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+26	5(time):2	26(people):1	34(feel):1	37(review):2	40(love):1	88(read):1	170(else):1	179(double):1	312(believe):1	425(save):1	426(life):1	588(orleans):2	689(chance):2	895(mistake):1	972(september):1	1018(january):1	1256(dream):1	1356(needless):1	2676(katrina):1	3306(doubletree):2	4436(pat):1	4477(rotten):1	7212(stroke):1	8756(garland):1	8860(compliant):1	11309(expierence):1	
+0	
+6	0(staff):2	4(nice):1	21(excellent):1	95(airport):1	218(ride):1	382(happen):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>jsmith72113
+<Content>Hilton Honors Members -Do not Stay Here-- For all you Hilton Honors members out there Do not stay here!!!!!!!! See below bottom line.1. 1st Room the sill rotted and fallen off the window. See Attached picture2. 2nd Room no towells3. Both room water bottles and other normal HHonors stuff did not exsist.4. Even though this is the slowest time in New Orleans no room upgrade. 5. $32 dollar parking fee for a $109 room - Thats 29% of the stay for parking6. Only feather pillows on the bed.7. No smoking room smelled of terrible smoke.8. A/C was limited to 72 degrees according to their t-stat.All of this was communicated to Todd Chambers (General Manager) I was told they manage their hotel pricing for the market and no special treatment would be given to hilton honors members. I thought that was what the program was all about. To be fair they did bring some water up after I discovered no towells. (found this after I got out of the shower)Don't Stay Here  
+<Date>Jun 24, 2008
+<Rating>1	2	1	2	1	2	2	1	
+<Aspects>
+10	188(line):1	477(hilton):2	510(limit):1	585(below):1	850(bottom):1	1224(attach):1	1252(degree):1	1376(honor):2	1531(program):1	2019(accord):1	
+16	19(price):1	66(park):1	69(tell):1	208(special):1	258(manager):1	264(market):1	430(dollar):1	477(hilton):1	584(fee):1	645(manage):1	1147(treatment):1	1198(thats):1	1376(honor):1	1520(communicate):1	5355(chamber):1	12959(todd):1	
+22	5(time):1	11(bed):1	57(water):2	61(shower):1	119(window):1	142(bring):1	163(upgrade):1	238(bottle):1	303(pillow):1	455(slow):1	480(stuff):1	587(fall):1	588(orleans):1	739(fair):1	869(discover):1	878(normal):1	1326(2nd):1	2838(feather):1	4560(hhonor):1	5789(rot):1	6913(sill):1	9053(towells):1	
+0	
+3	231(smell):1	432(terrible):1	468(smoke):2	
+0	
+0	
+0	
+
+<Author>CSL63
+<Content>Not worthy of the DoubleTree We made a relatively last minute trip to New Orleans the first weekend in May. Being a Harrah鈥檚 rewards card holder, I called them to get a room, and, with the Jazz Fest going on, they were sold out, but the best deal they could find was the DoubleTree, right across the street from Harrah鈥檚. This was our 鈥渕ini honeymoon,鈥?as we just got married, but we鈥檙e not taking our real honeymoon for a while. Harrah鈥檚 reservation agent was very excited for us, and noted that it was our honeymoon on our reservation with the DoubleTree so they could do something special for us - her words, not mine.When we arrived in town, we waited in line for valet parking for 10-15 minutes, watching two valet parkers come and go, but never being acknowledged. Finally, after I got out, one came to the door to tell us that the garage was completely full, but they could give us a discount coupon for another garage. He told us they have over 300 rooms in the hotel, but only 100 spaces, so the valet sells out, especially on busy weekends. We didn鈥檛 overreact, though, since we saw a bunch of kids coming in their prom attire, and knew the jazz fest was going on. Downtown New Orleans parking is tight. Strike one.Leaving our key with the valet so we could check in, we walked into the hotel to find four people behind the counter鈥?but we had to wait anyway. When it was our turn, the agent found our reservation very efficiently, and got us checked in just fine. However, she didn鈥檛 smile once鈥?it was then that we realized that nobody behind the counter was smiling. No pleasantries, no 鈥渨elcome to New Orleans,鈥?or even a 鈥渉ave a nice stay鈥?or 鈥渢hank you for staying with us.鈥?No mention of our honeymoon. We did get the famous DoubleTree cookies, but they weren鈥檛 warm at all. The best description of their attitude was indifference. Other adjectives include uncaring, surly, and just plain rude. Strike two.When we got to the room, it looked fine. The rooms are small, and our room only had a queen bed, even though we had requested a king. The furnishings were nice, and appeared to be recently updated. The bathroom counter, as well as the dresser top and coffee table top were granite, the furniture was real wood. The room was clean, with the exception of the TV 鈥?it was smeared, like it was cleaned with a dirty rag, and one towel rack in the bathroom is half torn off the wall. But, as another reviewer said, the toilet sounds like a large plane. With engine trouble. Maybe even an engine fire, with a large bird sucked into the engine. Maybe even an ostrich. Also, the walls and doors are beyond thin. When the person in the next door opens and closes his door, you jump because you think someone is coming into your room. And the doors are loud 鈥?they close by themselves, and slam when they shut. Strike three.We took this all in stride, since, as they say, 鈥渆very hotel room looks the same with your eyes closed.鈥?br/>Saturday morning, we decided to sleep in. However, at 7:46, two housekeepers were yelling to each other in the hall, and letting those loud doors slam. Strike four. I should have been counting.After we finally woke up (again), we ordered room service for breakfast. It did take the full 30-45 minutes that we were quoted, and it was our server who had the best attitude of any staff we met. She was friendly, smiled, and joked with us. However, my fried eggs were not cooked right, the grits had been sitting and formed a crust on the top, and our soft drink and orange juice were served in the plastic bottles, with no glasses or ice. Strike five. I really should have been counting.After a day of being lazy, it was time to get cleaned up and get out. I started the water for the shower, and noted how nice the water pressure was. Got the temperature right, and noticed that the tub was now alarmingly full, even though the drain was open. I decided it wasn鈥檛 that big of a deal, so I pull the diverter knob to turn on the shower, and it came off in my hand. That was enough. I called the care line (dialed 44 on the phone) and was told engineering would be up in 鈥渁 few minutes.鈥?After 40 minutes, we called again to be told that engineering was backed up, but he was taking a remote to another room, and would be up in ten minutes. After almost 20 minutes more, another call got another promise. Luckily, he showed up within 5 minutes after that, apologizing because he was on the only one on call for the hotel. He was the second staff member who was polite, and I did feel sorry for him. It took him a second trip to bring back the parts, and we finally had a working shower!Repeated calls to talk to talk to the manager resulted in 鈥渟he鈥檚 at lunch.鈥?Left messages for her to call us back, but that didn鈥檛 happen. We did get a call offering two free dinners downstairs, two free breakfasts the next morning, and a tin of cookies. We passed on the dinner, since we had plans to go out. Plus, we had eaten their breakfast that morning, so we had an idea what we鈥檇 be in store for.The only good news about this stay (besides the cookies) was that, when we went to pay, we found that we were not charged for the room 鈥?only internet and room service. Still, no apologies, no, 鈥淚鈥檓 very sorry about the problems you experienced, therefore we won鈥檛 charge you for your room.鈥?Once again, the best description you could use for the staff鈥檚 attitude is indifference.I present all these facts as just facts 鈥?this was a story that happened to me, and that doesn鈥檛 mean that everyone will have the same experience. One, two, or maybe even three things could just be a coincidence. (I lost track of how many strikes this hotel had.) However, all these events seem to show a pattern of mismanagement and poor customer service. There are far too many good hotels in New Orleans鈥?I won鈥檛 be back to this one. And, I鈥檝e learned my lesson 鈥?ALWAYS check TripAdvisor before you travel!  
+<Date>May 6, 2008
+<Rating>1	1	3	4	3	1	3	3	
+<Aspects>
+67	4(nice):1	12(friendly):1	29(minute):4	33(trip):1	43(leave):1	67(call):4	69(tell):1	71(include):1	172(weekend):1	188(line):1	201(kid):1	236(warm):1	242(care):1	296(phone):1	308(maybe):3	311(tub):1	330(toilet):1	354(notice):1	382(happen):1	387(smile):3	392(rude):1	409(sound):1	564(reviewer):1	569(trouble):1	588(orleans):3	596(lose):1	607(realize):1	821(attitude):1	913(relatively):1	944(temperature):1	968(plane):1	975(promise):1	1001(counter):1	1022(didn):3	1173(cookie):1	1175(joke):1	1200(luckily):1	1262(fire):1	1273(win):1	1296(famous):1	1433(ave):1	1435(bird):1	1485(apologize):1	1489(drain):1	1546(plain):1	1563(jazz):1	1624(bunch):1	1766(track):1	1809(message):1	1902(suck):1	1957(strike):6	2034(description):1	2891(surly):1	2923(worthy):1	3124(weren):1	3202(count):2	3250(dial):1	3306(doubletree):2	3328(engineer):1	4036(engine):3	4329(fest):1	5873(uncaring):1	5906(attire):1	6347(indifference):1	8164(coincidence):1	8813(prom):1	12957(pleasantry):1	
+35	9(service):1	42(pay):1	44(experience):2	54(door):1	69(tell):1	97(internet):1	136(charge):2	156(reservation):2	208(special):1	240(real):1	244(mention):1	246(mean):1	297(note):1	341(finally):1	382(happen):1	502(honeymoon):4	542(completely):1	571(word):1	766(agent):1	864(discount):1	891(sorry):1	906(story):1	936(garage):2	1136(excite):1	1173(cookie):1	1269(mine):1	1273(win):1	1332(besides):1	1547(apology):1	1725(news):1	1743(married):1	2106(coupon):1	2924(doesn):1	3292(harrah):1	3306(doubletree):1	
+80	3(clean):2	4(nice):2	11(bed):1	13(bathroom):2	20(look):2	28(close):2	29(minute):2	33(trip):1	35(street):1	54(door):3	56(morning):1	57(water):2	61(shower):3	67(call):2	69(tell):2	90(coffee):1	104(sleep):1	113(fine):1	116(tv):1	118(top):2	125(towel):1	126(especially):1	140(deal):2	142(bring):1	148(request):1	165(start):1	172(weekend):1	183(wall):1	193(person):1	210(space):1	219(decide):2	220(busy):1	229(table):1	240(real):1	243(king):1	283(half):1	292(card):1	297(note):1	322(recently):1	323(dirty):1	341(finally):1	377(hand):1	416(loud):1	440(furniture):1	457(valet):1	541(appear):1	543(Queen):1	606(sell):2	616(hall):1	686(pressure):1	725(update):1	818(saturday):1	858(pull):1	870(furnishings):1	977(eye):1	1001(counter):1	1128(exception):1	1272(remote):1	1327(wood):1	1404(jump):1	1563(jazz):1	1591(housekeeper):1	1605(tear):1	1829(wasn):1	1916(rack):1	1939(yell):1	2008(slam):1	2128(dresser):1	2186(reward):1	2793(granite):1	3082(br):1	3253(holder):1	3292(harrah):2	3306(doubletree):1	3328(engineer):1	4128(knob):1	4329(fest):1	5575(rag):1	7546(stride):1	7809(smear):1	
+22	28(close):1	29(minute):1	53(arrive):1	54(door):2	66(park):2	85(wait):1	183(wall):1	188(line):1	239(town):1	245(watch):1	334(downtown):1	416(loud):1	457(valet):2	588(orleans):1	738(beyond):1	754(thin):1	1059(themselves):1	1086(shut):1	1399(tight):1	2008(slam):1	2453(acknowledge):1	6678(parker):1	
+4	3(clean):1	5(time):1	8(day):1	1786(lazy):1	
+34	0(staff):3	7(walk):1	26(people):1	29(minute):1	32(check):3	34(feel):1	43(leave):1	67(call):1	68(travel):1	85(wait):1	113(fine):1	156(reservation):1	196(meet):1	252(lunch):1	258(manager):1	339(key):1	371(talk):2	417(anyway):1	422(polite):1	457(valet):1	597(tripadvisor):1	703(learn):1	766(agent):1	821(attitude):2	891(sorry):1	1001(counter):1	1109(result):1	1343(lesson):1	1467(repeat):1	1540(server):1	1856(quote):1	2034(description):1	2461(efficiently):1	6347(indifference):1	
+39	6(breakfast):3	9(service):2	46(free):2	47(eat):1	56(morning):2	63(drink):1	67(call):1	89(offer):1	117(dinner):2	118(top):1	169(sit):1	174(serve):1	203(plus):1	221(plan):1	238(bottle):1	255(store):1	327(glass):1	331(poor):1	341(finally):1	362(juice):1	400(pass):1	412(egg):1	428(customer):1	547(ice):1	550(cook):1	554(wake):1	589(soft):1	639(idea):1	691(downstairs):1	1009(fry):1	1104(orange):1	1106(event):1	1164(form):1	1173(cookie):1	1347(plastic):1	3734(tin):1	4483(pattern):1	6515(crust):1	7231(grit):1	
+0	
+
+<Author>psychdoc1
+<Content>Far below Hilton standard Dirty rooms, unfriendly staff. Lots of thing out of place, crooked light fixtures, etc. Seems to be an inssue with general management of the property. With Do Not Disturb sign on door and late checkout, maid still knocked on door at 9am and asked if I was checking out today?!?!!! Complained to front desk on check out and Jeffrey was not helpful, would not get a manager. He gave me a card and told me that I could call after I left. Emailed manager and no response. Save yourself some money and hassel and stay at another hotel. This hotel is not doing their part to help rebuild the city and should be held acountable.  
+<Date>May 5, 2008
+<Rating>1	1	2	4	1	2	1	1	
+<Aspects>
+12	41(city):1	43(leave):1	67(call):1	69(tell):1	80(money):1	92(help):1	292(card):1	425(save):1	576(yourself):1	593(hold):1	4907(rebuild):1	7295(hassel):1	
+0	
+5	38(lot):1	73(etc):1	157(light):1	1541(fixture):1	5611(crook):1	
+0	
+6	0(staff):1	130(standard):1	323(dirty):1	477(hilton):1	585(below):1	1487(unfriendly):1	
+15	14(helpful):1	31(front):1	32(check):2	36(desk):1	54(door):2	79(late):1	241(complain):1	258(manager):2	300(maid):1	449(sign):1	658(checkout):1	1067(disturb):1	1323(knock):1	1330(response):1	1559(e-mail):1	
+2	214(property):1	525(management):1	
+0	
+
+<Author>concetta2
+<Content>Not your typical Doubletree Hotel From the moment I checked in, I had a feeling this would not be a good experience. The desk staff was curt and unhelpful. This hotel was NOT your typical Doubletree Hotel. I was completely shocked at the condition in which I found my room. It was extremely dusty. The cleanliness of the sheets was questionable at best, though the bed was made. The carpet was worn and filthy. There were dark water marks on the bathroom ceiling. As soon as I touched the towel rack next to the sink, it fell to pieces! The temperature control system in my room was broken, so I was never able to cool off the room. Finally, when I attended a business meeting in the hotel's John Lafitte restaurant, most of the buffet items I sampled were inedible. For example, the biscuits could have been used as weapons. This hotel is under renovation, so I was unable to use the fitness center, though guests could go to the fitness center at the nearby Hilton.  
+<Date>Apr 6, 2008
+<Rating>2	1	1	3	1	2	2	2	
+<Aspects>
+6	110(extremely):1	628(typical):1	954(example):1	2796(dusty):1	2889(biscuit):1	3306(doubletree):1	
+6	32(check):1	34(feel):1	44(experience):1	628(typical):1	670(moment):1	3306(doubletree):1	
+28	11(bed):1	13(bathroom):1	57(water):1	91(guest):1	101(center):2	171(able):1	228(break):1	232(nearby):1	263(condition):1	278(cool):1	396(carpet):1	434(wear):1	459(dark):1	477(hilton):1	479(sheet):1	518(system):1	528(ceiling):1	542(completely):1	687(renovation):1	854(cleanliness):1	865(control):1	882(mark):1	944(temperature):1	983(fitness):2	1206(shock):1	1320(filthy):1	1461(unable):1	3391(questionable):1	
+0	
+0	
+4	0(staff):1	36(desk):1	1618(unhelpful):1	5142(curt):1	
+17	10(restaurant):1	77(buffet):1	125(towel):1	147(business):1	196(meet):1	279(touch):1	341(finally):1	418(soon):1	509(sink):1	519(item):1	587(fall):1	826(attend):1	941(piece):1	1916(rack):1	1960(sample):1	2359(john):1	4265(inedible):1	
+0	
+
+<Author>TxTraveller-7
+<Content>Very Pleasant Stay, Wondeful Location My husband and I enjoyed a two night stay and my brother arrived the day before for a three night stay. We went to spend time with the Iwo Jima Vets group. The hotel was very clean, and we were able to check in around noon, despite the fact that there were several groups there that weekend, and they were quite busy. We could find nothing wrong with our room, except that the bathroom was quite small and you had to close the door to use the vanity, and the toilet sounded like a 747 taking off when it flushed. The beds were very comfortable and the linens new and spotless. The ventilation was great, and the room smelled very fresh. The In room coffee maker was updated and made a great cup of coffee, with plenty of supplies and real half and half cream, not powdered. We had a beautiful view of the pool and courtyard next door, and Harrah's, but could not hear the noise from the street at all. We did get the group rate, which was excellent for what we got, so I can't comment on value - but I would be willing to pay the regular rate for a return stay. The location was fantastic - end of Canal St. across from the RiverWalk Centre and almost on top of Harrah's. One block down from Decatur, and a short walk into the heart of the Quarter. There were plenty of meeting rooms, and plenty of lobby area to chat with the Vets. We had dinner one night at Lafittes, and while a little pricey (which we fully expected) the wait staff was superb and the food was delicious. There is also a stand alone lounge, and a coffee and snack shop, with Starbucks coffee. Free wireless on the first floor was a nice touch, but we were charged twice for the internet in the room, (hooked up 2 laptops) and it was pretty slow, when trying to upload photos. Still, it was a convenience we were willing to pay for. I had a wonderful stay, the entire staff was welcoming, friendly and helpful. The doorman had a cab for us in less than 30 seconds when we asked - and every time I saw a staff member in the lobby or hall, they asked if there was anything they could do. I will definitely be back, and will certainly recommend the DoubleTree New Orleans to friends and family.  
+<Date>Feb 29, 2008
+<Rating>4	4	4	5	4	5	5	3	
+<Aspects>
+8	5(time):1	15(recommend):1	59(definitely):1	64(spend):1	106(family):1	146(friend):1	588(orleans):1	3306(doubletree):1	
+8	21(excellent):1	39(return):1	42(pay):2	78(rate):2	81(value):1	356(comment):1	744(regular):1	925(convenience):1	
+43	4(nice):1	11(bed):1	13(bathroom):1	17(view):1	22(pool):1	24(floor):1	25(comfortable):1	28(close):1	35(street):1	45(beautiful):1	46(free):1	54(door):2	55(lobby):1	76(try):1	94(noise):1	97(internet):1	109(pretty):1	132(hear):1	136(charge):1	158(plenty):2	196(meet):1	197(fresh):1	231(smell):1	279(touch):1	330(toilet):1	337(except):1	347(twice):1	409(sound):1	427(wrong):1	435(courtyard):1	455(slow):1	548(spotless):1	630(linen):1	717(wireless):1	761(photo):1	1111(laptop):1	1619(flush):1	1629(chat):1	2127(vanity):1	2145(hook):1	2667(ventilation):1	3292(harrah):1	8665(upload):1	
+29	1(location):2	2(night):2	3(clean):1	7(walk):1	8(day):1	32(check):1	51(enjoy):1	53(arrive):1	86(fantastic):1	100(bloc):1	101(center):1	105(husband):1	118(top):1	144(short):1	150(pleasant):1	171(able):1	172(weekend):1	220(busy):1	450(heart):1	463(quarter):1	498(despite):1	638(canal):1	655(st):1	1309(noon):1	2010(brother):1	3292(harrah):1	3556(riverwalk):1	5552(wondeful):1	6222(decatur):1	
+0	
+20	0(staff):3	2(night):1	5(time):1	12(friendly):1	14(helpful):1	16(food):1	23(little):1	48(wonderful):1	55(lobby):1	62(expect):1	85(wait):1	117(dinner):1	202(welcome):1	329(entire):1	380(cab):1	407(superb):1	485(delicious):1	546(pricey):1	616(hall):1	998(doorman):1	
+15	49(shop):1	90(coffee):4	158(plenty):1	237(lounge):1	240(real):1	283(half):2	406(snack):1	444(stand):1	725(update):1	800(cup):1	859(supply):1	939(starbucks):1	996(maker):1	1188(cream):1	2834(powder):1	
+0	
+
+<Author>lagniappe34
+<Content>They're Trying, but Lost Cause I was here on business during a very busy weekend in New Orleans. My company booked this hotel for me, despite my forewarning and protest. Problems from start to finish. The hotel required a 3-day minimum stay and pre-charged my card. To its credit, the staff tried very hard, but they were just way too taxed during a very challenging weekend. The hotel is going through a renovation and honestly, the rooms were ok. Fairly renovated and decently new furnishings. I was originally given a room by the elevator and the walls are so thin in the hotel that I heard every single trip the elevators made up and down the building. SO, I moved to the 5th floor. The room I moved to was not nearly as nice as the original one I had, it had not quite been fully renovated yet. It was a corner room, overlooking Harrah's Casino. The noise from the band playing down below continued late into the evening. The sound of the 50's-era industrial-strength toilet flushing in the next room, along with other sounds, kept me the entire night. It was a bad experience and the hotel really wasn't equipped to handle the amount of people it had that particular weekend. Thank goodness the staff was accommodating and allowed me to check out early. To their credit they did the best they could. I have stayed in a number of Doubletree's and this one really didn't reflect the chain's standard.  
+<Date>Feb 24, 2008
+<Rating>1	1	2	5	2	2	3	-1	
+<Aspects>
+16	79(late):1	94(noise):1	130(standard):1	292(card):1	335(numb):1	386(play):1	585(below):1	627(chain):1	659(credit):1	722(require):1	1096(continue):1	1335(band):1	2124(minimum):1	2250(reflect):1	3306(doubletree):1	5311(3-day):1	
+10	26(people):1	44(experience):1	50(bad):1	165(start):1	172(weekend):1	666(amount):1	772(finish):1	884(equip):1	938(particular):1	966(handle):1	
+23	2(night):1	4(nice):1	24(floor):1	123(ok):1	200(corner):1	207(move):2	260(overlook):1	329(entire):1	330(toilet):1	409(sound):2	462(fairly):1	533(renovate):2	538(casino):1	687(renovation):1	839(5th):1	870(furnishings):1	896(nearly):1	1028(honestly):1	1270(original):1	1619(flush):1	3292(harrah):1	4081(era):1	4175(decently):1	
+7	76(try):1	147(business):1	172(weekend):1	220(busy):1	588(orleans):1	596(lose):1	943(cause):1	
+0	
+12	0(staff):2	32(check):1	162(hard):1	172(weekend):1	253(tried):1	271(thank):1	359(allow):1	624(accommodate):1	659(credit):1	798(tax):1	1708(challenge):1	2302(goodness):1	
+13	18(book):1	33(trip):1	132(hear):1	135(build):1	183(wall):1	216(elevator):2	304(single):1	498(despite):1	754(thin):1	760(company):1	1300(originally):1	4083(forewarn):1	5441(protest):1	
+0	
+
+<Author>idontwantone
+<Content>I would chose another if I were you. I stayed at the double tree for Mardi Gras. I received horrible service. They would not validate my parking, which I was told they would do when I booked the hotel, when I checked in, and two hours before checked out. So I had to pay $64 for parking when it should have been $30. They said they ran out of stickers. Also we had to wear an arm band all weekend. Mine however was riped off on my second night there by a rowdy mardi gras celebrater. When I went back to the hotel they would not let be back in even though the room was in my name and I had ID. I had to pay an extra $25 to get into my own room. When I got home, I called the customer service number and they said sorry but that is to bad. Signed NEVER AGAIN.  
+<Date>Feb 9, 2008
+<Rating>1	1	2	-1	1	-1	-1	-1	
+<Aspects>
+16	2(night):1	149(run):1	167(choose):1	172(weekend):1	179(double):1	434(wear):1	449(sign):1	828(tree):1	1269(mine):1	1335(band):1	1726(arm):1	2925(gras):2	3106(mardi):2	3631(rowdy):1	5522(sticker):1	7683(ripe):1	
+4	42(pay):2	66(park):1	128(extra):1	166(own):1	
+2	295(name):1	2584(id):1	
+0	
+0	
+0	
+15	9(service):2	18(book):1	32(check):2	50(bad):1	60(hour):1	66(park):1	67(call):1	69(tell):1	141(home):1	302(receive):1	335(numb):1	428(customer):1	544(horrible):1	891(sorry):1	5275(validate):1	
+0	
+
+<Author>David50
+<Content>Bad hotel I stay in hotels 10-20 times a year and believe me, I saw bad hotels - this one gave me the worst experience I ever had!!!We reserved two none smoking rooms and when we arrive at 4 PM (check in is 3 PM) we waited 30 min in line to hear that the rooms are not available beside one smoking room. They asked us to wait 30 min and after I insists they took my phone # to call me when the rooms are available. Of course they didn't call. After few times that I checked with them, the person in the front desk made me stay in line again for another 30 min, at this point one of the guys in my party asked to see the manager but she refused to talk with us. I only was able to get her attention with the help of the bell boy which was the only normal person in the hotel.Eventualy after many hours, we got the rooms.They gave us bracelets like we're pets or something and said that we will not be able to enter the hotel without it (keys anyone?), when we lost one they charged us $25-totaly rip off.The rooms were dirty and one of them was a smoking room, when we called to change the room the lady (sure) was so rude and told us we can cancel the reservation and go!!! I sure would do so if I could find an hotel during the mardi gras.Some of the stories for other guests during the hours we waited to the rooms:* One person had a reservation but they told her no rooms are available and I guess you can't stay with us* Other person got two beds and came to ask for the one bed, they asked him to wait and left for a back room, after 15 min he gave up (will not repeat the word he said) and just left.* One lady told the she's going to complain on the bad service and rudeness, she been told please do, I don't care.* A couple asked to move from none smoking two beds to smoking but been told no rooms available (remember that I got a smoking room which I didn't want).- I have many more of those...In the morning the toilet in one of ours room flooded and we could not use it for the whole day due to the slow service, seems others in the same floor had the same problem.They used the toilet in our room as no one dare to use the one in the lobby, no time to clean it I guess.In the bar, when we asked for a coctail it tasted like orange juice, we had too many issues with this hotel and didn't had the energy to start a new one so just gave up, however another person (not from our party) explained them that he's not an idiot and they better put the alchohol in his drink...Last day when we asked for late checkout, which I think we deserve due to the nightmare in this hotel we got an answer NO, of course we didn't even dare to continue the conversation.To make it clear, they were rude to most people I heard. The hotel stuff have no manners, and probably no education at all- including and especialy the manager. The bell boy was the only helpfull person in this hotel.Hilton family my a.., you need to send the front desk stuff home, they are not qualify to work with people.Keep away from this hotel.  
+<Date>Feb 9, 2008
+<Rating>1	1	1	4	1	1	1	-1	
+<Aspects>
+21	26(people):1	67(call):1	92(help):1	106(family):1	132(hear):1	171(able):2	193(person):2	293(course):1	339(key):1	392(rude):1	477(hilton):1	601(enter):1	726(attention):1	801(bell):2	878(normal):1	881(boy):2	1478(helpfull):1	2477(pet):1	2925(gras):1	2960(bracelet):1	3106(mardi):1	
+4	5(time):1	44(experience):1	50(bad):3	312(believe):1	
+35	3(clean):1	5(time):1	8(day):1	9(service):1	11(bed):3	24(floor):1	43(leave):2	55(lobby):1	56(morning):1	60(hour):2	67(call):1	69(tell):2	85(wait):3	91(guest):1	99(couple):1	134(available):3	156(reservation):1	193(person):2	207(move):1	247(min):2	259(due):1	296(phone):1	330(toilet):2	375(remember):1	455(slow):1	468(smoke):3	469(guess):2	571(word):1	573(none):1	843(ours):1	906(story):1	1467(repeat):1	1495(insist):1	1927(flood):1	3275(dare):1	
+0	
+9	67(call):1	69(tell):1	156(reservation):1	161(change):1	323(dirty):1	392(rude):1	468(smoke):1	521(lady):1	1065(cancel):1	
+34	5(time):1	26(people):1	31(front):2	32(check):2	36(desk):2	53(arrive):1	71(include):1	85(wait):1	132(hear):1	134(available):1	136(charge):1	141(home):1	178(probably):1	188(line):2	193(person):1	247(min):2	258(manager):2	363(party):1	368(guy):1	371(talk):1	393(pm):2	447(send):1	468(smoke):2	480(stuff):2	506(reserve):1	573(none):1	596(lose):1	1103(refuse):1	1182(rip):1	1350(beside):1	1721(manner):1	5315(qualify):1	7857(education):1	8740(especialy):1	
+33	8(day):1	9(service):1	27(bar):1	50(bad):1	63(drink):1	69(tell):2	79(late):1	165(start):1	173(please):1	193(person):1	241(complain):1	242(care):1	259(due):1	265(issue):1	293(course):1	362(juice):1	363(party):1	439(taste):1	521(lady):1	658(checkout):1	669(answer):1	768(explain):1	1072(deserve):1	1096(continue):1	1104(orange):1	1281(conversation):1	1534(nightmare):1	2139(energy):1	3275(dare):1	3647(rudeness):1	4789(idiot):1	10419(coctail):1	11152(alchohol):1	
+0	
+
+<Author>StephS05
+<Content>The most awful exprience I have ever had!!!!!! First I was there during Marti gras, which I expected to be very crowed and to pay a lot for even a decent hotel. I called a head of time to tell them I would be coming in late on Friday night at around 7 o'clock and nobody said a word about the fact that I would not be able to drive to the hotel until about 1:00 am because of the parade traffic. I had to park my car on the street far from the hotel and go out from my car and pick it back up off the street at about 5:30 am in order to be able to get to the hotel. After arriving at the hotel they informed me that they had bracelets for us to wear in order to walk into the hotel, which I had specifically asked them about when I called and they had said no. Which was annoying, because my friends fell off and they made her pay $25 in order to get one put back on, if she didn鈥檛 get one put back on then she would not have been able to come to the room! I was also told on several occasions that my parking would be validated and instead of 30 dollars a night we would only have to pay 10 dollars a night. However when it cam time to check out and get this validation I was told they ran out of stickers and they could not validate the parking, and there was nothing they or I could do about it! I even called up customer service and complained about this and they said too bad, there is nothing we can do, even after I informed them that I had been told on at least 2 occasions that I had been told not to worry I would get my parking validated. After all this I then come home to find that they have charged my card 3 different times and that I am now paying 3 times as much as I had been told. When I tried to call to get this figured out they informed me that nobody could help me because of the fat Tuesday holiday!!! This was the worst experience I have ever had with a hotel and I will never stay at a Hilton family hotel again!! Not to mention the rooms were small, smelly, and the bathroom was gross!  
+<Date>Feb 5, 2008
+<Rating>1	1	2	4	3	1	1	-1	
+<Aspects>
+1	736(awful):1	
+26	2(night):2	5(time):2	38(lot):1	42(pay):4	44(experience):1	50(bad):1	62(expect):1	66(park):1	69(tell):2	106(family):1	136(charge):1	141(home):1	146(friend):1	171(able):1	257(decent):1	292(card):1	353(instead):1	430(dollar):2	477(hilton):1	587(fall):1	695(annoy):1	871(occasion):1	1022(didn):1	2925(gras):1	4579(crow):1	5275(validate):1	
+4	13(bathroom):1	244(mention):1	1697(smelly):1	1797(gross):1	
+28	2(night):1	5(time):2	7(walk):1	32(check):1	35(street):2	53(arrive):1	66(park):2	67(call):2	69(tell):2	79(late):1	121(car):2	149(run):1	171(able):2	266(pick):1	298(drive):1	319(head):1	434(wear):1	486(traffic):1	571(word):1	817(inform):1	923(friday):1	1810(specifically):1	2960(bracelet):1	3001(parade):1	3898(o'clock):1	5275(validate):1	5522(sticker):1	10294(cam):1	
+0	
+8	67(call):1	92(help):1	223(holiday):1	253(tried):1	779(figure):1	817(inform):1	2485(tuesday):1	3581(fat):1	
+11	9(service):1	50(bad):1	66(park):1	67(call):1	69(tell):2	241(complain):1	428(customer):1	817(inform):1	831(worry):1	871(occasion):1	5275(validate):1	
+0	
+
+<Author>crewmom
+<Content>Great Location-OK Hotel We stayed at the Doubletree for the OSU/LSU Nat. championship game weekend. Location of the hotel is great. Easy walking distance to everything that we wanted to do.Our room had one queen bed and was very small. There was no desk--only an armoire with TV and a very small table with two chairs in the corner. It was a very non-user friendly room. It had a connecting door with the room next door and we could hear every sound they made. The bathroom was also extremely small and the counter was very low (as mentioned by a previous poster). I couldn't tell if our room had been remodeled or not--the furnishings were just OK and the thermostat knob was broken. The clock radio was broken also and I had to request another one. I thought the furnishings looked pretty shabby.I did eat lunch at Lafitte's (the temporary location of the dining room) and the food was very good.On a more positive note, all of the employees (housekeeping, front desk, restaurant staff and bellmen) could not have been more pleasant or helpful.I would recommend the Doubletree for a great location for a reasonable price, but don't expect anything that will knock your socks off.  
+<Date>Jan 15, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	172(weekend):1	683(game):1	8059(championship):1	
+8	1(location):1	15(recommend):1	19(price):1	62(expect):1	273(reasonable):1	1323(knock):1	3259(sock):1	3306(doubletree):1	
+36	1(location):1	11(bed):1	12(friendly):1	13(bathroom):1	16(food):1	20(look):1	36(desk):1	47(eat):1	54(door):2	69(tell):1	109(pretty):1	110(extremely):1	116(tv):1	123(ok):1	132(hear):1	198(chair):1	200(corner):1	228(break):1	229(table):1	244(mention):1	252(lunch):1	316(dine):1	373(previous):1	409(sound):1	513(low):1	543(Queen):1	841(connect):1	870(furnishings):2	1001(counter):1	1238(remodel):1	1319(shabby):1	2043(poster):1	2547(thermostat):1	3225(armoire):1	3770(temporary):1	4128(knob):1	
+5	1(location):1	7(walk):1	93(easy):1	115(distance):1	3306(doubletree):1	
+0	
+15	0(staff):1	10(restaurant):1	14(helpful):1	31(front):1	36(desk):1	148(request):1	150(pleasant):1	228(break):1	297(note):1	367(housekeeping):1	458(positive):1	608(employee):1	1105(bellman):1	1291(clock):1	1816(radio):1	
+0	
+0	
+
+<Author>2Minnesotans
+<Content>Doubletree was a great choice Our family was en route to a cruise, and we stayed overnight in three rooms at the Doubltetree on December 22. I was somewhat apprehensive given some other negative reviews on TripAdvisor. However, our experience was wonderful. The rooms were all fine, the rates were great (about $100 a night), and the location is perfect - just a block or two from French quarter, and we actually walked our luggage to the cruise ship port (I wouldn't recommend that unless you are all in good shape, but if you are, go for it!)The hotel staff were very friendly and accomodating, and the chocolate chip cookies were there waiting for us upon arrival.Altogether, a great experience!  
+<Date>Jan 1, 2008
+<Rating>4	5	4	5	4	5	4	-1	
+<Aspects>
+5	37(review):1	282(negative):1	597(tripadvisor):1	651(somewhat):1	2129(apprehensive):1	
+11	44(experience):2	48(wonderful):1	106(family):1	107(choice):1	603(cruise):1	993(december):1	1035(route):1	1171(overnight):1	2065(en):1	3097(altogether):1	3306(doubletree):1	
+0	
+17	1(location):1	2(night):1	7(walk):1	15(recommend):1	74(perfect):1	78(rate):1	100(bloc):1	113(fine):1	180(actually):1	249(luggage):1	254(french):1	405(unless):1	463(quarter):1	603(cruise):1	1226(shape):1	1288(port):1	1392(ship):1	
+0	
+8	0(staff):1	12(friendly):1	85(wait):1	224(arrival):1	549(accomodate):1	632(chocolate):1	1173(cookie):1	1302(chip):1	
+0	
+0	
+
+<Author>flash2001
+<Content>A Great Hotel! I had originally called Harrah's hotel to take them up on a free two-night stay in New Orleans, since I had tickets for the Saints-Eagles game at the Dome on Dec. 23. The Harrah's operator was very kind when she informed me Harrah's was full but a room was available for me at Doubletree.(It's right across the street from Harrah's Casino). I agreed and my weekend in the Big Easy was set. Check in was smooth and uneventful. I discovered free parking at Harrah's parking facility (you only need to play slots for 30 minutes to get parking validated, then don't move your car until you're ready to leave). Sweet. The room was spacious and well-appointed. Quiet too for this time of year. I saw no signs of renovation, everything looked fresh and new. I would definitely stay here again.  
+<Date>Dec 30, 2007
+<Rating>5	5	5	5	5	5	3	5	
+<Aspects>
+16	46(free):1	59(definitely):1	67(call):1	93(easy):1	172(weekend):1	234(set):1	473(agree):1	588(orleans):1	621(ticket):1	683(game):1	950(sweet):1	1300(originally):1	1508(dec):1	3292(harrah):1	3720(dome):1	6866(two-night):1	
+0	
+13	5(time):1	20(look):1	58(quiet):1	111(spacious):1	134(available):1	197(fresh):1	449(sign):1	687(renovation):1	817(inform):1	2167(operator):1	2440(well-appoint):1	3292(harrah):2	3306(doubletree):1	
+15	29(minute):1	35(street):1	43(leave):1	46(free):1	66(park):3	121(car):1	207(move):1	211(facility):1	274(ready):1	386(play):1	538(casino):1	869(discover):1	1877(slot):1	3292(harrah):2	5275(validate):1	
+0	
+3	32(check):1	1400(smooth):1	4922(uneventful):1	
+0	
+0	
+
+<Author>EyeDocBrazil
+<Content>They must buy new uniforms to the reception people We were here for a medical congress and I was astonished to see how unprofissionally runned is the hotel ; too little personal at the reception to manage all the guests; the operator can take one minute to answer your call or just not answer at all even after many tries.We got a room that was painted days or maybe hours before our arrival; they were not absolutely concerned about allergic people or guest comfort.The reception people is wearing shabby attires that would fit nicely to a one star hotel.They seem to be overloaded with work to a point that you feel guilty to ask them something.I have the impression that this hotel or even this chain is ruled by the motto:Profit rules.Well situaded property mostly if you wish to lose some bucks at the Harra`s casino across the street.  
+<Date>Nov 11, 2007
+<Rating>3	3	3	4	4	1	2	-1	
+<Aspects>
+8	34(feel):1	627(chain):1	848(impression):1	1835(rule):2	5479(guilty):1	6331(profit):1	7536(motto):1	7630(overload):1	
+8	26(people):1	103(star):1	129(reception):1	404(nicely):1	434(wear):1	668(fit):1	1319(shabby):1	5906(attire):1	
+11	8(day):1	26(people):1	60(hour):1	91(guest):1	189(absolutely):1	224(arrival):1	308(maybe):1	496(concern):1	702(comfort):1	806(paint):1	4433(allergic):1	
+22	23(little):1	26(people):1	29(minute):1	35(street):1	67(call):1	76(try):1	91(guest):1	129(reception):2	214(property):1	280(buy):1	384(wish):1	538(casino):1	596(lose):1	645(manage):1	669(answer):2	711(personal):1	1120(buck):1	2167(operator):1	2408(medical):1	4860(uniform):1	5410(astonish):1	8111(congress):1	
+0	
+0	
+0	
+0	
+
+<Author>scsokrboi
+<Content>Location and comped !!!! We were back to New Orleans for Halloween weekend Oct 26th-Oct 30th and stayed at the Doubletree hotel on Canal Street. Our stay was comped by Harrahs. The hotel is undergoing a huge, well overdue renovation (this is the only reason I am giving this hotel a 3 instead of a 2). We arrived at 12 noon on Thursday and were given a room right a way. The check-in was very smooth and the elevators were fast at all times.The entire hotel from the lobby, hallways and the room decor is something out of the early 80s. Everything looked very worn.Our room was on the 10th floor and faced Harrah's casino (subtle Harrahs). The door was very sticky and there was a huge ugly brown heater / air conditioner in the ceiling as you walked in - by the way, the heat didn't work until we called and someone to come up to repair it. The room was very small and the bathroom was TINY - one person only. The sink in the bathroom was so low the top of the counter hit me mid-thigh. The carpet in the room was peeling back on one wall and smelled musty.All of the staff were friendly, but the cookies that are always available - well, they were never available after check -in. On the good side -the location is great. We decided that it was a good place to stay if Harrahs comped it, an OK place if you payed 30.00 a night; however, the rate was 135.00 a night that weekend if you got it through Hotels.com. I would have been very upset if I had payed that much for this quality of a hotel.  
+<Date>Nov 3, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	20(look):1	434(wear):1	2942(comp):1	5751(harrahs):1	
+11	2(night):2	42(pay):2	78(rate):1	123(ok):1	172(weekend):1	187(quality):1	219(decide):1	1220(upset):1	2942(comp):1	3056(hotels.com):1	5751(harrahs):1	
+45	7(walk):1	13(bathroom):2	24(floor):1	53(arrive):1	54(door):1	55(lobby):1	67(call):1	118(top):1	133(huge):2	164(air):1	183(wall):1	193(person):1	231(smell):1	269(decor):1	329(entire):1	338(tiny):1	353(instead):1	374(reason):1	396(carpet):1	509(sink):1	513(low):1	528(ceiling):1	538(casino):1	539(heat):1	580(hallway):1	687(renovation):1	775(hit):1	1001(counter):1	1016(musty):1	1083(conditioner):1	1309(noon):1	1398(repair):1	1592(10th):1	1667(brown):1	1823(thursday):1	1872(ugly):1	1887(peel):1	2086(undergo):1	2361(heater):1	3292(harrah):1	3447(sticky):1	5456(subtle):1	5751(harrahs):1	6445(overdue):1	9735(80s):1	
+10	1(location):2	35(street):1	172(weekend):1	588(orleans):1	638(canal):1	1851(oct):1	2035(30th):1	2942(comp):1	3306(doubletree):1	5445(halloween):1	
+0	
+10	0(staff):1	5(time):1	12(friendly):1	32(check):1	134(available):2	216(elevator):1	286(check-in):1	499(fast):1	1173(cookie):1	1400(smooth):1	
+0	
+0	
+
+<Author>valrem
+<Content>very convenient A pre and post cruise stay 10/11/07 and 10/15/07Hotel is very convenient to all sight seeing. Close to the casinoand french quarter.Hotel staff were friendly and pleasant to work with.Rooms were nice, clean and comfortable. There is some hotel noise due to renovations. Enjoyable stay.  
+<Date>Oct 18, 2007
+<Rating>4	5	4	5	4	4	4	4	
+<Aspects>
+6	186(convenient):2	411(sight):1	567(enjoyable):1	603(cruise):1	644(post):1	2422(pre):1	
+0	
+6	3(clean):1	4(nice):1	25(comfortable):1	94(noise):1	259(due):1	687(renovation):1	
+3	28(close):1	254(french):1	463(quarter):1	
+0	
+3	0(staff):1	12(friendly):1	150(pleasant):1	
+0	
+0	
+
+<Author>IrishFan
+<Content>Very Friendly Staff in a "Just ok" Property I just had a one-night stay here. Overall there is nothing horrible about the hotel, but it is in need of a renovation (which the hotel staff kept mentioning was happening at every chance.)Speaking of the staff, without exception everyone was very nice there. Very attentive, friendly, greeting guests as they came in the door in the evening. The room was comfortable enough, very clean. Bathroom is tiny and needs whatever renovation that's going to happen...As a HiltonHonors member I rec'd turn down service, a nice praline and 3 bottles of water left in the room, as well as a free buffet breakfast and a drink coupon for the bar. The buffet was very good, surprisingly so, with lots of choices and everything fresh. The bar is a rather depressing space off the lobby (put SOMETHING up on the walls, please!) and doesn't invite a lingering stay. Of course if you're going to New Orleans to drink there are a few other options there!Pool area looked great and was virtually empty. Actually, on a Thursday night in August the entire hotel seemed very quiet.And I'll finish on a down note. I had absolutely no problem with my stay, except when I returned to my room to pack up and check out the room had developed an odor. Wasn't there the night before or that morning. Another review mentioned a chemical smell. I actually thought my room smelled a bit of...a sewage problem. You could hear the crews doing the renovation, banging away (after 9:00 a.m.) and maybe this had something to do with the odor. It was odd enough, and strong enough, that had it been present the night before I would have changed rooms...or changed hotels!So be aware, and maybe wait until the renovation is complete before staying here. I mentioned the odor at checkout and the desk clerk didn't really react, assuring me that it was probably the vents because we're renovating.  
+<Date>Aug 7, 2007
+<Rating>3	4	4	5	4	5	5	-1	
+<Aspects>
+15	2(night):1	12(friendly):1	20(look):1	22(pool):1	54(door):1	56(morning):1	91(guest):1	297(note):1	415(greet):1	537(attentive):1	772(finish):1	810(empty):1	1210(invite):1	1892(virtually):1	4124(linger):1	
+0	
+34	0(staff):1	2(night):2	3(clean):1	25(comfortable):1	32(check):1	39(return):1	52(bit):1	58(quiet):1	70(overall):1	85(wait):1	132(hear):1	161(change):2	180(actually):2	189(absolutely):1	231(smell):1	244(mention):1	308(maybe):2	329(entire):1	337(except):1	382(happen):1	544(horrible):1	622(complete):1	687(renovation):3	689(chance):1	715(pack):1	832(aware):1	893(strong):1	1088(odd):1	1401(bang):1	1628(odor):2	1654(crew):1	1823(thursday):1	2880(develop):1	3237(sewage):1	
+0	
+4	37(review):1	231(smell):1	244(mention):1	4744(chemical):1	
+18	0(staff):2	4(nice):1	12(friendly):1	36(desk):1	123(ok):1	127(speak):1	178(probably):1	214(property):1	244(mention):1	533(renovate):1	658(checkout):1	788(clerk):1	1128(exception):1	1349(assure):1	1628(odor):1	2344(vent):1	4991(one-night):1	6209(react):1	
+30	4(nice):1	6(breakfast):1	9(service):1	13(bathroom):1	27(bar):2	38(lot):1	43(leave):1	46(free):1	55(lobby):1	57(water):1	63(drink):2	77(buffet):2	107(choice):1	173(please):1	183(wall):1	197(fresh):1	210(space):1	238(bottle):1	293(course):1	336(option):1	338(tiny):1	382(happen):1	588(orleans):1	687(renovation):1	937(whatever):1	1375(surprisingly):1	2106(coupon):1	2189(depress):1	6750(rec):1	12791(praline):1	
+0	
+
+<Author>gulf07
+<Content>Great Hotel Would Stay Again Great Hotel very convenient to ever thing in the French quarter.Parked our car upon our arrival never had to drive again.Staff was very friendly and helpful.I look forward to staying here again..  
+<Date>Jun 4, 2007
+<Rating>5	5	4	5	5	5	5	4	
+<Aspects>
+5	20(look):1	186(convenient):1	254(french):1	463(quarter):1	750(forward):1	
+0	
+0	
+4	66(park):1	121(car):1	224(arrival):1	298(drive):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>S_N_B
+<Content>Great Location! We were able to walk to everything that we wanted to do and see, the casino, the aquarium, bourbon street to name a few. The hotel was a bit pricey considering I could have stayed at the Country Inn for $100 a night, but location was my main priority due to the fact that I was travelling with three elderly ladies that like staying at the casino until wee hours in the morning. So it made me feel alot better knowing that we were right across the street from the entrance to the casino. We had no problems with the hotel or staff, thier was one staff member particularly that went above and beyond for us. Jake the bellman, at least I think he was a bellman, he spent so much time helping us I'm not sure what his actual job was. But he was a great help to us. We ate breakfast at the hotel our last morning there, wish we would have tried it sooner the food was very good. We also attempted to have dinner at Mothers which is in walking distance from the hotel. The food was terrible, our plates were just as full when we left as they were when we got them. We went to the casino and got a hotdog. Overall our stay at this hotel was good, no complaints and I would definitley stay again.  
+<Date>Jun 3, 2007
+<Rating>4	3	3	5	4	3	4	-1	
+<Aspects>
+6	70(overall):1	92(help):1	190(complaint):1	538(casino):1	3783(definitley):1	9532(hotdog):1	
+17	1(location):1	2(night):1	52(bit):1	56(morning):1	60(hour):1	68(travel):1	112(main):1	248(consider):1	259(due):1	324(inn):1	521(lady):1	530(country):1	538(casino):1	546(pricey):1	1985(priority):1	2310(wee):1	2784(elderly):1	
+0	
+15	1(location):1	7(walk):2	34(feel):1	35(street):2	115(distance):1	117(dinner):1	171(able):1	295(name):1	490(entrance):1	538(casino):2	647(alot):1	1038(bourbon):1	1119(attempt):1	1359(mother):1	2157(aquarium):1	
+0	
+10	0(staff):2	5(time):1	64(spend):1	92(help):1	481(job):1	553(particularly):1	738(beyond):1	1105(bellman):2	1536(actual):1	3018(thier):1	
+10	6(breakfast):1	16(food):2	43(leave):1	47(eat):1	56(morning):1	253(tried):1	384(wish):1	418(soon):1	432(terrible):1	1002(plate):1	
+0	
+
+<Author>lotus5
+<Content>Great location, property is above average. Our company decided to hold our 5 day convention here and I'm happy with the overall experience. The charges for phone and internet use and parking is a bit crazy but you have the choice.Lunch buffet was limited selections but enjoyable.Can't imagine a better central location. No need to rent a car.Easy walking to everywhere in the French Quarter. Shopping, Riverwalk, Harrah's Casino, restaurants. Considering it all, a nice place to stay if you're not the type to look for things to complain about. Reasonable service and clean enough. Request a river view room as high up as possible. Shop online or call the hotel direct to book. Good value for around $100 a night.  
+<Date>May 31, 2007
+<Rating>4	4	3	5	3	3	3	3	
+<Aspects>
+7	4(nice):1	20(look):1	121(car):1	241(complain):1	248(consider):1	389(type):1	1030(rend):1	
+17	2(night):1	8(day):1	44(experience):1	52(bit):1	66(park):1	70(overall):1	81(value):1	97(internet):1	107(choice):1	136(charge):1	155(happy):1	219(decide):1	296(phone):1	593(hold):1	760(company):1	1048(convention):1	1259(crazy):1	
+3	17(view):1	148(request):1	710(river):1	
+18	1(location):2	7(walk):1	10(restaurant):1	18(book):1	49(shop):2	67(call):1	93(easy):1	168(central):1	214(property):1	227(average):1	254(french):1	463(quarter):1	538(casino):1	733(imagine):1	803(direct):1	822(online):1	3292(harrah):1	3556(riverwalk):1	
+3	3(clean):1	9(service):1	273(reasonable):1	
+0	
+5	77(buffet):1	252(lunch):1	333(selection):1	510(limit):1	567(enjoyable):1	
+0	
+
+<Author>yes2travel
+<Content>Could do better with the rates that are charged. Stayed at the Doubletree the last week of February 2007 for 4 nights. I have Hilton Gold status and was shown to a room right on my arrival at 10 am. Great! The lobby area was attractive. The bed was comfortable. That's about the most I can say for the hotel. The room I was assigned had an extremely worn out carpet, there was dirt and hair in corners of the floor and bathroom, the windows were dirty, wallpaper was peeling away and the room smelled very damp. At $289 a night I expected something much much better! This is the sort of room I'd expect at a highway motel for 60$. Since I have Hilton Gold and received this sort of room it made me wonder what the people without Hilton status were given. I asked to be switched, but was told the hotel was full (big convention in town). The room had two (not one) connecting interior doors to adjacent rooms on each wall.....and one of those two doors was actually a double sized french style door.....so needless to say I could hear the miniscule details of everyone's conversation...from the girls deciding what they should wear out on the town to what deal the business man was about to sign. On the second night I returned at midnight to hear one of the other rooms TV blaring full blast. I called the front desk and after the phone rang about 20 times it was finally picked up. They did call the room next door and requested they turn down the TV, which the person kindly did. I asked again to switch to a new room in the morning and was told it could be accommodated and someone would contact me the following day, however that never happened. By this point I had resigned myself to the situation and knew my voice would be heard in that I would not stay there again on future business trips.I feel that some of these problems are probably due to post Katrina issues around staffing etc., and I want to be sympathetic to the situation in New Orleans. However, Hilton did charge me nearly 300$ a night for the room. Sympathy is quickly lost when exorbiant rates are charged. I think Hilton needs to put corporate committment to maintaining their standards at this hotel.  
+<Date>Mar 5, 2007
+<Rating>2	1	2	5	1	4	3	3	
+<Aspects>
+9	2(night):2	62(expect):1	69(tell):1	75(week):1	239(town):1	888(switch):1	1048(convention):1	1230(february):1	3306(doubletree):1	
+8	8(day):1	56(morning):1	69(tell):1	382(happen):1	482(follow):1	624(accommodate):1	713(contact):1	888(switch):1	
+61	2(night):2	11(bed):1	13(bathroom):1	24(floor):1	25(comfortable):1	26(people):1	39(return):1	54(door):4	62(expect):1	67(call):1	83(size):1	110(extremely):1	116(tv):2	119(window):1	132(hear):2	136(charge):1	140(deal):1	147(business):1	148(request):1	179(double):1	180(actually):1	183(wall):1	193(person):1	200(corner):1	219(decide):1	224(arrival):1	231(smell):1	239(town):1	254(french):1	302(receive):1	323(dirty):1	326(style):1	396(carpet):1	434(wear):2	449(sign):1	477(hilton):4	557(sort):2	592(detail):1	625(girl):1	729(hair):1	841(connect):1	896(nearly):1	946(wonder):1	991(motel):1	1026(interior):1	1044(midnight):1	1061(adjacent):1	1279(blast):1	1281(conversation):1	1356(needless):1	1571(gold):2	1640(damp):1	1722(assign):1	1870(highway):1	1887(peel):1	2004(dirt):1	2093(wallpaper):1	2444(status):2	2509(kindly):1	4306(blare):1	5317(miniscule):1	
+7	33(trip):1	132(hear):1	147(business):1	732(future):1	890(situation):1	2264(voice):1	10394(resign):1	
+5	130(standard):1	477(hilton):1	562(maintain):1	1802(corporate):1	12365(committment):1	
+24	0(staff):1	5(time):1	31(front):1	34(feel):1	36(desk):1	67(call):1	73(etc):1	78(rate):2	136(charge):2	178(probably):1	259(due):1	265(issue):1	266(pick):1	296(phone):1	341(finally):1	471(quickly):1	588(orleans):1	596(lose):1	644(post):1	890(situation):1	1150(ring):1	2676(katrina):1	5090(sympathetic):1	7906(sympathy):1	
+2	55(lobby):1	1154(attractive):1	
+0	
+
+<Author>waynelaw78
+<Content>Satisfactory, but with drawbacks Just returned from a three night convention stay at the Doubletree. This property is certainly acceptable, has some real positives, but negatives as well.Positives: Clearly location is the big plus. Right on Canal Street, central to both the convention center, the French Quarter, and the Warehouse District; across the street from the casino. It's an easy walk to almost anywhere. And just one block from Mother's restaurant!Housekeeping was excellent. My room was well-cleaned and had no odor problems as described in previous reviews. Furnishings were fine. Did not seem worn or tattered to me. Did not have a noise issue except doors slamming - typical of many hotels.Negatives: Staff was pleasant and responsive, but didn't seem to go the extra mile. Sort of indifferent. I am a Gold Honors member and it took me about 15 minutes to check in. Seemed that all hotels and restaurants were struggling with issues of getting help. Rooms and bathrooms are very much on the small side. Breakfast buffet was limited and only so-so.I would stay here again, but would want a really good rate if I did, mostly due to room size. Other hotels with similar rates have larger rooms. But location makes up for this a little.  
+<Date>Mar 5, 2007
+<Rating>3	3	2	5	4	2	2	3	
+<Aspects>
+16	2(night):1	39(return):1	54(door):1	94(noise):1	265(issue):1	337(except):1	434(wear):1	557(sort):1	628(typical):1	1048(convention):1	1344(drawback):1	2008(slam):1	2059(satisfactory):1	2481(indifferent):1	3306(doubletree):1	7820(tattere):1	
+0	
+23	13(bathroom):1	21(excellent):1	35(street):2	37(review):1	78(rate):2	83(size):1	101(center):1	113(fine):1	168(central):1	254(french):1	259(due):1	367(housekeeping):1	373(previous):1	433(district):1	463(quarter):1	538(casino):1	638(canal):1	870(furnishings):1	874(similar):1	955(describe):1	1048(convention):1	1628(odor):1	3955(warehouse):1	
+6	1(location):2	7(walk):1	23(little):1	93(easy):1	203(plus):1	458(positive):1	
+0	
+10	0(staff):1	29(minute):1	32(check):1	128(extra):1	150(pleasant):1	282(negative):1	692(mile):1	1376(honor):1	1571(gold):1	2351(responsive):1	
+15	6(breakfast):1	10(restaurant):2	77(buffet):1	92(help):1	100(bloc):1	214(property):1	240(real):1	265(issue):1	282(negative):1	458(positive):1	510(limit):1	1214(acceptable):1	1359(mother):1	1883(so-so):1	1979(struggle):1	
+0	
+
+<Author>Trippin'Fool
+<Content>No Good Times Rolling Here... I just returned from a convention in New Orleans and an ill-fated stay at this property. I can't believe the DoubleTree lets this property fly their flag. It is truly a low point on the Hilton Family of properties.Upon check-in, we were told there were no cookies available. There were no cookies EVER available during our stay. The rooms are worn and tired; the walls thin. The bathroom was tiny and the water pressure weak. The hot water did not last longer than five minutes. The staff serviced the room, but never emptied the trash. My roommate locked herself out of the room and had a male-friend go to the front desk and get a key to my room---without having to show any id!!!!! Yeah, that's safe. The rooms smell musty; the front desk help is anything BUT helpful.We lasted two nights and gave up and moved over to the Loew's for the remainder of our trip. THAT is a great hotel!  
+<Date>Jan 24, 2007
+<Rating>1	1	2	2	2	1	2	2	
+<Aspects>
+11	2(night):1	29(minute):1	33(trip):1	57(water):1	114(hot):1	134(available):1	137(safe):1	207(move):1	1173(cookie):1	2009(yeah):1	3123(remainder):1	
+0	
+13	0(staff):1	9(service):1	13(bathroom):1	57(water):1	183(wall):1	338(tiny):1	434(wear):1	454(tire):1	686(pressure):1	754(thin):1	810(empty):1	1770(weak):1	1793(trash):1	
+0	
+0	
+14	14(helpful):1	31(front):2	36(desk):2	69(tell):1	92(help):1	134(available):1	231(smell):1	286(check-in):1	339(key):1	774(lock):1	1016(musty):1	1173(cookie):1	2584(id):1	6179(roommate):1	
+14	5(time):1	39(return):1	106(family):1	214(property):3	312(believe):1	476(truly):1	477(hilton):1	513(low):1	588(orleans):1	614(fly):1	813(roll):1	1048(convention):1	2290(flag):1	3306(doubletree):1	
+0	
+
+<Author>tripperchicago
+<Content>strongly mediocre Passable and relatively convenient. Wake up calls failed three times in a row. You have to bring your own internet cord or buy one at the hotel and THEN you get to pay 9.95 per day for internet usage. Cafe Sweet Dreams is their gift shop. Basic stuff there. Front staff is slow.Cab drivers in NOLA seemed an angry lot. The city is still recovering but there must be better places to stay.  
+<Date>Oct 18, 2006
+<Rating>2	2	2	4	2	2	1	1	
+<Aspects>
+19	5(time):1	38(lot):1	41(city):1	67(call):1	186(convenient):1	352(basic):1	380(cab):1	480(stuff):1	554(wake):1	563(driver):1	913(relatively):1	1340(mediocre):1	1386(strongly):1	1576(fail):1	1638(row):1	2777(nola):1	2830(angry):1	3020(recover):1	4247(passable):1	
+8	8(day):1	42(pay):1	97(internet):2	142(bring):1	166(own):1	280(buy):1	3876(usage):1	4115(cord):1	
+0	
+5	49(shop):1	275(cafe):1	852(gift):1	950(sweet):1	1256(dream):1	
+0	
+3	0(staff):1	31(front):1	455(slow):1	
+0	
+0	
+
+<Author>Steve0296
+<Content>Just ok Stayed here for a convention. It was just ok. The room was clean. My main complaint was the mattress which was much too firm for me - not comfortable at all. I wish bottled water had been available in the room, particularly given New Orleans' infrastructure issues. Tried to eat breakfast at the hotel one morning but there was a long line of people waiting to be seated, so I didn't get to. 3 of 4 elevators were out of service one morning. The staff were nice however, and I did enjoy the cookie.  
+<Date>Oct 6, 2006
+<Rating>3	2	2	3	3	4	3	3	
+<Aspects>
+7	25(comfortable):1	112(main):1	123(ok):2	190(complaint):1	847(mattress):1	1048(convention):1	1368(firm):1	
+0	
+9	3(clean):1	57(water):1	134(available):1	238(bottle):1	265(issue):1	384(wish):1	553(particularly):1	588(orleans):1	6881(infrastructure):1	
+0	
+0	
+12	0(staff):1	4(nice):1	6(breakfast):1	26(people):1	47(eat):1	51(enjoy):1	56(morning):1	85(wait):1	188(line):1	253(tried):1	504(seat):1	1173(cookie):1	
+3	9(service):1	56(morning):1	216(elevator):1	
+0	
+
+<Author>marivi90804
+<Content>Disappointing Visit My husband and I attended the American Psychological Association conference the second week in August of this year. The Doubletree was not our first choice but it was available at the time of our booking. We stayed for five nights. Check in was a breeze. We were assigned a room on the 4th floor. First problem! When we entered the room, it smelled of chemicals! We immediately requested a new room. A bellboy came up within minutes and moved us to the 5th floor. The smell was still there but very faint. The place is in desperate need of renovation. The furniture is old. My husband came home with bedbug bites! Every morning, promptly at 7:00 PM, the crews working on remodeling the pool would start work. Good thing we are early risers because there was no way you could sleep through it. On several occasions, my husband went downstairs to get something from the deli in the lobby. Good luck! Although there was staff there, they were never opened for business. There were two good things about our stay. First, you can't beat the location. It's right across Harrah's and within walking distance of the French Quarter. Getting around from the Doubletree was a breeze. The second best thing about our stay was meeting Jake, the head of the bellhops. He always had a smile on his face and always made a point of saying hello to us. He knows the town well and all his recommendations were great. He really made us feel at home!  
+<Date>Sep 2, 2006
+<Rating>2	3	2	5	3	3	4	-1	
+<Aspects>
+13	2(night):1	34(feel):1	141(home):1	196(meet):1	239(town):1	319(head):1	387(smile):1	577(recommendation):1	799(breeze):1	1055(luck):1	1519(hello):1	3306(doubletree):1	4015(bellhops):1	
+12	5(time):1	18(book):1	22(pool):1	56(morning):1	107(choice):1	134(available):1	165(start):1	393(pm):1	1212(promptly):1	1238(remodel):1	1654(crew):1	3306(doubletree):1	
+25	24(floor):2	29(minute):1	55(lobby):1	104(sleep):1	105(husband):2	141(home):1	148(request):1	207(move):1	231(smell):1	440(furniture):1	489(immediately):1	601(enter):1	687(renovation):1	691(downstairs):1	839(5th):1	845(4th):1	871(occasion):1	1042(bite):1	1722(assign):1	1928(deli):1	2730(desperate):1	3273(bellboy):1	3607(riser):1	4462(bedbug):1	4744(chemical):1	
+16	0(staff):1	1(location):1	7(walk):1	65(visit):1	75(week):1	105(husband):1	115(distance):1	147(business):1	154(disappoint):1	254(french):1	442(beat):1	463(quarter):1	794(conference):1	826(attend):1	3292(harrah):1	7679(association):1	
+2	231(smell):1	3939(faint):1	
+2	32(check):1	799(breeze):1	
+0	
+0	
+
+<Author>ssful
+<Content>The Cookie was good The Doubletree gets alot of gamblers from Harrah's, it isn't a particularly well maintained hotel...could use some updating. it's convenient usually well priced..and the cookie is good..I've found the service to be a bit poor, not rude but not all that adept minor problems...it is at best a two star hotel.  
+<Date>Jul 6, 2006
+<Rating>2	4	2	-1	2	-1	2	-1	
+<Aspects>
+1	1173(cookie):1	
+9	9(service):1	19(price):1	52(bit):1	103(star):1	186(convenient):1	331(poor):1	392(rude):1	399(usually):1	720(minor):1	
+0	
+0	
+8	553(particularly):1	562(maintain):1	647(alot):1	725(update):1	1173(cookie):1	3292(harrah):1	3306(doubletree):1	5865(gambler):1	
+0	
+0	
+0	
+
+<Author>Travelinto25Cities
+<Content>Still recovering and needs updating The entire New Orleans area is recovering from Hurricane Katrina. The hotel was OK but under the circumstances, I was impressed by everyone's attitude. The staffing is a little low right now and their occupancy appeared very low. The staff had a good attitude and they were generous with freebies (Hilton Honors status members) while we were there. The food/drink was fair. The hotel is a little dated, it needs to be refurbished. On the plus side, it is across the street from Harrah's Casino and within walking distance of the French Quarter (also recovering), a mall and River Walk. You won't be raving about this place when you leave but it is adequate for a night or two. Most of all, you'll leave this town with a sense of awe as the people who are there are part of an unprecendented rebuilding effort. I don't know how they do it. They need the Nation's support. I spent money at the hotel, in the casino and in the French Quarter. Remember, this is a Doubletree so the cookies always rock!  
+<Date>Apr 21, 2006
+<Rating>3	3	2	-1	2	-1	3	-1	
+<Aspects>
+35	2(night):1	23(little):1	26(people):1	43(leave):2	64(spend):1	80(money):1	123(ok):1	239(town):1	254(french):1	329(entire):1	343(impress):1	375(remember):1	390(adequate):1	463(quarter):1	487(wo):1	511(date):1	538(casino):1	588(orleans):1	725(update):1	773(rock):1	821(attitude):1	1017(effort):1	1102(sense):1	1173(cookie):1	1253(refurbish):1	1581(rave):1	1993(hurricane):1	2448(support):1	2676(katrina):1	3020(recover):2	3043(circumstance):1	3306(doubletree):1	4907(rebuild):1	4996(awe):1	5070(nation):1	
+0	
+2	16(food):1	739(fair):1	
+11	7(walk):2	35(street):1	115(distance):1	203(plus):1	254(french):1	463(quarter):1	538(casino):1	643(mall):1	710(river):1	3020(recover):1	3292(harrah):1	
+0	
+11	0(staff):2	23(little):1	477(hilton):1	513(low):2	541(appear):1	821(attitude):1	1376(honor):1	1523(generous):1	2444(status):1	3172(occupancy):1	5190(freeby):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Katrina Survivor This may not be the grandest hotel in New Orleans but the staff was exceptional. They stayed during the evacuation of the city and saw to the guests that were stranded during Katrina.Great Job thank You  
+<Date>Sep 25, 2005
+<Rating>5	3	3	-1	3	-1	5	-1	
+<Aspects>
+7	41(city):1	91(guest):1	271(thank):1	481(job):1	2676(katrina):1	4073(strand):1	9770(evacuation):1	
+0	
+0	
+0	
+0	
+5	0(staff):1	365(grand):1	588(orleans):1	837(exceptional):1	2676(katrina):1	
+0	
+0	
+
+<Author>texan1
+<Content>Wasn't bad at all! The Doubletree New Orleans was a good place to stay. It was walking distance to the trolley, casino, and Bourbon Street. In fact we never used our car while we stayed there. The room was very clean. I informed the staff that the hair dryer needed a new plug and the airconditioning needed to be cooler. They were very prompt at getting these problems taken care of. In fact, the second afternoon we were there, we were suprised to find a cheese and fruit tray and red wine. I did not dine there beacause of the many wonderful places to eat in the city, but the chocolate chip cookies were scrumptious. Thanks for a pleasurable vacation. We would go back to the Doubletree New Orleans.  
+<Date>Aug 11, 2005
+<Rating>3	4	4	-1	4	-1	4	-1	
+<Aspects>
+15	41(city):1	47(eat):1	48(wonderful):1	50(bad):1	121(car):1	242(care):1	316(dine):1	588(orleans):2	632(chocolate):1	1173(cookie):1	1208(prompt):1	1302(chip):1	3306(doubletree):2	7342(scrumptious):1	10242(beacause):1	
+3	131(vacation):1	271(thank):1	4255(pleasurable):1	
+1	3(clean):1	
+6	7(walk):1	35(street):1	115(distance):1	538(casino):1	1038(bourbon):1	1079(trolley):1	
+0	
+7	0(staff):1	278(cool):1	729(hair):1	817(inform):1	1174(plug):1	1209(dryer):1	1903(airconditione):1	
+7	215(fruit):1	251(wine):1	364(afternoon):1	441(cheese):1	590(red):1	1738(suprise):1	1767(tray):1	
+0	
+
+<Author>QuarterDano
+<Content>Has some serious customer service problems! Stayed at the Doubletree New Orleans 2 different visits in July. I'm a Hilton Diamond member and was treated poorly both visits by the front desk personnel. Much of the staff has a BAD attitude, the front desk area is constantly chaotic, bellmen very inconsistent (one very helpful, one could have cared less where our luggage was....it took 20 minutes to bring it up to the room!). The small deli/cafe advertises sandwiches, but when asked the attendant simply pointed to the reach-in fridge. When told there were no sandwiches, she sighed and said, Well, I guess I could get the kitchen to make one. I'm not sure how long it will take. We had free coupons for a drink in the bar...the bad attitude from both bartenders was laughable (better to laugh and not return than get all upset I say!). At breakfast, the attendant brought a chocolate milk to the table and when told we did not order it, she ARGUED with me that someone at that table ordered it! The rooms were clean, beds exceptional, but is all the bad attitude worth it?  
+<Date>Jul 22, 2005
+<Rating>2	1	4	-1	4	-1	1	-1	
+<Aspects>
+3	65(visit):1	588(orleans):1	3306(doubletree):1	
+0	
+11	3(clean):1	11(bed):1	50(bad):1	69(tell):1	96(worth):1	461(kitchen):1	469(guess):1	821(attitude):1	837(exceptional):1	1071(sandwich):1	5457(sigh):1	
+6	318(fridge):1	488(simply):1	910(advertise):1	1071(sandwich):1	1446(attendant):1	1928(deli):1	
+0	
+20	0(staff):1	14(helpful):1	29(minute):1	31(front):2	36(desk):2	50(bad):1	65(visit):1	142(bring):1	242(care):1	249(luggage):1	320(treat):1	477(hilton):1	821(attitude):1	995(constantly):1	1105(bellman):1	1137(diamond):1	1457(personnel):1	1635(poorly):1	3063(inconsistent):1	4017(chaotic):1	
+22	6(breakfast):1	9(service):1	27(bar):1	39(return):1	46(free):1	50(bad):1	63(drink):1	69(tell):1	142(bring):1	229(table):2	428(customer):1	632(chocolate):1	676(bartender):1	821(attitude):1	1116(milk):1	1220(upset):1	1245(laugh):1	1446(attendant):1	1469(serious):1	1894(argue):1	2106(coupon):1	6412(laughable):1	
+0	
+
+<Author>WMiller86
+<Content>Not up to par at all Stayed July 8-10, 2005. Good Points- Rooms were clean and large. Elevator was fast. Hotel was not crowded due to possible hurricane coming. Good location. Desk clerk polite and helpful. But had to ask for cookies. bed was large and comfortable. Bad points- pool is tiny, shaded, and ancient. No pool bar. Hotel is very old and in need of some serious renovation. Breakfast buffet was pitiful. Waitress on first day was lousy. I had to go into the kitchen and get myself a cup of coffee after a long wait. The omlet person was MIA. Food sucked. Male waiter on 2nd day was very friendly and attentive, so service is hit and miss, but breakfast still sucked.Overall hotel is old. We paid $149 nite with breakfast included. And NO I would NOT stay here again for that rate.  
+<Date>Jul 11, 2005
+<Rating>2	1	2	-1	1	-1	1	-1	
+<Aspects>
+15	22(pool):1	50(bad):1	70(overall):1	78(rate):1	193(person):1	259(due):1	313(crowd):1	338(tiny):1	795(shade):1	1173(cookie):1	1666(par):1	1993(hurricane):1	3356(ancient):1	5051(mia):1	7886(omlet):1	
+4	6(breakfast):1	42(pay):1	71(include):1	1895(nite):1	
+5	3(clean):1	11(bed):1	25(comfortable):1	687(renovation):1	1469(serious):1	
+1	1(location):1	
+0	
+7	8(day):1	14(helpful):1	36(desk):1	422(polite):1	788(clerk):1	1387(waitress):1	2409(lousy):1	
+22	6(breakfast):2	8(day):1	9(service):1	12(friendly):1	16(food):1	22(pool):1	27(bar):1	77(buffet):1	85(wait):1	90(coffee):1	216(elevator):1	276(miss):1	461(kitchen):1	499(fast):1	537(attentive):1	735(waiter):1	775(hit):1	800(cup):1	1326(2nd):1	1902(suck):2	2295(male):1	7623(pitiful):1	
+0	
+
+<Author>Barbb
+<Content>very disappointing My husband and I stayed at the Doubltree in April after a meeting. I used my Hilton Hhonors points (60k) and was extremenly upset at the poor conditions of this hotel. We had to try 3 times to get a room that didn't smell of cologne or must, and even then the room we settled on was old and badly in need of renovation. To make matters worse, we were awoken both mornings by the maids outside our room at 8:30am talking loudly and then running the vacuum cleaner and banging the wall outside our room! I have stayed at many Hiltons and Doubletrees and I have never experienced such a lousy visit. I even went so far as to complain in writing and never received the courtesy of a response. Don't waste you time or money here.  
+<Date>Jul 7, 2005
+<Rating>1	1	1	-1	2	-1	-1	-1	
+<Aspects>
+16	5(time):1	80(money):1	105(husband):1	154(disappoint):1	196(meet):1	241(complain):1	263(condition):1	302(receive):1	331(poor):1	344(write):1	477(hilton):1	928(waste):1	1220(upset):1	1330(response):1	1728(courtesy):1	4560(hhonor):1	
+4	44(experience):1	65(visit):1	2409(lousy):1	4527(hiltons):1	
+7	5(time):1	76(try):1	231(smell):1	687(renovation):1	1414(settle):1	1663(badly):1	10191(cologne):1	
+13	3(clean):1	50(bad):1	56(morning):1	98(outside):2	149(run):1	183(wall):1	300(maid):1	371(talk):1	531(matter):1	1401(bang):1	1494(awake):1	2680(vacuum):1	2707(loudly):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Do not waste your money at this hotel I stayed at this hotel for 3 nights for a conference. At $149/night this is way too expensive for the kind of service and comfort that you will get. But if you must stay there, DO NOT eat any meal at their restaurants. The food was terrible and overpriced. The service was slow and extremely disorganized. The menus were ugly, with grease all over them, and the restaurant didn't even have enough of them. The waiting staff was like a bunch of jokers playing with each other instead of serving the customers.Another bad thing is that the hotel charges you even for the calls to 1-800 numbers ($1 for first 15 minutes).I have stayed at many Hilton and Doubletree hotels in the US and have been very satisfied. But this one is definitely the worst of that family. Needless to say that I won't be going back there anymore.  
+<Date>Jun 19, 2005
+<Rating>1	1	2	-1	3	-1	1	-1	
+<Aspects>
+9	50(bad):1	59(definitely):1	106(family):1	477(hilton):1	487(wo):1	899(satisfy):1	1356(needless):1	1853(anymore):1	3306(doubletree):1	
+6	9(service):1	16(food):1	124(expensive):1	432(terrible):1	702(comfort):1	727(overprice):1	
+0	
+4	2(night):1	80(money):1	794(conference):1	928(waste):1	
+0	
+11	0(staff):1	29(minute):1	50(bad):1	67(call):1	85(wait):1	136(charge):1	174(serve):1	353(instead):1	386(play):1	428(customer):1	1624(bunch):1	
+10	9(service):1	10(restaurant):2	47(eat):1	110(extremely):1	213(meal):1	423(menu):1	455(slow):1	1872(ugly):1	3603(disorganize):1	4994(grease):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Experience I went to New Orleans with my new Fiance and we stayed at the Doubletree on Canal street and had a great time. The location was awesome, and the hotel was very nice and clean. When we checked in there was a large convention in town and we got upgraded to the Junior Suite which was just incredible, the staff was friendly and professional. I really enjoyed my stay.  
+<Date>Jun 7, 2005
+<Rating>5	4	4	-1	5	-1	5	-1	
+<Aspects>
+1	51(enjoy):1	
+7	5(time):1	35(street):1	44(experience):1	588(orleans):1	638(canal):1	2229(fiance):1	3306(doubletree):1	
+10	0(staff):1	12(friendly):1	32(check):1	108(suite):1	163(upgrade):1	239(town):1	501(professional):1	718(incredible):1	964(junior):1	1048(convention):1	
+4	1(location):1	3(clean):1	4(nice):1	348(awesome):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Location, Great Service Contrary to some of the reviews on this site, I thought the hotel was great and the service was excellent. The location is great, right in the heart of everything and right next to the casino. The staff was very friendly and I had no problems with anything. Would definitely stay there again.  
+<Date>May 24, 2005
+<Rating>5	4	4	-1	4	-1	5	-1	
+<Aspects>
+1	59(definitely):1	
+0	
+0	
+8	1(location):2	9(service):2	21(excellent):1	37(review):1	192(site):1	450(heart):1	538(casino):1	2419(contrary):1	
+0	
+2	0(staff):1	12(friendly):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Not magnetic ... I stayed at this hotel for 5 days during a medical convention. Good points -- nice comfortable bed, free cookies. Bad points --- Every night (yes, 5 nights in a row) I came back to my room and my cards were demagnetized (both of them). Luckily, I had my ID with me ... otherwise it would have been a hassle getting into my room. This happened to others in my group who attended the conference, too.The front desk service was downright surly and not helpful.There are no safes in the rooms, which isn't good if you are on biz travel and have expensive electronics with you.Overall, you don't get the feeling it is the cleanest, safest room you could have stayed at in NO --- and I've been here three times.  
+<Date>Apr 3, 2005
+<Rating>2	-1	2	-1	2	-1	3	-1	
+<Aspects>
+4	8(day):1	1048(convention):1	2408(medical):1	8257(magnetic):1	
+5	68(travel):1	124(expensive):1	137(safe):1	5486(electronics):1	6072(biz):1	
+19	2(night):2	3(clean):1	4(nice):1	5(time):1	11(bed):1	25(comfortable):1	34(feel):1	46(free):1	50(bad):1	70(overall):1	137(safe):1	250(yes):1	292(card):1	508(otherwise):1	1173(cookie):1	1193(hassle):1	1200(luckily):1	1638(row):1	2584(id):1	
+3	382(happen):1	794(conference):1	826(attend):1	
+0	
+6	9(service):1	14(helpful):1	31(front):1	36(desk):1	2891(surly):1	3289(downright):1	
+0	
+0	
+
+<Author>mmgoode
+<Content>Had a Great Time!!! Just got back from the Doubletree. We stayed there for a girls weekend. The place was very clean, the sheets were soft, the pillows very comfortable. The chocolate chip cookies were warm and gooey. This is a great hotel if you are planning on seeing the quarter or if you are going to gamble at the casino. There is great shopping across the street! The guest services were very quick to respond to all of our needs!  
+<Date>Mar 14, 2005
+<Rating>5	3	5	-1	5	-1	5	-1	
+<Aspects>
+12	5(time):1	172(weekend):1	221(plan):1	236(warm):1	463(quarter):1	538(casino):1	625(girl):1	632(chocolate):1	1173(cookie):1	1302(chip):1	2819(gamble):1	3306(doubletree):1	
+0	
+0	
+2	35(street):1	49(shop):1	
+5	3(clean):1	25(comfortable):1	303(pillow):1	479(sheet):1	589(soft):1	
+0	
+4	9(service):1	91(guest):1	299(quick):1	1587(respond):1	
+0	
+
+<Author>Wallyskid
+<Content>The cookies were the only positive thing I can say about this hotel! We booked this hotel through a Harrahs offer (Jan 26-29, 2005) we received and because of its great location and previous stays at other Doubletrees in other cities, we believed it was the right choice! WRONG! Our request at reservation time (6 weeks out) was to have a queen-bed room (smoking) on an upper floor (I understand that all requests can't be fulfilled). Anyway, at check-in we were given a room (front desk clerk gave no eye contact at all during check-in), we went to the room only to find it was a non-smoking, single double bed on a lower floor. When we arrived at the room, we told the bellman who had our luggage that the room was unacceptable. He went down and they gave us a queen-bed smoking room on the 9th floor. We thought Okay, we're not going to be in the room all that much! It was an extremely small room with only 1 chair in it. We requested a 2nd chair (I don't like sitting on the bed to drink coffee in the a.m.). The chair finally arrived on the 2nd day of our stay. The bathroom in this room was smaller than the bathroom in my 29-foot travel trailer (seriously). I went down to the front desk and complained on several occasions including the morning after our first night. It seems that the couple in the next room were pulling an all-nighter and being the beds back up to each other from room-to-room, we had head-board banging going on from about 11 p.m. until 9 a.m. the following morning. While we were drinking coffee in the morning, we sat and watched the adjoining wall vibrate for a couple hours . . . unbelievable! The clerk at the front desk told us nothing else was available. My wife and I both smoke, but after this hotel experience, we're contemplating quitting because of the stank odor of smoke in the room. They have very poor ventilation and smoking rooms stink to high heaven. The only positive thing I can say about the hotel (outside of having good cookies) is that the hotel location is excellent. Very close to French Quarter, Harrahs and the river (shopping and Aquarium).I will never ever stay at a Doubletree Inn again the rest of my life (even if it's free). We travelled from California to enjoy the Big Easy. We believed that Harrahs would offer better hotels than this one for their high-end players. This hotel was absolutely terrible (paper thin walls, small room size and bathroom size), also including the customer service. Avoid if at all possible!  
+<Date>Feb 1, 2005
+<Rating>1	1	1	-1	2	-1	1	-1	
+<Aspects>
+18	46(free):1	51(enjoy):1	68(travel):1	89(offer):1	93(easy):1	288(rest):1	312(believe):1	324(inn):1	426(life):1	427(wrong):1	436(avoid):1	458(positive):1	1076(player):1	1173(cookie):1	1656(california):1	3092(high-end):1	3306(doubletree):1	5751(harrahs):1	
+17	1(location):1	18(book):1	41(city):1	44(experience):1	89(offer):1	107(choice):1	184(wife):1	302(receive):1	312(believe):1	373(previous):1	468(smoke):2	1462(jan):1	1628(odor):1	1796(stink):1	4400(quit):1	5751(harrahs):1	5804(contemplate):1	
+48	5(time):1	8(day):1	9(service):1	11(bed):2	13(bathroom):3	24(floor):2	53(arrive):2	56(morning):1	63(drink):1	68(travel):1	69(tell):1	71(include):1	75(week):1	83(size):2	90(coffee):1	99(couple):1	110(extremely):1	148(request):3	156(reservation):1	169(sit):1	183(wall):1	189(absolutely):1	198(chair):3	249(luggage):1	331(poor):1	341(finally):1	391(understand):1	428(customer):1	432(terrible):1	453(okay):1	468(smoke):3	482(follow):1	754(thin):1	776(paper):1	858(pull):1	1105(bellman):1	1326(2nd):2	1333(upper):1	1363(heaven):1	1401(bang):1	1441(seriously):1	1466(p.m):1	1796(stink):1	2230(unacceptable):1	2667(ventilation):1	3601(fulfil):1	5180(9th):1	9054(trailer):1	
+12	1(location):1	21(excellent):1	28(close):1	49(shop):1	98(outside):1	254(french):1	458(positive):1	463(quarter):1	710(river):1	1173(cookie):1	2157(aquarium):1	5751(harrahs):1	
+0	
+21	2(night):1	11(bed):1	24(floor):1	31(front):3	36(desk):3	56(morning):1	69(tell):1	71(include):1	134(available):1	170(else):1	179(double):1	241(complain):1	286(check-in):2	304(single):1	417(anyway):1	713(contact):1	777(lour):1	788(clerk):2	871(occasion):1	977(eye):1	978(nonsmoking):1	
+11	56(morning):1	60(hour):1	63(drink):1	90(coffee):1	99(couple):1	169(sit):1	183(wall):1	245(watch):1	1412(adjoin):1	1460(unbelievable):1	6100(vibrate):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Not Awful, Just Not Doubletree Standard Our problems were nothing disasterous, yet they were numerous and the cumulative nature added up to some frustration. Starting with not recieving a cookie upon our check in (a Doubletree trademark) to not having our hotel room cleaned and a host of other headaches in between - it was apparent this property's staff really isn't focused on detail. Our stay was over the New Year's holiday weekend and considering the Sugar Bowl was that week as well, we got a great price for our room which we kept reminding ourselves of to keep from getting too annoyed. The hotel is a short walk to Bourbon Street and most of the French Quarter activities. So if the price is right or your options are limited its bearable.  
+<Date>Jan 2, 2005
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	130(standard):1	351(add):1	736(awful):1	971(numerous):1	1986(nature):1	3306(doubletree):1	3573(frustration):1	11818(disasterous):1	
+13	19(price):2	75(week):1	172(weekend):1	223(holiday):1	248(consider):1	336(option):1	510(limit):1	695(annoy):1	767(ourselves):1	1285(remind):1	1366(bowl):1	2113(sugar):1	4297(bearable):1	
+0	
+7	7(walk):1	35(street):1	144(short):1	254(french):1	357(activity):1	463(quarter):1	1038(bourbon):1	
+0	
+14	0(staff):1	3(clean):1	32(check):1	165(start):1	214(property):1	592(detail):1	1173(cookie):1	1283(host):1	2060(recieve):1	2480(focus):1	3039(apparent):1	3306(doubletree):1	3886(headache):1	10090(trademark):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Not Bad My stay was pretty pleasant here. Other than the fire alarm going off at 3 AM, I had no problems. The room was clean and had a nice view. The cookies were great and the staff were pleasant. Good location to walk to the mall, aquarium and other good spots.  
+<Date>Nov 15, 2004
+<Rating>3	3	4	-1	4	-1	3	-1	
+<Aspects>
+5	50(bad):1	109(pretty):1	150(pleasant):1	1262(fire):1	1380(alarm):1	
+0	
+3	3(clean):1	4(nice):1	17(view):1	
+5	1(location):1	7(walk):1	317(spot):1	643(mall):1	2157(aquarium):1	
+0	
+3	0(staff):1	150(pleasant):1	1173(cookie):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Sore Spot in Hilton Family of Hotels I wish that I had read this site carefully before staying at the Doubletree this past weekend. Upon our late arrival, we entered our room with two small children (one still crawling) only to find a spot of blood on the bathroom floor. When I went to the front desk immediately to request another room that had been cleaned, I was told that there were no more rooms available (on a Thursday night?). The desk clerk phoned housekeeping and asked them to tidy up the bathroom for us. Two polite Spanish speaking men arrived with two arms filled with towels. When I tried to explain that blood was on the floor, they used tissue to wipe it up, flushed it, and left! At midnight, there was little we could do but put everyone to bed in socks. There were no bare feet in this room! I really thought being a Silver Hilton Honors Member,they might take my request seriously...obviously not.While the cookies were great and the convenient snack shop provided all the water, apple juice, and milk we needed for the toddler, the safety of my children staying in a sanitary hotel is much more important.Convenient - yesPolite staff - yesGreat location - yesWill I ever stay there again in this lifetime - NO!There are too many hotels to choose from that take pride in the cleanliness of their hotel. I will never take another chance on a Hilton Hotel without checking trip advisor first, and I hope that the Hilton empire takes the time to read their hotel reviews.  
+<Date>Nov 9, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+26	11(bed):1	13(bathroom):2	23(little):1	24(floor):2	36(desk):1	43(leave):1	79(late):1	224(arrival):1	253(tried):1	277(child):1	296(phone):1	317(spot):1	367(housekeeping):1	402(foot):1	601(enter):1	768(explain):1	788(clerk):1	1044(midnight):1	1100(tidy):1	1619(flush):1	2235(bare):1	2371(crawl):1	2718(blood):2	2969(wipe):1	3211(tissue):1	3259(sock):1	
+15	0(staff):1	1(location):1	88(read):1	106(family):1	172(weekend):1	186(convenient):1	192(site):1	317(spot):1	384(wish):1	419(past):1	477(hilton):1	2523(carefully):1	3168(lifetime):1	3306(doubletree):1	3568(sore):1	
+3	167(choose):1	854(cleanliness):1	2843(pride):1	
+23	2(night):1	3(clean):1	5(time):1	31(front):1	32(check):1	33(trip):1	36(desk):1	37(review):1	69(tell):1	88(read):1	134(available):1	148(request):2	328(hope):1	477(hilton):3	489(immediately):1	689(chance):1	701(advisor):1	781(obviously):1	1376(honor):1	1441(seriously):1	1608(Empire):1	1823(thursday):1	2400(silver):1	
+20	49(shop):1	53(arrive):1	57(water):1	125(towel):1	127(speak):1	153(provide):1	186(convenient):1	277(child):1	362(juice):1	369(spanish):1	406(snack):1	422(polite):1	491(fill):1	905(apple):1	1116(milk):1	1173(cookie):1	1448(safety):1	1726(arm):1	2883(toddler):1	6041(sanitary):1	
+0	
+
+<Author>sunflower7777
+<Content>MUCH better than the reviews Booked the Doubletree through Harrah's.com for a very good rate from Oct 27-Oct 30. Requested a room on the 12th floor as someone suggested on this site and the room on that floor did have a very nice view. The room was completely renovated and was very nice and clean. I was told some rooms on the lower floors were not renovated yet so I would definitely recommend requesting rooms on the higher floors. Also, I should mention that check-in is supposed to be 3:00 pm but I got there at 10 am and they gave me my room right away. All of the staff was very helpful and the hotel as a whole was very clean. Location was excellent and right in the middle of everything.  
+<Date>Nov 1, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	78(rate):1	1851(oct):1	5958(com):1	
+0	
+14	3(clean):1	4(nice):2	15(recommend):1	17(view):1	24(floor):4	59(definitely):1	69(tell):1	148(request):2	192(site):1	452(suggest):1	533(renovate):2	542(completely):1	777(lour):1	1955(12th):1	
+3	1(location):1	21(excellent):1	325(middle):1	
+3	0(staff):1	3(clean):1	14(helpful):1	
+4	244(mention):1	286(check-in):1	393(pm):1	620(suppose):1	
+4	18(book):1	37(review):1	3292(harrah):1	3306(doubletree):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great for the Price Just visited this weekend Oct 14-17. Was very dubious after reading the reviews but was very pleasantly surprised. The clerk was able to get us into king, non smoking as requested. Very clean. However, bathroom very small but so what. VEry convenient to Harrah's and French quarter.Great for the Price, considering New Orleans. Will visit again.  
+<Date>Oct 18, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+10	37(review):1	65(visit):1	88(read):1	186(convenient):1	199(surprise):1	254(french):1	463(quarter):1	747(pleasantly):1	3292(harrah):1	5351(dubious):1	
+6	19(price):2	65(visit):1	172(weekend):1	248(consider):1	588(orleans):1	1851(oct):1	
+1	13(bathroom):1	
+0	
+6	3(clean):1	148(request):1	171(able):1	243(king):1	468(smoke):1	788(clerk):1	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Location in "The Big Easy" October 1-3, 2004,We stayed at the Double Tree Inn downtown across the street from Harrah's Casino. Had a great time, decent room that was recently remodeled (ask for floors 10 through 12 facing the river). Cookies were great every night and the staff was very polite and helpful (thanks for suggesting the Swamp tours John). This hotel is not the Ritz-Carlton, but then you're paying a lot less money- I'll keep the savings anytime. You can't beat this location either, if you're not too fussy, then this is the hotel for you. I know I'll be back again!  
+<Date>Oct 14, 2004
+<Rating>4	4	3	-1	3	-1	4	-1	
+<Aspects>
+0	
+6	38(lot):1	42(pay):1	80(money):1	1677(anytime):1	3177(ritz-carlton):1	3933(savings):1	
+6	5(time):1	24(floor):1	257(decent):1	322(recently):1	710(river):1	1238(remodel):1	
+12	1(location):2	35(street):1	93(easy):1	179(double):1	324(inn):1	334(downtown):1	442(beat):1	538(casino):1	828(tree):1	911(october):1	1867(fussy):1	3292(harrah):1	
+0	
+10	0(staff):1	2(night):1	14(helpful):1	181(tour):1	271(thank):1	422(polite):1	452(suggest):1	1173(cookie):1	2359(john):1	4335(swamp):1	
+0	
+0	
+
+<Author>SheWhoWanders
+<Content>Nice Hotel in a convenient location! The rooms are well kept, clean and well lit. The housekeeping and front desk staff were polite and friendly. The location is excellent walking distance to the trolley, french quarter, mall, casino, etc - centrally located. The staff were extremely friendly. I was pleasantly surprised with this hotel. I had a very negative experience a few years ago, but decided to try the hotel again - it has greatly improved. The only negative that I perceive is that it does not have local color - it is just a typical chain hotel.  
+<Date>Oct 5, 2004
+<Rating>4	3	4	-1	4	-1	5	-1	
+<Aspects>
+8	195(local):1	199(surprise):1	282(negative):1	627(chain):1	628(typical):1	747(pleasantly):1	942(color):1	8881(perceive):1	
+7	44(experience):1	76(try):1	219(decide):1	282(negative):1	633(ago):1	1217(improve):1	1905(greatly):1	
+2	3(clean):1	157(light):1	
+14	1(location):2	4(nice):1	7(walk):1	21(excellent):1	73(etc):1	84(locate):1	115(distance):1	186(convenient):1	254(french):1	463(quarter):1	538(casino):1	643(mall):1	879(centrally):1	1079(trolley):1	
+0	
+7	0(staff):2	12(friendly):2	31(front):1	36(desk):1	110(extremely):1	367(housekeeping):1	422(polite):1	
+0	
+0	
+
+<Author>seadea
+<Content>Stay away from this Hotel We stayed at the Doubletree hotel in New Orleans June 24 - June 27. I made the reservations in May. When we checked in, we were told we were the first to check in for the day, around 9:30 AM. We went to the room, opened the door and was immediately overcome by steam and heavy (perfume?) oder. Then we saw the bed was unmade with wet towels on it. The bathroom was steamy and there were towels and shampoo bottles spilled on the counter. We told the front desk that the room had not been cleaned. They replyed it would done immediately. Then, we waited 20 minutes for our bags to be brought up. We also told the bellhop and a housekeeper about the room. We were on our way to a conference that was starting within minutes so we left. We returned to the room at 8:00 in evening. Opened the door and nothing had been done. I called the desk and was put on hold, then disconnected. Had to call 3 times. We were asked what we wanted to have done, told them the room being cleaned or another room would be OK. Since, there were no other rooms available, they would have it cleaned as soon as possible. I don't think anyone there cared or understood that we were given a dirty room. We went to dinner and came back 90 minutes later. When we returned the bed was made and fresh towels were left. I had to dispose of the previous occupants garbage, empty bottles and soap. The management did call and said he was sorry for inconveinence and he would leave us an envelope for free breakfast at the desk. That night we could hear knocks and bangs from the different rooms. In the morning we could smell the bathroom being used by the other hotel guests through the vents, in all my years of travels that was a first! The next morning as we were going through the hotel, we noticed there was lots of deferred maintenence, carpets, baseboards, painting, on and on. We went to the desk to get our envelope and they didn't have a clue what we were talking about. We finally were given two cards for a free breakfast, which we used the next day. It was for their buffet, horrible food. Very nice waitresses, though. This place was horrible, noise, smells, etc. Thank goodness we were only there for three days of our seven day visit. We also stayed at the Bourbonorleans for 2 days (5 stars to them) and the Dauphin Orleans for 2 days (5 stars, also). Do not be afraid to stay in the Quarter, the hotels are lovely and the people are great. It is not that much farther to the convention center. We had never been to New Orleans before and we were unsure how far it was to the convention center. So that was why we decided to get closer. Really, really wish we had stayed in the Quarter the whole time.  
+<Date>Jun 30, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+18	5(time):2	8(day):2	26(people):1	54(door):1	65(visit):1	67(call):1	87(lovely):1	271(thank):1	384(wish):1	463(quarter):2	489(immediately):1	588(orleans):1	664(june):2	1544(afraid):1	1811(reply):1	2302(goodness):1	3306(doubletree):1	12132(oder):1	
+7	8(day):2	29(minute):1	43(leave):1	103(star):2	165(start):1	588(orleans):1	794(conference):1	
+48	2(night):1	3(clean):2	11(bed):2	13(bathroom):2	38(lot):1	39(return):2	43(leave):1	54(door):1	56(morning):2	68(travel):1	69(tell):2	91(guest):1	123(ok):1	125(towel):3	132(hear):1	134(available):1	197(fresh):1	231(smell):1	238(bottle):2	354(notice):1	373(previous):1	396(carpet):1	418(soon):1	489(immediately):1	806(paint):1	810(empty):1	965(soap):1	1001(counter):1	1032(wet):1	1051(shampoo):1	1186(heavy):1	1323(knock):1	1401(bang):1	1591(housekeeper):1	1650(garbage):1	1760(steam):1	2344(vent):1	2909(bellhop):1	3265(occupant):1	3353(spill):1	4405(perfume):1	4898(overcome):1	7519(steamy):1	7619(unmade):1	8447(maintenence):1	10012(dispose):1	10101(baseboards):1	12707(defer):1	
+2	28(close):1	219(decide):1	
+7	73(etc):1	94(noise):1	231(smell):1	242(care):1	323(dirty):1	391(understand):1	544(horrible):1	
+24	3(clean):1	4(nice):1	6(breakfast):1	8(day):1	29(minute):1	31(front):1	32(check):2	36(desk):4	43(leave):1	46(free):1	67(call):2	69(tell):2	85(wait):1	142(bring):1	156(reservation):1	290(bag):1	371(talk):1	525(management):1	593(hold):1	891(sorry):1	1387(waitress):1	3154(clue):1	5172(envelope):2	5595(disconnect):1	
+11	6(breakfast):1	8(day):1	16(food):1	29(minute):1	46(free):1	77(buffet):1	79(late):1	117(dinner):1	292(card):1	341(finally):1	544(horrible):1	
+4	101(center):2	588(orleans):1	1048(convention):2	3145(unsure):1	
+
+<Author>A TripAdvisor Member
+<Content>wish I had known... My friend and I attended the AANP Conference and sayed at the DT for 4 nights. We arrived at night and there was no more hotel parking. We were told terrible directions to get to a public parking garage that was very scary for two young women to walk through at night. When we brought our bags into the hotel, the bell boy (old man) left our bags on the cart in the doorway UNATTENDED while we checked in. We came back and waited several minutes before he even noticed we were back, so all our bags could have easilybeen stolen. He only came when he did because wewere pulling the cart ourselves and then tried to persuade us to leave them in his care a moment longer---NO, I don't think so. He was very hositle about taking our bags up, and we were being nice but firm that we weren't leaving our bags in the doorway any longer. The room was nice enough, seems like some remodeling was being done and some rooms were better than others. We were unable to get any sleep b'c the walls were very thin and we were put on a floor with agroup of delinquient kids that were being brought to NO on a conference of some kind. They were constantly slamming doors, running up and down the hallways and yelling. I called the front desk and asked for security but no one was ever sent. I finally stepped outside and them to be quiet, very politely and these kids only got worse and even tried to act like they were breaking into our doors, including the door attaching the next room. Still, nothing was done.Finally on the last night, there were some more concerned workers and we were able to be moved to a different room with quieter, more responsible adults, but still even then you could hear much b'c of the thin walls and the poorly constructed doors.When we left this morning, I finally saw security and they were discussing a serious accident that had happened on another floor. Anyway, if you have to, you could make it staying at this hotel, but our other friends at the hotel had similar problems. Other friends that stayed at other hotels near the convention center had much much better experiences particularly in the Hampton. Hope this helps!  
+<Date>Jun 16, 2004
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+24	4(nice):1	43(leave):2	54(door):1	92(help):1	146(friend):1	149(run):1	242(care):1	253(tried):1	290(bag):2	328(hope):1	417(anyway):1	580(hallway):1	670(moment):1	767(ourselves):1	858(pull):1	874(similar):1	995(constantly):1	1322(cart):1	1368(firm):1	1939(yell):1	2008(slam):1	4454(doorway):1	6021(persuade):1	12191(wewere):1	
+7	44(experience):1	101(center):1	102(near):1	146(friend):1	553(particularly):1	1048(convention):1	2236(hampton):1	
+39	2(night):1	4(nice):1	24(floor):2	43(leave):1	50(bad):1	54(door):3	56(morning):1	58(quiet):2	71(include):1	98(outside):1	104(sleep):1	132(hear):1	142(bring):1	171(able):1	183(wall):2	201(kid):2	207(move):1	228(break):1	253(tried):1	341(finally):3	366(step):1	382(happen):1	496(concern):1	556(adult):1	641(security):1	754(thin):2	794(conference):1	1125(worker):1	1224(attach):1	1238(remodel):1	1461(unable):1	1469(serious):1	1635(poorly):1	1920(Act):1	2690(discuss):1	2749(politely):1	3213(accident):1	3277(responsible):1	4627(construct):1	
+15	2(night):3	7(walk):1	53(arrive):1	66(park):2	69(tell):1	146(friend):1	379(public):1	384(wish):1	395(direction):1	432(terrible):1	566(woman):1	794(conference):1	826(attend):1	936(garage):1	1566(scary):1	
+0	
+18	29(minute):1	31(front):1	32(check):1	36(desk):1	43(leave):1	67(call):1	85(wait):1	142(bring):1	290(bag):3	354(notice):1	447(send):1	641(security):1	801(bell):1	881(boy):1	1187(steal):1	1322(cart):1	4454(doorway):1	4616(unattended):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Like a brand new hotel Just came back from Nawlins...Jazz Festival is great! Stayed for the second time at Doubletree Downtown. There have been alot of changes since my visit last year. My room was fresh and clean. They had a new bed and nice new carpet. I would have agreed with most other comments but not anymore. The best part about this hotel is the location, next door to Harrah's and you can walk to the French Quarter. It's a must to have the cookie dessert....YUM  
+<Date>Apr 30, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+16	5(time):1	65(visit):1	161(change):1	334(downtown):1	356(comment):1	473(agree):1	647(alot):1	883(brand):1	1173(cookie):1	1180(dessert):1	1563(jazz):1	1853(anymore):1	2399(festival):1	3306(doubletree):1	3593(yum):1	11607(nawlin):1	
+0	
+5	3(clean):1	4(nice):1	11(bed):1	197(fresh):1	396(carpet):1	
+6	1(location):1	7(walk):1	54(door):1	254(french):1	463(quarter):1	3292(harrah):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Way past its prime After having stayed nearby at the International House (which was decent), this place felt like a dump. It's functional and accomplishes the basic tasks of a motel (yes, motel), but otherwise it leaves much to be desired.The lobby and hallways are old. The rugs are very, very old and smelly. The rooms are your basic Motel 6 decor. The toilet is the kind you would find in a public restroom. Functional yes, but not very classy. There is no mini-bar. There is no free wifi. They charge $9.95 for wired internet access when so many better hotels these days provide wifi for free. They have very limited cable tv access. The International House had MTV, Discovery, HGTV, etc., and the Doubletree only seemed to have the network channels, CNN, MSNBC and a few more.No complaints about the staff or service.If the Doubletree were very cheap (it should be), I would have no complaints. But I paid more to stay there than at the International House which was much better. It's just a sad, old hotel.  
+<Date>Apr 21, 2004
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	250(yes):2	352(basic):1	508(otherwise):1	991(motel):2	1219(desire):1	1348(functional):2	1454(sad):1	1488(classy):1	1593(leaf):1	3592(task):1	5038(accomplish):1	
+6	42(pay):1	143(cheap):1	190(complaint):1	281(house):1	903(international):1	3306(doubletree):1	
+25	34(feel):1	73(etc):1	116(tv):1	159(access):1	232(nearby):1	257(decent):1	269(decor):1	281(house):2	330(toilet):1	352(basic):1	379(public):1	419(past):1	484(cable):1	510(limit):1	741(channel):1	903(international):2	991(motel):1	1449(dump):1	1774(prime):1	2101(cnn):1	2937(network):1	3306(doubletree):1	3679(restroom):1	3951(discovery):1	6224(mtv):1	
+0	
+2	1697(smelly):1	3016(rug):1	
+3	0(staff):1	9(service):1	190(complaint):1	
+3	55(lobby):1	580(hallway):1	1338(mini-bar):1	
+8	8(day):1	46(free):2	97(internet):1	136(charge):1	153(provide):1	159(access):1	1268(wifi):2	1904(wire):1	
+
+<Author>A TripAdvisor Member
+<Content>Loved the Doubletree My husband and I just spent 4 glorious days in New Orelans. It is a beautiful city and the people are wonderful. I would definitely recommend the swamp/bayou tour to get a taste of the real New Orleans. Also if you want a flavor of the original Orleans food try Mothers Restaurant on Paydouras street, you may have wait in line but it's worth the wait. We stayed at the Doubletree Hotel which is one block from the French Quarters. The hotel was fabulous.  
+<Date>Apr 13, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+21	8(day):1	15(recommend):1	26(people):1	40(love):1	41(city):1	45(beautiful):1	48(wonderful):1	59(definitely):1	64(spend):1	100(bloc):1	105(husband):1	181(tour):1	240(real):1	254(french):1	270(fabulous):1	439(taste):1	463(quarter):1	588(orleans):1	3306(doubletree):2	3318(glorious):1	4335(swamp):1	
+0	
+0	
+0	
+0	
+0	
+11	10(restaurant):1	16(food):1	35(street):1	76(try):1	85(wait):2	96(worth):1	188(line):1	588(orleans):1	1270(original):1	1359(mother):1	2147(flavor):1	
+0	
+
+<Author>lovnlivnnalaska
+<Content>Served its purpose! We booked through Priceline and got the doubletree for 3 nights along with roundtrip airfare for half the price that we could find anywhere else. Nothing fancy about the room, but it was cleaned daily. All the staff was very helpful. We wanted to stay at the Doubletree because it was across the street from Harrahs. If we had known about the other casinos, we probably would have stayed elsewhere.  
+<Date>Apr 6, 2004
+<Rating>3	4	3	-1	3	-1	4	-1	
+<Aspects>
+3	178(probably):1	538(casino):1	646(elsewhere):1	
+9	2(night):1	18(book):1	19(price):1	170(else):1	283(half):1	1069(priceline):1	3306(doubletree):1	4256(airfare):1	6316(roundtrip):1	
+3	3(clean):1	360(daily):1	796(fancy):1	
+3	35(street):1	3306(doubletree):1	5751(harrahs):1	
+0	
+2	0(staff):1	14(helpful):1	
+2	174(serve):1	1428(purpose):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Mardi Gras 2004 Stayed at the Doubletree Lakeside for Mardi Gras 2004. Booked the room through Harrah's for a GREAT rate in late August! I think I actually picked their pocket! Anyway, the hotel is right across from Harrah's. Good idea if you have $$$ to waste, but bad if you're stumbling back drunk from Bourbon street, playing blackjack and splitting pair 10s. Too convenient when it's right across the street. The hotel is also close to the Riverwalk and all you need as a tourist. Security in the hotel was very good for Mardi Gras because everyone coming in had to have wristbands. Bad idea also because you couldn't make any new friends on Bourbon and bring them back. Oh well, I got a girl anyway. The staff was very accomodating and supplied us with fresh towels without being called. Overall, great hotel, nice staff and AWESOME time at Mardi Gras! (p.s...I might be a little biased because as long as I wasn't passed out sleeping on the street, ANY place with a roof and shower would've been nice during Mardi Gras)  
+<Date>Mar 6, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+15	50(bad):1	142(bring):1	146(friend):1	180(actually):1	266(pick):1	417(anyway):2	625(girl):1	639(idea):1	1038(bourbon):1	2199(pocket):1	2497(p.s):1	2925(gras):2	3106(mardi):2	3292(harrah):1	3306(doubletree):1	
+0	
+26	4(nice):1	18(book):1	23(little):1	35(street):2	50(bad):1	61(shower):1	63(drink):1	78(rate):1	79(late):1	104(sleep):1	386(play):1	400(pass):1	636(roof):1	639(idea):1	641(security):1	928(waste):1	1038(bourbon):1	2207(pair):1	2368(split):1	2925(gras):2	3012(stumble):1	3106(mardi):2	3292(harrah):1	3702(blackjack):1	5302(wristband):1	6317(bias):1	
+5	28(close):1	35(street):1	186(convenient):1	209(tourist):1	3556(riverwalk):1	
+0	
+7	0(staff):1	4(nice):1	5(time):1	70(overall):1	348(awesome):1	2925(gras):1	3106(mardi):1	
+6	0(staff):1	67(call):1	125(towel):1	197(fresh):1	549(accomodate):1	859(supply):1	
+0	
+
+<Author>wsteinhauer
+<Content>OK for the money Stayed Feb 2004 through Harrahs Casino. This was my second stay. Our room on 7th floor was OK, carpet was worn. Ice maker on our floor was broke, so I went down to 6th floor and noticed all new carpeting and mattresses were being installed. Maybe they are doing the whole hotel.It is very convenient to the Casino and French Quarter is 4 or 5 blocks away. If you are a casino person, consider parking in Harrahs parking deck. It is free if you play. The hotel charges $25 a night.  
+<Date>Feb 19, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	46(free):1	80(money):1	100(bloc):1	123(ok):1	186(convenient):1	254(french):1	308(maybe):1	386(play):1	463(quarter):1	538(casino):2	1258(feb):1	5751(harrahs):1	
+0	
+12	24(floor):3	123(ok):1	228(break):1	354(notice):1	396(carpet):2	434(wear):1	547(ice):1	847(mattress):1	996(maker):1	1869(6th):1	2691(install):1	2951(7th):1	
+6	66(park):2	193(person):1	248(consider):1	538(casino):1	1406(deck):1	5751(harrahs):1	
+0	
+2	2(night):1	136(charge):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>WORST place ever stayed in. Booked hotels though Expedia. King bed and gave notice that it would be late arrival (1030pm) and was traveling with two infants who would need cribs set up. Got there, no king beds left, gave us a SMALL double and it took until 3 am to find cribs and then they looked and wobbled so badly wouldn't put my kids in them. In morning ordered room service since we had been up most of the night waiting on cribs, that was suppose to be set up before we got there, just too tired to go out for food. When room service came, it was missing half the food and when we called the resturant people they called us liars; and don't eat anything else until a MANAGER gets there. We called several times, and it took about 3 hours to finally get a manager to come up. We ended up talking with the manager of the hotel and got a refund for the reservation. The staff were rude! and I couldn't believe they were in the customer service field. We travel frequently and by far the WORST hotel, if there was a negative listing I would give this a negative 5 listing. Room was dirty, small and smell was bad! I think DoubleTree should pull their name from this location, what an embarrasment! I love New Orleans and will return there but I will stay clear of this hotel. Not family friendly. Just plain not friendly.  
+<Date>Jan 10, 2004
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	12(friendly):2	39(return):1	40(love):1	50(bad):2	68(travel):1	106(family):1	282(negative):2	588(orleans):1	650(list):2	1546(plain):1	1573(frequently):1	
+0	
+14	11(bed):2	20(look):1	43(leave):1	68(travel):1	79(late):1	179(double):1	201(kid):1	224(arrival):1	234(set):1	243(king):2	354(notice):1	1663(badly):1	2771(crib):2	4451(infant):1	
+4	1(location):1	295(name):1	858(pull):1	3306(doubletree):1	
+3	50(bad):1	231(smell):1	323(dirty):1	
+10	0(staff):1	5(time):1	60(hour):1	67(call):1	156(reservation):1	258(manager):2	341(finally):1	371(talk):1	392(rude):1	1492(refund):1	
+23	2(night):1	9(service):3	16(food):2	18(book):1	26(people):1	47(eat):1	56(morning):1	67(call):2	85(wait):1	170(else):1	234(set):1	258(manager):1	276(miss):1	283(half):1	312(believe):1	428(customer):1	454(tire):1	620(suppose):1	1066(expedia):1	1661(resturant):1	2174(field):1	2771(crib):1	6320(liar):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Stay here and walk everywhere you need Being from the Big Easy and lovin' it, I return frequently. Please ignore the complainers of this hotel as the flushing sound mentioned is resolved by shutting the bathroom door and New Orleans is a party town, if there is a smell, there was likely a recent party. The staff are very pleasant and they can resolve your concern. And remember, when in New Orleans act like a New Orleanian... Relax and have fun!  
+<Date>Jan 4, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	160(relax):1	176(fun):1	375(remember):1	588(orleans):1	1920(Act):1	
+0	
+15	13(bathroom):1	54(door):1	173(please):1	231(smell):1	239(town):1	244(mention):1	363(party):2	409(sound):1	588(orleans):1	1064(recent):1	1086(shut):1	1215(ignore):1	1619(flush):1	1715(resolve):1	4615(complainer):1	
+4	7(walk):1	39(return):1	93(easy):1	1573(frequently):1	
+0	
+4	0(staff):1	150(pleasant):1	496(concern):1	1715(resolve):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Old and Smelly I travel to New Orleans frequently and this has to be the worst hotel I have stayed in. I am not sure when the last renovation was on the hotel but it had to be from the 80's. The smell in our room is hard to describe, it was something I would call Old People Shut-in Musty. I will say the room appeared to be clean but unfortuneatey this was not a smell that would wash away. I even tried air freshner. The ice from the ice machine made our water taste like the smell in the room.The room had two double beds that were comfortable but the room was small. The bathroom was extra small. You could not even get in the bathtub without shutting the door. It's close to Harrah's however it is quite a walk across Canal street to Bourbon. We were harrassed at the corner, right outside of Doubletree trying to cross Canal. When you do cross Canal it is very dark at this point and you have at least two blocks down Canal that you must walk through at night that seem to be questionable. If you are only going to Harrah's this location is great, if you can stand the smell. If you are going to Bourbon, stay on the French Quarter side of Canal or stay somewhere with a Shuttle to the Quarter.  
+<Date>Dec 20, 2003
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+22	11(bed):1	13(bathroom):1	25(comfortable):1	26(people):1	54(door):1	57(water):1	67(call):1	128(extra):1	162(hard):1	164(air):1	179(double):1	231(smell):2	253(tried):1	439(taste):1	493(machine):1	547(ice):2	687(renovation):1	955(describe):1	1016(musty):1	1023(bathtub):1	1086(shut):1	7690(freshner):1	
+22	1(location):1	2(night):1	7(walk):2	28(close):1	35(street):1	76(try):1	98(outside):1	100(bloc):1	200(corner):1	231(smell):1	254(french):1	321(shuttle):1	444(stand):1	459(dark):1	463(quarter):2	638(canal):5	1038(bourbon):2	1228(cross):2	3292(harrah):2	3306(doubletree):1	3391(questionable):1	6089(harrass):1	
+9	3(clean):1	50(bad):1	68(travel):1	231(smell):1	541(appear):1	588(orleans):1	811(wash):1	1573(frequently):1	1697(smelly):1	
+0	
+0	
+0	
+

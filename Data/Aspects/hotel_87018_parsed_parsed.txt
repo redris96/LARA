@@ -1,0 +1,518 @@
+<Author>westcoastdriver
+<Content>Okay hotel This is an older hotel, but was fine. I was given a room on the 16th floor (top floor exept for the PH), facing the street. The windows do not seal when closed, so the sound coming from the street was as if the windows were wide open. The lobby was large and nicely furnished, and the staff were all very friendly and extremely helpful. It was a short walk to the beach and all of the shopping in Waikiki. The pool area was clean, and was empty most of the time.  
+<Date>Dec 20, 2008
+<Rating>3	3	3	3	5	5	5	5	
+<Aspects>
+2	113(fine):1	453(okay):1	
+0	
+12	0(staff):1	12(friendly):1	14(helpful):1	24(floor):2	35(street):1	55(lobby):1	110(extremely):1	118(top):1	404(nicely):1	787(furnish):1	2029(16th):1	11841(exept):1	
+11	7(walk):1	28(close):1	30(beach):1	35(street):1	49(shop):1	119(window):2	144(short):1	409(sound):1	472(waikiki):1	860(wide):1	2860(seal):1	
+4	3(clean):1	5(time):1	22(pool):1	810(empty):1	
+0	
+0	
+0	
+
+<Author>cvband6
+<Content>Good value for a overnight stay Older clean and quiet, no-frills (including no restaurant) hotelDecent workout room - small poolStaff amazingly helpful and friendlyA short walk from the beach - next door to the Hilton Hawaiin VillageVery good price option hotel for a one night stay before we headed out for the cruise - would not have wanted to spend more time there  
+<Date>Aug 1, 2008
+<Rating>3	3	2	2	4	5	5	3	
+<Aspects>
+0	
+0	
+0	
+23	2(night):1	3(clean):1	5(time):1	7(walk):1	10(restaurant):1	14(helpful):1	19(price):1	30(beach):1	54(door):1	58(quiet):1	64(spend):1	71(include):1	81(value):1	144(short):1	319(head):1	336(option):1	477(hilton):1	603(cruise):1	1171(overnight):1	1801(workout):1	1846(amazingly):1	5540(no-frills):1	6587(hawaiin):1	
+0	
+0	
+0	
+0	
+
+<Author>splooterjr
+<Content>good experience Family of four-we stayed there for a week in march and have nothing to complain about. It was clean, the staff were helpful and polite. Yes, it is a 15-20 minute walk to popular area of waikiki but we enjoyed walking back to the hotel with a warm wind at night. If you want the beach, there is a closer beach across the street(5 minute walk). Our room faced onto the main blvd but noise did not seem to be an issue. They gave us a late check out and held our luggage after that since our flight wasn't until 9pm. Pool was small but never seemed to be many people in it so was fine for our family. overall, great stay, clean, simple, great staff.  
+<Date>Mar 21, 2008
+<Rating>4	4	3	3	4	5	5	-1	
+<Aspects>
+0	
+5	44(experience):1	75(week):1	106(family):1	241(complain):1	615(march):1	
+9	32(check):1	79(late):1	94(noise):1	112(main):1	233(flight):1	249(luggage):1	265(issue):1	593(hold):1	2767(blvd):1	
+16	2(night):1	7(walk):3	22(pool):1	26(people):1	28(close):1	29(minute):2	30(beach):2	35(street):1	51(enjoy):1	106(family):1	113(fine):1	236(warm):1	250(yes):1	472(waikiki):1	1168(wind):1	1277(popular):1	
+6	0(staff):2	3(clean):2	14(helpful):1	70(overall):1	422(polite):1	613(simple):1	
+0	
+0	
+0	
+
+<Author>rodntrace
+<Content>Pay to stay on the beach! If you want the true Hawaiian Experience, do not stay here. Yes, the rooms are clean, but they are also small. It is not as close to the beach as the state, I believe it is because the path to the beach is blocked by a new hotel being built. The atmosphere is one of a city hotel, no paradise feel. No lounge or restaurant, unless you count the lousy Chinese Buffet connected to the hotel. The bed was uncomfortable, the pool was small and uninviting and the staff was mediocre at best. I have no complaints about the service, however, it is definately no frills all around. This was my first trip to Hawaii and I would recommend trying to stay on Kalakaua Blvd, this is the main drag near the beach. Ala Moana connects to it and the hotel is practically on the corner, however this is not the end to be on. I consider this a trial trip and next time will definately spend the extra money to stay on or closer to the beach. I have stayed at many Holiday Inns and this one is substandard. My husband travels quite a bit and is priority club for this chain, he commented that he has had better stays at Holiday Inn Express. If you do stay here, just plan on sleeping(if you like a rock hard mattress) and showering in the room only! With my husband at the desk checking email, I had to climb over the bed to get to the other side of the room!! All of this and no balcony either. We stayed with gift certificates from my husbands points, and I would still pay $ to stay somewhere else. Do yourself a favor and pay to stay somewhere else, especially if your not sure you can go back, you'll be happy you did!!  
+<Date>Mar 13, 2008
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	200(corner):1	223(holiday):1	324(inn):1	841(connect):1	1480(ala):1	1850(practically):1	1901(moana):1	4341(substandard):1	
+16	30(beach):1	34(feel):1	41(city):1	42(pay):3	44(experience):1	105(husband):1	126(especially):1	155(happy):1	170(else):2	414(atmosphere):1	576(yourself):1	748(Paradise):1	852(gift):1	1434(hawaiian):1	1521(favor):1	4328(certificate):1	
+19	0(staff):1	3(clean):1	11(bed):2	22(pool):1	32(check):1	36(desk):1	61(shower):1	104(sleep):1	105(husband):1	162(hard):1	191(balcony):1	221(plan):1	250(yes):1	773(rock):1	847(mattress):1	856(uncomfortable):1	1340(mediocre):1	1424(climb):1	6343(uninvite):1	
+22	5(time):1	15(recommend):1	28(close):2	30(beach):4	33(trip):2	64(spend):1	76(try):1	80(money):1	102(near):1	112(main):1	128(extra):1	135(build):1	248(consider):1	312(believe):1	410(definately):1	904(hawaii):1	1612(path):1	1699(drag):1	1898(block):1	2767(blvd):1	4882(kalakaua):1	9909(trial):1	
+0	
+0	
+22	9(service):1	10(restaurant):1	52(bit):1	68(travel):1	77(buffet):1	105(husband):1	190(complaint):1	212(club):1	223(holiday):1	237(lounge):1	324(inn):1	356(comment):1	405(unless):1	410(definately):1	627(chain):1	764(chinese):1	841(connect):1	1124(express):1	1781(Count):1	1985(priority):1	2210(frill):1	2409(lousy):1	
+0	
+
+<Author>tm_smile
+<Content>Basic, no-frills accomodation       Hotel Room  
+<Date>Mar 13, 2008
+<Rating>3	4	3	4	4	4	4	5	
+<Aspects>
+0	
+3	352(basic):1	780(accomodation):1	5540(no-frills):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>debbiejo
+<Content>Budget Accommodations This hotel is located on Ala Moana Blvd. so be aware that there can be street noise on that side of the hotel. Also, they are building a new hotel across the street, so the construction starts early and lasts all day. You are subjected to this noise while you are at the pool, which is a decent size, but not heated. There is a nice beach across the street at the Hilton Hawaiian Village which also has free fireworks on Friday nights. I think most of the other reviews are pretty spot on about this hotel. The rooms are a bit dated, but do have refrigerators which is nice. The staff is very friendly and helpful. My AC was not loud and blocked out some of the street noise. There are two computers for guests in the lobby, but are busy most of the time. There is also an Asian restaurant at the hotel serving all day. It is buffet only. The gym was not the greatest, but ok for a few days. There is also a tour desk on site. The hotel is close to the Ala Moana Mall and about a 10-15 minute walk to Waikiki Beach. If you want to stay in a luxury hotel, this is not the place for you. The Holiday Inn is for people who want to stay in a clean room and save a few bucks at the same time.  
+<Date>Feb 21, 2008
+<Rating>3	3	3	3	3	3	3	3	
+<Aspects>
+4	37(review):1	109(pretty):1	317(spot):1	437(luxury):1	
+11	8(day):1	35(street):1	84(locate):1	135(build):1	165(start):1	429(budget):1	583(construction):1	721(accommodation):1	1480(ala):1	1901(moana):1	2767(blvd):1	
+17	3(clean):1	4(nice):1	5(time):1	22(pool):1	26(people):1	52(bit):1	83(size):1	94(noise):1	223(holiday):1	257(decent):1	324(inn):1	425(save):1	511(date):1	539(heat):1	916(refrigerator):1	1120(buck):1	2979(subject):1	
+25	2(night):1	4(nice):1	7(walk):1	28(close):1	29(minute):1	30(beach):2	35(street):3	36(desk):1	46(free):1	94(noise):2	181(tour):1	192(site):1	416(loud):1	472(waikiki):1	477(hilton):1	643(mall):1	832(aware):1	923(friday):1	956(ac):1	1087(village):1	1434(hawaiian):1	1480(ala):1	1898(block):1	1901(moana):1	2928(fireworks):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+7	8(day):2	10(restaurant):1	77(buffet):1	123(ok):1	174(serve):1	523(gym):1	1328(asian):1	
+5	5(time):1	55(lobby):1	91(guest):1	220(busy):1	555(computer):1	
+
+<Author>inmauinow
+<Content>If You have to overnight in Honolulu I think Honolulu must have the largest collection of shabby and overpriced 2 and 3 star hotels in the world. Normally I stay at the New Otani which is a $140-$160 per night property, great location, breakfast on the beach, some nice views and friendly staff. Rooms are so so. I thought I would try something different for a change and wanted to be closer to Ala Moana shopping and movies. The Holiday Inn was offering a $125/night room with free high speed internet access and is only a 10 minute walk from Ala Moana and Victoria Plaza shopping.The staff were very helpful, room was generous in size, internet access worked as advertised.If you book a stay DEFINITELY ask for a room NOT facing Ala Moana Blvd unless you find traffic noise soothing.Overall a good stay, average by most standards but a tremendous value for Waikiki.  
+<Date>Oct 18, 2007
+<Rating>3	5	4	4	3	4	4	3	
+<Aspects>
+0	
+13	70(overall):1	81(value):1	103(star):1	130(standard):1	227(average):1	272(world):1	472(waikiki):1	727(overprice):1	1171(overnight):1	1319(shabby):1	1395(honolulu):2	2671(tremendous):1	2694(collection):1	
+16	0(staff):1	14(helpful):1	18(book):1	59(definitely):1	83(size):1	94(noise):1	97(internet):1	159(access):1	405(unless):1	486(traffic):1	910(advertise):1	1480(ala):1	1523(generous):1	1901(moana):1	2767(blvd):1	3268(soothe):1	
+29	0(staff):1	1(location):1	2(night):1	4(nice):1	6(breakfast):1	7(walk):1	12(friendly):1	17(view):1	28(close):1	29(minute):1	30(beach):1	46(free):1	49(shop):2	76(try):1	89(offer):1	97(internet):1	159(access):1	161(change):1	214(property):1	223(holiday):1	324(inn):1	515(plaza):1	989(movie):1	1091(normally):1	1170(speed):1	1480(ala):2	1830(victoria):1	1901(moana):2	5937(otani):1	
+0	
+0	
+0	
+0	
+
+<Author>trvlerjenn
+<Content>Great service, free internet I stayed here for one night while transiting through Hawaii. My flight was delayed and I didn't end up at the hotel until around 0430. The agent already knew who I was when I walked throught the door. When questioned how she knew, she replied because you're the last check-n. I found that to be a good sign, meaning, the staff actually is paying attention to details. Actually, the entire staff is extremely courteous and friendly. The room itself is what I expected, nothing too fancy, but free high-speed internet (which most hotels charge extra for). There is some street noise, but nothing too terrible. I would definitely stay here again and recommend it for business travelers or people who want to just make a 'base camp' while they are in Waikiki.  
+<Date>Sep 14, 2007
+<Rating>4	5	4	4	5	5	5	5	
+<Aspects>
+0	
+7	0(staff):1	42(pay):1	180(actually):1	246(mean):1	449(sign):1	592(detail):1	726(attention):1	
+2	233(flight):1	1351(delay):1	
+15	7(walk):1	15(recommend):1	26(people):1	35(street):1	54(door):1	59(definitely):1	94(noise):1	147(business):1	267(traveler):1	284(base):1	432(terrible):1	472(waikiki):1	766(agent):1	2087(camp):1	5085(throught):1	
+0	
+8	0(staff):1	12(friendly):1	110(extremely):1	180(actually):1	329(entire):1	394(question):1	483(courteous):1	1811(reply):1	
+6	2(night):1	9(service):1	46(free):1	97(internet):1	904(hawaii):1	2015(transit):1	
+7	46(free):1	62(expect):1	97(internet):1	128(extra):1	136(charge):1	796(fancy):1	3436(high-speed):1	
+
+<Author>Sloshgator
+<Content>Clean, no-frills room in a good location Holiday Inn Waikiki is nothing fancy, but will get you a clean room at a good price in an expensive area. It is great if you are basicly just using the room as a base and a place to sleep while touring around Waikiki.The hotel sits off the road with just a drive on the main street. There is a chinese restaurant in front of the entrance. It is walking distance from the beach (I did not go there), shopping and many restaurants including McDonalds, Starbucks and the popular Wailana Coffee House (decent food.) There is a bus stop out front, too (kind of in front of the chinese restaurant.)The lobby is small and basic for a Holiday Inn. You will find just coffee there in the morning. There is no restaurant on the premises. The staff is friendly and accomodating (they held our luggage in the back on the day we arrived early, and the day we checked out and then went sightseeing.) The rooms are basic, but clean. Ours had a refridgerator. The A/C unit was kind of loud (not unusual for this category of room.) We had a room that faced the street (Ala Moana Blvd) which added to the noise level at night. (Tip: Try to get a room that faces the back of the hotel. This might cut down on the noise.) The hotel has a pool, but we did not use it.In addition to the restaurants on Ala Moana Blvd, there are restaurants and shopping in the Hilton complex across the street. There is also an ABC (convenience) store there where you can buy an OK breakfast or lunch and sit at outdoor tables next to the pool. We weren't shy about this, and no one ever chased us away for not buying the outdoor cafe food.One last observation: pilots and flight attendants from China and Japan airlines were staying in the Holiday Inn while we were there. I take this an indicator of consistancy (quality, price) since they are obviously in Honolulu all the time, and the hotel is not real close to the airport.  
+<Date>Jun 22, 2007
+<Rating>3	4	3	5	5	5	5	-1	
+<Aspects>
+3	22(pool):1	94(noise):1	873(cut):1	
+17	1(location):1	3(clean):2	5(time):1	19(price):2	28(close):1	95(airport):1	124(expensive):1	187(quality):1	223(holiday):1	240(real):1	324(inn):1	472(waikiki):1	781(obviously):1	796(fancy):1	1395(honolulu):1	5540(no-frills):1	9736(indicator):1	
+30	2(night):1	3(clean):1	35(street):1	76(try):1	94(noise):1	104(sleep):1	181(tour):1	194(tip):1	223(holiday):1	233(flight):1	284(base):1	306(level):1	324(inn):1	351(add):1	352(basic):1	416(loud):1	472(waikiki):1	980(unit):1	1159(china):1	1336(airline):1	1446(attendant):1	1480(ala):1	1610(unusual):1	1900(japan):1	1901(moana):1	2011(category):1	2767(blvd):1	3337(observation):1	6527(pilot):1	12156(basicly):1	
+33	7(walk):1	10(restaurant):4	16(food):1	30(beach):1	31(front):2	35(street):2	49(shop):2	55(lobby):1	71(include):1	90(coffee):1	112(main):1	115(distance):1	120(bus):1	122(stop):1	169(sit):1	223(holiday):1	230(road):1	257(decent):1	281(house):1	298(drive):1	324(inn):1	352(basic):1	477(hilton):1	764(chinese):1	918(addition):1	939(starbucks):1	1074(complex):1	1277(popular):1	1480(ala):1	1901(moana):1	2524(mcdonalds):1	2767(blvd):1	9092(wailana):1	
+0	
+13	0(staff):1	8(day):2	10(restaurant):1	12(friendly):1	31(front):1	32(check):1	53(arrive):1	249(luggage):1	490(entrance):1	549(accomodate):1	593(hold):1	640(sight-see):1	764(chinese):1	
+21	6(breakfast):1	10(restaurant):1	16(food):1	22(pool):1	56(morning):1	90(coffee):1	123(ok):1	169(sit):1	229(table):1	252(lunch):1	255(store):1	275(cafe):1	280(buy):2	843(ours):1	901(outdoor):2	925(convenience):1	1989(premiss):1	2051(abc):1	3003(chase):1	3851(refridgerator):1	4021(shy):1	
+0	
+
+<Author>lycook
+<Content>Just our kind of hotel Waikiki has a lot of fabulous and luxurious beach front hotels, however, we found most of them are rather overpriced.The Holiday Inn proved to be the best-priced hotel for us. For under $130 a night, we got a decent sized room that was clean and quiet. The bed was comfortable and the beddings were changed everyday. A good place to return to after a day at the beach.The reception staff were friendly, even at midnight when we checked in. Our request for data cables to connect to the internet was fulfilled, without additional charge. And broadband internet access was free.The laundry facility was convenient and the gym was well equiped.  
+<Date>Jun 3, 2007
+<Rating>5	5	5	3	5	5	5	5	
+<Aspects>
+0	
+10	30(beach):1	31(front):1	38(lot):1	223(holiday):1	270(fabulous):1	324(inn):1	472(waikiki):1	708(luxurious):1	727(overprice):1	1554(prove):1	
+10	2(night):1	3(clean):1	11(bed):1	25(comfortable):1	58(quiet):1	83(size):1	161(change):1	257(decent):1	605(everyday):1	8874(bedding):1	
+3	8(day):1	30(beach):1	39(return):1	
+0	
+13	0(staff):1	12(friendly):1	32(check):1	97(internet):1	129(reception):1	136(charge):1	148(request):1	484(cable):1	835(additional):1	841(connect):1	1044(midnight):1	3601(fulfil):1	7921(data):1	
+5	186(convenient):1	211(facility):1	523(gym):1	1075(laundry):1	2976(equipe):1	
+4	46(free):1	97(internet):1	159(access):1	2825(broadband):1	
+
+<Author>razorrrrrback
+<Content>Good hotel for the money We stayed at Holiday Inn for one night prior to our cruise and found the property clean and had a very comfortable bed. We had a tour scheduled for the morning of our depature and the hotel was nice enough to allow us to store our luggage with them until we got back..The staff was very friendly and the chinese buffet was pretty good. I will stay there again on my next visit.  
+<Date>May 15, 2007
+<Rating>4	4	4	4	5	4	5	-1	
+<Aspects>
+1	65(visit):1	
+0	
+10	2(night):1	3(clean):1	11(bed):1	25(comfortable):1	80(money):1	214(property):1	223(holiday):1	324(inn):1	603(cruise):1	637(prior):1	
+0	
+0	
+0	
+12	0(staff):1	4(nice):1	12(friendly):1	56(morning):1	77(buffet):1	109(pretty):1	181(tour):1	249(luggage):1	255(store):1	359(allow):1	764(chinese):1	1196(schedule):1	
+0	
+
+<Author>epsalon
+<Content>Good experience I am currently staying at the Holiday Inn Waikiki. The reception staff were friendly, and the facilities in the room worked as expected, including a free safe deposit box and free Internet access both wired and wireless (though the wireless is by accident and not supplied by the hotel).The problems I did run into were unclear information in the service booklet in the room, which mentioned use of the safe costs money. Furthermore, if you want to catch a public bus downtown or to other Oahu attractions you have to walk about 2 blocks. Even the airport shuttle did dropped me a short walk from the hotel entrance.The hotel is several blocks away from both the beach and the conference center, which means you do not need to take a car or bus if you are attending either of these.In all, for $100+tax a night for two double beds, this hotel is satisfactory.  
+<Date>May 15, 2007
+<Rating>3	4	4	2	4	4	-1	4	
+<Aspects>
+0	
+5	44(experience):1	223(holiday):1	324(inn):1	472(waikiki):1	2006(currently):1	
+5	2(night):1	11(bed):1	179(double):1	798(tax):1	2059(satisfactory):1	
+20	7(walk):2	30(beach):1	95(airport):1	100(bloc):2	101(center):1	120(bus):2	121(car):1	144(short):1	246(mean):1	321(shuttle):1	334(downtown):1	350(attraction):1	379(public):1	490(entrance):1	540(catch):1	662(drop):1	794(conference):1	826(attend):1	1673(oahu):1	3360(furthermore):1	
+0	
+0	
+9	9(service):1	80(money):1	137(safe):1	149(run):1	175(cost):1	244(mention):1	649(information):1	5697(booklet):1	8471(unclear):1	
+16	0(staff):1	12(friendly):1	46(free):2	62(expect):1	71(include):1	97(internet):1	129(reception):1	137(safe):1	159(access):1	211(facility):1	717(wireless):2	859(supply):1	945(box):1	1603(deposit):1	1904(wire):1	3213(accident):1	
+
+<Author>FrequentFrier
+<Content>Off the beaten track The Holiday Inn Waikiki is opposite the Hilton Hawaiian Village - but you wouldn't know it, because it is hidden back from busy Ala Moana Boulevarde. Rooms away from the road do not have too much road noise - but do have noise from air conditioning.I found the hotel very clean and the staff pleasant and helpful. I didn't try the restaurant, but the patrons inside looked well fed. Recreational facilities are nothing to write home about, and you need to cross the road to reach Waikiki's beach - and then down near the Hilton, so several hundred metres from the main part. However, being closer to town means that the Ala Moana shopping center is within walking distance. I would recommend this hotel for a night or two in Honolulu, especially if you want to spend your savings (compared to the big name hotels in Waikiki) on food, shopping or adventures.  
+<Date>May 10, 2007
+<Rating>3	4	3	3	4	4	4	-1	
+<Aspects>
+0	
+0	
+10	10(restaurant):1	20(look):1	76(try):1	94(noise):2	164(air):1	230(road):2	263(condition):1	408(inside):1	2373(feed):1	2512(patron):1	
+42	2(night):1	7(walk):1	15(recommend):1	16(food):1	28(close):1	30(beach):1	49(shop):2	64(spend):1	101(center):1	102(near):1	112(main):1	115(distance):1	126(especially):1	141(home):1	211(facility):1	220(busy):1	223(holiday):1	230(road):1	239(town):1	246(mean):1	295(name):1	324(inn):1	344(write):1	381(compare):1	442(beat):1	472(waikiki):3	477(hilton):2	783(opposite):1	851(reach):1	1087(village):1	1194(metre):1	1195(hide):1	1228(cross):1	1395(honolulu):1	1434(hawaiian):1	1480(ala):2	1766(track):1	1861(adventure):1	1901(moana):2	2206(hundred):1	3933(savings):1	8782(recreational):1	
+4	0(staff):1	3(clean):1	14(helpful):1	150(pleasant):1	
+0	
+0	
+0	
+
+<Author>twester104
+<Content>bed was very comfortable........ My husband had a business trip to Oahu and he arranged it so I could go with him.The first couple of nights, it was so noisy in the room right over us that we could not sleep most of the night. The noise continued til about 3 or 4 am.......after a 9 hrs flight it made for a very restless night. Then two days before we left there was a bunch of kids it sound like that was jumping on the beds and making all kinds of noise for most of the night. The bed was pretty comfortable though.The staff were all very friendly and helpful.  The rooms are pretty dated and room service was okay....had better. The coffee pot didn't get cleaned every day and we had to keep asking for extra packets of coffee....they need bigger pots.Our view was the parking lot.....and a tiny sneak peek of the ocean in between the buildings off to the side of our balcony. ....the railings were a little scary to stand next to. Our visitors also felt 'a little shakey' around them. The ac was noisy.The parking was very limited....we were lucky to find a place to park some nights....it was a good thing that we could walk to some of the other places.  
+<Date>Mar 6, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+11	23(little):2	34(feel):1	94(noise):1	217(noisy):1	444(stand):1	951(visitor):1	956(ac):1	1096(continue):1	1566(scary):1	2196(til):1	8617(railing):1	
+0	
+34	2(night):4	8(day):1	9(service):1	11(bed):3	17(view):1	25(comfortable):2	33(trip):1	38(lot):1	43(leave):1	66(park):1	94(noise):1	99(couple):1	104(sleep):1	105(husband):1	109(pretty):2	147(business):1	191(balcony):1	201(kid):1	205(ocean):1	217(noisy):1	233(flight):1	338(tiny):1	409(sound):1	453(okay):1	511(date):1	680(arrange):1	745(building):1	1404(jump):1	1464(hr):1	1624(bunch):1	1673(oahu):1	3908(peek):1	4820(sneak):1	9036(restless):1	
+5	2(night):1	7(walk):1	66(park):2	510(limit):1	797(lucky):1	
+6	3(clean):1	8(day):1	90(coffee):2	128(extra):1	1447(pot):2	3101(packet):1	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>Jana2915
+<Content>Great View, Wonderful Service~ I stayed at the Waikiki Holiday Inn for five nights in November of this past year and loved it. While not paying attention the first day I went right past the entrance, which while marked is easy to go by if you're not paying attention. I was on the 9th floor and had a wonderful view of the ocean, albeit over the hotel across the road. The staff was extremely helpful and the housekeepers were extremely friendly and helpful. You do have to pay for parking, but the price includes lock-out service, which I used when we left the keys in the car. In about 20 minutes they had a service person there to unlock our car, even though I had AAA. The lobby is beautiful and the staff took wonderful care of anything I asked about, from directions to restuarants to additional towels. It was a wonderful experience and I recommend it to anyone heading to the Waikiki area.  
+<Date>Mar 2, 2007
+<Rating>4	4	4	4	4	5	5	4	
+<Aspects>
+0	
+19	8(day):1	9(service):1	15(recommend):1	19(price):1	42(pay):3	43(leave):1	44(experience):1	48(wonderful):1	66(park):1	71(include):1	93(easy):1	121(car):1	339(key):1	419(past):1	472(waikiki):1	490(entrance):1	726(attention):2	882(mark):1	1437(heading):1	
+12	0(staff):1	12(friendly):1	14(helpful):2	17(view):1	24(floor):1	48(wonderful):1	110(extremely):2	205(ocean):1	230(road):1	1591(housekeeper):1	2083(albeit):1	5180(9th):1	
+0	
+0	
+0	
+22	0(staff):1	2(night):1	9(service):2	17(view):1	29(minute):1	40(love):1	45(beautiful):1	48(wonderful):2	55(lobby):1	121(car):1	125(towel):1	193(person):1	223(holiday):1	242(care):1	324(inn):1	395(direction):1	419(past):1	472(waikiki):1	835(additional):1	999(november):1	2095(restuarants):1	3599(unlock):1	
+0	
+
+<Author>CptLou
+<Content>Business Trip Not too bad and within walking distance of the beach. I did have a problem when the night General manager accused me of ordering a movie when I told him I had not. Also I was surprised the room did not have a microwave oven. Finally, on the first night, the front desk had the professionalism of a teenager on the phone. I should have gone across the street at the hilton. However, on a positive note, the bell boys were very helpful in recommending local places to eat.  
+<Date>Feb 12, 2007
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+8	14(helpful):1	15(recommend):1	47(eat):1	195(local):1	297(note):1	458(positive):1	801(bell):1	881(boy):1	
+0	
+3	199(surprise):1	820(microwave):1	2916(oven):1	
+8	7(walk):1	30(beach):1	33(trip):1	35(street):1	50(bad):1	115(distance):1	147(business):1	477(hilton):1	
+0	
+11	2(night):2	31(front):1	36(desk):1	69(tell):1	258(manager):1	296(phone):1	341(finally):1	989(movie):1	1594(teenager):1	3305(professionalism):1	5018(accuse):1	
+0	
+0	
+
+<Author>redmud
+<Content>Basic Holiday Inn We checked in after a few problems with our reservation. Our family of 5 was relegated to one bedroom after having booked 2, but nevertheless we made it work. This Holiday Inn is off the beaten path to Waikiki, but close enough to walk. We usually pick Holiday Inn's when staying across the States and are almost always satisfied with our stay. This one, however, didn't quite meet our expectations. I guess most hotels in Honolulu are pricey for what you get, and even then, they aren't always the best quality. You can basically expect a not-very-nice H.I. 3 star. I would downgrade it to a 2 star, but it is still clean..and the beds were comfortable enough I guess. Just do the mental degrade on the star rating, and you shouldn't have any surprises with what you're expecting and what you end up getting.  
+<Date>Jan 23, 2007
+<Rating>2	2	3	3	3	2	2	-1	
+<Aspects>
+5	223(holiday):1	266(pick):1	324(inn):1	399(usually):1	899(satisfy):1	
+14	3(clean):1	62(expect):2	78(rate):1	103(star):3	187(quality):1	196(meet):1	199(surprise):1	431(expectation):1	469(guess):1	546(pricey):1	790(basically):1	1395(honolulu):1	4347(downgrade):1	8273(mental):1	
+7	11(bed):1	18(book):1	25(comfortable):1	106(family):1	268(bedroom):1	469(guess):1	11903(relegate):1	
+7	7(walk):1	28(close):1	223(holiday):1	324(inn):1	442(beat):1	472(waikiki):1	1612(path):1	
+0	
+5	32(check):1	156(reservation):1	223(holiday):1	324(inn):1	352(basic):1	
+0	
+0	
+
+<Author>suewick
+<Content>100% Satisfied This is a basic, clean, no frills hotel. We had stayed there 11 years ago and were pleased to see that standards had been maintained. Our room on the 14th floor overlooked Ala Moana Boulevard and we were pleased that there was minimal traffic noise. There was some construction across the street but we experienced no noise from it. Our room consisted of two queens, a fridge, coffee maker (with free coffee), a television with limited free channels (pay movies and games were available), storage space for clothes was a bit limited but sufficent for the two of us. If there were more people in the room this may have been a problem on a long stay. Most rooms do not have balconies which may be an issue for some. It is about a 10 minute walk to the beach behind the Hilton Hawaiian Village. The main bonus for us was the cleanliness of the room and all of its fixture, linens, towels etc. Also the price $118 per night. All members of staff we encountered were extremely polite, friendly and helpful. The pool is quite small but by comparision the deck area was large. We didn't use the pool (the beach is too nice to lie by the pool) and in fact we never saw anyone using the pool area. Adjacent to the pool area is a small fitness room which seemed to have adequate equipment and was being used. There is a chinese buffet restaurant at the front of the hotel which didn't look very appetising to us but seemed to be popular at times. There is a small gift shop and a tour desk in the hotel. Within walking distance of the hotel there is a wealth of restaurants, fast food establishments and shops. Restaurants nearby are Outback Steakhouse, Red Lobster, Kobe Steakhouse, Shanghai Bistro, Wailana Coffee House, Singha and Todai. For fast food there is McDonalds, Subway and a little Sushi place in the Discovery Bay Centre. There is also a nice sports bar in the Discovery Bay Centre which also serves food. Also close by you have two ABC stores. The Ala Moana Shopping Centre is about 10 minutes walk away as is the Hard Rock Cafe.  
+<Date>Nov 9, 2006
+<Rating>5	5	4	3	5	5	5	-1	
+<Aspects>
+0	
+6	2(night):1	19(price):1	35(street):1	44(experience):1	94(noise):1	583(construction):1	
+35	22(pool):1	24(floor):1	26(people):1	42(pay):1	46(free):2	52(bit):1	90(coffee):2	94(noise):1	134(available):1	173(please):1	191(balcony):1	210(space):1	260(overlook):1	265(issue):1	318(fridge):1	390(adequate):1	486(traffic):1	510(limit):2	543(Queen):1	683(game):1	709(clothe):1	741(channel):1	983(fitness):1	989(movie):1	996(maker):1	1061(adjacent):1	1158(television):1	1185(consist):1	1211(equipment):1	1311(storage):1	1480(ala):1	1615(minimal):1	1901(moana):1	1998(14th):1	2931(boulevard):1	
+30	4(nice):1	7(walk):3	10(restaurant):1	16(food):1	22(pool):4	28(close):1	29(minute):2	30(beach):2	36(desk):1	49(shop):3	101(center):1	115(distance):1	162(hard):1	181(tour):1	255(store):1	275(cafe):1	477(hilton):1	499(fast):1	773(rock):1	852(gift):1	1087(village):1	1166(lie):1	1406(deck):1	1434(hawaiian):1	1473(establishment):1	1480(ala):1	1901(moana):1	2051(abc):1	5782(wealth):1	10152(comparision):1	
+15	3(clean):1	73(etc):1	112(main):1	125(towel):1	130(standard):1	173(please):1	352(basic):1	562(maintain):1	630(linen):1	633(ago):1	849(bonus):1	854(cleanliness):1	899(satisfy):1	1541(fixture):1	2210(frill):1	
+6	0(staff):1	12(friendly):1	14(helpful):1	110(extremely):1	422(polite):1	693(encounter):1	
+32	4(nice):1	5(time):1	10(restaurant):2	16(food):2	20(look):1	23(little):1	27(bar):1	31(front):1	77(buffet):1	90(coffee):1	101(center):2	174(serve):1	232(nearby):1	281(house):1	370(subway):1	499(fast):1	590(red):1	671(bay):2	764(chinese):1	919(sport):1	1113(lobster):1	1277(popular):1	1315(steakhouse):2	1632(sushi):1	2099(outback):1	2524(mcdonalds):1	2585(bistro):1	3951(discovery):2	5280(shanghai):1	9092(wailana):1	10624(appetise):1	11109(kobe):1	
+0	
+
+<Author>BayAreaResident
+<Content>We enjoyed our stay We stayed at the Holiday Inn Waikiki for 7 nights at the end of August 2006. We were on the 10th floor. The room was average size but was clean. The hotel is old and there are no frills but it met our needs. The price was good ($100/night). The hotel had a decent fitness center. The swimming pool was hardly used by the other guests so we had the pool to ourselves most of the time. The hotel is in a good location. It was 15 minute walk from Ala Moana Beach Park which my kids (3 years and 7 years old) loved since there were no waves at this beach. This beach was not crowded so it was just what we were looking for. Across the beach is the Ala Moana Shopping Center. The food at the Ala Moana shopping center was good and the prices were reasonable. We ate most of our meals there. The hotel is also within walking distance (about 15 minutes) to Internation Market (for shopping and food.Overall, we enjoyed our stay. The hotel was not fancy but clean and comfortable and was in a good location. It's outside of Waikiki but close enough to walk to. The staff are friendly and helpful. If we go back to Honolulu, we would stay here again.  
+<Date>Sep 22, 2006
+<Rating>3	4	3	3	3	3	3	-1	
+<Aspects>
+11	2(night):1	47(eat):1	51(enjoy):2	70(overall):1	196(meet):1	213(meal):1	223(holiday):1	324(inn):1	472(waikiki):1	1395(honolulu):1	2210(frill):1	
+7	16(food):1	19(price):2	49(shop):1	101(center):1	273(reasonable):1	1480(ala):1	1901(moana):1	
+5	3(clean):1	24(floor):1	83(size):1	227(average):1	1592(10th):1	
+23	1(location):2	3(clean):1	7(walk):3	16(food):1	20(look):1	25(comfortable):1	28(close):1	29(minute):2	30(beach):4	40(love):1	49(shop):2	66(park):1	98(outside):1	101(center):1	115(distance):1	201(kid):1	264(market):1	313(crowd):1	472(waikiki):1	796(fancy):1	836(wave):1	1480(ala):2	1901(moana):2	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+6	5(time):1	22(pool):2	91(guest):1	261(swim):1	767(ourselves):1	985(hardly):1	
+3	101(center):1	257(decent):1	983(fitness):1	
+
+<Author>jtdriver
+<Content>Pleasant Stay We stayed 5 nights in August 2006 and enjoyed the stay. The place has been around a while and shows its age here and there but is well maintained. The staff was friendly and helpful. The woman directing traffic in the parking lot was great. It's a couple miles from the heart of Waikiki, but it was a great value and we had no trouble walking or driving to Waikiki and around the rest of O'ahu from here.  
+<Date>Sep 3, 2006
+<Rating>4	4	4	3	4	4	5	5	
+<Aspects>
+3	2(night):1	51(enjoy):1	150(pleasant):1	
+9	7(walk):1	81(value):1	99(couple):1	288(rest):1	298(drive):1	450(heart):1	472(waikiki):2	569(trouble):1	692(mile):1	
+0	
+5	38(lot):1	66(park):1	486(traffic):1	566(woman):1	803(direct):1	
+2	505(age):1	562(maintain):1	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good hotel My boyfriend and I stayed here for a week at the end of April and were very happy with our stay. The rooms were nice and clean and all of the staff were very friendly and accomodating.There is a tour desk in the hotel to help with any excursion plans and the staff are more than happy to recommend restaurants and attractions to you.There is a Chinese restaurant attached to the hotel, but we didn't find it had a very appealing breakfast or good selection for the other meals. There is, however, a place about a block away called the Wailana Coffee House that is open 24hrs/day and has an excellent selection for all meals and breakfast is available all day. There is also a great sushi place across the street from the coffee house and many other restaurants in the area as well from seafood to steak to burgers.The hotel is not on the beach, but does have a nice outdoor pool. If you want to go to the beach it is only a 5-10 minute walk by cutting through the Hilton Hawaiian Village hotel. All beaches in Hawaii are, by law, public so it is not a problem to use another hotel's beach.Overall, we found the Holiday Inn to be a very nice hotel. There were no frills or extras, but for a place to sleep while we enjoyed all that Hawaii had to offer, we found it to be very reasonably priced and more than adequate to fit our needs. We would definitely stay here again.  
+<Date>May 11, 2006
+<Rating>4	4	4	-1	4	-1	4	-1	
+<Aspects>
+8	4(nice):1	59(definitely):1	70(overall):1	75(week):1	155(happy):1	223(holiday):1	324(inn):1	763(boyfriend):1	
+15	0(staff):1	3(clean):1	4(nice):1	12(friendly):1	19(price):1	51(enjoy):1	89(offer):1	104(sleep):1	128(extra):1	390(adequate):1	549(accomodate):1	578(reasonably):1	668(fit):1	904(hawaii):1	2210(frill):1	
+0	
+13	4(nice):1	7(walk):1	22(pool):1	29(minute):1	30(beach):4	379(public):1	477(hilton):1	873(cut):1	901(outdoor):1	904(hawaii):1	1087(village):1	1434(hawaiian):1	2619(law):1	
+0	
+10	0(staff):1	10(restaurant):1	15(recommend):1	36(desk):1	92(help):1	155(happy):1	181(tour):1	221(plan):1	350(attraction):1	734(excursion):1	
+21	6(breakfast):2	8(day):1	10(restaurant):2	21(excellent):1	35(street):1	67(call):1	90(coffee):2	100(bloc):1	134(available):1	213(meal):2	281(house):2	333(selection):2	660(steak):1	764(chinese):1	815(seafood):1	1157(burger):1	1224(attach):1	1632(sushi):1	1679(appeal):1	4170(24hrs):1	9092(wailana):1	
+0	
+
+<Author>cohusker
+<Content>A good hotel for the money It is a good hotel, but a little far from the action of Waikiki. Parking is $12/day which I think it a little high, but since the hotel rates are around the $100/night range, paying for parking isn't that big a deal. Also, the parking that the hotel does have is very limited. I saw it fill up at night and I wondered where the rest of the hotel guests parked. The hotel is very difficult to find if you follow the directions on its web site (I would call ahead to get directions before leaving from HNL). The rooms are average, but I couldn't find a free wireless signal for my PDA...there was only a wired option in the room. :(  
+<Date>May 8, 2006
+<Rating>4	5	3	-1	5	-1	-1	-1	
+<Aspects>
+4	23(little):1	80(money):1	472(waikiki):1	958(action):1	
+6	23(little):1	42(pay):1	66(park):2	78(rate):1	140(deal):1	714(range):1	
+6	46(free):1	227(average):1	336(option):1	717(wireless):1	1904(wire):1	2974(signal):1	
+16	2(night):1	43(leave):1	66(park):2	67(call):1	91(guest):1	192(site):1	288(rest):1	395(direction):2	482(follow):1	491(fill):1	510(limit):1	572(difficult):1	946(wonder):1	976(ahead):1	1019(web):1	11321(hnl):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A good hotel We stayed at this hotel for 3 nights and were very happy with the experience. All staff were very friendly and helpful. Our room was very clean and comfortable, we asked for one away from Ala Moana Blvd noise, so it was also QUIET! This hotel is not the most new or flash around, (the hairdriers in the bathroom are ancient) but we spent US$100 per night for a king non smoking room and felt we got value for money. The room has a coffeemaker with coffee provided, a fridge, TV, alarm clock etc.There is a nice pool on level 2 - we spent some time here instead of the beach due to recent sewage spillage in the Ala Wai canal.We did not try the Chinese restaurant onsite but walked a block to a 24hr diner which was a good one. There are also many other restaurants nearby.This hotel is 5 minutes walk from the Ala Moana Center and Convention Center, also Ala Moana Beach Park. Overall a really good hotel for the price.  
+<Date>Apr 23, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+5	2(night):1	19(price):1	44(experience):1	70(overall):1	155(happy):1	
+18	2(night):1	3(clean):1	13(bathroom):1	25(comfortable):1	34(feel):1	58(quiet):1	64(spend):1	80(money):1	81(value):1	94(noise):1	243(king):1	468(smoke):1	1480(ala):1	1901(moana):1	2767(blvd):1	2867(flash):1	3356(ancient):1	9507(hairdrier):1	
+15	7(walk):2	10(restaurant):1	29(minute):1	30(beach):1	66(park):1	76(try):1	100(bloc):1	101(center):2	764(chinese):1	1048(convention):1	1324(diner):1	1480(ala):2	1901(moana):2	2629(onsite):1	3897(24hr):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+23	4(nice):1	5(time):1	10(restaurant):1	22(pool):1	30(beach):1	64(spend):1	73(etc):1	90(coffee):1	116(tv):1	153(provide):1	232(nearby):1	259(due):1	306(level):1	318(fridge):1	353(instead):1	638(canal):1	1064(recent):1	1291(clock):1	1380(alarm):1	1480(ala):1	3237(sewage):1	3763(coffeemaker):1	6589(wai):1	
+0	
+
+<Author>Doodie005
+<Content>Value for money Good value for $100/night in Waikiki area. Stayed one night after NCL cruise. Dated but clean and comfortable room. Air China and JAL crews stay here so standards have to be kept! Easy to find (follow Convention Centre signs)off H1 from airport. Parking (hotel has window stickers) at rear of hotel for $8/night. Cheap 24hr diner close(turn left out of hotel,50yds) or self service Chinese restaurant on site.  
+<Date>Mar 8, 2006
+<Rating>3	4	3	-1	3	-1	3	-1	
+<Aspects>
+3	2(night):1	603(cruise):1	10480(ncl):1	
+3	80(money):1	81(value):2	472(waikiki):1	
+17	3(clean):1	25(comfortable):1	66(park):1	93(easy):1	95(airport):1	101(center):1	119(window):1	130(standard):1	164(air):1	449(sign):1	482(follow):1	511(date):1	1048(convention):1	1159(china):1	1654(crew):1	2007(rear):1	5522(sticker):1	
+11	9(service):1	10(restaurant):1	28(close):1	43(leave):1	143(cheap):1	192(site):1	764(chinese):1	1314(self):1	1324(diner):1	3897(24hr):1	6961(yd):1	
+0	
+0	
+0	
+0	
+
+<Author>pumpkincow
+<Content>ok for the price but not impressed at all Shops and restaurants are accessible within walk distance, but the hotel is not convenient to most of the attractions in Honolulu. Walking to Waikiki takes more than 20 minutes. It's almost impossible to have a sea view from your room, only if you take the room on very top floors. Don't expect too much about this~~The only thing met my expectation is the price. However if I go to Haiwaii next time, I would pay a little more to stay in a hotel with better facilities and service.  
+<Date>Mar 1, 2006
+<Rating>2	3	2	-1	3	-1	2	-1	
+<Aspects>
+0	
+4	19(price):1	62(expect):1	196(meet):1	431(expectation):1	
+5	17(view):1	24(floor):1	118(top):1	758(sea):1	1169(impossible):1	
+13	7(walk):2	10(restaurant):1	19(price):1	29(minute):1	49(shop):1	115(distance):1	123(ok):1	186(convenient):1	343(impress):1	350(attraction):1	472(waikiki):1	1342(accessible):1	1395(honolulu):1	
+0	
+0	
+5	5(time):1	9(service):1	23(little):1	42(pay):1	211(facility):1	
+0	
+
+<Author>kml-kml
+<Content>A good deal Stayed there for 3 nights after spending a week in a conference in Hilton Hawaiian Village. Of course the contrast was there and it wasn't quite the same thing. But I think the value was very good. It's still relatively close to the beach and the room was ok. View was less pleasant, but when you're in Honolulu you don't stay in the room that much.  
+<Date>Jan 29, 2006
+<Rating>3	5	3	-1	3	-1	3	-1	
+<Aspects>
+2	293(course):1	2835(contrast):1	
+1	81(value):1	
+3	17(view):1	150(pleasant):1	1395(honolulu):1	
+12	2(night):1	28(close):1	30(beach):1	64(spend):1	75(week):1	123(ok):1	140(deal):1	477(hilton):1	794(conference):1	913(relatively):1	1087(village):1	1434(hawaiian):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Nice, Friendly Stay Stayed at the HI, Waikiki in March 05.Made very welcome by the staff. Stayed with my wife and 2 kids.Booked Penthouse Room with Balcony. Very Nice Room and Cheap.Swiming pool was very cold but was ideal been next to laundry, We could all swim while waiting for washer.Towels to take to beach or pool were available from Hotel.Kids didn't like the Buffet Breakfast but plenty of places around the corner.Including McDonalds.Location is on the edge of Waikiki which I thought was great as it was well away from all the hussle and bussle of main Waikiki. It was nice to get back to a quiet place of Waikiki after a day of noise and Fun on the beach.Location is close to shopping centre and ala moanna beach area which is quieter than Waikiki beach.Hilton Hawaii Hotel complex is accross the road and easy to get to, to use the shops and beach.The staff were very helpfull all the time. We would definately go back there again.  
+<Date>Sep 25, 2005
+<Rating>5	5	4	-1	5	-1	4	-1	
+<Aspects>
+10	4(nice):1	12(friendly):1	71(include):1	184(wife):1	201(kid):1	410(definately):1	472(waikiki):1	615(march):1	1863(hi):1	2524(mcdonalds):1	
+2	4(nice):1	143(cheap):1	
+10	4(nice):1	8(day):1	18(book):1	30(beach):1	58(quiet):1	94(noise):1	176(fun):1	191(balcony):1	472(waikiki):1	3425(penthouse):1	
+21	1(location):2	22(pool):1	28(close):1	30(beach):4	49(shop):2	58(quiet):1	93(easy):1	101(center):1	112(main):1	125(towel):1	134(available):1	230(road):1	472(waikiki):3	477(hilton):1	904(hawaii):1	1074(complex):1	1190(edge):1	1480(ala):1	2650(accross):1	5909(hussle):1	6805(bussle):1	
+0	
+4	0(staff):2	5(time):1	202(welcome):1	1478(helpfull):1	
+13	6(breakfast):1	22(pool):1	77(buffet):1	85(wait):1	158(plenty):1	200(corner):1	201(kid):1	222(cold):1	261(swim):1	545(ideal):1	1075(laundry):1	2602(washer):1	7598(swime):1	
+0	
+
+<Author>omar1671
+<Content>You get what you pay for... We just got back from a trip where we stayed at the Holiday Inn, the Prince and the Mandarin. The Holiday Inn was the cheapest (111$/night) and the worse of the bunch. Its similar to a motel 8 experience. The staff are responsive and friendly. The tour lady was nice. The bell hops enthusiastic. Wireless Internet access is free. The pool is small but seldom crowded. The workout room is adequate and clean. Our room was tiny and you could tell the place had its share of visitors. I would recommend this budget place for 2 nights or less. And then if you must stay longer, go to a higher end place for 20-30$ more. You will notice the difference.All in all, this place was a bit overpriced for what they offer. It should be in the range of 60 to 70$. Yet we had no hassles, average service, etc.  
+<Date>Jul 12, 2005
+<Rating>2	3	1	-1	2	-1	3	-1	
+<Aspects>
+12	2(night):1	4(nice):1	15(recommend):1	181(tour):1	354(notice):1	429(budget):1	521(lady):1	714(range):1	801(bell):1	819(difference):1	1151(hop):1	3456(enthusiastic):1	
+16	2(night):1	33(trip):1	42(pay):1	44(experience):1	50(bad):1	52(bit):1	89(offer):1	143(cheap):1	223(holiday):2	324(inn):2	727(overprice):1	874(similar):1	991(motel):1	1624(bunch):1	1954(mandarin):1	2041(prince):1	
+7	3(clean):1	69(tell):1	338(tiny):1	390(adequate):1	520(share):1	951(visitor):1	1801(workout):1	
+3	22(pool):1	313(crowd):1	5416(seldom):1	
+0	
+3	0(staff):1	12(friendly):1	2351(responsive):1	
+4	9(service):1	73(etc):1	227(average):1	1193(hassle):1	
+4	46(free):1	97(internet):1	159(access):1	717(wireless):1	
+
+<Author>tmac30
+<Content>Holliday Hell This was a terrible experience from start to end. We checked into our room which was booked as a king or queen to our surprise it was two small double beds. Went down to the front desk and was switched with a big hassle and lots of people making us feel like we were putting them out. When we got to our new room it had a terrible smell with cigarette burns in all the covers and even stained towels. As well, the window was cracked and barley closed but gave some fresh air and might help with the mold growing in the bathroom. We were booked and paid for two nights and ended up leaving early and going to a different hotel. We have stayed at lots of three and some two star hotels but this was the worst hotel we have ever been in. The service was so bad no one even asked us why we were going to a different hotel and we could not book a tour with them as they would not help us. Spend the extra $25 or $50 and stay someplace nicer.  
+<Date>Jun 12, 2005
+<Rating>1	1	1	-1	1	-1	1	-1	
+<Aspects>
+4	4(nice):1	64(spend):1	128(extra):1	3042(someplace):1	
+11	2(night):1	18(book):1	38(lot):1	42(pay):1	43(leave):1	44(experience):1	50(bad):1	103(star):1	165(start):1	432(terrible):1	1918(hell):1	
+24	11(bed):1	13(bathroom):1	18(book):1	28(close):1	32(check):1	92(help):1	119(window):1	125(towel):1	164(air):1	179(double):1	197(fresh):1	199(surprise):1	231(smell):1	243(king):1	432(terrible):1	543(Queen):1	552(cover):1	723(stain):1	1138(mold):1	1289(burn):1	1365(cigarette):1	1411(crack):1	1659(grow):1	10978(barley):1	
+0	
+0	
+7	26(people):1	31(front):1	34(feel):1	36(desk):1	38(lot):1	888(switch):1	1193(hassle):1	
+5	9(service):1	18(book):1	50(bad):1	92(help):1	181(tour):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Fantastic value in Hawaii This hotel surprised us both for value and comfort. Granted, the rooms are pretty dated (the ancient hairdryer/vacuum attachment needs to go), but we got a King Superior room w/balcony on the Penthouse floor with a view of the ocean for $117/night. Laundry facilities are dirt cheap and although we didn't use the fitness room, it did look like it had some good equipment. It's off the beaten path, but there are still some great local and chain restaurants about 5 minutes away. Also walking distance to the Ala Moana Shopping Mall.  
+<Date>Mar 20, 2005
+<Rating>5	5	3	-1	4	-1	4	-1	
+<Aspects>
+0	
+5	81(value):2	86(fantastic):1	199(surprise):1	702(comfort):1	904(hawaii):1	
+12	17(view):1	24(floor):1	109(pretty):1	205(ocean):1	243(king):1	511(date):1	785(superior):1	1493(hairdryer):1	1690(grant):1	3356(ancient):1	3425(penthouse):1	8267(attachment):1	
+6	7(walk):1	49(shop):1	115(distance):1	643(mall):1	1480(ala):1	1901(moana):1	
+0	
+0	
+13	10(restaurant):1	20(look):1	29(minute):1	143(cheap):1	195(local):1	211(facility):1	442(beat):1	627(chain):1	983(fitness):1	1075(laundry):1	1211(equipment):1	1612(path):1	2004(dirt):1	
+0	
+
+<Author>FLATLANDERZ
+<Content>Great stay Great stay the holiday inn waikiki, very clean, near to restaurants, shopping, hwy. laundry facility good. easy to find, on main road, yet our room was very quiet. we were busy with so many activities we were only in the room at night, totally met our needs.  
+<Date>Mar 16, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+9	2(night):1	58(quiet):1	93(easy):1	112(main):1	196(meet):1	220(busy):1	230(road):1	357(activity):1	611(totally):1	
+8	3(clean):1	10(restaurant):1	49(shop):1	102(near):1	223(holiday):1	324(inn):1	472(waikiki):1	8730(hwy):1	
+0	
+0	
+2	211(facility):1	1075(laundry):1	
+0	
+
+<Author>BoeingDad
+<Content>Mixed emotions If you want a clean, safe hotel for a short stay this is fine. If you want a place to have a week long Waikiki vacation, forget it unless you are broke and need this price. If you have money and really want to stay here, get one of the two penthouse rooms. We booked online at the Holiday Inn web site and got a great price per night, pre-paid. So what I'm writing below is not great, but the price for being near Waikiki was great. Next time we will trade this location for higher prices.It's near Waikiki, not in Waikiki proper. You are at the very very end of Waikiki, across the street. You can't cross the street because it is fenced down the middle. You have to walk to get around it, then go through another hotel property to find the beach. Watch out while crossing six and four lanes of traffic on your beach journey. This takes about 20 minutes each way. Bring a cart/daypack for anything that you want to take instead of carrying it in the hot sun. Unless you go to the lagoon next to the other hotel, you will have to walk very far to the actual Waikiki beach.Some of the Holiday Inn staff were great, and some of them could have cared less. We called from the room about pool towels. We were told that they were in the workout room next to the pool. Kids went into the pool, I went over to get towels. No towels. I called from the workout room and was told that I had to now go down to the main floor and get them from the front desk. So I went there soaked, in the elevator and into the front lobby.Don't use the laundry room to dry your swimsuits and beach towels. There is no place to sit and watch your stuff and no room to stand. Most people stood outside in the hallway watching others go to their rooms.The rooms are small, really small. You have about 2 feet around the ends of the beds to walk, and about 3 feet on the far side where the table/window/lanai is. The pictures on the web were taken with a fisheye lens. The living area with two beds is about 12x18 feet. That holds two double beds, a lamp table, a desk, a dresser and a table with two chairs. We all had to stand up to move someone from one side to the other.The bathrooms have no fans. If more than two of you take showers, be ready to breathe humid bathroom air until it soaks into the bedroom area. You can also imagine what other smells (trying to keep this clean yet real) are also NOT going to leave the bathroom and surround you in the bedroom area. Parking after 6pm is not good. There are about 30 parking spaces for 199 rooms. That's 30 spaces for parking AFTER the resturaunt closes. Otherwise it's about 18 spaces, which are usually all filled. This is not a joke. We learned the hard way to show up early to park and then walk for the rest of the night.As of 2/05 they have highspeed internet, for $20. Local calls are a $1.  
+<Date>Mar 15, 2005
+<Rating>3	3	2	-1	3	-1	2	-1	
+<Aspects>
+12	29(minute):1	67(call):1	102(near):1	195(local):1	207(move):1	444(stand):1	456(picture):1	472(waikiki):2	1019(web):1	1175(joke):1	1719(proper):1	9228(lens):1	
+21	1(location):1	2(night):1	5(time):1	18(book):1	19(price):4	75(week):1	102(near):1	131(vacation):1	192(site):1	223(holiday):1	228(break):1	324(inn):1	344(write):1	397(forget):1	405(unless):1	472(waikiki):2	585(below):1	822(online):1	1019(web):1	2044(trade):1	4033(pre-paid):1	
+49	3(clean):1	7(walk):1	11(bed):3	13(bathroom):3	22(pool):2	24(floor):1	26(people):1	31(front):1	36(desk):2	43(leave):1	61(shower):1	66(park):1	67(call):2	69(tell):2	76(try):1	80(money):1	98(outside):1	112(main):1	125(towel):1	164(air):1	169(sit):1	179(double):1	198(chair):1	206(live):1	210(space):2	229(table):3	231(smell):1	240(real):1	245(watch):2	268(bedroom):2	274(ready):1	399(usually):1	402(foot):3	444(stand):2	480(stuff):1	491(fill):1	508(otherwise):1	580(hallway):1	593(hold):1	661(fan):1	667(surround):1	733(imagine):1	1468(soak):1	1622(lamp):1	1801(workout):2	1825(humid):1	2128(dresser):1	3425(penthouse):1	3873(breathe):1	
+24	2(night):1	7(walk):3	28(close):1	30(beach):3	35(street):2	66(park):3	162(hard):1	210(space):1	214(property):1	245(watch):1	288(rest):1	325(middle):1	405(unless):1	472(waikiki):2	486(traffic):1	703(learn):1	1228(cross):2	1362(journey):1	1536(actual):1	2045(lagoon):1	2566(lane):1	3694(fence):1	7025(resturaunt):1	7686(6pm):1	
+6	3(clean):1	113(fine):1	137(safe):1	144(short):1	609(mix):1	8576(emotion):1	
+4	0(staff):1	223(holiday):1	242(care):1	324(inn):1	
+17	22(pool):1	30(beach):1	31(front):1	55(lobby):1	114(hot):1	125(towel):3	142(bring):1	201(kid):1	216(elevator):1	353(instead):1	420(sun):1	824(carry):1	1075(laundry):1	1257(dry):1	1322(cart):1	1468(soak):1	6622(swimsuits):1	
+2	97(internet):1	9725(highspeed):1	
+
+<Author>A TripAdvisor Member
+<Content>Great Hotel While visiting Oahu between February 22 and March 1, 2005, my wife and stayed at the Hoiliday Inn Waikiki. The hotel was centrally located for the sites that we wanted to see and the places to eat. The only minus thing I have is the charge for parking which was $8 a day, but never had to go looking for a spot to park even when coming in late at night.If we were to go back again we would diffenitly stay at this Hotel.  
+<Date>Mar 15, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	65(visit):1	184(wife):1	324(inn):1	472(waikiki):1	615(march):1	1230(february):1	1673(oahu):1	
+0	
+0	
+12	2(night):1	8(day):1	20(look):1	47(eat):1	66(park):2	79(late):1	84(locate):1	136(charge):1	192(site):1	317(spot):1	879(centrally):1	2064(minus):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Can not bet it for the $$$$$ We just spent 10 days there and the next trip to Waikiki we will automatically stay there for the following reasons Great Location, clean and quite rooms, friendly staff, The best beach in Waikiki is only a 5 minute walk (same beach that the Hilton Hawaii Village use), TheBus stop in right in front of hotel, $5 dollar breakfast buffet (a good deal), Only problem I found with the hotel is that the rooms are small (Europe /Asian size). A way around these small rooms is to get a room with a balcony and if you want a quite room ask for a room thats not on the street side but on the backside on a upper floor (we heared no noise in our 10 day stay, which is nice in Waikiki). The reveiws I have read on this hotel have been accurate. IF YOU ARE LOOKING FOR AN AFFORTABLE QUALITY ROOM WITH A GREAT LOCATION THIS IS THE PLACE  
+<Date>Feb 19, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	88(read):1	1785(accurate):1	5082(reveiws):1	
+3	1(location):1	20(look):1	187(quality):1	
+10	4(nice):1	8(day):1	24(floor):1	35(street):1	94(noise):1	191(balcony):1	472(waikiki):1	1198(thats):1	1333(upper):1	5119(backside):1	
+27	0(staff):1	1(location):1	3(clean):1	6(breakfast):1	7(walk):1	8(day):1	12(friendly):1	29(minute):1	30(beach):2	31(front):1	33(trip):1	64(spend):1	77(buffet):1	83(size):1	122(stop):1	140(deal):1	374(reason):1	430(dollar):1	472(waikiki):2	477(hilton):1	482(follow):1	700(europe):1	904(hawaii):1	1087(village):1	1328(asian):1	1821(bet):1	2573(automatically):1	
+0	
+0	
+0	
+0	
+
+<Author>loveamerica
+<Content>Not Bad for What we Paid We stayed here in December 2004 and this isn't a bad hotel for what we paid - 拢80 per night.Reasonable sized room with a fridge and a coffee maker (with complimentary coffee each day), large safe (remember to take the activator with you when you check out!). If you want a quiet room go for one with a balcony as they are on the highest floors.All the staff we met were friendly and efficient.The only disadvantage we found with the hotel was trying to find it! Although it's just off Ala Moana Boulevard it took us at least fifteen minutes of driving around the area to find it.  
+<Date>Feb 6, 2005
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	76(try):1	3931(disadvantage):1	
+4	2(night):1	42(pay):2	50(bad):2	993(december):1	
+13	8(day):1	24(floor):1	32(check):1	58(quiet):1	83(size):1	90(coffee):2	137(safe):1	191(balcony):1	273(reasonable):1	318(fridge):1	345(complimentary):1	375(remember):1	996(maker):1	
+6	29(minute):1	298(drive):1	1480(ala):1	1901(moana):1	2931(boulevard):1	4856(fifteen):1	
+0	
+4	0(staff):1	12(friendly):1	196(meet):1	401(efficient):1	
+0	
+0	
+
+<Author>barefootrose
+<Content>Quiet, convenient, nothing fancy We just returned from an 8 night stay at HI Waikiki, which we earned with Priority Club points. Found the hotel to be clean and practical but nothing fancy. Our room had an awesome view of the Hilton Hawaiian Village and a little slice of ocean, but no lanai, unfortunately. Also had a fridge, coffeemaker, safe -- hotel has a small pool, laundry facility, gift shop and a travel desk (which we didn't use).Staff is very friendly. This HI has no restaurant but has sublet their restaurant space to a chinese buffet, which is OK for quick lunch but not great for breakfast. Coffee house down the street was just fair -- a much better breakfast can be had 2 blocks north at Eggs n' Things! Also, look through the free coupon books found all over the island for a buy one get one free coupon for Singha Thai, 1 block left on Ala Moana. This was my favorite restaurant on Oahu!This is a quiet place, out of the main hustle and bustle but convenient to the convention center, shopping, beach and several good restaurants and only 1 mile from main Waikiki. If I were staying for business, I'd be very happy with this hotel. However I might have been less pleased if I were with kids since there isn't really anything here for them. This is not a resort hotel but it doesn't have a resort hotel pricetag, either.  
+<Date>Nov 8, 2004
+<Rating>3	3	3	-1	4	-1	3	-1	
+<Aspects>
+2	173(please):1	201(kid):1	
+1	72(resort):2	
+20	2(night):1	17(view):1	23(little):1	39(return):1	58(quiet):1	186(convenient):1	205(ocean):1	212(club):1	348(awesome):1	472(waikiki):1	477(hilton):1	524(unfortunately):1	796(fancy):1	1087(village):1	1434(hawaiian):1	1741(lanai):1	1863(hi):1	1985(priority):1	2024(slice):1	2737(earn):1	
+14	10(restaurant):1	30(beach):1	49(shop):1	58(quiet):1	101(center):1	112(main):2	147(business):1	155(happy):1	186(convenient):1	472(waikiki):1	692(mile):1	1048(convention):1	1107(bustle):1	1503(hustle):1	
+3	3(clean):1	796(fancy):1	3107(practical):1	
+2	0(staff):1	12(friendly):1	
+38	6(breakfast):2	10(restaurant):3	18(book):1	20(look):1	22(pool):1	35(street):1	36(desk):1	43(leave):1	46(free):2	49(shop):1	68(travel):1	77(buffet):1	90(coffee):1	100(bloc):2	123(ok):1	137(safe):1	210(space):1	211(facility):1	252(lunch):1	280(buy):1	281(house):1	299(quick):1	318(fridge):1	342(island):1	376(favourite):1	412(egg):1	684(North):1	739(fair):1	764(chinese):1	852(gift):1	1075(laundry):1	1480(ala):1	1673(oahu):1	1863(hi):1	1901(moana):1	2106(coupon):2	2393(thai):1	3763(coffeemaker):1	
+0	
+
+<Author>dreamy
+<Content>Very Average We stayed here Dec 03. We had a standard room which was pleasant but as very few of the rooms have a balcony, there is no opportunity to sit out for a drink/bite to eat. Location is some walk from beach but reasonably close to the large Ala Moana shopping mall that we liked. Pool was small and on the first floor above the reception and was in shadow for much of the day, as a result there were only one or two people using it. Would we stay here again? No, it was reasonably cheap for Waikiki, but we felt the lack of balcony, small concrete pool area and location let this hotel down. I have also stayed at the Royal Garden which we prefer. The rooms are slighlty older and some need refurb, but all their rooms have balconies and the pool area and entrance area is lovely. I think its better value for the price. However, this year we are splurging alittle and have booked the Beachfront sheraton waikiki on priceline, its about $20-30 more but a lovely to be on the beach and right in the middle of things and rooms have balconies!  
+<Date>Oct 27, 2004
+<Rating>2	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	227(average):1	310(garden):1	536(prefer):1	753(royal):1	1508(dec):1	
+2	19(price):1	81(value):1	
+26	8(day):1	18(book):1	22(pool):2	24(floor):1	26(people):1	30(beach):1	47(eat):1	63(drink):1	87(lovely):2	129(reception):1	130(standard):1	150(pleasant):1	169(sit):1	191(balcony):3	325(middle):1	472(waikiki):1	490(entrance):1	1013(sheraton):1	1069(priceline):1	1109(result):1	1235(opportunity):1	2358(splurge):1	2572(beachfront):1	3845(alittle):1	4378(refurb):1	5633(shadow):1	
+16	1(location):2	7(walk):1	22(pool):1	28(close):1	30(beach):1	34(feel):1	49(shop):1	143(cheap):1	191(balcony):1	349(lack):1	472(waikiki):1	578(reasonably):2	643(mall):1	1480(ala):1	1901(moana):1	2321(concrete):1	
+0	
+0	
+0	
+0	
+

@@ -1,0 +1,1498 @@
+<Author>roobieroo
+<Content>Very expensive breakfast! OK hotel.       TV  
+<Date>Nov 30, 2008
+<Rating>3	3	4	3	3	4	3	1	
+<Aspects>
+1	123(ok):1	
+2	6(breakfast):1	124(expensive):1	
+1	116(tv):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>tim2788
+<Content>Ecxellent Hotel - Great value and location!       View from room 107  
+<Date>Sep 11, 2008
+<Rating>5	5	5	4	5	4	4	-1	
+<Aspects>
+0	
+2	1(location):1	81(value):1	
+1	17(view):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>VAKILAT
+<Content>Excellent Hotel For Families And For Pre Cruise We stayed at this hotel for 2 nights in August before our cruise. We had booked two interconnecting rooms months in advance for the 4 of us. Booking was very fast and easy. Quick responses were recd to our e-mails and each time we asked a question a polite reply was given . I recommended the hotel to all my friends who were going on the cruise and in total 5 families ended staying at the hotel pre cruise. Rooms were excellent. Altho interconnecting, both rooms led to a small hallway which had its own door. It became like a little flat of your own. Breakfast was good too. Its very good value for money but only if you book it in advance as its half price otherwise you pay something like 12 euros. Its about 10 mins walk to the metro. Staff helpful but could do with a bit more smiling. if you get there very late at night there isn't much to eat altho you can help yourself to a free cup of strong coffee and free pastries downstairs . There is a supermarket across the road for your water etc; Downside is the road building noise which starts in the morning but otherwise a superb hotel . I think it is better than a 3 star. Beware of the taxi drivers as they charged me an exhorbitant 35 euros to get to the port. It should be no more than about 25 euros for 4 passengers and 4 luggage!!The rate for this hotel compared to other 3* is less yet overall it is better than a 3 star.I would add that all my other friends had nothing bad to say about the hotel. After the cruise we paid more and stayed at a 4* but wish had stayed at VIladomat!!  
+<Date>Sep 9, 2008
+<Rating>5	5	5	4	5	3	4	3	
+<Aspects>
+19	2(night):1	5(time):1	15(recommend):1	21(excellent):1	23(little):1	50(bad):1	106(family):2	146(friend):2	166(own):1	299(quick):1	351(add):1	394(question):1	422(polite):1	535(flat):1	603(cruise):4	786(total):1	1330(response):1	1811(reply):1	2422(pre):2	
+16	18(book):1	19(price):1	42(pay):2	70(overall):1	78(rate):1	80(money):1	81(value):1	103(star):2	256(euro):1	283(half):1	381(compare):1	384(wish):1	508(otherwise):1	603(cruise):1	685(advance):1	12073(viladomat):1	
+21	2(night):1	18(book):1	21(excellent):1	46(free):2	47(eat):1	54(door):1	79(late):1	90(coffee):1	92(help):1	166(own):1	388(month):1	576(yourself):1	580(hallway):1	652(pastry):1	685(advance):1	691(downstairs):1	800(cup):1	893(strong):1	922(lead):1	4949(interconnect):2	5494(altho):2	
+21	7(walk):1	56(morning):1	57(water):1	73(etc):1	94(noise):1	135(build):1	136(charge):1	165(start):1	185(taxi):1	230(road):2	235(metro):1	247(min):1	256(euro):1	407(superb):1	508(otherwise):1	563(driver):1	737(beware):1	782(downside):1	1078(supermarket):1	1288(port):1	8309(exhorbitant):1	
+0	
+4	0(staff):1	14(helpful):1	52(bit):1	387(smile):1	
+7	6(breakfast):1	18(book):1	93(easy):1	249(luggage):1	256(euro):1	499(fast):1	2684(passenger):1	
+0	
+
+<Author>cdcdcd
+<Content>good for families We stayed for a night with 2 children. The hotel gave us 2 large adjoining rooms on request for the price of a family room. We booked a car parking space - there is no parking at the hotel. The hotel was clean, breakfast not included. Its within easy reach of the metro, and within walking distance of the Eixample area with the Gaudi buidings - aprox 10 minutes walk.  
+<Date>Sep 2, 2008
+<Rating>4	4	4	3	4	4	4	-1	
+<Aspects>
+3	2(night):1	106(family):1	277(child):1	
+4	19(price):1	106(family):1	148(request):1	1412(adjoin):1	
+0	
+9	7(walk):2	29(minute):1	93(easy):1	115(distance):1	235(metro):1	851(reach):1	2803(gaudi):1	5645(eixample):1	8716(aprox):1	
+3	3(clean):1	6(breakfast):1	71(include):1	
+0	
+4	18(book):1	66(park):2	121(car):1	210(space):1	
+0	
+
+<Author>melaniesq
+<Content>NICE 3STAR HOTEL Me and my boyfriend stayed in this hotel 15 jun 08 for 1 night before our cruise, not too far from port cost 8euro in a taxi and only 10 minutes from Las Ramblas about 5euro in a taxi. Upon arrival it was late as our flight was delayed there was no where to eat in the hotel but the staff recommended some places nearby to eat and they were very helpfull. The hotel is clean and modern, The rooms are small but furnished nicely with tv and table with 2 chairs and the bathroom is quite large. We must of been upgraded as we seemed to be the only ones with a large balcony which was lovely.This hotel does have building works going on outside on the street, its a little noisy but not too much to cause disruption. This hotel is a good price and close to everything. Would stay here again  
+<Date>Aug 12, 2008
+<Rating>4	4	4	3	5	5	5	-1	
+<Aspects>
+0	
+14	2(night):1	4(nice):1	19(price):1	28(close):1	29(minute):1	175(cost):1	185(taxi):2	603(cruise):1	634(ramblas):1	763(boyfriend):1	834(las):1	1288(port):1	8425(3star):1	9328(jun):1	
+20	0(staff):1	3(clean):1	13(bathroom):1	15(recommend):1	47(eat):2	79(late):1	87(lovely):1	116(tv):1	151(modern):1	163(upgrade):1	191(balcony):1	198(chair):1	224(arrival):1	229(table):1	232(nearby):1	233(flight):1	404(nicely):1	787(furnish):1	1351(delay):1	1478(helpfull):1	
+7	23(little):1	35(street):1	98(outside):1	135(build):1	217(noisy):1	943(cause):1	7321(disruption):1	
+0	
+0	
+0	
+0	
+
+<Author>AlexanderAmsterdam
+<Content>Near Gay area and very reasonably priced Stayed here together with my boyfriend in this nice 3* Hotel during the end of August 2007. We wanted to stay close to the gay area in the Eixsample part of town. Hotel rooms are very spacious, nice marble bathrooms, comfy beds. friendly but not very enthousiastic employees and a very nice breakfast (not inclusive) only minus: we tried to watch a movie via pay tv but it didn't work.  
+<Date>May 31, 2008
+<Rating>5	5	5	4	5	3	4	5	
+<Aspects>
+0	
+6	4(nice):1	19(price):1	102(near):1	578(reasonably):1	763(boyfriend):1	2552(gay):1	
+6	4(nice):1	11(bed):1	13(bathroom):1	111(spacious):1	475(comfy):1	705(marble):1	
+3	28(close):1	239(town):1	2552(gay):1	
+0	
+0	
+12	4(nice):1	6(breakfast):1	12(friendly):1	42(pay):1	116(tv):1	245(watch):1	253(tried):1	512(via):1	608(employee):1	833(inclusive):1	989(movie):1	2064(minus):1	
+0	
+
+<Author>holilyday
+<Content>Yes, I would go back Stayed at this hotel recently and found it to be very good value for money. It's very, very clean and comfortable and served a good varied buffet breakfast. The rooms are comfortable and I found the staff to be most helpful.Yes, there was a lot of roadwork noise outside which started early in the morning but this didn't bother us as we went to Barcelona to see the sights and experience the culture, rather than spend time in the hotel.If you want a good clean base for your trip to Barcelona then look no further.  
+<Date>May 23, 2008
+<Rating>4	4	4	4	5	4	4	-1	
+<Aspects>
+0	
+16	5(time):1	38(lot):1	44(experience):1	56(morning):1	64(spend):1	80(money):1	81(value):1	94(noise):1	98(outside):1	165(start):1	250(yes):2	307(bother):1	309(barcelona):1	322(recently):1	411(sight):1	1497(culture):1	
+3	0(staff):1	14(helpful):1	25(comfortable):1	
+0	
+5	3(clean):1	20(look):1	33(trip):1	284(base):1	309(barcelona):1	
+0	
+6	3(clean):1	6(breakfast):1	25(comfortable):1	77(buffet):1	174(serve):1	1578(varied):1	
+0	
+
+<Author>West1700
+<Content>A quiet corner with a mediterranean Flavour (NOT!)       Another view  
+<Date>May 20, 2008
+<Rating>2	2	4	1	-1	2	2	-1	
+<Aspects>
+1	17(view):1	
+0	
+4	58(quiet):1	200(corner):1	2147(flavor):1	2508(mediterranean):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>NorwegianGunner
+<Content>Great hotel, not so good location       The closest underground staion Urgell  
+<Date>Apr 16, 2008
+<Rating>4	4	5	2	5	4	4	5	
+<Aspects>
+0	
+0	
+0	
+5	1(location):1	28(close):1	1085(underground):1	10720(staion):1	11884(urgell):1	
+0	
+0	
+0	
+0	
+
+<Author>Rhumpole
+<Content>A good hotel       Our bathroom 2  
+<Date>Apr 15, 2008
+<Rating>4	4	4	3	5	4	4	5	
+<Aspects>
+0	
+0	
+1	13(bathroom):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>Blueram
+<Content>Below average An average hotel with a 15-20 minute walk to the Guadi attractions in town.Positives 鈥?Clean relatively dated room 鈥?Good English usedNegatives 鈥?Distance to the centre of town鈥?Front desk were not willing to provide a lock for the room safe and told me that I need to provide them with my valuables to be kept in a drawer. When I said that would not be acceptable to the Manager they relented 鈥?Very strange 鈥?Front desk suggested a local taxi driver that added another 10 Euro to the meter to take us to the airport 鈥?really soured our impression of the hotel staff.I would most likely look for other accommodation on my next visit to Barcelona  
+<Date>Apr 3, 2008
+<Rating>2	2	3	2	3	1	1	-1	
+<Aspects>
+0	
+4	20(look):1	65(visit):1	309(barcelona):1	721(accommodation):1	
+0	
+6	7(walk):1	29(minute):1	227(average):2	239(town):1	350(attraction):1	585(below):1	
+0	
+31	0(staff):1	3(clean):1	31(front):2	36(desk):2	69(tell):1	95(airport):1	101(center):1	115(distance):1	137(safe):1	152(english):1	153(provide):2	185(taxi):1	195(local):1	239(town):1	256(euro):1	258(manager):1	351(add):1	452(suggest):1	458(positive):1	511(date):1	563(driver):1	774(lock):1	848(impression):1	913(relatively):1	1058(strange):1	1194(metre):1	1214(acceptable):1	1426(drawer):1	1935(valuable):1	3066(sour):1	8688(relent):1	
+0	
+0	
+
+<Author>kerryaa
+<Content>Excellent Value for money! Stayed here for 2 nights recently- Nothing but good things to say!What you get for the price you pay is really good, Bathroom and bedroom very well kept and spotlessly clean!Mini Bar is very well priced and offers a wide range.Location is good also, about 5 mins away from the nearest Metro. Reception were really friendly and helpful, always on hand if you need them.Overall it was a great stay and id definatly stay there again!  
+<Date>Apr 2, 2008
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+5	2(night):1	70(overall):1	322(recently):1	2584(id):1	2993(definatly):1	
+9	19(price):1	21(excellent):1	27(bar):1	80(money):1	81(value):1	89(offer):1	448(mini):1	714(range):1	860(wide):1	
+6	3(clean):1	13(bathroom):1	19(price):1	42(pay):1	268(bedroom):1	1094(spotlessly):1	
+4	1(location):1	102(near):1	235(metro):1	247(min):1	
+0	
+4	12(friendly):1	14(helpful):1	129(reception):1	377(hand):1	
+0	
+0	
+
+<Author>marvieBedford
+<Content>Reasonable value for money Booked through Lastminute.com after reading some reviews of the property which were generally good - had a pretty limited budget so knew it wouldn't be anything spectacular. The location was four blocks down and two across to the nearest Metro and then two stops to Placa Catalunya, so not desperately far out and we actually walked from hotel to Casa Mila (La Pedrera) (15 mins in a direct line) and then onto Sagrada Familia - it looks like a long way to the latter on maps but its not really!The room was spacious and spotlessly clean BUT there were no tea or coffee making facilities (i've never found that missing before in a hotel so it was sorely missed!) - however we just adapted to wandering to a local pavement cafe  watching the world go by, so it wasn't too much of an issue. The traffic is quite heavy but being exhausted from sightseeing and numbed by a few drinks(!), we slept through that - The main problem was the road was being dug up Right Outside Our Window all weekend, so a jolly JCB alarm call at 8a.m. every day! Can hardly blame the hotel for that though. The staff were very helpful, storing our bags for us and calling us a super-quick cab to the airport, and getting tea/coffee from the bar was actually surprisingly reasonable in cost - i was expecting a fleecing but it was only a couple of euros. Overall, it was a Ronseal Hotel - it did what it said on the tin!  
+<Date>Mar 22, 2008
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	8(day):1	70(overall):1	985(hardly):1	2219(blame):1	3734(tin):1	
+0	
+10	67(call):1	98(outside):1	104(sleep):1	112(main):1	119(window):1	172(weekend):1	230(road):1	1380(alarm):1	3609(dig):1	4713(jolly):1	
+28	1(location):1	7(walk):1	20(look):1	63(drink):1	100(bloc):1	102(near):1	122(stop):1	180(actually):1	188(line):1	225(la):1	235(metro):1	247(min):1	335(numb):1	486(traffic):1	640(sight-see):1	724(map):1	803(direct):1	1186(heavy):1	1278(catalunya):1	1740(placa):1	1769(exhaust):1	2090(casa):1	2562(familia):1	2618(sagrada):1	3133(latter):1	4066(desperately):1	6618(pedrera):1	8912(mila):1	
+0	
+0	
+43	0(staff):1	3(clean):1	14(helpful):1	18(book):1	27(bar):1	37(review):1	62(expect):1	67(call):1	80(money):1	81(value):1	88(read):1	90(coffee):1	95(airport):1	99(couple):1	109(pretty):1	111(spacious):1	175(cost):1	180(actually):1	195(local):1	211(facility):1	214(property):1	245(watch):1	255(store):1	256(euro):1	265(issue):1	272(world):1	273(reasonable):2	275(cafe):1	276(miss):2	290(bag):1	301(tea):2	380(cab):1	429(budget):1	510(limit):1	656(spectacular):1	1094(spotlessly):1	1375(surprisingly):1	1562(wander):1	4479(pavement):1	5403(lastminute.com):1	5406(sorely):1	6791(adapt):1	9680(fleece):1	
+0	
+
+<Author>parishoes
+<Content>great hotel/bad location I came here as the group leader for a high school trip to Barcelona. The hotel exceeded my expectations. For instance, the rooms were spacious (I was in a triple), comfortable, and clean. I had no trouble with noise, as other reviewers did, but perhaps that was because I was exhausted from the pace and demands of leading a student group! Others in my party (adult chaperones) did complain about noise. Breakfast was excellent, of a wide variety of food choices-- all fresh. The restaurant was very good for other meals, too. The bar area was too public, though. Like others, I, too, found the distance from main attractions long. This is probably my only real complaint about the hotel. That said, however, the neighborhood was safe and clean. I was pleased. I'd like to say something about the staff at the desk. They were top notch! One of my students had a medical emergency while we were out and about, and when I returned to the hotel with the group (while my colleague went to the emergency room with the student), they were quick to pass phone calls to me. They allowed me to use the phone at the desk, and did all they could to help facilitate the myriad of calls I had to take and make (even those to the states). They made a difficult situation go as smoothly as possible.  
+<Date>Mar 19, 2008
+<Rating>3	-1	4	2	4	3	5	4	
+<Aspects>
+23	94(noise):2	112(main):1	115(distance):1	118(top):1	173(please):1	178(probably):1	190(complaint):1	240(real):1	241(complain):1	350(attraction):1	363(party):1	556(adult):1	564(reviewer):1	569(trouble):1	572(difficult):1	890(situation):1	922(lead):1	1227(notch):1	1613(demand):1	1769(exhaust):1	2020(student):1	2267(smoothly):1	2291(pace):1	
+2	431(expectation):1	1153(exceed):1	
+14	3(clean):1	25(comfortable):1	39(return):1	67(call):1	111(spacious):1	296(phone):1	299(quick):1	400(pass):1	1553(triple):1	1991(colleague):1	2020(student):2	2408(medical):1	2516(instance):1	2561(emergency):2	
+5	1(location):1	33(trip):1	309(barcelona):1	1229(school):1	6656(leader):1	
+3	3(clean):1	137(safe):1	421(neighbourhood):1	
+8	0(staff):1	36(desk):2	67(call):1	92(help):1	296(phone):1	359(allow):1	6797(myriad):1	8105(facilitate):1	
+11	6(breakfast):1	10(restaurant):1	16(food):1	21(excellent):1	27(bar):1	107(choice):1	197(fresh):1	213(meal):1	379(public):1	413(variety):1	860(wide):1	
+0	
+
+<Author>oty01
+<Content>Overall good, but too expensive Overall it was a good hotel, but I think too expensive.Good:- great breakfast for the money (it was only 6.50 euro for booking online)- big room and the expected comfort for a 3 star hotelBad:- quite far from city center and metro station- too noisy (situated on a big street)  
+<Date>Mar 18, 2008
+<Rating>3	3	3	2	3	4	3	4	
+<Aspects>
+0	
+2	70(overall):2	124(expensive):2	
+0	
+15	6(breakfast):1	18(book):1	35(street):1	41(city):1	62(expect):1	80(money):1	82(station):1	101(center):1	103(star):1	217(noisy):1	235(metro):1	256(euro):1	574(situate):1	702(comfort):1	822(online):1	
+0	
+0	
+0	
+0	
+
+<Author>UkMiranda
+<Content>Things you might want to know...... We stayed at this hotel for three nights. It is important that if you are a light sleeper or unused to heavy traffic going passed in the night that you request a room that is at the back of the hotel. Our first night felt like torture. The following morning we asked if we could change and we were offered a room that was only doors away from the original one but was so much quieter it was unbelievable.Breakfast was excellent. A choice of hot food, breads, meats, cheeses, cake, fruit, cereal, juices, and even champagne! Staff on the whole were very helpful, and the rooms were very clean with tv and minibar. (How I wished there was coffeee in the rooms but I am unsure if the Spanish do this).The worst part for us was the distance to the nearest tube....about a ten minute walk...which does not sound much but after walking all day it felt a chore. Looking back I have learned that although I enjoyed my stay here, I would now look for something more central in a quieter street.  
+<Date>Mar 7, 2008
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	2(night):2	34(feel):1	7255(torture):1	
+0	
+30	0(staff):1	2(night):1	3(clean):1	14(helpful):1	20(look):2	35(street):1	51(enjoy):1	54(door):1	56(morning):1	58(quiet):2	89(offer):1	116(tv):1	148(request):1	157(light):1	161(change):1	168(central):1	369(spanish):1	384(wish):1	400(pass):1	482(follow):1	486(traffic):1	703(learn):1	1037(minibar):1	1186(heavy):1	1270(original):1	1299(sleeper):1	1460(unbelievable):1	3145(unsure):1	5636(unused):1	10361(coffeee):1	
+10	7(walk):2	8(day):1	29(minute):1	34(feel):1	50(bad):1	102(near):1	115(distance):1	409(sound):1	1310(tube):1	6071(chore):1	
+0	
+0	
+13	6(breakfast):1	16(food):1	21(excellent):1	107(choice):1	114(hot):1	215(fruit):1	362(juice):1	441(cheese):1	497(bread):1	529(cereal):1	677(meat):1	770(champagne):1	1029(cake):1	
+0	
+
+<Author>Ellie11
+<Content>Exactly what we expected, in a good way We struggled to find accommodation during the height of the Febuary 2008 world mobile conference - we were travelling for leisure - and settled on AB Viladomat. As the previous reviewer said, the hotel won't let you down. It is a high standard 3 star hotel; clean with friendly, helpful staff, cheap minibar, good hairdryer and situated in a pleasant residential area. Our room looked out on to a busy intersection but the traffic noise didn't bother us. Our room was not huge but bigger than on our previous stay in a 4 star Barcelona hotel. Only negative would be the distance from the city centre. The 5 to 10 minute walk from the hotel to the nearest station, Rocafort, on the L1 underground line is pleasant but it can take almost another 20 mins to get to Las Ramblas - depending on underground connections. Taxi from Pl. Catalunya to hotel was a reasonable 鈧?. Didn't eat breakfast as there were many cheaper options nearby. Staff kept our luggage for a few hours on check out day without any problem.  
+<Date>Feb 16, 2008
+<Rating>4	5	4	3	5	5	5	-1	
+<Aspects>
+5	273(reasonable):1	373(previous):1	487(wo):1	564(reviewer):1	1278(catalunya):1	
+33	0(staff):1	3(clean):1	6(breakfast):1	12(friendly):1	14(helpful):1	47(eat):1	62(expect):1	68(travel):1	103(star):2	130(standard):1	133(huge):1	143(cheap):2	150(pleasant):1	232(nearby):1	272(world):1	309(barcelona):1	336(option):1	373(previous):1	574(situate):1	586(exactly):1	721(accommodation):1	794(conference):1	1037(minibar):1	1414(settle):1	1493(hairdryer):1	1537(residential):1	1979(struggle):1	2032(leisure):1	2279(height):1	3241(mobile):1	6251(ab):1	11717(febuary):1	12073(viladomat):1	
+0	
+21	7(walk):1	20(look):1	29(minute):1	82(station):1	94(noise):1	102(near):1	150(pleasant):1	185(taxi):1	188(line):1	220(busy):1	247(min):1	307(bother):1	486(traffic):1	634(ramblas):1	834(las):1	932(connection):1	969(depend):1	1085(underground):2	3615(intersection):1	6819(pl):1	10085(rocafort):1	
+0	
+5	0(staff):1	8(day):1	32(check):1	60(hour):1	249(luggage):1	
+0	
+4	41(city):1	101(center):1	115(distance):1	282(negative):1	
+
+<Author>donhammer
+<Content>48 hours in Barcelona Hi , Just returned from flying 48 hours to Barcelona, where we stayed at the AB Viladomat in Barcelona.We booked this through last minute and got our flights and hotel for good price. The hotel does exactly what it says on the tin! Its clean, modern and a good 20 minute walk from La Ramblas. If you want something in the midst of all the action, then this is not the hotel for you, but if you are looking for a nice , clean hotel to lay your head after a busy day sightseeing without breaking the bank, then this fit the deal. Mini bar prices were resonable, as were the bar prices. Breakfast, although very nice, was a bit pricey, it is much better to take a short stroll and have breakfast in one of the small street cafes nearby.All in all , I would recommend this hotel, but if you want to be close to the action, then not the one for you.  
+<Date>Feb 12, 2008
+<Rating>4	4	3	3	4	3	4	-1	
+<Aspects>
+2	586(exactly):1	3734(tin):1	
+7	18(book):1	19(price):3	27(bar):2	29(minute):1	233(flight):1	448(mini):1	5169(resonable):1	
+0	
+29	3(clean):2	4(nice):2	6(breakfast):2	7(walk):1	8(day):1	15(recommend):1	20(look):1	28(close):1	29(minute):1	35(street):1	52(bit):1	140(deal):1	144(short):1	151(modern):1	220(busy):1	225(la):1	228(break):1	232(nearby):1	275(cafe):1	319(head):1	546(pricey):1	634(ramblas):1	640(sight-see):1	668(fit):1	696(lay):1	958(action):2	1056(stroll):1	1225(bank):1	3338(midst):1	
+0	
+0	
+7	39(return):1	60(hour):2	309(barcelona):3	614(fly):1	1863(hi):1	6251(ab):1	12073(viladomat):1	
+0	
+
+<Author>SomeGoddess
+<Content>Location great, hotel wasn't. I went away to Barcelona for a week with my partner. On first impressions, the hotel looks good. The bus from the airport drops you down the road (which we only realised when we saw it go past - after we walked for about 15mins).I had booked a double room - but got a twin room. I went down to reception to ask to be moved (only because this had been a surprise birthday trip for my partner) but they said they were too busy and couldn't do anything. But my partner was fine with it - so it was ok.Staff were ok - most mornings the cleaner would just walk into our rooms without knocking - which got annoying after 3 days as it was always around 8-9a.m. We mentioned it at reception - and she never bothered us again.The hotel is noisy and if your a light sleeper don't stay here - luckily I had read previous reviews so took some ear plugs - however, it didnt help.Breakfast was not great at all - dishes that we picked up always had food stuck to it - was not impressed. And this seemed to happen throughout the whole week we were there.Location, however, was good. I prefer not to stay in the city, but slightly out of it and this hotel was convienant. However, me and my partner have decided that when we go back to Barcelona - we will stay somewhere a little bit closer to the city - as at night times we had to make sure we didnt get the metro back so late as the area around the hotel did get a bit dead.We loved Barcelona, but sadly the hotel was not for us. Will def. go back to Barcelona soon - we felt a week was not enough for us.  
+<Date>Feb 4, 2008
+<Rating>2	2	3	3	1	3	2	2	
+<Aspects>
+9	20(look):1	75(week):1	113(fine):1	123(ok):1	382(happen):1	445(throughout):1	848(impression):1	1006(partner):1	2802(def):1	
+0	
+25	0(staff):1	3(clean):1	7(walk):1	8(day):1	18(book):1	37(review):1	41(city):1	56(morning):1	88(read):1	92(help):1	123(ok):1	157(light):1	179(double):1	217(noisy):1	373(previous):1	536(prefer):1	598(slightly):1	626(didnt):1	690(twin):1	695(annoy):1	1174(plug):1	1200(luckily):1	1299(sleeper):1	1323(knock):1	1684(ear):1	
+28	1(location):2	2(night):1	5(time):1	7(walk):1	23(little):1	28(close):1	33(trip):1	41(city):1	52(bit):2	79(late):1	95(airport):1	120(bus):1	129(reception):1	199(surprise):1	207(move):1	219(decide):1	220(busy):1	230(road):1	235(metro):1	309(barcelona):1	419(past):1	607(realize):1	626(didnt):1	662(drop):1	765(birthday):1	1006(partner):2	1621(dead):1	5013(15min):1	
+0	
+3	129(reception):1	244(mention):1	307(bother):1	
+13	6(breakfast):1	16(food):1	34(feel):1	40(love):1	75(week):2	266(pick):1	309(barcelona):3	343(impress):1	418(soon):1	688(stick):1	816(dish):1	1006(partner):1	2135(sadly):1	
+0	
+
+<Author>irelandemma
+<Content>good hotel We stayed in this hotel for a couple of days before travelling onto Cambrills for a week. We choose it for its proximity to the train station. It was a lovely clean hotel with a huge room  plenty of hot water. Bar was a little small but we were not to bothered as we were so tired both nights from all the walking during the day that we were in bed early. Breakfast was very plentiful. Staff were pleasant at reception. Barcelona is a fantastic city.  
+<Date>Jan 28, 2008
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+4	8(day):1	68(travel):1	75(week):1	99(couple):1	
+0	
+6	3(clean):1	57(water):1	87(lovely):1	114(hot):1	133(huge):1	158(plenty):1	
+12	2(night):1	7(walk):1	8(day):1	11(bed):1	23(little):1	27(bar):1	82(station):1	167(choose):1	182(train):1	307(bother):1	454(tire):1	1114(proximity):1	
+0	
+3	0(staff):1	129(reception):1	150(pleasant):1	
+5	6(breakfast):1	41(city):1	86(fantastic):1	309(barcelona):1	1039(plentiful):1	
+0	
+
+<Author>dirtrider775
+<Content>Great Hotel, Great Service, very Reasonable Nice modern hotel, the staff was freindly from the top down, Room Service even remembered that i like a pot ot hot water for my tea the next morning. Although there is no wow factor here, AB Viladomat dose have everything that you need in a full service hotel.The hotel is located about 4 blocks in either direction to a metro station, so although not as convenient, its not a bad walk. The area has the feel of a middle class neighborhood. Safe to walk at any hour. Just be careful when walking, seems like people in Barcelona do not like picking up after thier dogs.  
+<Date>Jan 11, 2008
+<Rating>4	4	4	3	5	5	5	-1	
+<Aspects>
+4	34(feel):1	325(middle):1	421(neighbourhood):1	470(class):1	
+0	
+0	
+16	7(walk):3	26(people):1	50(bad):1	60(hour):1	82(station):1	84(locate):1	100(bloc):1	137(safe):1	186(convenient):1	235(metro):1	266(pick):1	309(barcelona):1	395(direction):1	897(careful):1	1126(dog):1	3018(thier):1	
+0	
+0	
+19	0(staff):1	4(nice):1	9(service):3	56(morning):1	57(water):1	114(hot):1	118(top):1	151(modern):1	273(reasonable):1	301(tea):1	375(remember):1	862(wow):1	1447(pot):1	1655(factor):1	2779(freindly):1	3687(ot):1	6251(ab):1	6329(dose):1	12073(viladomat):1	
+0	
+
+<Author>carolwesterly
+<Content>A great hotel in a handy location After researching the internet and reading reports on TripAdvisor I booked this hotel for 3 couples traveling together on a cruise from Barcelona - we stayed for 2 nights prior to the cruise. I contacted the hotel directly by email to make the reservation. We were very pleased with the hotel - the rooms were spacious, clean and in a great location. The bathrooms were very large and contained a full-size tub and shower. By booking the breakfast along with the room, we were charged $6.50 Euro which is half the normal price if you don't pre-book. The breakfast was well worth it - a great variety of hot and cold foods in a nice dining room. We were within walking distance of many attractions, including the turistic bus which is definitely worth doing for anyone's first visit to Barcelona. A grocery store was directly across the street which was convenient for buying bottled water, sodas and ice cream sandwiches.  
+<Date>Dec 30, 2007
+<Rating>5	5	5	5	5	4	4	3	
+<Aspects>
+0	
+0	
+9	1(location):1	3(clean):1	13(bathroom):1	61(shower):1	111(spacious):1	173(please):1	311(tub):1	1545(contain):1	4389(full-size):1	
+22	7(walk):1	35(street):1	57(water):1	59(definitely):1	65(visit):1	71(include):1	96(worth):1	115(distance):1	120(bus):1	186(convenient):1	238(bottle):1	255(store):1	280(buy):1	309(barcelona):1	350(attraction):1	383(directly):1	547(ice):1	1071(sandwich):1	1188(cream):1	1199(grocery):1	1308(soda):1	4572(turistic):1	
+0	
+3	156(reservation):1	383(directly):1	713(contact):1	
+28	1(location):1	2(night):1	4(nice):1	6(breakfast):2	16(food):1	18(book):2	19(price):1	68(travel):1	88(read):1	96(worth):1	97(internet):1	99(couple):1	114(hot):1	136(charge):1	222(cold):1	256(euro):1	283(half):1	309(barcelona):1	316(dine):1	413(variety):1	597(tripadvisor):1	603(cruise):2	637(prior):1	755(handy):1	838(report):1	878(normal):1	1024(research):1	8972(pre-book):1	
+0	
+
+<Author>EncantaEspana
+<Content>Excellent hotel We stayed in the AB Viladomat in Sept 2007. It was great to stay in a hotel with very friendly and helpful staff, exceptionally cleaned rooms/surroundings and modern, tasteful decor. We also enjoyed the food offered for breakfast, which was of a continental nature. The meats and cheese offered was of a higher standard than what you usually find in Spanish hotels - particularly those in tourist areas.  
+<Date>Dec 19, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	21(excellent):1	1804(sept):1	6251(ab):1	12073(viladomat):1	
+0	
+8	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	151(modern):1	269(decor):1	1242(exceptionally):1	2122(tasteful):1	
+0	
+0	
+0	
+13	6(breakfast):1	16(food):1	51(enjoy):1	89(offer):2	130(standard):1	209(tourist):1	369(spanish):1	372(continental):1	399(usually):1	441(cheese):1	553(particularly):1	677(meat):1	1986(nature):1	
+0	
+
+<Author>benjamin7
+<Content>We'd stay again Stayed with friends for 3 nights in December. Hotel clean and well appointed. Staff friendly and helpful. Good value continental breakfast with plenty of choice although dinner options and service more limited, and pricier - better to try the Zenith hotel, one block west and one north. About 25 minutes walk from Plaza Catalunya but reliable bus service almost outside the door. We experienced some noise from a birthday nearby but it was no trouble for the manager to arrange another room for my wife and I to spend the night. We would go again.  
+<Date>Dec 8, 2007
+<Rating>4	4	4	3	5	5	4	-1	
+<Aspects>
+3	2(night):1	146(friend):1	993(december):1	
+24	2(night):1	6(breakfast):1	9(service):1	44(experience):1	64(spend):1	76(try):1	81(value):1	94(noise):1	100(bloc):1	107(choice):1	117(dinner):1	158(plenty):1	184(wife):1	232(nearby):1	258(manager):1	336(option):1	372(continental):1	510(limit):1	546(pricey):1	569(trouble):1	680(arrange):1	684(North):1	765(birthday):1	953(west):1	
+0	
+9	7(walk):1	9(service):1	29(minute):1	54(door):1	98(outside):1	120(bus):1	515(plaza):1	1278(catalunya):1	2416(reliable):1	
+2	3(clean):1	579(appoint):1	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>SWNH
+<Content>Excellent Value The hotel met all of our expectations. The room was comfortable, quiet and exceedingly clean. It is located about 25 minute walk from the major tourist attractions and very convenient to the Sants train station. The staff was efficient, although not the most helpful we encountered on our trip. Excellent value for the price.  
+<Date>Nov 22, 2007
+<Rating>5	5	5	3	5	3	-1	5	
+<Aspects>
+0	
+5	19(price):1	21(excellent):2	81(value):2	196(meet):1	431(expectation):1	
+4	3(clean):1	25(comfortable):1	58(quiet):1	4406(exceedingly):1	
+10	7(walk):1	29(minute):1	82(station):1	84(locate):1	182(train):1	186(convenient):1	209(tourist):1	315(major):1	350(attraction):1	3484(sants):1	
+0	
+5	0(staff):1	14(helpful):1	33(trip):1	401(efficient):1	693(encounter):1	
+0	
+0	
+
+<Author>MTreacy
+<Content>Great Hotel, Great Location       Room  
+<Date>Nov 20, 2007
+<Rating>4	4	4	4	5	4	4	-1	
+<Aspects>
+0	
+0	
+1	1(location):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>JenBelfast
+<Content>Hot and stuffy We're just back from our stay at this hotel - 5 nights in late October/early November 2007. The hotel is OK - it's in a good location and not too expensive.Our major problem was the temperature in the room. When we arrived it was very warm but the heating was on. We fiddled about with the heating system a bit but couldn't make it any cooler so we turned it off. We spoke to reception about it and were told that all we could do was turn off the heating and open a window. They do not have air condtioning at this time of year. We left the window open for the rest of our stay but it just did not get any cooler. The temperature outside was sunny during the day (15 - 20 degrees C) and a bit chilly at night so I don't know where the heat was coming from - perhaps our room was beside a boiler or something, but nobody offered us a change of room. We were sleeping without any sheets, but still my husband couldn't sleep because of the stuffy heat, and I couldn't sleep because of the traffic noise with the window open!Barcelona itself is fantastic and I would highly recommend a trip there, but I wouldn't recommend this hotel.  
+<Date>Nov 4, 2007
+<Rating>2	3	1	4	5	2	3	-1	
+<Aspects>
+9	2(night):1	53(arrive):1	79(late):1	114(hot):1	236(warm):1	539(heat):1	911(october):1	999(november):1	1857(stuffy):1	
+3	1(location):1	123(ok):1	124(expensive):1	
+29	2(night):1	5(time):1	8(day):1	43(leave):1	52(bit):1	69(tell):1	89(offer):1	94(noise):1	98(outside):1	104(sleep):3	105(husband):1	119(window):3	127(speak):1	129(reception):1	161(change):1	164(air):1	278(cool):1	288(rest):1	315(major):1	479(sheet):1	486(traffic):1	539(heat):3	944(temperature):2	1252(degree):1	1350(beside):1	1700(sunny):1	1857(stuffy):1	2622(chilly):1	7592(boiler):1	
+0	
+0	
+0	
+5	15(recommend):2	33(trip):1	86(fantastic):1	138(highly):1	309(barcelona):1	
+5	52(bit):1	278(cool):1	518(system):1	539(heat):1	7966(fiddle):1	
+
+<Author>Waidesworld
+<Content>Geat hotel, iffy internet Booked the hotel through Booking.com which gave us directions to within a few blocks, not fun. We didn't blame the hotel and they were very nice when we entered. Room was overpowering with a lemon scent when we entered but it soon dissipated. I think the maid service was a bit flamboyant with their sprays. Anyway, great shower (very important) and very clean room. Bed was comfortable. Our only issue was that we were on the seventh floor beside the service elevator which seemed to run all night. Parking was in the basement (room for about seven cars) and cost 15 euros a night. About a ten minute walk to the nearest tourist bus ( must!!) for tripping around the city. Neighborhood felt very safe when walking it at night and plenty of good restaurants around. The internet wireless connection was a bit dodgy. I had full signal but some sites like Yahoo.com and Boston.com were blocked for some reason and there was no help in sight. Still, I wasn't in Barcelona to se how life was at home so no big deal.  
+<Date>Nov 3, 2007
+<Rating>4	4	5	3	5	4	4	2	
+<Aspects>
+5	4(nice):1	33(trip):1	41(city):1	601(enter):1	2219(blame):1	
+6	2(night):1	66(park):1	121(car):1	175(cost):1	256(euro):1	1568(basement):1	
+11	3(clean):1	11(bed):1	25(comfortable):1	61(shower):1	417(anyway):1	418(soon):1	601(enter):1	2870(scent):1	3891(lemon):1	5267(overpower):1	10956(dissipate):1	
+17	2(night):1	7(walk):2	10(restaurant):1	29(minute):1	34(feel):1	92(help):1	102(near):1	120(bus):1	137(safe):1	158(plenty):1	192(site):1	209(tourist):1	374(reason):1	411(sight):1	421(neighbourhood):1	1898(block):1	2974(signal):1	
+0	
+0	
+24	2(night):1	9(service):2	18(book):1	24(floor):1	52(bit):1	97(internet):1	100(bloc):1	140(deal):1	141(home):1	149(run):1	176(fun):1	216(elevator):1	265(issue):1	300(maid):1	309(barcelona):1	395(direction):1	426(life):1	1099(spray):1	1350(beside):1	4342(se):1	4890(seventh):1	5100(iffy):1	6585(geat):1	8467(booking.com):1	
+5	52(bit):1	97(internet):1	717(wireless):1	932(connection):1	2539(dodgy):1	
+
+<Author>SMC1Cheshire
+<Content>Excellent Base For Short Break To Barcelona!! This is a very good hotel , well worth 3*, and makes a good base for a short break to Barcelona.Taxi to hotel 20 euro, urgell metro 5mins walk, however pleasant walk to catalunya sq/las ramblas in 15-20mins.Check in and out friendly and efficient, hotel room spotlessly clean and modern. Breakfast at hotel 12-15euros, but lots of cafes for coffee and croissants for a quarter this price.Meat, cheese, bread and fresh fruit excellent value and quality in market off la ramblas.Supermarket opposite hotel for cheap alcohol(mini bar in room also reasonable for emergencies!!)  
+<Date>Oct 25, 2007
+<Rating>5	5	4	4	4	5	4	5	
+<Aspects>
+0	
+0	
+6	3(clean):1	12(friendly):1	32(check):1	151(modern):1	401(efficient):1	1094(spotlessly):1	
+19	7(walk):2	27(bar):1	143(cheap):1	150(pleasant):1	185(taxi):1	235(metro):1	256(euro):1	273(reasonable):1	448(mini):1	634(ramblas):1	783(opposite):1	1078(supermarket):1	1267(alcohol):1	1278(catalunya):1	1959(sq):1	2561(emergency):1	3577(5min):1	9916(15-20min):1	11884(urgell):1	
+0	
+0	
+23	6(breakfast):1	19(price):1	21(excellent):2	38(lot):1	81(value):1	90(coffee):1	96(worth):1	144(short):2	187(quality):1	197(fresh):1	215(fruit):1	225(la):1	228(break):2	264(market):1	275(cafe):1	284(base):2	309(barcelona):2	441(cheese):1	463(quarter):1	497(bread):1	634(ramblas):1	677(meat):1	1004(croissant):1	
+0	
+
+<Author>GraceyN
+<Content>Excelllent! A fantastic experience (and consolation after a bad one...) We spent 7 nights at Ab Viladomat in August. We were very pleased with our stay, and would definately go back again.Our arrival to Barcelona was marked by a dramatic experience: At Espana metro station, on our way to the hotel, I was robbed of all my money and my student documents. It was an absolutely shocking experience, and unfortunately I had to go through it all once more, on my last day in Barcelona, again at the metro. (fortunately, this time, I knew better and had left nothing in my backpack - nevertheless, the fact that they opened it and searched through it again, was horrifying!)So, before writing any more, I first have to say this: BE CAREFUL! I read many reviews which mentioned mugging, I read all about it in my traveller's guide, and I thought: Well, ok, if I am fully alert and observe others around me, nothing bad can happen! Nothing could be further from the truth, though. The pickpockets are so experienced and well trained, that they take all your belongings within seconds, and without you even noticing it! I saw suspicious people stretching hands towards poor tourists for only 2 seconds, so quickly that you could not say if anything at all had happened!Nevertheless, Barcelona was beautiful, and I managed to get over it and enjoy my holidays. Ab Viladomat has largely contributed to this... The room was very spacious, furnished with taste and the bathroom was... Well, it was fantastic! Large, spotlessly clean and with many treats (such as shampoo), renewed daily. I could practically live in there! :POur room had a view to the street, and still no noise at all! The air conditioning and everything else was working properly and I cannot really find anything to complain about. The people at the reception desk were friendly and kind. Finally, I had read so much about the location and the considerable distance from the centre, that I was a bit anxious about it. Well, in my opinion, there is no issue with the location at all! We made it to the Rocafort station in 5 minutes every day, and were also very pleased that there was a supermarket just across the street. As for the breakfast, we didn't have the chance to try it out. However, we had breakfast at Cafe Luna, near Rocafort station, almost every day and we were delighted.When you go to Barcelona, don't miss anything that has to do with Gaudi! La Sagrada Familia, Casa Batlo, La Pedrera, they are all so impressing! Also, if you have time, I would definately advise a picnic at Park Guell. After a tiring day, (because Barcelona has many sights to visit) you could relax with a stroll at the marina, watching people pass by and eating waffles...So, be careful, drink lots of Sangria, and have fun! We will definately return one day. Both to Barcelona and Ab Viladomat! :)  
+<Date>Sep 10, 2007
+<Rating>5	5	5	4	5	4	5	-1	
+<Aspects>
+31	5(time):1	8(day):1	26(people):1	39(return):1	43(leave):1	173(please):1	206(live):1	209(tourist):1	225(la):2	331(poor):1	343(impress):1	344(write):1	377(hand):1	382(happen):1	410(definately):2	471(quickly):1	897(careful):1	959(towards):1	1248(search):1	1585(fortunately):1	1586(stretch):1	1850(practically):1	2090(casa):1	2558(truth):1	2562(familia):1	2618(sagrada):1	4208(horrify):1	4695(backpack):1	5032(suspicious):1	6618(pedrera):1	11902(excelllent):1	
+27	2(night):1	8(day):1	44(experience):4	50(bad):1	64(spend):1	80(money):1	82(station):1	86(fantastic):1	182(train):1	189(absolutely):1	224(arrival):1	235(metro):2	309(barcelona):2	354(notice):1	524(unfortunately):1	882(mark):1	1206(shock):1	2020(student):1	2426(belongings):1	3005(rob):1	3699(document):1	4220(pickpocket):1	5113(dramatic):1	6173(espana):1	6251(ab):1	8526(consolation):1	12073(viladomat):1	
+23	3(clean):1	13(bathroom):1	17(view):1	35(street):1	86(fantastic):1	94(noise):1	111(spacious):1	164(air):1	170(else):1	241(complain):1	263(condition):1	320(treat):1	360(daily):1	439(taste):1	787(furnish):1	1051(shampoo):1	1094(spotlessly):1	1144(properly):1	1764(pour):1	3398(contribute):1	3493(renew):1	6251(ab):1	12073(viladomat):1	
+23	1(location):2	5(time):1	8(day):1	29(minute):1	35(street):1	52(bit):1	66(park):1	82(station):1	88(read):1	101(center):1	115(distance):1	173(please):1	265(issue):1	341(finally):1	410(definately):1	663(advise):1	704(opinion):1	1078(supermarket):1	3229(anxious):1	3692(considerable):1	4106(picnic):1	5056(guell):1	10085(rocafort):1	
+0	
+15	12(friendly):1	26(people):1	36(desk):1	37(review):1	50(bad):1	88(read):2	123(ok):1	129(reception):1	244(mention):1	267(traveler):1	382(happen):1	829(guide):1	2224(mug):1	3147(observe):1	3628(alert):1	
+35	6(breakfast):2	8(day):2	26(people):1	38(lot):1	45(beautiful):1	47(eat):1	51(enjoy):1	63(drink):1	65(visit):1	76(try):1	82(station):1	102(near):1	160(relax):1	176(fun):1	223(holiday):1	245(watch):1	275(cafe):1	276(miss):1	309(barcelona):4	400(pass):1	411(sight):1	454(tire):1	645(manage):1	689(chance):1	897(careful):1	1025(delight):1	1056(stroll):1	1427(marina):1	1557(waffle):1	2803(gaudi):1	3217(luna):1	5120(sangria):1	6251(ab):1	10085(rocafort):1	12073(viladomat):1	
+0	
+
+<Author>rgc_scot
+<Content>Excellent Stay at Viladomat Booked a break at short notice and was persuaded by the reviews of Viladomat and we weren't disapointed!A short cab ride (about 20 euro) from the airport, the check-in was fast and friendly.the room was a good size and spotless. Only downside was the lack of a view, but that didn't really matter.The staff were always friendly and helpful.Hotel is nicely located in a quiter bit of the city within a 10 min stroll of 3 metro stations. \in the evening after a 'few' sangrias we would get a taxi back which normally cost about 5 euro.There was always a great selection at breakfast, even if you came down a bit late!This was our 1st trip to Barcelona and we had a great time and wouldn't hesitate to recomend the Viladomat to anyone!  
+<Date>Sep 6, 2007
+<Rating>5	4	5	4	5	5	5	4	
+<Aspects>
+4	17(view):1	349(lack):1	531(matter):1	782(downside):1	
+0	
+2	83(size):1	548(spotless):1	
+13	41(city):1	52(bit):1	82(station):1	84(locate):1	175(cost):1	185(taxi):1	235(metro):1	247(min):1	256(euro):1	404(nicely):1	1056(stroll):1	1091(normally):1	6833(quiter):1	
+0	
+10	0(staff):1	12(friendly):2	14(helpful):1	95(airport):1	144(short):1	218(ride):1	256(euro):1	286(check-in):1	380(cab):1	499(fast):1	
+18	5(time):1	6(breakfast):1	18(book):1	21(excellent):1	33(trip):1	37(review):1	52(bit):1	79(late):1	144(short):1	228(break):1	309(barcelona):1	333(selection):1	354(notice):1	902(hesitate):1	1420(recomend):1	2513(disapoint):1	6021(persuade):1	12073(viladomat):3	
+0	
+
+<Author>MrJan
+<Content>Very good value for money A very good hotel for the price we paid. Clean, friendly staff (save for the girl when we checked out) and comfortable rooms with just enough space for everything needed.The bathroom was excellent and supplied with everything you could possibly need. Shampoo and soap was refilled when needed.Location is good, about a 10-15 minutes brisk walk away from the centre of town. And about 5 minutes away is the closest underground station.As the hotel is situated on a quite busy street, there can be some outside noise from the traffic. But it didn't bother us at all since the windows shut almost every sound out and the room was efficiently air conditioned (no need to open any window).As with many hotels though, we could have wished for a few more coathangers, but that no big problem ;D.  
+<Date>Aug 20, 2007
+<Rating>4	5	4	4	4	3	3	-1	
+<Aspects>
+1	384(wish):1	
+4	19(price):1	42(pay):1	80(money):1	81(value):1	
+22	0(staff):1	3(clean):1	12(friendly):1	13(bathroom):1	21(excellent):1	25(comfortable):1	32(check):1	119(window):2	164(air):1	210(space):1	263(condition):1	307(bother):1	409(sound):1	425(save):1	625(girl):1	859(supply):1	965(soap):1	1051(shampoo):1	1086(shut):1	1233(possibly):1	1841(refill):1	2461(efficiently):1	
+15	1(location):1	7(walk):1	28(close):1	29(minute):2	35(street):1	82(station):1	94(noise):1	98(outside):1	101(center):1	220(busy):1	239(town):1	486(traffic):1	574(situate):1	1085(underground):1	4542(brisk):1	
+0	
+0	
+0	
+0	
+
+<Author>ilantlv
+<Content>An overall good experience The hotel is located in a quiet area, not very close to center but transportation is relatively easy with metro nearby.We were very disappointed that breakfast was not included and the expensive price of breakfast didnt make it worth taking on the spot.Room was pleasant - pretty spacious and felt new and clean.The value for money was satisfactory.  
+<Date>Aug 9, 2007
+<Rating>4	4	4	3	5	4	3	-1	
+<Aspects>
+0	
+11	6(breakfast):2	19(price):1	71(include):1	80(money):1	81(value):1	96(worth):1	124(expensive):1	154(disappoint):1	317(spot):1	626(didnt):1	2059(satisfactory):1	
+5	3(clean):1	34(feel):1	109(pretty):1	111(spacious):1	150(pleasant):1	
+11	28(close):1	44(experience):1	58(quiet):1	70(overall):1	84(locate):1	93(easy):1	101(center):1	232(nearby):1	235(metro):1	728(transportation):1	913(relatively):1	
+0	
+0	
+0	
+0	
+
+<Author>browz1
+<Content>Fantastic! Highly recommended Wow! Loved this hotel. From the moment we got there the staff were friendly, helpful and efficient. The rooms were clean, roomy and fantastic value. The hotel is a little out of the way but taxis to the very centre cost around 6 euros (拢4) and as one taxi driver told us - 'it's better for sleeping than the Ritz' - 'cause we experinced hardly any noise.I cannot reccommend this hotel highly enough - it is fabulous! Everything a hotel should be and more. Check out the mini bar prices - all around 拢1 for most alcoholic drinks etc.Would definately stay again.  
+<Date>Aug 6, 2007
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+7	15(recommend):1	40(love):1	86(fantastic):1	138(highly):2	270(fabulous):1	862(wow):1	2111(reccommend):1	
+4	3(clean):1	81(value):1	86(fantastic):1	1353(roomy):1	
+0	
+12	23(little):1	69(tell):1	94(noise):1	101(center):1	104(sleep):1	175(cost):1	185(taxi):2	256(euro):1	563(driver):1	825(ritz):1	943(cause):1	985(hardly):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	401(efficient):1	670(moment):1	
+8	19(price):1	27(bar):1	32(check):1	63(drink):1	73(etc):1	410(definately):1	448(mini):1	3040(alcoholic):1	
+0	
+
+<Author>dogged
+<Content>Happy with AB Viladomat Stayed one night at AB Viladomat pre-cruise from Barcelona. Hotel was exceptionally clean and the front desk staff was friendly and helpful. Email correspondence prior to arrival was excellent and always prompt. If you need a family room ask for 209/210. They are located in a corner of the hotel with their own separate door to the hallway - rather like a suite. Short walk to metro stations. We walked home from La Rambla in the early evening and felt very safe. Located on busy street but hotel was very quiet inside. Good A/C. Grocery store located across the street as well.  
+<Date>Aug 1, 2007
+<Rating>5	5	5	4	5	5	5	5	
+<Aspects>
+5	21(excellent):1	224(arrival):1	637(prior):1	1208(prompt):1	9023(correspondence):1	
+0	
+8	54(door):1	84(locate):1	106(family):1	108(suite):1	166(own):1	200(corner):1	474(separate):1	580(hallway):1	
+16	7(walk):2	34(feel):1	35(street):2	58(quiet):1	82(station):1	84(locate):2	137(safe):1	141(home):1	144(short):1	220(busy):1	225(la):1	235(metro):1	255(store):1	408(inside):1	1199(grocery):1	1377(rambla):1	
+0	
+7	0(staff):1	3(clean):1	12(friendly):1	14(helpful):1	31(front):1	36(desk):1	1242(exceptionally):1	
+6	2(night):1	155(happy):1	309(barcelona):1	3190(pre-cruise):1	6251(ab):2	12073(viladomat):2	
+0	
+
+<Author>kevinpng
+<Content>Good Hotel in Barcelona This is a good hotel at a very reasonable price in Barcelona. The room was big, modern and well maintained. The location is good and in easy walking distance of Rambla and other attractions. Close to three metros if you want to travel further. My only problem was at checkin when the reception clark tried to say that a double room was not available. She initially advised that I would have to take a room with two single beds. I questioned why as I had a confirmed booking for a room with a Queen Bed. She advised that bed preference was not guaranteed. However, after some debate she found a queen room and checked me in. Other than that, hotel is good value for Barcelona.  
+<Date>Jul 10, 2007
+<Rating>4	4	5	4	5	3	3	-1	
+<Aspects>
+0	
+4	19(price):1	81(value):1	273(reasonable):1	309(barcelona):3	
+14	11(bed):3	18(book):1	32(check):1	151(modern):1	304(single):1	394(question):1	543(Queen):2	562(maintain):1	663(advise):2	982(confirm):1	1439(initially):1	1471(guarantee):1	2268(preference):1	5201(debate):1	
+9	1(location):1	7(walk):1	28(close):1	68(travel):1	93(easy):1	115(distance):1	235(metro):1	350(attraction):1	1377(rambla):1	
+0	
+6	129(reception):1	134(available):1	179(double):1	253(tried):1	1818(checkin):1	8550(clark):1	
+0	
+0	
+
+<Author>Buddhawise
+<Content>Good Hotel Spent a week at the AB Viladomat. A very good, clean and friendly hotel. Despite other reviews to the contrary, there are plenty of restaurants nearby (within 5-10mins) and the reception will even recommend one if you want. The hotel is in a good location and if you don't mind walking you can get to the centre of Barcelona within 20-25 mins. If not take the metro (Rocafort approx 6 blocks away) and get there quicker. If you are going to spend more than a few days in Barcelona, I recommend that you buy a Barcelona card. It's cheap and gives you loads of discounts at museums, restaurants etc. Barcelona is a BEAUTFUL city. If you love art, architecture, shopping and eating, you will be in your element!  
+<Date>Jul 10, 2007
+<Rating>4	4	4	3	4	4	4	-1	
+<Aspects>
+9	64(spend):1	75(week):1	100(bloc):1	235(metro):1	299(quick):1	1423(approx):1	6251(ab):1	10085(rocafort):1	12073(viladomat):1	
+6	10(restaurant):1	73(etc):1	143(cheap):1	507(museum):1	864(discount):1	886(load):1	
+0	
+12	1(location):1	7(walk):1	40(love):1	47(eat):1	49(shop):1	101(center):1	247(min):1	294(mind):1	309(barcelona):1	789(art):1	1803(architecture):1	3232(element):1	
+2	3(clean):1	12(friendly):1	
+9	10(restaurant):1	15(recommend):1	37(review):1	129(reception):1	158(plenty):1	232(nearby):1	498(despite):1	2419(contrary):1	8211(5-10min):1	
+8	8(day):1	15(recommend):1	41(city):1	64(spend):1	280(buy):1	292(card):1	309(barcelona):3	7888(beautful):1	
+0	
+
+<Author>colin_dalgity
+<Content>looking forward to return next year me and my fiance have just returned from a 8 night stay at the ab viladomat and i can hardly fault it.the hotel is clean, the majority of the staff bent over backwards to help and wer very friendly, there wer 2 members off staff on the front dest who i found a tad rude, but manybe it was a cultural differnce, i dont know.our room was large and clean, cant fault it at all.we had a room on the first floor at the front, if/when we go back, i'll be asking for a room at the back, where it might be a bit quieter at night, because trust me the traffic noice is bad and constant 24/7, but it is a majour city centre, so should have been expected. the dinner menu is very poor though, not much for people who dont want to try out new things, all we wanted was pizza etc.the breakfast buffet was superb and left us full up untill late afternoon.i was quite disapointed about how far the beach was from the hotel, we had read that it was much closer, it was a good hour long walk, but an enjoyable one. if your not up to walking, jusst get a taxi, their cheap and one with a green light will stop anywhere, just stick your hand out.the city is great, so much to do.must do's are the beach, it's no over crowded an it's clean, allthough watch out for the asian women trying to sell massages and the beer sellers trying to sell drugs, both started to get on my nerves after a few times of bein asked.a trip to the zoo, it's so varied and the animals seem quite happy, unlike other zoo's i've visited, you HAVE to watch the dolphin show if you go to the zoo. the zoo's located in a large park just up from the beach, quite hard to find.the open top busses are a great way to see the city and plan what to visit, we got a 2 day pass, first day we just stayed on and decided what stops to get off the next day.la ramblas, a street just up from the port is a great street, full of street entertainers, stay out of the tacky tourist shops though, they pester you to buy all their chep tat.there are many other great things to see and do in barcelona, but i'll leave those for you to find yourself.  
+<Date>Jul 9, 2007
+<Rating>5	5	5	3	5	3	4	-1	
+<Aspects>
+19	2(night):1	20(look):1	33(trip):1	39(return):2	41(city):1	65(visit):1	155(happy):1	245(watch):1	517(fault):1	750(forward):1	985(hardly):1	1163(unlike):1	1511(zoo):3	1578(varied):1	1990(animal):1	2229(fiance):1	2402(dolphin):1	6251(ab):1	12073(viladomat):1	
+0	
+17	2(night):1	3(clean):1	24(floor):1	31(front):1	41(city):1	50(bad):1	52(bit):1	58(quiet):1	62(expect):1	101(center):1	315(major):1	486(traffic):1	517(fault):1	1145(cant):1	1402(trust):1	1432(constant):1	5156(noice):1	
+37	7(walk):2	8(day):3	28(close):1	30(beach):2	35(street):3	41(city):1	49(shop):1	60(hour):1	65(visit):1	66(park):1	84(locate):1	88(read):1	118(top):1	120(bus):1	122(stop):2	143(cheap):1	157(light):1	162(hard):1	185(taxi):1	209(tourist):1	219(decide):1	221(plan):1	225(la):1	280(buy):1	377(hand):1	400(pass):1	567(enjoyable):1	634(ramblas):1	688(stick):1	1005(green):1	1288(port):1	1511(zoo):1	2406(tacky):1	2513(disapoint):1	3564(entertainer):1	5914(pester):1	10644(tat):1	
+0	
+14	0(staff):2	3(clean):1	12(friendly):1	31(front):1	92(help):1	392(rude):1	503(dont):1	1584(majority):1	2333(bend):1	2429(tad):1	2633(cultural):1	2940(backwards):1	6407(wer):2	7105(dest):1	
+17	6(breakfast):1	26(people):1	43(leave):2	73(etc):1	76(try):1	77(buffet):1	79(late):1	117(dinner):1	309(barcelona):1	331(poor):1	364(afternoon):1	407(superb):1	423(menu):1	503(dont):1	576(yourself):1	678(pizza):1	4396(untill):1	
+16	3(clean):1	5(time):1	30(beach):1	76(try):2	165(start):1	245(watch):1	313(crowd):1	443(beer):1	566(woman):1	606(sell):2	730(massage):1	1328(asian):1	2256(drug):1	4071(nerve):1	5055(seller):1	11114(allthough):1	
+
+<Author>JPB4BIS
+<Content>Good hotel We spent 2 nights in June 2007 in this hotel with my wife and my son. We got a large room with a single bed and a queen bed. Everything looks brand new and very clean. The room is little bit noisy but you are not in Barcelona to stay in the room ! The breakfast buffet offers a large choice of pastries, Spanish specialties and fresh dishes. I think this is perhaps one of the best price/ratio in Barcelona hotels. I would recommend this hotel without hesitation.  
+<Date>Jun 25, 2007
+<Rating>5	5	5	4	5	5	5	4	
+<Aspects>
+7	2(night):1	15(recommend):1	64(spend):1	184(wife):1	612(son):1	664(june):1	1373(hesitation):1	
+2	19(price):1	309(barcelona):1	
+7	11(bed):2	23(little):1	52(bit):1	217(noisy):1	304(single):1	309(barcelona):1	543(Queen):1	
+0	
+3	3(clean):1	20(look):1	883(brand):1	
+0	
+9	6(breakfast):1	77(buffet):1	89(offer):1	107(choice):1	197(fresh):1	369(spanish):1	652(pastry):1	816(dish):1	1751(specialty):1	
+0	
+
+<Author>tapasfan
+<Content>Didn't live up to its reviews Just come back from a long weekend break in Barcelona. We had a brilliant time overall but, having read all the positive reviews on this site for this hotel, we were disappointed, almost straight away, with the reality, as we found it. The hotel staff who checked us in were indifferent and our room - 206 - was absolutely miniscule. Undeterred, we ventured out almost straight away to head for La Rambla. We were prepared for the short trek to the metro station so it wasn't really a problem but it did become tiring by the end of the stay - somewhere more central and walker friendly would have been nicer. When it came to going out in that evening, we could see that there didn't seem to be any restaurants close by so we asked the hotel manageress if she could recommend anywhere. She simply told us that there wasn't anythying nearby, but that we could wait for a minute and she would get back to us - she then disappeared into the office and never returned! Somehow or other, with no thanks to the hotel, we stumbled upon an absolutely amazing tapas bar called Bar Cata 1.81, about 5 blocks away, which more than made our day! On getting back to our room, at about 11.30 pm, we just couldn't sleep thanks to some kind of al fresco student party going on in the appartment block next door. We copmlained but were told that there were no rooms to swap us into. We tried to sleep again but it got worse so complained again, and were finally told there was a room but it wasn't clean so we'd have to wait. At about 1 am we were finally moved into a new room - much quieter and slightly bigger - but not what you'd really call good customer service - the concierge guy seemed more stressed than us about the whole thing. The rest of the stay was fine but we couldn't really shake off the bad start. We're not sure we'd recommend it to anyone and next time, we'd definitely pick somewhere more central and perhaps pay a bit more for a bigger, quieter room with friendlier staff.  
+<Date>May 21, 2007
+<Rating>2	2	1	3	4	2	1	-1	
+<Aspects>
+5	225(la):1	319(head):1	827(straight):1	1377(rambla):1	1440(venture):1	
+5	50(bad):1	113(fine):1	165(start):1	288(rest):1	2517(shake):1	
+35	0(staff):1	3(clean):1	5(time):1	9(service):1	12(friendly):1	15(recommend):1	42(pay):1	50(bad):1	52(bit):1	54(door):1	58(quiet):2	59(definitely):1	67(call):1	69(tell):2	85(wait):1	100(bloc):1	104(sleep):2	168(central):1	204(concierge):1	207(move):1	241(complain):1	253(tried):1	266(pick):1	271(thank):1	341(finally):2	363(party):1	368(guy):1	393(pm):1	428(customer):1	598(slightly):1	1753(stress):1	2020(student):1	4002(fresco):1	4223(swap):1	5034(appartment):1	
+23	4(nice):1	5(time):1	10(restaurant):1	12(friendly):1	15(recommend):1	28(close):1	37(review):1	70(overall):1	82(station):1	88(read):1	144(short):1	154(disappoint):1	168(central):1	192(site):1	235(metro):1	454(tire):1	458(positive):1	460(prepare):1	793(brilliant):1	827(straight):1	2260(reality):1	2910(trek):1	3309(walker):1	
+0	
+13	0(staff):1	29(minute):1	32(check):1	39(return):1	69(tell):1	85(wait):1	189(absolutely):1	232(nearby):1	488(simply):1	792(office):1	2481(indifferent):1	2594(disappear):1	5317(miniscule):1	
+15	8(day):1	27(bar):2	37(review):1	67(call):1	100(bloc):1	145(amaze):1	172(weekend):1	189(absolutely):1	206(live):1	228(break):1	271(thank):1	309(barcelona):1	1455(tapa):1	2017(somehow):1	3012(stumble):1	
+0	
+
+<Author>Jodie_1984
+<Content>Nice basic hotel! Well me and my partner have just arrived back from a 3 night break at AB Viladomat! Overall we had a great time.We arrived around 11.00pm and went straight to the room which was very spacious and clean and tidy, we where on the 6th floor thank god because I think if we were any lower the traffic would have drove me mad, you couldnt leave the windows open at night due to the high noise level.On out first day we went to Le Rambles via the Metro (Which is great I recommed a 3 day travel pass for 13 euros each) which is very busy and full of tourists, however I wasnt overly impressed by the lack of shops there didnt seem to be many , but lots of stalls ect.In the afternoon we went to the aquarium which I wouldnt bother going to, its well over priced and not a lot to see.We also visited the Zoo, Gaudi's Catherdrol and Nu Camp which where all excellent, and all resoniblily priced...I would def recommend these esp the Zoo, Also a resturant on Le Rambles called Attic is EXCELLENT!! Gr8 service and food but also make reservations it can be sooooooooo busy!!Overall Barcelona is gr8, loads to do but make sure you go with loads on money as most things cost..  
+<Date>May 6, 2007
+<Rating>4	-1	4	3	5	5	5	-1	
+<Aspects>
+10	2(night):1	4(nice):1	5(time):1	53(arrive):1	70(overall):1	228(break):1	352(basic):1	1006(partner):1	6251(ab):1	12073(viladomat):1	
+24	15(recommend):1	19(price):2	21(excellent):2	38(lot):1	65(visit):1	67(call):1	70(overall):1	80(money):1	175(cost):1	307(bother):1	309(barcelona):1	364(afternoon):1	886(load):2	1133(le):1	1511(zoo):2	1661(resturant):1	1849(wouldnt):1	2087(camp):1	2157(aquarium):1	2624(esp):1	2802(def):1	2803(gaudi):1	3925(ramble):1	4172(attic):1	
+21	2(night):1	3(clean):1	24(floor):1	43(leave):1	53(arrive):1	94(noise):1	111(spacious):1	119(window):1	259(due):1	271(thank):1	298(drive):1	306(level):1	393(pm):1	486(traffic):1	777(lour):1	827(straight):1	1100(tidy):1	1522(god):1	1528(couldnt):1	1869(6th):1	2607(mad):1	
+20	8(day):2	38(lot):1	49(shop):1	68(travel):1	209(tourist):1	220(busy):1	235(metro):1	256(euro):1	343(impress):1	349(lack):1	400(pass):1	512(via):1	626(didnt):1	1133(le):1	1339(wasnt):1	1345(overly):1	1701(stall):1	3474(ect):1	3909(recomm):1	3925(ramble):1	
+0	
+0	
+4	9(service):1	16(food):1	156(reservation):1	220(busy):1	
+0	
+
+<Author>teeneyweenies
+<Content>pleasantly surprised just returned from 5 days in barcelona. great time had by all. had consulted trip advisor before i went for some advice and reviews of hotels. this one was a gem although further from sants station than we had expected. so cheap taxi perhaps a good idea .should cost no more than 10 euros for 4 people and luggage. hotel was great for 3 star accom. very clean, staff very friendly, breakfasts varied and plentiful. only gripe would be dinner. had very expensive and not to our taste dinner. ie veg was artichokes.perhaps something plainer and more suiting all tastes. cheap and cheerful, maybe burgers chips, steak chips,would be more appropriate. anyway great hotel would definitely stay there again.  
+<Date>Apr 28, 2007
+<Rating>4	4	5	3	5	4	5	-1	
+<Aspects>
+9	5(time):1	33(trip):1	37(review):1	59(definitely):1	417(anyway):1	575(advice):1	701(advisor):1	5182(consult):1	5807(veg):1	
+16	26(people):1	103(star):1	117(dinner):1	124(expensive):1	143(cheap):1	175(cost):1	249(luggage):1	256(euro):1	308(maybe):1	439(taste):1	660(steak):1	1157(burger):1	1302(chip):2	1720(cheerful):1	2421(appropriate):1	10339(accom):1	
+3	439(taste):1	861(suit):1	1546(plain):1	
+7	62(expect):1	82(station):1	143(cheap):1	185(taxi):1	639(idea):1	805(gem):1	3484(sants):1	
+6	0(staff):1	3(clean):1	6(breakfast):1	12(friendly):1	1039(plentiful):1	1578(varied):1	
+0	
+7	8(day):1	39(return):1	117(dinner):1	199(surprise):1	309(barcelona):1	747(pleasantly):1	1788(gripe):1	
+0	
+
+<Author>kscottedinburgh
+<Content>good hotel for price Very clean  comfortable small hotel. close to Metro for getting around but not many restuarants locally for evening meals.  
+<Date>Apr 5, 2007
+<Rating>4	4	4	3	4	4	4	-1	
+<Aspects>
+0	
+3	3(clean):1	19(price):1	25(comfortable):1	
+0	
+5	28(close):1	213(meal):1	235(metro):1	2095(restuarants):1	3231(locally):1	
+0	
+0	
+0	
+0	
+
+<Author>Ban HamishLondon England
+<Content>Very nice 3 star accomodation. We have just returned from a week at AB Viladomat and can confirm that this is an above average 3 star hotel. It is spotlessly clean and the staff are very attentive. The metro is not too far and is by far the way to get around. We took a 5 day Barcelona card which gave free travel on all the local transport. I would not recommend use of the buses inthe city centre the traffic is horrendous. The hotel restaurant is expensive for evening meals and a very very poor choice, which is never changed, at least not while we were there. We found an excellent Chinese restaurant at 167 C.Diputacion which is three blocks down from Viladomat and four or five blocks left. Its called FU-HUA Restaurante Chino. Very reasnonable prices and immaculate premises and staff..Our room was 110 and I`m sorry to say we had to buy earplugs to stop the traffic noise outside. We would however return. Excellent supermarket across the road if you forget anything. Vat 69 拢4 60p per bottle. Brilliant!!!!!!!!!!!!!!!  
+<Date>Mar 30, 2007
+<Rating>4	4	5	3	5	5	5	5	
+<Aspects>
+5	39(return):1	235(metro):1	238(bottle):1	793(brilliant):1	7224(vat):1	
+19	0(staff):1	4(nice):1	10(restaurant):1	19(price):1	39(return):1	75(week):1	103(star):2	107(choice):1	124(expensive):1	161(change):1	213(meal):1	227(average):1	331(poor):1	780(accomodation):1	894(immaculate):1	982(confirm):1	1989(premiss):1	6251(ab):1	12073(viladomat):1	
+0	
+23	8(day):1	15(recommend):1	21(excellent):1	41(city):1	46(free):1	68(travel):1	94(noise):1	98(outside):1	101(center):1	120(bus):1	122(stop):1	195(local):1	230(road):1	280(buy):1	292(card):1	309(barcelona):1	397(forget):1	486(traffic):2	742(transport):1	891(sorry):1	1078(supermarket):1	1771(earplugs):1	3140(horrendous):1	
+4	0(staff):1	3(clean):1	537(attentive):1	1094(spotlessly):1	
+0	
+8	10(restaurant):1	21(excellent):1	43(leave):1	67(call):1	100(bloc):2	764(chinese):1	8707(restaurante):1	12073(viladomat):1	
+0	
+
+<Author>ffiffon
+<Content>excellent hotel Just returned from a four night stay in this hotel in Barcelona, and it was a great place to stay. Staff were very friendly and helpful. Rooms were a great size, clean with good storage and a tv but no tea or coffee facilities in the room. Bathrooms was good with an excellent shower, hairdryer was ok but would recommend taking your own. Hotel was a 10 minute walk from the nearest tube, but it was a pleasant walk in the sun, and a great way of seeing all the little bars/cafes in the streets.Bus stop was outside the hotel, but only used this for the bus to the airport, which was a good quick and cheap way to get to and from the airport. Bus collects from just outside the terminals and runs all day long!great places to eat in the nearby area close to the hotel, did eat in the city centre once in the evening, was ok but very busy at times, so many places to choose from you can have too much choice!Great places to eat down on both ports, tourist bus is great way to go around the city, recommend buying the 2 day ticket! Will definatley be going back again in the future, Barcelona has so much to offer!  
+<Date>Mar 29, 2007
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+0	
+14	3(clean):1	13(bathroom):1	15(recommend):1	21(excellent):1	61(shower):1	83(size):1	90(coffee):1	116(tv):1	123(ok):1	166(own):1	211(facility):1	301(tea):1	1311(storage):1	1493(hairdryer):1	
+34	5(time):1	7(walk):2	8(day):2	15(recommend):1	23(little):1	28(close):1	29(minute):1	35(street):1	41(city):2	47(eat):3	95(airport):2	98(outside):2	101(center):1	102(near):1	107(choice):1	120(bus):4	122(stop):1	123(ok):1	143(cheap):1	149(run):1	150(pleasant):1	167(choose):1	209(tourist):1	220(busy):1	232(nearby):1	280(buy):1	299(quick):1	420(sun):1	621(ticket):1	1261(terminal):1	1288(port):1	1310(tube):1	1889(collect):1	3833(bars):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+7	2(night):1	21(excellent):1	39(return):1	89(offer):1	309(barcelona):2	732(future):1	3658(definatley):1	
+0	
+
+<Author>BandGLiverpool
+<Content>Great Hotel Just got back from Barcelona yesterday. We loved the hotel AB Viladomat. Our room was great, comfortable bed, gorgeous bathroom, what more do you want. The staff at the hotel were great, they really went out of their way to help make our stay an enjoyable one. We got absolutely drenched in the torrential rain on Saturday and they even dried our clothes for us at not cost. We did have a bit of a problem with the rain coming in through our window but it was absolutely torrential and nothing that a visit from the chambermaid and a few towels couldn't sort out. The hotel offered us another room but we declined because it really wasn't that big a deal. We kept our room on til 7pm last night because of our late flight time and they didn't charge us the standard 30鈧?because of the problem with the rain. The breakfasts were absolutely gorgeous, every possible breakfast dish you could imagine was there, including smoked salmon and the yummiest fluffliest scrambled egg ever. Yes the hotel is a trek away from the centre of Barcelona (about a 30 - 40 minute walk but the metro is convenient and cheap and a taxi only costs about 6鈧? but Barcelona is so big anyway that it's impossible to be near everything. We would recommend this hotel, it was great!  
+<Date>Feb 19, 2007
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+4	15(recommend):1	40(love):1	6251(ab):1	12073(viladomat):1	
+8	175(cost):1	189(absolutely):1	581(rain):1	709(clothe):1	818(saturday):1	3045(dried):1	6817(drench):1	7542(torrential):1	
+24	2(night):1	5(time):1	11(bed):1	13(bathroom):1	25(comfortable):1	52(bit):1	65(visit):1	79(late):1	89(offer):1	119(window):1	125(towel):1	130(standard):1	136(charge):1	140(deal):1	189(absolutely):1	233(flight):1	446(gorgeous):1	557(sort):1	581(rain):2	2196(til):1	2394(decline):1	4749(chambermaid):1	7542(torrential):1	7996(7pm):1	
+14	7(walk):1	29(minute):1	101(center):1	102(near):1	143(cheap):1	175(cost):1	185(taxi):1	186(convenient):1	235(metro):1	250(yes):1	309(barcelona):2	417(anyway):1	1169(impossible):1	2910(trek):1	
+0	
+3	0(staff):1	92(help):1	567(enjoyable):1	
+12	6(breakfast):2	71(include):1	189(absolutely):1	309(barcelona):1	412(egg):1	446(gorgeous):1	468(smoke):1	733(imagine):1	816(dish):1	1674(scramble):1	2376(salmon):1	2447(yesterday):1	
+0	
+
+<Author>tocai
+<Content>Nice plase to stay It's has been a nice suprise, also comperad with the price. (very chip). Our room was very clean and preatty big and the staff has been very polite and helpfull. If you are not looking for a modern 4 stars hotel I will saggest you to go there. The only inconveniet was the metro and it's about 1 km far away, but the buses work very well in Barcelona and the bus stop was nearer.  
+<Date>Jan 9, 2007
+<Rating>4	4	4	3	5	5	5	3	
+<Aspects>
+1	1302(chip):1	
+6	4(nice):2	19(price):1	20(look):1	103(star):1	151(modern):1	1738(suprise):1	
+4	0(staff):1	3(clean):1	422(polite):1	1478(helpfull):1	
+5	102(near):1	120(bus):2	122(stop):1	235(metro):1	309(barcelona):1	
+0	
+0	
+0	
+0	
+
+<Author>JohnboyH
+<Content>Great accommodation       View from room 1  
+<Date>Dec 17, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+2	17(view):1	721(accommodation):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>conanet
+<Content>3 star plus from glasgowjust got back 30th november from a 4 day visit, great city.and a good value hotel........very pleasant, more than expected for a 3 star, spotlessly clean , great service, staff very pleasant and helpful, great buffet breakfast to suit everyone,.......nice food , a 15 -20 min walk to centre but lots of interesting shops and restaurants on route if you go down side streets, less than 20 euros from airport by taxi, overall a great stay and would recommend, i will go back..........  
+<Date>Dec 4, 2006
+<Rating>4	5	4	3	5	4	5	4	
+<Aspects>
+0	
+7	8(day):1	41(city):1	65(visit):1	103(star):1	203(plus):1	999(november):1	2035(30th):1	
+0	
+15	4(nice):1	7(walk):1	10(restaurant):1	15(recommend):1	16(food):1	35(street):1	38(lot):1	49(shop):1	70(overall):1	95(airport):1	101(center):1	185(taxi):1	247(min):1	256(euro):1	1035(route):1	
+0	
+0	
+12	0(staff):1	3(clean):1	6(breakfast):1	9(service):1	14(helpful):1	62(expect):1	77(buffet):1	81(value):1	103(star):1	150(pleasant):2	861(suit):1	1094(spotlessly):1	
+0	
+
+<Author>WorldTraveller5000
+<Content>Reasonably priced base in Barcelona Strangely, the hotel (and another opposite it) whilst centrally located in the Eixample is away from the dearer tourist hotels. The room was modern  well kept, with good facilities  a nice restaurant open for dinner  breakfast. Close to the university, Plaza de Cataluna  Exhibition/Convention centre, there is a choice of 3 metro stations about 6 blocks away in each direction (the main station is also about 10minutes walk, probably easier to take a cab though). Rooms were quiet  clean. Recommended if you need to stay in this part of town, on a budget or don't mind using the metro/taxi during your stay, as most of tourist sights are not walking distance. A few good restaurants are nearby, and the colourful Eixample district has good shopping/night scene for the younger generation.  
+<Date>Nov 20, 2006
+<Rating>4	5	5	3	5	5	4	-1	
+<Aspects>
+0	
+0	
+2	3(clean):1	58(quiet):1	
+42	7(walk):2	10(restaurant):1	15(recommend):1	19(price):1	28(close):1	82(station):2	84(locate):1	93(easy):1	100(bloc):1	101(center):1	107(choice):1	112(main):1	115(distance):1	178(probably):1	209(tourist):2	232(nearby):1	235(metro):2	239(town):1	284(base):1	294(mind):1	309(barcelona):1	380(cab):1	395(direction):1	411(sight):1	429(budget):1	433(district):1	515(plaza):1	578(reasonably):1	783(opposite):1	877(whilst):1	879(centrally):1	1588(scene):1	2381(university):1	2489(colorful):1	3545(dear):1	4089(strangely):1	4808(exhibition):1	5097(shopping):1	5645(eixample):2	6808(generation):1	7510(cataluna):1	9371(10minute):1	
+0	
+0	
+6	4(nice):1	6(breakfast):1	10(restaurant):1	117(dinner):1	151(modern):1	211(facility):1	
+0	
+
+<Author>GRAEMEMU
+<Content>Excellent This is an excellent hotel for a 3 star. Rooms were large, tasteful and clean. Well serviced. Massive bathroom. Air conditioning excellent. Friendly bar/coffee shop. Great buffet breakfast. Staff very friendly, helpful  efficient. I wouldn't hesitate to stay here again. Only a 10-15 minute saunter to Las Ramblas. Similar time to rail station if visiting Monsterrat for instance. 5 minute stroll to Metro station. 5 minute stroll to/from Airport bus stop. Plenty local shops/bars/cafes nearby if you want to avoid the tourist traps.  
+<Date>Nov 3, 2006
+<Rating>5	5	5	3	5	5	5	-1	
+<Aspects>
+4	29(minute):1	634(ramblas):1	834(las):1	902(hesitate):1	
+2	21(excellent):2	103(star):1	
+7	3(clean):1	13(bathroom):1	21(excellent):1	164(air):1	263(condition):1	1329(massive):1	2122(tasteful):1	
+22	5(time):1	12(friendly):1	27(bar):1	29(minute):2	49(shop):1	65(visit):1	82(station):2	95(airport):1	120(bus):1	122(stop):1	158(plenty):1	195(local):1	209(tourist):1	232(nearby):1	235(metro):1	436(avoid):1	874(similar):1	1056(stroll):2	1755(rail):1	2166(trap):1	2516(instance):1	6681(shops):1	
+0	
+4	0(staff):1	12(friendly):1	14(helpful):1	401(efficient):1	
+3	6(breakfast):1	9(service):1	77(buffet):1	
+0	
+
+<Author>di.1
+<Content>Great Hotel Hotel is clean  staff very helpfull. Just a very short  cheap taxi ride to Las Ramblas.  
+<Date>Oct 28, 2006
+<Rating>5	5	5	5	5	5	5	5	
+<Aspects>
+0	
+0	
+0	
+6	143(cheap):1	144(short):1	185(taxi):1	218(ride):1	634(ramblas):1	834(las):1	
+3	0(staff):1	3(clean):1	1478(helpfull):1	
+0	
+0	
+0	
+
+<Author>Vagueos
+<Content>Decent enough Getting accommodation in Barcelona can be tricky if you want to keep to a reasonable budget. We booked this hotel as it scored reasonably highly on tripadvisor, without costing the earth as we were staying in the city for a week.This hotel is fine for what we needed, it's clean and modern, the staff are friendly and the area it is located in is safe. A couple of things worth noting, if you like going out or shopping etc then it may be better to stay closer to the centre. Although it is not a big city, getting about can be tiring and the hotel is a little bit away from the main areas you want to be in. If i return to Barcelona (great place by the way) then I would probably stay close to Passegia de Gracia, it is central but is far enough away to avoid being trapped in tourist land. Also it has the best gaudi type architecture and has loads of shops, bars and restaurants. The other thing about the hotel was access to the web proved to be difficult as they don't appear to have a permanent room set up, this was a bit annoying but perhaps i was just unlucky.If you are looking for a hotel on a budget then this is ideal, however I'll probably return to Barcelona but spend a bit more on accomodation next time.  
+<Date>Oct 18, 2006
+<Rating>3	3	4	2	3	3	3	1	
+<Aspects>
+5	23(little):1	41(city):1	52(bit):1	112(main):1	454(tire):1	
+23	5(time):1	18(book):1	20(look):1	39(return):1	41(city):1	52(bit):1	64(spend):1	75(week):1	138(highly):1	175(cost):1	178(probably):1	257(decent):1	273(reasonable):1	309(barcelona):2	429(budget):2	545(ideal):1	578(reasonably):1	597(tripadvisor):1	721(accommodation):1	780(accomodation):1	2201(earth):1	3030(score):1	3071(tricky):1	
+10	52(bit):1	159(access):1	234(set):1	541(appear):1	572(difficult):1	695(annoy):1	1019(web):1	1554(prove):1	3952(unlucky):1	5102(permanent):1	
+23	0(staff):1	3(clean):1	12(friendly):1	28(close):2	39(return):1	49(shop):1	73(etc):1	84(locate):1	96(worth):1	99(couple):1	101(center):1	113(fine):1	137(safe):1	151(modern):1	168(central):1	178(probably):1	209(tourist):1	297(note):1	309(barcelona):1	436(avoid):1	1346(land):1	2166(trap):1	2525(gracia):1	
+0	
+0	
+7	10(restaurant):1	27(bar):1	49(shop):1	389(type):1	886(load):1	1803(architecture):1	2803(gaudi):1	
+0	
+
+<Author>Gyle
+<Content>Great Hotel for a Weekend Break Just returned from a girls weekend and would highly recommend this hotel. The rooms were large and very clean. The hotel is only a 10 minute walk from The Ramblas, we also used taxis which cost only a few euros. If I return to Barcelona then I would definitely stay here again.  
+<Date>Oct 3, 2006
+<Rating>5	5	5	4	5	5	4	-1	
+<Aspects>
+6	15(recommend):1	39(return):1	138(highly):1	172(weekend):2	228(break):1	625(girl):1	
+0	
+1	3(clean):1	
+6	7(walk):1	29(minute):1	175(cost):1	185(taxi):1	256(euro):1	634(ramblas):1	
+0	
+0	
+3	39(return):1	59(definitely):1	309(barcelona):1	
+0	
+
+<Author>glesgatraveller
+<Content>Ideal hotel for city break We have just returned from a long weekend stay at this hotel, the rooms are very spacious and clean, the breakfasts were also more varied than expected, we mainly used the metro and taxis which were very reasonable, 5 euros to the ramblas, there may be better options on hotels on other sites but if this hotel is still getting good reveiws the next time i go to barca then i would definately stay there again.  
+<Date>Sep 26, 2006
+<Rating>5	5	4	3	5	3	4	4	
+<Aspects>
+0	
+0	
+0	
+22	3(clean):1	5(time):1	6(breakfast):1	39(return):1	41(city):1	62(expect):1	111(spacious):1	172(weekend):1	185(taxi):1	192(site):1	228(break):1	235(metro):1	256(euro):1	273(reasonable):1	336(option):1	410(definately):1	545(ideal):1	634(ramblas):1	1177(mainly):1	1578(varied):1	4009(barca):1	5082(reveiws):1	
+0	
+0	
+0	
+0	
+
+<Author>C.Glenn
+<Content>Great Value This hotel was chosen for me so I checked it out on TRIPADVISOR.All reviews were positive and my experience mirrored those. The location is very good 'though it falls between a couple of Metro stations and isn't really that close to either. Also the walking times given on the hotel website are a bit optimistic ( and I'm a brisk walker) but it is very well served by buses and taxis.The hotel dining room was closed (except for very good breakfasts) when I was there so I can't comment on that but everything else is clean,modern and efficient.The best thing about the hotel is the demeanour of all the staff who are particularly friendly and helpful. I would be very happy to stay there again.  
+<Date>Aug 20, 2006
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	155(happy):1	
+8	32(check):1	37(review):1	44(experience):1	81(value):1	167(choose):1	458(positive):1	597(tripadvisor):1	1129(mirror):1	
+9	3(clean):1	6(breakfast):1	28(close):1	151(modern):1	170(else):1	316(dine):1	337(except):1	356(comment):1	401(efficient):1	
+16	1(location):1	5(time):1	7(walk):1	28(close):1	52(bit):1	82(station):1	99(couple):1	120(bus):1	174(serve):1	185(taxi):1	235(metro):1	262(website):1	587(fall):1	3309(walker):1	4542(brisk):1	8601(optimistic):1	
+0	
+5	0(staff):1	12(friendly):1	14(helpful):1	553(particularly):1	7150(demeanor):1	
+0	
+0	
+
+<Author>kerreye
+<Content>Awesome For the price, this hotel is awesome. 15 minute walk to La Rambla and close to buses/metro. Would recommend this hotel to anyone. Large clean rooms, high quality finishings and air con.  
+<Date>Jul 30, 2006
+<Rating>5	5	5	5	5	5	5	-1	
+<Aspects>
+1	15(recommend):1	
+2	19(price):1	348(awesome):2	
+5	3(clean):1	164(air):1	187(quality):1	840(Con):1	11241(finishing):1	
+5	7(walk):1	28(close):1	29(minute):1	225(la):1	1377(rambla):1	
+0	
+0	
+0	
+0	
+
+<Author>malachOR59
+<Content>Viva Viladomat Had a great time in Barcelona...part of it thanks to Hotel Viladomat. It麓s easily accessible from Sants Train station (bus 44) or get a taxi (a couple of euros). Supermarket across the street. But most of all the staff were so nice and helpful. Take the Bus Turistica. Wonderful buffet breakfast...regular hotel price. Very clean rooms.  
+<Date>Jul 24, 2006
+<Rating>4	4	4	4	4	4	4	4	
+<Aspects>
+0	
+0	
+1	3(clean):1	
+11	35(street):1	82(station):1	99(couple):1	120(bus):2	182(train):1	185(taxi):1	256(euro):1	438(easily):1	1078(supermarket):1	1342(accessible):1	3484(sants):1	
+0	
+3	0(staff):1	4(nice):1	14(helpful):1	
+10	5(time):1	6(breakfast):1	19(price):1	48(wonderful):1	77(buffet):1	271(thank):1	309(barcelona):1	744(regular):1	7935(viva):1	12073(viladomat):2	
+0	
+
+<Author>jph948
+<Content>Charming Contemporary Hotel       View out our hotel window  
+<Date>Jul 13, 2006
+<Rating>4	4	4	-1	5	-1	4	-1	
+<Aspects>
+0	
+0	
+4	17(view):1	119(window):1	332(charm):1	1475(contemporary):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Stay Overall, staff were friendly and accomodating (able to leave our bags for a number of hours after checking out) the room was immaculate, beds made daily, towels changed and always clean, and best of all, the mini bar was extremely well priced priced; a bottle opf beer only 2 euro 50. However, if you aren't keen on walking the main attractions are a bit of a trek (about 15 / 20 minutes to the top of La Ramblas) although the metro is only a 10 minute walk away, although obviously no fault of the hotel and when its so nice, who minds a stroll!Surrounding the hotel are numerous bars, but a few main and busy roads, but we were situated at the front of the hotel on the first floor and could hardly hear any traffic. I would recommend this a great place to stay and would also recommend using the local metro stations, as you can go anywhere for 1 euro 20! For a 3 star hotel, I was veyr pleasantly surprised. Great Stay.  
+<Date>Jul 8, 2006
+<Rating>5	5	4	-1	5	-1	5	-1	
+<Aspects>
+0	
+26	0(staff):1	3(clean):1	11(bed):1	12(friendly):1	19(price):2	27(bar):1	32(check):1	43(leave):1	60(hour):1	70(overall):1	103(star):1	110(extremely):1	125(towel):1	161(change):1	171(able):1	199(surprise):1	238(bottle):1	256(euro):1	290(bag):1	335(numb):1	360(daily):1	443(beer):1	448(mini):1	549(accomodate):1	747(pleasantly):1	894(immaculate):1	
+0	
+31	4(nice):1	7(walk):2	15(recommend):2	24(floor):1	27(bar):1	29(minute):2	31(front):1	52(bit):1	82(station):1	112(main):2	118(top):1	132(hear):1	195(local):1	220(busy):1	225(la):1	230(road):1	235(metro):2	256(euro):1	294(mind):1	350(attraction):1	486(traffic):1	517(fault):1	574(situate):1	634(ramblas):1	667(surround):1	781(obviously):1	971(numerous):1	985(hardly):1	1056(stroll):1	2641(keen):1	2910(trek):1	
+0	
+0	
+0	
+0	
+
+<Author>shareall
+<Content>good hotel , good location. very close to sants station, from where u can catch trains to anywhere in spain. close to maritime terminus for ferries to italy, france, balearic. it cost us 10 Euros in taxi. When we checked in the checkin was very quick and we were given a room right away. The room was large, clean , AND BRAND NEW. the hotel is brand new and it was a delight to stay in a hotel where u cud almost smell the paint after passing through old hotels in europe. The rates were very affordable. stayed there for only a night on our way to sitges. The bar / restaurant is pretty comfy, though short staffed as our drinks took a while. the reception is friendly. they let us store our luggage after check-out at no extra cost. you can catch the bus turistico from sants station which is honestly a 10 min walk along the main street. Oh yes the bathroom was huge and a large bath. my wife loved it.  
+<Date>Jul 8, 2006
+<Rating>4	4	5	-1	5	-1	4	-1	
+<Aspects>
+6	2(night):1	40(love):1	78(rate):1	184(wife):1	1062(affordable):1	7719(sitg):1	
+0	
+14	3(clean):1	13(bathroom):1	32(check):1	133(huge):1	226(bath):1	231(smell):1	250(yes):1	299(quick):1	400(pass):1	700(europe):1	806(paint):1	883(brand):2	1025(delight):1	1818(checkin):1	
+21	1(location):1	7(walk):1	28(close):2	35(street):1	82(station):2	112(main):1	120(bus):1	175(cost):1	182(train):1	185(taxi):1	247(min):1	256(euro):1	540(catch):2	900(italy):1	1010(ferry):1	1028(honestly):1	1636(spain):1	1784(france):1	3484(sants):2	4690(terminus):1	6927(maritime):1	
+0	
+7	12(friendly):1	128(extra):1	129(reception):1	175(cost):1	249(luggage):1	255(store):1	658(checkout):1	
+7	0(staff):1	10(restaurant):1	27(bar):1	63(drink):1	109(pretty):1	144(short):1	475(comfy):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>great great great good points1.great breakfast - i had chocolate cake (i know its sounds strange but when on holiday why not2.good rooms (had 2) tolitries replinished, bed clean changed daily(didn't need to be done)3.transport to city centre easly done (train, tax, bus, airport bus and metro (underground train)4.good size cosy and confortable5.lovely staff very polite, good english, 6.mini bar prices good (good for storin other food items)bad points1.wardrobe door came off hedges (not bothered about that)2.restraunt- nice but expensiveoverallit was a great hotel , great area (bit nosiy but it was the morning so what the hay), took a few condements and amenditence (who doesnt) imagne taking home a comb and shoe buffer!!!! great weather even though it was october the wetest time of the year!!  
+<Date>Jun 17, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+7	5(time):1	54(door):1	307(bother):1	385(weather):1	911(october):1	1451(wardrobe):1	9857(hedge):1	
+10	4(nice):1	52(bit):1	56(morning):1	141(home):1	1191(shoe):1	2588(doesnt):1	4267(comb):1	4737(restraunt):1	8480(buffer):1	8645(hay):1	
+6	3(clean):1	11(bed):1	83(size):1	161(change):1	360(daily):1	749(cozy):1	
+9	41(city):1	95(airport):1	101(center):1	120(bus):2	182(train):2	235(metro):1	742(transport):1	798(tax):1	1085(underground):1	
+0	
+4	0(staff):1	87(lovely):1	152(english):1	422(polite):1	
+12	6(breakfast):1	16(food):1	19(price):1	27(bar):1	50(bad):1	223(holiday):1	409(sound):1	448(mini):1	519(item):1	632(chocolate):1	1029(cake):1	1058(strange):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Value for Money Great hotel. Got a good deal through Globespan for 5 nights BB (inc flights) for the two of us for just over 拢520. Room clean and tidy with working air-conditioning. Fresh toiletries and towels every day. Good breakfast if you are into continental, wouldn't recommend the frankfurters and scrambled eggs though.Recommend getting a 2-day ticket for the tourist bus. Go round the routes on day 1 and jump off and on on day 2. Go to see Park Guell, La Padrera Montjuc and the Nou Camp. Las Ramblas is over-rated for what it is.Hotel is about a 20 minute walk from Placa Cataluyna. Better to walk 10 minutes to Sans Station Underground. Ten trips on the underground costs about 6.5 Euros and is easy to get about.Would certainly recommend a trip to Barcelona and a stay at the AB Viladomat.  
+<Date>May 21, 2006
+<Rating>5	5	5	-1	4	-1	4	-1	
+<Aspects>
+3	634(ramblas):1	834(las):1	5389(over-rate):1	
+7	33(trip):1	80(money):1	81(value):1	93(easy):1	175(cost):1	256(euro):1	1085(underground):1	
+12	2(night):1	3(clean):1	8(day):1	125(towel):1	140(deal):1	197(fresh):1	233(flight):1	657(toiletry):1	1100(tidy):1	2284(air conditioning):1	2380(bb):1	4043(inc):1	
+17	7(walk):2	15(recommend):1	29(minute):2	66(park):1	82(station):1	120(bus):1	177(san):1	209(tourist):1	225(la):1	621(ticket):1	1085(underground):1	1740(placa):1	2087(camp):1	4481(nou):1	5056(guell):1	9089(cataluyna):1	9335(2-day):1	
+0	
+0	
+10	6(breakfast):1	15(recommend):2	33(trip):1	309(barcelona):1	372(continental):1	412(egg):1	1674(scramble):1	6251(ab):1	7670(frankfurter):1	12073(viladomat):1	
+3	8(day):2	1035(route):1	1404(jump):1	
+
+<Author>A TripAdvisor Member
+<Content>Good - but!! We found the staff to be very pleasant and helpful. The air conditioning was not working and the room was hot and we needed to sleep with the windows open for fresh air, we were on the 6th floor but in a room at the front of the hotel and there was constant traffic noise all through the night. We thought the buffet breakfast at 25 euros per couple was not particularly good value when compared to the many bars round and about, although It was fine if you like to eat cakes for breakfast. I have MS (all of the hotel is easily accessible so didn't cause any problems) because of this we used taxis as it was too far for me to walk into Barcelona, we did walk to Sants station once, but as this took me about 35 minutes in the morning, and lot longer in the afternoon, we used taxis to get in and out of Barcelona each day, which cost between 3 and 5 euros. If you are fit you could easily walk to Sants station or into Barcelona centre in about 10 to 20 minutes. The taxis to and from the airport cost 25 euros one way and 27 the other. The hotel reception and our bedroom and bathroom were very clean with extra toiletries each day.. We arrived on 23rd April, and it is a tradition in Catelonia for ladies to be presented with a red rose, so it was a nice surpise to be given a long stemmed red rose when we checked in. The Bus Touristic, at 22 euros each for two days unlimited travel or 18 euros for one day (and this included all three routes) was excellent value as it gives you an insight into the location of the various sights and you can plan where and when you want to get off the bus. A tip for the bus - don't insist on going upstairs or you will be waiting a long time, get on and sit downstairs and as soon as seats become available upstairs, the guides offer you the chance to change seats before they let anyone else on.We will go back to Barcelona, not to this hotel, but purely because of it's location and the lack of air conditioning.  
+<Date>May 2, 2006
+<Rating>3	3	4	-1	5	-1	4	-1	
+<Aspects>
+0	
+0	
+24	1(location):1	2(night):1	3(clean):1	8(day):1	13(bathroom):1	24(floor):1	31(front):1	94(noise):1	104(sleep):1	114(hot):1	119(window):1	128(extra):1	129(reception):1	164(air):3	197(fresh):1	263(condition):2	268(bedroom):1	309(barcelona):1	349(lack):1	486(traffic):1	657(toiletry):1	1432(constant):1	1869(6th):1	3907(purely):1	
+31	1(location):1	7(walk):3	8(day):3	21(excellent):1	29(minute):2	38(lot):1	56(morning):1	68(travel):1	71(include):1	81(value):1	82(station):2	95(airport):1	101(center):1	120(bus):2	175(cost):2	185(taxi):3	221(plan):1	256(euro):4	309(barcelona):3	364(afternoon):1	411(sight):1	438(easily):2	668(fit):1	823(various):1	943(cause):1	1035(route):1	1342(accessible):1	2077(unlimited):1	3484(sants):2	4163(touristic):1	5232(insight):1	
+0	
+29	0(staff):1	4(nice):1	5(time):1	14(helpful):1	32(check):1	53(arrive):1	85(wait):1	89(offer):1	120(bus):1	134(available):1	150(pleasant):1	161(change):1	169(sit):1	170(else):1	194(tip):1	418(soon):1	504(seat):2	521(lady):1	590(red):2	689(chance):1	691(downstairs):1	829(guide):1	1358(upstairs):2	1436(rise):2	1495(insist):1	4678(tradition):1	5123(23rd):1	6828(surpise):1	8002(stem):1	
+11	6(breakfast):2	27(bar):1	47(eat):1	77(buffet):1	81(value):1	99(couple):1	113(fine):1	256(euro):1	381(compare):1	553(particularly):1	1029(cake):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>one word......FANTASTIC. Me and the wife stayed at the villadomat for 3 nights in march.After reading the reviews on here we decieded to give it a go.And we were not disappointed.The hotel was very nice.Our room was small but ok for just the 2 of us.I couldn't fault the maid service.We even had a welcome with our names on the tv when we first turned the tele on.That was a nice touch. The location was excellent.We didn't want to be in the centre.A taxi ride was about 6/7 minuites away from catalunya.We travelled on the underground tube.The nearest station was about a 15 minuite walk.Which was not a problem with us.Buy a T10 ticket.This will give you 10 passes on the underground for just over 6 euro.Otherwise it will cost you 1 euro 20 for a single ticket.We went to the camp nou to watch barcelona.Which was a great experience.We paid 拢27 each for our tickets which is even cheaper than watching my beloved wolves.I would recommended the bus tour.For about 拢15 each you see the whole city.You can get off anytime and see the sights.There is 2 routes the blue line and red line.We done the both in the 1 day.I would recommend the nou camp tour followed by the musuem too.We took extra care in the ramblas as we read about pickpockets and muggings.But we never had any problem.I bought some barcelona football stuff from the shops on the ramblas,i bartered with some of them and i got a cap down from 10 euro to 6 euro so it's worth a go.overall i would give villadomat 10/10and barcelona 9 and half out of 10.  
+<Date>Apr 15, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+26	2(night):1	4(nice):2	8(day):1	15(recommend):1	37(review):1	41(city):1	86(fantastic):1	88(read):2	128(extra):1	154(disappoint):1	181(tour):1	184(wife):1	242(care):1	279(touch):1	280(buy):1	411(sight):1	482(follow):1	571(word):1	615(march):1	621(ticket):1	634(ramblas):1	1677(anytime):1	2087(camp):1	4220(pickpocket):1	4481(nou):1	8202(musuem):1	
+10	42(pay):1	44(experience):1	143(cheap):1	175(cost):1	245(watch):1	256(euro):1	304(single):1	508(otherwise):1	621(ticket):2	9656(beloved):1	
+5	116(tv):1	123(ok):1	202(welcome):1	295(name):1	11646(tele):1	
+26	1(location):1	7(walk):1	15(recommend):1	21(excellent):1	49(shop):1	68(travel):1	82(station):1	96(worth):1	102(near):1	120(bus):1	181(tour):1	185(taxi):1	218(ride):1	256(euro):3	280(buy):1	309(barcelona):1	400(pass):1	480(stuff):1	634(ramblas):1	1085(underground):2	1278(catalunya):1	1310(tube):1	2270(cap):1	2363(football):1	2932(barter):1	12218(minuite):2	
+0	
+0	
+9	9(service):1	70(overall):1	245(watch):1	283(half):1	300(maid):1	309(barcelona):2	517(fault):1	2087(camp):1	4481(nou):1	
+5	101(center):1	188(line):2	590(red):1	694(blue):1	1035(route):1	
+
+<Author>NicolaCV
+<Content>Brill Hotel! We stayed at the AB Viladomat last week for 2 nights. We had a great stay here. Breakfast is fab, make sure you make the most of the local cava in the morning! Rooms were very clean and you get lots of freebies in the bathroom on arrival.The hotel is situated slightly out of town (about a 15 min walk to Las Ramblas). Weather was very hot so don't forget your sun cream!!! Make sure you include a visit to Park Guell its lovely :-)  
+<Date>Apr 7, 2006
+<Rating>4	5	4	-1	5	-1	4	-1	
+<Aspects>
+10	2(night):1	75(week):1	114(hot):1	385(weather):1	397(forget):1	420(sun):1	1188(cream):1	5382(brill):1	6251(ab):1	12073(viladomat):1	
+0	
+12	3(clean):1	7(walk):1	13(bathroom):1	38(lot):1	224(arrival):1	239(town):1	247(min):1	574(situate):1	598(slightly):1	634(ramblas):1	834(las):1	5190(freeby):1	
+5	65(visit):1	66(park):1	71(include):1	87(lovely):1	5056(guell):1	
+0	
+0	
+5	6(breakfast):1	56(morning):1	195(local):1	1216(fab):1	2341(cava):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very nice hotel... Great breakfast!!! Very nice hotel... clean, convenient and modern-style rooms... Good value for money... and a great breakfast service (included in the price)!! There is a various and premium buffet (even smoked salmon, jamon, cheese and every sort of cakes)...Only little issue... a little bit far from the center of the city (10-15 min walk to get to the rambla).. and no metro station near...(university is the nearest)..Anyway... great place to stay in Barcelona!  
+<Date>Apr 5, 2006
+<Rating>5	5	5	-1	5	-1	4	-1	
+<Aspects>
+0	
+9	3(clean):1	4(nice):1	6(breakfast):1	9(service):1	19(price):1	71(include):1	80(money):1	81(value):1	186(convenient):1	
+0	
+4	82(station):1	102(near):2	235(metro):1	2381(university):1	
+0	
+0	
+20	4(nice):1	6(breakfast):1	7(walk):1	23(little):2	41(city):1	52(bit):1	77(buffet):1	101(center):1	247(min):1	265(issue):1	309(barcelona):1	417(anyway):1	441(cheese):1	468(smoke):1	557(sort):1	823(various):1	1029(cake):1	1377(rambla):1	1465(premium):1	2376(salmon):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>AB Viladomat - Great Hotel We have just returned from a 3 night city break to Barcelona. We booked this hotel through easyjet and it was a really good price as it included a buffet breakfast with everything you could want.The rooms were a little small but really nicely decorated.The hotel is situated slightly out of the main tourist area, about a 25min walk. But there are a couple of metro stations near by and is only about 鈧? in a taxi to the centre.Found no complaints at all about this hotel, really good quality and value for money and wouldn't hesitate to recommend it.  
+<Date>Mar 27, 2006
+<Rating>4	5	4	-1	5	-1	4	-1	
+<Aspects>
+0	
+6	15(recommend):1	80(money):1	81(value):1	187(quality):1	190(complaint):1	902(hesitate):1	
+9	7(walk):1	23(little):1	112(main):1	209(tourist):1	305(decorate):1	404(nicely):1	574(situate):1	598(slightly):1	12386(25min):1	
+6	82(station):1	99(couple):1	101(center):1	102(near):1	185(taxi):1	235(metro):1	
+0	
+0	
+13	2(night):1	6(breakfast):1	18(book):1	19(price):1	39(return):1	41(city):1	71(include):1	77(buffet):1	228(break):1	309(barcelona):1	6251(ab):1	7038(easyjet):1	12073(viladomat):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>AB Viladomat: My home in Barcelona!  It was a really good surprise for my husband and I to find an extremly good hotel in our visit to Barcelona : AB VILADOMAT HOTEL. We could just say that the overall services were very good, restaurant and recepcion staff are very friendly and good professionals.We were highly sastified with the information received (with a big smile) about Barcelona, including places of interest such as: touristic buses, museums, restaurants, entertainment...How wonderful !We enjoyed the good service at the breakfast buffet and dinner; food was of high quality and all our needs were answered by the brisk and friendly waiters. Our room was really clean, large and bright, with a very modern decoration, and we felt like staying at home.We made lots of friends at AB Viladomat hotel....we will definitely come back.  
+<Date>Feb 26, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+5	38(lot):1	59(definitely):1	146(friend):1	6251(ab):1	12073(viladomat):1	
+0	
+6	3(clean):1	34(feel):1	141(home):1	151(modern):1	880(bright):1	1580(decoration):1	
+12	10(restaurant):1	48(wonderful):1	71(include):1	120(bus):1	138(highly):1	302(receive):1	309(barcelona):1	340(entertainment):1	387(smile):1	507(museum):1	649(information):1	4163(touristic):1	
+0	
+0	
+23	0(staff):1	6(breakfast):1	9(service):2	10(restaurant):1	12(friendly):2	16(food):1	51(enjoy):1	65(visit):1	70(overall):1	77(buffet):1	105(husband):1	117(dinner):1	141(home):1	187(quality):1	199(surprise):1	309(barcelona):2	501(professional):1	669(answer):1	735(waiter):1	3675(extremly):1	4542(brisk):1	6251(ab):2	12073(viladomat):2	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great stay at AB Valadomat Stayed at the Valadomat Feb 06, On the 6th floor, room very clean! Breakfast was in with the price and it was superb! Metro,s 15 min walk, Staff very pleasant and they couldn,t do enough for you, very good..Good restaurant,s 5-10 min walk away and a lot cheaper than eating out down La Rambler,s..Done an awful lot of walking from where the Valadomat was, but we thoroughly enjoyed it.. I would stay at this hotel again...  
+<Date>Feb 26, 2006
+<Rating>4	5	4	-1	5	-1	5	-1	
+<Aspects>
+0	
+10	6(breakfast):1	7(walk):1	10(restaurant):1	19(price):1	38(lot):1	47(eat):1	143(cheap):1	225(la):1	247(min):1	407(superb):1	
+5	3(clean):1	24(floor):1	1258(feb):1	1869(6th):1	6251(ab):1	
+10	0(staff):1	7(walk):2	38(lot):1	51(enjoy):1	150(pleasant):1	235(metro):1	247(min):1	736(awful):1	898(thoroughly):1	2112(couldn):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>More than I expected!!! My wife and I stayed at this confortable hotel four weeks ago. We paid a reasonable price and we had an excellent service. The rooms were large and extremely clean. It was close to main public transports and not far from the city center. We enjoyed delicious meals and a special buffet breakfast. Staff were really brisk and friendly, we were very happy with the information we've got about the city, shows, restaurants... We would recommend AB Viladomat hotel to our best friends, and we will definitely stay on summer time.  
+<Date>Feb 22, 2006
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+5	62(expect):1	75(week):1	184(wife):1	633(ago):1	2435(confortable):1	
+5	9(service):1	19(price):1	21(excellent):1	42(pay):1	273(reasonable):1	
+2	3(clean):1	110(extremely):1	
+6	28(close):1	41(city):1	101(center):1	112(main):1	379(public):1	742(transport):1	
+0	
+14	0(staff):1	5(time):1	10(restaurant):1	12(friendly):1	15(recommend):1	41(city):1	59(definitely):1	146(friend):1	155(happy):1	649(information):1	853(summer):1	4542(brisk):1	6251(ab):1	12073(viladomat):1	
+6	6(breakfast):1	51(enjoy):1	77(buffet):1	208(special):1	213(meal):1	485(delicious):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Never again After only 12 hours in the place - claims air con but only in summer. Boiled an egg in the room. Did not know you had to pay extra for a smile. Male receptionist needed his hair washed and cut. Would book tours only with Julia. Chosen tour was booked out, not advised until I enquired about the outcome. Told that if I wanted to book with another copmpany then I had to go the tourism office at the station. Asked to see manager, no night manager, told he would be in at 9am which came and went then told bluntly by the Commercial Manager that the manager had other things to do. Arrogance and not service is the rule. Could not get out of the place soon enough.  
+<Date>Feb 20, 2006
+<Rating>1	1	3	-1	4	-1	1	-1	
+<Aspects>
+1	418(soon):1	
+3	42(pay):1	128(extra):1	387(smile):1	
+7	60(hour):1	164(air):1	412(egg):1	840(Con):1	853(summer):1	1077(claim):1	1598(boil):1	
+5	18(book):1	69(tell):1	82(station):1	792(office):1	2897(tourism):1	
+0	
+10	2(night):1	69(tell):2	258(manager):4	729(hair):1	811(wash):1	855(receptionist):1	873(cut):1	2295(male):1	2934(commercial):1	11491(bluntly):1	
+10	9(service):1	18(book):2	167(choose):1	181(tour):2	663(advise):1	1704(inquire):1	1835(rule):1	7193(arrogance):1	10046(julia):1	10930(outcome):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>robbery being robbed at the hotel reception when arriving, not getting any compensation by so far i would not reccommend the hotel to anyone  
+<Date>Feb 10, 2006
+<Rating>1	3	4	-1	4	-1	1	-1	
+<Aspects>
+0	
+0	
+0	
+0	
+0	
+6	53(arrive):1	129(reception):1	2111(reccommend):1	2885(compensation):1	3005(rob):1	6210(robbery):1	
+0	
+0	
+
+<Author>wrightser
+<Content>Nice Hotel Stayed at the AB Viladomat for two nights in early Feb 2006. Overall we were very happy with every aspect of the hotel.Location: The location is fine. It is just a short 15 min walk from Sants station from where you can catch trains, metro, bus to anywhere in the city. The airport bus which we took stops behind the station. We used Rocafort Metro station when going into town - its a short 10 min walk down Viladomat Street from the hotel and is only 3 stops from Placa Catalunya where your touring of the city should begin.Rooms: The room we had was on the 5th floor and was spotless. The beds are comfortable and the room was reasonably spacious. The shower was excellent too.Service: We didn't eat at the hotel preferring to eat our breakfasts at one of the many nearby caf茅s. The buffet also seemed a bit expensive at 鈧?2.50 per person - when we could get a nice feed for under 鈧? just down the street. The staff were extremely friendly and courteous.I would recommend this hotel wholeheartedly for anyone who wants to stay in a nice neighbourhood but not too far from all the action. By the way, I thought the Ramblas was disappointing. The rest of Barcelona is fantastic....Marty from Dublin  
+<Date>Feb 8, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+14	2(night):1	4(nice):2	15(recommend):1	70(overall):1	154(disappoint):1	155(happy):1	421(neighbourhood):1	634(ramblas):1	958(action):1	1255(aspect):1	1258(feb):1	5268(wholeheartedly):1	6251(ab):1	12073(viladomat):1	
+0	
+9	11(bed):1	21(excellent):1	24(floor):1	25(comfortable):1	61(shower):1	111(spacious):1	548(spotless):1	578(reasonably):1	839(5th):1	
+22	1(location):2	7(walk):2	35(street):1	41(city):2	82(station):3	95(airport):1	113(fine):1	120(bus):2	122(stop):2	144(short):2	181(tour):1	182(train):1	235(metro):2	239(town):1	247(min):2	540(catch):1	551(begin):1	1278(catalunya):1	1740(placa):1	3484(sants):1	10085(rocafort):1	12073(viladomat):1	
+0	
+4	0(staff):1	12(friendly):1	110(extremely):1	483(courteous):1	
+17	4(nice):1	6(breakfast):1	9(service):1	35(street):1	47(eat):2	52(bit):1	77(buffet):1	86(fantastic):1	124(expensive):1	193(person):1	232(nearby):1	288(rest):1	309(barcelona):1	536(prefer):1	584(fee):1	2532(caf):1	6075(dublin):1	
+0	
+
+<Author>Gadgetmonsteruk
+<Content>Excellent Value This was our first time in Barcelona so choosing the Hotel was a bit hit or miss in this case we hit it right. Although away from the main tourist areas, it proved to be right for us. The staff were very helpful and courteous, the hotel exceptionally clean with an excellent restaurant. Catching the tourist bus from the Sants Terminal proved very easy. If you choose to fly into Gerona with a budget airline be warned catching any other mode of transport other than the Barcelona Bus is expensive. Queuing is unheard of and when the flights arrive, it is a bit of a free for all and make sure you buy your ticket before getting on the bus. If you have never been, Barcelona is a beautiful city with many types of architecture so even if it is just for a weekend it is well worth it.  
+<Date>Jan 22, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+3	112(main):1	209(tourist):1	1554(prove):1	
+8	5(time):1	21(excellent):1	52(bit):1	81(value):1	167(choose):1	276(miss):1	309(barcelona):1	775(hit):2	
+9	46(free):1	52(bit):1	53(arrive):1	120(bus):1	233(flight):1	280(buy):1	621(ticket):1	1463(queue):1	5983(unheard):1	
+16	93(easy):1	120(bus):2	124(expensive):1	167(choose):1	209(tourist):1	309(barcelona):1	429(budget):1	540(catch):2	614(fly):1	679(warn):1	742(transport):1	1261(terminal):1	1336(airline):1	1554(prove):1	3484(sants):1	4290(mode):1	
+7	0(staff):1	3(clean):1	10(restaurant):1	14(helpful):1	21(excellent):1	483(courteous):1	1242(exceptionally):1	
+0	
+7	41(city):1	45(beautiful):1	96(worth):1	172(weekend):1	309(barcelona):1	389(type):1	1803(architecture):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>GREAT HOTEL - WILL STAY THERE AGAIN We stayed at the hotel from Christmas Eve until 28 December 2005. I requested a high floor and was extremely lucky in getting Room 701 which has a fabulous quite large outside patio area complete with table and chairs (I don't think the other rooms have any balconies or patios)so would definitely be a bonus in warmer weather for eating and sitting in the sunshine. The room was extremely clean, bathroom fabulous with free toiletries and breakfast was really good - great choice including local champagne and loads of variety with both hot and cold selection - even chocolate cake - all for 25 euro for two people.The staff are extremely helpful and we would definitely stay there again. It was very easy to get to the hotel from the airport - 20 mins (22 euro) on arrival and 15 mins (17 euro) on our return journey. Taxis are extremely easy and plentiful so no problem getting out and about at any time of the day.Plenty of good places to eat including excellent tapas bars. Definitely recommend the old town and The Ramblas but masses to see and do in most parts of this great city.  
+<Date>Dec 30, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+9	15(recommend):1	41(city):1	59(definitely):1	239(town):1	634(ramblas):1	962(christmas):1	993(december):1	1787(eve):1	2653(mass):1	
+0	
+43	3(clean):1	6(breakfast):1	13(bathroom):1	24(floor):1	26(people):1	39(return):1	46(free):1	47(eat):1	59(definitely):1	71(include):1	93(easy):1	95(airport):1	98(outside):1	107(choice):1	110(extremely):2	114(hot):1	148(request):1	169(sit):1	191(balcony):1	195(local):1	198(chair):1	222(cold):1	224(arrival):1	229(table):1	236(warm):1	247(min):2	256(euro):3	270(fabulous):2	333(selection):1	385(weather):1	413(variety):1	622(complete):1	632(chocolate):1	657(toiletry):1	770(champagne):1	797(lucky):1	849(bonus):1	886(load):1	973(patio):1	1029(cake):1	1362(journey):1	2856(sunshine):1	5831(patios):1	
+6	5(time):1	8(day):1	93(easy):1	110(extremely):1	185(taxi):1	1039(plentiful):1	
+0	
+4	0(staff):1	14(helpful):1	59(definitely):1	110(extremely):1	
+6	21(excellent):1	27(bar):1	47(eat):1	71(include):1	158(plenty):1	1455(tapa):1	
+0	
+
+<Author>Scattercash
+<Content>Great Value Stayed here for three nights. Great service and friendly staff. Rooms are spotless and a minor problem with the WC was rectified immediately. Short walk to metro and bus stops - longer walk to main tourist sites but buy a multi journey ticket at the metro station (valid for buses and metro) and its so cheap who cares. SOme nice local bars are nearby if you want a cheap beer/snack. Have just rebooked to stay in February 2006.  
+<Date>Dec 30, 2005
+<Rating>4	5	4	-1	5	-1	4	-1	
+<Aspects>
+0	
+8	2(night):1	4(nice):1	27(bar):1	81(value):1	143(cheap):1	195(local):1	232(nearby):1	443(beer):1	
+5	489(immediately):1	548(spotless):1	720(minor):1	2943(rectify):1	3976(wc):1	
+16	7(walk):2	82(station):1	112(main):1	120(bus):2	122(stop):1	143(cheap):1	144(short):1	192(site):1	209(tourist):1	235(metro):3	242(care):1	280(buy):1	621(ticket):1	1362(journey):1	4438(valid):1	5171(multi):1	
+0	
+3	0(staff):1	9(service):1	12(friendly):1	
+2	1230(february):1	6552(rebooke):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>breakfast bonanza visited hotel on 11th of december for 2 nights.hotel can be found easily by getting bus outside airport staight to sants station.then purchase a t10 ticket for metro which gives you 10 journeys,it saves queing. take metro to entenca and hotel is about 10 minute walk. las ramblas is about a 20 minute walk from hotel. hotel is very clean, and have spacious rooms,and the breakfast is superb, with everything you could imagine on display.a must see is the nou canp stadium ,the metro takes you there,get off at coll blanc,and walk 5 minutes to ground. the tour is great, and costs 10 euros for adults.if you want somewhere cheap to eat,there is a pizza place across the road from hotel.  
+<Date>Dec 23, 2005
+<Rating>5	5	5	-1	5	-1	4	-1	
+<Aspects>
+6	235(metro):1	425(save):1	621(ticket):1	887(purchase):1	1362(journey):1	9935(queing):1	
+8	47(eat):1	143(cheap):1	175(cost):1	181(tour):1	230(road):1	256(euro):1	556(adult):1	678(pizza):1	
+6	3(clean):1	6(breakfast):1	111(spacious):1	407(superb):1	733(imagine):1	1917(display):1	
+15	7(walk):3	29(minute):3	82(station):1	95(airport):1	98(outside):1	120(bus):1	235(metro):2	438(easily):1	634(ramblas):1	706(grind):1	834(las):1	2695(stadium):1	3484(sants):1	4481(nou):1	9161(blanc):1	
+0	
+0	
+5	2(night):1	6(breakfast):1	65(visit):1	993(december):1	1899(11th):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Excellent Hotel , Great Team!!! My wife and me stayed at the Ab Viladomat Hotel in middle October , was a great experience!!!It was the first time in Barcelona and what an excellent city.First of all when we arrive everybody of the Hotel treats us like home , we didn't know much about the city and Reception was always very helpful , enthusiastic and give us some advices on what to do.The room was great, clean ,spacious and comfortable with this modern style a little bit minimalistic.In the restaurant where they have breakfast was delicious, we were very surpised they have natural orange juice and with a bottle of cava every day!!!One day I could not sleep and I was talking with David at night , he told me there is a coffee machine all night in the Cafeteria for free, I had a tea and a croissant from the early morning.As far as location is concerned is just a nice walk to Las Ramblas in downtown and is a very nice neighborhood for Restaurants , Bars and Shops.Overall the Experience in Barcelona and AB Viladomat was great. Thank you for giving us this warm and feelnes like home.If we come back again to Barcelona absoloutly will be AB Viladomat our choose for sure.Thank you make our stay wonderful.,  
+<Date>Nov 9, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+4	48(wonderful):1	141(home):1	236(warm):1	271(thank):2	
+8	44(experience):2	70(overall):1	184(wife):1	309(barcelona):1	325(middle):1	911(october):1	6251(ab):2	12073(viladomat):2	
+8	3(clean):1	23(little):1	25(comfortable):1	52(bit):1	111(spacious):1	151(modern):1	326(style):1	5981(minimalistic):1	
+11	1(location):1	4(nice):2	7(walk):1	10(restaurant):1	27(bar):1	49(shop):1	334(downtown):1	421(neighbourhood):1	496(concern):1	634(ramblas):1	834(las):1	
+0	
+8	14(helpful):1	41(city):1	53(arrive):1	129(reception):1	141(home):1	320(treat):1	575(advice):1	3456(enthusiastic):1	
+30	2(night):2	5(time):1	6(breakfast):1	8(day):2	10(restaurant):1	21(excellent):2	41(city):1	46(free):1	56(morning):1	69(tell):1	90(coffee):1	104(sleep):1	167(choose):1	238(bottle):1	301(tea):1	309(barcelona):2	362(juice):1	371(talk):1	485(delicious):1	493(machine):1	1004(croissant):1	1008(team):1	1104(orange):1	1543(natural):1	1956(david):1	2341(cava):1	3995(cafeteria):1	6251(ab):1	6828(surpise):1	12073(viladomat):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>would not let my dog stay there We just got back from a cruise in barcelona and stayed 3 nights previous to our trip at the Ab Viladomat. When we returned we stayed one night so we could make our connecting flights the next day. All of our reservations were checked and confirmed before the cruise. When we returned for the one night stay (six rooms) we waited for 4 hours for 3 rooms to be made available to us. 30 - 40 people were checked in while we waited. At 4 pm we were made aware by Jenna Ramon, the manager that there was no room for 2 of our party. She made every excuse she could while all 11 of us were furious. She then, after 45 minutes of arguing gave our party a room-stating that someone else would be losing there room now, like we cared at this point. I asked to speak to the her manager and she said she was the manager. So if you are desperate for a room--stay here---David who I had worked with most of the time for this trip was on holiday and he was more customer service oriented--but this Jenna needs to go to customer service 101.  
+<Date>Nov 1, 2005
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	1965(excuse):1	5309(furious):1	
+0	
+26	2(night):2	5(time):1	8(day):1	9(service):2	29(minute):1	33(trip):1	39(return):2	60(hour):1	85(wait):1	134(available):1	170(else):1	223(holiday):1	233(flight):1	242(care):1	258(manager):1	363(party):2	393(pm):1	428(customer):2	596(lose):1	832(aware):1	841(connect):1	1894(argue):1	1956(david):1	2385(orient):1	2730(desperate):1	5939(ramon):1	
+0	
+0	
+8	26(people):1	32(check):2	85(wait):1	127(speak):1	156(reservation):1	258(manager):2	603(cruise):1	982(confirm):1	
+8	2(night):1	33(trip):1	309(barcelona):1	373(previous):1	603(cruise):1	1126(dog):1	6251(ab):1	12073(viladomat):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Fantastic hotel My family and I stayed at this great hotel. We found a special fare on the internet and paid approx. 50 pounds a night. Rooms were very nice and clean. Hotel is just out of the centre of the city but is only a couple of tube stops or a short bus ride away. Would definitely stay at this hotel again.  
+<Date>Oct 8, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	2(night):1	59(definitely):1	86(fantastic):1	106(family):1	1842(pound):1	
+5	42(pay):1	97(internet):1	208(special):1	1112(fare):1	1423(approx):1	
+2	3(clean):1	4(nice):1	
+8	41(city):1	99(couple):1	101(center):1	120(bus):1	122(stop):1	144(short):1	218(ride):1	1310(tube):1	
+0	
+0	
+0	
+0	
+
+<Author>karenhutcheson
+<Content>Great hotel We took a taxi from the airport which cost us 25 euros, which we thought was OK. The bus is apparently cheaper, but we couldn't be bothered trying to sort that one out! Arrived at the hotel and the first impressions of it were very nice. We weren't let down by the room either. Rooms were a good, comfortable size, spotlessly clean, complimentary toiletries were replenished every day and the mini bar was good value. It was a good 20 min. walk to Las Ramlas area which wasn't a problem for us, it was good exercise after eating a wonderful breakfast. Everything you could possibly want to eat and more! Hot food, cold meats, fresh fruit, bread, rolls, cakes of various descriptions, champagne, yoghurts, coffees, teas, something for everyone. We used the bar for drinks before we went out in the evening and again, it was reasonably priced. I would certainly not hesitate in recommending this hotel, but as I mentioned it's walking distance to some of the sights which may put some people off, but I would definitely stay here again. One tip... don't eat anywhere at Las Ramblas, we got ripped off. 25 euros each for an omlette and a 2 litre glass of coke. Why they had to serve it in 2ltr glasses, I've no idea, but avoid eating here if you don't want to be ripped off. It's a nice place to people watch, but not nice when you get the bill! Enjoy!!!  
+<Date>Aug 30, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+19	4(nice):3	26(people):1	47(eat):2	51(enjoy):1	53(arrive):1	194(tip):1	245(watch):1	247(min):1	256(euro):1	327(glass):1	495(bill):1	634(ramblas):1	834(las):1	848(impression):1	1182(rip):1	1233(possibly):1	1672(coke):1	4960(omlette):1	5282(liter):1	
+6	76(try):1	120(bus):1	143(cheap):1	307(bother):1	557(sort):1	863(apparently):1	
+11	3(clean):1	8(day):1	25(comfortable):1	27(bar):1	81(value):1	83(size):1	345(complimentary):1	448(mini):1	657(toiletry):1	1094(spotlessly):1	1808(replenish):1	
+19	6(breakfast):1	7(walk):2	15(recommend):1	26(people):1	47(eat):1	48(wonderful):1	59(definitely):1	95(airport):1	115(distance):1	123(ok):1	175(cost):1	185(taxi):1	244(mention):1	256(euro):1	411(sight):1	834(las):1	902(hesitate):1	1459(exercise):1	12252(ramlas):1	
+0	
+0	
+25	16(food):1	19(price):1	27(bar):1	47(eat):1	63(drink):1	90(coffee):1	114(hot):1	174(serve):1	197(fresh):1	215(fruit):1	222(cold):1	301(tea):1	327(glass):1	436(avoid):1	497(bread):1	578(reasonably):1	639(idea):1	677(meat):1	770(champagne):1	813(roll):1	823(various):1	927(yogurt):1	1029(cake):1	1182(rip):1	2034(description):1	
+0	
+
+<Author>mattyjnz
+<Content>Nice hotel, but too far from the action..... Hotel was superb, large rooms, massive beds and very clean and tidy. However, it is let down by being a little too far away from the action, i.e. La Rambla, the harbour area, etc. Price was good though - we paid EUR70 a night.  
+<Date>Jul 31, 2005
+<Rating>4	4	5	-1	5	-1	3	-1	
+<Aspects>
+6	23(little):1	73(etc):1	225(la):1	561(harbor):1	958(action):1	1377(rambla):1	
+3	2(night):1	19(price):1	42(pay):1	
+7	3(clean):1	4(nice):1	11(bed):1	407(superb):1	958(action):1	1100(tidy):1	1329(massive):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great Hotel, Great Barcelona Very nice hotel good located in Barcelona. Bus to the airport stops just 5 minutes away.Very pleasant and helpful staff. Rooms are clean and comfortable.Dining in the restaurant is nice and well priced.  
+<Date>Jun 24, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+4	4(nice):1	10(restaurant):1	19(price):1	316(dine):1	
+2	3(clean):1	25(comfortable):1	
+7	4(nice):1	29(minute):1	84(locate):1	95(airport):1	120(bus):1	122(stop):1	309(barcelona):2	
+0	
+3	0(staff):1	14(helpful):1	150(pleasant):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Never got to stay! Visited late May - booked via lastminute but when we arrived we had to relocate to City Park (problems with computer systems - we weren't the only ones affected! )Although disappointed, transfer was already arranged to take us there which was good.In hindsight move was good as although city park further out -- metro was nearer and this was really good for our party travelling about barcelona.City park gave us rates for hotel when we booked out and on seeing these would probably go direct in future  
+<Date>May 30, 2005
+<Rating>3	3	2	-1	3	-1	3	-1	
+<Aspects>
+3	154(disappoint):1	680(arrange):1	1021(transfer):1	
+0	
+0	
+0	
+0	
+0	
+14	18(book):1	41(city):2	66(park):2	68(travel):1	78(rate):1	102(near):1	178(probably):1	207(move):1	235(metro):1	309(barcelona):1	363(party):1	732(future):1	803(direct):1	4609(hindsight):1	
+12	18(book):1	41(city):1	53(arrive):1	65(visit):1	66(park):1	79(late):1	512(via):1	518(system):1	555(computer):1	2082(affect):1	3812(relocate):1	6433(lastminute):1	
+
+<Author>Johnor99
+<Content>Great Hotel Stayed at Ab Viladomat in early March. It was nice and clean and in a good location. Breakfast was quite spectacular - everything on offer - english  continental - even chocolate cake.It is about 20 mins walk from the Ramblas. The airport bus stops very close to the hotel. Be careful around the Ramblas though as I was nearly robbed by some youths.We found a nice Irish Bar called Scobies on Ronda Universitat a few minutes walk from Placa de Cataluna. The owner was friendly and they show lots of GAA matches there.  
+<Date>Apr 27, 2005
+<Rating>4	4	4	-1	5	-1	3	-1	
+<Aspects>
+8	615(march):1	634(ramblas):1	896(nearly):1	897(careful):1	3005(rob):1	3525(youth):1	6251(ab):1	12073(viladomat):1	
+0	
+0	
+18	1(location):1	3(clean):1	4(nice):2	7(walk):2	27(bar):1	28(close):1	29(minute):1	67(call):1	95(airport):1	120(bus):1	122(stop):1	247(min):1	634(ramblas):1	1740(placa):1	2347(irish):1	4520(universitat):1	7510(cataluna):1	9718(ronda):1	
+0	
+4	12(friendly):1	38(lot):1	672(owner):1	1476(match):1	
+7	6(breakfast):1	89(offer):1	152(english):1	372(continental):1	632(chocolate):1	656(spectacular):1	1029(cake):1	
+0	
+
+<Author>enzozoc
+<Content>Good location, great value!!! We stayed here for 3 night at the beginning of jenuary.We had a great time, staff is very friendly and helpful, room was spacious enaugh, all facilities avalaible, the bathroom was clean and new.It's a 3 star hotel but it has a four star facilities!We spent only 50 鈧?per night, minibar at reasonable prices!Hotel location is quite good, very close to Saints train station, 7-10 minutes walk from the underground.If you like to walk you can reach placa Catalunya in 25 minutes, very pleasent walk.The surrounding area seems to be safe.There is a little good supermarket on the right side of the hotel.Barcelona is a beautiful city,with nice inhabitants!Enjoy your stay!  
+<Date>Apr 14, 2005
+<Rating>4	5	4	-1	4	-1	4	-1	
+<Aspects>
+3	2(night):1	51(enjoy):1	551(begin):1	
+9	1(location):1	2(night):1	19(price):1	64(spend):1	81(value):1	103(star):2	211(facility):1	273(reasonable):1	1037(minibar):1	
+8	0(staff):1	3(clean):1	5(time):1	12(friendly):1	13(bathroom):1	14(helpful):1	111(spacious):1	211(facility):1	
+16	1(location):1	7(walk):3	23(little):1	28(close):1	29(minute):2	82(station):1	137(safe):1	182(train):1	667(surround):1	851(reach):1	1078(supermarket):1	1085(underground):1	1278(catalunya):1	1740(placa):1	3057(pleasent):1	3312(saint):1	
+0	
+0	
+5	4(nice):1	41(city):1	45(beautiful):1	309(barcelona):1	12345(inhabitant):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Very Poor Location in Rough Neighbourhood. The hotel is very poor and I wouldn't recommend it to anyone.They have renovated the rooms, however the finish was very poor, the wardrobe door fell off when opened. The laminate floor had massive gaps in it, which I nearly tripped up on.Also this is in a very rough neighbourhood, as I left the hotel I saw a tourist being mugged right outside the front of the hotel.Overall, I didn't feel safe during the stay and the facilities did not help.  
+<Date>Apr 11, 2005
+<Rating>1	1	1	-1	2	-1	3	-1	
+<Aspects>
+2	15(recommend):1	331(poor):1	
+0	
+12	24(floor):1	33(trip):1	54(door):1	331(poor):1	533(renovate):1	587(fall):1	772(finish):1	896(nearly):1	1329(massive):1	1451(wardrobe):1	2726(gap):1	6986(laminate):1	
+14	1(location):1	31(front):1	34(feel):1	43(leave):1	70(overall):1	92(help):1	98(outside):1	137(safe):1	209(tourist):1	211(facility):1	331(poor):1	421(neighbourhood):2	1047(rough):2	2224(mug):1	
+0	
+0	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Awesome staff, awesome location, awesome hotel! The hotel was awesome, the room was very well tended too, all modern facilities. The front counter staff was friendly and helpful and the food that we ordered from room service was excellent (veal hamburger, sandwich). From this point in the city, my wife and I walked to La Ramblas made our way up and down it, also walked throughout the entire Gothic area easily found La Cathedral. It was a lengthy walk but it was beautiful, and it was so easy to get around the city on foot (at least this part of it). There were plently of resturants within walking distance and the surrounding area was plesant and a short walk to Bareclona Bus/Train terminal. (it is on the same street as the hotel). Next time I come to Barcelona, I will absolutely stay here again!  
+<Date>Apr 4, 2005
+<Rating>4	3	4	-1	4	-1	4	-1	
+<Aspects>
+0	
+0	
+4	151(modern):1	211(facility):1	348(awesome):1	1053(tend):1	
+26	0(staff):1	1(location):1	7(walk):5	35(street):1	41(city):2	45(beautiful):1	93(easy):1	115(distance):1	120(bus):1	144(short):1	184(wife):1	225(la):2	329(entire):1	348(awesome):3	402(foot):1	438(easily):1	445(throughout):1	634(ramblas):1	667(surround):1	1261(terminal):1	1552(cathedral):1	1565(resturants):1	2410(gothic):1	4206(lengthy):1	5680(plesant):1	5861(plently):1	
+0	
+11	0(staff):1	9(service):1	12(friendly):1	14(helpful):1	16(food):1	21(excellent):1	31(front):1	1001(counter):1	1071(sandwich):1	1739(hamburger):1	6380(veal):1	
+3	5(time):1	189(absolutely):1	309(barcelona):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Poor Room, Lack of Facilities, do not recommend We arrived at 12 and was checked in to a very small room, which was very warm. We were pleasantly suprised at the price of the mini bar (only 2 euros for a beer) so had a few drinks.The hotels location does let it down, we had to carry our bags for approximately 15 minutes from the station. With the only other option being a Taxi.We returned to our room and activated the Air Conditioning, over the course of the next few hours the room got progressively warmer. At 1AM I went to reception to complain about the heat. We were advised that air conditioning is only turned on in June (we arrived in March) and therefore our attempts to cool the room actually heated it (as when AC switched on it heats it). There were no notices to this effect in the room or anywhere in the hotel.I requested that we were moved to another room, which was rejected (no reason given). By this time the room was approximately 35 Celcius and we had no windows to attempt to cool the room down. After a further complaint the night porter came up with a special key to open the door/window. As he was leaving, he stated that were staying in the hotel at our own risk as the window/door was accessible by the road. So from the extremes of the heat to the noisy road (half wondering if were going to get an unwelcome visitor) we didn't get any sleep.I tried to settle this matter with the manager in the morning, however he was not available. No compensation or discount on the rate was offered for the sleepless night we suffered. I am taking this up with the booking agency as we speak..  
+<Date>Mar 30, 2005
+<Rating>1	2	1	-1	3	-1	1	-1	
+<Aspects>
+6	2(night):1	54(door):1	190(complaint):1	208(special):1	339(key):1	1653(porter):1	
+7	2(night):1	78(rate):1	89(offer):1	864(discount):1	1790(suffer):1	2885(compensation):1	4250(sleepless):1	
+39	5(time):1	39(return):1	43(leave):1	53(arrive):1	60(hour):1	104(sleep):1	119(window):2	148(request):1	164(air):2	166(own):1	180(actually):1	207(move):1	217(noisy):1	230(road):2	236(warm):1	263(condition):2	278(cool):2	283(half):1	293(course):1	354(notice):1	374(reason):1	539(heat):3	615(march):1	663(advise):1	664(june):1	888(switch):1	946(wonder):1	951(visitor):1	956(ac):1	1119(attempt):2	1342(accessible):1	1961(approximately):1	2168(risk):1	2191(effect):1	2656(extreme):1	3795(unwelcome):1	4618(activate):1	6816(reject):1	9464(celcius):1	
+15	1(location):1	15(recommend):1	29(minute):1	32(check):1	53(arrive):1	82(station):1	185(taxi):1	211(facility):1	236(warm):1	290(bag):1	331(poor):1	336(option):1	349(lack):1	824(carry):1	1961(approximately):1	
+0	
+10	56(morning):1	129(reception):1	134(available):1	241(complain):1	253(tried):1	258(manager):1	531(matter):1	539(heat):1	1414(settle):1	8726(1am):1	
+11	18(book):1	19(price):1	27(bar):1	63(drink):1	127(speak):1	256(euro):1	443(beer):1	448(mini):1	747(pleasantly):1	1738(suprise):1	2218(agency):1	
+0	
+
+<Author>Attwell99
+<Content>Superb hotel, not without a few niggles though. Myself  2 friends stayed here in august 2004 for 5 nights. Upon booking i requested a room with 3 proper beds to which i was told i would have them without fail. Upon arrival we were very impressed with everything until we opened the room door to find a flimsy camp bed in the room. It took at least 30 minutes of arguing with the hotel manager to resolve the problem  get a 3rd proper bed in the room but they did it in the end. My only problem during the stay was that the temperature in barcelona was unreal, it was extremely hot  the cleaners insisted in turning off the air conditioning every time they cleaned resulting in an uncomfortable room for about 30 minutes until it got itself going again. Upon check out they tried to charge us for phone calls we never made  for a blue movie that we also did'nt watch. Again 30 mins of head to head with the manager resolved it.All in all i'm sure we had an isolated few problems  nobody should be put off staying here. Great location  superb quality hotel.  
+<Date>Mar 19, 2005
+<Rating>4	4	5	-1	5	-1	4	-1	
+<Aspects>
+5	2(night):1	146(friend):1	407(superb):1	2468(isolate):1	3910(niggle):1	
+3	1(location):1	187(quality):1	407(superb):1	
+29	3(clean):1	5(time):1	11(bed):3	18(book):1	29(minute):2	54(door):1	69(tell):1	110(extremely):1	114(hot):1	148(request):1	164(air):1	224(arrival):1	258(manager):1	263(condition):1	309(barcelona):1	343(impress):1	856(uncomfortable):1	944(temperature):1	1109(result):1	1495(insist):1	1576(fail):1	1715(resolve):1	1719(proper):2	1894(argue):1	2087(camp):1	2097(3rd):1	2487(cleaner):1	5089(unreal):1	5572(flimsy):1	
+0	
+0	
+12	32(check):1	67(call):1	136(charge):1	245(watch):1	247(min):1	253(tried):1	258(manager):1	296(phone):1	319(head):2	694(blue):1	989(movie):1	1715(resolve):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great hotel good location My husband 2 girls and I stayedat A B Viladomat in Jan. 2002. It was our 1st visit to Spain and although we had done background research on Barcelona and knew how to get around the staff were very helpful, providing us with tourist maps and giving us advice on what to see etc. All had a high standard of English. The hotel was very child-friendly with very competitive rates. The room was gorgeous as was the ensuite bathroom with toiletries replenished daily. breakfast was a buffet with a good selection of breads, cold meats, cereals, pastries, fruit, yoghurt and cereals. Their coffee was delicious!The location is quite good too - bus stops outside and opposite the hotel, with Sants station within walking distance. Metro stops are 10 mins walk away (several stations, different lines scattered around hotel location). Placa Catalunya was just a short bus ride away. There were plenty of food places locally to eat at.Anyway, all I can say is that our stay in Barcelona at that time (weather was not good due to time of year) was definitely enhanced by our staying at this hotel.  
+<Date>Mar 15, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+5	78(rate):1	130(standard):1	152(english):1	3279(competitive):1	9884(child-friendly):1	
+0	
+6	13(bathroom):1	360(daily):1	446(gorgeous):1	657(toiletry):1	1808(replenish):1	2601(ensuite):1	
+21	1(location):3	7(walk):2	82(station):2	98(outside):1	105(husband):1	115(distance):1	120(bus):2	122(stop):2	144(short):1	188(line):1	218(ride):1	235(metro):1	247(min):1	625(girl):1	783(opposite):1	1278(catalunya):1	1462(jan):1	1740(placa):1	3484(sants):1	3827(scatter):1	12073(viladomat):1	
+0	
+12	0(staff):1	14(helpful):1	65(visit):1	73(etc):1	153(provide):1	209(tourist):1	309(barcelona):1	575(advice):1	724(map):1	1024(research):1	1636(spain):1	2445(background):1	
+23	5(time):2	6(breakfast):1	16(food):1	47(eat):1	59(definitely):1	77(buffet):1	90(coffee):1	158(plenty):1	215(fruit):1	222(cold):1	259(due):1	309(barcelona):1	333(selection):1	385(weather):1	417(anyway):1	485(delicious):1	497(bread):1	529(cereal):2	652(pastry):1	677(meat):1	927(yogurt):1	3231(locally):1	3489(enhance):1	
+0	
+
+<Author>RWC99
+<Content>Great hotel, good value I had a very pleasant stay for a business + pleasure trip to Barcelona in Feb 2005. The rooms are nicely appointed, and the bathrooms are spacious and clean! The staff is friendly and accommodating, even to us 鈥渟illy Americans鈥?who make no attempt to speak Catalan or Spanish! The breakfast buffet is delicious and offers a nice variety for the price (12,50Euros per person). The business part of my trip was a training class, held in their basement salon. The training room was bright and comfortable, despite being underground and windowless. The tea/snacks service was sufficient, bottled water was bountiful.For the pleasure part of my trip (I stayed on for the weekend after the class), the hotel was in a great location. I quite enjoyed the longish walk (about 12 city blocks) to the attractions and shopping areas (Pg. Gracia, Casa Batllo, etc.). Those are not into walking that distance can certainly catch a taxi very easily (they are bountiful and cheap). I would certainly stay here again when I鈥檓 back in Barcelona.  
+<Date>Mar 6, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+4	73(etc):1	2090(casa):1	2525(gracia):1	9189(batllo):1	
+15	0(staff):1	12(friendly):1	33(trip):1	81(value):1	127(speak):1	147(business):1	150(pleasant):1	309(barcelona):1	369(spanish):1	624(accommodate):1	907(pleasure):1	1119(attempt):1	1172(americans):1	1258(feb):1	6122(catalan):1	
+11	3(clean):1	13(bathroom):1	25(comfortable):1	111(spacious):1	182(train):1	404(nicely):1	498(despite):1	579(appoint):1	880(bright):1	1085(underground):1	6468(windowless):1	
+23	1(location):1	7(walk):2	33(trip):2	41(city):1	49(shop):1	51(enjoy):1	100(bloc):1	115(distance):1	143(cheap):1	147(business):1	172(weekend):1	182(train):1	185(taxi):1	350(attraction):1	438(easily):1	470(class):2	540(catch):1	593(hold):1	907(pleasure):1	1568(basement):1	3418(salon):1	6843(bountiful):1	11214(longish):1	
+0	
+0	
+16	4(nice):1	6(breakfast):1	9(service):1	19(price):1	57(water):1	77(buffet):1	89(offer):1	193(person):1	238(bottle):1	256(euro):1	301(tea):1	309(barcelona):1	413(variety):1	485(delicious):1	1713(sufficient):1	6843(bountiful):1	
+0	
+
+<Author>P-Hopper
+<Content>Absolutely Excellent The Breakfast, the room, the service all top notch. The only reason that this is not a 4 star hotel is lack of swimming pool spa, etc.Otherwise, this hotel is definitely up there with the Shearaton's and Westins.Hotel staff were all friendly. I agree and second all of the other positive reviews regarding AB Viladomat. I cannot emphasize the cleanliness and spaciousness of rooms.Only downer, was road noise/traffic. if you are a light sleeper, consider earplugs. But the view of the busy street in the morning, with sunshine pouring in---is kinda neat.The only difficulty was finding the place from Sants station. When you reach the intersection the hotel is located on (if you are walking) you could walk right by as the sign is quite discreet.Location i proximity to sights is good if you are fit, but possibly a slight problem if you are not able to walk. However, bus stop is almost right outside the door and taxis abound (llike new york). I would stay at AB Viladomat again and again!  
+<Date>Feb 25, 2005
+<Rating>5	5	5	-1	5	-1	5	-1	
+<Aspects>
+6	37(review):1	458(positive):1	473(agree):1	930(regard):1	6251(ab):2	12073(viladomat):2	
+10	22(pool):1	59(definitely):1	73(etc):1	103(star):1	261(swim):1	314(spa):1	349(lack):1	374(reason):1	508(otherwise):1	889(westin):1	
+7	157(light):1	248(consider):1	854(cleanliness):1	1299(sleeper):1	1771(earplugs):1	5024(emphasize):1	6439(spaciousness):1	
+31	1(location):1	7(walk):3	17(view):1	35(street):1	54(door):1	56(morning):1	82(station):1	84(locate):1	98(outside):1	120(bus):1	122(stop):1	171(able):1	185(taxi):1	220(busy):1	411(sight):1	424(york):1	449(sign):1	668(fit):1	851(reach):1	1114(proximity):1	1233(possibly):1	1286(neat):1	1297(slight):1	1764(pour):1	1777(difficulty):1	2050(kinda):1	2856(sunshine):1	3484(sants):1	3615(intersection):1	4022(discreet):1	4300(abound):1	
+0	
+5	0(staff):1	12(friendly):1	94(noise):1	230(road):1	5019(downer):1	
+6	6(breakfast):1	9(service):1	21(excellent):1	118(top):1	189(absolutely):1	1227(notch):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Clean, pleasant and good value My husband and I along with three friends stayed at the Hotel AB Viladomat late Janaury and we can highly recommend it for good value and pleasant place to stay. The rooms were spacious and clean with fresh modern decor. The large tiled bathroom was spotless with a lovely marble finish. Shower was heaven after a long day's sightseeing. The only thing missing was tea and coffee making facilities. For breakfast buffet you could choose from orange juice to champagne, bacon, sausage and scrambled eggs to fresh fruit salad. There was also chocolate cake and strawberry cheesecake available!!.The only draw back of the hotel was it's location. It was 20 to 30 mins walk to Playa de Catalunya and Las Ramblas but we found that the No. 41 bus ran along next street (Carrer de Calabria) on its outward journey from the city centre and returned along (Carrer de Rocafort) which is two streets up. The nearest metro station was about four blocks away (10/15 mins walk) if you are wanting to go further field. Purchase a Barcelona Card at the Tourist Information desk in the airport if you are staying a few days as it gives you free travel on buses and Metro, as well as discount into a lot of the attractions, we certainly got our money's worth. The Aerobus which runs to and from the airport stops two minute walk from the front of the hotel on Avinguda de Roma, and the Sants railway station is approx 10 mins walk.Overall we decided it was a good choice and we would have no hesitation in booking again.  
+<Date>Jan 31, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+15	3(clean):1	15(recommend):1	18(book):1	70(overall):1	79(late):1	81(value):2	105(husband):1	107(choice):1	138(highly):1	146(friend):1	150(pleasant):2	219(decide):1	1373(hesitation):1	6251(ab):1	12073(viladomat):1	
+15	3(clean):1	8(day):1	13(bathroom):1	61(shower):1	87(lovely):1	111(spacious):1	151(modern):1	197(fresh):1	269(decor):1	548(spotless):1	640(sight-see):1	705(marble):1	772(finish):1	846(tile):1	1363(heaven):1	
+46	1(location):1	7(walk):4	8(day):1	29(minute):1	31(front):1	35(street):2	36(desk):1	38(lot):1	39(return):1	41(city):1	46(free):1	68(travel):1	80(money):1	82(station):2	95(airport):2	96(worth):1	100(bloc):1	101(center):1	102(near):1	120(bus):2	122(stop):1	149(run):2	209(tourist):1	235(metro):2	247(min):3	292(card):1	309(barcelona):1	350(attraction):1	634(ramblas):1	649(information):1	834(las):1	864(discount):1	887(purchase):1	1278(catalunya):1	1362(journey):1	1423(approx):1	1620(draw):1	2002(railway):1	2174(field):1	3212(playa):1	3484(sants):1	3791(roma):1	3961(aerobus):1	6576(carrer):2	7838(outward):1	10085(rocafort):1	
+0	
+0	
+22	6(breakfast):1	77(buffet):1	90(coffee):1	134(available):1	167(choose):1	197(fresh):1	211(facility):1	215(fruit):1	276(miss):1	301(tea):1	362(juice):1	412(egg):1	632(chocolate):1	770(champagne):1	909(salad):1	1029(cake):1	1057(bacon):1	1104(orange):1	1385(sausage):1	1674(scramble):1	2276(strawberry):1	3031(cheese-cake):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good Hotel for the price We stayed in the Viladomat Hotel 1/7-1/10. The rooms were small, but clean and nice. The bathrooms were clean. The bed was firm and comfortable. Noise level was ok, considering that the hotel is located on a busy street. The hotel restaurant is expensive and the food is awful, so I suggest that you go out to eat. There is a good breakfast cafe 2 blocks up on the right off of Vildomat. I would recommend Barri Gottic area or Gracia for lunch/dinner as there is not much near the hotel. The location is pretty good as it's only 4 blocks away from the Hospital Clinic Metro stop, but it is away from any other tourist destination and is located more in a business district. Taxi cost only 15 Euros from the airport, but they were on strike when we left, so we took the metro to the airport train at Catalunya station...no problem and an easy way to go. La Rambla is rated as the 9th most crime ridden street in the world, so be alert for pickpockets. We didn't have a problem, but witnessed another tourist who got her purse stolen right off her arm. I would recommend the hotel because of the relatively low price, but if I was to stay in Barcelona again, I would probably stay closer to the water...perhaps over by the Olympic Village.  
+<Date>Jan 12, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+11	15(recommend):1	19(price):2	28(close):1	57(water):1	178(probably):1	309(barcelona):1	513(low):1	913(relatively):1	1087(village):1	2286(olympic):1	12073(viladomat):1	
+6	3(clean):2	4(nice):1	11(bed):1	13(bathroom):1	25(comfortable):1	1368(firm):1	
+37	1(location):1	35(street):2	43(leave):1	78(rate):1	82(station):1	84(locate):2	93(easy):1	94(noise):1	95(airport):2	100(bloc):1	109(pretty):1	122(stop):1	123(ok):1	147(business):1	175(cost):1	182(train):1	185(taxi):1	209(tourist):1	218(ride):1	220(busy):1	225(la):1	235(metro):2	248(consider):1	256(euro):1	272(world):1	306(level):1	433(district):1	1092(destination):1	1278(catalunya):1	1377(rambla):1	1911(hospital):1	1957(strike):1	3628(alert):1	3804(crime):1	4220(pickpocket):1	4556(clinic):1	5180(9th):1	
+0	
+0	
+19	6(breakfast):1	10(restaurant):1	15(recommend):1	16(food):1	47(eat):1	100(bloc):1	102(near):1	124(expensive):1	209(tourist):1	252(lunch):1	275(cafe):1	452(suggest):1	736(awful):1	1187(steal):1	1726(arm):1	2525(gracia):1	2685(witness):1	3519(purse):1	3775(barri):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>a good place but slightly inconvenient This is a clean, modern hotel at Viladomat and Valencia in the western part of the Eixample, which is the modern section of Barcelona. I got a good deal on it through Expedia. The room was a good size, neither fancy nor drab, and the staff were all pleasant with one odd exception. There's also a good restaurant.The main difficulty is the location. It is walking distance from most of the sights that you'll see as a tourist, and also from the main Sants train station. But it's a long walk, like eight large blocks, and I got tired of the walk as my trip went along. It's also equidistant (like four or five blocks) from four different subway stations, meaning that it was no more or less convenient to walk to most places than it was to take the subway.For what it's worth, there's a good bakery and cafe called La Boulangerie four blocks to the east at Valencia 178 or thereabouts.  
+<Date>Jan 1, 2005
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	140(deal):1	1066(expedia):1	
+0	
+18	0(staff):1	3(clean):1	83(size):1	150(pleasant):1	151(modern):2	309(barcelona):1	598(slightly):1	796(fancy):1	947(section):1	970(nor):1	1015(western):1	1088(odd):1	1128(exception):1	1275(neither):1	2301(inconvenient):1	3420(drab):1	5645(eixample):1	12073(viladomat):1	
+16	1(location):1	7(walk):4	33(trip):1	82(station):2	100(bloc):2	112(main):2	115(distance):1	182(train):1	186(convenient):1	209(tourist):1	246(mean):1	370(subway):2	411(sight):1	454(tire):1	1777(difficulty):1	3484(sants):1	
+0	
+0	
+9	10(restaurant):1	67(call):1	96(worth):1	100(bloc):1	225(la):1	275(cafe):1	948(east):1	1483(bakery):1	6470(boulangerie):1	
+0	
+
+<Author>lifeboatles
+<Content>Excellent AB Viladomat Having just spent four nights at the hotel AB Viladomat I can highly recomend it as a clean good value and very pleasant place to spend a few days.The staff were all very friendly and helpful, I would have great difficulty in faulting the hotel at all, it is a little way away from the city centre but the public transport is so simple to use that it is not a problem. The main tourist spots are within a twenty minute walk.I would certainly use the AB Viladomat if I were to travel to Barcelona again.  
+<Date>Dec 22, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+11	2(night):1	3(clean):1	8(day):1	21(excellent):1	64(spend):2	81(value):1	138(highly):1	150(pleasant):1	1420(recomend):1	6251(ab):2	12073(viladomat):2	
+0	
+17	0(staff):1	7(walk):1	12(friendly):1	14(helpful):1	23(little):1	29(minute):1	41(city):1	101(center):1	112(main):1	209(tourist):1	317(spot):1	379(public):1	517(fault):1	613(simple):1	742(transport):1	1777(difficulty):1	5460(twenty):1	
+0	
+0	
+4	68(travel):1	309(barcelona):1	6251(ab):1	12073(viladomat):1	
+0	
+
+<Author>SanDiegobased
+<Content>Good quality modern hotel I chose this hotel for 3 nights midweek in November 2004. We booked easily via the hotel website and had a comfortable stay. The hotel is close to the Aerobus stop to go to the airport, and is near the Sants railway station. The location is a few blocks (10-15 minutes) from several metro stations from which we walked at night without any problems. We ate twice at the breakfast buffet which had enough variety to keep us satiated.This is a modern business hotel and the English speaking staff were friendly and efficient. I would stay here again, although I did think a couple times that it might have been better to stay a little nearer to Plaza Espana.  
+<Date>Dec 6, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+6	2(night):1	151(modern):1	167(choose):1	187(quality):1	999(november):1	5892(midweek):1	
+0	
+26	0(staff):1	1(location):1	2(night):1	5(time):1	7(walk):1	12(friendly):1	23(little):1	28(close):1	29(minute):1	82(station):2	95(airport):1	99(couple):1	100(bloc):1	102(near):2	122(stop):1	127(speak):1	147(business):1	151(modern):1	152(english):1	235(metro):1	401(efficient):1	515(plaza):1	2002(railway):1	3484(sants):1	3961(aerobus):1	6173(espana):1	
+0	
+0	
+10	6(breakfast):1	18(book):1	25(comfortable):1	47(eat):1	77(buffet):1	262(website):1	347(twice):1	413(variety):1	438(easily):1	512(via):1	
+0	
+
+<Author>Doylata
+<Content>Great hotel My wife and I stayed here in early November 2004 for 7 nights. We asked for and got an interior room for quiteness. The hotel is almost new and we had a great room. We are both Spanish speakers and found the staff to be competent , courteous, and helpful but not overly friendly. I requested a telephone directory at the desk and was told that they didn't have one. The buffet breakfast was a bit pricey at 12 euros. We sometimes had cafe con leche and a sweet roll for 2.50 at the hotel. All around the hotel there are places for breakfast and mid-day meals. Eat your big meal out from 1-4 p.m. and have the menu del dia for 7 euros. Two big dishes, dessert, and a bottle of wine. Snack at night from the market across the street.The Metro stations are close as are two Internet cafes. This is a great location at a great price.I highly recommend the hotel.  
+<Date>Nov 27, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+12	2(night):1	15(recommend):1	47(eat):1	138(highly):1	184(wife):1	213(meal):1	256(euro):1	423(menu):1	999(november):1	1466(p.m):1	1482(del):1	11262(dia):1	
+2	1(location):1	19(price):1	
+1	1026(interior):1	
+9	2(night):1	28(close):1	35(street):1	82(station):1	97(internet):1	235(metro):1	264(market):1	275(cafe):1	406(snack):1	
+0	
+13	0(staff):1	12(friendly):1	14(helpful):1	36(desk):1	69(tell):1	148(request):1	369(spanish):1	483(courteous):1	1345(overly):1	1692(telephone):1	2398(speaker):1	2921(competent):1	7007(directory):1	
+17	6(breakfast):2	52(bit):1	77(buffet):1	213(meal):1	238(bottle):1	251(wine):1	256(euro):1	275(cafe):1	546(pricey):1	560(sometimes):1	813(roll):1	816(dish):1	840(Con):1	950(sweet):1	1180(dessert):1	5931(leche):1	6170(mid-day):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Good, but out of the way Generally a good hotel, clean and spacious. The staff was friendly and the buffet breakfast was reasonable. The hotel is quite out of the way of the major attractions of Barcelona. We would not stay there next time for this reason. We would rather pay slightly more and be within comfortable walking distance.  
+<Date>Nov 1, 2004
+<Rating>3	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	5(time):1	374(reason):1	
+5	7(walk):1	25(comfortable):1	42(pay):1	115(distance):1	598(slightly):1	
+0	
+0	
+2	3(clean):1	111(spacious):1	
+0	
+8	0(staff):1	6(breakfast):1	12(friendly):1	77(buffet):1	273(reasonable):1	309(barcelona):1	315(major):1	350(attraction):1	
+0	
+
+<Author>GeGa
+<Content>Just right! 5 friends and myself stayed in the Viladomat in late September. It was just right on every count. The rooms were a decent size, the mini-bar was reasonable, the cleanliness was excellent, the breakfast was great especially setting out on a long day exploring this great city. The staff were the best - obliging and helpful. Even though the hotel is a short walk from the Metro there is a bus stop just outside the door and the Metro tickets work on the buses too. A wonderful hotel for a great price. Thank you.  
+<Date>Oct 5, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+6	79(late):1	146(friend):1	271(thank):1	972(september):1	1781(Count):1	12073(viladomat):1	
+2	19(price):1	48(wonderful):1	
+12	6(breakfast):1	8(day):1	21(excellent):1	41(city):1	83(size):1	126(especially):1	234(set):1	257(decent):1	273(reasonable):1	594(explore):1	854(cleanliness):1	1338(mini-bar):1	
+8	7(walk):1	54(door):1	98(outside):1	120(bus):2	122(stop):1	144(short):1	235(metro):2	621(ticket):1	
+0	
+3	0(staff):1	14(helpful):1	2709(oblige):1	
+0	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Clean and Comfortable We chose this hotel based on the reviews of this website. Being in Barcelona as a tourist and for a conference at the Palace de Congresos near the University, it was a compromise in location, located in between the city centre and the conference facility. The hotel is very clean and modern. The lobby is sometimes smoky. Did not get the breakfast. There are many local coffee bars nearby. It IS a bit far from the three closest metro stations, at least a 10-15 min walk, which is essential to use to get around Barcelona - the tourist sites are all very spread apart the expansive city. The room itself was roomy, clean with fresh modern decor. Air conditioning was fantastic, very quiet! The bathroom was very clean, marble finish. Shower was heavenly. No complaints of the service. Front desk willing to call taxis and notify you of its arrival by calling your room. Compared to others' experience of the small or disappointing accommodation that can be encountered in this city, we were very pleased and satisfied at this hotel.  
+<Date>Jul 10, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+8	41(city):1	44(experience):1	154(disappoint):1	173(please):1	381(compare):1	693(encounter):1	721(accommodation):1	899(satisfy):1	
+14	3(clean):2	13(bathroom):1	58(quiet):1	61(shower):1	86(fantastic):1	151(modern):1	164(air):1	197(fresh):1	263(condition):1	269(decor):1	705(marble):1	772(finish):1	1353(roomy):1	1609(heavenly):1	
+35	1(location):1	3(clean):1	7(walk):1	25(comfortable):1	28(close):1	31(front):1	36(desk):1	37(review):1	41(city):2	52(bit):1	67(call):2	82(station):1	84(locate):1	101(center):1	102(near):1	167(choose):1	185(taxi):1	192(site):1	209(tourist):2	211(facility):1	224(arrival):1	235(metro):1	247(min):1	262(website):1	284(base):1	309(barcelona):2	642(palace):1	794(conference):2	857(apart):1	1203(spread):1	2381(university):1	2496(essential):1	2760(notify):1	3700(expansive):1	3884(compromise):1	
+2	3(clean):1	151(modern):1	
+0	
+10	6(breakfast):1	9(service):1	27(bar):1	55(lobby):1	90(coffee):1	190(complaint):1	195(local):1	232(nearby):1	560(sometimes):1	3782(smoky):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Hotel AB Viladomat an excellent choice Last week we stayed at Hotel AB Viladomat and has been excellent experience in all sense.The receptionist staff have been very helpful , the restaurant is great , they have a daily menu just for 12鈧?!!! We came with some friends and we strongly enjoy our stay in Barcelona.Is very good located and the Aero Bus stop just in front of the HotelLas Ramblas is just a nice 20 minutes walk all long the Gran Via.Concerning the prices we had the best rates on their web page (www.hotelabviladomat.com ) or contacting directly the Hotel.  
+<Date>Jul 7, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+14	19(price):1	21(excellent):2	44(experience):1	75(week):1	78(rate):1	107(choice):1	383(directly):1	496(concern):1	713(contact):1	1019(web):1	1102(sense):1	2414(page):1	6251(ab):2	12073(viladomat):2	
+0	
+10	4(nice):1	7(walk):1	29(minute):1	31(front):1	84(locate):1	120(bus):1	122(stop):1	512(via):1	634(ramblas):1	1535(gran):1	
+0	
+6	0(staff):1	10(restaurant):1	14(helpful):1	360(daily):1	423(menu):1	855(receptionist):1	
+4	51(enjoy):1	146(friend):1	309(barcelona):1	1386(strongly):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>Great service Just come back from staying 3 nights at the Ab Viladomat Hotel. We had a wonderful time. Considering the cheap price we paid through Expedia, we certainly got our money's worth. Before going, i rung the hotel to see if we could get a room up grade. We were given this without any further cost. The room was lovely. Very big and had everything you needed (the only thing missing was tea/coffee making facilities). The bed was big and very comforatable and good storage space. The staff were consistantly very helpful when we asked for information and advice on the sights of Barcelona (as it was our first visit).The only draw back of the hotel was its location. It was quite far away from the centre and we had to take the metro to get everywhere.Though this, had a wonderful stay and would really recommend this hotel for anyone who wants accomodation out of the city centre, good value for money and friendly service.  
+<Date>Jun 21, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+2	5(time):1	48(wonderful):1	
+16	9(service):1	12(friendly):1	15(recommend):1	19(price):1	41(city):1	42(pay):1	48(wonderful):1	80(money):2	81(value):1	96(worth):1	101(center):1	143(cheap):1	175(cost):1	248(consider):1	780(accomodation):1	1066(expedia):1	
+7	11(bed):1	87(lovely):1	210(space):1	1150(ring):1	1311(storage):1	2827(grade):1	11746(comforatable):1	
+2	1(location):1	1620(draw):1	
+0	
+8	0(staff):1	14(helpful):1	65(visit):1	309(barcelona):1	411(sight):1	575(advice):1	649(information):1	9040(consistantly):1	
+7	2(night):1	9(service):1	211(facility):1	276(miss):1	301(tea):1	6251(ab):1	12073(viladomat):1	
+2	101(center):1	235(metro):1	
+
+<Author>John181
+<Content>Recommended Hotel         
+<Date>May 24, 2004
+<Rating>5	4	5	-1	5	-1	4	-1	
+<Aspects>
+1	15(recommend):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>warwicktube
+<Content>F眉r ein Stadthotel eine super Wahl.       Zimmer  
+<Date>Jan 19, 2008
+<Rating>5	5	5	2	5	3	5	-1	
+<Aspects>
+3	464(super):1	9279(zimmer):1	12511(ein):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

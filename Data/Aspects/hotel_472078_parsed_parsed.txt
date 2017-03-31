@@ -1,0 +1,476 @@
+<Author>Kikujiro
+<Content>Excellent value for money       Bed  
+<Date>Dec 28, 2008
+<Rating>4	4	4	4	3	3	3	-1	
+<Aspects>
+0	
+4	11(bed):1	21(excellent):1	80(money):1	81(value):1	
+0	
+0	
+0	
+0	
+0	
+0	
+
+<Author>ijdwright
+<Content>Easy and efficient hotel Spent two nights in November 2008.Everything was straight forward and efficient with this hotel. Nothing spectacular but everything you would expect from a chain hotel. Liken it to a Travelodge in the UK - clean, good basic level of service. Location was good, just south of the Rijksmuseum and close to the excellent tram service - lines 16 and 24.If you are looking for a simple, no-fuss hotel I'd definitely recommend this particular NH Hotel.  
+<Date>Nov 22, 2008
+<Rating>4	3	4	4	4	3	3	-1	
+<Aspects>
+16	2(night):1	15(recommend):1	20(look):1	59(definitely):1	62(expect):1	64(spend):1	93(easy):1	401(efficient):2	613(simple):1	627(chain):1	656(spectacular):1	750(forward):1	827(straight):1	938(particular):1	999(november):1	3049(nh):1	
+0	
+0	
+8	1(location):1	9(service):1	21(excellent):1	28(close):1	188(line):1	570(tram):1	769(south):1	3889(rijksmuseum):1	
+7	3(clean):1	9(service):1	306(level):1	352(basic):1	1178(uk):1	3479(travelodge):1	11465(liken):1	
+0	
+0	
+0	
+
+<Author>ninamarta
+<Content>Excellent hotel! This is by far one of my favorite hotels my company uses!The location is pretty good, near of the most important Amsterdam's museums and the town city center.The staff is friendly and the whole hotel very cousy!  
+<Date>Sep 10, 2008
+<Rating>5	5	4	5	5	5	5	5	
+<Aspects>
+1	21(excellent):1	
+0	
+0	
+8	1(location):1	41(city):1	101(center):1	102(near):1	109(pretty):1	239(town):1	361(amsterdam):1	507(museum):1	
+0	
+2	0(staff):1	12(friendly):1	
+0	
+2	376(favourite):1	760(company):1	
+
+<Author>soeti
+<Content>very good hotel very nice hotel ,modern rooms, exellent service, very good breakfast,internet available but very expensive - (22 Euro per day)10 min walk to museums- a bit far from center (dam) about 35 min walk or 15 min by tram - thats the only major disadvantage.  
+<Date>Aug 19, 2008
+<Rating>5	4	4	3	4	5	5	4	
+<Aspects>
+0	
+0	
+0	
+20	4(nice):1	6(breakfast):1	7(walk):2	8(day):1	9(service):1	52(bit):1	97(internet):1	101(center):1	124(expensive):1	134(available):1	151(modern):1	247(min):3	256(euro):1	315(major):1	507(museum):1	570(tram):1	1198(thats):1	1266(dam):1	3931(disadvantage):1	4630(exellent):1	
+0	
+0	
+0	
+0	
+
+<Author>katwoman0326
+<Content>Nice Hotel Had a room on the first floor facing the street and canal. A window opened to allow some fresh air in. Rooms are large and comfortable. A choice of bed pillows is offered. Bathroom was big and clean, but couldn't get the drain stopper to come up in the sink, so had to take it out altogether . Good location in the Museum Quarter, 1 block from the Rijksmuseum. Walking distance to Leidesplein, and also the Paridiso Theatre. Take a Tram from Central Station - aprx 20 minutes.  
+<Date>Jul 2, 2008
+<Rating>4	4	4	4	4	4	4	4	
+<Aspects>
+0	
+4	11(bed):1	89(offer):1	107(choice):1	303(pillow):1	
+15	3(clean):1	4(nice):1	13(bathroom):1	24(floor):1	25(comfortable):1	35(street):1	119(window):1	164(air):1	197(fresh):1	359(allow):1	509(sink):1	638(canal):1	1489(drain):1	3097(altogether):1	6631(stopper):1	
+13	1(location):1	7(walk):1	29(minute):1	82(station):1	100(bloc):1	115(distance):1	168(central):1	463(quarter):1	507(museum):1	570(tram):1	635(theater):1	3889(rijksmuseum):1	5023(leidesplein):1	
+0	
+0	
+0	
+0	
+
+<Author>chirpyLondon
+<Content>OK Hotel This is an OK Hotel for the price we paid, I think we got one of the penthouse rooms facing the canal which was an added touch, no real complaints so to speak except I it was a little out the way although not the greatest walk into the center (Dam Squ), no problems with staff as mentioned in previous reviews, pretty much a middle of the road hotel clean and probably a little smarter than some other hotels in its grade.Amsterdam is a pretty fun city to visit and has plenty on offer from museums to nightlife, skip the breakfast and eat out plenty of places around thats if you can get up after a late night out.  
+<Date>Mar 31, 2008
+<Rating>3	-1	4	3	4	3	3	3	
+<Aspects>
+0	
+26	0(staff):1	3(clean):1	7(walk):1	19(price):1	23(little):2	37(review):1	42(pay):1	101(center):1	109(pretty):1	123(ok):2	127(speak):1	178(probably):1	190(complaint):1	230(road):1	240(real):1	244(mention):1	279(touch):1	325(middle):1	337(except):1	351(add):1	373(previous):1	638(canal):1	1266(dam):1	1687(smart):1	2827(grade):1	3425(penthouse):1	
+0	
+15	2(night):1	6(breakfast):1	41(city):1	47(eat):1	65(visit):1	79(late):1	89(offer):1	109(pretty):1	158(plenty):2	176(fun):1	361(amsterdam):1	507(museum):1	1198(thats):1	1305(nightlife):1	1429(skip):1	
+0	
+0	
+0	
+0	
+
+<Author>paco54
+<Content>Not good Value Not good value for the price. No help with luggage, internet charges are sky high. No full minibar. Towels are very small and very thin. Soap is miniscule. Moved to Mariott down the street paid a little more but well worth it.  
+<Date>Nov 22, 2007
+<Rating>1	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+0	
+8	19(price):1	23(little):1	35(street):1	42(pay):1	81(value):2	96(worth):1	207(move):1	5469(mariott):1	
+2	965(soap):1	5317(miniscule):1	
+2	125(towel):1	754(thin):1	
+0	
+5	92(help):1	97(internet):1	136(charge):1	249(luggage):1	1909(sky):1	
+1	1037(minibar):1	
+0	
+
+<Author>mr.adl
+<Content>Lovely staff - Great Location We found this Hotel to be in a great location, on the edge of the Museum Quarter and also very close to the city centre. Everywhere was very walkable (even for two very middle aged men)! Across the bridge and into the 'real' Amsterdam of the 'Pijp' was a great bonus!When we arrived I had left my wallet in the public bus en route to the hotel and the staff bent over backwards for me to ensure its safe return and,even this apart, I cannot say enough for them. Everyone was so friendly.Room was spotless ( but then I do not spend my time examining cornices for traces of dust)!. Bathroom great and everything changed and replaced daily with absolutely no fuss.Only neg. is that the wardrobe was tiny - not great for two gay men on a wee break!!Don't know about food as we didn't eat there.A very nice hotel otherwise I would have given the hotel a five!  
+<Date>Sep 22, 2007
+<Rating>4	-1	4	5	5	5	5	-1	
+<Aspects>
+12	4(nice):1	12(friendly):1	228(break):1	240(real):1	338(tiny):1	361(amsterdam):1	508(otherwise):1	740(bridge):1	849(bonus):1	1451(wardrobe):1	2310(wee):1	2552(gay):1	
+0	
+12	5(time):1	13(bathroom):1	64(spend):1	161(change):1	189(absolutely):1	360(daily):1	548(spotless):1	912(replace):1	1845(dust):1	2205(fuss):1	6305(trace):1	7458(examine):1	
+25	0(staff):2	1(location):2	28(close):1	39(return):1	41(city):1	43(leave):1	53(arrive):1	87(lovely):1	101(center):1	120(bus):1	137(safe):1	325(middle):1	379(public):1	463(quarter):1	505(age):1	507(museum):1	857(apart):1	1035(route):1	1190(edge):1	1293(ensure):1	2065(en):1	2197(walkable):1	2333(bend):1	2460(wallet):1	2940(backwards):1	
+0	
+0	
+2	16(food):1	47(eat):1	
+0	
+
+<Author>MRau
+<Content>Loved the Penthouse We were on a work related trip in Amsterdam and stayed at this hotel. The location is ideal. Rijksmuseum just next by and the tram station just around the corner. If you're not afraid to walk a bit the shopping streets are just 20 minutes away and there's lots to see on the way there. And great restaurants. I was fortunate to get a room all to myself. I stayed in the sixth floor at the corner suite. A superb room, king size bed, two rooms, a huge bath room. The breakfest was also great and the staff reasonably nice. The hotel does deserve the four stars!!  
+<Date>Aug 13, 2007
+<Rating>4	4	5	5	5	2	3	5	
+<Aspects>
+0	
+2	103(star):1	1072(deserve):1	
+16	11(bed):1	24(floor):1	33(trip):1	40(love):1	83(size):1	108(suite):1	133(huge):1	200(corner):1	226(bath):1	243(king):1	361(amsterdam):1	407(superb):1	2228(fortunate):1	2627(relate):1	3264(sixth):1	3425(penthouse):1	
+13	1(location):1	7(walk):1	29(minute):1	35(street):1	38(lot):1	49(shop):1	52(bit):1	82(station):1	200(corner):1	545(ideal):1	570(tram):1	1544(afraid):1	3889(rijksmuseum):1	
+0	
+4	0(staff):1	4(nice):1	578(reasonably):1	5396(breakfest):1	
+1	10(restaurant):1	
+0	
+
+<Author>StuartStockbridge
+<Content>Tired and Uninspired This hotel is on the fringes of what we would consider City Centre Amsterdam, near the Museum Quarter - as the name suggests. As an area to stay, it is central enough to be a walk into town, but not central enough to just pop in to change before going out for the evening. We had stayed in an NH hotel previously (Budapest) and found it clean and smart and the hotel staff very helpful. This hotel was a different story, the building itself looked a little tired from the outside and didn't get better inside. Room was adequate and, while there was no peeling paint, it was crying out for redecoration; it was certainly not up the level we would have expected from NH. The lifts were very small and slow. Normally I am happy to use the stairs for a couple of floors, but the stairs were also pretty cramped, steep and institutional.Breakfast was, at best, OK. There was a reasonable selection of food available on a buffet counter, however, if you want any of the cooked food options (e.g. fried eggs), you have to rely on a single chef, standing in the middle of the buffet counter making food on two gas rings. That in itself wasn't a problem, the issue was more the fact that the chef was rarely there and would just disappear if you didn't queue up.Staff were helpful and helped us to get our bearings and direct us to where we could find restaurants - although their definition of restaurant also apparently included McDonalds KFC etc. Overall, a satisfactory hotel in a good secondary location, which was probably matched by the room rate.  
+<Date>Jul 24, 2007
+<Rating>3	3	2	3	2	4	2	-1	
+<Aspects>
+5	265(issue):1	1361(chef):1	1463(queue):1	1791(rarely):1	2594(disappear):1	
+0	
+31	1(location):1	20(look):1	23(little):1	24(floor):1	62(expect):1	70(overall):1	78(rate):1	98(outside):1	99(couple):1	109(pretty):1	135(build):1	155(happy):1	178(probably):1	306(level):1	390(adequate):1	408(inside):1	454(tire):1	568(stair):2	806(paint):1	906(story):1	1060(steep):1	1080(cramp):1	1091(normally):1	1476(match):1	1887(peel):1	2059(satisfactory):1	2396(cry):1	3049(nh):1	7595(secondary):1	7882(institutional):1	8298(redecoration):1	
+19	7(walk):1	41(city):1	101(center):1	102(near):1	161(change):1	168(central):2	239(town):1	248(consider):1	295(name):1	361(amsterdam):1	452(suggest):1	454(tire):1	455(slow):1	463(quarter):1	507(museum):1	591(lift):1	1558(pop):1	7139(fringe):1	7786(uninspired):1	
+6	0(staff):1	3(clean):1	14(helpful):1	1122(previously):1	1687(smart):1	3049(nh):1	
+12	0(staff):1	10(restaurant):2	14(helpful):1	71(include):1	73(etc):1	92(help):1	803(direct):1	863(apparently):1	2524(mcdonalds):1	4344(bearing):1	5175(kfc):1	6011(definition):1	
+19	6(breakfast):1	16(food):3	77(buffet):2	123(ok):1	134(available):1	273(reasonable):1	304(single):1	325(middle):1	333(selection):1	336(option):1	412(egg):1	444(stand):1	550(cook):1	1001(counter):2	1009(fry):1	1150(ring):1	1361(chef):1	2327(rely):1	2632(gas):1	
+0	
+
+<Author>FAMRAU
+<Content>Great location, great value My wife, children and I just returned from a European vacation to Brussels, Brugge and Amsterdam and enjoyed our stay at the NH Museum Quarter. The location was key to us because we did not want to be in the center of the city and we did want to be near the museums-- PERFECT. This is a modern hotel, the rooms are spacious, a little quirky in design and clean. We chose NOT to take breakfast in the hotel due to the expense and our preference for a lighter, continental-style breakfast. SOLUTION--Just 10-15 minutes walk away is a grocery store called Dirk's with a bakery on the left as you walk in, and on the walk back a shop called the Coffee Company. Voila, you get your morning constitutional, an apple turnover fresh out of the oven and a latte in less than 45 minutes. Breakfast for 4=less than $20 a day.The Anne Frank House is about a 40 minute walk along the canals. This is a must for your visit to Amsterdam if you have never been-- A harsh, tangible reminder of man's inhumanity to man.Museums are on the next block[we preferred the walk to the right as you leave the hotel, through the park; canals are across the street; tram is a block away[not that we ever used it]. There are a tons of restaurants within a 15 minute walk of the hotel in any direction although we usually crossed over the canal right in front of the Rijksmuseum. There is a pasticceria for sweets and pastries a few blocks away in the other direction.We took the 1/2 day tours to Delft, etc and to Edam, etc. Both were great and arranged by the hotel. There is a canal boat ride a few blocks away and a concert hall a short walk from the hotel. Enjoy!PS-- if you are a light sleeper do not stay in room 110.  
+<Date>Jul 13, 2007
+<Rating>4	5	5	5	5	4	4	-1	
+<Aspects>
+21	8(day):1	29(minute):1	51(enjoy):1	56(morning):1	65(visit):1	73(etc):2	100(bloc):1	181(tour):1	197(fresh):1	361(amsterdam):1	395(direction):1	652(pastry):1	680(arrange):1	905(apple):1	950(sweet):1	2916(oven):1	4466(harsh):1	4634(reminder):1	4990(latte):1	9153(voila):1	9262(turnover):1	
+13	1(location):1	39(return):1	51(enjoy):1	81(value):1	131(vacation):1	184(wife):1	277(child):1	361(amsterdam):1	463(quarter):1	507(museum):1	582(european):1	3049(nh):1	9911(brussels):1	
+19	3(clean):1	6(breakfast):2	7(walk):1	23(little):1	29(minute):1	111(spacious):1	151(modern):1	157(light):2	167(choose):1	259(due):1	281(house):1	516(design):1	638(canal):1	1299(sleeper):1	2058(expense):1	2136(frank):1	2238(anne):1	2268(preference):1	2464(quirky):1	
+36	1(location):1	7(walk):6	10(restaurant):1	29(minute):2	31(front):1	35(street):1	41(city):1	43(leave):2	49(shop):1	66(park):1	67(call):2	74(perfect):1	90(coffee):1	100(bloc):3	101(center):1	102(near):1	144(short):1	218(ride):1	255(store):1	339(key):1	395(direction):1	399(usually):1	507(museum):2	536(prefer):1	570(tram):1	616(hall):1	638(canal):3	674(boat):1	760(company):1	967(ton):1	1199(grocery):1	1228(cross):1	1483(bakery):1	2296(concert):1	2800(solution):1	3889(rijksmuseum):1	
+0	
+0	
+2	6(breakfast):1	8(day):1	
+0	
+
+<Author>fudgiebox
+<Content>Nice Rooms, Awful breakfast and appalling staff attitude! We booked 2 double rooms for a weekend break between 6th - 8th July. The rooms themselves were clean and the beds comfortable - not the biggest rooms in the world but fine for a weekend stay. We had breakfast included in the price of the stay however should you be looking to stay, DON'T have the breakfast - you'd be better off going to a cafe. We arrived for breakfast the first morning only to be shown to a dirty table full of used dishes, which we ended up having to clear ourselves. When the waitress did finally reach our table, she made no apology for this. The cooked breakfast (eggs, bacon and sausages) on the second morning looked like left overs from the day before and were stone cold. I informed the waitress that the food was cold, to which she placed the palm of her hands directly on to both the eggs and sausages at the counter right in front of me!! She then gave the items a mix around with a spoon and then took them off to the kitchen for reheating! Hygiene standards are clearly lacking here and one member of our group ended up with food poisioning for the entire weekend, the likely cause appearing to be from the breakfast (althouh we cannot be 100% certain)On the second morning I used the hairdryer in my room and it caught fire - luckily it was not close to my hair otherwise it would have burnt my hair and possibly my scalp. We immidiately informed front desk of this incident and were informed that someone would come up immediately. No one arrived and when we went to check out we raised this issue again. The duty manager provided us with poor excuses claiming that no one could find him to inform him of this incident. Overall, there is a clear lack of staff training by all levels of staff (excluding the cleaning ladies who were very polite and friendly) and our complaints were met by front desk with a negative, don't care a less attitude. We shall be contacting the NL group directly regarding this incident. If you want somewhere decent to stay, our advice would be to book early at a hotel within the Jordaan area (where we have stayed before).  
+<Date>Jul 9, 2007
+<Rating>1	4	4	3	3	1	1	-1	
+<Aspects>
+0	
+0	
+42	0(staff):1	3(clean):1	4(nice):1	6(breakfast):2	11(bed):1	16(food):1	18(book):1	25(comfortable):1	28(close):1	56(morning):1	113(fine):1	130(standard):1	172(weekend):3	179(double):1	228(break):1	272(world):1	329(entire):1	349(lack):1	461(kitchen):1	508(otherwise):1	519(item):1	540(catch):1	541(appear):1	609(mix):1	729(hair):2	736(awful):1	821(attitude):1	943(cause):1	1059(themselves):1	1200(luckily):1	1233(possibly):1	1262(fire):1	1289(burn):1	1357(8th):1	1493(hairdryer):1	1869(6th):1	2752(appal):1	4029(spoon):1	5025(hygiene):1	7814(reheat):1	10309(poisione):1	12475(scalp):1	
+0	
+7	6(breakfast):1	53(arrive):1	56(morning):1	229(table):1	323(dirty):1	767(ourselves):1	816(dish):1	
+46	0(staff):2	3(clean):1	12(friendly):1	16(food):1	31(front):3	32(check):1	36(desk):2	53(arrive):1	70(overall):1	153(provide):1	182(train):1	190(complaint):1	196(meet):1	222(cold):1	229(table):1	242(care):1	258(manager):1	265(issue):1	282(negative):1	306(level):1	331(poor):1	341(finally):1	349(lack):1	377(hand):1	383(directly):2	412(egg):1	422(polite):1	489(immediately):1	521(lady):1	713(contact):1	817(inform):4	821(attitude):1	851(reach):1	930(regard):1	987(palm):1	1001(counter):1	1077(claim):1	1325(duty):1	1385(sausage):1	1387(waitress):2	1547(apology):1	1965(excuse):1	2013(incident):3	2055(raise):1	4614(exclude):1	10420(nl):1	
+18	6(breakfast):3	8(day):1	18(book):1	19(price):1	20(look):2	43(leave):1	56(morning):1	71(include):1	222(cold):1	257(decent):1	275(cafe):1	412(egg):1	550(cook):1	575(advice):1	1057(bacon):1	1385(sausage):1	1394(stone):1	5835(jordaan):1	
+0	
+
+<Author>Nospamplease
+<Content>Close to museums We stayed 3 nights in a large corner room overlooking the canal. Very good location for visiting the Van Gogh Museum and the Rijksmuseum and easy walk to shopping area and restaurants. We found the hotel very clean and the staff very cordial. The breakfast buffet was very good. We would stay here again.  
+<Date>Jun 10, 2007
+<Rating>4	4	4	4	4	4	4	-1	
+<Aspects>
+0	
+0	
+0	
+15	1(location):1	2(night):1	7(walk):1	10(restaurant):1	28(close):1	49(shop):1	65(visit):1	93(easy):1	200(corner):1	260(overlook):1	507(museum):2	638(canal):1	1223(van):1	2727(gogh):1	3889(rijksmuseum):1	
+3	0(staff):1	3(clean):1	3164(cordial):1	
+0	
+2	6(breakfast):1	77(buffet):1	
+0	
+
+<Author>brenada
+<Content>Dirty and smelly       Dirty carpet  
+<Date>Jun 5, 2007
+<Rating>2	2	1	3	1	3	3	2	
+<Aspects>
+0	
+0	
+0	
+0	
+3	323(dirty):2	396(carpet):1	1697(smelly):1	
+0	
+0	
+0	
+
+<Author>InterntlTraveler10
+<Content>Nice Hotel, Good Location We selected this hotel after reading the reviews on this site and were not disappointed. Stayed six nights. Modern hotel, good location, easy access, convenient - we were seeing museums and general touring. Large, well-appointed room (superior corner room). Quiet.Room service is minimal but good. A LOT of airline crews stay here - one desk clerk said it was 70% of their business. Would stay here again.  
+<Date>May 9, 2007
+<Rating>4	4	4	4	4	4	4	2	
+<Aspects>
+1	2(night):1	
+0	
+12	9(service):1	36(desk):1	38(lot):1	58(quiet):1	147(business):1	200(corner):1	785(superior):1	788(clerk):1	1336(airline):1	1615(minimal):1	1654(crew):1	2440(well-appoint):1	
+13	1(location):2	4(nice):1	37(review):1	88(read):1	93(easy):1	151(modern):1	154(disappoint):1	159(access):1	181(tour):1	186(convenient):1	192(site):1	507(museum):1	1294(select):1	
+0	
+0	
+0	
+0	
+
+<Author>thielees
+<Content>Pleasant surprise... modern hotel with nice fitness center One of Amsterdam's great charms is the way its residences have evolved over the centuries... all over one sees wood-framed buildings leaning against each other. Unfortunately many of the hotels I've visited in Amsterdam have the same aged feeling: dark decors, dated bathrooms, and slightly sagging wooden floors. Not the NH Museum Quarter, which is a fresh, contemporary hotel with appealing facilities. My room was on the sixth floor facing the canal. It was spacious and welcoming. The bathroom was really pleasant, with stone floors and light wooden fixtures. The staff were generally helpful. The bar area has a good atmosphere, and the fitness center is really convenient: free for guests 24 hours, several pieces of good-quality cardio equipment (bikes, tread mill, rowing machine, etc). Finally, the location is just fine, a short taxi ride to the central train station (or a pleasant 30-minute stroll, if it isn't raining!). There are numerous restaurants in the neighborhood within a 10-minute walk.I'll definitely recommend this hotel to friends and stay here again next time in Amsterdam.  
+<Date>Apr 1, 2007
+<Rating>5	4	5	5	5	4	4	4	
+<Aspects>
+7	5(time):1	15(recommend):1	59(definitely):1	111(spacious):1	146(friend):1	202(welcome):1	361(amsterdam):1	
+17	27(bar):1	46(free):1	60(hour):1	73(etc):1	91(guest):1	101(center):1	186(convenient):1	414(atmosphere):1	493(machine):1	941(piece):1	983(fitness):1	1211(equipment):1	1479(bike):1	1638(row):1	3621(cardio):1	4125(mill):1	8869(tread):1	
+19	13(bathroom):2	24(floor):3	34(feel):1	65(visit):1	150(pleasant):1	157(light):1	269(decor):1	361(amsterdam):1	459(dark):1	505(age):1	511(date):1	524(unfortunately):1	598(slightly):1	638(canal):1	1394(stone):1	1541(fixture):1	1756(wooden):2	3264(sixth):1	4937(sag):1	
+25	1(location):1	7(walk):1	10(restaurant):1	82(station):1	113(fine):1	144(short):1	150(pleasant):1	168(central):1	182(train):1	185(taxi):1	197(fresh):1	211(facility):1	218(ride):1	341(finally):1	421(neighbourhood):1	463(quarter):1	507(museum):1	581(rain):1	971(numerous):1	1056(stroll):1	1475(contemporary):1	1679(appeal):1	3049(nh):1	4271(10-minute):1	12053(30-minute):1	
+0	
+2	0(staff):1	14(helpful):1	
+0	
+12	4(nice):1	101(center):1	150(pleasant):1	151(modern):1	199(surprise):1	332(charm):1	361(amsterdam):1	745(building):1	983(fitness):1	1840(residence):1	2171(century):1	3397(lean):1	
+
+<Author>g&z
+<Content>Decent hotel with great location for museums, galleries, etc The NH Museum Quarter is just a few minutes away from the Rijksmuseum, Van Gogh Museum and Stedelijk Museum. You can also walk to Leidseplain in about 10 minutes -- where you will find bars, restaurants, shopping, etc. So it's a pretty good location for the south part of Amsterdam.There's a tram stop just around the corner from the hotel, so it's pretty quick and easy to get to the north/central part of Amsterdam too... It was also very easy to get to the hotel from the airport by taking a train to Centraal Station, and then a tram (number 16 or 24) from there to the hotel.The room I stayed in had air con, fridge (no minibar), safe, TV and wi-fi connectivity (not free!). There are vending machines on every floor selling soft drinks and beer, plus there is 24hr room service. I believe that there is also a gym, although I did not have time to go and see it.The breakfast (included) was decent -- the usual continental selection of breads, pastries, meats, cheeses... Plus hot food such as bacon, sausages, scrambled eggs, etc. They also have a cook to order service at breakfast which is very good! I can recommend the omlette!So, overall, the hotel didn't blow me away... But it's decent, clean, safe, and comfortable. Nothing special. But I would have no hesitation in recommending it for either business or leisure.I also got a great deal on the hotel by using the TripAdvisor View All Best Deals service. Before that, I had checked every internet hotel booking site I could think of, and every single site was giving me the exact same price... I even called NH hotels direct, and was again quoted the same price. But using the View All Best Deals link on this site, I managed to find a price that was about 30% cheaper than the price quoted everywhere else!! So well done TripAdvisor!  
+<Date>Mar 27, 2007
+<Rating>4	5	4	5	5	2	2	4	
+<Aspects>
+4	15(recommend):1	208(special):1	597(tripadvisor):1	4960(omlette):1	
+17	17(view):1	18(book):1	19(price):4	32(check):1	67(call):1	97(internet):1	140(deal):1	143(cheap):1	170(else):1	192(site):3	304(single):1	645(manage):1	803(direct):1	1727(link):1	1856(quote):2	2216(exact):1	3049(nh):1	
+19	9(service):1	24(floor):1	46(free):1	63(drink):1	116(tv):1	137(safe):1	164(air):1	203(plus):1	318(fridge):1	443(beer):1	493(machine):1	589(soft):1	606(sell):1	840(Con):1	1037(minibar):1	1827(wi-fi):1	2454(vend):1	3897(24hr):1	6261(connectivity):1	
+32	1(location):2	7(walk):1	10(restaurant):1	15(recommend):1	27(bar):1	29(minute):2	49(shop):1	73(etc):2	82(station):1	93(easy):2	95(airport):1	109(pretty):2	122(stop):1	147(business):1	182(train):1	200(corner):1	257(decent):1	299(quick):1	335(numb):1	361(amsterdam):2	463(quarter):1	507(museum):4	570(tram):2	769(south):1	1223(van):1	1373(hesitation):1	1794(gallery):1	2032(leisure):1	2450(centraal):1	2727(gogh):1	3049(nh):1	3889(rijksmuseum):1	
+6	3(clean):1	25(comfortable):1	70(overall):1	137(safe):1	257(decent):1	1146(blow):1	
+0	
+26	5(time):1	6(breakfast):2	9(service):2	16(food):1	17(view):1	71(include):1	73(etc):1	114(hot):1	140(deal):2	203(plus):1	257(decent):1	312(believe):1	333(selection):1	372(continental):1	412(egg):1	441(cheese):1	497(bread):1	523(gym):1	550(cook):1	597(tripadvisor):1	652(pastry):1	677(meat):1	682(usual):1	1057(bacon):1	1385(sausage):1	1674(scramble):1	
+0	
+
+<Author>Shergar1981
+<Content>Room service ? We booked the hotel through the NH web site after reading the positive reveiws that have been posted. All in all the hotel was adequate but was a bit dissappointed with a few aspects, firstly we were left a bit miffed by the room service, after ringing down for a pot of tea we were brought up a couple of tea bags and told we had the facilities in the room, secondly we could not order any bar food after 3pm and found the bar shut at mid night at the weekend ? We found the room and the facilities clean and well presented and the staff overall were very friendly, but felt we could have found better value elsewhere.  
+<Date>Jan 17, 2007
+<Rating>3	3	3	3	3	4	2	3	
+<Aspects>
+0	
+8	0(staff):1	3(clean):1	12(friendly):1	34(feel):1	70(overall):1	81(value):1	211(facility):1	646(elsewhere):1	
+1	9(service):1	
+8	18(book):1	88(read):1	192(site):1	458(positive):1	644(post):1	1019(web):1	3049(nh):1	5082(reveiws):1	
+0	
+0	
+24	2(night):1	9(service):1	16(food):1	27(bar):2	43(leave):1	52(bit):2	69(tell):1	99(couple):1	142(bring):1	172(weekend):1	211(facility):1	290(bag):1	301(tea):2	390(adequate):1	1086(shut):1	1150(ring):1	1255(aspect):1	1313(mid):1	1447(pot):1	2140(firstly):1	2683(dissappoint):1	2985(secondly):1	6855(3pm):1	10494(miff):1	
+0	
+
+<Author>MJT
+<Content>Loved it! We stayed here for 2 nights in early December and cannot fault it at all. We were given a room on the 7th floor with a canal view and floor to ceiling windows with great views over the rooftops of Amsterdam. The room was clean and spacious with a nice selection of bathroom products and a tea/coffee tray. The reception staff were wonderful - really friendly and extremely helpful giving us restaurant recommendations and general information. Two tram lines serve the stop nearby but we managed to walk into town a couple of times without too much trouble.If you arrive by tram get off at Ruysdaelstraat and walk back towards the bridge/canal and then turn left and the hotel is a couple of minutes walk on the left hand side.Great hotel, great staff - what more can you ask for.  
+<Date>Dec 7, 2006
+<Rating>5	4	5	5	5	5	5	-1	
+<Aspects>
+4	2(night):1	40(love):1	517(fault):1	993(december):1	
+0	
+16	3(clean):1	4(nice):1	13(bathroom):1	17(view):2	24(floor):2	111(spacious):1	119(window):1	301(tea):1	333(selection):1	361(amsterdam):1	528(ceiling):1	638(canal):1	1081(product):1	1767(tray):1	2951(7th):1	3772(rooftops):1	
+17	5(time):1	7(walk):3	29(minute):1	43(leave):2	53(arrive):1	99(couple):2	122(stop):1	174(serve):1	188(line):1	232(nearby):1	239(town):1	377(hand):1	569(trouble):1	570(tram):2	645(manage):1	740(bridge):1	959(towards):1	
+0	
+9	0(staff):2	10(restaurant):1	12(friendly):1	14(helpful):1	48(wonderful):1	110(extremely):1	129(reception):1	577(recommendation):1	649(information):1	
+0	
+0	
+
+<Author>milktray
+<Content>Comfortable and Peaceful This was not a first choice, but was near where our friends were staying. First off this is a modern purpose built hotel and is very well furnished and decorated. Staff were very polite, friendly i couldn't fault them. Our room a superior one on the 6th floor was huge and extremely comfortable and so quiet! The Tram lines 16 and 24 stop just a few moments away (RuydaelStraat) and take 10/15 minutes to Centraal Station. Also best steaks in Amsterdam at Cafe Loetje is just down the street from the tram stop. The main museums and the best shopping street (PC Hoofstraat) are also in close proximity. It's also within minutes of Albert Cuypstraat and Amsterdams largest general street market so it's position is really great especially if you like a bit of peace and quiet after a days sightseeing.  
+<Date>Oct 23, 2006
+<Rating>5	5	5	5	5	5	5	4	
+<Aspects>
+0	
+5	25(comfortable):1	102(near):1	107(choice):1	146(friend):1	1036(peaceful):1	
+12	24(floor):1	25(comfortable):1	58(quiet):1	110(extremely):1	133(huge):1	135(build):1	151(modern):1	305(decorate):1	785(superior):1	787(furnish):1	1428(purpose):1	1869(6th):1	
+26	8(day):1	28(close):1	29(minute):2	35(street):3	49(shop):1	52(bit):1	58(quiet):1	82(station):1	112(main):1	122(stop):2	126(especially):1	188(line):1	264(market):1	275(cafe):1	361(amsterdam):1	507(museum):1	570(tram):2	640(sight-see):1	660(steak):1	670(moment):1	1093(position):1	1114(proximity):1	1517(peace):1	2184(pc):1	2450(centraal):1	6001(albert):1	
+0	
+4	0(staff):1	12(friendly):1	422(polite):1	517(fault):1	
+0	
+0	
+
+<Author>Paul_Carter
+<Content>Impressed the girlfriend!! Good feel about the place the minute you walk in. Bright, modern reception area. Staff at all times very couteous and helpful. Room was fabulous - incredibly comfortable bed. We had very large room on sixth floor with floor to ceiling windows overlooking the canal. Admittedly not much to see beyond that apart from a few blocks of rooftops. It is quite a stroll from the centre should you decide to walk but 16 and 24 trams run from stop about 3 minutes walk from hotel. We bought a stripkarten from a tobacconists (15 trips for 6.70 euros and lasted both of us all weekend). There is also a night bus service which stops very close although both nights running, after visiting a few of the bars in the centre, we opted for taxis (should be about 10 euros after midnight on the meter). Unfortunately got ripped off the second night - charged 20 euros for same trip and driver suddenly decided he didn't speak English when I queried the reason for the tortuous route taken.Hotel less than 10 minutes walk to Museumplein. Recommend the Cobra cafe - delightful sitting in sunshine for brunch.I would recommend the hotel, certainly for couples, and would certainly stay there again. In a city where accommodation seems very expensive this place didn't seem too bad for price.  
+<Date>Oct 2, 2006
+<Rating>5	4	5	4	5	5	4	-1	
+<Aspects>
+13	15(recommend):1	33(trip):1	99(couple):1	100(bloc):1	172(weekend):1	256(euro):1	280(buy):1	343(impress):1	738(beyond):1	857(apart):1	994(girlfriend):1	3051(admittedly):1	3772(rooftops):1	
+5	19(price):1	41(city):1	50(bad):1	124(expensive):1	721(accommodation):1	
+16	11(bed):1	15(recommend):1	24(floor):2	25(comfortable):1	119(window):1	169(sit):1	260(overlook):1	270(fabulous):1	275(cafe):1	528(ceiling):1	638(canal):1	807(incredibly):1	1176(delightful):1	2384(brunch):1	2856(sunshine):1	3264(sixth):1	
+21	2(night):2	7(walk):4	9(service):1	27(bar):1	28(close):1	29(minute):3	34(feel):1	65(visit):1	101(center):2	120(bus):1	122(stop):2	149(run):2	185(taxi):1	219(decide):1	256(euro):1	570(tram):1	1044(midnight):1	1056(stroll):1	1184(opt):1	1194(metre):1	6987(museumplein):1	
+0	
+21	0(staff):1	2(night):1	5(time):1	14(helpful):1	33(trip):1	127(speak):1	129(reception):1	136(charge):1	151(modern):1	152(english):1	219(decide):1	256(euro):1	374(reason):1	524(unfortunately):1	563(driver):1	880(bright):1	1035(route):1	1182(rip):1	3041(query):1	3296(suddenly):1	9918(couteous):1	
+0	
+0	
+
+<Author>rockchick22
+<Content>great Stayed here for 2 nights. Quiet area, but not too far from the centre. I think we had the best room. Very Clean, massive bed!  
+<Date>Sep 26, 2006
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	2(night):1	
+0	
+5	3(clean):1	11(bed):1	58(quiet):1	101(center):1	1329(massive):1	
+0	
+0	
+0	
+0	
+0	
+
+<Author>rekcut
+<Content>Great hotel, Great location Very Nice Hotel. Staff was very friendly and efficient. Room was large and well equipped. We were in room 735 which was on the corner of the top floor and overlooked the river and toward the rooftops of the Rijksmuseum. Couldn't have been more pleased. Booked on Venere.com  
+<Date>Sep 9, 2006
+<Rating>5	3	5	5	5	5	5	-1	
+<Aspects>
+1	173(please):1	
+0	
+8	24(floor):1	118(top):1	200(corner):1	260(overlook):1	710(river):1	884(equip):1	3772(rooftops):1	3889(rijksmuseum):1	
+2	1(location):1	4(nice):1	
+0	
+3	0(staff):1	12(friendly):1	401(efficient):1	
+2	18(book):1	8061(venere.com):1	
+0	
+
+<Author>trinity2104
+<Content>Stay here for a peaceful time in Amsterdam! My boyfriend and I decided on this hotel after reading the reviews on this website. The only downside about this hotel is that it is not located in central Amsterdam...but mind you, I've heard that's a godsend. I did try to follow the directions which were given on this site but to no success - it actually added to the confusion when I asked which tram went to Hobbemakade at the bus terminal at Centraal Station. Arriving at Schipol Airport, do not get the shuttle bus - its costs something like 鈧?2 whilst the train to Centraal Station costs about 鈧?.60. We bought an IAmsterdam card because we didn't want to worry about buying tickets when getting on the public transport. Get the train on platform 2 to Centraal Station. Outside at the tram terminal, go to the stop for trams 16 and 24 (this is currently located on the otherside of the large blue construction site on track 4). The stop you are looking for is Ruysdaelstraat...unlike the UK, the trams speak to you and tell you which stop it is stopping at. On the tram, you are looking for a door knob looking black button on the side walls, thats the bell! Press that and the tram will stop at the next stop....but remember to press the button by the doors to get out (we made the mistake on the first day of waiting at the doors and the tram then subsequently driving off without letting us off!). Hobbemakade is the road next to the stop, look up at the side of the buildings and you will see the hotel name. We arrived an hour before check-in but the receptionist very courteous and checked us in anyway. We were also allocated a beautiful room on the top floor - a panoramic view of the canal below us and stars at night! The rooms are clean - oh and the shower! BEWARE! Hot on this shower is SCALDING!! I recommend setting the temperature of the water before walking into the bath. Room was cleaned everyday. Overall - an excellent excellent stay! HIGHLY RECOMMENDED!  
+<Date>Aug 30, 2006
+<Rating>4	5	5	5	4	5	5	-1	
+<Aspects>
+13	5(time):1	15(recommend):1	20(look):1	21(excellent):2	70(overall):1	122(stop):1	138(highly):1	230(road):1	295(name):1	361(amsterdam):1	737(beware):1	745(building):1	1036(peaceful):1	
+0	
+15	2(night):1	3(clean):2	17(view):1	24(floor):1	45(beautiful):1	61(shower):2	103(star):1	114(hot):1	118(top):1	585(below):1	605(everyday):1	638(canal):1	1974(allocate):1	3402(panoramic):1	4825(scald):1	
+70	7(walk):1	8(day):1	15(recommend):1	20(look):3	37(review):1	53(arrive):1	54(door):3	57(water):1	69(tell):1	76(try):1	82(station):3	84(locate):2	85(wait):1	88(read):1	95(airport):1	98(outside):1	120(bus):2	122(stop):6	127(speak):1	132(hear):1	168(central):1	175(cost):2	180(actually):1	182(train):2	183(wall):1	192(site):2	219(decide):1	226(bath):1	234(set):1	262(website):1	280(buy):2	292(card):1	294(mind):1	298(drive):1	321(shuttle):1	351(add):1	361(amsterdam):1	375(remember):1	379(public):1	395(direction):1	482(follow):1	570(tram):7	583(construction):1	621(ticket):1	694(blue):1	742(transport):1	763(boyfriend):1	782(downside):1	801(bell):1	831(worry):1	877(whilst):1	895(mistake):1	944(temperature):1	1007(black):1	1163(unlike):1	1178(uk):1	1198(thats):1	1261(terminal):2	1766(track):1	1843(press):2	2006(currently):1	2142(button):2	2450(centraal):3	2831(confusion):1	3509(platform):1	3528(success):1	4128(knob):1	5301(schipol):1	5381(godsend):1	10043(otherside):1	
+0	
+7	32(check):1	53(arrive):1	60(hour):1	286(check-in):1	417(anyway):1	483(courteous):1	855(receptionist):1	
+0	
+0	
+
+<Author>Markthemover
+<Content>Great little stay Myself and a friend stayed here for one night in February 06. We were put up there by KLM as their flight cancellation from the UK to Amsterdam meant we missed our connection to Bangkok. Upon arrival the girl at the reception was very professional, and took our bags. We were allocated our rooms, these were very nice, mine over looking the canal out front! We were given meal vouchers but didnt use them, but the food that was coming out looked tremendous. It had a great atmosphere, very relaxed (Dutch). The only thing I would say is that it is a fair walk to the bright lights of Amsterdam, but the taxi took 5 mins. Lots of Air Crew around in the morning, and the breakfast on offer here is amazing. I would most deffinately recommend this Hotel to anyone.  
+<Date>Aug 6, 2006
+<Rating>4	4	4	3	5	4	4	3	
+<Aspects>
+6	2(night):1	15(recommend):1	23(little):1	146(friend):1	1230(february):1	7923(deffinately):1	
+3	160(relax):1	414(atmosphere):1	2066(dutch):1	
+21	4(nice):1	6(breakfast):1	20(look):1	31(front):1	38(lot):1	56(morning):1	89(offer):1	145(amaze):1	164(air):1	233(flight):1	246(mean):1	276(miss):1	361(amsterdam):1	638(canal):1	932(connection):1	1178(uk):1	1269(mine):1	1654(crew):1	1974(allocate):1	2621(cancellation):1	4792(bangkok):1	
+7	7(walk):1	157(light):1	185(taxi):1	247(min):1	361(amsterdam):1	739(fair):1	880(bright):1	
+0	
+5	129(reception):1	224(arrival):1	290(bag):1	501(professional):1	625(girl):1	
+6	16(food):1	20(look):1	213(meal):1	626(didnt):1	1750(voucher):1	2671(tremendous):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>A Very Pleasant Stay This was a lovely hotel. It was central enough and easily accessible to the hussle and bussel by tram service. Everything one could ask for was in the vicinity of the hotel also- coffee shops, a small inconspicuous red light area at night (if viewing such is on your tourist 'to do' list), museums, lovely park, supermarket, open street market- without the droves of tourists one would find in the city centre. The area around the hotel is a very nice part of the city. Our room could be cleaned each day up until 4pm which was great as we left the hotel late each day. Lovely view of people going by in their boats on the canal. Vending machine on the corridor sold beer. The 2 biggest pluses were the black-out curtains and air conditioning. A place I would highly recommend.  
+<Date>Jul 10, 2006
+<Rating>4	4	5	-1	4	-1	5	-1	
+<Aspects>
+10	4(nice):1	15(recommend):1	17(view):1	26(people):1	41(city):1	87(lovely):2	138(highly):1	150(pleasant):1	638(canal):1	674(boat):1	
+0	
+10	3(clean):1	8(day):2	43(leave):1	79(late):1	164(air):1	203(plus):1	263(condition):1	743(curtain):1	7881(4pm):1	10235(black-out):1	
+23	2(night):1	9(service):1	17(view):1	35(street):1	41(city):1	49(shop):1	66(park):1	87(lovely):1	90(coffee):1	101(center):1	157(light):1	168(central):1	209(tourist):2	264(market):1	438(easily):1	507(museum):1	570(tram):1	590(red):1	650(list):1	1078(supermarket):1	1342(accessible):1	2232(vicinity):1	5909(hussle):1	
+0	
+0	
+0	
+5	443(beer):1	493(machine):1	606(sell):1	1073(corridor):1	2454(vend):1	
+
+<Author>StormSurvivor
+<Content>Clean, Comfortable, Convenient Due to flight schedules from the US, we arrived at 9:30am and were able to check into our room within about an hour with no extra charge. The room is an average European size in a contemporary style. Great bed. Our room was exactly like the website photo with big windows that actually open. The staff was always helpful and friendly. This hotel is only a couple of blocks from the (temporary) Rijksmuseum and van Gogh museum. Otherwise, there is not much within a block or two (shops, restaurants), but the NH is close to a tram line. Also, walking to the city center is safe and only about 15 minutes (watch out for the bycyclists). If you want to go to the north side of Amsterdam (Central Station and Red Light District), the walk is considerably longer. All in all, while I originaly wanted to stay closer to the city center, this hotel suited our needs very well on a crowded weekend.  
+<Date>Jun 4, 2006
+<Rating>5	3	5	-1	5	-1	5	-1	
+<Aspects>
+0	
+0	
+29	3(clean):1	11(bed):1	25(comfortable):1	28(close):1	32(check):1	41(city):1	53(arrive):1	60(hour):1	83(size):1	101(center):1	119(window):1	128(extra):1	136(charge):1	171(able):1	172(weekend):1	180(actually):1	186(convenient):1	227(average):1	233(flight):1	259(due):1	262(website):1	313(crowd):1	326(style):1	582(european):1	586(exactly):1	761(photo):1	861(suit):1	1196(schedule):1	1475(contemporary):1	
+28	7(walk):2	10(restaurant):1	28(close):1	29(minute):1	41(city):1	49(shop):1	82(station):1	99(couple):1	100(bloc):2	101(center):1	137(safe):1	157(light):1	168(central):1	188(line):1	245(watch):1	361(amsterdam):1	433(district):1	507(museum):1	508(otherwise):1	570(tram):1	590(red):1	684(North):1	1223(van):1	2727(gogh):1	3049(nh):1	3252(considerably):1	3770(temporary):1	3889(rijksmuseum):1	
+0	
+3	0(staff):1	12(friendly):1	14(helpful):1	
+0	
+0	
+
+<Author>fancynanc85
+<Content>Wonderful Hotel! My daughters and I just returned from a 2 week trip to Europe. Our stay at the Nh Museum Quarter Hotel was delightful. We had a large corner room with canal views and all ameneties. The front desk staff were helpful in providing directions and maps. Since the computer for hotel guests doesn't allow for printing, they invited us to come behind the desk to print our boarding passes for our next flight! The location is quiet but within easy walking distance of restaurants, the tram and major attractions. Flight crews from many of the major airlines stay here. I would highly recommend this hotel.  
+<Date>Jun 2, 2006
+<Rating>5	3	5	-1	5	-1	5	-1	
+<Aspects>
+8	15(recommend):1	33(trip):1	39(return):1	48(wonderful):1	75(week):1	138(highly):1	467(daughter):1	700(europe):1	
+0	
+12	17(view):1	200(corner):1	233(flight):1	315(major):1	463(quarter):1	507(museum):1	638(canal):1	1176(delightful):1	1336(airline):1	1654(crew):1	3049(nh):1	7244(amenety):1	
+9	1(location):1	7(walk):1	10(restaurant):1	58(quiet):1	93(easy):1	115(distance):1	315(major):1	350(attraction):1	570(tram):1	
+0	
+7	0(staff):1	14(helpful):1	31(front):1	36(desk):1	153(provide):1	395(direction):1	724(map):1	
+0	
+9	36(desk):1	91(guest):1	233(flight):1	359(allow):1	400(pass):1	555(computer):1	600(board):1	1101(print):2	1210(invite):1	
+
+<Author>TravelLab
+<Content>Good value for the money Just returned from a 5 night stay, Pluses- Room was nice sized, bed comfortable, floor to ceiling window with canal view (not the greatest cabal, but still a canal). Breakfast (not incl.) while seemingly pricey (16 euros) was decent quality, eggs the way you like, good choices decent start of a day. You'll only need a light lunch, then a good dinner.Staff was very helpful. If you're not enamored with European duvet's, ask for an extra bottom sheet (they don't use fitted sheets), and use the blanket provided. Temperature control was good, we were able to leave the window open all day, then turn the air on at night to cool the room down for sleeping. Cons: Housekeeping, while at a high standard for cleanliness, wasn't necessarily at a 4-star level. We were only given one-set of towels repeatedly, and would find the sheet and blanket replaced with the duvet every other day. Annoying, but quickly corrected. Some front desk staff are more helpful then others; they have maps, some give them, and advice freely, others it's like pulling teeth. Don't be surprised if they're recommendations aren't what you want, the secret be as specific as possible, e.g., instead of a place nearby to eat, ask for a nice restaurant, serving 'traditional鈥?Dutch food with minimal smoking (if preferred), that's quiet. Otherwise you're likely to get a really smoky dive that probably has good food, but leaves a lot to be desired. Bottom line. Reasonable price, excellent location, and quiet (props to the previous mention of the curtains, they are thick). With a tram stop within a 10 minute walk, as well as the major art museums 10 minutes away, don't worry about being in the town center, this is close enough. Tips: Friday night鈥檚 both the Rijksmuseum and the Van Gogh Museum are open until 22:00. If you plan on going to both, as well as a few others, think about the year long museum pass (30 euros), it's the best deal. The bigger souvenir shops sell tram tickets. A 15 trip ticket goes for 7.00 Euro, you can hop on by the Van Gogh, and get to the central station in under 5 minutes. I'd recommend walking as much as possible, as you see more, but you're feet will appreciate a fall-back plan.  
+<Date>May 30, 2006
+<Rating>5	4	5	-1	4	-1	4	-1	
+<Aspects>
+12	128(extra):1	153(provide):1	188(line):1	471(quickly):1	479(sheet):2	582(european):1	668(fit):1	695(annoy):1	850(bottom):2	1263(correct):1	1369(blanket):1	2439(duvet):1	
+19	1(location):1	8(day):1	19(price):1	21(excellent):1	58(quiet):1	107(choice):1	165(start):1	187(quality):1	244(mention):1	256(euro):1	257(decent):2	273(reasonable):1	373(previous):1	412(egg):1	546(pricey):1	743(curtain):1	1652(thick):1	3501(seemingly):1	4531(prop):1	
+25	2(night):2	4(nice):1	8(day):1	11(bed):1	17(view):1	24(floor):1	25(comfortable):1	39(return):1	43(leave):1	80(money):1	81(value):1	83(size):1	104(sleep):1	117(dinner):1	119(window):2	157(light):1	164(air):1	171(able):1	203(plus):1	252(lunch):1	278(cool):1	528(ceiling):1	638(canal):2	865(control):1	944(temperature):1	
+32	2(night):1	7(walk):2	15(recommend):1	28(close):1	29(minute):3	33(trip):1	49(shop):1	82(station):1	101(center):1	122(stop):1	140(deal):1	168(central):1	194(tip):1	221(plan):2	239(town):1	256(euro):2	315(major):1	400(pass):1	402(foot):1	500(appreciate):1	507(museum):3	570(tram):2	606(sell):1	621(ticket):2	789(art):1	831(worry):1	923(friday):1	1151(hop):1	1223(van):2	2727(gogh):2	3385(souvenir):1	3889(rijksmuseum):1	
+7	130(standard):1	306(level):1	367(housekeeping):1	840(Con):1	854(cleanliness):1	2254(4-star):1	2817(necessarily):1	
+9	0(staff):2	14(helpful):2	31(front):1	36(desk):1	575(advice):1	724(map):1	858(pull):1	1737(tooth):1	3633(freely):1	
+33	4(nice):1	6(breakfast):1	8(day):1	10(restaurant):1	16(food):2	38(lot):1	47(eat):1	58(quiet):1	125(towel):1	174(serve):1	178(probably):1	199(surprise):1	232(nearby):1	353(instead):1	468(smoke):1	479(sheet):1	508(otherwise):1	536(prefer):1	577(recommendation):1	912(replace):1	1127(secret):1	1219(desire):1	1241(traditional):1	1369(blanket):1	1593(leaf):1	1615(minimal):1	1627(dive):1	1848(specific):1	2066(dutch):1	2439(duvet):1	3029(repeatedly):1	3537(incl):1	3782(smoky):1	
+0	
+
+<Author>Colingus
+<Content>Marvellous Hotel Stayed at this excellent hotel for a short city break. Room was large, clean and comfortable with a fantastic view from the very large window (sixth floor). Staff were friendly and most helpful and the breakfast was truly great - kept us going for most of the day. Although the location was quiet, it was within easy walking distance of museums, Leidesplein, trams and canal bus stop. Would definitely stay ther again.  
+<Date>May 8, 2006
+<Rating>5	4	5	-1	5	-1	5	-1	
+<Aspects>
+7	21(excellent):1	41(city):1	59(definitely):1	144(short):1	228(break):1	2187(marvelous):1	3946(ther):1	
+0	
+7	3(clean):1	17(view):1	24(floor):1	25(comfortable):1	86(fantastic):1	119(window):1	3264(sixth):1	
+11	1(location):1	7(walk):1	58(quiet):1	93(easy):1	115(distance):1	120(bus):1	122(stop):1	507(museum):1	570(tram):1	638(canal):1	5023(leidesplein):1	
+0	
+6	0(staff):1	6(breakfast):1	8(day):1	12(friendly):1	14(helpful):1	476(truly):1	
+0	
+0	
+
+<Author>pml
+<Content>Quiet but central location Recently stayed with my wife and two boys over the holidays. Hotel is in excellent location. Quiet near the museums, but very central to everything. Hotel staff is very friendly. Breakfast is very good. For English speakers Amsterdam is a great place. Nearly everyone is fluent in English. Recommend the Quinto restaurant near the hotel.  
+<Date>Jan 3, 2005
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+5	152(english):2	361(amsterdam):1	896(nearly):1	2037(fluent):1	2398(speaker):1	
+0	
+9	1(location):1	58(quiet):2	102(near):1	168(central):2	184(wife):1	223(holiday):1	322(recently):1	507(museum):1	881(boy):1	
+2	1(location):1	21(excellent):1	
+0	
+2	0(staff):1	12(friendly):1	
+4	6(breakfast):1	10(restaurant):1	15(recommend):1	102(near):1	
+0	
+
+<Author>volvo99
+<Content>Another nice NH property. This property is convenient to the Rijksmuseum, Leidseplein, tram stops, the Heineken Brewery tour, and the Albert Cuyp Market. It is a rather new (2001) property, and hosts many airline crews. The walls were thick and curtains dark enough to promote a good night sleep. There's a lounge, restaurant, and it is a stop on the conexxion (KLM) airport shuttle bus. There's a PC available for rent in the lobby. The property is functional and elegant, without unecessary flourish. Well recommended.  
+<Date>Dec 12, 2004
+<Rating>5	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+1	15(recommend):1	
+0	
+11	2(night):1	104(sleep):1	183(wall):1	214(property):1	459(dark):1	743(curtain):1	1283(host):1	1336(airline):1	1652(thick):1	1654(crew):1	4302(promote):1	
+16	10(restaurant):1	95(airport):1	120(bus):1	122(stop):2	181(tour):1	186(convenient):1	214(property):1	237(lounge):1	264(market):1	321(shuttle):1	570(tram):1	3311(leidseplein):1	3889(rijksmuseum):1	4685(heineken):1	6001(albert):1	6234(brewery):1	
+0	
+0	
+10	4(nice):1	55(lobby):1	134(available):1	214(property):2	986(elegant):1	1030(rend):1	1348(functional):1	2184(pc):1	3049(nh):1	12000(flourish):1	
+0	
+
+<Author>A TripAdvisor Member
+<Content>nice..recommended stayed 4 nights end august..two couples.Modern clean hotel with great/friendly staff.Nice quiet location with easy access everywhere.Great corner bar at canal across the way.Had prob as to whether breakfast included in price(145 Euro a night) resolved positively and nicely.Storage for clothes poor if long stay but otherwise great with good food and service.Allin all a great base.Try for a deal.I will be back  
+<Date>Sep 14, 2004
+<Rating>4	-1	-1	-1	-1	-1	-1	-1	
+<Aspects>
+7	2(night):1	4(nice):1	15(recommend):1	76(try):1	99(couple):1	140(deal):1	284(base):1	
+9	2(night):1	6(breakfast):1	19(price):1	71(include):1	256(euro):1	404(nicely):1	1715(resolve):1	4876(positively):1	5744(prob):1	
+5	1(location):1	4(nice):1	58(quiet):1	93(easy):1	159(access):1	
+0	
+3	0(staff):1	3(clean):1	151(modern):1	
+0	
+9	9(service):1	16(food):1	27(bar):1	200(corner):1	331(poor):1	508(otherwise):1	638(canal):1	709(clothe):1	1311(storage):1	
+0	
+
+<Author>Queco
+<Content>Bien en General       Habitaci贸n  
+<Date>Aug 3, 2007
+<Rating>4	3	3	4	3	1	-1	-1	
+<Aspects>
+3	2065(en):1	4727(bien):1	6135(habitaci):1	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
