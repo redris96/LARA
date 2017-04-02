@@ -14,6 +14,7 @@ def load_file(file):
 		l = line.strip().split('>')
 		if l[0] == '<Content':
 			reviews.append(l[1])
+	f.close()
 	return reviews
 # print len(reviews), reviews[1]
 
@@ -52,4 +53,6 @@ def create_vocab(sent):
 	for k,v in freq.items():
 		if v > 5:
 			vocab.append(k)
-	return vocab
+	#Assign a number corresponding to each word. Makes counting easier.
+	vocab_dict = dict(zip(vocab, range(len(vocab))))
+	return vocab, vocab_dict
