@@ -1,11 +1,13 @@
+from preprocess import *
+
 #goal: map sentences to corresponding aspect.
 
 #INPUT
-
 #review, this algo needs all the review. Please process dataset.
+file="Data/Texts/hotel_72572_parsed.txt"
+reviews = load_file(file)
 
 #Aspect Keywords
-
 v = "value, price, quality, worth"
 r = "room, suite, view, bed"
 l = "location, traffic, minute, restaurant"
@@ -22,3 +24,5 @@ p = 5
 I = 10
 
 #Create Vocabulary
+sent = parse_to_sentence(reviews)
+vocab = create_vocab(sent)
