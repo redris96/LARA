@@ -26,7 +26,8 @@ def parse_to_sentence(reviews):
 			#words to lower case
 			s = s.lower()
 			#remove punctuations and stopwords
-			s = s.translate(None, string.punctuation)
+			replace_punctuation = string.maketrans(string.punctuation, ' '*len(string.punctuation))
+			s = s.translate(replace_punctuation)
 			stop_words	 = list(stopwords.words('english'))
 			additional_stopwords = ["'s","...","'ve","``","''","'m",'--',"'ll","'d"]
 			# additional_stopwords = []

@@ -1,4 +1,5 @@
 from preprocess import *
+import numpy as np
 
 #goal: map sentences to corresponding aspect.
 
@@ -14,7 +15,7 @@ def get_aspect_terms(file, vocab_dict):
 		aspect = []
 		for w in stem:
 			if vocab_dict.has_key(w):
-				aspect.append(vocab_dict[w])
+				aspect.append(w)
 			else:
 				w_notfound.append(w)
 		aspect_terms.append(aspect)
@@ -46,4 +47,21 @@ aspect_terms = get_aspect_terms(aspect_file, vocab_dict)
 # print aspect_terms
 
 #ALGORITHM
+labels = []
 for i in range(I):
+	for s in sent:
+		count = np.zeros(len(aspect_terms))
+		i = 0
+		for a in aspect_terms:
+			for w in s:
+				if w in a:
+					count[i] += 1
+			i = i + 1
+		if max(count) > 0:
+			la = np.where(np.max(count) == count)[0].tolist()
+			labels.append(la)
+		else:
+			labels.append([])
+
+# print sent[5:9], labels[5:9]
+# print zip(sent, labels)[:4]
