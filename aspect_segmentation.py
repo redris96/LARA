@@ -48,20 +48,60 @@ aspect_terms = get_aspect_terms(aspect_file, vocab_dict)
 
 #ALGORITHM
 labels = []
+k = len(aspect_terms)
+v = len(vocab)
+aspect_words = np.zeros((k,v))
+aspect_sent = np.zeros(k)
+num_words = np.zeros(v)
+
+def chi_sq(a,b,c,d):
+	c1 = a
+	c2 = b - a
+	c3 = c - a
+	c4 = d - b - c + a
+	nc =  d
+	return nc * (c1*c4 - c2*c3) * (c1*c4 - c2*c3)/((c1+c3) * (c2+c4) * (c1+c2) * (c3+c4))
+
+
+def chi_sq_mat():
+	global aspect_words, aspect_sent, num_words
+	asp_rank = np.zeros(aspect_words.shape)
+	for i in range(len(aspect_terms)):
+		for j in range(len(vocab)):
+			asp_rank[i][j] = chi_sq(aspect_words[i][j], num_words[j], aspect_sent[i], len(sent))
+	return asp_rank
+
+
 for i in range(I):
 	for s in sent:
 		count = np.zeros(len(aspect_terms))
 		i = 0
 		for a in aspect_terms:
 			for w in s:
-				if w in a:
-					count[i] += 1
+				if vocab_dict.has_key(w):
+					num_words[vocab_dict[w]] += 1
+					if w in a:
+						count[i] += 1
 			i = i + 1
 		if max(count) > 0:
 			la = np.where(np.max(count) == count)[0].tolist()
 			labels.append(la)
+			for i in la:
+				aspect_sent[i] += 1
+				for w in s:
+					if vocab_dict.has_key(w):
+						aspect_words[i][vocab_dict[w]] += 1
 		else:
 			labels.append([])
+	# aspect_w_rank = chi_sq_mat()
+	# for na in aspect_w_rank:
+	# 	x = np.argsort(na)[::-1][:p]
+	# 	for k,v in vocab_dict.items():
+	# 		if vocab_dict[k] in x:
+	# 			print k
+	# 	print 
+	# sys.exit()
+
 
 # print sent[5:9], labels[5:9]
-# print zip(sent, labels)[:4]
+print zip(sent, labels)[12:14]
