@@ -1,5 +1,6 @@
 from preprocess import *
 import numpy as np
+from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
 
 #goal: map sentences to corresponding aspect.
 
@@ -27,6 +28,9 @@ def get_aspect_terms(file, vocab_dict):
 # def chi_sq(w, A, sent):
 
 
+#Sentiment analysis
+sid = SIA()
+
 #INPUT
 #review, this algo needs all the review. Please process dataset.
 file="Data/Texts/hotel_72572_parsed.txt"
@@ -35,19 +39,22 @@ reviews = load_file(file)
 #selection threshold
 p = 5
 #Iterations 
-I = 10
+# I = 10
+I = 1
 
 #Create Vocabulary
-sent = parse_to_sentence(reviews)
-vocab, vocab_dict = create_vocab(sent)
+review_sent, review_actual, only_sent = parse_to_sentence(reviews)
+vocab, vocab_dict = create_vocab(only_sent)
 
 #Aspect Keywords
-aspect_file = "init_aspect_keywords.txt"
+aspect_file = "aspect_keywords.csv"
 aspect_terms = get_aspect_terms(aspect_file, vocab_dict)
+
+label_text = ['Value', 'Rooms', 'Location', 'Cleanliness', 'Check in/Front Desk', 'Service', 'Business Service']
 # print aspect_terms
 
 #ALGORITHM
-labels = []
+review_labels = []
 k = len(aspect_terms)
 v = len(vocab)
 aspect_words = np.zeros((k,v))
@@ -73,35 +80,54 @@ def chi_sq_mat():
 
 
 for i in range(I):
-	for s in sent:
-		count = np.zeros(len(aspect_terms))
-		i = 0
-		for a in aspect_terms:
-			for w in s:
-				if vocab_dict.has_key(w):
-					num_words[vocab_dict[w]] += 1
-					if w in a:
-						count[i] += 1
-			i = i + 1
-		if max(count) > 0:
-			la = np.where(np.max(count) == count)[0].tolist()
-			labels.append(la)
-			for i in la:
-				aspect_sent[i] += 1
+	for r in review_sent:
+		labels = []
+		for s in r:
+			count = np.zeros(len(aspect_terms))
+			i = 0
+			for a in aspect_terms:
 				for w in s:
 					if vocab_dict.has_key(w):
-						aspect_words[i][vocab_dict[w]] += 1
-		else:
-			labels.append([])
-	# aspect_w_rank = chi_sq_mat()
-	# for na in aspect_w_rank:
-	# 	x = np.argsort(na)[::-1][:p]
-	# 	for k,v in vocab_dict.items():
-	# 		if vocab_dict[k] in x:
-	# 			print k
-	# 	print 
-	# sys.exit()
+						num_words[vocab_dict[w]] += 1
+						if w in a:
+							count[i] += 1
+				i = i + 1
+			if max(count) > 0:
+				la = np.where(np.max(count) == count)[0].tolist()
+				labels.append(la)
+				for i in la:
+					aspect_sent[i] += 1
+					for w in s:
+						if vocab_dict.has_key(w):
+							aspect_words[i][vocab_dict[w]] += 1
+			else:
+				labels.append([])
+		review_labels.append(labels)
+		# aspect_w_rank = chi_sq_mat()
+		# new_labels = []
+		# for na in aspect_w_rank:
+		# 	x = np.argsort(na)[::-1][:p]
+		# 	new_labels.append(x)
+			# for k,v in vocab_dict.items():
+			# 	if vocab_dict[k] in x:
+			# 		print k
+			# print 
+		# sys.exit()
 
+
+ratings_sentiment = []
+for r in review_actual:
+	sentiment = []
+	#aspect ratings based on sentiment
+	for s in r:
+		ss = sid.polarity_scores(s)
+		sentiment.append(ss['compound'])
+	ratings_sentiment.append(sentiment)
+
+n = 3
+print review_actual[n], '\n', review_labels[n]
+print ratings_sentiment[n]
 
 # print sent[5:9], labels[5:9]
-print zip(sent, labels)[12:14]
+# print zip(actual_sent, labels)[:10]
+# print zip(actual_sent, sentiment)[:10]

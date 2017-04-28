@@ -19,9 +19,13 @@ def load_file(file):
 # print len(reviews), reviews[1]
 
 def parse_to_sentence(reviews):
-	sent = []
+	review_processed = []
+	actual = []
+	only_sent = []
 	for r in reviews:
 		sentences = nltk.sent_tokenize(r)
+		actual.append(sentences)
+		sent = []
 		for s in sentences:
 			#words to lower case
 			s = s.lower()
@@ -40,7 +44,9 @@ def parse_to_sentence(reviews):
 			stemmed = [stemmer.stem(w) for w in s]
 			if len(stemmed)>0:
 				sent.append(stemmed)
-	return sent
+		review_processed.append(sent)
+		only_sent.extend(sent)
+	return review_processed, actual, only_sent
 
 # sent = parse_to_sentence(reviews)
 # print len(sent), sent[2]
