@@ -7,7 +7,7 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
 def get_aspect_terms(file, vocab_dict):
 	aspect_terms = []
 	w_notfound = []
-	f = open(aspect_file, "r")
+	f = open(file, "r")
 	for line in f:
 		s = line.strip().split(",")
 		stem = [stemmer.stem(w.strip().lower()) for w in s]
@@ -143,7 +143,7 @@ for i,r in enumerate(review_labels):
 			rating[k] = int(round((rating[k]+1)*5/2))
 	aspect_ratings.append(rating)
 
-n = 
+n = 0
 print review_actual[n], '\n', review_labels[n]
 print ratings_sentiment[n], '\n', aspect_ratings[n]
 

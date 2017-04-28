@@ -1,0 +1,23 @@
+{{extend 'layout.html'}}
+<div class="container">
+  <h2>Review</h2>
+  <form action='{{=URL("output")}}' method="post">
+    <div class="form-group">
+      <label for="review">Comment:</label>
+      <textarea class="form-control" rows="5" name="review"></textarea>
+    </div>
+    <div class="form-group">
+	  <label for="rating">Rating:</label>
+	  <select class="form-control" name="rating">
+	    <option>1</option>
+	    <option>2</option>
+	    <option>3</option>
+	    <option>4</option>
+	    <option>5</option>
+	  </select>
+	</div>
+	<button type="submit" id="sub" class="btn btn-default">Submit</button>
+  </form>
+</div>
+<br>
+<br>

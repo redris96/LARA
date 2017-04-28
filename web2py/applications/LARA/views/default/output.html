@@ -1,0 +1,44 @@
+{{extend 'layout.html'}}
+<!-- {{=BEAUTIFY(request.vars)}} -->
+
+<style>
+body {
+	font-size:3em;
+}
+</style>
+<br>
+<br>
+<div class="col-sm-8 col-sm-offset-2">
+<div>
+{{for i,s in enumerate(a):}}
+{{if c[i] != []:}}
+<span style="background-color:{{=color[c[i][0]]}}">
+{{pass}}
+{{=s}}
+{{if c[i] != []:}}
+</span>
+{{pass}}
+{{pass}}
+</div>
+<br>
+<!-- <br> -->
+<div>
+{{for i,label in enumerate(lb):}}
+<div class="row">
+<div class="col-sm-4">
+<div style="margin:auto;width:10%;height:0;position:relative; padding-bottom:10%;background-color:{{=color[i]}}"></div>
+</div>
+<div class="col-sm-4">
+{{=label}}
+</div>
+<div class="col-sm-4">
+{{=int(b[i])}}
+</div>
+<br>
+</div>
+{{pass}}
+</div>
+<!-- {{=b}}
+{{=c}} -->
+<br>
+<br>
