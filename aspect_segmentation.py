@@ -124,9 +124,28 @@ for r in review_actual:
 		sentiment.append(ss['compound'])
 	ratings_sentiment.append(sentiment)
 
-n = 3
+#Aspect Ratings Per Review
+aspect_ratings = []
+for i,r in enumerate(review_labels):
+	rating = np.zeros(7)
+	count = np.zeros(7)
+	rs = ratings_sentiment[i] 
+	for j,l in enumerate(r):
+		for k in range(7):
+			if k in l:
+				rating[k] += rs[j]
+		for k in range(7):
+			if count[k] != 0:
+				rating[k] /= count[k]
+	#Map from -[-1,1] to [1,5]
+	for k in range(7):
+		if rating[k] != 0:
+			rating[k] = int(round((rating[k]+1)*5/2))
+	aspect_ratings.append(rating)
+
+n = 
 print review_actual[n], '\n', review_labels[n]
-print ratings_sentiment[n]
+print ratings_sentiment[n], '\n', aspect_ratings[n]
 
 # print sent[5:9], labels[5:9]
 # print zip(actual_sent, labels)[:10]
