@@ -43,5 +43,10 @@ with tf.Session() as sess:
 				x,_ = sess.run([alpha_d[j],train_op[j]],feed_dict={sigma_matr:act_sigma_matr,
 					mu:act_mu,delta:act_delta})
 			act_alpha[j]=x
+		
+		act_mu = (1/D)*np.sum(act_alpha,0)
+		act_mu = np.reshape(act_mu,(k,1))
+		temp_matr = np.reshape(np.transpose(act_alpha),(k,D))
+		act_sigma_matr = np.cov(temp_matr)
 
 	print(act_alpha)
