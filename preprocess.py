@@ -18,12 +18,10 @@ def load_file(file):
 			s = str(l[1])
 			reviews.append(s)
 		elif l[0] == '<Rating':
-			r = l[1].split(' ')
-			print l[1], r
-			sys.exit()
-			reviews.append(int(r[1]))
+			r = l[1].split('\t')
+			ratings.append(int(r[1]))
 	f.close()
-	return reviews, ratings
+	return reviews , ratings
 # print len(reviews), reviews[1]
 
 def parse_to_sentence(reviews):
