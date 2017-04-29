@@ -143,9 +143,12 @@ for i,r in enumerate(review_labels):
 			rating[k] = int(round((rating[k]+1)*5/2))
 	aspect_ratings.append(rating)
 
-n = 0
-print review_actual[n], '\n', review_labels[n]
-print ratings_sentiment[n], '\n', aspect_ratings[n]
+# n = 0
+# print review_actual[n], '\n', review_labels[n]
+# print ratings_sentiment[n], '\n', aspect_ratings[n]
+print len(all_ratings), len(ratings), all_ratings[0]
+sys.exit()
+# return aspect_ratings
 
 # print sent[5:9], labels[5:9]
 # print zip(actual_sent, labels)[:10]

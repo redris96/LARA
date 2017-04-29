@@ -4,18 +4,26 @@ from nltk import FreqDist
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem.porter import *
+import re
 stemmer = PorterStemmer()
 
 #load all review texts
 def load_file(file):
 	reviews = []
+	ratings = []
 	f = open(file,'r')
 	for line in f:
 		l = line.strip().split('>')
 		if l[0] == '<Content':
-			reviews.append(l[1])
+			s = str(l[1])
+			reviews.append(s)
+		elif l[0] == '<Rating':
+			r = l[1].split(' ')
+			print l[1], r
+			sys.exit()
+			reviews.append(int(r[1]))
 	f.close()
-	return reviews
+	return reviews, ratings
 # print len(reviews), reviews[1]
 
 def parse_to_sentence(reviews):
