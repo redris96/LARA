@@ -1,8 +1,9 @@
 import tensorflow as tf
 import numpy as np
+from aspect_segmentation import *
 
-D = 2
-k = 4
+D = len(s_d)
+k = len(s_d[0])
 
 alpha_d = [0 for i in range(D)]
 multiplier = [0 for i in range(D)]
@@ -20,7 +21,7 @@ mu = tf.placeholder(shape=[k,1],dtype=tf.float32)
 for i in range(D):
 	alpha_d[i] = tf.Variable(tf.random_uniform([k,1],0,1))
 	x[i] = tf.mul(tf.pow(tf.mul(2.,tf.square(delta)),-1),
-		tf.sub(ratings[i],tf.square(tf.reduce_sum(tf.matmul(tf.transpose(alpha_d[i]),alpha_d[i])))))
+		tf.sub(ratings[i],tf.square(tf.reduce_sum(tf.matmul(tf.transpose(alpha_d[i]),s_d[i])))))
 	y[i] = 0.5*tf.reduce_sum(tf.matmul(tf.transpose(tf.sub(alpha_d[i],mu)),
 		tf.matmul(tf.matrix_inverse(sigma_matr),tf.sub(alpha_d[i],mu))))
 
