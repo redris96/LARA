@@ -2,8 +2,8 @@ import tensorflow as tf
 import numpy as np
 from aspect_segmentation import *
 
-D = len(s_d)
-k = len(s_d[0])
+D = 4
+k = 5
 
 alpha_d = [0 for i in range(D)]
 multiplier = [0 for i in range(D)]
