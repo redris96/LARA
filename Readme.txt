@@ -20,6 +20,7 @@ It requires the nltk dataset and additional packages for running. Use nltk.downl
 It requires tensorflow for python3.
 
 Running Code
-The code can be run manually by using aspect_segmentation or regression. But, it has all been incorporated into a website, included is a web2py folder. cd into it and run ./web2py and go to localhost:8000/LARA and it should give you a form to write your own review. On submitting it, it would give the results. 
+The code can be run manually by using aspect_segmentation But, it has all been incorporated into a website, included is a web2py folder. cd into it and run ./web2py and go to localhost:8000/LARA and it should give you a form to write your own review. On submitting it, it would give the results. 
 Note: Make sure all dependacies are satisfied.
 
+NOTE: The original paper used regression to calculate weight for each aspect. But we couldn't make it work, so we used the sentiment analysis module from nltk to rate individual aspects. The Regression.py does not work, we just left it there for referece. Use aspect_segmentation.py to run the actual code. If you can make the regression work and contribute to the project it would be great.
